@@ -29,10 +29,16 @@ by the import pipeline.
 every =.org= file produced by the import. It is tracked in git as a
 provenance record.
 
+* Perseus Latin Literature
+
+- Submodule :: =canonical-latinLit/= → [[https://github.com/PerseusDL/canonical-latinLit]]
+- Converter :: =scripts/convert_perseus_xml_to_org.py= (shared with Greek)
+- Import script :: =scripts/import_latinlit.sh=
+- Manifest :: =latinlit-manifest.txt= (lists all auto-generated files)
+
 * TODO Future sources
 
-| Repository             | Format  | Content                                   |
-|------------------------+---------+-------------------------------------------|
-| canonical-latinLit     | TEI XML | Latin literature (same format as Perseus) |
-| First1KGreek           | TEI XML | Patristic and late antique Greek texts    |
-| Open Apostolic Fathers | TEI XML | Early Christian writings                  |
+| Repository             | Format  | Content                                |
+|------------------------+---------+----------------------------------------|
+| First1KGreek           | TEI XML | Patristic and late antique Greek texts |
+| Open Apostolic Fathers | TEI XML | Early Christian writings               |
