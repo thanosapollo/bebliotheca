@@ -6,6 +6,8 @@
 public/catalog.json
 public/structure.json
 
+publish.sh
+
 __pycache__
 
 # Auto-generated Perseus files (reproduced by make import-perseus)
