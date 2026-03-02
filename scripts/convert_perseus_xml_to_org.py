@@ -2,37 +2,25 @@
 """
 Convert Perseus Digital Library TEI XML files to Org mode format.
 
-This script was used to import the canonical-greekLit corpus from the Perseus
-Digital Library (https://github.com/PerseusDL/canonical-greekLit) into
-Bebliotheca. It produced 816 Greek and 734 English .org files (1550 total)
-that now live in content/gr/ and content/en/.
+This script imports both canonical-greekLit and canonical-latinLit corpora
+from the Perseus Digital Library into Bebliotheca. It converts TEI XML files
+to Org-mode format with language-appropriate heading labels.
 
-The source XML data lives in a git submodule at sources/canonical-greekLit,
-pinned to the commit we last imported from. To set up and re-run:
+Source XML data lives in git submodules at sources/canonical-greekLit and
+sources/canonical-latinLit. Use the import scripts to run the full pipeline:
 
-    1. Initialize the submodule (if not already):
-       git submodule update --init sources/canonical-greekLit
+    ./scripts/import_perseus.sh       # Greek literature
+    ./scripts/import_latinlit.sh      # Latin literature
 
-    2. Run from the sources/canonical-greekLit directory:
-       cd sources/canonical-greekLit
-       python3 ../../scripts/convert_perseus_xml_to_org.py
-
-    3. Copy output to content/:
-       cp -r gr/* ../../content/gr/
-       cp -r en/* ../../content/en/
-
-    4. Optionally update to latest Perseus and re-import:
-       cd sources/canonical-greekLit && git pull origin master
-       (then repeat steps 2-3, and stage the new submodule commit)
-
-The script reads TEI XML files organized under data/tlgNNNN/tlgNNN/*.xml,
-detects language from TEI headers, and outputs .org files into gr/ and en/
-subdirectories (relative to CWD). Filenames use English titles with double-dash
-author separator: title--author.org
+The script reads TEI XML files organized under data/*/*, detects language
+from TEI headers (Greek, Latin, or English), and outputs .org files into
+gr/, la/, and en/ subdirectories (relative to CWD). Filenames use English
+titles with double-dash author separator: title--author.org
 
 Handles poetry, prose, and drama. Structural divisions (book, chapter, section)
 become Org headings with CUSTOM_IDs for cross-language linking. Greek files get
-Greek heading labels (Βιβλίον, Κεφάλαιον, Τμῆμα); English files get English.
+Greek labels (Βιβλίον, Κεφάλαιον, Τμῆμα), Latin files get Latin labels
+(Liber, Caput, Sectio), and English files get English labels.
 """
 
 import os
@@ -68,6 +56,11 @@ class TEIToOrgConverter:
         'section': 'Τμῆμα', 'subsection': 'Ὑποτμῆμα',
         'subchapter': 'Ὑποκεφάλαιον',
     }
+    HEADING_LABELS_LA = {
+        'book': 'Liber', 'Book': 'Liber', 'chapter': 'Caput',
+        'section': 'Sectio', 'subsection': 'Subsectio',
+        'subchapter': 'Subcaput',
+    }
 
     # Preamble n-values: headings for readability but no CUSTOM_ID
     # These are intro/preface sections that often exist in only one language
@@ -95,11 +88,12 @@ class TEIToOrgConverter:
 
     def get_english_title_from_pair(self):
         """Try to get English title from corresponding English file."""
-        if 'grc' not in self.xml_file and 'gre' not in self.xml_file:
+        if 'grc' in self.xml_file or 'gre' in self.xml_file:
+            eng_file = self.xml_file.replace('-grc', '-eng')
+        elif 'lat' in self.xml_file:
+            eng_file = self.xml_file.replace('-lat', '-eng')
+        else:
             return None
-
-        # Try to find corresponding English file
-        eng_file = self.xml_file.replace('-grc', '-eng')
 
         # Try different English file variants
         for variant in [eng_file,
@@ -123,25 +117,35 @@ class TEIToOrgConverter:
         """Extract metadata from TEI header."""
         metadata = {}
 
-        # Detect language first (needed for title selection)
-        lang_elem = self.root.find('.//tei:profileDesc/tei:langUsage/tei:language', TEI_NS)
-        if lang_elem is not None:
-            lang_ident = lang_elem.get('ident', 'eng')
-            # Map language codes to directory names
-            if lang_ident in ['grc', 'gre', 'gr', 'greek']:
-                metadata['language'] = 'gr'
-            elif lang_ident in ['eng', 'en', 'english']:
-                metadata['language'] = 'en'
-            else:
-                metadata['language'] = 'en'  # default to English
+        # Detect language — prefer filename over TEI metadata
+        filename = os.path.basename(self.xml_file)
+        if any(lang in filename for lang in ['grc', 'gre']):
+            metadata['language'] = 'gr'
+        elif 'lat' in filename:
+            metadata['language'] = 'la'
+        elif 'eng' in filename:
+            metadata['language'] = 'en'
         else:
-            # Try to detect from xml:lang attribute
-            text_elem = self.root.find('.//tei:text', TEI_NS)
-            if text_elem is not None:
-                lang = text_elem.get('{http://www.w3.org/XML/1998/namespace}lang', 'eng')
-                metadata['language'] = 'gr' if lang in ['grc', 'gre'] else 'en'
+            # Fallback to TEI header metadata
+            lang_elem = self.root.find('.//tei:profileDesc/tei:langUsage/tei:language', TEI_NS)
+            if lang_elem is not None:
+                lang_ident = lang_elem.get('ident', 'eng')
+                if lang_ident in ['grc', 'gre', 'gr', 'greek']:
+                    metadata['language'] = 'gr'
+                elif lang_ident in ['lat', 'la', 'latin']:
+                    metadata['language'] = 'la'
+                elif lang_ident in ['eng', 'en', 'english']:
+                    metadata['language'] = 'en'
+                else:
+                    metadata['language'] = 'en'
             else:
-                metadata['language'] = 'en'
+                # Last resort: xml:lang attribute
+                text_elem = self.root.find('.//tei:text', TEI_NS)
+                if text_elem is not None:
+                    lang = text_elem.get('{http://www.w3.org/XML/1998/namespace}lang', 'eng')
+                    metadata['language'] = 'gr' if lang in ['grc', 'gre'] else 'la' if lang in ['lat'] else 'en'
+                else:
+                    metadata['language'] = 'en'
 
         # Get both language versions of title
         titles = self.root.findall('.//tei:titleStmt/tei:title', TEI_NS)
@@ -154,6 +158,13 @@ class TEIToOrgConverter:
             for title_elem in titles:
                 lang = title_elem.get('{http://www.w3.org/XML/1998/namespace}lang', '')
                 if lang in ['grc', 'gre', 'gr'] and title_elem.text:
+                    title_text = title_elem.text.strip()
+                    break
+        elif metadata['language'] == 'la':
+            # For Latin files, prefer Latin title
+            for title_elem in titles:
+                lang = title_elem.get('{http://www.w3.org/XML/1998/namespace}lang', '')
+                if lang in ['lat', 'la'] and title_elem.text:
                     title_text = title_elem.text.strip()
                     break
         else:
@@ -276,7 +287,9 @@ class TEIToOrgConverter:
                     # Preamble: heading for readability, no CUSTOM_ID,
                     # don't push to path (children inherit grandparent context)
                     stars = self._heading_stars(extra=1)
-                    labels = self.HEADING_LABELS_GR if self.language == 'gr' else self.HEADING_LABELS_EN
+                    labels = (self.HEADING_LABELS_GR if self.language == 'gr'
+                              else self.HEADING_LABELS_LA if self.language == 'la'
+                              else self.HEADING_LABELS_EN)
                     label = labels.get(subtype, subtype.title())
                     result.append(f"\n{stars} {label} {n}\n")
                     old_preamble = self.in_preamble
@@ -290,7 +303,9 @@ class TEIToOrgConverter:
                     self.current_card = None
                     custom_id = self.build_custom_id()
                     stars = self._heading_stars()
-                    labels = self.HEADING_LABELS_GR if self.language == 'gr' else self.HEADING_LABELS_EN
+                    labels = (self.HEADING_LABELS_GR if self.language == 'gr'
+                              else self.HEADING_LABELS_LA if self.language == 'la'
+                              else self.HEADING_LABELS_EN)
                     label = labels.get(subtype, subtype.title())
                     result.append(f"\n{stars} {label} {n}\n:PROPERTIES:\n:CUSTOM_ID: {custom_id}\n:END:\n")
 
@@ -543,14 +558,17 @@ class TEIToOrgConverter:
         author = metadata.get('author', 'Unknown')
         lang = metadata.get('language', 'en')
 
-        # Override language if content script disagrees with XML metadata
+        # Override language if content script disagrees with XML metadata.
+        # Content detection distinguishes Greek script from Latin script but
+        # cannot distinguish Latin language from English (both use Latin script).
+        # Only override when Greek script is involved in the mismatch.
         detected = self.detect_content_language()
-        if detected and detected != lang:
+        if detected and detected != lang and (detected == 'gr' or lang == 'gr'):
             lang = detected
             metadata['language'] = lang
 
         self.language = lang
-        lang_code = 'el' if lang == 'gr' else 'en'
+        lang_code = 'el' if lang == 'gr' else lang  # 'la' or 'en' pass through
 
         # Generate filename for EXPORT_FILE_NAME (always use English title)
         english_title = metadata.get('english_title') or title
@@ -565,8 +583,8 @@ class TEIToOrgConverter:
         self.output.append("#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil\n")
         self.output.append("#+startup: overview\n")
         self.output.append(f"#+EXPORT_FILE_NAME: ../../public/{lang}/{export_filename}\n")
-        if lang_code == 'el':
-            self.output.append("#+LANGUAGE: el\n")
+        if lang_code != 'en':
+            self.output.append(f"#+LANGUAGE: {lang_code}\n")
         self.output.append("\n")
 
         # Add translator/editor info in quote block if available
@@ -648,9 +666,10 @@ class TEIToOrgConverter:
 def process_directory(data_dir='data', pattern='*.xml'):
     """Process XML files grouped by work to ensure consistent naming.
 
-    Groups TEI files by TLG work number (parent directory), converts Greek
-    originals first, then English translations using the Greek file's stem.
-    Works without a Greek original are skipped entirely.
+    Groups TEI files by work directory (parent dir), detects the original
+    language (Greek or Latin), converts originals first, then English
+    translations using the original's filename stem. Works without an
+    original-language file are skipped.
     """
     data_path = Path(data_dir)
 
@@ -662,18 +681,20 @@ def process_directory(data_dir='data', pattern='*.xml'):
     xml_files = list(data_path.rglob(pattern))
     xml_files = [f for f in xml_files if f.name != '__cts__.xml']
     xml_files = [f for f in xml_files
-                 if any(lang in f.name for lang in ['grc', 'gre', 'eng'])]
+                 if any(lang in f.name for lang in ['grc', 'gre', 'lat', 'eng'])]
 
     print(f"Found {len(xml_files)} XML files to convert")
 
-    # Group by work directory (e.g., data/tlg0062/tlg001)
+    # Group by work directory
     works = {}
     for xml_file in xml_files:
         work_dir = str(xml_file.parent)
         if work_dir not in works:
-            works[work_dir] = {'grc': [], 'eng': []}
+            works[work_dir] = {'grc': [], 'lat': [], 'eng': []}
         if any(lang in xml_file.name for lang in ['grc', 'gre']):
             works[work_dir]['grc'].append(xml_file)
+        elif 'lat' in xml_file.name:
+            works[work_dir]['lat'].append(xml_file)
         elif 'eng' in xml_file.name:
             works[work_dir]['eng'].append(xml_file)
 
@@ -683,31 +704,38 @@ def process_directory(data_dir='data', pattern='*.xml'):
 
     for work_dir in sorted(works):
         grc_files = sorted(works[work_dir]['grc'])
+        lat_files = sorted(works[work_dir]['lat'])
         eng_files = sorted(works[work_dir]['eng'])
 
-        if not grc_files:
-            # No Greek original — skip English-only works
+        # Determine original: Greek takes priority, then Latin
+        if grc_files:
+            orig_files = grc_files
+            orig_expected_lang = 'gr'
+        elif lat_files:
+            orig_files = lat_files
+            orig_expected_lang = 'la'
+        else:
+            # No original — skip English-only works
             for f in eng_files:
                 print(f"Skipping (no original): {f}")
             skipped += len(eng_files)
             continue
 
-        # Convert Greek file (prefer highest version number — last after sort)
-        grc_file = grc_files[-1]
+        # Convert original file (prefer highest version number — last after sort)
+        orig_file = orig_files[-1]
         try:
-            print(f"Converting: {grc_file}")
-            converter = TEIToOrgConverter(str(grc_file))
-            grc_output = converter.save()
+            print(f"Converting: {orig_file}")
+            converter = TEIToOrgConverter(str(orig_file))
+            orig_output = converter.save()
 
-            if converter.language != 'gr':
-                # Content detection says this "Greek" XML is actually English
-                print(f"  Skipping work (content is {converter.language}, not Greek)")
-                os.remove(grc_output)
+            if converter.language != orig_expected_lang:
+                print(f"  Skipping work (content is {converter.language}, not {orig_expected_lang})")
+                os.remove(orig_output)
                 skipped += 1 + len(eng_files)
                 continue
 
-            grc_stem = Path(grc_output).stem
-            print(f"  → {grc_output}")
+            orig_stem = Path(orig_output).stem
+            print(f"  → {orig_output}")
             converted += 1
         except Exception as e:
             print(f"  ERROR: {e}")
@@ -715,7 +743,7 @@ def process_directory(data_dir='data', pattern='*.xml'):
             continue
 
         if eng_files:
-            # Convert best English file (highest version) using Greek's filename
+            # Convert best English file (highest version) using original's filename
             eng_file = eng_files[-1]
             try:
                 print(f"Converting: {eng_file}")
@@ -723,19 +751,18 @@ def process_directory(data_dir='data', pattern='*.xml'):
                 content = converter.convert()
 
                 if converter.language != 'en':
-                    # Content detection says this "English" XML is actually Greek
                     print(f"  Skipping translation (content is {converter.language}, not English)")
                     skipped += 1
                     continue
 
-                # Override #+EXPORT_FILE_NAME: to match Greek file's stem
+                # Override #+EXPORT_FILE_NAME: to match original file's stem
                 content = re.sub(
                     r'#\+EXPORT_FILE_NAME: ../../public/\w+/\S+',
-                    f'#+EXPORT_FILE_NAME: ../../public/en/{grc_stem}',
+                    f'#+EXPORT_FILE_NAME: ../../public/en/{orig_stem}',
                     content
                 )
 
-                output_file = Path('en') / f'{grc_stem}.org'
+                output_file = Path('en') / f'{orig_stem}.org'
                 Path('en').mkdir(exist_ok=True)
                 with open(output_file, 'w', encoding='utf-8') as f:
                     f.write(content)
