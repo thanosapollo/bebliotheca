@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Thanos Apollo">
+    <title>Βιβλιοθήκη</title>
+    <link rel="stylesheet" href="themes/src/index_theme/css/index.css">
+</head>
+<body>
+    <div class="header">
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+            <span class="theme-toggle-icon">☀️</span>
+        </button>
+        <h1 class="title">Βιβλιοθήκη</h1>
+        <div class="subtitle">Library of Constantinople</div>
+    </div>
+
+    <div class="intro">
+        <blockquote class="dev-notice">
+          <a href="https://www.gnu.org/philosophy/"> Free</a> & Open Source Project |
+	  <u><b>Under Development</u></b> |
+	  <a href="https://git.thanosapollo.org/bebliotheca">Upstream</a> |
+	  <a href="https://codeberg.org/bebliotheca/bebliotheca">Codberg Mirror</a>
+        </blockquote>
+    </div>
+
+    <div class="container">
+        <div class="search-container">
+            <input type="text" id="search-box" placeholder="Search by title, author, or #tag..." autocomplete="off">
+        </div>
+
+        <div class="filter-buttons">
+            <button class="filter-btn active" data-filter="all">All Works</button>
+            <button class="filter-btn" data-filter="translated">With Translation</button>
+            <button class="filter-btn" data-filter="untranslated">No Translation</button>
+        </div>
+
+        <div class="stats" id="stats">
+            <span id="stats-text">Loading...</span>
+        </div>
+
+        <div class="loading" id="loading">Loading the archives...</div>
+
+        <ul class="works-list" id="works-container"></ul>
+
+        <div class="footer">
+            Preserving the wisdom of antiquity
+        </div>
+    </div>
+
+    <script src="themes/src/index_theme/js/index.js"></script>
+</body>
+</html>
