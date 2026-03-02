@@ -6,16 +6,20 @@
 public/catalog.json
 public/structure.json
 
+*--*
+
 publish.sh
 
 __pycache__
 
-# Auto-generated Perseus files (reproduced by make import-perseus)
+# Auto-generated Perseus files (reproduced by make import)
 content/gr/*--*.org
 content/en/*--*.org
+content/la/*--*.org
 
 # Keep index files
 !public/index.html
 
-# Keep Perseus manifest (provenance record)
+# Keep manifests (provenance records)
 !sources/perseus-manifest.txt
+!sources/latinlit-manifest.txt
