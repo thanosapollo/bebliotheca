@@ -1,0 +1,16 @@
+# Generated files
+*.html
+*.pdf
+*.txt
+*.tex
+public/catalog.json
+
+# Auto-generated Perseus files (reproduced by make import-perseus)
+content/gr/*--*.org
+content/en/*--*.org
+
+# Keep index files
+!public/index.html
+
+# Keep Perseus manifest (provenance record)
+!sources/perseus-manifest.txt
