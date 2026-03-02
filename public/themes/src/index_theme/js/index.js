@@ -43,6 +43,23 @@
         'la': 'Latin'
     };
 
+    // Autocomplete suggestion data
+    const TAG_SUGGESTIONS = [
+        { label: '#classical', description: 'Pre-Christian Greek & Latin', value: '#classical' },
+        { label: '#imperial', description: 'Roman-era secular literature', value: '#imperial' },
+        { label: '#patristic', description: 'Church Fathers & theology', value: '#patristic' },
+        { label: '#byzantine', description: 'Medieval Roman/Byzantine', value: '#byzantine' },
+        { label: '#scripture', description: 'Biblical texts', value: '#scripture' },
+    ];
+
+    const LANG_SUGGESTIONS = [
+        { label: 'lang:gr', description: 'Ἑλληνικά — Greek texts', value: 'lang:gr' },
+        { label: 'lang:en', description: 'English translations', value: 'lang:en' },
+        { label: 'lang:la', description: 'Latin texts', value: 'lang:la' },
+    ];
+
+    const LANG_ALIASES = { greek: 'gr', english: 'en', latin: 'la', el: 'gr' };
+
     // Get recently viewed works from localStorage
     function getRecentlyViewed() {
         try {
@@ -186,6 +203,13 @@
             // Apply search filter
             if (!searchQuery) return true;
 
+            // Check if searching by language (starts with lang:)
+            if (searchQuery.startsWith('lang:')) {
+                const langQuery = searchQuery.substring(5).trim().toLowerCase();
+                const lang = LANG_ALIASES[langQuery] || langQuery;
+                return work.translations.some(t => t.language === lang);
+            }
+
             // Check if searching for tags (starts with #)
             if (searchQuery.startsWith('#')) {
                 const tagQuery = normalizeGreek(searchQuery.substring(1));
@@ -325,13 +349,121 @@
 
     function initSearch() {
         const searchBox = document.getElementById('search-box');
+        const dropdown = document.getElementById('search-dropdown');
         let debounceTimeout;
+        let activeIndex = -1;
+
+        function getMatchingSuggestions(value) {
+            const val = value.trim().toLowerCase();
+            if (val.startsWith('#')) {
+                const partial = val.substring(1);
+                return TAG_SUGGESTIONS.filter(s =>
+                    s.value.substring(1).startsWith(partial)
+                );
+            }
+            if (val === 'l' || val === 'la' || val === 'lan' || val === 'lang' || val.startsWith('lang:')) {
+                if (val.startsWith('lang:')) {
+                    const partial = val.substring(5);
+                    return LANG_SUGGESTIONS.filter(s =>
+                        s.value.substring(5).startsWith(partial)
+                    );
+                }
+                // Still typing "lang:" prefix — show all lang suggestions as a hint
+                return LANG_SUGGESTIONS;
+            }
+            return [];
+        }
+
+        function showSuggestions(suggestions) {
+            if (suggestions.length === 0) {
+                dropdown.classList.remove('visible');
+                dropdown.innerHTML = '';
+                activeIndex = -1;
+                return;
+            }
+            dropdown.innerHTML = suggestions.map((s, i) =>
+                `<li data-value="${escapeHtml(s.value)}" class="${i === activeIndex ? 'active' : ''}">` +
+                `<span class="suggestion-label">${escapeHtml(s.label)}</span>` +
+                `<span class="suggestion-desc">${escapeHtml(s.description)}</span>` +
+                `</li>`
+            ).join('');
+            dropdown.classList.add('visible');
+        }
+
+        function selectSuggestion(value) {
+            searchBox.value = value;
+            searchQuery = value.trim();
+            dropdown.classList.remove('visible');
+            dropdown.innerHTML = '';
+            activeIndex = -1;
+            applyFilters();
+        }
+
+        function updateDropdown() {
+            const value = searchBox.value;
+            if (!value.trim()) {
+                dropdown.classList.remove('visible');
+                dropdown.innerHTML = '';
+                activeIndex = -1;
+                return;
+            }
+            const suggestions = getMatchingSuggestions(value);
+            // Hide if the value exactly matches a single suggestion (already selected)
+            if (suggestions.length === 1 && suggestions[0].value === value.trim().toLowerCase()) {
+                dropdown.classList.remove('visible');
+                dropdown.innerHTML = '';
+                activeIndex = -1;
+                return;
+            }
+            activeIndex = -1;
+            showSuggestions(suggestions);
+        }
+
         searchBox.addEventListener('input', function() {
+            updateDropdown();
             clearTimeout(debounceTimeout);
             debounceTimeout = setTimeout(() => {
                 searchQuery = this.value.trim();
                 applyFilters();
             }, 200);
+        });
+
+        searchBox.addEventListener('keydown', function(e) {
+            const items = dropdown.querySelectorAll('li');
+            if (!dropdown.classList.contains('visible') || items.length === 0) return;
+
+            if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                activeIndex = Math.min(activeIndex + 1, items.length - 1);
+                items.forEach((li, i) => li.classList.toggle('active', i === activeIndex));
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                activeIndex = Math.max(activeIndex - 1, 0);
+                items.forEach((li, i) => li.classList.toggle('active', i === activeIndex));
+            } else if (e.key === 'Enter' || e.key === 'Tab') {
+                if (activeIndex >= 0 && activeIndex < items.length) {
+                    e.preventDefault();
+                    selectSuggestion(items[activeIndex].getAttribute('data-value'));
+                }
+            } else if (e.key === 'Escape') {
+                dropdown.classList.remove('visible');
+                dropdown.innerHTML = '';
+                activeIndex = -1;
+            }
+        });
+
+        dropdown.addEventListener('click', function(e) {
+            const li = e.target.closest('li');
+            if (li && li.dataset.value) {
+                selectSuggestion(li.dataset.value);
+            }
+        });
+
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('.search-container')) {
+                dropdown.classList.remove('visible');
+                activeIndex = -1;
+            }
         });
     }
 
