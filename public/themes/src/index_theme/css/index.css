@@ -1,0 +1,419 @@
+/* Bebliotheca Index Theme - Minimal Dark/Light Mode
+ * Byzantine-inspired with purple and gold accents
+ */
+
+/* ========================================
+   Color Variables
+   ======================================== */
+
+/* Dark Mode (Default) */
+:root,
+[data-theme="dark"] {
+    --bg-primary: #1a1a1a;
+    --bg-secondary: #242424;
+    --bg-tertiary: #2d2d2d;
+    --text-primary: #e8e8e8;
+    --text-secondary: #b0b0b0;
+    --text-muted: #808080;
+    --border-color: #3a3a3a;
+    --accent-purple: #8b7ab8;
+    --accent-gold: #d4af37;
+    --hover-bg: #333333;
+    --progress-green: #7aa874;
+}
+
+/* Light Mode */
+[data-theme="light"] {
+    --bg-primary: #ffffff;
+    --bg-secondary: #f5f5f5;
+    --bg-tertiary: #ebebeb;
+    --text-primary: #1a1a1a;
+    --text-secondary: #4a4a4a;
+    --text-muted: #707070;
+    --border-color: #d0d0d0;
+    --accent-purple: #6b5b8e;
+    --accent-gold: #b8941f;
+    --hover-bg: #e5e5e5;
+    --progress-green: #6b8e23;
+}
+
+/* ========================================
+   Base Styles
+   ======================================== */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+    line-height: 1.6;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    min-height: 100vh;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+a {
+    color: #00bcff;
+}
+/* ========================================
+   Header
+   ======================================== */
+
+.header {
+    background: var(--bg-secondary);
+    border-bottom: 1px solid var(--border-color);
+    padding: 2em 2em 1.5em;
+    text-align: center;
+    position: relative;
+}
+
+.title {
+    font-size: 2.5em;
+    margin: 0 0 0.2em 0;
+    color: var(--accent-gold);
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.subtitle {
+    font-size: 1em;
+    color: var(--text-secondary);
+    font-style: italic;
+    margin-bottom: 0;
+}
+
+/* Theme Toggle Button */
+.theme-toggle {
+    position: absolute;
+    top: 1.5em;
+    right: 2em;
+    background: transparent;
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    padding: 0.5em 1em;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: all 0.2s ease;
+    font-family: inherit;
+}
+
+.theme-toggle:hover {
+    background: var(--bg-tertiary);
+    border-color: var(--accent-purple);
+    color: var(--text-primary);
+}
+
+.intro {
+    text-align: center;
+    margin: 1.5em auto;
+    max-width: 700px;
+    padding: 0 2em;
+}
+
+.dev-notice {
+    background: transparent;
+    border: none;
+    border-left: 2px solid var(--border-color);
+    padding: 0.6em 1em;
+    margin: 0;
+    font-size: 0.85em;
+    font-style: italic;
+    color: var(--text-muted);
+    text-align: center;
+    border-radius: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2em 3em 2em;
+}
+
+/* ========================================
+   Search
+   ======================================== */
+
+.search-container {
+    margin: 2em auto 1.5em;
+    max-width: 700px;
+}
+
+#search-box {
+    width: 100%;
+    padding: 0.75em 1em;
+    font-size: 1em;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    transition: all 0.2s ease;
+    font-family: inherit;
+}
+
+#search-box::placeholder {
+    color: var(--text-muted);
+}
+
+#search-box:focus {
+    outline: none;
+    border-color: var(--accent-purple);
+    background: var(--bg-primary);
+}
+
+/* ========================================
+   Filter Buttons
+   ======================================== */
+
+.filter-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 0.5em;
+    margin: 1em auto 1.5em;
+    max-width: 700px;
+    flex-wrap: wrap;
+}
+
+.filter-btn {
+    padding: 0.5em 1em;
+    font-size: 0.85em;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background: var(--bg-secondary);
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-family: inherit;
+}
+
+.filter-btn:hover {
+    background: var(--bg-tertiary);
+    border-color: var(--accent-purple);
+    color: var(--text-primary);
+}
+
+.filter-btn.active {
+    background: var(--accent-purple);
+    border-color: var(--accent-purple);
+    color: #ffffff;
+}
+
+.stats {
+    text-align: center;
+    margin-bottom: 1.5em;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    padding: 0.5em;
+}
+
+/* ========================================
+   Works List
+   ======================================== */
+
+.works-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.work-item {
+    padding: 1.25em;
+    margin-bottom: 0.75em;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-left: 3px solid var(--accent-purple);
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1.5em;
+    transition: all 0.2s ease;
+}
+
+.work-item:hover {
+    background: var(--bg-tertiary);
+    border-left-color: var(--accent-gold);
+}
+
+.work-item.recently-viewed {
+    border-left-color: var(--accent-gold);
+    background: var(--bg-tertiary);
+}
+
+.work-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.work-title {
+    font-size: 1.15em;
+    font-weight: 500;
+    margin-bottom: 0.25em;
+    color: var(--text-primary);
+}
+
+.work-translation {
+    font-size: 0.9em;
+    margin-top: 0.25em;
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+.work-author {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    margin-top: 0.15em;
+}
+
+.progress-container {
+    position: relative;
+    height: 4px;
+    background: var(--bg-tertiary);
+    border-radius: 2px;
+    margin-top: 0.6em;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    background: var(--progress-green);
+    border-radius: 2px;
+    transition: width 0.4s ease;
+}
+
+.progress-text {
+    position: absolute;
+    right: 0;
+    top: -1.4em;
+    font-size: 0.75em;
+    color: var(--progress-green);
+    font-weight: 500;
+}
+
+.work-tags {
+    display: flex;
+    gap: 0.4em;
+    margin-top: 0.6em;
+    flex-wrap: wrap;
+}
+
+.tag {
+    font-size: 0.75em;
+    padding: 0.25em 0.6em;
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 3px;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+}
+
+.tag:hover {
+    background: var(--hover-bg);
+    color: var(--accent-purple);
+    border-color: var(--accent-purple);
+}
+
+/* ========================================
+   Language Buttons
+   ======================================== */
+
+.language-buttons {
+    display: flex;
+    gap: 0.5em;
+    flex-shrink: 0;
+    align-items: center;
+}
+
+.lang-btn {
+    padding: 0.5em 1em;
+    font-size: 0.85em;
+    font-weight: 500;
+    text-decoration: none;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    color: var(--text-primary);
+    background: var(--bg-tertiary);
+    transition: all 0.2s ease;
+    cursor: pointer;
+    white-space: nowrap;
+    font-family: inherit;
+}
+
+.lang-btn:hover {
+    background: var(--accent-purple);
+    border-color: var(--accent-purple);
+    color: #ffffff;
+}
+
+/* ========================================
+   Loading & Empty States
+   ======================================== */
+
+.loading {
+    text-align: center;
+    padding: 3em;
+    color: var(--text-muted);
+    font-size: 1em;
+}
+
+.no-results {
+    text-align: center;
+    padding: 3em;
+    color: var(--text-muted);
+    font-size: 1em;
+}
+
+/* ========================================
+   Footer
+   ======================================== */
+
+.footer {
+    text-align: center;
+    padding: 2em;
+    margin-top: 2em;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-muted);
+    font-size: 0.85em;
+}
+
+/* ========================================
+   Responsive Design
+   ======================================== */
+
+@media (max-width: 768px) {
+    .title {
+        font-size: 2em;
+    }
+
+    .theme-toggle {
+        top: 1em;
+        right: 1em;
+        font-size: 0.85em;
+        padding: 0.4em 0.8em;
+    }
+
+    .work-item {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1em;
+    }
+
+    .language-buttons {
+        margin-top: 0.75em;
+        width: 100%;
+    }
+
+    .lang-btn {
+        flex: 1;
+    }
+
+    .container {
+        padding: 0 1em 2em 1em;
+    }
+}

@@ -1,0 +1,5 @@
+# -*- mode: org; -*-
+
+#+OPTIONS: html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="themes/src/index_theme/css/index.css"/>
+#+HTML_HEAD: <script src="themes/src/index_theme/js/index.js"></script>
