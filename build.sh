@@ -64,7 +64,7 @@ case "${1:-all}" in
         echo "==> Cleaning previous build"
         "$0" clean
         echo "==> Generating catalog"
-        python3 generate_catalog.py
+        python3 scripts/generate_catalog.py
         echo "==> Exporting all content"
         count=$(find_all $ALL_DIRS | tr '\0' '\n' | wc -l)
         echo "Exporting $count files ($JOBS parallel jobs, batches of $BATCH_SIZE)"
@@ -72,7 +72,7 @@ case "${1:-all}" in
         echo "==> Done"
         ;;
     catalog)
-        python3 generate_catalog.py
+        python3 scripts/generate_catalog.py
         ;;
     export)
         echo "==> Incremental export (changed files only)"
