@@ -4,6 +4,9 @@
 *.txt
 *.tex
 public/catalog.json
+public/structure.json
+
+__pycache__
 
 # Auto-generated Perseus files (reproduced by make import-perseus)
 content/gr/*--*.org
