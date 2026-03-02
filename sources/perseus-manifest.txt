@@ -1,16 +1,7 @@
-content/en/1-corinthians--new-testament.org
-content/en/1-john--new-testament.org
-content/en/1-peter--new-testament.org
-content/en/1-timothy--new-testament.org
-content/en/2-john--new-testament.org
-content/en/2-peter--new-testament.org
-content/en/2-timothy--new-testament.org
-content/en/3-john--new-testament.org
 content/en/a-breviate-of-a-discourse-showing-that-the-stoics-speak-greater-improbabilities-than-the-poets--plutarch.org
 content/en/accusation-of-calumny--lysias.org
 content/en/a-conversation-with-cronus--lucian-of-samosata.org
 content/en/a-conversation-with-hesiod--lucian-of-samosata.org
-content/en/acts--new-testament.org
 content/en/a-discourse-concerning-socratess-daemon--plutarch.org
 content/en/advice-about-keeping-well--plutarch.org
 content/en/advice-to-bride-and-groom--plutarch.org
@@ -99,7 +90,6 @@ content/en/antigone--sophocles.org
 content/en/antiquities-of-the-jews--flavius-josephus.org
 content/en/antony--plutarch.org
 content/en/aphorisms--hippocrates.org
-content/en/apocalypse--new-testament.org
 content/en/apollodorus-against-callipus--demosthenes.org
 content/en/apollodorus-against-neaera--demosthenes.org
 content/en/apollodorus-against-nicostratus--demosthenes.org
@@ -138,7 +128,6 @@ content/en/cicero--plutarch.org
 content/en/cimon--plutarch.org
 content/en/cleitophon--plato.org
 content/en/clouds--aristophanes.org
-content/en/colossians--new-testament.org
 content/en/comparison-of-agesilaus-and-pompey--plutarch.org
 content/en/comparison-of-agis-and-cleomenes-and-the-gracchi--plutarch.org
 content/en/comparison-of-alcibiades-and-coriolanus--plutarch.org
@@ -191,7 +180,6 @@ content/en/economics--aristotle.org
 content/en/economics--xenophon.org
 content/en/electra--euripides.org
 content/en/electra--sophocles.org
-content/en/ephesians--new-testament.org
 content/en/epinicians--bacchylides.org
 content/en/epinomis--plato.org
 content/en/epitome--apollodorus.org
@@ -215,12 +203,10 @@ content/en/for-the-soldier--lysias.org
 content/en/fourth-philippic--demosthenes.org
 content/en/funeral-oration--lysias.org
 content/en/funeral-speech--hyperides.org
-content/en/galatians--new-testament.org
 content/en/galba--plutarch.org
 content/en/geography-books-6-14--strabo.org
 content/en/gorgias--plato.org
 content/en/greek-questions--plutarch.org
-content/en/hebrews--new-testament.org
 content/en/hecuba--euripides.org
 content/en/helen--euripides.org
 content/en/helen--isocrates.org
@@ -276,7 +262,6 @@ content/en/hymn-8-to-ares--anonymous.org
 content/en/hymn-9-to-artemis--anonymous.org
 content/en/icaromenippus-or-the-sky-man--lucian.org
 content/en/ichneutae--sophocles.org
-content/en/ii-thessalonians--new-testament.org
 content/en/iliad--homer.org
 content/en/in-defence-of-euxenippus--hyperides.org
 content/en/in-defence-of-lycophron--hyperides.org
@@ -287,10 +272,6 @@ content/en/iphigenia-among-the-tauri--euripides.org
 content/en/iphigenia-in-aulis--euripides.org
 content/en/isis-and-osiris--plutarch.org
 content/en/isthmian-odes--pindar.org
-content/en/i-thessalonians--new-testament.org
-content/en/james--new-testament.org
-content/en/john--new-testament.org
-content/en/jude--new-testament.org
 content/en/laches--plato.org
 content/en/laconic-apophthegms-or-remarkable-sayings-of-the-spartans--plutarch.org
 content/en/laws--plato.org
@@ -312,14 +293,12 @@ content/en/lives-of-eminent-philosophers--diogenes-laertius.org
 content/en/lovers--plato.org
 content/en/love-stories--plutarch.org
 content/en/lucullus--plutarch.org
-content/en/luke--new-testament.org
 content/en/lycurgus--plutarch.org
 content/en/lysander--plutarch.org
 content/en/lysis--plato.org
 content/en/machine-readable-text--plutarch.org
 content/en/marcellus--plutarch.org
 content/en/marcus-cato--plutarch.org
-content/en/matthew--new-testament.org
 content/en/medea--euripides.org
 content/en/memorabilia--xenophon.org
 content/en/menexenus--plato.org
@@ -431,8 +410,6 @@ content/en/phaedo--plato.org
 content/en/phaedrus--plato.org
 content/en/phalaris--lucian-of-samosata.org
 content/en/philebus--plato.org
-content/en/philemon--new-testament.org
-content/en/philippians--new-testament.org
 content/en/philips-letter--demosthenes.org
 content/en/philoctetes--sophocles.org
 content/en/philopoemen--plutarch.org
@@ -458,7 +435,6 @@ content/en/pythian-odes--pindar.org
 content/en/republic--plato.org
 content/en/rhesus--euripides.org
 content/en/roman-questions--plutarch.org
-content/en/romans--new-testament.org
 content/en/romulus--plutarch.org
 content/en/second-olynthiac--demosthenes.org
 content/en/second-philippic--demosthenes.org
@@ -543,7 +519,6 @@ content/en/timaeus--plato.org
 content/en/timoleon--plutarch.org
 content/en/timon-or-the-misanthrope--lucian.org
 content/en/titus-flamininus--plutarch.org
-content/en/titus--new-testament.org
 content/en/to-an-uneducated-ruler--plutarch.org
 content/en/to-demonicus--isocrates.org
 content/en/to-nicocles--isocrates.org
@@ -582,10 +557,8 @@ content/en/εὐθύφρων--plato.org
 content/en/ἰβηρική--appian-of-alexandria.org
 content/en/ἰλλυρική--appian-of-alexandria.org
 content/en/ἱστορίαι--polybius.org
-content/en/κορίνθιους-β--new-testament.org
 content/en/λακαινῶν-ἀποφθέγματα--plutarch.org
 content/en/λιβυκή--appian-of-alexandria.org
-content/en/μάρκον--new-testament.org
 content/en/μιθριδάτειος--appian-of-alexandria.org
 content/en/περὶ-δυσωπίας--plutarch.org
 content/en/περὶ-τῆς-εἰρήνης--demosthenes.org
@@ -593,19 +566,10 @@ content/en/πρὸς-κωλώτην--plutarch.org
 content/en/πρὸς-ὀνήτορα-ἐξούλης-β--demosthenes.org
 content/en/συριακή--appian-of-alexandria.org
 content/en/τὰ-παλαιὰ-τῶν-λακεδαιμονίων-ἐπιτηδεύματα--plutarch.org
-content/gr/1-corinthians--new-testament.org
-content/gr/1-john--new-testament.org
-content/gr/1-peter--new-testament.org
-content/gr/1-timothy--new-testament.org
-content/gr/2-john--new-testament.org
-content/gr/2-peter--new-testament.org
-content/gr/2-timothy--new-testament.org
-content/gr/3-john--new-testament.org
 content/gr/a-breviate-of-a-discourse-showing-that-the-stoics-speak-greater-improbabilities-than-the-poets--plutarch.org
 content/gr/accusation-of-calumny--lysias.org
 content/gr/a-conversation-with-cronus--lucian-of-samosata.org
 content/gr/a-conversation-with-hesiod--lucian-of-samosata.org
-content/gr/acts--new-testament.org
 content/gr/a-discourse-concerning-socratess-daemon--plutarch.org
 content/gr/ad-se-ipsum--marcus-aurelius.org
 content/gr/advice-about-keeping-well--plutarch.org
@@ -695,7 +659,6 @@ content/gr/antigone--sophocles.org
 content/gr/antiquities-of-the-jews--flavius-josephus.org
 content/gr/antony--plutarch.org
 content/gr/aphorisms--hippocrates.org
-content/gr/apocalypse--new-testament.org
 content/gr/apollodorus-against-callipus--demosthenes.org
 content/gr/apollodorus-against-neaera--demosthenes.org
 content/gr/apollodorus-against-nicostratus--demosthenes.org
@@ -736,7 +699,6 @@ content/gr/cicero--plutarch.org
 content/gr/cimon--plutarch.org
 content/gr/cleitophon--plato.org
 content/gr/clouds--aristophanes.org
-content/gr/colossians--new-testament.org
 content/gr/comparison-of-agesilaus-and-pompey--plutarch.org
 content/gr/comparison-of-agis-and-cleomenes-and-the-gracchi--plutarch.org
 content/gr/comparison-of-alcibiades-and-coriolanus--plutarch.org
@@ -791,7 +753,6 @@ content/gr/economics--aristotle.org
 content/gr/economics--xenophon.org
 content/gr/electra--euripides.org
 content/gr/electra--sophocles.org
-content/gr/ephesians--new-testament.org
 content/gr/epinicians--bacchylides.org
 content/gr/epinomis--plato.org
 content/gr/epistulae--basil-saint-bishop-of-caesarea.org
@@ -819,7 +780,6 @@ content/gr/fragmenta--bion-of-phlossa.org
 content/gr/fragmenta--moschus.org
 content/gr/funeral-oration--lysias.org
 content/gr/funeral-speech--hyperides.org
-content/gr/galatians--new-testament.org
 content/gr/galba--plutarch.org
 content/gr/geographiae-informatio--agathemerus.org
 content/gr/geography-books-6-14--strabo.org
@@ -827,7 +787,6 @@ content/gr/gnomologium-epicteteum-e-stobaei-libris-1-2--epictetus.org
 content/gr/gnomologium-epicteteum-e-stobaei-libris-3-4--epictetus.org
 content/gr/gorgias--plato.org
 content/gr/greek-questions--plutarch.org
-content/gr/hebrews--new-testament.org
 content/gr/hecuba--euripides.org
 content/gr/helen--euripides.org
 content/gr/helen--isocrates.org
@@ -884,7 +843,6 @@ content/gr/hymn-9-to-artemis--anonymous.org
 content/gr/icaromenippus-or-the-sky-man--lucian.org
 content/gr/ichneutae--sophocles.org
 content/gr/idylls--theocritus.org
-content/gr/ii-thessalonians--new-testament.org
 content/gr/iliad--homer.org
 content/gr/in-defence-of-euxenippus--hyperides.org
 content/gr/in-defence-of-lycophron--hyperides.org
@@ -895,10 +853,6 @@ content/gr/iphigenia-among-the-tauri--euripides.org
 content/gr/iphigenia-in-aulis--euripides.org
 content/gr/isis-and-osiris--plutarch.org
 content/gr/isthmian-odes--pindar.org
-content/gr/i-thessalonians--new-testament.org
-content/gr/james--new-testament.org
-content/gr/john--new-testament.org
-content/gr/jude--new-testament.org
 content/gr/laches--plato.org
 content/gr/laconic-apophthegms-or-remarkable-sayings-of-the-spartans--plutarch.org
 content/gr/laws--plato.org
@@ -922,14 +876,12 @@ content/gr/lives-of-eminent-philosophers--diogenes-laertius.org
 content/gr/lovers--plato.org
 content/gr/love-stories--plutarch.org
 content/gr/lucullus--plutarch.org
-content/gr/luke--new-testament.org
 content/gr/lycurgus--plutarch.org
 content/gr/lysander--plutarch.org
 content/gr/lysis--plato.org
 content/gr/machine-readable-text--plutarch.org
 content/gr/marcellus--plutarch.org
 content/gr/marcus-cato--plutarch.org
-content/gr/matthew--new-testament.org
 content/gr/medea--euripides.org
 content/gr/memorabilia--xenophon.org
 content/gr/menexenus--plato.org
@@ -1050,8 +1002,6 @@ content/gr/phaedo--plato.org
 content/gr/phaedrus--plato.org
 content/gr/phalaris--lucian-of-samosata.org
 content/gr/philebus--plato.org
-content/gr/philemon--new-testament.org
-content/gr/philippians--new-testament.org
 content/gr/philips-letter--demosthenes.org
 content/gr/philoctetes--sophocles.org
 content/gr/philopoemen--plutarch.org
@@ -1077,7 +1027,6 @@ content/gr/pythian-odes--pindar.org
 content/gr/republic--plato.org
 content/gr/rhesus--euripides.org
 content/gr/roman-questions--plutarch.org
-content/gr/romans--new-testament.org
 content/gr/romulus--plutarch.org
 content/gr/second-olynthiac--demosthenes.org
 content/gr/second-philippic--demosthenes.org
@@ -1162,7 +1111,6 @@ content/gr/timaeus--plato.org
 content/gr/timoleon--plutarch.org
 content/gr/timon-or-the-misanthrope--lucian.org
 content/gr/titus-flamininus--plutarch.org
-content/gr/titus--new-testament.org
 content/gr/to-an-uneducated-ruler--plutarch.org
 content/gr/to-demonicus--isocrates.org
 content/gr/to-nicocles--isocrates.org
@@ -1276,7 +1224,6 @@ content/gr/ἰσοκρατης-ἀθηναῖος--dionysius-of-halicarnassus.or
 content/gr/ἱστορίαι--polybius.org
 content/gr/κατὰ-γαλιλαίων--julian-the-emperor.org
 content/gr/κατὰ-τῶν-ἐξορχουμένων--aelius-aristides.org
-content/gr/κορίνθιους-β--new-testament.org
 content/gr/κυνηγετικά--oppian-of-apamea.org
 content/gr/κυνηγετικός--arrian.org
 content/gr/λακαινῶν-ἀποφθέγματα--plutarch.org
@@ -1289,7 +1236,6 @@ content/gr/λευκτρικὸς-ε-ὑπὲρ-μηδετέροις-βοηθε�
 content/gr/λιβυκή--appian-of-alexandria.org
 content/gr/λυσίας-συρακούσιος-πατρόθεν--dionysius-of-halicarnassus.org
 content/gr/λυσιστράτη--aristophanes.org
-content/gr/μάρκον--new-testament.org
 content/gr/μεγάρα--moschus.org
 content/gr/μιθριδάτειος--appian-of-alexandria.org
 content/gr/μισοπώγων--julian-the-emperor.org

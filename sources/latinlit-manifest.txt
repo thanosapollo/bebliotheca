@@ -79,9 +79,12 @@ content/en/de-consolatione-philosophiae--boethius.org
 content/en/de-consulatu-stilichonis--claudian.org
 content/en/de-fide-catholica--boethius.org
 content/en/de-officiis--m-tullius-cicero.org
+content/en/de-origine-et-situ-germanorum-liber--cornelius-tacitus.org
 content/en/de-raptu-proserpinae--claudian.org
 content/en/de-rerum-natura--lucretius.org
 content/en/de-senectute--m-tullius-cicero.org
+content/en/de-vita-iulii-agricolae--cornelius-tacitus.org
+content/en/divination--unknown.org
 content/en/domitian--suetonius.org
 content/en/eclogues--p-vergilius-maro.org
 content/en/epidicus-or-the-fortunate-discovery--t-maccius-plautus.org
@@ -110,6 +113,8 @@ content/en/gallic-war--julius-caesar.org
 content/en/georgicon--p-vergilius-maro.org
 content/en/heautontimorumenos-or-the-self-tormenter--publius-terentius-afer-terence.org
 content/en/hecyra-the-mother-in-law--publius-terentius-afer-terence.org
+content/en/historiae--cornelius-tacitus.org
+content/en/history--ammianus-marcellinus.org
 content/en/history-of-rome-books-1-10--titus-livius-livy.org
 content/en/in-defense-of-caius-rabirius-postumus--m-tullius-cicero.org
 content/en/in-defense-of-cnaeus-plancius--m-tullius-cicero.org
@@ -137,6 +142,7 @@ content/en/metamorphoses--apuleius.org
 content/en/metamorphoses--p-ovidius-naso.org
 content/en/miles-gloriosus-or-the-braggart-captain--t-maccius-plautus.org
 content/en/mostellaria-or-the-haunted-house--t-maccius-plautus.org
+content/en/naturalis-historia--pliny-the-elder.org
 content/en/nero--suetonius.org
 content/en/on-behalf-of-king-deiotarus--m-tullius-cicero.org
 content/en/on-behalf-of-marcus-claudius-marcellus--m-tullius-cicero.org
@@ -157,11 +163,13 @@ content/en/poenulus-or-the-young-carthaginian--t-maccius-plautus.org
 content/en/pseudolus-or-the-cheat--t-maccius-plautus.org
 content/en/quintus-roscius--m-tullius-cicero.org
 content/en/quomodo-substantiae-in-eo-quod-sint-bonae-sint-cum-non-sint-substantialia-bona--boethius.org
+content/en/quomodo-trinitas-unus-deus-ac-non-tres-dii-de-trinitate--boethius.org
 content/en/remedy-of-love--p-ovidius-naso.org
 content/en/respecting-the-answers-of-the-soothsayers--m-tullius-cicero.org
 content/en/res-rustica-books-i-ix--columella.org
 content/en/rudens-or-the-fishermans-rope--t-maccius-plautus.org
 content/en/satires--q-horatius-flaccus.org
+content/en/satyricon--petronius.org
 content/en/six-poems--sulpicia.org
 content/en/stichus-or-the-parasite-rebuffed--t-maccius-plautus.org
 content/en/the-art-of-poetry-to-the-pisos--q-horatius-flaccus.org
@@ -356,6 +364,7 @@ content/la/diadumenus-antoninus--unknown.org
 content/la/didius-julianus--unknown.org
 content/la/dion--cornelius-nepos.org
 content/la/dittochaeon--prudentius.org
+content/la/divination--unknown.org
 content/la/divus-aurelianus--unknown.org
 content/la/divus-claudius--unknown.org
 content/la/domitian--suetonius.org
