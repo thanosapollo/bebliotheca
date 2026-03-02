@@ -5,6 +5,7 @@
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/agia-grafi
 #+LANGUAGE: el
+#+AUTHOR: Greek Orthodox Church
 
 * Η ΠΑΛΑΙΑ ΔΙΑΘΗΚΗ
 ** Γένεσις
