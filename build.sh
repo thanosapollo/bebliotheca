@@ -61,6 +61,7 @@ ALL_DIRS="$CONTENT_DIR/gr $CONTENT_DIR/en $CONTENT_DIR/la"
 
 case "${1:-all}" in
     all)
+        "$0" import
         echo "==> Cleaning previous build"
         "$0" clean
         echo "==> Generating catalog"
