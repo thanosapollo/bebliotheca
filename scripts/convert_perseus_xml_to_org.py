@@ -75,10 +75,70 @@ class TEIToOrgConverter:
         'pref': 'praef',
     }
 
+    # HTML/XML entities commonly found in Perseus TEI files.
+    # Python's ElementTree only knows &amp; &lt; &gt; &apos; &quot; —
+    # everything else must be declared or replaced before parsing.
+    HTML_ENTITIES = {
+        '&mdash;': '\u2014', '&ndash;': '\u2013',
+        '&lsquo;': '\u2018', '&rsquo;': '\u2019',
+        '&ldquo;': '\u201c', '&rdquo;': '\u201d',
+        '&dagger;': '\u2020', '&Dagger;': '\u2021',
+        '&hellip;': '\u2026', '&bull;': '\u2022',
+        '&prime;': '\u2032', '&Prime;': '\u2033',
+        '&trade;': '\u2122', '&copy;': '\u00a9',
+        '&reg;': '\u00ae', '&deg;': '\u00b0',
+        '&plusmn;': '\u00b1', '&times;': '\u00d7',
+        '&divide;': '\u00f7', '&micro;': '\u00b5',
+        '&sect;': '\u00a7', '&para;': '\u00b6',
+        '&middot;': '\u00b7', '&cedil;': '\u00b8',
+        '&nbsp;': ' ',
+        # Latin-1 accented characters used in Perseus Latin files
+        '&Agrave;': '\u00c0', '&Aacute;': '\u00c1', '&Acirc;': '\u00c2',
+        '&Atilde;': '\u00c3', '&Auml;': '\u00c4', '&Aring;': '\u00c5',
+        '&AElig;': '\u00c6', '&Ccedil;': '\u00c7',
+        '&Egrave;': '\u00c8', '&Eacute;': '\u00c9', '&Ecirc;': '\u00ca',
+        '&Euml;': '\u00cb',
+        '&Igrave;': '\u00cc', '&Iacute;': '\u00cd', '&Icirc;': '\u00ce',
+        '&Iuml;': '\u00cf',
+        '&ETH;': '\u00d0', '&Ntilde;': '\u00d1',
+        '&Ograve;': '\u00d2', '&Oacute;': '\u00d3', '&Ocirc;': '\u00d4',
+        '&Otilde;': '\u00d5', '&Ouml;': '\u00d6',
+        '&Ugrave;': '\u00d9', '&Uacute;': '\u00da', '&Ucirc;': '\u00db',
+        '&Uuml;': '\u00dc', '&Yacute;': '\u00dd',
+        '&THORN;': '\u00de', '&szlig;': '\u00df',
+        '&agrave;': '\u00e0', '&aacute;': '\u00e1', '&acirc;': '\u00e2',
+        '&atilde;': '\u00e3', '&auml;': '\u00e4', '&aring;': '\u00e5',
+        '&aelig;': '\u00e6', '&ccedil;': '\u00e7',
+        '&egrave;': '\u00e8', '&eacute;': '\u00e9', '&ecirc;': '\u00ea',
+        '&euml;': '\u00eb',
+        '&igrave;': '\u00ec', '&iacute;': '\u00ed', '&icirc;': '\u00ee',
+        '&iuml;': '\u00ef',
+        '&eth;': '\u00f0', '&ntilde;': '\u00f1',
+        '&ograve;': '\u00f2', '&oacute;': '\u00f3', '&ocirc;': '\u00f4',
+        '&otilde;': '\u00f5', '&ouml;': '\u00f6',
+        '&ugrave;': '\u00f9', '&uacute;': '\u00fa', '&ucirc;': '\u00fb',
+        '&uuml;': '\u00fc', '&yacute;': '\u00fd',
+        '&thorn;': '\u00fe', '&yuml;': '\u00ff',
+    }
+
+    # Regex matching any &word; entity that isn't one of the 5 XML built-ins
+    _ENTITY_RE = re.compile(r'&(?!amp;|lt;|gt;|apos;|quot;)([A-Za-z][A-Za-z0-9.]*);')
+
+    @classmethod
+    def _resolve_entities(cls, xml_text):
+        """Replace HTML entities with Unicode characters, drop unknown ones."""
+        def _replace(m):
+            entity = m.group(0)
+            return cls.HTML_ENTITIES.get(entity, '')
+        return cls._ENTITY_RE.sub(_replace, xml_text)
+
     def __init__(self, xml_file):
         self.xml_file = xml_file
-        self.tree = ET.parse(xml_file)
-        self.root = self.tree.getroot()
+        # Pre-process to resolve HTML entities before XML parsing
+        with open(xml_file, 'r', encoding='utf-8') as f:
+            xml_text = f.read()
+        xml_text = self._resolve_entities(xml_text)
+        self.root = ET.fromstring(xml_text)
         self.output = []
         self.structural_path = []   # Stack of (abbrev, n) tuples for path-based IDs
         self.speaker_counter = 0    # Counter for speakers, resets per card/structural section
