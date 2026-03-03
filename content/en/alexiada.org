@@ -1,6 +1,6 @@
 #+TITLE: Alexiada
 #+AUTHOR: Anna Komnene
-#+FILETAGS: :byzantine:
+#+FILETAGS: :byzantine:12c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

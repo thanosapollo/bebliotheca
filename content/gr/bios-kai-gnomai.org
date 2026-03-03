@@ -1,6 +1,6 @@
 #+TITLE:ΒΙΩΝ ΚΑΙ ΓΝΩΜΩΝ ΤΩΝ ΕΝ ΦΙΛΟΣΟΦΙΑΙ ΕΥΔΟΚΙΜΗΣΑΝΤΩΝ ΤΩΝ ΕΙΣ ΔΕΚΑ ΤΟ ΠΡΩΤΟΝ
 #+AUTHOR: Διογένης Λαέρτιος
-#+FILETAGS: :imperial:
+#+FILETAGS: :imperial:3c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

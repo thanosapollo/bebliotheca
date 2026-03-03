@@ -1,5 +1,5 @@
 #+AUTHOR: Νικήτας Χωνιάτης
-#+FILETAGS: :byzantine:
+#+FILETAGS: :byzantine:12c-ad:
 #+TITLE: Χρονική Διήγησις | Νικήτας Χωνιάτης
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

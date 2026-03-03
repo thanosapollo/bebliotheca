@@ -1,6 +1,6 @@
 #+TITLE: Confessiones
 #+AUTHOR: Augustinus
-#+FILETAGS: :patristic:
+#+FILETAGS: :patristic:4c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

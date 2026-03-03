@@ -1,6 +1,6 @@
 #+TITLE: Meditations
 #+AUTHOR: Marcus Aurelius
-#+FILETAGS: :imperial:
+#+FILETAGS: :imperial:2c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
