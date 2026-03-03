@@ -377,15 +377,11 @@
                     s.value.substring(1).startsWith(partial)
                 );
             }
-            if (val === 'l' || val === 'la' || val === 'lan' || val === 'lang' || val.startsWith('lang:')) {
-                if (val.startsWith('lang:')) {
-                    const partial = val.substring(5);
-                    return LANG_SUGGESTIONS.filter(s =>
-                        s.value.substring(5).startsWith(partial)
-                    );
-                }
-                // Still typing "lang:" prefix - show all lang suggestions as a hint
-                return LANG_SUGGESTIONS;
+            if (val.startsWith('lang:')) {
+                const partial = val.substring(5);
+                return LANG_SUGGESTIONS.filter(s =>
+                    s.value.substring(5).startsWith(partial)
+                );
             }
             return [];
         }
