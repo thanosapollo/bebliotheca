@@ -23,7 +23,7 @@ CENTURY_RE = re.compile(r'^\d+c-(bc|ad)$')
 # ── Author slug → era tag ───────────────────────────────────────────
 # Tags follow Constantinople's classification system.
 AUTHOR_TAGS = {
-    # classical: Pre-Christian Greek & Latin (~800 BC – ~1 BC)
+    # classical: Pre-Christian Greek & Latin (~800 BC - ~1 BC)
     # Greek
     'homer': 'classical',
     'hesiod': 'classical',
@@ -82,7 +82,7 @@ AUTHOR_TAGS = {
     'q-tullius-cicero': 'classical',
     'vitruvius-pollio': 'classical',
 
-    # imperial: Roman-era secular literature (~1 AD – ~400 AD)
+    # imperial: Roman-era secular literature (~1 AD - ~400 AD)
     # Greek
     'plutarch': 'imperial',
     'marcus-aurelius': 'imperial',
@@ -151,7 +151,7 @@ AUTHOR_TAGS = {
     'celsus': 'imperial',
     'ammianus-marcellinus': 'imperial',
 
-    # patristic: Church Fathers (~1 AD – ~750 AD)
+    # patristic: Church Fathers (~1 AD - ~750 AD)
     # Greek
     'clement-of-alexandria': 'patristic',
     'barnabas': 'patristic',
@@ -166,7 +166,7 @@ AUTHOR_TAGS = {
     'boethius': 'patristic',
     'augustinus': 'patristic',
 
-    # byzantine: Medieval Roman/Byzantine (~500 AD – 1453 AD)
+    # byzantine: Medieval Roman/Byzantine (~500 AD - 1453 AD)
     # Greek
     'procopius': 'byzantine',
     'joannes-zonaras': 'byzantine',
@@ -337,8 +337,7 @@ AUTHOR_CENTURIES = {
     # Byzantine Latin
     'ausonius-decimus-magnus': '4c-ad',
     'claudian': '4c-ad',
-    # Scripture
-    'new-testament': '1c-ad',
+    # Scripture omitted - Ἁγία Γραφή stands outside secular chronology
 }
 
 # ── Stem overrides for manually curated files (no --slug naming) ─────
@@ -412,13 +411,13 @@ def tag_file(path, dry_run=False, update=False):
     Update mode: Add century tag to files that only have an era tag.
 
     Returns:
-        ('tagged', value)           — new FILETAGS inserted
-        ('updated', value)          — century added to existing era tag
-        ('skipped_existing',)       — already has FILETAGS (normal mode)
-        ('skipped_has_century',)    — already has a century tag (update mode)
-        ('skipped_no_century',)     — no century data for this author
-        ('skipped_unknown', slug)   — author slug not in AUTHOR_TAGS
-        ('skipped_no_slug',)        — cannot determine author slug
+        ('tagged', value)           - new FILETAGS inserted
+        ('updated', value)          - century added to existing era tag
+        ('skipped_existing',)       - already has FILETAGS (normal mode)
+        ('skipped_has_century',)    - already has a century tag (update mode)
+        ('skipped_no_century',)     - no century data for this author
+        ('skipped_unknown', slug)   - author slug not in AUTHOR_TAGS
+        ('skipped_no_slug',)        - cannot determine author slug
     """
     with open(path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
@@ -464,7 +463,7 @@ def tag_file(path, dry_run=False, update=False):
 
         return ('updated', new_value)
 
-    # No FILETAGS exists — insert after #+AUTHOR:
+    # No FILETAGS exists - insert after #+AUTHOR:
     filetags_value = build_filetags_value(slug)
     if filetags_value is None:
         return ('skipped_unknown', slug)
@@ -478,7 +477,7 @@ def tag_file(path, dry_run=False, update=False):
             inserted = True
 
     if not inserted:
-        # No AUTHOR line found — insert after first line as fallback
+        # No AUTHOR line found - insert after first line as fallback
         new_lines.insert(1, f'#+FILETAGS: {filetags_value}\n')
 
     if not dry_run:
