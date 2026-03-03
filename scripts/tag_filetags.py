@@ -153,8 +153,15 @@ AUTHOR_TAGS = {
 
     # patristic: Church Fathers (~1 AD - ~750 AD)
     # Greek
+    'clement-of-rome': 'patristic',
     'clement-of-alexandria': 'patristic',
     'barnabas': 'patristic',
+    'ignatius-of-antioch': 'patristic',
+    'polycarp-of-smyrna': 'patristic',
+    'twelve-apostles': 'patristic',
+    'hermas': 'patristic',
+    'church-of-smyrna': 'patristic',
+    'mathetes': 'patristic',
     'eusebius-of-caesarea': 'patristic',
     'basil-saint-bishop-of-caesarea': 'patristic',
     'john-of-damascus': 'patristic',
@@ -312,8 +319,15 @@ AUTHOR_CENTURIES = {
     'celsus': '1c-ad',
     'ammianus-marcellinus': '4c-ad',
     # Patristic Greek
+    'clement-of-rome': '1c-ad',
     'clement-of-alexandria': '2c-ad',
     'barnabas': '1c-ad',
+    'ignatius-of-antioch': '2c-ad',
+    'polycarp-of-smyrna': '2c-ad',
+    'twelve-apostles': '1c-ad',
+    'hermas': '2c-ad',
+    'church-of-smyrna': '2c-ad',
+    'mathetes': '2c-ad',
     'eusebius-of-caesarea': '4c-ad',
     'basil-saint-bishop-of-caesarea': '4c-ad',
     'john-of-damascus': '8c-ad',
