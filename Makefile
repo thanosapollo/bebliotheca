@@ -1,6 +1,6 @@
 # Bebliotheca Build System
 
-PYTHON = guix shell python -- python3
+PYTHON = $(shell command -v guix >/dev/null 2>&1 && echo "guix shell python -- python3" || echo "python3")
 
 .PHONY: all catalog export clean clean-sources import update publish publish-update help test test-structure test-report test-untranslated test-lang test-lang-report test-originals test-originals-report test-all-reports web
 
