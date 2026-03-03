@@ -8,37 +8,54 @@ we last imported from. The actual =.org= files they produce live in
 =content/{gr,en,la}/= and are *not* tracked in git, they are regenerated
 by the import pipeline.
 
-* Perseus Digital Library
+* Import Pipeline
 
-- Submodule :: =canonical-greekLit/= → [[https://github.com/PerseusDL/canonical-greekLit]]
+All sources are imported by a single unified script:
+
+| Command              | What it does                                  |
+|----------------------+-----------------------------------------------|
+| =make import=        | Import content from all source submodules     |
+| =make update=        | Update all submodules to latest and re-import |
+| =make clean-sources= | Remove all auto-generated =.org= files        |
+
+Each source produces a *manifest file* (=*-manifest.txt=), a plain list
+of file paths (one per line) for every =.org= file produced by the
+import. Manifests are tracked in git as provenance records.
+
+* Perseus Digital Library (Greek)
+
+- Submodule :: =canonical-greekLit/= => [[https://github.com/PerseusDL/canonical-greekLit]]
 - Converter :: =scripts/convert_perseus_xml_to_org.py=
-- Import script :: =scripts/import_perseus.sh=
-- Manifest :: =perseus-manifest.txt= (lists all auto-generated files)
-
-** Commands
-
-| Command              | What it does                                      |
-|----------------------+---------------------------------------------------|
-| =make import=        | Import content from all source submodules          |
-| =make update=        | Update all submodules to latest and re-import      |
-| =make clean-sources= | Remove all auto-generated =.org= files            |
-
-** Manifest
-
-=perseus-manifest.txt= is a plain list of file paths (one per line) for
-every =.org= file produced by the import. It is tracked in git as a
-provenance record.
+- Manifest :: =perseus-manifest.txt= (1311 entries)
+- Languages :: Greek, English
 
 * Perseus Latin Literature
 
-- Submodule :: =canonical-latinLit/= → [[https://github.com/PerseusDL/canonical-latinLit]]
+- Submodule :: =canonical-latinLit/= => [[https://github.com/PerseusDL/canonical-latinLit]]
 - Converter :: =scripts/convert_perseus_xml_to_org.py= (shared with Greek)
-- Import script :: =scripts/import_latinlit.sh=
-- Manifest :: =latinlit-manifest.txt= (lists all auto-generated files)
+- Manifest :: =latinlit-manifest.txt= (559 entries)
+- Languages :: Latin, English, Greek (some texts)
+
+* Apostolic Fathers
+
+- Submodule :: =apostolic-fathers/= => [[https://codeberg.org/bebliotheca/apostolic-fathers]]
+- Converter :: =scripts/convert_apostolic_to_org.py=
+- Manifest :: =apostolic-manifest.txt= (14 entries)
+- Languages :: Greek
+
+The Apostolic Fathers are the earliest Christian writers outside the New
+Testament, dating from the late first to mid-second century. This
+corpus includes the epistles of Clement of Rome, Ignatius of Antioch,
+and Polycarp of Smyrna, the Didache, the Shepherd of Hermas, the
+Martyrdom of Polycarp, and the Epistle to Diognetus.
+
+The source texts use a plain =chapter.verse= format (one line per verse),
+with the Shepherd of Hermas using a three-level =section.chapter.verse=
+format. The Epistle of Barnabas is excluded from this import as it is
+already present in the library from the Perseus Greek corpus.
 
 * TODO Future sources
 
-| Repository             | Format  | Content                                |
-|------------------------+---------+----------------------------------------|
-| First1KGreek           | TEI XML | Patristic and late antique Greek texts |
-| Open Apostolic Fathers | TEI XML | Early Christian writings               |
+| Repository   | Format  | Content                                |
+|--------------+---------+----------------------------------------|
+| First1KGreek | TEI XML | Patristic and late antique Greek texts |
