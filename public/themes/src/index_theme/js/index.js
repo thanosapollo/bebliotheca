@@ -50,10 +50,26 @@
         { label: '#patristic', description: 'Church Fathers & theology', value: '#patristic' },
         { label: '#byzantine', description: 'Medieval Roman/Byzantine', value: '#byzantine' },
         { label: '#scripture', description: 'Biblical texts', value: '#scripture' },
+        { label: '#8c-bc', description: '8th century BC (Homer)', value: '#8c-bc' },
+        { label: '#7c-bc', description: '7th century BC (Hesiod)', value: '#7c-bc' },
+        { label: '#5c-bc', description: '5th century BC (Attic golden age)', value: '#5c-bc' },
+        { label: '#4c-bc', description: '4th century BC (Plato, Aristotle)', value: '#4c-bc' },
+        { label: '#3c-bc', description: '3rd century BC (Hellenistic)', value: '#3c-bc' },
+        { label: '#2c-bc', description: '2nd century BC', value: '#2c-bc' },
+        { label: '#1c-bc', description: '1st century BC (Late Republic)', value: '#1c-bc' },
+        { label: '#1c-ad', description: '1st century AD (Early Empire)', value: '#1c-ad' },
+        { label: '#2c-ad', description: '2nd century AD (High Empire)', value: '#2c-ad' },
+        { label: '#3c-ad', description: '3rd century AD', value: '#3c-ad' },
+        { label: '#4c-ad', description: '4th century AD (Church Fathers)', value: '#4c-ad' },
+        { label: '#5c-ad', description: '5th century AD', value: '#5c-ad' },
+        { label: '#6c-ad', description: '6th century AD (Justinian)', value: '#6c-ad' },
+        { label: '#8c-ad', description: '8th century AD', value: '#8c-ad' },
+        { label: '#11c-ad', description: '11th century AD', value: '#11c-ad' },
+        { label: '#12c-ad', description: '12th century AD (Komnenian)', value: '#12c-ad' },
     ];
 
     const LANG_SUGGESTIONS = [
-        { label: 'lang:gr', description: 'Ἑλληνικά — Greek texts', value: 'lang:gr' },
+        { label: 'lang:gr', description: 'Ἑλληνικά - Greek texts', value: 'lang:gr' },
         { label: 'lang:en', description: 'English translations', value: 'lang:en' },
         { label: 'lang:la', description: 'Latin texts', value: 'lang:la' },
     ];
@@ -368,7 +384,7 @@
                         s.value.substring(5).startsWith(partial)
                     );
                 }
-                // Still typing "lang:" prefix — show all lang suggestions as a hint
+                // Still typing "lang:" prefix - show all lang suggestions as a hint
                 return LANG_SUGGESTIONS;
             }
             return [];

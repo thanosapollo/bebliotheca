@@ -3,7 +3,7 @@
 Ensure every translation file has a corresponding original-language file.
 
 English (en/) and Latin (la/) files are translations. Every translation must
-have a Greek (gr/) counterpart with the same filename stem — otherwise the
+have a Greek (gr/) counterpart with the same filename stem - otherwise the
 work appears as an orphaned translation in the catalog.
 
 This is bidirectional in principle: if we ever add English originals that

@@ -76,7 +76,7 @@ class TEIToOrgConverter:
     }
 
     # HTML/XML entities commonly found in Perseus TEI files.
-    # Python's ElementTree only knows &amp; &lt; &gt; &apos; &quot; —
+    # Python's ElementTree only knows &amp; &lt; &gt; &apos; &quot; -
     # everything else must be declared or replaced before parsing.
     HTML_ENTITIES = {
         '&mdash;': '\u2014', '&ndash;': '\u2013',
@@ -177,7 +177,7 @@ class TEIToOrgConverter:
         """Extract metadata from TEI header."""
         metadata = {}
 
-        # Detect language — prefer filename over TEI metadata
+        # Detect language - prefer filename over TEI metadata
         filename = os.path.basename(self.xml_file)
         if any(lang in filename for lang in ['grc', 'gre']):
             metadata['language'] = 'gr'
@@ -406,7 +406,7 @@ class TEIToOrgConverter:
             text = self.get_text_content(elem)
             if text:
                 if not self.structural_path:
-                    # Top-level head is redundant with #+TITLE: — skip it
+                    # Top-level head is redundant with #+TITLE: - skip it
                     pass
                 else:
                     stars = self._heading_stars(extra=1)
@@ -775,13 +775,13 @@ def process_directory(data_dir='data', pattern='*.xml'):
             orig_files = lat_files
             orig_expected_lang = 'la'
         else:
-            # No original — skip English-only works
+            # No original - skip English-only works
             for f in eng_files:
                 print(f"Skipping (no original): {f}")
             skipped += len(eng_files)
             continue
 
-        # Convert original file (prefer highest version number — last after sort)
+        # Convert original file (prefer highest version number - last after sort)
         orig_file = orig_files[-1]
         try:
             print(f"Converting: {orig_file}")
