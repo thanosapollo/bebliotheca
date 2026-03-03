@@ -115,15 +115,10 @@ case "${1:-all}" in
         done
         ;;
     import)
-        for script in scripts/import_*.sh; do
-            [ -f "$script" ] || continue
-            echo "==> Running $(basename "$script")"
-            "$script"
-        done
+        python3 scripts/import_sources.py
         ;;
     update)
-        git submodule update --remote
-        "$0" import
+        python3 scripts/import_sources.py --update
         ;;
     publish)
         "$0" import
