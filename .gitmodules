@@ -4,3 +4,6 @@
 [submodule "sources/canonical-latinLit"]
 	path = sources/canonical-latinLit
 	url = https://github.com/PerseusDL/canonical-latinLit
+[submodule "sources/apostolic-fathers"]
+	path = sources/apostolic-fathers
+	url = https://github.com/jtauber/apostolic-fathers.git
