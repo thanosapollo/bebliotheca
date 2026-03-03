@@ -18,10 +18,10 @@ Usage:
 """
 
 import argparse
-import os
 import re
 import sys
-from collections import OrderedDict
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Tuple
 
 # ── Text metadata ──────────────────────────────────────────────────────
 # Maps source filename to output metadata.
@@ -29,7 +29,7 @@ from collections import OrderedDict
 # title: Greek title for #+TITLE:
 # author: Greek author name for #+AUTHOR:
 # three_level: True for Shepherd of Hermas (section.chapter.verse format)
-TEXTS = {
+TEXTS: Dict[str, Dict[str, Any]] = {
     '001-i_clement.txt': {
         'stem': 'i-clement--clement-of-rome',
         'title': "Κλήμεντος πρὸς Κορινθίους Αʹ",
@@ -108,12 +108,12 @@ TEXTS = {
 CHAPTER_ZERO_HEADING = 'Ἐπιγραφή'
 
 
-def parse_two_level(filepath):
+def parse_two_level(filepath: Path) -> Dict[int, List[Tuple[int, str]]]:
     """Parse chapter.verse formatted text into structured data.
 
-    Returns OrderedDict: chapter_num -> [(verse_num, text), ...]
+    Returns dict: chapter_num => [(verse_num, text), ...]
     """
-    chapters = OrderedDict()
+    chapters: Dict[int, List[Tuple[int, str]]] = {}
     with open(filepath, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
@@ -125,21 +125,19 @@ def parse_two_level(filepath):
             ch = int(match.group(1))
             verse = int(match.group(2))
             text = match.group(3)
-            if ch not in chapters:
-                chapters[ch] = []
-            chapters[ch].append((verse, text))
+            chapters.setdefault(ch, []).append((verse, text))
     return chapters
 
 
-def parse_three_level(filepath):
+def parse_three_level(filepath: Path) -> Dict[int, Dict[str, Any]]:
     """Parse section.chapter.verse formatted text (Shepherd of Hermas).
 
-    Returns OrderedDict: section_num -> {
+    Returns dict: section_num => {
         'title': str or None,
-        'chapters': OrderedDict(chapter_num -> [(verse_num, text), ...])
+        'chapters': dict(chapter_num => [(verse_num, text), ...])
     }
     """
-    sections = OrderedDict()
+    sections: Dict[int, Dict[str, Any]] = {}
     with open(filepath, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
@@ -154,96 +152,102 @@ def parse_three_level(filepath):
             text = match.group(4)
 
             if sec not in sections:
-                sections[sec] = {'title': None, 'chapters': OrderedDict()}
+                sections[sec] = {'title': None, 'chapters': {}}
 
             if ch == 0 and verse == 0:
-                # Section title line (e.g., "Ὅρασις αʹ")
                 sections[sec]['title'] = text
             else:
-                if ch not in sections[sec]['chapters']:
-                    sections[sec]['chapters'][ch] = []
-                sections[sec]['chapters'][ch].append((verse, text))
+                sections[sec]['chapters'].setdefault(ch, []).append((verse, text))
     return sections
 
 
-def generate_org_two_level(meta, chapters):
+def generate_org_two_level(meta: Dict[str, Any], chapters: Dict[int, List[Tuple[int, str]]]) -> str:
     """Generate Org-mode content for a two-level text."""
-    lines = []
-    lines.append(f'#+TITLE: {meta["title"]}')
-    lines.append(f'#+AUTHOR: {meta["author"]}')
-    lines.append('#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup')
-    lines.append('#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil')
-    lines.append('#+startup: overview')
-    lines.append(f'#+EXPORT_FILE_NAME: ../../public/gr/{meta["stem"]}')
-    lines.append('#+LANGUAGE: el')
-    lines.append('')
+    lines: List[str] = [
+        f'#+TITLE: {meta["title"]}',
+        f'#+AUTHOR: {meta["author"]}',
+        '#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup',
+        '#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil',
+        '#+startup: overview',
+        f'#+EXPORT_FILE_NAME: ../../public/gr/{meta["stem"]}',
+        '#+LANGUAGE: el',
+        '',
+    ]
 
     for ch_num, verses in chapters.items():
-        # Chapter heading
-        if ch_num == 0:
-            heading = CHAPTER_ZERO_HEADING
-        else:
-            heading = f'Κεφάλαιον {ch_num}'
-        lines.append(f'* {heading}')
-        lines.append(':PROPERTIES:')
-        lines.append(f':CUSTOM_ID: ch-{ch_num}')
-        lines.append(':END:')
-        lines.append('')
+        heading = CHAPTER_ZERO_HEADING if ch_num == 0 else f'Κεφάλαιον {ch_num}'
+        lines.extend([
+            f'* {heading}',
+            ':PROPERTIES:',
+            f':CUSTOM_ID: ch-{ch_num}',
+            ':END:',
+            '',
+        ])
 
         for verse_num, text in verses:
-            # Verse sub-heading
-            lines.append(f'** Τμῆμα {verse_num}')
-            lines.append(':PROPERTIES:')
-            lines.append(f':CUSTOM_ID: ch-{ch_num}-sec-{verse_num}')
-            lines.append(':END:')
-            lines.append(text)
-            lines.append('')
+            lines.extend([
+                f'** Τμῆμα {verse_num}',
+                ':PROPERTIES:',
+                f':CUSTOM_ID: ch-{ch_num}-sec-{verse_num}',
+                ':END:',
+                text,
+                '',
+            ])
 
     return '\n'.join(lines)
 
 
-def generate_org_three_level(meta, sections):
+def generate_org_three_level(meta: Dict[str, Any], sections: Dict[int, Dict[str, Any]]) -> str:
     """Generate Org-mode content for the Shepherd of Hermas (three-level)."""
-    lines = []
-    lines.append(f'#+TITLE: {meta["title"]}')
-    lines.append(f'#+AUTHOR: {meta["author"]}')
-    lines.append('#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup')
-    lines.append('#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil')
-    lines.append('#+startup: overview')
-    lines.append(f'#+EXPORT_FILE_NAME: ../../public/gr/{meta["stem"]}')
-    lines.append('#+LANGUAGE: el')
-    lines.append('')
+    lines: List[str] = [
+        f'#+TITLE: {meta["title"]}',
+        f'#+AUTHOR: {meta["author"]}',
+        '#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup',
+        '#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil',
+        '#+startup: overview',
+        f'#+EXPORT_FILE_NAME: ../../public/gr/{meta["stem"]}',
+        '#+LANGUAGE: el',
+        '',
+    ]
 
     for sec_num, sec_data in sections.items():
-        # Section heading (Vision/Mandate/Parable title)
         title = sec_data['title'] or f'Τμῆμα {sec_num}'
-        lines.append(f'* {title}')
-        lines.append(':PROPERTIES:')
-        lines.append(f':CUSTOM_ID: sec-{sec_num}')
-        lines.append(':END:')
-        lines.append('')
+        lines.extend([
+            f'* {title}',
+            ':PROPERTIES:',
+            f':CUSTOM_ID: sec-{sec_num}',
+            ':END:',
+            '',
+        ])
 
         for ch_num, verses in sec_data['chapters'].items():
-            # Chapter heading within section
-            lines.append(f'** Κεφάλαιον {ch_num}')
-            lines.append(':PROPERTIES:')
-            lines.append(f':CUSTOM_ID: sec-{sec_num}-ch-{ch_num}')
-            lines.append(':END:')
-            lines.append('')
+            lines.extend([
+                f'** Κεφάλαιον {ch_num}',
+                ':PROPERTIES:',
+                f':CUSTOM_ID: sec-{sec_num}-ch-{ch_num}',
+                ':END:',
+                '',
+            ])
 
             for verse_num, text in verses:
-                # Verse sub-heading
-                lines.append(f'*** Τμῆμα {verse_num}')
-                lines.append(':PROPERTIES:')
-                lines.append(f':CUSTOM_ID: sec-{sec_num}-ch-{ch_num}-sec-{verse_num}')
-                lines.append(':END:')
-                lines.append(text)
-                lines.append('')
+                lines.extend([
+                    f'*** Τμῆμα {verse_num}',
+                    ':PROPERTIES:',
+                    f':CUSTOM_ID: sec-{sec_num}-ch-{ch_num}-sec-{verse_num}',
+                    ':END:',
+                    text,
+                    '',
+                ])
 
     return '\n'.join(lines)
 
 
-def convert_text(source_path, meta, output_dir, dry_run=False):
+def convert_text(
+    source_path: Path,
+    meta: Dict[str, Any],
+    output_dir: Path,
+    dry_run: bool = False,
+) -> Optional[Path]:
     """Convert a single text file to Org-mode format.
 
     Returns output path on success, None on skip/error.
@@ -255,34 +259,31 @@ def convert_text(source_path, meta, output_dir, dry_run=False):
         data = parse_two_level(source_path)
         content = generate_org_two_level(meta, data)
 
-    output_path = os.path.join(output_dir, meta['stem'] + '.org')
+    output_path = output_dir / (meta['stem'] + '.org')
 
     if dry_run:
-        # Count sections for preview
         if meta.get('three_level'):
-            sections = len(data)
-            chapters = sum(len(s['chapters']) for s in data.values())
-            verses = sum(
+            n_sections = len(data)
+            n_chapters = sum(len(s['chapters']) for s in data.values())
+            n_verses = sum(
                 len(v)
                 for s in data.values()
                 for v in s['chapters'].values()
             )
-            print(f'  {meta["stem"]}.org: {sections} sections, '
-                  f'{chapters} chapters, {verses} verses')
+            print(f'  {meta["stem"]}.org: {n_sections} sections, '
+                  f'{n_chapters} chapters, {n_verses} verses')
         else:
-            chapters = len(data)
-            verses = sum(len(v) for v in data.values())
-            print(f'  {meta["stem"]}.org: {chapters} chapters, {verses} verses')
+            n_chapters = len(data)
+            n_verses = sum(len(v) for v in data.values())
+            print(f'  {meta["stem"]}.org: {n_chapters} chapters, {n_verses} verses')
         return output_path
 
-    os.makedirs(output_dir, exist_ok=True)
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(content)
-
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(content, encoding='utf-8')
     return output_path
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser(
         description=__doc__,
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -292,25 +293,21 @@ def main():
         help='Preview conversion without writing files',
     )
     parser.add_argument(
-        '--output-dir', type=str, default=None,
+        '--output-dir', type=Path, default=None,
         help='Output directory (default: sources/apostolic-fathers/gr/)',
     )
     parser.add_argument(
-        '--source-dir', type=str, default=None,
+        '--source-dir', type=Path, default=None,
         help='Source texts directory (default: sources/apostolic-fathers/texts/)',
     )
     args = parser.parse_args()
 
-    # Resolve directories
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    root_dir = os.path.dirname(script_dir)
+    root_dir = Path(__file__).resolve().parent.parent
 
-    source_dir = args.source_dir or os.path.join(
-        root_dir, 'sources', 'apostolic-fathers', 'texts')
-    output_dir = args.output_dir or os.path.join(
-        root_dir, 'sources', 'apostolic-fathers', 'gr')
+    source_dir: Path = args.source_dir or root_dir / 'sources' / 'apostolic-fathers' / 'texts'
+    output_dir: Path = args.output_dir or root_dir / 'sources' / 'apostolic-fathers' / 'gr'
 
-    if not os.path.isdir(source_dir):
+    if not source_dir.is_dir():
         print(f'Source directory not found: {source_dir}', file=sys.stderr)
         sys.exit(1)
 
@@ -318,8 +315,8 @@ def main():
     skipped = 0
 
     for filename, meta in TEXTS.items():
-        source_path = os.path.join(source_dir, filename)
-        if not os.path.isfile(source_path):
+        source_path = source_dir / filename
+        if not source_path.is_file():
             print(f'  [skip] {filename}: not found', file=sys.stderr)
             skipped += 1
             continue

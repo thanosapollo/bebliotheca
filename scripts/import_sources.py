@@ -14,14 +14,14 @@ Usage:
 """
 
 import argparse
-import glob
-import os
 import shutil
 import subprocess
 import sys
+from pathlib import Path
+from typing import Any, Dict, List
 
-SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT_DIR = os.path.dirname(SCRIPTS_DIR)
+SCRIPTS_DIR = Path(__file__).resolve().parent
+ROOT_DIR = SCRIPTS_DIR.parent
 
 # ── Source definitions ─────────────────────────────────────────────────
 # Each source describes a submodule and how to import it.
@@ -35,10 +35,10 @@ ROOT_DIR = os.path.dirname(SCRIPTS_DIR)
 #   hellenize      - whether to run hellenize_headings.py after copy
 #   manifest       - manifest file path relative to project root
 
-SOURCES = {
+SOURCES: Dict[str, Dict[str, Any]] = {
     'perseus-greek': {
         'submodule': 'sources/canonical-greekLit',
-        'converter': ['python3', os.path.join(SCRIPTS_DIR, 'convert_perseus_xml_to_org.py')],
+        'converter': ['python3', str(SCRIPTS_DIR / 'convert_perseus_xml_to_org.py')],
         'converter_cwd': 'submodule',
         'output_langs': ['gr', 'en'],
         'exclude': ['*testament*'],
@@ -47,7 +47,7 @@ SOURCES = {
     },
     'perseus-latin': {
         'submodule': 'sources/canonical-latinLit',
-        'converter': ['python3', os.path.join(SCRIPTS_DIR, 'convert_perseus_xml_to_org.py')],
+        'converter': ['python3', str(SCRIPTS_DIR / 'convert_perseus_xml_to_org.py')],
         'converter_cwd': 'submodule',
         'output_langs': ['la', 'en', 'gr'],
         'exclude': [],
@@ -56,7 +56,7 @@ SOURCES = {
     },
     'apostolic-fathers': {
         'submodule': 'sources/apostolic-fathers',
-        'converter': ['python3', os.path.join(SCRIPTS_DIR, 'convert_apostolic_to_org.py')],
+        'converter': ['python3', str(SCRIPTS_DIR / 'convert_apostolic_to_org.py')],
         'converter_cwd': 'root',
         'output_langs': ['gr'],
         'exclude': [],
@@ -66,148 +66,141 @@ SOURCES = {
 }
 
 
-def log(msg, indent=0):
+def log(msg: str, indent: int = 0) -> None:
     """Print a status message with optional indentation, flushing immediately."""
     prefix = '  ' * indent
     print(f'{prefix}{msg}', flush=True)
 
 
-def run(cmd, cwd=None, check=True):
+def run(cmd: List[str], cwd: Path = None, check: bool = True) -> subprocess.CompletedProcess:
     """Run a command, printing it first."""
     log(f'$ {" ".join(cmd)}', indent=2)
     return subprocess.run(cmd, cwd=cwd, check=check)
 
 
-def init_submodule(source):
+def init_submodule(source: Dict[str, Any]) -> None:
     """Ensure the git submodule is initialized."""
     log('Initializing submodule', indent=1)
-    run(['git', '-C', ROOT_DIR, 'submodule', 'update', '--init',
+    run(['git', '-C', str(ROOT_DIR), 'submodule', 'update', '--init',
          source['submodule']])
 
 
-def update_submodule(source):
+def update_submodule(source: Dict[str, Any]) -> None:
     """Update submodule to latest upstream."""
-    submodule_path = os.path.join(ROOT_DIR, source['submodule'])
+    submodule_path = ROOT_DIR / source['submodule']
     log('Updating to latest upstream', indent=1)
-    run(['git', '-C', submodule_path, 'fetch', 'origin'])
-    run(['git', '-C', submodule_path, 'checkout', 'origin/master'])
+    run(['git', '-C', str(submodule_path), 'fetch', 'origin'])
+    run(['git', '-C', str(submodule_path), 'checkout', 'origin/master'])
     result = subprocess.run(
-        ['git', '-C', submodule_path, 'log', '--oneline', '-1'],
+        ['git', '-C', str(submodule_path), 'log', '--oneline', '-1'],
         capture_output=True, text=True)
     log(f'Now at: {result.stdout.strip()}', indent=2)
 
 
-def clean_converter_output(source):
+def clean_converter_output(source: Dict[str, Any]) -> None:
     """Remove previous converter output directories from submodule."""
-    submodule_path = os.path.join(ROOT_DIR, source['submodule'])
+    submodule_path = ROOT_DIR / source['submodule']
     for lang in source['output_langs']:
-        lang_dir = os.path.join(submodule_path, lang)
-        if os.path.isdir(lang_dir):
+        lang_dir = submodule_path / lang
+        if lang_dir.is_dir():
             shutil.rmtree(lang_dir)
 
 
-def run_converter(source):
+def run_converter(source: Dict[str, Any]) -> None:
     """Run the source's converter script."""
     log('Running converter', indent=1)
-    submodule_path = os.path.join(ROOT_DIR, source['submodule'])
-    if source['converter_cwd'] == 'submodule':
-        cwd = submodule_path
-    else:
-        cwd = ROOT_DIR
+    submodule_path = ROOT_DIR / source['submodule']
+    cwd = submodule_path if source['converter_cwd'] == 'submodule' else ROOT_DIR
     run(source['converter'], cwd=cwd)
 
 
-def remove_stale_files(source):
+def remove_stale_files(source: Dict[str, Any]) -> None:
     """Remove files listed in the previous manifest."""
-    manifest_path = os.path.join(ROOT_DIR, source['manifest'])
-    if not os.path.isfile(manifest_path):
+    manifest_path = ROOT_DIR / source['manifest']
+    if not manifest_path.is_file():
         return
     log('Removing stale files from previous manifest', indent=1)
     count = 0
-    with open(manifest_path, 'r') as f:
-        for line in f:
-            filepath = os.path.join(ROOT_DIR, line.strip())
-            if os.path.isfile(filepath):
-                os.remove(filepath)
-                count += 1
+    for line in manifest_path.read_text().splitlines():
+        filepath = ROOT_DIR / line.strip()
+        if filepath.is_file():
+            filepath.unlink()
+            count += 1
     log(f'Removed {count} files', indent=2)
 
 
-def copy_to_content(source):
+def copy_to_content(source: Dict[str, Any]) -> None:
     """Copy converter output to content/ directories."""
     log('Copying to content/', indent=1)
-    submodule_path = os.path.join(ROOT_DIR, source['submodule'])
-    content_dir = os.path.join(ROOT_DIR, 'content')
+    submodule_path = ROOT_DIR / source['submodule']
+    content_dir = ROOT_DIR / 'content'
     copied = 0
     for lang in source['output_langs']:
-        src_dir = os.path.join(submodule_path, lang)
-        if not os.path.isdir(src_dir):
+        src_dir = submodule_path / lang
+        if not src_dir.is_dir():
             continue
-        dst_dir = os.path.join(content_dir, lang)
-        os.makedirs(dst_dir, exist_ok=True)
-        for f in glob.glob(os.path.join(src_dir, '*.org')):
+        dst_dir = content_dir / lang
+        dst_dir.mkdir(parents=True, exist_ok=True)
+        for f in sorted(src_dir.glob('*.org')):
             shutil.copy2(f, dst_dir)
             copied += 1
     log(f'Copied {copied} files', indent=2)
 
 
-def remove_excluded(source):
+def remove_excluded(source: Dict[str, Any]) -> None:
     """Remove files matching exclude patterns from content/ and converter output."""
     if not source['exclude']:
         return
     log('Removing excluded files', indent=1)
-    submodule_path = os.path.join(ROOT_DIR, source['submodule'])
-    content_dir = os.path.join(ROOT_DIR, 'content')
+    submodule_path = ROOT_DIR / source['submodule']
+    content_dir = ROOT_DIR / 'content'
     count = 0
     for pattern in source['exclude']:
         for lang in source['output_langs']:
-            for f in glob.glob(os.path.join(content_dir, lang, pattern + '.org')):
-                os.remove(f)
+            for f in (content_dir / lang).glob(pattern + '.org'):
+                f.unlink()
                 count += 1
-            for f in glob.glob(os.path.join(submodule_path, lang, pattern + '.org')):
-                os.remove(f)
+            for f in (submodule_path / lang).glob(pattern + '.org'):
+                f.unlink()
     log(f'Excluded {count} files', indent=2)
 
 
-def hellenize_headings():
+def hellenize_headings() -> None:
     """Run hellenize_headings.py to convert English labels to Greek."""
     log('Hellenizing Greek headings', indent=1)
-    run(['python3', os.path.join(SCRIPTS_DIR, 'hellenize_headings.py')],
-        cwd=ROOT_DIR)
+    run(['python3', str(SCRIPTS_DIR / 'hellenize_headings.py')], cwd=ROOT_DIR)
 
 
-def tag_filetags():
+def tag_filetags() -> None:
     """Run tag_filetags.py to insert FILETAGS based on author classification."""
     log('Tagging files', indent=1)
-    run(['python3', os.path.join(SCRIPTS_DIR, 'tag_filetags.py')],
-        cwd=ROOT_DIR)
+    run(['python3', str(SCRIPTS_DIR / 'tag_filetags.py')], cwd=ROOT_DIR)
 
 
-def generate_manifest(source):
+def generate_manifest(source: Dict[str, Any]) -> None:
     """Generate the manifest file listing all imported files."""
     log('Generating manifest', indent=1)
-    submodule_path = os.path.join(ROOT_DIR, source['submodule'])
-    manifest_path = os.path.join(ROOT_DIR, source['manifest'])
-    entries = []
+    submodule_path = ROOT_DIR / source['submodule']
+    manifest_path = ROOT_DIR / source['manifest']
+    entries: List[str] = []
     for lang in source['output_langs']:
-        lang_dir = os.path.join(submodule_path, lang)
-        if not os.path.isdir(lang_dir):
+        lang_dir = submodule_path / lang
+        if not lang_dir.is_dir():
             continue
-        for f in sorted(glob.glob(os.path.join(lang_dir, '*.org'))):
-            entries.append(f'content/{lang}/{os.path.basename(f)}')
+        for f in sorted(lang_dir.glob('*.org')):
+            entries.append(f'content/{lang}/{f.name}')
     entries.sort()
-    with open(manifest_path, 'w') as f:
-        f.write('\n'.join(entries) + '\n' if entries else '')
+    manifest_path.write_text('\n'.join(entries) + '\n' if entries else '')
     log(f'{len(entries)} files in manifest', indent=2)
 
 
-def run_tests():
+def run_tests() -> None:
     """Run make test to validate imported content."""
     log('==> Running validation')
     run(['make', 'test'], cwd=ROOT_DIR)
 
 
-def import_source(name, source, update=False):
+def import_source(name: str, source: Dict[str, Any], update: bool = False) -> None:
     """Run the full import pipeline for a single source."""
     log(f'==> Importing {name}')
     init_submodule(source)
@@ -225,11 +218,11 @@ def import_source(name, source, update=False):
     clean_converter_output(source)
     log(f'==> {name} import complete')
     if update:
-        log(f'Submodule updated. Remember to stage:', indent=1)
+        log('Submodule updated. Remember to stage:', indent=1)
         log(f'git add {source["submodule"]}', indent=2)
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser(
         description=__doc__,
         formatter_class=argparse.RawDescriptionHelpFormatter,

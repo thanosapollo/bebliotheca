@@ -7,9 +7,10 @@ Usage:
 """
 
 import argparse
-import glob
 import re
 import sys
+from pathlib import Path
+from typing import List
 
 LABEL_MAP = {
     'Book': 'Βιβλίον',
@@ -24,12 +25,11 @@ HEADING_RE = re.compile(
 )
 
 
-def hellenize_file(path, dry_run=False):
-    """Process one .org file. Returns (replacements, changed_lines) count."""
-    with open(path, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+def hellenize_file(path: Path, dry_run: bool = False) -> int:
+    """Process one .org file. Returns number of headings replaced."""
+    lines = path.read_text(encoding='utf-8').splitlines(keepends=True)
 
-    new_lines = []
+    new_lines: List[str] = []
     count = 0
     for line in lines:
         m = HEADING_RE.match(line)
@@ -41,20 +41,19 @@ def hellenize_file(path, dry_run=False):
             new_lines.append(line)
 
     if count > 0 and not dry_run:
-        with open(path, 'w', encoding='utf-8') as f:
-            f.writelines(new_lines)
+        path.write_text(''.join(new_lines), encoding='utf-8')
 
     return count
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--dry-run', action='store_true',
                         help='Preview changes without modifying files')
     args = parser.parse_args()
 
-    content_dir = 'content/gr'
-    files = sorted(glob.glob(f'{content_dir}/*.org'))
+    content_dir = Path('content/gr')
+    files = sorted(content_dir.glob('*.org'))
     if not files:
         print(f'No .org files found in {content_dir}/', file=sys.stderr)
         sys.exit(1)

@@ -12,17 +12,30 @@ Usage:
 """
 
 import argparse
-import glob
-import os
 import re
 import sys
+from enum import Enum, auto
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
 
 # ── Century pattern ──────────────────────────────────────────────────
 CENTURY_RE = re.compile(r'^\d+c-(bc|ad)$')
 
-# ── Author slug → era tag ───────────────────────────────────────────
+
+class Result(Enum):
+    """Outcome of tagging a single file."""
+    TAGGED = auto()
+    UPDATED = auto()
+    SKIPPED_EXISTING = auto()
+    SKIPPED_HAS_CENTURY = auto()
+    SKIPPED_NO_CENTURY = auto()
+    SKIPPED_UNKNOWN = auto()
+    SKIPPED_NO_SLUG = auto()
+
+
+# ── Author slug => era tag ───────────────────────────────────────────
 # Tags follow Constantinople's classification system.
-AUTHOR_TAGS = {
+AUTHOR_TAGS: Dict[str, str] = {
     # classical: Pre-Christian Greek & Latin (~800 BC - ~1 BC)
     # Greek
     'homer': 'classical',
@@ -192,8 +205,8 @@ AUTHOR_TAGS = {
     'new-testament': 'scripture',
 }
 
-# ── Author slug → century (floruit) ─────────────────────────────────
-AUTHOR_CENTURIES = {
+# ── Author slug => century (floruit) ─────────────────────────────────
+AUTHOR_CENTURIES: Dict[str, str] = {
     # Classical Greek
     'homer': '8c-bc',
     'hesiod': '7c-bc',
@@ -351,11 +364,11 @@ AUTHOR_CENTURIES = {
     # Byzantine Latin
     'ausonius-decimus-magnus': '4c-ad',
     'claudian': '4c-ad',
-    # Scripture omitted - Ἁγία Γραφή stands outside secular chronology
+    # Scripture omitted
 }
 
 # ── Stem overrides for manually curated files (no --slug naming) ─────
-STEM_OVERRIDES = {
+STEM_OVERRIDES: Dict[str, str] = {
     'agiagrafi': 'new-testament',
     'alcestis': 'euripides',
     'alexiada': 'anna-komnene',
@@ -375,7 +388,7 @@ STEM_OVERRIDES = {
 }
 
 
-def resolve_slug(path):
+def resolve_slug(path: Path) -> Tuple[Optional[str], str]:
     """Resolve author slug from filename.
 
     For 'title--author-slug.org' files, extracts slug after '--'.
@@ -383,27 +396,26 @@ def resolve_slug(path):
 
     Returns (slug_or_None, stem).
     """
-    stem = os.path.splitext(os.path.basename(path))[0]
+    stem = path.stem
     if '--' in stem:
         return stem.rsplit('--', 1)[1], stem
     return STEM_OVERRIDES.get(stem), stem
 
 
-def parse_filetags(line):
+def parse_filetags(line: str) -> List[str]:
     """Parse tag names from a #+FILETAGS: line. Returns list of strings."""
-    # Format: #+FILETAGS: :tag1:tag2:
     value = re.split(r'(?i)#\+filetags:\s*', line, maxsplit=1)
     if len(value) < 2:
         return []
     return [t for t in value[1].strip().split(':') if t]
 
 
-def has_century_tag(tags):
+def has_century_tag(tags: List[str]) -> bool:
     """Check if any tag in the list is a century tag."""
     return any(CENTURY_RE.match(t) for t in tags)
 
 
-def build_filetags_value(slug):
+def build_filetags_value(slug: str) -> Optional[str]:
     """Build the FILETAGS value string from an author slug.
 
     Returns string like ':classical:8c-bc:' or ':classical:', or None
@@ -418,35 +430,30 @@ def build_filetags_value(slug):
     return f':{era}:'
 
 
-def tag_file(path, dry_run=False, update=False):
+def tag_file(
+    path: Path,
+    dry_run: bool = False,
+    update: bool = False,
+) -> Tuple[Result, Optional[str]]:
     """Insert or update #+FILETAGS: based on author classification.
 
     Normal mode: Insert FILETAGS (era + century) if none exists.
     Update mode: Add century tag to files that only have an era tag.
 
-    Returns:
-        ('tagged', value)           - new FILETAGS inserted
-        ('updated', value)          - century added to existing era tag
-        ('skipped_existing',)       - already has FILETAGS (normal mode)
-        ('skipped_has_century',)    - already has a century tag (update mode)
-        ('skipped_no_century',)     - no century data for this author
-        ('skipped_unknown', slug)   - author slug not in AUTHOR_TAGS
-        ('skipped_no_slug',)        - cannot determine author slug
+    Returns (Result, value_or_slug_or_None).
     """
-    with open(path, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+    lines = path.read_text(encoding='utf-8').splitlines(keepends=True)
 
-    # Resolve author slug
     slug, stem = resolve_slug(path)
     if slug is None:
-        return ('skipped_no_slug',)
+        return Result.SKIPPED_NO_SLUG, None
 
     if slug not in AUTHOR_TAGS:
-        return ('skipped_unknown', slug)
+        return Result.SKIPPED_UNKNOWN, slug
 
-    # Find existing #+FILETAGS: line (uppercase canonical form)
-    existing_idx = None
-    existing_tags = []
+    # Find existing #+FILETAGS: line
+    existing_idx: Optional[int] = None
+    existing_tags: List[str] = []
     for i, line in enumerate(lines):
         if line.startswith('#+FILETAGS:'):
             existing_idx = i
@@ -454,122 +461,107 @@ def tag_file(path, dry_run=False, update=False):
             break
 
     if existing_idx is not None:
-        # FILETAGS already exists
         if not update:
-            return ('skipped_existing',)
+            return Result.SKIPPED_EXISTING, None
 
         # --update mode: add century if missing
         if has_century_tag(existing_tags):
-            return ('skipped_has_century',)
+            return Result.SKIPPED_HAS_CENTURY, None
 
         century = AUTHOR_CENTURIES.get(slug)
         if not century:
-            return ('skipped_no_century',)
+            return Result.SKIPPED_NO_CENTURY, None
 
-        # Build new value: keep existing era tags, append century
         era_tags = [t for t in existing_tags if not CENTURY_RE.match(t)]
         new_value = ':' + ':'.join(era_tags + [century]) + ':'
 
         if not dry_run:
             lines[existing_idx] = f'#+FILETAGS: {new_value}\n'
-            with open(path, 'w', encoding='utf-8') as f:
-                f.writelines(lines)
+            path.write_text(''.join(lines), encoding='utf-8')
 
-        return ('updated', new_value)
+        return Result.UPDATED, new_value
 
     # No FILETAGS exists - insert after #+AUTHOR:
     filetags_value = build_filetags_value(slug)
     if filetags_value is None:
-        return ('skipped_unknown', slug)
+        return Result.SKIPPED_UNKNOWN, slug
 
-    new_lines = []
+    new_lines: List[str] = []
     inserted = False
     for line in lines:
         new_lines.append(line)
-        if not inserted and (line.startswith('#+AUTHOR:') or line.startswith('#+author:')):
+        if not inserted and line.lower().startswith('#+author:'):
             new_lines.append(f'#+FILETAGS: {filetags_value}\n')
             inserted = True
 
     if not inserted:
-        # No AUTHOR line found - insert after first line as fallback
         new_lines.insert(1, f'#+FILETAGS: {filetags_value}\n')
 
     if not dry_run:
-        with open(path, 'w', encoding='utf-8') as f:
-            f.writelines(new_lines)
+        path.write_text(''.join(new_lines), encoding='utf-8')
 
-    return ('tagged', filetags_value)
+    return Result.TAGGED, filetags_value
 
 
-def main():
-    parser = argparse.ArgumentParser(description=__doc__,
-                                     formatter_class=argparse.RawDescriptionHelpFormatter)
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
     parser.add_argument('--dry-run', action='store_true',
                         help='Preview changes without modifying files')
     parser.add_argument('--update', action='store_true',
                         help='Add century tags to files with era-only tags')
     args = parser.parse_args()
 
-    content_dirs = ['content/gr', 'content/en', 'content/la']
-    files = []
-    for d in content_dirs:
-        files.extend(sorted(glob.glob(f'{d}/*.org')))
+    content_dirs = [Path('content') / d for d in ('gr', 'en', 'la')]
+    files = [
+        f
+        for d in content_dirs
+        if d.exists()
+        for f in sorted(d.glob('*.org'))
+    ]
 
     if not files:
         print('No .org files found in content/{gr,en,la}/', file=sys.stderr)
         sys.exit(1)
 
-    tagged = 0
-    updated = 0
-    skipped_existing = 0
-    skipped_has_century = 0
-    skipped_no_century = 0
-    skipped_unknown = 0
-    skipped_no_slug = 0
-    unknown_slugs = set()
+    # Accumulate results
+    counts: Dict[Result, int] = {r: 0 for r in Result}
+    unknown_slugs: set = set()
 
     for path in files:
-        result = tag_file(path, dry_run=args.dry_run, update=args.update)
-        if result[0] == 'tagged':
-            tagged += 1
-            if args.dry_run:
-                print(f'  [new] {path}: {result[1]}')
-        elif result[0] == 'updated':
-            updated += 1
-            if args.dry_run:
-                print(f'  [upd] {path}: {result[1]}')
-        elif result[0] == 'skipped_existing':
-            skipped_existing += 1
-        elif result[0] == 'skipped_has_century':
-            skipped_has_century += 1
-        elif result[0] == 'skipped_no_century':
-            skipped_no_century += 1
-        elif result[0] == 'skipped_unknown':
-            skipped_unknown += 1
-            unknown_slugs.add(result[1])
-        elif result[0] == 'skipped_no_slug':
-            skipped_no_slug += 1
+        result, value = tag_file(path, dry_run=args.dry_run, update=args.update)
+        counts[result] += 1
 
+        if result == Result.TAGGED and args.dry_run:
+            print(f'  [new] {path}: {value}')
+        elif result == Result.UPDATED and args.dry_run:
+            print(f'  [upd] {path}: {value}')
+        elif result == Result.SKIPPED_UNKNOWN and value:
+            unknown_slugs.add(value)
+
+    # Summary
     mode = 'Would' if args.dry_run else 'Did'
-    parts = []
-    if tagged:
-        parts.append(f'tag {tagged}')
-    if updated:
-        parts.append(f'update {updated}')
+    parts: List[str] = []
+    if counts[Result.TAGGED]:
+        parts.append(f'tag {counts[Result.TAGGED]}')
+    if counts[Result.UPDATED]:
+        parts.append(f'update {counts[Result.UPDATED]}')
     if not parts:
         parts.append('change 0')
 
-    skip_parts = []
-    if skipped_existing:
-        skip_parts.append(f'{skipped_existing} already tagged')
-    if skipped_has_century:
-        skip_parts.append(f'{skipped_has_century} already have century')
-    if skipped_no_century:
-        skip_parts.append(f'{skipped_no_century} no century data')
-    if skipped_unknown:
-        skip_parts.append(f'{skipped_unknown} unknown author')
-    if skipped_no_slug:
-        skip_parts.append(f'{skipped_no_slug} no author slug')
+    skip_parts: List[str] = []
+    if counts[Result.SKIPPED_EXISTING]:
+        skip_parts.append(f'{counts[Result.SKIPPED_EXISTING]} already tagged')
+    if counts[Result.SKIPPED_HAS_CENTURY]:
+        skip_parts.append(f'{counts[Result.SKIPPED_HAS_CENTURY]} already have century')
+    if counts[Result.SKIPPED_NO_CENTURY]:
+        skip_parts.append(f'{counts[Result.SKIPPED_NO_CENTURY]} no century data')
+    if counts[Result.SKIPPED_UNKNOWN]:
+        skip_parts.append(f'{counts[Result.SKIPPED_UNKNOWN]} unknown author')
+    if counts[Result.SKIPPED_NO_SLUG]:
+        skip_parts.append(f'{counts[Result.SKIPPED_NO_SLUG]} no author slug')
 
     summary = f'{mode} {", ".join(parts)} files'
     if skip_parts:

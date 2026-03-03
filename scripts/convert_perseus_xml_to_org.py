@@ -1,36 +1,91 @@
 #!/usr/bin/env python3
-"""
-Convert Perseus Digital Library TEI XML files to Org mode format.
+"""Convert Perseus Digital Library TEI XML files to Org mode format.
 
-This script imports both canonical-greekLit and canonical-latinLit corpora
-from the Perseus Digital Library into Bebliotheca. It converts TEI XML files
-to Org-mode format with language-appropriate heading labels.
+Converts TEI XML files from canonical-greekLit and canonical-latinLit into
+Org-mode format with language-appropriate heading labels.
 
-Source XML data lives in git submodules at sources/canonical-greekLit and
-sources/canonical-latinLit. Use the import scripts to run the full pipeline:
+Source XML data lives in git submodules. Use the unified import pipeline:
 
-    ./scripts/import_perseus.sh       # Greek literature
-    ./scripts/import_latinlit.sh      # Latin literature
+    python3 scripts/import_sources.py perseus-greek
+    python3 scripts/import_sources.py perseus-latin
 
-The script reads TEI XML files organized under data/*/*, detects language
-from TEI headers (Greek, Latin, or English), and outputs .org files into
-gr/, la/, and en/ subdirectories (relative to CWD). Filenames use English
-titles with double-dash author separator: title--author.org
+Reads TEI XML files under data/*/*, detects language from TEI headers
+(Greek, Latin, or English), and outputs .org files into gr/, la/, and en/
+subdirectories (relative to CWD). Filenames use English titles with
+double-dash author separator: title--author.org
 
-Handles poetry, prose, and drama. Structural divisions (book, chapter, section)
-become Org headings with CUSTOM_IDs for cross-language linking. Greek files get
-Greek labels (Βιβλίον, Κεφάλαιον, Τμῆμα), Latin files get Latin labels
-(Liber, Caput, Sectio), and English files get English labels.
+Handles poetry, prose, and drama. Structural divisions (book, chapter,
+section) become Org headings with CUSTOM_IDs for cross-language linking.
 """
 
 import os
-import sys
 import re
+import sys
 from pathlib import Path
+from typing import Dict, List, Optional, Tuple
 from xml.etree import ElementTree as ET
 
 # TEI namespace
 TEI_NS = {'tei': 'http://www.tei-c.org/ns/1.0'}
+
+# Common Greek to English transliterations for slugs
+GREEK_SLUG_MAP = {
+    'Εἰδύλλια': 'idylls',
+    'Θεόκριτος': 'theocritus',
+    'Πλάτων': 'plato',
+    'Ὀδύσσεια': 'odyssey',
+    'Ἰλιάς': 'iliad',
+    'Πολιτεία': 'republic',
+}
+
+
+def make_slug(text: str) -> str:
+    """Convert text to lowercase slug format."""
+    text = GREEK_SLUG_MAP.get(text, text)
+    # Remove punctuation
+    text = re.sub(r'[,;:()\[\]\'""\u201c\u201d\u2018\u2019\u00ab\u00bb.!?]', '', text)
+    # Remove non-ASCII/non-word characters
+    text = re.sub(r'[^\x00-\x7F\w\s-]+', '', text)
+    text = text.lower().strip()
+    text = re.sub(r'[-\s]+', '-', text)
+    return text
+
+
+def clean_whitespace(text: str) -> str:
+    """Clean up excessive whitespace: strip lines, collapse blank runs."""
+    lines = [line.strip() for line in text.split('\n')]
+    result: List[str] = []
+    prev_blank = False
+    for line in lines:
+        if line == '':
+            if not prev_blank:
+                result.append(line)
+            prev_blank = True
+        else:
+            result.append(line)
+            prev_blank = False
+    return '\n'.join(result)
+
+
+def get_text_content(elem: ET.Element, preserve_children: bool = False) -> str:
+    """Get text content of a TEI element, optionally processing children."""
+    if preserve_children:
+        parts: List[str] = []
+        if elem.text:
+            parts.append(elem.text)
+        for child in elem:
+            tag = child.tag.replace('{' + TEI_NS['tei'] + '}', '')
+            if tag in ['quote', 'q']:
+                parts.append('/')
+                parts.append(get_text_content(child, True))
+                parts.append('/')
+            elif tag not in ['note', 'bibl']:
+                parts.append(get_text_content(child, True))
+            if child.tail:
+                parts.append(child.tail)
+        return ''.join(parts)
+    else:
+        return ''.join(elem.itertext())
 
 
 class TEIToOrgConverter:
@@ -139,12 +194,13 @@ class TEIToOrgConverter:
             xml_text = f.read()
         xml_text = self._resolve_entities(xml_text)
         self.root = ET.fromstring(xml_text)
-        self.output = []
-        self.structural_path = []   # Stack of (abbrev, n) tuples for path-based IDs
-        self.speaker_counter = 0    # Counter for speakers, resets per card/structural section
-        self.current_card = None    # Current card number (milestone or div)
-        self.in_preamble = False    # True when inside a preamble div (children inherit preamble status)
-        self.language = 'en'        # Set by convert() after metadata extraction
+        self.output: List[str] = []
+        self.structural_path: List[Tuple[str, str]] = []
+        self.speaker_counter = 0
+        self.current_card: Optional[str] = None
+        self.in_preamble = False
+        self.language = 'en'
+        self._metadata: Dict[str, str] = {}
 
     def get_english_title_from_pair(self):
         """Try to get English title from corresponding English file."""
@@ -169,7 +225,7 @@ class TEIToOrgConverter:
                     title = root.find('.//tei:titleStmt/tei:title', TEI_NS)
                     if title is not None and title.text:
                         return title.text.strip()
-                except:
+                except Exception:
                     continue
         return None
 
@@ -403,7 +459,7 @@ class TEIToOrgConverter:
 
         # Handle head tags (poem/section titles)
         elif tag == 'head':
-            text = self.get_text_content(elem)
+            text = get_text_content(elem)
             if text:
                 if not self.structural_path:
                     # Top-level head is redundant with #+TITLE: - skip it
@@ -422,7 +478,7 @@ class TEIToOrgConverter:
         # No CUSTOM_ID: speaker names differ by language and card numbers
         # vary between editions, making cross-language IDs unreliable
         elif tag == 'speaker':
-            text = self.get_text_content(elem)
+            text = get_text_content(elem)
             if text:
                 # +2 if inside a card (card is +1), +1 if directly in structural context
                 extra = 2 if self.current_card is not None else 1
@@ -432,7 +488,7 @@ class TEIToOrgConverter:
 
         # Handle label tags (alternative speaker markers in dialogues)
         elif tag == 'label':
-            text = self.get_text_content(elem)
+            text = get_text_content(elem)
             if text:
                 extra = 2 if self.current_card is not None else 1
                 stars = self._heading_stars(extra=extra)
@@ -454,7 +510,7 @@ class TEIToOrgConverter:
         elif tag == 'lg':
             lines = []
             for line_elem in elem.findall('.//tei:l', TEI_NS):
-                line_text = self.get_text_content(line_elem, preserve_children=True).strip()
+                line_text = get_text_content(line_elem, preserve_children=True).strip()
                 if line_text:
                     lines.append(f"        {line_text}")
             if lines:
@@ -481,7 +537,7 @@ class TEIToOrgConverter:
                         result.append(child.tail)
                 return ''.join(result)
             else:
-                text = self.get_text_content(elem)
+                text = get_text_content(elem)
                 result.append(f"/{text}/")
                 return ''.join(result)
 
@@ -507,7 +563,7 @@ class TEIToOrgConverter:
 
         # Handle placeName, persName, etc. - just keep the text
         elif tag in ['placeName', 'persName', 'name', 'foreign', 'gloss']:
-            text = self.get_text_content(elem)
+            text = get_text_content(elem)
             result.append(text)
             return ''.join(result)
 
@@ -536,46 +592,6 @@ class TEIToOrgConverter:
             result.append('\n\n')
 
         return ''.join(result)
-
-    def get_text_content(self, elem, preserve_children=False):
-        """Get text content of an element, optionally processing children."""
-        if preserve_children:
-            parts = []
-            if elem.text:
-                parts.append(elem.text)
-            for child in elem:
-                tag = child.tag.replace('{' + TEI_NS['tei'] + '}', '')
-                if tag in ['quote', 'q']:
-                    parts.append('/')
-                    parts.append(self.get_text_content(child, True))
-                    parts.append('/')
-                elif tag not in ['note', 'bibl']:
-                    parts.append(self.get_text_content(child, True))
-                if child.tail:
-                    parts.append(child.tail)
-            return ''.join(parts)
-        else:
-            return ''.join(elem.itertext())
-
-    def clean_whitespace(self, text):
-        """Clean up excessive whitespace in the output."""
-        # Remove leading/trailing whitespace from lines
-        lines = text.split('\n')
-        lines = [line.strip() for line in lines]
-
-        # Remove multiple blank lines
-        result = []
-        prev_blank = False
-        for line in lines:
-            if line == '':
-                if not prev_blank:
-                    result.append(line)
-                prev_blank = True
-            else:
-                result.append(line)
-                prev_blank = False
-
-        return '\n'.join(result)
 
     def detect_content_language(self):
         """Detect actual language from XML body text using script analysis.
@@ -611,8 +627,9 @@ class TEIToOrgConverter:
 
     def convert(self):
         """Convert the XML file to Org format."""
-        # Extract metadata
+        # Extract metadata (cached for reuse by save())
         metadata = self.get_metadata()
+        self._metadata = metadata
 
         title = metadata.get('title', 'Untitled')
         author = metadata.get('author', 'Unknown')
@@ -632,8 +649,8 @@ class TEIToOrgConverter:
 
         # Generate filename for EXPORT_FILE_NAME (always use English title)
         english_title = metadata.get('english_title') or title
-        title_slug = self.make_slug(english_title)
-        author_slug = self.make_slug(author)
+        title_slug = make_slug(english_title)
+        author_slug = make_slug(author)
         export_filename = f"{title_slug}--{author_slug}"
 
         # Add Org mode headers
@@ -663,58 +680,25 @@ class TEIToOrgConverter:
 
         # Join and clean up the output
         result = ''.join(self.output)
-        result = self.clean_whitespace(result)
+        result = clean_whitespace(result)
 
         return result
 
-    def make_slug(self, text):
-        """Convert text to lowercase slug format."""
-        # Common Greek to English transliterations
-        greek_map = {
-            'Εἰδύλλια': 'idylls',
-            'Θεόκριτος': 'theocritus',
-            'Πλάτων': 'plato',
-            'Ὀδύσσεια': 'odyssey',
-            'Ἰλιάς': 'iliad',
-            'Πολιτεία': 'republic',
-        }
-
-        # Check if it's a known Greek title
-        if text in greek_map:
-            text = greek_map[text]
-
-        # Remove punctuation like commas, semicolons, colons, parentheses, quotes
-        # Include smart/curly quotes and periods that aren't part of abbreviations
-        text = re.sub(r'[,;:()\[\]\'""\u201c\u201d\u2018\u2019\u00ab\u00bb.!?]', '', text)
-        # Remove special characters and Greek characters
-        text = re.sub(r'[^\x00-\x7F\w\s-]+', '', text)
-        # Convert to lowercase and replace spaces with dashes
-        text = text.lower().strip()
-        text = re.sub(r'[-\s]+', '-', text)
-        return text
-
     def save(self, output_file=None):
         """Convert and save to an .org file."""
-        # convert() applies content-based language detection and sets self.language
+        # convert() applies content-based language detection, sets self.language,
+        # and caches metadata in self._metadata
         content = self.convert()
 
         if output_file is None:
-            metadata = self.get_metadata()
-            # Create filename: title--author.org (lowercase with dashes, double dash separator)
-            # Always use English title for filename
+            metadata = self._metadata
             title = metadata.get('english_title') or metadata.get('title', 'untitled')
             author = metadata.get('author', 'unknown')
 
-            # Create slug from title and author
-            title_slug = self.make_slug(title)
-            author_slug = self.make_slug(author)
+            filename = f"{make_slug(title)}--{make_slug(author)}.org"
 
-            filename = f"{title_slug}--{author_slug}.org"
-
-            # Use the language determined by convert() (which includes content detection)
             lang_dir = Path(self.language)
             lang_dir.mkdir(exist_ok=True)
-
             output_file = lang_dir / filename
 
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -795,7 +779,7 @@ def process_directory(data_dir='data', pattern='*.xml'):
                 continue
 
             orig_stem = Path(orig_output).stem
-            print(f"  → {orig_output}")
+            print(f"  => {orig_output}")
             converted += 1
         except Exception as e:
             print(f"  ERROR: {e}")
@@ -826,7 +810,7 @@ def process_directory(data_dir='data', pattern='*.xml'):
                 Path('en').mkdir(exist_ok=True)
                 with open(output_file, 'w', encoding='utf-8') as f:
                     f.write(content)
-                print(f"  → {output_file}")
+                print(f"  => {output_file}")
                 converted += 1
             except Exception as e:
                 print(f"  ERROR: {e}")
@@ -843,13 +827,13 @@ def main():
     if len(sys.argv) > 1:
         # Single file mode
         xml_file = sys.argv[1]
-        if not os.path.exists(xml_file):
+        if not Path(xml_file).exists():
             print(f"Error: File '{xml_file}' not found")
             sys.exit(1)
 
         converter = TEIToOrgConverter(xml_file)
         output_file = converter.save()
-        print(f"Converted: {xml_file} → {output_file}")
+        print(f"Converted: {xml_file} => {output_file}")
     else:
         # Batch mode - process all files
         process_directory()

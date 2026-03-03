@@ -1,106 +1,89 @@
 #!/usr/bin/env python3
-"""
-Generate catalog JSON from Org-mode content files.
+"""Generate catalog JSON from Org-mode content files.
 
-Scans content/en/ and content/gr/ directories for .org files,
-extracts metadata from headers, and groups translations together.
+Scans content/{gr,en,la}/ directories for .org files, extracts metadata
+from headers, groups translations by filename stem, and writes
+public/catalog.json.
+
+Usage:
+    python3 scripts/generate_catalog.py                    # Default output
+    python3 scripts/generate_catalog.py -o path/out.json   # Custom output
+    python3 scripts/generate_catalog.py --quiet             # Suppress per-file output
 """
 
-import os
+import argparse
 import json
-import re
-from pathlib import Path
-from typing import Dict, List, Optional
+import sys
 from datetime import datetime
+from pathlib import Path
+from typing import Any, Dict, List, Optional
+
+# Language directory => display name
+LANG_NAMES: Dict[str, str] = {
+    'en': 'English',
+    'gr': 'Greek',
+    'el': 'Greek',
+    'la': 'Latin',
+}
+
+# Translation sort priority: Greek first, then Latin, then English
+LANG_PRIORITY: Dict[str, int] = {'gr': 0, 'la': 1, 'en': 2}
 
 
-def parse_org_header(file_path: Path) -> Optional[Dict[str, str]]:
+def parse_org_header(file_path: Path) -> Optional[Dict[str, Any]]:
+    """Parse Org-mode file header and extract metadata.
+
+    Reads lines until the first heading (`* ...`) or 50 lines, whichever
+    comes first. Returns a metadata dict, or None if no TITLE is found.
     """
-    Parse Org-mode file header and extract metadata.
-
-    Args:
-        file_path: Path to the .org file
-
-    Returns:
-        Dictionary with metadata or None if parsing fails
-    """
-    metadata = {
+    metadata: Dict[str, Any] = {
         'filename': file_path.stem,
-        'source_file': str(file_path)
+        'source_file': str(file_path),
     }
 
-    # Determine language from directory structure
-    if '/en/' in str(file_path):
-        metadata['language'] = 'en'
-        metadata['language_name'] = 'English'
-    elif '/gr/' in str(file_path):
-        metadata['language'] = 'gr'
-        metadata['language_name'] = 'Greek'
-    elif '/la/' in str(file_path):
-        metadata['language'] = 'la'
-        metadata['language_name'] = 'Latin'
-    else:
-        metadata['language'] = 'unknown'
-        metadata['language_name'] = 'Unknown'
+    # Determine language from directory name
+    lang_dir = file_path.parent.name
+    metadata['language'] = lang_dir
+    metadata['language_name'] = LANG_NAMES.get(lang_dir, 'Unknown')
 
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
-            # Read first 50 lines (headers are at the top)
-            lines = [f.readline() for _ in range(50)]
+            for _, raw_line in zip(range(50), f):
+                line = raw_line.strip()
 
-            for line in lines:
-                line = line.strip()
-
-                # Stop at first content heading
-                if line.startswith('* ') and not line.startswith('*'):
+                # Stop at first Org heading
+                if line.startswith('* '):
                     break
 
-                # Extract TITLE
-                if line.startswith('#+TITLE:') or line.startswith('#+title:'):
-                    title = line.split(':', 1)[1].strip()
-                    metadata['title'] = title
+                low = line.lower()
 
-                # Extract AUTHOR
-                elif line.startswith('#+AUTHOR:') or line.startswith('#+author:'):
-                    author = line.split(':', 1)[1].strip()
-                    metadata['author'] = author
+                if low.startswith('#+title:'):
+                    metadata['title'] = line.split(':', 1)[1].strip()
 
-                # Extract LANGUAGE (override directory-based detection)
-                elif line.startswith('#+LANGUAGE:') or line.startswith('#+language:'):
+                elif low.startswith('#+author:'):
+                    metadata['author'] = line.split(':', 1)[1].strip()
+
+                elif low.startswith('#+language:'):
                     lang = line.split(':', 1)[1].strip()
                     metadata['language'] = lang
-                    if lang == 'el':
-                        metadata['language_name'] = 'Greek'
-                    elif lang == 'en':
-                        metadata['language_name'] = 'English'
-                    elif lang == 'la':
-                        metadata['language_name'] = 'Latin'
+                    metadata['language_name'] = LANG_NAMES.get(lang, lang)
 
-                # Extract EXPORT_FILE_NAME (to determine HTML path)
-                elif line.startswith('#+EXPORT_FILE_NAME:') or line.startswith('#+export_file_name:'):
+                elif low.startswith('#+export_file_name:'):
                     export_path = line.split(':', 1)[1].strip()
-                    # Convert relative path to web path
-                    # ../../public/gr/iliad -> gr/iliad.html
                     export_path = export_path.replace('../../public/', '')
                     if not export_path.endswith('.html'):
                         export_path += '.html'
                     metadata['html_path'] = export_path
 
-                # Extract DATE if present
-                elif line.startswith('#+DATE:') or line.startswith('#+date:'):
-                    date = line.split(':', 1)[1].strip()
-                    metadata['date'] = date
+                elif low.startswith('#+date:'):
+                    metadata['date'] = line.split(':', 1)[1].strip()
 
-                # Extract FILETAGS
-                elif line.startswith('#+filetags:') or line.startswith('#+FILETAGS:'):
+                elif low.startswith('#+filetags:'):
                     tags_line = line.split(':', 1)[1].strip()
-                    # Split by colons and filter out empty strings
-                    # Handles both :byzantine:roman: and :byzantine: :roman:
-                    tags = [tag.strip() for tag in tags_line.split(':') if tag.strip()]
+                    tags = [t.strip() for t in tags_line.split(':') if t.strip()]
                     if tags:
                         metadata['tags'] = tags
 
-        # Validate that we have minimum required fields
         if 'title' not in metadata:
             print(f"Warning: No title found in {file_path}")
             return None
@@ -112,141 +95,104 @@ def parse_org_header(file_path: Path) -> Optional[Dict[str, str]]:
         return None
 
 
-def scan_content_directory(base_path: Path) -> Dict[str, List[Dict[str, str]]]:
-    """
-    Scan content directory for .org files and group by filename.
+def scan_content_directory(
+    base_path: Path,
+    quiet: bool = False,
+) -> Dict[str, List[Dict[str, Any]]]:
+    """Scan content directory for .org files and group by filename stem."""
+    works: Dict[str, List[Dict[str, Any]]] = {}
 
-    Args:
-        base_path: Base path to the content directory
-
-    Returns:
-        Dictionary mapping filename to list of language versions
-    """
-    works_by_filename = {}
-
-    # Scan en/, gr/, and la/ subdirectories
     for lang_dir in ['en', 'gr', 'la']:
         lang_path = base_path / lang_dir
-
         if not lang_path.exists():
             continue
 
-        # Find all .org files (excluding index.org and temporary files)
-        for org_file in lang_path.glob('*.org'):
-            # Skip backup files and temp files
-            if org_file.name.startswith('.') or org_file.name.startswith('#'):
-                continue
-            if org_file.name == 'index.org':
+        for org_file in sorted(lang_path.glob('*.org')):
+            if org_file.name.startswith(('.', '#')) or org_file.name == 'index.org':
                 continue
 
-            print(f"Processing: {org_file}")
+            if not quiet:
+                print(f"Processing: {org_file}")
+
             metadata = parse_org_header(org_file)
-
             if metadata:
-                filename = metadata['filename']
+                works.setdefault(metadata['filename'], []).append(metadata)
 
-                # Group by filename
-                if filename not in works_by_filename:
-                    works_by_filename[filename] = []
-
-                works_by_filename[filename].append(metadata)
-
-    return works_by_filename
+    return works
 
 
-def group_translations(works_by_filename: Dict[str, List[Dict[str, str]]]) -> List[Dict]:
-    """
-    Convert grouped works into catalog format.
-
-    Args:
-        works_by_filename: Dictionary mapping filenames to translations
-
-    Returns:
-        List of work entries with grouped translations
-    """
-    catalog = []
+def group_translations(
+    works_by_filename: Dict[str, List[Dict[str, Any]]],
+) -> List[Dict[str, Any]]:
+    """Convert grouped works into catalog format."""
+    catalog: List[Dict[str, Any]] = []
 
     for filename, translations in works_by_filename.items():
-        # Prefer Greek version for title/author, fallback to first available
-        greek_version = next((t for t in translations if t['language'] in ('gr', 'el')), None)
-        primary_version = greek_version or translations[0]
+        # Prefer Greek version for title/author
+        greek = next((t for t in translations if t['language'] in ('gr', 'el')), None)
+        primary = greek or translations[0]
 
-        # Create work entry
-        work = {
+        work: Dict[str, Any] = {
             'id': filename,
-            'title': primary_version.get('title', 'Untitled'),
-            'author': primary_version.get('author', 'Unknown'),
-            'translations': []
+            'title': primary.get('title', 'Untitled'),
+            'author': primary.get('author', 'Unknown'),
+            'translations': [],
         }
 
-        # Collect all unique tags from all translations
-        all_tags = set()
-        for trans in translations:
-            if 'tags' in trans:
-                all_tags.update(trans['tags'])
-
+        # Collect all unique tags across translations
+        all_tags = {
+            tag
+            for trans in translations
+            for tag in trans.get('tags', [])
+        }
         if all_tags:
-            work['tags'] = sorted(list(all_tags))
+            work['tags'] = sorted(all_tags)
 
-        # Add all translations
+        # Build translation entries
         for trans in translations:
             lang_code = trans['language']
-            # Normalize language codes
             if lang_code == 'el':
                 lang_code = 'gr'
 
-            translation_entry = {
+            entry: Dict[str, Any] = {
                 'language': lang_code,
                 'language_name': trans['language_name'],
                 'html_path': trans.get('html_path', ''),
                 'title': trans.get('title', ''),
-                'author': trans.get('author', '')
+                'author': trans.get('author', ''),
             }
-
-            # Add tags if present in this translation
             if 'tags' in trans:
-                translation_entry['tags'] = trans['tags']
+                entry['tags'] = trans['tags']
 
-            work['translations'].append(translation_entry)
+            work['translations'].append(entry)
 
-        # Sort translations by language priority: Greek, Latin, English
-        lang_priority = {'gr': 0, 'la': 1, 'en': 2}
-        work['translations'].sort(key=lambda t: lang_priority.get(t['language'], 99))
-
+        work['translations'].sort(key=lambda t: LANG_PRIORITY.get(t['language'], 99))
         catalog.append(work)
 
     return catalog
 
 
-def generate_catalog_json(output_path: Path):
-    """
-    Generate catalog JSON file from content directory.
-
-    Args:
-        output_path: Path where the JSON file should be written
-    """
-    content_path = Path('content')
-
+def generate_catalog(content_path: Path, output_path: Path, quiet: bool = False) -> None:
+    """Generate catalog JSON file from content directory."""
     if not content_path.exists():
-        print(f"Error: Content directory not found: {content_path}")
-        return
+        print(f"Error: Content directory not found: {content_path}", file=sys.stderr)
+        sys.exit(1)
 
-    print("Scanning content directory...")
-    works_by_filename = scan_content_directory(content_path)
+    if not quiet:
+        print("Scanning content directory...")
+    works_by_filename = scan_content_directory(content_path, quiet=quiet)
 
-    print(f"\nGrouping translations...")
+    if not quiet:
+        print("\nGrouping translations...")
     catalog = group_translations(works_by_filename)
+    catalog.sort(key=lambda w: w.get('title', '').lower())
 
-    # Sort by title (case-insensitive)
-    catalog.sort(key=lambda x: x.get('title', '').lower())
+    # Statistics
+    total_translations = sum(len(w['translations']) for w in catalog)
+    greek_count = sum(1 for w in catalog for t in w['translations'] if t['language'] == 'gr')
+    english_count = sum(1 for w in catalog for t in w['translations'] if t['language'] == 'en')
+    latin_count = sum(1 for w in catalog for t in w['translations'] if t['language'] == 'la')
 
-    # Calculate statistics
-    total_translations = sum(len(work['translations']) for work in catalog)
-    greek_count = sum(1 for work in catalog for t in work['translations'] if t['language'] == 'gr')
-    english_count = sum(1 for work in catalog for t in work['translations'] if t['language'] == 'en')
-    latin_count = sum(1 for work in catalog for t in work['translations'] if t['language'] == 'la')
-
-    # Create output structure
     output_data = {
         'generated_at': datetime.now().isoformat(),
         'total_works': len(catalog),
@@ -256,18 +202,17 @@ def generate_catalog_json(output_path: Path):
             'translations': {
                 'greek': greek_count,
                 'english': english_count,
-                'latin': latin_count
-            }
+                'latin': latin_count,
+            },
         },
-        'works': catalog
+        'works': catalog,
     }
 
-    # Write JSON file
-    print(f"\nWriting catalog to {output_path}...")
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✓ Generated catalog")
+    print(f"Generated catalog: {output_path}")
     print(f"  Unique works: {len(catalog)}")
     print(f"  Total translations: {total_translations}")
     print(f"    Greek: {greek_count}")
@@ -275,6 +220,31 @@ def generate_catalog_json(output_path: Path):
     print(f"    Latin: {latin_count}")
 
 
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    parser.add_argument(
+        '-o', '--output',
+        type=Path,
+        default=Path('public/catalog.json'),
+        help='Output path (default: public/catalog.json)',
+    )
+    parser.add_argument(
+        '--content-dir',
+        type=Path,
+        default=Path('content'),
+        help='Content directory (default: content/)',
+    )
+    parser.add_argument(
+        '--quiet', action='store_true',
+        help='Suppress per-file processing output',
+    )
+    args = parser.parse_args()
+
+    generate_catalog(args.content_dir, args.output, quiet=args.quiet)
+
+
 if __name__ == '__main__':
-    output_file = Path('public/catalog.json')
-    generate_catalog_json(output_file)
+    main()
