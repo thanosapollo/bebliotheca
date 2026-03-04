@@ -1,0 +1,24 @@
+#+TITLE: Hymn 16 To Asclepius
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/hymn-16-to-asclepius--anonymous
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Hymn 16 To Asclepius edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+ἰητῆρα νόσων Ἀσκληπιὸν ἄρχομʼ ἀείδειν,
+υἱὸν Ἀπόλλωνος, τὸν ἐγείνατο δῖα Κορωνὶς
+Δωτίῳ ἐν πεδίῳ, κούρη Φλεγύου βασιλῆος,
+χάρμα μέγʼ ἀνθρώποισι, κακῶν θελκτῆρʼ ὀδυνάων.
+
+καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ· λίτομαι δέ σʼ
+ἀοιδῇ.

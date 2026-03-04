@@ -1,0 +1,5647 @@
+#+TITLE: Persa, or The Persian
+#+AUTHOR: Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/persa--t-maccius-plautus
+
+#+BEGIN_QUOTE
+Persa, or The Persian translated by Henry Thomas Riley
+#+END_QUOTE
+
+* front
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Dramatis Personae
+
+TOXILUS, a servant.
+SAGARISTIO, a servant.
+SATURIO, a Parasite.
+PAEGNIUM, a boy.
+DORDALUS, a Procurer.
+LEMNISELENE, a Courtesan, beloved by Toxilus.
+SOPHOCLIDISCA, her attendant.
+A YOUNG WOMAN, daughter of Saturio.
+
+(Scene.—Athens: before the houses of DORDALUS and of the Master of TOXILUS.)
+
+THE SUBJECT.
+TOXILUS, who is left in charge of his master’s house in his absence, is desirous of obtaining the liberty of his mistress Lemniselene, who belongs to the Procurer Dordalus. He applies to his friend Sagaristio to lend him the sum necessary for that purpose. Sagaristio has not the money himself, but succeeds in finding some for the use of his friend. With the view of getting back the money when paid to Dordalus, Toxilus prevails on the Parasite Saturio to allow his daughter to be sold by Sagaristio to Dordalus, as though she were a slave. While these arrangements are being made, Lemniselene sends her attendant Sophoclidisca with a letter to Toxilus, and he at the same time sends the boy Paegnium with a message to Lemniselene. On receiving the money from Sagaristio, Toxilus pays it to Dordalus, who sets Lemniselene at liberty. Immediately after this, Sagaristio, dressed as a Persian, brings the daughter of Saturio, also dressed as a Persian captive, and sells her to Dordalus, without warranty, for a large sum of money. Immediately upon the departure of Sagaristio, Saturio makes his appearance, and claiming his daughter, takes her away Toxilus and Sagaristio conclude with a feast, and make merry over the Procurer’s misfortunes.
+
+THE ACROSTIC ARGUMENT.              HIS master being absent (Profecto), Toxilus purchases (Emit) his mistress, and contrives that the Procurer sets her at liberty; and he then persuades him to buy of her capturer a young woman, a captive (Raptam), the daughter of hit Parasite being dressed up (Subornatâ) for that purpose; and (Atque) as he carouses, he makes sport of Dordalus, thus cajoled.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+(Enter TOXILUS and SAGARISTIO, on different sides..)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+(to himself.)
+He who, falling in love, destitute of means, has first entered upon the paths of love, has in his own labours exceeded all the labours of Hercules. For with the lion, and with the Hydra, with the stag, with the Aetolian boar, with the birds of Stamphalus, with Antaeus, would I rather contend
+than with love. So wretched am I become with hunting after money to borrow; and yet, those whom I ask know of nothing to answer me, except /I have got none./
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h2
+:END:
+
+(apart.)
+The servant that is desirous faithfully to serve his master, i’ troth, it surely does behove him to treasure up full many a thing in his breast which he may think will please his master, both present and abroad.
+I neither serve with cheerfulness, nor am I quite to my master’s satisfaction; but, as though from a running eye, my master is still unable to keep his hands off me, in giving me his commands, in making me the support of his affairs.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h3
+:END:
+
+Who’s this that’s standing opposite to me?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h4
+:END:
+
+Who’s that that’s standing opposite to me?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h5
+:END:
+
+It’s like Sagaristio.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h6
+:END:
+
+Surely this is my friend Toxilus.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h7
+:END:
+
+Certainly it is he.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h8
+:END:
+
+I think it is he.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h9
+:END:
+
+I’ll go meet him.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h10
+:END:
+
+I’ll go up and accost him.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h11
+:END:
+
+(meeting him.)
+O Sagaristio, may the Gods bless you.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h12
+:END:
+
+O Sagaristio, the Gods grant you what you may desire. How fare you?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h13
+:END:
+
+Just as I can.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h14
+:END:
+
+What’s the matter?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h15
+:END:
+
+I still live.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h16
+:END:
+
+Quite then to your satisfaction?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h17
+:END:
+
+If the things come to pass which I desire, quite.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h18
+:END:
+
+You deal with your friends in a very silly fashion.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h19
+:END:
+
+How so?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h20
+:END:
+
+Because you ought to give them your commands.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h21
+:END:
+
+As for myself, you were already dead to me, because I haven’t seen you.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h22
+:END:
+
+Business, upon my faith—
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h23
+:END:
+
+In the iron chain line, perhaps.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h24
+:END:
+
+For more than a twelvemonth I’ve been promoted in chains to be commanding officer in the basting line at the mill.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h25
+:END:
+
+Why, that’s your old line of service.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h26
+:END:
+
+Have you been quite well all along?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h27
+:END:
+
+Not very.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h28
+:END:
+
+I’ faith, it’s with reason then you are so pale.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h29
+:END:
+
+I’ve been wounded in the battles of Venus;
+Cupid has pierced my heart with his arrow.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h30
+:END:
+
+Do servants then fall in love here?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h31
+:END:
+
+Why, what could I do? Was I to be struggling against the Gods? Was I, like the sons of Titan, to be waging war with the Deities, with whom I am not quite able to cope?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h32
+:END:
+
+Do you only take care that /catapultae/ made of elm don’t pierce your sides.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h33
+:END:
+
+In right royal manner I’m celebrating the feast of Freedom.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h34
+:END:
+
+How so?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h35
+:END:
+
+Because my master’s gone abroad.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h36
+:END:
+
+Do you say so?
+Is he gone abroad?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h37
+:END:
+
+If you can bear to be enjoying yourself, do you come: you shall live with me; you shall be treated with right royal entertainment.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h38
+:END:
+
+Out upon it (rubbing himself.)  my shoulder-blades are quite itching now, because I’ve heard you mention these things.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h39
+:END:
+
+But this one thing is torturing me.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h40
+:END:
+
+Why, what is it?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h41
+:END:
+
+This day is the very last day, to determine whether my mistress is to be free, or whether she is to endure lasting servitude.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h42
+:END:
+
+What, then, do you now desire?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h43
+:END:
+
+You have it in your power to make me your friend for ever.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h44
+:END:
+
+In what way?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h45
+:END:
+
+In lending me six hundred didrachms, for me to pay the same for her freedom, which I will forthwith refund you in the next three or four days. Come, do be good-natured; give me your help.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h46
+:END:
+
+With what assurance, you impudent fellow, do you venture to ask so much money of me?
+Why, if I myself were to be sold all in one lot, it’s hardly possible for as much to be received as you are asking me for; for now you are asking for water from a pumice-stone, which is all a-dry itself.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h47
+:END:
+
+Ought you to be treating me in this fashion?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h48
+:END:
+
+What am I to do?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h49
+:END:
+
+Do you ask the question? Beg it on loan from somebody.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h50
+:END:
+
+You do the same as you are asking me.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h51
+:END:
+
+I’ve been trying; I’ve found it nowhere.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h52
+:END:
+
+I really will try, if any one will trust me.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h53
+:END:
+
+Am I then to consider it as a thing in possibility?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h54
+:END:
+
+If I had had it at home, I’d promise it at once. This is in my power, to use my best endeavours.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h55
+:END:
+
+Whatever it is, come you home to me.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h56
+:END:
+
+Still do you try to get it; I’ll carefully do the same. If anything shall turn up, I’ll let you know at once.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h57
+:END:
+
+I entreat you, and entreat over and over again, do give me your stanch help in this.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h58
+:END:
+
+O dear! you are worrying me to death by your importunity.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h59
+:END:
+
+It’s through the fault of love, and not my own, that I’m now become a silly prater to you.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h60
+:END:
+
+Then, i’ troth, I’ll now be taking my leave of you. (Moving.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h61
+:END:
+
+Are you going away, then? A good walk to you. But betake yourself back as soon as you can, and do take care that I haven’t to seek you; I shall be close at home until I have cooked up a mishap for the Procurer. (Exit SAGARISTIO, and TOXILUS goes into the house.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 53
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+(Enter SATURIO.)
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+(to himself.)
+The old and ancient calling of my forefathers do I follow, and hold, and cultivate with great care.
+For never was there any one of my forefathers, but that by acting the parasite they filled their bellies: my father, grandfather, great-grandfather, great-great-grandfather, his father, and his grandfather, just like mice, always fed on the victuals of others, and in love of good eating no one could excel them.
+Hard Heads was their surname. From them have I derived this calling, and the station of my forefathers; nor do I wish myself to turn informer, nor indeed does it become me, without risk of my own, to go seize upon the goods of other people; nor do those persons please who do so; I’m speaking out.
+For whoever does this, more for the sake of the public than of his own benefit, my mind can be induced to believe that he is a citizen both faithful and deserving; but if he should not prosecute to conviction the breaker of the laws, let him pay one half of the intended penalty to the public. And let this, too, be written in that law;
+when an informer has prosecuted any one, let the other in his turn sue him for just as much, and upon equal terms let them come before the Triumvirs. If that were done, assuredly I’d make those nowhere to be seen, who here with their whitened nets lay siege to the property of others.
+But am I not a simpleton, to be taking care of the public interests when there are the magistrates, whose duty it is to take care of them? Now I’ll in-doors here; I’ll go look after the scraps from yesterday, whether they have rested well or not; whether they have had a fever; whether they’ve been well covered up or not, so that no one could creep up to them.
+But the door is opening; I must pause in my steps.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+* 81
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+(Enter TOXILUS, from the house of his MASTER.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+(to himself.)
+I’ve hit upon the whole matter, so that with his own money the Procurer may this day make her his freed-woman. But see, here’s the Parasite whose assistance I have need of. I’ll make believe as though I didn’t see him; in that way I’ll allure the fellow.
+(Goes to the door, and calls to the SERVANTS within.) Do you attend, you there, and quickly make haste, that I mayn’t have any delay when I come in-doors. Mix the honied wine; get ready the quinces and the junkets, that they may be nicely warmed upon the dishes, and throw in some scented calamus. I’ faith, that boon-companion of mine, I fancy, will be here just now.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h2
+:END:
+
+(apart.)
+He’s meaning me—bravo!
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h3
+:END:
+
+I think that he’ll be here just now from the baths when he has bathed.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h4
+:END:
+
+(apart.)
+How he does keep everything in its due order.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h5
+:END:
+
+Take you care that the gravy-cakes and the cheese-biscuits are hot; don’t be giving them to me unbaked.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h6
+:END:
+
+(apart.)
+He’s speaking the very fact; they are worth nothing raw, only if you swallow them warm.
+Then, unless the broth for the gravy-cakes is of a thick consistency, that miserable, thin, pale, transparent stuff, is worth nothing at all. The broth for a gravy-cake ought to be like a soup. I don’t want it to be going into my bladder, I want it for my stomach.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h7
+:END:
+
+(pretending not to see him.)
+Some one, I know not who, is talking near me here.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h8
+:END:
+
+(accosting him.)
+O my earthly Jupiter, your fellow-feaster addresses you.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h9
+:END:
+
+O Saturio, you’ve come opportunely for me.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h10
+:END:
+
+Upon my faith, you are telling a lie, and it becomes you not; for as Hungerio I’m come, not as Saturio am I come.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h11
+:END:
+
+But you shall have something to eat; for now the creature-comforts for the stomach are smoking away in-doors.
+I’ve ordered the remnants to be warmed.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h12
+:END:
+
+Why, it’s the proper thing for the gammon to be served up cold the day after.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h13
+:END:
+
+I’ve ordered it so to be done.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h14
+:END:
+
+Any caviare?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h15
+:END:
+
+Get out—do you ask the question?
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h16
+:END:
+
+You have a capital notion of what’s good.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h17
+:END:
+
+But do you at all remember the matter about which I was making mention to you yesterday?
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h18
+:END:
+
+I recollect; that the lamprey and the conger ought not to be made warm; for they are much better stripped of their meat when cold. But why do we delay to commence the engagement? While it’s the morning, it befits all people to eat.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h19
+:END:
+
+It’s almost too early in the morning.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h20
+:END:
+
+The business that you begin to do in the morning, that same lasts on throughout the day.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h21
+:END:
+
+Prithee, do give your attention to this. For yesterday I mentioned it to you, and entreated you to lend me six hundred didrachms.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h22
+:END:
+
+I recollect it and am aware, both that you did ask me, and that I hadn’t any to lend.
+A Parasite’s good for nothing that has got money at home; he has a longing at once to begin upon an entertainment, and to gobble away at his own expense, if he has anything at home. A Parasite ought to be a right down needy Cynic; he ought to have a leather bottle, a strigil, an utensil, a pair of slippers, a cloak,
+and a purse; and in that a little of the needful, with which he may just cheer up the existence of his own household.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h23
+:END:
+
+I don’t want money now; lend me your daughter.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h24
+:END:
+
+By my troth, never to any person whatsoever have I lent her as yet.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h25
+:END:
+
+Not for that purpose which you are insinuating.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h26
+:END:
+
+Why do you want her then?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h27
+:END:
+
+You shall know;
+because she’s of a pretty and genteel figure.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h28
+:END:
+
+Such is the fact.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h29
+:END:
+
+This Procurer (pointing to the house of DORDALUS.) neither knows yourself nor your daughter.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h30
+:END:
+
+How should any one know me, except him who finds me food?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h31
+:END:
+
+Such is the fact. This way you can find some money for me.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h32
+:END:
+
+I’ faith, I wish I could.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h33
+:END:
+
+Then do you allow me to sell her.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h34
+:END:
+
+You to sell her?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h35
+:END:
+
+Why no, I’ll depute another person to sell her, and to say that he is a foreigner; since it isn’t six months since that Procurer removed hither from Megara.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h36
+:END:
+
+The remnants are spoiling; this, however, can be done afterwards.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h37
+:END:
+
+Do you understand on what terms it can?
+Never, on my word, shall you eat here this day, so don’t be mistaken, before you declare to me that you’ll do this that I’m requesting; and unless you bring your daughter with you hither at once as soon as you can, by my faith, I’ll cashier you from this squad. What now? What’s the matter? Why don’t you say what you will do?
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h38
+:END:
+
+I’ troth, prithee sell even myself as well, if you like, so long as you sell me with my stomach full.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h39
+:END:
+
+If you are going to do this, do it.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h40
+:END:
+
+For my part, I’ll do what you desire,
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h41
+:END:
+
+You act kindly. Make haste, be off home; cleverly tutor your daughter beforehand, instruct her cunningly, what she is to say, where she is to declare she was born,
+who were her parents, how she was kidnapped. But let her declare that she was born at a distance from Athens; and let her shed tears when she makes mention of it.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h42
+:END:
+
+Now won’t you hold your tongue? Three times more artful is she than you would have her be.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h43
+:END:
+
+I’ troth, you say what’s excellent. But do you know what you are to do? Get
+a tunic and a girdle, and bring a scarf and a broad-brimmed hat for him to wear who is to sell her to this Procurer—
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h44
+:END:
+
+Well-capital!
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h45
+:END:
+
+As though he were a foreigner.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h46
+:END:
+
+I approve of it—
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h47
+:END:
+
+And do you bring your daughter cleverly drest up after a foreign fashion.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h48
+:END:
+
+/Où sont Où sont: The word whence is expressed in the text by the Greek πόθεν. It has been previously remarked, that the Romans interlarded their dialogue with Greek expressions, in the same way that we adopt French words and phrases./ the dresses?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h49
+:END:
+
+Borrow them of the chorus-leader.
+He ought to lend them; the Aediles have contracted for them to be found.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h50
+:END:
+
+I’ll have them here just now. But I’m to be acquainted with nothing of these matters?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h51
+:END:
+
+I’ faith, nothing, in fact. But, when I’ve got the money, do you at once claim her of the Procurer.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h52
+:END:
+
+Let him keep her for himself, if I don’t immediately carry her off from him.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h8-h53
+:END:
+
+Be off and attend to this. (Exit SATURIO.) In the meantime, I want to send a boy to my mistress; that she may be of good courage, and that I shall manage it to-day. I’m talking too much at length. (Goes into the house.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+* 168
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+(Enter SOPHOCLIDISCA and LEMNISELENE, from the house of DORDALUS.)
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h11-h1
+:END:
+
+It were enough to tell an untaught, thoughtless, silly girl the same thing so many times over; really, in fact, I do imagine that I’m quite looked upon by you as a blockhead and a country booby.
+Although I do drink wine, still I’m not in the habit of swallowing down your commands together with it. I really had fancied that both myself and my ways had now been sufficiently proved by you; for, as for me, I’ve attended you now these five years; whereas, in that time, a cuckoo even, I do believe, if he had gone to school, could by now have been made to know his letters well; while, in the meantime, whether speaking or not speaking, you have not made yourself acquainted with my disposition.
+Can you not hold your tongue? Can you not cease advising me? I remember, and I know, and I understand, and I keep in mind; i’ faith, you are in love, poor thing; on that account your mind’s disturbed. I’ll cause that that shall be calmed for you.
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h11-h2
+:END:
+
+Wretched is the person that’s in love. (Goes into the house.)
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h11-h3
+:END:
+
+(to herself.)
+Good for nothing, indeed, he certainly is,
+who is in love with nothing. What need has that person of life? I ought to go, that I may prove obedient to my mistress; that through my aid she may the sooner become a free woman. I’ll go meet this Toxilus, however; his ears I’ll stuff with what has been enjoined upon me. (Stands aside.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+* 183
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+(Enter, from the house, TOXILUS and PAEGNIUM.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h1
+:END:
+
+Are these things quite clear and certain to you—do you quite remember and understand them?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h2
+:END:
+
+Better than you who have instructed me.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h3
+:END:
+
+Say you so, you whip-rascal?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h4
+:END:
+
+I really do say so.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h5
+:END:
+
+What did I say then P
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h6
+:END:
+
+I’ll tell it to her all correctly.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h7
+:END:
+
+I’ faith, you don’t know it.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h8
+:END:
+
+Troth now, lay me a wager that I don’t remember and know it all.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h9
+:END:
+
+Why, for my part, I’ll lay a wager with you on this, whether you know your own self, how many fingers you have this day upon your hand.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h10
+:END:
+
+Without hesitation—if you are desirous to lose.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h11
+:END:
+
+A fair truce rather let there be.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h12
+:END:
+
+For that reason, then, do you let me go.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h13
+:END:
+
+I both bid and permit you.
+But I wish you so to attend to it, that you are back home while I’m thinking that you are there.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h14
+:END:
+
+I’ll do so. (Moves towards their own house.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h15
+:END:
+
+Whither are you now going?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h16
+:END:
+
+Home; that I may be at home while you are thinking that I am there.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h17
+:END:
+
+You are a rascal of a boy, and—for this service I’ll give you something to add to your savings.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h18
+:END:
+
+I’m aware how want of shame is wont to be imputed to a master’s word, and that masters cannot ever be compelled to appear before the judge on account of those promises.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h19
+:END:
+
+Be off now.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h20
+:END:
+
+I’ll give you reason to command me.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h21
+:END:
+
+But, Paegnium, take you care and give that letter to Lemniselene herself, and tell her what I bade you.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h22
+:END:
+
+(apart.)
+Do I delay to go whither I was sent?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h23
+:END:
+
+I’m off.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h24
+:END:
+
+Then do be off; I’ll off home. Take care and manage this business with attention. Fly post haste. (Goes into the house.)
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h25
+:END:
+
+That’s what the ostrich is wont to do in the Circus.
+He’s off from here in-doors there. But who’s this woman that’s coming towards me?
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h26
+:END:
+
+(advancing.)
+Surely this is Paegnium.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h27
+:END:
+
+This is Sophoclidisca, the private servant of her to whom I’m sent.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h28
+:END:
+
+(aside.)
+There’s not a person this day that’s reported to be more artful than this boy. I’ll accost him.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h29
+:END:
+
+At this bar
+I must come to a stop.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h30
+:END:
+
+Paegnium, my charmer of a boy, save you; how are you? How do you do?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h31
+:END:
+
+Sophoclidisca, the Gods will favour me.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h32
+:END:
+
+Why /me?/ Which of us?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h33
+:END:
+
+I’ faith, I don’t know. But if they were to do as you deserve, by my troth they’d hold you in hate, and treat you but badly.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h34
+:END:
+
+Do leave off your abusive talking.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h35
+:END:
+
+Since I’m saying just as you I’m talking to deserve, properly, not abusively.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h36
+:END:
+
+What are you about now?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h37
+:END:
+
+Standing opposite to you, looking at a worthless woman.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h38
+:END:
+
+For my own part, assuredly, I do not know any more good-for-nothing boy than yourself.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h39
+:END:
+
+What mischief do I do, or to what person do I speak abusively?
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h40
+:END:
+
+I’ faith, to every one that you have the opportunity.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h41
+:END:
+
+Not an individual has ever thought so.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h42
+:END:
+
+But, i’ faith, full many a one knows that so it is.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h43
+:END:
+
+Heyday, indeed!
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h44
+:END:
+
+Heyday, indeed!
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h45
+:END:
+
+According to your own disposition you judge of the ways of others.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h46
+:END:
+
+I certainly do confess that I’m just as befits one of a Procurer’s household to be.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h47
+:END:
+
+I’ve now had enough of your chattering.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h48
+:END:
+
+What say you? Do you plead guilty to what I take you to be?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h49
+:END:
+
+If I were so, I should confess it.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h50
+:END:
+
+Be off then; you’ve got the victory.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h51
+:END:
+
+Now then be off with you.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h52
+:END:
+
+Do you then tell me this—whither are you going?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h53
+:END:
+
+Whither are you?
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h54
+:END:
+
+Say you.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h55
+:END:
+
+Say you.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h56
+:END:
+
+I was the first to ask.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h57
+:END:
+
+Then you shall be the last to know.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h58
+:END:
+
+I’m going not far hence.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h59
+:END:
+
+And I, indeed, not far.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h60
+:END:
+
+Whither then, you rascal?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h61
+:END:
+
+Unless I know first of you, you shall never know this of me that you are enquiring.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h62
+:END:
+
+On my honor you shall never this day know before I’ve heard it of you.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h63
+:END:
+
+Is such the fact?
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h64
+:END:
+
+Is such the fact?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h65
+:END:
+
+You are a worthless one.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h66
+:END:
+
+Rogue.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h67
+:END:
+
+That befits me.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h68
+:END:
+
+Me then it does not befit.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h69
+:END:
+
+What do you say? Are you quite determined, you hussy, to conceal whither you are going?
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h70
+:END:
+
+And are you quite resolved to hide whither you are betaking yourself, you scoundrel?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h71
+:END:
+
+You are giving answer to what I say like for like; be off with you then, since such is your determination. I don’t care at all to know. Good-bye. (Moving.)
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h72
+:END:
+
+Stop!
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h73
+:END:
+
+But I’m in a hurry.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h74
+:END:
+
+And, i’ faith, I as well.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h75
+:END:
+
+Have you got anything? (Pointing to her hand.)
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h76
+:END:
+
+Have you anything? (Pointing likewise.)
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h77
+:END:
+
+Really nothing whatever.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h78
+:END:
+
+Show me your hand then.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h79
+:END:
+
+(showing his right hand.)
+Is this the hand?
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h80
+:END:
+
+Where is that other, the pilfering left hand?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h81
+:END:
+
+(hiding his left hand.)
+Why, it is at home, d’ye see; I’ve not brought one hither.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h82
+:END:
+
+(trying to seize his hand.)
+You’ve got something, what it is I know not.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h83
+:END:
+
+(pushing her away.)
+Don’t be mauling me about you she-groper.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h84
+:END:
+
+But suppose I’m in love with you.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h85
+:END:
+
+You employ your pains to no purpose.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h86
+:END:
+
+Why so?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h87
+:END:
+
+Why, because you are in love with nothing at all, when you are in love with one who doesn’t return it.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h88
+:END:
+
+It befits these youthful looks and age to be on the watch for pleasure in good time;
+so that, when your hair comes to change its hue, you may not be always in a grovelling servitude. Why, really, as yet you are not eighty pounds in weight.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h89
+:END:
+
+Still, that warfare is waged much more successfully by spirit than by weight. But I’m losing my pains.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h90
+:END:
+
+Why so?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h91
+:END:
+
+Because I’m teaching those who know it all. But I’m loitering here. (Moves.)
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h92
+:END:
+
+(taking hold of him.)
+Do stop.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h93
+:END:
+
+You are annoying to me.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h94
+:END:
+
+And so I shall be then, if I don’t find out whither you are betaking yourself.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h95
+:END:
+
+To your house.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h96
+:END:
+
+And I to your house, i’ faith.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h97
+:END:
+
+Why thither?
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h98
+:END:
+
+What’s that to you?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h99
+:END:
+
+(standing before her.)
+Why, you shan’t go now, unless, in return, I know.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h100
+:END:
+
+You are teazing.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h101
+:END:
+
+I choose to.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h102
+:END:
+
+Never, upon my faith, shall you wring this out of me, so as to prove yourself more artful than I am.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h103
+:END:
+
+It’s a misery to contend with you in artfulness.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h104
+:END:
+
+You are a mischievous baggage.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h105
+:END:
+
+What is there for you to fear?
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h106
+:END:
+
+The very same that there is for you.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h107
+:END:
+
+Say then, what is it?
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h108
+:END:
+
+But I’m forbidden to tell this to any person, and am instructed that all the dumb people are to speak of it before myself.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h109
+:END:
+
+And most especially was I cautioned not to trust this to any person, so that all the dumb people were to mention this before myself.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h110
+:END:
+
+Still, do you do so; on giving our words, let’s trust each other.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h111
+:END:
+
+I know this—all procuresses are light of faith, and the weight of a water-gnat is not more light than is the word of a procurer.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h112
+:END:
+
+Tell me, there’s a dear.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h113
+:END:
+
+Tell me, there’s a dear.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h114
+:END:
+
+I don’t want to be your dear.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h115
+:END:
+
+You’ll easily prevail upon me in that.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h116
+:END:
+
+Keep it yourself.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h117
+:END:
+
+And you be mum about this. (Showing her a letter.)
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h118
+:END:
+
+It shall be kept a secret.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h119
+:END:
+
+It shall not be known. (She shows him a letter.)
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h120
+:END:
+
+I’m carrying this letter to Toxilus, your master.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h121
+:END:
+
+Be off; he’s there at home. And I am carrying this pinewood tablet sealed, to Lemniselene, your mistress.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h122
+:END:
+
+What’s written there.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h123
+:END:
+
+If you don’t know, pretty much like yourself, I don’t know,
+except soft words, perhaps.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h124
+:END:
+
+I’m off.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h13-h125
+:END:
+
+And I’ll be off.
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h13-h126
+:END:
+
+Move on then. (They go into the respective houses.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+* 251
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+(Enter SAGARISTO.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h15-h1
+:END:
+
+(to himself.)
+To Jove the opulent, the renowned, the son of Ops, the strong, the mighty in power, who riches, hopes, kind plenty does bestow, joyously and gratefully do I offer the sacrifice of thanksgiving,
+inasmuch as in a friendly way they have bestowed for my friend this opportunity of satisfying his necessity and of borrowing the money, so that I can lend him aid in his need. Whereas I no more dreamed, or thought, or imagined that I should have this opportunity—that same has now fallen from heaven as it were.
+For my master has sent me to Eretria; he has given me the money to purchase some trained oxen for him; but he said that the fair would take place seven days hence;
+a simpleton to trust this money to me whose propensity he knew; for this money I shall misapply in some other purpose: there were no oxen for me to buy. Now I’ll both promote the success of my friend, and will give my inclination full enjoyment. The pleasures that belong to a long time will I serve up in a single day. Crack, crack it will be upon my back; I don’t care.
+Now, to a person that is my friend I shall present these trained oxen from out of my purse; for this, in fact, is a delightful thing, handsomely to bite your thrice-dotted niggardly, antiquated, covetous, spiritless people, who against their servant seal up the saltcellar with the salt. It’s a virtue, when occasion prompts, to hold them in contempt. What will he do to me? He’ll order me to be beaten with stripes, the fetters to be put on. I may get a beating.
+Don’t let him fancy that I shall go begging to him. Woe be unto him! Nothing new can now be inflicted upon me but what I have already experienced it. But see, here comes Paegnium, Toxilus’s boy.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+* 272
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+(Enter PAEGNIUM, from the house of DORDALUS.)
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h1
+:END:
+
+(to himself.)
+My task that was set me I’ve finished; now I’m hastening home.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h2
+:END:
+
+Stop, although you are in haste—Paegnium, listen to me.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h3
+:END:
+
+You ought to buy a person, for you to desire to be obedient to you. (Moves on.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h4
+:END:
+
+Stop there, I say.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h5
+:END:
+
+You’d be giving some trouble, I fancy, if I were to be owing you anything,
+who are now so troublesome.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h6
+:END:
+
+You rascal, will you look back then?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h7
+:END:
+
+I am aware of what age I am; for that reason you shall get off for this abuse with impunity.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h8
+:END:
+
+Where is Toxilus, your master?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h9
+:END:
+
+Wherever he pleases, and he don’t ask your advice.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h10
+:END:
+
+Won’t you tell me, then, where he is, you villain?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h11
+:END:
+
+I don’t know, I say, you elm-twig spoiler.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h12
+:END:
+
+You are abusive to your senior.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h13
+:END:
+
+As you deserved it first, do you put up with it. My master bade me hold my labour at his bidding, my tongue in freedom.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h14
+:END:
+
+Will you not tell me, where is Toxilus?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h15
+:END:
+
+I tell you that—you may go to perdition everlasting.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h16
+:END:
+
+This day you shall be flogged with a rope’s end.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h17
+:END:
+
+On your account, indeed, you cuckoo! I’ faith, you carrion, if I were to give you a broken head, I shouldn’t be afraid of that.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h18
+:END:
+
+I understand you, you’ve been up to some bad work just now.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h19
+:END:
+
+So I have. What business is that to you?
+But I haven’t, like yourself, all for nothing.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h20
+:END:
+
+Assurance!
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h21
+:END:
+
+I’ faith, I certainly am; for I am assured that I shall be free; don’t be hoping that you’ll ever be so.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h22
+:END:
+
+Can’t you cease your impertinence?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h23
+:END:
+
+That which you are mentioning, you can’t do yourself.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h24
+:END:
+
+Away with you to utter perdition.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h25
+:END:
+
+And off home with you; for there it’s all ready prepared for you.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h26
+:END:
+
+He summons me on my recognizances.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h27
+:END:
+
+I only wish the sureties may be out of the way, so that you may get to prison.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h28
+:END:
+
+Why’s this?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h29
+:END:
+
+Aye, why is it?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h30
+:END:
+
+Still abusing me, rascal?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h31
+:END:
+
+Why, inasmuch as you are a slave, it ought at least to be allowed a slave to abuse you.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h32
+:END:
+
+And is it so? Just look (holding up his fist.) what I shall give you.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h33
+:END:
+
+Nothing; for nothing have you.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h34
+:END:
+
+May all the Gods and Goddesses confound me,
+if I don’t this very day, if I lay hold of you, fell you to the ground with blows.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h35
+:END:
+
+I am your friend; I trust that what you wish may befall you,
+and that it may come to pass;
+if you fell me, may others make you feel yourself fixed to the cross before long.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h36
+:END:
+
+But you may the Gods and Goddesses—You understand what I was going to say after that, if I hadn’t been able to restrain my tongue. Can’t you be off?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h17-h37
+:END:
+
+You drive me off with ease; for already my shadow’s getting a whipping in-doors. (Goes into the house.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h38
+:END:
+
+(to himself.)
+May the Gods and Goddesses confound that fellow! just like a crawling serpent he has got a double tongue, and is a wicked one.
+Upon my faith, I’m glad he’s gone. (Going towards the door.) Open, you door. But look! he’s coming from within, the person that I most especially wished to meet with.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+* 302
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+(Enter TOXILUS, from his MASTER’S house, followed by SOPHOCLIDISCA.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h1
+:END:
+
+(to SOPHOCLIDISCA.)
+Tell her that it’s now arranged whence the money is to come. Bid her be of good heart; tell her that I love her exceedingly. When she cheers up, then does she cheer me up. What I’ve told you to tell her,
+do you quite understand it?
+
+** SOPHOCLIDISCA
+:PROPERTIES:
+:CUSTOM_ID: h19-h2
+:END:
+
+Better than your legs understand you, do I understand it.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h3
+:END:
+
+Make all haste, be off home. (SOPHOCLIDISCA goes into the house of DORDALUS.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h4
+:END:
+
+(apart.)
+Now I’ll make myself a perfect droll towards him; I’ll carry myself with arms a-kimbo, and assume a lordly air. (Struts along.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h5
+:END:
+
+But who’s this that’s walking like a two-handled jug?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h6
+:END:
+
+(apart.)
+I’ll spit about me in a dignified style. (Spits about.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h7
+:END:
+
+Why, surely this is Sagaristio. How are you, Sagaristio? How do you do?
+Is there any tiny hope in you as to that which I entrusted to you?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h8
+:END:
+
+(in a lofty way.)
+Step this way; it shall be seen to; I would have it done. Advance—move forward.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h9
+:END:
+
+What’s this swelling here upon your neck? (Touches his neck.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h10
+:END:
+
+It’s a tumour; forbear to press it, for when any person touches it with a rude hand, pain is the result.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h11
+:END:
+
+When did that first come upon you?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h12
+:END:
+
+To-day.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h13
+:END:
+
+You should order it to be lanced.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h14
+:END:
+
+I’m afraid to lance it before it’s ripe, lest it should cause me more trouble.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h15
+:END:
+
+I’d like to examine your complaint. (Comes nearer.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h16
+:END:
+
+(retreatinq.)
+Be off, and do be careful, will you, of the horns.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h17
+:END:
+
+Why so?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h18
+:END:
+
+Because a couple of oxen are here in the purse.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h19
+:END:
+
+Do let them out, please; don’t starve them with hunger—do let them go to pasture.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h20
+:END:
+
+Why, I’m afraid that I mayn’t be able to drive them back to their stall, lest they should wander.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h21
+:END:
+
+I’ll drive them back; be of good heart,
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h22
+:END:
+
+You shall be trusted then; I’ll lend them you Follow this way, please (taking the purse from his neck.) in this there is the money which you were asking me for a short time since.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h23
+:END:
+
+What is it you say?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h24
+:END:
+
+My master has sent me to Eretria to purchase some oxen; at present my Eretria shall be this house of yours.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h25
+:END:
+
+You speak quite enchantingly; and I shall very soon return you all the money safe;
+for now I’ve arranged and put in readiness all my devices, in which way I’m to get this money out of this Procurer.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h26
+:END:
+
+So much the better.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h27
+:END:
+
+Both for the damsel to be set at liberty, and, still further, for himself to pay the money. But follow me; I have need of your assistance in this affair.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h19-h28
+:END:
+
+Make use of it just as you please. (They go into the house.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+* 329
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+(Enter SATURIO and his DAUGHTER, in the habit of a PERSIAN.)
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+May this same matter turn out well for me, and for yourself, and for my stomach,
+and for everlasting victuals for it as well for all time to come; that I may have more than enough, a superfluity, and that it may outlast me. Follow me this way, my daughter, with the Gods’ good leave. The matter to which we are to give our attention, you know, you remember, you understand; to you I have communicated all my designs.
+For that reason have I dressed you out after this fashion; young woman, to-day you are to be sold.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h2
+:END:
+
+Prithee, my dear father, although you do eagerly long for victuals at another’s cost, are you for the sake of your appetite going to sell your own daughter?
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h3
+:END:
+
+It is a wonder, indeed, if I don’t sell you, who are my own, for the sake of King Philip or Attalus, rather than my own.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h4
+:END:
+
+Whether do you regard me as your slave or as your daughter?
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h5
+:END:
+
+I’ faith, that of the two which shall appear most for the interest of my stomach; it’s my authority over you, I suppose, not yours over me.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h6
+:END:
+
+This power is yours, father; but still,
+although our circumstances are but very limited, it’s better to pass our lives with frugality and moderation; for if disgrace is added to poverty, poverty will be more unendurable, our character more frail.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h7
+:END:
+
+Why really you are impertinent.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h8
+:END:
+
+I am not, nor do I think that I am,
+when, though of youthful age, I give good advice to my father. For enemies carry about slander not in the form in which it took its rise.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h9
+:END:
+
+Let them carry it about, and let them go to utter and extreme perdition. I don’t value all their enmities any more than if an empty table were now set before me.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h10
+:END:
+
+Father, the scandal of men is everlasting; even then does it survive, when you would suppose it to be dead.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h11
+:END:
+
+What? Are you afraid lest I should sell you?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h12
+:END:
+
+I am not afraid of that, father; but I wish you not to pretend to do so.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h13
+:END:
+
+Then it’s in vain you wish me not; this shall be done rather after my own fashion than yours.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h14
+:END:
+
+Shall be done!
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h15
+:END:
+
+What is the matter, now?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h16
+:END:
+
+Father, reflect upon these words: if a master has threatened punishment to a slave, although it is not intended to be, still, when the whip is taken up, while he is taking off his tunics, with what an amount of misery is he afflicted. Now, that which is not to be, I’m still in fear of.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h17
+:END:
+
+Damsel or woman none will there ever be, but what she must be good for nothing, who is too wise to be giving satisfaction to her parents.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h18
+:END:
+
+Damsel and woman none can there be, but what she must be good for nothing, who holds her peace if she sees anything going on wrong.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h19
+:END:
+
+’Twere better for you to beware of a mischief.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h20
+:END:
+
+But if I cannot
+beware, what am I to do? For it’s as to yourself I wish to beware.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h21
+:END:
+
+What, am I a mischief?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h22
+:END:
+
+You are not, nor is it becoming for me to say so; but for this purpose am I using my endeavours, that others may not say so who have that liberty.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h23
+:END:
+
+Let each one say what he pleases; from this purpose I shall not be moved.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h24
+:END:
+
+But, could it be after my own way,
+you would be acting prudently, rather than foolishly.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h25
+:END:
+
+It is my pleasure.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h26
+:END:
+
+I know that I must let it be your pleasure so far as I’m concerned; but it should not please you to be your pleasure, if I had my way.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h27
+:END:
+
+Are you going to be obedient to your father’s orders, or not?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h28
+:END:
+
+To be obedient.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h29
+:END:
+
+Do you know then what I instructed you?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h30
+:END:
+
+Everything.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h31
+:END:
+
+Both this, how you were stolen?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h32
+:END:
+
+I understand it perfectly well.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h33
+:END:
+
+And who your parents were?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h34
+:END:
+
+I keep it in my memory. You cause me of necessity to be artful; but take you care, when you wish to give me in marriage, that this story doesn’t cause the match to be given up.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h35
+:END:
+
+Hold your tongue, simpleton. Do you not see the customs of people now-a-days, that marriage is easily effected here with a reputation of any kind? So long as there’s a marriage-portion, no fault is reckoned as a fault.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h36
+:END:
+
+Then take you care, and let this occur to your thoughts, that I am without a fortune.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h37
+:END:
+
+Take you care, please, how you say that.
+By my faith, through the merits of the Gods and of my ancestors I’ll say it, you must not say that you are without a fortune, who have a marriage-portion at home. Why look, I’ve got a whole carriage-full of books at home. If you carefully give your attention to this matter in which we are exerting ourselves, six hundred bon-mots shall be given you out of them as a fortune,
+all Attic ones, too; you shall not receive a single Sicilian one. With this for a fortune, you might safely marry a beggar even.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h38
+:END:
+
+Why, then, don’t you take me, father, if you are going to take me anywhere? Either do you sell me, or do with me what you please.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h22-h39
+:END:
+
+You ask what’s fair and right. Follow me this way.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h22-h40
+:END:
+
+I’m obedient to your command. (They go into the house, to TOXILUS.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+* 400
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+(Enter DORDALUS, from his house.)
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h1
+:END:
+
+(to himself.)
+I wonder what I’m to say my neighbour is going to do, who swore to me that he would pay the money to-day? But if he should not pay it, and this day go by, I shall have forfeited the money, he his oath. But the door there makes a noise. I wonder who’s coming out of doors?
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+* 405
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+(Enter TOXILUS, from his MASTER’S house, with a purse in his hand.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h1
+:END:
+
+(speaking at the door to the PERSONS within.)
+Take you care of that in-doors; I shall betake myself home just now.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h2
+:END:
+
+Toxilus, how are you?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h3
+:END:
+
+How now!—pimping filth mixed up with mud! How now!—public dung-heap! dirty, dishonest, lawless, enticer, disgrace to the public; you hawk after money, greedy and envious;
+you impudent, rapacious, craving fellow (in three hundred lines no person could run through your villanies), will you take the money? (Holding out the purse.) Take the money, will you, shameless fellow. Take hold of the money, will you. Are you going to take the money, then? Can I make you take the money, filth? (Keeps moving it away.)
+You didn’t suppose that I should have had so much money—you, who didn’t venture to trust me at all except upon oath?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h4
+:END:
+
+Do let me recover breath, so as to give you an answer. Fellow, dregs of the populace, you stable for she-slaves, you liberator of harlots, you surface for the lash,
+you wearer-out of the fetters, you citizen of the treadmill, you slave everlastingly, you gormandizer, glutton, pilferer, runaway, give me the money, will you. Give me the money, impudence. Can I get the money out of you? Give me the money, I say. Why don’t you give me the money? Are you ashamed of nothing?
+You impersonation of slavery, a Procurer is asking money of you for the liberation of your mistress, so that all may hear it.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h5
+:END:
+
+Troth now, prithee, do hold your tongue. For sure your voice is in first-rate strength.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h6
+:END:
+
+I’ve got a tongue made for returning a compliment. Salt is provided for me at the same price as for yourself.
+Unless this tongue protects me, it shall never lick a bit of salt.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h7
+:END:
+
+I’ll cease to be angry now. It was for this I blamed you, because you refused to trust me for the money.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h8
+:END:
+
+’Twas a wonder, indeed, that I didn’t trust you, that you might do the same to me that some of the bankers do.
+When you’ve entrusted them with anything, they immediately run more quickly away from the Forum than a hare, when, at the games, he’s let out of the entrance of his cage.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h9
+:END:
+
+(holding out the money.)
+Take this, will you.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h10
+:END:
+
+Why don’t you give it then?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h11
+:END:
+
+(giving it.)
+There will be here six hundred didrachms, full weight and counted; cause the damsel to be set at liberty, and bring her out here forthwith.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h12
+:END:
+
+I’ll have her here this moment.
+I’ faith, I don’t know to whom now to give this money to be tested.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h13
+:END:
+
+Perhaps you are afraid to entrust it to any one’s hands?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h14
+:END:
+
+Strange if I wasn’t. More quickly, now-a-days, do bankers abscond from the Forum, than a wheel spins round in a race.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h15
+:END:
+
+(pointing.)
+Do you go that way, through the alleys, the back way to the Forum;
+let this damsel pass through the same way to our house, through the garden.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h16
+:END:
+
+I’ll have her here this moment.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h17
+:END:
+
+But not in public view.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h18
+:END:
+
+Very discreet.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h19
+:END:
+
+To-morrow she must go to return thanks.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h20
+:END:
+
+I’ faith, just so indeed.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h21
+:END:
+
+While you’ve been loitering, you might have got back. (Exit DORDALUS; TOXILUS goes into the house.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 449
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+(Enter TOXILUS.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h29-h1
+:END:
+
+(to himself.)
+If you give attention to any matter with steadiness or with good management,
+that same is wont properly to thrive to your satisfaction. And, by my faith, pretty nearly according as each man gives attention to his business, in the same manner do the results finally ensure him success. If he is knavish or a rogue, the business turns out badly which he has commenced; but if he uses good management, it results profitably.
+Cleverly and skilfully did I commence upon this business; for that reason do I trust that it will turn out well for me. Now, I’ll this day have the Procurer so hampered, that he shan’t know himself which way to extricate himself. (Goes to the door.) Sagaristio, hallo! Come forth, and bring out the young woman,
+and that letter which I sealed for you, which you brought me all the way from Persia, from my master.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+* 462
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+(Enter SAGARISTIO and the DAUGHTER of SATURIO, from the house, each dressed in Persian costume.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h31-h1
+:END:
+
+Have I delayed at all?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h2
+:END:
+
+Bravo! bravo! dressed out in splendid style. (To SAGARISTIO.) The tiara does finely set off your dress. Then, too, how beautifully does the slipper become this stranger damsel!
+But are you thoroughly up in your parts?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h31-h3
+:END:
+
+Tragedians and Comedians have never been up so well.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h4
+:END:
+
+Troth, you are giving me kind assistance. Come, be off that way (pointing.) to a distance out of sight, and hold your tongue. When you see me conversing with the Procurer, that will be the time to accost us; now be off, you,—away with you. (SAGARISTIO and the DAMSEL go aside, out of sight.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+* 470
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+(Enter DORDALUS.)
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h1
+:END:
+
+(to himself.)
+The man to whom the Deities are propitious, in his way they throw some profit. For I this day have made a saving of two loaves daily; this way, she who this day was my slave is now her own; by his cash he has prevailed; this day then she’ll be dining at the expense of another, she’ll be tasting nothing of mine. Am I not a worthy man, am I not a courteous citizen, who this day have made the extensive state of Attica
+still larger, and increased it by a female citizen? But how obliging have I been to-day! To how many have I given credit, and have from no person taken surety; so readily did I give credit to all: and I don’t fear that of those whom I’ve trusted to-day any one will forswear himself against me upon trial. I wish from this day forth to be honest—a thing that never will be and never was.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h2
+:END:
+
+(apart.)
+This fellow, this very day, by clever contrivances, I’ll catch in a springe; and so the snare is cunningly laid for him; I’ll accost the fellow. (Aloud.) What are you about?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h3
+:END:
+
+Giving credit.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h4
+:END:
+
+Whence do you betake yourself, Dordalus?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h5
+:END:
+
+I’m going to give you credit.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h6
+:END:
+
+May the Gods grant whatever you may desire.
+How now, have you given the damsel her liberty by this?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h7
+:END:
+
+I’m going to give you credit, i’ faith, I’m going to give you credit, I repeat.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h8
+:END:
+
+Are you now increased in number by one freed-woman?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h9
+:END:
+
+You worry me to death.
+Why, I tell you that I’ll give you credit.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h10
+:END:
+
+Tell me in sober truth, is she now at liberty?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h11
+:END:
+
+Go, go to the Forum, to the Praetor; make all enquiries, since you don’t choose to give me credit. She is at liberty, I say. Do you hear me at all?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h12
+:END:
+
+May all the Deities bless you then. And never from this time forward, will I wish to you or yours what you don’t wish.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h13
+:END:
+
+Be off: don’t be swearing that. I quite believe you.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h14
+:END:
+
+Where is your freed-woman now?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h15
+:END:
+
+At your house.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h16
+:END:
+
+Do you say so? Is she at our house?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h17
+:END:
+
+I do say so, I tell you; she is at your house, I say.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h18
+:END:
+
+So may the Deities favour me, for this thing many blessings from me are in store for you: for there’s a certain matter, which I refrained from mentioning to you; now I’ll disclose it, and from it you can make a very large profit. I’ll give you cause to remember me so long as you exist.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h19
+:END:
+
+My ears are wanting some kind deeds by way of assistance to these kind words.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h20
+:END:
+
+It’s only your deserts, that I should do as you deserve. And that you may know that I will do so, take this letter (showing him a letter.) read it over.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h21
+:END:
+
+What has this got to do with me?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h22
+:END:
+
+Why yes, it bears reference to yourself, and it does relate to you. But it has just now been brought me from Persia, from my master.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h23
+:END:
+
+When?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h24
+:END:
+
+Not long since.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h25
+:END:
+
+What does it say?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h26
+:END:
+
+Make enquiry of its own self: it will tell you itself.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h27
+:END:
+
+Give it me, then. (Taking it from TOXILUS.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h28
+:END:
+
+But read it aloud.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h29
+:END:
+
+Be silent while I read it over.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h30
+:END:
+
+I’ll not utter a word.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h31
+:END:
+
+(reading.)
+/Timarchides sends health to Toxilus and all the family. If you are well, I am glad; I am quite well, and carrying on my business, and am making money; and I am not able to return home for these eight months,/
+/for there is some business which detains me here; the Persians have taken Chrysopolis Chrysopolis: Chrysopolis (Golden City) would have peculiar charms for the ear of Dordalus; of course there was no such place in reality., a city of Arabia, full of good things, and an ancient town; there the booty is being collected, that a public auction may be made; this matter causes me to be absent from home./
+/I wish attention and hospitality to be shown to the person who brings this letter to you. Attend to what he wants; for at his own house at home he has shown me the greatest attentions./
+What has it to do with me or my welfare, what matters the Persians are about, or what your master is doing?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h32
+:END:
+
+Hold your tongue, silly babbler; you don’t know what blessing awaits you.
+It’s in vain that Fortune is ready to light for you her torch that leads to profit.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h33
+:END:
+
+What Fortune is this that leads to profit?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h34
+:END:
+
+(pointing to the letter.)
+Ask that which knows: I know about as much as yourself, except that I was the first to read it through. But as you’ve begun, learn the matter from the letter.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h35
+:END:
+
+You counsel me aright. Keep silence.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h36
+:END:
+
+Now you’ll come to that which does relate to your interest.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h37
+:END:
+
+(reading on.)
+/The person that brings this letter, has taken with him a well-bred female of engaging charms, who has been stolen, and brought from the inmost parts of Arabia; I wish you to take charge of her that she may be sold there; but he who makes purchase of her, must buy her at his own risk;/
+/nobody will promise or give a warranty. Take you care that he receives money full weight and counted. Pay attention to this, and give attention that the stranger is attended to. Farewell./
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h38
+:END:
+
+What then? After you have read over what has been committed to the wax, do you believe me now?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h39
+:END:
+
+Where now is this stranger that brought this letter?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h40
+:END:
+
+He’ll be here just now, I believe; he has sent for her from the ship.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h41
+:END:
+
+I don’t want any lawsuits or quirks at all. Why should I be laying out so much money at such a distance? Unless I get her on warranty, what need have I of this purchase?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h42
+:END:
+
+Will you, or will you not, hold your tongue? I never did believe you to be such a blockhead. What are you afraid of?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h43
+:END:
+
+I’ faith, I really am afraid; I’ve experienced it now so many times,
+and it will not befall me without having already experienced it, to be getting stuck in such a quagmire.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h44
+:END:
+
+There seems to be no risk.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h45
+:END:
+
+I know that; but I’m afraid about myself.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h46
+:END:
+
+It matters nothing whatever to me, so far as I’m concerned; it’s for your sake I mentioned it, that I might at the earliest moment give you an opportunity of advantageously purchasing her.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h47
+:END:
+
+I return you thanks; but it’s a nicer thing for you to become wise through others, than for others through yourself.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h48
+:END:
+
+Surely no person can follow after her from the inmost parts of Arabia. Will you make purchase of her, then?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h49
+:END:
+
+Only let me see the commodity.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h50
+:END:
+
+You say what’s fair. But look, most à propos, the stranger is coming himself, who brought this letter hither.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h51
+:END:
+
+(pointing down the side-scene.)
+Is that he?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h52
+:END:
+
+That’s he.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h53
+:END:
+
+And is that the girl that was stolen?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h54
+:END:
+
+I know just about as well as yourself, except that I have seen her. Upon my faith, she certainly is genteel looking, whoever she is.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h55
+:END:
+
+Faith, she has pretty regular features.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h56
+:END:
+
+(aside.)
+With what contempt the hang-dog does speak of her. (To DORDALUS.) Let’s examine her beauty in silence.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h57
+:END:
+
+I approve of your advice. (They stand aside.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+* 549
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+(Enter SAGARISTIO and the DAUGHTER of SATURIO, dressed as PERSIANS.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h1
+:END:
+
+Doesn’t Athens seem to you a rich and opulent place?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h2
+:END:
+
+I’ve seen the appearance of the city; the customs of the people I’ve observed but little of.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h3
+:END:
+
+(apart.)
+At the very outset has she forborne to make a wise remark.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h4
+:END:
+
+(apart.)
+I cannot by her very first words form an estimate of her wisdom.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h5
+:END:
+
+What as to that which you have seen? How does the city seem fortified to you, with its wall?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h6
+:END:
+
+If the inhabitants have good morals, I think it’s properly fortified.
+If Perfidiousness, and Peculation, and Avarice are exiled from the city, Envy in the fourth place, Ambition in the fifth, Scandal in the sixth, Perjury in the seventh.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h7
+:END:
+
+(apart.)
+Bravo!
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h8
+:END:
+
+Idleness in the eighth, Injustice in the ninth, Immorality, which is the very worst in its attack, in the tenth.
+If these things shall not be away from it, a wall a hundred-fold were too little for preserving its interests.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h9
+:END:
+
+(apart.)
+What say you?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h10
+:END:
+
+(apart.)
+What do you mean?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h11
+:END:
+
+(apart.)
+You are among those ten companions; you must depart in banishment from here.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h12
+:END:
+
+(apart.)
+Why so?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h13
+:END:
+
+(apart.)
+Because you are perjured.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h14
+:END:
+
+(apart.)
+Really she has spoken not without some cleverness.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h15
+:END:
+
+(apart.)
+That’s to your advantage, I say; you buy her.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h16
+:END:
+
+(apart.)
+Upon my faith, the more I look at her, the more she pleases me.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h17
+:END:
+
+(apart.)
+If you do buy her,
+immortal Gods, no other Procurer will be more wealthy than yourself; at your will you’ll be turning people out of their estates and households; you’ll be transacting business with men of the highest rank; they’ll be longing for your favour; they’ll be coming to make merry at your house.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h18
+:END:
+
+(apart.)
+But I shan’t allow them to be admitted.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h19
+:END:
+
+(apart.)
+But then at night they’ll be singing before your threshold, and be burning down your door;
+do you at once order your house to be fastened with a door of iron, change for a house of iron, fix in thresholds of iron, a bar of iron and a ring; if you don’t prove sparing of the iron, do you order thick fetters of iron to be rivetted upon yourself.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h20
+:END:
+
+(apart.)
+Away to utter perdition!
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h21
+:END:
+
+(pushing him.)
+Go then, make purchase of her, and follow my advice.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h22
+:END:
+
+(apart.)
+Only let me know how much he asks for her.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h23
+:END:
+
+(apart.)
+Should you like me to call him here?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h24
+:END:
+
+(apart.)
+I’ll go to him.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h25
+:END:
+
+(accosting him.)
+How fare you, guest?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h26
+:END:
+
+I’m come; I’ve brought her (pointing to the DAMSEL.) as I just now said I would. For yesterday at night the ship arrived in harbour: I want her to be sold, if she can; if she cannot, I intend to go away from here as soon as I can.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h27
+:END:
+
+Greetings to you, young man.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h28
+:END:
+
+If indeed I shall dispose of her at her own price—
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h29
+:END:
+
+(pointing to DORDALUS.)
+Why, you’ll either sell her handsomely with him for your purchaser, or you can to no one.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h30
+:END:
+
+Are you a friend of his?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h31
+:END:
+
+In the same measure as all the Divinities who inhabit the heavens.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h32
+:END:
+
+Then you are an assured enemy to me; for to the race of procurers no God was ever so kind as to prove propitious.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h33
+:END:
+
+Attend to the business in hand. Have you any need to purchase her?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h34
+:END:
+
+If you have need for her to be sold,
+I, too, have need to purchase her; if you have no sudden occasion to sell, just in the same degree have I to buy.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h35
+:END:
+
+State a sum; name a price.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h36
+:END:
+
+The commodity is your own; it’s for you to name a sum.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h37
+:END:
+
+(to SAGARISTIO.)
+He asks what’s right.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h38
+:END:
+
+Do you wish to buy at a bargain?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h39
+:END:
+
+Do you wish to sell at a handsome profit?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h40
+:END:
+
+I’ faith, I’m sure that both of you would like to do so.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h41
+:END:
+
+Come, boldly name your price.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h42
+:END:
+
+I tell you beforehand; no one will dispose of her to you on warranty. Do you so understand it, then?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h43
+:END:
+
+I understand it.
+Declare what’s the lowest price at which you’ll offer her, for which she may be taken by the purchaser.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h44
+:END:
+
+Hold your tongue, hold your tongue. Really, upon my faith, you are a very simple man, with your childish ways.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h45
+:END:
+
+Why so?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h46
+:END:
+
+Why because I wish you first to make enquiries of the damsel which relate to your interest.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h47
+:END:
+
+And really, upon my faith, you’ve given me no bad advice. Look at that, will you. I, an experienced Procurer, had almost fallen into the pit,
+if you had not been here. How important a point it is to have a person your friend at hand when you are about anything.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h48
+:END:
+
+I want you to make enquiry of her, of what family or in what country she was born, or of what parents, so that you mayn’t say that you’ve bought her at hazard by my persuasion or suggestion.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h49
+:END:
+
+On the contrary, I approve of your counsel, I tell you.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h50
+:END:
+
+(to SAGARISTIO.)
+Unless it’s troublesome, he’s desirous to make a few enquiries of her.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h51
+:END:
+
+By all means;
+at his own pleasure.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h52
+:END:
+
+(to DORDALUS.)
+Why do you delay? Go to him yourself; and do you yourself ask him as well, that you may be allowed to make such enquiries as you please; although he has told me that he gives permission to do so of her, still I had rather that you yourself should go to him, that he mayn’t be holding you in contempt.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h53
+:END:
+
+You give me very proper advice. (Accosting SAGARISTIO.) Stranger, I should like to ask some questions of her. (Pointing to the YOUNG WOMAN.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h54
+:END:
+
+From earth to heaven, whatever you like.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h55
+:END:
+
+Just bid her to step this way to me.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h56
+:END:
+
+(to the YOUNG WOMAN.)
+Go you, then, and humour him. (To DORDALUS.) Make enquiry, question her, just as you please.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h57
+:END:
+
+(to DORDALUS.)
+Well, well, get on then; make your preparations. (Aside to the YOUNG WOMAN.) Take you care to commence with a good omen.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h58
+:END:
+
+The auspices are favourable.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h59
+:END:
+
+(Aside to the YOUNG WOMAN.)
+Hold your tongue. (To DORDALUS.) Step you aside here; I will now conduct her to you.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h60
+:END:
+
+Do what you think is most for my interest.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h61
+:END:
+
+(to the YOUNG WOMAN, who advances with him.)
+Follow me. (To DORDALUS.) I’ve brought her, if you are wishful to make any enquiries of her.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h62
+:END:
+
+But I want you to be present.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h63
+:END:
+
+I cannot do otherwise than pay attention to this stranger (pointing to SAGARISTIO.) whom my master bade me show courtesy to. What if he doesn’t choose that I should be present together with you?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h64
+:END:
+
+Yes, but do come.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h65
+:END:
+
+(to DORDALUS.)
+I’ll lend you my assistance, then.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h66
+:END:
+
+You’re lending it yourself as well when you are assisting your friend.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h67
+:END:
+
+Examine her. (Aside to the YOUNG WOMAN.) Hark you, be on your guard.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h68
+:END:
+
+(aside.)
+Enough has been said to me. (Aloud.) Although I am a slave, I know my duty, so that whatever he asks I’ll tell the truth as I have heard it.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h69
+:END:
+
+(pointing to DORDALUS.)
+Young woman, this is an honorable man.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h70
+:END:
+
+I believe you.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h71
+:END:
+
+You’ll not be long in servitude with him.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h72
+:END:
+
+I’ faith, and so I trust, if my parents do their duty.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h73
+:END:
+
+I do not wish you to be surprised, if we make enquiries of you
+about either your country or your parents.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h74
+:END:
+
+Why should I be surprised at that, my dear sir? My state of servitude has forbidden me to be surprised at any misfortune of my own.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h75
+:END:
+
+(aside.)
+May the Gods confound her! so cunning and crafty is she. She has got shrewd sense: how readily she does say what’s needed.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h76
+:END:
+
+What’s your name?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h77
+:END:
+
+(aside.)
+Now I’m afraid she’ll be tripping.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h78
+:END:
+
+My name was Lucris in my own country.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h79
+:END:
+
+The name and the omen are worth any price. Why don’t you make purchase of her? (Aside.) I was greatly afraid that she would be tripping. She has got herself free.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h80
+:END:
+
+If I make purchase of you, I trust that you’ll prove Lucris to myself as well.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h81
+:END:
+
+If you do make purchase of her, never, on my word, do I think that she’ll remain your slave throughout the month.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h82
+:END:
+
+And so indeed I’d hope, i’ faith.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h83
+:END:
+
+That what you wish may come to pass, employ your own energies.
+(Aside.) In nothing even as yet has she made a slip.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h84
+:END:
+
+Where were you born?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h85
+:END:
+
+According to what my mother told me,in the kitchen, in a corner on the left hand.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h86
+:END:
+
+(to DORDALUS.)
+This woman will prove a lucky Courtesan for you; she has been born in a warm spot, where full oft there is an abundance of all good things. (Aside.) The Procurer was taken in when he asked where she was born.
+She has played him off nicely.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h87
+:END:
+
+But I ask of you, what is your country?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h88
+:END:
+
+What should be mine but that where I now am?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h89
+:END:
+
+But this I’m asking, what was?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h90
+:END:
+
+Everything that was, do I consider as nothing, since it was, and is not now. Just like a man when he has breathed forth his spirit; why enquire of him who he was?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h91
+:END:
+
+(aside.)
+So may the Deities kindly favour me, right cleverly. And yet I really do pity her.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h92
+:END:
+
+But still, young woman, come, tell me at once which is your country? Why are you silent?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h93
+:END:
+
+For my part, I really am telling you my country. Since I’m in servitude here, this is my country.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h94
+:END:
+
+Do cease now making enquiries about that. Don’t you see that she’s unwilling to declare, lest you should recall to her the remembrance of her misfortunes?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h95
+:END:
+
+What’s the matter? Is your father in captivity?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h96
+:END:
+
+Not in captivity; but what he had, he has lost.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h97
+:END:
+
+She will prove to be born of a good family; she knows how to say nothing but the truth.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h98
+:END:
+
+Who was he? Tell me his name?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h99
+:END:
+
+Why should I tell of him, wretched man, who he was? For the present ’twere proper for him to be called Miserable, and me Miserable.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h100
+:END:
+
+What kind of a person was he considered by the public?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h101
+:END:
+
+Not a person more acceptable; slaves and free persons all liked him.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h102
+:END:
+
+You do speak of a miserable man,
+inasmuch as he’s almost lost himself, and has lost his friends.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h103
+:END:
+
+I shall purchase her, I think.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h104
+:END:
+
+What, still /I think?/
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h105
+:END:
+
+I imagine that she’s of a noble family.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h106
+:END:
+
+You’ll make riches by her.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h107
+:END:
+
+May the Gods grant it so.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h108
+:END:
+
+Do you only buy her.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h109
+:END:
+
+Now this I tell you: my father will be here directly, when he knows that I’ve been sold, and will ransom me thus separated from him.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h110
+:END:
+
+What say you now?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h111
+:END:
+
+What’s the matter?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h112
+:END:
+
+Do you hear what she says?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h113
+:END:
+
+For although his fortunes are broken, he still has friends. (Pretends to cry.)
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h114
+:END:
+
+Don’t weep, please; you’ll soon be at liberty, if—you have sweethearts enough. Would you like to belong to me?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h35-h115
+:END:
+
+So long, indeed, as I don’t belong to you too long. I’d like.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h116
+:END:
+
+How well she does keep in mind her liberty. She’ll be producing you fine hauls. About it, if you are about it. I’ll go back to him. (To the YOUNG WOMAN.) Do you follow me. (To SAGARISTIO) I’ve brought her back to you.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h117
+:END:
+
+Young man, are you disposed to sell her?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h118
+:END:
+
+I’d like it, rather than lose her.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h119
+:END:
+
+Do you compress it then into a few words; state the price at which she’s offered.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h120
+:END:
+
+I’ll do so, as I see you wish it. Take her for a hundred minae.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h121
+:END:
+
+That’s too much.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h122
+:END:
+
+For eighty.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h123
+:END:
+
+That’s too much.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h124
+:END:
+
+There can’t a didrachm be abated from the price which I shall now name.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h125
+:END:
+
+What is it, then? Speak out at once and name it.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h126
+:END:
+
+At your own risk, she’s offered at sixty minae.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h127
+:END:
+
+Toxilus, what am I to do?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h128
+:END:
+
+(aside to DORDALUS.)
+The Gods and Goddesses are pursuing you with their vengeance, you rogue, for not making haste to purchase her.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h129
+:END:
+
+Take them, then.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h130
+:END:
+
+Well done, you have got a rich prize! Be off, and fetch the money out here. On my faith, she’s not dear at three hundred minae.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h131
+:END:
+
+Hark you, for her clothing there’ll be ten minae added to this as well.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h132
+:END:
+
+Yes, be deducted, not added.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h133
+:END:
+
+Do hold your tongue, will you; don’t you see that he’s seeking an excuse to have the bargain broken? Why don’t you be off and fetch the money?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h134
+:END:
+
+(to TOXILUS, as he is going.)
+Hark you, do you keep an eye upon him.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h135
+:END:
+
+Why don’t you then go in?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h35-h136
+:END:
+
+I’ll go and fetch the money. (Goes into his house.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+* 673
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+(The DAUGHTER of SATURIO, TOXILUS, and SAGARISTIO.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h37-h1
+:END:
+
+Upon my word, young lady, you have given us praiseworthy aid, good. and wise, and sensible.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h37-h2
+:END:
+
+If for good persons
+anything good is done, the same is wont to be both important and pleasing.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h37-h3
+:END:
+
+Do you hear, you Persian, when you’ve got the money of him, do you pretend as though you are going straight to the ship.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h4
+:END:
+
+Don’t teach me.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h37-h5
+:END:
+
+Betake yourself back again to our house, that way (pointing.) down the lane through the garden.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h6
+:END:
+
+You are naming what’s intended to be done.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h37-h7
+:END:
+
+But don’t you at once be changing your quarters with the money, I recommend you.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h8
+:END:
+
+What’s worthy of yourself, do you take to be worthy of me?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h37-h9
+:END:
+
+Hold your tongue; lower your voice; the spoil is coming out of doors.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+* 683
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+(Re-enter DORDALUS, from his house, with a bag of money.)
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h1
+:END:
+
+Sixty minae of assayed silver are here (pointing at the bag.) less two didrachms.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h2
+:END:
+
+What’s the meaning of those didrachms?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h3
+:END:
+
+To pay for this bag, or else to cause it to come home again.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h4
+:END:
+
+Lest you mightn’t be enough of a Procurer, did you fear, wretched, filthy, avaricious creature, that you might lose your bag?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h5
+:END:
+
+Pray, let him alone; since he is a Procurer, he isn’t doing anything surprising.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h6
+:END:
+
+I’ve judged from omens that I should make some profit to-day;
+nothing is of value so small to me, but that I grudge to lose it. Come, take this, will you? (Holds out the bag to SAGARISTIO.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h7
+:END:
+
+Place it around my neck, if it is not too much trouble.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h8
+:END:
+
+Certainly, it shall be done. (Hangs it round his neck.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h9
+:END:
+
+Is there anything else that you wish with me?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h10
+:END:
+
+Why are you in such haste?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h11
+:END:
+
+My business is of that nature; the letters that have been entrusted me, I want to deliver;
+and I’ve heard that my twin-brother’s a slave here; I wish to be off to seek him out, and redeem him.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h12
+:END:
+
+And, i’ faith, you’ve not badly put me in mind of it; I think that I’ve seen here one very like you in figure, of just the same size.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h13
+:END:
+
+Why, it must surely be my brother.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h14
+:END:
+
+But we’d like to know what your name is.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h15
+:END:
+
+What does it matter to us to know?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h16
+:END:
+
+Listen then, that you may know; my name is Lying- speakerus, Virgin-seller-onides, Trifle-great-talker-ides, Silver-screwer-outides, Thee-worthy-to-talk-to-ides, Wheedler-out-of-coin-ides,
+What-he-has-once-got-hold-of-ides, Never-again-part-with-it-ides.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h17
+:END:
+
+Dear me; upon my faith, this name of yours is written in many ways.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h18
+:END:
+
+Such is the way with the Persians; we have long names of many words twisted together. Do you wish for anything else?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h19
+:END:
+
+Farewell!
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h20
+:END:
+
+And you farewell; for my mind’s aboard ship already.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h21
+:END:
+
+You’d better have gone to-morrow, and dined here to-day.
+(SAGARISTIO is going.) Farewell!  (Exit SAGARISTIO.)
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+* 711
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+(TOXILUS, DORDALUS, and the DAUGHTER of SATURIO.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h41-h1
+:END:
+
+Since that fellow’s gone, I may say here whatever I please. This day has assuredly shone a gainful one for you; for you’ve not been buying her, but making a clear profit of her.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h41-h2
+:END:
+
+He indeed quite understands what he has been about,
+in having sold me a stolen woman at my own risk; he has got the money, and taken himself off. How do I know now whether she mayn’t be claimed at once? Whither am I to follow him? To the Persians, nonsense.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h41-h3
+:END:
+
+I imagined that my services would be a cause for thankfulness with you.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h41-h4
+:END:
+
+Why, yes, indeed, I do return you thanks,
+Toxilus, for I found that you zealously gave me your assistance.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h41-h5
+:END:
+
+What, I, to you?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h41-h6
+:END:
+
+In seriousness, yes.  By-the-bye, I forgot just now to give some directions in-doors, which I intended to be given. Do keep watch on her. (Pointing to the YOUNG WOMAN.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h41-h7
+:END:
+
+She’s all safe, for certain. (DORDALUS goes into his house.)
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h41-h8
+:END:
+
+My father’s delaying now.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h41-h9
+:END:
+
+What, if I put him in mind?
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h41-h10
+:END:
+
+It’s full time.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h41-h11
+:END:
+
+(going to the side of the stage, and calling aloud.)
+Hallo! Saturio, come forward; now’s the opportunity for taking vengeance on the enemy. (SATURIO.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h41-h12
+:END:
+
+See, here I am. Have I delayed at all?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h41-h13
+:END:
+
+Well, go you off there at a distance out of sight; keep silence. When you see me talking to the Procurer, do you then make a row.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h41-h14
+:END:
+
+A word’s enough to the wise. (He withdraws out of sight.)
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+* 731
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+(Enter DORDALUS, from his house, with a whip in his hand.)
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h43-h1
+:END:
+
+On coming into the house, I lashed them all with the whip; my house and furniture are in such a dirty state.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h43-h2
+:END:
+
+Are you returned at last?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h43-h3
+:END:
+
+I’m returned.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h43-h4
+:END:
+
+Assuredly, I have this day done you many services.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h43-h5
+:END:
+
+I confess it; I give you thanks.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h43-h6
+:END:
+
+Do you want anything else with me?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h43-h7
+:END:
+
+That happiness may. attend you.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h43-h8
+:END:
+
+I’ faith, all that indeed I shall surely enjoy at home now; for I shall now go take my place at table with your freed-woman.
+You, when I’m gone—
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h43-h9
+:END:
+
+Why don’t you hold your tongue? I know what it is you want. (TOXILUS goes into the house.)
+
+* 9
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+* 738
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+(Enter SATURIO, in a seeming rage.)
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h45-h1
+:END:
+
+If I don’t prove the destruction of that fellow—
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h2
+:END:
+
+I’m undone.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h45-h3
+:END:
+
+And most luckily there he is, himself, before the door.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h45-h4
+:END:
+
+(running towards him.)
+Most welcome, my dear father. (She embraces him.)
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h45-h5
+:END:
+
+Welcome, my child.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h6
+:END:
+
+(aside.)
+That Persian has utterly ruined me!
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h45-h7
+:END:
+
+(to DORDALUS.)
+This is my father.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h8
+:END:
+
+Ha!—what?—father? I’m utterly undone! Why then, in my misery, do I delay to bewail my sixty minae?
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h45-h9
+:END:
+
+By my faith, you scoundrel, I’ll give you cause to bewail your own self as well.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h10
+:END:
+
+I’m undone!
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h45-h11
+:END:
+
+Come, walk before a magistrate, Procurer.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h12
+:END:
+
+Why do you summon me before a magistrate?
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h45-h13
+:END:
+
+I’ll tell you there, before the Praetor. But before the magistrate I summon you.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h14
+:END:
+
+Don’t you summon a witness?
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h45-h15
+:END:
+
+What, for your sake, hangdog, am I to be touching the ear of any being that’s free—you, who are here trading in persons, free citizens?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h16
+:END:
+
+Let me but speak—
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h45-h17
+:END:
+
+I won’t.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h18
+:END:
+
+Hear me.
+
+** SATURIO
+:PROPERTIES:
+:CUSTOM_ID: h45-h19
+:END:
+
+I’m deaf. Walk on—follow me this way (dragging him.) you villanous mouser after maidens! Follow after me this way, my daughter, to the Praetor.
+
+** DAUGHTER
+:PROPERTIES:
+:CUSTOM_ID: h45-h20
+:END:
+
+I’ll follow. (Exit SATURIO, dragging DORDALUS, his DAUGHTER following.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+* 753
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+(Enter TOXILUS, from the house.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h1
+:END:
+
+(to himself.)
+The foe subdued, the citizens safe, the state in tranquillity, peace fully ratified, the war finished, our affairs prospering, the army and the garrisons untouched;
+inasmuch, Jupiter, and all you other Deities potent in the heavens, you have kindly aided us, for that reason do I return and give you thanks; because I have been fully revenged upon my foe. Now, for this reason, among my partners will I divide and allot the spoil.
+(To the SLAVES in the house, who obey his orders.) Come out of doors; here, before the entrance and the door, I wish to entertain my commates with hospitality. Lay down the couches here; place here the things that are usual.
+Here am I determined that my eagle shall be first pitched;
+from which spot I’ll cause all to become merry, joyous, and delighted, by the aid of whom those things which I wished to be effected have been rendered for me easy to be done; for worthless is the man who knows how to receive a kindness, and knows not how to return it. (Enter LEMNISELENE, SAGARISTIO, and PAEGNIUM, from the house.)
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h48-h2
+:END:
+
+My Toxilus, why am I without you? And why are you without me?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h3
+:END:
+
+Come then, my own one, approach me, and embrace me, please.
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h48-h4
+:END:
+
+Indeed I will. (Embraces him.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h5
+:END:
+
+O, nothing is there more sweet than this.
+But, there’s a dear, apple of my eye, why don’t we at once betake us to the couches?
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h48-h6
+:END:
+
+Everything that you wish, the same do I desire.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h7
+:END:
+
+It’s mutual. Come, come-come then. You, Sagaristio, recline in the upper place.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h48-h8
+:END:
+
+I don’t at all care for it. Give ne but equal shares in what I’ve earned.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h9
+:END:
+
+All in good time.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h48-h10
+:END:
+
+For me that /good time/ is too late.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h11
+:END:
+
+Attend to the matter in hand. Take your place; this delightful day let’s keep as a joyous birthday of mine. (To the SLAVES.) Bring water for our hands; arrange the table.
+(The SLAVES obey, and the GUESTS take their places.) To you, blooming one (addressing LEMNISELENE.) I give this blooming wreath. (Places a garland on her head.) You shall be our governess here.
+Come, lad, commence these games from the top with a round of seven cups.
+Bestir your hands; make haste. Paegnium, you are slow in giving me the cups; really, do give them. Here’s luck to me, luck to you, luck to my mistress, luck to us all. This much wished-for day has been sent me by the Gods this day, inasmuch as I am allowed to embrace you a free woman. (He drinks.)
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h48-h12
+:END:
+
+By your own agency it was effected.
+(Giving him the cup.) This cup my hand presents to you, as it becomes a mistress to her love.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h13
+:END:
+
+Give it me.
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h48-h14
+:END:
+
+Take it. (Gives him the cup.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h15
+:END:
+
+Here’s luck to him who envies me, and to him who rejoices in this joy. (Drinks.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+(Enter DORDALUS, at a distance.)
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h1
+:END:
+
+(to himself.)
+Those who are, and those who shall be, and those who have been, and those who are to be hereafter, all of them I singly by far surpass, in being the most wretched of men alive.
+I’m undone, ruined quite! This day has shone upon me the most unfortunate of days; that ruiner Toxilus has so outmanœuvred me, and has so laid waste my property! A whole cartload of silver, to my misfortune, have I upset, and lost, and have not that for which I did upset it. May all the Deities utterly confound that Persian, and all Persians, and all persons besides! in such a way has Toxilus, the wretch, conjured this up against me.
+Because I didn’t trust him for the money, for that reason has he contrived this plan against me,—a fellow, that, by my faith, if I only live, I’ll bring to torture and the fetters; if, indeed, his master ever returns here, as I trust he will. (Catching sight of the REVELLERS.) But what is it I see? Do look at that. What play is this? By my troth, they’re carousing here surely. I’ll accost them. (He goes up to them.) O worthy sir (to TOXILUS.) my greetings to you—you, too (to LEMNISELENE.) my worthy freed-woman.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h2
+:END:
+
+Why surely this is Dordalus.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h49-h3
+:END:
+
+Invite him, then, to come.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h4
+:END:
+
+(to DORDALUS.)
+Come here, if you like.
+(Aside.) Come, let’s sing his praises.
+(Aloud.) Dordalus, most delightful fellow, welcome, here’s a place for you; take your place here (pointing to a couch.)  Bring water for his feet (to the SLAVES.) Are you going to give it, lad? (Is going to pat DORDALUS on the shoulder.)
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h5
+:END:
+
+Don’t you, please, be touching me with a single finger, lest I should fell you to the ground, you villain.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h49-h6
+:END:
+
+(holding up a cup.)
+And I this very instant will be striking out your eye with this tankard.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h7
+:END:
+
+What do you say, gallows, you wearer-away of the whip? How have you imposed upon me
+to-day? Into what embarrassments have you thrown me? How have I been baulked about the Persian?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h8
+:END:
+
+You’ll be off with your abuse from here, if you are wise.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h9
+:END:
+
+(to LEMNISELENE.)
+But, my worthy freed-woman, you knew of this, and concealed it from me.
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h49-h10
+:END:
+
+It’s folly
+for a person who can enjoy himself to turn to brawling in preference. ’Twere more proper for you to arrange about those matters another time.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h11
+:END:
+
+My heart’s in flames.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h12
+:END:
+
+Give him a goblet, then; put out the fire, if his heart’s in flames, that his head mayn’t be burnt.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h13
+:END:
+
+You’re making sport of me, I find.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h14
+:END:
+
+Would you like a new playfellow for you, Paegnium? (Pointing at DORDALUS.)
+But sport on as you are wont, as this is a place of freedom. (PAEGNIUM struts about round DORDALUS.) O rare! you do stalk in a princely style and right merrily.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h49-h15
+:END:
+
+It befits me to be merry, and I’ve a longing to play this Procurer some pranks, since he’s deserving of it.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h16
+:END:
+
+As you commenced, proceed.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h49-h17
+:END:
+
+(striking him.)
+Take that, Procurer!
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h18
+:END:
+
+I’m undone! he has almost knocked me down!
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h49-h19
+:END:
+
+Hey—be on your guard again.  (Strikes at him.)
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h20
+:END:
+
+Sport on just as you please, while your master’s away from here.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h49-h21
+:END:
+
+(skipping around him.)
+Don’t you see how obedient I am to your request? But why, on the other hand, are not you obedient to my request as well, and why don’t you do that which I advise you?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h22
+:END:
+
+What’s that?
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h49-h23
+:END:
+
+Do you take a stout rope for yourself, and go hang yourself.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h24
+:END:
+
+(shaking his stick.)
+Take you care, will you, that you don’t touch me, lest I give you a heavy return with this walking-stick.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h49-h25
+:END:
+
+Make use of it; I give you leave.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h26
+:END:
+
+Come, come, Paegnium, put an end to it.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h27
+:END:
+
+By my faith, I’ll utterly destroy you all.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h28
+:END:
+
+But he, who dwells above us,
+wishes you all ill, and will do you all ill. It’s not they that tell you so, but I.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h29
+:END:
+
+Come (to the SLAVES.)  carry round the honied wine; give us drink in goblets quite full: it’s a long time now since we last drank; we’ve been athirst too long.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h30
+:END:
+
+May the Gods grant that you may drink that which may never pass through you.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h49-h31
+:END:
+
+I cannot forbear, Procurer, from at least dancing a hornpipe for you, which Hegea formerly
+composed. But just look if it quite pleases you. (He dances.)
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h49-h32
+:END:
+
+(rising.)
+I’d like also to repeat that one which Diodorus formerly composed in Ionia. (Goes close to DORDALUS.)
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h33
+:END:
+
+I’ll be doing you a mischief, if you are not off!
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h49-h34
+:END:
+
+Still muttering, impudence? If you provoke me, I’ll just now be bringing you the Persian again.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h35
+:END:
+
+I’ faith, I’m silenced now. Why, you are the Persian that has been fleecing me to the quick!
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h36
+:END:
+
+Hold your tongue, simpleton; this is his twin-brother.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h37
+:END:
+
+Is it he?
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h38
+:END:
+
+Aye, and a very twin of twins.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h39
+:END:
+
+May the Gods and Goddesses rack both yourself and your twin-brother.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h49-h40
+:END:
+
+Him, you mean, who has been ruining you; for I don’t deserve anything.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h41
+:END:
+
+But still, what he deserves, I hope that that may prove to your undoing.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h42
+:END:
+
+(to SAGARISTIO.)
+Come, if you like, let’s have some sport with this fellow,
+unless he isn’t deemed worthy of it.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h49-h43
+:END:
+
+Just now it’s right.
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h49-h44
+:END:
+
+(aside.)
+But it isn’t proper for me.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h45
+:END:
+
+(aside.)
+For the reason, I suppose, that he made no difficulties when I purchased you.
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h49-h46
+:END:
+
+(aside.)
+But still—
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h47
+:END:
+
+(aside.)
+No /still./ Beware, then, of a mishap, will you, and obey me. It becomes you to be heedful of my orders; for, i’ faith, had it not been for me and my protection, he would before long have made a street-walker of you. But such are some of those who have gained their freedom, unless they thwart their patron, they don’t appear to themselves free enough, or wise enough, or honest enough,
+unless they oppose him, unless they abuse him, unless they are found ungrateful to him who has been kind.
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h49-h48
+:END:
+
+(aside.)
+I’ troth, your kindnesses command me to pay obedience to your commands.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h49
+:END:
+
+(aside.)
+I clearly am your patron, who paid the money for you to that man (pointing to DORDALUS.) in return for that, I choose that he shall be made sport of.
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h49-h50
+:END:
+
+(aside.)
+For my part, I’ll do my utmost.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h51
+:END:
+
+For sure, these persons are consulting to do something, I know not what, to injure me.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h49-h52
+:END:
+
+Hark you.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h53
+:END:
+
+What do you say?
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h49-h54
+:END:
+
+Is this person here, Dordalus the Procurer, who deals in free women? Is this he who was formerly st stalwart?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h55
+:END:
+
+What means this? (PAEGNIUM strikes him.) Oh, oh! he has given me a slap in the face! I’ll do you a mischief. (Shakes his fist at him.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h56
+:END:
+
+But we have done you one, and shall do it again too.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h57
+:END:
+
+(PAEGNIUM pinching him.)
+Oh, oh! he’s pinching my behind.
+
+** PAEGNIUM
+:PROPERTIES:
+:CUSTOM_ID: h49-h58
+:END:
+
+Of course; it has been many a time twitched before this.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h59
+:END:
+
+Are you still prating, you bit of a boy?
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h49-h60
+:END:
+
+(to DORDALUS.)
+My patron, do, there’s a dear, come in-doors to dinner.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h61
+:END:
+
+My lump of laziness, are you now scoffing at me?
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h49-h62
+:END:
+
+What, because I invite you to enjoy yourself?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h63
+:END:
+
+I don’t want to enjoy myself.
+
+** LEMNISELENE
+:PROPERTIES:
+:CUSTOM_ID: h49-h64
+:END:
+
+Then don’t.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h65
+:END:
+
+How then? The six hundred didrachms, how are they? What disturbances they do cause.
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h66
+:END:
+
+(aside.)
+I’m utterly undone! They understand full well how to return the compliment to an enemy.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h67
+:END:
+
+Have we now had satisfaction enough?
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h68
+:END:
+
+I confess it; I hold up my hands to you.
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h69
+:END:
+
+And, ere long, you shall be holding them beneath the bilboes .  Be off in-doors.
+
+** SAGARISTIO
+:PROPERTIES:
+:CUSTOM_ID: h49-h70
+:END:
+
+To perdition!
+
+** DORDALUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h71
+:END:
+
+(to the AUDIENCE.)
+Have these fellows here worked me in too slight a degree? (Goes into his house.)
+
+** TOXILUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h72
+:END:
+
+(calling after him.)
+Keep in mind that you met with a Toxilus. (To the AUDIENCE.) Spectators, kindly fare you well. The Procurer is demolished. Grant us your applause.

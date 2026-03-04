@@ -6,7 +6,7 @@ This script handles the full pipeline: init submodule, convert, copy to
 content/, post-process (hellenize, tag), generate manifest, and clean up.
 
 Usage:
-    python3 scripts/import_sources.py                  # Import all sources
+    python3 scripts/import_sources.py                  # Import all (additive)
     python3 scripts/import_sources.py perseus-greek    # Import one source
     python3 scripts/import_sources.py --update         # Update submodules first
     python3 scripts/import_sources.py --list           # List available sources
@@ -28,12 +28,15 @@ ROOT_DIR = SCRIPTS_DIR.parent
 #
 # Fields:
 #   submodule      - path relative to project root
-#   converter      - command to run (list of args)
+#   converter      - command to run (list of args); omit if source has no converter
 #   converter_cwd  - 'submodule' or 'root' (where to run the converter)
-#   output_langs   - language dirs the converter produces (gr, en, la)
+#   output_langs   - language dirs the source provides (gr, en, la)
 #   exclude        - glob patterns to remove after copy (matched against basename)
 #   hellenize      - whether to run hellenize_headings.py after copy
 #   manifest       - manifest file path relative to project root
+#
+# Sources without a 'converter' key skip submodule init, conversion,
+# and converter cleanup. They just copy pre-existing .org files.
 
 SOURCES: Dict[str, Dict[str, Any]] = {
     'perseus-greek': {
@@ -43,7 +46,7 @@ SOURCES: Dict[str, Dict[str, Any]] = {
         'output_langs': ['gr', 'en'],
         'exclude': ['*testament*'],
         'hellenize': True,
-        'manifest': 'sources/perseus-manifest.txt',
+        'manifest': 'log/perseus-manifest.txt',
     },
     'perseus-latin': {
         'submodule': 'sources/canonical-latinLit',
@@ -52,7 +55,7 @@ SOURCES: Dict[str, Dict[str, Any]] = {
         'output_langs': ['la', 'en', 'gr'],
         'exclude': [],
         'hellenize': False,
-        'manifest': 'sources/latinlit-manifest.txt',
+        'manifest': 'log/latinlit-manifest.txt',
     },
     'apostolic-fathers': {
         'submodule': 'sources/apostolic-fathers',
@@ -61,7 +64,14 @@ SOURCES: Dict[str, Dict[str, Any]] = {
         'output_langs': ['gr'],
         'exclude': [],
         'hellenize': False,
-        'manifest': 'sources/apostolic-manifest.txt',
+        'manifest': 'log/apostolic-manifest.txt',
+    },
+    'pg-migne': {
+        'submodule': 'sources/pg-migne',
+        'output_langs': ['gr'],
+        'exclude': [],
+        'hellenize': False,
+        'manifest': 'log/pg-migne-manifest.txt',
     },
 }
 
@@ -114,27 +124,32 @@ def run_converter(source: Dict[str, Any]) -> None:
     run(source['converter'], cwd=cwd)
 
 
-def remove_stale_files(source: Dict[str, Any]) -> None:
-    """Remove files listed in the previous manifest."""
-    manifest_path = ROOT_DIR / source['manifest']
-    if not manifest_path.is_file():
-        return
-    log('Removing stale files from previous manifest', indent=1)
-    count = 0
-    for line in manifest_path.read_text().splitlines():
-        filepath = ROOT_DIR / line.strip()
-        if filepath.is_file():
-            filepath.unlink()
-            count += 1
-    log(f'Removed {count} files', indent=2)
+def has_auto_update_nil(path: Path) -> bool:
+    """Check if a file has #+AUTO_UPDATE: nil in its header."""
+    try:
+        with open(path, encoding='utf-8') as f:
+            for line in f:
+                if not line.startswith('#'):
+                    break
+                if line.strip().upper().startswith('#+AUTO_UPDATE:'):
+                    return 'nil' in line.lower()
+    except OSError:
+        pass
+    return False
 
 
-def copy_to_content(source: Dict[str, Any]) -> None:
-    """Copy converter output to content/ directories."""
+def copy_to_content(source: Dict[str, Any]) -> List[str]:
+    """Copy converter output to content/ directories.
+
+    Overwrites existing files unless they have #+AUTO_UPDATE: nil.
+    Returns list of skipped paths (relative to project root) for logging.
+    """
     log('Copying to content/', indent=1)
     submodule_path = ROOT_DIR / source['submodule']
     content_dir = ROOT_DIR / 'content'
     copied = 0
+    updated = 0
+    skipped: List[str] = []
     for lang in source['output_langs']:
         src_dir = submodule_path / lang
         if not src_dir.is_dir():
@@ -142,9 +157,19 @@ def copy_to_content(source: Dict[str, Any]) -> None:
         dst_dir = content_dir / lang
         dst_dir.mkdir(parents=True, exist_ok=True)
         for f in sorted(src_dir.glob('*.org')):
-            shutil.copy2(f, dst_dir)
-            copied += 1
-    log(f'Copied {copied} files', indent=2)
+            dst = dst_dir / f.name
+            if dst.exists():
+                if has_auto_update_nil(dst):
+                    skipped.append(f'content/{lang}/{f.name}')
+                    continue
+                shutil.copy2(f, dst_dir)
+                updated += 1
+            else:
+                shutil.copy2(f, dst_dir)
+                copied += 1
+    log(f'Copied {copied} new, updated {updated}, skipped {len(skipped)} (auto_update: nil)',
+        indent=2)
+    return skipped
 
 
 def remove_excluded(source: Dict[str, Any]) -> None:
@@ -182,6 +207,7 @@ def generate_manifest(source: Dict[str, Any]) -> None:
     log('Generating manifest', indent=1)
     submodule_path = ROOT_DIR / source['submodule']
     manifest_path = ROOT_DIR / source['manifest']
+    manifest_path.parent.mkdir(exist_ok=True)
     entries: List[str] = []
     for lang in source['output_langs']:
         lang_dir = submodule_path / lang
@@ -200,24 +226,62 @@ def run_tests() -> None:
     run(['make', 'test'], cwd=ROOT_DIR)
 
 
+def generate_reports() -> None:
+    """Write detailed test reports to log/."""
+    log_dir = ROOT_DIR / 'log'
+    log_dir.mkdir(exist_ok=True)
+    reports = [
+        ('structure-report.txt', 'check_structure.py'),
+        ('language-report.txt', 'check_language.py'),
+        ('originals-report.txt', 'check_originals.py'),
+        ('metadata-report.txt', 'check_metadata.py'),
+    ]
+    log('==> Writing reports to log/')
+    for filename, script in reports:
+        result = subprocess.run(
+            [sys.executable, str(ROOT_DIR / 'tests' / script), 'report'],
+            cwd=ROOT_DIR, capture_output=True, text=True,
+        )
+        (log_dir / filename).write_text(result.stdout)
+        log(filename, indent=1)
+
+
+def write_skipped_log(source: Dict[str, Any], skipped: List[str]) -> None:
+    """Write skipped (already existing) files to a log file."""
+    if not skipped:
+        return
+    log_dir = ROOT_DIR / 'log'
+    log_dir.mkdir(exist_ok=True)
+    # Derive log name from manifest name: perseus-manifest.txt => perseus-skipped.txt
+    manifest_name = Path(source['manifest']).name
+    skipped_name = manifest_name.replace('-manifest.txt', '-skipped.txt')
+    skipped_path = log_dir / skipped_name
+    skipped_path.write_text('\n'.join(skipped) + '\n')
+    log(f'{len(skipped)} skipped files written to {skipped_path.relative_to(ROOT_DIR)}',
+        indent=2)
+
+
 def import_source(name: str, source: Dict[str, Any], update: bool = False) -> None:
     """Run the full import pipeline for a single source."""
     log(f'==> Importing {name}')
-    init_submodule(source)
-    if update:
-        update_submodule(source)
-    clean_converter_output(source)
-    run_converter(source)
-    remove_stale_files(source)
-    copy_to_content(source)
+    has_converter = 'converter' in source
+    if has_converter:
+        init_submodule(source)
+        if update:
+            update_submodule(source)
+        clean_converter_output(source)
+        run_converter(source)
+    skipped = copy_to_content(source)
     remove_excluded(source)
     if source['hellenize']:
         hellenize_headings()
     tag_filetags()
     generate_manifest(source)
-    clean_converter_output(source)
+    write_skipped_log(source, skipped)
+    if has_converter:
+        clean_converter_output(source)
     log(f'==> {name} import complete')
-    if update:
+    if update and has_converter:
         log('Submodule updated. Remember to stage:', indent=1)
         log(f'git add {source["submodule"]}', indent=2)
 
@@ -266,6 +330,8 @@ def main() -> None:
 
     if not args.no_test:
         run_tests()
+
+    generate_reports()
 
 
 if __name__ == '__main__':

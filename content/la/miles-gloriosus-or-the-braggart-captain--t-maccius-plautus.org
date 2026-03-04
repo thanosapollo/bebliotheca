@@ -1,0 +1,8231 @@
+#+TITLE: Miles Gloriosus
+#+AUTHOR: T. Maccius Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/miles-gloriosus-or-the-braggart-captain--t-maccius-plautus
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Miles Gloriosus edited by Friedrich Leo
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+Curate ut splendor meo sit clupeo clarior
+quam solis radii esse olim quom sudumst solent,
+ut, ubi usus veniat, contra conserta manu
+praestringat oculorum aciem in ácie hostibus.
+
+nam ego hanc machaeram mihi consolari volo,
+ne lamentetur neve animum despondeat,
+quia se iam pridem feriatam gestitem,
+quae misera gestit † et fratrem facere ex hostibus.
+sed ubi Artotrogus hic est?
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h2
+:END:
+
+Stat propter virum
+
+fortem atque fortunatum et forma regia;
+tum bellatorem — Mars haud ausit dicere
+neque aequiperare suas virtutes ad tuas.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h3
+:END:
+
+Quemne ego servavi in campis Curculioniis,
+ubi Bumbomachides Clutomistaridysarchides
+
+erat imperator summus, Neptuni nepos?
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h4
+:END:
+
+Memini. nempe illum dicis cum armis aureis,
+cuius tú legiones difflavisti spiritu,
+quasi ventus folia aut paniculum tectorium.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h5
+:END:
+
+Istuc quidem edepol nihil est.
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h6
+:END:
+
+Nihil hercle hoc quidemst
+
+praeut alia dicam — quae tu numquam feceris.
+periuriorem hoc hominem si quis viderit
+aut gloriarum pleniorem quam illic est,
+me sibi habeto, ego me mancupio dabo;
+nisi unum, epityrum estur insanum bene.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h7
+:END:
+
+Vbi tu es?
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h8
+:END:
+
+Eccum. edepol vel elephanto in India,
+quo pacto ei pugno praefregisti bracchium.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h9
+:END:
+
+Quid, bracchium?
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h10
+:END:
+
+Illud dicere volui, femur.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h11
+:END:
+
+At indíligenter iceram.
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h12
+:END:
+
+Pol si quidem
+conisus esses, per corium, per viscera
+
+perque os elephanti transmineret bracchium.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h13
+:END:
+
+Nolo istaec hic nunc.
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h14
+:END:
+
+Ne hercle operae pretium quidemst
+mihi te narrare tuas qui virtutes sciam.
+venter creat omnis hasce aerumnas: auribus
+peraurienda sunt, ne dentes dentiant,
+
+et adsentandumst quidquid hic mentibitur.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h15
+:END:
+
+Quid illúc quod dico?
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h16
+:END:
+
+Ehem, scío iam quid vis dicere.
+factum hercle est, memini fieri.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h17
+:END:
+
+Quid id est?
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h18
+:END:
+
+Quidquid est.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h19
+:END:
+
+Habes —
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h20
+:END:
+
+Tabellas vis rogare? habeo, et stilum.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h21
+:END:
+
+Facete advortis tuom animum ad animum meum.
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h22
+:END:
+
+Novisse mores tuos me meditate decet
+curamque adhibere, ut praeolat mihi quod tu velis.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h23
+:END:
+
+Ecquid meministi?
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h24
+:END:
+
+Memini: centum in Cilicia
+et quinquaginta, centum in Scytholatronia,
+triginta Sardos, sexaginta Macedones
+
+† sunt homines quos tu occidisti uno die.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h25
+:END:
+
+Quanta istaec hominum summast?
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h26
+:END:
+
+Septem milia.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h27
+:END:
+
+Tantum esse oportet. recte rationem tenes.
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h28
+:END:
+
+At nullos habeo scriptos: sic memini tamen.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h29
+:END:
+
+Edepol memoria es optuma.
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h30
+:END:
+
+Offae monent.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h31
+:END:
+
+Dum tale facies quale adhuc, assiduo edes,
+communicabo semper te mensa mea.
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h32
+:END:
+
+Quid ín Cappadocia, ubi tu quingentos simul,
+ni hebes machaera foret, uno ictu occideras?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h33
+:END:
+
+At peditastelli quia erant, sivi viverent.
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h34
+:END:
+
+Quid tibi ego dicam, quód omnes mortales sciunt,
+Pyrgopolynicem te unum in terra vivere
+virtute et forma et factis invictissumum?
+amant ted omnes mulieres, neque iniuria,
+qui sis tam pulcher; vel illae quae here pallio
+
+me reprehenderunt.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h35
+:END:
+
+Quid eae dixerunt tibi?
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h36
+:END:
+
+Rogitabant: /hicine Achilles est?/ inquit mihi.
+/immo eius frater/ inquam /est/. ibi illarum altera
+/ergo mecastor pulcher est/ inquit mihi
+“et liberalis. vide caesaries quam decet.
+
+ne illae sunt fortunatae quae cum isto cubant.”
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h37
+:END:
+
+Itane aibant tandem?
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h38
+:END:
+
+Quaen me ambae obsecraverint,
+ut te hodie quasi pompam illa praeterducerem?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h39
+:END:
+
+Nimiast miseria nimis pulchrum esse hominem.
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h40
+:END:
+
+Immo itast.
+molestaé sunt: orant, ambiunt, exobsecrant
+
+videre ut liceat, ad sese arcessi iubent,
+ut tuo non liceat dare operam negotio.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h41
+:END:
+
+Videtur tempus esse, ut eamus ad forum,
+ut in tabellis quos consignavi hic heri
+latrones, ibus denumerem stipendium.
+
+nam rex Seleucus me opere oravit maxumo,
+ut sibi latrones cogerem et conscriberem.
+regi hunc diem mihi operam decretumst dare.
+
+** Artotrogvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h42
+:END:
+
+Age eamus ergo.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h3-h43
+:END:
+
+Sequimini, satellites. —
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 79
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+Mihi ad enarrandum hoc argumentum est comitas,
+si ad auscultandum vostra erit benignitas;
+qui autem auscultare nolet, exsurgat foras,
+ut sit ubi sedeat ille qui auscultare volt.
+
+nunc qua adsedistis causa in festivo loco,
+comoediai quam nos acturi sumus
+et argumentum et nomen vobis eloquar.
+Alazon Graece huic nomen est comoediae,
+id nos Latine gloriosum dicimus.
+
+hoc oppidum Ephesust; illest miles meus erus,
+qui hinc ad forum abiit, gloriosus, impudens,
+stercoreus, plenus periuri atque adulteri.
+ait sése ultro omnis mulieres sectarier:
+is deridiculost, quaqua incedit, omnibus.
+
+itaque hic meretrices, labiis dum ductant eum,
+maiorem partem videas valgis saviis.
+nam ego hau diu apud hunc servitutem servio;
+id volo vos scire, quo modo ad hunc devenerim
+in servitutem ab eo cui servivi prius.
+
+date operam, nam nunc argumentum exordiar.
+erat erus Athenis mihi adulescens optumus;
+is amabat meretricem  [lost]  matre Athenis Atticis,
+et illa íllum contra; qui est amor cultu optumus.
+is publice legatus Naupactum fuit
+
+magnai rei publicai gratia.
+interibi hic miles forte Athenas advenit,
+insinuat sese ad illam amicam eri †
+occepit eius matri suppalparier
+vino, ornamentis opiparisque obsoniis,
+
+itaque intimum ibi se miles apud lenam facit.
+ubi primum evenit militi huic occasio,
+sublinit os illi lenae, matri mulieris,
+quam erus méus amabat; nám is illius filiam
+conicit in navem miles clam matrem suam,
+
+eamque húc invitam mulierem in Ephesum advehit.
+ubi amicam erilem Athenis avectam scio,
+ego quantum vivos possum mihi navem paro,
+inscendo, ut eam rem Naupactum ad erum nuntiem.
+ubi sumus provecti in altum, fit quod di volunt,
+
+capiunt praedones navem illam ubi vectus fui:
+prius périi quam ad erum veni, quo ire occeperam.
+ille quí me cepit dat me huic dono militi.
+hic postquam in aedis me ad se deduxit domum,
+video illam amicam erilem, Athenis quae fuit.
+
+ubi contra aspexit me, oculis mihi signum dedit,
+ne se appellarem; deinde, postquam occasio est,
+conqueritur mecum mulier fortunas suas:
+ait sése Athenas fugere cupere ex hac domu,
+sese illum amare meum erum, Athenis qui fuit,
+
+neque peius quemquam odisse quam istum militem.
+ego quoniam inspexi mulieris sententiam,
+cepi tabellas, consignavi, clanculum
+dedi mércatori cuidam, qui ad illum deferat
+meum erum, qui Athenis fuerat, qui hanc amaverat,
+
+ut is huc veniret. is non sprevit nuntium;
+nam et venit et is in proximo hic devertitur
+apud suom paternum hóspitem, lepidum senem;
+isque illi amanti suo hospiti morem gerit
+nosque opera consilioque adhortatur, iuvat.
+
+itaque ego paravi hic intus magnas machinas,
+qui amantis una inter se facerem convenas.
+nam unum conclave, concubinae quod dedit
+miles, quo nemo nisi eapse inferret pedem,
+in eo conclavi égo perfodi parietem,
+
+qua commeatus clam esset hinc huc mulieri;
+et sene sciente hoc feci: is consilium dedit.
+nam meus conservos est homo haud magni preti,
+quem concubinae miles custodem addidit.
+ei nos facetis fabricis et doctis dolis
+
+glaucumam ob oculos obiciemus eumque ita
+faciemus ut quod viderit ne viderit.
+et mox ne erretis, haec duarum hodie vicem
+suam et hinc et illinc mulier feret imaginem,
+atque eadem erit, verum alia esse adsimulabitur.
+
+ita sublinetur os custodi mulieris.
+sed foris concrepuit hinc a vicino sene;
+ipse exit: hic illest lepidus quem dixi senex.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+* 156
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+Ni hércle diffregéritis talos pósthac quemque in tégulis
+videritis alienum, ego vostra faciam latera lorea.
+mi equidem iam arbitri vicini sunt, meae quid fiat domi,
+ita per impluvium intro spectant. nunc adeo edico omnibus:
+
+quemque a milite hoc videritis hominem in nostris tegulis,
+extra unum Palaestrionem, huc deturbatote in viam.
+quod ille gallinam aut columbam se sectari aut simiam
+dicat, disperiistis ni usque ad mortem male mulcassitis.
+atque adeo ut ne legi fraudem faciant aleariae,
+
+adcuratote ut sine talis domi agitent convivium.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h2
+:END:
+
+Nescio quid malefactum a nostra hic familiast, quantum audio:
+ita hic senex talos elidi iussit conservis meis;
+sed me excepit: nihili facio, quid illis faciat ceteris.
+adgrediar hominem.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h3
+:END:
+
+Estne advorsum hic qui advenit Palaestrio?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h4
+:END:
+
+Quid agis, Periplectomene?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h5
+:END:
+
+Hau multos homines, si optandum foret,
+nunc videre et convenire quam te mavellem.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h6
+:END:
+
+Quid est?
+quid tumultuas cum nostra familia?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h7
+:END:
+
+Occisi sumus.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h8
+:END:
+
+Quid negotist?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h9
+:END:
+
+Res palamst.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h10
+:END:
+
+Quae res palamst?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h11
+:END:
+
+De tegulis
+modo nescio quis inspectavit vestrum familiarium
+
+per nostrum impluvium intus ápud nos Philocomasium atque hospitem
+osculantis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h12
+:END:
+
+Quis homo id vidit?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h13
+:END:
+
+Tuos conservos.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h14
+:END:
+
+Quis is homost?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h15
+:END:
+
+Nescio, ita abripuit repente sese subito.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h16
+:END:
+
+Suspicor
+me periisse.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h17
+:END:
+
+Vbi abit, conclamo: /heus quid agis tu/ inquam /in tegulis?/
+ille mihi abiens ita respondit /se sectari simiam./
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h18
+:END:
+
+Vae mihi misero, quoi pereundumst propter nihili bestiam.
+sed Philocomasium hicine etiam nunc est?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h19
+:END:
+
+Quom exibam, hic erat.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h20
+:END:
+
+I sis, iube transire huc quantum possit, se ut videant domi
+familiares, nisi quidem illa nos volt, qui servi sumus,
+propter amorem suom omnes crucibus contubernales dari.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h21
+:END:
+
+Dixi ego istuc; nisi quid aliud vis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h22
+:END:
+
+Volo. hoc ei dicito:
+profecto ut ne quoquam de ingenio degrediatur muliebri
+earumque artem et disciplinam optineat colere.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h23
+:END:
+
+Quem ad modum?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h24
+:END:
+
+Vt eum, qui hic se vidit, verbis vincat, ne is se viderit.
+siquidem centiens hic visa sit, tamen infitias eat.
+
+os habet, linguam, perfidiam, malitiam atque audaciam,
+confidentiam, confirmitatem, fraudulentiam.
+qui arguat se, eum contra vincat iureiurando suo:
+domi habet animum falsiloquom, falsificum, falsiiurium,
+domi dolos, domi delenifica facta, dómi fallacias.
+
+nam mulier holitori numquam supplicat, si quast mala:
+domi habet hortum et condimenta ad omnis mores maleficos.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h25
+:END:
+
+Ego istaec, si erit hic, nuntiabo. sed quid est, Palaestrio,
+quod volutas tute tecum in corde?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h26
+:END:
+
+Paulisper tace,
+dúm ego mihi consilia in animum convoco et dum consulo
+
+quid agam, quem dolum doloso contra conservo parem,
+qui illam hic vidit osculantem, id visum ut ne visum siet.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h27
+:END:
+
+Quaere: ego hinc abscessero aps te huc interim. illuc sis vide,
+quem ad modum adstitit, severo fronte curans cogitans.
+pectus digitis pultat, cor credo evocaturust foras;
+
+ecce avortit: nixus laevo in femine habet laevam manum,
+dextera digitis rationem computat, ferit femur
+dexterum. ita vehementer icit: quod agat aegre suppetit.
+concrepuit digitis: laborat; crebro commutat status,
+eccere autem capite nutat: non placet quod repperit.
+
+quidquid est, incoctum non expromet, bene coctum dabit.
+ecce autem aedificat: columnam mento suffigit suo.
+apage, non placet profecto mi illaec aedificatio;
+nam os columnatum poetae esse indaudivi barbaro,
+cui bini custodes semper totis horis occubant.
+
+euge, euscheme hercle astitit et dulice et comoedice;
+numquam hodie quiescet prius quam id quod petit perfecerit.
+habet opinor. age si quid agis, vigila, ne somno stude,
+nisi quidem hic agitare mavis varius virgis vigilias.
+tibi ego dico. an heri maduisti? heus te adloquor, Palaestrio:
+
+vigila inquam, expergiscere inquam, lucet hoc inquam.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h28
+:END:
+
+Audio.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h29
+:END:
+
+Viden hostis tibi adesse tuoque tergo obsidium? consule,
+arripe opem auxiliumque ad hanc rem: propere hoc, non placide decet.
+anteveni aliqua aut tú aliquosum circumduce exercitum,
+coge in obsidium perduellis, nostris praesidium para;
+
+interclude inimicis commeatum, tibi muni viam
+qua cibatus commeatusque ad te et legiones tuas
+tuto possit pervenire: hanc rém age, res subitaria est.
+reperi, comminiscere, cedo calidum consilium cito,
+quae hic sunt visa ut visa ne sint, facta ut facta ne sient.
+
+magnam illic homo rem incipissit, magna munit moenia.
+tu unus si recipere hoc ad te dicis, confidentiast
+nos inimicos profligare posse.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h30
+:END:
+
+Dico et recipio
+ad me.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h31
+:END:
+
+Et ego impetrare dico id quod petis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h32
+:END:
+
+At te Iuppiter
+bene amet.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h33
+:END:
+
+Auden participare me quod commentus escommentu's?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h34
+:END:
+
+Tace,
+
+dum in regionem astutiarum mearum te induco, ut scias
+iuxta mecum mea consilia.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h35
+:END:
+
+Salva sumes indidem.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h36
+:END:
+
+Erus meus elephanti corio circumtentust, non suo,
+neque habet plus sapientiai quam lapis.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h37
+:END:
+
+Ego istuc scio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h38
+:END:
+
+Nunc sic rationem incipisso, hánc instituam astutiam,
+
+ut Philocomasio huc sororem geminam germanam alteram
+dicam Athenis advenisse cúm amatore aliquo suo,
+tam similem, quam lacte lactist; ápud te eos hic devortier
+dicam hospitio.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h39
+:END:
+
+Euge euge, lepide, laudo commentum tuom.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h40
+:END:
+
+Vt si illic concriminatus sit advorsum militem
+
+meus conservos, eam vidisse hic cum alieno oscularier,
+eam arguam vidisse apud te contra conservom meum
+cum suo amatore amplexantem atque osculantem.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h41
+:END:
+
+Immo optume.
+idem ego dicam, si ex me exquiret miles.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h42
+:END:
+
+Sed simillimas
+dicito esse, et Philocomasio id praecipiendum est ut sciat,
+
+ne titubet, si exquiret ex ea miles.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h43
+:END:
+
+Nimis doctum dolum.
+sed si ambas videre in uno miles concilio volet,
+quid agimus?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h44
+:END:
+
+Facilest: trecentae possunt causae conligi:
+/non domist, ábiit ambulatum, dormit, ornatur, lavat,/
+/prandet, potat: occupatast, operae non est, non potest/,
+
+quantum vis prolationum, dum modo hunc prima via
+inducamus, vera ut esse credat quae mentibimur.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h45
+:END:
+
+Placet ut dicis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h46
+:END:
+
+Intro abi ergo, et si isti est mulier, eam iube
+cito domum transire, atque haec ei dice monstra praecipe,
+ut teneat consilia nostra, quem ad modum exorsi sumus,
+
+de gemina sorore.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h47
+:END:
+
+Docte tíbi illam perdoctam dabo.
+numquid aliud?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h48
+:END:
+
+Intro ut abeas.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h49
+:END:
+
+Abeo. —
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h8-h50
+:END:
+
+Et quidem ego ibo domum
+atque hominem investigando operam huic dissimulabiliter dabo,
+qui fuerit conservos qui hodie sit sectatus simiam.
+nam ille non pótuit quin sermone suo aliquem familiarium
+
+participaverit de amica eri, sese vidisse eam
+hic in proximo osculantem cum alieno adulescentulo.
+novi morem: egomet tacere nequeo solus quod scio.
+si invenio qui vidit, ad eum vineas pluteosque agam:
+res paratast, vi pugnandoque hominem caperest certa res.
+
+si ita non reperio, ibo odorans quasi canis venaticus,
+usque donec persecutus volpem ero vestigiis.
+sed fores crepuerunt nostrae, ego voci moderabor meae;
+nam illic est Philocomasio custos meus conservos qui it foras.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+* 272
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+Nisi quidem ego hodie ambulavi dormiens in tegulis,
+certo edepol scio me vidisse hic proxumae viciniae
+Philocomasium erilem amicam sibi malam rem quaerere.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h2
+:END:
+
+Hic illam vidit osculantem, quantum hunc audivi loqui.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h3
+:END:
+
+Quis hic est?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h4
+:END:
+
+Tuos conservos. quid agis, Sceledre?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h5
+:END:
+
+Te, Palaestrio,
+volup est convenisse.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h6
+:END:
+
+Quid iam? aut quid negotist? fac sciam.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h7
+:END:
+
+Metuo —
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h8
+:END:
+
+Quid metuis?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h9
+:END:
+
+Ne hercle hodie, quantum hic familiariumst,
+maxumum in malum cruciatumque insuliamus.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h10
+:END:
+
+Tu sali
+solus, nám ego istam insulturam et desulturam nil moror.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h11
+:END:
+
+Nescis tu fortasse, apud nos facinus quod natumst novom.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h12
+:END:
+
+Quod id est facinus?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h13
+:END:
+
+Impudicum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h14
+:END:
+
+Tute scias soli tibi,
+mihi ne dixis, scire nolo.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h15
+:END:
+
+Non enim fáciam quin scias.
+simiam hodie sum sectatus nostram in horum tegulis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h16
+:END:
+
+Edepol, Sceledre, homo sectatus essectatu's nihili nequam bestiam.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h17
+:END:
+
+Di te perdant.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h18
+:END:
+
+Te istuc aequom — quoniam occepisti, eloqui.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h19
+:END:
+
+Forte fortuna per impluvium huc despexi in proxumum,
+atque ego illi áspicio osculantem Philocomasium cum altero
+nescio quo adulescente.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h20
+:END:
+
+Quod ego, Sceledre, scelus ex te audio?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h21
+:END:
+
+Profecto vidi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h22
+:END:
+
+Tutin?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h23
+:END:
+
+Egomet duobus his oculis meis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h24
+:END:
+
+Abi, non verisimile dicis, neque vidisti.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h25
+:END:
+
+Num tibi
+lippus videor?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h26
+:END:
+
+Medicum istuc tibi meliust percontarier.
+verum enim tu ístam, si te di ament, temere hau tollas fabulam:
+tuis nunc cruribus capitique fraudem capitalem hinc creas.
+nam tibi iam ut pereas paratum est dupliciter, nisi supprimis
+
+tuom stultiloquium.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h27
+:END:
+
+Qui vero dupliciter?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h28
+:END:
+
+Dicam tibi.
+primumdum, si falso insimulas Philocomasium, hoc perieris;
+iterum, si id verumst, tu ei custos additus eo perieris.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h29
+:END:
+
+Quid fuat me, nescio: haec me vidisse ego certo scio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h30
+:END:
+
+Pergin, infelix?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h31
+:END:
+
+Quid tibi vis dicam nisi quod viderim?
+
+quin etiam nunc intus hic in proxumost.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h32
+:END:
+
+Eho an non domist?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h33
+:END:
+
+Vise, abi intro tute, nam ego mi iam nil credi postulo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h34
+:END:
+
+Certum est facere. —
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h35
+:END:
+
+Hic te opperiar; eadem illi insidias dabo,
+quam mox horsum ad stabulum iuuenix recipiat se a pabulo.
+quid ego nunc faciam? custodem me illi miles addidit:
+
+nunc si indicium facio, interii; si taceo, interii tamen,
+si hoc palam fuerit. quid peius muliere aut audacius?
+dúm ego in tegulis sum, illaec sese ex hospitio edit foras;
+edepol facinus fecit audax. hocine si miles sciat,
+credo hercle has sustollat aedis totas atque hunc in crucem.
+
+hercle quidquid est, mussitabo potius quam inteream male;
+non ego possum quae ipsa sese venditat tutarier.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h36
+:END:
+
+Sceledre, Sceledre, quis homo in terra te alter est audacior?
+quis magis dís inimicis natus quam tu atque iratis?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h37
+:END:
+
+Quid est?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h38
+:END:
+
+Iuben tibi oculos exfodiri, quibus id quod nusquam est vides?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h39
+:END:
+
+Quid, nusquam?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h40
+:END:
+
+Non ego tuam empsim vitam vitiosa nuce.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h41
+:END:
+
+Quid negotist?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h42
+:END:
+
+Quid negoti sit rogas?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h43
+:END:
+
+Cur non rogem?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h44
+:END:
+
+Non tu tibi istam praetruncari linguam largiloquam iubes?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h45
+:END:
+
+Quam ob rem iubeam?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h46
+:END:
+
+Philocomasium eccam domi, quam in proxumo
+vidisse aibas te osculantem atque amplexantem cum altero.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h47
+:END:
+
+Mirumst lolio victitare te tam vili tritico.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h48
+:END:
+
+Quid iam?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h49
+:END:
+
+Quia luscitiosus esluscitiosu's.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h50
+:END:
+
+Verbero, edepol tu quidem
+caecus, non luscitiosus esluscitiosu's. nam illa quidem  [lost]  domi.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h51
+:END:
+
+Quid, domi?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h52
+:END:
+
+Domi hercle vero.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h53
+:END:
+
+Abi, ludis me, Palaestrio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h54
+:END:
+
+Tum mihi sunt manus ínquinatae.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h55
+:END:
+
+Qui dum?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h56
+:END:
+
+Quia ludo luto.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h57
+:END:
+
+Vae capiti tuo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h58
+:END:
+
+Tuo istuc, Sceledre, promitto fore,
+nisi oculos orationemque aliam commutas tibi.
+sed fores cóncrepuerunt nostrae.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h59
+:END:
+
+At ego ilico observo foris;
+nam nihil est qua hinc huc transire ea possit nisi recto ostio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h60
+:END:
+
+Quin domi eccam. nescio quae te, Sceledre, scelera suscitant.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h61
+:END:
+
+Mihi ego video, mihi ego sapio, mihi ego credo plurumum:
+mé homo nemo deterrebit, quin ea sit in his aedibus.
+hic obsistam, ne imprudenti huc ea se subrepsit mihi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h62
+:END:
+
+Meus illic homo est, deturbabo iam ego illum de pugnaculis.
+vin iam faciam, ut stultividum  [lost]  fateare?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h63
+:END:
+
+Age face.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h64
+:END:
+
+Neque te quicquam sapere corde neque oculis uti?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h65
+:END:
+
+Volo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h66
+:END:
+
+Nempe tu istíc ais esse erilem concubinam?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h67
+:END:
+
+Atque arguo
+eam me vidisse osculantem hic intus cum alieno viro.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h68
+:END:
+
+Scin tu nullum commeatum hínc esse a nobis?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h69
+:END:
+
+Scio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h70
+:END:
+
+Neque solarium neque hortum, nisi per impluvium?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h71
+:END:
+
+Scio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h72
+:END:
+
+Quid nunc? si ea domist, si facio, ut eam exire hinc videas domo,
+dignun es verberibus multis?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h73
+:END:
+
+Dignus.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h74
+:END:
+
+Serva istas fores,
+ne tibi clam se subterducat istinc atque huc transeat.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h75
+:END:
+
+Consilium est ita facere.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h10-h76
+:END:
+
+Pede ego iam illam huc tibi sistam in viam. —
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h77
+:END:
+
+Agedum ergo face. vólo scire, utrum egon id quod vidi viderim
+
+an illic faciat, quod facturum dicit, ut ea sit domi.
+nam ego quidem meos oculos habeo nec rogo utendos foris.
+sed hic illi subparasitatur semper, hic eae proxumust,
+primus ad cibum vocatur, primo pulmentum datur;
+nam illic noster est fortasse circiter triennium,
+
+neque cuiquam quam illi in nostra meliust famulo familia.
+sed ego hoc quod ago, id me agere oportet, hoc observare ostium.
+sic obsistam. hac quidem pol certo verba mihi numquam dabunt.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+* 354
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+Praecépta facito ut mémineris.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h2
+:END:
+
+Totiéns monere mírumst.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h3
+:END:
+
+At metuo ut satis sis subdola.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h4
+:END:
+
+Cedo vel decem, edocebo
+minime malas ut sint malae, mihi solae quod superfit.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h5
+:END:
+
+Age nunciam insiste in dolos; ego abs te procul recedam.
+
+quid ais tu, Sceledre?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h6
+:END:
+
+Hanc rem gero. habeo auris, loquere quidvis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h7
+:END:
+
+Credo ego istoc extemplo tibi esse eundum actutum extra portam,
+dispessis manibus, patibulum quom habebis.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h8
+:END:
+
+Quamnam ob rem?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h9
+:END:
+
+Respice dum ad laevam: quis illaec est mulier?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h10
+:END:
+
+Pro di immortales,
+eri cóncubinast haec quidem.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h11
+:END:
+
+Mihi quoque pol ita videtur.
+
+age nunciam, quando lubet —
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h12
+:END:
+
+Quid agam?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h13
+:END:
+
+Perire propera.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h14
+:END:
+
+Vbi iste ést bonus sérvos, qui probri me maxumi innocentem
+falso insimulavit?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h15
+:END:
+
+Em tibi, hic mihi dixit tibi quae dixi.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h16
+:END:
+
+Tun me vidisse in proxumo hic, sceleste, ais osculantem?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h17
+:END:
+
+Atque cum álieno adulescentulo dixit.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h18
+:END:
+
+Dixi hercle vero.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h19
+:END:
+
+Tun me vidisti?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h20
+:END:
+
+Atque his quidem hercle oculis.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h21
+:END:
+
+Carebis, credo,
+qui plus vident quam quod vident.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h22
+:END:
+
+Numquam hercle deterrebor
+quin viderim id quod viderim.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h23
+:END:
+
+Ego stulta et mora multum,
+quae cum hoc insano fabuler, quem pol ego capitis perdam.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h24
+:END:
+
+Noli minitari: scio crucem futuram mihi sepulcrum;
+
+ibi meí sunt maiores siti, pater, avos, proavos, abavos.
+non possunt mihi minaciis tuis hisce oculi exfodiri.
+sed paucis verbis te volo, Palaestrio. opsecro te,
+unde exit haec?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h25
+:END:
+
+Vnde nísi domo?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h26
+:END:
+
+Domo?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h27
+:END:
+
+Mé viden?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h28
+:END:
+
+Te video.
+nimis mírumst facinus, quo modo haec hinc huc transire potuit;
+
+nam certo neque solariumst apud nós neque hortus ullus
+neque fénestra nisi clatrata; nam certe ego te hic intus vidi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h29
+:END:
+
+Pergin, sceleste, intendere hanc arguere?
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h30
+:END:
+
+Ecastor ergo
+mi hau falsum evenit somnium, quod noctu hac somniavi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h31
+:END:
+
+Quid somniasti?
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h32
+:END:
+
+Ego eloquar. sed amabo advortite animum.
+
+hac nocte in somnis mea soror geminast germana visa
+venisse Athenis in Ephesum cum suo amatore quodam;
+ei ambo hóspitio huc in proxumum mihi devortisse visi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h33
+:END:
+
+Palaestrionis somnium narratur. perge porro.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h34
+:END:
+
+Ego laeta visa, quia soror venisset, propter eandem
+
+suspicionem maximam sum visa sustinere.
+nam arguere in somnis me meus mihi familiaris visust,
+me cum alieno adulescentulo, quasi nunc tu, esse osculatam,
+quom illa osculata mea soror gemina esset suompte amicum.
+id me insimulatam perperam falsum esse somniavi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h35
+:END:
+
+Satin eadem vigilanti expetunt quae in somnis visa memoras?
+eu hércle praesens somnium. abi intro et comprecare.
+narrandum ego istuc militi censebo.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h36
+:END:
+
+Facere certum est,
+neque me quidem patiar probri falso impune insimulatam. —
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h37
+:END:
+
+Timeo quid rerum gesserim, ita dorsus totus prurit.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h38
+:END:
+
+Scin te periisse?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h39
+:END:
+
+Nunc quidem domi certo est. certa res est
+nunc nostrum observare ostium, ubi ubist.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h40
+:END:
+
+At, Sceledre, quaeso,
+ut ad id exemplum somnium quam simile somniavit
+atque ut tu suspicatus es eam vídisse osculantem.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h41
+:END:
+
+Nescio quid credam egomet mihi iam, ita quod vidisse credo
+
+me id iam non vidisse arbitror.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h42
+:END:
+
+Ne tu hercle sero, opinor,
+resipisces: si ad erum haec res prius † devenerit, peribis pulchre.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h43
+:END:
+
+Nunc demum experior, mi ob oculos caliginem opstitisse.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h44
+:END:
+
+Dudum edepol planum est id quidem, quae hic usque fuerit intus.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h45
+:END:
+
+Nihil habeo certi quid loquar: non vidi eam, etsi vidi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h12-h46
+:END:
+
+Ne tu edepol stultitia tua nos paene perdidisti:
+dum te fidelem facere ero voluisti, absumptus esabsumptu's paene.
+sed fores vicini proxumi crepuerunt. conticiscam.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+* 411
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h1
+:END:
+
+Inde ignem in aram, ut Ephesiae Dianae laeta laudes
+gratesque agam eique ut Arabico fumificem odore amoene,
+quom me in locis Neptuniis templisque turbulentis
+servavit, saevis fluctibus ubi sum adflictata multum.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h2
+:END:
+
+Palaestrio, o Palaestrio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h3
+:END:
+
+O Sceledre, Sceledre, quid vis?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h4
+:END:
+
+Haec mulier, quae hinc exit modo, estne erilis concubina
+Philocomasium, an non est ea?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h5
+:END:
+
+Hercle opinor, ea videtur.
+sed facinus mirum est, quo modo haec hinc huc transire potuit,
+si quidem east.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h6
+:END:
+
+An dubium tibi est eam esse hanc?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h7
+:END:
+
+Ea videtur.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h8
+:END:
+
+Adeamus, appellemus. heus, quid istúc est, Philocomasium?
+quid tibi istic in istisce aedibus debetur, quid negotist?
+quid nunc taces? tecum loquor.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h9
+:END:
+
+Immo edepol tute tecum;
+nam haec nil respondet.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h10
+:END:
+
+Te adloquor, viti probrique plena,
+quae circum vicinos vagas.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h11
+:END:
+
+Quicum tu fabulare?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h12
+:END:
+
+Quicum nisi tecum?
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h13
+:END:
+
+Quis tu homo es, aut mecum quid est negoti?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h14
+:END:
+
+Mé rogas homo qui sim?
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h15
+:END:
+
+Quin ego hoc rogem quod nesciam?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h16
+:END:
+
+Quis ego sum igitur, si hunc ignoras?
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h17
+:END:
+
+Mihi odiosus, quisquis es,
+et tu et hic.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h18
+:END:
+
+Non nos novisti?
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h19
+:END:
+
+Neutrum.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h20
+:END:
+
+Metuo maxume,
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h21
+:END:
+
+Quid metuis?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h22
+:END:
+
+Enim ne nos nosmet perdiderimus uspiam;
+
+nam nec te neque me novisse ait haec.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h23
+:END:
+
+Persectari hic volo,
+Sceledre, nos nostri an alieni simus, ne dum quispiam
+nos vicinorum imprudentis aliquis immutaverit.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h24
+:END:
+
+Certe equidem noster sum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h25
+:END:
+
+Et pol ego. quaeris tu, mulier, malum.
+tibi ego dico, heus, Philocomasium.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h26
+:END:
+
+Quae te intemperiae tenent,
+
+qui me perperam perplexo nomine appelles?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h27
+:END:
+
+Eho,
+quis igitur vocare?
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h28
+:END:
+
+Diceae nomen est.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h29
+:END:
+
+Iniuria es,
+falsum nomen possidere, Philocomasium, postulas;
+ἄδικος es tu, non δικαία, et meo ero facis iniuriam.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h30
+:END:
+
+Egone?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h31
+:END:
+
+Tune.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h32
+:END:
+
+Quaé heri Athenis Ephesum adveni vesperi
+
+cum meo amatore, adulescente Atheniensi?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h33
+:END:
+
+Dic mihi,
+quid hic tibi in Epheso est negoti?
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h34
+:END:
+
+Geminam germanam meam
+hic sororem esse indaudivi, eam veni quaesitum.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h35
+:END:
+
+Mala es.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h36
+:END:
+
+Immo ecastor stulta multum, quae vobiscum fabuler.
+abeo.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h37
+:END:
+
+Abire non sinam te.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h38
+:END:
+
+Mitte.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h39
+:END:
+
+Manifestaria es.
+
+non omitto.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h40
+:END:
+
+At iam crepabunt mihi manus, malae tibi,
+nisi me omittis.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h41
+:END:
+
+Quid, malum, astas? quin tenes altrinsecus?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h42
+:END:
+
+Nil moror negotiosum mi esse tergum. qui scio
+an ista non sit Philocomasium átque alia eius similis sit?
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h43
+:END:
+
+Mittis me an non mittis?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h44
+:END:
+
+Immo vi atque invitam ingratiis,
+
+nisi voluntate ibis, rapiam te domum.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h45
+:END:
+
+Hosticum hoc mihi
+domicilium est, Athenis domus est Atticis; ego istam domum
+neque moror neque vos qui hómines sitis novi neque scio.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h46
+:END:
+
+Lege agito: te nusquam mittam, nisi das firmatam fidem,
+te huc, si omisero, intro ituram.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h47
+:END:
+
+Vi me cogis, quisquis es.
+
+do fidem, si omittis, isto me intro ituram quo iubes.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h48
+:END:
+
+Ecce omitto.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h14-h49
+:END:
+
+At ego abeo missa. —
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h50
+:END:
+
+Muliebri fecit fide.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h51
+:END:
+
+Sceledre, manibus amisisti praedam. tám east quam potis
+nostra erilis concubina. vin tu facere hoc strenue?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h52
+:END:
+
+Quid faciam?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h53
+:END:
+
+Ecfer mihi machaeram huc intus.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h54
+:END:
+
+Quid facies ea?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h55
+:END:
+
+Intro rumpam recta in aedis: quemque hic intus videro
+cum Philocomasio osculantem, eum ego óbtruncabo extempulo.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h56
+:END:
+
+Visanest ea esse?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h57
+:END:
+
+Immo edepol plane east.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h58
+:END:
+
+Sed quo modo
+dissimulabat.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h59
+:END:
+
+Abi, machaeram huc ecfer.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h60
+:END:
+
+Iam faxo hic erit. —
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h61
+:END:
+
+Neque eques neque pedes profectost quisquam tanta audacia,
+
+qui aeque faciat confidenter quicquam quam mulier facit.
+ut utrubique orationem docte divisit suam,
+ut sublinitur os custodi cauto, conservo meo.
+nimis beat quod commeatus transtinet trans parietem.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h62
+:END:
+
+Heus, Palaestrio, machaera nihil opust.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h63
+:END:
+
+Quid iam, aut quid est?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h64
+:END:
+
+Domi eccam erilem concubinam.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h65
+:END:
+
+Quid, domi?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h66
+:END:
+
+In lecto cubat.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h67
+:END:
+
+Edepol ne tu tibi malam rem repperisti, ut praedicas.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h68
+:END:
+
+Quid iam?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h69
+:END:
+
+Quia hanc attingere ausus esausu's mulierem hinc ex proxumo.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h70
+:END:
+
+Magis hercle metuo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h71
+:END:
+
+Sed numquam quisquam faciet quin soror
+istaec sit gemina huius: eam pol tu osculantem hic videras.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h14-h72
+:END:
+
+Id quidem palam est eam esse, ut dicis; quid propius fuit,
+quam ut perirem, si elocutus essem ero?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h14-h73
+:END:
+
+Ergo, si sapis,
+mussitabis: plus oportet scire servom quam loqui.
+ego abeo a te, ne quid tecum consili commisceam,
+atque apud hunc ero vicinum; tuae mihi turbae non placent.
+
+erus si veniet, si me quaeret, hic ero: hinc me arcessito. —
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+* 481
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+Satin abiit ille neque erile negotium
+plus curat, quasi non servitutem serviat?
+certo illa quidem hic nunc intus est in aedibus,
+nam egomet cubantem eam modo offendi domi.
+
+certum est nunc observationi operam dare.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h2
+:END:
+
+non hercle hisce homines me marem, sed feminam
+vicini rentur esse servi militis:
+ita me ludificant. meamne hic invitam hospitam,
+quae heri huc Athenis cum hospite advenit meo,
+
+tractatam et ludificatam, ingenuam et liberam?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h3
+:END:
+
+Perii hercle, hic ad me recta habet rectam viam.
+metuo, illaec mihi res ne malo magno fuat,
+quantum hunc audivi facere verborum senem.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h4
+:END:
+
+Accedam ad hominem. tun, Sceledre, hic, scelerum caput,
+
+meam ludificavisti hospitam ante aedis modo?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h5
+:END:
+
+Vicine, ausculta quaeso.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h6
+:END:
+
+Ego auscultem tibi?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h7
+:END:
+
+Expurigare volo me.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h8
+:END:
+
+Tun te expuriges,
+qui facinus tantum tamque indignum feceris?
+an quia latrocinamini, arbitramini
+
+quidvis licere facere vobis, verbero?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h9
+:END:
+
+Licetne?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h10
+:END:
+
+At ita me di deaeque omnis ament,
+nisi mihi supplicium virgeum de te datur
+longum diutinumque, a mane ad vesperum,
+quod meas confregisti imbricis et tegulas,
+
+ibi dum condignam te sectatus essectatu's simiam,
+quodque inde inspectavisti meum apud me hospitem
+amplexum amicam, quom osculabatur, suam,
+quodque cóncubinam erilem insimulare ausus es
+probri pudicam meque summi flagiti,
+
+tum quod tractavisti hospitam ante aedis meam:
+nisi mihi supplicium stimuleum de te datur,
+dedecoris pleniorem erum faciam tuom,
+quam magno vento plenumst undarum mare.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h11
+:END:
+
+Ita sum coactus, Periplectomene, ut nesciam
+
+utrum me postulare prius  [lost]  tecum aequom siet;
+nisi si istaec non est haec neque haec istast, mihi
+me expurigare tibi videtur aequius;
+sicut etiam nunc nescio quid viderim:
+itast ista huius similis nostrai tua,
+
+siquidem non eadem est.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h12
+:END:
+
+Vise ad me intro, iam scies.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h13
+:END:
+
+Licetne?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h14
+:END:
+
+Quin te iubeo; et placide noscita.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h15
+:END:
+
+Ita facere certum est. —
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h16
+:END:
+
+Heus, Philocomasium, cito
+transcurre curriculo ad nos, ita negotiumst.
+post, quando exierit Sceledrus a nobis, cito
+
+transcurrito ad vos rursum curriculo domum.
+nunc pol ego metuo ne quid infuscaverit.
+si hic non videbit mulierem — aperitur foris.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h17
+:END:
+
+Pro di immortales, similiorem mulierem
+magisque eándem, ut pote quae non sit eadem, non reor
+
+deos fácere posse.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h18
+:END:
+
+Quid nunc?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h19
+:END:
+
+Commerui malum.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h20
+:END:
+
+Quid igitur? eanest?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h21
+:END:
+
+Etsi east, non est ea.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h22
+:END:
+
+Vidistin istam?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h23
+:END:
+
+Vidi, et illam et hospitem,
+complexam atque osculantem.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h24
+:END:
+
+Eanest?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h25
+:END:
+
+Nescio.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h26
+:END:
+
+Vin scire plane?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h27
+:END:
+
+Cupio.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h28
+:END:
+
+Abi intro ad vos domum
+
+continuo, vide sitne istaec vostra intus.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h29
+:END:
+
+Licet,
+pulchre admonuisti. iám ego ad te exibo foras. —
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h30
+:END:
+
+Numquam edepol hominem quemquam ludificarier
+magis facete vidi et magis miris modis.
+sed eccum egreditur.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h31
+:END:
+
+Periplectomene, te opsecro
+
+per deos atque homines perque stultitiam meam
+perque tua genua —
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h32
+:END:
+
+Quíd opsecras me?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h33
+:END:
+
+Inscitiae
+meae et stultitiae ignoscas. nunc demum scio
+me fuisse excordem, caecum, incogitabilem.
+nam Philocomasium eccam intus.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h34
+:END:
+
+Quid nunc, furcifer?
+
+vidistin ambas?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h35
+:END:
+
+Vidi.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h36
+:END:
+
+Erum exhibeas volo.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h37
+:END:
+
+Meruisse equidem me maxumum fateor malum,
+et tuae fecisse me hospitae aio iniuriam;
+sed meam esse erilem concubinam censui,
+cui me custodem erus addidit miles meus.
+
+nam ex uno puteo similior numquam potis
+aqua aquai sumi quam haec est atque ista hospita.
+et me despexe ad te per impluvium tuom
+fateor.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h38
+:END:
+
+Quid ni fateare, ego quod viderim?
+et ibi osculantem meum hospitem cum ista hospita
+
+vidisti?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h39
+:END:
+
+Vidi (cur negem quod viderim?),
+sed Philocomasium me vidisse censui.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h40
+:END:
+
+Ratun istic me hominem esse omnium minimi preti,
+si ego me sciente paterer vicino meo
+eam fieri apud me tam insignite iniuriam?
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h41
+:END:
+
+Nunc demum a me insipienter factum esse arbitror,
+cum rem cognosco; at non malitiose tamen
+feci.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h42
+:END:
+
+Immo indigne; nám hominem servom suos
+domitos habere oportet oculos et manus
+orationemque.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h43
+:END:
+
+Egone si post hunc diem
+
+muttivero, etiam quod egomet certo sciam,
+dato excruciandum me: egomet me dedam tibi;
+nunc hoc mi ignosce quaeso.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h44
+:END:
+
+Vincam animum meum,
+ne malitiose factum id esse aps te arbitrer.
+ignoscam tibi istuc.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h45
+:END:
+
+At tibi di faciant bene.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h46
+:END:
+
+Ne tu hercle, si te di ament, linguam comprimes
+posthac, etiam illud quod scies nesciveris
+nec videris quod videris.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h47
+:END:
+
+Bene me mones,
+ita facere certum est. sed satine oratus esoratu's?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h48
+:END:
+
+Abi.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h49
+:END:
+
+Numquid nunc aliud me vis?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h50
+:END:
+
+Ne me noveris.
+
+** Sceledrvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h51
+:END:
+
+Dedit híc mihi verba. quam benigne gratiam
+fecit, ne iratus esset. scio quam rem gerat:
+ut miles cum extemplo a foro adveniat domum,
+domi cómprehendar. una hic et Palaestrio
+me habent venalem: sensi et iam dudum scio.
+
+numquam hercle ex ista nassa ego hodie escam petam;
+nam iam aliquo aufugiam et me occultabo aliquot dies,
+dum haec consilescunt turbae atque irae leniunt.
+nam uni satis populo impio merui mali. —
+verum tamen dé me quidquid est, ibo hinc domum.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h16-h52
+:END:
+
+Illic hínc abscessit. sat edepol certo scio,
+occisam saepe sapere plus multo suem:
+quoin id adimatur ne id quod vidit viderit.
+nam illius oculi atque aures atque opinio
+transfugere ad nos. usque adhuc actum est probe;
+
+nimium festivam mulier operam praehibuit.
+redeo in senatum rusum; nam Palaestrio
+domi nunc apud me est, Sceledrus nunc autemst foris:
+frequens senatus poterit nunc haberier.
+ibo intro, ne, dum absum, alter sorti defuat. —
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+* 596
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h1
+:END:
+
+Cóhibete intra limen etiam vos parumper, Pleusicles,
+sinite me prius pérspectare, ne uspiam insidiae sient
+concilium quod habere volumus. nam ópus est nunc tuto loco,
+unde inimicus ne quis nostri spolia capiat consili.
+
+nam bene consultum inconsultum est, si id inimicis usuist,
+neque potest quin, si id inimicis usuist, obsit tibi;
+nam bene consultum consilium surripitur saepissime,
+si minus cúm cura aut cautella locus loquendi lectus est.
+quippe qui, si rescivere inimici consilium tuom,
+
+tuopte tibi consilio occludunt linguam et constringunt manus,
+atque eadem quae illis voluisti facere, illi faciunt tibi.
+sed speculabor, ne quis aut hinc aut ab laeva aut dextera
+nostro consilio venator adsit cum auritis plagis.
+sterilis hinc prospectus usque ad ultumam est plateam probe.
+
+evocabo. heus Periplectomene et Pleusicles, progredimini.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h2
+:END:
+
+Ecce nos tibi oboedientes.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h3
+:END:
+
+Facilest imperium in bonis.
+sed volo scíre: eodem consilio, quód intus meditati sumus,
+gerimus rem?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h4
+:END:
+
+Magis nón potest esse ad rem utibile.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h5
+:END:
+
+Immo  [lost]
+quid tibi, Pleusicles?
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h6
+:END:
+
+Quodne vóbis placeat, displiceat mihi?
+
+quis homo sit magis meus quam tu es?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h7
+:END:
+
+Loquere lepide et commode.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h8
+:END:
+
+Pol ita decet hunc facere.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h9
+:END:
+
+At hoc me facinus miserum macerat
+meumque cor corpusque cruciat.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h10
+:END:
+
+Quid id est quod cruciat? cedo.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h11
+:END:
+
+Me tibi istúc aetatis homini facinora puerilia
+obicere, neque te decora neque tuis virtutibus;
+
+ea te expetere ex opibus summis mei honoris gratia
+mihique amanti ire opitulatum atque ea te facere facinora,
+quae istaec aetas fugere facta magis quam sectari solet:
+eam pudet me tíbi in senecta obicere sollicitudinem.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h12
+:END:
+
+Novo modo tu homo amás, siquidem te quicquam quod faxis pudet;
+
+nihil amas, umbra es amantis magis quam amator, Pleusicles.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h13
+:END:
+
+Hancine aetatem exercere mei me amoris gratia?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h14
+:END:
+
+Quid ais tu? itane tibi ego videor oppido Acherunticus?
+tam capularis, tamine tibi diu videor vitam vivere?
+nam équidem haud sum natus annos praeter quinquaginta et quattuor,
+
+clare oculis video, pernix sum manibus, pedibus mobilis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h15
+:END:
+
+Si albicapillus hic, videtur neutiquam ab ingenio senex.
+inest in hoc emussitata sua sibi ingenua indoles.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h16
+:END:
+
+Pol id quidem éxperior ita esse ut praedicas, Palaestrio;
+nam benignitas quidem huius oppido adulescentula est.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h17
+:END:
+
+Immo, hospes, magis cúm periclum facies, magis nosces meam
+comitatem erga te amantem.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h18
+:END:
+
+Quid opus nota noscere?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h19
+:END:
+
+Vt apud te exemplum experiundi hábeas, ne quaeras foris;
+nam nisi qui ipse amavit, aegre amantis ingenium inspicit:
+et ego amoris aliquantum habeo umorisque etiam in corpore,
+
+neque dum exarui ex amoenis rebus et voluptariis.
+vel cavillator facetus vel conviva commodus
+item eró, neque ego oblocutor sum alteri in convivio:
+incommoditate abstinere me apud convivas commodo
+commemini et meae orationis iustam partem persequi
+
+et meam partem itidem tacere, quom aliena est oratio;
+minime sputator, screator sum, itidem minime mucidus:
+post Ephesi sum natus, non enim in Apulis; non sum Animulas.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h20
+:END:
+
+O lepidum senem, in se si quas memorat virtutis habet,
+atque equidem plane educatum in nutricatu Venerio.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h21
+:END:
+
+Plus dabo quam praedicabo ex me venustatis tibi.
+neque ego úmquam alienum scortum subigito in convivio,
+neque praeripio pulpamentum neque praevorto poculum,
+neque per vinum umquam ex me exoritur discidium in convivio:
+si quis ibi est odiosus, abeo domum, sermonem segrego;
+
+Venerem, amorem amoenitatemque accubans exerceo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h22
+:END:
+
+Tu quidem edepol omnis moris ad venustatem † vacet;
+cedo tris mi hominis aurichalco contra cum istis moribus.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h23
+:END:
+
+At quidem illúc aetatis qui sit non invenies alterum
+lepidiorem ad omnís res nec qui amicus amico sit magis.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h24
+:END:
+
+Tute me ut fateare faciam esse adulescentem moribus,
+ita apud omnis comparebo tibi res bene factis frequens.
+opusne erit tibi advocato tristi, iracundo? ecce me;
+opusne leni? leniorem dices quam mutum est mare,
+liquidiusculusque ero quam ventus est favonius.
+
+vel hilarissimum convivam hinc indidem expromam tibi,
+pel primarium parasitum atque obsonatorem optumum;
+tum ad saltandum non cinaedus malacus aequest atque ego.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h25
+:END:
+
+Quid ad illas artis optassis, si optio eveniat tibi?
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h26
+:END:
+
+Huius pro méritis ut referri pariter possit gratia,
+
+tibique, quibus nunc me esse experior summae sollicitudini.
+at tibi tanto sumptui esse mihi molestumst.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h27
+:END:
+
+Morus es.
+nam in mala uxore atque inimico si quid sumas, sumptus est,
+in bono hospite atque amico quaestus est quod sumitur
+et quod in divinis rebus sumptumst, sapienti lucrumst.
+
+deum virtute est te unde hospitio accipiam apud me comiter:
+es, bibe, animo obsequere mecum atque onera te hilaritudine.
+liberae sunt aedis, liber sum autem ego: mei volo vivere.
+nam mihi, deum virtute dicam, propter divitias meas
+licuit uxorem dotatam genere summo ducere;
+
+sed nolo mi oblatratricem in aedis intro mittere.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h28
+:END:
+
+Cur non vis? nam procreare liberos lepidumst onus.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h29
+:END:
+
+Hercle vero liberum esse tete, id multo lepidiust.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h30
+:END:
+
+Tu homo et alteri sapienter potis es consulere et tibi.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h31
+:END:
+
+Nam bona uxor suave ductust, si sit usquam gentium
+
+ubi ea possit inveniri; verum egone eam ducam domum,
+quae mihi numquam hoc dicat “eme, mi vir, lanam, unde tibi pallium
+malacum et calidum conficiatur tunicaeque hibernae bonae,
+ne algeas hac hieme” (hoc numquam verbum ex uxore audias),
+verum prius quam galli cantent quae me e somno suscitet,
+
+dicat “da, mi vir, kalendis meam qui matrem munerem,
+da qui faciam † condiat, dá quod dem quinquatribus
+praecantrici, coniectrici, hariolae atque haruspicae;
+flagitiumst, si nil mittetur quae supercilio spicit;
+tum plicatricem clementer non potest quin munerem;
+
+iam pridem, quia nihil abstulerit, suscenset ceriaria;
+tum opstetrix expostulavit mecum, parum missum sibi;
+quid? nutrici non missurus esmissuru's quicquam, quae vernas alit?”
+haec atque horum similia alia damna multa mulierum
+me uxore prohibent, mihi quae huius similes sermones serat.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h32
+:END:
+
+Di tibi propitii sunt, nam hercle si istam semel amiseris
+libertatem, haud facile in eundem rusum restitues locum.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h33
+:END:
+
+At illa laus est, magno in genere et in divitiis maxumis
+liberos hominem educare, generi monumentum et sibi.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h34
+:END:
+
+Quando habeo multos cognatos, quid opus est mihi liberis?
+
+nunc bene vivo et fortunate atque ut volo atque animo ut lubet.
+mea bona in morté cognatis didam, inter eos partiam.
+ei apud me aderunt, me curabunt, visent quid agam, ecquid velim.
+prius quam lucet adsunt, rogitant noctu ut somnum ceperim.
+eos pro liberis habebo, qui mihi mittunt munera.
+
+sacrificant: dant inde partem mihi maiorem quam sibi,
+abducunt ad exta; me ad se ad prandium, ad cenam vocant;
+ille misérrumum se retur, minimum qui misit mihi.
+illi inter se certant donis, egomet mecum mussito:
+bona mea inhiant, me certatim nutricant et munerant.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h35
+:END:
+
+Nimis bona ratione nimiumque ad te te et tuam vitam habes:
+et tibi sunt gemini et trigemini, si te bene habes, filii.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h36
+:END:
+
+Pol si habuissem, satis cepissem miseriarum e liberis:
+continuo excruciarer animi: si ei forte fuisset febris,
+censerem emori; cecidissetve ebrius aut de equo uspiam,
+
+metuerem ne ibi diffregisset crura aut cervices sibi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h37
+:END:
+
+Huic homini dignum est divitias esse et diu vitam dari,
+qui et rem servat et se bene habet suisque amicis usui est.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h38
+:END:
+
+O lepidum caput. ita me di deaeque ament, aequom fuit
+deos paravisse, uno exemplo ne omnes vitam viverent;
+
+sicut merci pretium statuit qui est probus agoranomus:
+quae probast mers, pretium ei statuit, pro virtute ut veneat,
+quae improbast, pro mercis vitio dominum pretio pauperat,
+itidem divos dispertisse vitam humanam aequom fuit:
+qui lepide ingeniatus esset, vitam ei longinquam darent,
+
+qui improbi essent et scelesti, is adimerent animam cito.
+si hoc paravissent, et homines essent minus multi mali
+et minus audacter scelesta facerent facta, et postea,
+quí homines probi essent, esset is annona vilior.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h39
+:END:
+
+Qui deorum consilia culpet, stultus inscitusque sit,
+
+quique eos vituperet. nunc istis rebus desisti decet.
+nunc volo opsonare, ut, hospes, tua te ex virtute et mea
+meae domi accipiam benigne, lepide et lepidis victibus.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h40
+:END:
+
+Nihil me paenitet iam quanto sumptui fuerim tibi;
+nam hospes nullus tám in amici hospitium devorti potest,
+
+quin, ubi triduom continuom fuerit, iam odiosus siet;
+verum ubi dies decem continuos sit, east odiorum Ilias:
+tam etsi dominus non invitus patitur, servi murmurant.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h41
+:END:
+
+Serviendae servituti ego servos instruxi mihi,
+hospes, non qui mi imperarent quibusve ego essem obnoxius:
+
+si illis aegrest mihi quod volup est, meo remigio rem gero,
+tamen id quod odiost faciundumst cum malo atque ingratiis.
+nunc, quod occepi, opsonatum pergam.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h42
+:END:
+
+Si certumst tibi,
+commodulum obsona, ne magno sumptu: mihi quidvis sat est.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h43
+:END:
+
+Quin tu istanc orationem hinc veterem atque antiquam amoves?
+
+nam proletario sermone nunc quidem, hospes, utere;
+nam ei solent, quando accubuere, ubi cena adpositast, dicere:
+“quid opus fuit hoc, hospes, sumptu tanto nostra gratia?
+insanivisti hercle, nám idem hoc hominibus sat erat decem.”
+quod eorum causa obsonatumst culpant et comedunt tamen.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h44
+:END:
+
+Fit pol íllud ad íllud exemplum. ut docte et perspecte sapit.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h45
+:END:
+
+Sed eidem homines numquam dicunt, quamquam adpositumst ampliter:
+“iube illud demi; tolle hanc patinam; remove pernam, nil moror;
+aufer illam offam porcinam, probus hic conger frigidus,
+remove, abi aufer” neminem eorum haec adseverare audias,
+
+sed procellunt se et procumbunt dimidiati, dum appetunt.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h46
+:END:
+
+Bonus bene ut malos descripsit mores.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h47
+:END:
+
+Haud centesimam
+partem dixi atque, otium rei si sit, possum expromere.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h48
+:END:
+
+Igitur id quod agitur, † hic primum praeverti decet.
+nunc hoc animum advortite ambo. mihi opus est opera tua,
+
+Periplectomene; nám ego inveni lepidam sycophantiam,
+qui admutiletur miles usque caesariatus atque uti
+huic amanti ac Philocomasio hanc ecficiamus copiam,
+ut hic eam abducat habeatque.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h49
+:END:
+
+Dari istanc rationem volo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h50
+:END:
+
+At ego mi anulum dari istunc tuom volo.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h51
+:END:
+
+Quam ad rem usui est?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h52
+:END:
+
+Quando habebo, igitur rationem mearum fabricarum dabo.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h53
+:END:
+
+Vtere, accipe.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h54
+:END:
+
+Accipe a me rusum rationem doli,
+quam institui.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h55
+:END:
+
+Perpurigatis damus tibi ambo operam auribus.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h56
+:END:
+
+Erus meus ita magnus moechus mulierum est, ut neminem
+fúisse aeque neque futurum credo.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h57
+:END:
+
+Credo ego istuc idem.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h58
+:END:
+
+Isque Alexandri praestare praedicat formae suam,
+itaque omnis se ultro sectari in Epheso memorat mulieres.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h59
+:END:
+
+Edepol qui te de isto multi cupiunt † non mentirier,
+sed ego ita esse ut dicis teneo pulchre. proin, Palaestrio,
+quam potis tam verba confer maxime ad compendium.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h60
+:END:
+
+Ecquam tu potes reperire forma lepida mulierem,
+cui facetiarum cor pectusque sit plenum et doli?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h61
+:END:
+
+Ingenuamne an libertinam?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h62
+:END:
+
+Aequi istuc facio, dum modo
+eam des quae sit quaestuosa, quaé alat corpus corpore,
+cuique sapiat pectus; nam cor non potest, quod nulla habet.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h63
+:END:
+
+Lautam vis an quae nondum sit lauta?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h64
+:END:
+
+Sic consucidam,
+quam lepidissimam potis quamque adulescentem maxume.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h65
+:END:
+
+Habeo eccillam meam clientam, meretricem adulescentulam.
+sed quid ea usus est?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h66
+:END:
+
+Vt ad te eam iam deducas domum
+itaque eam huc ornatam adducas, ex matronarum modo,
+
+capite compto, crinis vittasque habeat, adsimuletque se
+tuam esse uxorem: ita praecipiundum est.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h67
+:END:
+
+Erro quam insistas viam.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h68
+:END:
+
+At scietis. séd ecquae ancillast illi?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h69
+:END:
+
+Est prime cata.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h70
+:END:
+
+Ea quoque opus est. ita praecipito mulieri atque ancillulae,
+ut simulet se tuam esse uxorem et deperire hunc militem,
+
+quasique hunc anulum faveae suae dederit, ea porro mihi,
+militi ut darem, quasique ego ei rei sim interpres.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h71
+:END:
+
+Audio;
+ne me surdum esse arbitrare, si audes. ego recte meis
+auribus utor  [lost]
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h72
+:END:
+
+[lost]
+ei dabo, aps tua mi uxore dicam delatum et datum,
+
+ut sese ad eum conciliarem; ille eiusmodi est: cupiet miser,
+qui nisi adulterio studiosus rei nulli aliaest improbus.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h73
+:END:
+
+Non potuit reperire, si ipsi Soli quaerendas dares,
+lepidiores duas ad hanc rem quám ego. hábe animum bonum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h74
+:END:
+
+Ergo adcura, sed propere opus est. nunc tu ausculta, Pleusicles.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h75
+:END:
+
+Tibi sum oboediens.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h76
+:END:
+
+Hoc facito, miles domum ubi advenerit,
+memineris ne Philocomasium nomines.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h77
+:END:
+
+Quem nominem?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h78
+:END:
+
+Diceam.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h79
+:END:
+
+Nempe eandem quae dudum constitutast.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h80
+:END:
+
+Pax, abi.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h81
+:END:
+
+Meminero. sed quid meminisse id refert, rogo ego te tamen.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h82
+:END:
+
+Ego enim dicam tum quando usus poscet; interea tace,
+
+ut nunc etiam hic agat ac tu tum partis defendas tuas.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h19-h83
+:END:
+
+Ego eo intro igitur. —
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h19-h84
+:END:
+
+Et praecepta sobrie ut cures face.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+* 813
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h1
+:END:
+
+quantas res turbo, quantas moveo machinas.
+eripiam ego hodie concubinam militi,
+si centuriati bene sunt maniplares mei.
+sed illúm vocabo. heus Sceledre, nisi negotiumst,
+
+progredere ante aedis, te vocat Palaestrio.
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h2
+:END:
+
+Non operaest Sceledro.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h3
+:END:
+
+Quid iam?
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h4
+:END:
+
+Sorbet dormiens.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h5
+:END:
+
+Quid, sorbet?
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h6
+:END:
+
+Illud, stertit, volui dicere.
+sed quia consimile est, quom stertas, quasi sorbeas —
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h7
+:END:
+
+Eho an dórmit Sceledrus intus?
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h8
+:END:
+
+Non naso quidem,
+
+nam eo mágnum clamat. tetigit calicem clanculum,
+dum misit nardum in amphoram, cellarius.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h9
+:END:
+
+Eho tu sceleste, qui illi suppromus essuppromu's, eho —
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h10
+:END:
+
+Quid vis?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h11
+:END:
+
+Qui lubitum est illi condormiscere?
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h12
+:END:
+
+Oculis opinor.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h13
+:END:
+
+Non te istuc rogito, scelus.
+
+procede huc. periisti iam, nisi verum scio.
+prompsisti tu illi vinum?
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h14
+:END:
+
+Non prompsi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h15
+:END:
+
+Negas?
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h16
+:END:
+
+Nego hercle vero, nam ille me vetuit dicere;
+neque equidem heminas octo exprompsi in urceum
+neque illic calidum éxbibit in prandium.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h17
+:END:
+
+Neque tu bibisti?
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h18
+:END:
+
+Di me perdant, si bibi,
+si bibere potui.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h19
+:END:
+
+Quid iam?
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h20
+:END:
+
+Quia enim obsorbui;
+nam nimis calebat, amburebat gutturem.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h21
+:END:
+
+Alii ebrii sunt, alii poscam potitant.
+bono subpromo et promo cellam creditam.
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h22
+:END:
+
+Tu hércle idem fáceres, si tibi esset credita:
+quoniam aemulari non licet, nunc invides.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h23
+:END:
+
+Eho an umquam prompsit antehac? responde, scelus.
+atque ut tu scire possis, ego dico tibi:
+si falsa dices, Lucrio, excruciabere.
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h24
+:END:
+
+Ita vero? ut tu ipse me dixisse delices,
+post e sagina ego eiciar cellaria,
+ut tibi, si promptes, alium subpromum pares.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h25
+:END:
+
+Non edepol faciam. age eloquere audacter mihi.
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h26
+:END:
+
+Numquam edepol vidi promere. verum hoc erat:
+
+mihi imperabat, ego promebam postea.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h27
+:END:
+
+Hoc illi crebro capite sistebant cadi.
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h28
+:END:
+
+Non hercle tam istoc valide cassabant cadi;
+sed in célla erat paulum nimis lóculi lubrici,
+ibi erat bilibris aula sic propter cados,
+
+ea saepe deciens complebatur: vidi eam
+plenam atque inanem fieri, plenam maxume;
+ubi bacchabatur aula, cassabant cadi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h29
+:END:
+
+Abi, abi íntro iam. vos in cella vinaria
+bacchanal facitis. iam hercle ego erum ádducam a foro.
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h30
+:END:
+
+Perii, excruciabit mé erus, domum si venerit,
+quom haec facta scibit, quia sibi non dixerim.
+fugiam hercle aliquo atque hoc in diem extollam malum.
+ne dixeritis, obsecro, huic, vostram fidem.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h31
+:END:
+
+Quo té agis?
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h32
+:END:
+
+Missus sum aliquo: iam huc revenero.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h33
+:END:
+
+Quis misit?
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h34
+:END:
+
+Philocomasium.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h35
+:END:
+
+Abi, actutum redi.
+
+** Lvcrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h36
+:END:
+
+Quaeso tamen tu meam partem, infortunium
+si dividetur, me absente accipito tamen. —
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h37
+:END:
+
+Modo intellexi quam rem mulier gesserit:
+quia Sceledrus dormit, hunc subcustodem suom
+
+foras áblegavit, dum ab se huc transiret. placet.
+sed Periplectomenus quam ei mandavi mulierem
+nimis lépida forma ducit. di hercle hanc rem adiuvant.
+quam digne ornata incedit, haud meretricie.
+lepide hoc succedit sub manus negotium.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+* 874
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h1
+:END:
+
+Rem omném tibi, Acroteleútium, tibique úna, Milphidíppa,
+domi démonstravi in ordine. hanc fabricam fallaciasque
+minus sí tenetis, denuo volo percipiatis plane;
+satis si íntellegitis, aliud est quod potius fabulemur.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h2
+:END:
+
+Stultitia atque insipientia mea istaec sit, mi patrone,
+me ire in opus alienum aut ibi meam operam pollicitari,
+si ea in ópificina nesciam aut mala esse aut fraudulenta.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h3
+:END:
+
+At melius est monerier.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h4
+:END:
+
+Meretricem commoneri,
+quam sane magni referat, nihil clam est. quin egomet ultro,
+
+postquam adbibere auris meae tuae oram orationis,
+tibi dixi, miles quem ad modum potis sit deasciari.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h5
+:END:
+
+At nemo solus satis sapit. nam ego multos saepe vidi
+regionem fugere consili prius quam repertam haberent.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h6
+:END:
+
+Si quid faciendum est mulieri male atque malitiose,
+
+ea síbi immortalis memoriast meminisse et sempiterna;
+sin bene quid aut fideliter faciundum eisdem veniat,
+obliviosae extempulo fiunt, meminisse nequeunt.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h7
+:END:
+
+Ergo istuc metuo, quom venit vobis faciundum utrumque:
+nam id proderit mihi, militi male quod facietis ambae.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h8
+:END:
+
+Dum nescientes quod bonum faciamus, ne formida.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h9
+:END:
+
+Mala mulier mers est.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h10
+:END:
+
+Ne pave, peioribus conveniunt.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h11
+:END:
+
+Ita vos decet. consequimini.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h12
+:END:
+
+Cesso égo illis obviam ire?
+venire salvom gaudeo, lepide hercle ornatus incedis.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h13
+:END:
+
+Bene opportuneque obviam es, Palaestrio. em tibi adsunt
+
+quas me iussisti adducere et quo ornatu.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h14
+:END:
+
+eu, noster esto.
+Palaestrio Acroteleutium salutat.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h15
+:END:
+
+Quis hic amabo est,
+qui tam pro nota nominat me?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h16
+:END:
+
+Hic noster architectust.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h17
+:END:
+
+Salve, architecte.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h18
+:END:
+
+Salva sis. sed dic mihi, ecquid hic te
+oneravit praeceptis?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h19
+:END:
+
+Probe meditatam utramque duco.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h20
+:END:
+
+Audire cupio, quem ad modum; ne quid peccetis paveo.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h21
+:END:
+
+Ad tua praecepta de meo nihil his novom adposivi.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h22
+:END:
+
+Nempe lúdificari militem tuom erum vis?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h23
+:END:
+
+Exlocuta es.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h24
+:END:
+
+Lepide et sapienter, commode et facete res paratast.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h25
+:END:
+
+Atque huius uxorem volo te esse adsimulare.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h26
+:END:
+
+Fiet.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h27
+:END:
+
+Quasi militi animum adieceris, simulare.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h28
+:END:
+
+Sic futurum est.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h29
+:END:
+
+Quasique ea res per me interpretem et tuam ancillam ei curetur.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h30
+:END:
+
+Bonus vátes poteras esse, nam quae sunt futura dicis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h31
+:END:
+
+Quasique anulum hunc ancillula tua abs té detulerit ad me,
+quem ego militi porro darem tuis verbis.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h32
+:END:
+
+Vera dicis.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h33
+:END:
+
+Quid istís nunc memoratis opust quae commeminere?
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h34
+:END:
+
+Meliust.
+nam, mi patrone, hoc cogitato, ubi probus est architectus,
+bene lineatam si semel carinam conlocavit,
+facile esse navem facere, ubi fundata, constitutast.
+nunc haec carina satis probe fundata, bene statutast,
+
+atque architecto adsunt fabri ad eam rem haud imperiti.
+si non nos materiarius remoratur, quod opus qui det
+(novi indolem nostri ingeni), cito erit parata navis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h35
+:END:
+
+Nempe tú novisti militem meum erum?
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h36
+:END:
+
+Rogare mirumst.
+populi odium quidni noverim, magnidicum, cincinnatum,
+
+moechum unguentatum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h37
+:END:
+
+Num ille te nam novit?
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h38
+:END:
+
+Numquam vidit:
+qui noverit me quis ego sim?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h39
+:END:
+
+Nimis lépide fabulare;
+eo †potiuerim lepidius pol fieri.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h40
+:END:
+
+Potin ut hominem
+mihi des, quiescas cetera? ni ludificata lepide
+ero, cúlpam omnem in me imponito.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h41
+:END:
+
+Age igitur intro abite,
+
+insistite hoc negotium sapienter.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h42
+:END:
+
+Alia cura.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h43
+:END:
+
+Age, Periplectomene, has nunciam duc intro; ego ad forum illum
+conveniam atque illi hunc anulum dabo, atque praedicabo
+a tua uxore mihi datum esse eamque illum deperire.
+hanc ad nos, quom extemplo a foro veniemus, mittitote,
+
+quasi clanculum ad eum missa sit.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h44
+:END:
+
+Faciemus. alia cura.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h23-h45
+:END:
+
+Vos modo curate, ego illúm probe iam oneratum huc acciebo. —
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h46
+:END:
+
+Bene ambula, bene rem geras. egone hoc si efficiam plane,
+ut concubinam militis meus hospes habeat hodie
+atque hinc Athenas avehat, si hodie hunc dolum dolamus,
+
+quid tibi ego mittam muneris!
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h47
+:END:
+
+Datne ab se mulier operam?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h48
+:END:
+
+Lepidissume et compsissume.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h49
+:END:
+
+Confido confuturum.
+ubi facta erit conlatio nostrarum malitiarum,
+haud vereor ne nos subdola perfidia pervincamur.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h50
+:END:
+
+Abeamus ergo intro, haec uti meditemur cogitate,
+
+ut accurate et commode hoc quod agendumst exsequamur,
+ne quid, ubi miles venerit, titubetur.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h23-h51
+:END:
+
+Tu morare. —
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+* 947
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+** Pyrgopolinices
+:PROPERTIES:
+:CUSTOM_ID: h26-h1
+:END:
+
+Vólup est, quod agas, si id procedit lepide atque ex sententia;
+nam ego hodie ad Seleucum regem misi parasitum meum,
+ut latrones quos conduxi hinc ad Seleucum duceret,
+qui eius regnum tutarentur, mihi dum fieret otium
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h2
+:END:
+
+Quin tu tuam rem cura potius quam Seleuci, quae tibi
+condicio nova et lúculenta fertur per me interpretem.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h3
+:END:
+
+Immo omnis res posteriores pono atque operam do tibi.
+loquere: auris meas profecto dedo in dicionem tuam.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h4
+:END:
+
+Circumspice dum, ne quis nostro hic auceps sermoni siet.
+
+nam hoc negoti clandestino ut agerem mandatumst mihi.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h5
+:END:
+
+Nemo adest.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h6
+:END:
+
+Hunc arrabonem amoris primum a me accipe.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h7
+:END:
+
+Quid hic? unde est?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h8
+:END:
+
+A luculenta átque festiva femina,
+quae te amat tuamque éxpetessit pulcram pulcritudinem;
+eius nunc mi ánulum ad te ancilla porro ut deferrem dedit.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h9
+:END:
+
+Quid ea? ingenuan an festuca facta e serva liberast?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h10
+:END:
+
+Vah, egone ut ad te ab libertina esse auderem internuntius,
+qui ingenuis satis résponsare nequeas quae cupiunt tui?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h11
+:END:
+
+Nuptan est an vidua?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h12
+:END:
+
+Et nupta et vidua.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h13
+:END:
+
+Quo pacto potis
+nupta et vidua esse eadem?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h14
+:END:
+
+Quia adulescens nuptast cum sene.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h15
+:END:
+
+Euge.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h16
+:END:
+
+Lepida et liberali formast.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h17
+:END:
+
+Cave mendacium.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h18
+:END:
+
+Ad tuam formam illa una dignast.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h19
+:END:
+
+Hercle pulchram praedicas.
+sed quis east?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h20
+:END:
+
+Senis huius uxor Periplectomeni ex proxumo;
+ea demoritur te atque ab illo cupit abire: odit senem.
+nunc te orare atque obsecrare iussit, ut eam copiam
+
+sibi potestatemque facias.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h21
+:END:
+
+Cupio hercle equidem, si illa volt.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h22
+:END:
+
+Quae cupit?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h23
+:END:
+
+Quid illá faciemus concubina, quae domist?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h24
+:END:
+
+Quin tu illam iube abs te abire quo lubet: sicut soror
+eius huc gémina venit Ephesum et mater, accersuntque eam.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h25
+:END:
+
+Eho tu, an venit Ephesum mater eius?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h26
+:END:
+
+Aiunt qui sciunt.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h27
+:END:
+
+Hercle occasionem lepidam, ut mulierem excludam foras.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h28
+:END:
+
+Immo vin tu lepide facere?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h29
+:END:
+
+Loquere et consilium cedo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h30
+:END:
+
+Vin tu illam actutum amovere, a te ut abeat per gratiam?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h31
+:END:
+
+Cupio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h32
+:END:
+
+Tum te hoc facere oportet. tibi divitiarum adfatimst:
+iube sibi aurum atque ornamenta, quae illi instruxti mulieri,
+
+dono habere, auferre  [lost]  abs te quo lubeat sibi.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h33
+:END:
+
+Placet ut dicis; sed ne et istam amittam et haec mutet fidem
+vide modo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h34
+:END:
+
+Vah delicatus esdelicatu's, quae te tamquam oculos amet.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h35
+:END:
+
+Venus me amat.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h36
+:END:
+
+St tace, aperitur foris, concede huc clanculum.
+haec celox illiust, quae hinc egreditur, internuntia,
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h37
+:END:
+
+Quae haec celox?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h38
+:END:
+
+Ancillula illiust, quae hinc egreditur foras.
+quae anulum istunc attulit quem tibi dedi.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h26-h39
+:END:
+
+Edepol haec quidem
+bellulast.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h26-h40
+:END:
+
+Pithecium haec est prae illa et spinturnicium.
+viden tu illam oculis venaturam facere atque aucupium auribus?
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+* 991
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h1
+:END:
+
+Iam est ante aedis circus ubi sunt ludi faciundi mihi.
+dissimulabo, hos quasi non videam néque esse hic etiamdum sciam.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h2
+:END:
+
+Tace, subauscultemus ecquid de me fiat mentio.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h3
+:END:
+
+Numquis nam hic própe adest qui rem alienam potius curet quam suam,
+
+qui aucupet me quid agam, qui de vesperi vivat suo?
+eos nunc homines metuo, mihi ne obsint neve opstent uspiam,
+domo si bitat, dum huc transbitat, quae huius cupiens corporist,
+quae ámat hunc hominem nimium lepidum et nimia pulchritudine,
+militem Pyrgopolynicem.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h4
+:END:
+
+Satin haec quoque me deperit?
+
+meam laudat speciem. edepol huius sermo haud cinerem quaeritat.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h5
+:END:
+
+Quo argumento?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h6
+:END:
+
+Quia enim loquitur laute et minime sordide.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h7
+:END:
+
+Quippini? istaec de te loquitur: nihil attrectat sordidi.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h8
+:END:
+
+Tum autem illa ipsa est nimium lepida nimisque nitida femina.
+hercle vero iam adlubescit primulum, Palaestrio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h9
+:END:
+
+Priusne quam illam oculis tuis videas?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h10
+:END:
+
+Video id quod credo tibi.
+tum haec celocula autem absentem subigit me ut amem.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h11
+:END:
+
+Hercle hanc quidem
+nil tu amassis; mi haec desponsast: tibi si illa hodie nupserit,
+ego hanc continuo uxorem ducam.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h12
+:END:
+
+Quíd ergo hanc dubitas conloqui?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h13
+:END:
+
+Sequere hac me ergo.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h14
+:END:
+
+Pedisequos tibi sum.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h15
+:END:
+
+Vtinam, cuius causa foras
+
+sum egressa, eius conveniundi mihi potestas evenat.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h16
+:END:
+
+Erit, ét tibi exoptatum óptinget, bonum habe ánimum, ne formída;
+homo quidamst qui scit, quód quaeris ubi sít.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h17
+:END:
+
+Quem ego hic audívi?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h18
+:END:
+
+Sociúm tuorum concíliorum et partícipem consiliorum.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h19
+:END:
+
+Tum pól ego id quod celo haú celo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h20
+:END:
+
+Immo et célas et non célas.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h21
+:END:
+
+Quo argúmento?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h22
+:END:
+
+Infidós celas: ego súm tibi firme fidus.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h23
+:END:
+
+Cedo sígnum, si harunc Báccharum es.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h24
+:END:
+
+Amat múlier quaedam quéndam.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h25
+:END:
+
+Pol istúc quidem multae.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h26
+:END:
+
+At nón multae de dígito donum míttunt.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h27
+:END:
+
+Enim cógnovi nunc, fécisti modo mi éx proclivo plánum.
+sed hic númquis adest?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h28
+:END:
+
+Vel adést vel non.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h29
+:END:
+
+Cedo té mihi solae sólum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h30
+:END:
+
+Brevin án longinquo sérmoni?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h31
+:END:
+
+Tribus vérbis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h32
+:END:
+
+Iam ad te rédeo.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h33
+:END:
+
+Quid ego? híc astabo tántisper cum hac fórma et factis frústra?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h34
+:END:
+
+Patere átque asta, tibi ego hánc do operam.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h35
+:END:
+
+Propera, éxpectando excrúcior.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h36
+:END:
+
+Pedetémptim (tu hoc scis) tráctari satiúst hasce huius modi mércis.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h37
+:END:
+
+Age age út tibi maxume cóncinnumst.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h38
+:END:
+
+Nullúmst hoc stolidius sáxum.
+
+redeo ád te. quid me vóluisti?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h39
+:END:
+
+Quo pácto hoc Ilium accédi
+velis, út ferrem abs te consilium.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h40
+:END:
+
+Quasi hunc dépereat —
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h41
+:END:
+
+Teneo ístuc.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h42
+:END:
+
+Conlaúdato formam ét faciem et virtútis commemoráto.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h43
+:END:
+
+Ad eám rem habeo omnem aciém, tibi uti dudúm iam demonstrávi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h44
+:END:
+
+Tu cétera cura et cóntempla et de meís venator vérbis.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h45
+:END:
+
+Aliquám mihi partem hodie óperae des deníque, tandem ades, remelígo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h46
+:END:
+
+Adsum, ímpera, si quid vís.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h47
+:END:
+
+Quid illaec narrát tibi?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h48
+:END:
+
+Lamentári
+ait íllam, miseram crúciari et lacrimántem se adflictáre,
+quia tís egeat, quia té careat. ob eám rem huc ad te míssast.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h49
+:END:
+
+Iube adíre.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h50
+:END:
+
+At scin quid tú facias? facitó fastidi plénum,
+
+quasi nón lubeat; me inclámato, quia síc te volgo vólgem.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h51
+:END:
+
+Memini ét praeceptis párebo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h52
+:END:
+
+Vocon érgo hanc quae te quaérit?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h53
+:END:
+
+Adeát, si quid volt.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h54
+:END:
+
+Sí quid vis, adi, múlier.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h55
+:END:
+
+Pulcher, sálve.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h56
+:END:
+
+Meum cógnomentum cómmemoravit. di tíbi dent quaecumque óptes.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h57
+:END:
+
+Tecum aétatem exigere út liceat —
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h58
+:END:
+
+Nimium óptas.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h59
+:END:
+
+Non me dico,
+
+sed erám meam, quae te démoritur.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h60
+:END:
+
+Multae aliae ídem istuc cúpiunt,
+quibus cópia non est.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h61
+:END:
+
+Écastor haud mírum, si te habes cárum,
+hominém tam pulchrum et praéclarum virtute et forma et factis.
+deus dígnior fuit quisquam hómo qui esset?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h62
+:END:
+
+Non hércle humanust érgo —
+nam vólturio plus húmani credo ést.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h63
+:END:
+
+Magnum me fáciam
+
+nunc quom íllaec me sic cónlaudat.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h64
+:END:
+
+Viden tu ígnavum, ut sese ínfert?
+quin tu huíc responde, haec íllaec est ab illá quam dudum dixi.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h65
+:END:
+
+Qua ab íllarum? nam ita me óccursant multaé: meminisse haud póssum.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h66
+:END:
+
+Ab illá quae digitos déspoliat suos ét tuos digitos décorat.
+nam hunc ánulum áb tui cupienti huic détuli, hic ad te pórro.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h67
+:END:
+
+Quid núnc tibi vis, muliér? memora.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h68
+:END:
+
+Vt quae té cupit, eam ne spérnas,
+quae pér tuam nunc vitám vivit: sit nécne sit, spes in te úno est.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h69
+:END:
+
+Quid núnc volt?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h70
+:END:
+
+Te compéllare et complécti et contrectáre.
+nam nísi tu illi fers súppetias, iam illa ánimum despondébit.
+age, mí Achilles, fiat quód te oro, serva íllam pulchram púlchre,
+
+expróme benignum ex te íngenium, urbícape, occisor régum.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h71
+:END:
+
+Eu hercle ódiosas res. quótiens hoc tibi, vérbero, ego interdíxi,
+meam né sic volgo póllicitere operám?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h72
+:END:
+
+Audin tu, múlier?
+dixi hóc tibi dudum, et núnc dico: nisi huic vérri adfertur mérces,
+non híc suo seminió quemquam porclénam impertitúrust.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h73
+:END:
+
+Dabitúr quantum ipsus pretí poscet.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h74
+:END:
+
+Talentúm Philippi huic opus aúri est;
+minus áb nemine accípiet.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h75
+:END:
+
+Eu ecastór nimis vilest tándem.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h76
+:END:
+
+Non míhi avaritia umquam ínnatast: satis hábeo divitiárum,
+plus mi aúri mille est módiorum Philippí.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h77
+:END:
+
+Praeter thensaúros.
+tum argénti montes, nón massas habet, Aetna mons non aeque altos. †
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h78
+:END:
+
+Eu ecástor hominem périurum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h79
+:END:
+
+Vt ludó?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h80
+:END:
+
+Quid ego? ut sublécto?
+sed amábo, mitte me áctutum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h81
+:END:
+
+Quin tu huíc respondes áliquid,
+aut fácturum aut non fácturum?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h82
+:END:
+
+Quid illám miseram animi excrúcias,
+quae númquam male de té meritast?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h83
+:END:
+
+Iube eámpse exire huc ád nos.
+dic me ómnia quae volt fácturum.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h84
+:END:
+
+Facis núnc ut te facere aéquom,
+
+quom, quaé te volt, eandém tu vis,
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h85
+:END:
+
+Non ínsulsum huic ingénium.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h86
+:END:
+
+Quomque me óratricem haud sprévisti sistíque exorare éx te.
+quid est? út ludo?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h87
+:END:
+
+Nequeo hércle equidem risú meo moderari.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h88
+:END:
+
+[lost]
+ob eám causam huc abs te ávorti.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h89
+:END:
+
+Non édepol tu scis, múlier,
+quantum égo honorem nunc ílli habeo.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h90
+:END:
+
+Scio, et ístuc illi dícam.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h91
+:END:
+
+Contra aúro alii hanc vendére potuit operám.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h92
+:END:
+
+Pol istuc tibi crédo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h93
+:END:
+
+Meri béllatores gígnuntur, quas híc praegnatis fécit,
+et púeri annos octíngentos vivónt.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h94
+:END:
+
+Vae tibi, nugátor.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h95
+:END:
+
+Quin mílle annorum pérpetuo vivónt, ab saeclo ad saéclum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h96
+:END:
+
+Eo mínus dixi, ne haec cénseret me advórsum se mentíri.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h97
+:END:
+
+Perií, quot hic ipse annós vivet, cuius fílii tam diu vívont?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h98
+:END:
+
+Postríduo natus sum égo, mulier, quam Iúppiter ex Ope nátust.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h99
+:END:
+
+Si hic prídie natus forét quam ille est, hic habéret regnum in caélo.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h100
+:END:
+
+Iam iám sat, amabo, est. sínite abeam, si póssum, viva a vóbis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h101
+:END:
+
+Quin érgo abis, quando résponsumst?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h102
+:END:
+
+Ibo átque illam huc addúcam,
+
+proptér quam opera est mihi. númquid vis?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h103
+:END:
+
+Ne mágis sim pulcher quám sum,
+ita mé mea forma habet sóllicitum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h104
+:END:
+
+Quid hic núnc stas? quin abis?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h105
+:END:
+
+Ábeo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h106
+:END:
+
+Atque ádeo, audin tu? dicíto docte et cordáte, ut cor ei sáliat —
+Philocómasio dic, si ést istic, domum ut tránseat: hunc hic ésse.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h107
+:END:
+
+Hic cúm mea era est, hinc clám nostrum hunc sermónem sublegérunt.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h108
+:END:
+
+Lepidé factumst: iam ex sérmone hoc gubernábunt doctius pórro.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h28-h109
+:END:
+
+Remoráre, abeo. —
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h28-h110
+:END:
+
+Neque té remoror neque tángo neque te — táceo.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h28-h111
+:END:
+
+Iube máturare illam éxire huc. iam istíc rei praevortémur.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+* 1094
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h1
+:END:
+
+Quid nunc mi es auctor ut faciam, Palaestrio,
+de concubina? nam nullo pacto potest
+prius haec in aedis recipi quam illam amiserim.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h2
+:END:
+
+Quid me consultas quid agas? dixi equidem tibi
+
+quo id pacto fieri possit clementissime.
+aurum atque vestem muliebrem omnem habeat sibi,
+quae illi instruxisti: sumat, habeat, auferat;
+dicasque tempus maxume esse, ut eat domum:
+sororem geminam adesse et matrem dicito,
+
+quibus cóncomitata recte deveniat domum.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h3
+:END:
+
+Qui tu scis eas adesse?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h4
+:END:
+
+Quia oculis meis
+vidi hic sororem esse eius.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h5
+:END:
+
+Convenitne eam?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h6
+:END:
+
+Convenit.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h7
+:END:
+
+Ecquid fortis visast?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h8
+:END:
+
+Omnia
+vis optinere.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h9
+:END:
+
+Vbi matrem esse aiebat soror?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h10
+:END:
+
+Cubare in navi lippam atque oculis turgidis
+nauclerus dixit, qui illas advexit, mihi.
+is ad hos nauclerus hospitio devortitur.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h11
+:END:
+
+Quid is? ecquid fortis?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h12
+:END:
+
+Abi sis hinc, nam tu quidem
+ad equas fuisti scitus admissarius,
+
+qui consectare qua maris qua feminas.
+hoc age nunc.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h13
+:END:
+
+Istuc quod das consilium mihi,
+te cum illa verba facere de ista re volo;
+nam cum illa sane congruos sermo tibi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h14
+:END:
+
+Qui potius quam tute adeas, tuam rem tute agas?
+
+dicas uxorem tibi necessum ducere;
+cognatos persuadere, amicos cogere.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h15
+:END:
+
+Itan tu censes?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h16
+:END:
+
+Quid ego ní ita censeam?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h17
+:END:
+
+Ibo igitur intro. tu hic ante aedis interim
+speculare, ut, ubi illaec prodeat, me provoces.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h18
+:END:
+
+Tu modo istuc cura quod agis.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h19
+:END:
+
+Curatum id quidemst.
+quin si voluntáte nolet, vi extrudam foras.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h20
+:END:
+
+Istuc cave fáxis; quin potius per gratiam
+bonam abeat abs te. atque illaec quae dixi dato,
+aurum, ornamenta quae illi instruxisti ferat.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h21
+:END:
+
+Cupio hercle.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h22
+:END:
+
+Credo te facile impetrassere.
+sed abi intro. noli stare.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h30-h23
+:END:
+
+Tibi sum oboediens. —
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h30-h24
+:END:
+
+Numquid videtur demutare alio atque uti
+dixi esse vobis dudum hunc moechum militem?
+nunc ad me ut veniat usust Acroteleutium aut
+
+ancillula eius aut Pleusicles. pro Iuppiter,
+satine ut Commoditas usquequaque me adiuvat?
+nam quos videre exoptabam me maxume,
+una exeuntis video hínc e proxumo.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+* 1137
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h32-h1
+:END:
+
+Séquimini, simul círcumspicite, né quis adsit árbiter.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h32-h2
+:END:
+
+Neminem pol video, nísi hunc quem volumus conventum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h3
+:END:
+
+Et ego vos.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h32-h4
+:END:
+
+Quid agis, noster architecte?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h5
+:END:
+
+Egone architectus? vah.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h32-h6
+:END:
+
+Quid est?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h7
+:END:
+
+Quia enim non sum dignus prae te, ut figam palum in parietem.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h32-h8
+:END:
+
+Heia vero.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h9
+:END:
+
+Nimis facete nimisque facunde malast.
+ut lepide deruncinavit militem.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h32-h10
+:END:
+
+At etiam parum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h11
+:END:
+
+Bono animo es: negotium omne iam succedit sub manus;
+vos modo porro, ut occepistis, date operam adiutabilem.
+nam ipse miles concubinam intro abiit oratum suam,
+
+ab se ut abeat cum sorore et matre Athenas.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h32-h12
+:END:
+
+Eu, probe.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h13
+:END:
+
+Quin etiam aurum atque ornamenta, quae ipse instruxit, mulieri
+omnia dat dono, a se ut abeat: ita ego consilium dedi.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h32-h14
+:END:
+
+Facile istuc quidemst, si et illa volt et ille autem cupit.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h15
+:END:
+
+Non tu scis, quom ex alto puteo sursum ad summum escenderis,
+
+maxumum periclum inde esse ab summo ne rusum cadas?
+nunc haec res apud súmmum puteum geritur: si praesenserit
+miles, nihil ecferri poterit huius: nunc cum maxume
+opust dolis: domi esse ad eam rem video silvai satis,
+mulieres tres, quartus tute es, quintus ego, sextus senex;
+
+quod apud nos fallaciarum sex situmst, certo scio
+oppidum quodvis, si detur, posse expugnari dolis.
+date modo operam.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h32-h16
+:END:
+
+Id nos ad te, si quid velles, venimus.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h17
+:END:
+
+Lepide facitis. nunc hanc tibi ego ímpero provinciam.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h32-h18
+:END:
+
+Impetrabis, imperator, quod ego potero, quod voles.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h19
+:END:
+
+Militem lepide, et facete et laute ludificarier
+volo.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h32-h20
+:END:
+
+Voluptatem mecastor mi imperas.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h21
+:END:
+
+Scin quem ad modum?
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h32-h22
+:END:
+
+Nempe ut adsimulem me amore istius differri.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h23
+:END:
+
+Tenes.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h32-h24
+:END:
+
+Quasique istius causa amoris ex hoc matrimonio
+abierim, cupiens istius nuptiarum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h25
+:END:
+
+Omne ordine.
+
+nisi modo unum hoc: hasce esse aedis dicas dotalis tuas,
+hinc senem aps te abiisse, postquam feceris divortium:
+ne ille mox vereatur intro íre in alienam domum.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h32-h26
+:END:
+
+Bene mones.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h27
+:END:
+
+Sed ubi ille exierit intus, istinc te procul
+ita volo adsimulare, prae illius forma quasi spernas tuam
+
+quasique eiús opulentitatem reverearis, et simul
+formam, amoenitatem illius, faciem, pulchritudinem
+conlaudato. satin praeceptumst?
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h32-h28
+:END:
+
+Teneo. satinest, si tibi
+meum opus ita dabo expolitum, ut improbare non queas?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h29
+:END:
+
+Sat habeo. nunc tibi vicissim quae imperabo ea discito.
+
+quom extemplo hoc erit factum, ubi intro haec abierit, ibi tu ilico
+facito uti venias ornatu húc ad nos nauclerico;
+causeam habeas ferrugineam, et scutulam ob oculos laneam,
+palliolum habeas ferrugineum (nam is colos thalassicust),
+id conexum in umero laevo, exfafillato bracchio,
+
+praecinctus aliqui: adsimulato quasi gubernator sies;
+atque apud hunc senem omnia haec sunt, nam is piscatores habet.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h32-h30
+:END:
+
+Quid? ubi ero exornatus quin tu dicis quid facturus sim?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h31
+:END:
+
+Huc venito et matris verbis Philocomasium arcessito,
+ut, si itura sit Athenas, eat tecum ad portum cito,
+
+atque ut iubeat ferri in navim si quid imponi velit.
+nisi eat, te soluturum esse navim: ventum operam dare.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h32-h32
+:END:
+
+Satis placet pictura. perge.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h33
+:END:
+
+Ille extemplo illam hortabitur
+ut eat, ut properet, ne morae sit matri.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h32-h34
+:END:
+
+Multimodis sapis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h35
+:END:
+
+Ego illi dicam, ut me adiutorem, qui onus feram ad portum, roget.
+
+ille iubebit me ire cum illa ad portum. ego adeo, ut tu scias,
+prorsum Athenas protinus abibo tecum.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h32-h36
+:END:
+
+Atque ubi illo veneris,
+triduom servire numquam te, quin liber sis, sinam.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h37
+:END:
+
+Abi cito atque orna te.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h32-h38
+:END:
+
+Numquid aliud?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h39
+:END:
+
+Haec ut memineris.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h32-h40
+:END:
+
+Abeo. —
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h41
+:END:
+
+Et vos abite hinc intro actutum; nam illum huc sat scio
+
+iam exiturum esse intus.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h32-h42
+:END:
+
+Celebre apud nos imperium tuomst. —
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h32-h43
+:END:
+
+Agite abscedite ergo. ecce autem commodum aperitur foris.
+hilarus exit: impetravit. inhiat quod nusquam est miser.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+* 1200
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+** Pyrgopolinices
+:PROPERTIES:
+:CUSTOM_ID: h34-h1
+:END:
+
+Quod volui ut volui impetravi, per amicitiam et gratiam,
+a Philocomasio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h34-h2
+:END:
+
+Quid tam intus fuisse te dicam diu?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h34-h3
+:END:
+
+Numquam ego me tam sensi amari quam nunc ab illa muliere.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h34-h4
+:END:
+
+Quid iam?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h34-h5
+:END:
+
+Vt multa verba feci, ut lenta materies fuit.
+
+verum postremo impetravi ut volui: donavi dedi
+quae voluit, quae postulavit; te quoque ei dono dedi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h34-h6
+:END:
+
+Etiam me? quo modo ego vivam sine te?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h34-h7
+:END:
+
+Age, animo bono es,
+eidem ego te illim liberabo. nam si possem ullo modo
+impetrare ut abiret, ne te abduceret, operam dedi;
+
+verum oppressit.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h34-h8
+:END:
+
+Deos sperabo teque. postremo tamen
+etsi istuc mi acerbumst, quia ero te carendum est optimo,
+saltem id volup est, quom ex virtute formae évenit tibi
+mea opera super hac vicina, quam ego nunc concilio tibi.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h34-h9
+:END:
+
+Quid opust verbis? libertatem tibi ego et divitias dabo,
+
+si impetras.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h34-h10
+:END:
+
+Reddam impetratum.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h34-h11
+:END:
+
+At gestio.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h34-h12
+:END:
+
+At modice decet:
+moderare animo, ne sis cupidus. séd eccam ipsam, egreditur foras.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 1216
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+Era, éccum praesto mílitem.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h2
+:END:
+
+Vbi est?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h3
+:END:
+
+Ad laevam.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h4
+:END:
+
+Video.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h5
+:END:
+
+Aspicito limis oculis, ne ille nos se sentiat videre.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h6
+:END:
+
+Video. edepol nunc nos tempus est malas peioris fieri.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h7
+:END:
+
+Tuomst principium.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h8
+:END:
+
+Obsecro, tute ipsum convenisti?
+
+ne parce vocem, ut audiat.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h9
+:END:
+
+Cum ipso pol sum locuta,
+placide, ipsi dum libitum est mihi, otiose, meo arbitratu ut volui.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h10
+:END:
+
+Audin quae loquitur?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h11
+:END:
+
+Audio. quam laeta est, quia ted adiit.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h12
+:END:
+
+O, fortunata mulier es.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h13
+:END:
+
+Vt amari videor.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h14
+:END:
+
+dignus esDignu's.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h15
+:END:
+
+Permirum ecastor praedicas, te adiisse atque exorasse;
+
+per epistulam aut per nuntium, quasi regem, adiri eum aiunt.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h16
+:END:
+
+Namque edepol vix fuit cópia adeundi atque impetrandi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h17
+:END:
+
+Vt tu inclitus esinclitu's apud múlieres.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h18
+:END:
+
+Patiar, quando ita Venus volt.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h19
+:END:
+
+Veneri pol habeo gratiam, eandémque et oro et quaeso,
+ut eius mihi sit copia quem amo quemque expetesso
+
+benignusque erga me ut siet, quod cupiam ne gravetur.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h20
+:END:
+
+Spero ita futurum, quamquam illum multae sibi expetessunt:
+ille illas spernit segregat ab se omnis, extra te unam.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h21
+:END:
+
+Ergo iste metus me macerat, quod ille fastidiosust,
+ne óculi eius sententiam mutent, ubi viderit me,
+
+atque eius elegantia meam extémplo speciem spernat.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h22
+:END:
+
+Non faciet, bonum animum habe. †
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h23
+:END:
+
+Vt ipsa se contemnit.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h24
+:END:
+
+Metuo, ne praedicatio tua nunc meam formam exsuperet.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h25
+:END:
+
+Istuc curavi, ut opínione illius pulchrior sis.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h26
+:END:
+
+Si pol me nolet ducere uxórem, genua amplectar
+
+atque obsecrabo; alio modo, si non quibo impetrare,
+consciscam letum: vivere sine illó scio me non posse.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h27
+:END:
+
+Prohibendam mortem mulieri videó. adibon?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h28
+:END:
+
+Minime;
+nam tu te vilem feceris, si te ultro largiere:
+sine ultro veniat; quaeritet, desideret, exspectet
+
+sine: perdere istam gloriam vis, quám habes? cave sis faxis.
+nam nulli mortali scio obtigisse hoc, nisi duobus,
+tibi et Phaoni Lesbio, tam mulier sé ut amaret.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h29
+:END:
+
+Eo íntro, aut tu illum huc evoca foras, mea Milphidippa.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h30
+:END:
+
+Immo opperiamur, dum exeat aliquis.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h31
+:END:
+
+Durare nequeo,
+
+quin eam intro.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h32
+:END:
+
+Occlusae sunt foris.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h33
+:END:
+
+Exfringam.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h34
+:END:
+
+Sana non es.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h35
+:END:
+
+Si amavit umquam aut si parem sapientiam habet ac formam,
+per amorem si quid fecero, clementi ánimo ignoscet.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h36
+:END:
+
+Vt, quaeso, amore perditast tuo misera.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h37
+:END:
+
+Mutuom fit.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h38
+:END:
+
+Tace, ne aúdiat.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h39
+:END:
+
+Quid astitisti obstupida? cur non pultas?
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h40
+:END:
+
+Quia non est intus quem ego volo.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h41
+:END:
+
+Qui scis?
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h42
+:END:
+
+Scio pol ego, olfacio;
+nam odore nasum sentiat, si intus sit.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h43
+:END:
+
+Hariolatur.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h44
+:END:
+
+Quia mé amat, propterea Venus fecit eam ut divinaret.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h45
+:END:
+
+Nescio ubi hic prope adest quem expeto videre: olet profecto.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h46
+:END:
+
+Naso pol iam haec quidem plús videt quam óculis.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h47
+:END:
+
+Caeca amore est.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h48
+:END:
+
+Tene me óbsecro.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h49
+:END:
+
+Quor?
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h50
+:END:
+
+Ne cadam.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h51
+:END:
+
+Quid ita?
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h52
+:END:
+
+Quia stare nequeo,
+ita animus per oculos meos meus defit.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h53
+:END:
+
+Militem pol
+tu aspexisti.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h54
+:END:
+
+Ita.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h55
+:END:
+
+Non video. ubi est?
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h56
+:END:
+
+Videres pol, si amares.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h57
+:END:
+
+Non edepol tu illum magis amas, quam ego amem, si per te liceat.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h58
+:END:
+
+Omnes profecto mulieres te amant, ut quaeque aspexit.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h59
+:END:
+
+Nescio, tu ex me hoc audiveris an non: nepos sum Veneris.
+
+** Acrotelevtivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h60
+:END:
+
+Mea Milphidippa, adi obsecro et congredere.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h61
+:END:
+
+Vt me veretur.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h62
+:END:
+
+Illa ad nos pergit.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h63
+:END:
+
+Vos volo.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h64
+:END:
+
+Et nos te.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h65
+:END:
+
+Vt iussisti,
+eram meam eduxi foras.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h66
+:END:
+
+Video.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h67
+:END:
+
+Iube ergo adire.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h68
+:END:
+
+Induxi in animum, ne oderim item ut alias, quando orasti.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h69
+:END:
+
+Verbum edepol facere non potis, si accesserit prope ad te.
+dum te obtuetur, interim linguam oculi praeciderunt.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h70
+:END:
+
+Levandum morbum mulieri video.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h71
+:END:
+
+Vt tremit atque extimuit,
+postquam te aspexit.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h72
+:END:
+
+Víri quoque armáti idem istuc faciunt,
+ne tu mirere eius mulierem. sed quid illa volt me facere?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h73
+:END:
+
+Ad se ut eas: tecum vivere volt atque aetatem exigere.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h74
+:END:
+
+Egon ád illam eam, quae nupta sit? vir eius me deprehendat.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h75
+:END:
+
+Quin tua causa exegit virum ab sé.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h76
+:END:
+
+Qui id facere potuit?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h77
+:END:
+
+Quia aedís dotalis huius sunt.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h78
+:END:
+
+Itane?
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h79
+:END:
+
+Ita pol.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h80
+:END:
+
+Iube domum ire.
+iam ego illi ero.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h81
+:END:
+
+Vide né sies in exspectatione,
+
+ne illam animi excrucies.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h82
+:END:
+
+Non ero profecto. abite.
+
+** Milphidippa
+:PROPERTIES:
+:CUSTOM_ID: h36-h83
+:END:
+
+Abimus. —
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h84
+:END:
+
+Sed quid ego video?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h85
+:END:
+
+Quid vides?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h86
+:END:
+
+Nescio quis eccum incedit
+ornatu quidem thalassico.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h87
+:END:
+
+It ad nos, volt te profecto.
+nauclerus hic quidem est.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h36-h88
+:END:
+
+Videlicet accersit hanc iam.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h36-h89
+:END:
+
+Credo.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 1284
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+Alium alio pacto propter amorem ni sciam
+fecisse multa nequiter, verear magis
+me amoris causa hóc ornatu incedere.
+verum quom multos multa admisse acceperim
+
+inhonesta propter amorem atque aliena a bonis:
+mitto iam, ut occídi Achilles civis passus est —
+sed eccúm Palaestrionem, stat cum milite:
+oratio alio mihi demutandast mea.
+mulier profecto natast ex ipsa Mora;
+
+nam quaevis alia quae morast aeque, mora
+minor ea videtur quam quae propter mulieremst.
+hoc adeo fieri credo consuetudine.
+nam ego hanc accerso Philocomasium. sed fores
+pultabo. heus, ecquis hic est?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+Adulescens, quid est?
+
+quid vis? quid pultas?
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+Philocomasium quaerito.
+a matre illius venio. si iturast, eat.
+omnis moratur: navim cupimus solvere.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+Iam dudum res paratast. i, Palaestrio,
+aurum, ornamenta, vestem, pretiosa omnia
+
+duc adiutores tecum ad navim qui ferant.
+omnia conposita sunt quae donavi: auferat.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h38-h5
+:END:
+
+Eó. —
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h38-h6
+:END:
+
+Quaeso hercle propera.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h38-h7
+:END:
+
+Non morabitur.
+quid istuc, quaeso? quid oculo factumst tuo?
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h38-h8
+:END:
+
+Habeo equidem hercle oculum.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h38-h9
+:END:
+
+At laevom dico.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h38-h10
+:END:
+
+Eloquar.
+
+maris causa hercle hoc ego oculo utor minus,
+nam si abstinuissem amare, tamquam hoc uterer.
+sed nimis morantur me diu.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h38-h11
+:END:
+
+Eccos exeunt.
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 1311
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+Quid modi flendó quaeso hodie fácies?
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h2
+:END:
+
+Quid ego ní fleam?
+ubi pulcherrume egi aetatem, ábeo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h3
+:END:
+
+Em hominem tibi,
+qui a matre et sorore venit.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h4
+:END:
+
+Video.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h5
+:END:
+
+Audin, Palaestrio?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h6
+:END:
+
+Quid vis?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h7
+:END:
+
+Quin tu iubes ecferri ómnia quae isti dedi?
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h40-h8
+:END:
+
+Philocomasium, salve.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h9
+:END:
+
+Et tu salve.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h40-h10
+:END:
+
+Materque et soror
+tibi salutem me iusserunt dicere.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h11
+:END:
+
+Salvae sient.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h40-h12
+:END:
+
+Orant te, ut eas, ventus operam dum dat, ut velum explicent;
+nam matri oculi si valerent, mecum venissent simul.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h13
+:END:
+
+Ibo; quamquam invita facio, impietas sit nisi eam.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h40-h14
+:END:
+
+Sapis.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h15
+:END:
+
+Si non mecum aetatem egisset, hodie stulta viveret.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h16
+:END:
+
+Istuc crucior, a viro me tali abalienarier,
+nam tu quemvis potis es facere ut afluat facetiis;
+et quia tecum eram, propterea ánimo eram ferocior:
+eam nobilitatem amittendam video.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h17
+:END:
+
+Ne fle.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h18
+:END:
+
+Non queo,
+
+quom te video.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h19
+:END:
+
+Habe bonum animum.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h20
+:END:
+
+Scio ego quid doleat mihi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h21
+:END:
+
+Nam nil miror, si libenter, Philocomasium, híc eras,
+si forma huius, mores, virtus, animum attinuere hic tuom,
+quóm ego servos quando aspicio hunc, lacrumo quia diiungimur.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h22
+:END:
+
+Obsecro licet complecti prius quam proficisco?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h23
+:END:
+
+Licet.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h24
+:END:
+
+O mi ócule, o mi ánime.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h25
+:END:
+
+Obsecro, tene mulierem,
+ne adfligatur.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h26
+:END:
+
+Quid istuc quaesost?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h27
+:END:
+
+Quia abs te abit, animo male
+factum est huic repente miserae.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h28
+:END:
+
+Curre intro atque ecferto aquam.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h29
+:END:
+
+Nihil aquam moror, quiescat malo. ne interveneris,
+quaeso, dum resipiscit.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h30
+:END:
+
+Capita inter se nimis nexa hisce habent.
+
+non placet. labra ab labellis aufer, nauta, cave malo.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h40-h31
+:END:
+
+Temptabam spiraret an non.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h32
+:END:
+
+Aurem admotam oportuit.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h40-h33
+:END:
+
+Si magis vís, eam omittam.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h34
+:END:
+
+Nolo, retine.
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h40-h35
+:END:
+
+At ultro misero.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h36
+:END:
+
+Exite atque ecferte huc intus omnia quae isti dedi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h37
+:END:
+
+Etiam nunc saluto te, Lar familiaris, prius quam eo.
+
+conservi conservaeque omnis, bene valete et vivite,
+bene quaeso inter vos dicatis mi med absenti tamen.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h38
+:END:
+
+Age, Palaestrio, bono animo es.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h39
+:END:
+
+Eheu, nequeo quin fleam,
+quom abs te abeám.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h40
+:END:
+
+Fer aequo ánimo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h41
+:END:
+
+Scio ego quid doleat mihi.
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h42
+:END:
+
+Sed quid hoc? quae res? quid video? lux, salve  [lost]
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h40-h43
+:END:
+
+Iam resipisti?  [lost]
+
+** Philocomasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h44
+:END:
+
+Obsecro, quem amplexa sum
+hominem? perii. sumne ego apud me?
+
+** Plevsicles
+:PROPERTIES:
+:CUSTOM_ID: h40-h45
+:END:
+
+Ne time, voluptas mea.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h46
+:END:
+
+Quid istuc est negoti?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h47
+:END:
+
+Animus hanc modo hic reliquerat.
+† metuoque ut timeo, ne hoc tandem propalam fiat nimis.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h48
+:END:
+
+Quid id est?
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h49
+:END:
+
+Nos secundum ferri nunc per urbem haec omnia,
+
+ne quis tibi hoc vítio vortat.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h50
+:END:
+
+Mea, non illorum dedi:
+parvi ego illos fácio. agite, íte cum dis benevolentibus.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h51
+:END:
+
+Tua ego hoc causa dico.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h52
+:END:
+
+Credo.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h53
+:END:
+
+Iam vale.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h54
+:END:
+
+Et tu bene vale.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h55
+:END:
+
+Ite cito, iam ego adsequar vos: cúm ero pauca volo loqui. —
+quamquam alios fideliores semper habuisti tibi
+
+quam me, tamen tibi habeo magnam gratiam rerum omnium;
+et, si íta sententia esset, tibi servire malui
+multo, quám alii libertus esse.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h56
+:END:
+
+Habe bonum animum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h57
+:END:
+
+Eheu, quom venit mi in mentem, ut mores mutandi sient,
+muliebris mores discendi, obliscendi stratiotici.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h58
+:END:
+
+Fac sis frugi.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h59
+:END:
+
+Iam non possum, amisi omnem lubidinem.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h60
+:END:
+
+I, sequere illos, ne morere.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h61
+:END:
+
+Bene vale.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h62
+:END:
+
+Et tu bene vale.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h63
+:END:
+
+Quaeso memineris, si forte liber fieri occeperim
+(mittam nuntium ad te), ne me deseras.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h64
+:END:
+
+Non est meum.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h65
+:END:
+
+Cogitato identidem, tibi quam fidelis fuerim.
+
+si id facies, tum demum scibis, tibi qui bonus sit, qui malus.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h66
+:END:
+
+Scio et perspexi saepe.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h67
+:END:
+
+Verum cum antehac, hodie maxume
+scies: immo hodie me tuom factum faxo post dices magis.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h68
+:END:
+
+Vix reprimor quin te manere iubeam.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h69
+:END:
+
+Cave istuc feceris:
+dicent te mendacem nec verum esse, fide nulla esse te,
+
+dicent servorum praeter me esse hic fidelem neminem.
+nam si honeste censeam te facere posse, suadeam;
+verum non potest. cave fáxis.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h70
+:END:
+
+Abi iam.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h71
+:END:
+
+Patiar quidquid est.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h72
+:END:
+
+Bene vale igitur.
+
+** Palaestrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h73
+:END:
+
+Ire meliust strenue. —
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h40-h74
+:END:
+
+Etiam nunc vale.
+ante hoc factum hunc sum arbitratus semper servom pessumum:
+
+eum fidelem mi esse invenio. cum egomet mecum cogito,
+stulte feci qui hunc amisi. íbo hinc intro nunciam
+ad amores meos. sed, sensi, hinc sonitum fecerunt foris.
+
+* 9
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 1378
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+** Pver
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+Ne me moneatis, memini ego officium meum,
+ego † nam conveniam illum, ubi ubi est gentium;
+investigabo, óperae non parcam meae.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+Me quaerit illic. ibo huic puero obviam.
+
+** Pver
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+Ehem, te quaero. salve, vir lepidissime,
+cumulate commoditate, praeter ceteros
+duo dí quem curant.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+Qui duo?
+
+** Pver
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+Mars et Venus.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+Facetum puerum.
+
+** Pver
+:PROPERTIES:
+:CUSTOM_ID: h42-h7
+:END:
+
+Intro te ut eas obsecrat,
+te volt, te quaerit, teque exspectans expetit.
+
+amanti fer opem. quid stas? quin intro is?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h42-h8
+:END:
+
+Eo. —
+
+** Pver
+:PROPERTIES:
+:CUSTOM_ID: h42-h9
+:END:
+
+Ipsus illic sese iam impedivit in plagas;
+paratae insidiae sunt: in statu stat senex,
+ut adoriatur moechum, qui formast ferox,
+qui omnis se amare credit, quaeque aspexerit
+
+mulier: eum oderunt qua viri qua mulieres.
+nunc in tumultum ibo: intus clamorem audio. —
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+* 1394
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h1
+:END:
+
+Dúcite istum; sí non sequitur, rápite sublimén foras,
+facite inter terram atque caelum ut sit situs, discindite.
+
+** Pyrgopolinices
+:PROPERTIES:
+:CUSTOM_ID: h45-h2
+:END:
+
+Obsecro hercle, Periplectomene, te.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h3
+:END:
+
+Nequiquam hercle obsecras.
+vide ut istic tibi sit acutus, Cario, culter probe.
+
+** Cario
+:PROPERTIES:
+:CUSTOM_ID: h45-h4
+:END:
+
+Quin iamdudum gestit moecho hóc abdomen adimere,
+ut ea iam quasi puero in collo pendeant crepundia.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h5
+:END:
+
+Perii.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h6
+:END:
+
+Haud etiam, numero hoc dicis.
+
+** Cario
+:PROPERTIES:
+:CUSTOM_ID: h45-h7
+:END:
+
+Iamne in hominem ínvolo?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h8
+:END:
+
+Immo etiam prius vérberetur fustibus.
+
+** Cario
+:PROPERTIES:
+:CUSTOM_ID: h45-h9
+:END:
+
+Multum quidem.
+[lost]
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h10
+:END:
+
+Cur es ausus subigitare álienam uxorem, impudens?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h11
+:END:
+
+Ita me di ament, ultro ventumst ad me.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h12
+:END:
+
+Mentitur, feri.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h13
+:END:
+
+Mane, dum narro.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h14
+:END:
+
+Quid cessatis?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h15
+:END:
+
+Non licet mihi dicere?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h16
+:END:
+
+Dic.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h17
+:END:
+
+Oratus sum, ad eam ut irem.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h18
+:END:
+
+Quor ire ausus esausu's? em tibi.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h19
+:END:
+
+Oiei, satis sum verberatus. obsecro.
+
+** Cario
+:PROPERTIES:
+:CUSTOM_ID: h45-h20
+:END:
+
+Quam mox seco?
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h21
+:END:
+
+Vbi lubet: dispennite hominem divorsum et distendite.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h22
+:END:
+
+Obsecro hercle te, ut mea verba aúdias prius quam secat.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h23
+:END:
+
+Loquere.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h24
+:END:
+
+Non volui nec factum est: viduam hercle esse censui,
+itaque ancilla, conciliatrix quaé erat, dicebat mihi.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h25
+:END:
+
+Iura te non nociturum esse hómini de hac re nemini,
+
+quod tu hódie hic verberatus esverberatu's aut quod verberabere,
+si te salvom hinc amittemus Venerium nepotulum.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h26
+:END:
+
+Iuro per Iovem et Mavortem, me nociturum nemini,
+quod ego hic hodie vapularim, iureque id factum arbitror;
+et si intestatus non abeo hinc, bene agitur pro noxia.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h27
+:END:
+
+Quid si id non faxis?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h28
+:END:
+
+Vt vivam semper intestabilis.
+
+** Cario
+:PROPERTIES:
+:CUSTOM_ID: h45-h29
+:END:
+
+Verberetur etiam, postibi amittendum censeo.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h30
+:END:
+
+Di tibi bene faciant semper, quom advocatus mihi venis.
+
+** Cario
+:PROPERTIES:
+:CUSTOM_ID: h45-h31
+:END:
+
+Ergo des minam auri nobis.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h32
+:END:
+
+Quam ob rem?
+
+** Cario
+:PROPERTIES:
+:CUSTOM_ID: h45-h33
+:END:
+
+Salvis testibus
+ut te hódie hinc amittamus Venerium nepotulum;
+
+aliter hinc non ibis, ne sis frustra.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h34
+:END:
+
+Dabitur.
+
+** Cario
+:PROPERTIES:
+:CUSTOM_ID: h45-h35
+:END:
+
+Magis sapis.
+de tunica et chlamyde et machaera ne quid speres, non feres.
+
+** Cario
+:PROPERTIES:
+:CUSTOM_ID: h45-h36
+:END:
+
+Verberon etiam, an iam mittis?
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h37
+:END:
+
+Mitis sum equidem fustibus.
+opsecro vos.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h38
+:END:
+
+Solvite istunc.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h39
+:END:
+
+Gratiam habeo tibi.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h40
+:END:
+
+Si posthac prehendero ego te híc, carebis testibus.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h41
+:END:
+
+Causam haud dico.
+
+** Periplectomenvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h42
+:END:
+
+Eamus intro, Cario. —
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h43
+:END:
+
+Servos meos
+eccos video. Philocomasium iam profecta est? dic mihi.
+
+** Servvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h44
+:END:
+
+Iam dudum.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h45
+:END:
+
+Ei mihi.
+
+** Servvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h46
+:END:
+
+Magis dícas, si scias quod ego scio.
+nam ille qui lánam ob oculum habebat laevom, nauta non erat.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h47
+:END:
+
+Quis erat igitur?
+
+** Servvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h48
+:END:
+
+Philocomasio amator.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h49
+:END:
+
+Qui tu scis?
+
+** Servvs
+:PROPERTIES:
+:CUSTOM_ID: h45-h50
+:END:
+
+Scio.
+
+nam postquam porta exierunt, nil cessarunt ilico
+osculari atque amplexari inter se.
+
+** Pyrgopolynices
+:PROPERTIES:
+:CUSTOM_ID: h45-h51
+:END:
+
+Vae misero mihi,
+verba mihi data esse video. scelus viri Palaestrio,
+is me in hanc inlexit fraudem. iure factum iudico;
+si sic aliis moechis fiat, minus hic moechorum siet,
+
+magis metuant, minus has res studeant. eamus ad me. plaudite.

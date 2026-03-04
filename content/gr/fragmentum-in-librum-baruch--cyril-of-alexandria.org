@@ -1,0 +1,22 @@
+#+TITLE: FRAGMENTA EX CATENIS IN LIBRUM BARUCH
+#+AUTHOR: Κύριλλος Ἀλεξανδρείας
+#+FILETAGS: :patristic:5c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-librum-baruch--cyril-of-alexandria
+#+LANGUAGE: el
+
+* FRAGMENTA EX CATENIS IN LIBRUM BARUCH
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Ὅτι σὺ καθήμενος εἰς τὸν αἰῶνα. Ἀεὶ γὰρ καὶ ἐν παντὶ χρόνῳ φθαρτή ἐστιν ἡ
+πεποιημένη φύσις, καὶ τῶν γεννητῶν ἐν τούτοις τὸ μέτρον. Κάθηται δὲ ἡ πάντων
+τεχνῖτις καὶ δημιουργὸς σοφία, τουτέστιν ἀκλόνητον ἔχει τὴν ἐν ταυτότητι
+διαμονήν. Καὶ πάλιν· Ἡμῶν γὰρ κάθισις ἐν τούτοις τὸ ἀκράδαντόν τε καὶ ἱδρυμένον
+τῆς ὑπάρξεως, καὶ διαμονῆς τῆς ἀνωτάτω πασῶν οὐσίας ὑποδηλοῖ· τὸ δὲ, ἡμᾶς
+ἀπόλλυσθαι τὸν αἰῶνα, τὸ εἶναι φθαρτοὺς κατὰ πάντα καιρὸν, τό γε ἧκον εἰς τὸν τοῦ
+πεποιῆσθαι λόγον· εἴπερ ἐστὶν ἀληθὲς ὅτι πᾶν τὸ ἐν γενέσει, καὶ παρενεχθὲν ἐκ τοῦ
+μὴ ὄντος εἰς τὸ εἶναι, πάντη τε καὶ πάντως ὑπόκειται τῇ φθορᾷ.

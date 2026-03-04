@@ -1,0 +1,26 @@
+#+TITLE: Ab Urbe Condita, books 8-10 - 15s
+#+AUTHOR: Titus Livius (Livy)
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/ab-urbe-condita-books-8-10-15s--titus-livius-livy
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Ab Urbe Condita, books 8-10 - 15s edited by Benjamin Oliver Foster, Ph.D.
+#+END_QUOTE
+
+* 15s
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+VICTIS Tarentinis pax et libertas data est.
+legio Campana quae Regium occupaverat obsessa deditione facta securi
+percussa est. cum legatos Apolloniatium ad senatum missos quidam
+iuvenes pulsassent, dediti sunt Apolloniatibus. Picentibus victis
+pax data est. coloniae deductae Ariminum in Piceno, Beneventum in
+Samnio.
+tune primum populus R.  argento uti coepit. Umbri et Sallentini  victi in deditionem accepti sunt. quaestorum numerus
+ampliatus est, ut essent octo.

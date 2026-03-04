@@ -1,0 +1,21 @@
+#+TITLE: Hymn 13 To Demeter
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/hymn-13-to-demeter--anonymous
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Hymn 13 To Demeter edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Δημήτηρ’ ἠύκομον, σεμνὴν θεάν, ἄρχομ’ ἀείδειν,
+αὐτὴν καὶ κούρην, περικαλλέα Περσεφόνειαν.
+
+χαῖρε, θεά, καὶ τήνδε σάου πόλιν·  ἄρχε δ’ ἀοιδῆς.

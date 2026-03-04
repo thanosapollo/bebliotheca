@@ -1,0 +1,4509 @@
+#+TITLE: Captivi
+#+AUTHOR: T. Maccius Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/captivi-the-captives--t-maccius-plautus
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Captivi edited by Friedrich Leo
+#+END_QUOTE
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** PROLOGVS
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+Hos quos videtis stare hic captivos duos,
+†illi qui astant, hi stant ambo, non sedent;
+hoc vos mihi testes estis me verum loqui.
+senex qui hic habitat Hegio est huius pater.
+
+sed is quo pacto serviat suo sibi patri,
+id ego hic apud vos proloquar, si operam datis.
+seni huic fuerunt filii nati duo;
+alterum quadrimum puerum servos surpuit
+eumque hínc profugiens vendidit in Alide
+
+patri huius. iam hoc tenetis?  [lost]  optume est.
+negát hercle ille ultimus. accedito.
+si non ubi sedeas locus est, est ubi ambules,
+quando histrionem cogis mendicarier.
+ego me tua causa, ne erres, non rupturus sum.
+
+vos qui potestis ope vestra censerier,
+accipite relicuom: alieno uti nil moror.
+fugitivos ille, ut dixeram ante, huius patri
+domo quém profugiens dominum abstulerat vendidit.
+is postquam hunc emit, dedit eum huic gnato suo
+
+peculiarem, quia quasi una aetas erat.
+hic nunc domi sérvit suo patri, nec scit pater;
+enim véro di nos quasi pilas homines habent.
+rationem habetis, quo modo unum amiserit.
+postquam belligerant Aetoli cum Aleis,
+
+ut fit in bello, capitur alter filius:
+medicus Menarchus emit ibidem in Alide.
+coepit captivos commercari hic Aleos,
+si quem reperire possit qui mutet suom,
+illum captivom: hunc suom esse nescit, qui domist.
+
+et quoniam heri indaudivit, de summo loco
+summoque genere captum esse equitem Aleum,
+nil pretio parsit, filio dum parceret:
+reconciliare ut facilius posset domum,
+emít hosce e praeda ambos de quaestoribus.
+
+hisce autem inter sese hunc confinxerunt dolum,
+quo pacto hic servos suom erum hinc amittat domum.
+itaque inter se commutant vestem et nomina;
+illic vocatur Philocrates, hic Tyndarus:
+huius íllic, hic illius hodie fert imaginem.
+
+et hic hódie expediet hanc docte fallaciam,
+et suom erum faciet libertatis compotem,
+eodemque pacto fratrem servabit suom
+reducemque faciet liberum in patriam ad patrem,
+imprudens: itidem ut saepe iam in multis locis
+
+plus insciens quis fecit quam prudens boni.
+sed inscientes sua sibi fallacia
+ita compararunt et confinxerunt dolum
+itaque hi commenti, de sua sententia
+ut in sérvitute hic ad suom maneat patrem:
+
+ita nunc ignorans suo sibi servit patri;
+homunculi quanti sunt, quom recogito!
+haec res agetur nobis, vobis fabula.
+sed etiam est, paucis vos quod monitos voluerim.
+profecto expediet fabulae huic operam dare.
+
+non pertractate facta est neque item ut ceterae:
+neque spurcidici insunt versus, immemorabiles;
+hic neque periurus leno est nec meretrix mala
+neque miles gloriosus; ne vereamini,
+quia bellum Aetolis esse dixi cum Aleis:
+
+foris íllic extra scaenam fient proelia.
+nam hoc paene iniquomst, comico choragio
+conari desubito agere nos tragoediam.
+proin si quis pugnam expectat, litis contrahat:
+valentiorem nactus adversarium
+
+si erit, ego faciam ut pugnam inspectet non bonam,
+adeo ut spectare postea omnis oderit.
+abeo. valete, iudices iustissimi
+domi duellique duellatores optumi.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 69
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+Iuventus nomen indidit Scorto mihi,
+eo quía invocatus soleo esse in convivio.
+scio absúrde dictum hoc derisores dicere,
+at ego aio recte. nam scortum in convivio
+
+sibi amator, talos quom iacit, scortum invocat.
+estne invocatum an non est? est planissume;
+verum hercle vero nos parasiti planius,
+quos numquam quisquam neque vocat neque invocat.
+quasi mures semper edimus alienum cibum;
+
+ubi res prolatae sunt, quom rus homines eunt,
+simul prolatae res sunt nostris dentibus.
+quasi, cum caletur, cocleae in occulto latent,
+suo sibi suco vivont, ros si non cadit,
+item parasiti rebus prolatis latent
+
+in occúlto miseri, victitant suco suo,
+dum ruri rurant homines quos ligurriant.
+prolatis rebus parasiti venatici
+sumus, quando res redierunt, molossici
+odiosicique et multum incommodestici.
+
+et hic quidem hercle, nisi qui colaphos perpeti
+potest parasitus frangique aulas in caput,
+vel ire extra portam Trigeminam ad saccum licet.
+quod mihi ne eveniat, non nullum periculum est.
+nam postquam meus rex est potitus hostium—
+
+ita nunc belligerant Aetoli cum Aleis;
+nam Aetolia haec est, illic est captus in Alide,
+Philopolemus, huius Hegionis filius
+senis, qui hic habitat, quae aedes lamentariae
+mihi sunt, quas quotienscumque conspicio fleo;
+
+nunc hic occepit quaestum hunc fili gratia
+inhonestum et maxime alienum ingenio suo:
+homines captivos commercatur, si queat
+aliquem invenire, suom qui mutet filium.
+quod quidem ego nimis quam cupio  [lost]  ut impetret;
+
+nam ni illum recipit, nihil est quo me recipiam.
+nam nulla est spes iuventútis, sese omnis amant;
+ille démum antiquis est adulescens moribus,
+cuius númquam voltum tranquillavi gratiis.
+condigne pater est eius moratus moribus.
+
+nunc ad eum pergam. sed aperitur ostium,
+unde sáturitate saepe ego exii ebrius.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+* 110
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+Advorte animum sis tu: istos captivos duos,
+heri quos emi de praeda a quaestoribus,
+eis indito catenas singularias
+istas, maiores, quibus sunt iuncti, demito;
+
+sinito ambulare, si foris si intus volent,
+sed uti adserventur magna diligentia.
+liber captivos avis ferae consimilis est:
+semel fugiendi si data est occasio,
+satis est, numquam postilla possis prendere.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h8-h2
+:END:
+
+Omnes profecto liberi lubentius
+sumus quám servimus.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h3
+:END:
+
+Non videre ita tu quidem.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h8-h4
+:END:
+
+Si non est quod dem, mene vis dem ipse—in pedes?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h5
+:END:
+
+Si dederis, erit extemplo mihi quod dem tibi.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h8-h6
+:END:
+
+Avis mé ferae consimilem faciam, ut praedicas.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h7
+:END:
+
+Ita ut dícis: nam si faxis, te in caveam dabo.
+sed satis verborumst. cura quae iussi atque abi.
+ego ibo ad fratrem ad alios captivos meos,
+visam ne nocte hac quippiam turbaverint.
+inde mé continuo recipiam rursum domum.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h8
+:END:
+
+Aegre est mi, hunc facere quaestum carcerarium
+propter sui gnati miseriam miserum senem.
+sed si ullo pacto ille huc conciliari potest,
+vel carnificinam hunc facere possum perpeti.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h9
+:END:
+
+Quis hic lóquitur?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h10
+:END:
+
+Ego, qui tuo maerore maceror,
+
+macesco, consenesco et tabesco miser;
+ossa atque pellis sum miser a macritudine;
+neque umquam quicquam me iuvat quod edo domi:
+foris aliquantillum etiam quod gusto, id beat.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h11
+:END:
+
+Ergasile, salve.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h12
+:END:
+
+Di te bene ament, Hegio.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h13
+:END:
+
+Ne fle.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h14
+:END:
+
+Egone illum non fleam? égon non defleam
+Talem adulescentem?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h15
+:END:
+
+Semper sensi, filio
+meo te ésse amicum, et illum intellexi tibi.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h16
+:END:
+
+Tum denique homines nostra intellegimus bona,
+quom quae in potestate habuimus, ea amisimus.
+
+ego, postquam gnatus tuos potitust hostium,
+expertus quanti fuerit nunc desidero.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h17
+:END:
+
+Alienus cum eius incommodum tam aegre feras,
+quid me patrem par facerest, cui ille est unicus?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h18
+:END:
+
+Alienus ego? alienus illi? aha, Hegio,
+
+numquam istuc dixis neque animum induxis tuom;
+tibi ille únicust, mi etiam unico magis unicus.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h19
+:END:
+
+Laudo, malum cum amici tuom ducis malum.
+nunc habe bonum animum.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h20
+:END:
+
+Eheu, huic illud dolet,
+quia nunc remissus est edendi exercitus.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h21
+:END:
+
+Nullumne interea nactu's nactus es  , qui posset tibi
+remissum quem dixti imperare exercitum?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h22
+:END:
+
+Quid credis? fugitant omnes hanc provinciam,
+quoi optigerat postquam captust Philopolemus tuos.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h23
+:END:
+
+Non pol mirandum est fugitare hanc provinciam.
+
+multis et multigeneribus opus est tibi
+militibus: primumdum opus est Pistorensibus;
+eorum sunt aliquot genera Pistorensium:
+opus Pániceis est, opus Placentinis quoque;
+opus Turdetanis, opust Ficedulensibus;
+
+iam maritumi omnes milites opus sunt tibi.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h24
+:END:
+
+Vt saepe summa ingenia in occulto latent;
+hic qualis imperator nunc privatus est.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h25
+:END:
+
+Habe modo bonum animum, nam illum confido domum
+in his diebus me reconciliassere.
+
+nam eccum hic captivom adulescentem intus Aleum,
+prognatum genere summo et summis ditiis:
+hoc illum me mutare confido pote.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h26
+:END:
+
+Ita di deaeque faxint. sed num quo foras
+vocatus es ad cenam?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h27
+:END:
+
+Nusquam, quod sciam.
+
+sed quid tu id quaeris?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h28
+:END:
+
+Quia mi est natalis dies;
+propterea te vocari ad te ad cenam volo.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h29
+:END:
+
+Facete dictum.  sed si pauxillo potes
+contentus esse.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h30
+:END:
+
+Ne perpauxillum modo,
+nam istoc me assiduo victu delecto domi;
+
+age sis, roga emptum: nisi qui meliorem adferet
+quae mi atque amicis placeat condicio magis,
+quasi fundum vendam, meis me addicam legibus.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h31
+:END:
+
+Profundum vendis tu quidem, haud fundum, mihi.
+sed si venturu's venturus es  , temperi.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h32
+:END:
+
+Em, vel iam otium est.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h33
+:END:
+
+I modo, venare leporem: nunc irim tenes;
+nam meus scruposam victus commetat viam.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h34
+:END:
+
+Numquam istoc vinces me, Hegio, ne postules:
+cum calceatis dentibus veniam tamen.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h35
+:END:
+
+Asper meus victus sane est.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h36
+:END:
+
+Sentisne essitas?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h37
+:END:
+
+Terrestris cena est.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h38
+:END:
+
+Sus terrestris bestia est.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h39
+:END:
+
+Multis holeribus.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h40
+:END:
+
+Curato aegrotos domi.
+numquid vis?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h41
+:END:
+
+Venias temperi.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h42
+:END:
+
+Memorem mones.—
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h8-h43
+:END:
+
+Ibo intro atque intus subducam ratiunculam,
+quantillum argenti mi ápud trapezitam siet.
+
+ad fratrem, quo ire dixeram, mox ivero.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+* 195
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+** Lorarii
+:PROPERTIES:
+:CUSTOM_ID: h11-h1
+:END:
+
+Si di ímmortales íd voluerunt, vós hanc aerumnam éxsequi,
+decét id pati animo aéquo: si id faciétis, levior lábos erit.
+domi fuístis, credo, líberi:
+nunc servitus si evenit, ei vos morigerari mos bonust
+
+et erili imperio eamque ingeniis vostris lenem reddere.
+indigna digna habenda sunt, erus quae facit.
+
+** Captivi
+:PROPERTIES:
+:CUSTOM_ID: h11-h2
+:END:
+
+Oh oh oh.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h11-h3
+:END:
+
+Éiulatione haud opus est, oculis haud lacrimantibus:
+in ré mala animo sí bono utare, ádiuvat.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h4
+:END:
+
+At nós pudet, quia cúm catenis súmus.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h11-h5
+:END:
+
+At pigeat póstea
+nostrum erum, si vos éximat vínculis,
+aút solutós sinat, quós argento émerit.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h6
+:END:
+
+Quid a nóbis metuit? scímus nos
+nóstrum officiúm quod est, sí solutós sinat.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h11-h7
+:END:
+
+Át fugam fíngitis: séntio quam rem ágitis.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h11-h8
+:END:
+
+Nós fugiamus? quó fugiamus?
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h11-h9
+:END:
+
+In patriam.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h11-h10
+:END:
+
+Apage, haud nós id deceat,
+fúgitivos imitári.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h11-h11
+:END:
+
+Immo edepol, si érit occasio, haúd dehortor.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h12
+:END:
+
+Únum exoráre vos sínite nos.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h11-h13
+:END:
+
+Quídnam id est?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h14
+:END:
+
+Út sine hisce arbitris
+
+átque vobis nobis détis lócum loquendi.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h11-h15
+:END:
+
+Fíat. abscédite hinc: nós concedámus huc.
+séd brevem orátionem íncipisse.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h16
+:END:
+
+Em istúc mihi certum erat. cóncede huc.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h11-h17
+:END:
+
+Abíte ab ístis.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h18
+:END:
+
+Obnóxii ámbo
+
+vóbis sumus própter hanc rém, quom quae vólumus nos
+copia est † ea facitis nos compotes.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h11-h19
+:END:
+
+Sécede huc núnciam, sí videtúr, procul,
+ne arbitri dicta nostra arbitrari queant
+neu permanet palam haec nostra fallacia.
+
+nam doli non doli sunt, nisi astu colas,
+sed malum maxumum, si id palam provenit.
+nam sí erus mihi es tu átque ego me túom esse servom assímulo,
+tamen víso opust, cauto est opus, ut hoc sóbrie sineque árbitris
+accúrate agátur, docte ét diligénter;
+
+tanta íncepta rés est: haud sómniculóse hoc
+agéndum est.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h20
+:END:
+
+Ero út me volés esse.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h11-h21
+:END:
+
+Spéro.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h22
+:END:
+
+Nam tú nunc vidés pro tuó caro cápite
+carum ófferre mé meum capút vilitáti.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h11-h23
+:END:
+
+Scio.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h24
+:END:
+
+At scíre memento, quándo id quód voles habébis;
+
+nam fére maxima pars mórem hunc hominés habent: quod síbi volunt,
+dum id ímpetrant, boní sunt;
+sed íd ubi iam penes sése habent,
+éx bonis péssimi et fraúdulentíssimi
+fíunt: nunc út mihi té volo esse aútumo.
+
+quód tibi suádeam, suádeam meó patri.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h11-h25
+:END:
+
+Pól ego si te aúdeam, meúm patrem nóminem:
+nám secundúm patrem tu és pater próximus.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h26
+:END:
+
+Aúdio.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h11-h27
+:END:
+
+Et proptérea saepiús te uti memíneris moneo:
+non ego erus tibi, sed servos sum; nunc obsecro te hoc unum—
+
+quoniam nobis di immortales animum ostenderunt suom,
+ut qui erum me tibi fuisse atque esse conservom velint,
+quom antehac pro iure imperitabam meo, nunc te oro per precem—
+per fortunam incertam et per mei te erga bonitatem patris,
+perque consérvitium commune, quód hostica evenit manu,
+
+ne me secus honore honestes quam quom servibas mihi,
+atque ut qui fueris et qui nunc sis meminisse ut memineris.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h11-h28
+:END:
+
+Scio quidem me te esse nunc et te esse me.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h11-h29
+:END:
+
+Em istuc si potes
+memoriter meminisse, inest spes nobis ín hac astutia.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+* 251
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h1
+:END:
+
+Iam ego revertar intro, si ex his quae volo exquisivero.
+ubi sunt isti quos ante aedis iussi huc produci foras?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h2
+:END:
+
+Edepol tibi ne in quaestione essemus cautum intellego,
+ita vinclis custodiisque circum moeniti sumus.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h3
+:END:
+
+Qui cavet ne decipiatur, vix cavet, cum etiam cavet;
+etiam cum cavisse ratus est, saepe is cautor captus est.
+an vero non iusta causa est, ut vos servem sedulo,
+quos tam grandi sim mercatus praesenti pecunia?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h4
+:END:
+
+Neque pol tibi nos, quia nos servas, aequomst vitio vortere,
+
+neque te nobis, sí abeamus hinc, si fuat occasio.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h5
+:END:
+
+Vt vos hic, itidem illic apud vos meus servatur filius.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h6
+:END:
+
+Captus est?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h7
+:END:
+
+Ita.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h8
+:END:
+
+Non igitur nos soli ignavi fuimus.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h9
+:END:
+
+Secede huc. nam sunt quae éx te solo scitari volo.
+quarum rerum te falsilocum mi esse nolo.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h10
+:END:
+
+Non ero
+
+quod sciam. si quid nescibo, id nescium tradam tibi.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h11
+:END:
+
+Nunc senex est in tostrina, nunc iam cultros attinet.
+ne id quidem, involucrum inicere, voluit, vestem ut ne inquinet.
+sed utrum strictimne adtonsurum dicam esse an per pectinem,
+nescio; verum, si frugist, usque admutilabit probe.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h12
+:END:
+
+Quid tu? servosne esse an liber mavelis, memora mihi.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h13
+:END:
+
+Proxumum quod sit bono quodque a malo longissume,
+id volo; quamquam non multum fuit molesta servitus,
+nec mihi secus erat quam si essem familiaris filius.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h14
+:END:
+
+Eugepae, Thalem talento non emam Milesium,
+
+nam ad sapientiam huius  [lost]  nimius nugator fuit.
+ut facete orationem ad servitutem contulit.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h15
+:END:
+
+Quo de genere natust illic Philocrates?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h16
+:END:
+
+Polyplusio:
+quod genus illi est unum pollens atque honoratissumum.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h17
+:END:
+
+Quid ipsus hic? quo honore est illic?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h18
+:END:
+
+Summo, atque ab summis viris.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h19
+:END:
+
+Tum igitur ei cum in Aleis tanta gratia est, ut praedicas,
+quid divitiae, suntne opimae?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h20
+:END:
+
+Vnde excoquat sebum senex.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h21
+:END:
+
+Quid pater, vivitne?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h22
+:END:
+
+Vivom, cum inde abimus, liquimus;
+nunc vivatne necne, id Orcum scire oportet scilicet.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h23
+:END:
+
+Salva res est, philosophatur quoque iam, non mendax modo est.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h24
+:END:
+
+Quid erat ei nomen?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h25
+:END:
+
+Thensaurochrysonicochrysides.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h26
+:END:
+
+Videlicet propter divitias inditum id nomen quasi est.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h27
+:END:
+
+Immo edepol propter avaritiam ipsius atque audaciam.
+nam ille quidem Theodoromedes fuit germano nomine.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h28
+:END:
+
+Quid tu ais? tenaxne pater est eius?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h13-h29
+:END:
+
+Immo edepol pertinax;
+
+quin etiam ut magis nóscas: Genio suo ubi quando sacruficat,
+ad rem divinam quibus est opus, Samiis vasis utitur,
+ne ipse Genius surripiat: proinde aliis ut credat vide.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h30
+:END:
+
+Sequere hac me igitur. eadem ego ex hoc quae volo exquaesivero.
+Philocrates, hic fecit, hominem frugi ut facere oportuit.
+
+nám ego ex hoc quo genere gnatus sis scio, hic fassust mihi;
+haec tu eadem si confiteri vis, tua ex re feceris:
+quae tamen scio scire me ex hoc.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h31
+:END:
+
+Fecit officium hic suom,
+cum tibi est confessus verum, quamquam volui sedulo
+meam nobilitatem occultare et genus et divitias meas,
+
+Hegio; nunc quando patriam et libertatem perdidi,
+non ego istúnc me potius quam te metuere aequom censeo.
+vis hostilis cum istoc fecit meas opes aequabiles;
+memini, cum dicto haud audebat: facto nunc laedat licet.
+sed viden? fortuna humana fingit artatque ut lubet:
+
+me, qui liber fueram, servom fecit, e summo infimum;
+qui imperare insueram, nunc alterius imperio obsequor.
+et quidem si, proinde ut ipse fui imperator familiae,
+habeam dominum, non verear ne iniuste aut graviter mi imperet.
+Hegio, hoc te monitum, nisi forte ipse non vis, voluerim.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h32
+:END:
+
+Loquere audacter.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h33
+:END:
+
+Tam ego fui ante liber quam gnatus tuos,
+tam mihi quam illi libertatem hostilis eripuit manus,
+tam ille apud nos servit, quam ego nunc hic apud te servio.
+est profecto deus, qui quae nos gerimus auditque et videt:
+is, uti tu me hic habueris, proinde illum illic curaverit;
+
+bene merenti bene profuerit, male merenti par erit.
+quam tu filium tuom, tam páter me meus desiderat.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h34
+:END:
+
+Memini ego istuc. sed faterin eadem quae hic fassust mihi?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h35
+:END:
+
+Ego patri meo esse fateor summas divitias domi
+meque summo genere gnatum. sed te optestor, Hegio,
+
+ne tuom animum avariorem faxint divitiae meae:
+ne patri, tam étsi sum unicus, decere videatur magis,
+me saturum servire apud te sumptu et vestitu tuo
+potius quam illi, ubi minime honestumst, mendicantem vivere.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h36
+:END:
+
+Ego virtute deum et maiorum nostrum dives sum satis.
+
+non ego ómnino lucrum omne esse utile homini existimo:
+scio ego, multos iam lucrum lutulentos homines reddidit;
+est etiam ubi profecto damnum praestet facere quam lucrum.
+odi ego aurum: multa multis saepe suasit perperam.
+nunc hoc animum advorte, ut ea quae sentio pariter scias.
+
+filius meus illic apud vos servit captus Alide:
+eum si reddis mihi, praeterea únum nummum ne duis;
+et te et hunc amittam hinc. alio pacto abire non potes.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h37
+:END:
+
+Optumum atque aequissumum oras optumusque hominum es homo.
+sed is privatam servitutem servit illi an publicam?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h38
+:END:
+
+Privatam medici Menarchi.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h39
+:END:
+
+Pol is quidem huius est cliens.
+tam hoc quidem tibi in proclivi quam imber est quando pluit.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h40
+:END:
+
+Fac is homo ut redimatur.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h41
+:END:
+
+Faciam. sed te id oro, Hegio—
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h42
+:END:
+
+Quid vis, dum ab re ne quid ores, faciam.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h43
+:END:
+
+Ausculta, tum scies.
+ego me amitti, donicum ille huc redierit, non postulo.
+
+verum quaeso ut aestumatum hunc mihi des, quem mittam ad patrem,
+ut is homo redimatur illi.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h44
+:END:
+
+Immo alium potius misero
+hinc, ubi erunt indutiae, illuc, tuom qui conveniat patrem,
+qui tua quae tu iusseris mandata ita út velis perferat.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h45
+:END:
+
+At nihil est ignotum ad illum mittere: operam luseris.
+
+hunc mitte, hic transactum reddet omne, si illuc venerit.
+nec quemquam fideliorem neque cui plus credat potes
+mittere ad eum nec qui magis sit servos ex sententia,
+neque adeo cui suom concredat filium hodie audacius.
+ne vereare, meo periclo húius ego experiar fidem,
+
+fretus ingenio eius, quod me ésse scit erga se benevolum.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h46
+:END:
+
+Mittam equidem istunc aestumatum tua fide, si vis.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h47
+:END:
+
+Volo;
+quam citissime potest, tam hoc cedere ad factum volo.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h48
+:END:
+
+Num quae causa est quin, si ille huc non redeat, viginti minas
+mihi des pro illo?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h49
+:END:
+
+Optuma immo.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h50
+:END:
+
+Solvite istum nunciam,
+
+atque utrumque.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h51
+:END:
+
+Di tibi omnis omnia optata offerant,
+cum me tanto honore honestas cumque ex vinclis eximis.
+hoc quidem haud molestumst, iam quod collus collari caret.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h13-h52
+:END:
+
+Quod bonis bene fit beneficium, gratia ea gravida est bonis.
+nunc tu illum si illo es missurus, dice monstra praecipe
+
+quae ad patrem vis nuntiari. vin vocem huc ad te?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h53
+:END:
+
+Voca.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+* 361
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h15-h1
+:END:
+
+Quae res bene vortat mihi meoque filio
+vobisque, volt te novos erus operam dare
+tuo veteri domino, quod is velit, fideliter.
+nam ego te aestumatum huíc dedi viginti minis,
+
+hic autem té ait mittere hinc velle ad patrem,
+meum ut illic redimat filium, mutatio
+inter me atque illum ut nostris fiat filiis.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h2
+:END:
+
+Vtroque vorsum rectumst ingenium meum,
+ad te atque ad illum; pro rota me uti licet:
+
+vel ego huc vel illuc vortar, quo imperabitis.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h15-h3
+:END:
+
+Tute tibi tuopte ingenio prodes plurumum,
+cum servitutem íta fers ut ferri decet.
+sequere. em tibi hominem.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h4
+:END:
+
+Gratiám habeo tibi,
+quom copiam istam mi et potestatem facis,
+
+ut ego ad parentes hunc remittam nuntium,
+qui me quid rerum hic agitem et quid fieri velim
+patri meo, ordine omnem rem, illuc perferat.
+nunc ita convenit inter me atque hunc, Tyndare,
+ut te aestumatum in Alidem mittam ad patrem,
+
+si non rebitas huc, ut viginti minas
+dem pro te.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h5
+:END:
+
+Recte convenisse sentio.
+nam pater expectat aut me aut aliquem nuntium,
+qui hinc ad se veniat.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h6
+:END:
+
+Ergo animum advortas volo
+quae nuntiare hinc te volo in patriam ad patrem.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h7
+:END:
+
+Phílocrates, ut adhuc locorum feci, faciam sedulo,
+ut potissimum quod in rem recte conducat tuam,
+id petam idque persequar corde et animo atque viribus.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h8
+:END:
+
+Facis ita ut te facere oportet. nunc animum advortas volo:
+omnium primum salutem dicito matri et patri
+
+et cognatis et si quem alium benevolentem videris;
+me hic valere et servitutem servire huic homini optumo,
+qui me honore honestiorem semper fecit et facit.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h9
+:END:
+
+Istuc ne praecipias, facile memoria memini tamen.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h10
+:END:
+
+Nam equidem, nisi quod custodem habeo, liberum me esse arbitror.
+
+dicito patri, quo pacto mihi cum hoc convenerit
+de huius filio.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h11
+:END:
+
+Quae memini, mora mera est monerier.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h12
+:END:
+
+Vt eum redimat et remittat nostrum huc amborum vicem.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h13
+:END:
+
+Meminero.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h15-h14
+:END:
+
+At quamprimum pote: istuc in rem utriquest maxime.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h15
+:END:
+
+Non tuom tu magis videre quam ille suom gnatum cupit.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h15-h16
+:END:
+
+Meus mihi, suos cuique est carus.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h17
+:END:
+
+Numquid aliud vis patri
+nuntiari?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h18
+:END:
+
+Me hic valere et (tute audacter dicito,
+Tyndare) inter nos fuisse ingenio haud discordabili,
+neque te commeruisse culpam (neque me adversatum tibi)
+beneque ero gessisse morem in tantis aerumnis tamen;
+
+neque med umquam deseruisse te neque factis neque fide,
+rebus in dubiis egenis. haec pater quando sciet,
+Tyndare, ut fueris animatus erga suom gnatum atque se,
+numquam erit tam avarus, quin te gratiis emittat manu †
+et mea opera, si hinc rebito, faciam ut faciat facilius.
+
+nam tua opera et comitate et virtute et sapientia
+fecisti ut redire liceat ad parentis denuo,
+cúm apud hunc confessus es et genus et divitias meas:
+quo pacto emisisti e vinclis tuom erum tua sapientia.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h19
+:END:
+
+Feci ego ista út commemoras, et te meminisse id gratum est mihi.
+
+merito tibi ea evenerunt a me; nam nunc, Philocrates,
+sí ego item memorem quae me erga multa fecisti bene,
+nox diem adimat; nam quasi servos meus esses, nihilo setius
+tu mihi obsequiosus semper fuisti.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h15-h20
+:END:
+
+Di vostram fidem,
+hominum ingenium liberale. ut lacrumas excutiunt mihi.
+
+videas corde amare inter se. quantis lautus laudibus
+suom erum servos collaudavit.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h21
+:END:
+
+Pól istic me haud centesimam
+partem laudat quam ipse meritust ut laudetur laudibus.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h15-h22
+:END:
+
+Ergo cum optume fecisti, nunc adest occasio
+bene facta cumulare, ut erga hunc rem geras fideliter.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h23
+:END:
+
+Magis non factum possum velle, quam opera experiar persequi;
+id ut scias, Iovem supremum testem laudo, Hegio,
+me infidelem non futurum Philocrati.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h15-h24
+:END:
+
+Probus es homo.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h25
+:END:
+
+Nec me secus umquam ei facturum quicquam quam memet mihi.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h26
+:END:
+
+Istaec dicta te experiri et operis et factis volo;
+
+et, quo minus dixi quam volui de te, animum advortas volo,
+atque horunc verborum causa caveto mi iratus fuas;
+sed, te quaeso, cogitato hinc mea fide mitti domum
+te aestimatum, et méam esse vitam hic pro te positam pignori,
+ne tu me ignores, quom extemplo meo é conspectu abscesseris,
+
+quom me servom in servitute pro ted hic reliqueris,
+tuque te pro libero esse ducas, pignus deseras
+neque des operam pro me ut huius reducem facias filium;
+scito te hinc minis viginti aéstumatum mittier.
+fac fidelis sis fideli, cave fidem fluxam geras:
+
+nam pater, scio, faciet quae illum facere oportet omnia;
+serva tibi in perpetuom amicum me, atque hunc inventum inveni.
+haec per dexteram tuam te dextera retinens manu
+opsecro, infidelior mihi ne fuas quam ego sum tibi.
+tu hóc age. tu mihí erus nunc es, tu patronus, tu pater,
+
+tibi commendo spes opesque meas.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h27
+:END:
+
+Mandavisti satis.
+satin habes, mandata quae sunt facta si refero?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h28
+:END:
+
+Satis.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h29
+:END:
+
+Et tua et tua huc ornatus reveniam ex sententia.
+numquid aliud?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h30
+:END:
+
+Vt quam primum possis redeas.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h31
+:END:
+
+Res monet.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h15-h32
+:END:
+
+Sequere me, viaticum ut dem á trapezita tibi,
+
+eadem opera a praetore sumam syngraphum.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h33
+:END:
+
+Quem syngraphum?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h15-h34
+:END:
+
+Quem hic ferat secum ad legionem, hinc ire huic ut liceat domum.
+tu intro abi.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h35
+:END:
+
+Bene ambulato.—
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h15-h36
+:END:
+
+Bene vale.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h15-h37
+:END:
+
+Edepol rem meam
+constabilivi, quom illos emi de praeda a quaestoribus;
+expedivi ex servitute filium, si dis placet.
+
+at etiam dubitavi, hos homines emerem an non emerem, diu.
+servate istum sultis intus, servi, ne quoquam pedem
+ecferat sine custodela. iam ego apparebo domi;
+ad fratrem modo captivos alios inviso meos,
+eadem percontabor, ecquis hunc ádulescentem noverit.
+
+sequere tu, te ut amittam; ei rei primum praevorti volo.—
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 461
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h1
+:END:
+
+Míser homo est, qui ipse sibi quod edit quaerit et id aegre invenit,
+sed ille est miserior, qui et aegre quaerit et nihil invenit;
+ille miserrimust, qui cum esse cupit, tum quod edit non habet.
+nam hercle ego huic die, si liceat, oculos effodiam libens,
+
+ita malignitate oneravit omnis mortalis mihi;
+neque ieiuniosiorem neque magis ecfertum fame
+vidi nec quoi minus procedat quidquid facere occeperit,
+ita venter gutturque resident esurialis ferias.
+ilicet parasiticae arti maximam malam crucem,
+
+ita iuventus iam ridiculos inopesque ab se segregat.
+nil morantur iam Lacones unisubselli viros,
+plagipatidas, quibus sunt verba sine penu et pecunia:
+eos requirunt, qui libenter, quom ederint, reddant domi;
+ipsi obsonant, quae parasitorum ante erat provincia,
+
+ipsi de foro tam aperto capite ad lenones eunt
+quam in tribú aperto capite sontes condemnant reos;
+neque ridiculos iam terrunci faciunt, sese omnes amant.
+nám uti dudum hinc abii, accessi ad adulescentes in foro.
+/salvete/ inquam. /quo imus una/ ínquam /ad prandium?/ atque illi tacent.
+
+/quis ait hoc aut quis profitetur?/ inquam. quasi muti silent,
+neque me rident. /ubi cenamus?/ inquam. átque illi abnuont.
+dico unum ridiculum dictum de dictis melioribus,
+quibus solebam menstruales epulas ante adipiscier:
+nemo ridet; scivi extemplo rem de compecto geri;
+
+ne canem quidem irritatam voluit quisquam imitarier,
+saltem, si non arriderent, dentes ut restringerent.
+abeo ab illis, postquam video me sic ludificarier;
+pergo ad alios, venio ad alios, deinde ad alios: una res.
+omnes de compecto rém agunt, quasi in Velabro olearii.
+
+nunc redeo inde, quoniam mé ibi video ludificarier.
+item alii parasiti frustra obambulabant in foro.
+nunc barbarica lege certumst ius meum omne persequi:
+qui consilium iniere, quo nos victu et vita prohibeant,
+is diem dicam, irrogabo multam, ut mihi cenas decem
+
+meo arbitratu dent, cum cara annona sit. sic egero.
+nunc ibo ad portum hinc: est illic mi una spes cenatica;
+si éa decolabit, redibo huc ad senem ad cenam asperam.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+* 498
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h20-h1
+:END:
+
+Quid est suávius, quam bene rém gerere,
+bonó publicó, sic ut égo feci herí,
+cum emi hósce homines: ubi quísque vident,
+eúnt obviam gratulánturque eám rem.
+
+íta me miserum restitando
+retinendoque lassum reddiderunt:
+vix éx gratulándo misér iam eminebam.
+tandem ábii ad praetórem; ibí vix requiévi:
+rogo sýngraphum, datur mi ílico; dedi Týndaro: ille abiít domum.
+
+inde ílico praevórtor domúm, postquam id áctum est;
+eo prótinus ad fratrém, mei ubi súnt alii captívi.
+rogo, Philocratem ex Alide ecquis hominum
+noverit: tandem hic exclamat, eum sibi esse sodalem;
+dico eum esse apud me; hic extemplo orat obsecratque,
+
+eum sibi ut liceat videre:
+iussi ílico hunc exsolvi. nunc tu sequere me,
+ut quód me oravisti ímpetres, eum hóminem uti convénias.—
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+* 516
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+Nunc íllud est, cum mé fuisse quam ésse nimio mávelim:
+nunc spes opes auxiliaque a me segregant spernuntque se.
+hic illést dies, cum nulla vitae meae salus sperabilest,
+neque † exílium exitio est néque adeo spes, quae mi hunc aspellat metum,
+
+nec subdolis mendaciis mihi usquam mantellum est meis,
+nec sycophantiis nec fucis ullum mantellum obviam est
+neque deprecatio perfidiis meis nec male factis fuga est,
+nec confidentiae usquam hospitium est nec deverticulum dolis:
+operta quae fuere aperta sunt, patent praestigiae,
+
+ómnis res palam est, néque de hac re negotium est,
+quín male occidam oppetamque pestem eri vicem meamque.
+perdidit me Aristophontes hic qui venit modo intro †
+is me novit, is sodalis Philocrati et cognatus est.
+neque iám Salus servare, si volt, me potest, nec copia est,
+
+nisi si áliquam corde machinor astutiam.
+quám, malum? quid machiner? quid comminiscar? maxumas
+nugás ineptus incipisso. haereo.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+* 533
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h1
+:END:
+
+Quo illúm nunc hominem próripuisse fóras se dicam ex aédibus?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h2
+:END:
+
+Núnc enim vero ego óccidi: eúnt ad te hostes, Tyndare.
+quíd loquar? quid fabulabor? quid negabo aut quid fatebor?
+mihi rés omnis ín incerto sita est. quid rebus confidam meis?
+
+utinám te di prius perderent, quam periisti e patria tua,
+Aristophontes, qui ex parata re imparatam omnem facis.
+occísa est haec res, nisi reperio atrocem mi aliquam astutiam.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h3
+:END:
+
+Sequere. ém tibi hominem. adi, atque adloquere.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h4
+:END:
+
+Quis homo est me hominum miserior?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h5
+:END:
+
+Quíd istuc est quod meos te dicam fugitare oculos, Tyndare,
+
+proque ignoto me aspernari, quasi me numquam noveris?
+equidem tam sum servos quam tu, etsi ego domi liber fui,
+tu usque a puero servitutem servivisti in Alide.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h6
+:END:
+
+Edepol minime miror, si te fugitat aut oculos tuos,
+aut si te odit, qui istum appelles Tyndarum pro Philocrate.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h7
+:END:
+
+Hegió, hic homó rabiosus habitus est in Alide,
+ne tu quód istic fabuletur auris immittas tuas.
+nam istic hastis insectatus est domi matrem et patrem,
+et illic isti qui insputatur morbus interdum venit.
+proin tu ab istoc procul recedas.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h8
+:END:
+
+Vltro istum a me.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h9
+:END:
+
+Ain, verbero?
+
+me rabiosum atque insectatum esse hastis meum memoras patrem,
+et eum morbum mi esse, ut qui me ópus sit insputarier?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h10
+:END:
+
+Ne verere, multos iste morbus homines macerat,
+quibus insputari saluti fuit atque is profuit.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h11
+:END:
+
+Quid tu autem? etiam huic credis?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h12
+:END:
+
+Quid ego credam huic?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h13
+:END:
+
+Insanum esse me?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h14
+:END:
+
+Viden tu hunc, quam ínimico voltu intuetur? concedi optumumst,
+Hegio: fit quód tibi ego dixi, glíscit rabies, cave tibi.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h15
+:END:
+
+Credidi esse insanum extemplo, ubi te appellavit Tyndarum.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h16
+:END:
+
+Quin suom ipse interdum ignorat nomen neque scit qui siet.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h17
+:END:
+
+At etiam te suom sodalem esse aibat.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h18
+:END:
+
+Haud vidi magís.
+
+et quidem Alcumeus atque Orestes et Lycurgus postea
+una opera mihi sunt sodales qua iste.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h19
+:END:
+
+At etiam, furcifer,
+male loqui mi audés? non ego te novi?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h20
+:END:
+
+Pol planum id quidem est,
+non novisse, qui istum appelles Tyndarum pro Philocrate.
+quem vides, eum ignoras: illum nominas quem non vides.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h21
+:END:
+
+Immo iste eum sese ait, qui non est, esse, et qui vero est, negat.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h22
+:END:
+
+Tu énim repertu's repertus es  , Philocratem qui superes veriverbio.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h23
+:END:
+
+Pol ego ut rem video, tu inventu's inventus es  , vera vanitudine
+qui convincas. sed quaeso hercle, agedum aspice ad me.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h24
+:END:
+
+Em.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h25
+:END:
+
+Dic modo:
+tun negas te Tyndarum esse?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h26
+:END:
+
+Négo, inquam.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h27
+:END:
+
+Tun te Philocratem
+
+esse ais?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h28
+:END:
+
+Égo, inquam.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h29
+:END:
+
+Tune huic credis?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h30
+:END:
+
+Plus quidem quam tibi aut mihi.
+nam ílle quidem, quem tu hunc memoras esse, hodie hinc abiit Alidem
+ad patrem huius.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h31
+:END:
+
+Quem patrem, qui servos est?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h32
+:END:
+
+Et tu quidem
+servos es, liber fuisti, et ego me confido fore,
+si huius huc reconciliasso in libertatem filium.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h33
+:END:
+
+Quid ais, furcifer? tun te gnatum esse memoras liberum?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h34
+:END:
+
+Non equidem me Liberum, sed Philocratem esse aio.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h35
+:END:
+
+Quid est?
+ut scelestus, Hegio, nunc iste te ludos facit.
+nám is est servos ipse, neque praeter se umquam ei servos fuit.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h36
+:END:
+
+Quia tute ipse eges in patria nec tibi qui vivas domist,
+
+omnis inveniri similis tui vis; non mirum facis:
+est miserorum, ut malevolentes sint atque invideant bonis.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h37
+:END:
+
+Hegio, vide sis, ne quid tu huic temere insistas credere.
+atque, ut perspicio, profecto iam áliquid pugnae edidit.
+filium tuom quód redimere se ait, id ne utiquam mihi placet.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h38
+:END:
+
+Scio te id nolle fieri; efficiam tamen ego id, si di adiuvant.
+illum restituam huic, hic autem in Alidem me meo patri.
+propterea ad patrem hinc amisi Tyndarum.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h39
+:END:
+
+Quin tute is es:
+neque praeter te in Alide ullus servos istoc nominest.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h40
+:END:
+
+Pergin servom me exprobrare esse, id quod vi hostili optigit?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h41
+:END:
+
+Enim iam nequeo contineri.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h42
+:END:
+
+Heus, audin quid ait? quin fugis?
+iam illic hic nos insectabit lapidibus, nisi illunc iubes
+comprehendi.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h43
+:END:
+
+Crucior.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h44
+:END:
+
+Ardent oculi: fit opus, Hegio;
+viden tu illi maculari corpus totum maculis luridis?
+atra bilis agitat hominem.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h45
+:END:
+
+At pol te, si hic sapiat senex,
+
+pix atra agitet apud carnificem tuoque capiti inluceat.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h46
+:END:
+
+Iam deliramenta loquitur, laruae stimulant virum.
+hercle qui, si hunc comprehendi iusseris, sapias magis.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h47
+:END:
+
+Crucior, lapidem non habere mé, ut illi mastigiae
+cerebrum excutiam, qui me insanum verbis concinnat suis.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h48
+:END:
+
+Audin lapidem quaeritare?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h49
+:END:
+
+Solus te solum volo,
+Hegio.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h50
+:END:
+
+Istinc loquere, si quid vis, procul. tamen audiam.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h51
+:END:
+
+Namque edepol si adbites propius, os denasabit tibi
+mordicus.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h52
+:END:
+
+Neque pol me insanum, Hégio, esse creduis
+neque fuisse umquam, neque esse morbum quem istic autumat.
+
+verum si quid metuis a me, iube me vinciri: volo,
+dum istic itidem vinciatur.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h53
+:END:
+
+Immo enim vero, Hegio,
+istic, qui volt, vinciatur.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h54
+:END:
+
+Tace modo. ego te, Philocrates
+false, faciam ut verus hodie reperiare Tyndarus.
+quid mi abnutas?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h55
+:END:
+
+Tibi ego abnuto?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h56
+:END:
+
+Quid agat, si absis longius?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h57
+:END:
+
+Quid ais? quid si adeam hunc insanum?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h58
+:END:
+
+Nugas. ludificabitur,
+garriet quoi neque pes umquam neque caput compareat.
+ornamenta absunt: Aiacem, hunc cum vides, ipsum vides.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h59
+:END:
+
+Nihili facio. tamen adibo.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h60
+:END:
+
+Nunc ego omnino occidi,
+nunc ego intér sacrum saxumque sto, nec quid faciam scio.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h61
+:END:
+
+Do tibi operam, Aristophontes, si quid est quod me velis.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h62
+:END:
+
+Ex me audibis vera quae nunc falsa opinare, Hegio.
+sed hoc primúm, me expurigare tibi volo, me insaniam
+neque tenere neque mi esse ullum morbum, nisi quod servio.
+at ita me rex deorum atque hominum faxit patriae compotem,
+
+ut istic Philocrates non magis est quam aut ego aut tu.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h63
+:END:
+
+Eho dic mihi,
+quis illic igitur est?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h64
+:END:
+
+Quem dudum dixi a principio tibi.
+hoc si secus reperies, nullam causam dico quin mihi
+et parentum et libertatis apud te deliquio siet.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h65
+:END:
+
+Quid tu ais?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h66
+:END:
+
+Me tuom esse servom et te meum erum.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h67
+:END:
+
+Haud istuc rogo.
+
+fuistin liber?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h68
+:END:
+
+Fui.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h69
+:END:
+
+Enim vero non fuit, nugas agit.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h70
+:END:
+
+Qui tu scis? an tu fortasse fuisti meae matri obstetrix,
+qui id tam audacter dicere audes?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h71
+:END:
+
+Puerum te vidi puer.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h72
+:END:
+
+At ego te video maior maiorem: ém rursum tibi.
+meam rem non cures, si recte facias. num ego curo tuam?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h73
+:END:
+
+Fuitne huic patér Thensaurochrysonicochrysides?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h74
+:END:
+
+Non fuit, neque ego istuc nomen umquam audivi ante hunc diem.
+Philocrati Theodoromedes fuit pater.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h75
+:END:
+
+Pereo probe.
+quin quiescis? i dierectum cor meum, ac suspende te.
+tu sussultas, ego miser vix asto prae formidine.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h76
+:END:
+
+Satin istuc mihi exquisitum est, fuisse hunc servom in Alide
+neque esse hunc Philocratem?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h77
+:END:
+
+Tam satis quam numquam hoc invenies secus.
+sed ubi is nunc est?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h78
+:END:
+
+Vbi ego minime atque ipsus se volt maxume.
+sed vide sis.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h79
+:END:
+
+Quin exploratum dico et provisum hoc tibi.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h80
+:END:
+
+Certon?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h81
+:END:
+
+Quin nihil, inquam, invenies magis hoc certo certius.
+
+Philocrates iam inde usque amicus fuit mihi a puero puer.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h82
+:END:
+
+Tum igitur ego deruncinatus, deartuatus sum miser
+huius scelesti techinis, qui me ut lubitum est ductavit dolis.
+sed qua faciest tuos sodalis Philocrates?
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h24-h83
+:END:
+
+Dicam tibi:
+macilento ore, naso acuto, corpore albo, oculis nigris,
+
+subrufus aliquantum, crispus, cincinnatus.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h84
+:END:
+
+Convenit.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h85
+:END:
+
+Vt quidem hercle in medium ego hodie pessume processerim.
+vae illis virgis miseris, quae hodie in tergo morientur meo.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h86
+:END:
+
+Verba mihi data esse video.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h87
+:END:
+
+Quid cessatis, compedes,
+currere ad me meaque amplecti crura, ut vos custodiam?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h24-h88
+:END:
+
+Satin med illi hodie scelesti capti ceperunt dolo?
+illic servom se assimulabat, hic sese autem liberum.
+nuculeum amisi, retinui pignori putamina.
+ita mihi stólido sursum versum os sublevere offuciis.
+hic quidem mé numquam irridebit. Colaphe, Cordalio, Corax,
+
+ite istinc, ecferte lora.
+
+** Colaphvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h89
+:END:
+
+Num lignatum mittimur?
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+* 659
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h1
+:END:
+
+Inícite huic manicas  [lost]  mastigiae.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h2
+:END:
+
+Quid hoc ést negoti? quid ego deliqui?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h3
+:END:
+
+Rogas,
+sator sartorque scelerum, et messor maxume?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h4
+:END:
+
+Non occatorem dicere audebas prius?
+
+nam semper occant prius quam sariunt rustici.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h5
+:END:
+
+At ut cónfidenter  [lost]  mihi contra astitit.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h6
+:END:
+
+Decet innocentem servom átque innoxium
+confidentem esse, suom apud erum potissimum.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h7
+:END:
+
+Adstringite isti sultis vehementer manus.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h8
+:END:
+
+Tuós sum, tu has quidem vel praecidi iube.
+sed quid negoti est, quam ob rem suscenses mihi?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h9
+:END:
+
+Quia me meamque rem, quod in te uno fuit,
+tuis scelestis falsidicis fallaciis
+deartuasti dilaceravisti atque opes
+
+confecisti omnes, res ac rationes meas:
+ita mi exemisti Philocratem fallaciis.
+illum esse servom credidi, te liberum;
+ita vosmet aiebatis itaque nomina
+inter vos permutastis.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h10
+:END:
+
+Fateor, omnia
+
+facta esse ita ut tu dicis, et fallaciis
+abiisse eum abs te mea opera atque astutia;
+an, obsecro hercle te, id nunc suscenses mihi?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h11
+:END:
+
+At cum cruciatu maxumo id factumst tuo.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h12
+:END:
+
+Dum ne ob male facta, peream, parvi aestumo.
+
+si ego hic peribo, ast ille ut dixit non redit,
+at erit mi hoc factum mortuo memorabile,
+me meum erum captum ex servitute atque hostibus
+reducem fecisse liberum in patriam ad patrem,
+meumque potius me caput periculo
+
+praeoptavisse, quam is periret, ponere.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h13
+:END:
+
+Facito ergo ut Acherunti clueas gloria.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h14
+:END:
+
+Qui per virtutem, periit, at non interit.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h15
+:END:
+
+Quando ego te exemplis pessumis cruciavero
+atque ob sutelas tuas te morti misero,
+
+vel te interiisse vel periisse praedicent;
+dum pereas, nihil intererit: dicant vivere.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h16
+:END:
+
+Pol si istuc faxis, haud sine poena feceris,
+si ille huc rebitet, sicut confido affore.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h26-h17
+:END:
+
+Pro di immortales, nunc ego teneo, nunc scio
+
+quid hoc sít negoti. meus sodalis Philocrates
+in libertate est ad patrem in patria. bene est,
+nec quisquam est mihi, aeque melius cui velim.
+sed hoc mihi aegre est, me huic dedisse operam malam,
+qui nunc propter me meaque verba vinctus est.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h18
+:END:
+
+Votuin te quicquam mi hodie falsum proloqui?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h19
+:END:
+
+Votuisti.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h20
+:END:
+
+Cur es ausus mentiri mihi?
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h21
+:END:
+
+Quia vera obessent illi quoi operam dabam:
+nunc falsa prosunt.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h22
+:END:
+
+At tibi oberunt.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h23
+:END:
+
+Optumest.
+at erum servavi, quem servatum gaudeo,
+
+cui me custodem addiderat erus maior meus.
+sed malene id factum árbitrare?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h24
+:END:
+
+Pessume.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h25
+:END:
+
+At ego aio recte, qui abs te sorsum sentio.
+nam cogitato, si quis hoc gnato tuo
+tuos servos faxit, qualem haberes gratiam?
+
+emitteresne necne eum servom manu?
+essetne apud te is servos acceptissimus?
+responde.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h26
+:END:
+
+Opinor.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h27
+:END:
+
+Cur ergo iratus mihi es?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h28
+:END:
+
+Quia illi fuisti quam mihi fidelior.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h29
+:END:
+
+Quid? tu una nocte postulavisti et die
+
+recens captum hominem, nuperum novicium,
+te perdocere ut melius consulerem tibi,
+quam illi, quicum una a puero aetatem exegeram?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h30
+:END:
+
+Ergo ab eo petito gratiam istam. ducite,
+ubi ponderosas crassas capiat compedes.
+
+inde ibis porro in latomias lapidarias.
+ibi quom alii octonos lapides effodiunt, nisi
+cotidiano sesquiopus confeceris,
+Sescentoplago nomen indetur tibi.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h26-h31
+:END:
+
+Per deos atque homines ego te obtestor, Hegio,
+
+ne tu istunc hominem perduis.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h32
+:END:
+
+Curabitur;
+nam noctu nervo vinctus custodibitur,
+interdius sub terra lapides eximet:
+diu ego húnc cruciabo, non uno absolvam die.
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h26-h33
+:END:
+
+Certumne est tíbi istuc?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h34
+:END:
+
+Non moriri certius.
+
+abducite istum actutum ad Hippolytum fabrum,
+iubete huic crassas compedes impingier;
+inde extra portam ad meum libertum Cordalum
+in lapicidinas facite deductus siet:
+atque hunc me velle dicite ita curarier,
+
+ne qui deterius huic sit quam cui pessume est.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h35
+:END:
+
+Cur ego te invito me esse salvom postulem?
+periclum vitae meae tuo stat periculo.
+post mortem in morte nihil est quod metuam mali.
+etsi pervivo usque ad summam aetatem, tamen
+
+breve spatium est perferundi quae minitas mihi.
+vale atque salve, etsi aliter ut dicam meres.
+tu, Aristophontes, de me ut meruisti, ita vale;
+nam mihi propter te hoc optigit.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h36
+:END:
+
+Abducite.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h37
+:END:
+
+At unum hoc quaeso, si huc rebitet Philocrates,
+
+ut mi eius facias conveniundi copiam.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h38
+:END:
+
+Periistis, nisi hunc iam e conspectu abducitis.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h39
+:END:
+
+Vis haec quidem hercle est, et trahi et trudi simul.—
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h26-h40
+:END:
+
+Illic ést abductus recta in phylacam, ut dignus est.
+ego illís captivis aliis documentum dabo,
+
+ne tale quisquam facinus incipere audeat.
+quod absque hoc esset, qui mihi hoc fecit palam,
+usque offrenatum suis me ductarent dolis.
+nunc certum est nulli posthac quicquam credere.
+satis súm semel deceptus. speravi miser
+
+ex servitute me exemisse filium:
+ea spes elapsa est. perdidi unum filium,
+puerum quadrimum quem mihi servos surpuit,
+neque eum servom umquam repperi neque filium;
+maior potitus hostium est. quod hoc ést scelus?
+
+quasi in orbitatem liberos produxerim.
+sequere hac. reducam te ubi fuisti. neminis
+miserere certum est, quia mei miseret neminem.—
+
+** Aristophontes
+:PROPERTIES:
+:CUSTOM_ID: h26-h41
+:END:
+
+Exauspicavi ex vinclis. nunc intellego
+redauspicandum esse in catenas denuo.—
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 768
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h1
+:END:
+
+Iúppiter supreme, servas me measque auges opes,
+máximas opimitates opiparasque offers mihi,
+laudém lucrum, ludum iocum, festivitatem ferias,
+pompám penum, potationis saturitatem, gaudium,
+
+néc cuiquam homini supplicare  [lost]  nunc certum est mihi;
+nam vél prodesse amico possum vel inimicum perdere,
+ita híc me amoenitate amoena amoenus oneravit dies.
+síne sacris hereditatem sum aptus effertissimam.
+nunc ád senem cursum capessam hunc Hegionem, cui boni
+
+tantum affero quantum ipsus a dis optat, atque etiam amplius.
+nunc cérta res est, eodem pacto ut comici servi solent
+coníciam in collum pallium, primo ex med hanc rem ut audiat;
+speróque me ob hunc nuntium aetérnum adepturum cibum.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+* 781
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h1
+:END:
+
+Quanto ín pectore hánc rem meó magis volúto,
+tanto mi aegritudo auctiór est in animo.
+ad illum modum sublitum os esse mi hodie!
+neque íd perspicere quivi.
+
+quod cúm scibitúr, tum per úrbem inridébor.
+cum extemplo ad forum advenero, omnes loquentur:
+/hic illest senex doctus, quoi verba data sunt./
+sed Ergasilus estne hic, procúl quem video?
+conlécto quidem est pallio. quidnam acturust?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h2
+:END:
+
+Move áps te moram átque, Ergásile, age hanc rem.
+éminor interminorque, ne mi obstiterit obviam
+nisi quis satis diu vixisse sese homo arbitrabitur.
+nam qui obstiterit, ore sistet.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h3
+:END:
+
+Hic homo pugilatum incipit.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h4
+:END:
+
+Facere certumst. proinde ita omnes itinera insistant sua,
+
+ne quis in hanc plateam negoti conferat quicquam sui.
+nam meus est ballista pugnus, cubitus catapultast mihi,
+umerus aries, tum genu quemque icero ad terram dabo,
+dentilegos omnes mortales faciam, quemque offendero.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h5
+:END:
+
+Quae illaec eminatiost nam? nequeo mirari satis.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h6
+:END:
+
+Faciam ut huius diei locique meique semper meminerit.
+Qui mihi in cursu opstiterit, faxo vitae is extemplo opstiterit suae.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h7
+:END:
+
+Quid hic homo tantum incipissit facere cum tantis minis?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h8
+:END:
+
+Prius edico, ne quis propter culpam capiatur suam:
+continete vos domi, prohibete a vobis vim meam.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h9
+:END:
+
+Mira edepol sunt, ní hic in ventrem sumpsit confidentiam.
+vae misero illi, cuius cibo iste factust imperiosior.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h10
+:END:
+
+Tum pistores scrofipasci, quí alunt furfuribus sues,
+quarum odore praeterire nemo pistrinum potest:
+eorum si quoiusquam scrofam in publico conspexero,
+
+ex ipsis dominis meis pugnis exculcabo furfures.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h11
+:END:
+
+Basilicas edictiones atque imperiosas habet:
+satur homost, habet profecto in ventre confidentiam.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h12
+:END:
+
+Tum piscatores, qui praebent populo pisces foetidos,
+qui advehuntur quadrupedanti crucianti cantherio,
+
+quorum odos subbasilicanos omnes abigit in forum,
+eis ego ora verberabo surpiculis piscariis,
+ut sciant, alieno naso quam exhibeant molestiam.
+tum lanii autem, qui concinnant liberis orbas oves,
+qui locant caedundos agnos et duplam agninam danunt,
+
+qui petroni nomen indunt verveci sectario,
+eum ego si in via petronem publica conspexero,
+et petronem et dominum reddam mortales miserrumos.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h13
+:END:
+
+Eugepae, edictiones aedilicias hic quidem habet,
+mirumque adeost ni hunc fecere sibi Aetóli agoranomum.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h14
+:END:
+
+Non ego nunc parasitus sum, sed regum rex regalior,
+tantus ventri commeatus meo adest in portu cibus.
+sed ego cesso hunc Hegionem onerare laetitia senem,
+quó homine hominum adaeque nemo vivit fortunatior?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h15
+:END:
+
+Quae illaec est laetitia, quam illic laetus largitur mihi?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h16
+:END:
+
+Heus ubi estis? ecquis hic est? ecquis hoc aperit ostium?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h17
+:END:
+
+Hic homo ad cenam recipit se ad me.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h18
+:END:
+
+Áperite hasce ambas fores
+prius quam pultando assulatim foribus exitium adfero.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h19
+:END:
+
+Perlúbet hunc hominem colloqui. Ergásile.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h20
+:END:
+
+Ergasilum qui vocat?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h21
+:END:
+
+Respíce.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h22
+:END:
+
+Fortuna quod tibi nec fácit nec faciet, me iubes.
+
+séd quis est?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h23
+:END:
+
+Réspice ad me, Hégio sum.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h24
+:END:
+
+Óh mihi,
+quántum est hominum óptumorum óptume, in témpore advenis.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h25
+:END:
+
+Nescío quem ad portum náctus es ubi cénes, eo fastídis.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h26
+:END:
+
+Cédo manum.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h27
+:END:
+
+Manum?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h28
+:END:
+
+Manum, inquam, cedo tuam actutum.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h29
+:END:
+
+Tene.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h30
+:END:
+
+Gaude.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h31
+:END:
+
+Quid ego gaudeam?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h32
+:END:
+
+Quia ego impero, age gaude modo.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h33
+:END:
+
+Pol maerores mi antevortunt gaudiis.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h34
+:END:
+
+Noli irascier
+iám ego ex corpore exigam omnis maculas maerorum tibi.
+gaude audacter.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h35
+:END:
+
+Gaudeo, etsi nil scio quod gaudeam.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h36
+:END:
+
+Bene facis. iubé—
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h37
+:END:
+
+Quid iubeam?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h38
+:END:
+
+Ignem ingentem fieri.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h39
+:END:
+
+Ignem ingentem?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h40
+:END:
+
+Ita dico, magnus ut sit.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h41
+:END:
+
+Quid? me, volturi,
+
+tuan causa aedis incensurum censes?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h42
+:END:
+
+Noli irascier.
+iuben an non iubes astitui aúlas, patinas elui,
+† laridum atque epulas foveri foculis ferventibus?
+alium pisces praestinatum abire?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h43
+:END:
+
+Hic vigilans somniat.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h44
+:END:
+
+Alium porcinam atque agninam et pullos gallinaceos?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h45
+:END:
+
+Scis bene esse, si sit unde.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h46
+:END:
+
+† Pernam atque ophthalmiam,
+horaeum, scombrum et trygonum et cetum, et mollem caseum?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h47
+:END:
+
+Nominandi istorum tibi erit magis quam edundi copia
+hic apud me, Ergasile.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h48
+:END:
+
+Mean me causa hoc censes dicere?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h49
+:END:
+
+Nec nihil hodie nec multo plus tu hic edes, ne frustra sis.
+
+proin tu tui cottidiani victi ventrem ad me afferas.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h50
+:END:
+
+Quin ita faciam, ut tute cupias facere sumptum, etsi ego vetem.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h51
+:END:
+
+Egone?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h52
+:END:
+
+Tune.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h53
+:END:
+
+Tum tu mi igitur erus es.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h54
+:END:
+
+Immo benevolens.
+vin te faciam fortunatum?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h55
+:END:
+
+Malim quam miserum quidem.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h56
+:END:
+
+Cedo manum.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h57
+:END:
+
+Em manum.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h58
+:END:
+
+Di te omnes adiuvant.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h59
+:END:
+
+Nil sentio.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h60
+:END:
+
+Non enim es in senticeto, eo non sentis. sed iube
+vasa tibi pura apparari ád rem divinam cito,
+atque agnum afferri proprium pinguem.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h61
+:END:
+
+Cur?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h62
+:END:
+
+Vt sacrufices.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h63
+:END:
+
+Cui deorum?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h64
+:END:
+
+Mi hercle, nam égo nunc tibi sum summus Iuppiter,
+idem ego sum Salus, Fortuna, Lux, Laetitia, Gaudium.
+
+proin tu deum hunc saturitate facias tranquillum tibi.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h65
+:END:
+
+Esurire mihi videre.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h66
+:END:
+
+Mi quidem esurio, non tibi.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h67
+:END:
+
+Tuo arbitratu, facile patior.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h68
+:END:
+
+Credo, consuetu's consuetus es   puer.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h69
+:END:
+
+Iuppiter te dique perdant.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h70
+:END:
+
+Te hercle—mi aequom est gratias
+agere ob nuntium; tantum ego nunc porto a portu tibi boni:
+
+nunc tu mihi places.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h71
+:END:
+
+Abi, stultu's stultus es  , sero post tempus venis.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h72
+:END:
+
+Igitur olim si advenissem, magis tu tum istuc diceres;
+nunc hanc laetitiam accipe a me, quam fero. nam filium
+tuom modo in portu Philopolemum vivom, salvom et sospitem
+vidi in publica celoce, ibidémque illum adulescentulum
+
+Aleum una et tuom Stalagmum servom, qui aufugit domo,
+qui tibi surripuit quadrimum puerum filiolum tuom.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h73
+:END:
+
+Abi in malam rem, ludis me.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h74
+:END:
+
+Ita me amabit sancta Saturitas,
+Hegio, itaque suo me semper condecoret cognomine,
+ut ego vidi.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h75
+:END:
+
+Meum gnatum?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h76
+:END:
+
+Tuom gnatum et genium meum.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h77
+:END:
+
+Et captivom illum Alidensem?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h78
+:END:
+
+μὰ τὸν Ἀπόλλω.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h79
+:END:
+
+Et servolum
+meum Stalagmum, meum qui gnatum surripuit?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h80
+:END:
+
+ναὶ τὰν κόραν.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h81
+:END:
+
+Iam credo?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h82
+:END:
+
+ναὶ τὰν πραινέστην.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h83
+:END:
+
+Venit?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h84
+:END:
+
+ναὶ τὰν σιγνίαν.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h85
+:END:
+
+Certon?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h86
+:END:
+
+ναὶ τὸν  φρουσινῶνα.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h87
+:END:
+
+Vide sis.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h88
+:END:
+
+ναὶ τὸν  Ἀλάτριον.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h89
+:END:
+
+Quid tu per barbaricas urbes iuras?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h90
+:END:
+
+Quia enim item asperae
+
+sunt ut tuom victum autumabas esse.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h91
+:END:
+
+Vae aetati tuae.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h92
+:END:
+
+Quippe quando mihi nil credis, quod ego dico sedulo.
+sed Stalagmus quoius erat tunc nationis, cum hinc abit?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h93
+:END:
+
+Siculus.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h94
+:END:
+
+At nunc Siculus non est, Boius est, Boiam terit:
+liberorum quaerundorum causa ei, credo, uxor datast.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h95
+:END:
+
+Dic, bonan fide tu mi istaec verba dixisti?
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h96
+:END:
+
+Bona.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h97
+:END:
+
+Di immortales, iterum gnatus videor, si vera autumas.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h98
+:END:
+
+Ain tu? dubium habebis etiam, sancte quom ego iurem tibi?
+postremo, Hegio, si parva iuri iurandost fides,
+vise ad portum.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h99
+:END:
+
+Facere certumst. tu intus cura quod opus est.
+
+sume, posce, prome quid vis. te facio cellarium.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h100
+:END:
+
+Nam hercle, nisi mantiscinatus probe ero, fusti pectito.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h101
+:END:
+
+Aeternum tibi dapinabo victum, si vera autumas.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h102
+:END:
+
+Vnde id?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h103
+:END:
+
+A me meoque gnato.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h104
+:END:
+
+Sponden tu istud?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h105
+:END:
+
+Spondeo.
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h106
+:END:
+
+At ego tuom tibi advenisse filium respondeo.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h31-h107
+:END:
+
+Cura quam optume potes.—
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h108
+:END:
+
+Bene ambula et redambula.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+* 901
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+** Ergasilvs
+:PROPERTIES:
+:CUSTOM_ID: h33-h1
+:END:
+
+illic hinc abiit, mihi rem summam credidit cibariam.
+di immortales, iam ut ego collos praetruncabo tegoribus,
+quanta pernis pestis veniet, quanta labes larido,
+quanta sumini absumedo, quanta callo calamitas,
+
+quanta laniis lassitudo, quanta porcinariis.
+nam si alia memorem, quae ad ventris victum conducunt, morast.
+nunc ibo, ut pro praefectura mea ius dicam larido,
+et quae pendent indemnatae pernae, eis auxilium ut feram.—
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+* 909
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+** Pver
+:PROPERTIES:
+:CUSTOM_ID: h35-h1
+:END:
+
+Diéspiter te dique, Ergasile, perdant et ventrem tuom,
+parasítosque omnis, et qui posthac cenam parasitis dabit.
+cladés calamitasque, intemperies módo in nostram advenit domum.
+quasi lúpus esuriens ille metui ne in me faceret impetum.
+
+ubi  [lost]  impetum
+nimisque hércle ego illum male formidabam, ita frendebat dentibus.
+advéniens deturbavit totum cum carne carnarium:
+arrípuit gladium, praetruncavit tribus tegoribus glandia;
+aulás calicesque omnes confregit, nisi quae modiales erant.
+
+cocum pércontabatur, possentne seriae fervescere.
+cellás refregit omnis intus reclusitque armarium.
+adsérvate istunc, sultis, servi. ego ibo, ut conveniam senem,
+dicam út sibi penum alium adornet, siquidem sese uti volet;
+nam híc quidém, ut adornat, aut iam nihil est aut iam nihil erit.—
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 922
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+Ioví disque agó gratiás merito mágnas,
+quom reducem tuo te patri reddiderunt
+quomque ex miseriis plurimis me exemerunt,
+† quae adhuc carens dum huc fui sustentabam,
+
+quomque hunc conspicor in potestate nostra,
+quomque huius reperta est fides firma nobis.
+
+** Philopolemvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+Sátis iam dolui ex ánimo, et cura mé satis et lacrumis máceravi,
+sátis iam audivi tuás aerumnas, ád portum mihi quás memorasti.
+hóc agamus.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+Quid nunc, quoniam tecum servavi fidem
+
+tibique hunc reducem in libertatem feci?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+Fecisti ut tibi,
+Philocrates, numquam referre gratiam possim satis,
+proinde ut tu promeritu's promeritus es   de me et filio.
+
+** Philopolemvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h5
+:END:
+
+Immo potes,
+pater, et poteris et ego potero, et dí eam potestatem dabunt
+ut beneficium bene merenti nostro merito muneres;
+
+sicut nunc potes, pater mi, facere merito maxume.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h38-h6
+:END:
+
+Quid opust verbis? lingua nullast qua negem quidquid roges.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h38-h7
+:END:
+
+Postulo abs te, ut mi illum reddas servom, quem hic reliqueram
+pignus pro me, qui mihi melior quam sibi semper fuit,
+pro bene factis eius ut ei pretium possim reddere.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h38-h8
+:END:
+
+Quod bene fecisti referetur gratia id quod postulas;
+et id et aliud, quod me orabis, impetrabis. atque te
+nolim suscensere quod ego iratus ei feci male.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h38-h9
+:END:
+
+Quid fecisti?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h38-h10
+:END:
+
+In lapicidinas compeditum condidi,
+ubi rescivi mihi data esse verba.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h38-h11
+:END:
+
+Vae misero mihi,
+
+propter meum caput labores homini evenisse optumo.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h38-h12
+:END:
+
+At ob eam rem mihi libellam pró eo argenti ne duis:
+gratiis a me, ut sit liber, ducito.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h38-h13
+:END:
+
+Edepol, Hegio,
+facis benigne. sed quaeso, hominem ut iubeas arcessi.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h38-h14
+:END:
+
+Licet.
+ubi estís vos? ite actutum, Tyndarum huc arcessite.
+
+vos ite intro. interibi ego ex hac statua verberea volo
+erogitare, meo minore quid sit factum filio.
+vos lavate interibi.
+
+** Philopolemvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h15
+:END:
+
+Sequere hac, Philocrates, me intro.—
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h38-h16
+:END:
+
+Sequor.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 954
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+Age tu illuc procede, bone vir, lepidum mancupium meum.
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h2
+:END:
+
+Quid me oportet facere, ubi tu talis vir falsum autumas?
+fui ego bellus, lepidus: bonus vir numquam, neque frugi bonae,
+neque ero umquam, ne erres: spem ponas me bonae frugi fore.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h40-h3
+:END:
+
+Propemodum ubi loci fortunae tuae sint facile intellegis.
+sí eris verax, tua ex re, facies ex mala meliusculam.
+recte et vera loquere, sed neque vere neque tu recte adhuc
+fecisti umquam.
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h4
+:END:
+
+Quod ego fatear, credin pudeat cum autumes?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h40-h5
+:END:
+
+At ego faciam ut pudeat, nam in ruborem te totum dabo.
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h6
+:END:
+
+Eia, credo ego imperito plagas minitaris mihi.
+tandem ista aufer ac dic quid fers, ut feras hinc quod petis.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h40-h7
+:END:
+
+Satis facundu's facundus es  . sed iam fieri dicta compendi volo.
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h8
+:END:
+
+Vt vis fiat.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h40-h9
+:END:
+
+Bene morigerus fuit puer, nunc non decet.
+hoc agamus. iam animum advorte ac mihi quae dicam edissere.
+
+sí eris verax, ex tuis rebus feceris meliusculas.
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h10
+:END:
+
+Nugae istaec sunt. non me censes scire quid dignus siem?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h40-h11
+:END:
+
+At ea subterfugere potis es pauca, si non omnia.
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h12
+:END:
+
+Pauca effugiam, scio; nam multa evenient, et merito meo,
+quia et fugi et tibi surripui filium et eum vendidi.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h40-h13
+:END:
+
+Cui homini?
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h14
+:END:
+
+Theodoromedi in Alide Polyplusio,
+sex minis.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h40-h15
+:END:
+
+Pro di immortales, is quidem huius est pater
+Philocrati.
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h16
+:END:
+
+Quin melius novi quam tu et vidi saepius.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h40-h17
+:END:
+
+Serva, Iuppiter supreme, et me et meum gnatum mihi.
+Philocrates, per tuom te genium óbsecro, exi, te volo.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 978
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+Hegio, assum. si quid me vis, impera.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+Hic gnatum meum
+tuo patri ait se vendidisse sex minis in Alide.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+Quam diu id factum est?
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+Hic annus incipit vicensimus.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+Falsa memorat.
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+Aut ego aut tu. nam tibi quadrimulum
+
+tuos pater peculiarem parvolo puero dedit.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h42-h7
+:END:
+
+Quid erat ei nomen? si vera dicis, memoradum mihi.
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h8
+:END:
+
+Paegnium vocitatust, post vos indidistis Tyndaro.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h42-h9
+:END:
+
+Cur ego te non novi?
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h10
+:END:
+
+Quia mos est oblivisci hominibus
+neque novisse cuius nihili sit faciunda gratia.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h42-h11
+:END:
+
+Dic mihi, isne istíc fuit, quem vendidisti meo patri,
+qui mihi peculiaris datus est?
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h12
+:END:
+
+Huius filius.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h42-h13
+:END:
+
+Vivitne is homo?
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h14
+:END:
+
+Argentum accepi, nil curavi ceterum.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h42-h15
+:END:
+
+Quid tu ais?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h42-h16
+:END:
+
+Quin istic ipsust Tyndarus tuos filius,
+ut quidem hic árgumenta loquitur. nam is mecum a puero puer
+
+bene pudiceque educatust usque ad adulescentiam.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h42-h17
+:END:
+
+Et miser sum et fortunatus, si vos vera dicitis;
+eo miser sum quia male illi feci, si gnatust meus.
+eheu, quóm ego plus minusve feci quam me aequom fuit.
+quod male feci crucior; modo si infectum fieri possiet.
+
+sed eccum incedit huc ornatus haúd ex suis virtutibus.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 998
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h1
+:END:
+
+Vidi ego multa saepe picta, quae Acherunti fierent
+cruciamenta, verum enim vero nulla adaeque est Acheruns
+atque ubi ego fui, in lapicidinis. illic ibi demumst locus,
+ubi labore lassitudo est exigunda ex corpore.
+
+nam ubi illo adveni, quasi patriciis pueris aut monerulae,
+aut anites aut coturnices dantur, quicum lusitent,
+itidem mi haec advenienti upupa, qui me delectem, datast.
+sed erus eccum ante ostium, et erus alter eccum ex Alide
+rediit.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h44-h2
+:END:
+
+Salve, éxoptate gnate mi.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h3
+:END:
+
+Hem, quid gnate mi?
+
+attat, scio cur te patrem adsimules esse et me filium:
+quia mi item ut parentes lucis das tuendi copiam.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h44-h4
+:END:
+
+Salve, Tyndare.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h5
+:END:
+
+Et tu, quoius causa hanc aerumnam exigo.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h44-h6
+:END:
+
+At nunc liber in divitias faxo venies. nam tibi
+pater hic est; hic servos, qui te huic hinc quadrimum surpuit,
+
+vendidit patri meo te sex minis, is te mihi
+parvolum peculiarem parvolo puero dedit:
+illic indícium fecit; nam hunc ex Alide huc reduximus.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h7
+:END:
+
+Quid huius filium?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h44-h8
+:END:
+
+Intus eccum fratrem germanum tuom.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h9
+:END:
+
+Quid tu ais? adduxtin illum huius captivom filium?
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h44-h10
+:END:
+
+Quin, inquam, intus hic est.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h11
+:END:
+
+Fecisti edepol et recte et bene.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h44-h12
+:END:
+
+Nunc tibi páter hic est: hic fur est tuos, qui parvom hinc te abstulit.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h13
+:END:
+
+At ego hunc grandis grandem natu ob furtum ad carnificem dabo.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h44-h14
+:END:
+
+Meritus est.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h15
+:END:
+
+Ergo edepol merito meritam mercedem dabo.
+sed tu dic oro: pater meus tune es?
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h44-h16
+:END:
+
+Ego sum, gnate mi.
+
+** Tyndarvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h17
+:END:
+
+Nunc demum in memoriam redeo, cum mecum recogito.
+nunc edepol demum in memoriam regredior, audisse me
+quasi per nebulam, Hégionem meum patrem vocarier.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h44-h18
+:END:
+
+Is ego sum.
+
+** Philocrates
+:PROPERTIES:
+:CUSTOM_ID: h44-h19
+:END:
+
+Compedibus quaeso ut tibi sit levior filius
+atque huic gravior servos.
+
+** Hegio
+:PROPERTIES:
+:CUSTOM_ID: h44-h20
+:END:
+
+Certum est principio id praevortier.
+
+eamus intro, ut arcessatur faber, ut istas compedes
+tibi adimam, huic dem.
+
+** Stalagmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h21
+:END:
+
+Quoi peculi nihil est, recte feceris.
+
+** Caterva
+:PROPERTIES:
+:CUSTOM_ID: h44-h22
+:END:
+
+Spectatores, ad pudicos mores facta haec fabula est,
+neque in hac subigitationes sunt neque ulla amatio
+nec pueri suppositio nec argénti circumductio,
+
+neque ubi amans adulescens scortum liberet clam suom patrem.
+huius modi paucas poetae reperiunt comoedias,
+ubi boni meliores fiant. nunc vos, si vobis placet
+et si placuimus neque odio fuimus, signum hoc mittite:
+qui pudicitiae esse voltis praemium, plausum date.

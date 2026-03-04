@@ -1,0 +1,18 @@
+#+TITLE: Τοῦ ἁγίου Γρηγορίου ἐπισκόπου Νύσσης, ἐν τῆς πρὸς Φίλιππον μονάζοντα ἐπιστολῆς.
+#+AUTHOR: Γρηγόριος Νύσσης
+#+FILETAGS: :patristic:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-philippum-monachum--gregory-of-nyssa
+#+LANGUAGE: el
+
+* Τοῦ ἁγίου Γρηγορίου ἐπισκόπου Νύσσης, ἐν τῆς πρὸς Φίλιππον μονάζοντα ἐπιστολῆς.
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Τὰ μὲν ὁμοούσια ταυτότητα κέκτηται· τὰ δὲ ἑτεροούσια τὸ ἀνάπαλιν. Κἂν γὰρ
+ἀῤῥήτῳ ἐνώσει τὰ ἀμφότερα ἐν, ἀλλ' οὐ τῇ φύσει, διὰ τὸ ἀσύγχυτον. Ὁ τοίνυν
+Χριστὸς δύο ὑπάρχων φύσεις, ἀλλ' ἐν αὐταῖς ἀληθῶς γνωριζόμενος. μοναδικὸν ἔχει
+τῆς υἱότητος τὸ πρόσωπον.

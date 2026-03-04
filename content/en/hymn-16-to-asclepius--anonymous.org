@@ -1,0 +1,20 @@
+#+TITLE: Hymn 16 To Asclepius
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-16-to-asclepius--anonymous
+
+#+BEGIN_QUOTE
+Hymn 16 To Asclepius translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+I begin to sing of Asclepius, son of Apollo and healer of sicknesses. In the Dotian
+plain fair Coronis, daughter of King Phlegyas, bare him, a great joy to men, a soother of
+cruel pangs.
+And so hail to you, lord: in my song I make my prayer to thee!

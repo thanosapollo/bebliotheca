@@ -1,0 +1,17 @@
+#+TITLE: Phm
+#+AUTHOR: Σεβηριανὸς Γαβάλων
+#+FILETAGS: :patristic:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-epistulam-ad-philemonem--severianus-of-gabala
+#+LANGUAGE: el
+
+* Phm
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+1,1 Ἐν πολλαῖς ἐπιστολαῖς ξένον τίθησι ῥῆμα τοῦ μέλλοντος εἰσάγεσθαι λόγου
+κατασκευαστικόν, καὶ νῦν ἐπειδὴ ἔμελλεν ἀξιοῦν ὑπὲρ Ὀνησίμου τῇ ἑαυτοῦ ἀξίᾳ–
+ἀξία δὲ αὐτοῦ τὸ δεδέσθαι–, τὸ ἀξιόπιστον τῆς παρακλήσεως δείκνυσιν.

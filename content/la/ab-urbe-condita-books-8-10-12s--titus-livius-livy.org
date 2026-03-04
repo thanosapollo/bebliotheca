@@ -1,0 +1,28 @@
+#+TITLE: Ab Urbe Condita, books 8-10 - 12s
+#+AUTHOR: Titus Livius (Livy)
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/ab-urbe-condita-books-8-10-12s--titus-livius-livy
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Ab Urbe Condita, books 8-10 - 12s edited by Benjamin Oliver Foster, Ph.D.
+#+END_QUOTE
+
+* 12s
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+cum legati Romanorum a Gallis Senonibus interfecti essent, bello ob
+id Gallis indicto, L. Caecilius praetor ab his cum legionibus caesus est.
+cum a Tarentinis classis Romana direpta esset, IIviro qui
+praeerat classi occiso, legati ad eos a senatu, ut de his iniuriis quererelitur,
+missi pulsati sunt. ob id bellum his indictum est.
+Samnites defecerunt. adversus eos et Lucanos et
+Brittios et Etruscos aliquot proeliis a conpluribus ducibus bene pugnatum est.
+Pyrrhus , Epirotarum rex, ut auxilium Tarentinis ferret, in
+Italiam venit. cum in praesidium Reginorum legio Campana cum
+praefecto Decio Vibellio missa esset, occisis Reginis Regium  occupavit.

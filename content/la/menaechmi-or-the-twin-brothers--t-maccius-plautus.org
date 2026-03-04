@@ -1,0 +1,5812 @@
+#+TITLE: Menaechmi
+#+AUTHOR: T. Maccius Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/menaechmi-or-the-twin-brothers--t-maccius-plautus
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Menaechmi edited by Friedrich Leo
+#+END_QUOTE
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** PROLOGVS
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+Salutem primum iam a principio propitiam
+mihi atque vobis, spectatores, nuntio.
+apporto vobis Plautum, lingua non manu,
+quaeso ut benignis accipiatis auribus.
+
+nunc argumentum accipite atque animum advortite;
+quam potero in verba conferam paucissuma.
+atque hoc poetae faciunt in comoediis:
+omnis res gestas esse Athenis autumant,
+quo íllud vobis graecum videatur magis;
+
+ego nusquam dicam nisi ubi factum dicitur.
+atque adeo hoc argumentum graecissat, tamen
+non atticissat, verum sicilicissitat.
+huic argumento antelogium hoc fuit;
+nunc argumentum vobis demensum dabo,
+
+non modio, neque trimodio, verum ipso horreo:
+tantum ad narrandum argumentum ádest benignitas.
+mercator quidam fuit Syracusis senex,
+eí sunt nati filii gemini duo,
+ita forma simili pueri, út mater sua
+
+non internosse posset quae mammam dabat,
+neque adeo mater ipsa quae illos pepererat,
+ut quidem ille dixit mihi, qui pueros viderat:
+ego illós non vidi, ne quis vostrum censeat.
+postquam iam pueri septuennes sunt, pater
+
+oneravit navem magnam multis mercibus;
+imponit geminum álterum in navem pater,
+Tarentum avexit secum ad mercatum simul,
+illum reliquit alterum ápud matrem domi.
+Tarenti ludi forte erant, cum illuc venit.
+
+mortales multi, ut ad ludos, convenerant:
+puér aberravit inter homines a patre.
+Epidamniensis quidam ibi mercator fuit,
+is puerum tollit avehitque Epidamnium.
+pater eius autem postquam puerum perdidit,
+
+animum despondit, eaque is aegritudine
+paucis diebus post Tarenti emortuost.
+postquam Syracusas de ea re rediit nuntius
+ad avom puerorum, puerum surruptum alterum
+patremque pueri Tarenti esse emortuom,
+
+immutat nomen avos huic gemino alteri;
+ita illum dilexit, qui subruptust, alterum:
+illius nomen indit illi qui domi est,
+Menaechmo, idem quod alteri nomen fuit;
+et ipsus eodem est avos vocatus nomine
+
+(propterea illius nomen memini facilius,
+quia illúm clamore vidi flagitarier).
+ne mox erretis, iam nunc praedico prius:
+idem est ambobus nomen geminis fratribus.
+nunc in Epidamnum pedibus redeundum est mihi,
+
+ut hanc rem vobis examussim disputem.
+si quis quid vestrum Epidamnum curari sibi
+velit, audacter imperato et dicito,
+sed ita ut det unde curari id possit sibi.
+nam nisi qui argentum dederit, nugas egerit;
+
+qui dederit, magis maiores nugas egerit.
+verum illuc redeo unde abii, atque uno asto in loco.
+Epidamniensis ille, quem dúdum dixeram,
+geminum illum puerum qui surrupuit alterum,
+ei liberorum, nisi divitiae, nil erat:
+
+adoptat illum puerum surrupticium
+sibi filium eique uxorem dotatam dedit,
+eumque heredem fecit, quom ipse obiit diem.
+nam rus ut ibat forte, ut multum pluerat,
+ingressus fluvium rapidum ab urbe haud longule,
+
+rapidus raptori pueri subduxit pedes
+abstraxitque hominem in maximam malam crucem.
+illi divitiae evenerunt maximae.
+is illic habitat geminus surrupticius.
+nunc ille geminus, qui Syracusis habet,
+
+hodie in Epidamnum veniet cum servo suo
+hunc quaeritatum geminum germanum suom.
+haec urbs Epidamnus est, dum haec agitur fabula:
+quando alia agetur, aliud fiet oppidum;
+sicut familiae quoque solent mutarier:
+
+modo †ni caditat leno, modo adulescens, modo senex,
+pauper, mendicus, rex, parasitus, hariolus
+[omitted]
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 77
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+Iuventus nomen fecit Peniculo mihi,
+ideo quia mensam, quando edo, detergeo.
+homines captivos qui catenis vinciunt
+et qui fugitivis servis indunt compedes,
+
+nimis stúlte faciunt mea quidem sententia.
+nam homini misero si ad malum accedit malum,
+maior lubido est fugere et facere nequiter.
+nam se ex catenis eximunt aliquo modo.
+tum compediti ánum lima praeterunt
+
+aut lapide excutiunt clavom. nugae sunt eae.
+quem tu adservare recte, ne aufugiat, voles,
+esca atque potione vinciri decet.
+apud ménsam plenam homini rostrum deliges;
+dum tu illi quod edit et quod potet praebeas,
+
+suo arbitratu ádfatim cottidie,
+numquam edepol fugiet, tam etsi capital fecerit,
+facile adservabis, dúm eo vinclo vincies.
+ita istaéc nimis lenta vincla sunt escaria:
+quam magis extendas, tanto adstringunt artius.
+
+nam ego ad Menaechmum húnc eo, quo iam diu
+sum iudicatus; ultro eo ut me vinciat.
+nam illic homo homines non alit, verum educat,
+recreatque: nullus melius medicinam facit.
+ita est adulescens; ipsus escae maxumae
+
+cerialis cenas dat, ita mensas exstruit,
+tantas struices concinnat patinarias:
+standumst in lecto, si quid de summo petas.
+sed mi intervallum iam hos dies multos fuit:
+domi domítus sum usque cum caris meis.
+
+nam neque edo neque emo nisi quod est carissumum.
+id quoque iam, cari qui instruontur deserunt.
+nunc ad eum inviso. sed aperitur ostium.
+Menaechmum eccum ipsum video, progreditur foras.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+* 110
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+Ní mala, ni stúlta sies, ni índomita impósque animi,
+quód viro esse odió videas, túte tibi odio habeas.
+praéterhac sí mihi tále post húnc diem
+fáxis, faxó foris vídua visás patrem.
+
+nám quotiens foras íre volo, mé retines, revocás, rogitas,
+quó ego eam, quám rem agam, quíd negotí geram,
+quíd petam, quid feram, quíd foris egerim.
+portitorem domum duxi, ita omnem mihi
+rem necesse eloqui est, quidquid egi atque ago.
+
+nímium ego te habui délicatam; núnc adeo ut factúrus dicam.
+quando égo tibi ancillás, penum,
+lanam, aurum, vestem, purpuram bene praebeo nec quicquam eges,
+malo cavebis si sapis,
+virum observare desines.
+átque adeo, ne me nequiquam serves, ob eam industriam
+hodie ducam scortum ad cenam atque aliquo condicam foras.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h2
+:END:
+
+Illic homo se uxori simulat male loqui, loquitur mihi;
+nam si foris cenat, profecto me, haud uxorem, ulciscitur.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h3
+:END:
+
+Euax, iurgio hercle tandem uxorem abegi ab ianua.
+ubi súnt amatores mariti? dona quid cessant mihi
+conférre omnes congratulantes, quia pugnavi fortiter?
+hánc modo uxori intus pallam surrupui, ad scortum fero.
+sic hóc decet, dari facete verba custodi catae.
+
+hoc fácinus pulchrumst, hoc probumst, hoc lepidumst, hoc factumst fabre:
+meó malo a mala abstuli hoc, ad damnum deferetur.
+avórti praedam ab hostibus nostrum salute socium.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h4
+:END:
+
+Heús adulescens, ecqua in istac pars inest praeda mihi?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h5
+:END:
+
+Perii, in insidias deveni.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h6
+:END:
+
+Immo in praesidium, ne time.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h7
+:END:
+
+Quis homo est?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h8
+:END:
+
+Ego sum.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h9
+:END:
+
+O mea Commoditas, o mea Opportunitas,
+salve.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h10
+:END:
+
+Salve.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h11
+:END:
+
+Quid agis?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h12
+:END:
+
+Teneo dextera genium meum.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h13
+:END:
+
+Non potuisti magis per tempus mi advenire quam advenis.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h14
+:END:
+
+Ita ego soleo: commoditatis omnis articulos scio.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h15
+:END:
+
+Vin tu facinus luculentum inspicere?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h16
+:END:
+
+Quis id coxit coquos?
+
+iam sciam, si quid titubatumst, ubi reliquias videro.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h17
+:END:
+
+Dic mi, enumquam tu vidisti tabulam pictam in pariete,
+ubi aquila Catameitum raperet aut ubi Venus Adoneum?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h18
+:END:
+
+Saepe. sed quid istaé picturae ad me attinent?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h19
+:END:
+
+Age me aspice.
+ecquid adsimulo similiter?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h20
+:END:
+
+Quis istest ornatus tuos?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h21
+:END:
+
+Dic hominem lepidissimum esse me.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h22
+:END:
+
+Vbi essuri sumus?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h23
+:END:
+
+Dic modo hoc quod ego te iubeo.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h24
+:END:
+
+Dico: homo lepidissime.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h25
+:END:
+
+Ecquid audes de tuo istuc addere?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h26
+:END:
+
+Atque hilarissime.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h27
+:END:
+
+Perge porro.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h28
+:END:
+
+Non pergo hercle, nisi scio qua gratia.
+litigium tibi est cum uxore, eo mi ábs te caveo cautius.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h29
+:END:
+
+Clam uxoremst ubi pulchre habeamus atque hunc comburamus diem.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h30
+:END:
+
+Age sane igitur, quando aequom oras, quam mox incendo rogum?
+dies quidem iam ad umbilicum est dimidiatus mortuos.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h31
+:END:
+
+Te morare, mihi quom obloquere.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h32
+:END:
+
+Oculum ecfodito per solum
+mihi, Menaechme, si ullum verbum faxo nisi quod iusseris.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h33
+:END:
+
+Concede huc a foribus.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h34
+:END:
+
+Fiat.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h35
+:END:
+
+Etiam concede huc.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h36
+:END:
+
+Licet.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h37
+:END:
+
+Etiam nunc concede audacter ab leonino cavo.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h38
+:END:
+
+Eu edepol ne tu, ut ego opinor, esses agitator probus.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h39
+:END:
+
+Quidum?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h40
+:END:
+
+Ne te uxor sequatur, respectas identidem.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h41
+:END:
+
+Sed quid ais?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h42
+:END:
+
+Egone? id enim quod tu vis, id aio atque id nego.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h43
+:END:
+
+Ecquid tu de odore possis, si quid forte olfeceris,
+facere coniecturam  [omitted] ? [omitted]
+
+** (Penicvlvs)
+:PROPERTIES:
+:CUSTOM_ID: h8-h44
+:END:
+
+[omitted] captum sit collegium.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h45
+:END:
+
+Agedum odorare hanc quam ego habeo pallam. quid olet? apstines?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h46
+:END:
+
+Summum ólfactare oportet vestimentum muliebre,
+
+nam ex istoc loco spurcatur nasum odore † inlucido.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h47
+:END:
+
+Olfacta igitur hinc, Penicule. lepide ut fastidis.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h48
+:END:
+
+Decet.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h49
+:END:
+
+Quid igitur? quid olet? responde.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h50
+:END:
+
+Furtum, scortum, prandium.
+tibi fuant
+elocutus, nam
+
+nunc ad amicam deferetur hanc meretricem Erotium.
+mihi, tibi atque illi iubebo iam adparari prandium.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h51
+:END:
+
+Eu.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h52
+:END:
+
+Inde usque ad diurnam stellam crastinam potabimus.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h53
+:END:
+
+Eu,
+expedite fabulatu's fabulatus es  . iam fores ferio?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h54
+:END:
+
+Feri.
+vel mane etiam.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h55
+:END:
+
+Mille passum commoratu's commoratus es   cantharum.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h56
+:END:
+
+Placide pulta.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h57
+:END:
+
+Metuis, credo, ne fores Samiae sient.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h58
+:END:
+
+Mane, mane obsecro hercle: eapse eccam exit. oh, solem vides
+satin ut occaecatust prae huius corporis candoribus?
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+* 182
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+Anime mi, Menaechme, salve.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h2
+:END:
+
+Quid ego?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h10-h3
+:END:
+
+Extra numerum es mihi.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h4
+:END:
+
+Idem istuc aliis adscriptivis fieri ad legionem solet.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h5
+:END:
+
+Ego istic mihi hodie adparari iussi apud te proelium.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h10-h6
+:END:
+
+Hodie id fiet.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h7
+:END:
+
+In eo uterque proelio potabimus;
+
+uter ibi melior bellator erit inventus cantharo,
+† tuest legio adiudicato, cum utro hanc noctem sies.
+ut ego uxorem, mea voluptas, ubi te aspicio, odi male.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h10-h8
+:END:
+
+Interim nequis quin eius aliquid indutus sies.
+quid hoc est?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h9
+:END:
+
+Induviae tuae atque uxoris exuviae, rosa.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h10-h10
+:END:
+
+Superas facile, ut superior sis mihi quam quisquam qui impetrant.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h11
+:END:
+
+Meretrix tantisper blanditur, dum illud quod rapiat videt;
+nam si amabas, iám oportebat nasum abreptum mordicus.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h12
+:END:
+
+Sustine hoc, Penicule: exuvias facere quas vovi volo.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h13
+:END:
+
+Cedo; sed obsecro hercle, salta sic cum palla postea.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h14
+:END:
+
+Ego saltabo? sanus hercle non es.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h15
+:END:
+
+Egone an tu magis?
+si non saltas, exue igitur.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h16
+:END:
+
+Nimio ego hanc periculo
+surrupui hodie. meo quidem animo ab Hippolyta subcingulum
+Hercules haud aeque magno umquam abstulit periculo.
+cape tibi hanc, quando una vivis meis morigera moribus.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h10-h17
+:END:
+
+Hoc animo decet animatos esse amatores probos.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h18
+:END:
+
+Qui quidem ad mendicitatem se properent detrudere.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h19
+:END:
+
+Quattuor minis ego emi istanc anno uxori meae.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h20
+:END:
+
+Quattuor minae perierunt plane, ut ratio redditur.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h21
+:END:
+
+Scin quid volo ego te accurare?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h10-h22
+:END:
+
+Scio, curabo quae voles.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h23
+:END:
+
+Iube igitur tribus nóbis apud te prandium accurarier
+atque aliquid scitamentorum de foro opsonarier,
+glandionidam suillam, laridum pernonidam,
+aut sincipitamenta porcina aut aliquid ad eum modum,
+madida quae mi adposita in mensa miluinam suggerant;
+
+atque actutum.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h10-h24
+:END:
+
+Licet ecastor.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h25
+:END:
+
+Nos prodimus ad forum.
+iam hic nos erimus: dum coquetur, interim potabimus.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h10-h26
+:END:
+
+Quando vis veni, parata res erit.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h27
+:END:
+
+Propera modo.
+sequere tu.—
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h28
+:END:
+
+Ego hercle vero te et servabo et te sequar,
+neque hodie ut te perdam, meream deorum divitias mihi.—
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h10-h29
+:END:
+
+Evocate intus Culindrum mihi coquom actutum foras.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+* 219
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+sportulam cape atque argentum. eccos tris nummos habes.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h2
+:END:
+
+Habeo.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h3
+:END:
+
+Abi atque obsonium adfer; tribus vide quod sit satis:
+neque defiat neque supersit.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h4
+:END:
+
+Cuius modi hí homines erunt?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h5
+:END:
+
+Ego et Menaechmus et parasitus eius.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h6
+:END:
+
+Iam isti sunt decem;
+
+nam parasitus octo hominum munus facile fungitur.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h7
+:END:
+
+Elocuta sum convivas, ceterum cura.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h8
+:END:
+
+Licet.
+cocta sunt, iube ire accubitum.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h9
+:END:
+
+Redi cito.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h10
+:END:
+
+Iam ego hic ero.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+* 226
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h1
+:END:
+
+Voluptas nullast navitis, Messenio,
+maior meo animo, quam quom ex alto procul
+terram conspiciunt.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h15-h2
+:END:
+
+Maior, non dicam dolo,
+quam si adveniens terram videas quae fuerit tua.
+
+sed quaeso, quam ob rem nunc Epidamnum venimus?
+an quasi mare omnis circumimus insulas?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h3
+:END:
+
+Fratrem quaesitum geminum germanum meum.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h15-h4
+:END:
+
+Nam quid modi futurum est illum quaerere?
+hic annus sextust postquam ei reí operam damus.
+
+Histros, Hispanos, Massiliensis, Hilurios,
+mare superum omne Graeciamque exoticam
+orasque Italicas omnis, qua adgreditur mare,
+sumus círcumvecti. sí acum, credo, quaereres,
+acum invenisses, si appareret, iam diu.
+
+hominem inter vivos quaeritamus mortuom;
+nam invenissemus iam diu, si viveret.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h5
+:END:
+
+Ergo istuc quaero certum qui faciat mihi,
+qui sese dicat scire eum esse emortuom:
+operam praeterea numquam sumam quaerere.
+
+verum aliter vivos numquam desistam exsequi.
+ego illúm scio quam cordi sit carus meo.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h15-h6
+:END:
+
+In scirpo nodum quaeris. quin nos hinc domum
+redimus, nisi si historiam scripturi sumus?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h7
+:END:
+
+Dictum facessas, datum edis, caveas malo.
+
+molestus ne sis, non tuo hoc fiet modo.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h15-h8
+:END:
+
+Em
+illoc enim vérbo esse me servom scio.
+non potuit paucis plura plane proloqui.
+verum tamen néqueo contineri quin loquar.
+audin, Menaechme? quom inspicio marsuppium,
+
+viaticati hercle admodum aestive sumus.
+ne tu hercle, opinor, nisi domum revorteris,
+ubi nihil habebis, geminum dum quaeres, gemes.
+nam ita est haec hominum natio: in Epidamnieis
+voluptárii atque potatores maxumi;
+
+tum sycophantae et palpatores plurumi
+in urbe hac habitant; tum meretrices mulieres
+nusquam perhibentur blandiores gentium.
+propterea huic urbi nomen Epidamno inditumst,
+quia nemo ferme huc sine damno devortitur.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h9
+:END:
+
+Ego istúc cavebo. cedo dum huc mihi marsuppium.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h15-h10
+:END:
+
+Quid eo vis?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h11
+:END:
+
+Iam aps te metuo de verbis tuis.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h15-h12
+:END:
+
+Quid metuis?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h13
+:END:
+
+Ne mihi damnum in Epidamno duis.
+tu magnus amator mulierum es, Messenio,
+ego autem homo iracundus, animi perditi;
+
+id utrumque, argentum quando habebo, cavero,
+ne tu delinquas neve ego irascar tibi.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h15-h14
+:END:
+
+Cape atque serva. me lubente feceris.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+* 273
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h1
+:END:
+
+Bene opsonavi atque ex mea sententia,
+bonum anteponam prandium pransoribus.
+sed eccúm Menaechmum video. vae tergo meo,
+prius iám convivae ambulant ante ostium,
+
+quam ego opsonatu redeo. adibo atque alloquar.
+Menaechme, salve.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h2
+:END:
+
+Di te amabunt quisquis es.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h3
+:END:
+
+Quisquis  [omitted]  quis ego sim?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h4
+:END:
+
+Non hercle vero.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h5
+:END:
+
+Vbi convivae ceteri?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h6
+:END:
+
+Quos tu convivas quaeris?
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h7
+:END:
+
+Parasitum tuom.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h8
+:END:
+
+Meum parasitum? certe hic insanust homo.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h17-h9
+:END:
+
+Dixin tibi esse hic sycophantas plurumos?
+[omitted]
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h10
+:END:
+
+Quem tu parasitum quaeris, adulescens, meum?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h17-h11
+:END:
+
+Peniculum éccum in vidulo salvom fero.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h12
+:END:
+
+Menaechme, numero huc advenis ad prandium.
+nunc opsonatu redeo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h13
+:END:
+
+Responde mihi,
+adulescens: quibus hic pretiis porci veneunt
+sacres sinceri?
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h14
+:END:
+
+Nummis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h15
+:END:
+
+Nummum a me accipe:
+iube té piari de mea pecunia.
+
+nam équidem insanum esse te certo scio,
+qui mihi molestu's molestus es   homini ignoto, quisquis es.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h16
+:END:
+
+Cylindrus ego sum: non nosti nomen meum?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h17
+:END:
+
+Si tu Cylindrus seu Coriendrus, perieris.
+ego te non novi, neque novisse adeo volo.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h18
+:END:
+
+Est tibi Menaechmo nomen, tantum quod sciam.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h19
+:END:
+
+Pro sano loqueris quom me appellas nomine.
+sed ubi novisti me?
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h20
+:END:
+
+Vbi ego te noverim,
+qui amicam habes eram meam hanc Erotium?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h21
+:END:
+
+Neque hercle ego habeo, neque te quis homo sis scio.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h22
+:END:
+
+Non scis quis ego sim, qui tibi saepissime
+cyathisso apud nos, quando potas?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h17-h23
+:END:
+
+Ei mihi,
+quom nihil est qui illi homini diminuam caput.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h24
+:END:
+
+Tun cyathissare mihi soles, qui ante hunc diem
+Epidamnum numquam vidi neque veni?
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h25
+:END:
+
+Negas?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h26
+:END:
+
+Nego hercle vero.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h27
+:END:
+
+Non tu in illisce aedibus
+† habitas?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h28
+:END:
+
+Di illos homines, qui illic habitant, perduint.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h29
+:END:
+
+Insanit hic quidem, qui ipse male dicit sibi.
+audin, Menaechme?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h30
+:END:
+
+Quid vis?
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h31
+:END:
+
+Si me consulas,
+nummum illum quem mihi dudum pollicitu's pollicitus es   dare—
+
+nam tu quidem hercle certo non sanu's sanus es   satis,
+Menaechme, qui nunc ipsus male dicas tibi—
+iubeas, si sapias, porculum adferri tibi.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h17-h32
+:END:
+
+Eu hercle hominem multum, et odiosum mihi.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h33
+:END:
+
+Solet iocari saepe mecum illoc modo.
+
+quam vis ridiculus est, ubi uxor non adest.
+quid ais tu?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h34
+:END:
+
+Quid vis, inquam.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h35
+:END:
+
+Satin hoc quod vides
+tribus vóbis opsonatumst, an opsono amplius,
+tibi et parasito et mulieri?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h36
+:END:
+
+Quas tu mulieres,
+quos tu parasitos loquere?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h17-h37
+:END:
+
+Quod te urget scelus,
+
+qui huic sis molestus?
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h38
+:END:
+
+Quid tibi mecum est rei?
+ego te non novi: cum hoc quem novi fabulor.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h17-h39
+:END:
+
+Non edepol tú homo sanus es, certo scio.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h40
+:END:
+
+Iam ergo haec madebunt faxo, nil morabitur.
+proin tu ne quo abeas longius ab aedibus.
+
+numquid vis?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h41
+:END:
+
+Vt eas maximam malam crucem.
+
+** Cylindrvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h42
+:END:
+
+Ire hercle meliust te interim atque accumbere,
+dum ego haec appono ad Volcani violentiam.
+ibo intro et dicam te hic adstare Erotio,
+ut te hinc abducat potius quam hic adstes foris.—
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h43
+:END:
+
+Iamne abiit illic? edepol haud mendacia
+tua verba experior esse.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h17-h44
+:END:
+
+Observato modo:
+nam istic meretricem credo habitare mulierem,
+ut quidem ille insanus dixit, qui hinc abiit modo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h45
+:END:
+
+Sed miror qui ille noverit nomen meum.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h17-h46
+:END:
+
+Minime hercle mirum. morem hunc meretrices habent:
+ad portum mittunt servolos, ancillulas;
+si quae peregrina navis in portum advenit,
+rogitant cuiatis sit, quid ei nomen siet,
+postilla extemplo se applicant, agglutinant:
+
+si pellexerunt, perditum amittunt domum.
+nunc ín istoc portu stát navis praedatoria,
+aps qua cavendum nobis sane censeo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h47
+:END:
+
+Mones quidem hercle recte.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h17-h48
+:END:
+
+Tum demum sciam
+recte monuisse, si tu recte caveris.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h49
+:END:
+
+Tace dúm parumper, nam concrepuit ostium:
+videamus qui hinc egreditur.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h17-h50
+:END:
+
+Hoc ponam interim.
+asservatote haec sultis, navales pedes.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+* 351
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h1
+:END:
+
+Sine fóres sic, abi, nolo óperiri.
+intús para, curá, vide, quod opúst fiat:
+sterníte lectos, incéndite odores; múnditia
+inlécebra animost amántium.
+
+amánti amoenitás malost, nobís lucrost.
+sed ubi ílle est, quem coquos ánte aedis esse áit? atque eccum video,
+qui mi ést usui et plurímum prodest.
+item hinc últro fit, ut méret, potissimus nostraé domi ut sit;
+nunc éum adibo, adloquar ultro.
+
+animúle mi, mihi mirá videntur,
+te hic stáre foris, fores quoí pateant,
+magis quám domus tua domus quom haéc tua sit.
+omné paratumst, ut iússisti
+atque út voluisti, néque tibi
+
+ullá morast intus.
+prandium, út iussisti, hic cúratumst:
+ubi lúbet, ire licet áccubitum.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h2
+:END:
+
+Quícum haec mulier loquitur?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h3
+:END:
+
+Equidem tecum.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h4
+:END:
+
+Quid mecum tibi
+fuit umquam aut nunc est negoti?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h5
+:END:
+
+Quia pol te unum ex omnibus
+
+Venus me voluit magnificare, neque id haud immerito tuo.
+nam ecastor solus benefactis tuis me florentem facis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h6
+:END:
+
+Certo haec mulier aut insana aut ebria est, Messenio,
+quaé hominem ignotum compellet me tam familiariter.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h7
+:END:
+
+Dixin égo istaec hic solere fieri? folia nunc cadunt,
+
+praeut si triduom hoc hic erimus: tum arbores in te cadent.
+nam ita sunt hic meretrices: omnes elecebrae argentariae.
+sed sine me dum hanc compellare. heus mulier, tibi dico.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h8
+:END:
+
+Quid est?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h9
+:END:
+
+Vbi tu húnc hominem novisti?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h10
+:END:
+
+Ibidem ubi hic me iam diu,
+in Epidamno.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h11
+:END:
+
+In Epidamno? qui huc in hanc urbem pedem,
+
+nisi hodie, numquam intro tetulit?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h12
+:END:
+
+Heia, delicias facis.
+mi Menaechme, quin, amabo, is intro? hic tibi erit rectius.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h13
+:END:
+
+Haec quidem edepol recte appellat meo me mulier nomine.
+nimis miror, quid hoc sít negoti.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h14
+:END:
+
+Oboluit marsuppium
+huic istuc quod habes.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h15
+:END:
+
+Atque edepol tu me monuisti probe.
+
+accipe dum hoc. iam scibo, utrum haec me mage amet an marsuppium.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h16
+:END:
+
+Eamus intro, ut prandeamus.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h17
+:END:
+
+Bene vocas: tam gratiast.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h18
+:END:
+
+Cur igitur me tibi iussisti coquere dudum prandium?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h19
+:END:
+
+Egon te iussi coquere?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h20
+:END:
+
+Certo, tibi et parasito tuo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h21
+:END:
+
+Cui, malum, parasito? certo haec mulier non sanast satis.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h22
+:END:
+
+Peniculo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h23
+:END:
+
+Quis iste ést Peniculus? qui extergentur baxeae?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h24
+:END:
+
+Scilicet qui dudum tecum venit, quom pallam mihi
+detulisti, quám ab uxore tua surrupuisti.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h25
+:END:
+
+Quid est?
+tibi pallam dedi, quam uxori meae surrupui? sanan es?
+certe haec mulier cantherino ritu ástans somniat.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h26
+:END:
+
+Qui lubet ludibrio habere me atque ire infitias mihi
+facta quae sunt?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h27
+:END:
+
+Dic quid est id quod negem quod fecerim?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h28
+:END:
+
+Pallam te hodie mihi dedisse uxoris.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h29
+:END:
+
+Etiam nunc nego.
+ego quidem neque umquam uxorem hábui neque habeo, neque huc
+umquam, postquam natus sum, intra portam penetravi pedem.
+
+prandi in navi, inde huc sum egressus, te conveni.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h30
+:END:
+
+Eccere,
+perii misera, quam tu mihi nunc navem narras?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h31
+:END:
+
+Ligneam,
+saepe tritam, saepe fixam, saepe excussam malleo;
+quasi supellex pellionis, palus palo proxumust.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h32
+:END:
+
+Iám, amabo, desiste ludos facere atque i hac mecum semul.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h33
+:END:
+
+Nescio quem, mulier, alium hóminem, non me quaeritas.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h34
+:END:
+
+Non ego te novi Menaechmum, Moscho prognatum patre,
+qui Syracusis perhibere natus esse in Sicilia,
+ubi rex Agathocles regnator fuit et iterum Phintia,
+tertium Liparo, qui in morte regnum Hieroni tradidit,
+
+nunc Hiero est?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h35
+:END:
+
+Haud falsa, mulier, praedicas.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h36
+:END:
+
+Pro Iuppiter,
+num istaec mulier illinc venit, quae te novit tam cate?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h37
+:END:
+
+Hercle opinor, pernegari non potest.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h38
+:END:
+
+Ne feceris. periisti, si intrassis intra limen.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h39
+:END:
+
+Quin tu tace modo.
+bene res geritur. adsentabor quidquid dicet mulieri,
+
+si possum hospitium nancisci. iam dudum, mulier, tibi
+non imprudens advorsabar: hunc metuebam, ne meae
+uxori renuntiaret de palla et de prandio.
+nunc, quando vis, eamus intro.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h40
+:END:
+
+Etiam parasitum manes?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h41
+:END:
+
+Neque ego illum maneo, neque flocci facio, neque, si venerit,
+
+eum volo intromitti.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h42
+:END:
+
+Ecastor haud invita fecero.
+sed scin quid te amabo ut facias?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h43
+:END:
+
+Impera quid vis modo.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h44
+:END:
+
+Pallam illam, quam dudum dederas, ad phrygionem ut deferas,
+ut reconcinnetur atque ut opera addantur quae volo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h45
+:END:
+
+Hercle qui tu recte dicis: eádem ignorabitur,
+
+ne uxor cognoscat te habere, si in via conspexerit.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h46
+:END:
+
+Ergo mox auferto tecum, quando abibis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h47
+:END:
+
+Maxime.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h19-h48
+:END:
+
+Eamus intro
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h49
+:END:
+
+Iam sequar te. húnc volo etiam conloqui.
+eho Messenio, accede huc.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h50
+:END:
+
+Quid negoti est?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h51
+:END:
+
+†sussciri.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h52
+:END:
+
+Quid eo opust?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h53
+:END:
+
+Opus est. scio ut me dices.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h54
+:END:
+
+Tanto nequior.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h55
+:END:
+
+Habeo praedam: tantum incepi óperis. ei quantum potes,
+abduc istos in tabernam actutum devorsoriam.
+tum facito ante solem occasum ut venias advorsum mihi.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h56
+:END:
+
+Non tu istas meretrices novisti, ere.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h57
+:END:
+
+Tace, inquam  [omitted]
+mihi dolebit, non tibi, si quid ego stulte fecero.
+
+mulier haec stulta atque inscita est; quantum perspexi modo,
+est hic praeda nobis.—
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h19-h58
+:END:
+
+Perii, iamne abis? periit probe:
+ducit lembum dierectum navis praedatoria.
+sed ego inscitus qui domino me postulem moderarier:
+dicto me emit audientem, haud imperatorem sibi.
+
+sequimini, ut, quod imperatum est, veniam advorsum temperi.—
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+* 446
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+Plus triginta ánnis natus sum, quom ínterea loci,
+numquam quicquam facinus feci peius neque scelestius,
+quám hodie, quom in contionem mediam me immersi miser.
+ubi ego dúm hieto, Menaechmus se subterduxit mihi
+
+atque abiit ad amicam, credo, neque me voluit ducere.
+qui illum di omnes perduint, qui primus commentust  [omitted]
+contionem habere, qui homines occupatos occupat.
+non ad eam rem ótiosos homines decuit deligi,
+qui nisi adsint quom citentur, census capiat ilico?
+
+[omitted]
+[omitted]
+adfatim est hominum, in dies qui singulas escas edint,
+quibus negoti nihil est, qui essum neque vocantur neque vocant:
+eos oportet contioni dare operam atque comitiis.
+
+sí id ita esset, non ego hodie perdidissem prandium,
+quoi tam credo † datum voluisse quam me video vivere.
+ibo: etiamnum reliquiarum spes animum oblectat meum.
+sed quid ego video? Menaechmus cum corona exit foras.
+sublatum est convivium, edepol venio adversum temperi.
+
+observabo, quid agat, hominem. post adibo atque adloquar.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+* 466
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h1
+:END:
+
+Potine ut quiescas? ego tibi hanc hodie probe
+lepideque concinnatam referam temperi.
+non faxo eam esse dices: íta ignorabitur.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h2
+:END:
+
+Pallam ad phrygionem fert confecto prandio
+
+vinoque expoto, parasito excluso foras.
+non hercle is sum qui sum, ni hánc iniuriam
+meque ultus pulchre fuero. observa quid dabo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h3
+:END:
+
+Pro di immortales, quoí homini umquam uno die
+boni dedistis plus, qui minus speraverit?
+
+prandi, potavi, scortum accubui, apstuli
+hanc, quoius heres numquam erit post hunc diem.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h4
+:END:
+
+Nequeo quae loquitur exaudire clanculum;
+satur nunc loquitur de me et de parti mea.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h5
+:END:
+
+Ait hanc dedisse me sibí, atque eam meae
+
+uxori surrupuisse. quoniam sentio
+errare, extemplo, quasi res cúm ea esset mihi,
+coepi adsentari: mulier quidquid dixerat,
+idem ego dicebam. quid multis verbis opust?
+minore nusquam bene fui dispendio.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h6
+:END:
+
+Adibo ad hominem, nam turbare gestio.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h7
+:END:
+
+Quis hic ést, qui adversus it mihi?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h8
+:END:
+
+Quid ais, homo
+levior quam pluma, pessime et nequissime,
+flagitium hominis, subdole ac minimi preti?
+quid de te merui, qua me causa perderes?
+
+ut surrupuisti te mihi dudum de foro!
+fecisti funus med absente prandio.
+cur ausu's ausus es   facere, quoi ego aeque heres eram?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h9
+:END:
+
+Adulescens, quaeso, quid tibi mecum est rei,
+qui mihi male dicas homini ignoto insciens?
+
+an tibi malam rem vis pro male dictis dari?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h10
+:END:
+
+†Pol eam quidem edepol te dedisse intellego.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h11
+:END:
+
+Responde, adulescens, quaeso, quid nomen tibist?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h12
+:END:
+
+Etiam derides, quasi nomen non noveris?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h13
+:END:
+
+Non edepol ego te, quod sciam, umquam ante hunc diem
+
+vidi neque novi; verum certo, quisquis es,
+si aéquom facias, mihi odiosus ne sies.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h14
+:END:
+
+Menaechme, vigila.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h15
+:END:
+
+Vigilo hercle equidem, quod sciam.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h16
+:END:
+
+Non me novisti?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h17
+:END:
+
+Non negem, si noverim.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h18
+:END:
+
+Tuom parasitum non novisti?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h19
+:END:
+
+Non tibi
+
+sanum est, adulescens, sinciput, intellego.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h20
+:END:
+
+Responde, surrupuistin uxori tuae
+pallam istanc hodie átque dédisti Erotio?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h21
+:END:
+
+Neque hercle ego uxorem habeo neque ego Erotio
+dedi nec pallam surrupui.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h22
+:END:
+
+Satin sanus es?
+
+occisast haec res. non ego te indutum foras
+exire vidi pallam?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h23
+:END:
+
+Vae capiti tuo.
+omnis cinaedos esse censes, tu quia es?
+tun med indutum fuisse pallam praedicas?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h24
+:END:
+
+Ego hercle vero.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h25
+:END:
+
+Non tu abis quo dignus es?
+
+aut te piari iube, homo insanissime.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h26
+:END:
+
+Numquam edepol quisquam me exorabit, quin tuae
+uxori rem omnem iám, uti sit gesta, eloquar;
+omnes in te istaec recident contumeliae:
+faxo haud inultus prandium comederis.—
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h27
+:END:
+
+Quid hoc ést negoti? satine, ut quemque conspicor,
+ita me ludificant? sed concrepuit ostium.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+* 524
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h1
+:END:
+
+Menaechme, amare ait te multum Erotium,
+ut hoc una opera sibi ad aurificem deferas,
+atque huc ut addas auri pondo únciam
+iubeasque spinter novom reconcinnarier.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h2
+:END:
+
+Et istúc et aliud, si quid curari volet,
+me curaturum dicito, quidquid volet.
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h3
+:END:
+
+Scin quid hoc sit spinter?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h4
+:END:
+
+Nescio, nisi aureum.
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h5
+:END:
+
+Hoc est quod olim clanculum ex armario
+te surrupuisse aiebas uxori tuae.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h6
+:END:
+
+Numquam hercle factum est.
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h7
+:END:
+
+Non meministi, obsecro?
+redde igitur spinter, si non meministi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h8
+:END:
+
+Mane.
+immo equidem memini. nempe hoc est, quod illí dedi.
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h9
+:END:
+
+Istuc.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h10
+:END:
+
+Vbi illae armillaé sunt, quas una dedi?
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h11
+:END:
+
+Numquam dedisti.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h12
+:END:
+
+Nam pol hoc unum dedi.
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h13
+:END:
+
+Dicam curare?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h14
+:END:
+
+Dicito: curabitur.
+et palla et spinter faxo referantur simul.
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h15
+:END:
+
+Amabo, mi Menaechme, inauris da mihi
+faciendas pondo duom nummum, stalagmia,
+ut te libenter videam, quom ad nos veneris.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h16
+:END:
+
+Fiat. cedo aurum, ego manupretium dabo.
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h17
+:END:
+
+Da sodes abs te: ego post reddidero tibi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h18
+:END:
+
+Immo cedo abs te: ego post tibi reddam duplex.
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h19
+:END:
+
+Non habeo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h20
+:END:
+
+At tu, quando habebis, tum dato.
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h26-h21
+:END:
+
+Numquid me vis?—
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h22
+:END:
+
+Haec me curaturum dicito—
+
+ut quantum possint quique liceant veneant.
+iamne abiit intro? abiit, operuit fores.
+di me quidem omnes adiuvant, augent, amant.
+sed quid ego cesso, dum datur mi occasio
+tempusque, abire ab his locis lenoniis?
+
+propera, Menaechme, fer pedem, confer gradum.
+demam hanc coronam atque abiciam ad laevam manum,
+ut, siquis sequatur, hac me abiisse censeant.
+ibo et conveniam servom, si potero, meum,
+ut haec, quae bona dant di mihi, ex me sciat.—
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 559
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h29-h1
+:END:
+
+Egone hic me patiar frustra in matrimonio,
+ubi vir compilet clanculum quidquid domist
+atque ea ad amicam deferat?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h2
+:END:
+
+Quin tu taces?
+manufesto faxo iam opprimes: sequere hac modo.
+
+pallam ad phrygionem cum corona ébrius
+ferebat, hodie tibi quam surrupuit domo.
+sed eccám coronam quám habuit. num mentior?
+em hac ábiit, si vis persequi vestigiis.
+atque edepol eccum óptume revortitur;
+
+sed pallam non fert.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h29-h3
+:END:
+
+Quid ego nunc cum illoc agam?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h4
+:END:
+
+Idem quod semper: male habeas; sic censeo.
+huc concedamus: ex insidiis aucupa.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+* 571
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h1
+:END:
+
+Vt hóc utimúr maximé more móro
+moléstoque múltum, atque utí quique súnt
+optumí, maxumé morem habént hunc:
+cliéntes sibi ómnes volúnt esse múltos:
+
+boníne an malí sint, id haúd quaeritánt;
+res magís quaeritúr quam cliéntum fidés
+cuius modí clueat.
+si ést pauper átque haud malús, nequam habétur,
+sin díves malúst, is cliéns frugi habétur.
+
+quí neque legés neque aequóm bonum usquám colunt,
+sollícitos patrónos habént.
+datúm denegánt quod datum ést, litiúm plení, rapaces
+virí, fraudulénti,
+qui aut faénore aut periúriis habént rem parátam,
+
+mens est in quo  [omitted]
+eís ubi dicitur dies, simul patronis dicitur.
+quippe qui pro illis loquimur quae male fecerunt
+aut ád populum aut ín iure aut ápud aedilem rés est.
+sicút me hodie nimis sóllicitum cliens quídam habuit, neque quód volui
+
+agere aút quicum licitumst, ita med attinuit, ita detinuit.
+ápud aediles pro eius factis plurumisque pessumisque
+dixi causam, condiciones tetuli tortas, confragosas:
+aut plus aut minus quám opus fuerat dicto dixeram † controversiam, ut
+sponsio fierét. quid ille? qui  [omitted]  praedem dedit.
+
+néc magis manufestum ego hominem úmquam ullum teneri vidi:
+omnibus male factis testes tres aderant acerrumi.
+di illum ómnes perdant, íta mihi  hunc hódie corrupít diem,
+meque adeo, quí hodie forum  umquam oculis inspexi meis.
+diem corrupi óptimum:  iussi adparari prandium,
+amica exspectat me, scio.  ubi primum est licitum, ílico
+
+properavi abire de foro.  iratast, credo, nunc mihi;
+placabit palla quam dedi,
+quam hódie uxori ábstuli atque huic détuli Erótio.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h2
+:END:
+
+Quid aís?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h3
+:END:
+
+Viro me malo mále nuptam.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h4
+:END:
+
+Satin aúdis quae illic lóquitur?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h5
+:END:
+
+Satis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h6
+:END:
+
+Sí sapiam, hinc intro ábeam, ubi mi bene sít.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h7
+:END:
+
+Mane: male erit pótius.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h8
+:END:
+
+Ne íllam ecastor faénerato ábstulisti.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h9
+:END:
+
+Síc datur.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h10
+:END:
+
+Clanculum te istaec flagitia facere censebas potis?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h11
+:END:
+
+Quid illuc est, uxor, negoti?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h12
+:END:
+
+Men rogas?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h13
+:END:
+
+Vin hunc rogem?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h14
+:END:
+
+Aufer hinc palpationes.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h15
+:END:
+
+Perge tu.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h16
+:END:
+
+Quid tu mihi
+
+tristis es?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h17
+:END:
+
+Te scire oportet.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h18
+:END:
+
+Scit, sed dissimulat malus.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h19
+:END:
+
+Quid negotist?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h20
+:END:
+
+Pallam—
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h21
+:END:
+
+Pallam?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h22
+:END:
+
+Quidam pallam—
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h23
+:END:
+
+Quid paves?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h24
+:END:
+
+Nil equidem paveo.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h25
+:END:
+
+Nisi unum: palla pallorem incutit.
+at tu ne clam me comesses prandium. perge in virum.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h26
+:END:
+
+Non taces?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h27
+:END:
+
+Non hercle vero taceo. nutat, ne loquar.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h28
+:END:
+
+Non hercle ego quidem usquam quicquam nuto neque nicto tibi.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h29
+:END:
+
+Ne ego mecastor mulier misera.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h30
+:END:
+
+Qui tu misera es? mi expedi.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h31
+:END:
+
+Nihil hoc confidentius, qui quae vides ea pernegat.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h32
+:END:
+
+Per Iovem deosque omnis adiuro, uxor, (satin hoc est tibi?)
+me isti non nutasse.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h33
+:END:
+
+Credit iam tibi de isto: illuc redi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h34
+:END:
+
+Quó ego redeam?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h35
+:END:
+
+Equidem ad phrygionem censeo. ei, pallam refer.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h36
+:END:
+
+Quae istaec palla est?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h37
+:END:
+
+Taceo iam, quando haec rem non meminit suam.
+[omitted]
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h38
+:END:
+
+Numquis servorum deliquit? num ancillae aut servi tibi
+responsant? eloquere. impune non erit.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h39
+:END:
+
+Nugas agis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h40
+:END:
+
+Tristis admodum es. non mi istuc satis placet.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h41
+:END:
+
+Nugas agis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h42
+:END:
+
+Certe familiarium aliquoi írata es.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h43
+:END:
+
+Nugas agis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h44
+:END:
+
+Num mihi es irata saltem?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h45
+:END:
+
+Nunc tu non nugas agis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h46
+:END:
+
+Non edepol deliqui quicquam.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h47
+:END:
+
+Em rursum nunc nugas agis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h48
+:END:
+
+Dic, mea uxor, quid tibi aegre est?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h49
+:END:
+
+Bellus blanditur tibi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h50
+:END:
+
+Potin ut mihi molestus ne sis? num te appello?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h51
+:END:
+
+Aufer manum.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h52
+:END:
+
+Sic datur. properato absente me comesse prandium,
+post ante aedis cum corona me derideto ebrius.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h53
+:END:
+
+Neque edepol ego prandi neque hodie huc intro tetuli pedem.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h54
+:END:
+
+Tun negas?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h55
+:END:
+
+Nego hercle vero.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h56
+:END:
+
+Nihil hoc homine audacius.
+
+non ego te modo hic ante aedis cum corona florea
+vidi astare? quom negabas mi esse sanum sinciput,
+et negabas me novisse, peregrinum aibas esse te?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h57
+:END:
+
+Quin ut dudum divorti abs te, redeo nunc demum domum.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h58
+:END:
+
+Novi ego te. non mihi censebas esse, qui te ulciscerer.
+
+omnia hercle uxori dixi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h59
+:END:
+
+Quid dixisti?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h60
+:END:
+
+Nescio,
+eam ipsus roga.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h61
+:END:
+
+Quid hoc est, uxor? quidnam hic narravit tibi?
+quid id est? quid taces? quin dicis quid sit?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h62
+:END:
+
+Quasi tu nescias.
+[omitted]
+palla mi est domo surrepta.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h63
+:END:
+
+Palla surrepta est tibi?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h64
+:END:
+
+Me rogas?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h65
+:END:
+
+Pol haud rogem te, si sciam.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h66
+:END:
+
+O hominem malum,
+ut dissimulat. non potes celare: rem novit probe.
+omnia hercle ego edictavi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h67
+:END:
+
+Quid id est?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h68
+:END:
+
+Quando nil pudet
+neque vis tua voluntate ipse profiteri, audi atque ades.
+et quid tristis sim et quid hic mihi dixerit, faxo scias.
+
+palla mi est domo surrupta.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h69
+:END:
+
+Palla surruptast mihi?
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h70
+:END:
+
+Viden ut te scelestus captat? huic surruptast, non tibi.
+nam profecto tibi surrupta si esset—salva non foret.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h71
+:END:
+
+Nil mihi tecum est. sed tu quid ais?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h72
+:END:
+
+Palla, inquam, periit domo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h73
+:END:
+
+Quis eam surrupuit?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h74
+:END:
+
+Pol istuc ille scit qui illam abstulit.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h75
+:END:
+
+Quis is homo est?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h76
+:END:
+
+Menaechmus quidam.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h77
+:END:
+
+Edepol factum nequiter.
+quis is Menaechmust?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h78
+:END:
+
+Tu istic, inquam.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h79
+:END:
+
+Egone?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h80
+:END:
+
+Tu.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h81
+:END:
+
+Quis arguit?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h82
+:END:
+
+Egomet.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h83
+:END:
+
+Et ego. atque huic amicae detulisti Erotio.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h84
+:END:
+
+Egon dedi?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h85
+:END:
+
+Tu, tu istic, inquam. vin adferri noctuam,
+quae /tu tu/ usque dicat tibi? nam nos iam defessi sumus.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h86
+:END:
+
+Per Iovem deosque omnis adiuro, uxor (satin hoc est tibi?)
+non dedisse.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h87
+:END:
+
+Immo hercle vero, nos non falsum dicere.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h88
+:END:
+
+Sed ego illam non condonavi, sed sic utendam dedi.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h89
+:END:
+
+Equidem ecastor tuam nec chlamydem do foras nec pallium
+cuiquam utendum. mulierem aequom est vestimentum muliebre
+
+dare foras, virum virile. quin refers pallam domum?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h90
+:END:
+
+Ego faxo referetur.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h91
+:END:
+
+Ex re tua, ut opinor, feceris;
+nam domum numquam introibis, nisi feres pallam simul.
+eo domum.
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h92
+:END:
+
+Quid mihi futurum est, qui tibi hanc operam dedi?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h31-h93
+:END:
+
+Opera reddetur, quando quid tibi erit surruptum domo.—
+
+** Penicvlvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h94
+:END:
+
+Id quidem edepol numquam erit, nam nihil est quod perdam domi.
+cum viro cum uxore di vos perdant. properabo ad forum,
+nam ex hac familia me plane éxcidisse intellego.—
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h95
+:END:
+
+Male mi uxor sese fecisse censet, quom exclusit foras;
+quasi non habeam, quo intromittar, alium meliorem locum.
+
+si tibi displiceo, patiundum: at placuero huic Erotio,
+quae me non excludet ab se, sed apud se occludet domi.
+nunc ibo, orabo ut mihi pallam reddat, quam dudum dedi;
+aliam illi redimam meliorem. heus, ecquis hic est ianitor?
+aperite atque Erotium aliquis evocate ante ostium.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+* 675
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h33-h1
+:END:
+
+Quis hic me quaerit?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h33-h2
+:END:
+
+Sibi inimicus magis quam aétati tuae.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h33-h3
+:END:
+
+Mi Menaechme, cur ante aedis astas? sequere intro.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h33-h4
+:END:
+
+Mane.
+scin quid est quod ego ad te venio?
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h33-h5
+:END:
+
+Scio, ut tibi ex me sit volup.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h33-h6
+:END:
+
+Immo edepol pallam illam, amabo te, quam tibi dudum dedi,
+
+mihi eam redde. uxor rescivit rem omnem, ut factum est, ordine.
+ego tibi redimam bis tanto pluris pallam, quam voles.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h33-h7
+:END:
+
+Tibi dedi equidem illam, ad phrygionem út ferres, paulo prius,
+et illud spinter, ut ad aurificem ferres, ut fieret novom.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h33-h8
+:END:
+
+Mihi tu ut dederis pallam et spinter? numquam factum reperies.
+
+nam ego quidem postquam illam dudum tibi dedi atque abii ad forum,
+nunc redeo, nunc te postillac video.
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h33-h9
+:END:
+
+Video quam rem agis.
+quia commisi, ut me defrudes, ad eam rem adfectas viam.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h33-h10
+:END:
+
+Neque edepol te defrudandi causa posco (quin tibi
+dico uxorem rescivisse)—
+
+** Erotivm
+:PROPERTIES:
+:CUSTOM_ID: h33-h11
+:END:
+
+Nec te ultro oravi ut dares:
+
+tute ultro ad me detulisti, dedisti eam dono mihi;
+eandem nunc reposcis: patiar. tibi habe, aufer, utere
+vel tu vel tua uxor, vel etiam in loculos compingite.
+tu huc post hunc diem pedem intro non feres, ne frustra sis;
+quando tu me bene merentem tibi habes despicatui,
+
+nisi feres argentum, frustra me ductare non potes.
+aliam posthac invenito quám habeas frustratui.—
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h33-h12
+:END:
+
+Nimis iracunde hercle tandem. heús tu, tibi dico, mane,
+redi. etiamne astas? etiam audes mea revorti gratia?
+abiit intro, occlusit aedis. nunc ego sum exclusissimus:
+
+neque domi neque apud amicam mihi iam quicquam creditur.
+ibo et consulam hanc rem amicos, quid faciendum censeant.—
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 701
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+Nimis stúlte dudum feci, quom marsuppium
+Messenioni cum argento concredidi.
+immersit aliquo sese, credo, in ganeum.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h2
+:END:
+
+Provisam quam mox vir meus redeat domum.
+
+sed eccum video. salva sum, pallam refert.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h3
+:END:
+
+Demiror ubi nunc ambulet Messenio.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h4
+:END:
+
+Adibo atque hominem accipiam quibus dictis meret.
+non te pudet prodire in conspectum meum,
+flagitium hominis, cum istoc ornatu?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h5
+:END:
+
+Quid est?
+
+quae te res agitat, mulier?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h6
+:END:
+
+Etiamne, impudens,
+muttire verbum unum audes aut mecum loqui?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h7
+:END:
+
+Quid tandem admisi in me, ut loqui non audeam?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h8
+:END:
+
+Rogas me? o hominis impudentem audaciam!
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h9
+:END:
+
+Non tu scis, mulier, Hecubam quapropter canem
+
+Graii esse praedicabant?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h10
+:END:
+
+Non equidem scio.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h11
+:END:
+
+Quia idem faciebat Hecuba quod tu nunc facis:
+omnia mala ingerebat, quemquem aspexerat.
+itaque adeo iure coepta appellari est canes.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h12
+:END:
+
+Non ego istaec tua flagitia possum perpeti.
+
+nam med aetatem viduam ésse mavelim,
+quam istaec flagitia tua pati quae tu facis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h13
+:END:
+
+Quid id ad me, tu te nuptam possis perpeti
+an sis abitura a tuo viro? an mos hic ita est,
+peregrino ut advenienti narrent fabulas?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h14
+:END:
+
+Quas fabulas? non, inquam, patiar praeterhac,
+quin vidua vivam quam tuos móres perferam.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h15
+:END:
+
+Mea quidem hercle causa vidua vivito,
+vel usque dum regnum optinebit Iuppiter.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h16
+:END:
+
+At mihi negabas dudum surrupuisse te,
+
+nunc eandem ante oculos attines: non te pudet?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h17
+:END:
+
+Eu hercle, mulier, multum et audax et mala es.
+tun tibi hanc surreptam dicere audes, quam mihi
+dedit alia mulier ut concinnandam darem?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h18
+:END:
+
+Ne istuc mecastor—iam patrem accersam meum
+
+atque ei narrabo tua flagitia quae facis.
+ei, † Deceo, quaere meum patrem, tecum simul
+ut veniat ad me: ita rem esse dicito.
+iam ego aperiam istaec tua flagitia.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h19
+:END:
+
+Sanan es?
+quae mea flagitia?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h20
+:END:
+
+Pallam atque aurum meum
+
+domo suppilas tuae uxori et tuae
+degeris amicae. satin haec recte fabulor?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h21
+:END:
+
+Quaeso hercle, mulier, si scis, monstra quod bibam,
+tuam qui possim perpeti petulantiam.
+quem tú hominem esse me arbitrere, nescio;
+
+ego te simitu novi cum Porthaone.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h22
+:END:
+
+Si me derides, at pol illum non potes,
+patrem meum, qui huc advenit. quin respicis?
+novistin tu illum?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h23
+:END:
+
+Novi cum Calcha simul:
+eodém die illum vidi quo te ante hunc diem.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h24
+:END:
+
+Negas novisse me? negas patrem meum?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h25
+:END:
+
+Idem hercle dicam, sí avom vis adducere.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h36-h26
+:END:
+
+Ecastor pariter hoc atque alias res soles.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 753
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+Vt aétas mea ést atque ut hóc usus fácto est
+gradum proferam, progrediri properabo.
+sed id quam mihi facile sit, haud sum falsus.
+nam pernicitas deserit: consitus sum
+
+senectute, onustum gero corpus, vires
+reliquere: ut aetas mala est; mers mala ergost.
+nam res plurumas pessumas, quom advenit, fert:
+quas si aútumem omnis, nimis lóngus sermost.
+sed haec res mihi in pectore et corde curaest,
+
+quidnam hóc sit negóti, quod fília sic
+repénte expetít me, ut ád sese irem.
+nec, quíd id sit, mihí certiús facit, quid
+velít, quid me accersat.
+verúm propemodúm iam sció, quid siet rei.
+
+credo cum viro litigium natum esse aliquod.
+ita istaec solent, quae viros subservire
+sibi postulant, dote fretae, feroces.
+et illi quoque haud abstinent saepe culpa.
+verum est modus tamen, quoad pati uxorem oportet;
+
+nec pol filia umquam patrem accersit ad se,
+nisi aut quid commissi aut iurgi est iusta causa.
+sed id quidquid est, iam sciam. atque eccam eampse
+ante aedis et eius virum tristem video.
+id ést quod suspicábar.
+
+áppellabo hanc.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+Ibo advorsum. sálve multum, mí pater.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+Salva sis. salven advenio? salven accersi iubes?
+quid tu tristis es? quid ille autem abs te iratus destitit?
+nescio quíd vos velitati éstis inter vos duos.
+loquere, uter meruistis culpam? paucis, non longos logos.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+Nusquam equidem quicquam deliqui: hoc primum te absolvo, pater.
+verum vivere hic non possum neque durare ullo modo.
+proin tu me hinc abducas.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h5
+:END:
+
+Quid istuc autem est?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h6
+:END:
+
+Ludibrio, pater,
+habeor.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h7
+:END:
+
+Vnde?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h8
+:END:
+
+Ab illo, quoi me mandavisti, meo viro.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h9
+:END:
+
+Ecce autem litigium. quotiens tandem édixi tibi,
+
+ut caveres, neuter ad me iretis cum querimonia?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h10
+:END:
+
+Qui ego istuc, mi pater, cavere possum?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h11
+:END:
+
+Men interrogas?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h12
+:END:
+
+Nisi non vis.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h13
+:END:
+
+Quotiens monstravi tibi, viro ut morem geras,
+quid ille faciat, né id observes, quó eat, quid rerum gerat.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h14
+:END:
+
+At enim ille hinc amat meretricem ex proxumo.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h15
+:END:
+
+Sane sapit,
+
+atque ob istánc industriam etiam faxo amabit amplius.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h16
+:END:
+
+Atque ibi potat.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h17
+:END:
+
+Tua quidem ille causa potabit minus,
+si illic sive alibi libebit? quae haec, malum, impudentiast?
+una opera prohibere, ad cenam ne promittat, postules,
+neve quemquam accipiat alienum apud se. serviren tibi
+
+postulas viros? dare una ópera pensum postules,
+inter ancillas sedere iubeas, lanam carere.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h18
+:END:
+
+Non equidem mihi te advocatum, pater, adduxi, sed viro.
+hinc stas, illim causam dicis.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h19
+:END:
+
+Si ille quid deliquerit,
+multo tanto illum accusabo, quam te accusavi, amplius.
+
+quando te auratam et vestitam bene habet, ancillas penum
+recte praehibet, melius sanam est, mulier, mentem sumere.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h20
+:END:
+
+At ille suppilat mihi aurum et pallas ex arcis domo,
+me despoliat, mea ornamenta clam ad meretrices degerit.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h21
+:END:
+
+Male facit, si istuc facit; si non facit, tu male facis,
+
+quae insontem insimules.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h22
+:END:
+
+Quin etiam nunc habet pallam, pater,
+et spinter, quod ad hanc detulerat, nunc, quia rescivi, refert.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h23
+:END:
+
+Iám ego ex hoc, ut factumst, scibo. íbo ad hominem atque adloquar.
+dic mi istuc, Menaechme, quod vos dissertatis, ut sciam.
+quid tu tristis es? quid illa autem irata abs te destitit?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h24
+:END:
+
+Quisquis es, quidquid tibi nomen est, senex, summum Iovem
+deosque do testes—
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h25
+:END:
+
+Qua de re aut cuius rei rerum omnium?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h26
+:END:
+
+Me neque isti male fecisse mulieri, quae me arguit
+hanc domo ab se surrupuisse atque abstulisse  [omitted]  deierat.
+sí ego intra aedis huius umquam, ubi habitat, penetravi pedem,
+
+omnium hominum exopto ut fiam miserorum miserrimus.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h27
+:END:
+
+Sanun es, qui istuc exoptes aut neges te umquam pedem
+in eas aedis intulisse ubi habitas, insanissime?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h28
+:END:
+
+Tun, senex, ais habitare med in illisce aedibus?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h29
+:END:
+
+Tun negas?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h30
+:END:
+
+Nego hercle vero.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h31
+:END:
+
+Immo hercle †ludere negas;
+
+nisi quo nocte hac exmigrastis. concede huc, mea filia.
+quid tu ais? num hinc exmigrastis?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h32
+:END:
+
+Quem in locum aut quam ob rem, obsecro?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h33
+:END:
+
+Non edepol scio.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h34
+:END:
+
+Profecto ludit te hic. non tu tenes?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h35
+:END:
+
+Iam vero, Menaechme, satis iocatu's iocatus es  . nunc hanc rem gere.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h36
+:END:
+
+Quaeso, quid mihi tecum est? unde aut quis tu homo es?  [omitted]
+
+† tibi aut adeo isti, quae mihi molesta est quoquo modo?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h37
+:END:
+
+Viden tu ílli oculos virere? ut viridis exoritur colos
+ex temporibus atque fronte, ut oculi scintillant, vide.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h38
+:END:
+
+Quid mihi meliust, quam quando illi me insanire praedicant,
+ego med adsimulem insanire, ut illos a me absterream?
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h39
+:END:
+
+Vt pandiculans oscitatur. quid nunc faciam, mi pater?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h40
+:END:
+
+Concede huc, mea nata, ab istoc quam potest longissime.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h41
+:END:
+
+Euhoe Bacche, Bromie, quo me in silvam venatum vocas?
+audio, sed non abire possum ab his regionibus,
+ita illa me ab laeva rabiosa femina adservat canis,
+
+poste autem illinc hircus † alus, qui saepe aetate in sua
+perdidit civem innocentem falso testimonio.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h42
+:END:
+
+Vae capiti tuo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h43
+:END:
+
+Ecce, Apollo mi ex oraclo ímperat,
+ut ego ílli oculos exuram lampadibus ardentibus.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h44
+:END:
+
+Perii, mi pater, minatur míhi oculos exurere.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h45
+:END:
+
+Ei mihi, insanire me aiunt, ultro cum ipsi insaniunt.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h46
+:END:
+
+Filia, heus.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h47
+:END:
+
+Quid est? quid agimus?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h48
+:END:
+
+Quid si ego huc servos cito?
+ibo, abducam qui hunc hinc tollant et domi devinciant,
+prius quam turbarum quid faciat amplius.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h49
+:END:
+
+Enim haereo;
+ni occupo aliquid mihi consilium, hí domum me ad se auferent.
+
+pugnis me votas in huius ore quicquam parcere,
+ni a meis oculis abscedat in malam magnam crucem.
+faciam quod iubes, Apollo.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h50
+:END:
+
+Fuge domum, quantum potest,
+ne hic te obtundat.
+
+** Matrona
+:PROPERTIES:
+:CUSTOM_ID: h38-h51
+:END:
+
+Fugio. amabo, ádserva istunc, mi pater,
+ne quo hinc abeat. sumne ego mulier misera, quae illaec audio?—
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h52
+:END:
+
+Haud male, Apollo illanc amovi; nunc hunc impurissimum,
+barbatum, tremulum Tithonum, qui cluet Cygno patre,
+ita mihi imperas ut ego huius membra atque ossa atque artua
+comminuam illo scipione quem ipse habet.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h53
+:END:
+
+Dabitur malum,
+me quidem si attígeris aut si propius ad me accesseris.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h54
+:END:
+
+Faciam quod iubes; securim capiam ancipitem, atque hunc senem
+osse fini dedolabo ássulatim viscera.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h55
+:END:
+
+Enim vero illud praecavendumst, atque adcurandumst mihi;
+sane ego illúm metuo, ut minatur, ne quid male faxit mihi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h56
+:END:
+
+Multa mi imperas, Apollo: nunc equos iunctos iubes
+
+capere me indomitos, ferocis, atque in currum inscendere,
+ut ego hunc proteram leonem vetulum, olentem, edentulum.
+iam adstiti in currum, iam lora teneo, iam stimulus in manust.
+agite equi, facitote sonitus ungularum appareat,
+cursu celeri facite inflexa sit pedum pernicitas.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h57
+:END:
+
+Mihin equis iunctis minare?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h58
+:END:
+
+Ecce, Apollo, denuo
+me iubes facere impetum in eum qui stat atque occidere.
+sed quis hic est qui me capillo hínc de curru deripit?
+imperium tuom demutat atque edictum Apollinis.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h38-h59
+:END:
+
+Eu hércle morbum acrem ac durum  [omitted]  di vostram fidem.
+
+vel hic qui insanit, quam valuit paulo prius;
+ei derepente tantus morbus incidit.
+ibo atque accersam medicum iam quantum potest.—
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 876
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+Iamne isti abierunt, quaeso, ex conspectu meo,
+qui me vi cogunt, ut validus insaniam?
+quid cesso abire ad navem, dum salvo licet?
+vosque omnis quaeso, si senex revenerit,
+
+ne me indicetis qua platea hinc aufugerim.—
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h40-h2
+:END:
+
+Lumbi sedendo, óculi spectando dolent,
+manendo medicum, dum se ex opere recipiat.
+odiosus tandem vix ab aegrotis venit.
+ait se óbligasse crus fractum Aesculapio,
+
+Apollini autem brachium. nunc cogito,
+utrum me dicam ducere medicum an fabrum.
+atque eccum incedit. move formicinum gradum.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 889
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+quid esse ílli morbi, dixeras? narra, senex.
+num laruatust aut cerritus? fac sciam.
+num eum veternus aut aqua intercus tenet?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+Quin ea te causa duco, ut id dicas mihi
+
+atque illum ut sanum facias.
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+Perfacile id quidemst.
+sanum futurum, mea ego id promitto fide.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+Magna cum cura ego illum curari volo.
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+Quin suspirabo plus sescenta ín die:
+ita ego eum cum cura magna curabo tibi.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+Atque eccum ipsum hominem.  observemus, quam rem agat.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 899
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h1
+:END:
+
+Edepol ne hic dies pervorsus atque advorsus mi optigit.
+quae me clam ratus sum facere, ea ómnia fecit palam
+parasitus, qui me complevit flagiti et formidinis,
+meus Vlixes, suo qui regi tantum concivit mali.
+
+quém ego hominem, síquidem vivo, vita evolvam sua—
+sed ego stultus sum, qui illius esse dico, quae meast:
+meo cibo et sumptu educatust. anima privabo virum.
+condigne autem haec meretrix fecit, ut mos est meretricius:
+quia rogo, palla ut referatur rursum ad uxorem meam,
+
+mihi se ait dedisse. eu edepol né ego homo vivo miser.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h2
+:END:
+
+Audin quae loquitur?
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h3
+:END:
+
+Se miserum praedicat.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h4
+:END:
+
+Adeas velim.
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h5
+:END:
+
+Salvos sis, Menaechme. quaeso, cur apertas brachium?
+non tu scis, quantum isti morbo nunc tuo facias mali?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h6
+:END:
+
+Quin tu te suspendis?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h7
+:END:
+
+Ecquid sentis?
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h8
+:END:
+
+Quidni sentiam?
+
+non potest haec res ellebori †iungere optinerier.
+sed quid ais, Menaechme?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h9
+:END:
+
+Quid vis?
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h10
+:END:
+
+Dic mihi hoc quod te rogo:
+album an atrum vinum potas?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h11
+:END:
+
+Quin tu is in malam crucem?
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h12
+:END:
+
+Iam hercle occeptat insanire primulum.  [omitted]
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h13
+:END:
+
+Quin tu me interrogas,
+purpureum panem an puniceum soleam ego esse an luteum?
+
+soleamne esse avis squamosas, piscis pennatos?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h14
+:END:
+
+Papae,
+audin tu ut deliramenta loquitur? quid cessas dare
+potionis aliquid prius quam percipit insania?
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h15
+:END:
+
+Mane modo, etiam percontabor alia.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h16
+:END:
+
+Occidis fabulans.
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h17
+:END:
+
+Dic mihi hoc: solent tibi umquam óculi duri fieri?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h18
+:END:
+
+Quid? tu me lucustam censes esse, homo ignavissime?
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h19
+:END:
+
+Dic mihi: en umquam intestina tibi crepant, quod sentias?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h20
+:END:
+
+Vbi satur sum, nulla crepitant; quando esurio, tum crepant.
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h21
+:END:
+
+Hoc quidem edepol hau pro insano verbum respondit mihi.
+perdormiscin usque ad lucem? facilen tu dormis cubans?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h22
+:END:
+
+Perdormisco, si resolvi árgentum cui debeo—
+qui te Iuppiter dique omnes, percontator, perduint.
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h23
+:END:
+
+Nunc homo insanire occeptat: de illis verbis cave tibi.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h24
+:END:
+
+Immo Nestor nunc quidem est de verbis, praeut dudum fuit;
+nam dudum uxorem suam esse aiebat rabiosam canem.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h25
+:END:
+
+Quid, ego?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h26
+:END:
+
+Dixti insanus, inquam.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h27
+:END:
+
+Egone?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h28
+:END:
+
+Tu istic, qui mihi
+etiam me iunctis quadrigis minitatu's minitatus es   prosternere.
+egomet haec te vidi facere, égomet haec ted arguo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h29
+:END:
+
+At ego te sacram coronam surrupuisse Iovi scio,
+et ob eam rem in carcerem ted esse compactum scio,
+
+et postquam es emissus, caesum virgis sub furca scio;
+tum patrem occidisse et matrem vendidisse etiam scio.
+satin haec pro sano male dicta male dictis respondeo?
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h30
+:END:
+
+Obsecro hercle, medice, propere, quidquid facturu's facturus es  , face.
+non vides hominem insanire?
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h31
+:END:
+
+Scin quid facias optimum est?
+
+ad me face uti deferatur.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h32
+:END:
+
+Itane censes?
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h33
+:END:
+
+Quippini?
+ibi meo arbitratu potero curare hominem.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h34
+:END:
+
+Age ut lubet.
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h35
+:END:
+
+Elleborum potabis faxo áliquos viginti dies.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h36
+:END:
+
+At ego te pendentem fodiam stimulis triginta dies.
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h37
+:END:
+
+I, arcesse homines, qui illunc ad me deferant.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h38
+:END:
+
+Quot sunt satis?
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h39
+:END:
+
+Proinde ut insanire video, quattuor, nihilo minus.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h40
+:END:
+
+Iam hic erunt. asserva tu istunc, medice.
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h41
+:END:
+
+Immo ibo domum,
+ut parentur quibus paratis opus est. tu servos iube
+hunc ad me ferant.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h42
+:END:
+
+Iam ego illic faxo erit.
+
+** Medicvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h43
+:END:
+
+Abeo.
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h44-h44
+:END:
+
+Vale.—
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h45
+:END:
+
+Abiit socerus, abiit medicus. nunc sólus sum. pro Iuppiter,
+
+quid illuc est quod med hisce homines insanire praedicant?
+nam équidem, postquam gnatus sum, numquam aegrotavi unum diem,
+neque ego insanio neque pugnas neque ego litis coepio.
+salvus salvos alios video, novi homines, adloquor.
+an illi perperam insanire me aiunt, ipsi insaniunt?
+
+quid ego nunc faciam? domum ire cupio: úxor non sinit;
+huc autem nemo intromittit. nimis proventum est nequiter.
+hic ero usque: ad noctem saltem, credo, intromittar domum.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+* 966
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h46-h1
+:END:
+
+Spectámen bonó servo id ést, qui rem erílem
+procurat, videt, collocat cogitatque,
+ut absente eró rem erí diligenter
+tutétur, quam si ípse adsit aút rectiús.
+
+tergúm quam gulam, crura quam ventrem oportet
+potióra esse, cuí cor modéste sitúmst.
+recordetur id, qui nihili sunt, quid eis preti
+détur ab suis eris, ignavis, improbis viris:
+verbéra compedes
+
+molaé, magna lassitudo fames frigus durum,
+haec prétia sunt ignaviae.
+id ego male malum metuo: propterea bonum esse certumst potius quam malum;
+nam magis multo patior facilius verba: verbera ego odi,
+nimióque edo lubéntius molitúm, quam molitum praéhibeo.
+
+proptérea eri imperium éxsequor, bene ét sedate servo id;
+atqué mihi id prodest.
+álii ita ut in rem esse ducunt, sint: ego ita ero ut me esse oportet;
+metum míhi adhibeam, culpam ábstineam, ero ut ómnibus in locis sím praesto:
+servi, qui cum culpa carent metuont, solent esse eris utibiles.
+
+nam illi, qui nil metuont, postquam malum promeriti, tunc ei metuont.
+metuam haúd multum. prope est quándo erus ob fácta pretium exsólvet.
+éo ego exemplo servio, térgi ut in rem esse arbitror.
+postquam ín tabernam vása et servos cónlocavi, ut iusserat,
+ita vénio adversum. nunc foris pultabo, adesse ut me sciat,
+
+† neque virum ex hoc saltu damni salvom ut educam foras.
+séd metuo, ne sero veniam depugnato proelio.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+* 990
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+** Senex
+:PROPERTIES:
+:CUSTOM_ID: h48-h1
+:END:
+
+Pér ego vobis deos atque homines dico, ut imperium meum
+sapienter habeatis curae, quae imperavi atque impero:
+facite illic homo iam in medicinam ablatus sublimen siet,
+nisi quidem vos vostra crura aut latera nihili penditis.
+
+cave quisquam, quod illíc minitetur, vostrum flocci fecerit.
+quid státis? quid dubitátis? iam sublímen raptum opórtuit.
+ego ibo ad medicum: praesto ero illi, cum venietis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h2
+:END:
+
+Occidi,
+quid hoc ést negoti? quid illisce homines ad me currunt, opsecro?
+quid voltis vos? quid quaeritatis? quid me circumsistitis?
+
+quo rapitis me? quo fertis me? perii, opsecro vestram fidem,
+Epidamnienses, subvenite, cives. quin me mittitis?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h3
+:END:
+
+Pro di immortales, obsecro, quid ego oculis aspicio meis?
+erum meum indignissime nescio qui sublimen ferunt.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h4
+:END:
+
+Ecquis suppetias mihi audet ferre?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h5
+:END:
+
+Ego, ere, audacissime.
+
+o facinus indignum et malum, Epidamnii cives, erum
+meum hic in pacato oppido luci deripier in via,
+qui liber ad vos venerit.
+mittite istunc.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h6
+:END:
+
+Obsecro te, quisquis es, operam mihi ut des,
+neu sinas in me insignite fieri tantam iniuriam.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h7
+:END:
+
+Immo et operam dabo et defendam et subvenibo sedulo.
+numquam te patiar perire, me perirest aequius.
+eripe oculum ísti, ab umero qui tenet, ere, te obsecro.
+hisce ego iam sementem in ore faciam pugnosque obseram.
+maximo hodie malo hercle vostro ístunc fertis. mittite.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h8
+:END:
+
+Teneo ego huic oculum.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h9
+:END:
+
+Face ut oculi locus in capite appareat.
+vos scelesti, vos rapacis, vos praedones.
+
+** Lorarii
+:PROPERTIES:
+:CUSTOM_ID: h48-h10
+:END:
+
+Periimus.
+obsecro hercle.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h11
+:END:
+
+Mittite ergo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h12
+:END:
+
+Quid me vobis tactiost?
+pecte pugnis.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h13
+:END:
+
+Agite abite, fugite hinc in malam crucem.
+em tibi etiam: quia postremus cedis, hoc praemi feres.
+
+nimis bene ora commetavi atque ex mea sententia.
+edepol, ere, ne tibi suppetias temperi adveni modo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h14
+:END:
+
+At tibi di semper, adulescens, quisquis es, faciant bene.
+nam absque te esset, hodie numquam ad solem occasum viverem.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h15
+:END:
+
+Ergo edepol, si recte facias, ere, med emittas manu.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h16
+:END:
+
+Liberem ego te?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h17
+:END:
+
+Verum, quandoquidem, ere, te servavi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h18
+:END:
+
+Quid est?
+adulescens, erras.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h19
+:END:
+
+Quid, erro?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h20
+:END:
+
+Per Iovem adiuro patrem,
+med erum tuom non esse.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h21
+:END:
+
+Non taces?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h22
+:END:
+
+Non mentior;
+nec meus servos úmquam tale fecit quale tu mihi.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h23
+:END:
+
+Sic sine igitur, si tuom négas me ésse, abire liberum.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h24
+:END:
+
+Mea quidem hercle causa liber esto atque ito quo voles.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h25
+:END:
+
+Nempe iubes?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h26
+:END:
+
+Iubeo hercle, si quid imperi est in te mihi.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h27
+:END:
+
+Salve, mi patrone. cum tu liber es, Messenio,
+gaudeo. credo hercle vobis. sed, patrone, te obsecro,
+ne minus imperes mihí quam cum tuos servos fui.
+
+apud ted habitabo et quando ibis, una tecum ibo domum.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h28
+:END:
+
+Minime.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h29
+:END:
+
+Nunc ibo in tabernam, vasa atque argentum tibi
+referam. recte est obsignatum in vidulo marsuppium
+cum viatico: id tibí iam huc adferam.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h30
+:END:
+
+Adfer strenue.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h48-h31
+:END:
+
+Salvom tibi ita ut mihi dedisti reddibo. hic me mane.—
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h32
+:END:
+
+Nimia mira mihi quidem hodie exorta sunt miris modis:
+alii me negant eum esse qui sum, atque excludunt foras
+[omitted]
+vel ille qui se petere argentum modo, qui servom se meum
+esse aiebat, meus servator, quem ego modo emisi manu;
+
+is ait se mihi allaturum cum argento marsuppium:
+id si attulerit, dicam ut a me ábeat liber quo volet,
+ne tum, quando sanus factus sit, a me argentum petat.
+socer et medicus me insanire aiebant. quid sit, mira sunt.
+haec nihilo esse mihi videntur setius quam somnia.
+
+nunc ibo intro ad hanc meretricem, quamquam suscenset mihi,
+si possum exorare ut pallam reddat, quam referam domum.—
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+* 1050
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+** Menaechmvs (sosicles)
+:PROPERTIES:
+:CUSTOM_ID: h50-h1
+:END:
+
+Men hodie usquam convenisse te, audax, audes dicere,
+postquam advorsum mi imperavi ut huc venires?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h50-h2
+:END:
+
+Quin modo
+erupui, homines quom ferebant te sublimen quattuor,
+apud hasce aedis. tu clamabas deum fidem atque hominum omnium,
+
+quóm ego accurro teque eripio vi pugnando ingratiis.
+ob eam rem, quia te servavi, me amisisti liberum.
+cum argentum dixi me petere et vasa, tu quantum potest
+praecucurristi obviam, ut quae fecisti infitias eas.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h50-h3
+:END:
+
+Liberum ego te iussi abire?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h50-h4
+:END:
+
+Certo.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h50-h5
+:END:
+
+Quin certissimumst,
+
+mepte potius fieri servom, quam te umquam emittam manu.
+
+* 9
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+* 1060
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h1
+:END:
+
+Si vóltis per oculos iurare, nihilo hercle ea causa magis
+faciétis, ut ego hódie abstulerim pallam et spinter, pessumae.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h2
+:END:
+
+Pro di ímmortales, quid ego video?
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h3
+:END:
+
+Quid vides?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h4
+:END:
+
+Speculum tuom.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h5
+:END:
+
+Quid negoti est?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h6
+:END:
+
+Tuast imago. tam consimilest quam potest.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h7
+:END:
+
+Pol profecto haud est dissimilis, meam quom formam noscito.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h8
+:END:
+
+O adulescens, salve, qui me servavisti, quisquis es.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h9
+:END:
+
+Adulescens, quaeso hercle eloquere tuom mihi nomen, nisi piget.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h10
+:END:
+
+Non edepol ita promeruisti de me, ut pigeat, quae velis
+obsequi. mihi est Menaechmo nomen.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h11
+:END:
+
+Immo edepol mihi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h12
+:END:
+
+Siculus sum Syracusanus.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h13
+:END:
+
+Eadem urbs et patria est mihi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h14
+:END:
+
+Quid ego ex te audio?
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h15
+:END:
+
+Hoc quod res est.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h16
+:END:
+
+Novi equidem hunc: erus est meus.
+ego quidem huius servos sum, sed med esse huius credidi.
+ego hunc censebam te esse, huic etiam éxhibui negotium.
+quaeso ignoscas, si quid stulte dixi atque imprudens tibi.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h17
+:END:
+
+Delirare mihi videre: non commeministi, simul
+te hodie mecum exire ex navi?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h18
+:END:
+
+Enim vero aequom postulas.
+tú erus es: tu servom quaere. tu salveto: tu vale.
+hunc ego esse aio Menaechmum.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h19
+:END:
+
+At ego me.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h20
+:END:
+
+Quae haec fabulast?
+tú es Menaechmus?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h21
+:END:
+
+Me esse dico, Moscho prognatum patre.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h22
+:END:
+
+Tun meo patre es prognatus?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h23
+:END:
+
+Immo equidem, adulescens, meo;
+tuom tibi neque occupare neque praeripere postulo.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h24
+:END:
+
+Di immortales, spem insperatam date mihi quam suspicor.
+nam nisi me animus fallit, hi sunt gemini germani duo.
+nam et patriam et patrem conmemorant pariter qui fuerint sibi.
+
+sevocabo erum. Menaechme.
+
+** Menaechmvs Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h25
+:END:
+
+Quid vis?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h26
+:END:
+
+Non ambos volo,
+sed uter vostrorum est advectus mecum navi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h27
+:END:
+
+Non ego.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h28
+:END:
+
+At ego.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h29
+:END:
+
+Te volo igitur. huc concede.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h30
+:END:
+
+Concessi. quid est?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h31
+:END:
+
+Illic homó aut sycophanta aut geminus est frater tuos.
+nam ego hominem hominis similiorem numquam vidi álterum.
+
+neque aqua aquae nec lacte est lactis, crede mi, usquam similius,
+quam hic tui est, tuque huius autem; post eandem patriam ac patrem
+memorat. meliust nos adire átque hunc percontarier.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h32
+:END:
+
+Hercle qui tu me admonuisti recte, et habeo gratiam.
+perge operam dare, obsecro hercle; liber esto, si invenis
+
+hunc meum fratrem esse.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h33
+:END:
+
+Spero.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h34
+:END:
+
+Et ego item spero fore.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h35
+:END:
+
+Quid ais tu? Menaechmum, opinor, te vocari dixeras.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h36
+:END:
+
+Ita vero.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h37
+:END:
+
+Huic item Menaechmo nomen est. in Sicilia
+te Syracusis natum esse dixti: et hic natust ibi.
+Moschum tibi patrem fuisse dixti: huic itidem fuit.
+
+nunc operam potestis ambo mihi dare et vobis simul.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h38
+:END:
+
+Promeruisti ut ne quid ores quod velis, quin impetres.
+tam quasi me emeris argento, liber servibo tibi.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h39
+:END:
+
+Spes mihi est, vos inventurum fratres germanos duos
+geminos, una matre natos et patre uno uno die.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h40
+:END:
+
+Mira memoras. utinam efficere quod pollicitu's pollicitus es   possies.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h41
+:END:
+
+Possum. sed nunc agite uterque id quod rogabo dicite.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h42
+:END:
+
+Vbi lubet, roga: réspondebo. nil reticebo quod sciam.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h43
+:END:
+
+Est tibi nomen Menaechmo?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h44
+:END:
+
+Fateor.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h45
+:END:
+
+Est itidem tibi?
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h46
+:END:
+
+Est.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h47
+:END:
+
+Patrem fuisse Moschum tibi ais?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h48
+:END:
+
+Ita vero.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h49
+:END:
+
+Et mihi.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h50
+:END:
+
+Esne tu Syracusanus?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h51
+:END:
+
+Certo.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h52
+:END:
+
+Quid tu?
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h53
+:END:
+
+Quippini?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h54
+:END:
+
+Optime usque adhuc conveniunt signa. porro operam date.
+quid longissime meministi, dic mihi, in patria tua?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h55
+:END:
+
+Cum patre ut abii Tarentum ád mercatum, postea
+inter homines me deerrare á patre atque inde avehi.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h56
+:END:
+
+Iuppiter supreme, serva me.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h57
+:END:
+
+Quid clamas? quin taces?
+quot eras annos gnatus, quom te pater a patria ávehit?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h58
+:END:
+
+Septuennis: nam tunc dentes mihi cadebant primulum.
+neque patrém umquam postilla vidi.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h59
+:END:
+
+Quid? vos tum patri
+filii quot eratis?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h60
+:END:
+
+Vt nunc maxime memini, duo.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h61
+:END:
+
+Vter eratis, tun an ille, maior?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h62
+:END:
+
+Aeque ambo pares.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h63
+:END:
+
+Qui id potest?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h64
+:END:
+
+Gemini ambo eramus.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h65
+:END:
+
+Di me servatum volunt.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h66
+:END:
+
+Si interpellas, ego tacebo potius.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h67
+:END:
+
+Taceo.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h68
+:END:
+
+Dic mihi:
+uno nomine ambo eratis?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h69
+:END:
+
+Minime. nam mihi hoc erat,
+quod nunc est, Menaechmo: íllum tum vocabant Sosiclem.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h70
+:END:
+
+Signa adgnovi, contineri quin complectar non queo.
+mi germane gemine frater, salve. ego sum Sosicles.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h71
+:END:
+
+Quo modo igitur post Menaechmo nomen est factum tibi?
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h72
+:END:
+
+Postquam ad nos renuntiatum est te  [omitted]  et patrem esse mortuom,
+avos noster mutavit: quod tibi nomen est, fecit mihi.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h73
+:END:
+
+Credo ita esse factum ut dicis. sed mi hoc responde.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h74
+:END:
+
+Roga.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h75
+:END:
+
+Quid erat nomen nostrae matri?
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h76
+:END:
+
+Teuximarchae.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h77
+:END:
+
+Convenit.
+o salve, insperate multis annis post quem conspicor.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h78
+:END:
+
+Frater, et tu, quém ego multis miseriis laboribus
+usque adhuc quaesivi quemque ego esse inventum gaudeo.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h79
+:END:
+
+Hoc erat, quod haec te meretrix huius vocabat nomine:
+hunc censebat te esse, credo, quom vocat te ad prandium.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h80
+:END:
+
+Namque edepol iussi hic mihi hodie prandium appararier,
+clam meam uxorem, quoi pallam surrupui dudum domo,
+eam dedi huic.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h81
+:END:
+
+Hanc, dicis, frater, pallam, quam ego habeo?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h82
+:END:
+
+Haec east.
+
+quo modo haec ad te pervenit?
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h83
+:END:
+
+Meretrix huc ad prandium
+me abduxit, me sibi dedisse aiebat. prandi perbene,
+potavi atque accubui scortum, pallam et aurum hoc abstuli.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h84
+:END:
+
+Gaudeo edepol, si quid propter me tibi evenit boni.
+nam illa quom te ad se vocabat, memet esse credidit.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h85
+:END:
+
+Numquid me morare quin ego liber, ut iusti, siem?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h86
+:END:
+
+Optimum atque aequissimum orat, frater: fac causa mea.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h87
+:END:
+
+Liber esto.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h88
+:END:
+
+Quom tu es liber, gaudeo, Messenio.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h89
+:END:
+
+Sed meliorest opus auspicio, ut liber perpetuo siem.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h90
+:END:
+
+Quoniam haec evenerunt, frater, nostra éx sententia,
+
+in patriam redeamus ambo.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h91
+:END:
+
+Frater, faciam, ut tu voles.
+auctionem hic faciam et vendam quidquid est. nunc interim
+eamus intro, frater.
+
+** Sosicles
+:PROPERTIES:
+:CUSTOM_ID: h52-h92
+:END:
+
+Fiat.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h93
+:END:
+
+Scitin quid ego vos rogo?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h94
+:END:
+
+Quid?
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h95
+:END:
+
+Praeconium mi ut detis.
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h96
+:END:
+
+Dabitur.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h97
+:END:
+
+Ergo nunciam
+vis conclamari auctionem fore?
+
+** Menaechmvs
+:PROPERTIES:
+:CUSTOM_ID: h52-h98
+:END:
+
+Equidem die septimi.
+
+** Messenio
+:PROPERTIES:
+:CUSTOM_ID: h52-h99
+:END:
+
+Auctio fiet Menaechmi mane sane septimi.
+venibunt servi, supellex, fundi, aedes, omnia.
+venibunt quiqui licebunt, praesenti pecunia.
+venibit uxor quoque etiam, si quis emptor venerit.
+vix credo tota auctione capiet † quinquagesies.
+
+nunc, spectatores, valete et nobis clare plaudite.

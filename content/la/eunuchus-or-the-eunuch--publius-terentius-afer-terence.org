@@ -1,0 +1,6811 @@
+#+TITLE: Eunuchus
+#+AUTHOR: Publius Terentius Afer (Terence)
+#+FILETAGS: :classical:2c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/eunuchus-or-the-eunuch--publius-terentius-afer-terence
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Eunuchus edited by Edward St. John Parry
+#+END_QUOTE
+
+* front
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+ANTIPHO, adolescens.
+CHAEREA, adolescens.
+CHREMES,  adolescens rusticus.
+DORIAS, ancilla.
+DORUS, eunuchus.
+GNATHO, parasitus.
+LACHES, senex.
+PARMENO, servus.
+PHAEDRIA, adolescens.
+PYTHIAS, ancilla.
+SANGA, lixa.
+SOPHRONA, nutrix.
+THAIS, meretrix.
+THRASO, miles.
+
+INTRODUCTION.
+PAMPHILA and Chremes were the children of an Athenian citizen. Pamphila, while an infant, was carried off from her home at Sunium by robbers, and by them sold to a merchant of Rhodes. He presented her to a courtesan of that place, who had her brought up with her own daughter Thais as her younger sister. When Thais grew up she removed to Athens with a lover of hers, who at his death left her all his property. She then kept company with a soldier named Thraso, who went to Caria after living with her a short time.
+Meanwhile her mother had died, and her uncle wishing to realize money by Pamphila, who was beautiful and accomplished, sold her to Thraso, who happened to be at Rhodes on his return to Athens, and carried her with him intending to make a present of her to Thais. During his absence, however, Thais had found a new lover, one Phaedria, son of Laches. This Thraso discovers on his return, and in order to secure his footing with her, makes his present conditional upon Phaedria’s dismissal. This causes Thais great perplexity, for she is really attached to Phaedria, and yet much wishes to get possession of Pamphila, whose history she has learnt in part, and whom she hopes to restore to her Athenian family, intending by so doing to make herself friends in Athens. Accordingly she shuts her door against Phaedria.
+
+He is at first highly incensed at her conduct; but after an interview with her, consents to absent himself from Athens for a day or two, that she may have time to obtain Pamphila from Thraso. Before he goes he gives orders that an Ethiopian slave, and an eunuch whom he has bought for Thais, shall be taken to her house. At this moment Thraso sends Pamphila under the escort of Gnatho his follower. On her way to Thais’ house she is seen in the street by Chaerea, Phaedria’s brother, who at first sight falls desperately in love with her, and hurries after her, but being detained on his way by an old friend of his father’s, arrives just too late to see her taken into the house. Here he falls in with Parmeno, his father’s slave, and between them they concoct the scheme on which the plot of the play turns. Chaerea is dressed up in the eunuch’s clothes and conducted to Thais’ house, where he soon has an opportunity of carrying out his intended scheme, during the absence of Thais at Thraso’s house; after which he makes his escape. This event causes the greatest consternation in the household; and is no less distressing to Thais, who finds her plan for restoring Pamphila to her relations thus awkwardly frustrated. For in the meantime she has obtained some interviews with Chremes, the brother of Pamphila, and has nearly identified Pamphila when the catastrophe comes to her knowledge. Phaedria, too, is much disconcerted at discovering that his present has worked so much mischief. All parties, in fact, are at their wit’s end, with the exception of Chaerea, who, upon discovering Pamphila’s history, makes the best amends he can by undertaking to marry her. Pythias meanwhile, Thais’ maid, pays off old scores by driving Parmeno to divulge the whole matter to Laches, father of Chaerea and Phaedria.
+
+The result is of course a happy explanation on all sides. Thais is taken under Laches’ protection, and continues her intimacy with Phaedria. Chaerea and Pamphila marry. Parmeno is forgiven by his grateful young master: and the only person who suffers is the unfortunate Thraso, who is beaten clean off the field, and is only too glad to submit to be the perpetual butt of these young sparks, on condition that he shall be allowed to be one in their parties, and thus still enjoy the society of Thais.
+This is the outline of the play, which gives a very lively and amusing action. But the most admirable feature is the manner in which some of the subordinate parts are worked out. The bye-play between Pythias and Parmeno is admirable. The character of the Parasite as drawn in Act II. scene ii. is admirable, and striking from its novelty after the hackneyed ideal which is presented to us in all the plays of Plautus. No less admirable is the Braggadocio of Act III. scene i., the features of the character being the same as those of the  of Plautus, except that Terence with greater humour makes Thraso prouder of his wit than of his military exploits. The scene in which Thraso is represented as attacking Thais in her house (Act IV. scene vii.) is highly ridiculous, and reminds one more strongly than any passage of Terence of the free humour of Aristophanes. We cannot wonder that the Eunuchus should have been the most popular of all Terence’s plays: for here there is the nearest approach to the Plautini sales, which were the true Roman comedy. It is said to have been purchased by the Aediles for the sum of 8000 sesterces (above 64 £ 10 s. sterling), the largest sum which had been given for any play. The leading incident of the plot makes it unfit for the modern stage: but when we say this we say all that can be said against the play. The execution is highly delicate, even in the famous scene which describes the successful issue of Chaerea’s scheme. The play is said by the author of the Life of Terence to have been acted twice in one day: and no doubt it was acted on more than one occasion.
+
+EUNUCHUS.  ACTA LUDIS MEGALENSIBUS, L. POSTUMIO ALBINO L. CORNELIO MERULA AEDILIBUS CURULIBUS. EGERE L. AMBIVIUS TURPIO L. ATILIUS PRAENESTINUS TIBIIS DUABUS DEXTRIS. GRAECA MENANDRU. ACTA II. MODOS FECIT FLACCUS CLAUDII, M. VALERIO C. FANNIO COSS.
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** PROLOGUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+Si quisquam est qui placere se studeat bonis
+Quam plurimis et minime multos laedere,
+In his poeta hic nomen profitetur suum.
+Tum si quis est qui dictum in se inclementius
+
+Existimavit esse, sic existimet,
+Responsum non dictum esse, quia laesit prior,
+Qui bene vertendo, et easdem scribendo male, ex
+Graecis bonis Latinas fecit non bonas.
+Idem Menandri Phasma nunc nuper dedit;
+
+Atque in Thesauro scripsit causamn dicere
+Prius unde petitur aurum quare sit suumn
+Quam ille qui petit unde is sit thesaurus sibi,
+Aut unde in patrium monumentum pervenerit.
+Dehinc ne frustretur ipse se, aut sic cogitet,
+
+/Defunctus iam sum, nihil est quod dicat mihi;/
+Is ne erret moneo et desinat lacessere.
+Habeo alia multa quae nunc condonabitur;
+Quae proferentur post, si perget laedere
+Ita ut facere instituit. Quam nunc acturi sumus
+
+Menandri Eunuchum postquam Aediles emerunt,
+Perfecit sibi ut inspiciendi esset copia.
+Magistratus cum ibi adessent occepta est agi.
+Exclamat furem non poetam fabulam
+Dedisse, et nihil dedisse verborum tamen;
+
+Colacem esse Naevi et Plauti veterem fabulam;
+Parasiti personam inde ablatam et militis.
+Si id est peccatum, peccatum imprudentia est
+Poetae; non qui furtum facere studuerit.
+Id ita esse vos iam iudicare poteritis.
+
+Colax Menandri est; in ea est parasitus Colax,
+Et miles gloriosus; eas se non negat
+Personas transtulisse in Eunuchum suam
+Ex Graeca; sed eas fabulas factas prius
+Latinas scisse sese id vero pernegat.
+
+Quod si personis iisdem uti aliis non licet,
+Qui magis licet currentes servos scribere,
+Bonas matronas facere, meretrices malas,
+Parasitum edacem, gloriosum militem,
+Puerum supponi, falli per servum senem,
+
+Amare, odisse, suspicari? Denique
+Nullum est iam dictum, quod non dictum sit prius.
+Quare aequum est vos cognoscere atque ignoscere
+Quae veteres factitarunt si faciunt novi.
+Date operam, et cum silentio animadvertite,
+
+Ut pernoscatis quid sibi Eunuchus velit.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+* 46
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+(PHAEDRIA. PARMENO.)
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+Quid igitur faciam? non eam? ne nunc quidem
+Cum arcessor ultro? an potius ita me comparem
+Non perpeti meretricum contumelias?
+Exclusit: revocat. Redeam? non, si me obsecret.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h7-h2
+:END:
+
+Si quidem hercle possis, nihil prius neque fortius:
+Verum si incipies, neque pertendes naviter,
+Atque ubi pati non poteris, cum nemo expetet,
+Infecta pace, ultro ad eam venies, indicans
+Te amare et ferre non posse, actum est: ilicet:
+
+Peristi. Eludet, ubi te victum senserit.
+Proin tu dum est tempus etiam atque etiam cogita,
+Here, quae res in se neque consilium neque modun
+Habet ullum eam consilio regere non potes.
+In amore haec omnia insunt vitia; iniuriae,
+
+Suspiciones, inimicitiae, indutiae,
+Bellum, pax rursum. Incerta haec si tu postules
+Ratione certa facere, nihilo plus agas
+Quam si des operam ut cum ratione insanias.
+Et quod nunc tute tecum iratus cogitas,
+
+/Egone illam quae illum? quae me? quae non? sine modo:/
+/Mori me malim: sentiet qui vir siem;/
+Haec verba una mehercle falsa lacrimula,
+Quam oculos terendo misere vix vi expresserit,
+Restinguet: et te ultro accusabit: et dabis
+
+Ei ultro supplicium.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h7-h3
+:END:
+
+O indignum facinus! nunc ego et
+Illam scelestam esse et me miserum sentio;
+Et taedet; et amore ardeo; et prudens sciens,
+Vivus vidensque pereo; nec quid agam scio.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h7-h4
+:END:
+
+Quid agas nisi ut te redimas captum quam queas
+
+Minimo? si nequeas paululo, at quanti queas:
+Et ne te afflictes.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h7-h5
+:END:
+
+Itane suades?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h7-h6
+:END:
+
+Si sapis:
+Neque praeterquam quas ipse amor molestias
+Habet addas, et illas quas habet recte feras.
+Sed ecca ipsa egreditur nostri fundi calamitas;
+
+Nam quod nos capere oportet haec intercipit.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+* 81
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+(THAIS. PHAEDRIA. PARMENO.)
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+Miseram me! vereor ne illud gravius Phaedria
+Tulerit, neve aliorsum atque ego feci acceperit,
+Quod heri intromissus non est.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h2
+:END:
+
+Totus Parmeno
+Tremo horreoque postquam aspexi hanc.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h3
+:END:
+
+Bono animo es:
+
+Accede ad ignem hunc; iam calesces plus satis.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h4
+:END:
+
+Quis hic loquitur? ehem, tune hic eras, mi Phaedria?
+Quid hic stabas? cur non recta introibas?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h5
+:END:
+
+Caeterum
+De exclusione verbum nullum.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h6
+:END:
+
+Quid taces?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h7
+:END:
+
+Sane quia vero hae mihi patent semper fores,
+
+Aut quia sum apud te primus.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h8
+:END:
+
+Missa istaec face.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h9
+:END:
+
+Quid missa? o Thais, Thais, utinam esset mihi
+Pars aequa amoris tecum, ac pariter fieret,
+Ut aut hoc tibi doleret itidem ut mihi dolet,
+Aut ego istuc abs te factum nihili penderem.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h10
+:END:
+
+Ne crucia te, obsecro, anime mi, mi Phaedria.
+Non pol quo quemquam plus amem aut plus diligam
+Eo feci: sed ita erat res; faciundum fuit.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h11
+:END:
+
+Credo ut fit misera prae amore exclusti hunc foras.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h12
+:END:
+
+Sicine ais Parmeno? age: sed huc qua gratia
+
+Te arcessi iussi ausculta.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h13
+:END:
+
+Fiat.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h14
+:END:
+
+Dic mihi
+Hoc primum, potin est hic tacere?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h15
+:END:
+
+Egone? optime.
+Verum heus tu, hac lege tibi meam astringo fidem:
+Quae vera audivi taceo et contineo optime;
+Sin falsum aut vanum aut fictum est, continuo palam est;
+
+Plenus rimaraum sum; hac atque illac perfluo.
+Proin tu, taceri si vis, vera dicito.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h16
+:END:
+
+Samia mihi mater fuit: ea habitabat Rhodi.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h17
+:END:
+
+Potest taceri hoc.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h18
+:END:
+
+Ibi tum matri parvulam
+Puellam dono quidam mercator dedit
+
+Ex Attica hine abreptam.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h19
+:END:
+
+Civemne?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h20
+:END:
+
+Arbitror:
+Certum non scimus: matris nomen et patris
+Dicebat ipsa: patriam et signa caetera
+Neque scibat, neque per aetatem etiam potuerat.
+Mercator hoc addebat, e praedonibus
+
+Unde emerat se audisse abreptam e Sunio.
+Mater ubi accepit, coepit studiose omnia
+Docere, educare ita uti si esset filia.
+Sororem plerique esse credebant meam.
+Ego cum illo quicum tum uno rem habebam hospite
+
+Abii huc; qui mihi reliquit haec quae habeo omnia.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h21
+:END:
+
+Utrumque hoc falsum est: effluet.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h22
+:END:
+
+Qui istuc?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h23
+:END:
+
+Quia
+Neque tu uno eras contenta, neque solus dedit;
+Nam hic quoque bonam magnamque partem ad te attulit.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h24
+:END:
+
+Ita est: sed sine me pervenire quo volo.
+
+Interea miles qui me amare occeperat
+In Cariam est profectus: te interea loci
+Cognovi: tute scis postilla quam intumum
+Habeam te, et mea consilia ut tibi credam omnia.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h25
+:END:
+
+Ne hoc quidem tacebit Parmeno.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h26
+:END:
+
+Oh, dubiumne id est?
+
+Hoc agite amabo. Mater mea illic mortua est
+Nuper. Eius frater aliquantum ad rem est avidior.
+Is hanc ubi forma videt honesta virginem,
+Et fidibus scire, pretium sperans ilico
+Producit, vendit. Forte fortuna affuit
+
+Hic meus amicus: emit eam dono mihi,
+Imprudens harum rerum ignarusque omnium.
+Is venit: postquam sensit me tecum quoque
+Rem habere, fingit causas ne det sedulo.
+Ait, si fidem habeat se iri praepositum tibi
+
+Apud me, ac non id metuat, ne ubi acceperim
+Sese relinquam, velle se illam mihi dare;
+Verum id vereri: sed, ego quantum suspicor,
+Ad virginem animum adiecit.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h27
+:END:
+
+Etiamne amplius?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h28
+:END:
+
+Nihil; nam quaesivi. Nunc ego eam, mi Phaedria,
+
+Multae sunt causae quamobrem cupiam abducere:
+Primum quod soror est dicta; praeterea ut suis
+Restituam ac reddam: sola sum: habeo hic neminem
+Neque amicum, neque cognatum; quamobrem, Phaedria,
+Cupio aliquos parare amicos beneficio meo.
+
+Id amabo adiuta me, quo id fiat facilius.
+Sine illum priores partes hosce aliquot dies
+Apud me habere. Nihil respondes?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h29
+:END:
+
+Pessima,
+Egon quicquam cum istis factis tibi respondeam?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h30
+:END:
+
+Eu noster! laudo: tandem perdoluit: vir es.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h31
+:END:
+
+At ego nescibam quorsum tu ires: /Parvula/
+/Hinc est abrepta; eduxit mater pro sua:/
+/Soror est dicta: cupio abducere, ut reddam suis./
+Nempe omnia haec nunc verba huc redeunt denique;
+Ego excludor; ille recipitur: qua gratia?
+
+Nisi illum plus amas quam me, et istam nunc times
+Quae advecta est, ne illum talem praeripiat tibi.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h32
+:END:
+
+Ego id timeo?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h33
+:END:
+
+Quid te ergo aliud sollicitat? cedo.
+Num solus ille dona dat? nuncubi meam
+Benignitatem sensisti in te claudier?
+
+Nonne ubi mihi dixti cupere te ex Aethiopia
+Ancillulam relictis rebus omnibus
+Quaesivi? porro eunuchum dixti velle te,
+Quia solae utuntur his reginae; repperi.
+Heri minas viginti pro ambobus dedi:
+
+Tamen contemptus abs te haec habui in memoria:
+Ob haec facta abs te spernor.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h34
+:END:
+
+Quid istic Phaedria?
+Quanquam illam cupio abducere, atque hac re arbitror
+Id fieri posse maxime, verumtamen,
+Potius quam te inimicum habeam, faciam ut iusseris.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h35
+:END:
+
+Utinam istuc verbum ex animo ac vere diceres,
+/Potius quam te inimicum habeam./ Si istuc crederem
+Sincere dici quidvis possem perpeti.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h36
+:END:
+
+Labascit victus uno verbo quam cito!
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h37
+:END:
+
+Ego non ex animo misera dico? quam ioco
+
+Rem voluisti a me tandem quin perfeceris?
+Ego impetrare nequeo hoc abs te, biduum
+Saltem ut concedas solum?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h38
+:END:
+
+Siquidem biduum;
+Verum ne fiant isti viginti dies.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h39
+:END:
+
+Profecto non plus biduum, aut —
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h40
+:END:
+
+/Aut/ nihil moror.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h41
+:END:
+
+Non fiet: hoc modo sine te exorem.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h42
+:END:
+
+Scilicet
+Faciendum est quod vis.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h43
+:END:
+
+Merito amo te.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h44
+:END:
+
+Bene facis.
+Rus ibo: ibi hoc me macerabo biduum.
+Ita facere certum est: mos gerendus est Thaidi.
+Tu, Parmeno, huc fac illi adducantur.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h45
+:END:
+
+Maxime.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h46
+:END:
+
+In hoc biduum Thais vale.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h47
+:END:
+
+Mi Phaedria
+Et tu; numquid vis aliud?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h48
+:END:
+
+Egone quid velim?
+Cum milite isto praesens absens ut sies;
+Noctes diesque me ames; me desideres;
+Me somnies; me expectes; de me cogites;
+
+Me speres; me te oblectes; mecum tota sis:
+Meus fac sis postremo animus, quando ego sum tuus.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h49
+:END:
+
+Me miseram! forsitan hic mihi parvam habeat fidem,
+Atque ex aliarum ingeniis nunc me iudicet.
+Ego pol quae mihi sum conscia hoc certo scio,
+
+Neque me finxisse falsi quicquam, neque meo
+Cordi esse quemquam cariorem hoc Phaedria:
+Et quicquid huius feci causa virginis
+Feci; nam me eius spero fratrem propemodum
+Iam repperisse, adolescentem adeo nobilem:
+
+Et is hodie venturum ad me constituit domum.
+Concedam hinc intro atque expectabo dum venit.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+* 207
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+(PHAEDRIA. PARMENO.)
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+Fac ita ut iussi deducantur isti.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h2
+:END:
+
+Faciam.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h3
+:END:
+
+At diligenter.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h4
+:END:
+
+Fiet.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h5
+:END:
+
+At mature.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h6
+:END:
+
+Fiet.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h7
+:END:
+
+Satin hoc mandatum est tibi?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h8
+:END:
+
+Ah!
+Rogitare? quasi difficile sit.
+Utinam tam aliquid invenire facile possis Phaedria
+
+Quam hoc peribit.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h9
+:END:
+
+Ego quoque una pereo, quod mihi est carius:
+Ne istuc tam iniquo patiare animo.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h10
+:END:
+
+Minime; quin effectum dabo.
+Sed numquid aliud imperas?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h11
+:END:
+
+Munus nostrum ornato verbis, quod poteris; et istum aemulum,
+Quod poteris, ab ea pellito.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h12
+:END:
+
+Memini, tametsi nullus moneas.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h13
+:END:
+
+Ego rus ibo, atque ibi manebo.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h14
+:END:
+
+Censeo.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h15
+:END:
+
+Sed heus tu!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h16
+:END:
+
+Quid vis?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h17
+:END:
+
+Censen posse me offirmare
+Et perpeti ne redeam interea?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h18
+:END:
+
+Tene? non hercle arbitror.
+Nam aut iam revertere, aut mox noctu te adiget horsum insomnia.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h19
+:END:
+
+Opus faciam ut defatiger usque ingratiis ut dormiam.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h20
+:END:
+
+Vigilabis lassus; hoc plus facies.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h21
+:END:
+
+Ah nihil dicis Parmeno.
+Eiicienda hercle haec est mollities animi: nimis me indulgeo.
+Tandem non ego illa caream, si sit opus, vel totum triduum?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h22
+:END:
+
+Hui!
+Universum triduum? vide quid agas.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h23
+:END:
+
+Stat sententia.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h24
+:END:
+
+Di boni, quid hoc morbi est? adeone homines immutarier
+
+Ex amore ut non cognoscas eundem esse? Hoc nemo fuit
+Minus ineptus magis severus quisquam, nec magis continues.
+Sed quis hic est qui huc pergit? at at! hic quidem est parasitus Gnatho
+Militis: ducit secum una virginem dono huic. Papae!
+Facie honesta: mirum ni ego me turpiter hodie hic dabo
+
+Cum meo decrepito hoc eunucho. Haec superat ipsam Thaidem.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+* 232
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+(GNATHO. PARMENO.)
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h1
+:END:
+
+Di immortales! homini homo quid praestat, stulto intelligens
+Quid interest! hoc adeo ex hac re venit in mentem mihi.
+Conveni hodie adveniens quendam mei loci hinc atque ordinis,
+Hominem haud impurum, itidem patria qui abligurierat bona.
+
+Video sentum, squalidum, aegrum, pannis annisque obsitum.
+/Quid istuc,/ inquam, /ornati est?/ /Quoniam miser quod habui perdidi. Hem,/
+/Quo redactus sum! omnes noti me atque amici deserunt./
+Hic ego illum contempsi prae me. /Quid homo,/ inquam, /ignavissime?/
+/Itan parasti te, ut spes nulla reliqua in te sit tibi?/
+
+/Simul consilium cum re amisti? viden me ex eodem ortum loco,/
+/Qui color, nitor, vestitus, quae habitudo est corporis?/
+/Omnia habeo, neque quicquam habeo. Nihil cum est nihil defit tamen./
+/At ego infelix neque ridiculus esse neque plagas pati/
+/Possum./ /Quid? tu his rebus credis fieri? tota erras via./
+
+/Olim isti fuit generi quondam quaestus apud saeclum prius./
+/Hoc novum est aucupium: ego adeo hanc primus inveni viam./
+/Est genus hominum, qui esse primos se omnium rerum volunt,/
+/Nec sunt: hos consector. Hisce ego non paro me ut rideant;/
+/Sed his ultro arrideo, et eorum ingenia admiror simul./
+
+/Quicquid dicunt laudo: id rursum si negant, laudo id quoque./
+/Negat quis? nego: ait? aio. Postremo imperavi egomet mihi/
+/Omnia assentari. Is quaestus nunc est multo uberrimus./
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h2
+:END:
+
+Scitum hercle hominem! hic homines prorsum ex stultis insanos facit.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h3
+:END:
+
+Dum haec loquimur interea loci ad macellum ubi advenimus,
+
+Concurrunt laeti mihi obviam cupediarii omnes,
+Cetarii, lanii, coqui, fartores, piscatores;
+Quibus et re salva et perdita profueram, et prosum saepe.
+Salutant; ad coenam vocant; adventum gratulantur.
+Ille ubi miser famelicus videt me esse in tanto honore,
+
+Et tam facile victum quaerere, ibi homo coepit me obsecrare
+Ut sibi liceret discere id de me: sectari iussi;
+Si potis est, tanquam philosophorum habent disciplina ex ipsis
+Vocabula, parasiti item ut Gnathonici vocentur.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h4
+:END:
+
+Viden otium et cibus quid faciat alienus?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h5
+:END:
+
+Sed ego cesso
+Ad Thaidem hanc deducere, et rogitare ad coenam ut veniat?
+
+Sed Parmenonem ante ostium Thaidis tristem video,
+Rivalis servum. Salva res est: nimirum homines frigent.
+Nebulonem hunc certum est ludere.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h6
+:END:
+
+Hice hoc munere arbitrantur
+Suam Thaidem esse.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h7
+:END:
+
+Plurima salute Parmenonem
+
+Summum suum impertit Gnatho. Quid agitur?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h8
+:END:
+
+Statur.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h9
+:END:
+
+Video.
+Numquidnam quod nolis vides?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h10
+:END:
+
+Te.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h11
+:END:
+
+Credo; at numquid aliud?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h12
+:END:
+
+Quidum?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h13
+:END:
+
+Quia tristis es.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h14
+:END:
+
+Nihil equidem.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h15
+:END:
+
+Ne sis: sed quid videtur
+Hoc tibi mancipium?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h16
+:END:
+
+Non malum hercle.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h17
+:END:
+
+Uro hominem.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h18
+:END:
+
+Ut falsus animi est!
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h19
+:END:
+
+Quam hoc munus gratum Thaidi arbitrare esse?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h20
+:END:
+
+Hoc nunc dicis,
+
+Eiectos hinc nos: omnium rerum, heus, vicissitudo est.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h21
+:END:
+
+Sex ego te totos Parmeno hos menses quietum reddam,
+Ne sursum deorsum cursites, neve usque ad lucem vigiles.
+Ecquid beo te?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h22
+:END:
+
+Men? papae!
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h23
+:END:
+
+Sic soleo amicos.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h24
+:END:
+
+Laudo.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h25
+:END:
+
+Detineo te fortasse: tu profectus alio fueras.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h26
+:END:
+
+Nusquam.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h27
+:END:
+
+Tum tu igitur paululum da mihi operae: fac ut admittar
+Ad illam.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h28
+:END:
+
+Age modo; nunc tibi patent fores hae, quia istam ducis.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h29
+:END:
+
+Numquam evocari hinc vis foras?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h30
+:END:
+
+Sine biduum hoc praetereat:
+Qui mihi nunc uno digitulo fores aperis fortunatus
+Nae tu istas faxo calcibus saepe insultabis frustra.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h31
+:END:
+
+Etiam nunc hic stas Parmeno? eho numnam hic relictus custos,
+Ne quis forte internuntius clam a milite ad istam curset?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h32
+:END:
+
+Facete dictum: mira vero militi quae placeant.
+Sed video herilem filium minorem huc advenire.
+Miror quid ex Piraeeo abierit; nam ibi custos publice est nunc.
+
+Non temere est; et properans venit: nescio quid circumspectat.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+* 292
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+(CHAEREA. PARMENO.)
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+Occidi.
+Neque virgo est usquam; neque ego, qui illam e conspectu amisi meo.
+Ubi quaeram? Ubi investigem? Quem perconter? Quam insistam viam?
+Incertus sum: una haec spes est; ubi ubi est, diu celari non potest.
+
+O faciem pulchramn! deleo omnes dehinc ex animo mulieros.
+Taedet quotidianarum harum formarum.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h2
+:END:
+
+Ecce autem alterum!
+Nescio quid de more loquitur.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h3
+:END:
+
+O infortunatum senem!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h4
+:END:
+
+Hic vero est qui si occeperit lucidum iocumque dices
+Illum alterum fuisse praeut quae dabit huius rabies.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h5
+:END:
+
+Ut illum Di Deaeque senium perdant qui me hodie remoratus est,
+Meque adeo qui restiterim; tum autem qui illum floccifecerim.
+Sed eccum Parmenonem: salve.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h6
+:END:
+
+Quid tu es tristis? quidve es alacris?
+Unde is?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h7
+:END:
+
+Egone? nescio hercle, neque unde eam, neque quorsumn eam:
+Ita prorsum oblitus sum mei.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h8
+:END:
+
+Qui quaeso?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h9
+:END:
+
+Amo.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h10
+:END:
+
+Hem!
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h11
+:END:
+
+Nunc Parmeno te ostendes qui vir sies.
+Scis te mihi saepe pollicitum esse; /Chaerea aliquid inveni/
+/Modo quod ames: in ea re utilitatem ego faciam ut cognoscas meam;/
+Cum in cellulam ad te patris penum omnem congerebam clanculum.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h12
+:END:
+
+Age, inepte.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h13
+:END:
+
+Hoc hercle factum est: fac sis nunc promissa appareant;
+
+Sive adeo digna res est ubi tu nervos intendas tuos.
+Haud similis virgo est virginum nostrarum quas matres student
+Demissis humeris esse, vincto pectore, ut gracilae sient.
+Si qua est habitior paulo, pugilem esse aiunt, deducunt cibum.
+Tametsi bona est natura, reddunt curatura iunceas:
+
+Itaque ergo amantur.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h14
+:END:
+
+Quid tua istaec?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h15
+:END:
+
+Nova figura oris.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h16
+:END:
+
+Papae!
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h17
+:END:
+
+Color verus, corpus solidum et succi plenum.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h18
+:END:
+
+Anni?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h19
+:END:
+
+Anni? sedecim.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h20
+:END:
+
+Flos ipse.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h21
+:END:
+
+Hanc tu mihi vel vi vel clam vel precario
+Fac tradas: mea nihil refert, dum potiar modo.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h22
+:END:
+
+Quid? virgo cuia est?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h23
+:END:
+
+Nescio hercle.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h24
+:END:
+
+Unde est?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h25
+:END:
+
+Tantundem.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h26
+:END:
+
+Ubi habitat?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h27
+:END:
+
+Ne id quidem.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h28
+:END:
+
+Ubi vidisti?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h29
+:END:
+
+In via.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h30
+:END:
+
+Qua ratione amisti?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h31
+:END:
+
+Id equidem adveniens mecum stomachabar modo;
+Nec quenquam esse ego hominem arbitror cui magis bonae
+Felicitates omnes adversae sient.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h32
+:END:
+
+Quid hoc est sceleris?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h33
+:END:
+
+Perii.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h34
+:END:
+
+Quid factum est?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h35
+:END:
+
+Rogas?
+
+Patris cognatum atque aequalem Archidemidem,
+Novistin?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h36
+:END:
+
+Quidni?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h37
+:END:
+
+Is dum sequor hanc fit mihi obviam.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h38
+:END:
+
+Incommode hercle.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h39
+:END:
+
+Immo enimvero infeliciter;
+Nam incommoda alia sunt cicenda, Parmeno.
+Illum liquet mihi deierare his mensibus
+
+Sex septem prorsum non vidisse proximis,
+Nisi nunc cum minime vellem minimeque opus fuit.
+Eho nonne hoc monstri simile est? quid ais?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h40
+:END:
+
+Maxime.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h41
+:END:
+
+Continuo accurrit ad me quam longe quidem,
+Incurvus, tremulus, labiis demissis, gemens.
+
+/Heus! heus! tibi dico Chaerea,/ inquit. Restiti.
+/Scin quid ego te volebam?/ /Dic./ /Cras est mihi/
+/Iudicium./ /Quid tum?/ /Ut diligenter nunties/
+/Patri, advocatus mane mihi esse ut meminerit./
+Dum haec dicit, abiit hora. Rogo numquid velit?
+
+/Recte,/ inquit. Abeo. Cum huc respicio ad virginem,
+Illa sese interea commodum huc adverterat
+In hanc nostram plateam.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h42
+:END:
+
+Mirum ni hanc dicit modo
+Huic quae data est dono.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h43
+:END:
+
+Huc cum advenio nulla erat.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h44
+:END:
+
+Comites secuti scilicet sunt virginem.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h45
+:END:
+
+Verum: parasitus cum ancilla.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h46
+:END:
+
+Ipsa est: ilicet:
+Desine: iam conclamatum est.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h47
+:END:
+
+Alias res agis.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h48
+:END:
+
+Istuc ago quidem.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h49
+:END:
+
+Nostin quae sit? die mihi:
+Aut vidistin?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h50
+:END:
+
+Vidi; novi; scio quo abducta sit.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h51
+:END:
+
+Eho Parmeno mi nostin?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h52
+:END:
+
+Novi.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h53
+:END:
+
+Et scis ubi siet?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h54
+:END:
+
+Huc deducta est ad meretricem Thaidem: ei dono data est.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h55
+:END:
+
+Quis is est tam potens cum tanto munere hoc?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h56
+:END:
+
+Miles Thraso,
+Phaedriae rivalis.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h57
+:END:
+
+Duras fratris partes praedicas.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h58
+:END:
+
+Immo enim si scias quod donum huic dono contra comparet,
+Tum id magis dicas.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h59
+:END:
+
+Quodnam quaeso hercle?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h60
+:END:
+
+Eunuchum.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h61
+:END:
+
+Illumne obsecro
+
+Inhonestum hominem quem mercatus est heri, senem, mulierem?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h62
+:END:
+
+Istune ipsum.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h63
+:END:
+
+Homo quatietur certe cum dono foras.
+Sed istam Thaidem non scivi nobis vicinam.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h64
+:END:
+
+Haud diu est.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h65
+:END:
+
+Perii! numquamne etiam me illam vidisse? ehodum dic mihi;
+Estne ut fertur forma?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h66
+:END:
+
+Sane.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h67
+:END:
+
+At nihil ad nostram hanc.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h68
+:END:
+
+Alia res.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h69
+:END:
+
+Obsecro hercle Parmeno fac ut potiar.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h70
+:END:
+
+Faciam sedulo ac
+Dabo operam; adiuvabo: numquid me aliud vis?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h71
+:END:
+
+Quo nunc is?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h72
+:END:
+
+Domum,
+Ut mancipia haec, ita ut iussit frater, ducam ad Thaidem.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h73
+:END:
+
+O fortunatum istum eunuchum qui quidem in hanc detur domum!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h74
+:END:
+
+Quid ita?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h75
+:END:
+
+Rogitas? Summa forma semper conservam domi
+
+Videbit; colloquetur; aderit una in unis aedibus;
+Cibum nonnumquam capiet cum ea; interdum propter dormiet.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h76
+:END:
+
+Quid si nunc tute fortunatus fias?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h77
+:END:
+
+Qua re Parmeno?
+Responde.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h78
+:END:
+
+Capias tu illius vestem.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h79
+:END:
+
+Vestem? quid tum postea?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h80
+:END:
+
+Pro illo te ducam.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h81
+:END:
+
+Audio.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h82
+:END:
+
+Te esse illum dicam.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h83
+:END:
+
+Intelligo.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h84
+:END:
+
+Tu illis fruare commodis quibus tu illum dicebas modo;
+Cibum una capias, adsis, tangas, ludas, propter dormias;
+Quandoquidem illarum neque te quisquam novit, neque scit qui sies.
+Praeterea forma et aetas ipsa est facile ut pro eunucho probes.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h85
+:END:
+
+Dixti pulchre: numquam vidi melius consilium dari.
+
+Age, eamus intro: nunc iam orna me; abduc, duc, quantum otes.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h86
+:END:
+
+Quid agis? iocabar equidem.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h87
+:END:
+
+Garris.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h88
+:END:
+
+Perii: quid ego egi miser?
+Quo trudis? perculeris iam tu me: tibi equidem dico, mane.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h89
+:END:
+
+Eamus.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h90
+:END:
+
+Pergin?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h91
+:END:
+
+Certum est.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h92
+:END:
+
+Vide ne nimium calidum hoc sit modo.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h93
+:END:
+
+Non est profecto: sine.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h94
+:END:
+
+At enim istaec in me cudetur faba.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h95
+:END:
+
+Ah!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h96
+:END:
+
+Flagitium facimus.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h97
+:END:
+
+An id flagitium est, si in domum meretriciam
+Deducar; et illis crucibus quae nos nostramque adolescentiam
+Habent despicatam, et quae nos semper omnibus cruciant modis,
+Nunc referam gratiam; atque eas itidem fallam ut ab illis fallimur?
+An potius haec patri aequum est fieri ut a me ludatur dolis:
+
+Quod qui rescierint culpent: illud merito factum omnes putent.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h98
+:END:
+
+Quid istic? si certum est facere facias: verum ne post conferas
+Culpam in me.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h99
+:END:
+
+Non faciam.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h100
+:END:
+
+Iubesne?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h101
+:END:
+
+Iubeo, cogo, atque impero.
+Numquam defugiam auctoritatem: sequere.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h102
+:END:
+
+Di vortant bene.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+* 390
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+(THRASO. GNATHO. PARMENO.)
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h1
+:END:
+
+Magnas vero agere gratias Thais mihi?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h2
+:END:
+
+Ingentes.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h3
+:END:
+
+Ain tu? laeta est?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h4
+:END:
+
+Non tam ipso quidem
+Dono quam abs te datum esse: id vero serio
+Triumphat.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h19-h5
+:END:
+
+Huc proviso ut, ubi tempus siet,
+
+Deducam: sed eccum militem.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h6
+:END:
+
+Est istuc datum
+Profecto ut grata mihi sint quae facio omnia.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h7
+:END:
+
+Adverti hercle animum.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h8
+:END:
+
+Vel rex semper maximas
+Mihi agebat quidquid feceram; aliis non item.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h9
+:END:
+
+Labore alieno magnam partam gloriam
+
+Verbis saepe in se transmovet qui habet salem,
+Quod in te est.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h10
+:END:
+
+Habes.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h11
+:END:
+
+Rex te ergo in oculis—
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h12
+:END:
+
+Scilicet.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h13
+:END:
+
+Gestare.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h14
+:END:
+
+Vero: credere omnem exercitum,
+Consilia.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h15
+:END:
+
+Mirum.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h16
+:END:
+
+Tum sicubi eum satietas
+Hominum, aut negoti si quando odium ceperat,
+
+Requiescere ubi volebat, quasi—nostin?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h17
+:END:
+
+Scio:
+Quasi ubi illam exspueret iniseriam ex animo.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h18
+:END:
+
+Tenes.
+Tum me convivam solum abducebat sibi.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h19
+:END:
+
+Hui!
+Regem elegantem narras.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h20
+:END:
+
+Immo sic homo est
+Perpaucorum hominum.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h21
+:END:
+
+Immo nullorum arbitror,
+
+Si tecum vivit.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h22
+:END:
+
+Invidere omnes mihi;
+Mordere clanculum: ego non flocci pendere.
+Illi invidere misere: verum unus tamen
+Impense, elephantis quem Indicis praefecerat.
+Is ubi molestus magis est, /Quaeso,/ inquam, /Strato,/
+
+/Eone es ferox quia habes imperium in belluas?/
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h23
+:END:
+
+Pulchre mehercle dictum, et sapienter. Papae!
+Iugularas hominem. Quid ille?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h24
+:END:
+
+Mutus ilico.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h25
+:END:
+
+Quidni esset?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h19-h26
+:END:
+
+Di vestram fidem! hominem perditum
+Miserumque, et illum sacrilegum.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h27
+:END:
+
+Quid illud Gnatho
+
+Quo pacto Rhodium tetigerim in convivio,
+Numquam tibi dixi?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h28
+:END:
+
+Numquamn: sed narra, obsecro.
+Plus millies audivi.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h29
+:END:
+
+Una in convivio
+Erat hic quem dico Rhodius adolescentulus.
+Forte habui scortum: coepit ad id alludere,
+
+Et me irridere. /Quid agis,/ inquam, /homo impudens?/
+/Lepus es, et pulpamentum quaeris?/
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h30
+:END:
+
+Ha, ha, he.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h31
+:END:
+
+Quid est?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h32
+:END:
+
+Facete, lepide, laute; nihil supra.
+Tuumne, obsecro te, hoc dictum erat? vetus credidi.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h33
+:END:
+
+Audieras?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h34
+:END:
+
+Saepe; et fertur in primis.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h35
+:END:
+
+Meum est.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h36
+:END:
+
+Dolet dictum imprudenti adolescenti et libero.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h19-h37
+:END:
+
+At te Di perdant.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h38
+:END:
+
+Quid ille, quaeso?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h39
+:END:
+
+Perditus.
+Risu omnes qui aderant emoriri: denique
+Metuebant omnes iam me.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h40
+:END:
+
+Non iniuria.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h41
+:END:
+
+Sed heus tu, purgone ego me de istac Thaidi,
+
+Quod ear me amare suspicata est?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h42
+:END:
+
+Nihil minus.
+Immo auge magis suspicionem.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h43
+:END:
+
+Cur?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h44
+:END:
+
+Rogas?
+Scin? si quando illa mentionem Phaedriae
+Facit, aut si laudat, te ut male urat.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h45
+:END:
+
+Sentio.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h46
+:END:
+
+Id ut ne fiat haec res sola est remedio.
+
+Ubi nominabit Phaedriam, tu Pamphilam
+Continuo: si quando illa dicet, /Phaedriam/
+/Commissatum intromittamus:/ tu, /Pamphilam/
+/Cantatum provocemus./ Si laudabit haec
+Illius formam, tu huius contra. Denique
+
+Par pro pari referto, quod eam mordeat.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h47
+:END:
+
+Siquidem me amaret, tum istuc prodesset, Gnatho.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h48
+:END:
+
+Quando illud quod tu das exspectat atque amat,
+Iam dudum te amat, iam dudum illi facile fit
+Quod doleat; metuit semper quem ipsa nunc capit
+
+Fructum ne quando iratus tu alio conferas.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h49
+:END:
+
+Bene dixti: at mihi istuc non in mentem venerat.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h50
+:END:
+
+Ridiculum: non enim cogitaras: caeterum
+Idem hoc tute melius quanto invenisses Thraso!
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+* 453
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+(THAIS. THRASO. PARMENO. GNATHO. PYTHIAS.)
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h1
+:END:
+
+Audire vocem visa sum modo militis.
+Atque eccum. Salve mi Thraso.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h2
+:END:
+
+O Thais mea,
+Meum suavium, quid agitur? ecquid nos amas
+De fidicina istac?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h3
+:END:
+
+Quam venuste! quod dedit
+
+Principium adveniens.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h4
+:END:
+
+Plurimum merito tuo.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h5
+:END:
+
+Eamus ergo ad coenam: quid stas?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h6
+:END:
+
+Hem alterum:
+Abdomini hunc natum dicas.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h7
+:END:
+
+Ubi vis, non moror.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h8
+:END:
+
+Adibo, atque adsimulabo quasi nunc exeam.
+Ituran Thais quopiam es?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h9
+:END:
+
+Ehem! Parmeno,
+
+Bene fecisti: hodie itura.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h10
+:END:
+
+Quo?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h11
+:END:
+
+Quid? hunc non vides?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h12
+:END:
+
+Video et me taedet: ubi vis dona adsunt tibi
+A Phaedria.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h13
+:END:
+
+Quid stamus? cur non imus hinc?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h14
+:END:
+
+Quaeso hercle ut liceat, pace quod fiat tua,
+Dare huic quae volumus, convenire et colloqui.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h15
+:END:
+
+Perpulchra credo dona haud nostris similia.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h16
+:END:
+
+Res indicabit. Heus, iubete istos foras
+Exire quos iussi ocius: procede tu huc.
+Ex Aethiopia est usque haec.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h17
+:END:
+
+Hic sunt tres minae.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h18
+:END:
+
+Vix.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h19
+:END:
+
+Ubi tu es Dore? accede huc. Hem eunuchum tibi,
+
+Quam liberali facie, quam aetate integra!
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h20
+:END:
+
+Ita me Di ament honestus est.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h21
+:END:
+
+Quid tu ais, Gnatho?
+Numquid habes quod contemnas? quid tu autem Thraso?
+Tacent; satis laudant. Fac periclum in literis,
+Fac in palaestra, in musicis: quae liberum
+
+Scire aequum est adolescentem solertem dabo.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h22
+:END:
+
+Ego illum eunuchum, si opus siet, vel sobrius.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h23
+:END:
+
+Atque haec qui misit non sibi soli postulat
+Te vivere, et sua causa excludi caeteros;
+Neque pugnas narrat; neque cicatrices suas
+
+Ostentat; neque tibi obstat, quod quidam facit:
+Verum ubi molestum non erit, ubi tu voles,
+Ubi tempus tibi erit, sat habet si tun recipitur.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h24
+:END:
+
+Apparet servum hunc esse domini pauperis
+Miserique.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h25
+:END:
+
+Nam hercle nemo posset, sat scio,
+
+Qui haberet qui pararet alium, hunc perpeti.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h26
+:END:
+
+Tace tu, quem ego esse infra infimos omnes puto
+Homines; nam qui huic animum assentari induxeris,
+E flamma petere te cibum posse arbitror.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h27
+:END:
+
+Iamne imus?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h28
+:END:
+
+Hos prius introducam, et quae volo
+
+Simul imperabo: post continuo exeo.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h29
+:END:
+
+Ego hine abeo; tu istam opperire.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h30
+:END:
+
+Haud convenit
+Una cum amica ire imperatorer in via.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h31
+:END:
+
+Quid tibi ego multa dicam? domini similis es.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h32
+:END:
+
+Ha, ha, he.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h33
+:END:
+
+Quid rides?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h34
+:END:
+
+Istuc quod dixti modo;
+
+Et illud de Rhodio dictum cum in mentem venit:
+Sed Thais exit.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h35
+:END:
+
+Abi prae, curre, ut sint domi
+Parata.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h36
+:END:
+
+Fiat.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h37
+:END:
+
+Diligenter Pythias
+Fac cures, si Chremes huc forte advenerit,
+Ut ores primum ut maneat: si id non commodum est,
+
+Ut redeat: si id non poterit, ad me adducito.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h21-h38
+:END:
+
+Ita faciam.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h39
+:END:
+
+Quid? quid aliud volui dicere?
+Ehem, curate istam diligenter virginem.
+Domi adsitis facite.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h40
+:END:
+
+Eamus.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h41
+:END:
+
+Vos me sequimini.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+* 506
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+(CHREMES. PYTHIAS.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h1
+:END:
+
+Profecto quanto magis magisque cogito,
+Nimirum dabit haec Thais mihi magnum malum:
+Ita me video ab ea astute labefactarier,
+Iam tum cum primum iussit me ad se arcessier.
+
+Roget quis /Quid tibi cum illa?/ ne noram quidem;
+Ubi veni, causam ut ibi manerem repperit.
+Ait rem divinam fecisse, et rem seriam
+Velle agere mecum. Iam tum erat suspicio
+Dolo malo haec fieri omnia: ipsa accumbere
+
+Mecum, mihi sese dare, sermonem quaerere.
+Ubi friget, huc evasit; quam pridem pater
+Mihi et mater mortui essent: dico, iam diu.
+Rus Sunii ecquod haberem, et quam longe a mari?
+Credo ei placere hoc: sperat se a me avellere.
+
+Postremo, ecqua inde parva periisset soror?
+Ecquis cum ea una? quid habuisset cum perit?
+Ecquis eam posset noscere? Haec cur quaeritet?
+Nisi si illa forte, quae olim periit parvula
+Soror, hanc se intendit esse, ut est audacia.
+
+Verum ea si vivit annos nata est sedecim,
+Non maior. Thais quam ego sum maiuscula est.
+Misit porro orare ut venirem serio.
+Aut dicat quod volt; aut molesta ne siet:
+Non hercle veniam tertio. Heus, heus. Ecquis hic?
+
+Ego sum Chremes.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h2
+:END:
+
+O capitulum lepidissimum!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h3
+:END:
+
+Dico ego mihi insidias fieri.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h4
+:END:
+
+Thais maximo
+Te orabat opere ut eras redires.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h5
+:END:
+
+Rus eo.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h6
+:END:
+
+Fac amabo.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h7
+:END:
+
+Non possum, inquam.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h8
+:END:
+
+At tu apud nos hic mane,
+Dum redeat ipsa.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h9
+:END:
+
+Nihil minus.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h10
+:END:
+
+Cur mi Chremes?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h11
+:END:
+
+Malam rem hinc abis?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h12
+:END:
+
+Si istuc ita certum est tibi,
+Amabo ut illuc transeas ubi illa est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h13
+:END:
+
+Eo.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h14
+:END:
+
+Abi Dorias cito hunc deduce ad militem.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+* 538
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+(ANTIPHO.)
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h1
+:END:
+
+Heri aliquot adolescentuli coimus in Piraeeo,
+In hunc diem ut de symbolis essemus. Chaeream ei rei
+Praefecimus; dati annuli; locus, tempus constitutum est.
+Praeteriit tempus; quo in loco dictum est parati nihil est.
+
+Homo ipse nusquam est; neque scio quid dicam aut quid coniectem.
+Nunc mihi hoc negoti caeteri dedere ut illum quaeram;
+Idque adeo visam, si domi est. Quisnam hic a Thaide exit?
+Is est, an non est? ipsus est. Quid hoc hominis? qui hic ornatus est?
+Quid illud mali est? nequeo satis mirari neque coniicere.
+
+Nisi quicquid est, procul hinc libet prius quid sit sciscitari.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+* 548
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+(CHAEREA. ANTIPHO.)
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h1
+:END:
+
+Numquis hic est? nemo est: numquis hinc me sequitur? nemo homo est.
+Iamne erumpere hoc licet mihi gaudium? pro Iupiter!
+Nunc est profecto interfici cum perpeti me possum,
+Ne hoc gaudium contaminet vita aegritudine aliqua.
+
+Sed neminemne curiosum intervenire nunc mihi,
+Qui me sequatur, quoquo eam; rogitando obtundat, enecet;
+Quid gestiam, aut quid laetus sim; quo pergam, unde emergam; ubi siem
+Testitum hunc nactus; quid mihi quaeram; sanus sim, anne insaniam?
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h2
+:END:
+
+Adibo, atque ab eo gratiam hanc quam video velle inibo.
+
+Chaerea, quid est quod sic gestis? quid sibi hic vestitus quaerit?
+Quid est quod laetus sis? quid tibi vis? satin sanus? quid me adspectas?
+Quid taces?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h3
+:END:
+
+O festus dies hominis! amice salve.
+Nemo est hominum, quem ego nunc magis cuperem videre quam te.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h4
+:END:
+
+Narra istuc quaeso quid siet.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h5
+:END:
+
+Immo ego te obsecro hercle ut audias.
+
+Nostine hanc, quam amat frater?
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h6
+:END:
+
+Novi, nempe opinor Thaidem.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h7
+:END:
+
+Istam ipsam.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h8
+:END:
+
+Sic commemineram.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h9
+:END:
+
+Quaedam hodie est ei dono data
+Virgo. Quid ego eius tibi nunc faciem praedicem aut laudem Antipho,
+Cum ipsum me noris quam elegans formarum spectator siem?
+In hac commotus sum.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h10
+:END:
+
+Ain tu?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h11
+:END:
+
+Primam dices, scio, si videris.
+
+Quid multa verba? amare coepi. Forte fortuna domi
+Erat quidam eunuchus quem mercatus fuerat frater Thaidi,
+Neque is deductus etiamdum ad eam. Summonuit me Parmeno
+Ibi servus quod ego arripui.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h12
+:END:
+
+Quid id est?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h13
+:END:
+
+Tacitus citius audies.
+Ut vestem cum eo mutem, et pro illo iubeam me illuc deducier.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h14
+:END:
+
+Pro eunuchon?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h15
+:END:
+
+Sic est.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h16
+:END:
+
+Quid ex ea re tandem ut caperes commodi?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h17
+:END:
+
+Rogas? viderem, audirem, essem una quacum cupiebam Antipho.
+Num parva causa aut parva ratio est? traditus sum mulieri.
+Illa ilico ubi me accepit laeta vero ad se abducit domum:
+Commendat virginem.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h18
+:END:
+
+Cui? tibine?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h19
+:END:
+
+Mihi.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h20
+:END:
+
+Satis tuto tamen.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h21
+:END:
+
+Edicit ne vir quisquam ad eam adeat; et mihi ne abscedam imperat,
+In interiore parte ut maneam solus cum sola: annuo,
+Terram intuens modeste.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h22
+:END:
+
+Miser!
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h23
+:END:
+
+/Ego,/ inquit, /ad coenam hine eo./
+Abducit secum ancillas: paucae quae circum illam essent manent
+
+Novitiae puellae: continuo haec adornant ut lavet.
+Adhortor properent: dum apparatur, virgo in conclavi sedet,
+Suspectans tabulam quandam pictam, ubi inerat pictura haec:
+Quo pacto Danaae misisse aiunt quondam in gremium imbirem aureum.
+Egomet quoque id spectare coepi; et, quia consimilem luserat
+Iam olim ille ludum, impendio magis animus gaudebat mihi;
+
+Deum sese in hominem convertisse, atque in alienas tegulas
+Venisse clanculum per impluvium, fucum factum mulieri.
+At quem Deum? qui templa coeli summa sonitu concutit.
+Ego homuncio hoc non facerem? ego illud vero ita feci ac lubens.
+Dum haec mecum reputo, arcessitur lavatum interea virgo:
+
+It, lavit, rediit: deinde eam in lectum illae collocant.
+Sto exspectans si quid mihi imperent. Venit una; /Heus tu,/ inquit, /Dore/
+/Cape hoc flabellum et ventulum huic sic facito, dum lavamus:/
+/Ubi nos laverimus si voles lavato./ Accipio tristis.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h24
+:END:
+
+Tum equidem istuc os tuum impudens videre nimium vellem;
+
+Qui esset status, flabellum tenere te asinum tantum.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h25
+:END:
+
+Vix elocuta est hoc, foras simul omnes proruunt se:
+Abeunt lavatum: perstrepunt, ita ut fit domini ubi absunt.
+Interea somnus virginem opprimit; ego limis specto
+Sic per flabellum clanculum; simul alia circumspecto
+
+Satin explorata sint. Video esse; pessulum ostio obdo.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h26
+:END:
+
+Quid tum?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h27
+:END:
+
+Quid? quid tum? fatue.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h28
+:END:
+
+Fateor.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h29
+:END:
+
+An ego occasionem
+Mihi ostentam tantam, tam brevem, tam optatam, tam insperatam.
+Amitterem? tum pol ego is essem vere qui simulabar.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h30
+:END:
+
+Sane hercle ut dicis: sed interim de symbolis quid actum est?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h31
+:END:
+
+Paratum est.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h32
+:END:
+
+Frugi es. Ubi? domino?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h33
+:END:
+
+Immo apud libortum Discumn.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h34
+:END:
+
+Perlonge est: sed tanto ocius properenus; muta vestem.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h35
+:END:
+
+Ubi mutem? perii; nam domo exulo nunc: metuo fratrem
+Ne intus sit; porro autem pater ne rure redierit iam.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h36
+:END:
+
+Eamus ad me: ibi proximum est ubi mutes.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h37
+:END:
+
+Recte dicis
+
+Eamus; et de istac simul, quo pacto porro possim
+Potiri, consilium volo capere una tecum.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h38
+:END:
+
+Fiat.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+* 614
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+(DORIAS.)
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h30-h1
+:END:
+
+Ita me Di ament, quantum ego illum vidi, nonnihil timeo misera
+Ne quam ille hodie insanus turbam faciat, aut vim Thaidi.
+Nam postquam iste advenit Chremes adolescens, frater virginis,
+Militem rogat ut illum admitti iubeat: ille continuo irasci,
+
+Neque negare audere: Thais porro instare ut hominem invitet.
+Id faciebat retinendi illius causa, quia illa quae cupiebat
+De sorore eius indicare ad eam rem tempus non erat.
+Invitat tristis; mansit: ibi illa cum illo sermonem occipit.
+Miles vero sibi putare adductum ante oculos aemulum:
+
+Voluit facere contra huic aegre. Heus! inquit, puer, Pamphilam
+Arcesse, ut delectet hic nos. Illa exclamat, /Minime gentium!/
+/In convivium illam?/ Miles tendere: inde ad iurgium.
+Interea aurum sibi clam mulier demit; dat mihi ut auferam.
+Hoc est signi; ubi primum poterit se illinc subducet, scio.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+* 628
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+(PHAEDRIA.)
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h1
+:END:
+
+Dum rus eo coepi egomet mecum inter vias,
+Ita ut fit ubi quid in animo est molestiae,
+Aliam rem ex alia cogitare, et ea omnia in
+Peiorem partem. Quid opus est verbis? dum haec puto
+
+Praeterii imprudens villam: longe iam abieram
+Cum sensi: redeo rursum, male vero me habens.
+Ubi ad ipsum veni diverticulum, constiti.
+Occepi mecum cogitare: /Hem! biduum hic/
+/Manendum est soli sine illa? quid tum postea?/
+
+/Nihil est: quid? nihil? si non tangendi copia est,/
+/Eho, ne videndi quidem erit? si illud non licet,/
+/Saltem hoc licebit. Certe extrema linea/
+/Amare haud nihil est./ Villam praetereo sciens.
+Sed quid hoc quod timida subito egreditur Pythias?
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+* 642
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+(PYTHIAS. PHAEDRIA. DORIAS.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h1
+:END:
+
+Ubi ego illum scelerosum misera atque impium inveniam? aut ubi quaeram?
+Hocine tam audax facinus facere esse ausum?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h2
+:END:
+
+Perii! hoc quid sit vereor.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h3
+:END:
+
+Quin etiam insuper scelus, postquam ludificatus est virginem,
+Vestem omnem miserae discidit; tum ipsam capillo conscidit.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h4
+:END:
+
+Hem.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h5
+:END:
+
+Qui nunc si detur mihi,
+Ut ego unguibus facile illi in oculos involem venefico.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h6
+:END:
+
+Nescio, quid profecto absente nobis turbatum est domi.
+Adibo. Quid istuc? quid festinas? aut quem quaeris, Pythias?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h7
+:END:
+
+Ehem, Phaedria, ego quem quaeram? ine hinc quo dignus es cum donis tuis
+
+Tam lepidis?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h8
+:END:
+
+Quid istuc est rei?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h9
+:END:
+
+Rogas me? Eunuchum quem dedisti nobis quas turbas dedit!
+Virginem, herae quam dono dederat miles, vitiavit.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h10
+:END:
+
+Quid ais?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h11
+:END:
+
+Perii.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h12
+:END:
+
+Temulenta es.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h13
+:END:
+
+Utinam sic sient qui mihi male volunt.
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h14
+:END:
+
+Au, obsecro, mea Pythias, quid istuc nam monstri fuit?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h15
+:END:
+
+Insanis: qui istuc facere eunuchus potuit?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h16
+:END:
+
+Ego illum nescio
+Qui fuerit: hoc quod fecit res ipsa indicat.
+Virgo ipsa lacrimat, neque cum rogites quid sit, audet dicere.
+Ille autem bonus vir nusquam apparet. Etiam hoc misera suspicor,
+Aliquid domo abeuntem abstulisse.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h17
+:END:
+
+Nequeo mirari satis
+
+Quo ille abire ignavus possit longius; nisi si domum
+Forte ad nos rediit.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h18
+:END:
+
+Vise amabo num sit.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h19
+:END:
+
+Iam faxo scies.
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h20
+:END:
+
+Perii! obsecro tam infandum facinus, mea tu, ne audivi quidem.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h21
+:END:
+
+At pol ego amatores mulierum esse audieram eos maximos,
+Sed nihil potesse; verum miserae non in mentem venerat;
+
+Nam illum aliquo conclusissem, neque illi commisissem virginem.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 667
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+(PHAEDRIA. DORUS. PYTHIAS. DORIAS.)
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+Exi foras, sceleste: at etiam restitas
+Fugitive? prodi, male conciliate.
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h2
+:END:
+
+Obsecro.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h3
+:END:
+
+Oh,
+Illud vide, os ut sibi distorsit carnufex.
+Quid huc tibi reditio est? vestis quid mutatio?
+
+Quid narras? Paulum si cessassem, Pythias,
+Domi non offendissem; ita iam ornarat fugam.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h4
+:END:
+
+Habesne hominem amabo?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h5
+:END:
+
+Quidni habeam?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h6
+:END:
+
+Factum bene!
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h7
+:END:
+
+Istuc pol vero bene.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h8
+:END:
+
+Ubi est?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h9
+:END:
+
+Rogitas? non vides?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h10
+:END:
+
+Videam? obsecro quem?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h11
+:END:
+
+Hunc scilicet.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h12
+:END:
+
+Quis hic est homo?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h13
+:END:
+
+Qui ad vos deductus hodie est.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h14
+:END:
+
+Hunc oculis suis
+Nostrarum numquam quisquam vidit, Phaedria.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h15
+:END:
+
+Non vidit?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h16
+:END:
+
+An tu hunc credidisti esse, obsecro,
+Ad nos deductum?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h17
+:END:
+
+Namque alium habui neminem.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h18
+:END:
+
+Au!
+Ne comparandus hic quidem ad illum est: ille erat
+
+Honesta facie et liberali.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h19
+:END:
+
+Ita visus est
+Dudum, quia varia veste exornatus fuit:
+Nunc eo tibi videtur foedus, quia illam non habet.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h20
+:END:
+
+Tace, obsecro; quasi vero paulum intersiet.
+Ad nos deductus hodie est adolescentulus,
+
+Quem tu videre vero velles, Phaedria.
+Hic est vetus, victus, veternosus senex,
+Colore mustelino.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h21
+:END:
+
+Hem, quae haec est fabula?
+Eo redigis me ut quid egerim egomet nesciam.
+Eho tu! emine ego te?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h22
+:END:
+
+Emisti.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h23
+:END:
+
+Iube, mihi denuo
+
+Respondeat.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h24
+:END:
+
+Roga.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h25
+:END:
+
+Venistine hodie ad nos? negat.
+At ille alter venit, annos natus sedecim,
+Quem secum adduxit Parmeno.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h26
+:END:
+
+Age dum, hoc mihi expedi
+Primum: istam quam habes unde habes vestem? taces?
+Monstrum hominis! non dicturus es?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h27
+:END:
+
+Venit Chaerea.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h28
+:END:
+
+Fraterne?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h29
+:END:
+
+Ita.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h30
+:END:
+
+Quando?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h31
+:END:
+
+Hodie.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h32
+:END:
+
+Quam dudum?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h33
+:END:
+
+Modo.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h34
+:END:
+
+Quicum?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h35
+:END:
+
+Cum Parmenone.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h36
+:END:
+
+Norasne eum prius?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h37
+:END:
+
+Non; nec quis esset umquam audieram dicier.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h38
+:END:
+
+Unde igitur fratrem meum esse scibas?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h39
+:END:
+
+Parmeno
+Dicebat eum esse: is dedit mihi hanc vestem.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h40
+:END:
+
+Occidi.
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h41
+:END:
+
+Meam ipse induit: post una ambo abierunt foras.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h42
+:END:
+
+Iam satis credis sobriam esse me, et nihil mentitam tibi?
+Iam satis certum est virginem vitiatam esse?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h43
+:END:
+
+Age nunc bellua
+Credis huic quod dicit?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h44
+:END:
+
+Quid isti credam? res ipsa indicat.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h45
+:END:
+
+Concede istuc paululum: audin? etiam nunc paululum: sat est.
+
+Dicdum hoc rursum: Chaerea tuam vestem detraxit tibi?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h46
+:END:
+
+Factum.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h47
+:END:
+
+Et ea est indutus?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h48
+:END:
+
+Factum.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h49
+:END:
+
+Et pro te huc deductus est?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h50
+:END:
+
+Ita.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h51
+:END:
+
+Iupiter magne, o scelestum atque audacem hominem!
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h52
+:END:
+
+Vae mihi!
+Etiam nunc non credis indignis nos esse irrisas modis?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h53
+:END:
+
+Mirum ni tu credas quod iste dicit: quid agam nescio.
+
+Heus, negato rursum. Possumne ego hodie ex te exsculpere
+Verum? vidistin fratrem Chaeream?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h54
+:END:
+
+Non.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h55
+:END:
+
+Non potest sine
+Malo fateri, video: sequere hac: modo ait, modo negat.
+Ora me.
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h56
+:END:
+
+Obsecro te vero, Phaedria.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h57
+:END:
+
+I intro nunc iam.
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h58
+:END:
+
+Oi, ei.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h59
+:END:
+
+Alio pacto honeste quo modo hinc abeam nescio.
+
+Actum est, siquidem tu me hic etiam, nebulo, ludificabere.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h60
+:END:
+
+Parmenonis tam scio esse hanc technam quam me vivere.
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h61
+:END:
+
+Sic est.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h62
+:END:
+
+Inveniam pol hodie parem ubi referam gratiam.
+Sed nunc quid faciendum censes, Dorias?
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h63
+:END:
+
+De istac rogas
+Virgine?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h64
+:END:
+
+Ita: utrum taceamne an praedicem? Dor. Tu pol, si sapis,
+
+Quod scis nescis, neque de eunucho, neque de vitio virginis:
+Hac re et te omni turba evolves, et illi gratum feceris.
+Id odio dic, abisse Dorum.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h65
+:END:
+
+Ita faciam.
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h66
+:END:
+
+Sed videon Chremem?
+Thais iam aderit.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h67
+:END:
+
+Quid ita?
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h68
+:END:
+
+Quia cum inde abeo, iam tum inceperat
+Turba inter eos.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h69
+:END:
+
+Aufer aurum hoc: ego scibo ex hoc quid siet.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 726
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+(CHREMES. PYTHIAS.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+At at! data hercle verba mihi sunt: vicit vinum quod bibi.
+Ac, dum accubabam, quam videbar mihi esse pulchre sobrius!
+Postquam surrexi, neque pes neque mens satis suum officium facit.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+Chreme!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+Quis est? ehem Pythias. Vah, quanto nunc formosior
+
+Videre mihi quam dudum!
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+Certe tu quidem pol et multo hilarior.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h5
+:END:
+
+Verbum hercle hoc verum est; sine Cerere et Libero friget Venus.
+Sed Thais multo antevenit?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h38-h6
+:END:
+
+Anne abiit iam a milite?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h7
+:END:
+
+Iamdudum; aetatem: lites sunt inter eos factae maximae.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h38-h8
+:END:
+
+Nihil dixit ut sequerere sese?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h9
+:END:
+
+Nihil, nisi abiens mihi innuit.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h38-h10
+:END:
+
+Eho, nonne id sat erat?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h11
+:END:
+
+At nescibam id dicere illam; nisi quia
+Correxit miles quod intellexi minus: nam me extrusit foras.
+Sed eccam ipsam: miror ubi ego huic anteverterim.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 738
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+(THAIS. CHREMES. PYTHIAS.)
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+Credo equidem illum iam adfuturum esse, ut illam a me eripiat. Sine veniat.
+Atqui si illam digito attigerit uno, oculi ilico effodientur.
+Usque adeo ego illius ferre possum ineptias et magnifica verba,
+Verba dum sint: verum enim si ad rem conferentur, vapulabit.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h2
+:END:
+
+Thais, ego iam dudum hic adsum.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h3
+:END:
+
+O mi Chreme, te ipsum exspectabam.
+Scin tu turbam hanc propter te esse factam, et adeo ad te attinere hanc
+Omnem rem?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h4
+:END:
+
+Ad me? qui, quaeso, istuc?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h5
+:END:
+
+Quia, dum tibi sororem studeo
+Reddere et restituere, haec atque huiusmodi sum multa passa.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h6
+:END:
+
+Ubi ea est?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h7
+:END:
+
+Domi apud me.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h8
+:END:
+
+Hem, quid est?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h9
+:END:
+
+Educta ita uti teque illaque dignum est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h10
+:END:
+
+Quid ais?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h11
+:END:
+
+Id quod res est.
+Hanc tibi dono do, neque repeto pro illa quicquam abs te preti.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h12
+:END:
+
+Et habetur et referetur, Thais, a me ita uti merita es gratia.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h13
+:END:
+
+At enim cave ne prius quam hanc a me accipias, amittas Chreme;
+Nam haec ea est quam miles a me vi nunc ereptum venit.
+
+Abi tu, cistellam, Pythias, domo effer cum monumentis.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h14
+:END:
+
+Viden tu illum, Thais—
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h40-h15
+:END:
+
+Ubi sita est?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h16
+:END:
+
+In risco. Odiosa cessas?—
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h17
+:END:
+
+Militem secum ad te quantas copias adducere?
+Atat.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h18
+:END:
+
+Num formidolosus obsecro es, mi homo?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h19
+:END:
+
+Apage sis:
+Egon formidolosus? nemo est hominum qui vivat minus.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h20
+:END:
+
+Atque ita opus est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h21
+:END:
+
+Ah, metuo qualem tu me esse hominem existimes.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h22
+:END:
+
+Immo hoc cogitato; quicum res tibi est peregrinus est,
+Minus potens quam tu, minus notus, minus amicorum hic habens.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h23
+:END:
+
+Scio istuc. Sed tu quod cavere possis stultum admittere est.
+Malo ego nos prospicere quam hunc ulcisci accepta iniuria.
+
+Tu abi, atque obsera ostium intus, dum ego hinc transcurro ad forum.
+Volo ego adesse hic advocatos nobis in turba hac.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h24
+:END:
+
+Mane.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h25
+:END:
+
+Melius est.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h26
+:END:
+
+Mane.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h27
+:END:
+
+Omitte; iam adero.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h28
+:END:
+
+Nihil opus est istis, Chreme:
+Hoc modo die, sororem illam tuam esse, et te parvam virginem
+Amisisse; nunc cognosse. Signa ostende.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h40-h29
+:END:
+
+Adsunt.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h30
+:END:
+
+Cape.
+
+Si vim faciet, in ius ducito hominem: intellextin?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h31
+:END:
+
+Probe.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h32
+:END:
+
+Fac animo haec praesenti dicas.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h33
+:END:
+
+Faciam.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h34
+:END:
+
+Attolle pallium.
+Perii! huic ipsi est opus patrono quem defensorem paro.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 770
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+(THRASO. GNATHO. SANGA. CHREMES. THAIS.)
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+Hancine ego ut contumeliam tam insignem in me accipiam, Gnatho?
+Mori me satius est. Simalio, Donax, Syrisce, sequimini.
+Primum aedes expugnabo.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+Recte.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+Virginem eripiam.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+Probe.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+Male mulcabo ipsam.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+Pulchre.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h7
+:END:
+
+In medium huc agmen cum vecti Donax;
+
+Tu, Simalio in sinistrum cornu; tu Syrisce in dexterum.
+Cedo alios: ubi centurio est Sanga, et manipulus furum?
+
+** SANGA
+:PROPERTIES:
+:CUSTOM_ID: h42-h8
+:END:
+
+Eccum adest.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h9
+:END:
+
+Quid ignave? peniculon pugnare, qui istuc huc portes, cogitas?
+
+** SANGA
+:PROPERTIES:
+:CUSTOM_ID: h42-h10
+:END:
+
+Egone? Imperatoris virtutem noveram et vim militum;
+Sine sanguine hoc fieri non posse; qui abstergerem vulnera.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h11
+:END:
+
+Ubi alii?
+
+** SANGA
+:PROPERTIES:
+:CUSTOM_ID: h42-h12
+:END:
+
+Qui, malum, alii? solus Sannio servat domi.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h13
+:END:
+
+Tu hosce instrue: hic ego ero post principia: inde omnibus signum dabo.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h14
+:END:
+
+Illuc est sapere! ut hosce instruxit, ipsus sibi cavit loco.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h15
+:END:
+
+Idem hoc iam Pyrrhus factitavit.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h16
+:END:
+
+Viden tu Thais quam hic rem agit?
+Nimirum consilium illud rectum est de occludendis aedibus.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h42-h17
+:END:
+
+Sane quod tibi nunc vir videatur esse hic nebulo magnus est.
+Ne metuas.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h18
+:END:
+
+Quid videtur?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h19
+:END:
+
+Fundam tibi nunc nimis vellem dari,
+Ut tu illos procul hinc ex occulto caederes: facerent fugam.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h20
+:END:
+
+Sed eccam Thaidem ipsam video.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h21
+:END:
+
+Quam mox irrimus?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h22
+:END:
+
+Mane.
+Omnia prius experiri quam armis sapientem decet.
+
+Qui scis an quae iubeam sine vi faciat?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h23
+:END:
+
+Di vestram fidem!
+Quanti est sapere ! numquam accedo quin abs te abeam doctior.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h24
+:END:
+
+Thais, primum hoc mihi responde; cum tibi do istam virginem
+Dixtine hos mihi dies soli dare te?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h42-h25
+:END:
+
+Quid tum postea?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h26
+:END:
+
+Rogitas, quae mihi ante oculos coram amatorem adduxti tuum?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h42-h27
+:END:
+
+Quid cum illo agas?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h28
+:END:
+
+Et cum eo clam te subduxti mihi?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h42-h29
+:END:
+
+Libuit.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h30
+:END:
+
+Pamphilam ergo huc redde, nisi vi mavis eripi.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h31
+:END:
+
+Tibi illam reddat? aut tu illam tangas omnium—?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h32
+:END:
+
+Ah, quid agis? tace.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h33
+:END:
+
+Quid tu tibi vis? ego non tangam meam?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h34
+:END:
+
+Tuam autem furcifer!
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h35
+:END:
+
+Cave sis; nescis cui nunc male dicas viro.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h36
+:END:
+
+Non tu hinc abis?
+
+Scin tu ut tibi res se habeat? Si quicquam hodie hic turbae coeperis,
+Faciam ut huius loci, dieique, meique, semper memineris.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h37
+:END:
+
+Miseret tui me qui hunc tantum hominem facias inimicum tibi.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h38
+:END:
+
+Diminuam ego caput tuum hodie, nisi abis.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h39
+:END:
+
+Ain vero, canis?
+Sicine agis?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h40
+:END:
+
+Quis tu es homo? quid tibi vis? quid cum illa rei tibi est?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h41
+:END:
+
+Scibis: principio eam esse dico liberam.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h42
+:END:
+
+Tem!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h43
+:END:
+
+Civem Atticam.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h44
+:END:
+
+Hui!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h45
+:END:
+
+Meam sororem.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h46
+:END:
+
+Os durum!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h47
+:END:
+
+Miles, nunc adeo edico tibi
+Ne vim facias ullam in illam. Thais, ego eo ad Sophronam
+Nutricem, ut ean adducam, et signa ostendam haec.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h48
+:END:
+
+Tun me prohibeas
+Meam ne tangam?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h49
+:END:
+
+Prohibeo, inquam.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h50
+:END:
+
+Audin tu? hic furti se alligat.
+
+Satis hoc tibi est.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h51
+:END:
+
+Idem hoc tu ais, Thais?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h42-h52
+:END:
+
+Quaere qui respondeat.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h53
+:END:
+
+Quid nunc agimus?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h54
+:END:
+
+Quin redimus? Iam haec tibi aderit supplicans
+Ultro.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h55
+:END:
+
+Credin?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h56
+:END:
+
+Immo certe. Novi ingenium mulierum:
+Nolunt ubi velis; ubi nolis cupiunt ultro.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h57
+:END:
+
+Bene putas.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h58
+:END:
+
+Iam dimitto exercitum?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h59
+:END:
+
+Ubi vis.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h60
+:END:
+
+Sanga, ita uti fortes decet
+
+Milites, domi focique fac vicissim ut memineris.
+
+** SANGRA
+:PROPERTIES:
+:CUSTOM_ID: h42-h61
+:END:
+
+Iamdudum animus est in patinis.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h62
+:END:
+
+Frugi es.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h63
+:END:
+
+Vos me hac sequimini.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+* 816
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+(THAIS. PYTHIAS.)
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h1
+:END:
+
+Pergin scelesta mecum perplexe loqui?
+/Scio; nescio; abiit; audivi; ego non affui./
+Non tu istuc mihi dictura aperte es quicquid est?
+Virgo conscissa veste lacrimans obticet.
+Eunuchus abiit; quamobrem? quid factum est? taces?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h2
+:END:
+
+Quid tibi ego dicam misera? Illum eunuchum negant
+Fuisse.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h3
+:END:
+
+Quis fuit igitur?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h4
+:END:
+
+Iste Chaerea.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h5
+:END:
+
+Qui Chaerea?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h6
+:END:
+
+Iste ephebus, frater Phaedriae.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h7
+:END:
+
+Quid ais venefica?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h8
+:END:
+
+Atqui certo comperi.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h9
+:END:
+
+Quid is obsecro ad nos? quamobrem adductus est?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h10
+:END:
+
+Nescio;
+Nisi amasse credo Pamphilam.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h11
+:END:
+
+Hem, misera occidi;
+Infelix, siquidem tu istaec vera praedicas.
+Num id lacrimat virgo?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h12
+:END:
+
+Id opinor.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h13
+:END:
+
+Quid ais sacrilega?
+Istucine interminata sum hinc abiens tibi?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h14
+:END:
+
+Quid facerem? ita ut tu iusti soli credita est.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h15
+:END:
+
+Scelesta lupo ovem commisisti. Dispudet
+Sic mihi data esse verba. Quid illic hominis est?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h16
+:END:
+
+Hera mea tace; tace obsecro; salvae sumus:
+Habemus hominem ipsum.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h17
+:END:
+
+Ubi is est?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h18
+:END:
+
+Hem ad sinistram:
+
+Viden?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h19
+:END:
+
+Video.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h20
+:END:
+
+Comprehendi iube quantum potest.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h21
+:END:
+
+Quid illo faciemus stulta?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h22
+:END:
+
+Quid facias rogas?
+Vide amabo si non, qutun adspicias, os impudens
+Videtur: non est? tum quae eius confidentia est!
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+* 839
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+(CHAEREA. THAIS. PYTHIAS.)
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h1
+:END:
+
+Apud Antiphonem uterque, mater et pater,
+Quasi dedita opera domi erant, ut nullo modo
+Introire possem quin viderent me. Interim
+Dum ante ostium sto, notus mihi quidam obviam
+
+Venit. Ubi vidi, ego me in pedes quantum queo
+In angiportum quoddam desertum; inde item
+In aliud, inde in aliud: ita miserrimus
+Fui fugitando ne quis me cognosceret.
+Sed estne haec Thais quam video? Ipsa est. Haereo.
+
+Quid faciam? quid mea autem? quid faciet mihi?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h2
+:END:
+
+Adeamus. Bone vir Dore salve. Die mihi,
+Aufugistine?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h3
+:END:
+
+Hera, factum.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h4
+:END:
+
+Satin id tibi placet?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h5
+:END:
+
+Non.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h6
+:END:
+
+Credin te impune habiturum?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h7
+:END:
+
+Unam hanc noxiam
+Mitte: si aliam admisero umquam, occidito.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h8
+:END:
+
+Num meam saevitiam veritus es?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h9
+:END:
+
+Non.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h10
+:END:
+
+Quid igitur?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h11
+:END:
+
+Hanc metui ne me criminaretur tibi.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h12
+:END:
+
+Quid feceras?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h13
+:END:
+
+Paulum quiddam.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h14
+:END:
+
+Eho, paulum, impudens?
+An paulum hoc esse tibi videtur, virginem
+Vitiare civem?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h15
+:END:
+
+Conservam esse credidi.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h16
+:END:
+
+Conservam? Vix me contineo quin involem in
+Capillum. Monstrum etiam ultro derisum advenit.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h17
+:END:
+
+Abin hinc, insana?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h18
+:END:
+
+Quid ita vero? debeam,
+Credo, isti quicquam furcifero, si id fecerim;
+Praesertim cium se servum fateatur tuum.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h19
+:END:
+
+Missa haec faciamus. Non te lignum, Chaerea,
+Fecisti; nam etsi ego digna hac contumelia
+Sum maxime, at tu indignius qui faceres tamen.
+Neque edepol quid nunc consili capiam scio
+De virgine istac: ita conturbasti mihi
+
+Rationes omnes, ut eam non possim suis,
+Ita ut aequum fuerat atque ut studui, tradere,
+Ut solidum parerem hoc mihi beneficium, Chaerea.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h20
+:END:
+
+At nunc dehinc spero aeternam inter nos gratiam
+Fore, Thais. Saepe ex huiusmodi re quapiam et
+
+Malo principio magna familiaritas
+Conflata est. Quid si hoc quispiam voluit Deus?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h21
+:END:
+
+Equidem pol in eam partem accipioque et volo.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h22
+:END:
+
+Immo ita quaeso. Unum hoc scito; contumeliae
+Non me fecisse causa sed amoris.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h23
+:END:
+
+Scio;
+
+Et pol propterea magis nunc ignosco tibi.
+Non adeo inhumano ingenio sum, Chaerea,
+Neque ita imperita ut quid amor valeat nesciam.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h24
+:END:
+
+Te quoque iam, Thais, ita me Di bene ament, amo.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h25
+:END:
+
+Tum pol tibi ab istoc, hera, cavendum intelligo.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h26
+:END:
+
+Non ausim.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h27
+:END:
+
+Nihil tibi quicquam credo.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h28
+:END:
+
+Desinas.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h29
+:END:
+
+Nunc ego te in hac re mihi oro ut adiutrix sies:
+Ego me tuae commendo et committo fidei;
+Te mihi patronam capio, Thais; te obsecro.
+Emoriar si non hanc uxorem duxero.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h30
+:END:
+
+Tamen si pater—.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h31
+:END:
+
+Quid? ah volet, certo scio;
+Civis modo haec sit.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h32
+:END:
+
+Paululum opperirier
+Si vis, iam frater ipse hic aderit virginis:
+Nutricem arcessitum it quae illam aluit parvulam.
+In cognoscendo tute ipse aderis, Chaerea.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h33
+:END:
+
+Ego vero maneo.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h34
+:END:
+
+Vin interea, dum is venit,
+Domi opperiamur potius quam hic ante ostium?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h35
+:END:
+
+Immo percupio.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h36
+:END:
+
+Quam tu rem actura obsecro es?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h37
+:END:
+
+Nam quid ita?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h38
+:END:
+
+Rogitas? hunc tu in aedes cogitas
+Recipere posthac?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h39
+:END:
+
+Cur non?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h40
+:END:
+
+Crede hoc meae fidei;
+
+Dabit hic aliquam pugnam denuo.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h41
+:END:
+
+Au tace obsecro.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h42
+:END:
+
+Parum perspexisse eius videre audaciam.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h43
+:END:
+
+Non faciam, Pythias.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h44
+:END:
+
+Non pol credo, Chaerea,
+Nisi si commissum non erit.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h45
+:END:
+
+Quin Pythias,
+Tu me servato.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h46
+:END:
+
+Neque pol servandum tibi
+
+Quicquam dare ausim, neque te servare: apage te.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h47
+:END:
+
+Adest optime ipse frater.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h48
+:END:
+
+Perii hercle: obsecro,
+Abeamus intro Thais: nolo me in via
+Cum hac veste videat.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h49
+:END:
+
+Quamobrem tandem? an quia pudet?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h50
+:END:
+
+Id ipsum.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h51
+:END:
+
+Id ipsum? Virgo vero.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h52
+:END:
+
+I prae; sequor.
+
+Tu istic mane, ut Chremem introducas, Pythias.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+* 909
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+(PYTHIAS. CHREMES. SOPHRONA.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h49-h1
+:END:
+
+Quid? quid venire in mentem nunc possit mihi?
+Quidnam qui referam illi sacrilego gratiam
+Qui hunc supposuit nobis?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h2
+:END:
+
+Move vero ocius
+Te nutrix.
+
+** SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h49-h3
+:END:
+
+Moveo.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h4
+:END:
+
+Video; sed nihil promoves.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h49-h5
+:END:
+
+Iamne ostendisti signa nutrici?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h6
+:END:
+
+Omnia.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h49-h7
+:END:
+
+Amabo quid ait? cognoscitne?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h8
+:END:
+
+Ac memoriter.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h49-h9
+:END:
+
+Bene edepol narras; nam illi faveo virgini.
+Ite intro: iamdudum hera vos exspectat domi.
+Virum bonum eccum Parmenonem incedere
+
+Video. Vide ut otiosus it si Dis placet.
+Spero me habere qui hunc meo excruciem modo.
+Ibo intro de cognitione ut certum sciam:
+Post exibo atque hunc perterrebo sacrilegum.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+* 922
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+(PARMENO. PYHIAS.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h1
+:END:
+
+Reviso quidnam Chaerea hic rerum gerat.
+Quod si astu rem tractavit, Di vestram fidem,
+Quantam et quam veram laudem capiet Parmeno!
+Nam ut mittam, quod ei amorem difficillimum et
+
+Carissimum, ab meretrice avara virginem
+Quam amabat eam confeci sine molestia,
+Sine surtu, sine dispendio; tum hoc alterum,
+Id vero est quod ego mihi puto palmarium
+Me repperisse, quo modo adolescentulus
+
+Meretricum ingenia et mores posset noscere;
+Mature ut quum cognorit perpetuo oderit.
+Quae dum foris sunt, nihil videtur mundius;
+Nec magis compositum quicquam, nec magis elegans:
+Quae, cum amatore suo quum coenant, liguriunt.
+
+Harum videre illuviem, sordes, inopiam;
+Quam inhonestae solae sint domi, atque avidae cibi;
+Quo pacto ex iure hesterno panem atrum vorent;
+Nosse omnia haec salus est adolescentulis.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h2
+:END:
+
+Ego pol te pro istis dictis et factis, scelus,
+
+Ulciscar, ut ne impune in nos illuseris.
+Proh Deum fidem, facinus foedum! O infelicem adolescentulum!
+O scelestum Parmenonem qui istum huc adduxit!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h3
+:END:
+
+Quid est?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h4
+:END:
+
+Miseret me: itaque ut ne viderem misera huc effigi foras
+Quae futura exempla dicunt in eum indigna.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h5
+:END:
+
+O Iupiter,
+
+Quae illaec turba est? numnam ego perii? Adibo. Quid istuc Pythias?
+Quid ais? in quem exempla fient?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h6
+:END:
+
+Rogitas audacissime?
+Perdidisti istum quem adduxti pro eunucho adolescentulum,
+Dum studes dare verba nobis.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h7
+:END:
+
+Quid ita? aut quid factum est? cedo.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h8
+:END:
+
+Dicam. Virginem istam Thaidi quae hodie dono data est
+
+Scis eam hinc civem esse, et fratrem eius esse apprime nobilem?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h9
+:END:
+
+Nescio.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h10
+:END:
+
+Atqui sic inventa est: eam iste vitiavit miser.
+Ille ubi id rescivit factum, frater violentissimus —
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h11
+:END:
+
+Quidnam fecit?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h12
+:END:
+
+colligavit primum eum miseris modis.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h13
+:END:
+
+Colligavit?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h14
+:END:
+
+Atque equidem orante ut ne id faceret Thaide.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h15
+:END:
+
+Quid ais?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h16
+:END:
+
+Nunc minatur porro sese id quod moechis solet;
+Quod ego numquam vidi fieri, neque velim.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h17
+:END:
+
+Qua audacia
+Tantum facinus audet?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h18
+:END:
+
+Quid ita tantum?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h19
+:END:
+
+An non tibi hoc maximum est?
+Quis homo pro moecho umquam vidit in domo meretricia
+Prehendi quemquam?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h20
+:END:
+
+Nescio.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h21
+:END:
+
+At ne hoc nesciatis, Pythias,
+
+Dico, edico vobis, nostrum esse illum herilem filium.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h22
+:END:
+
+Hem
+Obsecro, an is est?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h23
+:END:
+
+Ne quam in illum Thais vim fieri sinat.
+Atque adeo autem cur non egomet intro eo?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h24
+:END:
+
+Vide, Parmeno,
+Quid agas, ne neque illi prosis et tu pereas; nam hoc putant,
+Quicquid factum est a te esse ortum.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h25
+:END:
+
+Quid igitur faciam miser?
+
+Quidve incipiam? ecce autem video rure redeuntem senem.
+Dicam huic, an non? dicam hercle, etsi mihi magnum malum
+Scio paratum; sed necesse est huic ut subveniat.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h26
+:END:
+
+Sapis.
+Ego abeo intro: tu isti narra omnem rem ordine ut factum siet.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+* 970
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+(LACHES. PARMENO.)
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h1
+:END:
+
+Ex meo propinquo rure hoc capio commodi,
+Neque agri neque urbis odium me umquam percipit.
+Ubi satias coepit fieri commuto locum.
+Sed estne ille noster Parmeno? et certe ipsus est.
+
+Quem praestolare, Parmeno, hic ante ostium?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h2
+:END:
+
+Quis homo est? ehem, salvum te advenire, here, gaudeo.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h3
+:END:
+
+Quem praestolare?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h4
+:END:
+
+Perii: lingua haeret metu.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h5
+:END:
+
+Hem, quid est? quid trepidas? satin salve? dic mihi.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h6
+:END:
+
+Here, primum te arbitrari quod res est velim;
+
+Quicquid huius factum est culpa non factum est mea.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h7
+:END:
+
+Quid?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h8
+:END:
+
+Recte sane interrogasti: oportuit
+Rem praenarrasse me. Emit quendam Phaedria
+Eunuchum quem dono huic daret.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h9
+:END:
+
+Cui?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h10
+:END:
+
+Thaidi.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h11
+:END:
+
+Emit? perii hercle: quanti?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h12
+:END:
+
+Viginti minis.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h13
+:END:
+
+Actum est.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h14
+:END:
+
+Tum quandam fidicinam amat hic Chaerea.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h15
+:END:
+
+Hem, quid? amat? an scit iam ille quid meretrix siet?
+An in Astu venit? aliud ex alio malum.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h16
+:END:
+
+Here, ne me spectes: me impulsore haec non facit.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h17
+:END:
+
+Omitte de te dicere: ego te, furcifer,
+
+Si vivo—Sed istuc, quicquid est, primum expedi.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h18
+:END:
+
+Is pro illo eunucho ad Thaidem deductus est.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h19
+:END:
+
+Pro eunuchon?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h20
+:END:
+
+Sic est: hunc pro moecho postea
+Comprehendere intus, et constrinxere.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h21
+:END:
+
+Occidi.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h22
+:END:
+
+Audaciam meretricum specta.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h23
+:END:
+
+Numquid est
+
+Aliud mali damnive quod non dixeris
+Reliquum?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h24
+:END:
+
+Tantum est.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h25
+:END:
+
+Cesso huc introrumpere?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h26
+:END:
+
+Non dubium est quin mihi magnum ex hac re sit malum;
+Nisi quia necessus fuit hoc facere, id gaudeo,
+Propter me hisce aliquid esse eventurum mali.
+
+Nam iam diu aliquam causam quaerebat senex,
+Quamobrem insigne aliquid faceret iis. Nunc repperit.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+* 1001
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+
+(PYTHIAS. PARMENO.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h1
+:END:
+
+Numquam edepol quicquam iam diu quod magis vellem evenire
+Mihi evenit quam quod modo senex intro ad nos venit errans.
+Mihi solae ridiculo fuit, quae quid timeret scibam.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h2
+:END:
+
+Quid hoc autem est?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h3
+:END:
+
+Nunc id prodeo ut conveniam Parmenonem.
+
+Sed ubi, obsecro, is est?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h4
+:END:
+
+Me quaerit haec.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h5
+:END:
+
+Atque eccum video: adibo.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h6
+:END:
+
+Quid est inepta? quid tibi vis? quid rides? pergin?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h7
+:END:
+
+Perii.
+Defessa iam sum misera te ridendo.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h8
+:END:
+
+Quid ita?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h9
+:END:
+
+Rogitas?
+Numquam, pol, hominem stultiorem vidi nec videbo. Ah,
+Non possum satis narrare quos ludos praebueris intus.
+
+At etiam primo callidum et disertum credidi hominem.
+Quid? ilicone credere ea quae dixi oportuit te?
+An poenitebat flagitii te auctore quod fecisset
+Adolescens, ni miserum insuper etiam patri indicares?
+Nam quid illi credis animi tum fuisse ubi vestem vidit
+
+Illam esse eum indutum pater? quid est? iam scis te perisse?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h10
+:END:
+
+Hem. Quid dixti, pessima? an mentita es? etiam rides?
+Itan lepidum tibi visum est, scelus, nos irridere?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h11
+:END:
+
+Nimium.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h12
+:END:
+
+Si quidem istuc impune habueris.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h13
+:END:
+
+Verum.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h14
+:END:
+
+Reddam hercle.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h15
+:END:
+
+Credo.
+Sed in diem istuc, Parmeno, est fortasse quod minare.
+
+Tu iam pendebis, qui stultum adolescentulum nobilitas
+Flagitiis, et eundem indicas: uterque exempla in te edent.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h16
+:END:
+
+Nullus sum.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h17
+:END:
+
+Hic pro illo munere tibi honos est habitus: abeo.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h18
+:END:
+
+Egomet meo indicio miser quasi sorex hodie perii.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h56
+:END:
+
+* 1024
+:PROPERTIES:
+:CUSTOM_ID: h57
+:END:
+
+(GNATHO. THRASO.)
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h57-h1
+:END:
+
+Quid nunc? qua spe aut quo consilio huc imus? quid inceptas, Thraso?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h57-h2
+:END:
+
+Egone? ut Thaidi me dedam, et faciam quod iubeat.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h57-h3
+:END:
+
+Quid est?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h57-h4
+:END:
+
+Qui minus quam Hercules servivit Omphalae?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h57-h5
+:END:
+
+Exemplum placet.
+Utinam tibi commitigari videam sandalio caput.
+
+Sed fores crepuerunt ab ea.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h57-h6
+:END:
+
+Perii. Quid hoc autem est mali?
+Hunc ego numquam videram etiam: quidnam hic properans prosilit?
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h58
+:END:
+
+* 1030
+:PROPERTIES:
+:CUSTOM_ID: h59
+:END:
+
+(CHAEREA. PARMENO. PHAEDRIA. GNATHO. THRASO.)
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h1
+:END:
+
+O populares, ecquis me hodie vivit fortunatior?
+Nemo hercle quisquam; nam in me plane Di potestatem suam
+Omnem ostendere, cui tam subito tot contigerint commoda.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h2
+:END:
+
+Quid hic laetus est?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h3
+:END:
+
+O Parmeno mi, O mearum voluptatum omnium
+
+Inventor, inceptor, perfector; scin me in quibus sim gaudiis?
+Scis Pamphilam meam inventam civem?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h4
+:END:
+
+Audivi.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h5
+:END:
+
+Scis sponsam mihi?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h6
+:END:
+
+Bene, ita me Di ament, factum.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h7
+:END:
+
+Audin tu hic quid ait?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h8
+:END:
+
+Tum autem Phaedriae
+Meo fratri gaudeo esse amorem omnem in tranquillo: una est domus.
+Thais patri se commendavit in clientelam et fidem;
+
+Nobis dedit se.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h9
+:END:
+
+Fratris igitur Thais tota est?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h10
+:END:
+
+Scilicet.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h11
+:END:
+
+Iam hoc aliud est quod gaudeamus: miles pellitur foras.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h12
+:END:
+
+Tum tu frater, ubi ubi est, fac quam primum haec audiat.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h13
+:END:
+
+Visam domum.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h14
+:END:
+
+Numquid, Gnatho, tu dubitas quin ego nunc perpetuo perierim?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h15
+:END:
+
+Sine dubio opinor.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h16
+:END:
+
+Quid commemorem primum aut laudem maxime?
+
+Illumne qui mihi dedit consilium ut facerem; an me qui ausus sim
+Incipere? an fortunam collaudem quae gubernatrix fuit;
+Quae tot res, tantas tam opportune in unum conclusit diem?
+An mei patris festivitatem et facilitatem? O Iupiter,
+Serva, obsecro, haec nobis bona.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h17
+:END:
+
+Di vestram fidem, incredibilia
+
+Parmeno modo quae narravit: sed ubi est frater?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h18
+:END:
+
+Praesto adest.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h19
+:END:
+
+Gaudeo.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h20
+:END:
+
+Satis credo: nihil est Thaide hac, frater, tua
+Dignius quod ametur; ita nostrae omni est fautrix familiae.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h21
+:END:
+
+Mihi illam laudas?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h22
+:END:
+
+Perii, quanto minus spei est, tanto magis amo.
+Obsecro, Gnatho, in te spes est.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h23
+:END:
+
+Quid vis faciam?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h24
+:END:
+
+Perfice hoc
+
+Precibus, pretio, ut haeream in parte aliqua tandem apud Thaidem.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h25
+:END:
+
+Difficile est.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h26
+:END:
+
+Si quid conlibuit, novi te: hoc si effeceris,
+Quodvis donum et praemium a me optato, id optatum feres.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h27
+:END:
+
+Itane?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h28
+:END:
+
+Sic erit.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h29
+:END:
+
+Si efficio hoc, postulo ut mihi tua domus
+Te praesente absente pateat; invocato ut sit locus
+
+Semper.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h30
+:END:
+
+Do fidem futurum.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h31
+:END:
+
+Accingar.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h32
+:END:
+
+Quem hic ego audio?
+O Thraso!
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h33
+:END:
+
+Salvete.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h34
+:END:
+
+Tu fortasse quae facta hic sient
+Nescis.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h35
+:END:
+
+Scio.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h36
+:END:
+
+Cur te ergo in his ego conspicor regionibus?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h37
+:END:
+
+Vobis fretus.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h38
+:END:
+
+Scin quam fretus? Miles, edico tibi,
+Si te in platea offendero hac post umquam, quod dicas mihi,
+
+/Alium quaerebam, iter hac habui,/ periisti.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h39
+:END:
+
+Heia, haud sic decet.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h40
+:END:
+
+Dictum est.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h41
+:END:
+
+Non cognosco vestrum tam superbum.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h42
+:END:
+
+Sic erit.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h43
+:END:
+
+Prius audite paucis; quod quum dixero, si placuerit,
+Facitote.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h44
+:END:
+
+Audiamus.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h45
+:END:
+
+Tu concede paullum istuc, Thraso.
+Principio ego vos credere ambos hoc mihi vehementer velim,
+
+Me, huius quicquid facio, id facere maxime causa mea:
+Verum si idem vobis prodest, vos non facere inscitia est.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h46
+:END:
+
+Quid id est?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h47
+:END:
+
+Militem ego rivalem recipiendum censeo.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h48
+:END:
+
+Hem,
+Recipiendum?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h49
+:END:
+
+Cogita modo. Tu hercle cum illa, Phaedria,
+Et libenter vivis; etenim bene libenter victitas.
+
+Quod des paulum est; et necesse est multum accipere Thaidem,
+Ut tuo amori suppeditare possit sine sumtu tuo.
+Ad omnia haec magis opportunus, nec magis ex usu tuo
+Nemo est: principio et habet quod det, et dat nemo largius.
+Fatuus est, insulsus, tardus: stertit noctesque et dies.
+
+Neque istum metuas ne amet mulier: facile pellas, ubi velis.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h50
+:END:
+
+Quid agimus?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h51
+:END:
+
+Praeterea hoc etiam, quod ego vel primum puto:
+Accipit hominem nemo melius prorsus, neque prolixius.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h52
+:END:
+
+Mirum ni illoc homine quoquo pacto opus est.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h53
+:END:
+
+Idem ego arbitror.
+
+** GNATHIO
+:PROPERTIES:
+:CUSTOM_ID: h59-h54
+:END:
+
+Riecte facitis. Unum etiam hoc vos oro, ut me in vestrum gregem
+
+Recipiatis: satis diu hoc iam saxum volvo.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h55
+:END:
+
+Recipimus.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h56
+:END:
+
+Ac libenter.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h57
+:END:
+
+At ego pro istoc, Phaedria, et tu, Chaerea,
+Hunc comedendum et deridendum vobis propino.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h58
+:END:
+
+Placet.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h59
+:END:
+
+Dignus est.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h60
+:END:
+
+Thraso, ubi vis accede.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h61
+:END:
+
+Obsecro te, quid agimus?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h62
+:END:
+
+Quid? isti te ignorabant: postquam eis mores ostendi tuos,
+
+Et collaudavi secundum facta et virtutes tuas,
+Impetravi.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h63
+:END:
+
+Bene fecisti: gratiam habeo maximam.
+Numquam etiam fui usquam quin me omlnes amarent plurimum.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h64
+:END:
+
+Dixine ego in hoc inesse vobis Atticam elegantiam?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h65
+:END:
+
+Nihil praetermissum est: ite hac.
+
+** Ω
+:PROPERTIES:
+:CUSTOM_ID: h59-h66
+:END:
+
+Vol valete, et plaudite.

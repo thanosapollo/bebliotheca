@@ -1,0 +1,20 @@
+#+TITLE: Hymn 23 to Zeus
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-23-to-zeus--anonymous
+
+#+BEGIN_QUOTE
+Hymn 23 to Zeus translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+I will sing of Zeus, chiefest among the gods and greatest, all-seeing, the lord of
+all, the fulfiller who whispers words of wisdom to Themis as she sits leaning towards him.
+
+Be gracious, all-seeing Son of Cronos, most excellent and great!

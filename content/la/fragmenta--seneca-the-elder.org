@@ -1,0 +1,59 @@
+#+TITLE: Fragmenta
+#+AUTHOR: Seneca the Elder
+#+FILETAGS: :imperial:1c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/fragmenta--seneca-the-elder
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Fragmenta edited by Adolf Gottlieb Kiessling
+#+END_QUOTE
+
+* Liber 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+** incertae sedis reliquiae
+:PROPERTIES:
+:CUSTOM_ID: h1-h1
+:END:
+
+** 1
+:PROPERTIES:
+:CUSTOM_ID: h1-h2
+:END:
+/nam memini iuuenis admodum inter Pomponium ac
+Senecam etiam praefationibus esse tractatum an “gradus
+eliminat” in tragoedia dici oportuisset./
+
+** 2
+:PROPERTIES:
+:CUSTOM_ID: h1-h3
+:END:
+/noui uero et praecipue declamatores audacius nec
+mehercule sine motu quodam imaginantur, ut Seneca in
+controuersia cuius summa est, quod pater filium et nouercam
+inducente altero filio in adulterio deprensos occidit: “duc,
+sequor: accipe hanc senilem manum et quocumque uis
+inprime” et post paulo: “aspice, inquit, quod diu non credidisti.
+ego uero non uideo, nox oboritur et crassa caligo.” /
+
+** 3
+:PROPERTIES:
+:CUSTOM_ID: h1-h4
+:END:
+/nam et in totum iurare, nisi ubi necesse est, graui
+uiro parum conuenit, et est a Seneca dictum eleganter, non
+patronorum hoc esse sed testium./
+
+** 4
+:PROPERTIES:
+:CUSTOM_ID: h1-h5
+:END:
+/et Seneca tradidit Iulium Montanum poetam
+solitum dicere, inuolaturum se Vergilio quaedam si et uocem
+posset et os et hypocrisin: eosdem enim uersus ipso
+pronuntiante bene sonare, sine illo inanes esse mutosque./

@@ -1,0 +1,26 @@
+#+TITLE: Hymn 20 To Hephaestus
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/hymn-20-to-hephaestus--anonymous
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Hymn 20 To Hephaestus edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Ἥφαιστον κλυτόμητιν ἀείσεο, Μοῦσα λίγεια,
+ὃς μετʼ Ἀθηναίης γλαυκώπιδος ἀγλαὰ ἔργα
+ἀνθρώπους ἐδίδαξεν ἐπὶ χθονός, οἳ τὸ πάρος περ
+ἄντροις ναιετάασκον ἐν οὔρεσιν, ἠύτε θῆρες.
+νῦν δὲ διʼ Ἥφαιστον κλυτοτέχνην ἔργα δαέντες
+ῥηιδίως αἰῶνα τελεσφόρον εἰς ἐνιαυτὸν
+εὔκηλοι διάγουσιν ἐνὶ σφετέροισι δόμοισιν.
+
+ἀλλʼ ἵληθʼ, Ἥφαιστε· δίδου δʼ ἀρετήν τε καὶ ὄλβον.

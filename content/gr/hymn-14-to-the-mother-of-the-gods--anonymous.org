@@ -1,0 +1,24 @@
+#+TITLE: Hymn 14 to the Mother of the Gods
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/hymn-14-to-the-mother-of-the-gods--anonymous
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Hymn 14 to the Mother of the Gods edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+μητέρα μοι πάντων τε θεῶν πάντων τʼ ἀνθρώπων
+ὕμνει, Μοῦσα λίγεια, Διὸς θυγάτηρ μεγάλοιο,
+ᾗ κροτάλων τυπάνων τʼ ἰαχὴ σύν τε βρόμος αὐλῶν
+εὔαδεν ἠδὲ λύκων κλαγγὴ χαροπῶν τε λεόντων
+οὔρεά τʼ ἠχήεντα καὶ ὑλήεντες ἔναυλοι.
+
+καὶ σὺ μὲν οὕτω χαῖρε θεαί θʼ ἅμα πᾶσαι ἀοιδῇ.

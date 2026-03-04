@@ -1,0 +1,38 @@
+#+TITLE: Ab Urbe Condita, books 8-10 - 11s
+#+AUTHOR: Titus Livius (Livy)
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/ab-urbe-condita-books-8-10-11s--titus-livius-livy
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Ab Urbe Condita, books 8-10 - 11s edited by Benjamin Oliver Foster, Ph.D.
+#+END_QUOTE
+
+* 11s
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+CUM Fabius Gurges cos. male adversus Samnites pugnasset et senatus de removendo
+eo ab exercitu ageret, Fabius Maximus pater deprecatus hanc fili ignominiam eo
+maxime senatum movit quod iturum se filio legatum pollicitus est, idque
+praestitit. eius consiliis et opera filius consul adiutus caesis
+Samnitibus triumphavit; C. Pontium, imperatorem Samnitium, ductum in triumpho,
+securi percussit. cum pestilentia civitas laboraret, missi legati ut
+Aesculapi signum Romam ab Epidauro transferrent, anguem, qui se in navem eorum
+contulerat, in quo ipsum numen esse constabat, deportaverunt; eoque in insulam
+Tiberis egresso eodem loco aedis Aesculapio constituta est. L. Postumius
+consularis, quoniam, cum exercitui praeesset, opera militum in agro suo usus
+erat, damnatus est. pacem petentibus Samnitibus  foedus quarto renovatum est. Curius Dentatus cos.
+Samnitibus caesis et Sabinis, qui rebellaverant, victis et in
+deditionem acceptis bis in eodem magistratu triumphavit. coloniae
+deductae sunt Castrum Sena Hadria. triumviri capitales tune primum
+creati sunt. censu acto lustrum conditum est. censa sunt
+civium capita CCLXXII . Plebs propter aes alienum post
+graves et longas seditiones ad ultimum secessit in laniculum, unde a Q.
+Hortensio dictatore deducta est; isque in ipso magistratu decessit.
+res praeterea contra Vulsinienses gestas continet, item adversus
+Lucanos, contra quos auxilium Thurinis  ferre placuerat.

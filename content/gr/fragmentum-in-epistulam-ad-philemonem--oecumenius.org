@@ -1,0 +1,15 @@
+#+TITLE: 462 Philemon 24 Καὶ εἰ μὲν πρώτη ἐκείνη, νῦν μετέγνω. εἰ δὲ ὑστέρα, ἑρᾳθύμησε
+#+AUTHOR: Οἰκουμένιος
+#+FILETAGS: :byzantine:6c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-epistulam-ad-philemonem--oecumenius
+#+LANGUAGE: el
+
+* 462 Philemon 24 Καὶ εἰ μὲν πρώτη ἐκείνη, νῦν μετέγνω. εἰ δὲ ὑστέρα, ἑρᾳθύμησε
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+μετὰ ταῦτα.

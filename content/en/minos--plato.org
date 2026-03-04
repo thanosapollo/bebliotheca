@@ -1,0 +1,1437 @@
+#+TITLE: Minos
+#+AUTHOR: Plato
+#+FILETAGS: :classical:4c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/minos--plato
+
+#+BEGIN_QUOTE
+Minos translated by Walter Rangeley Maitland Lamb
+#+END_QUOTE
+
+* Section 313
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+[313]  [313a]
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h1-h1
+:END:
+
+Tell me, what is law?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h1-h2
+:END:
+
+To what kind of law does your question refer?
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h1-h3
+:END:
+
+What!  Is there any difference between law and law, in this particular point of being law?  For just consider what is the actual question I am putting to you.  It is as though I had asked, what is gold:  if you had asked me in the same manner, to what kind of gold I refer, I think your question would have been incorrect.  For I presume there is no difference between gold and gold,  [313b]  or between stone and stone, in point of being gold or stone;  and so neither does law differ at all from law, I suppose, but they are all the same thing.  For each of them is law alike, not one more so, and another less.  That is the particular point of my question—what is law as a whole?  So if you are ready, tell me.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h1-h4
+:END:
+
+Well, what else should law be, Socrates, but things loyally accepted?
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h1-h5
+:END:
+
+And so speech, you think, is the things that are spoken, or sight the things seen, or hearing the things heard?  Or is speech  [313c]  something distinct from the things spoken, sight something distinct from the things seen, and hearing something distinct from the things heard;  and so law is something distinct from things loyally accepted?  Is this so, or what is your view?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h1-h6
+:END:
+
+I find it now to be something distinct.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h1-h7
+:END:
+
+Then law is not things loyally accepted.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h1-h8
+:END:
+
+I think not.
+
+* Section 314
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h1
+:END:
+
+Now what can law be?  Let us consider it in this way.  Suppose someone had asked us about what was stated just now:  [314]  [314a]  Since you say it is by sight that things seen are seen, what is this sight whereby they are seen?  Our answer to him would have been:  That sensation which shows objects by means of the eyes.  And if he had asked us again:  Well then, since it is by hearing that things heard are heard, what is hearing?  Our answer to him would have been:  That sensation which shows us sounds by means of the ears.  In the same way then, suppose he should also ask us:  Since it is by law that loyally accepted things are so accepted, what is this law whereby they are so accepted?  [314b]  Is it some sensation or showing, as when things learnt are learnt by knowledge showing them, or some discovery, as when things discovered are discovered—for instance, the causes of health and sickness by medicine, or the designs of the gods, as the prophets say, by prophecy;  for art is surely our discovery of things, is it not?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h2
+:END:
+
+Certainly.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h3
+:END:
+
+Then what thing especially of this sort shall we surmise law to be?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h4
+:END:
+
+Our resolutions and decrees, I imagine: for how else can one describe law?  [314c]  So that apparently the whole thing, law, as you put it in your question, is a city’s resolution.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h5
+:END:
+
+State opinion, it seems, is what you call law.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h6
+:END:
+
+I do.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h7
+:END:
+
+And perhaps you are right:  but I fancy we shall get a better knowledge in this way.  You call some men wise?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h8
+:END:
+
+I do.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h9
+:END:
+
+And the wise are wise by wisdom?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h10
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h11
+:END:
+
+And again, the just are just by justice?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h12
+:END:
+
+Certainly.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h13
+:END:
+
+And so the law-abiding are law-abiding by law?
+
+[314d]
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h14
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h15
+:END:
+
+And the lawless are lawless by lawlessness?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h16
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h17
+:END:
+
+And the law-abiding are just?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h18
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h19
+:END:
+
+And the lawless are unjust?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h20
+:END:
+
+Unjust.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h21
+:END:
+
+And justice and law are most noble?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h22
+:END:
+
+That is so.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h23
+:END:
+
+And injustice and lawlessness most base?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h24
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h25
+:END:
+
+And the former preserve cities and everything else, while the latter destroy and overturn them?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h26
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h27
+:END:
+
+Hence we must regard law as something noble, and seek after it as a good.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h28
+:END:
+
+Undeniably.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h29
+:END:
+
+And we said that law is a city’s resolution?
+
+[314e]
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h30
+:END:
+
+So we did.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h31
+:END:
+
+Well now, are not some resolutions good, and others evil?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h32
+:END:
+
+Yes, to be sure.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h33
+:END:
+
+And, you know, law was not evil.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h34
+:END:
+
+No, indeed.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h35
+:END:
+
+So it is not right to reply, in that simple fashion, that law is a city’s resolution.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h36
+:END:
+
+I agree that it is not.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h37
+:END:
+
+An evil resolution, you see, cannot properly be a law.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h38
+:END:
+
+No, to be sure.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h39
+:END:
+
+But still, I am quite clear myself that law is some sort of opinion;  and since it is not evil opinion, is it not manifest by this time that it is good opinion, granting that law is opinion?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h2-h40
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h2-h41
+:END:
+
+But what is good opinion?  Is it not true opinion?
+
+* Section 315
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+Yes.
+
+[315]  [315a]
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h3-h2
+:END:
+
+And true opinion is discovery of reality?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h3-h3
+:END:
+
+Yes, it is.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h3-h4
+:END:
+
+So law tends to be discovery of reality.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h3-h5
+:END:
+
+Then how is it, Socrates, if law is discovery of reality, that we do not use always the same laws on the same matters, if we have thus got realities discovered?
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h3-h6
+:END:
+
+Law tends none the less to be discovery of reality:  but men, who do not use  [315b]  always the same laws, as we observe, are not always able to discover what the law is intent on—reality.  For come now, let us see if from this point onward we can get it clear whether we use always the same laws or different ones at different times, and whether we all use the same, or some of us use some, and others others.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h3-h7
+:END:
+
+Why, that, Socrates, is no difficult matter to determine—that the same men do not use always the same laws, and also that different men use different ones.  With us, for instance, human sacrifice is not legal, but unholy,  [315c]  whereas the Carthaginians perform it as a thing they account holy and legal, and that too when some of them sacrifice even their own sons to Cronos, as I daresay you yourself have heard.  And not merely is it foreign peoples who use different laws from ours, but our neighbors in Lycaea  and the descendants of Athamas —you know their sacrifices, Greeks though they be.  And as to ourselves too, you know, of course, from what you have heard yourself, the kind of laws we formerly used in regard to our dead, when we slaughtered sacred victims before  [315d]  the funeral procession, and engaged urn-women to collect the bones from the ashes.  Then again, a yet earlier generation used to bury the dead where they were, in the house:  but we do none of these things.  One might give thousands of other instances;  for there is ample means of proving that neither we copy ourselves nor mankind each other always in laws and customs.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h3-h8
+:END:
+
+And it is no wonder, my excellent friend, if what you say is correct, and I have overlooked it.  But if you continue to express your views after your own fashion in lengthy speeches,  [315e]  and I speak likewise, we shall never come to any agreement, in my opinion:  but if we study the matter jointly, we may perhaps concur.  Well now, if you like, hold a joint inquiry with me by asking me questions;  or if you prefer, by answering them.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h3-h9
+:END:
+
+Why, I am willing, Socrates, to answer anything you like.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h3-h10
+:END:
+
+Come then, do you consider  just things to be unjust and unjust things just, or just things to be just and unjust things unjust?
+
+* Section 316
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+I consider just things to be just, and unjust things unjust.
+
+[316]  [316a]
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h2
+:END:
+
+And are they so considered among all men elsewhere as they are here?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h3
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h4
+:END:
+
+And among the Persians also?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h5
+:END:
+
+Among the Persians also.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h6
+:END:
+
+Always, I presume?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h7
+:END:
+
+Always.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h8
+:END:
+
+Are things that weigh more considered heavier here, and things that weigh less lighter, or the contrary?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h9
+:END:
+
+No, those that weigh more are considered heavier, and those that weigh less lighter.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h10
+:END:
+
+And is it so in Carthage also, and in Lycaea?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h11
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h12
+:END:
+
+Noble things, it would seem, are everywhere considered noble,
+[316b] and base things base;  not base things noble or noble things base.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h13
+:END:
+
+That is so.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h14
+:END:
+
+And thus, as a universal rule, realities, and not unrealities, are accepted as real, both among us and among all other men.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h15
+:END:
+
+I agree.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h16
+:END:
+
+Then whoever fails to attain reality, fails to attain accepted law.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h17
+:END:
+
+In your present way of putting it, Socrates, the same things appear to be accepted as lawful both by us and by the rest of the world, always:  [316c]  but when I reflect that we are continually changing our laws in all sorts of ways, I cannot bring myself to assent.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h18
+:END:
+
+Perhaps it is because you do not reflect that when we change our pieces at draughts they are the same pieces.  But look at it, as I do, in this way.  Have you in your time come across a treatise on healing the sick?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h19
+:END:
+
+I have.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h20
+:END:
+
+Then do you know to what art such a treatise belongs?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h21
+:END:
+
+I do:  medicine.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h22
+:END:
+
+And you give the name of doctors to those who have knowledge of these matters?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h23
+:END:
+
+Yes.
+
+[316d]
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h24
+:END:
+
+Then do those who have knowledge accept the same views on the same things, or do they accept different views?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h25
+:END:
+
+The same, in my opinion.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h26
+:END:
+
+Do Greeks only accept the same views as Greeks on what they know, or do foreigners also agree on these matters, both among themselves and with Greeks?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h27
+:END:
+
+It is quite inevitable, I should say, that those who know should agree in accepting the same views, whether Greeks or foreigners.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h28
+:END:
+
+Well answered.  And do they so always?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h29
+:END:
+
+Yes, it is so always.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h30
+:END:
+
+And do doctors on their part, in their treatises on health,  [316e]  write what they accept as real?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h31
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h32
+:END:
+
+Then these treatises of the doctors are medical, and medical laws.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h33
+:END:
+
+Medical, to be sure.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h34
+:END:
+
+And are agricultural treatises likewise agricultural laws?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h35
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h36
+:END:
+
+And whose are the treatises and accepted rules about garden-work?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h37
+:END:
+
+Gardeners’.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h38
+:END:
+
+So these are our gardening laws.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h39
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h40
+:END:
+
+Of people who know how to control gardens?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h41
+:END:
+
+Certainly.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h42
+:END:
+
+And it is the gardeners who know.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h43
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h44
+:END:
+
+And whose are the treatises and accepted rules about the confection of tasty dishes?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h45
+:END:
+
+Cooks’.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h4-h46
+:END:
+
+Then there are laws of cookery?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h4-h47
+:END:
+
+Of cookery.
+
+* Section 317
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h1
+:END:
+
+Of people who know, it would seem, how to control the confection of tasty dishes?
+
+[317]  [317a]
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h2
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h3
+:END:
+
+And it is the cooks, they say, who know?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h4
+:END:
+
+Yes, it is they who know.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h5
+:END:
+
+Very well;  and now, whose are the treatises and accepted rules about the government of a state?  Of the people who know how to control states, are they not?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h6
+:END:
+
+I agree.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h7
+:END:
+
+And is it anyone else than statesmen and royal persons  who know?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h8
+:END:
+
+It is they, to be sure.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h9
+:END:
+
+Then what people call laws are treatises of state,— [317b]  writings of kings and good men.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h10
+:END:
+
+That is true.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h11
+:END:
+
+And must it not be that those who know will not write differently at different times on the same matters?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h12
+:END:
+
+They will not.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h13
+:END:
+
+Nor will they ever change one set of accepted rules for another in respect of the same matters.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h14
+:END:
+
+No, indeed.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h15
+:END:
+
+So if we see some persons anywhere doing this, shall we say that those who do so have knowledge, or have none?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h16
+:END:
+
+That they have no knowledge.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h17
+:END:
+
+And again, whatever is right, we shall say is lawful for each person, whether in medicine or in cookery or in gardening?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h18
+:END:
+
+Yes.
+
+[317c]
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h19
+:END:
+
+And whatever is not right we shall decline to call lawful?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h20
+:END:
+
+We shall decline.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h21
+:END:
+
+Then it becomes unlawful.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h22
+:END:
+
+It must.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h23
+:END:
+
+And again, in writings about what is just and unjust, and generally about the government of a state and the proper way of governing it, that which is right is the king’s law, but not so that which is not right, though it seems to be law to those who do not know; for it is unlawful.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h24
+:END:
+
+Yes.
+
+[317d]
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h25
+:END:
+
+Then we rightly admitted that law is discovery of reality.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h26
+:END:
+
+So it appears.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h27
+:END:
+
+Now let us observe this further point about it. Who has knowledge of distributing  seed over land?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h28
+:END:
+
+A farmer.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h29
+:END:
+
+And does he distribute the suitable seed to each sort of land?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h30
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h31
+:END:
+
+Then the farmer is a good apportioner of it, and his laws and distributions are right in this matter?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h32
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h33
+:END:
+
+And who is a good apportioner of notes struck for a tune, skilled in distributing suitable notes, and who is it whose laws are right here?
+
+[317e]
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h34
+:END:
+
+The flute-player and the harp-player.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h35
+:END:
+
+Then he who is the best lawyer in these matters is the best flute-player.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h36
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h37
+:END:
+
+And who is most skilled in distributing food to human bodies?  Is it not he who assigns suitable food?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h38
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h39
+:END:
+
+Then his distributions and laws are best, and whoever is the best lawyer in this matter is also the best apportioner.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h5-h40
+:END:
+
+Certainly.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h5-h41
+:END:
+
+Who is he?
+
+* Section 318
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+A trainer.
+
+[318]  [318a]
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h2
+:END:
+
+He is the best man to pasture  the human herd of the body?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h3
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h4
+:END:
+
+And who is the best man to pasture a flock of sheep?  What is his name?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h5
+:END:
+
+A shepherd.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h6
+:END:
+
+Then the shepherd’s laws are best for sheep.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h7
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h8
+:END:
+
+And the herdsman’s for oxen.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h9
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h10
+:END:
+
+And whose laws are best for the souls of men? The king’s, are they not? Say if you agree.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h11
+:END:
+
+I do.
+
+[318b]
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h12
+:END:
+
+Then you are quite right.  Now can you tell me who, in former times, has proved himself a good lawgiver in regard to the laws of flute-playing?  Perhaps you cannot think of him:  would you like me to remind you?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h13
+:END:
+
+Do by all means.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h14
+:END:
+
+Then is it Marsyas, by tradition, and his beloved Olympus, the Phrygian?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h15
+:END:
+
+That is true.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h16
+:END:
+
+And their flute-tunes also are most divine, and alone stir and make manifest those who are in need of the gods;  and to this day they only remain, as being divine.
+
+[318c]
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h17
+:END:
+
+That is so.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h18
+:END:
+
+And who by tradition has shown himself a good lawgiver among the ancient kings, so that to this day his ordinances remain, as being divine?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h19
+:END:
+
+I cannot think.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h20
+:END:
+
+Do you not know which of the Greeks use the most ancient laws?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h21
+:END:
+
+Do you mean the Spartans, and Lycurgus the lawgiver?
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h22
+:END:
+
+Why, that is a matter, I daresay, of less than three hundred years ago, or but a little more.  But whence is it that  [318d]  the best of those ordinances come?  Do you know?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h23
+:END:
+
+From Crete, so they say.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h24
+:END:
+
+Then the people there use the most ancient laws in Greece?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h25
+:END:
+
+Yes.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h26
+:END:
+
+Then do you know who were their good kings?  Minos and Rhadamanthus, the sons of Zeus and Europa;  those laws were theirs.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h27
+:END:
+
+Rhadamanthus, they do say, Socrates, was a just man;  but Minos was a savage sort of person, harsh and unjust.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h28
+:END:
+
+Your tale, my excellent friend, is a fiction of Attic tragedy.
+
+[318e]
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h29
+:END:
+
+What!  Is not this the tradition about Minos?
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h6-h30
+:END:
+
+Not in Homer and Hesiod;  and yet they are more to be believed than all the tragedians together, from whom you heard your tale.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h6-h31
+:END:
+
+Well, and what, pray, is their tale about Minos?
+
+* Section 319
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+I will tell you, in order that you may not share the impiety of the multitude: for there cannot conceivably be anything more impious or more to be guarded against than being mistaken in word and deed with regard to the gods, and after them, with regard to divine men; you must take very great precaution, whenever you are about to  [319]  [319a]  blame or praise a man, so as not to speak incorrectly. For this reason you must learn to distinguish honest and dishonest men: for God feels resentment when one blames a man who is like himself, or praises a man who is the opposite; and the former is the good man. For you must not suppose that while stocks and stones and birds and snakes are sacred, men are not; nay, the good man is the most sacred of all these things, and the wicked man is the most defiled.
+
+So if I now proceed to relate how Minos is eulogized by Homer  [319b]  and Hesiod, my purpose is to prevent you, a man sprung from a man, from making a mistake in regard to a hero who was the son of Zeus.  For Homer, in telling of Crete that there were in it many men and /ninety cities,/ says:/ And amongst them is the mighty city of Cnossos, where Minos was king, having colloquy ὀαριστής means one who has familiar converse (ὄαρος). with mighty Zeus in the ninth year. /  [319c]  Now here in Homer we have a eulogy of Minos, briefly expressed, such as the poet never composed for a single one of the heroes. For that Zeus is a sophist, and that sophistry is a highly honorable art, he makes plain in many other places, and particularly here. For he says that Minos consorted and discoursed with Zeus in the ninth year, and went regularly to be educated by Zeus as though he were a sophist. And the fact that Homer assigned this privilege of having been educated by Zeus to no one among the heroes but Minos makes this a marvellous piece of praise.  [319d]  And in the Ghost-raising in the   he has described Minos as judging with a golden scepter in his hand, but not Rhadamanthus: Rhadamanthus he has neither described here as judging nor anywhere as consorting with Zeus; wherefore I say that Minos above all persons has been eulogized by Homer. For to have been the son of Zeus, and to have been the only one who was educated by Zeus, is praise unsurpassable.
+
+For the meaning of the verse— / he was king having colloquy with mighty Zeus in the ninth year” — /  [319e]  is that Minos was a disciple of Zeus. For colloquies are discourses, and he who has colloquy is a disciple by means of discourse. So every ninth year Minos repaired to the cave of Zeus, to learn some things, and to show his knowledge of others that he had learnt from Zeus in the preceding nine years.
+
+* Section 320
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+Some there are who suppose that he who has colloquy is a cup-companion and fellow-jester of Zeus: but one may take the following as a proof that  [320]  [320a]  they who suppose so are babblers. For of all the many nations of men, both Greek and foreign, the only people who refrain from drinking-bouts and the jesting that occurs where there is wine, are the Cretans, and after them the Spartans, who learnt it from the Cretans. In Crete it is one of their laws which Minos ordained that they are not to drink with each other to intoxication. And yet it is evident that the things he thought honorable were what he ordained as lawful for his people as well. For surely Minos did not, like an inferior person,  [320b]  think one thing and do another, different from what he thought: no, this intercourse, as I say, was held by means of discussion for education in virtue. Wherefore he ordained for his people these very laws, which have made Crete happy through the length of time, and Sparta happy also, since she began to use them; for they are divine.
+
+Rhadamanthus was a good man indeed, for he had been educated by Minos; he had, however, been educated,  [320c]  not in the whole of the kingly art, but in one subsidiary to the kingly, enough for presiding in law courts; so that he was spoken of as a good judge. For Minos used him as guardian of the law in the city, and Talos  as the same for the rest of Crete. For Talos thrice a year made a round of the villages, guarding the laws in them, by holding their laws inscribed on brazen tablets, which gave him his name of brazen. And what Hesiod  also has said  [320d]  of Minos is akin to this. For after mentioning him by name he remarks—/ Who was most kingly of mortal kings, and lorded it over more neighboring folk than any, holding the scepter of Zeus: therewith it was that he ruled the cities as king. /And by the scepter of Zeus he means nothing else than the education that he had of Zeus, whereby he directed Crete.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h8-h2
+:END:
+
+Then how has it ever come about, Socrates, that this report is spread abroad of Minos, as an uneducated  [320e]  and harsh-tempered person?
+
+* Section 321
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+Because of something that will make both you, if you are wise, my excellent friend, and everybody else who cares to have a good reputation, beware of ever quarreling with any man of a poetic turn. For poets have great influence over opinion, according as they create it in the minds of men by either commending or vilifying. And this was the mistake that Minos made, in waging war on this city of ours, which besides all its various culture has poets of every kind, and especially those who write tragedy.  [321]  [321a]  Now tragedy is a thing of ancient standing here; it did not begin, as people suppose, from Thespis or from Phrynicus, but if you will reflect, you will find it is a very ancient invention of our city. Tragedy is the most popularly delightful and soul-enthralling branch of poetry: in it, accordingly, we get Minos on the rack of verse,, and thus avenge ourselves for that tribute which he compelled us to pay  This, then, was the mistake that Minos made—his quarrel with us—and hence it is that, as you said in your question, he has fallen more and more into evil repute. For that he was a good  [321b]  and law-abiding person, as we stated in what went before—a good apportioner—is most convincingly shown by the fact the his laws are unshaken, since they were made by one who discovered aright the truth of reality in regard to the management of a state.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h9-h2
+:END:
+
+In my opinion, Socrates, your statement is a probable one.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h9-h3
+:END:
+
+Then if what I say is true, do you consider that the Cretan people of Minos and Rhadamanthus use the most ancient laws?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h9-h4
+:END:
+
+I do.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h9-h5
+:END:
+
+So these have shown themselves the best lawgivers among men of ancient times—  [321c]  apportioners and shepherds of men; just as Homer called the good general a /shepherd of the folk./
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h9-h6
+:END:
+
+Quite so, indeed.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h9-h7
+:END:
+
+Come then, in good friendship’s name: if someone should ask us what it is that the good lawgiver and apportioner for the body distributes to it when he makes it better, we should say, if we were to make a correct and brief answer, that it was food and labor; the former to strengthen, and the latter to exercise and brace it.
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h9-h8
+:END:
+
+And we should be right.
+
+[321d]
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h9-h9
+:END:
+
+And if he then proceeded to ask us—And what might that be which the good lawgiver and apportioner distributes to the soul to make it better?—what would be our answer if we would avoid being ashamed of ourselves and our years?
+
+** Com.
+:PROPERTIES:
+:CUSTOM_ID: h9-h10
+:END:
+
+This time I am unable to say.
+
+** Soc.
+:PROPERTIES:
+:CUSTOM_ID: h9-h11
+:END:
+
+But indeed it is shameful for the soul of either of us to be found ignorant of those things within it on which its good and abject states depend, while it has studied those that pertain to the body and rest.

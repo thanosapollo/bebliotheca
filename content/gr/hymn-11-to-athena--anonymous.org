@@ -1,0 +1,23 @@
+#+TITLE: Hymn 11 To Athena
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/hymn-11-to-athena--anonymous
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Hymn 11 To Athena edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Παλλάδʼ Ἀθηναίην ἐρυσίπτολιν ἄρχομʼ ἀείδειν,
+δεινήν, ᾗ σὺν Ἄρηι μέλει πολεμήια ἔργα
+περθόμεναί τε πόληες ἀϋτή τε πτόλεμοί τε,
+καί τʼ ἐρρύσατο λαὸν ἰόντα τε νισσόμενόν τε.
+
+χαῖρε, θεά, δὸς δʼ ἄμμι τύχην εὐδαιμονίην τε.

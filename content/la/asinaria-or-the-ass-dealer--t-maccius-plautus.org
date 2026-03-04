@@ -1,0 +1,4945 @@
+#+TITLE: Asinaria
+#+AUTHOR: T. Maccius Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/asinaria-or-the-ass-dealer--t-maccius-plautus
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Asinaria edited by Friedrich Leo
+#+END_QUOTE
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** PROLOGVS
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+Hoc agite sultis, spectatores, nunciam,
+quae quidem mihi atque vobis res vertat bene
+gregique huíc et dominis atque conductoribus.
+face nunciam tu, praeco, omnem auritum poplum.
+
+age nunc reside, cave modo ne gratiis.
+nunc quid processerim huc et quid mihi voluerim
+dicam: ut sciretis nomen huius fabulae;
+nam quod ad argumentum attinet, sane brevest.
+nunc quod me dixi velle vobis dicere,
+
+dicam: húic nomen graece Onagost fabulae;
+Demophilus scripsit, Maccus vortit barbare;
+Asinariam volt esse, si per vos licet.
+inest lepos ludusque in hac comoedia,
+ridicula res est. date benigne operam mihi,
+
+ut vos, ut alias, pariter nunc Mars adiuvet.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 16
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+Sicut tuom vis unicum gnatum tuae
+superesse vitae sospitem et superstitem,
+ita ted obtestor per senectutem tuam
+perque illam, quam tu metuis, uxorem tuam,
+
+si quid med erga hodie falsum dixeris,
+ut tibi superstes uxor aetatem siet
+atque illa viva vivos ut pestem oppetas.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h2
+:END:
+
+Per Dium Fidium quaeris: iurato mihi
+video necesse esse eloqui quidquid roges.
+
+ita me obstinate adgressu'sadgressus es, ut non audeam
+profecto, percontanti quin promam omnia.
+proinde actutum istuc quid sit quod scire expetis
+eloquere: ut ipse scibo, te faciam ut scias.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h3
+:END:
+
+Dic obsecro hercle serio quod te rogem,
+
+cave míhi mendaci quicquam.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h4
+:END:
+
+Quin tu ergo rogas?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h5
+:END:
+
+Num me illuc ducis, ubi lapis lapidem terit?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h6
+:END:
+
+Quid istúc est? aut ubi istúc est terrarum loci?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h7
+:END:
+
+Vbi flent nequam homines, qui polentam pinsitant.
+apud fústitudinas, ferricrepinas insulas,
+
+ubi vivos homines mortui incursant boves.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h8
+:END:
+
+Modo pol percepi, Libane, quid istuc sit loci:
+ubi fit polenta, te fortasse dicere.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h9
+:END:
+
+Ah,
+neque hercle ego istuc dico nec dictum volo,
+teque obsecro hercle ut quae locutu'slocutus es despuas.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h10
+:END:
+
+Fiat, geratur mos tibi.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h11
+:END:
+
+Age, age usque excrea.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h12
+:END:
+
+Etiamne?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h13
+:END:
+
+Age quaeso hercle usque ex penitis faucibus.
+etiam amplius.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h14
+:END:
+
+Nam quo usque?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h15
+:END:
+
+Vsque ad mortem volo.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h16
+:END:
+
+Cave sís malam rem.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h17
+:END:
+
+Vxoris dico, non tuam.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h18
+:END:
+
+Dono te ob istuc dictum, ut expers sis metu.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h19
+:END:
+
+Di tibi dent quaecumque optes.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h20
+:END:
+
+Redde operam mihi.
+cur hoc ego ex te quaeram? aut cur miniter tibi
+propterea quod me non scientem feceris?
+aut cur postremo filio suscenseam,
+patres ut faciunt ceteri?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h21
+:END:
+
+Quid istúc novi est?
+
+demiror quid sit et quo evadat sum in metu.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h22
+:END:
+
+Equidem scio iam, filius quod amet meus
+istanc meretricem e proxumo Philaenium.
+estne hoc ut dico, Libane?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h23
+:END:
+
+Rectam instas viam.
+ea res est. sed eum morbus invasit gravis.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h24
+:END:
+
+Quid morbi est?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h25
+:END:
+
+Quia non suppetunt dictis data.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h26
+:END:
+
+Tune es adiutor nunc amanti filio?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h27
+:END:
+
+Sum vero, et alter noster est Leonida.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h28
+:END:
+
+Bene hercle facitis ét a me initis gratiam.
+verum meam uxorem, Libane, nescis qualis sit?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h29
+:END:
+
+Tu primus sentis, nos tamen in pretio sumus.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h30
+:END:
+
+Fateór eam esse importunam atque incommodam.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h31
+:END:
+
+Posterius istuc dicis quam credo tibi.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h32
+:END:
+
+Omnes parentes, Libane, liberis suis,
+qui mi auscultabunt, facient obsequellam†
+
+quippe quí mage amico utantur gnato et benevolo.
+atque ego me id facere studeo, volo amari a meis;
+volo mé patris mei similem, qui causa mea
+nauclerico ipse ornatu per fallaciam
+quam amabam abduxit ab lenone mulierem;
+
+neque puduit eum id aetatis sycophantias
+struere et beneficiis me emere gnatum suom sibi.
+eos mé decretumst persequi mores patris.
+nam me hodie oravit Argyrippus filius,
+uti sibi amanti facerem argenti copiam;
+
+et íd ego percupio obsequi gnato meo.
+volo amori obsecutum illius, volo amet me patrem.
+quamquam illum mater arte contenteque habet,
+patres ut consueverunt: ego mitto omnia haec.
+praesertim quom is me dignum quoi concrederet
+
+habuit, me habere honorem eius ingenio decet;
+quom me adiit, ut pudentem gnatum aequomst patrem,
+cupio esse amicae quod det argentum suae.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h33
+:END:
+
+Cupis id quod cupere te nequiquam intellego.
+dotalem servom Sauream uxor tua
+
+adduxit, cui plus in manu sit quam tibi.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h34
+:END:
+
+Argentum accepi, dote imperium vendidi.
+nunc verba in pauca conferam quid te velim.
+viginti iam usust filio argenti minis:
+face id ut paratum iam sit.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h35
+:END:
+
+Vnde gentium?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h36
+:END:
+
+Me defraudato.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h37
+:END:
+
+Maxumas nugas agis:
+nudo detrahere vestimenta me iubes.
+defraudem te ego? age sís, tu sine pennis vola.
+tene ego defraudem, cui ipsi nihil est in manu,
+nisi quid tu porro uxorem defraudaveris?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h38
+:END:
+
+Qua me, qua uxorem, qua tu servom Sauream
+potes, circumduce, aufer; promitto tibi
+non offuturum, si id hodie effeceris.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h39
+:END:
+
+Iubeas una opera me piscari in aere,
+venari autem rete iaculo in medio mari.†
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h40
+:END:
+
+Tibi optionem sumito Leonidam,
+fabricare quidvis, quidvis comminiscere:
+perficito, argentum hodie ut habeat filius,
+amicae quod det.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h41
+:END:
+
+Quid ais tu, Demaenete?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h42
+:END:
+
+Quid vis?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h43
+:END:
+
+Si forte in insidias devenero,
+
+tun redimes me, si me hostes interceperint?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h44
+:END:
+
+Redimam.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h45
+:END:
+
+Tum tu igitur aliud cura quid lubet.
+ego eo ad forum, nisi quid vis.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h46
+:END:
+
+Ei, bene ambula.
+atque audin etiam?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h47
+:END:
+
+Ecce.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h48
+:END:
+
+Si quid te volam,
+ubi eris?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h49
+:END:
+
+Vbicumque libitum erit animo meo.
+
+profecto nemo est quem iam dehinc metuam mihi
+ne quid nocere possit, cum tu mihi tua
+oratione omnem animum ostendisti tuom.
+quin te quoque ipsum facio haud magni, si hoc patro.
+pergam quo occepi atque ibi consilia exordiar.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h50
+:END:
+
+Audin tu? apud Archibulum ego ero argentarium.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h51
+:END:
+
+Nempe in foro?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h52
+:END:
+
+Ibi, si quid opus fuerit.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h53
+:END:
+
+Meminero.—
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h6-h54
+:END:
+
+Non esse servos peior hoc quisquam potest
+nec magis versutus nec quo ab caveas aegrius.
+eidem homini, si quid recte curatum velis,
+
+mandes: moriri sese misere mavolet,
+quam non perfectum reddat quod promiserit.
+nam ego illud argentum tam paratum filio
+scio esse quam me hunc scipionem contui.
+sed quid ego cesso ire ad forum, quo inceperam?
+
+[lost]  atque ibi manebo apud argentarium.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+* 127
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+Sícine hoc fít? foras aédibus me éici?
+promerenti optume hocin preti redditur?
+bene merenti mala es, male merenti bona es;
+at malo cum tuo, nam iam ex hoc loco
+
+íbo ego ad trés viros vóstraque ibi nómina
+faxo erunt, capitis te perdam ego et filiam,
+pérlecebrae, pérmities, ádulescentum exitium.
+nám mare haud ést mare, vós mare acérrumum;
+nam in mari repperi, hic elavi bonis.
+
+ingrata atque inrita esse omnia intellego
+quae dedi et quod bene feci, at posthac tibi
+mále quod potero fácere faciam, méritoque id faciám tuo.
+ego pol te redigam eodem unde orta es, ad egestatis terminos,
+ego edepol te faciam ut quae sis nunc et quae fueris scias.
+
+quae prius quam ístam adii atque amans ego animum méum isti dedi,
+sordido vitam oblectabas pane in pannis inopia,
+atque ea si érant, magnás habebas omnibus dis gratias;
+eadem nunc, cum est melius, me, cuius opera est, ignoras mala.
+reddam ego te ex fera fame mansuetem, me specta modo.
+
+nam isti quid suscenseam ipsi? nihil est, nihil quicquam meret;
+tuo facit iussu, tuo imperio paret: mater tu, eadem era es.
+té ego ulciscar, té ego ut digna es perdam atque ut de me meres.
+at scelesta viden ut ne id quidem, me dignum esse existumat
+quém adeat, quem conloquatur quoique irato supplicet?
+
+atque eccam inlecebra exit tandem; opinor hic ante ostium
+meo modo loquar quaé volam, quoniam intus non licitum est mihi.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+* 153
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+Vnum quodque istorum verbum nummis Philippis aureis
+non potest auferre hinc a me si quis emptor venerit;
+nec recte quae tu in nos dicis, aurum atque argentum merumst:
+fixus hic apud nós est animus tuos clavo Cupidinis.
+
+remigio veloque quantum poteris festina et fuge:
+quam magis té in altum capessis, tam aestus te in portum refert.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h2
+:END:
+
+Ego pol istum portitorem privabo portorio;
+ego te dehinc ut merita es de me et mea re tractare exsequar,
+quom tu med ut meritus sum non tractas atque eicis domo.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h3
+:END:
+
+Magis istuc percipimus lingua dici, quam factis fore.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h4
+:END:
+
+Solus solitudine ego ted atque ab egestate abstuli;
+solus si ductem, referre gratiam numquam potes.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h5
+:END:
+
+Solus ductato, si semper solus quae poscam dabis;
+semper tibi promissum habeto hac lege, dum superes datis.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h6
+:END:
+
+Qui modus dandi? nam numquam tu quidem expleri potes;
+modo quom accepisti, haud multo post aliquid quod poscas paras.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h7
+:END:
+
+Quid modist ductando, amando? numquamne expleri potes?
+modo remisisti, continuo iam ut remittam ad te rogas.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h8
+:END:
+
+Dedi equidem quod mecum egisti.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h9
+:END:
+
+Et tibi ego misi mulierem:
+
+par pari datum hostimentumst, opera pro pecunia.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h10
+:END:
+
+Male agis mecum.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h11
+:END:
+
+Quid me accusas, si facio officium meum?
+nam neque fictum usquamst neque pictum neque scriptum in poematis
+ubi lena bene agat cum quiquam amante, quae frugi esse volt.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h12
+:END:
+
+Mihi quidem te parcere aequomst tandem, ut tibi durem diu.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h13
+:END:
+
+Non tu scis? quae amanti parcet, eadem sibi parcet parum.
+quasi piscis, itidemst amator lenae: nequam est, nisi recens;
+is habet sucum, is suavitatem, eum quo vis pacto condias,
+vel patinarium vel assum, verses quo pacto lubet:
+is dare volt, is se aliquid posci, nam ibi de pleno promitur;
+
+neque ille scit quid det, quid damni faciat: illi rei studet.
+volt placere sese amicae, volt mihi, volt pedisequae,
+volt famulis, volt etiam ancillis; et quoque catulo meo
+subblanditur novos amator, se ut quom videat gaudeat.
+vera dico: ad suom quemque hominem quaestum esse aequomst callidum.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h14
+:END:
+
+Perdidici istaec esse vera damno cum magno meo.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h15
+:END:
+
+Si ecastor nunc habeas quod des, alia verba praehibeas;
+nunc quia nihil habes, maledictis te eam ductare postulas.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h16
+:END:
+
+Non meum est.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h17
+:END:
+
+Nec meum quidem edepol, ad te ut mittam gratiis.
+verum aetatis atque honoris gratia hoc fiet tui,
+
+quia nobis lucro fuisti potius quam decori tibi:
+si mihi dantur duo talenta argenti numerata in manum,
+hanc tibi noctem honoris causa gratiis dono dabo.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h18
+:END:
+
+Quid si non est?
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h19
+:END:
+
+Tibi non esse credam, illa alio ibit tamen.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h20
+:END:
+
+Vbi illaec quae dedi ante?
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h21
+:END:
+
+Abusa. nam si ea durarent mihi,
+
+mulier mitteretur ad te, numquam quicquam poscerem.
+diem aquam solem lunam noctem, haec argento non emo:
+ceterum quae volumus uti Graeca mercamur fide.
+quom a pistore panem petimus, vinum ex oenopolio,
+si aes habent, dant mercem: eadem nos discipulina utimur.
+
+semper oculatae manus sunt nostrae, credunt quod vident.
+vetus est: /nihili coactiost/ — scis cuius. non dico amplius.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h22
+:END:
+
+Aliam nunc mi orationem despoliato praedicas,
+longe aliam, inquam, praebes nunc atque olim, quom dabam,
+aliam atque olim, quom inliciebas me ad te blande ac benedice.
+
+tum mi aedes quoque arridebant, cum ad te veniebam, tuae;
+me unice unum ex omnibus te atque illam amare aibas mihi;
+ubi quid dederam, quasi columbae pulli in ore ambae meo
+usque eratis, meo de studio studia erant vostra omnia,
+usque adhaerebatis: quod ego iusseram, quod volueram
+
+faciebatis, quod nolebam ac votueram, de industria
+fugiebatis, neque conari id facere audebatis prius.
+nunc neque quid velim neque nolim facitis magni, pessumae.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h23
+:END:
+
+Non tu scis? hic noster quaestus aucupi simillimust.
+auceps quando concinnavit aream, offundit cibum;
+
+aves adsuescunt: nécesse est facere sumptum qui quaerit lucrum;
+saepe edunt: semel si sunt captae, rem solvont aucupi.
+itidem hic apud nos: aedes nobis area est, auceps sum ego,
+esca est meretrix, lectus inlex est, amatores aves;
+bene salutando consuescunt, compellando blanditer,
+
+osculando, oratione vinnula, venustula.
+si papillam pertractavit, haud est ab re aúcupis;
+savium si sumpsit, sumere eum licet sine retibus.
+haecine te esse oblitum, in ludo qui fuisti tam diu?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h24
+:END:
+
+Tua ista culpa est, quae discipulum semidoctum abs te amoves.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h25
+:END:
+
+Remeato audacter, mercedem sí eris nactus: nunc abi.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h26
+:END:
+
+Mane, mane, audi. dic, quid me aequom censes pro illa tibi dare,
+annum hunc ne cum quiquam alio sit?
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h27
+:END:
+
+Tene? viginti minas;
+atque ea lege: si alius ad me prius attulerit, tu vale.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h28
+:END:
+
+At ego est etiam prius quam abis quod volo loqui.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h29
+:END:
+
+Dic quod lubet.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h30
+:END:
+
+Non omnino iam perii, est relicuom quo peream magis.
+habeo unde istuc tibi quod poscis dem; sed in leges meas
+dabo, uti scire possis, perpetuom annum hunc mihi uti serviat
+nec quemquam interea alium admittat prorsus quam me ad se virum.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h10-h31
+:END:
+
+Quin, si tu voles, domi sérvi qui sunt castrabo viros.
+
+postremo ut voles nos esse, syngraphum facito adferas;
+ut voles, ut tibi lubebit, nobis legem imponito:
+modo tecum una argentum adferto, facile patiar cetera.
+portitorum símillumae sunt ianuae lenoniae:
+si adfers, tum patent, si non est quod des, aedes non patent.—
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h10-h32
+:END:
+
+Interii, si non invenio ego illas viginti minas,
+et profecto, nisi illud perdo argentum, pereundum est mihi.
+nunc pergam ad forum atque experiar opibus, omni copia,
+supplicabo, exobsecrabo ut quemque amicum videro,
+dignos indignos adire atque experiri certumst mihi,†
+
+nam si mutuas non potero, certumst sumam faenore.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+* 249
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h1
+:END:
+
+Hercle vero, Libane, nunc te meliust expergiscier
+atque argento comparando fingere fallaciam.
+iam diu est factúm quom discesti ab ero atque abiisti ad forum,
+igitur inveniundo argento ut fingeres fallaciam.
+
+ibi tu ad hoc diei tempus dormitasti in otio.
+quin tu abs te socordiam omnem reice et segnitiem amove
+atque ad ingenium vetus versutum te recipis tuom.
+serva erum, cave tú idem faxis alii quod servi solent,
+quí ad eri fraudationem callidum ingenium gerunt.
+
+unde sumam? quem intervortam? quo hanc celocem conferam?
+impetritum, inauguratumst: quovis admittunt aves,
+picus et cornix ab laeva, corvos parra ab dextera
+consuadent; certum herclest vostram consequi sententiam.
+sed quid hoc, quod picus ulmum tundit? non temerariumst.
+
+certe hercle ego quantum ex augurio éius pici intellego,
+aut mihi in mundo sunt virgae aut atriensi Saureae.
+sed quid illúc, quod exanimatus currit huc Leonida?
+metuo quom illic obscaevavit meae falsae fallaciae.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+* 267
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h1
+:END:
+
+Vbi ego nunc Libanum requiram aut familiarem filium,
+ut ego illos lubentiores faciam quam Lubentiast?
+maximam praedam et triumphum eis adfero adventu meo.
+quando mecum pariter potant, pariter scortari solent,
+
+hanc quidem, quam nactus, praedam pariter cum illis partiam.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h2
+:END:
+
+Illic homo aedis compilavit, more si fecit suo.
+vae illi, qui tam indiligenter observavit ianuam.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h3
+:END:
+
+Aetatem velim servire, Libanum ut conveniam modo.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h4
+:END:
+
+Mea quidem hercle ópera liber numquam fies ocius.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h5
+:END:
+
+Etiam de tergo ducentas plagas praegnatis dabo.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h6
+:END:
+
+Largitur peculium, omnem in tergo thensaurum gerit.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h7
+:END:
+
+Nam si huic sése occasioni tempus supterduxerit,
+numquam edepol quadrigis albis indipiscet postea;
+erum in óbsidione linquet, inimicum animos auxerit.
+
+sed si mecum occasionem opprimere hanc, quae obvenit, studet,
+maximas opimitates, gaudio exfertissimas
+suis eris ille una mecum pariet, gnatoque et patri,
+adeo ut aetatem ambo ambobus nobis sint obnoxii,
+nostro devincti beneficio.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h8
+:END:
+
+Vinctos nescio quos ait;
+
+non placet: metuo, in commune ne quam fraudem frausus sit.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h9
+:END:
+
+Perii ego oppido, nisi Libanum invenio iam, ubiubi est gentium.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h10
+:END:
+
+Illic homó socium ad malam rem quaerit quem adiungat sibi.
+non placet: pro monstro extemplo est, quando qui sudat tremit.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h11
+:END:
+
+Sed quid ego hic properans concesso pedibus, lingua largior?
+
+quin ego hanc iubeo tacere, quae loquens lacerat diem?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h12
+:END:
+
+Edepol hominem ínfelicem, qui patronam comprimat.
+nam si quid sceleste fecit, lingua pro illo perierat.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h13
+:END:
+
+Adproperabo, ne post tempus praedae praesidium parem.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h14
+:END:
+
+Quae illaec praeda est? ibo advorsum atque electabo, quidquid est.
+
+iubeo te salvere voce summa, quo ad vires valent.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h15
+:END:
+
+Gymnasium flagri, salveto.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h16
+:END:
+
+Quid agis, custos carceris?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h17
+:END:
+
+O catenarum colone.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h18
+:END:
+
+O virgarum lascivia.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h19
+:END:
+
+Quot pondo ted esse censes nudum?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h20
+:END:
+
+Non edepol scio.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h21
+:END:
+
+Scibam ego te nescire, at pol ego, qui ted expendi, scio:
+
+nudus vinctus centum pondo es, quando pendes per pedes.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h22
+:END:
+
+Quo argumento istuc?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h23
+:END:
+
+Ego dicam, quo argumento et quo modo.
+ad pedes quando adligatumst aequom centumpondium,
+ubi manus manicae complexae sunt atque adductae ad trabem,
+nec dependes nec propendes—quin malus nequamque sis.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h24
+:END:
+
+Vae tibi.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h25
+:END:
+
+Hoc testamento Servitus legat tibi.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h26
+:END:
+
+Verbivelitationem fieri compendi volo.
+Quid istud est negoti?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h27
+:END:
+
+Certum est credere.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h28
+:END:
+
+Audacter licet.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h29
+:END:
+
+Sis amanti subvenire familiari filio,
+tantum adest boni improviso, verum commixtum malo:
+
+omnes de nobis carnificum concelebrabuntur dies.
+Libane, nunc audacia usust nobis inventa et dolis.
+tantum facinus modo invéni ego, ut nos dicamur duo
+omnium dignissumi esse, quo cruciatus confluant.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h30
+:END:
+
+Ergo mirabar quod dudum scapulae gestibant mihi,
+
+hariolari quae occeperunt, sibi esse in mundo malum.
+quidquid est, eloquere.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h31
+:END:
+
+Magna est praeda cum magno malo.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h32
+:END:
+
+Si quidem omnes coniurati cruciamenta conferant,
+habeo opinor familiare tergum, ne quaeram foris.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h33
+:END:
+
+Si istam firmitudinem animi óptines, salvi sumus.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h34
+:END:
+
+Quin si tergo res solvenda est, rapere cupio publicum:
+pernegabo atque obdurabo, periurabo denique.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h35
+:END:
+
+Em ista virtus est, quando usust qui malum fert fortiter;
+fortiter malum qui patitur, idem post potitur bonum.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h36
+:END:
+
+Quin rem actutum edisseris? cupio malum nanciscier.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h37
+:END:
+
+Placide ergo unum quidquid rogita, ut adquiescam. non vides
+me ex cursura anhelitum etiam ducere?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h38
+:END:
+
+Age, age, mansero
+tuo arbitratu, vel adeo usque dum peris.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h39
+:END:
+
+Vbinam est erus?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h40
+:END:
+
+Maior apud forumst, minor hic est intus.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h41
+:END:
+
+Iam satis est mihi.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h42
+:END:
+
+Túm igitur tu dives es factus?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h43
+:END:
+
+Mitte ridicularia.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h44
+:END:
+
+Mitto.  [lost]  istuc quod adfers aures exspectant meae.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h45
+:END:
+
+Animum adverte, ut aeque mecum haéc scias.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h46
+:END:
+
+Taceo.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h47
+:END:
+
+Beas.
+meministin asinos Arcadicos mercatori Pellaeo
+nostrum vendere atriensem?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h48
+:END:
+
+Memini. quid tum postea?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h49
+:END:
+
+Em ergo is argentum huc remisit, quod daretur Saureae
+
+pró asinis. adulescens venit modo, qui id argentum attulit.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h50
+:END:
+
+Vbi is homost?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h51
+:END:
+
+Iam devorandum censes, si conspexeris?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h52
+:END:
+
+Ita enim vero. sed tamen, tu nempe eos asinos praedicas
+vetulos, claudos, quibus subtritae ad femina iám erant ungulae?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h53
+:END:
+
+Ipsos, qui tibi subvectabant rure huc virgas ulmeas.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h54
+:END:
+
+Teneo, atque idem te hinc vexerunt vinctum rus.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h55
+:END:
+
+Memor es probe.
+verum in tonstrina ut sedebam, me infit percontarier,
+ecquem filium Stratonis noverim Demaenetum.
+dico me novisse extemplo et me eius servom praedico
+esse, et aedis demonstravi nostras.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h56
+:END:
+
+Quid tum postea?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h57
+:END:
+
+Ait se ob asinos ferre argentum átriensi Saureae,
+viginti minas, séd eum sese non nosse hominem qui siet,
+ipsum vero se novisse callide Demaenetum.
+quoniam ille elocutus haec sic—
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h58
+:END:
+
+Quid tum?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h59
+:END:
+
+Ausculta ergo, scies.
+extemplo facio facetum me atque magnificum virum,
+
+dico med esse atriensem. sic hoc respondit mihi:
+“ego pol Sauream non novi neque qua facie sit scio.
+te non aequomst suscensere. sí erum vis Demaenetum,
+quém ego novi, adduce: argentum non morabor quin feras.”
+ego me dixi erum adducturum et me domi praesto fore;
+
+ille in balineas iturust, inde huc veniet postea.
+quid nunc consili captandum censes? dic.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h60
+:END:
+
+Em istuc ago,
+quo modo argento intervortam et adventorem et Sauream.
+iam hoc opus est † exasceatum; nam si ille argentum prius
+hospes huc affert, continuo nos ambo exclusi sumus.
+
+nam me hodie senex seduxit solum sorsum ab aedibus,
+mihi tibique interminatust nos futuros ulmeos,
+ní hodie Argyrippo éssent viginti argenti minae;
+iussit vel nos atriensem vel nos uxorem suam
+defraudare, dixit sese óperam promiscam dare.
+
+nunc tu abi ad forum ad erum et narra haec ut nos acturi sumus:
+te ex Leonida futurum esse atriensem Sauream,
+dum argentum afferat mercator pró asinis.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h61
+:END:
+
+Faciam ut iubes.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h62
+:END:
+
+Ego illum interea hic oblectabo, prius si forte advenerit.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h63
+:END:
+
+Quid ais?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h64
+:END:
+
+Quid vis?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h65
+:END:
+
+Pugno malam si tibi percussero,
+
+mox cum Sauream imitabor, caveto ne suscenseas.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h66
+:END:
+
+Hercle vero tu cavebis ne me attingas, si sapis,
+né hodie malo cum auspicio nomen commutaveris.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h67
+:END:
+
+Quaeso, aequo animo patitor.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h68
+:END:
+
+Patitor tú item, cum ego te referiam.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h69
+:END:
+
+Dico ut usust fieri.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h70
+:END:
+
+Dico hercle ego quoque ut facturus sum.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h71
+:END:
+
+Ne nega.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h72
+:END:
+
+Quin promitto, inquam, hostire contra ut merueris.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h15-h73
+:END:
+
+Ego abeo, tu iam, scio, patiere. sed quis hic est? is est,
+ille est ipsus. iam ego recurro húc. tu hunc interea hic tene.
+volo seni narrare.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h15-h74
+:END:
+
+Quin tuom officium facis ergo ac fugis?
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+* 381
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h1
+:END:
+
+Vt démonstratae súnt mihi, hasce aédis esse opórtet,
+Demaenetus ubi dicitur habitare. i, puere, pulta
+atque atriensem Sauream, si est intus, evocato huc.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h2
+:END:
+
+Quis nostras sic frangit fores? ohe, inquam, si quid audis.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h3
+:END:
+
+Nemo etiam tetigit. sanun es?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h4
+:END:
+
+At censebam attigisse
+propterea, huc quia habebas iter. nolo ego fores conservas
+meas á te verberarier. sane ego sum amicus nostris.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h5
+:END:
+
+Pol haud periclum est, cardines ne foribus effringantur,
+si istoc exemplo omnibus qui quaerunt respondebis.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h6
+:END:
+
+Ita haec morata est ianua: extemplo ianitorem
+clamat, procul si quem videt ire ad se calcitronem.
+sed quid venis? quid quaeritas?
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h7
+:END:
+
+Demaenetum volebam.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h8
+:END:
+
+Si sit domi, dicam tibi.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h9
+:END:
+
+Quid eius atriensis?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h10
+:END:
+
+Nihilo mage intus est.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h11
+:END:
+
+Vbi est?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h12
+:END:
+
+Ad tonsorem ire dixit.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h13
+:END:
+
+Conveni. sed post non redit?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h14
+:END:
+
+Non edepol. quid volebas?
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h15
+:END:
+
+Argenti viginti minas, si adesset, accepisset.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h16
+:END:
+
+Qui pro istuc?
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h17
+:END:
+
+Asinos vendidit Pellaeo mercatori
+mercatu.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h18
+:END:
+
+Scio. tu id nunc refers? iam hic credo eum adfuturum.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h19
+:END:
+
+Qua facie voster Saurea est? si is est, iam scire potero.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h20
+:END:
+
+Macilentis malis, rufulus aliquantum, ventriosus,
+truculentis oculis, commoda statura, tristi fronte.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h21
+:END:
+
+Non potuit pictor rectius describere eius formam.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h17-h22
+:END:
+
+Atque hercle ipsum adeo contuor, quassanti capite incedit.
+quisque obviam huic occesserit irato, vapulabit.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h17-h23
+:END:
+
+Siquidem hércle Aeacidinis minis animisque expletus incedit,
+si med iratus tetigerit, iratus vapulabit.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+* 407
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h1
+:END:
+
+Quid hoc sít negoti, neminem meum dictum magni facere?
+Libanum in tonstrinam ut iusseram venire, is nullus venit.
+ne ille edepol tergo et cruribus consuluit haud decore.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h2
+:END:
+
+Nimis imperiosust.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h3
+:END:
+
+Vae mihi.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h4
+:END:
+
+Hodie salvere iussi
+
+Libanum libertum? iam manu emíssu'semissus es?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h5
+:END:
+
+Obsecro te.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h6
+:END:
+
+Ne tu hercle cum magno malo mihi obviam occessisti.
+cur non venisti, ut iusseram, in tonstrinam?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h7
+:END:
+
+Hic me moratust.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h8
+:END:
+
+Siquidem hércle nunc summum Iovem te dicas detinuisse
+atque is precator adsiet, malam rem effugies numquam.
+
+tu, verbero, imperium meum contempsisti?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h9
+:END:
+
+Perii, hospes.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h10
+:END:
+
+Quaeso hercle noli, Saurea, mea causa hunc verberare.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h11
+:END:
+
+Vtinam nunc stimulus in manu mihi sit.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h12
+:END:
+
+Quiesce quaeso.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h13
+:END:
+
+Qui latera conteram tua, quae occalluere plagis.
+abscede ac sine me hunc perdere, qui semper me ira incendit,
+
+cui numquam unam rem me licet semel praecipere furi,
+quin centiens eadem imperem atque ogganniam, itaque iam hercle
+clamore ac stomacho non queo labori suppeditare.
+iussin, sceleste, ab ianua hoc stercus hinc auferri?
+iussin columnis deici operas araneorum?
+
+iussin in splendorem dari bullas has foribus nostris?
+nihil est: tamquam si claudus sim, cum fustist ambulandum.
+quia triduom hoc unum modo foro operam adsiduam dedo,
+dum reperiam qui quaeritet argentum in faenus, hic vos
+dormitis interea domi, atque erus in hara, haud aedibus, habitat.
+
+em ergo hóc tibi.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h14
+:END:
+
+Hospes, te obsecro, defende.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h15
+:END:
+
+Saurea, oro,
+mea causa ut mittás.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h16
+:END:
+
+Eho, ecquis pro vectura olivi
+rem solvit?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h17
+:END:
+
+Solvit.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h18
+:END:
+
+Cui datumst?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h19
+:END:
+
+Sticho vicario ipsi
+tuo.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h20
+:END:
+
+Váh, delenire apparas, scio mihi vicarium esse,
+neque eo esse servom in aedibus eri quí sit pluris quam illest.
+
+sed vina quaé heri vendidi vinario Exaerambo,
+iam pró eis satis fecit Sticho?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h21
+:END:
+
+Fecisse satis opinor,
+nam vidi huc ipsum adducere trapezitam Exaerambum.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h22
+:END:
+
+Sic dedero. prius quae credidi vix anno post exegi;
+nunc satagit: adducit domum etiam ultro et scribit nummos.
+
+Dromo mercedem rettulit?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h23
+:END:
+
+Dimidio minus opinor.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h24
+:END:
+
+Quid relicuom?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h25
+:END:
+
+Aibat reddere quom extemplo redditum esset;
+nam retineri, ut quod sit sibi operis locatum efficeret.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h26
+:END:
+
+Scyphos quos utendos dedi Philodamo, rettulitne?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h27
+:END:
+
+Non etiam.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h28
+:END:
+
+Hem non? si velis da  [lost]  , commoda homini amico.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h29
+:END:
+
+Perii hercle, iam hic me abegerit suo odio.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h30
+:END:
+
+Heús iam satis tu.
+audin quae loquitur?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h31
+:END:
+
+Audio et quiesco.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h32
+:END:
+
+Tandem, opinor,
+conticuit. nunc adeam optimum est, prius quam incipit tinnire.
+quam mox mi operam das?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h33
+:END:
+
+Ehem, óptume. quam dudum tu advenisti?
+non hercle te provideram (quaeso, ne vitio vortas),
+
+ita iracundia obstitit oculis.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h34
+:END:
+
+Non mirum factum est.
+sed si domi est, Demaenetum volebam.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h35
+:END:
+
+Negat esse intus.
+verum istuc argentum tamen mihi si vis denumerare,
+repromittam istoc nomine solutam rem futuram.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h36
+:END:
+
+Sic potius, ut Demaeneto tibi ero praesente reddam.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h37
+:END:
+
+Erus istunc novit atque erum hic.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h38
+:END:
+
+Ero huic praesente reddam.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h39
+:END:
+
+Da modo meo periculo, rem salvam ego exhibebo;
+nam si sciat noster senex fidem non esse huic habitam,
+suscenseat, quoi ómnium rerum ipsus semper credit.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h40
+:END:
+
+Non magni pendo. ne duit, si non volt. sic sine astet.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h41
+:END:
+
+Da, inquam. vah, formido miser, ne hic me tibi arbitretur
+suasisse, sibi ne crederes. da, quaeso, ac ne formida:
+salvom hercle erit.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h42
+:END:
+
+Credam fore, dum quidem ipse in mánu habebo.
+peregrinus ego sum, Sauream non novi.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h43
+:END:
+
+At nosce sane.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h44
+:END:
+
+Sit, non sit, non edepol scio. si is est, eum esse oportet.
+
+ego certe me incerto scio hoc daturum nemini homini.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h45
+:END:
+
+Hercle istum di omnes perduint. verbo cave supplicassis.
+ferox est viginti minas meas tractare sese.
+nemo accipit, aufer te domum, abscede hinc, molestus ne sis.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h46
+:END:
+
+Nimis iracunde. non decet superbum esse hominem servom.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h47
+:END:
+
+Malo hercle iam magno tuo, ni isti nec recte dicis.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h48
+:END:
+
+Impure, nihili. non vides irasci?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h49
+:END:
+
+Perge porro.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h50
+:END:
+
+Flagitium hominis. da, óbsecro, argentum huic, ne male loquatur.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h51
+:END:
+
+Malum hercle vobis quaeritis.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h52
+:END:
+
+Crura hercle diffringentur,
+ni istum impudicum percies.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h19-h53
+:END:
+
+Perii hercle. age impudice,
+
+sceleste, non audes mihi scelesto subvenire?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h54
+:END:
+
+Pergin precari pessimo?
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h55
+:END:
+
+Quae res? tun libero homini
+male servos loquere?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h56
+:END:
+
+Vapula.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h57
+:END:
+
+Id quidém tibi hercle fiet,
+ut vapules, Demaenetum simul ac conspexero hodie.
+in ius voco te.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h58
+:END:
+
+Non eo.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h59
+:END:
+
+Non is? memento.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h60
+:END:
+
+Memini.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h61
+:END:
+
+Dabitur pol supplicium mihi de tergo vostro.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h62
+:END:
+
+Vae te.
+tibi quidem supplicium, carnufex, de nobis detur?†
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h63
+:END:
+
+Atque etiam
+pro dictis vostris maledicis poenae pendentur mi hodie.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h64
+:END:
+
+Quid, verbero? ain tu, furcifer? erum nos fugitare censes?
+ei nunciam ad erum, quo vocas, iam dudum quo volebas.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h65
+:END:
+
+Nunc demum? tamen numquam hinc feres argenti nummum, nisi me
+dare iusserit Demaenetus.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h66
+:END:
+
+Ita facito, age ambula ergo.
+tu contumeliam alteri facias, tibi non dicatur?
+tam ego homo sum quam tu.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h67
+:END:
+
+Scilicet. ita res est.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h68
+:END:
+
+Sequere hac ergo.
+praefiscini hoc nunc dixerim: nemo etiam me accusavit
+
+merito meo, neque me alter est Athenis hodie quisquam,
+cui credi recte aeque putent.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h69
+:END:
+
+Fortassis. sed tamen me
+numquam hodie induces, ut tibi credam hoc argentum ignoto.
+lupus est homo homini, non homo, quom qualis sit non novit.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h70
+:END:
+
+Iam nunc secunda mihi facis. scibam huic te capitulo hodie
+
+facturum satis pro iniuria; quamquam ego sum sordidatus,
+frugi tamen sum, nec potest peculium enumerari.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h71
+:END:
+
+Fortasse.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h72
+:END:
+
+Etiam † nunc dico Periphanes Rhodo mercator dives
+absente ero solus mihi talentum argenti soli
+adnumeravit et mihi crédidit, nequest deceptus in eo.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h73
+:END:
+
+Fortasse.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h19-h74
+:END:
+
+Atque etiam tu quoque ipse, si esses percontatus
+me ex aliis, scio pol crederes nunc quod fers.
+
+** Mercator
+:PROPERTIES:
+:CUSTOM_ID: h19-h75
+:END:
+
+Haud negassim.—
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+* 504
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+Néqueon ego ted interdictis facere mansuetem meis?
+an ita tu es animata, ut qui matris éxpers imperio sies?
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h2
+:END:
+
+Vbi piem Pietatem, si istoc more moratam tibi
+postulem placere, mater, mihi quo pacto praecipis?
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h22-h3
+:END:
+
+An decorum est adversari meis te praeceptis?
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h4
+:END:
+
+Quid est?
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h22-h5
+:END:
+
+Hocine est pietatem colere, matris impérium minuere?
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h6
+:END:
+
+Neque quae recte faciunt culpo neque quae delinquont amo.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h22-h7
+:END:
+
+Satis dicacula es amatrix.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h8
+:END:
+
+Mater, is quaestus mihi est:
+lingua poscit, corpus quaerit; animus orat, res monet.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h22-h9
+:END:
+
+Ego te volui castigare, tu mi accusatrix ades.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h10
+:END:
+
+Neque edepol te accuso neque id me facere fas existimo.
+verum ego meas queror fortunas, cum illo quém amo prohibeor.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h22-h11
+:END:
+
+Ecqua pars orationis de die dabitur mihi?
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h12
+:END:
+
+Et meam partem loquendi ét tuam trado tibi;
+
+ad loquendum atque ad tacendum tute habeas portisculum.
+quin pol si reposivi remum, sola ego in casteria
+ubi quiesco, omnis familiae causa consistit tibi.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h22-h13
+:END:
+
+Quid ais tu, quam ego unam vidi mulierem audacissimam?
+quotiens te votui Argyrippum filium Demaeneti
+
+compellare aut contrectare, conloquive aut contui?
+quid dedit? quid ad nos iussit deportari? an tu tibi
+verba blanda esse aurum rere, dicta docta pro datis?
+ultro amas, ultro expetessis, ultro ad te accersi iubes.
+illos qui dant, eos derides; qui deludunt, deperis.
+
+an te id exspectare oportet, si quis promittat tibi
+te facturum divitem, si moriatur mater sua?
+†ecastor nobis periclum magnum et familiae portenditur,
+dum eius exspectamus mortem, ne nos moriamur fame.
+nunc adeo nisi mi huc argenti ádfert viginti minas,
+
+ne ille ecastor hinc trudetur largus lacrumarum foras.
+hic dies summust  [lost]  apud me inópiae excusatio.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h14
+:END:
+
+Patiar, si cibo carere me iubes, mater mea.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h22-h15
+:END:
+
+Non voto téd amare qui dant quoia amentur gratia.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h16
+:END:
+
+Quid si hic animus occupatust, mater, quid faciam? mone.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h22-h17
+:END:
+
+Em,
+
+meum caput contemples, si quidem ex re consultas tua.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h18
+:END:
+
+Etiam ópilio qui pascit, mater, alienas ovis,
+aliquam habet peculiarem, qui spem soletur suam.
+sine me amare unum Argyrippum ánimi causa, quem volo.
+
+** Cleareta
+:PROPERTIES:
+:CUSTOM_ID: h22-h19
+:END:
+
+Intro abi, nam te quidem edepol nihil est impudentius.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h20
+:END:
+
+Audientem dicto, mater, produxisti filiam.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+* 545
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h1
+:END:
+
+Perfídiae laudes grátiasque habémus merito mágnas,
+quom nostris sycophantiis, dolis astutiisque,
+scapularum confidentia, virtute ulmorum freti
+qui advorsum stimulos, lamminas, crucesque compedesque,
+
+nervos, catenas, carceres, numellas, pedicas, boias
+†indoctoresque acerrumos gnarosque nostri tergi,
+qui saepe ante in nostras scapulas cicatrices indiderunt
+[lost]
+eae núnc legiones, copiae exercitusque eorum
+
+vi pugnando periuriis nostris fugae potiti.
+id virtute huius † collegae meaque comitate
+factumst. qui me vir fortior ad sufferundas plagas?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h24-h2
+:END:
+
+Edepol virtutes qui tuas non possis conlaudare
+sic ut ego possim, quae domi duellique male fecisti.
+
+ne illa edepol pro merito tuo memorari multa possunt:
+ubi fidentem fraudaveris, ubi ero infidelis fueris,
+ubi verbis conceptis sciens libenter periuraris,
+ubi parietes perfoderis, in furto ubi sis prehensus,
+ubi saepe causam dixeris pendens adversus octo
+
+artutos, audacis viros, valentis virgatores.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h3
+:END:
+
+Fateor profecto ut praedicas, Leonida, esse vera;
+verum edepol ne etiam túa quoque malefacta iterari multa
+et vero possunt: ubi sciens fideli infidus fueris,
+ubi prensus in furto sies manifesto et verberatus,
+
+ubi periuraris, ubi sacro manus sis admolitus,
+ubi eris damno, molestiae et dedecori saepe fueris,
+ubi creditum quod sit tibi datum esse pernegaris,
+ubi amicae quám amico tuo fueris magis fidelis,
+ubi saepe ad languorem tua duritia dederis octo
+
+validos lictores, ulmeis adfectos lentis virgis.
+num male relata est gratia, ut collegam collaudavi?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h24-h4
+:END:
+
+Vt meque teque maxime atque ingenio nostro decuit.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h5
+:END:
+
+Iam omitte ista atque hoc quod rogo responde.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h24-h6
+:END:
+
+Rogita quod vis.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h7
+:END:
+
+Argenti vinginti minas habesne?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h24-h8
+:END:
+
+Hariolare.
+
+edepol senem Demaenetum lepidum fuisse nobis:
+ut adsimulabat Sauream med esse quam facete!
+nimis aegre risum contini, ubi hospitem inclamavit,
+quod se absente mihi fidem habere noluisset.
+ut memoriter me Sauream vocabat atriensem!
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h9
+:END:
+
+Mane dúm.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h24-h10
+:END:
+
+Quid est?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h11
+:END:
+
+Philaenium estne haéc quae intus exit
+atque Argyrippus una?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h24-h12
+:END:
+
+Opprime os, is est. subauscultemus.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h13
+:END:
+
+Lacrumantem lacinia tenet lacrumans. quidnam esse dicam?
+taciti auscultemus.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h24-h14
+:END:
+
+Attatae, modo hercle in mentem venit,
+nimis véllem habere perticam.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h15
+:END:
+
+Quoi rei?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h24-h16
+:END:
+
+Qui verberarem
+
+asinos, si forte occeperint clamare hinc ex crumina.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+* 591
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h1
+:END:
+
+Cur me retentas?
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h2
+:END:
+
+Quia tui amans abeuntis egeo.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h3
+:END:
+
+Vale.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h4
+:END:
+
+Aliquanto ámplius valerem, si hic maneres.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h5
+:END:
+
+Salve.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h6
+:END:
+
+Salvere me iubes, quoi tu abiens offers morbum.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h7
+:END:
+
+Mater supremam mihi tua dixit, domum ire iussit.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h8
+:END:
+
+Acerbum funus filiae faciet, si te carendum est.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h9
+:END:
+
+Homo hercle hinc exclusust foras.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h10
+:END:
+
+Ita res est.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h11
+:END:
+
+Mitte quaeso.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h12
+:END:
+
+Quo nunc abis? quin tu hic manes?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h13
+:END:
+
+Nox, si voles, manebo.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h14
+:END:
+
+Audin hunc opera ut largus est nocturna? nunc enim esse
+negotiosum interdius videlicet Solonem,
+
+leges ut conscribat, quibus se populus teneat. gerrae!
+qui sese parere apparent huius légibus, profecto
+numquam bonae frugi sient, dies noctesque potent.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h15
+:END:
+
+Ne iste hercle ab ista non pedem discedat, si licessit,
+qui nunc festinat atque ab hac minatur sese abire.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h16
+:END:
+
+Sermoni iam finem face tuo, huius sermonem accipiam.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h17
+:END:
+
+Vale.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h18
+:END:
+
+Quo properas?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h19
+:END:
+
+Bene vale, apud Orcum te videbo.
+nam equidem me iam quantum potest a vita abiudicabo.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h20
+:END:
+
+Cur tu, obsecro, immerito meo me morti dedere optas?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h21
+:END:
+
+Ego te? quam si intellegam deficere vita, iam ipse
+
+vitam meam tibi largiar et de mea ad tuam addam.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h22
+:END:
+
+Cur ergo minitaris mihi, te vitam esse amissurum?
+nam quid me facturam putas, si istuc quod dicis faxis?
+mihi certum est facere in me omnia eadem quae tu in te faxis.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h23
+:END:
+
+Oh melle dulci dulcior tu es.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h24
+:END:
+
+Certe enim tú vita es mi.
+
+complectere.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h25
+:END:
+
+Facio lubens.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h26
+:END:
+
+Vtinam sic efferamur.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h27
+:END:
+
+O Libane, uti miser est homo qui amat.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h28
+:END:
+
+Immo hercle vero,
+qui pendet multo est miserior.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h29
+:END:
+
+Scio qui periclum feci.
+circum sistamus, alter hinc, hinc alter appellemus.
+ere, salve. sed num fumus est haec mulier quam amplexare?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h30
+:END:
+
+Quidum?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h31
+:END:
+
+Quia oculi sunt tibi lacrumantes, eo rogavi.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h32
+:END:
+
+Patronus qui vobis fuit futurus, perdidistis.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h33
+:END:
+
+Equidem hercle nullum perdidi, ideo quia numquam ullum habui.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h34
+:END:
+
+Philaenium, salve.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h35
+:END:
+
+Dabunt di quae velitis vobis.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h36
+:END:
+
+Noctem tuam et vini cadum velim, si optata fiant.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h37
+:END:
+
+Verbum cave fáxis, verbero.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h38
+:END:
+
+Tibi equidem, non mihi opto.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h39
+:END:
+
+Tum tu igitur loquere quod lubet.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h40
+:END:
+
+Hunc hercle verberare.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h41
+:END:
+
+Quisnam istuc adcredat tibi, cinaede calamistrate?
+tun verberes, qui pro cibo habeas te verberari?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h42
+:END:
+
+Vt vostrae fortunae meis praecedunt, Libane, longe,
+
+qui hódie numquam ad vesperum vivam.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h43
+:END:
+
+Quapropter, quaeso?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h44
+:END:
+
+Quia ego hanc amó et haec me amat, huic quod dem nusquam quicquam est,
+hinc med amantem ex aedibus eiecit huius mater.
+argenti viginti minae me ad mórtem appulerunt,
+quas hodie aduléscens Diabolus ipsi daturus dixit,
+
+ut hanc ne quoquam mitteret nisi ad se hunc annum totum.
+videtin viginti minae quid pollent quidve possunt?
+ille qui íllas perdit salvos est, ego qui non perdo pereo.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h45
+:END:
+
+Iam dedit argentum?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h46
+:END:
+
+Non dedit.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h47
+:END:
+
+Bono animo es, ne formida.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h48
+:END:
+
+Secede huc, Libane, te volo.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h49
+:END:
+
+Si quid vis.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h50
+:END:
+
+Obsecro vos,
+
+eadem istac opera suaviust complexos fabulari.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h51
+:END:
+
+Non omnia eadem aeque omnibus, ere, suavia esse scito:
+vobis est suave amantibus complexos fabulari,
+ego complexum huius nil moror, meum autem hic aspernatur.
+proinde istud facias ipse quod faciamus nobis suades.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h52
+:END:
+
+Ego vero, et quidem edepol lubens. interea, si videtur,
+concedite istuc.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h53
+:END:
+
+Vin erum deludi?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h54
+:END:
+
+Dignust sane.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h55
+:END:
+
+Vin faciam ut te Philaenium praesente hoc amplexetur?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h56
+:END:
+
+Cupio hercle.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h57
+:END:
+
+Sequere hac.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h58
+:END:
+
+Ecquid est salutis? satis locuti.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h59
+:END:
+
+Auscultate atque operam date et mea dicta devorate.
+
+primum omnium servos tuos nos esse non negamus;
+sed tibi si viginti minae argenti proferentur,
+quo nos vocabis nomine?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h60
+:END:
+
+Libertos.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h61
+:END:
+
+Non patronos?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h62
+:END:
+
+Id potius.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h63
+:END:
+
+Viginti minae hic insunt in crumina,
+has ego, si vis, tibi dabo.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h64
+:END:
+
+Di te servassint semper,
+
+custos erilis, decus popli, thensaurus copiarum,
+salus interioris † corporis amorisque imperator.
+hic pone, hic istam colloca cruminam in collo plane.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h65
+:END:
+
+Nolo ego te, quí erus sis, mihi onus istuc sustinere.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h66
+:END:
+
+Quin tu labore liberas te atque istam imponis in me?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h67
+:END:
+
+Ego baiulabo, tu, ut decet dominum, ante me ito inanis.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h68
+:END:
+
+Quid nunc?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h69
+:END:
+
+Quid est?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h70
+:END:
+
+Quin tradis huc cruminam pressatum umerum?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h71
+:END:
+
+Hanc, cui daturu's hancdaturus es, iube petere atque orare mecum.
+nam istuc proclive est, quo iubes me plane collocare.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h72
+:END:
+
+Da, meus ocellus, mea rosa, mi ánime, mea voluptas,
+
+Leonida, argentum mihi, ne nos diiunge amantis.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h73
+:END:
+
+Dic me igitur tuom passerculum, gallinam, coturnicem,
+agnellum, haedillum me tuom dic esse vel vitellum,
+prehende auriculis, compara labella cum labellis.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h74
+:END:
+
+Ten osculetur, verbero?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h75
+:END:
+
+Quam vero indignum visum est?
+
+at qui pol hodie non feres, ni genua confricantur.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h76
+:END:
+
+Quidvis egestas imperat: fricentur. dan quod oro?
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h77
+:END:
+
+Age, mi Leonida, obsecro, fer amanti ero salutem,
+redime istoc benefició te ab hoc, et tibi eme hunc isto argento.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h78
+:END:
+
+Nimis bélla es atque amabilis, et si hoc meum esset, hodie
+
+numquam me orares quin darem: illum te orare meliust,
+illic hánc mihi servandam dedit. ei sane bella belle.
+cape hoc sis, Libane.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h79
+:END:
+
+Furcifer, etiam me delusisti?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h80
+:END:
+
+Numquam hercle facerem, genua ni tam nequiter fricares.
+age sis tu in partem nunciam hunc delude atque amplexare hanc.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h81
+:END:
+
+Taceas, me spectes.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h82
+:END:
+
+Quin ad hunc, Philaenium, adgredimur,
+virum quidem pol optimum et non similem furis huius?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h83
+:END:
+
+Inambulandum est: nunc mihi vicissim supplicabunt.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h84
+:END:
+
+Quaeso hercle, Libane, sis erum tuis factis sospitari,
+da mi istas viginti minas. vides me amantem egere.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h85
+:END:
+
+Videbitur. factum volo. redito huc conticinno.
+nunc istanc tantisper iube petere atque orare mecum.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h86
+:END:
+
+Amandone exorarier vis ted an osculando?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h87
+:END:
+
+Enim véro utrumque.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h88
+:END:
+
+Ergo, obsecro, ét tu utrumque nostrum serva.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h89
+:END:
+
+O Libane, mi patrone, mi trade istuc. magis decorumst
+
+libertum potius quam patronum onus in via portare.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h90
+:END:
+
+Mi Libane, ocellus aureus, donum decusque amoris,
+amabo, faciam quod voles, da istuc argentum nobis.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h91
+:END:
+
+Dic igitur med aniticulam, columbam vel catellum,
+hirundinem, monerulam, passerculum putillum,
+
+fac proserpentem bestiam me, duplicem ut habeam linguam,
+circumda torquem brachiis, meum collum circumplecte.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h92
+:END:
+
+Ten complectatur, carnufex?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h93
+:END:
+
+Quam vero indignus videor?
+ne istuc nequiquam dixeris tam indignum dictum in me,
+vehes pól hodie me, si quidem hoc argentum ferre speres.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h94
+:END:
+
+Ten ego veham?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h95
+:END:
+
+Tun hoc feras argentum áliter a me?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h96
+:END:
+
+Perii hercle. si verum quidem et decorum erum vehere servom,
+inscende.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h97
+:END:
+
+Sic isti solent superbi subdomari.
+asta igitur, ut consuetus es puer olim. scin ut dicam?
+em sic. abi, laúdo, nec te equo magis est equos ullus sapiens.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h98
+:END:
+
+Inscende actutum.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h99
+:END:
+
+Ego fecero. hem quid istúc est? ut tu incedis?
+demam hercle iam de hórdeo, tolutim ni badizas.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h100
+:END:
+
+Amabo, Libane, iam sat est.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h101
+:END:
+
+Numquam hercle hodie exorabis.
+nam iam calcari quadrupedo agitabo advorsum clivom,
+postidea ad pistores dabo, ut ibí cruciere currens.
+
+asta ut descendam nunciam in proclivi, quamquam nequam es.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h102
+:END:
+
+Quid nunc, amabo? quoniam, ut est libitum, nos delusistis,
+datisne argentum?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h103
+:END:
+
+Si quidem mihi statuam et aram statuis
+atque ut deo mi hic immolas bovem: nam ego tibi Salus sum.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h104
+:END:
+
+Etiam tu, ere, istunc amoves abs te atque † ipse me adgredere
+
+atque illa, sibi quae hic iusserat, mihi statuis supplicasque?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h105
+:END:
+
+Quem te autem divom nominem?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h106
+:END:
+
+Fortunam, atque Obsequentem.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h107
+:END:
+
+Iam istoc es melior.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h108
+:END:
+
+An quid est homini Salute melius?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h109
+:END:
+
+Licet laúdem Fortunam, tamen ut ne Salutem culpem.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h26-h110
+:END:
+
+Ecastor ambae sunt bonae.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h111
+:END:
+
+Sciam ubi boni quid dederint.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h112
+:END:
+
+Opta id quod ut cóntingat tibi vis.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h113
+:END:
+
+Quid si optaro?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h114
+:END:
+
+Eveniet.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h115
+:END:
+
+Opto annum hunc perpetuom mihi huius operas.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h116
+:END:
+
+Impetrasti.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h117
+:END:
+
+Ain vero?
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h118
+:END:
+
+Certe inquam.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h119
+:END:
+
+Ad me adi vicissim atque experire.
+exopta id quod vis maxime tibi evenire: fiet.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h120
+:END:
+
+Quid ego aliud exoptem amplius nisi illud cuius inópiast,
+
+viginti argenti commodas minas, huius quas dem matri.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h121
+:END:
+
+Dabuntur, animo sis bono face, exoptata optingent.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h122
+:END:
+
+Vt consuevere, homines Salus frustratur et Fortuna.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h123
+:END:
+
+Ego caput huic argento fui hodie reperiundo.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h124
+:END:
+
+Ego pes fui.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h125
+:END:
+
+Quin nec caput nec pes sermoni apparet.
+
+nec quid dicatis scire nec me cur ludatis possum.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h126
+:END:
+
+Satis iám delusum censeo. nunc rém ut est eloquamur.
+animum, Argyrippe, advorte sis. pater nos ferre hoc iussit
+argentum ad ted.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h127
+:END:
+
+Vt temperi opportuneque attulistis.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h128
+:END:
+
+Hic inerunt viginti minae bonae, mala opera partae;
+
+has tibi nos pactis legibus dare iussit.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h129
+:END:
+
+Quid id est, quaeso?
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h130
+:END:
+
+Noctem huius et cénam sibi ut dares.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h131
+:END:
+
+Iube advenire quaeso:
+meritissimo eius quae volet faciemus, qui hosce amores
+nostros dispulsos compulit.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h132
+:END:
+
+Patierin, Argyrippe,
+patrem hanc amplexari tuom?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h133
+:END:
+
+Haec faciet facile ut patiar.
+
+Leonida, curre obsecro, patrem huc orato ut veniat.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h134
+:END:
+
+Iam dudum est intus.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h135
+:END:
+
+Hac quidem non venit.
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h136
+:END:
+
+Angiporto
+illac per hortum circum iit clam, ne quis se videret
+huc ire familiarium: ne uxor resciscat metuit.
+de argento si mater tua sciát ut sit factum—
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h137
+:END:
+
+Heia,
+
+bene dicite.
+
+** Libanvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h138
+:END:
+
+Ite intro cito.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h139
+:END:
+
+Valete.—
+
+** Leonida
+:PROPERTIES:
+:CUSTOM_ID: h26-h140
+:END:
+
+Et vos amate.—
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 746
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h1
+:END:
+
+Agedum istum ostende quem conscripsti syngraphum
+inter me et amicam et lenam. leges pellege.
+nam tu poeta es prorsus ad eam rem unicus.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h2
+:END:
+
+Horrescet faxo lena, leges cum audiet.
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h3
+:END:
+
+Age quaeso mi hercle translege.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h4
+:END:
+
+Audin?
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h5
+:END:
+
+Audio.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h6
+:END:
+
+“Diabolus Glauci filius Clearetae
+lenae dedit dóno argenti viginti minas,
+Philaenium ut secum esset noctes et dies
+hunc annum totum.”
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h7
+:END:
+
+Neque cum quiquam alio qui Demaenetvs
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h8
+:END:
+
+Addone?
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h9
+:END:
+
+Ádde, et scribas víde plane et probe.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h10
+:END:
+
+“Alienum hóminem intro mittat neminem.
+quod illa aút amicum aút patronum nominet,
+aut quód illa amicae  [lost]  amatorem praedicet,
+fores occlusae ómnibus sint nisi tibi.
+
+in foribus scribat occupatam ésse se.
+aut quod illa dicat peregre allatam epistulam,
+ne epistula quidem ulla sit in aedibus
+nec cerata adeo tabula; et si qua inutilis
+pictura sit, eam vendat: ni in quadriduo
+
+abalienarit, quo abs te argentum acceperit,
+tuos arbitratus sit, comburas, si velis,
+ne illi sit cera, ubi facere possit litteras.
+vocet convivam neminem illa, tu voces;
+ad eorum ne quem óculos adiciat suos.
+
+si quem alium aspexit, caeca continuo siet.
+tecum una potet, aeque pocla potitet:
+abs ted accipiat, tibi propinet, tu bibas,
+ne illa minus aut plus quam tu sapiat.”
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h11
+:END:
+
+Satis placet.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h12
+:END:
+
+“Suspiciones omnes ab se segreget.
+
+neque illaec ulli pede pedém homini premat,
+cum surgat, neque cum in lectum inscendat proximum,
+neque cum descendat inde, det cuiquam manum:
+spectandum ne cui ánulum det neque roget.
+talos ne cuiquam hómini admoveat nisi tibi.
+
+cum iaciat, /te/ ne dicat: nomen nominet.
+deam invocet sibi quam libebit propitiam,
+deum nullum; si magis religiosa fuerit,
+tibi dicat: tu pro illa ores ut sit propitius.
+neque illa ulli homini nutet, nictet, annuat.
+
+post, si lucerna exstincta sit, ne quid sui
+membri commoveat quicquam in tenebris.”
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h13
+:END:
+
+Optumest.
+ita scilicet facturam. verum in cubiculo—
+deme istuc—equidem illam moveri gestio.
+nolo illam habere causam et votitam dicere.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h14
+:END:
+
+Scio, cáptiones metuis.
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h15
+:END:
+
+Verum.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h16
+:END:
+
+Ergo ut iubes
+tollam.
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h17
+:END:
+
+Quid ni?
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h18
+:END:
+
+Audi relicua.
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h19
+:END:
+
+Loquere, audio.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h20
+:END:
+
+“Neque ullum verbum faciat perplexabile,
+neque ulla lingua sciat loqui nisi Attica.
+forte sí tussire occepsit, ne sic tussiat,
+
+ut cuiquam linguam in tussiendo proserat.
+quod illa aútem simulet, quasi gravedo profluat,
+hoc ne sic faciat: tu labellum abstergeas
+potius quam cuiquam savium faciat palam.
+nec mater lena ad vinum accedat interim,
+
+nec ulli verbo male dicat. si dixerit,
+haec multa ei esto, vino viginti dies
+ut careat.”
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h21
+:END:
+
+Pulchre scripsti. scitum syngraphum.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h22
+:END:
+
+“Tum si coronas, serta, unguenta iusserit
+ancillam ferre Veneri aút Cupidini,
+
+tuos servos servet, Venerine eas det an viro.
+si forte pure velle habere dixerit,
+tot noctes reddat spurcas quot pure habuerit.”
+haec sunt non nugae, non enim mortualia.
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h23
+:END:
+
+Placent profecto leges. sequere intro.—
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h29-h24
+:END:
+
+Sequor.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+* 810
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h1
+:END:
+
+Sequere hac. egone haec patiar aut taceam? emori
+me malim, quam haec non eius uxori indicem.
+ain tu? ápud amicam munus adulescentuli
+fungare, uxori excuses te et dicas senem?
+
+praeripias scortum amanti atque argentum obicias
+lenae? suppiles clam domi uxorem tuam?
+suspendam potius me, quam tu haec tacita auferas.
+iam quidem hercle ad illam hinc ibo, quam tu propediem,
+nisi quídem illa ante occupassit te, effliges scio,
+
+luxuriae sumptus suppeditare ut possies.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h2
+:END:
+
+Ego sic faciundum censeo: me honestiust,
+quam te palam hanc rem facere, ne illa existimet
+amoris causa percitum id fecisse te
+magis quám sua caúsa.
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h3
+:END:
+
+At pol qui dixti rectius.
+
+tu ergo fac ut illi turbas lites concias;
+cum suo sibí gnato unam ad amicam de die
+potare, illam expilare narra.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h4
+:END:
+
+Ne mone,
+ego istud curabo.—
+
+** Diabolvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h5
+:END:
+
+At ego te opperiar domi.—
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+* 828
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h1
+:END:
+
+Age decumbamus sis, pater.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h2
+:END:
+
+Vt iusseris,
+mi gnate, ita fiet.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h3
+:END:
+
+Pueri, mensam adponite.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h4
+:END:
+
+Numquídnam tibi moléstumst, gnate mí, si haec nunc mecum áccubat?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h5
+:END:
+
+Pietas, pater, oculis dolorem prohibet. quamquam ego istánc amo,
+
+possum equidem inducere animum, ne aegre patiar quia tecum accubat.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h6
+:END:
+
+Decet verecundum esse adulescentem, Argyrippe.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h7
+:END:
+
+Edepol, pater,
+merito tuo facere possum.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h8
+:END:
+
+Age ergo, hoc agitemus convivium
+vino ut sermone suavi. nolo ego metui, amari mavolo,
+mi gnate, me abs te.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h9
+:END:
+
+Pol ego utrumque facio, ut aequom est filium.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h10
+:END:
+
+Credam istuc, si esse te hilarum videro.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h11
+:END:
+
+An tu me tristem putas?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h12
+:END:
+
+Putem ego, quem videam aeque esse maestum ut quasi dies si dicta sit?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h13
+:END:
+
+Ne dixis istuc.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h14
+:END:
+
+Ne sic fueris: ilico ego non dixero.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h15
+:END:
+
+Em aspecta: rideo.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h16
+:END:
+
+Vtinam male qui mihi volunt sic rideant.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h17
+:END:
+
+Scio equidem quam ob rem me, pater, tu tristem credas nunc tibi:
+
+quia istaéc est tecum. atque ego quidem hercle ut verum tibi dicam, pater,
+ea res me male habet; at non eo, quia tibi non cupiam quae velis;
+verum istam amo. aliam tecum esse equidem facile possum perpeti.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h18
+:END:
+
+At ego hanc volo.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h19
+:END:
+
+Ergo sunt quae exoptas: mihi quae ego exoptem volo.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h20
+:END:
+
+Vnum hunc diem perpetere, quoniam tibi potestatem dedi,
+
+cum hac annum ut esses, atque amanti argenti feci copiam.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h21
+:END:
+
+Em istoc me facto tibi devinxti.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h22
+:END:
+
+Quin te ergo hilarum das mihi?
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 851
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+Áin tu meum virum híc potare, óbsecro, cum fílio
+et ad amicam detulisse argenti viginti minas
+meoque filio sciente id facere flagitium patrem?
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h2
+:END:
+
+Neque divini neque mi humani posthac quicquam accreduas,
+
+Artemona, si huius rei mé mendacem inveneris.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h3
+:END:
+
+At scelesta ego praeter alios meum virum † frugi rata,
+siccum, frugi, continentem, amantem uxoris maxume.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h4
+:END:
+
+At nunc dehinc scito illum ante omnes minimi mortalem preti,
+madidum, nihili, incontinentem atque osorem uxoris suae.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h5
+:END:
+
+Pol ni istaec vera essent, numquam faceret ea quae nunc facit.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h6
+:END:
+
+Ego quoque hercle illum antehac hominem semper sum frugi ratus,
+verum hoc facto sese ostendit, qui quidem cum filio
+potet una atque una amicam ductet, decrepitus senex.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h7
+:END:
+
+Hoc ecastor est quod ille it ad cenam cottidie.
+
+ait sese ire ad Archidemum, Chaeream, Chaerestratum,
+Cliniam, Chremem, Cratinum, Diniam, Demosthenem:
+is apud scortum corruptelae est liberis, lustris studet.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h8
+:END:
+
+Quin tu illum iubes ancillas rapere sublimen domum?
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h9
+:END:
+
+Tace modo. ne ego illum ecastor miserum habebo.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h10
+:END:
+
+Ego istúc scio,
+
+ita fore illi dum quidem cum íllo nupta eris.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h11
+:END:
+
+Ego censeo.
+†eum etiam hominem in senatu dare operam aut clientibus,
+ibi labore delassatum noctem totam stertere:
+ille operé foris faciendo lassus noctu ad me advenit;
+fundum alienum arat, incultum familiarem deserit.
+
+is etiam corruptus porro suom corrumpit filium.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h12
+:END:
+
+Sequere hac me modó, iam faxo ipsum hominem manifesto opprimas.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h13
+:END:
+
+Nihil ecastor est quod facere mavelim.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h14
+:END:
+
+Mane dum.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h15
+:END:
+
+Quid est?
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h16
+:END:
+
+Possis, si forte accubantem tuom virum conspexeris
+cum corona amplexum amicam, si videas, cognoscere?
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h17
+:END:
+
+Possum ecastor.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h18
+:END:
+
+Em tibi hominem.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h19
+:END:
+
+Perii.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h20
+:END:
+
+Paulisper mane.
+aucupemus ex insidiis clanculum quam rem gerant.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h21
+:END:
+
+Quid modi, pater, amplexando facies?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h22
+:END:
+
+Fateor, gnate mi—
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h23
+:END:
+
+Quid fatere?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h24
+:END:
+
+Me ex amore húius corruptum oppido.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h25
+:END:
+
+Audin quid ait?
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h26
+:END:
+
+Audio.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h27
+:END:
+
+Egon ut non domo uxori meae
+
+subripiam in deliciis pallam quam hábet, atque ad te deferam,
+non edepol conduci possum vita uxoris annua.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h28
+:END:
+
+Censen tu illum hodié primum ire ádsuetum esse in ganeum?
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h29
+:END:
+
+Ille ecastor suppilabat me, quod ancillas meas
+suspicabar atque insontis miseras cruciabam.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h30
+:END:
+
+Pater,
+
+iube dari vinum; iam dudum factum est cum primum bibi.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h31
+:END:
+
+Da, puere, ab summo. áge tu interibi ab infimo da savium.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h32
+:END:
+
+Perii misera, ut osculatur carnufex, capuli decus.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h33
+:END:
+
+Edepol animam suaviorem aliquanto quam uxoris meae.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h34
+:END:
+
+Dic amabo, an fetet anima úxoris tuae?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h35
+:END:
+
+Nauteam
+
+bibere malim, si necessum sit, quam illam oscularier.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h36
+:END:
+
+Ain tandem? edepol ne tu istuc cum malo magno tuo
+Dixisti in me. sine, revenias modo domum, faxo ut scias
+quid pericli sit dotatae uxori vitium dicere.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h37
+:END:
+
+Miser ecastor es.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h38
+:END:
+
+Ecastor dignus est.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h39
+:END:
+
+Quid ais, pater?
+
+ecquid matrem amas?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h40
+:END:
+
+Egone illam? nunc amo, quia non adest.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h41
+:END:
+
+Quid cum adest?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h42
+:END:
+
+Periisse cupio.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h43
+:END:
+
+Amat homo hic te, ut praedicat.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h44
+:END:
+
+Ne illa ecastor faenerato funditat: nam si domum
+redierit hodie, osculando ego ulciscar potissimum.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h45
+:END:
+
+Iace, pater, talos, ut porro nos iaciamus.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h46
+:END:
+
+Maxime.
+
+te, Philaenium, mihi atque uxoris mortem. hoc Venerium est.
+pueri, plaudite et mi ob iactum cantharo mulsum date.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h47
+:END:
+
+Non queo durare.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h48
+:END:
+
+Si non didicisti fulloniam,
+non mirandum est.  [lost]  in oculos invadi optumum est.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h49
+:END:
+
+Ego pol vivam et tu istaec hodie cum tuo magno malo
+
+invocavisti.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h50
+:END:
+
+Ecquis currit pollictorem accersere?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h51
+:END:
+
+Mater, salve.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h52
+:END:
+
+Sat salutis.
+
+** Parasitvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h53
+:END:
+
+Mortuost Demaenetus.
+tempus est subducere hinc me; pulchre hoc gliscit proelium.
+ibo ad Diabolum, mandata dicam facta ut voluerit,
+atque interea ut decumbamus suadebo, hi dum litigant.
+
+poste demum huc cras adducam ad lenam, ut viginti minas
+ei det, in partem hac amanti ut liceat ei potirier.
+Argyrippus exorari spero poterit, ut sinat
+sese alternas cum illo noctes hac frui. nam ni impetro,
+regem perdidi: ex amore tantum est homini incendium.—
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h54
+:END:
+
+Quid tibi hunc receptio ad te est meum virum?
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h55
+:END:
+
+Pol me quidem
+miseram odio énicavit.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h56
+:END:
+
+Surge, amator, i domum.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h57
+:END:
+
+Nullus sum.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h58
+:END:
+
+Immo es, ne nega, omnium unus pol nequissimus.
+at etiam cubat cuculus. surge, amator, i domum.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h59
+:END:
+
+Vae mihi.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h60
+:END:
+
+Vera hariolare. surge, amator, i domum.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h61
+:END:
+
+Abscede ergo paululum istuc.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h62
+:END:
+
+Surge, amator, i domum.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h63
+:END:
+
+Iam obsecro, uxor.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h64
+:END:
+
+Nunc uxorem me esse meministi tuam?
+modo, cum dicta in me ingerebas, odium, non uxor eram.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h65
+:END:
+
+Totus perii.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h66
+:END:
+
+Quid tandem? anima fetetne uxoris tuae?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h67
+:END:
+
+Murram olet.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h68
+:END:
+
+Iam subrupuisti pallam, quam scorto dares?
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h69
+:END:
+
+Ecastor qui subrupturum pallam promisit tibi.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h70
+:END:
+
+Non taces?
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h71
+:END:
+
+Ego dissuadebam, mater.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h72
+:END:
+
+Bellum filium.
+istoscine patrem aequom est mores liberis largirier?
+nilne te pudet?
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h73
+:END:
+
+Pol, si aliud nil sit, tui me, uxor, pudet.
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h74
+:END:
+
+Cano capite te cuculum uxor ex lustris rapit.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h75
+:END:
+
+Non licet manere (cena coquitur) dum cenem modo?
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h76
+:END:
+
+Ecastor cenabis hodie, ut dignus es, magnum malum.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h77
+:END:
+
+Male cubandum est: iudicatum me uxor abducit domum.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h78
+:END:
+
+Dicebam, pater, tibi, ne matri consuleres male.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h79
+:END:
+
+De palla memento, amabo.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h80
+:END:
+
+Iuben hanc hinc abscedere?
+
+** Artemona
+:PROPERTIES:
+:CUSTOM_ID: h36-h81
+:END:
+
+I domum.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h82
+:END:
+
+Da savium etiam prius quam abis.
+
+** Demaenetvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h83
+:END:
+
+I in crucem.
+
+** Philaenivm
+:PROPERTIES:
+:CUSTOM_ID: h36-h84
+:END:
+
+Immo intro potius. sequere hac me, mí anime.
+
+** Argyrippvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h85
+:END:
+
+Ego vero sequor.
+
+** Grex
+:PROPERTIES:
+:CUSTOM_ID: h36-h86
+:END:
+
+Hic senex si quid clam uxorem suo animo fecit volup,
+neque novom neque mirum fecit nec secus quam alii solent;
+nec quisquam est tam ingenio duro nec tam firmo pectore,
+
+quin ubi quicque occasionis sit sibi faciat bene.
+nunc si voltis deprecari huic seni ne vapulet,
+remur impetrari posse, plausum si clarum datis.

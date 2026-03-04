@@ -1,0 +1,19 @@
+#+TITLE: ΕΚ ΤΗΣ ΕΡΜΗΝΕΙΑΣ ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΕΙΣ ΤΑΣ ΠΑΡΟΙΜΙΑΣ
+#+AUTHOR: Κύριλλος Ἀλεξανδρείας
+#+FILETAGS: :patristic:5c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-proverbia--cyril-of-alexandria
+#+LANGUAGE: el
+
+* ΕΚ ΤΗΣ ΕΡΜΗΝΕΙΑΣ ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΕΙΣ ΤΑΣ ΠΑΡΟΙΜΙΑΣ
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Κύριος ἔκτισέ με. {Κυρίλλου.} Τὸ ἔκτισέ με, ἂν περὶ θεότητος ἐκλάβῃς, ἀντὶ
+τοῦ Κατέστησέ με· ὡς τὸ, Καρδίαν καθαρὰν κτίσον ἐν ἐμοὶ, ὁ Θεός. Καὶ,Ἵνα τοὺς δύο
+κτίσῃ ἐν ἑαυτῷ. Οὐ γὰρ οὐσιωδῶς, ἵνα κτίσῃ τοὺς ἤδη γεγενημένους, ἀλλ' ἵνα
+καταστήσῃ. Κατέστησεν οὖν με ἀρχὴν τῶν προνοητικῶν αὐτοῦ καὶ ποιητικῶν
+ἔργων. Καὶ τῷ ∆αβὶδ γὰρ λέγει· Ἐγὼ κατεστάθην βασιλεὺς ὑπ' αὐτοῦ.

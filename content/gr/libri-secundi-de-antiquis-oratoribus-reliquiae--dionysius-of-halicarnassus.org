@@ -1,0 +1,51 @@
+#+TITLE: Libri secundi de antiquis oratoribus reliquiae
+#+AUTHOR: Dionysius of Halicarnassus
+#+FILETAGS: :imperial:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/libri-secundi-de-antiquis-oratoribus-reliquiae--dionysius-of-halicarnassus
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Libri secundi de antiquis oratoribus reliquiae edited by Hermann Usener
+#+END_QUOTE
+
+* Τμῆμα 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+/ὁ Ἁλικαρνασσεὺς φησίν· ἁγνεύεται τὸ στόμα τῷ Δημοσθένει./
+
+* Τμῆμα 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+/δοκεῖ δὲ τραγικώτερον κεχρῆσθαι εὐθὺς ἐν ἀρχῇ τῇ μεταφορᾷ, πολιτικώτερον δὲ ὑπὸ Δημοσθένους εἰρῆσθαι τὸ αὐτὸ νόημα ἐν τῷ τῆς παραπρεσβείας εὐθὺς ἐν ἀρχῇ, ἔχον οὕτως ὅση μέν, ὦ ἄνδρες Ἀθηναῖοι, σπουδὴ καὶ παραγγελία γέγονε καὶ τὰ ἑξῆς./
+
+/μέμψαιτο δʼ ἄν τις τὸ προοίμιον ὡς τραγικὸν καὶ περιττὸν καὶ ἐπιλόγῳ μᾶλλον ἐοικός. σξηολιον ιβιδ. π. 353 ρ. ὅρα δὲ πῶς ἐπιλογικῶς ἤρξατο ἀπὸ συνηγόρων ἐκβολῆς, ὥσπερ καὶ ὁ Δημοσθένης./
+
+ξφ.  /ἀξιοῦσι τινὲς μέμφεσθαι τῷ ῥήτορι ἐν ἀγῶνι συνηγόρων ἐκβολὴν ποιησαμένῳ, δέον ἐν ἐπιλόγῳ./
+
+* Τμῆμα 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+/πλείους τραπόμενος τροπὰς τοῦ Εὐρίπου π. 331 σξη. ἔστι δὲ τὸ κῶλον χαριεντισμός. ἐπαινοῦσι δὲ τοῦτο τὸ κῶλον οἱ κριτικοὶ λέγοντες σωφρόνως αὐτὸ πεφράσθαι καὶ οὐ κούφως./
+
+* Τμῆμα 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+/ἐπιλαμβάνεται δὲ Διονύσιος, ὅτι τὸ παρακαταθέσθαι φυλακῆς πλείονʼ ἔνδειξιν ἔχει, ἐπὶ δὲ τῶν σωμάτων τὸ ἐναντίον γίγνεται, διαφθείρονται γὰρ ἔσθʼ ὅτε. οὐκοῦν κακῶς ἐχρήσατο τῇ λέξει ὁ Αἰσχίνης./
+
+* Τμῆμα 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+/ὁ Διονύσιος ἐπιλαμβάνεται. οὐ γάρ, φησί, νικῆσαι βουλόμεθα τὴν ἀρετήν, ὡς τοὺς ἀνταγωνιστάς./

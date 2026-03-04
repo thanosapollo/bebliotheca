@@ -1,0 +1,5775 @@
+#+TITLE: Bacchides, or The Twin Sisters
+#+AUTHOR: Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/bacchides-or-the-twin-sisters--t-maccius-plautus
+
+#+BEGIN_QUOTE
+Bacchides, or The Twin Sisters translated by Henry Thomas Riley
+#+END_QUOTE
+
+* front
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Dramatis Personae
+
+SILENUS, the Divinity, who speaks the Prologue.
+NICOBULUS, an aged citizen of .
+MNESILOCHUS, his son.
+PHILOXENUS, another aged citizen of .
+PISTOCLERUS, his son.
+LYDUS, servant of Philoxenus, and tutor of Pistoclerus.
+CHRYSALUS, servant of Nicobulus.
+CLEOMACHUS, a Captain of .
+A PARASITE of Cleomachus.
+BOY, servant of Cleomachus.
+SERVANT of Pistoclerus (in the introductory fragment).
+ARTAMO, servant of Nicobulus.
+
+FIRST BACCHIS Twin-sisters, Courtesans.
+SECOND BACCHIS
+
+Scene—Athens: before the houses of the FIRST BACCHIS and of PHILOXENUS which are in the same street.)
+
+THE SUBJECT.
+MNESILOCHUS, when absent at Ephesus, writes and requests his friend, Pistoclerus, to search for his mistress, Bacchis, who has left Athens with a military Captain. Having discovered her on her return to Athens, Pistoclerus falls in love with her twin-sister, whose name is also Bacchis, and is severely reproved by his tutor, Lydus, for so doing. Mnesilochus returns to Athens, and discovers from Lydus that his friend Pistoclerus is in love with a female of the name of Bacchis. He thereupon imagines that he has supplanted him with his own mistress, and in his anger resolves to restore to his father some money of his which he had gone to Ephesus to recover, and a part of which he had contrived, through a scheme of the servant Chrysalus, to retain, in order that he might redeem his mistress from the Captain. Having afterwards discovered the truth, he greatly repents that he has done so, as the officer threatens to carry Bacchis off instantly, if the money is not paid. On this, Chrysalus contrives another stratagem against Nicobulus, his aged master, and makes him, through fear of the Captain’s threats, pay the required sum. Having gained not only this but a still further sum of money, the young men regale themselves at the house of Bacchis. Nicobulus afterwards discovers from the Captain the trick that has been played upon him, and he and Mnesilochus repair to the house of Bacchis to demand their sons. The damsels, hereupon, apply themselves to coaxing the old men, who are at last persuaded to forgive their sons and Chrysalus and to go into the house and join the entertainment.
+
+THE ACROSTIC ARGUMENT.
+MNESILOCHUS is inflamed with love for Bacchis (Bacchidis). But, first of all, he goes to Ephesus, to bring back some gold (Aurum). Bacchis sails for Crete (Cretam), and meets with (Convenit) the other Bacchis; thence she returns to Athens; upon this (Hinc), Mnesilochus sends a letter to Pistoclerus, that he may seek for her (Illam). He returns; he makes a quarrel while (Dum) he supposes that his own mistress is beloved by Pistoclerus; when they have discovered the mistake as to the twin-sisters, Mnesilochus pays the gold to that (Ei) Captain; equally are the two in love. The old men (Senes), while they are looking after their sons, join the women, and carouse.
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+* SILENUS
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+(mounted on his Ass.)
+’Tis a wonder if the spectators on the benches this day don’t hiss, and cough, and make a snorting noise at this ridiculous sight, furrow their brows, and, with cries with one consent, shout all aloud, and mutter imprecations.
+Hardly in their youth can beardless actors, or mimics with their beards plucked out, find room upon the stage. Why comes forth this aged and lethargic go-between, who is borne upon the ass’s back? Listen, I pray, and give me your attention,
+while I tell you the name of this quiet Comedy. ’Tis proper for you to make silence for a Divinity. It befits not those to use the resources of the voice, who come here not to exclaim, but to be spectators. Give me attentive ears; but not into my hands I mean;
+I wish my voice, as it flies, to strike these vacant ears. What do you fear? Are those blows more hurtful which open what is shut, or which close what is open? You’re very kind; the inhabitants of heaven do love you deservedly. There is profound silence—even the children are still—
+and now, attend to a new-come messenger, on a new errand. Who I am—why I am come to you—I’ll tell you in a few words; at the same time, I’ll disclose to you the name of this Comedy. Now, behold, I shall tell you what you wish to know; do you then give me your attention.
+I am a God of Nature, the foster-father of most mighty Bromius, him who, with a female army, gained a kingdom. Whatever about him renowned nations relate, some part, at least, has been accomplished by my advice. That which pleases me is never displeasing to him.
+’Tis right if one father another father does obey. Ass-borne do the Ionian multitudes style me, because I am borne on an ass for my conveyance. Who I am, you understand: if you understand, allow me now to tell the name of this quiet play;
+at the same time, you may learn why I have come to you. Philemon formerly produced a play in Greek; this, those who speak the Greek language call /EvantidesEvantides:  Evantides corresponds with the Latin word Bacchantes, followers, or namesakes of Bacchus, as Evan was one of the names by which that God was addressed during the celebration of the orgies../ Plautus, who speaks the Latin, calls it /Bacchides./ ’Tis not to be wondered, then, if hither I have come.
+Bacchus sends to you the Bacchides—the Bacchanalian Bacchanals. I am bringing them unto you. What! Have I told a lie? It don’t become a God to tell a lie; but the truth I tell—I bring not them; but the salacious ass, wearied with its journey, is bringing to you three, if I remember right.
+One you behold; see now, what on my lips I bring—to wit, two Samian sisters, Bacchanalians, merry Courtesans, born of the same parents, at one time, at a twin-birth; not less alike than milk to milk, if you compare it,
+or water to water; were you to see them you would think them halved; so much would you confuse your sight, that you would not be able to distinguish which was which. What remains you long to hear. Now give attention: the story of this Play I will disclose.
+What country Samos is, is known to all; for seas, lands, mountains, and islands, have your legions made easy of access. There, Sostrata bore to her husband, Pyrgoteles Pyrocles, twin daughters at one birth;
+and it pleased them, being initiated at the triennial festival of Bacchus, to call after his name the damsels of which they were the parents. The parents, as often happens, gave a turn to their future fortunes. A Captain carried one of them with him to Crete. The other of the twins sailed for Athens .
+As soon as Mnesilochus, the son of Nicobulus, beheld her, he began to love her, and frequently paid her visits. Meantime, his father sent the youth to Ephesus, to bring back thence some gold, which he himself, some time before, had deposited with Archidemides,
+an ancient friend of his, an aged Phœnician. When, for two years he had stayed at Ephesus, he received the sad news that Bacchis was gone from Athens, for some sailors of his acquaintance sent him word that she had set sail.
+On this, he writes a letter to Pistoclerus, his only friend, the son of Philoxenus, entreating him to seek the fugitive with care and earnestness. While Pistoclerus is devoting his services to his friend, the twin-sisters, who have just returned to Athens, arouse a passion in the seeker.
+The one wins Pistoclerus for herself; the other longs for the coming of Mnesilochus. What wonder if two bewitching, merry, pretty Bacchantes, should attract to themselves two unfledged Bacchanalians, and if they should ensnare their decrepit, most aged fathers, fit subjects for the undertaker, bowed down by the weight of their years?
+But, see, here’s Pistoclerus, who is returning to the Bacchides so lately found, and in his simplicity is blowing in himself the sparks of passion so lately kindled. Now I’m off—do you attend. (Exit.)
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 0
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+(Enter PISTOCLERUS.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+[lost]  those who are of a thrifty turn of mind, modest, and without servility.  [lost]   [lost]
+Chains, rods, and mills; their shocking brutality becomes worse.  [lost]   [lost]
+She who keeps my friend and me engaged.  [lost]
+(Exit.)
+
+(Enter FIRST BACCHIS.)
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h7-h2
+:END:
+
+I have heard that Ulysses underwent toils innumerable, who, in wanderings, was twenty years away from his native land. But this young man by far outdoes Ulysses; who here in this spot is wandering within the walls of the city.  [lost]
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h7-h3
+:END:
+
+[lost]  She was of the same name with myself.  [lost]
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h7-h4
+:END:
+
+Sweep out the house with brooms, work briskly.
+[lost]   Will some one call
+that most dirty fellow with the water-pail and the water.
+
+(CLEOMACHUS, SECOND BACCHIS.)
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h5
+:END:
+
+[lost]  But if a life of wantonness is perchance preferred by you, consider the price that I agreed to give you that at that age you might not be following me for nought  [lost]
+that from no one else you might be receiving a yearly pay, except from oneself, nor be toying with any man  [lost]
+[lost]  like slugs upon a man.
+
+(PISTOCLERUS, SECOND BACCHIS, SERVANT.) [lost]
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h6
+:END:
+
+As like as milk is to milk;
+whatever is her name  [lost]
+
+** SERVANT
+:PROPERTIES:
+:CUSTOM_ID: h7-h7
+:END:
+
+The soldier who sells his life for gold  [lost]
+I know that his breath is much stronger than when the bellows of bull’s hide are blowing, when the rocks melt where the iron is made.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h8
+:END:
+
+Of what country did he seem to you?
+
+** SERVANT
+:PROPERTIES:
+:CUSTOM_ID: h7-h9
+:END:
+
+I think he is of Praeneste; he was such a boaster.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h10
+:END:
+
+[lost]  The city  [lost]  and I don’t think it is in spurious boastfulness.  [lost]
+
+(Enter FIRST and SECOND BACCHIS.)
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h7-h11
+:END:
+
+[lost]  My heart, my hope,
+my honey, my sweetness, my nutriment, my delight.  [lost]
+Let me bestow on you my love  [lost]
+the Arabian  [lost]
+Has Cupid or has love overpowered you?  [lost]
+Perhaps to suspect that you are in love.  [lost]
+[lost] Get money from that quarter  [lost]
+[lost] for I really do believe that with ease you can enchant the heart of any man.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+* 35
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+[lost]
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h2
+:END:
+
+And suppose it is much better that you should hold your peace, and I should speak?
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h3
+:END:
+
+With pleasure; you may proceed.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h4
+:END:
+
+When my memory shall fail me, then do you take care to aid me, sister.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h5
+:END:
+
+I’ faith, I’m more afraid that I shan’t have the choice of prompting you.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h6
+:END:
+
+Troth, I’m afraid the little nightingale may lose her powers of song. Follow this way. (They move.)
+
+(Enter PISTOCLERUS.)
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h7
+:END:
+
+What are these two Courtesans, the namesake-sisters, about?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h8
+:END:
+
+Nothing is there more wretched than a woman.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h9
+:END:
+
+What, say you, is there more worthy of it?
+What have you been planning in your consultation?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h10
+:END:
+
+What’s proper?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h11
+:END:
+
+I’ faith, that doesn’t belong to the Courtesan.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h12
+:END:
+
+This sister of mine entreats me so to find some person to protect her against this Captain; that when she as served her time he may bring her back home. Do you, I entreat you, be her protector.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h13
+:END:
+
+Why should I protect her?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h14
+:END:
+
+That she may be brought home again,
+when she has fulfilled her engagement to him, so that he may not take her as a servant for himself. But, if she had the gold to pay him back again, gladly would she do so.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h15
+:END:
+
+Where now is this person?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h16
+:END:
+
+I expect that he’ll be here just now. But this you’ll be able to arrange better among ourselves; and sitting there, you shall wait until he comes. So you will drink some wine, and so, I’ll give you a kiss when you have drunk it.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h17
+:END:
+
+Your coaxing is mere birdlime.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h18
+:END:
+
+How so?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h19
+:END:
+
+Because, in fact, I understand how you two are aiming at one poor pigeon, myself; (aside) very nearly is the limed reed breaking my feathers. Madam, I judge that such deeds befit me not.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h20
+:END:
+
+Why so, I pray?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h21
+:END:
+
+Bacchis, it is, because I dread you Bacchantes, and your Bacchanalian den.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h22
+:END:
+
+What is it that you dread? Surely, not that the couch in my house may lead you into mischief?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h23
+:END:
+
+Your allurements, more than your couch, do I dread. You’re a mischievous serpent. But, madam, a lurking-place does not befit this youthful age.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h24
+:END:
+
+Should you wish at my house to do anything that’s unwise, I myself should hinder it. But, when the Captain comes, I wish you to be at my house for this reason; because, when you are present, no one will do her and me any injury.
+You will prevent that, and by the same means you will be aiding your friend; this Captain, too, on arriving, will suspect that I am your mistress. Why are you silent, pray?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h25
+:END:
+
+Because these things are pleasant in the talking of; but in the practice, and when you make trial, the same are armed with stings. They pierce the feelings, goad one’s fortune, and wound one’s merits and character.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h26
+:END:
+
+What do you dread from her?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h27
+:END:
+
+What do I dread, do you ask? Am I a person in my youth to enter a place of exercise of such a nature, where people sweat to their undoing?—where for the quoit I rereive a loss, disgrace, too, for my running?
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h28
+:END:
+
+How charmingly you do talk.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h29
+:END:
+
+Where I’m to take a turtle-dove instead of a sword, and where another puts into my hand the goblet instead of the cestus; the drinking-cup is in place of the helmet, the wreathed garland instead of the crest,
+the dice in place of the lance. For the coat of mail I should have to assume a soft cloak; where, too, in place of a horse a couch must be given me,—for shield, a strumpet may be lying by me. Avaunt from me—avaunt!
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h30
+:END:
+
+O, you’re too fierce.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h31
+:END:
+
+I am attending to my own interests.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h32
+:END:
+
+You must be softened down; and, in fact, I offer you my aid in this.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h33
+:END:
+
+But you are too expensive an assistant.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h34
+:END:
+
+Do pretend that you are in love with me.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h35
+:END:
+
+Whether should I be pretending that in jest, or seriously?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h36
+:END:
+
+Well said! better to do the last. When the Captain comes here, I want you to embrace me.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h37
+:END:
+
+What need is there of my doing that?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h38
+:END:
+
+I want him to see you. I know what I’m about?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h39
+:END:
+
+And I, i’ faith, I know not what I’m in fear of. But what say you—?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h40
+:END:
+
+What’s the matter now?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h41
+:END:
+
+Well, suppose perchance on a sudden a breakfast or a drinking bout,
+or else a dinner, should take place at your house, just as is the wont in such places of resort; where, then, should I take my place?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h42
+:END:
+
+Near myself, my life, that with a she wit a he wit may be reclining at the repast. A place here, at our house, should you come late, is always at your service. When you wish right merrily to disport yourself, my rosebud, you say to me, /Do let me enjoy myself to-day,/ I’ll provide you a delightful place where it may be so.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h43
+:END:
+
+Here is a rapid stream; not without hazard can this way be passed.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h44
+:END:
+
+(aside.)
+And, by my troth, something must you lose amid this stream. (Aloud.) Give me your hand and follow me.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h45
+:END:
+
+O, by no means.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h46
+:END:
+
+Why so?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h47
+:END:
+
+Because to a man in his youth nothing can be more alluring than these—night, women, wine.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h48
+:END:
+
+Away, then, with you; for my part, I don’t at all care for it, but for your own sake.
+The Captain, then, shall take her off; don’t you be present at all if you don’t choose.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h49
+:END:
+
+(to himself.)
+And am I a thing of nothing, who cannot moderate my own passions?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h50
+:END:
+
+What’s there for you to fear?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h51
+:END:
+
+There’s nothing; all nonsense. Madam, I resign myself to you. I’m yours; to you do I devote my services.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h52
+:END:
+
+You are a dear man. Now I wish you to do this. To-day I want to give a welcome entertainment to my sister.
+For that purpose I shall at once order the money to be brought you from in-doors. Do you take care and cater for us a splendid entertainment.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h53
+:END:
+
+No, I’ll stand treat; for it would be a shame, that on my account you both should take trouble for me, and by reason of that trouble should pay the expense from your own means.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h54
+:END:
+
+But I can’t allow you to give anything.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h55
+:END:
+
+Do let me.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h56
+:END:
+
+Well, I’ll let you, if you choose.
+Prithee, do make haste.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h57
+:END:
+
+I shall be here again, before I cease to love you. (Exit PISTOCLERUS.)
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h58
+:END:
+
+You entertain me pleasantly upon my return, my sister.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h59
+:END:
+
+How so, prithee?
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h60
+:END:
+
+Because, in my way of thinking, this day a lucky haul has fallen to your lot.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h61
+:END:
+
+He’s mine, assuredly. Now, sister, with respect to Mnesilochus, I’ll give you my aid, that here at home you may be receiving gold, rather than be going hence together with the Captain.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h62
+:END:
+
+That’s my desire.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h63
+:END:
+
+My aid shall be given you. The water’s warm; let’s go in, that you may bathe. For, as you have travelled on board ship, you are faint, I think.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h64
+:END:
+
+A little so, sister. (PISTOCLERUS is seen at a distance.) Besides, he’s beginning to cause I don’t know what bustle. Let’s begone hence.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h65
+:END:
+
+Follow me this way in-doors to bathe, that you may relieve your weariness.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+* 109
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+(Enter PISTOCLERUS, accompanied by People with Provisions for the Entertainment, followed by LYDES.)
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h1
+:END:
+
+For some time, Pistoclerus, I’ve been following you in silence,
+watching what you were doing in this dress. For, so may the Gods favour me, even Lycurgus himself seems to me as if he could be led into debauchery here. Whither now are you betaking yourself hence in an opposite direction with such a train?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h2
+:END:
+
+To this place (pointing to the house.)
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h3
+:END:
+
+Why to this place? Who lives there?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h4
+:END:
+
+Love, Pleasure, Venus, Beauty, Joy, Jesting, Dalliance, Converse, and Sweet-kissing.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h5
+:END:
+
+What intercourse have you with these most destructive Deities?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h6
+:END:
+
+Bad are those men who speak evil of the good. You speak not well of even the Gods themselves; you do what is not right.
+
+** LTD.
+:PROPERTIES:
+:CUSTOM_ID: h11-h7
+:END:
+
+Is Sweet-kissing, then, some God?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h8
+:END:
+
+And do you not think she is? O Lydus, why, what a barbarians you are, you, whom I had deemed to be far more wise than Thales hinself. Go to, you are more foolish than Potitius, the foreigner, who, at an age so advanced, knew not the names of the Divinities.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h9
+:END:
+
+This dress of yours pleases me not.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h10
+:END:
+
+But no one prepared it for you; it was prepared for myself, whom it pleases well.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h11
+:END:
+
+And do you commence upon your repartees against myself even? You, who, if you had even ten tongues, ought to be silent.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h12
+:END:
+
+Not every age, Lydus, is suited for school.
+One thing especially is just now on my mind, how the cook may with due care attend to these things as befits the elegance of the entertainment.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h13
+:END:
+
+Now have you undone yourself and me and all my labours, me who so oft have shown you what is right, all to no purpose.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h14
+:END:
+
+In the same place have I lost my labour where you’ve lost yours: your instructions profit neither me nor yourself.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h15
+:END:
+
+O obdurate heart!
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h16
+:END:
+
+You are troublesome to me. Hold your tongue, Lydus, and follow me.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h17
+:END:
+
+Now, see that, please; he no longer calls me /tutor,/ but mere /Lydus./
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h18
+:END:
+
+It seems not proper, nor can it be fit, that,
+when a person is in a house, and is reclining at the feast together with his mistress, and is kissing her, and the other guests are reclining too, the tutor should be there too in their presence.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h19
+:END:
+
+Are these provisions purchased for such a purpose, pray?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h20
+:END:
+
+My intentions, indeed, expect so; how it falls out, is in the hands of the Gods.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h21
+:END:
+
+Will you be having a mistress?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h22
+:END:
+
+When you see, then you’ll know.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h23
+:END:
+
+Aye, but you shall not have one, and I won’t allow it. Go back again home.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h24
+:END:
+
+Do leave me alone, Lydus, and beware of mischief.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h25
+:END:
+
+What? Beware of mischief?
+O yawning gulf, where art thou now? How gladly would I avail myself of thee!
+Already have I lived far longer than I could have wished.
+’Twere much better now to have once existed than to be living still.
+That any pupil should thus threaten his tutor!
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h26
+:END:
+
+My years are now advanced beyond your tutorship.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h27
+:END:
+
+I want no pupils for me with heated blood.
+An up-grown one may harass me thus devoid of strength.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h28
+:END:
+
+As I guess, I shall become a Hercules, and you a Linus.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h29
+:END:
+
+I’ faith, I fear more that through your goings-on I shall become a Phœnix, and have to tell the news to your father that you are dead.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h30
+:END:
+
+Enough of these stories.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h31
+:END:
+
+This youth is lost to shame;
+the man’s ruined. And does it then recur to you that you have a father?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h32
+:END:
+
+Am I your servant, or you mine?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h33
+:END:
+
+By my troth, you made an exchange not desirable for that age of yours,
+when you gained these impudent ways.
+Some bad master has been teaching you all this, not I. You are a scholar far more apt at these pursuits
+than at those lessons which I taught you when I was losing my labour. Troth, ’twas a bad piece of deceit you were guilty of at your age, when you concealed these vicious tendencies from myself and from your father.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h34
+:END:
+
+Lydus, you have thus far had liberty of speech; that is enough. So now do you follow this way, and hold your tongue. (They go into the house of BACCHIS.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+* 170
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+(Enter CHRYSALUS.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h14-h1
+:END:
+
+All hail, land of my master! which I joyfully behold after the two years that I have been absent hence at Ephesus. I salute thee, neighbour Apollo, who dost have thy shrine close by our house, and to thee do I make my prayer, that thou wilt not let me meet our old gentleman, Nicobulus, before I have seen
+Pistoclerus, the friend of Mnesilochus, him to whom Mnesilochus has sent the letter about his mistress, Bacchis.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+* 178
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+(Enter PISTOCLERUS from the house of BACCHIS.)
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+(to the FIRST BACCHIS within.)
+’Tis strange that you are so earnestly begging me to return, who am able by no possible means to depart hence, if I were willing,
+so bound down, and so enchained with love do you hold me.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h2
+:END:
+
+O, ye immortal Gods, I espy Pistoclerus! O, Pistoclerus, hail!
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h3
+:END:
+
+Hail, Chrysalus, to you!
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h4
+:END:
+
+I will at present compress many speeches for you in a small space. You are glad that I am come; I give you credit for it.
+You promise me lodging and an entertainment coming from my journey, as it is befitting, and I agree to come. I bring you the sincere greetings of your friend. Would you ask me where he is? He’s come.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h5
+:END:
+
+Is he alive and well?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h6
+:END:
+
+That I was wishful to enquire of yourself.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h7
+:END:
+
+How can I know?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h8
+:END:
+
+No one better.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h9
+:END:
+
+Why, in what way?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h10
+:END:
+
+Because if she has been found whom he so loves, he is alive and well. If she is not found, he is not well, and is like to die. His mistress is the very life of a lover. If she is away, he is non-existent; if she is with him, his property is non-existent, and himself worthless and wretched.
+But what have you done in respect of his commission?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h11
+:END:
+
+And ought I not to have his request complied with against his arrival, which his messenger brought to me from him? I’d sooner be dwelling in the realms of Acheron than not.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h12
+:END:
+
+How now, have you found out this Bacchis?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h13
+:END:
+
+Yes, and a Samian one too.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h14
+:END:
+
+Prithee, do take care that no one handles her carelessly: you know how soon a Samian vessel is wont to break.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h15
+:END:
+
+What now, your old habit?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h16
+:END:
+
+Prithee, do tell me where she now is.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h17
+:END:
+
+Here, where you just now saw me coming out.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h18
+:END:
+
+How capital that is! She’s living almost next door. Does she at all remember Mnesilochus?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h19
+:END:
+
+Do you ask me that? Aye, him alone does she esteem at the very highest value.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h20
+:END:
+
+Indeed!
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h21
+:END:
+
+Yes, and were you to believe her, distractedly in love—she quite longs for him.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h22
+:END:
+
+That’s good.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h23
+:END:
+
+Yes, Chrysalus; see, now; not even so small
+a space of time ever passes by as this, out that she is uttering his name.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h24
+:END:
+
+I’ faith, so much the better. (Moving, as if about to go.)
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h25
+:END:
+
+Yes; but—(Holds him.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h26
+:END:
+
+Yes, faith , I’d rather be off.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h27
+:END:
+
+And do you so unwillingly hear how your master’s interests have prospered?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h28
+:END:
+
+No, not the subject, but the actor offends my feelings with his tediousness. Even /Epidicus,/ a play that I love quite as much as my own self,
+were Pollio to act it, no play would I see so reluctantly. But, does Bacchis seem handsome, as well, to you?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h29
+:END:
+
+Do you ask the question? Had I not got a Venus, I should pronounce her a Juno.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h30
+:END:
+
+I’ faith, Mnesilochus, as I find these matters proceeding, there’s something ready for you to love; ’tis needful that you find something to give her.
+But, perhaps you have need of gold for that other one?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h31
+:END:
+
+Yes, some Philippeans.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h32
+:END:
+
+And you have need of it directly, perhaps?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h33
+:END:
+
+Aye, and even sooner than directly. For there’s a Captain coming here just now—
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h34
+:END:
+
+A Captain, indeed!
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h35
+:END:
+
+Who is demanding some gold here for relinquishing Bacchis.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h36
+:END:
+
+Let him come when he pleases, and so there be no delay.
+The money’s at home; I fear not for myself, nor do I go begging to any man; so long, at least, as this heart of mine shall be armed with its inventiveness. Go in; I’ll manage here. Do you tell them in-doors, that Mnesilochus is coming to Bacchis.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h37
+:END:
+
+I’ll do as you request. (Goes into the house of BACCHIS.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h38
+:END:
+
+The money business belongs to me.
+From Ephesus we have brought twelve hundred golden Philippeans, which our entertainer owed to our old gentleman. Hence, some contrivance will I this day contrive, to procure gold for this son of my master thus in love. But there’s a noise at our door—who’s coming out of doors, I wonder? (Stands aside.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 235
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+(Enter NICOBULUS from his house.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h1
+:END:
+
+(to himself.)
+To the Piraeus will I go; I’ll go see whether any merchant-ship has come into harbour from Ephesus. For my mind misgives me; my son lingers there so long, and does not return.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h2
+:END:
+
+(aside.)
+Now, I’ll finely unravel him, if the Gods are propitious.
+There must be no sleeping; gold is requisite for Chrysalus. I’ll accost him, whom for sure this day I’ll make a ram of Phryxus of; so, even to the quick, will I shear him of his gold. (Accosting him.) His servant Chrysalus salutes Nicobulus.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h3
+:END:
+
+O, immortal Gods! where is my son?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h4
+:END:
+
+Why don’t you return the salutation first, which I gave you?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h5
+:END:
+
+Well, save you. But where on earth is Mnesilochus?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h6
+:END:
+
+He is alive and well.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h7
+:END:
+
+Is he not come?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h8
+:END:
+
+He is come.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h9
+:END:
+
+Hurra! you’ve brought me to my senses. And has he all along been well?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h10
+:END:
+
+Aye, well as a boxer and an athlete.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h11
+:END:
+
+But what as to this—the business on account or which I sent him hence to Ephesus?
+Has he rot received the gold from his entertainer, Archidemides?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h12
+:END:
+
+Alas! my heart and my brain are cleft, Nicobulus, whenever mention is made of that fellow. Why don’t you call that entertainer of his your enemy?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h13
+:END:
+
+Troth now, prithee, why so?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h14
+:END:
+
+Because, i’ faith, I know for sure,
+that Vulcan, the Moon, the Sun, the Day, those four Divinities, never shone upon another more wicked.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h15
+:END:
+
+What, than Archidemides? Dear me!
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h16
+:END:
+
+Than Archidemides, I say.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h17
+:END:
+
+What has he done?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h18
+:END:
+
+What has he not done? Why don’t you ask me that? In the first place, then, he began to make denials to your son,
+and to assert that he didn’t owe three obols to you. Forthwith, Mnesilochus summoned to himself there our ancient host, the old gentleman, Pelago; in his presence, he at once showed the fellow the token, which you yourself had given to your son to deliver to him.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h19
+:END:
+
+Well—when he showed him the token?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h20
+:END:
+
+He began to say that it was counterfeit, and that it was not a true token; and how many reproaches he did utter against him so undeserving of them! and he said that in other matters he had committed forgery.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h21
+:END:
+
+Have you not the gold? In the first place, I want that to be told me.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h22
+:END:
+
+Yes, after the Praetor had appointed delegates; being cast, at length compelled by force he paid down twelve hundred Philippeans.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h23
+:END:
+
+He owed that much.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h24
+:END:
+
+Besides, listen to another struggle of his, as well, which he was desirous to enter on.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h25
+:END:
+
+What, besides, as well?
+Oho! this will turn out now a regular hawk’s nest.
+I’ve been deceived. I’ve entrusted my gold to an Autolycus for my host!
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h26
+:END:
+
+Nay, but do you listen—
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h27
+:END:
+
+Well, I wasn’t aware of the disposition of my avaricious entertainer.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h28
+:END:
+
+Afterwards, at last we had got the gold, and embarked on board ship, desirous for home. By chance, as I was sitting on the deck, while I was looking about me, at that moment I beheld
+a long bark being fitted out by this cheating knave.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h29
+:END:
+
+Troth, I’m undone; that bark breaks my heart.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h30
+:END:
+
+This was held in partnership by your host and some pirates.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h31
+:END:
+
+And that I should be such a blockhead as to trust him, when his very name of Archidemides
+cried aloud to me that he would deprive me of it, if I should entrust anything to him.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h32
+:END:
+
+This bark was lying in wait for our ship. I began to watch them, to see what business they were about. Meanwhile, from harbour our ship set sail. When we had fully left the harbour, these fellows began to follow with their oars;
+nor birds, nor winds more swiftly. As I discovered what scheme was being carried out, at once we dropped anchor. As they beheld us stopping, they began to keep their vessel back in harbour.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h33
+:END:
+
+Wicked wretches, by my troth. What did you do at last?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h34
+:END:
+
+We returned again into harbour.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h35
+:END:
+
+’Twas cleverly done by you. What after that?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h36
+:END:
+
+At nightfall they returned ashore.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h37
+:END:
+
+Troth now, they intended to carry off the gold; they were attempting that plan, no doubt.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h38
+:END:
+
+It didn’t escape me; I discovered it: I was almost terrified to death by it. As I saw that a scheme was being laid against the gold,
+forthwith on this we came to this determination; the next day we carried away all the gold thence in their presence, openly and publicly, that they might know it was done.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h39
+:END:
+
+Skilfully managed, i’ faith. Tell me, what did they?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h40
+:END:
+
+Chopfallen at once,—soon as ever they saw us leaving the harbour with the gold,
+shaking their heads, they hauled their bark ashore. We deposited all the gold with Theotimus, who is a priest there of Ephesian Diana.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h41
+:END:
+
+Who is this Theotimus?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h42
+:END:
+
+The son of Megalobyzus, who is now living at Ephesus, a man most dear to the Ephesians.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h43
+:END:
+
+By my troth, he’ll surely turn out very much more dear to me if he shall chouse me out of all that gold.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h44
+:END:
+
+But it is stowed away in the very temple itself of the Goddess Diana; there they keep guard at the public expense.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h45
+:END:
+
+You kill me outright; much more safely would it have been kept in private hands.
+But haven’t you brought any of the gold home here?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h46
+:END:
+
+O yes; but how much he has brought, I don’t know.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h47
+:END:
+
+How’s that?—not know?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h48
+:END:
+
+Because Mnesilochus went privately by night to Theotimus; and didn’t wish to entrust it to me, nor to any one in the ship. For that reason I don’t know
+how much he has brought, but he hasn’t brought very much.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h49
+:END:
+
+Do you think it was even a half?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h50
+:END:
+
+By my troth, I know not; but I don’t think it.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h51
+:END:
+
+Does he bring a third part?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h52
+:END:
+
+Troth, I think not; but I do not know the truth. Indeed, I know nothing at all about the gold, except that I do know nothing about it.
+Now, you yourself must take a voyage there on board ship, to carry home this gold from Theotimus; and, hearkye— (Takes him by the arm.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h53
+:END:
+
+What do you want?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h54
+:END:
+
+Take care and remember to carry your son’s ring.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h55
+:END:
+
+What need is there of the ring?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h56
+:END:
+
+Because that is the token agreed on with Theotimus, that the person who brings it to him,
+to him he is to give up the gold.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h57
+:END:
+
+I’ll remember it, and you advise me well. But is this Theotimus rich?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h58
+:END:
+
+What, do you ask that? Why, hasn’t he the soles fastened to his shoes with gold?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h59
+:END:
+
+Why does he thus despise it?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h60
+:END:
+
+He has such immense riches; he doesn’t know what to do with his gold.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h61
+:END:
+
+I wish he’d give it me.
+But in whose presence was this gold delivered to Theotimus?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h62
+:END:
+
+In presence of the people; there’s not a person in Ephesus but what knows it.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h63
+:END:
+
+My son at least did wisely there, in entrusting that gold to a rich man to keep. From him it may be recovered even at a moment’s notice.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h64
+:END:
+
+Aye, and look here, he’ll never keep you waiting even thus much (shows his finger-nail) from receiving it on the very day you arrive there.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h65
+:END:
+
+I thought that I had escaped a seafaring life, and that, at length, an old man of my years, I shouldn’t be sailing about. But now I find that I’m not allowed to have the choice whether I would or no;
+’tis my fine host Archidemides has done me this. Where, then, is my son, Mnesilochus, at present?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h66
+:END:
+
+He has gone to the market-place to pay his respects to the Deities and his friends.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h67
+:END:
+
+Then I’ll go hence to meet him as soon as I can. (Exit NICOBULUS.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h68
+:END:
+
+He’s right well loaded, and carries more than his proper burden.
+Not so very badly has this web been commenced by me, that I may find means for the son of my master in his amour. I’ve managed it so, that he may take as much of the gold as he chooses, and give up to his father as much as he may like to give up. The old gentleman will be going hence to Ephesus to fetch his gold;
+here our life will be spent in a delicious manner, since the old man will leave me and Mnesilochus here, and not be taking us along with him. O! what a kick-up I shall be making here. But what’s to be done, when the old gentleman shall have discovered this? When he shall have found out that he has made his journey thither to no purpose,
+and that we have misspent his gold, what will become of me after that? I’ faith, I think upon his arrival he’ll be changing my name, and at once be making me Crucisalus instead of Chrysalus. Troth, I’ll run away, if there shall be a greater necessity for it. If I’m caught, I’ll plague him for a punishment;
+if his rods are in the fields, still my back’s at home. Now I’ll be off, and tell my master’s son this contrivance about the gold, and about his mistress Bacchis who has been found. (Exit.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+* 368
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+(Enter LYDUS from the house of BACCHIS.)
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h1
+:END:
+
+Open and throw back straightway this gate of hell, I do entreat. For, really, I do deem it nothing else; inasmuch as no one comes here
+but he whon all hopes have deserted, that he may yet be a decent person. Bacchis—no, not Bacchis is their name, but they are most determined Bacchanals. Avaunt from me, you sisters, who suck the blood of men. Richly and elegantly furnished is this house—for destruction. Soon as I beheld all this, at once I straight-way way betook myself to my heels.
+And ought I to carry these things concealed in secrecy? Ought I, Pistoclerus, to conceal from your father your excesses, or your misdeeds, or your places of resort? by which you are aiming to drive your father and myself, and your own self and all your friends, to disgrace, and shame, and ruin altogether, and to destroy us all. Within yourself you entertain no awe of either me or your own self on account of the deeds which you are doing
+by which you have made your own father and myself as well, your friends and your connexions, to be abettors in the disgrace of your excesses. Now, before you add this mischief to the rest, I am resolved at once to tell your parent. This instant from myself will I remove this blame, and shall disclose the matter to the old gentleman, that he may forthwith draw forth his son out from this loathsome pollution. (Exit.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+* 385
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+(Enter MNESILOCHUS.)
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h1
+:END:
+
+In many ways have I thought it over with myself, and thus I think it is; a man your friend, who is a friend such as the name imports—except the Gods—nothing does excel him. By fact have I experienced it so to be. For when I departed hence to Ephesus (’tis now almost two years ago it happened), from Ephesus I sent letters hither to my friend Pistoclerus,
+requesting that he would find out my mistress Bacchis for me. I hear that he has found her, as my servant Chrysalus has brought me word. How aptly, too, has he framed a device against my father about the gold, that I may have abundance in my amour. I see ’tis right that I should make a due return. ’Tis better for you to be styled extravagant than ungrateful;
+but, i’ faith, in my way of thinking at least, there’s nothing more extravagant than the ungrateful man. The former the good will praise, the latter even the bad will censure. ’Twere better for an ill-doer to escape than for a benefactor to be deserted. For this reason, then, it behoves me to take the greater care; I needs must be on the watch. Now, Mnesilochus, the sample is on view, now the contest is being decided,
+whether you are or are not such as you ought to be; good or bad, of whichever kind; just or unjust, penurious or liberal, fretful or complying. Take you care, if you please, lest you let your servant exce. you in doing well. Whatever you shall prove, I warn you, you shall not be concealed. But see, I perceive my friend’s father and his tutor coming this way. I’ll listen what matter ’tis they are upon. (He retires aside.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+* 405
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+(Enter LYDUS and PHILOXENUS.)
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h1
+:END:
+
+I’ll now make trial, whether your heart is sharpened by wisdom in your breast. Follow me.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h2
+:END:
+
+Whither shall I follow? Whither are you now leading me?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h3
+:END:
+
+To her who has undone, utterly destroyed your single, only son.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h4
+:END:
+
+How now, Lydus; those are the wiser who moderate their passion. ’Tis less to be wondered at if this age does some of these things
+than if it does not do so; I, as well, did the same in my youth.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h5
+:END:
+
+Ah me! ah me! this over-indulgence has proved his ruin. For had he been without you, I should have had him trained up to moral rectitude; now, by reason of you and your trusting disposition, Pistoclerus has become abandoned.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h6
+:END:
+
+(aside.)
+Immortal Gods! he names my friend.
+What means this, that Lydus is thus exciting his master, Pistoclerus?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h7
+:END:
+
+’Tis but a little time, Lydus, that a man has a desire to indulge his inclinations; the time will soon come, when he will hate himself even. Humour him; so that care is taken that he offends not beyond the line of honor, e’en suffer him.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h8
+:END:
+
+I’ll suffer him not, nor, for my part, while I’m alive, will I allow him to be corrupted.
+But you, who are pleading his cause for a son so profligate, was this same your own training, when you were a young man? I declare that for your first twenty years you had not even this much liberty, to move your foot out of the house even a finger’s length away from your tutor.
+When it did happen so, this evil, too, was added to the evil; both pupil and preceptor were esteemed disgraced.
+Before the rising of the sun had you not come to the school for exercise, no slight punishment would you have had at the hands of the master of the school.
+There did they exercise themselves rather with running, wrestling, the quoit, the javelin, boxing, the ball, and leaping, rather than with harlots or with kissing;
+there did they prolong their lives, and not in secret-lurking holes. Then, when from the hippodrome and school of exercise you had returned home, clad in your belted frock, upon a stool by your masters would you sit; and there, when you were reading your book, if you made a mistake in a single syllable, your skin would be made as spotted as your nurse’s gown.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h9
+:END:
+
+(aside.)
+I’m sorely vexed, to my sorrow, that on my account these things should be said about my friend. In his innocence he incurs this suspicion for my sake.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h10
+:END:
+
+The manners, Lydus, now are altered.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h11
+:END:
+
+That, for my part, I know full well. For formerly, a man used to receive public honors by the votes of the people, before he ceased to be obedient to one appointed his tutor.
+But now-a-days, before he is seven years old, if you touch a boy with your hand, at once the child breaks his tutor’s head with his tablet. When you go to complain to the father, thus says the father to the child: /Be you my own dear boy, since you can defend yourself from an injury./ The tutor then is called for; /Hallo! you old good-for-nothingYou old good-for-nothing:  That is, in his capacity as a slave, a purchaseable commodity.,/
+/don’t you be touching the child for this reason, that he has behaved so boldly./ and thus the despised tutor becomes just like a lantern with his oiled linen rags. Judgment pronounced, they go away thence. Can this preceptor then, on these terms, keep up his authority, if he himself is to be beaten the first?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h12
+:END:
+
+(aside.)
+This is a severe accusation. So far as I understand his words,
+’tis strange if Pistoclerus has never thumped Lydus with his fists.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h13
+:END:
+
+(seeing MNESILOCHUS.)
+But who is it that I see standing here before the door? O Philoxenus, I would not prefer for myself to behold even the propitious Gods rather than him.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h14
+:END:
+
+Who’s this?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h15
+:END:
+
+Why, he’s Mnesilochus, the friend of your son. He is not of a like turn of mind with him who reclines and takes his meals in brothels.
+Fortunate Nicobulus! who begot him for himself.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h16
+:END:
+
+(advancing.)
+My greetings to you, Mnesilochus; I’m glad that you have arrived safe.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h17
+:END:
+
+May the Gods favour you, Philoxenus.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h18
+:END:
+
+He, now, was born at a lucky moment for his father; he goes to sea, attends to the interests of his family, takes care of the house, is obedient and attentive to the wish and commands of his father.
+He, when but a boy, was the companion of Pistoclerus in his boyhood; ’tis not by three days that he is the older in age, but his disposition is more improved by thirty years than that of the other.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h19
+:END:
+
+Beware of a mischief, and forbear to speak of him unjustly.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h20
+:END:
+
+Hold your peace. You’re a foolish man, who cannot bear to have him badly spoken of who does badly.
+But I would rather have him draw upon my mishaps than upon my savings.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h21
+:END:
+
+Why so?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h22
+:END:
+
+Because, if he were to draw upon my mishaps, he would each day be making them less.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h23
+:END:
+
+Why, Lydus, are you censuring your pupil, my friend?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h24
+:END:
+
+Your friend is ruined.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h25
+:END:
+
+May the Gods forbid it.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h26
+:END:
+
+’Tis so as I say. And further, I myself saw it when he was undone; I am not censuring him from hearsay.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h27
+:END:
+
+What has been done by him?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h28
+:END:
+
+He is disgracefully doting upon a harlot.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h29
+:END:
+
+Won’t you be silent now?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h30
+:END:
+
+She, too, like a tide, most voraciously swallows all up, whenever she has touched any one.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h31
+:END:
+
+Where does this woman live?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h32
+:END:
+
+Here. (Points to the house.)
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h33
+:END:
+
+Whence do they say she comes?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h34
+:END:
+
+From Samos.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h35
+:END:
+
+What’s her name?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h36
+:END:
+
+Bacchis.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h37
+:END:
+
+You are wrong, Lydus; I know the whole affair, just as it is. You are blaming Pistoclerus without reason, and in his innocence.
+For he is carefully performing the business enjoined on him by his friend and companion, his sincere well-wisher. Neither is he himself in love, nor do you suppose him so.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h38
+:END:
+
+Is it necessary for him carefully to perform the business enjoined upon him by his friend in this fashion—for himself, sitting down, to hold a damsel in his lap who is kissing him? Can the business thus entrusted be in no way transacted unless ever and anon
+he is placing his hand upon the bosom of Bacchis, or never withdraws his lips from hers? But I’m ashamed to make mention of other things which I have seen him do; when, in my presence, I saw him take most unbecoming liberties with the person of Bacchis, and yet not be at all ashamed. What need of words is there? My pupil, your friend, his son (pointing to PHILOXENUS), is ruined.
+For I say that he is ruined, whose modesty in fact is lost. What need of words is there? Had I been willing to wait only a little time, that I might have had a better opportunity of viewing him, I then should, I think, have seen more than would have been proper for me to see, and for him to do.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h39
+:END:
+
+(aside.)
+Friend, you have undone me. And ought I not to punish this woman with death? I should prefer that I should perish after some dreadful fashion.
+Isn’t it the fact, you know not whom to deem faithful to yourself, or in whom to put your trust?
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h40
+:END:
+
+Don’t you see how much he grieves that your son, his friend, has been corrupted? and how he is afflicting himself with sorrow?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h41
+:END:
+
+Mnesilochus, I beg this of you, that you will influence his feelings and his disposition.
+Preserve for yourself a friend as well as a son for me.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h42
+:END:
+
+I fain would do so.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h43
+:END:
+
+(to PHILOXENUS.)
+Much better, too, would you leave me here together with him.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h44
+:END:
+
+Mnesilochus has cares,
+more than enough.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h45
+:END:
+
+Rate the man soundly, who disgraces me, yourself his friend, and others, by his excesses.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h46
+:END:
+
+(to MNESILOCHUS.)
+Upon you do I impose all this responsibility. Lydus, follow me this way.
+
+** LYDUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h47
+:END:
+
+I follow you. (Exeunt PHILOXENUS and LYDUS.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+* 500
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+(MNESILOCUHS, alone.)
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h27-h1
+:END:
+
+Which of the two now I should think to be my greater enemy, my companion or Bacchis, is extremely doubtful. Has she chosen him in preference? Let her keep him, that’s the best. Surely, by my troth, she has done this to her own loss. For never let any one entrust to me aught that is sacred,
+if I don’t by an abundant example, and—assuredly love her. I’ll make her not to say that she has got hold of a person to make a fool of. But I’ll go home now and pilfer something from my father. Even to such straits will I force her, that beggary shall be the lot of—my father. But do I really now possess my wits with a mind unimpaired,
+who am in this fashion prating here of these things that are to come to pass? I’ faith, I’m of opinion that I’m in love, inasmuch as I know for sure I am. But still, than that she, from my abundance, should, by the scraping of a single feather, grow the richer, I’d rather outvie a beggar in begging.
+Never, by Heaven, while I live, shall she make a laughing-stock of me. For I have made up my mind to pay down all the gold at once to my father. Upon me, therefore, needy and penniless, shall she fawn, at the time, when it shall be for her advantage not a whit the more than if she were saying her pretty things to a dead man at his tomb.
+Beyond a doubt, ’tis my fixed determination to give the gold up to my father. Likewise, I’ll entreat that, for my sake, my father won’t hurt Chrysalus, nor censure him at all on my account with respect to the gold which he has deceived him about. For ’tis right that I should have a care for him, who, for my sake,
+has told this falsehood. (To some ATTENDANTS) Do you follow me. (Goes into his father’s house.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 526
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+(Enter PISTOCLERUS from the house of BACCHIS.)
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h29-h1
+:END:
+
+(speaking to BACCHIS as he comes out.)
+Before other matters, Bacchis, will I give place to what you enjoin me, that I find out Mnesilochus, and bring him, together with myself, to you. But at this my mind is surprised, if my messenger has reached him, what it is that delays him. I’ll go into his house here, and see if perchance he’s at home.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+* 530
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+(Enter MNESILOCHUS from his father’s house.)
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h1
+:END:
+
+(as he enters.)
+I’ve given up to my father all the gold. Now could I wish that she should meet me, after I am penniless, this fair one so scornful of me. Yet with what great difficulty did he grant me a pardon for Chrysalus. But I prevailed on him at last that he wouldn’t be at all angry with him.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h2
+:END:
+
+(apart.)
+Isn’t this my friend?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h3
+:END:
+
+(apart.)
+Isn’t this my foe that I see?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h4
+:END:
+
+For sure ’tis he.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h5
+:END:
+
+’Tis he.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h6
+:END:
+
+(apart.)
+I’ll go to meet him, and I’ll mend my pace. (Aloud.) Health to you, Mnesilochus!
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h7
+:END:
+
+Hail!
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h8
+:END:
+
+As you are arrived safe from abroad, a dinner must be given.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h9
+:END:
+
+A dinner pleases me not, which excites my choler.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h10
+:END:
+
+Has any vexation befallen you on your arrival?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h11
+:END:
+
+Aye, and a very grievous one.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h12
+:END:
+
+From what quarter?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h13
+:END:
+
+From a person whom heretofore I had supposed to be my friend.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h14
+:END:
+
+Many live after that manner and method, who, when you think them to be friends, are found false with their deceitfulness, strong in their talking, slothful in their doing, of faith infirm. Not one is there whom they don’t envy on their enjoying prosperity; through their own indolence do they themselves take right good care that no envy is directed against them.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h15
+:END:
+
+By my troth, you surely understand their ways most thoroughly. But still this one misfortune do they find from their bad disposition; they are the friends of no one, while they themselves are all at enmity against themselves; and these, while they are deceiving themselves, in their foolishness imagine that others are deceived. Just so is he whom I supposed to be as much a friend to me as I am to my own self.
+He, so far as in him lay, has taken all care to do whatever injury he could towards me, to turn all my own resources against me.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h16
+:END:
+
+This same must me a bad man.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h17
+:END:
+
+I judge that so he is.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h18
+:END:
+
+Troth now, prithee, do tell me who it is.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h19
+:END:
+
+He lives on good terms with yourself. But were he not; so, I would entreat you to do him whatever harm you could do.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h20
+:END:
+
+Only tell me the person, who he is; if I don’t do him an injury, some way or other, do you say that I’m the greatest of cowards.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h21
+:END:
+
+The person’s a bad one, but he’s your friend, i’ faith.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h22
+:END:
+
+So much the rather, then, tell me who he is. In good sooth, I set no value on the esteem of a worthless person.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h23
+:END:
+
+I appear, then, not to be able to avoid disclosing to you his name.
+Pistoclerus, you have utterly undone me, your friend.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h24
+:END:
+
+How’s that?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h25
+:END:
+
+How’s that? Did I not send you a letter from Ephesus about my mistress, that you should find her out for me?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h26
+:END:
+
+I own you did; and I have discovered her.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h27
+:END:
+
+How now? Was there not a choice for you of other Courtesans in Athens, for you to form engagements with, instead of with her whom I had recommended to your care?
+Could you yourself begin to love, and to contrive an injury against myself?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h28
+:END:
+
+Are you in your senses?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h29
+:END:
+
+I have found out the whole affair from your tutor; don’t deny it. You’ve ruined me.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h30
+:END:
+
+What, still upbraiding me without reason with these rebukes of yours?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h31
+:END:
+
+Why? You’re in love with Bacchis.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h32
+:END:
+
+But look you, two persons of the name of Bacchis are living here in this house.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h33
+:END:
+
+How, two?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h34
+:END:
+
+Aye, and the two are sisters.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h35
+:END:
+
+You are now designedly telling idle stories.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h36
+:END:
+
+In fine, if you persist in thinking there’s but little confidence in me, I’ll take you upon my shoulders, and carry you hence into their house.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h37
+:END:
+
+Well, I’ll go; but stay a moment.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h38
+:END:
+
+I will not stay, and you shall not be holding me under a false suspicion.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h39
+:END:
+
+I follow you then. (They go into the house of BACCHIS.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+* 573
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+(Enter a PARASITE and a BOY.)
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h34-h1
+:END:
+
+Of a debauched and unscrupulous fellow am I the Parasite—a Captain, who has brought his mistress with him from Samos.
+Now he has ordered me to go to her, and make enquiry whether she will pay back the gold, or whether she will depart together with him. You, boy, who have for some time been with her, whichever of these is the house, do you knock. Go to the door forthwith. (The BOY goes to knock.) Are you coming back from there, you hangdog? How the graceless scoundrel does knock!
+You can gobble up a loaf three feet wide, and yet you don’t know how to knock at a door. (He calls out and knocks violently.) Is there any one in-doors? Hallo! is there any one here? Does any one open this door? Who’s coming out?
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 583a
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+(Enter PISTOCLERUS from the house.)
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+What’s the matter? What’s this knocking? Why, what the confounded torment possesses you, to be exerting your strength in this fashion on another person’s door?
+You’ve almost broken the door down. What do you want now?
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h36-h2
+:END:
+
+Young gentleman, my respects.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h3
+:END:
+
+And my respects. But whom are you looking for?
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h36-h4
+:END:
+
+For Bacchis.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h5
+:END:
+
+But which of them?
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h36-h6
+:END:
+
+Of that I know nothing, only it’s Bacchis. In a few words, the Captain, Cleomachus,
+has sent me to her, either for her to pay back the tyro hundred golden Philippeans, or to go hence this day, together with him, to Elatia.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h7
+:END:
+
+She doesn’t go: she says she shan’t go. Begone, and take back this message—she loves another person, and not him. Take yourself off from the house.
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h36-h8
+:END:
+
+You’re too hasty.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h9
+:END:
+
+And would you know now hasty I am?
+By my faith, your phiz isn’t far off from a mishap; so much are these teeth-crackers (looking at his fists) longing in my fists.
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h36-h10
+:END:
+
+(aside.)
+So far as I understand his words, ’tis a warning to me, lest he should knock my nut-crackers out of my jaws. (To PISTOCLERUS.) At your own peril, I’ll tell him this.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h11
+:END:
+
+What do you say?
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h36-h12
+:END:
+
+I’ll tell him that which you bade me.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h13
+:END:
+
+Who are you? Tell me.
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h36-h14
+:END:
+
+I’m the skill of his body
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h15
+:END:
+
+He needs must be a scampish fellow, who has got so worthless a skin.
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h36-h16
+:END:
+
+He’ll be coming here, swollen up with wrath.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h17
+:END:
+
+I wish he may burst.
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h36-h18
+:END:
+
+(about to go.)
+Is there anything you want?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h19
+:END:
+
+Be off; you must do so this instant.
+
+** PARASITE
+:PROPERTIES:
+:CUSTOM_ID: h36-h20
+:END:
+
+Good-bye, teeth-cracker. (Exit.)
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h21
+:END:
+
+And you, skin of his body, good-bye! This matter has come to such a point, that what advice to give my friend about his mistress, I know not; who, in his pet, has given up all the gold to his father, and not a coin is there that may be paid to the Captain.
+But I’ll step aside, for the door makes a noise. O, here’s Mnesilochus coming out, and pensive, too. (He stands apart.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 612
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+(Enter MNESILOCHUS from the house of BACCHIS.)
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+Insolent, of a froward, passionate, ungovernable, inconsiderate disposition, without reason and moderation, am I; without fine principles of rectitude and honor, hard of belief, powerless to control my passions,
+born of a temper ill-disposed, unamiable and ungracious is my life. In fine, I am that which I could wish others to be. There’s not a person more worthless, or more unworthy for the Gods to bless, or for men to love or to associate with.
+’Tis more just that I should have enemies than friends—’tis more reasonable that the bad should give me their assistance than the good.
+There’s not a person more deserving of all the reproaches that are befitting worthless men, than I, who have given up to my father the money that was in my power. Could this be believed by any one whatever? Am I not a madman, who have miserably undone myself and the device of Chrysalus?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+(aside.)
+He must now be consoled by me; I’ll accost him. (Aloud.) Hallo, Mnesilochus! what’s the matter?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+I’m ruined.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+May the Gods grant better things!
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h5
+:END:
+
+I’m ruined.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h6
+:END:
+
+Won’t you hold your tongue, simpleton?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h7
+:END:
+
+Hold my tongue?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h8
+:END:
+
+You are not now quite right in your senses.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h9
+:END:
+
+I’m undone. Many sharp and poignant woes are now arising in my breast. Did I not put faith in that accusation? Without any cause was I angry with you.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h10
+:END:
+
+Come, come, do have a good heart.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h11
+:END:
+
+Whence have it? A dead man is of more value than I am.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h12
+:END:
+
+The Captain’s Parasite came here, just now, to fetch the gold hence. I drove the fellow away from this door and from this fair one, and packed him off through my harsh language.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h13
+:END:
+
+But of what service is that to me? Wretch that I am, what shall I do? I have nothing; and he certainly will carry her off.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h14
+:END:
+
+By my faith, if I had the means, I’d engage not.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h15
+:END:
+
+I know you’d give it me; I know your ways; and were you not in love, I should now have the very greatest possible confidence in your assistance. At present, you yourself have more than enough of your own business, for me to suppose that you, who are in want yourself; are able to give me any assistance.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h16
+:END:
+
+Do but hold your tongue: some Divinity will favour us.
+
+** MNESILOCHUS.
+:PROPERTIES:
+:CUSTOM_ID: h38-h17
+:END:
+
+Nonsense. (Moves as if going.)
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h18
+:END:
+
+Do stay. (Takes hold of him.)
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h19
+:END:
+
+What’s the matter?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h20
+:END:
+
+Why, I see Chrysalus here, your main resource.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 640
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+(Enter CHRYSALUS, at a distance.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+(to himself.)
+It’s right this man (pointing to himself) should be worth his weight in gold: it’s fair that a statue of gold should be erected for him. For, this day, two exploits have I achieved; with twofold spoils have I been graced. So cleverly have I gulled my elder master this day, that he has been made a fool of. The crafty old blade, by my crafty tricks, have I compelled and constrained to believe me in everything.
+Then, for the son of the old gentleman, my master here in love, together with whom I drink, with whom I eat and go a-courting, I have procured regal and golden trea sures, that he may take from thence at home, and not go seeking abroad. Those Parmenos and those Syruses,
+please me not, who filch some two or three minae from their masters. There’s nothing more worthless than a servant without skill—worthless, if he has not a breast mightily well-stocked, so that, whenever there is necessity, he may draw his supply from his own breast. No one can be a person well to do  [lost]
+unless he understands both how to do good and how to do evil. With rogues he must be a rogue; with thieves let him filch whatever he can. It befits him who is truly wise, to be a person that can shift his very skin.
+Good with the good let him be, bad with the bad: just as things are, so let him ever frame his humour. But I should like to know how much gold my master has taken for himself, and what he has given up to his father.
+If he is a prudent person, he has made a Hercules of his parent: he has given him the tenth part, and has kept back nine for himself. But, see! the person whom I was looking for; he meets me most opportunely. (To MNESILOCHUS.) Has any of your money fallen down, my master, that thus, in silence, you are looking down upon the ground?
+Why do I see you two sad and sorrowful?
+I like it not; and ’tis not without some reason. Are you going now to give me any answer?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h2
+:END:
+
+I’m undone, Chrysalus.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h3
+:END:
+
+Perhaps you took too little of the gold.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h4
+:END:
+
+How, a plague, too little? Why, yes, indeed, a very great deal less than too little.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h5
+:END:
+
+Why the mischief then, simpleton, since by my skill an opportunity was procured for that very purpose, that you might take as much as you pleased,
+did you thus take it up with the tips of two fingers? Or, didn’t you know how rarely an opportunity of that kind presents itself to a person?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h6
+:END:
+
+You are mistaken.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h7
+:END:
+
+Why, surely, ’tis you yourself that were mistaken, when you dip’t your fingers in not deep enough.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h8
+:END:
+
+I’ faith, you’d upbraid me more than now you do, if you knew the matter better. I’m undone.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h9
+:END:
+
+My mind is now foreboding further mischief from those words.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h10
+:END:
+
+I’m ruined.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h11
+:END:
+
+How so?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h12
+:END:
+
+Because I’ve given all up to my father, with every particle of it.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h13
+:END:
+
+Given it up?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h14
+:END:
+
+Given it up.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h15
+:END:
+
+What, all?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h16
+:END:
+
+Every jot.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h17
+:END:
+
+We are done for. How came it into your mind to do this deed so foul?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h18
+:END:
+
+I had a suspicion, Chrysalus, by reason of a charge, that Bacchis and he (pointing to PISTOCLERUS) had been playing me false; for that reason, in my anger, I gave up all the gold
+to my father.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h19
+:END:
+
+What did you say to your father when you gave up the gold?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h20
+:END:
+
+That I had at once received this gold from his host, Archidemides.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h21
+:END:
+
+Eh! by that speech you have this day consigned Chrysalus to the torture; for, when he shall set eyes on me, the old gentleman will carry me off that instant to the executioner.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h22
+:END:
+
+I’ve besought my father.
+
+** CERYS.
+:PROPERTIES:
+:CUSTOM_ID: h40-h23
+:END:
+
+I suppose, to do, in fact, the thing that I was speaking of?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h24
+:END:
+
+Nay, not to punish you, or to blame you at all on account of this business. And with some difficulty I’ve prevailed. Now, Chrysalus, this must be your care.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h25
+:END:
+
+What do you wish should be my care?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h26
+:END:
+
+That once again you should make a second inroad upon the old gentleman. Contrive, devise, invent whatever you please; frame your plans, so that this day you may cleverly deceive the old man unawares, and carry off the gold.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h27
+:END:
+
+It scarcely seems possible to be done.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h28
+:END:
+
+Set about it, and you’ll easily effect it.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h29
+:END:
+
+How the plague /easily,/ for me, whom he has this moment caught out in a lie? Should I entreat him not to believe me at all, he would not venture even to believe me in that.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h30
+:END:
+
+Aye, and if you were to hear what things he said about you in my presence.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h31
+:END:
+
+What did he say?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h32
+:END:
+
+That if you were to say that this sun was the sun,
+he would believe it was the moon, and that that is the night which is now the day.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h33
+:END:
+
+By my troth, I’ll bamboozle the old chap right well this very day, so that he shan’t have said that for nothing.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h34
+:END:
+
+Now, what would you have us do?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h35
+:END:
+
+Why, nothing, except that I beg you’ll still love on. As for the rest, ask of me as much gold as you please; I’ll find it you. Of what use is it for me to have the name of Chrysalus, unless I give proofs by fact?
+But now, tell me, Mnesilochus, how much gold is requisite for you.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h36
+:END:
+
+There’s occasion for two hundred pieces at once, to pay the Captain for Bacchis.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h37
+:END:
+
+I’ll find it you.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h38
+:END:
+
+Then we have need of some for current expenses.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h39
+:END:
+
+Aye, aye, I wish us to do each thing deliberately; when I’ve accomplished the one, then I’ll set about the other. First, for the two hundred pieces, I shall direct my engine of war against the old gentleman.
+If with that engine I batter down the tower and the outworks, straight at the gate that instant I’ll attack the old town and the new one; if I take it, then carry to your friends the gold in baskets, just as your heart wishes.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h40
+:END:
+
+Our hearts are with you, Chrysalus.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h41
+:END:
+
+Now, do you go in-doors to Bacchis, Pistoclerus, and quickly bring out—
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h42
+:END:
+
+What?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h43
+:END:
+
+A pen, some wax, tablets, and some cord.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h44
+:END:
+
+I’ll have them here this instant. (Goes into the house.)
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h45
+:END:
+
+What now are you about to do? Do tell me that.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h46
+:END:
+
+Let a breakfast be prepared; there will be you two, and your mistress will make a third with you.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h47
+:END:
+
+Just as you say.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h48
+:END:
+
+Pistoclerus has no mistress?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h49
+:END:
+
+O yes, she’s here; he’s in love with the one sister, I with the other, both of the name of Bacchis.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h50
+:END:
+
+What were you going to say?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h51
+:END:
+
+This; how we are to manage.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h52
+:END:
+
+Where are your couches laid out?
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h53
+:END:
+
+Why o you ask that?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h54
+:END:
+
+So the matter stands; I wish to be informed. You know not what I am about to do, nor what a great exploit I shall attempt.
+
+** MINES.
+:PROPERTIES:
+:CUSTOM_ID: h40-h55
+:END:
+
+Give me your hand, and follow me close, to the door. Peep in. (CHRYSALUS looks in at the door of the house of BACCHIS.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h56
+:END:
+
+Hurra! ’Tis a very pretty place, this, and exactly as I could wish it to be. (Re-enter PISTOCLERUS, with pen and tablets.)
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h57
+:END:
+
+The things that you ordered—what’s ordered for a good purpose is forthwith done by the obedient.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h58
+:END:
+
+What have you brought?
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h59
+:END:
+
+Everything that you bade me bring.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h60
+:END:
+
+(to MNESILOCHUS.)
+Do you take the pen at once, and these tablets.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h61
+:END:
+
+(taking them.)
+What then?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h62
+:END:
+
+Write there what I shall bid you; for I wish you to write for this reason,
+that your father may know the hand when he reads it.
+Write now.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h63
+:END:
+
+What shall I write?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h64
+:END:
+
+Health to your father, in your own language. (MNESILOCHUS writes.)
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h65
+:END:
+
+Suppose he were to write /disease and death,/ in preference, that would be much better.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h66
+:END:
+
+Don’t you interrupt us.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h67
+:END:
+
+What you have ordered is now written on the wax.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h68
+:END:
+
+Tell me in what terms.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h69
+:END:
+
+/Mnesilochus sends health to his father./
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h70
+:END:
+
+Write this, too, quickly:
+/My father, Chrysalus is always and everywhere talking at me, and in no measured terms, because I gave you up the gold, and because I did not cheat you of it./ (MNESILOCHUS writes.)
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h71
+:END:
+
+Stop till he has written it.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h72
+:END:
+
+It befits the hand of a lover to be active.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h73
+:END:
+
+I’ faith, that hand is more active by far at lavishing than at writing.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h74
+:END:
+
+Say on; that’s written down.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h75
+:END:
+
+/Now, my dear father, do you henceforth be on your guard against him,/
+/for he is forming knavish plans to deprive you of the gold, and has declared that he will have it beyond a doubt./ Write legibly.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h76
+:END:
+
+You only dictate. (Writes.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h77
+:END:
+
+/And he promises that he will give this gold to me, for me to give away to naughty women, and to consume it and live like a GreekLive like a Greek:  It has been before remarked, that the Greek mode of free living had passed into a proverb with the Romans, among whom a person of a licentious mode of life was said congraecare, to live like a Greek. Plautus forgets that the scene is at Athens. in dens of infamy. But, father, do you take care that he does not impose on you this day; I entreat you, do beware./
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h78
+:END:
+
+Only say on.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h79
+:END:
+
+Just write on, then.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h80
+:END:
+
+Only say what I am to write
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h81
+:END:
+
+(MNESILOCHUS writing.)
+/But, father, what you promised me I beg that you will remember, that you will not beat him, but keep him in chains at your house at home./ Do you give me the wax and cord forthwith. Come, fasten it, and seal it in an instant.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h82
+:END:
+
+(sealing the tablets.)
+Prithee, what use is there in this writing after such a fashion,
+that he is to give no credence to you, and to keep you in chains at home?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h83
+:END:
+
+Because it pleases me so. Can’t you possibly take care of your own self, and have no thought about me? In confidence in myself I undertook the task, and at my own peril do I carry on the matter.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h84
+:END:
+
+You say what’s true.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h85
+:END:
+
+Give me the tablets.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h86
+:END:
+
+(giving them.)
+Take them.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h87
+:END:
+
+Give attention now; Mnesilochus, and you, Pistoclerus, do you take care that each of you goes at once and reclines on his couch
+with his mistress; so ’tis requisite; and on that same spot where the couches are now laid, do you forthwith commence to carouse.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h88
+:END:
+
+Anything else?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h89
+:END:
+
+This, and this especially: when you shall have once taken your places together, don’t you arise anyhow, until the signal shall be given by me.
+
+** PISTOCLERUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h90
+:END:
+
+O skilful commander!
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h91
+:END:
+
+You ought by this time to have taken your second draught.
+
+** MNESILOCHUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h92
+:END:
+
+Capital; let’s go.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h93
+:END:
+
+Do you take care of your duty, and I’ll do mine. (MNESILOCHUS and PISTOCLERUS go into the house.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 761
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+(CHRYSALUS, alone.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+A tremendously great business am I undertaking, and I have my fears how in this one day I may accomplish it. But now I have occasion for the old blade to be fierce and savage at me. For it suits not this plan of mine
+that the old fellow should be calm when he has beheld me in his presence. I’ll turn him about this day, finely, if I live. I’ll have him parched as well as ever pea was parched. I’ll walk before the door, that when he comes out, at once as he comes up, I may put the letters in his hand. (Stands near the door of BACCHIS.)
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 770
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+(Enter NICOBULUS, at a distance.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h1
+:END:
+
+This is a matter of great vexation to me, that Chrysalus has thus escaped me this day.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h2
+:END:
+
+(aside.)
+I’m all right: the old fellow is in a passion. Now’s my time for me to accost my man.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h3
+:END:
+
+Who speaks hard by? (Looking round.) Why surely this is Chrysalus, I think.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h4
+:END:
+
+(aside.)
+I’ll accost him.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h5
+:END:
+
+My honest servant, hail to you. What’s doing now? How soon do I set sail for Ephesus, to bring back the gold home from Theotimus? What—silent? I swear by all the Gods, if I didn’t love my son so much as to wish everything done for him that he desires  [lost]
+that your sides should be wealed now right well with rods, and that in irons at the mill you should be lingering out your life. I’ve learnt of Mnesilochus all your wicked pranks.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h6
+:END:
+
+Has he accused me? ’Tis very good; I am a bad one, I am a cursed one—a wicked one. Only reflect upon the matter. I’ll utter not one word.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h7
+:END:
+
+What? Hangdog, do you even threaten me?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h8
+:END:
+
+You’ll find out before long what sort of man he is. He ordered me just now to carry this letter to you. He requested that that which is there written may be done.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h9
+:END:
+
+Give it me.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h10
+:END:
+
+Take notice of the seal. (Gives him the tablets.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h11
+:END:
+
+I know it. Where is he himself?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h12
+:END:
+
+I don’t know.
+I ought to know nothing now; I’ve forgotten everything. I know that I’m a slave; I know not even that which I do know. (Aside.) Now from the springe this thrush is catching at the worm; he’ll be finely noosed this day, so well I’ve set the snare.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h13
+:END:
+
+Stay here but a moment; I’ll return to you directly, Chrysalus. (Goes into his house.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h44-h14
+:END:
+
+How he does dissemble with me; how ignorant I am of the business he’s about. He has gone to fetch slaves from in-doors to bind me. The ship speeds prosperously on; finely, too, is this craft boarding it. But I’ll hold my tongue, for I hear the door opening.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+* 799
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+(Re-enter NICOBULUS, with SLAVES carrying fetters.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h1
+:END:
+
+Artamo, do you fasten the hands of that fellow this very instant. (The SLAVES bind him.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h2
+:END:
+
+What have I done?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h3
+:END:
+
+Pitch your fist into him if he mutters a word. (To CHRYSALUS, pointing at the tablets.) What does this letter say?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h4
+:END:
+
+Why do you ask me? As I received it from him, so I’ve brought it sealed to you.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h5
+:END:
+
+Come now, you rascal, have you not shamefully abused my son in your talk, because he gave me up that gold,
+and said that you would still take that gold away from me by some knavish trick?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h6
+:END:
+
+Have I said so?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h7
+:END:
+
+You have.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h8
+:END:
+
+What person is there, who says that I’ve said so?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h9
+:END:
+
+Hold your tongue. No person says so; this letter which you have brought me accuses you. See, ’tis this that requests you to be chained. (Points to the open tablets.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h10
+:END:
+
+Ah! your son has been making a Bellerophon of me; I myself brought this letter, for the purpose that I might be bound. Be it so.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h11
+:END:
+
+This I am doing for this reason, because you persuade my son to live like a Greek with you, you thrice-dotted villain.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h12
+:END:
+
+(aside.)
+O fool, fool, you know not that you are at this moment on sale;
+and that you are standing on the very stone as the auctioneer puts you up.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h13
+:END:
+
+(overhearing him.)
+Answer me; who is selling me?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h14
+:END:
+
+He whom the Gods favour dies in youth, while he is in his health, has his senses and judgment sound. This person (pointing to NICOBULUS), if any God had favoured him, ought to have been dead more than ten years—aye, more than twenty years ago.
+’Tis for long, he has walked, a nuisance, on the earth; so devoid is he of either judgment or sense. He is of as much value as a rotten mushroom is.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h15
+:END:
+
+Do you think that I am a nuisance to the earth? Away with him in-doors, and tie him tightly to the post. You shall never take away any gold from here.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h16
+:END:
+
+No, but you’ll soon be giving it me.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h17
+:END:
+
+I, give it you?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h18
+:END:
+
+You’ll be entreating me, too, of your own accord to receive it, when you shall come to know this accuser of mine, in how great danger and in what a dreadful situation he is. Then will you be offering his liberty to Chrysalus; but I certainly shan’t accept it.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h19
+:END:
+
+Tell me, source of mischief,
+tell me, in what danger is my son Mnesilochus.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h20
+:END:
+
+Follow me this way; I’ll soon let you know.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h21
+:END:
+
+Where on earth shall I follow you?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h22
+:END:
+
+Only three steps.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h23
+:END:
+
+Aye, ten even.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h24
+:END:
+
+Come, then, Artamo, do you open you this door out a very little way; softly, don’t make it creak. (The door of the house of BACCHIS is opened.) That’s enough. Now, step you hither. (To NICOBULUS, who looks in.) Do you see the entertainment?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h25
+:END:
+
+(still looking in.)
+I see Pistoclerus and Bacchis right opposite.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h26
+:END:
+
+Who are upon that other couch?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h27
+:END:
+
+(looking on the other side.)
+Wretch that I am, I’m undone.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h28
+:END:
+
+Do you recognize that person?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h29
+:END:
+
+I do recognize him.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h30
+:END:
+
+Now tell me, if you please, does that woman seem of handsome appearance?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h31
+:END:
+
+Very much so.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h32
+:END:
+
+Well, do you take her to be a courtesan?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h33
+:END:
+
+Why not?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h34
+:END:
+
+You are mistaken.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h35
+:END:
+
+Who is she then, prithee?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h36
+:END:
+
+You’ll find out from me. indeed, you’ll get no more information to-day.
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+* 842
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+(Enter CLEOMACHUS, at a distance.)
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h1
+:END:
+
+(aloud.)
+Is this Mnesilochus, the son of Nicobulus, by force to detain my own mistress? What proceeding is this?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h2
+:END:
+
+Who’s this?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h3
+:END:
+
+(aside.)
+This Captain’s opportunely come for me.
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h4
+:END:
+
+He doesn’t consider that I am a soldier, but a woman, who cannot defend myself and mine. But may neither Bellona nor Mars ever put confidence in me, if I don’t put him out of life, if I meet him, or if I don’t make him lose possession of his existence.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h5
+:END:
+
+Chrysalus, who’s this that’s threatening my son?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h6
+:END:
+
+This is the husband of that woman with whom he is now reclining.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h7
+:END:
+
+What! The husband?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h8
+:END:
+
+The husband, I say.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h9
+:END:
+
+Prithee, is she married then?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h10
+:END:
+
+You’ll know before very long.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h11
+:END:
+
+Wretch that I am; I’m utterly undone.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h12
+:END:
+
+How now? Does Chrysalus seem such a villain to you?
+Come, chain me now, and do listen to your son. Didn’t I tell you that you would discover what sort of person he is?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h13
+:END:
+
+What shall I do now?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h14
+:END:
+
+Order me at once to be released, if you please; for, if I’m not released, he’ll just now be overpowering the young man in our presence.
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h15
+:END:
+
+There’s no gain that I should this day take so much delight in making,
+as I should in falling upon him as he reclines with her, so that I might kill them both.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h16
+:END:
+
+(to NICOBULUS.)
+Don’t you hear what he says Why don’t you order me to be released?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h17
+:END:
+
+(to the SLAVES.)
+Unbind him. I’m ruined; wretch that I am! I’m in a dreadful fright.
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h18
+:END:
+
+Then I’d make her, who publicly puts up her person for sale, not to say that she has got a person for her to laugh at.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h19
+:END:
+
+(to NICOBULUS.)
+You may make terms with him for a little money.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h20
+:END:
+
+Make terms, then, I beg, for what you like; so that he mayn’t, in our presence, fall upon the young man, or kill him outright.
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h21
+:END:
+
+Unless the two hundred Philippeans are repaid to me at once, I’ll this instant swallow the lives of them both outright.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h22
+:END:
+
+(to CHRYSALUS.)
+Make terms with him, if you can; prithee, do make haste; agree for any sum you like.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h23
+:END:
+
+I’ll go, and do it carefully. (Goes up to CLEOMACHUS.) Why are you exclaiming so?
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h24
+:END:
+
+Where’s your master?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h25
+:END:
+
+Nowhere; I don’t know. Do you wish the two hundred pieces to be promised you at once, so as to make no riot or disturbance here?
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h26
+:END:
+
+There’s nothing that I would desire more.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h27
+:END:
+
+And that I may heap many a curse upon you?
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h28
+:END:
+
+Just as you please.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h29
+:END:
+
+(aside.)
+How the villain does cringe.
+(To CLEOMACHUS.) This is the father of Mnesilochus: follow me; he shall promise it you. Do you ask for the gold. As to the rest, a word’s enough. (They go up to NICOBULUS.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h30
+:END:
+
+What has been done?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h31
+:END:
+
+I’ve struck the bargain for two hundred Philippeans.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h32
+:END:
+
+Well done! Goddess Salvation,
+thou hast saved me. Well, how soon am I to say I’ll pay it?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h33
+:END:
+
+(to CLEOMACHUS.)
+Do you ask it of him; and (to NICOBULUS) do you promise it him.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h34
+:END:
+
+I promise it. (To CLEOMACHUS.) Come, ask me.
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h35
+:END:
+
+Will you give me two hundred golden Philippean pieces, lawful money?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h36
+:END:
+
+/They shall be given,/ say: do answer him.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h37
+:END:
+
+I’ll give them.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h38
+:END:
+
+Well, now, filthy fellow is there anything owing to you?
+Why are you plaguing him? Why are you frightening him about death? Both I and he wish you every ill luck. If you have a sword, still we have a spit at home; with which, in fact, if you provoke me,
+I’ll make you more full of holes than a rat’s skin when caught in a trap. I’ faith, for my part, some time since I found out what suspicion it was that tormented you; namely, that he was with that wife of yours.
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h39
+:END:
+
+Yes; and so he is.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h40
+:END:
+
+So may Jupiter, Juno, Ceres, Minerva, Hope, Latona, Ops, Virtue, Venus, Castor, Pollux, Mars, Mercury, Hercules,
+Summanus, the Sun, Saturn, and all the Deities, prosper me, he neither reclines with her, nor walks, nor kisses, nor does that which is wont to be reported.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h41
+:END:
+
+(aside.)
+How he does swear! He’s saving me, however, by his perjury.
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h42
+:END:
+
+Where then, at this moment, is Mnesilochus?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h43
+:END:
+
+His father has sent him into the country.
+And she has gone hence to the citadel, to see the temple of Minerva. The door’s open now; go in, and see if he’s there.
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h44
+:END:
+
+I’ll be off to the Forum next.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h45
+:END:
+
+Or rather, by my troth, to very perdition.
+
+** CLEOMACHUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h46
+:END:
+
+Am I to demand this gold to-day?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h47
+:END:
+
+Demand it, and go hang yourself; don’t you suppose, you worthless fellow, that we shall be entreating of you. (Exit CLEOMACHUS.)
+He’s taken himself off. Permit me, master, I entreat you by the immortal Gods, to go in-doors here to your son. (Pointing to the house of BACCHIS.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h48
+:END:
+
+But why go in there?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h49
+:END:
+
+That with many words I may rebuke him, since after this fashion he has been going on this way.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h50
+:END:
+
+Well, I beg you will do so, Chrysalus; and I entreat you not to spare him in your talking to him.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h51
+:END:
+
+And do you instruct even myself? Isn’t it sufficient, if this day he shall hear from me more harsh things than ever Clinias heard from Demetrius? (Goes into the house of BACCHIS.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h52
+:END:
+
+This servant of mine is very like a running eye; if you have it not, you don’t wish for it or desire it;
+if you have it, you can’t keep off from rubbing it. But if he hadn’t, by lucky chance, been here to-day, the Captain would have surprised Mnesilochus with his wife, and have killed him as an adulterer detected in the fact. Now, in a manner have I ransomed my son with the two hundred Philippeans
+which I have promised to give to the Captain; which, however, I shall not rashly pay him down, before I have met with my son. By my troth, I’ll never rashly give credence in anything to Chrysalus. But I have a mind even once again to read over this letter; ’tis right that when a letter is sealed we should give credence to it. (Goes into his house.)
+
+* 9
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+* 925
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+(Enter CHRYSALUS from the house of BACCHIS.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h50-h1
+:END:
+
+The two brothers, the sons of Atreus, are said to have done a most famous deed, when, with arms, and horses, and an army, and with chosen warriors, and with ships a thousand in number, after the tenth year, they subdued Pergamus, the native land of Priam, founded by hands divine. Not more decidedly did it fall by the engine of war, than I shall storm my master here,
+without a fleet, and without an army and so great array of soldiers. I have won, I have taken by storm this gold from his father for my master’s son, in his amour. Now, before the old man comes here, I wish to lament until he does come out. O Troy! O my country! O Pergamus! O Priam! old man, you are undone, you, who’ll be wretchedly and shockingly choused out of four hundred golden Philippeans.
+For those tablets, sealed on the one side and on the other, they are not tablets, but the horse which the Greeks sent, of wood. Pistoclerus is the Epeus; from him were these received. Mnesilochus is the Simon left behind. Behold him! not in Achilles’ tomb, but on a couch he reclines: he has Bacchis with him; just as the other formerly had the fire with which to give the signal;
+so now does she inflame himself. I am Ulysses, by whose advice they do these things. Then, the characters which there are written, are the soldiers in this horse, armed and of high courage. So even thus far has the matter prospered with me. This horse, too, will be making his attack, not on a citadel, but on a coffer A ruin, a destruction, a cleaner-out of the old man’s gold, will this horse prove this day.
+To this silly old man of ours, in fact, I give the name of Ilium; the Captain is Menelaüs; I, Agamemnon; I, too, am Ulysses, the son of Laërtes; Mnesilochus is Alexander, who will be the destruction of his father’s fortunes; he has borne off the Helen, on whose account I am now carrying on the siege of Ilium. For there I have heard say that Ulysses was both bold and full of mischief, just as I am.
+I have been detected in my tricks—he, discovered in a beggar’s guise, had almost perished, while he was spying out there the doings of the Trojans. Similarly has it happened to myself to-day. I have been bound, but by my devices I have redeemed myself; he, too, preserved himself by artifice. I have heard that there were three destinies attending Troy, which were fatal to it; if the statue should be lost from the citadel; whereas the second was the death of Troilus;
+the third was when the upper lintel of the Phrygian gate should be demolished. Just so are there three fatalities for this Troy of ours, corresponding with those three; for, first of all, when, a short time since, as I told our old gentleman the lying story about his host, and the gold, and the bark, then, that instant, did I steal the statue from the citadel. And even then two fatalities were remaining, and no further had I taken this city.
+Afterwards, when I carried the letter to the old man, then I killed my Troilus. When he supposed, just now, that Mnesilochus was with the Captain’s wife, from that, with difficulty, did I disengage myself. And that danger do I compare to what they say, how that Ulysses, recognized by Helen, was betrayed to Hecuba. But as, in olden time, by his coaxing arts, he liberated himself from her, and persuaded her to let him go,
+so I, by my devices, have rescued myself from the danger, and have deceived the old man. Afterwards, I engaged with the blustering Captain, who, unarmed, takes cities with his words, and there I repulsed my man. Then I engaged in fight with the old gentleman; straightway by one lying device did I vanquish him; by one blow, in a moment, did I take the spoils away from him. He now will give the two hundred Philippean pieces to the Captain,
+which he has promised that he will give.  [lost]  Now, I have occasion for another two hundred, to be distributed when Ilium is taken, that there may be the usual draught of honeyed wine with which the soldiers may celebrate their triumph. But this Priam is far superior to him of old. Not fifty sons only has he, but four hundred, and all choice ones, without a blemish;
+all these this day will I cut off at two single blows. Now, if there were any purchaser for this Priam of ours, I would sell the old fellow in the lump, whom I have on sale the moment that J shall have taken the city. But, lo! I see our Priam standing before the door; I’ll go and speak to him.
+
+* 10
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+* 979
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+(Enter NICOBULUS from his house.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h1
+:END:
+
+Pray, whose voice is it that sounds near me?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h2
+:END:
+
+O Nicobulus!
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h3
+:END:
+
+What’s the matter?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h4
+:END:
+
+O, capital!
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h5
+:END:
+
+Well, have you done aught of what I sent you upon?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h6
+:END:
+
+What—ask you that? Step closer this way.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h7
+:END:
+
+(coming nearer.)
+Well, I do come closer.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h8
+:END:
+
+I am an excellent pleader. By rebuking him, and by whatever hard language I really was able to think of, I forced the fellow to tears.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h9
+:END:
+
+What did he say?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h10
+:END:
+
+He uttered not a word: crying, he listened in silence to what I was saying; in silence he wrote down on his tablets; these sealed he gave to me;
+he bade me deliver them to you. (Gives him the tablets.) But I am afraid that they sing to the same tune that the former ones did. Observe the seal, is it his?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h11
+:END:
+
+I recognize it. I’d like to read them over. (Goes to a distance.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h12
+:END:
+
+Read them through. (Aside.) Now is the upper lintel being cut down, now is the destruction of Troy near at hand. The wooden horse is shaking it right cleverly.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h13
+:END:
+
+Chrysalus, just step here while I am reading these through.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h14
+:END:
+
+Prithee, what need is there for me to be near you?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h15
+:END:
+
+That you may know what’s written here.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h16
+:END:
+
+I don’t care, and I don’t wish to know.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h17
+:END:
+
+Still, do come here.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h18
+:END:
+
+What need is there?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h19
+:END:
+
+Hold your tongue.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h20
+:END:
+
+I’ll stay.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h21
+:END:
+
+I won’t, I say.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h22
+:END:
+
+But I will, I say.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h23
+:END:
+
+What need is there?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h24
+:END:
+
+Still do you only do that which I bid you.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h25
+:END:
+
+I’ll come. ’Tis right to do so; your own servant ought to be obedient at your command. (Goes up to him.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h26
+:END:
+
+(looking at the tablets.)
+Heyday! he hasn’t been sparing of his wax or pen. But whatever it is, I’m resolved to read it through. Attend to me, please, this very instant.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h27
+:END:
+
+When you choose, read on; I devote to you the attention of my ears.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h28
+:END:
+
+(looking close.)
+Bless me! the letters are small.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h29
+:END:
+
+To one, indeed, who cannot see well with his eyes but they are quite large enough for one who can see well.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h30
+:END:
+
+Give your attention then.
+(He reads.) /Father, I beseech you, do give two hundred Philippeans to Chrysalus, if you wish me to be safe or alive for you—/
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h31
+:END:
+
+By my troth, really a very great mistake,
+I tell you.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h32
+:END:
+
+What’s the matter?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h33
+:END:
+
+He hasn’t first written the salutation to you.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h34
+:END:
+
+(looking.)
+I don’t see it anywhere.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h35
+:END:
+
+Even from its very commencement the letter is an impertinent one.
+If you are wise, you’ll not give it; but at the best, if you give it him, why, let him find out some other porter for himself, if he is wise; for I won’t carry it if you order me ever so much. I’ve been quite enough suspected as it is, when I was guiltless of a fault.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h36
+:END:
+
+Listen on now, while I read through what’s written.
+(Reading.) /I am ashamed, father, to appear before you in your presence; such disgraceful conduct of mine have I heard that you are aware of, that I have formed an intercourse with the wife of a strange Captain./
+By my troth, you are not joking there; for I have saved your life from the consequences of this foul deed with two hundred golden Philippeans.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h37
+:END:
+
+There’s not a particle of these things but what I’ve told him.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h38
+:END:
+
+(reading.)
+/I confess that I have acted foolishly. But I beseech you, father, do not forsake me, if, in my folly, I have transgressed./
+/Of fierce desires, and eyes uncontrolled, have I been; I have been urged on to do a deed of which I am now ashamed./ It were proper, then, that you should have taken heed before you were ashamed.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h39
+:END:
+
+All these very same words did I say to him only just now.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h40
+:END:
+
+(reading.)
+/I beseech you, father, to consider that it is enough that Chrysalus/
+/has reproached me with many cutting words, and by his advice has made me a better man, so that ’tis right that you should return him sincere thanks./
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h41
+:END:
+
+Is that written there?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h42
+:END:
+
+Look and see, then you’ll know. (Shows him the letter.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h43
+:END:
+
+He that has so offended, how humble to all he is, and of his own accord.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h44
+:END:
+
+(reading.)
+/Now, father, if even yet I may be allowed to ask anything of you, do give me two hundred Philippean pieces, I do entreat you./
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h45
+:END:
+
+By my troth, now, not one even, if you are wise.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h46
+:END:
+
+Let me read on. (Reading.) /In set formIn set form:  Of course the oath would be the more solemn in such case. I have taken an oath that I would give this to the woman this day before nightfall,/
+/ere she leaves me. Now, father, have a care that I be not forsworn, and take me hence away from her as soon as you can, on whose account I have incurred so much loss and guilt. Take care and let not the two hundred pieces be a cause of annoyance to you; I will repay you innumerable times as much, if I live./
+/Farewell, and do attend to these matters./ Now, Chrysalus, what do you think?
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h47
+:END:
+
+I won’t give you one bit of advice this day, and I won’t run the risk, that if any mistake is made, you should say that you had done it by my counsel. But, as I conceive, if I were in your place,
+I would rather give the gold than suffer him to be corrupted. There is a twofold choice consider which you would adopt; either to lose the gold, or for a lover to be forsworn. I neither order you, nor forbid you, nor do I persuade you.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h48
+:END:
+
+I’m sorry for him.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h49
+:END:
+
+You don’t do anything surprising—he is your son.
+If still more must be lost, ’tis better for it to go, than for this disgrace to be everywhere proclaimed.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h50
+:END:
+
+By my troth, I certainly had much rather he had been at Ephesus, so long as he was well, than that he had returned home. But why don’t I hasten to get rid of that which is doomed to be squandered away?
+I’ll bring you just now from in-doors twice two hundred Philippeans, both those which, a little time since, to my sorrow, I promised to the Captain, and these others. Wait there; I’ll be out to you, Chrysalus, this instant. (Goes into his house.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h51
+:END:
+
+Troy is laid waste, the chiefs have razed Pergamus. I knew some time ago that I should be the ruin of Pergamus.
+I’ faith I wouldn’t dare make a bet with him who should say that I was deserving of severe torture; so great confusion am I making. But the door makes a noise; the plunder’s being brought forth from Troy. For the present I’ll hold my tongue. (with the money in two bays.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h52
+:END:
+
+Take you this gold, Chrysalus; go, carry it to my son.
+But I’ll go hence to the market-place to pay this to the Captain.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h53
+:END:
+
+For my part, I’ll not receive it; do you seek somebody at once to take it. I won’t have it entrusted to me.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h54
+:END:
+
+But do take it; you’re worrying me now. (Holds it to him.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h55
+:END:
+
+For my part, I’ll not take it.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h56
+:END:
+
+But, prithee do.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h57
+:END:
+
+I am telling you what is the fact.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h58
+:END:
+
+You are delaying me.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h59
+:END:
+
+I don’t want, I say, the gold to be entrusted to me. At all events, find some person to keep a watch upon me.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h60
+:END:
+
+You’re plaguing me.
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h61
+:END:
+
+Well, give it me, if it must be so. (Holds out his hand.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h62
+:END:
+
+(gives him the money.)
+Take care of it. I’ll be back here just now. (Exit.)
+
+** CHRYSALUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h63
+:END:
+
+I’ve taken care—that you shall be a most wretched old fellow; this is bringing an undertaking to a fair ending; even as it has proved my lot to go rejoicing, laden with the spoil.
+With safety to myself, and the city taken by stratagem, I now bring home my whole army unhurt. But, Spectators, don’t you now be surprised that I don’t go in triumph; ’tis such a common thing, I don’t care for it. Still however, the soldiers shall be received with the usual honeyed wine.
+Now I’ll carry off all this booty at once to the Quaestor. (Goes into the house of BACCHIS.)
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h52-h64
+:END:
+
+(Enter PHILOXENUS.)
+The more I revolve it in my breast, what disturbances my son has raised, into what a course of life, and into what habits he unwittingly has headlong plunged himself, the greater is my concern, and the more do I dread lest he may be ruined or corrupted. I know it; I once was of the same age, and I did all these things; but in a quiet way.
+I was gay, I had my mistress, I drank, I feasted, I made presents, but still it was seldom I did so. The methods, too, please me not which I see parents in general employ towards their sons. I have determined to give some latitude to my son, that he may have some scope for his inclinations. I think that’s right; but still, I don’t wish him to give way too much to sloth and wantonness. Now I’m going to Mnesilochus,
+to see whether, as I requested, by his endeavours he has turned him for me to virtue and to sobriety; as, indeed, I am sure he has done if he has met him, of such a disposition is he by nature. (Exit.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+* 1087
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+(Enter NICOBULUS, wringing his hands.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h1
+:END:
+
+Whoever there are in any place whatsoever, whoever have been, and whoever shall be, in time to come, fools, blockheads, idiots, dolts, sots, oafs, lubbers, I singly by far exceed them all in folly and absurd ways.
+I’m undone. I’m ashamed of myself; that I at this time of life should disgracefully have been twice made a fool of! The more I think of this confusion which my son has made, the more am I incensed. I’m ruined, and I’m utterly destroyed; I’m distracted in every possible way. All plagues harass me, by all modes of death do I perish. This day has Chrysalus rent me in pieces; Chrysalus has plundered wretched me;
+he, the villain, by his clever tricks, has shaved, to the very quick, simple me, just as he has pleased. For the Captain says that she is a Courtezan, whom that fellow said was his wife; and he has informed me of everything, as each particular happened; how that she had been hired by him for this year; how that that much gold was left to be repaid, which I, most simple man, had promised him. ’Tis this, this, I say, through which my breast boils with indignation; ’tis this, in fine, by which I am distracted;
+that I, at my time of life, should be made a fool of, aye, by Heaven, so made a very sport of, and with my hoary head and white beard, that wretched I should be bamboozled out of my gold. Undone am I, inasmuch as this slave of mine has dared in this way to set not the value of a nutshell upon me. And I—if any other way I had lost a greater sum—I should have taken it less amiss, and have deemed it less of a loss to me. (Enter PHILOXENUS.)
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h2
+:END:
+
+(as he enters.)
+For sure, some person, I know not who, seems to be talking near to me. But who’s this I see?
+Really, ’tis the father of Mnesilochus.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h3
+:END:
+
+Hah! I see a partner in affliction. Save you, Philoxenus!
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h4
+:END:
+
+And you; whence are you betaking yourself?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h5
+:END:
+
+From a place whence comes a wretched and a luckless mortal.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h6
+:END:
+
+Why, troth, I’m surely on the earth, the spot where it befits a wretched and a luckless mortal to be.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h7
+:END:
+
+We now, as we are of like age, are meeting with similar fortunes.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h8
+:END:
+
+So it is. But as to yourself, what’s the matter with you?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h9
+:END:
+
+I’ faith, mine’s the same mishap as your own.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h10
+:END:
+
+Does this misfortune in any way relate to your son?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h11
+:END:
+
+Such is the fact.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h12
+:END:
+
+The same disease exists in my own breast.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h13
+:END:
+
+Aye, and that very worthy fellow, Chrysalus, has been ruining my son, myself, and all my fortunes.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h14
+:END:
+
+Pray now, what is this mishap of yours about your son?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h15
+:END:
+
+You shall know:
+together with your own son he’s undone; both of them are keeping mistresses alike.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h16
+:END:
+
+How do you know?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h17
+:END:
+
+I have seen them.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h18
+:END:
+
+Ah! wretch that I am! I’m ruined outright.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h19
+:END:
+
+Why do we hesitate a moment to knock and to call them both hither out of doors.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h20
+:END:
+
+I don’t object.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h21
+:END:
+
+(knocks at the door of the house of BACCHIS.)
+Hallo there! Bacchis! Bid the door to be opened this instant, if you please, unless you had rather the door and the posts be knocked to bits with hatchets.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h56
+:END:
+
+* 1120
+:PROPERTIES:
+:CUSTOM_ID: h57
+:END:
+
+(Enter FIRST BACCHIS and SECOND BACCHIS from the house.)
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h1
+:END:
+
+Who is it that calls out my name with such a noise and tumult, and is knocking so hard at the door?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h2
+:END:
+
+I and this person here. (Pointing to PHILOXENUS.)
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h3
+:END:
+
+Pray, what’s the matter now? Who has been driving these sheep to us?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h4
+:END:
+
+These most shocking hussies call us sheep.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h5
+:END:
+
+Their shepherd’s asleep, as they come straying thus from the flock.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h6
+:END:
+
+But, i’ faith, they are not white; they both look dirty.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h7
+:END:
+
+Because they have both been shorn just now.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h8
+:END:
+
+How they seem to be laughing at us.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h9
+:END:
+
+Let them, just as long as they please.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h10
+:END:
+
+Don’t you think that these sheep are shorn three times a year?
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h11
+:END:
+
+I’ faith, to-day one of them has been already shorn twice, that’s sure.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h12
+:END:
+
+They are old and fleeceless, both of them.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h13
+:END:
+
+But I think they have been in good plight once.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h14
+:END:
+
+Prithee, do you see how they are looking with a sheep’s eye at us?
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h15
+:END:
+
+By my troth, I really do believe they are without any ill design.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h16
+:END:
+
+This happens to us deservedly, for having come here.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h17
+:END:
+
+Well, let them be driven in-doors to fold.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h18
+:END:
+
+I don’t know what occasion there is for that, as they have neither milk nor wool. Let them stand as they are.
+Of whatever value they have been, they are now out of date; all their fruit has fallen off them by this. Don’t you see, how, straying unattended, they are ranging about at liberty? Why, I fancy that they must be dumb with age; they don’t bleat even, though they are absent from the rest of the flock.
+They seem both silly and worthless.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h19
+:END:
+
+Let’s return in-doors, sister.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h20
+:END:
+
+Stay where you are, both of you; these sheep want you.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h21
+:END:
+
+Why, surely this is a prodigy; sheep are addressing us with a human voice.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h22
+:END:
+
+These sheep will return you the heavy and great injury which they owe to you.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h23
+:END:
+
+If you owe me aught, I forgive it you; keep it to yourself; I’ll never demand it of you. But what is the reason that you are threatening mischief to us?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h24
+:END:
+
+Because they say that our two lambs are shut up here. (Pointing to the house.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h25
+:END:
+
+And besides those lambs, my dog is there concealed that bites. If they are not now produced to us and sent out of the house, we shall be furious rams; we shall attack you forthwith.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h26
+:END:
+
+Sister, I have something to say to you in private.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h27
+:END:
+
+How now, prithee? (They go apart.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h28
+:END:
+
+Whither are they going?
+
+** FIRST BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h29
+:END:
+
+Sister, I give to you that old fellow that’s farthest off, that you may have him cleverly smoothed down; I’ll now attack this other one that’s angry; if we can only entice them here indoors.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h30
+:END:
+
+I’ll manage my task with cleverness, although ’tis to caress an old skeleton.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h31
+:END:
+
+Take care and do your best.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h32
+:END:
+
+Be quiet; do you do yours; I’ll manage what I have said.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h33
+:END:
+
+Why are these two women holding a council here in private?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h34
+:END:
+
+What say you, my good fellow—?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h35
+:END:
+
+What would you with me?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h36
+:END:
+
+I really am ashamed to tell you a certain thing.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h37
+:END:
+
+What is it that you’re ashamed about?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h38
+:END:
+
+Still, as you are a person, a friend of mine, I’m determined to entrust you with what I could wish. (Whispers.) I’m good for nought.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h39
+:END:
+
+I’ve known that this long time; but tell me why you’re good for nought?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h40
+:END:
+
+I’ve been terribly touched with birdlime: troth, my heart is pierced by the goad.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h41
+:END:
+
+I’ faith, ’twere much better if your flanks were goaded, you worthless fellow.
+But what is it? Although I suspect that I myself pretty well know already what it is; still, I should even like to hear it from yourself.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h42
+:END:
+
+Do you see that woman? (Pointing to the SECOND BACCHIS.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h43
+:END:
+
+I see her.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h44
+:END:
+
+She’s not an uncomely person.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h45
+:END:
+
+Troth, but she is decidedly uncomely; and you are a good-for-nothing fellow.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h46
+:END:
+
+Why more? I’m in love.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h47
+:END:
+
+You, in love?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h48
+:END:
+
+’Pon honor.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h49
+:END:
+
+And do you, you rotten creature, presume to become a lover at your time of life?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h50
+:END:
+
+Why not?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h51
+:END:
+
+Because it’s a disgrace.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h52
+:END:
+
+What need of words? I am not vexed with my son, nor yet is it right you should be vexed with yours: if they are in love, they do wisely.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h53
+:END:
+
+[lost]  Follow me this way. (They approach the old men.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h54
+:END:
+
+See, they are moving at last, these allurers and enticers to disgrace. (To the women.) How now? Do you this instant restore us our sons and my servant, or am I to try rougher means with you?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h55
+:END:
+
+Won’t you away with you? You surely are not a man, to address a pretty woman so rudely in that fashion.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h56
+:END:
+
+Most worthy old gentleman, by whatsoever is upon the earth, let me entreat this of you, that you will cease to attack this error with such great vehemence.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h57
+:END:
+
+If you don’t away with you, although you are so handsome, I’ll be doing you some great mischief just now.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h58
+:END:
+
+I shall endure it; I don’t apprehend that any blow that you can give, will cause me any pain.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h59
+:END:
+
+How smooth of speech she is. O me! I am in alarm.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h60
+:END:
+
+(aside.)
+He’s more calm already.
+(Aloud.) Step this way with me in-doors; and there, if you choose, correct your son. (Takes his arm.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h61
+:END:
+
+Avaunt from me, abomination! (Shakes her off.)
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h62
+:END:
+
+Do, my love, let me prevail upon you.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h63
+:END:
+
+You, prevail upon me?
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h64
+:END:
+
+For sure, I shall prevail, at all events, upon this gentleman. (Pointing to PHILOXENUS.)
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h65
+:END:
+
+Yes, I beg of you to show me in-doors.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h66
+:END:
+
+What a dear man you are.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h67
+:END:
+
+But do you know on what condition you are to show me in-doors?
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h68
+:END:
+
+That you are to be with me.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h69
+:END:
+
+You mention all that I desire.
+
+** 2nd BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h70
+:END:
+
+[lost]
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h71
+:END:
+
+I have seen wicked men; but not one worse than yourself.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h72
+:END:
+
+I am as I am.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h73
+:END:
+
+(to NICOBULUS.)
+Step this way in-doors with me, where you may be elegantly received with viands, wine, and unguents.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h74
+:END:
+
+Enough, enough now of your banquets; it matters not to me how I’m received. My son and Chrysalus have choused me out of four hundred Philippeans. If I don’t surely this day put him to the torture, may I never receive as large a sum again.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h75
+:END:
+
+What, pray, if half the gold is paid you back? Will you go in-doors here with me, and so control your feelings as to forgive them their faults?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h76
+:END:
+
+He’ll do it. (Takes his arm.)
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h77
+:END:
+
+Certainly not—I won’t—I don’t care—let me alone, now. (Shakes him off.) I had rather punish them both.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h78
+:END:
+
+Take you care, you good-for-nothing man, that through your own fault you don’t lose even that which the favouring Gods offer you. One half of the gold is offered; take it, and carouse, and enjoy yourself with your partner.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h79
+:END:
+
+What, am I to carouse in that very place where my son is being corrupted?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h80
+:END:
+
+You must carouse there.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h81
+:END:
+
+Am I to be the witness of it when she is reclining with him at table?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h82
+:END:
+
+Nay, so far as I’m concerned, i’ faith, I’ll recline at table with your own self.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h83
+:END:
+
+My head does itch so. (Aside.) I’m a ruined man—I can scarce deny her.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h84
+:END:
+
+And has it not before this come into your mind, that if, while you live, you enjoy yourself,
+that, i’ faith, is for no very long time; and that, if you lose the present day, it can never return to you after you are dead?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h85
+:END:
+
+What am I to do?
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h86
+:END:
+
+What are you to do? Do you even ask it?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h87
+:END:
+
+I should like, and yet I’m afraid.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h88
+:END:
+
+What are you afraid of?
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h89
+:END:
+
+Lest I should be exposed before my son and my servant.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h90
+:END:
+
+Pray now, my honey; such things do happen. He’s your own son; whence do you suppose that he is to have money, except that only which you give him yourself? Let me obtain pardon of you for them both.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h91
+:END:
+
+(aside.)
+How she does work her way.
+She’s now prevailing on me against that which I was quite resolved upon.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h92
+:END:
+
+I will love you, and embrace you.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h93
+:END:
+
+Through your doing, and for your sake am I corrupted.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h94
+:END:
+
+I certainly had rather ’twere for your own than for mine.
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h95
+:END:
+
+Come then, however that may be, although it is to my disgrace, I’ll submit; I’ll induce my feelings to do so.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h96
+:END:
+
+Have I that solemnly promised?  [lost]
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h97
+:END:
+
+What I have once said, I will not alter.
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h98
+:END:
+
+The day wears apace. Come into the house, to take your places at table: your sons are expecting within—
+
+** NICOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h99
+:END:
+
+How soon, in fact, we may be dead, d’ye mean?
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h100
+:END:
+
+’Tis evening, already; come, follow us.
+
+** PHILOXENUS
+:PROPERTIES:
+:CUSTOM_ID: h57-h101
+:END:
+
+Lead us in like bondsmen. (They go into the house.)
+
+** 1st BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h57-h102
+:END:
+
+(to the SPECTATORS.)
+Right cleverly are these persons entrapped themselves, who for their sons had laid a snare. (Goes in.)
+
+** The COMPANYThe company:  The whole company of actors (Caterva) now comes forward, and chant or repeat the moral of the Play which has just been acted. of COMEDIANS
+:PROPERTIES:
+:CUSTOM_ID: h57-h103
+:END:
+
+Had not these old men been worthless from their youth upwards, they would not, with their hoary heads, have this day done an action so disgraceful; nor, indeed, should we have represented this, if we had not, before this, seen it happen
+that fathers became the rivals of their sons in the houses of procurers. Spectators, we wish you Farewell! and that you will grant us loud applause.

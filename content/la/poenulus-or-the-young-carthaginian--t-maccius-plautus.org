@@ -1,0 +1,7875 @@
+#+TITLE: Poenulus
+#+AUTHOR: T. Maccius Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/poenulus-or-the-young-carthaginian--t-maccius-plautus
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Poenulus edited by Friedrich Leo
+#+END_QUOTE
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** PROLOGVS
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+Achillem Aristarchi mihi commentari lubet:
+inde míhi principium capiam, ex ea tragoedia.
+sileteque et tacete atque animum advortite,
+audire iúbet vos imperator histricus,
+
+bonoque ut animo sedeate in subselliis,
+et qui esurientes et qui saturi venerint:
+qui edistis, multo fecistis sapientius,
+qui non edistis, saturi fite fabulis;
+nam cui paratumst quod edit, nostra gratia
+
+nimia est stultitia sessum impransum incedere.
+exsurge, praeco, fac populo audientiam;
+iam dudum exspecto, si tuom officium scias:
+exerce vocem, quam per vivisque et † colis.
+nam nisi clamabis, tacitum te obrepet fames.
+
+age nunc reside, duplicem ut mercedem feras.
+[omitted]
+bonum factum esse, edicta ut servetis mea.
+scortum exoletum ne quis in proscaenio
+sedeat, neu lictor verbum aut virgae muttiant,
+
+neu dissignator praeter os obambulet
+neu sessum ducat, dum histrio in scaena siet.
+diu quí domi otiosi dormierunt, decet
+animo aequo nunc stent, vel dormire temperent.
+servi ne obsideant, liberis ut sit locus,
+
+vel aes pro capite dent; si id facere non queunt,
+domum abeant, vitent ancipiti infortunio,
+ne et hic varientur virgis et loris domi,
+si minus curassint, quóm eri reveniant domum.
+nutrices pueros infantis minutulos
+
+domi ut procurent neu quae spectatum adferat,
+ne et ipsae sitiant et pueri pereant fame
+neve esurientes hic quasi haedi obvagiant.
+matronae tacitae spectent, tacitae rideant,
+canora hic voce sua tinnire temperent,
+
+domum sermones fabulandi conferant,
+ne et hic viris sint et domi molestiae.
+quodque ad ludorum curatores attinet,
+ne palma detur quoiquam artifici iniuria
+neve ambitionis causa extrudantur foras,
+
+quo deteriores anteponantur bonis.
+et hoc quoque etiam, quod paene oblitus fui:
+dum ludi fiunt, in popinam, pedisequi,
+inruptionem facite; nunc dum occasio est,
+nunc dum scriblitae aéstuant, occurrite.
+
+haec quae imperata sunt pro imperio hístrico,
+bonum hercle factum pro se quisque ut meminerit.
+ad argumentum nunc vicissatim volo
+remigrare, ut aeque mecum sitis gnarures.
+eius núnc regiones, limites, confinia
+
+determinabo: ei rei ego finitor factus sum.
+sed nisi molestumst, nomen dare vobis volo
+comoediai; sin odiost, dicam tamen,
+siquidém licebit pér illos quibus est in manu.
+Carchedonius vocatur haec comoedia,
+
+[omitted]
+latine Plautus patruus pultiphagonides.
+nomen iam habetis. nunc rationes ceteras
+accipite; nam argumentum hoc hic censebitur:
+locus argumentost suom sibi proscaenium,
+
+vos iuratores estis. quaeso, operam date.
+Carthaginienses fratres patrueles duo
+fuere, summo genere et summis ditiis;
+eorum álter vivit, alter est emortuos.
+propterea apud vos dico confidentius,
+
+quia mihi pollictor dixit qui eum pollinxerat.
+sed illí seni qui mortuost, ei filius,
+unicus qui fuerat, ab divitiis a patre
+puer séptuennis surripitur Carthagine,
+sexennio prius quidem quam moritur pater.
+
+quoniam periisse sibi videt gnatum unicum,
+conicitur ipse in morbum ex aegritudine:
+facit illum heredem fratrem patruelem suom,
+ipse abit ad Acheruntem sine viatico.
+ille quí surripuit puerum Calydonem avehit,
+
+vendit eum domino hic diviti quoidam seni,
+cupienti liberorum, osori mulierum.
+emit hospitalem is filium imprudens senex
+puerum illum eumque adoptat sibi pro filio
+eumque heredem fecit, quom ipse obiit diem.
+
+is illíc adulescens habitat in illisce aedibus.
+revertor rursus denuo Carthaginem:
+si quid mandare voltis aut curarier,
+argentum nisi qui dederit, nugas egerit;
+verum qui dederit, magis maiores nugas egerit.
+
+sed illi patruo húius, qui vivit senex,
+Carthaginiensi duae fuere filiae,
+altera quinquennis, altera quadrimula:
+cum nutrice una periere a Magaribus.
+eas quí surripuit, in Anactorium devehit,
+
+vendit eas omnis, et nutricem et virgines,
+praesenti argento hómini, si leno est homo,
+quantum hominum terra sustinet sacerrumo.
+vosmet nunc facite coniecturam ceterum,
+quid id sit hominis, cui Lyco nomen siet.
+
+is ex Anactorio, ubi prius habitaverat,
+huc commigravit in Calydonem haú diu,
+sui quaésti causa. is in illis habitat aedibus.
+earum híc adulescens alteram efflictim perit,
+suam síbi cognatam, imprudens, neque scit quae siet
+
+neque eam umquam tetigit, ita eum leno macerat:
+neque quicquam cúm ea fecit etiamnum stupri
+neque duxit umquam, neque ille voluit mittere
+quia amare cernit, tangere hominem volt bolo.
+illam minorem in concubinatum sibi
+
+volt emere miles quidam, qui illam deperit.
+sed pater illarum Poenus, postquam eas perdidit,
+mari terraque úsquequaque quaeritat.
+ubi quamque in urbem ést ingressus, ilico
+omnes meretrices, ubi quisque habitant, invenit;
+
+dat aurum, ducit noctem, rogitat postibi
+unde sít, quoiatis, captane an surrupta sit,
+quo genere gnata, qui parentes fuerint.
+ita docte atque astu filias quaerit suas.
+et is omnis linguas scit, sed dissimulat sciens
+
+se scire: Poenus plane est. quid verbis opust?
+is heri huc in portum navi venit vesperi,
+pater harunc; idem huic patruos adulescentulo est:
+iamne hoc tenetis? si tenetis, ducite;
+cave dírumpatis, quaeso, sinite transigi.
+
+ehem, paéne oblitus sum relicuom dicere.
+ille quí adoptavit hunc sibi pro filio,
+is illi Poeno húius patruo hospes fuit.
+is hodie huc veniet reperietque hic filias
+et hunc sui fratris filium, ut quidem dídici ego.
+
+ego ibo, ornabor; vos aequo animo noscite.
+hic qui hodie veniet, reperiet suas filias
+et hunc sui fratris filium. dehinc ceterum
+valete, adeste. ibo, alius nunc fieri volo:
+quod restat, restant alii qui faciant palam.
+
+valete atque adiuvate, ut vos servet Salus.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 129
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+Saepe ego res multas tibi mandavi, Milphio,
+dubias, egenas, inopiosas consili,
+quas tu sapienter, docte et cordate et cate
+mihi reddidisti ópiparas opera tua.
+
+quibus pró bene factis fateor deberi tibi
+et libertatem et multas grates gratias.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h2
+:END:
+
+Scitumst, per tempus si obviamst, verbum vetus.
+nam tuae blanditiae mihi sunt, quod dici solet,
+gerrae germanae, σαὶ δὲ κολλῦραι λύραι.
+
+nunc mihi blandidicus es: heri in tergo meo
+tris facile corios contrivisti bubulos.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h3
+:END:
+
+Amans per amorem si quid feci, Milphio,
+ignoscere id te mi aequom est.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h4
+:END:
+
+Haud vidi magis.
+em, nunc ego amore pereo. sine te verberem,
+
+item ut tu mihi fecisti, ob nullam noxiam:
+post id locorum tu mihi amanti ignoscito.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h5
+:END:
+
+Si tibi lubido est aut voluptati, sino:
+suspende, vinci, verbera; auctor sum, sino.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h6
+:END:
+
+Si auctoritatem postea defugeris,
+
+ubi dissolutus tu sies, ego pendeam.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h7
+:END:
+
+Egone istuc ausim facere, praesertim tibi?
+quin si feriri video te, extemplo dolet.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h8
+:END:
+
+Mihi quidem hercle.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h9
+:END:
+
+Immo mihi.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h10
+:END:
+
+Istuc mavelim.
+sed quid nunc tibi vis?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h11
+:END:
+
+Cur ego apud te mentiar?
+
+amo immodeste.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h12
+:END:
+
+Meae istuc scapulae sentiunt.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h13
+:END:
+
+At ego hanc vicinam dico Adelphasium meam,
+lenonis huius meretricem maiusculam.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h14
+:END:
+
+Iam pridem equidem istuc ex te audivi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h15
+:END:
+
+Differor
+cupidine eius. sed lenone istoc Lyco,
+
+illius domino, non lutumst lutulentius.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h16
+:END:
+
+Vin tu illi nequam dare nunc?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h17
+:END:
+
+Cupio.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h18
+:END:
+
+Em me dato.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h19
+:END:
+
+Abi díerectus.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h20
+:END:
+
+Dic mihi vero serio:
+vin dare malum illi?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h21
+:END:
+
+Cupio.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h22
+:END:
+
+Em, eundem me dato:
+utrumque faxo habebit, et nequam et malum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h23
+:END:
+
+Iocare.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h24
+:END:
+
+Vin tu illam hodie sine damno et dispendio
+tuo túam libertam facere?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h25
+:END:
+
+Cupio, Milphio.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h26
+:END:
+
+Ego faciam ut facias. sunt tibi intus aurei
+trecenti nummi Philippi?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h27
+:END:
+
+Sescenti quoque.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h28
+:END:
+
+Satis súnt trecenti.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h29
+:END:
+
+Quid iis facturu's facturus es  ?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h30
+:END:
+
+Tace.
+
+totum lenonem tibi cum tota familia
+dabo hodie dono.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h31
+:END:
+
+Qui id facturu's facturus es  ?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h32
+:END:
+
+Iam scies.
+tuos Cóllybiscus nunc in urbest vilicus;
+eum hic non novit leno. satin intellegis?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h33
+:END:
+
+Intellego hercle, sed quo evadas nescio.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h34
+:END:
+
+Non scis?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h35
+:END:
+
+Non hercle.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h36
+:END:
+
+At ego iam faxo scies.
+ei dabitur aurum, ut ad lenonem deferat
+dicatque se peregrinum esse, ex alio oppido:
+se amare velle atque obsequí animo suo;
+locum sibi velle liberum praeberier,
+
+ubi nequam faciat clam, ne quis sit arbiter.
+leno ad se accipiet auri cupidus ilico:
+celabit hominem et aurum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h37
+:END:
+
+Consilium placet.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h38
+:END:
+
+Rogato, servos veneritne ad eum tuos.
+ille mé censebit quaeri: continuo tibi
+
+negabit. quid tu dubitas, quin extempulo
+dupli tibi auri et hominis fur leno siet?
+neque id unde efficiat habet: ubi in ius venerit,
+addicet praetor familiam totam tibi.
+ita decipiemus fovea lenonem Lycum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h39
+:END:
+
+Placet consilium.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h40
+:END:
+
+Immo etiam, ubi expolivero,
+magis hoc tum demum dices: nunc etiam rudest.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h41
+:END:
+
+Ego in aedem Veneris eo, nisi quid vis, Milphio.
+Aphrodisia hodie sunt.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h42
+:END:
+
+Scio.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h43
+:END:
+
+Oculos volo
+meos délectare munditiis meretriciis.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h44
+:END:
+
+Hoc primum agamus quod consilium cepimus.
+abeamus intro, ut Collybiscum vilicum
+hanc perdoceamus ut ferat fallaciam.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h45
+:END:
+
+Quamquam Cupido in corde vorsatur, tamen
+tibi auscultabo.—
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h46
+:END:
+
+Faciam ut facto gaudeas.
+
+inest amoris macula huic homini in pectore,
+sine damno magno quae elui ne utiquam potest.
+itaque hic scelestus est homo leno Lycus,
+quoi iam infortuni intenta ballistast probe,
+quam ego haud multo post mittam e ballistario.
+
+sed Adelphasium eccam exit atque Anterastilis.
+haec est prior, quae meum erum dementem facit.
+sed evocabo. heus, i foras, Agorastocles,
+si vis videre ludos iucundissimos.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h47
+:END:
+
+Quid istúc tumultist, Milphio?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h6-h48
+:END:
+
+Em amores tuos,
+
+si vis spectare.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h6-h49
+:END:
+
+O multa tibi di dent bona,
+quom hoc mi optulisti tam lepidum spectaculum.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+* 210
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+Negóti sibí qui volét vim paráre,
+navem et mulierem, haec duo comparato.
+nam nullae magis res duae plus negoti
+habent, forte si occeperis exornare,
+
+neque umquam satis hae duae res ornantur
+neque eis ulla ornandi satis satietas est.
+atque haec, ut loquor, nunc domo docta dico.
+nam nos usque ab aurora ad hoc quod diei est,
+postquam aurora inluxit, numquam concessamus
+
+ex industria ambae numquam concessamus
+lavari aut fricari aut tergeri aut ornari,
+poliri expoliri, pingi fingi; et una
+binae singulis quae dataé nobis ancíllae,
+eae nos lavando eluendo operam déderunt,
+
+aggerúndaque aqua sunt viri duo defessi.
+apage sis, negoti quantum in muliere una est.
+sed vero duae, sat scio, maxumo uni
+poplo cuilubet plus satis dare potis sunt,
+quae noctes diesque omni in aetate semper
+
+ornantur, lavantur, tergentur, poliuntur.
+postremo modus muliebris nullust: numquam
+lavando et fricando scimus facere finem.
+nam quae lauta est nisi perculta est, meo quidem animo quasi inluta est.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h2
+:END:
+
+Mirór equidem, sóror, te istaec sic fabulari,
+
+quae tam callida et docta sis et faceta.
+nam quom sedulo munditer nos habemus,
+vix aegreque amatorculos invenimus.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h3
+:END:
+
+Ita est. verum hoc unum tamen cogitato:
+modus ómnibus rebús, soror, optimus est habitu.
+
+nimia ómnia nimium éxhibent negóti hominibus éx se.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h4
+:END:
+
+Sorór, cogitá, amabo, itém nos perhibéri
+quam si salsa muriatica esse autumantur:
+sine omni lepore et síne suavitate
+nisí multa aqua usque et diu macerantur,
+
+olént, salsa súnt, tangere út non velís.
+itém nos sumús
+eius seminis mulieres sunt
+insúlsae admodum átque invenústae
+sine múnditia et súmptu.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h5
+:END:
+
+Coqua ést haec quidem, Ágorastoclés, ut ego opínor:
+scit, muriatica ut maceret.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h6
+:END:
+
+Quid molestu's molestus es  ?
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h7
+:END:
+
+Soror, parce, amabo: sat est istuc alios
+dicere nobis, ne nosmet in nostra etiam vitia loquamur.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h8
+:END:
+
+Quiésco.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h9
+:END:
+
+Ergo amó te. sed hóc nunc respónde
+
+mihí: sunt hic ómnia,
+quae ad deúm pacem opórtet adésse?
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h10
+:END:
+
+Omnia áccuravi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h11
+:END:
+
+Diém pulchrum et célebrem et venústatis plénum,
+dignúm Venere pól, quoi sunt Áphrodisia hódie.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h12
+:END:
+
+Ecquid gratiae, quom huc foras te evocavi?
+
+iam núm me decét donari
+cadó vini véteris? dic dáre. nil respóndes?
+lingua huíc excidít, ut ego opínor.
+quíd hic, malum, astans ópstipuisti?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h13
+:END:
+
+Síne amem, ne opturba ac tace.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h14
+:END:
+
+Taceo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h15
+:END:
+
+Si tacuisses, iam istuc taceo non gnatum foret.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h16
+:END:
+
+Eamus, mea soror.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h17
+:END:
+
+Eho amabo, quid illo nunc properas?
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h18
+:END:
+
+Rogas?
+quia erus nos apud aedem Veneris mantat.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h19
+:END:
+
+Maneat pol. mane.
+turba est nunc apud aram. an te ibi vis inter istás versarier
+prosedas, pistorum amicas, reliquias alicarias,
+miseras schoeno delibutas servolicolas sordidas,
+
+quae tibi olant stabulum statumque, sellam et sessibulum merum,
+quas adeo hau quisquam umquam liber tetigit neque duxit domum,
+servolorum sordidulorum scorta diobolaria?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h20
+:END:
+
+I in malam crucem. tun audes etiam servos spernere,
+propudium? quasi bella sit, quasi eampse reges ductitent,
+
+monstrum mulieris, tantilla tanta verba funditat,
+quoius egó nebulai cyatho septem noctes non emam.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h21
+:END:
+
+Di immortales omnipotentes, quid est apud vos pulchrius?
+quid habetis qui mage immortales vos credam esse quam ego siem,
+qui haec tanta oculis bona concipio? nam Venus non est Venus:
+
+hanc equidem Venerem venerabor, me ut amet posthac propitia.
+Milphio, heus, ubi es?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h22
+:END:
+
+Assum ápud te, eccum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h23
+:END:
+
+At ego elixus sis volo.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h24
+:END:
+
+Enim vero, ere, facis delicias.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h25
+:END:
+
+De tequidem haéc didici omnia.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h26
+:END:
+
+Etiamne ut ames eam quam numquam tetigeris?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h27
+:END:
+
+Nihil id quidemst:
+deos quoque edepol et amo et metuo, quíbus tamen ábstineo manus.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h28
+:END:
+
+Eu ecastor, quom ornatum aspicio nostrum ambarum, paenitet
+exornatae ut simus.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h29
+:END:
+
+Immo vero sane commode;
+nam pro erili et nostro quaestu satis bene ornatae sumus.
+non enim pótis est quaestus fieri, ni sumptus sequitur, scio,
+et tamen quaéstus non consistet, si eum sumptus superat, soror.
+
+eo illud satiust, satis quod habitu, haud satis est quod plus quam sat est.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h30
+:END:
+
+Ita me di ament, ut illa me amet malim quam di, Milphio.
+nam illa mulier lapidem silicem subigere, ut se amet, potest.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h31
+:END:
+
+Pol id quidem hau mentire, nam tu es lapide silice stultior,
+qui hanc ames.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h32
+:END:
+
+At vide sis, cum illac numquam limavi caput.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h33
+:END:
+
+Curram igitur aliquo ad piscinam aut ad lacum, limum petam.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h34
+:END:
+
+Quid eo opust?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h35
+:END:
+
+Ego dicam: ut illi ét tibi limem caput.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h36
+:END:
+
+I in malam rem.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h37
+:END:
+
+Ibi sum équidem.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h38
+:END:
+
+Perdis.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h39
+:END:
+
+Taceo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h40
+:END:
+
+At perpetuo volo.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h41
+:END:
+
+Enim vero, ere, meo me lacessis ludo et delicias facis.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h42
+:END:
+
+Satis nunc lepide ornatam credo, soror, te tibi viderier;
+
+sed ubi exempla conferentur meretricum aliarum, ibi tibi
+erit cordolium, si quam ornatam melius forte aspexeris.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h43
+:END:
+
+Invidia in me numquam innatast neque malitia, mea soror.
+bono med esse ingenio ornatam quam auro multo mavolo:
+aurum, id fortuna invenitur, natura ingenium bonum.
+
+bonam ego quam beatam me esse nimio dici mavolo.
+meretricem pudorem gerere magis decet quam purpuram:
+magisque meretricem pudorem quam aurum gerere condecet.
+pulchrum ornatum turpes mores peius caeno conlinunt,
+lepidi mores turpem ornatum facile factis comprobant.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h44
+:END:
+
+Eho tu, vin tu facinus facere lepidum et festivom?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h45
+:END:
+
+Volo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h46
+:END:
+
+Potesne mi auscultare?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h47
+:END:
+
+Possum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h48
+:END:
+
+Abi domum ac suspende te.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h49
+:END:
+
+Quam ob rem?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h50
+:END:
+
+Quia iam numquam audibis verba tot tam suavia.
+quid tibi opust vixisse? ausculta mihi modo ac suspende te.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h51
+:END:
+
+Siquidem tu es mecum futurus pro uva passa pensilis.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h52
+:END:
+
+At ego amo hanc.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h53
+:END:
+
+At ego esse et bibere.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h54
+:END:
+
+Eho tu, quid ais?
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h55
+:END:
+
+Quid rogas?
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h56
+:END:
+
+Viden tu? pleni oculi sorderum quí erant, iam splendent mihi.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h57
+:END:
+
+Immo etiam in medio oculo paullum sordest.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h58
+:END:
+
+Cedo sis dexteram.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h59
+:END:
+
+Vt quidem tu huius oculos inlutis manibus tractes aut teras?
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h60
+:END:
+
+Nimia nos socordia hodie tenuit.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h61
+:END:
+
+Qua de re, obsecro?
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h62
+:END:
+
+Quia non iam dudum ante lucem ad aedem Veneris venimus,
+primae ut inferremus ignem in aram.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h63
+:END:
+
+Aha, non factost opus:
+quaé habent nocturna ora, noctu sacruficatum ire occupant.
+prius quam Venus expergiscatur, prius deproperant sedulo
+sacruficare; nam vigilante Venere si veniant eae,
+
+ita sunt turpes, credo ecastor Venerem ipsam e fano fugent.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h64
+:END:
+
+Milphio.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h65
+:END:
+
+Edepol Milphionem miserum. quid nunc vis tibi?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h66
+:END:
+
+Opsecro hercle, ut mulsa loquitur.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h67
+:END:
+
+Nil nisi laterculos,
+sesumam papaveremque, triticum et frictas nuces.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h68
+:END:
+
+Ecquid amare videor?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h69
+:END:
+
+Damnum, quod Mercurius minime amat.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h70
+:END:
+
+Namque edepol lucrum amare nullum amatorem addecet.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h71
+:END:
+
+Eamus, mea germana.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h72
+:END:
+
+Age sis, ut lubet.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h73
+:END:
+
+Sequere hac.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h74
+:END:
+
+Sequor.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h75
+:END:
+
+Eunt hae.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h76
+:END:
+
+Quid si adeamus?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h77
+:END:
+
+Adeas.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h78
+:END:
+
+Primum prima salva sis,
+et secunda tu secundo salve in pretio; tertia
+salve extra pretium.
+
+** Ancilla
+:PROPERTIES:
+:CUSTOM_ID: h8-h79
+:END:
+
+Tum pol ego et oleum et operam perdidi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h80
+:END:
+
+Quo te agis?
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h81
+:END:
+
+Egone? in aedem Veneris.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h82
+:END:
+
+Quid eo?
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h83
+:END:
+
+Vt Venerem propitiem.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h84
+:END:
+
+Eho, an irata est? propitia hercle est. vel ego pro illa spondeo.
+quid tu ais?
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h85
+:END:
+
+Quid mihi molestu's molestus es  , opsecro?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h86
+:END:
+
+Aha, tam saeviter.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h87
+:END:
+
+Mitte, amabo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h88
+:END:
+
+Quid festinas? turba nunc illi est.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h89
+:END:
+
+Scio.
+sunt illi aliae quas spectare ego, et me spectari volo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h90
+:END:
+
+Qui lubet spectare turpes, pulchram spectandam dare?
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h91
+:END:
+
+Quia apud aedem Veneris hodie est mercatus meretricius:
+eo conveniunt mercatores, ibi ego me ostendi volo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h92
+:END:
+
+Invendibili merci oportet ultro emptorem adducere:
+proba mers facile emptorem reperit, tam etsi in abstruso sitast.
+
+quid ais tu? quando illi apud me mecum caput et corpus copulas? †
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h93
+:END:
+
+Quo die Orcus Acherunte mortuos amiserit.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h94
+:END:
+
+Sunt mihi intus nescio quot nummi aurei lymphatici.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h95
+:END:
+
+Deferto ad me, faxo actutum constiterit lymphaticum.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h96
+:END:
+
+Bellula hercle.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h97
+:END:
+
+I díerecte in maxumam malam crucem.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h98
+:END:
+
+Quam magis aspecto, tam magis est nimbata et nugae merae.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h99
+:END:
+
+Segrega sermonem. taedet.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h100
+:END:
+
+Age, sustolle hoc amiculum.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h101
+:END:
+
+Pura sum, comperce amabo me attrectare, Agorastocles.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h102
+:END:
+
+Quid agam nunc?
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h103
+:END:
+
+Si sapias, curam hanc facere compendi potes.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h104
+:END:
+
+Quid? ego non te curem? quid ais, Milphio?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h105
+:END:
+
+Ecce odium meum.
+
+quid me vis?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h106
+:END:
+
+Cur mi haec irata est?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h107
+:END:
+
+Cur haec irata est tibi?
+cur ego id curem? namque istaec magis meast curatio. †
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h108
+:END:
+
+Iam hercle tu periisti, nísi illam mihi tam tranquillam facis
+quam mare olimst, quóm ibi alcedo pullos educit suos.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h109
+:END:
+
+Quid faciam?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h110
+:END:
+
+Exora, blandire, expalpa.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h111
+:END:
+
+Faciam sedulo.
+
+sed vide sís, ne tu oratorem hunc pugnis pectas postea.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h112
+:END:
+
+Non faciam.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h113
+:END:
+
+Non aequos in me es, sed morare et male facis.
+bene promittis multa ex multis: omnia in cassum cadunt.
+liberare iuravisti me haud semel, sed centiens:
+dum te exspecto, neque ego usquam aliam mihi paravi copiam
+
+neque istuc usquam apparet; ita nunc servio nihilo minus.
+i, soror. apscede tu a me.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h114
+:END:
+
+Perii. ecquid agis, Milphio?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h115
+:END:
+
+Mea voluptas, mea delicia, mea vita, mea amoenitas,
+meus ocellus, meum labellum, mea salus, meum savium,
+meum mel, meum cor, mea colustra, meus molliculus caseus—
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h116
+:END:
+
+Mene ego illaéc patiar praesente dici? discrucior miser,
+nisi ego illum iubeo quadrigis cursim ad carnificem rapi.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h117
+:END:
+
+Noli, amabo, suscensere ero meo, causa mea.
+ego faxo, si non irata es, ninnium pro te dabit
+atque te fáciet ut sis civis Attica atque libera.
+
+quin adire sínis? quin tibi qui bene volunt, bene vis item?
+si ante quid mentitust, nunciam dehinc érit verax tibi.
+sine te exorem, sine prehendam auriculis, sine dem savium.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h118
+:END:
+
+Apscede hinc sis, sycophanta par ero.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h119
+:END:
+
+At scin quo modo?
+iam hercle ego faciam ploratillum, nisi te facio propitiam,
+
+atque hic ne me verberetillum faciat, nisi te propitio,
+male formido: novi ego huius mores morosi malos.
+quam ob rem amabo, mea voluptas, sine te hoc exorarier.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h120
+:END:
+
+Non ego homo trioboli sum, nisi ego illi mastigiae
+exturbo oculos atque dentes. em voluptatem tibi,
+
+em mel, em cor, em labellum, em salutem, em savium.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h121
+:END:
+
+Impias, ere, te: oratorem verberas.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h122
+:END:
+
+Iam istoc magis:
+etiam ocellum addam et labellum et linguam.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h123
+:END:
+
+Ecquid facies modi?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h124
+:END:
+
+sicine ego te orare iussi?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h125
+:END:
+
+Quo modo ergo orem?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h126
+:END:
+
+Rogas?
+sic enim díceres, sceleste: huius voluptas, te opsecro,
+
+huius mel, huius cor, huius labellum, huius lingua, huius savium,
+huius delicia, huiús salus amoena, huius festivitas:
+huius colustra, huius dulciculus caseus, mastigia,
+huius cor, huius studium, huius savium, mastigia
+omnia illa, quae dicebas tua, ésse ea memorares mea.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h8-h127
+:END:
+
+Opsecro hercle te, voluptas huius atque odium meum,
+huius amica mammeata, mea inimica et malevola,
+oculus huius, lippitudo mea, mel huius, fel meum,
+ut tu huic irata ne sis aut, si id fieri non potest,
+capias restim ac te suspendas cúm ero et vostra familia.
+
+nam mihi iam video propter te victitandum sorbilo,
+itaque iam quasi ostreatum tergum ulceribus gestito
+propter amorem vestrum.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h128
+:END:
+
+Amabo, men prohibere postulas
+ne te verberet magis quám ne mendax me advorsum siet?
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h8-h129
+:END:
+
+Aliquid huic responde, amabo, commode, ne incommodus
+
+nobis sit. nam detinet nos de nostro negotio.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h130
+:END:
+
+Verum. etiam tibi hanc amittam noxiam unam, Agorastocles.
+non sum irata.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h131
+:END:
+
+Non es?
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h132
+:END:
+
+Non sum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h133
+:END:
+
+Da ergo, ut credam, savium.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h134
+:END:
+
+Mox dabo, quom ab re divina rediero.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h135
+:END:
+
+I ergo strenue.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h136
+:END:
+
+Sequere me, soror.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h137
+:END:
+
+Atque audin etiam? Veneri dicito
+
+multam meis verbis salutem.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h138
+:END:
+
+Dicam.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h139
+:END:
+
+Atque hoc audi.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h8-h140
+:END:
+
+Quid est?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h8-h141
+:END:
+
+Paucis verbis rem divinam facito. atque audin? respice.
+respexit. idem edepol Venerem credo facturam tibi.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+* 410
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+quid nunc mi es auctor, Milphio?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h2
+:END:
+
+Vt me verberes
+atque auctionem facias: nam impunissume
+tibi quidem hercle vendere hasce aedis licet.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h3
+:END:
+
+Quid iam?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h4
+:END:
+
+Maiorem partem in ore habitas meo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h5
+:END:
+
+Supersede istis verbis.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h6
+:END:
+
+Quid nunc vis tibi?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h7
+:END:
+
+Trecentos Philippos Collybisco vilico
+dedi dúdum, prius quam me evocavisti foras.
+nunc opsecro te, Milphio, hanc per dexteram
+perque hanc sororem laevam perque oculos tuos
+
+perque meos amores perque Adelphasium meam
+perque tuam libertatem—
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h8
+:END:
+
+Em nunc nihil opsecras.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h9
+:END:
+
+Mi Milphidisce, mea commoditas, mea salus,
+fac quod facturum te esse promisti mihi,
+ut ego hunc lenonem perdam.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h10
+:END:
+
+Perfacile id quidemst.
+
+i, adduce testis tecum; ego intus interim
+iam et ornamentis meis et sycophantiis
+tuom exornabo vilicum. propera atque abi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h11
+:END:
+
+Fugio.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h12
+:END:
+
+Meum est ístuc magis officium quam tuom.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h13
+:END:
+
+Egone egone, si istuc lepide ecfexis—
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h14
+:END:
+
+I modo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h15
+:END:
+
+Vt non ego te hodie—
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h16
+:END:
+
+Abi modo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h17
+:END:
+
+Emittam manu—
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h18
+:END:
+
+I modo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h19
+:END:
+
+Non hercle meream.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h20
+:END:
+
+Oh—
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h21
+:END:
+
+Vah—
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h22
+:END:
+
+Abi modo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h23
+:END:
+
+Quantum Acheruntest mortuorum.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h24
+:END:
+
+Etiamne abis?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h25
+:END:
+
+Neque quantum aquaist in mari.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h26
+:END:
+
+Abiturun es?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h27
+:END:
+
+Neque nubes omnes quantumst.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h28
+:END:
+
+Pergin pergere?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h29
+:END:
+
+Neque stellae in caelo.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h30
+:END:
+
+Pergin auris tundere?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h31
+:END:
+
+Neque hoc neque illud neque—enim vero serio—
+neque—hercle vero—quid opust verbis? quippini?
+quod uno verbo—dicere hic quidvis licet,
+neque—hercle vero serio, scin quomodo?
+
+ita me di amabunt, vin bona dicam fide,
+quod hic inter nos liceat? ita me Iuppiter,
+scin quam videtur? credin quod ego fabuler?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h10-h32
+:END:
+
+Si nequeo facere ut abeas, egomet abiero;
+nam isti quidem hercle orationi Oedipo
+
+opust cóniectore, qui Sphingi interpres fuit.—
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h10-h33
+:END:
+
+Illic hínc iratus abiit. nunc mihi cautio est,
+ne meámet culpa meo amori obiexim moram.
+ibo atque arcessam testis, quando Amor iubet
+me oboedientem ésse servo liberum.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+* 449
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h1
+:END:
+
+Di illum infelicent omnes, qui post hunc diem
+leno ullam Veneri umquam immolarit hostiam
+quive ullum turis granum sacruficaverit.
+nam ego hodie infelix dis meis iratissumis
+
+sex immolavi ágnos, nec potui tamen
+propitiam Venerem facere utí esset mihi.
+quoniam litare nequeo, ábii illim ilico
+iratus, votui éxta prosicarier;
+neque ea poricere volui, quoniam non bona
+
+haruspex dixit: deam esse indignam credidi.
+eo pacto avarae Veneri pulchre adii manum.
+quando id quod sat erat satis habere noluit,
+ego pausam feci. sic ago, sic me decet.
+ego faxo posthac di deaeque ceteri
+
+contentiores mage erunt atque avidi minus,
+quom scibunt, Veneri ut adierit leno manum.
+condigne haruspex, non homo trioboli,
+omnibus in extis aibat portendi mihi
+malum damnumque et deos esse iratos mihi.
+
+quid ei divini aut humani aequomst credere?
+mina mihi argenti dono postilla datast.
+sed quaeso, ubi nam illic restitit miles modo,
+qui hanc mihi donavit, quem ego vocavi ad prandium?
+sed eccum incedit.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h2
+:END:
+
+Ita ut occepi dicere,
+
+lenulle, de illa pugna Pentetronica,
+quom sexaginta milia hominum uno die
+volaticorum manibus occidi meis.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h3
+:END:
+
+Volaticorum hóminum?
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h4
+:END:
+
+Ita dico quidem.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h5
+:END:
+
+An, opsecro, usquam sunt homines volatici?
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h6
+:END:
+
+Fuere. verum ego interfeci.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h7
+:END:
+
+Quo modo
+potuisti?
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h8
+:END:
+
+Dicam. viscum legioni dedi
+fundasque; eo praésternebant folia farferi.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h9
+:END:
+
+Quoi rei?
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h10
+:END:
+
+Ad fundas viscus né adhaeresceret.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h11
+:END:
+
+Perge. optume hercle perieras. quid postea?
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h12
+:END:
+
+In fundas visci indebant grandiculos globos,
+eo illós volantis iussi funditarier.
+quid multa verba? quemquem visco offenderant,
+tam crebri ad terram áccidebant quam pira.
+ut quisque acciderat, eum necabam ílico
+
+per cerebrum pinna sua sibi, quasi turturem.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h13
+:END:
+
+Si hercle istuc umquam factum est, tum me Iuppiter
+faciat ut semper sacruficem nec umquám litem.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h14
+:END:
+
+An mi haec non credis?
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h15
+:END:
+
+Credo, ut mi aequomst credier.
+age eamus intro.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h16
+:END:
+
+Dum exta referuntur, volo
+
+narrare tibi etiam unam pugnam.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h17
+:END:
+
+Nil moror.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h18
+:END:
+
+Ausculta.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h19
+:END:
+
+Non hercle auscultabo.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h20
+:END:
+
+Quo modo?
+colaphis quidem hercle tuom iam dilidam caput,
+nisi aut auscultas aut is in malam crucem.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h21
+:END:
+
+Malam crucem ibo potius.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h22
+:END:
+
+Certumnest tibi?
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h23
+:END:
+
+Certum.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h24
+:END:
+
+Tum tu igitur die bonó Aphrodisiis
+addice tuam mihi meretricem minusculam.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h25
+:END:
+
+Ita res divina mihi fuit: res serias
+omnis extollo ex hoc die in alium diem.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h26
+:END:
+
+Profestos festos habeam decretum est mihi.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h13-h27
+:END:
+
+Nunc hinc eamus intro. sequere hac me.—
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h13-h28
+:END:
+
+Seqor.
+in hunc diem iam tuos sum mercennarius.—
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+* 504
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+Íta me di ament, tardo amico nihil est quicquam inaequius,
+praesertim homini amanti, qui quidquid agit properat omnia.
+sicut ego hos duco advocatos, homines spissigradissimos,
+tardiores quam corbitae sunt in tranquillo mari.
+
+atque equidem hercle dedita opera amicos fugitavi senes:
+scibam aetate tardiores, metui meo amori moram.
+nequiquam hos procos mi elegi loripedis, tardissimos.
+quin si ituri hodie estis, ite, aut ite hinc in malam crucem.
+sicine oportet ire amicos homini amanti operam datum?
+
+nam iste quidem gradus succretust cribro pollinario,
+nisi cum pedicis condidicistis istoc grassari gradu.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h2
+:END:
+
+Heus tu, quamquam nos videmur tibi plebeii et pauperes,
+si nec recte dicis nobis, dives de summo loco,
+divitem audacter solemus mactare infortunio.
+
+nec tibi nos obnoxii sumus istuc, quid tu ames aut oderis:
+quom argentum pro capite dedimus, nostrum dedimus, non tuom;
+liberos nos esse oportet. nos te nihili pendimus,
+ne tuo nos amori servos tuos esse addictos censeas.
+liberos homines per urbem modico magis par est gradu
+
+ire, servile esse duco festinantem currere.
+praesertim in re populi placida atque interfectis hostibus
+non decet tumultuari. sed si properabas magis,
+pridie nos te advocatos huc duxisse oportuit.
+ne tu opinere, haud quisquam hodie nostrum curret per vias,
+
+neque nos populus pro cerritis insectabit lapidibus.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h3
+:END:
+
+At si ad prandium me in aedem vos dixissem ducere,
+vinceretis cervom cursu vel gralatorem gradu;
+nunc vos quia mihi advocatos dixi et testis ducere,
+podagrosi estis ac vicistis cochleam tarditudine.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h4
+:END:
+
+An vero non iusta causa est, quor curratur celeriter
+ubi bibas, edas de alieno quantum velis usque ad fatim,
+quod tu invitus numquam reddas domino, de quoio ederis?
+sed tamen cum eo cum quiqui, quamquam sumus pauperculi,
+est domi quod edimus, ne nos tam contemptim conteras.
+
+quidquid est pauxillulum illuc, nostrum id omne, non tuomst,
+neque nos quemquam flagitamus neque nos quisquam flagitat.
+tua causa nemo nostrorumst suos rupturus ramites.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h5
+:END:
+
+Nimis iracundi estis: equidem haec vobis dixi per iocum.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h6
+:END:
+
+Per iocum itidem dictum habeto quae nos tibi respondimus.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h7
+:END:
+
+Obsecro hercle, operam celocem hanc mihi, ne corbitam date;
+attrepidate saltem, nam vos adproperare haud postulo.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h8
+:END:
+
+Si quid tu placide otioseque agere vis, operam damus;
+si properas, cursores meliust te advocatos ducere.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h9
+:END:
+
+Scitis rem, narravi vobis quod vestra opera mi opus siet,
+
+de lenone hoc, qui me amantem ludificatur tam diu,
+ei paratae ut sint insidiae de auro et de servo meo.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h10
+:END:
+
+Omnia istaec scimus iam nos, si hi spectatores sciant;
+horunc hic nunc causa haec agitur spectatorum fabula:
+hos te satius est docere, ut, quando agas, quid agas sciant.
+
+nos tu ne curassis: scimus rem omnem, quippe omnes simul
+didicimus tecum una, ut respondere possemus tibi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h11
+:END:
+
+Ita profecto est. sed agite igitur, ut sciam vos scire rem,
+expedite et mihi quae vobis dudum dixi dicite.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h12
+:END:
+
+Itane? temptas an sciamus? non meminisse nos ratu's ratus es  ,
+
+quo modo trecentos Philippos Collybisco vilico
+dederis, quos deferret huc ad lenonem inimicum tuom,
+isque sé ut assimularet peregrinum esse aliunde ex alio oppido?
+ubi is detulerit, tu eo quaesitum servom advenies tuom
+cum pecunia.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h13
+:END:
+
+Meministis memoriter, servastis me.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h14
+:END:
+
+Ille negabit: Milphionem quaeri censebit tuom;
+id duplicabit omne furtum. leno addicetur tibi.
+ad eam rem nos esse testis vis tibi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h15
+:END:
+
+Tenetis rem.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h16
+:END:
+
+Vix quidem hercle, íta pauxilla est, digitulis primoribus.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h17
+:END:
+
+Hoc cito et cursim est agendum. propera iam quantum potest.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h18
+:END:
+
+Bene vale igitur. te advocatos meliust celeris ducere;
+tardi sumus nos.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h19
+:END:
+
+Optime itis, pessime hercle dicitis.
+quin etiam deciderint vobis femina ín talos velim.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h20
+:END:
+
+At edepol nos tibi in lumbos linguam atque oculos in solum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h21
+:END:
+
+Heia, hau vostrumst iracundos esse, quod dixi ioco.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h22
+:END:
+
+Nec tuom quidem est amicis per iocum iniuste loqui.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h23
+:END:
+
+Mittite istaec. quid velim vos, scitis.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h16-h24
+:END:
+
+Callemus probe:
+lenonem ut periurum perdas, id studes.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h16-h25
+:END:
+
+Tenetis rem.
+euge, opportune egrediuntur Milphio una et vilicus.
+basilice exornatus incedit et fabre ad fallaciam.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 578
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h18-h1
+:END:
+
+Iam tenes praecepta in corde?
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h2
+:END:
+
+Pulchre.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h18-h3
+:END:
+
+Vide sis calleas.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h4
+:END:
+
+Quid opust verbis? callum aprugnum callere aeque non sinam.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h18-h5
+:END:
+
+Fac modo ut condocta tibi sint dicta ad hanc fallaciam.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h6
+:END:
+
+Quin edepol condoctior sum, quam tragoedi aut comici.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h18-h7
+:END:
+
+Probus homost.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h18-h8
+:END:
+
+Adeamus propius.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h18-h9
+:END:
+
+Adsunt testes?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h18-h10
+:END:
+
+Tot quidem.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h18-h11
+:END:
+
+Non potuisti adducere homines magis ad hanc rem idoneos.
+nam istorum nullus nefastust: comitiales sunt meri;
+ibi habitant, ibi eos conspicias quam praetorem saepius.
+hodie iuris coctiores non sunt qui lites creant,
+
+quam hi sunt, qui si nihil est quicum litigent, lites emunt.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h12
+:END:
+
+Di te perdant.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h18-h13
+:END:
+
+Vos quidem hercle—cum eo cum quiqui tamen
+et bene et benigne facitis, quóm ero amanti operam datis.
+sed isti iam sciunt, negoti quid sit?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h18-h14
+:END:
+
+Omne in ordine.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h18-h15
+:END:
+
+Tum vos animum advortite igitur. hunc vos lenonem Lycum
+
+novistis?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h16
+:END:
+
+Facile.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h17
+:END:
+
+At pol ego eum, qua sit facie, nescio.
+eum mihi volo demonstretis hominem.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h18
+:END:
+
+Nos curabimus.
+satis praeceptumst.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h18-h19
+:END:
+
+Hic trecentos nummos numeratos habet.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h20
+:END:
+
+Ergo nos inspicere oportet istuc aurum, Agorastocles,
+ut sciamus quid dicamus mox pro testimonio.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h21
+:END:
+
+Agite, inspicite.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h22
+:END:
+
+Aurum est profecto hoc, spectatores, comicum:
+macerato hoc pingues fiunt auro in barbaria boves;
+verum ad hanc rem agundam Philippum est: ita nos adsimulabimus.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h23
+:END:
+
+Sed ita adsimulatote quasi ego sim peregrinus.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h24
+:END:
+
+Scilicet,
+et quidem quasi tu nobiscum adveniens hodie oraveris,
+
+liberum ut commostraremus tibi locum et voluptarium,
+ubi ames, potes, pergraecere.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h25
+:END:
+
+Eu, edepol mortales malos.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h18-h26
+:END:
+
+Ego enim docui.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h18-h27
+:END:
+
+Quis te porro?
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h28
+:END:
+
+Agite intro abite, Agorastocles,
+ne hic vos mecum conspicetur leno neu fallaciae
+praepedimentum obiciatur.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h29
+:END:
+
+Hic homo sapienter sapit.
+
+facite quod iubet.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h18-h30
+:END:
+
+Abeamus. sed vos—
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h31
+:END:
+
+Satis dictumst. abi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h18-h32
+:END:
+
+Abeo.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h33
+:END:
+
+Quaeso, di immortales, quin abis?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h18-h34
+:END:
+
+Abeo.—
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h35
+:END:
+
+Sapis.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h36
+:END:
+
+St,
+tace.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h37
+:END:
+
+Quid est?
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h38
+:END:
+
+Fores haé fecerunt magnum flagitium modo.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h39
+:END:
+
+Quid id est flagiti?
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h40
+:END:
+
+Crepuerunt clare.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h41
+:END:
+
+Di te perduint.
+
+pone nos recede.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h42
+:END:
+
+Fiat.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h43
+:END:
+
+Nos priores ibimus.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h44
+:END:
+
+Faciunt scurrae quod consuerunt: pone sese homines locant.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h18-h45
+:END:
+
+Illic homo est, qui egreditur, leno.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h46
+:END:
+
+Bonus est, nam similis malist.
+iam nunc ego illi égredienti sanguinem exsugam procul.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+* 615
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h1
+:END:
+
+Iam ego istúc revortar, miles: convivas volo
+reperire nobis commodos, qui una sient;
+interibi attulerint exta, atque eádem mulieres
+iam ab re divina credo apparebunt domi.
+
+sed quid huc tantum hominum incedunt? ecquidnam adferunt?
+et illé chlamydatus quisnam est, qui sequitur procul?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h2
+:END:
+
+Aetoli cives te salutamus, Lyce,
+quamquam hanc salutem ferimus inviti tibi.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h3
+:END:
+
+Fortunati omnes sitis, quod certo scio
+
+nec fore nec fortunam id situram fieri.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h4
+:END:
+
+Istic ést thensaurus stultis in lingua situs,
+ut quaestui habeant male loqui melioribus.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h5
+:END:
+
+Viam qui nescit, qua deveniat ad mare,
+eum oportet amnem quaerere comitem sibi.
+
+ego male loquendi vobis nescivi viam:
+nunc vos mihi amnes estis; vos certum est sequi:
+si bene dicetis, vostra ripa vos sequar,
+si male dicetis, vostro gradiar limite.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h6
+:END:
+
+Malo bene facere tantundemst periculum
+
+quantum bono male facere.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h7
+:END:
+
+Qui vero?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h8
+:END:
+
+Scies.
+malo si quid bene facias, id beneficium interit;
+bono si quid male facias, aetatem expetit.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h9
+:END:
+
+Facete dictum. sed quid istúc ad me attinet?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h10
+:END:
+
+Quia nos honoris tui causa ad te venimus,
+
+quamquam bene volumus leniter lenonibus.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h11
+:END:
+
+Si quid boni adportatis, habeo gratiam.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h12
+:END:
+
+Boni de nostro tibi nec ferimus nec damus
+neque pollicemur, neque adeo volumus datum.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h13
+:END:
+
+Credo hercle vobis: ita vestra est benignitas.
+
+sed quid nunc voltis?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h14
+:END:
+
+Hunc chlamydatum quem vides,
+ei Mars iratust.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h15
+:END:
+
+Capiti vestro istuc quidem.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h16
+:END:
+
+Nunc hunc, Lyce, ad te diripiundum adducimus.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h17
+:END:
+
+Cum praeda hic hodie incedet venator domum:
+canes compellunt in plagas lepide lupum.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h18
+:END:
+
+Quis hic est?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h19
+:END:
+
+Nescimus nos quidem istum qui siet;
+nisi dudum mane ut ad portum processimus,
+atque istum e navi éxeuntem oneraria
+videmus. adiit ad nos extemplo exiens;
+salutat, respondemus.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h20
+:END:
+
+Mortalis malos,
+
+ut ingrediuntur docte in sycophantiam.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h21
+:END:
+
+Quid deinde?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h22
+:END:
+
+Sermonem ibi nobiscum copulat.
+ait sé peregrinum esse huius ignarum oppidi;
+locum sibi velle liberum praeberier,
+ubi nequam faciat. nos hominem ad te adduximus.
+
+tu si te di amant, agere tuam rem occasiost.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h23
+:END:
+
+Itane?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h24
+:END:
+
+Ille est cupiens, aurum habet.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h25
+:END:
+
+Praeda haec meast.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h26
+:END:
+
+Potare, amare volt.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h27
+:END:
+
+Locum lepidum dabo.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h28
+:END:
+
+At enim hic clam furtim ésse volt, ne quis sciat
+neve arbiter sit. nam hic latro in Sparta fuit,
+
+ut quidem ipse nobis dixit, apud regem Attalum;
+inde huc aufugit, quoniam capitur oppidum.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h29
+:END:
+
+Nimis lépide de latrone, de Sparta optume.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h30
+:END:
+
+Di deaeque vobis multa bona dent, quom mihi
+et bene praecipitis et bonam praedam datis.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h31
+:END:
+
+Immo ut ipse nobis dixit, quo accures magis,
+trecentos nummos Philippos portat praesidi.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h32
+:END:
+
+Rex sum, si ego illum hodie ad me hominem adlexero.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h33
+:END:
+
+Quin hic quidem tuos est.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h34
+:END:
+
+Opsecro hercle hortamini,
+ut devortatur ad me in hospitium optumum.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h35
+:END:
+
+Neque nos hortari neque dehortari decet
+hominem peregrinum: tuam rem tú ages, si sapis.
+nos tibi palumbem ad aream usque adduximus:
+nunc te illum meliust capere, si captum esse vis.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h36
+:END:
+
+Iamne itis? quid quod vobis mandavi, hospites?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h37
+:END:
+
+Cum illoc te meliust tuam rem, ádulescens, loqui:
+illic ést ad istas res probus, quas quaeritas.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h38
+:END:
+
+Videre equidem vos vellem, quom huic aurum darem.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h39
+:END:
+
+Illinc procul nos istuc inspectabimus.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h40
+:END:
+
+Bonam dedistis mihi operam.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h41
+:END:
+
+It ad me lucrum.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h42
+:END:
+
+Illud quidem quorsum asinus caedit calcibus.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h43
+:END:
+
+Blande hominem compellabo. hóspes hospitem
+salutat. salvom te advenire gaudeo.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h44
+:END:
+
+Multa tibi di dent bona, quom me salvom esse vis.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h45
+:END:
+
+Hospitium te aiunt quaeritare.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h46
+:END:
+
+Quaerito.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h47
+:END:
+
+Ita illí dixerunt, qui hinc a me abierunt modo,
+te quaeritare a muscis.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h48
+:END:
+
+Minime gentium.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h49
+:END:
+
+Quid itá?
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h50
+:END:
+
+Quia a muscis si mi hospitium quaererem,
+adveniens irem in carcerem recta via.
+ego id quaero hospitium, ubi ego curer mollius,
+
+quam regi Antiocho óculi curari solent.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h51
+:END:
+
+Edepol ne tibi illud possum festivom dare,
+siquidém potes ésse te pati in lepido loco,
+in lecto lepide strato lepidam mulierem
+complexum contrectare.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h52
+:END:
+
+Is, leno, viam.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h53
+:END:
+
+Vbi tu Leucadio, Lesbio, Thasio, Chio,
+vetustáte vino edentulo aetatem inriges;
+ibi ego te replebo usque unguentum geumatis,
+quid multa verba? faciam, ubi tu laveris,
+ibi ut bálneator faciat unguentariam.
+
+sed haec latrocinantur, quae ego dixi, omnia.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h54
+:END:
+
+Quid itá?
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h55
+:END:
+
+Quia aurum poscunt praesentarium.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h20-h56
+:END:
+
+Quin hercle accipere tu non mavis quam ego dare.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h20-h57
+:END:
+
+Quid si evocemus huc foras Agorastoclem,
+ut ipsus testis sit sibi certissumus?
+
+heus tu, qui furem captas, egredere ocius,
+ut tute inspectes aurum lenoni dari.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+* 711
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+Quid est? quid voltis, testes?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h2
+:END:
+
+Specta ad dexteram.
+tuos sérvos aurum ípsi lenoni dabit.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h22-h3
+:END:
+
+Age, accipe hoc sis: hic sunt numerati aurei
+trecenti nummi, qui vocantur Philippei.
+
+hinc me procura; propere hosce apsumi volo.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h22-h4
+:END:
+
+Edepol fecisti prodigum promum tibi.
+age, eamus intro.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h22-h5
+:END:
+
+Te sequor.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h22-h6
+:END:
+
+Age, age, ambula,
+ibí, quae reliqua, alia fabulabimur.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h22-h7
+:END:
+
+Eadém narrabo tibi res Spartiaticas.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h22-h8
+:END:
+
+Quin sequere me ergo.—
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h22-h9
+:END:
+
+Abduc intro. addictum tenes.—
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h10
+:END:
+
+Quid nunc mi auctores estis?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h11
+:END:
+
+Vt frugi sies.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h12
+:END:
+
+Quid si animus esse non sinit?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h13
+:END:
+
+Esto ut sinit.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h14
+:END:
+
+Vidistis, leno quom aurum accepit?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h15
+:END:
+
+Vidimus.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h16
+:END:
+
+Eum vos meum esse servom scitis?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h17
+:END:
+
+Scivimus.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h18
+:END:
+
+Rem adversus populi saepe leges?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h19
+:END:
+
+Scivimus.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h20
+:END:
+
+Em istaec volo ergo vos commeminisse omnia,
+mox quom ad praetorem úsus veniet.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h21
+:END:
+
+Meminimus.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h22
+:END:
+
+Quid si recenti re aedis pultem?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h23
+:END:
+
+Censeo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h24
+:END:
+
+Si pultem, non recludet?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h25
+:END:
+
+Panem frangito.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h26
+:END:
+
+Si exierit leno, quid tum? hominem interrogem,
+meus sérvos ad eum veneritne?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h27
+:END:
+
+Quippini?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h28
+:END:
+
+Cum auri ducentis nummis Philippis?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h29
+:END:
+
+Quippini?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h30
+:END:
+
+Ibi extémplo leno errabit.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h31
+:END:
+
+Qua de re?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h32
+:END:
+
+Rogas?
+quia centum nummis minus dicetur.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h33
+:END:
+
+Bene putas.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h34
+:END:
+
+Alium censebit quaeritari.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h35
+:END:
+
+Scilicet.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h36
+:END:
+
+Extemplo denegabit.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h37
+:END:
+
+Iuratus quidem.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h38
+:END:
+
+Homo fúrti sese adstringet.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h22-h39
+:END:
+
+Hau dubium id quidemst.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h40
+:END:
+
+Quantum quantum ad eum erit delatum.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h41
+:END:
+
+Quippini?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h42
+:END:
+
+Diespiter vos perduit.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h43
+:END:
+
+Te quippini?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h44
+:END:
+
+Ibo et pultabo ianuam iam.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h45
+:END:
+
+Quippini?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h22-h46
+:END:
+
+Tacendi tempus est, nam crepuerunt fores.
+foras égrediri video lenonem Lycum.
+adeste quaeso.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h22-h47
+:END:
+
+Quippini? † si voles
+operire capita, ne nos leno noverit,
+
+qui illi malae rei tantae fuimus inlices.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+* 746
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h1
+:END:
+
+Suspendant omnes nunciam se haruspices,
+quam ego illis posthac quod loquantur creduam,
+qui in re divina dudum dicebant mihi
+malum damnumque maximum portendier:
+
+is explicavi meam rem postilla lucro.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h24-h2
+:END:
+
+Salvos sis, leno.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h3
+:END:
+
+Di te ament, Agorastocles.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h24-h4
+:END:
+
+Magis mé benigne nunc salutas quam antidhac.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h5
+:END:
+
+Tranquillitas evenit, quasi navi in mari:
+utquomque est ventus, exim velum vortitur.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h24-h6
+:END:
+
+Valeant apud te quos volo; atque haud te volo.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h7
+:END:
+
+Valent ut postulatumst, verum non tibi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h24-h8
+:END:
+
+Mitte ad me, si audes, hodie Adelphasium tuam,
+die fésto celebri nobilique Aphrodisiis.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h9
+:END:
+
+Calidum prandisti prandium hodie? dic mihi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h24-h10
+:END:
+
+Quid iam?
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h11
+:END:
+
+Quia os nunc frigefactas, quom rogas.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h24-h12
+:END:
+
+Hoc age sis, leno. servom esse audivi meum
+apud te.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h13
+:END:
+
+Apud me? numquam factum reperies.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h24-h14
+:END:
+
+Mentire. nam ad te venit aurumque attulit.
+ita mihi renuntiatumst, quibus credo satis.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h15
+:END:
+
+Malus es, captatum me advenis cum testibus.
+tuorum apud me nemost nec quicquam tui.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h24-h16
+:END:
+
+Mementote illud, advocati.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h24-h17
+:END:
+
+Meminimus.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h18
+:END:
+
+Hahahae, iam teneo quid sit, perspexi modo.
+hi qui illum dudum conciliaverunt mihi
+
+peregrinum Spartanum, id nunc his cerebrum uritur,
+me esse hos trecentos Philippos facturum lucri.
+nunc hunc inimicum quía esse sciverunt mihi,
+eum adlegarunt, suom qui servom diceret
+cum auro esse apud me; compositast fallacia,
+
+ut eo me privent atque inter se dividant.
+lupo agnum eripere postulant. nugas agunt.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h24-h19
+:END:
+
+Negasne apud te esse aurum, nec servom meum?
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h20
+:END:
+
+Nego: et negando, si quid refert, ravio.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h24-h21
+:END:
+
+Periisti, leno. nam istest huius vilicus
+
+quem tibi nos esse Spartiatam diximus,
+qui ad te trecentos Philippeos modo detulit.
+idque in istoc adeo aúrum inest marsuppio.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h22
+:END:
+
+Vae vostrae aetati.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h24-h23
+:END:
+
+Id quidem in mundo est tuae.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h24-h24
+:END:
+
+Age omitte actutum, furcifer, marsuppium:
+
+manifesto fur es mihi. quaeso hercle, operam date,
+dum me videatis servom ab hoc abducere.—
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h24-h25
+:END:
+
+Nunc pol ego perii certo, haud arbitrario.
+consulto hoc factum est, mihi ut insidiae fierent.
+sed quid ego dubito fugere hinc in malam crucem,
+
+prius quam hínc optorto collo ad praetorem trahor?
+eheu, quom ego habui háriolos haruspices;
+qui si quid bene promittunt, perspisso evenit,
+id quod mali promittunt, praesentarium est.
+nunc ibo, amicos consulam, quo me modo
+
+suspendere aequom censeant potissimum.—
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+* 796
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h26-h1
+:END:
+
+Age tu progredere, ut testes videant te ire istinc foras.
+estne hic meus servos?
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h2
+:END:
+
+Sum hercle vero, Agorastocles.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h26-h3
+:END:
+
+Quid nunc, sceleste leno?
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h26-h4
+:END:
+
+Quicum litigas
+apscessit.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h26-h5
+:END:
+
+Vtinam hinc abierit malam crucem.
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h26-h6
+:END:
+
+Ita nos velle aequom est.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h26-h7
+:END:
+
+Cras subscribam homini dicam.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h8
+:END:
+
+Numquid me?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h26-h9
+:END:
+
+Apscedas, sumas ornatum tuom.
+
+** Collybiscvs
+:PROPERTIES:
+:CUSTOM_ID: h26-h10
+:END:
+
+Non sum nequiquam miles factus; paululum
+praedae intus feci: dum lenonis familia
+dormitat, extis sum satur factus probe.
+
+abscedam hinc intro.—
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h26-h11
+:END:
+
+Factum a vobis comiter.
+bonam dedistis, advocati, operam mihi.
+cras mane, quaeso, in comitio estote obviam.
+tu sequere me intro. vos valete.—
+
+** Advocati
+:PROPERTIES:
+:CUSTOM_ID: h26-h12
+:END:
+
+Et tu vale.
+iniuriam illic insignite postulat:
+
+nostro servire nos sibi censet cibo.
+verum ita sunt  [omitted]  isti nostri divites:
+si quid bene facias, levior pluma est gratia,
+si quid peccatumst, plumbeas iras gerunt.
+domos abeamus nostras, sultis, nunciam,
+
+quando id, quoi rei operam dedimus, impetravimus,
+ut perderemus corruptorem civium.—
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 817
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h29-h1
+:END:
+
+Exspécto quo pactó meae techinaé processuraé sient.
+studeo hunc lenonem perdere, qui meum erum miserum macerat,
+is me autem porro verberat, incursat pugnis, calcibus:
+servire amanti miseria est, praesertim qui quod amat caret.
+
+attat, e fano recipere video se Syncerastum,
+lenonis servom; quid habeat sermonis auscultabo.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+* 823
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h1
+:END:
+
+Sátis spectatum est, deos atque homines eius neglegere gratiam,
+quoí hominí erus est consimilis velut ego habeo hunc huius modi.
+neque periurior neque peior alter usquam est gentium,
+quám erus meus est, neque tam luteus neque tam caeno conlitus.
+
+ita me di ament, vel in lautumiis vel in pistrino mavelim
+agere aetatem praepeditus latere forti ferreo,
+quam ápud lenonem hunc servitutem colere. quid illuc est genus,
+quae illic hominum corruptelae fiunt. di vostram fidem,
+quodvis genus ibi hominum videas, quasi Acheruntem veneris,
+
+equitem peditem, libertinum, furem an fugitivom velis,
+verberatum, vinctum, addictum: quí habet quod det, utut homo est,
+omnia genera recipiuntur; itaque in totis aedibus
+tenebrae latebrae, bibitur estur quasi in popina, hau secus.
+ibi tu videas litteratas fictiles epistulas,
+
+pice signatas, nomina insunt cubitum longis litteris:
+ita vinariorum habemus nostrae dilectum domi.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h2
+:END:
+
+Omnia edepol mira sunt, nisi erus hunc heredem facit,
+nam id quidem, illi, uti meditatur, verba faciet mortuo.
+et adire lubet hominem et autem nimis eum ausculto lubens.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h3
+:END:
+
+Haec quom hic video fieri, crucior: pretiis emptos maxumis,
+apud nos expeculiatos servos fieri suis eris.
+sed ad postremum nihil apparet: male partum male disperit.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h4
+:END:
+
+Proinde habet orationem, quasi ipse sit frugi bonae,
+qui ipsus hercle ignaviorem potis est facere Ignaviam.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h5
+:END:
+
+Nunc domum haec ab aede Veneris refero vasa, ubi hostiis
+erus nequivit propitiare Venerem suo festo die.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h6
+:END:
+
+Lepidam Venerem.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h7
+:END:
+
+Nam meretrices nostrae primis hostiis
+Venerem placavere extemplo.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h8
+:END:
+
+O lepidam Venerem denuo.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h9
+:END:
+
+Nunc domum ibo.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h10
+:END:
+
+Heus, Synceraste.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h11
+:END:
+
+Syncerastum qui vocat?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h12
+:END:
+
+Tuos amicus.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h13
+:END:
+
+Haud amice facis, qui cum onere offers moram.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h14
+:END:
+
+At ob hanc moram tibi reddam operam úbi voles, ubi iusseris.
+habe rem pactam.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h15
+:END:
+
+Si futurumst, do tibi operam hanc.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h16
+:END:
+
+Quo modo?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h17
+:END:
+
+Vt enim ubi mihi vapulandum sit, tu corium sufferas.
+apage, nesció quid viri sis.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h18
+:END:
+
+Malus sum.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h19
+:END:
+
+Tibi sis.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h20
+:END:
+
+Te volo.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h21
+:END:
+
+At onus urget.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h22
+:END:
+
+At tu appone et respice ad me.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h23
+:END:
+
+Fecero,
+quamquam haud otiumst.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h24
+:END:
+
+Salvos sis, Synceraste.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h25
+:END:
+
+O Milphio,
+di omnes deaeque ament.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h26
+:END:
+
+Quemnam hominem?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h27
+:END:
+
+Nec te nec me, Milphio:
+neque erum meum ádeo.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h28
+:END:
+
+Quém ament igitur?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h29
+:END:
+
+Aliquem, dignus qui siet.
+nam nostrorum nemo dignust.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h30
+:END:
+
+Lepide loquere.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h31
+:END:
+
+Me decet.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h32
+:END:
+
+Quid agis?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h33
+:END:
+
+Facio quod manufesti moechi haú ferme solent.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h34
+:END:
+
+Quid id est?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h35
+:END:
+
+Refero vasa salva.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h36
+:END:
+
+Di te et tuom erum perduint.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h37
+:END:
+
+Me non perdent; illum ut perdant facere possum, si velim,
+meum erum ut perdant, ni mihi metuam, Milphio.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h38
+:END:
+
+Quid id est? cedo.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h39
+:END:
+
+Malus es?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h40
+:END:
+
+Malus sum.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h41
+:END:
+
+Male mihi est.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h42
+:END:
+
+Memora, num esse aliter decet?
+
+quid est, quod male sit tibi, quoi domi sit quod edis quod ames adfatim,
+neque triobolum ullum amicae das et ductas gratiis?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h43
+:END:
+
+Diespiter me sic amabit,
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h44
+:END:
+
+Vt quidem edepol dignus es.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h45
+:END:
+
+Vt ego hanc familiam interire cupio.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h46
+:END:
+
+Adde operam, si cupis.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h47
+:END:
+
+Sine pennis volare hau facilest: meae alae pennas non habent.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h48
+:END:
+
+Nolito edepol devellisse: iam his duobus mensibus
+volucres tibi erunt tuae hirquinae.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h49
+:END:
+
+I in malam rem.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h50
+:END:
+
+I tu atque erus.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h51
+:END:
+
+Verum. enim qui hómo eum norit, norit. cito homo pervorti potest.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h52
+:END:
+
+Quid iam?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h53
+:END:
+
+Quasi tu tacitum habere quicquam potis sis.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h54
+:END:
+
+Rectius
+tacitas tibi res sistam quam quod dictum est mutae mulieri.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h55
+:END:
+
+Animum inducam facile ut tibi istuc credam, ni te noverim.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h56
+:END:
+
+Crede audacter meo periclo.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h57
+:END:
+
+Male credam, et credam tamen.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h58
+:END:
+
+Scin tu erum tuom meo ero esse inimicum capitalem?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h59
+:END:
+
+Scio.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h60
+:END:
+
+Propter amorem—
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h61
+:END:
+
+Omnem operam perdis.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h62
+:END:
+
+Quid iam?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h63
+:END:
+
+Quia doctum doces.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h64
+:END:
+
+Quid ergo dubitas quin lubenter tuo ero meus quid possiet
+
+facere faciat male, eius merito? tum autem si quid tu adiuvas,
+eo facilius facere poterit.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h65
+:END:
+
+At ego hoc metuo, Milphio.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h66
+:END:
+
+Quid est quod metuas?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h67
+:END:
+
+Dúm ero insidias paritem, ne me perduim.
+si erus meus me esse elocutum quoiquam mortali sciat,
+continuo is me ex Syncerasto Crurifragium fecerit.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h68
+:END:
+
+Numquam edepol mortalis quisquam fiet e me certior,
+nisi ero meo uni indicasso, atque ei quoque ut ne enuntiet
+id esse facinus ex ted ortum.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h69
+:END:
+
+Male credam, et credam tamen.
+sed hoc tu tecum tacitum habeto.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h70
+:END:
+
+Fide non melius creditur.
+loquere (locus occasioque est) libere: hic soli sumus.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h71
+:END:
+
+Erus si tuos volt facere frugem, meum erum perdet.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h72
+:END:
+
+Qui id potest?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h73
+:END:
+
+Facile.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h74
+:END:
+
+Fac ergo id facile noscam ego, ut ille possit noscere.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h75
+:END:
+
+Quia Adelphasium, quám erus deamat tuos, ingenuast.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h76
+:END:
+
+Quo modo?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h77
+:END:
+
+Eodem quo soror illius altera Anterastilis.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h78
+:END:
+
+Cedo qui id credam.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h79
+:END:
+
+Quia illas emit in Anactorio parvolas
+
+de praedone Siculo.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h80
+:END:
+
+Quanti?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h81
+:END:
+
+Duodeviginti minis,
+duas illas et Giddenenem nutricem earum tertiam.
+et ille qui eas vendebat dixit se furtivas vendere:
+ingenuas Carthagine aibat esse.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h82
+:END:
+
+Di vostram fidem,
+nimium lepidum memoras facinus. nam erus meus Agorastocles
+
+ibidem gnatust, inde surptus fere sexennis, postibi
+qui eum surrupuit huc devexit meoque ero eum hic vendidit.
+is in divitias homo adoptavit hunc, quom diem obiit suom.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h83
+:END:
+
+Omnia memoras quo id facilius fiat: manu eas adserat
+suas popularis liberali causa.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h84
+:END:
+
+Tacitus tace modo.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h85
+:END:
+
+Profecto ad incitas lenonem rediget, si eas abduxerit.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h86
+:END:
+
+Quin prius disperibit faxo, quam unam calcem civerit.
+ita paratumst.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h87
+:END:
+
+Ita di faxint, ne apud lenonem hunc serviam.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h88
+:END:
+
+Hercle qui meus conlibertus faxo eris, si di volent.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h89
+:END:
+
+Ita di faxint. numquid aliud me morare, Milphio?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h90
+:END:
+
+Valeas beneque ut tibi sit.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h91
+:END:
+
+Pol istuc tibi et tuost ero in manu.
+vale et haec cura clanculum ut sint dicta.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h92
+:END:
+
+Non dictumst. vale.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h93
+:END:
+
+At enim nihil est, nisi dum calet hoc agitur.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h94
+:END:
+
+Lepidu's lepidus es  , quom mones.
+et ita hoc fiet.
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h95
+:END:
+
+Proba materies data est, si probum adhibes fabrum.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h96
+:END:
+
+Potin ut taceas?
+
+** Syncerastvs
+:PROPERTIES:
+:CUSTOM_ID: h31-h97
+:END:
+
+Taceo atque abeo.—
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h31-h98
+:END:
+
+Mihi commoditatem creas.
+
+illic hinc abiit. di immortales meum erum servatum volunt
+et hunc disperditum lenonem: tantum eum instat exiti.
+satine prius quam unumst iniectum telum, iam instat alterum?
+ibo intro, haec ut meo ero memorem. nam huc si ante aedes evocem,
+quae audivistis modo, nunc si eadem híc iterum iterem, inscitiast.
+
+ero uni potius intus ero odio, quam hic sim vobis omnibus.—
+di immortales, quanta turba, quanta adventat calamitas
+hodie ad hunc lenonem. sed ego nunc est cum me commoror.
+ita negotium institutumst, non datur cessatio;
+nám et hoc docte consulendum, quod modo concreditumst,
+
+et illud autem inserviendumst consilium vernaculum.
+remora si sit, qui malam rem mihi det merito fecerit.
+nunc intro ibo: dum erus adveniat a foro, opperiar domi.—
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+* 930
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h34-h1
+:END:
+
+Yth alonim ualonuth sicorathi symacom syth
+chy mlachthi in ythmum ysthyalm ych-ibarcu mysehi
+li pho caneth yth bynuthi uad edin byn ui
+bymarob syllohom alonim ubymysyrthohom
+byth limmoth ynnocho thuulech-antidamas chon
+ys sidobrim chi fel yth chyl is chon chen liful
+yth binim ys dybur ch-innocho-tnu agorastocles
+yth emanethi hy chirs aelichot sithi nasot
+bynu yid ch-illuch ily gubulim lasibithim
+bodi aly thera ynnynu yslym min cho-th iusim
+
+Ythalonimualoniuthsicorathiisthymhimihymacomsyth
+combaepumamitalmetlotiambeat
+iulecantheconaalonimbalumbar dechor
+bats   hunesobinesubicsillimbalim
+esseantidamossonalemuedubertefet
+donobun.huneccilthumucommucroluful
+altanimauosduberithemhuarcharistolem
+sittesedanecnasotersahelicot
+alemusdubertimurmucopsuistiti
+aoccaaneclictorbodesiussilimlimmimcolus
+
+deos deasque veneror, qui hanc urbem colunt,
+ut quod de mea re huc veni rite venerim,
+measque híc ut gnatas et mei fratris filium
+reperire me siritis, di vostram fidem.
+quae mihi surruptae sunt et fratris filium.
+sed hic mihi antehac hospes Antidamas fuit;
+eum fécisse aiunt, sibi quod faciundum fuit.
+eius fílium esse hic praedicant Agorastoclem:
+ad eum hospitalem hanc tesseram mecum fero;
+is in hisce habitare monstratust regionibus.
+hos percontabor qui hinc egrediuntur foras.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 961
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+Ain tú tibi dixe Syncerastum, Milphio,
+eas ésse ingenuas ambas surrupticias
+Charthaginiensis?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h2
+:END:
+
+Aio, et, si frugi esse vis,
+eas líberali iam adseres causa manu.
+
+nam tuom flagitiumst tuas te popularis pati
+servire ante oculos, domi quae fuerint liberae.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h3
+:END:
+
+Pro di immortales, opsecro vostram fidem,
+quam orationem hanc aures dulcem devorant.
+creta est profecto hórum hominum oratio,
+
+ut mi apsterserunt omnem sorditudinem.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h4
+:END:
+
+Si ad eam rem testis habeam, faciam quod iubes.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h5
+:END:
+
+Quid tu mihi testis? quin tu insistis fortiter?
+aliqua Fortuna fuerit adiutrix tibi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h6
+:END:
+
+Incipere multost quam impetrare facilius.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h7
+:END:
+
+Sed quae illaec avis est, quae huc cum tunicis advenit?
+numnam in balineis circumductust pallio?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h8
+:END:
+
+Facies quidem edepol Punicast.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h9
+:END:
+
+Guggast homo.
+servos quidem edepol veteres antiquosque habet.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h10
+:END:
+
+Qui scis?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h11
+:END:
+
+Viden homines sarcinatos consequi?
+
+† atque ut opinor digitos in manibus non habent.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h12
+:END:
+
+Quid iam?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h13
+:END:
+
+Quia incedunt cum anulatis auribus.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h14
+:END:
+
+Adibo hosce atque áppellabo Punice.
+si respondebunt, Punice pergam loqui;
+si non, tum ad horum mores linguam vertero.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h15
+:END:
+
+Quid ais tu? écquid commeministi Punice?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h16
+:END:
+
+Nihil edepol. nam qui scire potui, dic mihi,
+qui illim sexennis perierim Carthagine?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h17
+:END:
+
+Pro di immortales, plurumi ad illum modum
+periere pueri liberi Carthagine.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h18
+:END:
+
+Quid ais tu?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h19
+:END:
+
+Quid vis?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h20
+:END:
+
+Vin appellem hunc Punice?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h21
+:END:
+
+An scis?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h22
+:END:
+
+Nullus me est hodie Poenus Poenior.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h23
+:END:
+
+Adi atque appella, quid velit, quid venerit,
+qui sit, quoiatis, unde sit: ne parseris.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h24
+:END:
+
+Avo. quoiates estis aut quo ex oppido?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h25
+:END:
+
+Anno byn mytthymballe udradait annech.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h26
+:END:
+
+Quid ait?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h27
+:END:
+
+Hannonem se esse ait Carthagine,
+Carthaginiensis Mytthumbalis filium.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h28
+:END:
+
+Avo.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h29
+:END:
+
+Salutat.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h30
+:END:
+
+Donni.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h31
+:END:
+
+Doni volt tibi
+dare hic nescio quid. audin pollicitarier?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h32
+:END:
+
+Saluta hunc rursus Punice verbis meis.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h33
+:END:
+
+Avo donni inquit hic tibi verbis suis.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h34
+:END:
+
+Me har bocca.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h35
+:END:
+
+Istuc tibi sit potius quam mihi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h36
+:END:
+
+Quid ait?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h37
+:END:
+
+Miseram esse praedicat buccam sibi.
+fortasse medicos nos esse arbitrarier.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h38
+:END:
+
+Si ita est, nega esse; nolo ego errare hospitem.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h39
+:END:
+
+Audin tu?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h40
+:END:
+
+Rufeyn nyccho issam.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h41
+:END:
+
+Sic volo
+profecto vera cuncta huic expedirier.
+roga númquid opus sit.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h42
+:END:
+
+Tu qui zonam non habes,
+quid in hanc venistis urbem aút quid quaeritis?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h43
+:END:
+
+Muphursa.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h44
+:END:
+
+Quid ait?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h45
+:END:
+
+Miuulec hianna.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h46
+:END:
+
+Quid venit?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h47
+:END:
+
+Non audis? mures Africanos praedicat
+in pompam ludis dare se velle aedilibus.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h48
+:END:
+
+Lech lachanna nilimniichto.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h49
+:END:
+
+Quid nunc ait?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h50
+:END:
+
+Ligulas, canalis ait se advexisse et nuces:
+
+nunc orat, operam ut des sibi, ut ea veneant.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h51
+:END:
+
+Mercator credo est.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h52
+:END:
+
+Assam.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h53
+:END:
+
+Arvinam quidem.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h54
+:END:
+
+Palu mirga detha.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h55
+:END:
+
+Milphio, quid nunc ait?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h56
+:END:
+
+Palas vendundas sibi ait et mergas datas,
+ad messim credo, nisi quid tú aliud sapis.
+
+ut hortum fodiat atque ut frumentum metat.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h57
+:END:
+
+Quid istuc ad me?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h58
+:END:
+
+Certiorem te esse volt,
+ne quid clam furtim se accepisse censeas.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h59
+:END:
+
+Mufonnim siccoratim.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h60
+:END:
+
+Hem, cave sis feceris
+quod hic te órat.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h61
+:END:
+
+Quid ait aut quid orat? expedi.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h62
+:END:
+
+Sub cratim ut iubeas se supponi átque eo
+lapides imponi multos, ut sese neces.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h63
+:END:
+
+Gunebbal samem lyryla.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h64
+:END:
+
+Narra, quid est?
+quid ait?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h65
+:END:
+
+Non hercle nunc quidem quicquam scio.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h66
+:END:
+
+At ut scias, nunc dehinc latine iam loquar.
+
+servom hercle te esse oportet et nequam et malum,
+hominem peregrinum atque advenam qui inrideas.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h67
+:END:
+
+At hercle te hominem et sycophantam et subdolum,
+qui huc advenisti nos captatum, migdilix,
+bisulci lingua quasi proserpens bestia.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h68
+:END:
+
+Maledicta hinc aufer, linguam compescas face.
+maledicere huic tu temperabis, si sapis.
+meis cónsanguineis nolo te iniuste loqui.
+Carthagini ego sum gnatus, ut tu sis sciens.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h69
+:END:
+
+O mi popularis, salve.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h70
+:END:
+
+Et tu edepol, quisquis es.
+
+et si quid opus est, quaeso, dic atque impera
+popularitatis causa.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h71
+:END:
+
+Habeo gratiam.
+verum ego hic hospitium hábeo: Antidamae filium
+quaero (commostra si novisti) Agorastoclem.
+sed ecquem ádulescentem tu hic novisti Agorastoclem?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h72
+:END:
+
+Siquidem Ántidamai quaeris ádoptaticium,
+ego sum ipsus quem tu quaeris.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h73
+:END:
+
+Hem, quid ego audio?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h74
+:END:
+
+Antidamae gnatum me esse.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h75
+:END:
+
+Sí itast, tesseram
+conferre si vis hospitalem, eccam attuli.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h76
+:END:
+
+Agedum huc ostende. est par probe, quam habeo domi.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h77
+:END:
+
+O mi hospes, salve multum. nam mihi tuos pater
+patritus † ergo hospes Antidamas fuit.
+haec mi hospitalis tessera cum illo fuit.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h78
+:END:
+
+Ergo hic apud me hospitium tibi praebebitur.
+nam haúd repudio hospitium neque Carthaginem,
+
+unde súm oriundus.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h79
+:END:
+
+Di dent tibi omnes quae velis.
+quid ais? qui potuit fieri, ut Carthagini
+gnatus sis? hic autem habuisti Aetolum patrem.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h80
+:END:
+
+Surruptus sum illinc. hic me Antidama hospes tuos
+emit, et is me sibi adoptavit filium.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h81
+:END:
+
+Demarcho item ipse fuit adoptaticius.
+sed mitto de illoc, ad te redeo. dic mihi,
+ecquid meministi tuom parentum nomina,
+patris atque matris?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h82
+:END:
+
+Memini.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h83
+:END:
+
+Memoradum mihi,
+si novi forte aut si sunt cognati mihi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h84
+:END:
+
+Ampsigura mater mihi fuit, Iahon pater.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h85
+:END:
+
+Patrem atque matrem viverent vellem tibi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h86
+:END:
+
+An mortui sunt?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h87
+:END:
+
+Factum, quod aegre tuli. †
+nam mihi sobrina Ampsigura tua mater fuit;
+pater tuos, is erat frater patruelis meus,
+
+et is me heredem fecit, quom suom obiit diem,
+quo me privatum aégre patior mortuo.
+sed sí ita est, ut tu sis Iahonis filius,
+signum esse oportet in manu laeva tibi,
+ludenti puero quod memordit simia.
+
+ostende, inspiciam.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h88
+:END:
+
+Em ostendo.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h89
+:END:
+
+Aperi. audi atque ades:
+[omitted]
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h36-h90
+:END:
+
+Mi patrue, salve.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h91
+:END:
+
+Ét tu salve, Agorastocles.
+iterum mihi gnatus videor, quom te repperi.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h92
+:END:
+
+Pol istám rem vobis bene evenisse gaudeo.
+
+sed te moneri num nevis?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h93
+:END:
+
+Sane volo.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h94
+:END:
+
+Paterna oportet filio reddi bona.
+aequomst habere hunc bona quae possedit pater.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h95
+:END:
+
+Haud postulo aliter: restituentur omnia;
+suam síbi rem salvam sistam, si illo advenerit.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h96
+:END:
+
+Facito sis reddas, etsi hic habitabit, tamen.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h97
+:END:
+
+Quin mea quoque iste habebit, si quid me fuat.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h98
+:END:
+
+Festivom facinus venit mi in mentem modo.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h99
+:END:
+
+Quid id est?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h100
+:END:
+
+Tua opus est opera.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h101
+:END:
+
+Dic mihi quid lubet:
+profecto uteris, ut voles, operam meam.
+
+quid est negoti?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h102
+:END:
+
+Potin tu fieri subdolus?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h103
+:END:
+
+Inimico possum, amico ínsipientia est.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h104
+:END:
+
+Inimicus hercle est huius.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h105
+:END:
+
+Male faxim lubens.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h106
+:END:
+
+Amat ab lenone hic.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h107
+:END:
+
+Facere sapienter puto.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h108
+:END:
+
+Leno hic habitat vicinus.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h109
+:END:
+
+Male faxim lubens.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h110
+:END:
+
+Ei duae puellae sunt meretrices servolae
+sorores: earum hic alteram efflictim perit,
+neque eam incestavit umquam.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h111
+:END:
+
+Acerba amatiost.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h112
+:END:
+
+Hunc leno ludificatur.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h113
+:END:
+
+Suom quaestum colit.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h114
+:END:
+
+Hic illi malam rem dare volt.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h115
+:END:
+
+Frugist, si id facit.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h116
+:END:
+
+Nunc hoc consilium capio et hanc fabricam apparo,
+ut te allegemus, filias dicas tuas
+surruptasque esse parvolas Carthagine  [omitted]
+manu líberali causa ámbas adseras,
+quasi filiae tuae sint. iamne intellegis?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h117
+:END:
+
+Intellego hercle. nam mihi item gnatae duae
+cum nutrice una sunt surruptae parvolae.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h118
+:END:
+
+Lepide hercle adsimulas. iam in principio id mihi placet.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h119
+:END:
+
+Pol magis quam vellem.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h120
+:END:
+
+Eu hércle mortalem catum,
+[omitted]  malum crudumque, estolidum et subdolum.
+
+ut adflet, quo illud gestu faciat facilius.
+me quoque dolis iam superat architectonem.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h121
+:END:
+
+Sed earum nutrix qua sit facie, mi expedi.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h122
+:END:
+
+Statura hau magna, corpore aquilost.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h123
+:END:
+
+Ipsa east.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h124
+:END:
+
+Specie venusta, óre atque oculis pernigris.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h125
+:END:
+
+Formam quidem hercle verbis depinxti probe.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h126
+:END:
+
+Vin eam videre?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h36-h127
+:END:
+
+Filias malo meas.
+sed i átque evoca illam; sí eae meae sunt filiae,
+si illarum est nutrix, me continuo noverit.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h36-h128
+:END:
+
+Heus, ecquis hic est? nuntiate ut prodeat
+
+foras Gíddeneni. est qui illam conventam esse volt.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 1120
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+** Giddenes
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+Quis pultat?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+Qui te proximust.
+
+** Giddenes
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+Quid vis?
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+Eho,
+novistin tu illunc tunicatum hominem qui siet?
+
+** Giddenes
+:PROPERTIES:
+:CUSTOM_ID: h38-h5
+:END:
+
+Nam quém ego aspicio? pro supreme Iuppiter,
+erus meus hic quidem est, mearum alumnarum pater,
+
+Hanno Carthaginiensis.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h38-h6
+:END:
+
+Ecce autem mala.
+praestrigiator hic quidem Poenus probust,
+perduxit omnis ad suam sententiam.
+
+** Giddenes
+:PROPERTIES:
+:CUSTOM_ID: h38-h7
+:END:
+
+O mí ere, salve, Hánno, insperatissume
+mihi tuisque filiis, salve atque—eho,
+
+mirari noli neque me contemplarier.
+cognoscin Giddenenem áncillam tuam?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h38-h8
+:END:
+
+Novi. sed ubi sunt meae gnatae? id scire expeto.
+
+** Giddenes
+:PROPERTIES:
+:CUSTOM_ID: h38-h9
+:END:
+
+Apud aedem Veneris.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h38-h10
+:END:
+
+Quid ibi faciunt? dic mihi.
+
+** Giddenes
+:PROPERTIES:
+:CUSTOM_ID: h38-h11
+:END:
+
+Aphrodisia hodie Veneris est festus dies:
+
+oratum ierunt deam, ut sibi esset propitia.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h38-h12
+:END:
+
+Pol satis scio, impetrarunt, quando hic hic adest.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h13
+:END:
+
+Eho an huius sunt illae filiae?
+
+** Giddenes
+:PROPERTIES:
+:CUSTOM_ID: h38-h14
+:END:
+
+Ita ut praedicas.
+tua pietas nobis plane aúxilio fuit,
+quom huc advenisti hodie in ipso tempore;
+
+namque hodie earum mutarentur nomina
+facerentque indignum genere quaestum corpore.
+
+** Pver
+:PROPERTIES:
+:CUSTOM_ID: h38-h15
+:END:
+
+Auamma illi.
+
+** Giddenes
+:PROPERTIES:
+:CUSTOM_ID: h38-h16
+:END:
+
+Hauon bane silli in mustine.
+
+** Giddenes
+:PROPERTIES:
+:CUSTOM_ID: h38-h17
+:END:
+
+Mepstaetemes tas dum et alanna cestimim.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h18
+:END:
+
+Quid illí locuti sunt inter se? dic mihi.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h38-h19
+:END:
+
+Matrem hic salutat suam, haec autem hunc filium.
+tace atque parce muliebri supellectili.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h20
+:END:
+
+Quae east supellex?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h38-h21
+:END:
+
+Clarus clamor.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h22
+:END:
+
+Sine modo.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h38-h23
+:END:
+
+Tu abduc hosce intro; et una nutricem simul
+iube hanc abire hinc ad te.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h24
+:END:
+
+Fac quod imperat.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h38-h25
+:END:
+
+Sed quís illas tibi monstrabit?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h26
+:END:
+
+Ego doctissume.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h38-h27
+:END:
+
+Abeo igitur.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h28
+:END:
+
+Facias modo quam memores mavelim.
+patruo advenienti cena curetur volo.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h38-h29
+:END:
+
+Lachanna vos, quos ego iam detrudam ad molas,
+inde pórro ad puteum atque ad robustum codicem.
+
+ego faxo hospitium hoc leniter laudabitis.—
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h30
+:END:
+
+Audin tu, patrue? dico, ne dictum neges:
+tuam míhi maiorem filiam despondeas.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h38-h31
+:END:
+
+Pactam rem habeto.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h32
+:END:
+
+Spondesne igitur?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h38-h33
+:END:
+
+Spondeo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h34
+:END:
+
+Mi patrue, salve. nam nunc es plane meus.
+
+nunc demum ego cum illa fabulabor libere.
+nunc, patrue, si vis tuas videre filias,
+me sequere.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h38-h35
+:END:
+
+Iamdudum equidem cupio, et te sequor.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h36
+:END:
+
+Quid si eámus illis obviam?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h38-h37
+:END:
+
+At ne intervias
+praeterbitamus metuo. magne Iuppiter,
+
+restitue certas mi ex incertis nunc opes.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h38
+:END:
+
+† Ego quidem meos amores mecum confido fore.
+sed eccás video ipsas.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h38-h39
+:END:
+
+Haecine meae sunt filiae?
+quantae e quantillis iam sunt factae.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h40
+:END:
+
+Scin quid est?
+tragicae sunt: in calones sustolli solent.
+
+** Milphio
+:PROPERTIES:
+:CUSTOM_ID: h38-h41
+:END:
+
+Opino hercle hodie, quod ego dixi per iocum,
+id eventurum esse et severum et serium,
+ut haec ínveniantur hodie esse huius filiae.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h38-h42
+:END:
+
+Pol istúc quidem iam certum est. tu istos, Milphio,
+abduce intro. nos hasce hic praestolabimur.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 1174
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+Fuit hódie operae pretiúm cuivis qui amábilitati animum adiceret,
+oculís epulas dare, délubrum qui hodie órnatum eo visére venit.
+deamávi ecastor ílli hodie lepidíssima munera méretricum,
+digná dea venustissimá Venere, neque cóntempsi eius opés hodie.
+
+tanta íbi copia venustátum aderat, in suó quique loco síta munde.
+arás tus, murrinus, ómnis odor complébat. haud sordére visust
+festús dies, Venus, nec tuóm fanum: tantús ibi clientarum érat numerus,
+
+quae ad Cálydoniam venérant Venerem.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h40-h2
+:END:
+
+Certo enim, quod quidem ad nos duas
+attínuit, praepotentés pulchre  pacísque potentes, sóror, fuimus,
+neque ab iúventute inibi inrídiculo  habitaé, quod pol,
+soror, céteris omnibus fáctumst.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h3
+:END:
+
+Malim ístuc aliis vídeatur, quam uti tú te, soror, conlaúdes.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h40-h4
+:END:
+
+Spero équidem.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h5
+:END:
+
+Et pól ego, quom, íngeniis quibus súmus atque aliae, gnósco;
+eo súmus gnatae genere, út deceat nos ésse a culpa cástas.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h6
+:END:
+
+Iuppíter, qui genus colis álisque hominum, per quém vivimus vitálem aevom,
+quem pénes spes vitae súnt hominum omniúm, da diem hunc sospítem quaeso,
+† rebus meis agundis, ut quíbus annos multós carui quasque é patria
+perdidi parvas † redde is libertatem, invictae praemium ut esse sciam pietati.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h7
+:END:
+
+Omnía faciet Iuppíter faxo,  nam mi ést obnoxius ét me metuít.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h8
+:END:
+
+Tace quaeso.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h9
+:END:
+
+Ne lácruma, patrue.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h40-h10
+:END:
+
+Vt vólup est homini, méa soror, si quód agit cluet victória;
+sicút nos hodie intér alias praestítimus pulchritúdine.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h11
+:END:
+
+Stultá, soror, magis es quám volo. an tu éo pulchra videre, óbsecro,
+si tíbi illi non os óblitumst fulígine?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h12
+:END:
+
+O pátrue, o patrue mí.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h13
+:END:
+
+Quid est,
+fratris mei gnate, gnate, quid vis? expedi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h14
+:END:
+
+At enim hóc volo agas.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h15
+:END:
+
+At enim ágo istuc.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h16
+:END:
+
+O pátrue mi patruíssime.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h17
+:END:
+
+Quid est?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h18
+:END:
+
+Ést lepida et lauta. út sapit.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h19
+:END:
+
+Ingénium patris habet quód sapit.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h20
+:END:
+
+Quae rés? iam diu édepol sápientiám tuam  haéc quidem abusast.
+nunc hínc sapit, hinc sentít, quidquid  sapit, éx meo amore.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h21
+:END:
+
+Nón eo genere súmus prognatae, tam étsi sumus servaé, soror,
+ut deceat nos facere quicquam quod homo quisquam inrideat.
+multa mulierum sunt vitia, sed hoc e multis maxumumst,
+quom sibi nimis placent minusque áddunt operam, uti placeant viris.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h40-h22
+:END:
+
+Nimiae voluptatist quod in extis nostris portentumst, soror,
+
+quodque haruspéx de ambabus dixit.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h23
+:END:
+
+Velim de me aliquid dixerit.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h40-h24
+:END:
+
+Nos fore invíto domino nostro diebus paucis liberas.
+id ego nisi quid di aut parentes faxint, qui sperem hau scio.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h25
+:END:
+
+Mea fiducia hercle haruspex, patrue, his promisit, scio,
+libertatem, quia me amare hanc scit.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h26
+:END:
+
+Soror, sequere hac.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h40-h27
+:END:
+
+Sequor.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h28
+:END:
+
+Prius quam abitis, vos volo ambas. nisi piget, consistite.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h29
+:END:
+
+Quis revocat?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h30
+:END:
+
+Qui bene volt vobis facere.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h31
+:END:
+
+Facere occasiost.
+sed quis homost?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h32
+:END:
+
+Amicus vobis.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h33
+:END:
+
+Qui quidem inimicus non siet.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h34
+:END:
+
+Bonus est hic homo, mea voluptas.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h35
+:END:
+
+Pol istum malim quam malum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h36
+:END:
+
+Siquidem amicitiast habenda, cum hoc habendast.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h37
+:END:
+
+Hau precor.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h38
+:END:
+
+Multa bona volt vobis facere.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h39
+:END:
+
+Bonus bonis bene feceris.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h40
+:END:
+
+Gaudio ero vobis.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h41
+:END:
+
+At edepol nos voluptati tibi.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h42
+:END:
+
+Libertatique.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h43
+:END:
+
+Istoc pretio tuas nos facile feceris.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h44
+:END:
+
+Patrue mi, ita me di amabunt, ut ego, si sim Iuppiter,
+iam hercle ego illam uxorem ducam et Iunonem extrudam foras.
+
+ut pudice verba fecit, cogitate et commode,
+ut modeste orationem praebuit.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h45
+:END:
+
+Certo haec meast.
+sed ut astú sum adgressus ad eas.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h46
+:END:
+
+Lepide hercle atque commode.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h47
+:END:
+
+Pergo etiam temptare?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h48
+:END:
+
+In pauca confer: sitiunt qui sedent.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h49
+:END:
+
+Quid istic? quod faciundumst cur non agimus? in ius vos voco.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h50
+:END:
+
+Nunc, pátrue, tu frugí bonae es. tené. vin ego hanc adpréndam?
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h51
+:END:
+
+An patruos est, Agorastocles, tuos hic?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h52
+:END:
+
+Iam faxo scibis.
+nunc pol ego te ulciscar probe, nam faxo—mea eris sponsa.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h53
+:END:
+
+Ite in ius, ne moramini. antestare me atque duce.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h54
+:END:
+
+Ego te antestabor, postea hanc amabo atque amplexabor.
+
+sed illúd quidem volui dícere—immo hercle díxi quod volebam.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h55
+:END:
+
+Moramini. in ius vos voco, nisi honestiust prehendi.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h56
+:END:
+
+Quid in iús vocas nos? quid tibi debemus?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h57
+:END:
+
+Dicet illi.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h58
+:END:
+
+Etiam me meae latrant canes?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h59
+:END:
+
+At tu hercle adludiato:
+dato mihi pro offa savium, pro ósse linguam obicito.
+
+ita hanc canem faciam tibi oleo tranquilliorem.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h60
+:END:
+
+Ite si ítis.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h61
+:END:
+
+Quid nos fecimus tibi?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h62
+:END:
+
+Fures estis ambae.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h63
+:END:
+
+Nosne tíbi?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h64
+:END:
+
+Vos inquam.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h65
+:END:
+
+Atque ego scio.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h66
+:END:
+
+Quid id fúrtist?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h67
+:END:
+
+Hunc rogato.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h68
+:END:
+
+Quia annos multos filias meas célavistis clam me,
+atque equidem ingenuas liberas summoque genere gnatas.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h69
+:END:
+
+Numquam mecastor reperies tu istuc probrum penes nos.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h70
+:END:
+
+Da pignus, ni nunc perieres, in savium, uter utri det.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h71
+:END:
+
+Nil tecum ago, apscede opsecro.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h72
+:END:
+
+Atque hércle mecum agendum est.
+nam hic patruos meus est, pro hoc mihi patronus sim necesse est;
+et praedicabo quo modo vos furta faciatis multa
+
+quoque modo húius filias apud vós habeatis servas,
+quas vos ex patria liberas surruptas esse scitis.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h73
+:END:
+
+Vbi sunt eae? aut quas, opsecro?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h74
+:END:
+
+Satis iám sunt maceratae.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h75
+:END:
+
+Quid si eloquamur?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h76
+:END:
+
+Censeo hercle, patrue.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h77
+:END:
+
+Misera timeo,
+quid hoc sít negoti, mea soror; ita stupida sine animo asto.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h78
+:END:
+
+Advortite animum, mulieres. primum, si id fieri possit,
+ne indigna indignis di darent, id ego evenire vellem;
+nunc quod boni mihi di danunt, vobis vostraeque matri,
+eas dís est aequom gratias nos agere sempiternas,
+quom nostram pietatem adprobant decorantque di immortales.
+
+vos meae estis ambae filiae et hic ést cognatus vester,
+huiusce fratris filius, Agorastocles.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h79
+:END:
+
+Amabo,
+num hi falso oblectant gaudio nos?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h80
+:END:
+
+At ita me di servent,
+ut hic páter est vester. date manus.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h81
+:END:
+
+Salve, insperate nobis
+pater, té complecti nos sine.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h40-h82
+:END:
+
+Cupite atque exspectate
+
+pater, salve.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h83
+:END:
+
+Ambae filiae sumus.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h40-h84
+:END:
+
+Amplectamur ambae.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h85
+:END:
+
+Quis me amplectetur postea?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h86
+:END:
+
+Nunc ego sum fotunatus,
+multorum annorum miserias nunc hac voluptate sedo.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h87
+:END:
+
+Vix hoc videmur credere.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h88
+:END:
+
+Magis quí credatis dicam.
+nam vostra nutrix † primum me cognovit.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h89
+:END:
+
+Vbi ea, amabo, est?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h90
+:END:
+
+Apud hunc est.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h91
+:END:
+
+Quaeso, qui lubet tam diu tenere collum?
+omitte saltem tu altera. nolo ego istuc.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h92
+:END:
+
+Enicas me.
+[omitted]
+prius quám tibi desponderit.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h93
+:END:
+
+Mitto.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h94
+:END:
+
+Sperate, salve.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h95
+:END:
+
+Condamus alter alterum ergo in nervom bracchialem.
+
+quibus núnc in terra melius est?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h96
+:END:
+
+Eveniunt digna dignis.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h97
+:END:
+
+Tandem huic cupitum contigit.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h98
+:END:
+
+O Apella, o Zeuxis pictor,
+cur numero éstis mortui, hoc exemplo ut pingeretis?
+nam alios pictores nil moror huius modi tractare exempla.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h99
+:END:
+
+Dí deaeque omnes, vóbis habeo mérito magnas grátias,
+
+quom hac me laetitia adfecistis tanta et tantis gaudiis,
+ut meae gnátae ad me redirent in potestatem meam.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h40-h100
+:END:
+
+Mi pater, tua pietas plane nobis auxilio fuit.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h101
+:END:
+
+Patrue, facito in memoria habeas, tuam maiorem filiam
+mihi te despondisse.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h40-h102
+:END:
+
+Memini.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h40-h103
+:END:
+
+Et dotis quid promiseris.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 1280
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+Si ego minam non ultus fuero probe, quam lenoni dedi,
+tum profecto me sibi habento scurrae ludificatui.
+is etiam me ad prandium ad se abduxit ignavissimus,
+ipse abiit foras, mé reliquit pro atriensi in aedibus,
+
+ubi nec leno néque illae redeunt, nec quod edim quicquam datur.
+pro maiore parte prandi pignus cepi, abii foras;
+sic dedero: aere militari tetigero lenunculum.
+nanctus est hominem, mina quem argenti circumduceret.
+sed mea amica nunc mihi irato obviam veniat velim:
+
+iam pol ego illam pugnis totam faciam uti sit merulea,
+ita replebo átritate, átrior multo ut siet,
+quam Aegyptini, qui cortinam ludis per circum ferunt.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+Tene sis me arte, mea voluptas; male ego metuo miluos,
+mala illa bestia est, ne forte me auferat pullum tuom.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+Vt nequeo te satis complecti, mi pater.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+Ego me moror.
+propemodúm hoc opsonare prandium potero mihi.
+sed quid hoc ést? quid est? quid hóc est? quid ego video? quo modo?
+quid hoc est conduplicationis? quae haec est congeminatio?
+quis hic homo est cum tunicis longis quasi puer cauponius?
+
+satin ego oculis cerno? estne illaec mea amica Anterastilis?
+et ea est certo. iam pridem ego me sensi nihili pendier.
+non pudet puellam ámplexari baiolum in media via?
+iam hercle ego illum éxcruciandum totum carnufici dabo.
+sane genus hoc mulierosumst tunicis demissiciis.
+
+sed adire certum est hanc amatricem Africam.
+heus tu, tibi dico, mulier, ecquid te pudet?
+quid tibi negoti est autem cum istac? dic mihi.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+Adulescens, salve.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+Nolo, nihil ad te attinet.
+quid tibi hanc digito tactio est?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h42-h7
+:END:
+
+Quia mihi lubet.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h42-h8
+:END:
+
+Lubet?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h42-h9
+:END:
+
+Ita dico.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h42-h10
+:END:
+
+Ligula, i in malam crucem.
+tune hic amator audes esse, hallex viri,
+aut contrectare quod mares homines amant?
+deglupta mena, sarrapis, sementium,
+manstruca, halagora, sampsa, tum autem plenior
+
+ali ulpicique quam Romani remiges.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h42-h11
+:END:
+
+Num tibi, adulescens, malae aut dentes pruriunt,
+qui huic es molestus, an malam rem quaeritas?
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h42-h12
+:END:
+
+Quin adhibuisti, dum istaec loquere, tympanum?
+nam te cinaedum esse arbitror magis quam virum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h42-h13
+:END:
+
+Scin quam cinaedus sum? ite istinc, servi, foras,
+ecferte fustis.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h42-h14
+:END:
+
+Heus tu, si quid per iocum
+dixi, nolito in serium convertere.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h42-h15
+:END:
+
+Qui tibi lubido est, opsecro, Antamonides,
+loqui inclementer nostro cognato et patri?
+
+nam hic noster pater est; hic nos cognovit modo
+et hunc sui fratris filium.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h42-h16
+:END:
+
+Ita me Iuppiter
+bene amet, bene factum. gaudeo et volup est mihi,
+si quid lenoni óptigit magni mali.
+quomque e virtute vobis fortuna optigit.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h42-h17
+:END:
+
+Credibile ecastor dicit. crede huic, mi pater.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h42-h18
+:END:
+
+Credo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h42-h19
+:END:
+
+Et ego credo. sed eccum lenonem Lycum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h42-h20
+:END:
+
+Bonum virum eccum video, se recipit domum;
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h42-h21
+:END:
+
+Quis hic est?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h42-h22
+:END:
+
+Vtrumvis est, vel leno vel Lycus.
+in servitute hic filias habuit tuas
+
+et mi auri fur est.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h42-h23
+:END:
+
+Bellum hominem, quem noveris.
+rapiamus in ius.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h42-h24
+:END:
+
+Minime.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h42-h25
+:END:
+
+Quapropter?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h42-h26
+:END:
+
+Quia
+†iniuriarum multo induci satius est.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 1338
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h1
+:END:
+
+Decipitur nemo, mea quidem sententia,
+qui suis amicis narrat recte res suas;
+nam omnibus amicis meis idem unum convenit,
+ut me suspendam, ne addicar Agorastocli.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h44-h2
+:END:
+
+Leno, eamus in ius.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h3
+:END:
+
+Opsecro te, Agorastocles,
+suspendere ut me liceat.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h44-h4
+:END:
+
+In ius te voco.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h5
+:END:
+
+Quid tibi mecum autem?
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h44-h6
+:END:
+
+Quia hasce aio liberas
+ingenuasque esse filias ambas meas;
+eae súnt surruptae cum nutrice parvolae.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h7
+:END:
+
+Iam pridem equidem istuc scivi, et miratus fui,
+neminem venire qui istas adsereret manu.
+meae quidem profecto non sunt.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h44-h8
+:END:
+
+Leno, in ius eas.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h9
+:END:
+
+De prandio tu dicis. debetur, dabo.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h44-h10
+:END:
+
+Duplum pro furto mi opus est.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h11
+:END:
+
+Sume hinc quid lubet.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h44-h12
+:END:
+
+Et mihi suppliciis multis.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h13
+:END:
+
+Sume hinc quid lubet:
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h44-h14
+:END:
+
+Et mihi quidem mina argenti.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h15
+:END:
+
+Sume hinc quid lubet.
+collo rem solvam iam omnibus, quasi baiolus.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h44-h16
+:END:
+
+Numquid recusas contra me?
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h17
+:END:
+
+Haud verbum quidem.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h44-h18
+:END:
+
+Ite igitur intro, mulieres. sed patrue mi,
+
+tuam, ut dixisti, mihi desponde filiam.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h44-h19
+:END:
+
+Haud aliter ausim.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h44-h20
+:END:
+
+Bene vale.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h44-h21
+:END:
+
+Et tu bene vale.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h44-h22
+:END:
+
+Leno, arrabonem hoc pro mina mecum fero.—
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h23
+:END:
+
+Perii hercle.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h44-h24
+:END:
+
+Immo haud multo post, si in ius veneris.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h25
+:END:
+
+Quin egomet tibi me addico. quid praetore opust?
+
+verum obsecro te, ut liceat simplum solvere,
+trecentos Philippos; credo conradi potest:
+cras auctionem faciam.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h44-h26
+:END:
+
+Tantisper quidem
+ut sis apud me lignea in custodia.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h27
+:END:
+
+Fiat.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h44-h28
+:END:
+
+Sequere intro, patrue mi, út hunc festum diem
+
+habeamus hilare, huius malo et nostro bono.
+multum valete. multa verba fecimus;
+malum postremo omne ad lenonem reccidit.
+nunc, quod postremum est condimentum fabulae,
+si placuit, plausum postulat comoedia.—
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+* 1372
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h46-h1
+:END:
+
+Quam rém agis, miles? qui lubet patruo meo
+loqui inclementer? ne mirere, mulieres
+quod eum secuntur: modo cognovit filias
+suas ésse hasce ambas.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h2
+:END:
+
+Hem, quod verbum aures meas
+
+tetigit? nunc perii.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h46-h3
+:END:
+
+Vnde haec perierunt domo?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h46-h4
+:END:
+
+Carthaginienses sunt.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h5
+:END:
+
+At ego sum perditus.
+illuc ego metui semper, ne cognosceret
+eas áliquis, quod nunc factumst. vae misero mihi,
+periere, opinor, duodeviginti minae,
+
+qui hasce emi.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h46-h6
+:END:
+
+Et tute ipse periisti, Lyce.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h46-h7
+:END:
+
+Quis hic est?
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h46-h8
+:END:
+
+Vtrumvis est, vel leno vel Lycus.
+in servitute hic filias habuit tuas,
+et mi auri fur est.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h46-h9
+:END:
+
+Bellum hominem, quem noveris.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h46-h10
+:END:
+
+Leno, rapacem te esse semper credidi,
+
+verúm etiam furacem qui norunt magis.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h11
+:END:
+
+Accedam. per ego tua te genua óbsecro
+et hunc, cognatum quem tuom esse intellego:
+quando boni estis, ut bonos facere addecet
+faciatis, vestro subveniatis supplici.
+
+iam pridem equidem istas scivi ésse liberas
+et exspectabam, si qui eas ássereret manu.
+nam non meae sunt prosum. tum autem aurum tuom
+reddam, quod apud me est, et iusiurandum dabo,
+me malitiose nil fecisse, Agorastocles.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h46-h12
+:END:
+
+Quid mihi par facere sit, ego mecum consulam.
+omitte genua.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h13
+:END:
+
+Mitto, si ita sententia est.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h46-h14
+:END:
+
+Heús tu leno.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h15
+:END:
+
+Quid lenonem vis inter negotium?
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h46-h16
+:END:
+
+Vt minam mi argenti reddas, prius quam in nervom abducere.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h17
+:END:
+
+Di meliora faxint.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h46-h18
+:END:
+
+Sic est: hodie cenabis toris.
+
+aurum argentum collum, leno, tris res nunc debes simul.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h46-h19
+:END:
+
+Quid me in hac re facere deceat, egomet mecum cogito.
+si volo hunc ulcisci, litis sequar in alieno oppido,
+quantum audivi ingenium et mores eius quo pacto sient.
+
+** Adelphasivm
+:PROPERTIES:
+:CUSTOM_ID: h46-h20
+:END:
+
+Mi pater, ne quid tibi cum istoc rei sit pessumo, obsecro.
+
+** Anterastilis
+:PROPERTIES:
+:CUSTOM_ID: h46-h21
+:END:
+
+Ausculta sorori. abi, díiunge inimicitias cum improbo.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h46-h22
+:END:
+
+Hoc age sis, leno. quamquam ego te meruisse ut pereas scio,
+non experiar tecum.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h46-h23
+:END:
+
+Neque ego; si aurum mihi reddes meum,
+leno, quando ex nervo emissu's emissus es   — compingare in carcerem.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h24
+:END:
+
+Iamne autem ut soles?
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h46-h25
+:END:
+
+Ego, Poene, tibi me purgatum volo.
+
+si quid dixi iratus advorsum animi tui sententiam,
+id uti ignoscas quaeso; et quom istas invenisti filias,
+ita me di ament ut mihi volup est.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h46-h26
+:END:
+
+Ignosco et credo tibi.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h46-h27
+:END:
+
+Leno, tu autem amicam mihi des facito aut auri mihi reddas minam.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h28
+:END:
+
+Vin tibicinam meam habere?
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h46-h29
+:END:
+
+Nil moror tibicinam;
+
+nescias, utrum ei maiores buccaene an mammae sient.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h30
+:END:
+
+Dabo quae placeat.
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h46-h31
+:END:
+
+Cura.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h32
+:END:
+
+Aúrum cras ad te referam tuom.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h46-h33
+:END:
+
+Facito in memoria habeas.
+
+** Lycvs
+:PROPERTIES:
+:CUSTOM_ID: h46-h34
+:END:
+
+Miles, sequere me.—
+
+** Antamonides
+:PROPERTIES:
+:CUSTOM_ID: h46-h35
+:END:
+
+Ego vero sequor.—
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h46-h36
+:END:
+
+Quid ais, patrue? quando hinc ire cogitas Carthaginem?
+nam tecum mi una ire certum est.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h46-h37
+:END:
+
+Vbi primum potero, ilico.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h46-h38
+:END:
+
+Dum auctionem facio, hic opus est aliquot ut maneas dies.
+
+** Hanno
+:PROPERTIES:
+:CUSTOM_ID: h46-h39
+:END:
+
+Faciam ita ut vis.
+
+** Agorastocles
+:PROPERTIES:
+:CUSTOM_ID: h46-h40
+:END:
+
+Age sis, eamus, nos curemus. plaudite.

@@ -1,0 +1,20 @@
+#+TITLE: Hymn 17 To the Dioscuri
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-17-to-the-dioscuri--anonymous
+
+#+BEGIN_QUOTE
+Hymn 17 To the Dioscuri translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Sing, clear-voiced Muse, of Castor and Polydeuces, the Tyndaridae, who sprang from
+Olympian Zeus. Beneath the heights of Taygetus stately Leda bare them, when the dark-clouded
+Son of Cronos had privily bent her to his will.
+Hail, children of Tyndareus, riders upon swift horses!

@@ -1,0 +1,18 @@
+#+TITLE: Sinaitam, Contra monophysitas)
+#+AUTHOR: Ὀλυμπιόδωρος Διάκονος Ἀλεξανδρείας
+#+FILETAGS: :byzantine:6c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/contra-severum-antiochenum--olympiodorus-of-alexandria
+#+LANGUAGE: el
+
+* Sinaitam, Contra monophysitas)
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+=89.1189= Ὀλυμπιοδώρου τοῦ μεγάλου φιλοσόφου διακόνου Ἀλεξανδρείας, ἐκ τοῦ
+δευτέρου λόγου τοῦ κατὰ Σεβήρου, ἐν ᾧ παραγαγὼν τὴν χρῆσιν τοῦ ἁγίου
+Ἀθανασίου τὴν λέγουσαν τὰ δύο θελήματα ἐπὶ Χριστοῦ, οὕτω πως διεξέρχεται
+λέγων·

@@ -1,0 +1,35 @@
+#+TITLE: Ab Urbe Condita, books 8-10 - 20s
+#+AUTHOR: Titus Livius (Livy)
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/ab-urbe-condita-books-8-10-20s--titus-livius-livy
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Ab Urbe Condita, books 8-10 - 20s edited by Benjamin Oliver Foster, Ph.D.
+#+END_QUOTE
+
+* 20s
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+FALISCI cum rebellassent, sexto die perdomiti in deditionem venerunt.
+Spoletium colonia deducta est. adversus Liguras tune
+primum exercitus promotus est. sardi et Corsi cum rebellassent,
+subacti sunt. tuccia ,  virgo Vestalis, incesti damnata est. bellum Illyriis propter
+unum ex legatis qui ad eos missi erant occisum indictum est, subactique in
+deditionem venerunt. praetorum numerus ampliatus est, ut essent IIII.
+Galli transalpini qui in Italiam inruperant caesi sunt. eo bello
+populum  R. sui Latinique nominis DCCC
+armatorum
+habuisse dicit Exercitibus Romanis tune primum trans Padum ductis Galli
+Insubres aliquot proeliis fusi in deditionem venerunt. M. Claudius Marcellus
+cos. occiso Gallorum Insubrium duce, Vertomaro,  opima spolia rettulit. Histri subacti sunt.
+iterum Illyri cum rebellassent, domiti in deditionem venerunt.
+lustrum a censoribus ter  conditum est. primo lustro censa sunt civium capita CCLXX ccxii**. Libertini in quattuor tribus redacti
+sunt, cum antea dispersi per omnes fuissent, Esquilinam Palatinam Suburanam
+Collinam. C. Flaminius censor viam Flaminius muniit  et circum Flaminium exstruxit. coloniae deductae sunt in agro
+de Gallis  capto Placentia et Cremona.

@@ -1,0 +1,6883 @@
+#+TITLE: Phormio
+#+AUTHOR: Publius Terentius Afer (Terence)
+#+FILETAGS: :classical:2c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/phormio-or-the-scheming-parasite--publius-terentius-afer-terence
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Phormio edited by Edward St. John Parry
+#+END_QUOTE
+
+* front
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+ANTIPHO, adolescens, filius Demiphonis.
+CHREMIES, senex, frater Demiphonis.
+CRATINUS,advocati.
+CRITO,advocati.
+HEGIO,advocati.
+DAVUS,servus.
+DEMIPHO, senex, frater Chremetis.
+DORIO,leno.
+GETA, servus Demiphonis.
+NAUSISTRATA, matrona, uxor Chremetis.
+PHAEDRIA, adolescens, filius Chremetis.
+PHORMIO,parasitus.
+SOPHRONA, nutrix Phanii.
+
+INTRODUCTION.
+In this play we have two brothers, Demipho and Chremes. Chremes had married a lady of property, named Nausistrata, whose estates lay in the island of Lemnos, and by whom he had a son called Phaedria. Once a year Chremes used to go to Lemnos to collect his rents, and used to stay there on each occasion rather longer than was necessary, while the rents which he brought home to his wife were less than in former times when the prices of farm produce was not so high as at this time (compare v. 8. 23, 24, and v. 3. 4—8), which appeared unaccountable to his wife, who did not however suspect him of any thing beyond carelessness and indolence in the management of her business. But it had happened that about fifteen years before the events of this play he had fallen in love with a Lemnian woman, by whom he had a daughter called Phanium. So for fifteen years he had two wives and two establishments, with perfect secrecy, for at Lemnos he went by the name of Stilpho; while he put off his wife’s complaints about the short rents by excuses of bad times, ill health, and so on. His brother Demipho had a son named Antipho, and they had agreed that Chremes should now go to Lemnos, and bring over his wife and daughter, and that the cousins should be married at once, Phanium passing for the daughter of a friend. With this object Chremes now makes his yearly visit to Lemnos; and Demipho at the same time goes to Cilicia, where he expects to find a large fortune; while their two sons, Antipho and Phaedria, are left under the charge of Geta, an old family servant of Demipho’s, who acted as their paedagogue. At first Geta endeavoured to discharge his duty to his master faithfully; but finding that this conduct got him nothing but abuse, he altered his line, and gave his two pupils every indulgence they demanded. This soon produced the results which might have been anticipated.
+
+Phaedria fell madly in love with a music girl, whom he diligently escorted every day to and from the school where she used to go for her finishing lessons; but his case was desperate, for he had not a farthing, and she could not be got from Dorio, the /leno,/ without hard cash. Nor was it long before Antipho got into a similar scrape, which had a very different end, but one quite as embarrassing to him. For when Chremes reached Lemnos he found that his birds had flown. Phanium and her mother, tired of waiting for him, now that Phanium was grown up, had started for Athens in search of him, with their nurse Sophrona. They inquire every where for Stilpho, but no such person is to be heard of, and they are reduced to great distress, in consequence of which the mother dies soon after their arrival. By a singular chance Antipho happens at this moment to see Phanium, as she is lamenting the death of her mother, and falls desperately in love with her at first sight. He goes to Sophrona, who will not consent to allow any acquaintance but on condition of marriage; and Antipho will sacrifice himself to a girl without a penny rather than lose her altogether. But how is the marriage to be brought about without exposing Antipho to his father’s most severe censure? It is managed in the following way. Phormio, a parasite, who seems to have been under considerable obligations to these young men in the way of good living (see ii. 2. 22), gives him this advice. There is an Athenian law, that orphans should be taken in marriage or portioned out by their nearest relation. He will pretend to be Phanium’s guardian, and will bring an action against Antipho, as her nearest relation, and as Antipho has no money he will of course be obliged to marry her. So Demipho will not be able to say a word. The plan succeeds to admiration. Phormio gains his suit, and Antipho immediately marries Phanium. He is devoted to his wife, but lives in continual dread of his father’s return; and is quite as wretched in consequence of his success as Phaedria is because his case is hopeless.
+
+At this point (Act i. Sc. 4) the action of the play commences. Demipho comes back from Cilicia, and immediately hears the unwelcome news that his son has married a pauper; and he at once attacks Geta, Antipho having made a hasty retreat, who defends himself as best he can, and begins the second plot which they have in hand for obtaining money for Phaedria, who is now driven to the last extremity; for Dorio has given him notice that if thirty minae are not forthcoming by the next day, Pamphila, the music girl, will be sold. Geta pretends therefore that Phormio will be very glad to take Phanium off their hands if they will make it worth his while to do so; for he has certain debts, and is already under an engagement to marry a lady who will bring him a sufficient portion to enable him to clear them off. He must therefore have thirty minae, and he will settle the matter for them. After some trouble the affair is arranged. Phormio receives the money, and at once carries it off to Phaedria, who purchases his Pamphila at once, and is made supremely happy; while poor Antipho is more wretched than ever, and accuses Geta of blundering stupidity in thus arranging to get rid of his wife for him. Chremes, meanwhile, has returned from Lemnos, and is in great perplexity about his wife and daughter. He is as anxious as Demipho can be to get rid of this wife of Antipho’s, and does his best to persuade his brother to arrange matters with Phormio. After this affair is settled he goes to make inquiries for his family from Lemnos, when he falls in with Sophrona, and finds to his unbounded astonishment that this wife of Antipho, whom they have been so anxious to get rid of, is no other than his own daughter Phanium. This discovery is imparted to Demipho after an amusing scene of hints rendered necessary by the presence of Nausistrata (Act v. Sc. 3); and the two old men are now as anxious to be off their bargain with Phormio as they were to make it, and above all to get back the thirty minae which the parasite had taken as Phanium’s portion. But they do not find it very easy to manage their scheme. Phormio is ready enough to give up Phanium, but has no intention of parting with the money; and when the old men attempt by fair means or foul to get it back, Chremes discovers to his horror that Phormio has discovered the secret of Phanium’s parentage, which Geta had overheard when Chremes first recognized his daughter in Demipho’s house. The result of all is that Phormio tells the whole story to Nausistrata. Chremes is utterly confounded, and is quite unable to blame his son for his amour with the music girl, when Phaedria describes to Nausistrata the purpose for which the thirty minae were obtained. The play ends with a conditional forgiveness of Chremes, and an invitation to supper for Phormio.
+In the character of Phormio Terence copied from an original, in which the standing idea of the parasite was strictly observed. See notes on Act ii. Scene 2. We have seen a very different idea, though with the same fondness for good living, worked out in the Eunuchus. See the Introduction to that play. Phormio is, however, a very capital specimen of his class, and shows far more readiness and amiability than most of the tribe. It is not unworthy of remark that this play is said by some to have been acted four times in one year. At all events, this and the Eunuchus, the two most spirited of Terence’s plays, came on the stage within six months.
+
+PHORMIO.  ACTA LUDIS ROMANIS, L. POSTUMIO ALBINO, L. CORNELIO MERULA, AEDILIBUS CURULIBUS. EGERE L. AMBIVIUS TURPIO, L. ATILIUS PRAENEST1NUS. MODOS FECIT FLACCUS CLAUDII, TIBIIS IMPARIBUS. TOTA GRAECA APOLLODORU EPIDICAZOMENOS. FACTA EST IV. C. FANNIO, M. VALERIO, COSS.
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+* PROLOGUS
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+POSTQUAM poeta vetus poetam non potest
+Retrahere ab studio, et transdere hominem in otium,
+Maledictis deterrere ne scribat parat;
+Qui ita dictitat, quas antehae fecit fabulas
+
+Tenui esse oratione et scriptura levi;
+Quia nusquam insanum scripsit adolescentulum
+Cervam videre fugere, et sectari canes,
+Et eam plorare, orare ut subveniat sibi.
+Quod si intelligeret, olim quum stetit nova,
+
+Actoris opera magis stetisse quam sua,
+Minus multo audacter quam nunc laedit laederet.
+Nunc si quis est qui hoc dicat, aut sic cogitet;
+Vetus si poeta non lacessisset prior,
+Nullum invenire prologum potuisset novus
+
+Quem diceret, nisi haberet cui malediceret;
+Is sibi responsum hoc habeat; in medio omnibus
+Palmam esse positam qui artem tractant musicam.
+Ille ad famem hunc ab studio studuit reicere:
+Hic respondere voluit, non lacessere.
+
+Benedictis si certasset, audisset bene.
+Quod ab ipso allatum est, sibi esse id rellatum putet.
+De illo iam finem faciam dicendi mihi,
+Peccandi quum ipse de se finem non facit:
+Nunc quid velim animum attendite. Apporto novam
+
+Epidicazomenon qnam vocant comoediam
+Graeci, Latini Phormionem nominant;
+Quia, primas partes qui aget, is erit Phormio
+Parasitus, per quem res agetur maxime,
+Voluntas vestra si ad poetam accesserit.
+
+Date operam: adeste aequo animo per silentiumr;
+Ne simili utamur fortuna atque usi sumus
+Quum per tumultum noster grex motus loco est;
+Quem actoris virtus nobis restituit locum,
+Bonitasque vestra adiutans atque aequanimitas.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+(DAVUS.)
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+Amicus summus meus et popularis Geta
+Heri ad me venit. Erat ei de ratiuncula
+Iampridem apud me reliquum pauxillulum
+Nummorum; id ut conficerem. Confeci: affero.
+
+Nam herilem filium eius duxisse audio
+Uxorem: ei, credo, munus hoc corraditur.
+Quam inique comparatum est hi qui minus habent
+Ut semiper aliquid addant divitioribus.
+Quod ille unciatim vix de demenso suo,
+
+Suum defrudans genium, comparsit miser,
+Id illa universum abripiet, haud existimans
+Quanto labore partum. Porro autem Geta
+Ferietur alio munere, ubi hera pepererit;
+Porro autem alio, ubi erit puero natalis dies;
+
+Ubi initiabunt. Omne hoc mater auferet:
+Puer causa erit mittendi. Sed videon Getam?
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+(GETA. DAVUS.)
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+Si quis me quaeret rufus—
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+Praesto est; desine.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+Oh!
+At ego obviam conabar tibi, Dave.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+Accipe, hem,
+Lectum est: conveniet numerus quantum debui.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+Amo te, et non neglexisse habeo gratiam.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+Praesertim ut nunc sunt mores. Adeo res redit;
+Si quis quid reddit, magna habenda est gratia.
+Sed quid tu es tristis?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+Egone? neseis quo in metu et
+Quanto in periclo simus?
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+Quid istuc est?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+Scies,
+Modo ut tacere possis.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+Abi sis, insciens.
+
+Cuius tu fidem in pecunia perspexeris,
+Verere verba ei credere? ubi quid mihi lucri est
+Te fallere?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+Ergo ausculta.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+Hanc operam tibi dico.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+Senis nostri, Dave, fratrem maiorem Chremem
+Nostine?
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+Quidni?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+Quid? eius gnatum Phaedriam?
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+Tamquam te.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+Evenit senibus ainbobus simul,
+Iter illi in Lelmnum ut esset, nostro in Ciliciam
+Ad hospitem antiquum: is senem per epistolas
+Pellexit, modo non montes auri pollicens.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+Cui tanta erat res, et supererat?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+Desinas:
+
+Sic est ingeniun.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+Oh, regem me esse oportuit.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+Abeuntes ambo hic tum senes, me filiis
+Relinquunt quasi magistrum.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+O Geta, provinciam
+Cepisti duram.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+Mihi usus venit, hoc scio:
+Memini relinqui me Deo irato meo.
+
+Coepi adversari primo. Quid verbis opus est?
+Seni fidelis dum sum, scapulas perdidi.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+Venere in mentem mili istaec; /Namque inscitia est,/
+/Adversum stimulum calces?/
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+Coepi iis omnia
+Facere, obsequi quae vellent.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+Scisti uti foro.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+Noster mali nihil quicquam primo. Hic Phaedria
+Continuo quandam nactus est puellulam
+Citharistriam: hanc amare coepit perdite.
+Ea serviebat lenoni impurissimo;
+Neque quod daretur quicquam: id curarant patres.
+
+Restabat aliud nihil nisi oculos pascere,
+Sectari, in ludum ducere, et reducere.
+Nos otiosi operam dabamus Phaedriae.
+In quo haec discebat ludo, exadversum ei loco
+Tonstrina erat quaedam. Hic solebamus fere
+
+Plerumque eam opperiri dum inde iret domum.
+Interea, dum sedemus illi, intervenit
+Adolescens quidam lacrimans. Nos mirarier.
+Rogamus quid sit? /Nunquam aeque,/ inquit, /ac modo/
+/Paupertas mihi onus visum est et miserum et grave./
+
+/Modo quandam vidi virginem hic viciniae/
+/Miseram suam matrem lamentari mortuam./
+/Ea sita erat exadversum: neque illi benevolens/
+/Neque notus neque cognatus extra unam aniculam/
+/Quisquam aderat qui aciutaret funus. Miseritum est./
+
+/Virgo ipsa facie egregia./ Quid verbis opus est?
+Commorat omnes nos. Ibi continuo Antipho,
+/Vultisne eamus visere?/ alius, /Censco;/
+/Eamus: due nos, sodes./ Imus; venimus;
+Videmus. Virgo pulchra; et quo imagis diceres,
+
+Nihil aderat adiumenti ad pulchritudinem.
+Capillus passus, nudus pes, ipsa horrida,
+Lacrimae, vestitus turpis; ut, ni vis boni
+In ipsa inesset forma, haec formam extinguerent.
+Ille qui illam amabat fidicinam tantummodo,
+
+/Satis,/ inquit, /scita est:/ noster vero—
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+Iam scio:
+Amare coepit.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+Scin quam? Quo evadat vide.
+Postridie ad anum recta pergit: obsecrat
+Sibi ut eius faciat copiam. Illa enim se negat;
+Neque eum aequum facere ait: illam civem esse Atticam,
+
+Bonam, bonis prognatam: si uxorem velit,
+Lege id licere facere; sin aliter, negat.
+Noster quid ageret nescire; et illam ducere
+Cupiebat, et metuebat absentem patrem.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+Non, si redisset, ei pater veniam daret?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+Ille indotatam virginem atque ignobilem
+Daret illi? Nunquam faceret.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+Quid fit denique?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+Quid fiat? Est parasitus quidam Phormio,
+Homo confidens; qui illum Di omnes perduint.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+Quid is fecit?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+Hoc consilium quod dicam dedit.
+
+/Lex est, ut orbae qui sunt genere proximi/
+/Eis nubant; et illos ducere eadem haec lex iubet./
+/Ego te cognatum dicam, et tibi scribam dicam:/
+/Paternum amicum me assimulabo virginis:/
+/Ad iudices veniemus. Qui fuerit pater,/
+
+/Quae mater, qui cognata tibi sit, omnia haec/
+/Confingam, quod erit mihi bonum atque commodum./
+/Quum tu horum nihil refelles, vincam scilicet./
+/Pater aderit: mihi paratae lites: quid mea?/
+/Illa quidem nostra erit./
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+Iocularem audaciam!
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+Persuasum est homini; factum est; ventum est; vincimur:
+Duxit.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+Quid narras?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+Hoc quod audis.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+O Geta,
+Quid te futurum est?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+Nescio hercle: unum hoc scio;
+Quod fors feret feremus aequo animo.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+Placet.
+Hem, istuc viri est officium.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+In me omnis spes mihi est.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+Laudo.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+Ad precatorem adeam credo, qui mihi
+Sic oret; /Nunc amitte, quaeso, hunc: caeterum/
+/Posthac, si quicquam, nihil precor;/ tantummodo
+Non addat: /Ubi ego hinc abiero, vel occidito./
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+Quid paedagogus ille, qui citharistriam?
+
+Quid rei gerit?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+
+Sic tenuiter.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h56
+:END:
+
+Non multum habet
+Quod det fortasse.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h57
+:END:
+
+Immo nihil nisi spem meram.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h58
+:END:
+
+Pater eius rediit an non.?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h59
+:END:
+
+Nondum.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h60
+:END:
+
+Quid? senem
+Quoad exspectatis vestrum?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h61
+:END:
+
+Non certum scio;
+Sed epistolam ab eo allatam esse audivi modo,
+
+Et ad portitores esse delatam: hanc petam.
+
+* DAVUS
+:PROPERTIES:
+:CUSTOM_ID: h62
+:END:
+
+Numnquid, Geta, aliud me vis?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h63
+:END:
+
+Ut bene sit tibi.
+Puer, hens. Nemone huc prodit? Cape, da hoc Dorcio.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h64
+:END:
+
+(ANTIPHO. PHAEDRIA.)
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h65
+:END:
+
+Adeon rem redisse ut qui mihi consultum optime velit esse,
+Phaedria, patrem ut extimescam, ubi in mentem eius adventi venit?
+Quod ni fuissem incogitans, ita eum exspectarem ut par fuit.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h66
+:END:
+
+Quid istuc est?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h67
+:END:
+
+Rogitas, qui tam audacis facinoris mihi conscius sis?
+
+Quod utinam ne Phormioni id suadere in mentem incidisset,
+Neu me cupidum eo impulisset, quod mihi principium est mali.
+Non potitus essem: fuisset tum illos mihi aegre aliquot dies:
+At non quotidiana cura haec angeret animum.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h68
+:END:
+
+Audio.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h69
+:END:
+
+Dum exspecto quam mox veniat qui adimat hanc mihi consuetudinem.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h70
+:END:
+
+Aliis quia defit quod amant aegre est: tibi quia superest dolet.
+Amore abundas, Antipho.
+Nam tua quidem hercle certo vita haec expetenda optandaque est.
+Ita me Di bene ament ut mihi liceat tam diu quod amo frui;
+Iam depecisci morte cupio: tu coniicito caetera;
+
+Quid ego ex hac inopia nunc capiam, et quid tu ex hac copia;
+Ut ne addam quod sine sumtu ingenuam liberalem nactus es;
+Quod habes, ita ut voluisti, uxorem sine mala fama palam;
+Beatus ni unum hoc desit, animus qui modeste istaec ferat.
+Et si tibi res sit cum eo lenone quocum mihi est, tum sentias.
+
+Ita plerique ingenio sumus omnes: nostri nosmet poenitet.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h71
+:END:
+
+At tu mihi contra nunc videre fortunatus, Phaedria,
+Cui de integro est potestas etiam consulendi quid velis;
+Retinere, amare, amittere. Ego in eumn incidi infelix locum
+Ut neque mihi eius sit amittendi nec retinendi copia.
+
+Sed quid hoc est? videone ego Getam currentem huc advenire?
+Is est ipsus: hei timeo miser quam hic nunc mihi nuntiet rem.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h72
+:END:
+
+(GETA. ANTIPHO. PHAEDRIA.)
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h73
+:END:
+
+Nullus es, Geta, nisi iam aliquod tibi consilium celere repperis:
+Ita nunc imparatum subito tanta te impendent mala,
+Quae neque uti devitem scio, neque quo modo me inde extraham:
+
+Nam non potest celari nostra diutius iam audacia.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h74
+:END:
+
+Quidnam ille commotus venit?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h75
+:END:
+
+Tum temporis mihi punctum ad hanc rem est. Herus adest.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h76
+:END:
+
+Quid istuc mali est?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h77
+:END:
+
+Quod quum audierit, quod eius remedium inveniann iracundiae?
+Loquarne? incendam: taceam? instigem: purgem me? laterem lavem.
+Eheu me miserum: quum mihi paveo, tum Antipho me excruciat animi:
+
+Eius me miseret: ei nunc timeo: is nunc me retinet; nam absque eo esset,
+Recte ego mihi vidissem, et senis essem ultus iracundiam:
+Aliquid convasassem, atque hinc me protinam coniicerm in pedes.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h78
+:END:
+
+Quam hic fugam aut furtum parat?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h79
+:END:
+
+Sed ubi Antiphonem reperiam? aut qua quaerere insistam via?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h80
+:END:
+
+Te nominat.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h81
+:END:
+
+Nescio quod magnum hoc nuntio exspecto malum.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h82
+:END:
+
+Ah, sanusne es?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h83
+:END:
+
+Domum ire pergam: ibi plurimum est.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h84
+:END:
+
+Revocemus hominem.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h85
+:END:
+
+Sta ilico.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h86
+:END:
+
+Hem,
+Satis pro imperio, quisquis es.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h87
+:END:
+
+Geta.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h88
+:END:
+
+Ipse est quem volui obviam.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h89
+:END:
+
+Cedo quid portas, obsecro? atque id, si potes, verbo expedi.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h90
+:END:
+
+Faciam.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h91
+:END:
+
+Eloquere.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h92
+:END:
+
+Modo apud portum—
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h93
+:END:
+
+Meumne?—
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h94
+:END:
+
+Intellexti.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h95
+:END:
+
+Occidi.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h96
+:END:
+
+Hem.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h97
+:END:
+
+Quid agam?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h98
+:END:
+
+Quid ais?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h99
+:END:
+
+Huius patrem vidisse me, patruum tuum.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h100
+:END:
+
+Nam quod ego huic nunc subito exitio remedium inveniam miser?
+Quod si eo meae fortunae redeunt, Phanium, abs te ut distrahar,
+Nulla est mihi vita expetenda.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h101
+:END:
+
+Ergo istaec quum ita sint, Antipho,
+
+Tanto magis te advigilare aequum est. Fortes fortuna adiuvat.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h102
+:END:
+
+Non sum apud me.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h103
+:END:
+
+Atqui opus est nunc quummaxime ut sis, Antipho;
+Nam si senserit te timidum pater esse, arbitrabitur
+Commeruisse culpam.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h104
+:END:
+
+Hoc verum est.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h105
+:END:
+
+Non possum immutarier.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h106
+:END:
+
+Quid faceres, si gravius aliud tibi nunc faciendum foret?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h107
+:END:
+
+Quum hoc non possum, illud minus possem.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h108
+:END:
+
+Hoc nihil est, Phaedria: ilicet.
+Quid hic conterimus operam frustra? Quin abeo?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h109
+:END:
+
+Et quidem ego.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h110
+:END:
+
+Obsecro:
+Quid si assimulo? satin est?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h111
+:END:
+
+Garris.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h112
+:END:
+
+Vultum contemplamini: hem,
+Satin sic est?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h113
+:END:
+
+Non.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h114
+:END:
+
+Quid si sic?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h115
+:END:
+
+Propemodum.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h116
+:END:
+
+Quid si sic?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h117
+:END:
+
+Sat est.
+Hem, istuc serva; et verbum verbo, par pari ut respondeas,
+
+Ne te iratus suis saevidicis dictis protelet.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h118
+:END:
+
+Scio.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h119
+:END:
+
+Vi coactum te esse invitum, lege, iudicio: tenes?
+Sed quis hic est senex quem video in ultima platea?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h120
+:END:
+
+Ipsus est:
+Non possum adesse.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h121
+:END:
+
+Ah, quid agis? quo abis, Antipho?
+Mane, inquam.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h122
+:END:
+
+Egomet me novi et peccatum meumr:
+
+Vobis commendo Phanium et vitam meam.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h123
+:END:
+
+Geta, quid nunc fiet?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h124
+:END:
+
+Tu iam lites audies:
+Ego plectar pendens, nisi quid me fefellerit.
+Sed quod modo hic nos Antiphonem monuimus
+Id nosmet ipsos facere oportet, Phaedria.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h125
+:END:
+
+Aufer mihi /oportet:/ quin tu quod faciam impera.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h126
+:END:
+
+Meministine olim ut fuerit vestra oratio
+In re incipienda ad defendendam noxiam;
+Iustam illam causam, facilem, vincibilem, optimam?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h127
+:END:
+
+Memini.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h128
+:END:
+
+Hem, nunc ipsa est opus ea, aut, si quid potest,
+
+Meliore et callidiore.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h129
+:END:
+
+Eiet sedulo.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h130
+:END:
+
+Nunc prior adito tu: ego in subsidiis hic ero
+Succenturiatus, si quid deficias.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h131
+:END:
+
+Age.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h132
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h133
+:END:
+
+(DEMIPHO. GETA. PHAEDRIA.)
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h134
+:END:
+
+Itane tandem uxorem duxit Antipho iniussu meo?
+Nec meum imperium, ac mitto imperium, non simultatem meam
+Revereri saltem? non pudere? O facinus audax! o Geta
+Monitor!
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h135
+:END:
+
+Vix tandem.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h136
+:END:
+
+Quid mihi dicent, aut quam causam reperient,
+
+Demiror.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h137
+:END:
+
+Atqui repperi iam: aliud cura.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h138
+:END:
+
+Anne hoc dicet mihi,
+/Invitus feci: lex coegit?/ Audio. Fateor.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h139
+:END:
+
+Places.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h140
+:END:
+
+Verum scientem, tacitum, causam tradere adversariis;
+Etiamne id lex coegit?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h141
+:END:
+
+Illud durum.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h142
+:END:
+
+Ego expediam: sine.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h143
+:END:
+
+Incertum est quid agam, quia praeter spem atque incredibile hoc mihi obtigit:
+
+Ita sum irritatus animum ut nequeam ad cogitandum instituere:
+Quamobrem omnes, quum secundae res sunt maxime, tum maxime
+Meditari secum oportet quo pacto adversam aerumnam ferant;
+Pericla, damna, exilia! Peregre rediens semper cogitet
+Aut filii peccatum, aut uxoris mortem, aut morbum filiae;
+
+Communia esse haec; nequid horum unquam accidat animo novum:
+Quicquid praeter spem eveniat omne id deputare esse in lucro.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h144
+:END:
+
+Phaedria, incredibile est quantum herum anteco sapientia.
+Meditata mihi sunt omnia mea incommoda, herus si redierit:
+Molendum usque in pistrino; vapulandum; habendae compedes;
+
+Opus ruri faciendum: horum nihil quicquam accidet animo novum.
+Quicquid praeter spem eveniet, omne id deputabo esse in lucro.
+Sed quid cessas hominem adire, et blande in principio alloqui?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h145
+:END:
+
+Phaedriam mei fratris video filium mihi ire obviam.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h146
+:END:
+
+Mi patrue, salve.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h147
+:END:
+
+Salve: sed ubi est Antipho?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h148
+:END:
+
+Salvum advenire—
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h149
+:END:
+
+Credo: hoc responde mihi.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h150
+:END:
+
+Valet: hic est: sed satin omnia ex sententia?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h151
+:END:
+
+Vellem quidem.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h152
+:END:
+
+Quid istuc?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h153
+:END:
+
+Rogitas, Phaedria?
+Bonas, me absente, hic confecistis nuptias.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h154
+:END:
+
+Eho, an id succenses nunc illi?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h155
+:END:
+
+O artificem probum.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h156
+:END:
+
+Egone illi non succenseam? Ipsum gestio
+Dari mihi in conspectum, nunc sua culpa ut sciat
+Lenem patrem illum factum me esse acerrimum.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h157
+:END:
+
+Atqui nihil fecit, patrue, quod succenseas.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h158
+:END:
+
+Ecce autem similia omnia; omnes congruunt;
+
+Unum cognoris, omnes noris.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h159
+:END:
+
+Haud ita est.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h160
+:END:
+
+Hic in noxa est: ille ad defendendam causam adest.
+Quum ille est, praesto hic est: tradunt operas mutuas.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h161
+:END:
+
+Probe horum facta imprudens depinxit senex.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h162
+:END:
+
+Nam ni haec ita essent, cum illo haud stares, Phaedria.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h163
+:END:
+
+Si est, patrue, culpam ut Antipho in se admiserit,
+Ex qua re minus rei foret aut famae temperans;
+Non causam dico quin quod meritus sit ferat.
+Sed si quis forte, malitia fretus sua,
+Insidias nostrae fecit adolescentiae,
+
+Ac vicit; nostrane ea culpa est an iudicum,
+Qui saepe propter invidiam adimunt diviti,
+Aut propter misericordiam addunt pauperi?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h164
+:END:
+
+Ni nossem causam, crederem vera hunc loqui.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h165
+:END:
+
+An quisquam iudex est qui possit noscere
+
+Tua iusta, ubi tute verbum non respondeas,
+Ita ut ille fecit?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h166
+:END:
+
+Functus adolescentuli est
+Officium liberalis. Postquam ad iudices
+Ventura est, non potuit cogitata proloqui:
+Ita eum tum timidum ibi obstupefecit pudor.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h167
+:END:
+
+Laudo hunc; sed cesso adire quamprimum senem?
+Here, salve: salvum te advenisse gaudeo.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h168
+:END:
+
+Oh,
+Bone custos, salve, columen vero familiar,
+Cui commendavi filium hinc abiens meum.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h169
+:END:
+
+Iam dudum te omnes nos accusare audio
+
+Immerito, et me horunc omnium immeritissimo.
+Nam quid me in hac re facere voluisti tibi?
+Servum hominem causam orare leges non sinunt:
+Neque testimoni dictio est.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h170
+:END:
+
+Mitto omnia.
+Addo istuc; imprudens timuit adolescens: sino.
+
+Tu servus: verum, si cognata est maxime,
+Non fuit necesse habere: sed, id quod lex iubet,
+Dotem daretis; quæreret alium virum.
+Qua ratione inopem potius ducebat domum?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h171
+:END:
+
+Non ratio, verum argentum deerat.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h172
+:END:
+
+Sumeret
+
+Alicunde.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h173
+:END:
+
+Alicunde? nihil est dictu facilius.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h174
+:END:
+
+Postremo, si nullo alio pacto, foenore.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h175
+:END:
+
+Hui, dixti pulchre: siquidem quisquam crederet
+Te vivo.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h176
+:END:
+
+Non, non sic futurum est: non potest.
+Egone illam cum illo ut patiar nuptam unum diem?
+
+Nihil suave meritum est. Hominem commonstrarier
+Mihi istum volo, aut ubi habitet demonstrarier.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h177
+:END:
+
+Nempe Phormionem?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h178
+:END:
+
+Istum patronum mulieris.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h179
+:END:
+
+Iam faxo hic aderit.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h180
+:END:
+
+Antipho ubi nunc est?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h181
+:END:
+
+Foris.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h182
+:END:
+
+Abi, Phaedria: eum require atque adduce huc.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h183
+:END:
+
+Eo
+
+Recta via equidem illuc.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h184
+:END:
+
+Nempe ad Pamphilam.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h185
+:END:
+
+At ego Deos Penates hinc salutatum domum
+Devertar; inde ibo ad forum, atque aliquot mihi
+Amicos advocabo ad hanc rem qui assient,
+Ut ne imparatus sim, si adveniat Phormio.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h186
+:END:
+
+(PHORMIO. GETA.)
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h187
+:END:
+
+ITANE patris ais conspectum veritum hinc abisse?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h188
+:END:
+
+Admodum.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h189
+:END:
+
+Phanium relictam solam?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h190
+:END:
+
+Sic.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h191
+:END:
+
+Et iratum senem?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h192
+:END:
+
+Oppido.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h193
+:END:
+
+Ad te summa solum, Phormio, rerum redit.
+Tute hoc intristi: tibi omne est exedendum. Accingere.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h194
+:END:
+
+Obsecro te—
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h195
+:END:
+
+Si rogabit?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h196
+:END:
+
+In te spes est—
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h197
+:END:
+
+Eccere.
+Quid si reddet?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h198
+:END:
+
+Tu impulisti—
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h199
+:END:
+
+Sic opinor.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h200
+:END:
+
+Subveni.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h201
+:END:
+
+Cedo senem: iam instructa sunt mihi in corde consilia omnia.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h202
+:END:
+
+Quid ages?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h203
+:END:
+
+Quid vis nisi uti maneat Phanium, atque ex crimine hoc
+Antiphonem eripiam, atque in me omnem iram derivem senis?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h204
+:END:
+
+O vir fortis, atque amicus. Verum hoc saepe, Phormio,
+
+Vereor, ne istaec fortitudo in nervum erumpat denique.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h205
+:END:
+
+Ah,
+Non ita est: factum est periclum: iam pedum visa est via.
+Quot me censes homines iam deverberasse usque ad necem,
+Hospites, tun cives? quo magis novi, tanto saepius.
+
+Cedodum, en unquam iniuriarum audisti mihi scriptam dicam?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h206
+:END:
+
+Qui istuc?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h207
+:END:
+
+Quia non rete accipitri tenditur neque miluo,
+Qui male faciunt nobis: illis qui nihil faciunt tenditur.
+Quia enim in illis fructus est; in illis opera luditur.
+
+Aliis aliunde est periclum unde aliquid abradi potest:
+Mihi sciunt nihil esse. Dices, /Ducent damnatum domum:/
+Alere nolunt hominem edacem; et sapiunt, mea quidem sententia,
+Pro maleficio si beneficium summum nolunt reddere.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h208
+:END:
+
+Non potest satis pro merito ab illo tibi referri gratia.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h209
+:END:
+
+Immo enim nemo satis pro merito gratiam regi refert.
+
+Tene asymbolum venire, unctum atque lautum e balneis,
+Otiosum ab animo, quum ille et cura et sumtu absumitur
+Dum tibi sit quod placeat; ille ringitur, tu rideas;
+Prior bibas, prior decumbas; coena dubia apponitur.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h210
+:END:
+
+Quid istuc verbi est?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h211
+:END:
+
+Ubi tu dubites quid sumas potissimum.
+Haec cum rationem ineas quam sint suavia et quam cara sint,
+Ea qui praebet non tu hunc habeas plane praesentem Deum?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h212
+:END:
+
+Senex adest: vide quid agas: prima coitio est acerrima.
+Si eam sustinueris, postilla iam, ut libet, ludas licet.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h213
+:END:
+
+(DEMIPHO. GETA. PHORMIO.)
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h214
+:END:
+
+En unquam cuiquam contumeliosius
+Audistis factam iniuriam quam haec est mihi?
+Adeste, quaeso.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h215
+:END:
+
+Iratus est.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h216
+:END:
+
+Quin tu hoc age: st!
+Iam ego hunc agitabo. Pro Deum immortalium!
+
+Negat Phanium esse hanc sibi cognatam Demipho?
+Hanc Demipho negat esse cognatam?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h217
+:END:
+
+Negat.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h218
+:END:
+
+Neque eius patrem se scire qui fuerit?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h219
+:END:
+
+Negat.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h220
+:END:
+
+Ipsum esse opinor de quo agebam. Sequimini.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h221
+:END:
+
+Nec Stilphonem ipsum scire qui fuerit?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h222
+:END:
+
+Negat.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h223
+:END:
+
+Quia egens relicta est misera, ignoratur parens,
+Negligitur ipsa: vide avaritia quid facit.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h224
+:END:
+
+Si herum insimulabis avaritiae, male audies.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h225
+:END:
+
+O audaciam! etiam me ultro accusatum advenit?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h226
+:END:
+
+Nam iam adolescenti nihil est quod succenseam,
+
+Si illum minus norat: quippe homo iam grandior,
+Pauper, cui opera vita erat, ruri fere
+Se continebat: ibi agrum de nostro patre
+Colendum habebat. Saepe interea mihi senex
+Narrabat se hunc negligere cognatum suum:
+
+At quem virum! quem ego viderim in vita optimum.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h227
+:END:
+
+Videas te atque illum ut narras.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h228
+:END:
+
+I in malam crucem.
+Nam nisi ita eum existimassem, nunquam tam graves
+Ob hanc inimicitias caperem in vestram familiam,
+Quam is aspernatur nunc tam illiberaliter.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h229
+:END:
+
+Pergin hero absenti male loqui, impurissime?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h230
+:END:
+
+Dignum autem hoc illo est.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h231
+:END:
+
+Ain tandem, career?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h232
+:END:
+
+Geta.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h233
+:END:
+
+Bonorum extortor, legum contortor.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h234
+:END:
+
+Geta.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h235
+:END:
+
+Responde.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h236
+:END:
+
+Quis homo est? ehem!
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h237
+:END:
+
+Tace.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h238
+:END:
+
+Absenti tibi
+Te indignas, seque dignas, contumelias
+
+Nunquam cessavit dicere hodie.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h239
+:END:
+
+Ohe, desine.
+Adolescens, primum abs te hoc bona venia peto,
+Si tibi placere potis est, mihi ut respondeas:
+Quem amicum tuum ais fuisse istum? explana mihi:
+Et qui cognatum me sibi esse diceret.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h240
+:END:
+
+Proinde expiscare, quasi non nosses.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h241
+:END:
+
+Nossem?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h242
+:END:
+
+Ita.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h243
+:END:
+
+Ego me nego: tu qui ais redige in memoriam.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h244
+:END:
+
+Eho, tu sobrinum tuum non noras?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h245
+:END:
+
+Enicas:
+Dic nomen.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h246
+:END:
+
+Nomen?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h247
+:END:
+
+Maxime. Quid nunc taces?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h248
+:END:
+
+Perii hercle: nomen perdidi.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h249
+:END:
+
+Hem, quid ais?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h250
+:END:
+
+Geta.
+
+Si meministi id quod olim dictum est, subiice. Hem,
+Non dico: quasi non noris, tentatum advenis.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h251
+:END:
+
+Egone autem tento?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h252
+:END:
+
+Stilpho.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h253
+:END:
+
+Atque adeo quid mea?
+Stilpho est.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h254
+:END:
+
+Quem dixti?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h255
+:END:
+
+Stilphonem, inquam, noveras?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h256
+:END:
+
+Neque ego illum noram; neque mihi cognatus fuit
+Quisquam istoc nomine.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h257
+:END:
+
+Itane? non te horum pudet?
+
+At si talentum rem reliquisset decem—
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h258
+:END:
+
+Di tibi malefaciant.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h259
+:END:
+
+primus esses memoriter
+Progeniem vestram usque ab avo atque atavo proferens.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h260
+:END:
+
+Ita ut dicis: ego tum si advenissem, qui mihi
+
+Cognata ea esset dicererm: itidem tu face.
+Cedo qui est cognata?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h261
+:END:
+
+Eu, noster, recte. Heus tu, cave.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h262
+:END:
+
+Dilucide expedivi quibus me oportuit
+Iudicibus: tum, si id falsum fuerat, filius
+Cur non refellit?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h263
+:END:
+
+Filium narras mihi,
+
+Cuius de stultitia dici ut dignum est non potest?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h264
+:END:
+
+At tu qui sapiens es magistratus adi;
+Iudicium de eadem causa iterum ut reddant tibi;
+Quandoquidem solus regnas, et soli licet
+Hic de eadem causa bis iudicium adipiscier.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h265
+:END:
+
+Etsi mihi facta iniuria est, verumtamen
+Potius quam lites secter, aut quam te audiam,
+Itidem ut cognata si sit, id quod lex iubet
+Dotem dare, abduce hanc, minas quinque accipe.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h266
+:END:
+
+Ha, ha, he! homo suavis.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h267
+:END:
+
+Quid est? num iniquum postulo?
+
+An ne hoc quidelm adipiscar ego, quod ius publicum est?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h268
+:END:
+
+Itane tandem quæso, item ut meretricem ubi abusus sis,
+Mercedem dare lex iubet ei atque amittere? An,
+Ut ne quid turpe civis in se admitteret
+Propter egestatem, proximo iussa est dari,
+
+Ut cum uno aetatem degeret? quod tu vetas.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h269
+:END:
+
+Ita proximo quidem! At nos unde? aut quamobrem—
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h270
+:END:
+
+Ohe,
+Actum, aiunt, ne agas.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h271
+:END:
+
+Non agam? immo haud desinam,
+Donec perfecero hoc.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h272
+:END:
+
+Ineptis.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h273
+:END:
+
+Sine modo.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h274
+:END:
+
+Postremo tecum nihil rei nobis, Demipho, est.
+
+Tuus est damnatus gnatus, non tu; nam tua
+Præterierat iam ad ducendum aetas.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h275
+:END:
+
+Omnia haec
+Illum putato quae ego nunc dico dicere;
+Aut quidem cum uxore hac ipsum prohibebo domo.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h276
+:END:
+
+Iratus est.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h277
+:END:
+
+Tute idem melius feceris.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h278
+:END:
+
+Itane es paratus facere me adversum omnia,
+Infelix?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h279
+:END:
+
+Metuit hic nos, tametsi sedulo
+Dissimulat.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h280
+:END:
+
+Bene habent tibi principia.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h281
+:END:
+
+Quin quod est
+Ferendum fers? tuis dignum factis feceris,
+Ut amici inter nos simus.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h282
+:END:
+
+Egon tuam expetam
+
+Amicitiam? aut te visum aut auditum velim?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h283
+:END:
+
+Si concordabis cum illa, habebis quae tuam
+Senectutem oblectet; respice aetatem tuam.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h284
+:END:
+
+Te oblectet; tibi habe.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h285
+:END:
+
+Minue vero iram.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h286
+:END:
+
+Hoc age:
+Satis iam verborum est: nisi tu properas mulierem
+
+Abducere, ego illam eiiciam. Dixi, Phormio.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h287
+:END:
+
+Si tu illam attigeris secus quam dignum est liberam,
+Dicam tibi impingam grandem: dixi, Demipho.
+Si quid opus fuerit, heus, domo me.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h288
+:END:
+
+Intelligo.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h289
+:END:
+
+(DEMIPHO. GETA. HEGIO. CRATINUS. CRITO.)
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h290
+:END:
+
+Quanta me cura et sollicitudine afficit
+Gnatus, qui me et se hisce impedivit nuptiis;
+Neque mihi in conspectum prodit, ut saltem sciam
+Quid de hac re dicat, quidve sit sententiae.
+
+Abi; vise redieritne iam an nondum domum.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h291
+:END:
+
+Eo.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h292
+:END:
+
+Videtis quo in loco res haec siet.
+Quid ago? dic, Hegio.
+
+* HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h293
+:END:
+
+Ego Cratinum censeo,
+Si tibi videtur.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h294
+:END:
+
+Dic, Cratine.
+
+* CRATINUS
+:PROPERTIES:
+:CUSTOM_ID: h295
+:END:
+
+Mene vis?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h296
+:END:
+
+Te.
+
+* CRATINUS
+:PROPERTIES:
+:CUSTOM_ID: h297
+:END:
+
+Ego quae in rem tuam sint ea velim facias: mihi
+
+Sic hoc videtur. Quod te absente hic filius
+Egit restitui in integrum aequum est et bonum,
+Et id impetrabis: dixi.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h298
+:END:
+
+Dic nunc, Hegio.
+
+* HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h299
+:END:
+
+Ego sedulo hunc dixisse credo: verum ita est,
+Quot homines, tot sententiae; suus cuique mos.
+
+Mihi non videtur quod sit factum legibus
+Rescindi posse; et turpe inceptum est.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h300
+:END:
+
+Dic, Crito.
+
+* CRITO
+:PROPERTIES:
+:CUSTOM_ID: h301
+:END:
+
+Ego amplius deliberandum censeo:
+Res magna est.
+
+* HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h302
+:END:
+
+Numquid nos vis?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h303
+:END:
+
+Fecistis probe:
+Incertior sum multo quam dudum.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h304
+:END:
+
+Negant
+
+Redisse.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h305
+:END:
+
+Frater est exspectandus mihi:
+Is quod mihi dederit de hac re consilium id sequar.
+Percontatum ibo ad portum, quoad se recipiat.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h306
+:END:
+
+At ego Antiphonem quaeram, ut quae acta hic sint sciat.
+Sed eccum ipsum video in tempore huc se recipere.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h307
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h308
+:END:
+
+(ANTIPHO. GETA.)
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h309
+:END:
+
+Enimvero, Antipho, multimodis cum istoc animo es vituperandus.
+Itane te hinc abisse et vitam tuam tutandam aliis dedisse?
+Alios tuam rem credidisti magis quam tete animadversuros?
+Nam, ut ut erant alia, illi certe quae nunc tibi domi est consuleres,
+
+Ne quid propter tuam fidem decepta pateretur mali,
+Cuius nunc miserae spes opesque sunt in te uno omnes sitae.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h310
+:END:
+
+Equidem, here, nos iam dudum hic te absentem incusamus qui abieris.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h311
+:END:
+
+Te ipsum quaerebam.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h312
+:END:
+
+Sed ea causa nihilo magis defecimus.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h313
+:END:
+
+Loquere, obsecro; quonam in loco sunt res et fortunae meae?
+
+Numquid patri subolet?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h314
+:END:
+
+Nihil etiam.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h315
+:END:
+
+Et quid spei porro est?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h316
+:END:
+
+Nescio.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h317
+:END:
+
+Ah.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h318
+:END:
+
+Nisi Phaedria haud cessavit pro te eniti.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h319
+:END:
+
+Nihil fecit novi.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h320
+:END:
+
+Tur Phormio itidem in hac re, ut in aliis, strenuum hominem praebuit.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h321
+:END:
+
+Quid is fecit?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h322
+:END:
+
+Confutavit verbis admodum iratum patrem.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h323
+:END:
+
+Eu, Phormio.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h324
+:END:
+
+Ego quod potui porro.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h325
+:END:
+
+Mi Geta, omnes vos amo.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h326
+:END:
+
+Sic habent principia sese ut dico: adhuc tranquilla res est;
+Mansurusque patruum pater est, dum huc adveniat.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h327
+:END:
+
+Quid eum?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h328
+:END:
+
+Ut aibat,
+De eius consilio sese velle facere, quod ad hanc rem attinet.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h329
+:END:
+
+Quantus metus est mihi venire huc salvum nunc patruum, Geta.
+Nam per eius unam, ut audio, aut vivam aut moriar sententiam.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h330
+:END:
+
+Phaedria tibi adest.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h331
+:END:
+
+Ubinam?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h332
+:END:
+
+Eccum ab sua palaestra exit foras.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h333
+:END:
+
+(PHAEDRIA. DORIO. ANTIPHO. GETA.)
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h334
+:END:
+
+Dorio, audi,
+Obsecro.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h335
+:END:
+
+Non audio.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h336
+:END:
+
+Parumper.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h337
+:END:
+
+Quin omitte me.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h338
+:END:
+
+Audi quod dicam.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h339
+:END:
+
+At enim taedet iam audire eadem millies.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h340
+:END:
+
+At nunc dicam quod libenter audias.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h341
+:END:
+
+Loquere, audio.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h342
+:END:
+
+Nequeo te exorare ut maneas triduum hoc? Quo nunc abis?
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h343
+:END:
+
+Mirabar si tu mihi quicquam afferres novi.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h344
+:END:
+
+Hei, metuo lenonem ne quid—suo suat capiti.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h345
+:END:
+
+Idem ego metuo.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h346
+:END:
+
+Non mihi credis?
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h347
+:END:
+
+Hariolare.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h348
+:END:
+
+Sin fidem do.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h349
+:END:
+
+Fabulae.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h350
+:END:
+
+Foeneratum istuc beneficium tibi pulchre dices.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h351
+:END:
+
+Logi.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h352
+:END:
+
+Crede mihi, gaudebis facto: verum hercle hoc est.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h353
+:END:
+
+Somnia.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h354
+:END:
+
+Experire; non est longum.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h355
+:END:
+
+Cantilenam eandem canis.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h356
+:END:
+
+Tu mihi cognatus, tu parens, tu amicus, tu—
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h357
+:END:
+
+Garri modo.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h358
+:END:
+
+Adeone ingenio esse duro te atque inexorabili
+Ut neque misericordia neque precibus molliri queas?
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h359
+:END:
+
+Adeon te esse incogitantem atque impudentem, Phaedria,
+Ut phaleratis dictis ducas me, et meam ductes gratiis?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h360
+:END:
+
+Miseritum est.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h361
+:END:
+
+Hei veris vincor.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h362
+:END:
+
+Quam uterque est similis sui.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h363
+:END:
+
+Neque, Antipho alia quum occupatus esset sollicitudine,
+Tum hoc esse mihi obiectum malum!
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h364
+:END:
+
+Ah, quid istuc autem est, Phaedria?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h365
+:END:
+
+O fortunatissime Antipho.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h366
+:END:
+
+Egone?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h367
+:END:
+
+Cui quod amas domi est;
+Nec cum huiusmodi unquam usus venit ut conflictares malo.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h368
+:END:
+
+Mihin domi est? immo, id quod aiunt, auribus teneo lupum.
+Nam neque quomodo a me amittam invenio; neque uti retineam scio.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h369
+:END:
+
+Ipsum istuc mihi in hoc est.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h370
+:END:
+
+Heia, ne parum leno sies.
+
+Numquid hic confecit?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h371
+:END:
+
+Hicine? quod homo inhumanissimus:
+Pamphilam meam vendidit.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h372
+:END:
+
+Quid? vendidit?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h373
+:END:
+
+Aine /vendidit?/
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h374
+:END:
+
+Vendidit.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h375
+:END:
+
+Quam indignum facinus, ancillam aere emtam suo!
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h376
+:END:
+
+Nequeo exorare ut me maneat, et cum illo ut mutet fidem,
+Triduum hoc, dum id quod est promissum ab amicis argentum aufero.
+
+Si tum non dedero, unam praeterea horam ne oppertus sies.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h377
+:END:
+
+Obtundis.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h378
+:END:
+
+Haud longum est id quod orat, Dorio: exoret sine:
+Idem hoc tibi quod bene promeritus fueris conduplicaverit.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h379
+:END:
+
+Verba istaec sunt.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h380
+:END:
+
+Pamphilamne hac urbe privari sines?
+Tum praeterea horunc amorem distrahi poterin pati?
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h381
+:END:
+
+Neque ego, neque tu.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h382
+:END:
+
+Di tibi omnes id quod es dignus duint.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h383
+:END:
+
+Ego te complures adversum ingenium meum menses tuli
+Pollicitantem, nihil ferentem, flentem: nunc contra omnia haec,
+Repperi qui det neque lacrimet; da locum melioribus.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h384
+:END:
+
+Certe hercle, ego si satis commemini, tibi quidem est olim dies
+
+Quam ad dares huic praestituta.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h385
+:END:
+
+Factum.
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h386
+:END:
+
+Num ego istuc nego?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h387
+:END:
+
+Iam ea praeteriit?
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h388
+:END:
+
+Non; verum haec ei antecessit.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h389
+:END:
+
+Non pudet
+Vanitatis?
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h390
+:END:
+
+Minime, dum ob rem.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h391
+:END:
+
+Sterquilinium.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h392
+:END:
+
+Dorio,
+Itane tandem facere oportet?
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h393
+:END:
+
+Sic sum: si placeo, utere.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h394
+:END:
+
+Sicine hunc decipis?
+
+* DORIO
+:PROPERTIES:
+:CUSTOM_ID: h395
+:END:
+
+Immo enimvero, Antipho, hic me decipit:
+
+Nam hic me huiusmodi esse scibat; ego hunc esse aliter credidi.
+Iste me fefellit; ego isti nihilo sum aliter ac fui.
+Sed utut haec sunt, tamen hoc faciam: cras mane argentum mihi
+Miles dare se dixit: si mihi prior tu attuleris, Phaedria,
+Mea lege utar, ut potior sit qui prior ad dandum est. Vale.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h396
+:END:
+
+(PHAEDRIA. ANTIPHO. GETA.)
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h397
+:END:
+
+Quid faciam? Unde ego nunc tam subito huic argentum inveniam miser,
+Cui minus nihilo est? quod si hic potuisset nunc exorarier
+Triduum hoc, promissum fuerat.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h398
+:END:
+
+Itane hunc patiemur, Geta,
+Fieri miserum, qui me dudum, ut dixti, adiurit comiter,
+
+Quin, quum opus est, beneficium rursum ei experiamur reddere?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h399
+:END:
+
+Scio quidem hoc esse aequum.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h400
+:END:
+
+Age ergo, solus servare hunc potes.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h401
+:END:
+
+Quid faciam?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h402
+:END:
+
+Invenias argentum.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h403
+:END:
+
+Cupio; sed id unde edoce.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h404
+:END:
+
+Pater adest hic.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h405
+:END:
+
+Scio; sed quid tum?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h406
+:END:
+
+Ah, dictum sapienti sat est.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h407
+:END:
+
+Itane?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h408
+:END:
+
+Ita.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h409
+:END:
+
+Sane hercle pulchre suades: etiam tu hinc abis?
+
+Non triumpho ex nuptiis tuis si nihil nanciscor mali,
+Ni etiam nunc me huius causa quaerere in maloiubeas crucem?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h410
+:END:
+
+Verum hic dicit.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h411
+:END:
+
+Quid? ego vobis, Geta, alienus sum?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h412
+:END:
+
+Haud puto.
+Sed parumne est quod omnibus nunc nobis succenset senex,
+Ni instigemus etiam ut nullus locus relinquatur preci?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h413
+:END:
+
+Alius ab oculis meis illam in ignotum hinc abducet locum? Hem!
+Tum igitur dum licet dumque adsum loquimini mecum, Antipho;
+Contemplamini me.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h414
+:END:
+
+Quamobrem? aut quidnam facturus es cedo?
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h415
+:END:
+
+Quoquo hinc asportabitur terrarum certum est persequi,
+Aut perire.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h416
+:END:
+
+Di bene vertant, quod agas; pedetentim tamen.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h417
+:END:
+
+Vide si quid opis potes afferre huic.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h418
+:END:
+
+Si quid? quid?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h419
+:END:
+
+Quaere, obsecro,
+Ne quid plus minusve faxit quod nos post pigeat, Geta.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h420
+:END:
+
+Quaero. Salvus est, ut opinor; verum enim metuo malum.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h421
+:END:
+
+Noli metuere: una tecum bona mala tolerabimus.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h422
+:END:
+
+Quantum tibi opus est argenti? loquere.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h423
+:END:
+
+Solae triginta minae.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h424
+:END:
+
+Triginta? hui percara est, Phaedria.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h425
+:END:
+
+Istaec vero vilis est.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h426
+:END:
+
+Age, age; inventas reddam.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h427
+:END:
+
+O lepidum!
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h428
+:END:
+
+Aufer te hinc.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h429
+:END:
+
+Iam opus est.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h430
+:END:
+
+Iam feres.
+Sed opus est mihi Phormionem ad hanc rem adiutorem dari.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h431
+:END:
+
+Praesto est: audacissime oneris quidvis impone, et feret.
+Solus est homo amico amicus.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h432
+:END:
+
+Eamus ergo ad eum ocius.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h433
+:END:
+
+Numquid est quod opera mea vobis opus sit?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h434
+:END:
+
+Nihil: verum abi domum;
+Et illam miseram, quam ego nunc intus scio esse exanimatam metu,
+Consolare: Cessas?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h435
+:END:
+
+Nihil est aeque quod faciam libens.
+
+* PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h436
+:END:
+
+Qua via istuc facies?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h437
+:END:
+
+Dicam in itinere: modo te hinc amove.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h438
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h439
+:END:
+
+(DEMIPHO. CHREMES.)
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h440
+:END:
+
+Quid qua profectus causa hinc es Lemnum, Chreme,
+Adduxtin tecum filiam?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h441
+:END:
+
+Non.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h442
+:END:
+
+Quid ita non?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h443
+:END:
+
+Postquam videt me eius mater esse hic diutius,
+Simul autem non manebat aetas virginis
+
+Neam negligentiam, ipsam cum omni familia
+Ad me profectam esse aibant.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h444
+:END:
+
+Quid illic tam diu,
+Quaeso, igitur commorabare, ubi id audiveras?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h445
+:END:
+
+Pol me detinuit morbus.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h446
+:END:
+
+Unlde? aut qui?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h447
+:END:
+
+Rogas?
+Senectus ipsa est morbus; sed venisse eas
+
+Salvas audivi ex nauta qui illas vexerat.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h448
+:END:
+
+Quid gnato obtigerit me absente audistin, Chreme?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h449
+:END:
+
+Quod quidem me factum consili incertum facit;
+Nam hanc conditionem si cui tulero extrario,
+Quo pacto aut unde mihi sit dicendum ordine est.
+
+Te mihi fidelem ess aeque atque egomet sum mihi
+Scibam: ille, si me alienus affinem volet,
+Tacebit dum intercedet familiaritas;
+Sin spreverit me, plus quam opus est scito sciet:
+Vereorque ne uxor aliqua hoc resciscat mea;
+
+Quod si fit, ut me excutiam atque egrediar domo
+Id restat; nam ego meorum solus sum meus.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h450
+:END:
+
+Scio ita esse; et istaec mihi res sollicitudini est:
+Neque defetiscar usque adeo experirier,
+Donec tibi id quod pollicitus sum effecero.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h451
+:END:
+
+(GETA.)
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h452
+:END:
+
+Ego hominem callidiorem vidi neminem
+Quam Phormionem: venio ad hominem ut dicerem
+Argentum opus esse, et id quo pacto fieret:
+Vixdum dimidium dixeram, intellexerat;
+
+Gaudebat; me laudabat; quaerebat senem;
+Dis gratias agebat, tempus sibi dari
+Ubi Phaedriae esse ostenderet nihilo minus
+Amicum sese quam Antiphoni: hominem ad forum
+Iussi operiri; eo me esse adducturum senem.
+
+Sed eccum ipsum: quis est ulterior? atat, Phaedriae
+Pater venit: sed quid pertimui autem, bellua?
+An quia quos fallam pro uno duo sunt mihi dati?
+Commodius esse opinor duplici spe utier.
+Petam hinc unde a primo institui: is si dat, sat est:
+
+Si ab eo nihil fiet, tum hunc adoriar hospitem.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h453
+:END:
+
+(ANTIPHO. GETA. CHREMES. DEMIPHO.)
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h454
+:END:
+
+Exspecto quam mox recipiat huc sese Geta:
+Sed patruum video cum patre adstantem. Hei mihi,
+Quam timeo adventus huius quo impellat patrem.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h455
+:END:
+
+Adibo hosce, O noster Chreme.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h456
+:END:
+
+Salve, Geta.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h457
+:END:
+
+Venire salvum volupe est.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h458
+:END:
+
+Credo.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h459
+:END:
+
+Quid agitur?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h460
+:END:
+
+Multa advenienti, ut fit, nova hic compluria.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h461
+:END:
+
+Ita: de Antiphone audistin quae facta?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h462
+:END:
+
+Omnia.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h463
+:END:
+
+Tun dixeras huic? facinus indignum, Chreme,
+Sic circumiri.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h464
+:END:
+
+Id cum hoc agebam commodum.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h465
+:END:
+
+Nalm hercle ego quoque id quidem agitans mecum sedulo
+
+Inveni, opinor, remedium huic rei.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h466
+:END:
+
+Quid, Geta?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h467
+:END:
+
+Quod remedium?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h468
+:END:
+
+Ut abii abs te, fit forte obviam
+Mihi Phormio.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h469
+:END:
+
+Qui Phormio?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h470
+:END:
+
+Is qui istam.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h471
+:END:
+
+Scio.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h472
+:END:
+
+Visum est mihi ut eius tentarem sententiam.
+
+Prendo hominem solum:/Cur non,/ inquam, /Phormio,/
+/Vides inter nos sic haec potius cum bona/
+/Ut componantur gratia quam cum mala?/
+/Herus liberalis est, et fugitans litium:/
+/Nam caeteri quidem hercle amici omnes modo/
+
+/Uno ore auctores fuere ut praecipitem hanc daret./
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h473
+:END:
+
+Quid hic coeptat? aut quo evadet hodie?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h474
+:END:
+
+/An legibus/
+/Daturum poenas dices, si illam eiecerit?/
+/Iam id exploratum est. Heia, sudabis satis,/
+/Si cum illo inceptas homine: ea eloquentia est./
+
+/Verum pone esse victum eum: at tandem tamen/
+/Non capitis eius res agitur, sed pecuniae./
+Postquam hominem his verbis sentio mollirier,
+/Soli sumus nunc hic,/ inquam; /eho dic, quid velis dari/
+/Tibi in manum, ut herus his desistat litibus;/
+
+/Haec hinc facessat; tu molestus ne sies./
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h475
+:END:
+
+Satin illi Di sunt propitii?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h476
+:END:
+
+/Nam sat scio,/
+/Si tu aliquam partem aequi bonique dixeris,/
+/Ut est ille bonus vir, tria non commutabitis/
+/Verba hodie inter vos./
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h477
+:END:
+
+Quis te istaec iussit loqui?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h478
+:END:
+
+Immo non potuit melius pervenirier
+Eo quo nos volumus.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h479
+:END:
+
+Occidi.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h480
+:END:
+
+Perge eloqui.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h481
+:END:
+
+A primo homo insanibat.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h482
+:END:
+
+Cedo, quid postulat?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h483
+:END:
+
+Quid? nimium quantum libuit.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h484
+:END:
+
+Die.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h485
+:END:
+
+Si quis daret
+Talentum magnum.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h486
+:END:
+
+Immo malum hercle: ut nihil pudet.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h487
+:END:
+
+Quod dixi adeo ei. /Quaeso quid si filiam/
+/Suam unicam locaret? parvi retulit/
+/Non suscepisse: inventa est quae dotem petat./
+Ad pauca ut redeam, ac mittam illius ineptias;
+Haec denique eius fuit postrema oratio:
+
+/Ego,/ inquit, /iam a principio amici filiam,/
+/Ita ut acquum fuerat, volui uxorem ducere:/
+/Nam mihi veniebat in mentem eius incommodum,/
+/In servitutem pauperem ad ditem dari:/
+/Sed mihi opus crat, ut aperte tibi nunc fabuler,/
+
+/Aliquantulum quae afferret qui dissolverem/
+/Quae debeo; et etiam nunc, si vult Demipho/
+/Dare quantum ab hac accipio quae sponsa est mihi,/
+/Nullam mihi malim quam istanc, uxorem dari./
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h488
+:END:
+
+Utrum stultitia facere ego hunc an malitia
+
+Dicam, scientem an imprudentem, incertus sum.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h489
+:END:
+
+Quid si animam debet?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h490
+:END:
+
+/Ager oppositus est pignori,/
+/Ob decem minas,/ inquit.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h491
+:END:
+
+Age, age; iam ducat: dabo.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h492
+:END:
+
+/Aediculae item sunt ob decem alias./
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h493
+:END:
+
+Oi! hui!
+Nimium est.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h494
+:END:
+
+Ne clama: petito hasce a me decem.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h495
+:END:
+
+/Uxori emenda ancillula est: tum pluscula/
+/Supellectile opus est: opus est sumtu ad nuptias:/
+/His rebus sane pone,/ inquit, /decem minas./
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h496
+:END:
+
+Sexcentas proinde scribito iam mihi dicas.
+Nihil do: impuratus me ille ut etiam irrideat?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h497
+:END:
+
+Quaeso, ego dabo, quiesce: tu modo filius
+Fac ut illam ducat nos quam volumus.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h498
+:END:
+
+Hei mihi,
+Geta, occidisti me tuis fallaciis.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h499
+:END:
+
+Mea causa eiicitur: me hoc est aequum amittere.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h500
+:END:
+
+/Quantum potest me certiorem,/ inquit, /face;/
+
+/Si illam dant, hanc ut mittam; ne incertus siem;/
+/Nam illi mihi dotem iam constituerunt dare./
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h501
+:END:
+
+Iam accipiat; illis repudium renuntiet;
+Hanc ducat.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h502
+:END:
+
+Quae quidem illi res vertat male.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h503
+:END:
+
+Opportune adeo argentum nunc mecum attuli,
+
+Fructum quem Lemni uxoris reddunt praedia:
+Id sumam: uxori tibi opus esse dixero.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h504
+:END:
+
+(ANTIPHO. GETA.)
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h505
+:END:
+
+Geta.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h506
+:END:
+
+Hem.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h507
+:END:
+
+Quid egisti?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h508
+:END:
+
+Emunxi argento senes.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h509
+:END:
+
+Satin est id?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h510
+:END:
+
+Nescio hercle: tantum iussus sum.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h511
+:END:
+
+Eho, verbero, aliud mihi respondes ac rogo?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h512
+:END:
+
+Quid ergo narras?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h513
+:END:
+
+Quid ego narrem? opera tua
+
+Ad restim mihi quidem res rediit planissime.
+Ut te quidem omnes Di, Deaeque, Superi, Inferi,
+Malis exemplis perdant. Hem, si quid velis,
+Huic mandes, qui te ad scopulum e tranquillo auferat.
+Quid minus utibile fuit quam hoc ulcus tangere,
+
+Aut nominare uxorem? iniecta est spes patri
+Posse illam extrudi. Cedo nunc porro, Phormio
+Dotem si accipiet, uxor ducenda est domum:
+Quid fiet?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h514
+:END:
+
+Non enim ducet.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h515
+:END:
+
+Novi: caeterum,
+Quum argentum repetent, nostra causa scilicet
+
+In nervum potius ibit.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h516
+:END:
+
+Nihil est, Antipho,
+Quin male narrando possit depravarier.
+Tu id quod boni est excerpis; dicis quod mali est.
+Audi nunc contra iam: si argentum acceperit,
+Ducenda est uxor, ut ais: concedo tibi.
+
+Spatium quidem tandem apparandis nuptiis,
+Vocandi, sacrificandi dabitur paululum.
+Interea amici quod polliciti sunt dabunt:
+Inde istis reddet.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h517
+:END:
+
+Quamobrem? aut quid dicet?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h518
+:END:
+
+Rogas?
+/Quot res postilla monstra evenerunt mihi!/
+
+/Introiit in aedes ater alienus canis;/
+/Anguis per impluvium decidit de tegulis;/
+/Gallina cecinit; interdixit hariolus;/
+/Haruspex vetuit ante brumam aliquid novi/
+/Negoti incipere; quae causa est iustissima./
+
+Haec fient.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h519
+:END:
+
+Ut modo fiant.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h520
+:END:
+
+Fient: me vide.
+Pater exit: abi, die, esse argentum, Phaedriae.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h521
+:END:
+
+(DEMIPHO. GETA. CHREMES.)
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h522
+:END:
+
+Quietus esto, inquam: ego curabo ne quid verborum duit.
+Hoc temere nunquam amittam ego a me quin mihi testes adhibeam:
+Cui dem, et quamobrem dem, commemorabo.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h523
+:END:
+
+Ut cautus est, ubi nihil opus est!
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h524
+:END:
+
+Atqui ita opus facto est; at matura, dum libido eadem haec manet;
+
+Nam, si altera illaec magis instabit, forsitan nos reiciat.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h525
+:END:
+
+Rem ipsam putasti.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h526
+:END:
+
+Duc me ad eum ergo.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h527
+:END:
+
+Non moror.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h528
+:END:
+
+Ubi hoc egeris,
+Transito ad uxorem meam, ut conveniat hanc prius quam hinc abeat:
+Dicat nos dare eam Phormioni nuptum, ne succenseat;
+Et magis esse illum idoneum, qui ipsi sit familiarior;
+
+Nos nostro officio nihil digresses esse; quantum is voluerit
+Datum esse dotis.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h529
+:END:
+
+Quid tua, malum, id refert?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h530
+:END:
+
+Magni, Demipho.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h531
+:END:
+
+Non satis est tuum te officium facere, si non id fama approbat.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h532
+:END:
+
+Volo ipsius quoque voluntate hoc fieri, ne se eiectam praedicet.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h533
+:END:
+
+Idem ego istuc facere possum.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h534
+:END:
+
+Mulier mulieri magis congruit.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h535
+:END:
+
+Rogabo.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h536
+:END:
+
+Ubi illas ego nunc reperire possim cogito.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h537
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h538
+:END:
+
+(SOPHRONA. CHREMES.)
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h539
+:END:
+
+Quid agam? quem mihi amicum inveniam misera? aut quo consilia haec referam? aut
+Unde mihi auxilium petam?
+Nam vereor hera ne ob meum suasum indigne iniuria afficiatur:
+Ita patrem adolescents facta haec tolerare audio violenter.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h540
+:END:
+
+Nam quae haec anus est exanimata, a fratre quae egressa est meo?
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h541
+:END:
+
+Quod ut facerem egestas me impulit; quum scirem infirmas nuptias
+Hasce esse; ut id consulerem, interea vita ut in tuto foret.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h542
+:END:
+
+Certe edepol, nisi me animus fallit, aut parum prospiciunt oculi,
+Meae nutricem gnatae video.
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h543
+:END:
+
+Neque ille investigatur—
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h544
+:END:
+
+Quid ago?
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h545
+:END:
+
+Qui est eius pater.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h546
+:END:
+
+Adeo? an maneo, dum ea quake loquitur magis cognosco?
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h547
+:END:
+
+Quod si eum nunc reperire possim, nihil est quod verear.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h548
+:END:
+
+Ea est ipsa:
+Colloquar.
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h549
+:END:
+
+Quis hic loquitur?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h550
+:END:
+
+Sophrona.
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h551
+:END:
+
+Et meum nomen nominat?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h552
+:END:
+
+Respice ad me.
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h553
+:END:
+
+Di, obsecro vos, estne hic Stilpho?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h554
+:END:
+
+Non.
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h555
+:END:
+
+Negas?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h556
+:END:
+
+Concede hinc a foribus paululum istorsum, sodes, Sophrona.
+
+Ne me istoc posthac nomine appellassis.
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h557
+:END:
+
+Quid? non, obsecro, es
+Quem semper te esse dictitasti?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h558
+:END:
+
+St!
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h559
+:END:
+
+Quid has metuis fores?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h560
+:END:
+
+Conclusam hic habeo uxorem saevam: verum istoc de nomine
+Eo perperam olim dixi ne vos forte imprudentes foris
+Effutiretis, atque id porro aliqua uxor mea rescisceret.
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h561
+:END:
+
+Istoc pol nos te hic invenire miserae nunquam potuimus.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h562
+:END:
+
+Eho, die mihi, quid rei tibi est cum familia hac unde exis?
+Ubi illae sunt?
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h563
+:END:
+
+Miseram me!
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h564
+:END:
+
+Hem, quid est? vivuntne?
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h565
+:END:
+
+Vivit gnata:
+Matrem ipsam ex aegritudine miseram mors consecuta est.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h566
+:END:
+
+Male factum.
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h567
+:END:
+
+Ego autem quae essem anus deserta, egens, ignota,
+
+Ut potui nuptum virginem locavi huic adolescenti
+Harum qui est dominus aedium.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h568
+:END:
+
+Antiphonine?
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h569
+:END:
+
+Hem! illi ipsi.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h570
+:END:
+
+Quid? duasne is uxores habet?
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h571
+:END:
+
+Au, obsecro: unam ille quidem hanc solam.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h572
+:END:
+
+Quid illam alteram quae dicitur cognata?
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h573
+:END:
+
+Haec ergo est.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h574
+:END:
+
+Quid ais?
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h575
+:END:
+
+Composito factum est quomodo hanc amans habere posset
+
+Sine dote.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h576
+:END:
+
+Di vestram fidem, quam saepe forte temere
+Eveniunt quae non audeas optare! Offendi adveniens
+Quicum volebam, atque ut volebam, collocatam filiam.
+Quod nos ambo opere maximo dabamus operam ut fieret,
+Sine nostra cura, maxima sua cura, haec sola fecit.
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h577
+:END:
+
+Nunc quid opus facto sit vide. Pater adolescentis venit;
+Eumque animo iniquo hoc oppido ferre aiunt.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h578
+:END:
+
+Nihil pericli est.
+Sed per Deos atque homines, meam esse hanc cave resciscat quisquam.
+
+* SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h579
+:END:
+
+Nemo ex me scibit.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h580
+:END:
+
+Sequere me: intus caetera audies.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h581
+:END:
+
+(DEMIPHO. GETA.)
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h582
+:END:
+
+Nostrapte culpa facimus ut malis expediat esse,
+Dum nimium dici nos bonos studemus et benignos.
+Ita fugias ne praeter casam, quod aiunt. Nonne id sat erat,
+Accipere ab illo iniuriam? etiam argentum est ultro obiectum,
+
+Ut sit qui vivat dum aliud aliquid flagiti conficiat.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h583
+:END:
+
+Planissime.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h584
+:END:
+
+His nunc praemium est qui recta prava faciunt.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h585
+:END:
+
+Verissime.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h586
+:END:
+
+Ut stultissime quidem illi rem gesserimus.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h587
+:END:
+
+Modo ut hoc consilio possiet discedi ut istam ducat.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h588
+:END:
+
+Etiamne id dubium est?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h589
+:END:
+
+Haud scio hercle, ut homo est, an mutet animum.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h590
+:END:
+
+Hem, mutet autem?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h591
+:END:
+
+Nescio: verum /si forte/ dico.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h592
+:END:
+
+Ita faciam, ut frater censuit, ut uxorem huc eius adducam,
+Cum ista ut loquatur: tu, Geta, abi prae; nuntia hanc venturam.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h593
+:END:
+
+Argentum inventum est Phaedriae: de iurgio siletur.
+Provisum est ne in praesentia haec hinc abeat: quid nunc porro?
+
+Quid fict? in eodem luto haesitas: versura solves,
+Geta. Praesens quod fuerat malum in diem abiit: plagae crescunt,
+Nisi prospicis. Nunc hinc domum ibo, ac Phanium edocebo
+Ne quid vereatur Phormionem aut eius orationem.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h594
+:END:
+
+(DEMIPHO. NAUSISTRATA. CHREMES.)
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h595
+:END:
+
+Agedum, ut soles, Nausistrata, fac illa ut placetur nobis;
+Ut sua voluntate id quod est faciendum faciat.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h596
+:END:
+
+Faciam.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h597
+:END:
+
+Pariter nunc opera me adiuvas ac re dudum opitulata es.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h598
+:END:
+
+Factum volo; at pol minus queo viri culpa quam me dignum est.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h599
+:END:
+
+Quid autem?
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h600
+:END:
+
+Quia pol mei patris bene parta indiligenter
+Tutatur; nam ex his praediis talenta argenti bina
+Statim capiebat. Vir viro quid praestat!
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h601
+:END:
+
+Binan quaeso?
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h602
+:END:
+
+Ac rebus vilioribus multo, tamen talenta bina.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h603
+:END:
+
+Hui.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h604
+:END:
+
+Quid haec videntur?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h605
+:END:
+
+Scilicet.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h606
+:END:
+
+Virmn me natum vellem:
+
+Ego ostenderem—
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h607
+:END:
+
+Certo scio.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h608
+:END:
+
+quo pacto—
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h609
+:END:
+
+Parce, sodes,
+Ut possis cum illa; ne te adolescens mulier defatiget.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h610
+:END:
+
+Faciam ut iubes: sed meum virum abs te exire video.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h611
+:END:
+
+Hem, Demipho,
+Iam illi datum est argentum?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h612
+:END:
+
+Curavi ilico.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h613
+:END:
+
+Nollem datum.
+Hei, video uxorem, paene plus quam sat erat.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h614
+:END:
+
+Cur nolles, Chreme?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h615
+:END:
+
+Iam recte.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h616
+:END:
+
+Quid tu? ecquid locutus cum ista es quamobrem hanc ducimus?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h617
+:END:
+
+Transegi.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h618
+:END:
+
+Quid ait tandem?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h619
+:END:
+
+Abduci non potest.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h620
+:END:
+
+Qui non potest?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h621
+:END:
+
+Quia uterque utrique est cordi.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h622
+:END:
+
+Quid istuc nostra?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h623
+:END:
+
+Magni: praeter haec,
+Cognatam comperi esse nobis.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h624
+:END:
+
+Quid? deliras?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h625
+:END:
+
+Sic erit.
+Non temere dico: redii mecum in memoriam.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h626
+:END:
+
+Satin sanus es?
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h627
+:END:
+
+Au, obsecro, cave ne in cognatam pecces.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h628
+:END:
+
+Non est.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h629
+:END:
+
+Ne nega.
+Patris nomen aliud dictum est: hoc tu errasti.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h630
+:END:
+
+Non norat patrem?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h631
+:END:
+
+Norat.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h632
+:END:
+
+Cur aliud dixit?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h633
+:END:
+
+Nunquamne hodie concedes mihi,
+Neque intelliges?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h634
+:END:
+
+Si tu nihil narras—
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h635
+:END:
+
+Pergis?
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h636
+:END:
+
+Miror quid hoc siet.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h637
+:END:
+
+Equidem hercle nescio.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h638
+:END:
+
+Vin scire? At ita me servet Iupiter
+
+Ut propior illi quam ego sum ac tu nemo est.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h639
+:END:
+
+Di vestram fidem!
+Eamus ad ipsam: una omnes nos aut scire aut nescire hoc volo.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h640
+:END:
+
+Ah.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h641
+:END:
+
+Quid est?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h642
+:END:
+
+Itan parvam mihi fidem esse apud te?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h643
+:END:
+
+Vin me credere?
+Vin satis quaesitum mihi istuc esse? Age, fiat: quid? illa filia
+Amici nostri quid futurum est?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h644
+:END:
+
+Recte.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h645
+:END:
+
+Hanc igitur mittimus?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h646
+:END:
+
+Quidni?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h647
+:END:
+
+Illa maneat?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h648
+:END:
+
+Sic.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h649
+:END:
+
+Ire igitur tibi licet, Nausistrata.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h650
+:END:
+
+Sic pol commodius esse in omnes arbitror quam ut coeperas,
+Mancre hanc; nam perliberalis visa est quum vidi mihi.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h651
+:END:
+
+Quid istuc negoti est?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h652
+:END:
+
+Iamne operuit ostium?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h653
+:END:
+
+Iam.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h654
+:END:
+
+O Iupiter,
+Di nos respiciunt: gnatam inveni nuptam cum tuo tilio.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h655
+:END:
+
+Hem,
+
+Quo pacto id potuit?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h656
+:END:
+
+Non satis tutus est ad narrandum hic locus.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h657
+:END:
+
+At tu abi intro.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h658
+:END:
+
+Heus, ne filii quidem nostri hoc resciscant volo.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h659
+:END:
+
+(ANTIPHO.)
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h660
+:END:
+
+Laetus sum, ut meae res sese habent, fratri obtigisse quod vult.
+Quam scitum est eiusmodi parare in animo cupiditates
+Quas, quum res adversae sient, paulo mederi possis!
+Hic simul argentum repperit cura sese expedivit.
+
+Ego nullo possum remedio me evolvere ex his turbis
+Quin, si hoc celetur, in metu, sin patefit, ill probro sim.
+Neque me domum nunc reciperem, ni mihi esset spes ostenta
+Huiusce habendae. Sed ubinam Getam invenire possum,
+Ut rogem quod tempus conveniendi patris me capere iubeat?
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h661
+:END:
+
+(PHORMIO. ANTIPHO.)
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h662
+:END:
+
+Argentum accepi; tradidi lenoni; abduxi mulierem;
+Curavi propria ea Phaedria ut poteretur; nam emissa est manu.
+Nunc una mihi res etiam restat quae est conficienda, otium
+Ab senibus ad potandum ut habeam; nam aliquot hos sumam dies.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h663
+:END:
+
+Sed Phormio est. Quid ais?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h664
+:END:
+
+Quid?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h665
+:END:
+
+Quidnam nunc facturus Phaedria?
+Quo pacto satietatem amoris ait se velle sumere?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h666
+:END:
+
+Vicissim partes tuas acturus est.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h667
+:END:
+
+Quas?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h668
+:END:
+
+Ut fugitet patrem.
+Te suam rogavit rursum ut ageres, causam ut pro se diceres;
+Nam potaturus est apud me. Ego me ire senibus Sunium
+
+Dicam ad mercatum, ancillulam emtum quam dudum dixit Geta;
+Ne quum hic non videant me conficere credant argentum suum.
+Sed ostium concrepuit abs te.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h669
+:END:
+
+Vide quis egrediatur.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h670
+:END:
+
+Geta est.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h671
+:END:
+
+(GETA. ANTIPHO. PHORMIO.)
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h672
+:END:
+
+O Fortuna, O Fors fortuna, quantis commoditatibus
+Quam subito hero meo Antiphoni ope vestra hunc onerastis diem;
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h673
+:END:
+
+Quidnam hic sibi vult?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h674
+:END:
+
+nosque amicos eius exonerastis metu!
+Sed ego nunc mihi cesso qui non humerum hunc onero pallio,
+
+Atque hominem propero invenire, ut haec quae contigerint sciat.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h675
+:END:
+
+Num tu intelligis hic quid narret?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h676
+:END:
+
+Num tu?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h677
+:END:
+
+Nihil.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h678
+:END:
+
+Tantundem ego.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h679
+:END:
+
+Ad lenonem hinc ire pergam: ibi nunc sunt.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h680
+:END:
+
+Heus Geta.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h681
+:END:
+
+Hem tibi.
+Num mirum aut novum est revocari, cursum quum institueris?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h682
+:END:
+
+Geta.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h683
+:END:
+
+Pergit hercle. Nunquam tu odio tuo me vines.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h684
+:END:
+
+Non manes?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h685
+:END:
+
+Vapula.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h686
+:END:
+
+Id quidem tibi iam fiet, nisi resistis, verbero.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h687
+:END:
+
+Familiariorem oportet esse hunc: minitatur malum.
+Sed isne es quem quaero an non? ipsus est.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h688
+:END:
+
+Congredere actutum.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h689
+:END:
+
+Quid est?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h690
+:END:
+
+O omnium quantum est qui vivunt hominum homo ornatissime!
+Nam sine controversia ab Dis solus diligere, Antipho.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h691
+:END:
+
+Ita velim: sed qui istuc credam ita esse mihi diei velim.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h692
+:END:
+
+Satin est si te delibutum gaudio reddo?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h693
+:END:
+
+Enicas.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h694
+:END:
+
+Quin tu hinc pollicitationes aufer, et quod fers cedo.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h695
+:END:
+
+Oh,
+Tu quoque hic aderas, Phormio?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h696
+:END:
+
+Aderam: sed cessas?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h697
+:END:
+
+Accipe, hem,
+Ut modo argentum tibi dedimus apud forum, recta domum
+
+Sumus profecti: interea mittit herus me ad uxorem tuam.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h698
+:END:
+
+Quamobrem?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h699
+:END:
+
+Omitto proloqui; nam nihil ad hanc rem est, Antipho.
+Ubi in gynaeceum ire occipio, puer ad me adcurrit Mida;
+Pone apprehendit pallio; resupinat: respicio; rogo
+Quamobrem retineat me: ait esse vetitum intro ad heram accedere.
+
+Sophrona modo fratrem huc, inquit, senis introduxit Chremem,
+Eumque nunc esse intus cum illis. Hoc ubi ego audivi, ad fores
+Suspenso gradu placide ire perrexi; accessi; adstiti;
+Animam compressi; aurem admovi: ita animum coepi attendere,
+Hoc modo sermonem captans.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h700
+:END:
+
+Eu Geta.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h701
+:END:
+
+Hic pulcherrimum
+
+Facinus audivi: itaque paene hercle exclamavi gaudio.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h702
+:END:
+
+Quod?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h703
+:END:
+
+Quodnam arbitrare?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h704
+:END:
+
+Nescio.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h705
+:END:
+
+Atqui mirificissimum:
+Patruus tuus pater est inventus Phanio uxori tuae.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h706
+:END:
+
+Hem.
+Quid ais?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h707
+:END:
+
+Cum eius consuevit olim matre in Lemno clanculum.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h708
+:END:
+
+Somnium. Utine haec ignoraret suum patrem?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h709
+:END:
+
+Aliquid credito,
+
+Phormio, esse causae: sed me censen potuisse omnia
+Intelligere extra ostium intus quae inter sese ipsi egerint?
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h710
+:END:
+
+Atque hercle ego quoque illam audivi fabulam.
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h711
+:END:
+
+Immo etiam dabo
+Quo magis credas. Patruus interea inde huc egreditur foras:
+Haud multo post cum patre idem recipit se intro denuo:
+
+Ait uterque tibi potestatem eius habendae se dare.
+Denique ego missus sum te ut requirerem atque adducerem.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h712
+:END:
+
+Quin ergo rape me: quid cessas?
+
+* GETA
+:PROPERTIES:
+:CUSTOM_ID: h713
+:END:
+
+Fecero.
+
+* ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h714
+:END:
+
+O mi Phormio,
+Vale.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h715
+:END:
+
+Vale, Antipho: bene, ita me Di ament, factum: gaudeo
+Tantam fortunam de improviso esse his datam.
+
+Summa eludendi occasio est mihi nunc senes,
+Et Phaedriae curam adimere argentariam,
+Ne cuiquam suorum aequalium supplex siet:
+Nam idem hoc argentum, ita ut datum est, ingratiis
+Ei datum erit: hoc qui cogam re ipsa repperi.
+
+Nunc gestus mihi vultusque est capiendus novus.
+Sed hince concedam in angiportum hoc proximum:
+Inde hisce ostendam me, ubi erunt egressi foras.
+Quo me assimularam ire ad mercatum non eo.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h716
+:END:
+
+(DEMIPHO. PHORMIO. CHREMES.)
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h717
+:END:
+
+Dis magnas merito gratias habeo atque ago,
+Quando evenere haec nobis, frater, prospere.
+Quantum potest nunc conveniendus Phormio est,
+Priusquam dilapidet nostras triginta minas
+
+Ut auferamus.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h718
+:END:
+
+Demiphonem, si domi est,
+Visam: ut, quod—
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h719
+:END:
+
+At nos ad te ibamus, Phormio.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h720
+:END:
+
+De eadem hac fortasse causa.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h721
+:END:
+
+Ita hercle.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h722
+:END:
+
+Credidi.
+Quid ad me ibatis? Ridiculum. Verebamini
+Ne non id facerem quod recepissem semel?
+
+Heus, quanta quanta haec mea paupertas est, tamen
+Adhuc curavi unum hoc quidem, ut mihi esset fides.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h723
+:END:
+
+Estne ea, ita ut dixi, liberalis?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h724
+:END:
+
+Oppido.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h725
+:END:
+
+Itaque ad vos venio nuntiatum, Demipho,
+Paratum me esse: ubi vultis, uxorem date;
+
+Nam omnes posthabui mihi res, ita uti par fuit,
+Postquam tantopere id vos velle animadverteram.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h726
+:END:
+
+At hic dehortatus est me ne illam tibi darem;
+/Nam qui erit rumor populi,/ inquit, /si id feceris?/
+/Olim quum honeste potuit tum non est data:/
+
+/Nunc viduam extrudi turpe est:/ ferme eadem omnia
+Quae tute dudum coram me incusaveras.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h727
+:END:
+
+Satis superbe illuditis me.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h728
+:END:
+
+Qui?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h729
+:END:
+
+Rogas?
+Quia ne alteram quidem illam potero ducere:
+Nam quo redibo ore ad eam quam contemserim?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h730
+:END:
+
+Tum autem Antiphonem video ab sese amittere
+Invitum eam; inque.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h731
+:END:
+
+Tum autem video filium
+Invitum sane mulierem ab se amittere.
+Sed transi sodes ad forum, atque illud mihi
+Argentum rursum iube rescribi, Phormio.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h732
+:END:
+
+Quodne ego discripsi porro illis quibus debui
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h733
+:END:
+
+Quid igitur fiet?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h734
+:END:
+
+Si vis mihi uxorem dare,
+Quam despondisti, ducam: sin est ut velis
+Mancre illam apud te, dos hic maneat, Demipho.
+Nam non est aequum me propter vos decipi,
+
+Quum ego vestri honoris causa repudium alterae
+Remiserim quae dotis tantundem dabat.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h735
+:END:
+
+I hinc in malam rein cum istac magnificentia,
+Fugitive: etiam nunc credis te ignorarier,
+Aut tua facta adeo?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h736
+:END:
+
+Irritor.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h737
+:END:
+
+Tune hanc duceres,
+
+Si tibi data esset?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h738
+:END:
+
+Fac periclum.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h739
+:END:
+
+Ut filius
+Cum illa habitet apud te; hoc vestrum consilium fuit.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h740
+:END:
+
+Quaeso, quid narras?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h741
+:END:
+
+Quin tu mihi argentum cedo.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h742
+:END:
+
+Immo vero uxorem tu cedo.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h743
+:END:
+
+In ius ambula.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h744
+:END:
+
+In ius? enimvero si porro esse odiosi pergitis—
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h745
+:END:
+
+Quid facies?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h746
+:END:
+
+Egone? Vos me indotatis modo
+Patrocinari fortasse arbitramini:
+Etiam dotatis soleo.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h747
+:END:
+
+Quid id nostra?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h748
+:END:
+
+Nihil.
+Hic quandam noram cuius vir uxorem —
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h749
+:END:
+
+Hem.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h750
+:END:
+
+Quid est?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h751
+:END:
+
+Lemni habuit aliam:—
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h752
+:END:
+
+Nullus sum.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h753
+:END:
+
+ex qua filiam
+
+Suscepit; et eam clam educat.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h754
+:END:
+
+Sepultus sum.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h755
+:END:
+
+Haec adeo ego illi iam denarrabo.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h756
+:END:
+
+Obsecro,
+Ne facias.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h757
+:END:
+
+Oh, tune is eras? Ut ludos facit.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h758
+:END:
+
+Missum te facimus.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h759
+:END:
+
+Fabulae.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h760
+:END:
+
+Quid vis tibi?
+Argentum quod habes condonamus te.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h761
+:END:
+
+Audio.
+
+Quid vos, malum, ergo me sic ludificamini,
+Inepti, vestra puerili sententia?
+/Nolo, volo: volo, nolo rursum: cedo, cape./
+/Quod dictum, indictum est: quod modo erat ratum, irritum est./
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h762
+:END:
+
+Quo pacto aut unde haec hic rescivit?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h763
+:END:
+
+Nescio;
+
+Nisi me dixisse nemini id certo scio.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h764
+:END:
+
+Monstri, ita me Di ament, simile.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h765
+:END:
+
+Inieci scrupulum.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h766
+:END:
+
+Hem.
+Hicine ut a nobis hoc tantum argenti auferat,
+Tam aperte irridens? Emori hercle satius est.
+Animo virili praesentique ut sis para:
+
+Vides tuum peccatum esse clatum foras;
+Neque iam id celare posse te uxorem tuam.
+Nunc quod ipsa ex aliis auditura sit, Chreme,
+Id nosmet ipsos indicare placabilius est.
+Tum hunc impuratum poterimus nostro modo
+
+Ulcisci.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h767
+:END:
+
+Atat, nisi inihi prospicio, haereo.
+Hi gladiatorio animo ad me affectant viam.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h768
+:END:
+
+At vereor ut placari possit.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h769
+:END:
+
+Bono animo es.
+Ego redigam vos in gratiam, hoc fretus, Chreme,
+Quum e medio excessit unde haec suscepta est tibi.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h770
+:END:
+
+Itane agitis mecum? Satis astute aggredimini.
+Non hercle ex re istius me instigasti, Demipho.
+Ain tu? Ubi quae libitum fuerit peregre feceris,
+Neque huius sis veritus feminae primariae,
+Quin novo modo ei faceres contumeliam,
+
+Venias mihi precibus lautum peccatum tuum?
+Hisce ego illlam dictis ita tibi incensam dabo
+Ut ne restinguas lacrimis si exstillaveris.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h771
+:END:
+
+Malum quod isti Di Deaeque omnes duiut.
+Tantane affectum quenquam esse hominem audacia?
+
+Non hoc publicitus scelus hinc deportarier
+In solas terras?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h772
+:END:
+
+In id redactus sum loci
+Ut quid agam cum illo nesciam prorsum.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h773
+:END:
+
+Ego scio:
+In ius eamus.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h774
+:END:
+
+In ius? huc, si quid libet.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h775
+:END:
+
+Assequere ac retine, dum ego huc servos evoco.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h776
+:END:
+
+Enim solus nequeo: accurre huc.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h777
+:END:
+
+Una iniuria est
+Tecum.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h778
+:END:
+
+Lege agito ergo.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h779
+:END:
+
+Altera est tecum, Chreme.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h780
+:END:
+
+Rape hunc.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h781
+:END:
+
+Itane agitis? enimvero voce est opus.
+Nausistrata, exi.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h782
+:END:
+
+Os opprime.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h783
+:END:
+
+Impurum vide,
+Quantum valet.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h784
+:END:
+
+Nausistrata, inquam.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h785
+:END:
+
+Non taces?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h786
+:END:
+
+Taceam?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h787
+:END:
+
+Nisi sequitur, pugnos in ventrem ingere.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h788
+:END:
+
+Vel oculum exclude: est ubi vos ulciscar probe.
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h789
+:END:
+
+(NAUSISTRATA. CHREMES. PHORMIO. DEMIPHO.)
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h790
+:END:
+
+Quis nominat me?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h791
+:END:
+
+Hem.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h792
+:END:
+
+Quid istuc turbae est, obsecro,
+Mi vir?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h793
+:END:
+
+Ehem, quid nunc obstipuisti?
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h794
+:END:
+
+Quis hic homo est?
+Non mihi respondes?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h795
+:END:
+
+Hicine ut tibi respondeat,
+Qui hercle ubi sit nescit?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h796
+:END:
+
+Cave isti quicquam creduas.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h797
+:END:
+
+Abi, tange: si non totus friget, me enica.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h798
+:END:
+
+Nihil est.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h799
+:END:
+
+Quid ergo est? quid istic narrat?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h800
+:END:
+
+Iam scies:
+Ausculta.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h801
+:END:
+
+Pergin credere?
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h802
+:END:
+
+Quid ego, obsecro,
+Huic credam qui nihil dixit?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h803
+:END:
+
+Delirat miser
+Timore.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h804
+:END:
+
+Non pol temere est quod tu tam times.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h805
+:END:
+
+Ego timeo?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h806
+:END:
+
+Recte sane: quando nihil times,
+Et hoc nihil est quod ego dico, tu narra.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h807
+:END:
+
+Scelus!
+Tibi narret?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h808
+:END:
+
+Eho tu, factum est abs te sedulo
+Pro fratre.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h809
+:END:
+
+Mi vir, non mihi narras?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h810
+:END:
+
+At—
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h811
+:END:
+
+Quid, /at?/
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h812
+:END:
+
+Non opus est dicto.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h813
+:END:
+
+Tibi quidem: at scito huic opus est.
+
+In Lemno—
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h814
+:END:
+
+Hem, quid ais?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h815
+:END:
+
+Non taces?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h816
+:END:
+
+clam te—
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h817
+:END:
+
+Hei mihi.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h818
+:END:
+
+Uxorem duxit.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h819
+:END:
+
+Mi homo, Di melius duint.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h820
+:END:
+
+Sic factum est.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h821
+:END:
+
+Perii misera.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h822
+:END:
+
+Et inde filiam
+Suscepit iam unam, dum tu dormis.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h823
+:END:
+
+Quid agimus?
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h824
+:END:
+
+Pro Di immortales, facinus indignum, et malum.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h825
+:END:
+
+Hoc actum est.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h826
+:END:
+
+An quicquam hodie est factum indignius?
+Qui mihi ubi ad uxores ventum est tum fiunt senes.
+Demipho, te appello; nam me cum hoc ipso distaedet loqui.
+Haecine erant itiones crebrae, et mansiones diutinae
+Lemni? haecine erat ea quae nostros fructus minuebat vilitas?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h827
+:END:
+
+Ego, Nausistrata, esse in hac re culpam meritam non nego;
+Sed ea quin sit ignoscenda.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h828
+:END:
+
+Verba fiunt mortuo.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h829
+:END:
+
+Nam neque negligentia tua, neque odio id fecit tuo.
+Vinolentus fere abhinc annos quindecim mulierculam
+Eam compressit, unde haec nata est: neque postilla unquam attigit.
+
+Ea mortem obiit, e medio abiit, qui fuit in re hac serupulus.
+Quamobrem te oro, ut alia facta tua sunt, aequo animo hoc feras.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h830
+:END:
+
+Quid ego aequo animo? Cupio misera in hac re iam defungier.
+Sed quid sperem? aetate porro minus peccaturum putem?
+Iam tum erat senex, senectus si verecundos facit.
+
+An mea forma atque aetas nunc magis expetenda est, Demipho?
+Quid mihi nunc affers quamobrem exspectem aut sperem porro non fore?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h831
+:END:
+
+Exsequias Chremeti quibus est commodum ire hem tempus est.
+Sic dabo: age nunc, age, Phormionem qui volet lacessito.
+Faxo tali eum mactatum atque hic est infortunio.
+
+Redeat sane in gratiam: iam supplici satis est mihi:
+Habet haec ei quod dum vivat usque ad aurem ogganniat.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h832
+:END:
+
+At meo merito, credo: quid ego nunc commemorem, Demipho,
+Singulatim qualis ego in hunc fuerim?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h833
+:END:
+
+Novi aeque omnia
+Tecum.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h834
+:END:
+
+Meritone hoc meo videtur factum?
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h835
+:END:
+
+Minime gentium;
+
+Verum, quando iam accusando fieri infectum non potest,
+Ignosce: orat; confitetur; purgat: quid vis amplius?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h836
+:END:
+
+Enimvero prius quam haec dat veniam, mihi prospiciam et Phaedriae.
+Heus, Nausistrata, prius quam huic respondes temere, audi.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h837
+:END:
+
+Quid est?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h838
+:END:
+
+Ego minas triginta per fallaciam ab illo abstuli;
+
+Eas dedi tuo gnato; is pro sua amica lenoni dedit.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h839
+:END:
+
+Hem, quid ais?
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h840
+:END:
+
+Adeone hoc indignum tibi videtur, filius
+Homo adolescens si habet unam amicam, tu uxores duas?
+Nihil pudere! Quo ore illum obiurgabis? responde mihi.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h841
+:END:
+
+Faciet ut voles.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h842
+:END:
+
+Immo, ut meam iam scias sententiam,
+
+Neque ego ignosco neque promitto quicquam; neque respondeo,
+Prius quam gnatum video: eius iudicio permitto omnia;
+Quod is iubebit, faciam.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h843
+:END:
+
+Mulier sapiens es, Nausistrata.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h844
+:END:
+
+Satin tibi est Chreme?
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h845
+:END:
+
+Immo vero pulchre discedo et probe,
+Et praeter spem.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h846
+:END:
+
+Tu tuum nomen die quod est.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h847
+:END:
+
+Mihin? Phormio:
+
+Vestrae familiae hercle amicus, et tuo summus Phaedriae.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h848
+:END:
+
+Phormio, at ego ecastor posthac tibi quod potero et quae voles
+Faciamque et dicam.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h849
+:END:
+
+Benigne dicis.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h850
+:END:
+
+Pol meritum est tuum.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h851
+:END:
+
+Vin primum hodie facere quod ego gaudeam, Nausistrata,
+Et quod tuo viro oculi doleant?
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h852
+:END:
+
+Cupio.
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h853
+:END:
+
+Me ad coenam voca.
+
+* NAUSISTRATA
+:PROPERTIES:
+:CUSTOM_ID: h854
+:END:
+
+Pol vero voco.
+
+* DEMIPHO
+:PROPERTIES:
+:CUSTOM_ID: h855
+:END:
+
+Eamus intro hinc.
+
+* CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h856
+:END:
+
+Fiat: sed ubi est Phaedria,
+Iudex noster?
+
+* PHORMIO
+:PROPERTIES:
+:CUSTOM_ID: h857
+:END:
+
+Iam hic faxo aderit.
+
+* Ω
+:PROPERTIES:
+:CUSTOM_ID: h858
+:END:
+
+Vos valete et plaudite.

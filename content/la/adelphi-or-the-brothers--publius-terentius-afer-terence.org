@@ -1,0 +1,5807 @@
+#+TITLE: Adelphi
+#+AUTHOR: Publius Terentius Afer (Terence)
+#+FILETAGS: :classical:2c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/adelphi-or-the-brothers--publius-terentius-afer-terence
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Adelphi edited by Edward St. John Parry
+#+END_QUOTE
+
+* front
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+AESCHINUS, adolescens.
+CANTHARA, nutrix Pamphilae.
+CTESIPHO, adolescens, frater Aeschini.
+DROMO, servus Micionis.
+DEMEA, senex, frater Micionis, pater Aeschini et Ctesiphonis.
+GETA, servus Sostratae.
+HEGIO, senex, propinquus Pamphilae.
+MICIO, senex, frater Demeae, pater adoptivus Aeschini.
+PAMPHILA, filia Sostratae, amica Aeschini.
+SANNIO,leno.
+SOSTRATA, mater Pamphilae.
+SYRUS, servus Aeschini.
+
+INTRODUCTION.
+This play derives its name from the two pairs of brothers who are introduced. Demea and Micio, the elders, had always been very dissimilar in character and manner of life. Micio was a pleasant old bachelor, and had always lived in town, and was very lenient and indulgent towards his young relations. Demea on the contrary had kept up the thrifty habits of his early years, residing on his farm and taking a severe view of the conduct of his sons. Ctesipho, the younger of his sons, lived with his father at this farm; but Aeschinus, the elder, had been adopted by his uncle. They had accordingly been very differently brought up. Ctesipho had been kept very strictly at home, and was, to the best of his father’s belief, a model of propriety. Aeschinus had been indulged by his uncle in every way, till he was notorious for his dissipation. He went so far at last as to offer violence to a young lady named Pamphila, whom he met one night when he was intoxicated. This was the last of his excesses. He promised to make all amends in his power by marrying Pamphila, and on this condition the matter was kept quiet by Sostrata her mother. Ctesipho in one of his visits to the town had fallen in love with a music girl belonging to a slave-merchant, and was carrying on an intercourse with her under the cover of his brother’s name; for Aeschinus had taken the credit of the affair to himself that his father might not hear of Ctesipho’s doings. After a time the slave-merchant gave notice to Ctesipho that unless he bought the music girl at his price she should be immediately sold. Ctesipho was in the greatest despair at this announcement, and was half inclined to run away from his troubles and leave the country, when Aeschinus, hearing the state of the case, cut matters short by breaking into the house of Sannio the slave-merchant, maltreating him, and carrying off the girl to his own house, where she was received by Ctesipho.
+
+Here the action of the play commences. Demea coming into town hears of this new outrage of Aeschinus’, and accuses his brother Micio of being the cause of all this excess. It was his indulgence that had made Aeschinus so dissolute. How different was the conduct of his brother Ctesipho who had been brought up strictly at home in the country! Micio in return justifies his mode of education. Meanwhile Aeschinus is busied, with the assistance of his slave Parmeno, in arranging matters with Sannio, who blusters loudly at first, but finds at last that the best plan is to pocket his affront and trust to the young men to pay him, for he will lose more by waiting to prosecute the affair, as he is on the eve of a voyage to Cyprus, than if he abandons the slave altogether. The news of Aeschinus’ prank had spread over the city, and it was now carried to Sostrata his destined mother-in-law by Geta her slave, who had witnessed the whole affair. Sostrata sends her trusty Geta to Hegio, an old friend of her late husband Simulus, who will stand by her, and see that her daughter has justice done her. Demea in the mean time is in consternation, for he has heard that Ctesipho was with Aeschinus when this music girl was carried off; but Syrus, one of Micio’s slaves, contrives, with great skill, to make the fact increase his good opinion of his son; for he represents Ctesipho to have taken part in the affair only to blame his brother’s dissolute conduct, and says that as soon as the matter was over he had returned to the country to his usual work. Demea is greatly affected to find that he has one son who is a credit to his family, and sets off for his farm. On his way he meets Hegio, from whom he learns the circumstances of Aeschinus’ connexion with Pamphila; and at the same time he finds from one of his farm servants that Ctesipho has never been to the farm at all, as Syrus had pretended. These news send him back to Micio in a rage; but he is again met with a new fiction by Syrus, who revenges himself on him by sending him on a fool’s errand over the whole town to look for his brother. Micio meanwhile has been with Hegio to Sostrata and Pamphila, and has comforted them by giving his consent to the marriage of the young lady and Aeschinus. Demea now returns from his fruitless search after his brother, and there is a general disturbance, particularly when one of the slaves accidentally betrays the fact of Ctesipho’s being in Micio’s house, where his father finds him with the music girl. After some more discussions between Demea and Micio, the former suddenly determines to change his demeanour; and to the surprise of every one whom he meets, and not a little to his own, he acts the courteous and complaisant man. He falls in with all their humours, and promotes the happiness of all parties. Pamphila is married to Aeschinus; Sannio is paid; Micio is made to marry Sostrata; Hegio is provided for; and Syrus and his wife are freed in consideration of the great services which the cunning slave had rendered to morality. The play concludes with a speech in which Demea explains the meaning of his late conduct, and gives his hearers a little wholesome advice for the future.
+
+ADELPHI.  ACTA LUDIS FUNEBRIBUS AEMILII PAULLI QUOS FECERE Q. FABIUS MAXIMUS, P. CORNELIUS AFRICANUS. EGERE L. ATTILIUS PRAENESTINUS, MINUTIUS PROTHIMUS. MODOS FECIT FLACCUS CLAUDII, TIBIIS SARRANIS. FACTA GRAECA MENANDRU L. ANICIO M. CORNELIO COSS.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** PROLOGUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+POSTQUAM Poëta sensit scripturam suam
+Ab iniquis observari, et adversarios
+Rapere in peiorem partem quam acturi sumus,
+Indicio de se ipse erit; vos eritis iudices
+
+Laudine an vitio duci id factum oporteat.
+Synapothnescontes Diphili comoedia est.
+Eam Commorientes Plautus fecit fabulam.
+In Graeca adolescens est qui lenoni eripuit
+Meretricem in prima fabula. Eum Plautus locum
+
+Reliquit integrum: eum hic locum sumpsit sibi
+In Adelphos; verbum de verbo expressum extulit.
+Eam nos acturi sumus novam: pernoscite
+Furtumne factum existimetis, an locum
+Reprehensum qui praeteritus negligentia est.
+
+Nam quod isti dicunt malevoli, homines nobiles
+Eum adiutare, assidueque una scribere;
+Quod illi maledictum vehemens esse existimant
+Eam laudem hic ducit maximam, quum illis placet
+Qui vobis universis et populo placent;
+
+Quorum opera in bello, in otio, in negotio,
+Suo quisque tempore usus est sine superbia.
+Dehinc ne exspectetis argumentum fabulae:
+Senes qui primi venient ii partem aperient;
+In agendo partem ostendent. Facite, aequanimitas
+
+Poëtae ad scribendum augeat industriam.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 26
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+(MICIO.)
+
+** MICIO.
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+Storax—Non rediit hac nocte a coena Aeschinus,
+Neque servulorum quisquam qui adversum ierant.
+Profecto hoc vere dicunt: si absis uspiam,
+Aut ubi si cesses, evenire ea satius est
+
+Quae in te uxor dicit et quae in animo cogitat
+Irata quam illa quae parentes propitii.
+Uxor si cesses aut te amare cogitat,
+Aut tete amari, aut potare, aut animo obsequi;
+Et tibi bene esse soli quum sibi sit male.
+
+Ego quia non rediit filius quae cogito, et
+Quibus nunc sollicitor rebus! ne aut ille alserit,
+Aut uspiam ceciderit, aut perfregerit
+Aliquid. Vah, quemquamne hominem in animum instituere aut
+Parare quod sit carius quam ipse est sibi?
+
+Atqui ex me hic non natus est, sed ex fratre. Is adeo
+Dissimili studio est iam inde ab adolescentia.
+Ego hanc clementem vitam urbanam atque otium
+Secutus sum; et, quod fortunatum isti putant,
+Uxorem numquam habui. Ille contra haec omnia:
+
+Ruri agere vitam; semper parce ac duriter
+Se habere: uxorem duxit; nati filii
+Duo: inde ego hunc maiorem adoptavi mihi;
+Eduxi a parvulo; habui, amavi pro meo;
+In eo me oblecto; solum id est carum mihi.
+
+Ille ut item contra me habeat facio sedulo:
+Do, praetermitto: non necesse habeo omnia
+Pro meo iure agere. Postremo alii clanculum
+Patres quae faciunt, quae fert adolescentia,
+Ea ne me celet consuefeci filium;
+
+Nam qui mentiri aut fallere insuerit patrem, aut
+Audebit, tanto magis audebit caeteros.
+Pudore et liberalitate liberos
+Retinere satius esse credo quam metu.
+Haec fratri mecum non convenient neque placent.
+
+Venit ad me saepe clamitans, /Quid agis, Micio?/
+/Cur perdis adolescentem nobis? cur amat?/
+/Cur potat? cur tu his rebus sumtum suggeris?/
+/Vestitu nimio indulges; nimium ineptus es./
+Nimium ipse est durus praeter aequumque et bonum:
+
+Et errat longe mea quidem sententia
+Qui imperium credat gravius esse aut stabilius
+Vi quod fit quam illud quod amicitia adiungitur.
+Mea sic est ratio, et sic animum induco meum:
+Malo coactus qui suum officium facit
+
+Dum id rescitum iri credit tantisper cavet:
+Si sperat fore clam rursum ad ingenium redit.
+Ille quem beneficio adiungas ex animo facit;
+Studet par referre: praesens absensque idem erit.
+Hoc patrium est, potius consuefacere filium
+
+Sua sponte recte facere quam alieno metu.
+Hoc pater ac dominus interest: hoc qui nequit,
+Fateatur nescire imperare liberis.
+Sed estne hic ipsus de quo agebam? et certe is est.
+Nescio quid tristem video: credo iam ut solet
+
+Iurgabit. Salvum te advenire, Demea,
+Gaudemus.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+* 81b
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+(DEMEA. MICIO.)
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+Ehem, opportune: te ipsum quaerito.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h2
+:END:
+
+Quid tristis es?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h3
+:END:
+
+Rogas me, ubi nobis Aeschinus
+Siet, quid tristis ego sim?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h4
+:END:
+
+Dixine hoc fore?
+Quid fecit?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h5
+:END:
+
+Quid ille fecerit? quem neque pudet
+
+Quicquam; nec metuit quemquam; neque legem putat
+Tenere se ullam: nam illa quae antehac facta sunt
+Omitto: modo quid designavit!
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h6
+:END:
+
+Quidnam id est?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h7
+:END:
+
+Fores effregit atque in aedes irruit
+Alienas: ipsum dominum atque omnem familiam
+
+Mulcavit usque ad mortem: eripuit mulierem
+Quam amabat. Clamant omnes indignissime
+Factum esse. Hoc advenienti quot mihi, Micio,
+Dixere! in ore est omni populo. Denique,
+Si conferendum exemplum est, non fratrem videt
+
+Rei dare operam, ruri esse parcum ac sobrium?
+Nullum huius simile factum. Haec quum illi, Micio,
+Dico tibi dico: tu illum corrumpi sinis.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h8
+:END:
+
+Homine imperito nunquam quicquam iniustius,
+Qui nisi quod ipse fecit nihil rectum putat.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h9
+:END:
+
+Quorsum istuc?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h10
+:END:
+
+Quia tu Demea haec male iudicas.
+
+Non est flagitium, mihi crede, adolescentulum
+Scortari neque potare; non est; neque fores
+Effringere. Haec si neque ego neque tu fecimus,
+Non siit egestas facere nos. Tu nunc tibi
+
+Id laudi ducis quod tum fecisti inopia?
+Iniurium est; nam si esset unde id fieret,
+Faceremus: et tu illum tuum, si esses homo,
+Sineres nunc facere, dum per aetatem licet,
+Potius quam, ubi te exspectatum eiecisset foras,
+
+Alieniore aetate post faceret tamen.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h11
+:END:
+
+Pro Iupiter! tu homo adigis me ad insaniam.
+Non est flagitium, facere haec adolescentulum?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h12
+:END:
+
+Ah,
+Ausculta: ne me obtundas de hac re saepius.
+Tuum filium dedisti adoptandum mihi:
+
+Is meus est factus: si quid peccat Demea,
+Mihi peccat: ego illi maximam partem feram.
+Obsonat, potat, olet unguenta; de meo.
+Amat; a me argentum dabitur dum erit commodum:
+Ubi non erit fortasse excludetur foras.
+
+Fores effregit; restituentur: discidit
+Vestem; resarcietur. Est, Dis gratia,
+Et unde haec flant, et adhuc non molesta sunt.
+Postremo aut desine, aut cedo quemvis arbitrum:
+Te plura in hac re peccare ostendam.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h13
+:END:
+
+Hei mihi!
+
+Pater esse disce ab illis qui vere sciunt.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h14
+:END:
+
+Natura tu illi pater es, consiliis ego.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h15
+:END:
+
+Tun consulis quicquam?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h16
+:END:
+
+Ah, si pergis abiero.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h17
+:END:
+
+Sicine agis?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h18
+:END:
+
+An ego toties de eadem re audiam?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h19
+:END:
+
+Curae est mihi.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h20
+:END:
+
+Et mihi curae est: verum Demea
+
+Curemus aequam uterque partem: tu alterum,
+Ego item alterum; nam ambos curare propemodum
+Reposcere illum est quem dedisti.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h21
+:END:
+
+Ah, Micio.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h22
+:END:
+
+Mihi sic videtur.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h23
+:END:
+
+Quid istic? tibi si istic placet,
+Profundat, perdat, pereat: nihil ad me attinet.
+
+Iam si verbum unum posthac—
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h24
+:END:
+
+Rursum, Demea,
+Irascere?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h8-h25
+:END:
+
+An non credis? repeto quem dedi?
+Aegre est: alienus non sum: si obsto, hem, desino.
+Unum vis curem; curo; et est Dis gratia
+Quum ita ut volo est. Iste tuus ipse sentiet
+
+Posterius—nolo in illum gravius dicere.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h8-h26
+:END:
+
+Nec nihil neque omnia haec sunt quae dicit; tamen
+Nonnihil molesta sunt haec mihi: sed ostendere
+Me aegre pati illi nolui: nam ita est homo;
+Quum placo adversor sedulo et deterreo.
+
+Tamen vix humane patitur: verum si augeam,
+Aut etiam adiutor sim eius iracundiae,
+Insaniam profecto cum illo; etsi Aeschinus
+Nonnullam in hac re nobis facit iniuriam.
+Quam hic non amavit meretricem? aut cui non dedit
+
+Aliquid? postremo, nuper (credo iam omnium
+Taedebat) dixit velle uxorem ducere.
+Sperabam iam defervisse adolescentiam:
+Gaudebam. Ecce autem de integro. Nisi quicquid est
+Volo scire, atque hominem convenire si apud forum est.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+* 155
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+(SANNIO. AESCHINUS. PARMENO.)
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h1
+:END:
+
+Obsecro, populares, ferte misero atque innocenti auxilium:
+Subvenite inopi.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h2
+:END:
+
+Otiose nunc iam ilico hic consiste.
+Quid respectas? nihil pericli est: nunquam dum ego adero hic te tanget.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h3
+:END:
+
+Ego istam invitis omnibus—
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h4
+:END:
+
+Quamquam est scelestus non committet hodie unquam iterum ut vapulet.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h5
+:END:
+
+Aeschine audi: ne te ignarum fuisse dicas meorum morum;
+Leno ego sum.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h6
+:END:
+
+Scio.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h7
+:END:
+
+At ita ut usquam fuit fide quisquam optima.
+Tu quod te posterius purges hanc iniuriam mihi nolle
+Factam esse huius non faciam: crede hoc; ego meum ius persequar;
+
+Neque tu verbis solves unquam quod mihi re male feceris.
+Novi ego vestra haec: /Nollem factum;/ iusiurandum dabitur te esse
+Indignum iniuria hac; indignis quum egomet sim acceptus modis.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h8
+:END:
+
+Abi prae strenue ac fores aperi.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h9
+:END:
+
+Ceterum hoc nihil facis.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h10
+:END:
+
+I intro iam nunc.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h11
+:END:
+
+At enim non sinam.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h12
+:END:
+
+Accede illuc Parmeno;
+
+Nimium istoc abisti: hic propter hunc adsiste. Hem, sic volo.
+Cave nunc iam oculos a meis oculis quoquam demoveas tuos:
+Ne mora sit si innuerim quin pugnus continuo in mala haereat.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h13
+:END:
+
+Istuc volo ergo ipsum experiri.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h14
+:END:
+
+Hem, serva: omitte mulierem.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h15
+:END:
+
+O facinus indignum!
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h16
+:END:
+
+Geminabit nisi caves.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h17
+:END:
+
+Hei misero mihi!
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h18
+:END:
+
+Non innueram: verum in istam partem potius peccato tamen.
+I nunc iam.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h19
+:END:
+
+Quid hoc rei est! regnumne Aeschine hic tu possides?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h20
+:END:
+
+Si possiderem ornatus esses ex tuis virtutibus.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h21
+:END:
+
+Quid tibi rei mecum est?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h22
+:END:
+
+Nihil.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h23
+:END:
+
+Quid? nostin qui sim?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h24
+:END:
+
+Non desidero.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h25
+:END:
+
+Tetigin tui quicquam?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h26
+:END:
+
+Si attigisses ferres infortunium.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h27
+:END:
+
+Qui tibi magis licet meam habere pro qua ego argentum dedi?
+Responde.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h28
+:END:
+
+Ante aedes non fecisse erit melius hic convicium;
+Nam si molestus pergis esse iam intro abripiere atque ibi
+Usque ad necem operiere loris.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h29
+:END:
+
+Loris liber?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h30
+:END:
+
+Sic erit.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h31
+:END:
+
+O hominem impurum! hicine libertatem aiunt aequam esse omnibus?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h32
+:END:
+
+Si satis iam debacchatus es leno audi si vis nunc iam.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h33
+:END:
+
+Egon debacchatus sum autem, an tu in me?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h34
+:END:
+
+Mitte ista, atque ad rem redi.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h35
+:END:
+
+Quam rem? quo redeam?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h36
+:END:
+
+Iamne me vis dicere id quod ad te attinet?
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h37
+:END:
+
+Cupio; aequi modo aliquid.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h38
+:END:
+
+Vah! leno iniqua me non vult loqui.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h39
+:END:
+
+Leno sum, fateor, pernicies communis adolescentium;
+
+Periurus, pestis; tamen tibi a me nulla orta est iniuria.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h40
+:END:
+
+Nam hercle etiam hoc restat.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h41
+:END:
+
+Illuc quaeso redi quo coepisti, Aeschine.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h42
+:END:
+
+Minis viginti tu illam emisti; quae res tibi vertat male.
+Argenti tantum dabitur.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h43
+:END:
+
+Quid si ego tibi illam nolo vendere,
+Coges me?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h44
+:END:
+
+Minime.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h45
+:END:
+
+Namque id metui.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h46
+:END:
+
+Neque vendendam censeo,
+
+Quae libera est; nam ego liberali illam assero causa manu.
+Nunc vide utrum vis; argentum accipere, an causam meditari tari tuam?
+Delibera hoc dum ego redeo leno.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h47
+:END:
+
+Pro supreme Iupiter!
+Minime miror qui insanire occipiunt ex iniuria.
+Domo me eripuit; verberavit; me invito abduxit meam:
+
+Homini misero plus quingentos colaphos infregit mihi.
+Ob malefacta haec tantidem emtam postulat sibi tradier.
+Verum enim, quando bene promeruit, fiat: suum ius postulat.
+Age iam cupio, si modo argentum reddat. Sed ego hoc hariolor;
+Ubi me dixero dare tanti, testes faciet ilico
+
+Vendidisse me: de argento somnium: mox; /Cras redi./
+Id quoque possum ferre si modo reddat; quanquam iniurium est.
+Verum cogito id quod res est: quando eum quaestum occeperis,
+Accipienda et mussitanda iniuria adolescentium est.
+Sed nemo dabit: frustra has egomet mecum rationes puto.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+* 209
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+(SYRUS. SANNIO.)
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h1
+:END:
+
+Tace, egomet conveniam iam ipsum: cupide accipiat faxo; atque etiam
+Bene dicat secum esse actum. Quid istuc, Sannio, est quod te audio
+Nescio quid concertasse cum hero?
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h2
+:END:
+
+Nunquam vidi iniquius
+Certationem comparatam quam haec hodie inter nos fuit:
+
+Ego vapulando, ille verberando, usque ambo defessi sumus.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h3
+:END:
+
+Tua culpa.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h4
+:END:
+
+Quid agerem?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h5
+:END:
+
+Adolescenti morem gestum oportuit.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h6
+:END:
+
+Qui potui melius qui hodie usque os praebui?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h7
+:END:
+
+Age, scis quid loquar?
+Pecuniam in loco negligere maximum interdum est lucrum.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h8
+:END:
+
+Hui!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h9
+:END:
+
+Metuisti; si nunc de tuo iure concessisses paululum, atque
+
+Adolescenti esses morigeratus, hominum homo stultissime,
+Ne non tibi istuc foeneraret?
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h10
+:END:
+
+Ego spem pretio non emo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h11
+:END:
+
+Nunquam rem facies: abi: nescis inescare homines, Sannio.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h12
+:END:
+
+Credo istuc melius esse: verum ego nunquam adeo astutus fui
+Quin quicquid possem mallem auferre potius in praesentia.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h13
+:END:
+
+Age; novi tuum animum; quasi iam usquam tibi sint viginti minae,
+Dum huic obsequare. Praeterea autem te aiunt proficisci Cyprum.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h14
+:END:
+
+Hem!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h15
+:END:
+
+Coëmisse hinc quae illuc veheres multa; navem conductam; hoc, scio,
+Animus tibi pendet. Ubi illinc, spero, redieris tamen hoc ages.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h16
+:END:
+
+Nusquam pedem. Perii hercle; hac illi spe hoc inceperunt.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h17
+:END:
+
+Timet:
+
+Inieci scrupulum homini.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h18
+:END:
+
+O scelera! illud vide
+Ut in ipso articulo oppressit. Emtae mulieres
+Complures; et item hine alia quae porto Cyprum.
+Nisi eo ad mercatum venio, damnum maximum est.
+Nunc si hoc omitto actum agam; ubi illinc rediero
+
+Nihil est; refrixerit res. /Nunc demum venis?/
+/Cur passus? ubi eras?/ Ut sit satius perdere
+Quam aut hic nunc manere tam diu, aut tum persequi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h19
+:END:
+
+Iamne enumerasti id quod ad te rediturum putes?
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h20
+:END:
+
+Hocine illo dignum est? hocine incipere Aeschinum?
+
+Per oppressionem ut hanc mihi eripere postulet?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h21
+:END:
+
+Labascit. Unum hoc habeo: vide si satis placet:
+Potius quam venias in periculum, Sannio,
+Servesne an perdas totum, dividuum face:
+Minas decem conradet alicunde.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h22
+:END:
+
+Hei mihi,
+
+Etiam de sorte nunc venio in dubium miser?
+Pudet nihil: omnes dentes labefecit mihi:
+Praeterea colaphis tuber est totum caput.
+Etiam insuper defrudat? nusquam abeo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h23
+:END:
+
+Ut lubet.
+Numquid vis quin abeam?
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h24
+:END:
+
+Immo hercle hoc quaeso, Syre;
+
+Ut ut haec sunt acta, potius quam lites sequar,
+Meum mihi reddatur; saltem quanti emta est, Syre.
+Scio te non usum antehac amicitia mea:
+Memorem me dices esse et gratum.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h25
+:END:
+
+Sedulo
+Faciam: sed Ctesiphonem video: laetus est
+
+De amica.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h13-h26
+:END:
+
+Quid quod te oro?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h27
+:END:
+
+Paulisper mane.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+* 254
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+(CTESIPHO. SYRUS.)
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h1
+:END:
+
+Abs quivis homine, cum est opus, beneficium accipere gaudeas:
+Verum enimvero id demum iuvat, si, quem aequum est facere, is bene facit.
+O frater frater, quid ego nunc te laudem? Satis certo scio;
+Nunquam ita magnifice quicquam dicam id virtus quin superet tua.
+
+Itaque unam hanc rem me habere praeter alios praecipuam arbitror,
+Fratrem homini nemini esse primarum artium magis principem.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h2
+:END:
+
+O Ctesipho.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h3
+:END:
+
+O Syre, Aeschinus ubi est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h4
+:END:
+
+Ellum, te exspectat domi.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h5
+:END:
+
+Hem.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h6
+:END:
+
+Quid est?
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h7
+:END:
+
+Quid sit? illius opera, Syre, nunc vivo: festivum caput,
+Qui omnia sibi post putavit esse prae meo commodo;
+Maledicta, famam, meum amorem, et peccatum in se transtulit:
+
+Nihil pote supra. Quidnam foris crepuit?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h8
+:END:
+
+Mane, mane: ipse exit foras.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+* 265
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+(AESCHINUS. SANNIO. CTESIPHO. SYRUS.)
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h1
+:END:
+
+Ubi ille est sacrilegus?
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h2
+:END:
+
+Men quaerit? numquidnam effert? Occidi:
+Nihil video.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h3
+:END:
+
+Ehem, opportune; te ipsum quaero. Quid fit, Ctesipho?
+In tuto est omnis res: omitte vero tristitiam tuam.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h17-h4
+:END:
+
+Ego illam hercle vero omitto qui quidem te habeam fratrem. O mi Aeschine,
+
+O mi germane; ah, vereor coram in os te laudare amplius,
+Ne id assentandi magis quam quo habeam gratum facere existimes.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h5
+:END:
+
+Age inepte; quasi nunc non norimus nos inter nos, Ctesipho.
+Hoc mihi dolet, nos paene sero scisse, et paene in eum locum
+Redisse ut si omnes cuperent nihil tibi possent auxiliarier.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h17-h6
+:END:
+
+Pudebat.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h7
+:END:
+
+Ah, stultitia est istaec, non pudor. Tam ob parvulam
+Rem paene ex patria!—Turpe dictu. Deos quaeso ut istaec prohibeant.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h17-h8
+:END:
+
+Peccavi.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h9
+:END:
+
+Quid ait tandem nobis Sannio?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h10
+:END:
+
+Iam mitis est.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h11
+:END:
+
+Ego ad forum ibo ut hunc absolvam: tu intro ad illam, Ctesipho.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h12
+:END:
+
+Syre, insta.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h13
+:END:
+
+Eamus; namque hic properat in Cyprum.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h14
+:END:
+
+Ne tam quidem;
+
+Quamvis etiam maneo otiosus hic.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h15
+:END:
+
+Reddetur; ne time.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h16
+:END:
+
+At ut omne reddat.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h17
+:END:
+
+Omne reddet: tace modo, ac sequere hac.
+
+** SANNIO
+:PROPERTIES:
+:CUSTOM_ID: h17-h18
+:END:
+
+Sequor.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h17-h19
+:END:
+
+Heus, heus, Syre.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h20
+:END:
+
+Hem, quid est?
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h17-h21
+:END:
+
+Obsecro hercle, hominem istum impurissimum
+Quamprimum absolvitote; ne, si magis irritatus siet,
+Aliqua ad patrem hoc permanet, atque ego tum perpetuo perierim.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h17-h22
+:END:
+
+Non fiet; bono animo es: tu cum illa te intus oblecta interim;
+Et lectulos iube sterni nobis, et parari caetera.
+Ego iam transacta re convertam me domum cum obsonio.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h17-h23
+:END:
+
+Ita quaeso: quando hoc bene successit, hilarem hunc sumamus diem.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+* 288
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+(SOSTRATA. CANTHARA.)
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h1
+:END:
+
+Obsecro, mea nutrix, quid nunc fiet?
+
+** CANTHARA
+:PROPERTIES:
+:CUSTOM_ID: h20-h2
+:END:
+
+Quid fiat rogas?
+Recte edepol spero.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h3
+:END:
+
+Modo dolores, mea tu, occipiunt primulum.
+
+** CANTHARA
+:PROPERTIES:
+:CUSTOM_ID: h20-h4
+:END:
+
+Iam nunc times, quasi nunquam affueris, nunquam tute pepereris.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h5
+:END:
+
+Miseram me, neminem habeo; solae sumus: Geta autem hic non adest;
+
+Nec quem ad obstetricem mittam; nec qui arcessat Aeschinum.
+
+** CANTHARA
+:PROPERTIES:
+:CUSTOM_ID: h20-h6
+:END:
+
+Pol is quidem iam hic aderit; nam nunquam unum intermittit diem
+Quin semper veniat.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h7
+:END:
+
+Solus mearum miseriarum est remedium.
+
+** CANTHARA
+:PROPERTIES:
+:CUSTOM_ID: h20-h8
+:END:
+
+E re nata melius fieri haud potuit quam factum est hera;
+Quando vitium oblatum est; quod ad illum attinet potissimum
+
+Talem, tali genere atque animo, natum ex tanta familia.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h9
+:END:
+
+Ita pol est ut dicis: salvus nobis Deos quaeso ut siet.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+* 299
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+(GETA. SOSTRATA. CANTHARA.)
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+Nunc illud est quod si omnes omnia sua consilia conferant,
+Atque huic malo salutem quaerant, auxili nihil afferant,
+Quod mihique heraeque filiaeque herili est. Vae misero mihi!
+Tot res repente circumvallant, unde emergi non potest,
+
+Vis, egestas, iniustitia, solitudo, infamia.
+Hocine saeclum? O scelera, O genera sacrilega, O hominem impium!
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h2
+:END:
+
+Me miseram! quidnam est quod sic video timidum et properantem Getam?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h3
+:END:
+
+Quem neque fides neque iusiurandum neque illum misericordia
+Repressit neque reflexit, neque quod partus instabat prope,
+
+Cui miserae indigne per vim vitium obtulerat.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h4
+:END:
+
+Non intelligo
+Satis quae loquatur.
+
+** CANTHARA
+:PROPERTIES:
+:CUSTOM_ID: h22-h5
+:END:
+
+Propius obsecro accedamus, Sostrata.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h6
+:END:
+
+Ah,
+Me miserum! vix sum compos animi; ita ardeo iracundia.
+Nihil est quod malim quam illam totam familiam mihi dari obviam,
+Ut ego iram hanc in eos evomam omnem dum aegritudo haec est recens:
+
+Satis mihi id habeam supplici, dum illos ulciscar modo.
+Seni animam primum extinguerem ipsi qui illud produxit scelus.
+Tum autem Syrum impulsorem, vah, quibus illum lacerarem modis!
+Sublimem medium arriperem, et capite pronum in terram statuerem,
+Ut cerebro dispergat viam.
+
+Adolescenti ipsi eriperem oculos; posthaec praecipitem darem;
+Caeteros ruerem, agerem, raperem, tunderem, et prosternerem.
+Sed cesso heram hoc malo impertiri propere?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h7
+:END:
+
+Revocemus. Geta.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h8
+:END:
+
+Hem, quisquis es, sine me.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h9
+:END:
+
+Ego sum Sostrata.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h10
+:END:
+
+Ubi ea est? te ipsam quaerito,
+Te expecto: oppido opportune te obtulisti mihi obviam,
+
+Hera.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h11
+:END:
+
+Quid est? quid trepidas?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h12
+:END:
+
+Hei mihi!
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h13
+:END:
+
+Quid festinas, mi Geta?
+Animam recipe.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h14
+:END:
+
+Prorsus—
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h15
+:END:
+
+Quid istuc prorsus ergo est.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h16
+:END:
+
+Periimus:
+Actum est.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h17
+:END:
+
+Eloquere ergo, obsecro te, quid sit.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h18
+:END:
+
+Iam—
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h19
+:END:
+
+Quid iam, Geta?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h20
+:END:
+
+Aeschinus—
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h21
+:END:
+
+Quid is ergo?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h22
+:END:
+
+alienus est ab nostra familia.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h23
+:END:
+
+Hem,
+Perii: quare?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h24
+:END:
+
+Amare occepit aliam.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h25
+:END:
+
+Vae miserae mihi!
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h26
+:END:
+
+Neque id occulte fert: ab lenone ipsus eripuit palam.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h27
+:END:
+
+Satin hoc certum est?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h28
+:END:
+
+Certum: hisce oculis egomet vidi, Sostrata.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h29
+:END:
+
+Ah,
+Me miseram! quid credas iam? aut cui credas? Nostrumne Aeschinum;
+Nostram vitam omnium, in quo nostrae spes omnesque opes sitae
+Erant; qui sine hac iurabat se unum nunquam victurum diem;
+
+Qui se in sui gremio positurum puerum dicebat patris;
+Ita obsecraturum ut liceret sibi hanc uxorem ducere?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h30
+:END:
+
+Hera, lacrimas mitte, ac potius quod ad hanc rem opus est porro consule;
+Patiamurne, an narremus cuipiam?
+
+** CANTHARA
+:PROPERTIES:
+:CUSTOM_ID: h22-h31
+:END:
+
+Au, mi homo, sanusne es?
+An hoc proferendum tibi videtur usquam esse?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h32
+:END:
+
+Mihi quidem non placet.
+Iam primum illum alieno animo a nobis esse res ipsa indicat.
+
+Nunc si hoc palam proferimus ille infitias ibit, sat scio.
+Tua fama et gnatae vita in dubium veniet. Tum si maxime
+Fateatur, quum amet aliam, non est utile hanc illi dari:
+Quapropter quoquo pacto tacito est opus.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h33
+:END:
+
+Ah, minime gentium:
+
+Non faciam.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h34
+:END:
+
+Quid ages?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h35
+:END:
+
+Proferam.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h36
+:END:
+
+Hem, mea Sostrata, vide quam rem agas.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h37
+:END:
+
+Peiore res loco non potest esse quam in quo nunc sita est.
+Primum indotata est: tum praeterea quae secunda ei dos erat
+Periit: pro virgine dari nuptum non potest. Hoc reliquum est:
+Si infitias ibit, testis mecum est annulus quem amiserat.
+
+Postremo, quando ego conscia mihi sum a me culpam esse hanc procul,
+Neque pretium neque rem ullam intercessisse illa aut me indignam, Geta,
+Experiar.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h38
+:END:
+
+Quid ista? accedo, ut melius dicas.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h39
+:END:
+
+Tu, quantum potes,
+Abi, atque Hegioni cognato huius rem omnem narrato ordine;
+Nam is nostro Simulo fuit summus, et nos coluit maxime.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h22-h40
+:END:
+
+Nam hercle alius nemo respicit nos.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h22-h41
+:END:
+
+Propera tu, mea Canthara,
+Curre: obstetricem arcesse, ut cum opus sit ne in mora nobis siet.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+* 355
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+(DEMEA. SYRUS.)
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h1
+:END:
+
+Disperii! Ctesiphonem audivi filium
+Una affuisse in raptione cum Aeschino.
+Id misero restat mihi mali, si illum potest
+Qui alicui rei est etiam eum ad nequitiam abducere.
+
+Ubi ego illum quaeram? credo abductum in ganeum
+Aliquo: persuasit ille impurus, sat scio.
+Sed eccum Syrum ire video: hinc scibo iam ubi siet;
+Atque hercle hic de grege illo est: si me senserit
+Eum quaeritare, nunquam dicet carnifex.
+
+Non ostendam me id velle.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h2
+:END:
+
+Omnem rem modo seni
+Quo pacto se haberet enarramus ordine:
+Nihil vidi quicquam laetius.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h3
+:END:
+
+Pro Iupiter,
+Hominis stultitiam!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h4
+:END:
+
+Collaudavit filium:
+Mihi qui id dedissem consilium egit gratias.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h5
+:END:
+
+Disrumpor.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h6
+:END:
+
+Argentum annumeravit ilico:
+Dedit praeterea in sumtum dimidium minae:
+Id distributum sane est ex sententia.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h7
+:END:
+
+Hem!
+Huic mandes, si quid recte curatum velis.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h8
+:END:
+
+Hem, Demea, haud aspexeram te. Quid agitur?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h9
+:END:
+
+Quid agatur? Vestram nequeo mirari satis
+Rationem.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h10
+:END:
+
+Est hercle inepta, ne dicam dolo,
+Atque absurda. Pisces ceteros purga, Dromo:
+Congrum istum maximum in aqua sinito ludere
+Paulisper: ubi ego venero, exossabitur;
+
+Prius nolo.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h11
+:END:
+
+Haecine flagitia!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h12
+:END:
+
+Mihi quidem non placent;
+Et clamo saepe. Salsamenta haec, Stephanio,
+Fac macerentur pulchre.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h13
+:END:
+
+Di vestram fidem,
+Utrum studione id sibi habet, an laudi putat
+Fore si perdiderit gnatum? Vae misero mihi!
+
+Videre videor iam diem illum quum hinc egens
+Profugiet aliquo militatum.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h14
+:END:
+
+O Demea,
+Istuc est sapere, non quod ante pedes modo est
+Videre, sed etiam illa quae futura sunt
+Prospicere.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h15
+:END:
+
+Quid? istaec iam penes vos psaltria est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h16
+:END:
+
+Ellam intus.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h17
+:END:
+
+Eho an domi est habiturus?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h18
+:END:
+
+Credo, ut est
+Dementia.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h19
+:END:
+
+Haecine fieri!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h20
+:END:
+
+Inepta lenitas
+Patris et facilitas prava.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h21
+:END:
+
+Fratris me quidem
+Pudet pigetque.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h22
+:END:
+
+Nimium inter vos, Demea, ac
+Non quia ades praesens dico hoc, pernimium interest.
+
+Tu quantus quantus es nihil nisi sapientia es:
+Ille somnium. Sineres vero tu illum tuum
+Facere haec?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h23
+:END:
+
+Sinerem illum? an non sex totis mensibus
+Prius olfecissem quam ille quicquam coeperit?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h24
+:END:
+
+Vigilantiam tuam tu mihi narras?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h25
+:END:
+
+Sic siet
+
+Modo ut nunc est quaeso.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h26
+:END:
+
+Ut quisque suum vult esse, ita est.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h27
+:END:
+
+Quid eum? vidistine hodie?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h28
+:END:
+
+Tuumne filium?
+Abigam hunc rus. Iamdudum aliquid ruri agere arbitror.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h29
+:END:
+
+Satin scis ibi esse?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h30
+:END:
+
+Oh, qui egomet produxi.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h31
+:END:
+
+Optime est.
+Metui ne haereret hic.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h32
+:END:
+
+Atque iratum admodum.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h33
+:END:
+
+Quid autem?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h34
+:END:
+
+Adortus iurgio fratrem apud forum
+De psaltria istac.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h35
+:END:
+
+Ain vero?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h36
+:END:
+
+Vah, nihil reticuit.
+Nam ut numerabatur forte argentum intervenit
+Homo de improviso: coepit clamare, /O Aeschine!/
+/Haecine flagitia facere te! haec te admittere/
+
+/Indigna genere nostro!/
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h37
+:END:
+
+Oh! lacrimo gaudio.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h38
+:END:
+
+/Non tu hoc argentum perdis sed vitam tuam./
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h39
+:END:
+
+Salvus sit, spero: est similis maiorum suum.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h40
+:END:
+
+Hui.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h41
+:END:
+
+Syre, praeceptorum plenus istorum ille.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h42
+:END:
+
+Phy.
+Domi habuit unde disceret.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h43
+:END:
+
+Fit sedulo.
+
+Nihil praetermitto: consuefacio: denique
+Inspicere tanquam in speculum in vitas omnium
+Iubeo, atque ex aliis sumere exemplum sibi.
+/Hoc facito./
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h44
+:END:
+
+Recte sane.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h45
+:END:
+
+/Hoc fugito./
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h46
+:END:
+
+Callide.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h47
+:END:
+
+/Hoc laudi est./
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h48
+:END:
+
+Istaec res est.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h49
+:END:
+
+/Hoc vitio datur./
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h50
+:END:
+
+Probissime.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h51
+:END:
+
+Porro autem—
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h52
+:END:
+
+Non hercle otium est
+Nunc mihi auscultandi. Pisces ex sententia
+Nactus sum: hi mihi ne corrumpantur cautio est:
+Nam id nobis tam flagitium est quam illa, Demea,
+Non facere vobis quae modo dixti: et, quod queo,
+
+Conservis ad eundem istunc praecipio modum:
+/Hoc salsum est; hoc adustum est; hoc lautum est parum,/
+/Illud recte: iterum sic memento:/ sedulo
+Moneo quae possum pro mea sapientia.
+Postremo tanquam in speculum in patinas, Demea,
+
+Inspicere iubeo, et moneo quid facto usus siet.
+Inepta haec esse nos quae facimus sentio:
+Verum quid facias? ut homo est, ita morem geras.
+Numquid vis?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h53
+:END:
+
+Mentem vobis meliorem dari.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h54
+:END:
+
+Tu rus hinc abis?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h55
+:END:
+
+Recta.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h56
+:END:
+
+Nam quid tu hic agas,
+
+Ubi si quid bene praecipias nemo obtemperet?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h24-h57
+:END:
+
+Ego vero hinc abeo, quando is quamobrem huc veneram
+Rus abiit: illum curo unum: ille ad me attinet.
+Quando ita vult frater, de istoc ipse viderit.
+Sed quis illic est procul quem video? estne hic Hegio,
+
+Tribulis noster? si satis cerno, is hercle est: vah,
+Homo amicus nobis iam inde a puero. Di boni!
+Nae illiusmodi iam nobis magna civium
+Penuria est: homo antiqua virtute ac fide.
+Haud cito mali quid ortum ex hoc sit publice.
+
+Quam gaudeo ubi etiam huius generis reliquias
+Restare video! Ah, vivere etiam nunc libet.
+Opperiar hominem hic, ut salutem et conloquar.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+* 447
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+(HEGIO. GETA. DEMEA. PAMPHILA.)
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h1
+:END:
+
+Pro Di immortales, facinus indignum, Geta.
+Quid narras?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h26-h2
+:END:
+
+Sic est factum.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h3
+:END:
+
+Ex illan familia
+Tam illiberale facinus esse ortum? O Aeschine,
+Pol haud paternum istuc dedisti.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h4
+:END:
+
+Videlicet
+
+De psaltria hac audivit: id illi nunc dolet
+Alieno: pater is nihili pendit. Hei mihi!
+Utinam hic prope adesset alicubi, atque audiret haec.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h5
+:END:
+
+Nisi facient quae illos aequum est, haud sic auferent.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h26-h6
+:END:
+
+In te spes omnis, Hegio, nobis sita est.
+
+Te solum habemus: tu es patronus, tu parens:
+Ille tibi moriens nos commendavit senex.
+Si deseris tu, periimus.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h7
+:END:
+
+Cave dixeris.
+Neque faciam, neque me satis pie posse arbitror.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h8
+:END:
+
+Adibo. Salvere Hegionem plurimum
+
+Iubeo.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h9
+:END:
+
+Te quaerebam ipsum. Salve Demea.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h10
+:END:
+
+Quid autem?
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h11
+:END:
+
+Maior filius tuus Aeschinus,
+Quem fratri adoptandum dedisti, neque boni
+Neque liberalis functus officium est viri.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h12
+:END:
+
+Quid istuc est?
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h13
+:END:
+
+Nostrum amicum noras Simulum
+
+Atque aequalem?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h14
+:END:
+
+Quidni?
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h15
+:END:
+
+Filiam eius virginem
+Vitiavit.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h16
+:END:
+
+Hem!
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h17
+:END:
+
+Mane; nondum audisti, Demea,
+Quod est gravissimum.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h18
+:END:
+
+An quid est etiam amplius?
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h19
+:END:
+
+Vero amplius; nam hoc quidem ferendum aliquo modo est:
+Persuasit nox, amor, vinum, adolescentia:
+
+Humanum est. Ubi scit factum, ad matrem virginis
+Venit ipsus ultro lacrimans, orans, obsecrans,
+Fidem dans, iurans se illam ducturum domum.
+Ignotum est; tacitum est; creditum est. Virgo ex eo
+Compressu gravida facta est: mensis hic decimus est.
+
+Ille bonus vir nobis psaltriam, si Dis placet,
+Paravit quicum vivat, illam deserit.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h20
+:END:
+
+Pro certon tu istaec dicis?
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h21
+:END:
+
+Mater virginis
+In medio est; ipsa virgo; res ipsa: hic Geta
+Praeterea, ut captus est servorum non malus
+
+Neque iners, alit illas: solus omnem familiam
+Sustentat: hunc abduce, vinci; quaere rem.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h26-h22
+:END:
+
+Immo hercle extorque, nisi ita factum est, Demea.
+Postremo non negabit: coram ipsum cedo.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h23
+:END:
+
+Pudet: nec quid agam neque quid huic respondeam
+
+Scio.
+
+** PAMPHILA
+:PROPERTIES:
+:CUSTOM_ID: h26-h24
+:END:
+
+Miseram me, differor doloribus.
+Iuno Lucina, fer opem: serva me, obsecro.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h25
+:END:
+
+Hem.
+Numnam illa quaeso parturit?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h26-h26
+:END:
+
+Certe Hegio.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h27
+:END:
+
+Hem.
+Illaec fidem nunc vestram implorat, Demea:
+Quod vos vis cogit, id voluntate impetret.
+
+Haec primum ut fiant Deos quaeso ut vobis decet:
+Sin aliter animus vester est, ego, Demea,
+Summa vi defendam hanc atque illum mortuum.
+Mihi cognatus erat: una a pueris parvulis
+Sumus educti; una semper militiae et domi
+
+Fuimus; paupertatem una pertulimus gravem.
+Quapropter nitar, faciam, experiar, denique
+Animam relinquam potius quam illas deseram.
+Quid mihi respondes?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h28
+:END:
+
+Fratrem conveniam, Hegio:
+Is quod mihi de hac re dederit consilium id sequar.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h29
+:END:
+
+Sed Demea hoc tu facito, cum animo cogites
+Quam vos facillime agitis, quam estis maxime
+Potentes, dites, fortunati, nobiles,
+Tam maxime vos aequo animo aequa noscere
+Oportet, si vos vultis perhiberi probos.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h30
+:END:
+
+Redito: fient quae fieri aequum est omnia.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h26-h31
+:END:
+
+Decet te facere. Geta duc me intro ad Sostratam.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h26-h32
+:END:
+
+Non me indicente haec fiunt. Utinam hic sit modo
+Defunctum: verum nimia illaec licentia
+Profecto evadet in aliquod magnum malum.
+
+Ibo ac requiram fratrem, ut in eum haec evomam.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+* 511
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+(HEGIO.)
+
+** HEGIO.
+:PROPERTIES:
+:CUSTOM_ID: h28-h1
+:END:
+
+Bono animo fac sis, Sostrata; et istam, quod potes,
+Fac consolere. Ego Micionem, si apud forum est,
+Conveniam; atque ut res gesta est narrabo ordine.
+Si est facturus ut sit officium suum,
+Faciat: sin aliter de hac re est eius sententia,
+Respondeat mihi; ut quid agam quamprimum sciam.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+* 517
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+(CTESIPHO. SYRUS.)
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h1
+:END:
+
+Ain patrem hinc abisse rus?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h2
+:END:
+
+Iamdudum.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h3
+:END:
+
+Dic sodes.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h4
+:END:
+
+Apud villam est.
+Nunc cum maxime operis aliquid facere credo.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h5
+:END:
+
+Utinam quidem,
+Quod cum salute eius fiat, ita se defatigarit velim,
+Ut triduo hoc perpetuo prorsum e lecto nequeat surgere.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h6
+:END:
+
+Ita fiat, et istoc si quid potis est rectius.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h7
+:END:
+
+Ita: nam hunc diem
+Misere nimis cupio, ut coepi, perpetuum in laetitia degere:
+Et illud rus nulla alia causa tam male odi, nisi quia prope est:
+Quod si abesset longius,
+Prius nox oppressisset illic quam huc reverti posset iterum.
+
+Nunc ubi me illic non videbit iam huc recurret, sat scio.
+Rogitabit me ubi fuerim; quem ego hodie toto non vidi die.
+Quid dicam?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h8
+:END:
+
+Nihilne in mentem?
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h9
+:END:
+
+Nunquam quicquam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h10
+:END:
+
+Tanto nequior.
+Cliens, amicus, hospes, nemo est vobis?
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h11
+:END:
+
+Sunt: quid postea ?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h12
+:END:
+
+Hisce opera ut data sit.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h13
+:END:
+
+Quae non data sit? non potest fieri.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h14
+:END:
+
+Potest.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h15
+:END:
+
+Interdiu: sed si hic pernocto, causae quid dicam, Syre?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h16
+:END:
+
+Vah, quam vellem etiam noctu amicis operam mos esset dari.
+Quin tu otiosus es: ego illius sensum pulchre calleo.
+Quum fervit maxime tam placidum quam ovem reddo.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h17
+:END:
+
+Quo modo?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h18
+:END:
+
+Laudarier te audit libenter: facio te apud illum Deum:
+
+Virtutes narro.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h19
+:END:
+
+Meas?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h20
+:END:
+
+Tuas: homini ilico lacrimae cadunt
+Quasi puero gaudio. Hem tibi autem.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h21
+:END:
+
+Quidnam est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h22
+:END:
+
+Lupus in fabula.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h23
+:END:
+
+Pater est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h24
+:END:
+
+Ipsus est.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h25
+:END:
+
+Syre, quid agimus?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h26
+:END:
+
+Fuge modo intro: ego videro.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h31-h27
+:END:
+
+Si quid rogabit, nusquam tu me: audistin?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h31-h28
+:END:
+
+Potin ut desinas?
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+* 540
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+(DEMEA. CTESIPHO. SYRUS.)
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h1
+:END:
+
+Nae ego homo sum infelix: primum fratrem nusquam invenio gentium:
+Praeterea autem dum illum quaero a villa mercenarium
+Vidi: is filium negat esse ruri: nec quid agam scio.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h33-h2
+:END:
+
+Syre.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h3
+:END:
+
+Quid est?
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h33-h4
+:END:
+
+Men quaerit?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h5
+:END:
+
+Verum.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h33-h6
+:END:
+
+Perii!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h7
+:END:
+
+Quin tu animo bono es.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h8
+:END:
+
+Quid hoc, malum, infelicitatis? nequeo satis decernere;
+Nisi me credo huic esse natum rei, ferendis miseriis.
+Primus sentio mala nostra; primus rescisco omnia;
+Primus porro obnuntio: aegre solus si quid fit fero.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h9
+:END:
+
+Rideo hunc: primum ait se scire; is solus nescit omnia.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h10
+:END:
+
+Nunc redeo: si forte frater redierit viso.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h33-h11
+:END:
+
+Syre,
+Obsecro vide ne ille huc prorsus se irruat.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h12
+:END:
+
+Etiam taces?
+Ego cavebo.
+
+** CTESIPHO
+:PROPERTIES:
+:CUSTOM_ID: h33-h13
+:END:
+
+Nunquam hercle hodie ego istuc committam tibi;
+Nam me iam in cellam aliquam cum illa concludam: id tutissimum est.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h14
+:END:
+
+Age, tamen ego hunc amovebo.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h15
+:END:
+
+Sed eccum sceleratum Syrum.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h16
+:END:
+
+Non hercle hic quidem durare quisquam, si sic fit, potest.
+Scire equidem volo quot mihi sint domini: quae haec est miseria?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h17
+:END:
+
+Quid ille gannit? quid vult? quid ais bone vir? est frater domi?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h18
+:END:
+
+Quid, malum, /Bone vir,/ mihi narras? Equidem perii.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h19
+:END:
+
+Quid tibi est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h20
+:END:
+
+Rogitas? Ctesipho me pugnis miserum et istam psaltriam
+
+Usque occidit.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h21
+:END:
+
+Hem, quid narras?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h22
+:END:
+
+Hem! vide, ut discidit labrum.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h23
+:END:
+
+Quamobrem?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h24
+:END:
+
+Me impulsore hanc emtam esse ait.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h25
+:END:
+
+Non tu eum rus hinc modo
+Produxe aibas?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h26
+:END:
+
+Factum: verum venit post insaniens:
+Nihil pepercit. Non puduisse verberare hominem senem,
+Quem ego modo puerum tantillum in manibus gestavi meis?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h27
+:END:
+
+Laudo, Ctesipho; patrissas: abi, virum te iudico.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h28
+:END:
+
+Laudas? Nae ille continebit posthac si sapiet manus.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h29
+:END:
+
+Fortiter.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h30
+:END:
+
+Perquam! quia miseram mulierem, et me servulum
+Qui referire non audebam, vicit: hui, perfortiter!
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h31
+:END:
+
+Non potuit melius: idem quod ego sensit te esse huic rei caput.
+
+Sed estne frater intus?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h32
+:END:
+
+Non est.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h33
+:END:
+
+Ubi illum quaeram cogito.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h34
+:END:
+
+Scio ubi sit; verum hodie nunquam monstrabo.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h35
+:END:
+
+Hem, quid ais?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h36
+:END:
+
+Ita.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h37
+:END:
+
+Diminuetur tibi quidem iam cerebrum.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h38
+:END:
+
+At nomen nescio
+Illius hominis; sed locum novi ubi sit.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h39
+:END:
+
+Dic ergo locum.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h40
+:END:
+
+Nostin porticum apud macellum hanc deorsum?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h41
+:END:
+
+Quidni noverim?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h42
+:END:
+
+Praeterito hac recta platea sursum: ubi eo veneris,
+Clivus deorsum versus est: hac te praecipitato: postea
+Est ad hanc manum sacellum; ibi angiportum propter est.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h43
+:END:
+
+Quonam?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h44
+:END:
+
+Illic ubi etiam caprificus magna est: nostin?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h45
+:END:
+
+Novi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h46
+:END:
+
+Hac pergito.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h47
+:END:
+
+Id quidem angiportum non est pervium.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h48
+:END:
+
+Verum hercle. Vah,
+
+Censen hominem me esse? erravi. In porticum rursum redi:
+Sane hac multo propius ibis, et minor est erratio.
+Scin Cratini huius ditis aedes?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h49
+:END:
+
+Scio.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h50
+:END:
+
+Ubi eas praeterieris
+Ad sinistram hac recta platea: ubi ad Dianae veneris
+Ito ad dextram: priusquam ad portam venias apud ipsum lacum
+
+Est pistrilla et exadversum fabrica: ibi est.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h51
+:END:
+
+Quid ibi facit?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h52
+:END:
+
+Lectulos in sole ilignis pedibus faciendos dedit.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h33-h53
+:END:
+
+Ubi potetis vos? Bene sane. Sed cesso ad eum pergere?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h54
+:END:
+
+I sane. Ego te exercebo hodie ut dignus es, silicernium.
+Aeschinus odiose cessat: prandium corrumpitur.
+
+Ctesipho autem in amore est totus. Ego iam prospiciam mihi:
+Nam iam adibo, atque unumquicquid quod quidem erit bellissimum
+Carpam; et cyathos sorbilans paulatim hunc producam diem.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+* 592
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+(MICIO. HEGIO.)
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h1
+:END:
+
+Ego in hac re nihil reperio quamobrem lauder tantopere, Hegio:
+Meum officium facio; quod peccatum a nobis ortum est corrigo:
+Nisi si me in illo credidisti esse hominum numero qui ita putant,
+Sibi fieri iniuriam ultro si quam fecere ipsi expostules,
+
+Et ultro accusant: id quia non est a me factum agis gratias?
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h2
+:END:
+
+Ah, minime: nunquam te aliter atque es in animum induxi meum.
+Sed quaeso ut una mecum ad matrem virginis eas, Micio,
+Atque istaec eadem quae mihi dixti tute dicas mulieri;
+Suspicionem hanc propter fratrem eius esse et illam psaltriam.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h3
+:END:
+
+Si ita aequum censes, aut si ita opus est facto, camus.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h4
+:END:
+
+Bene facis;
+Nam et illi animum iam relevabis, quae dolore ac miseria
+Tabescit; et tuo officio fueris functus: sed si aliter putas,
+Egomet narrabo quae mihi dixti.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h5
+:END:
+
+Immo ego ibo.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h6
+:END:
+
+Bene facis.
+Omnes quibus res sunt minus secundae magis sunt nescio quomodo
+
+Suspiciosi; ad contumeliam omnia accipiunt magis;
+Propter suam impotentiam se semper credunt negligi;
+Quapropter te ipsum purgare ipsis coram placabilius est.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h7
+:END:
+
+Et recte et verum dicis.
+
+** HEGIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h8
+:END:
+
+Sequere me ergo hac intro.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h35-h9
+:END:
+
+Maxime.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+* 610
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+(AESCHINUS.)
+
+** AESCHINUS.
+:PROPERTIES:
+:CUSTOM_ID: h37-h1
+:END:
+
+Discrucior animi:
+Hocine de improviso mali mihi obiici
+Tantum, ut neque quid de me faciam neque quid agam certum siet!
+Membra metu debilia sunt; animus timore
+
+Obstipuit: pectore consistere nil consili
+Quit. Vah! quomodo me ex hac expediam turba? Tanta nunc
+Suspicio de me incidit;
+Neque ea immerito: Sostrata credit mihi me psaltriam hanc emisse.
+Id anus mihi indicium fecit.
+
+Nam ut hinc forte ea ad obstetricem erat missa, ubi eam vidi ilico
+Accedo, rogito Pamphila quid agat, iam partus adsiet;
+Eone obstetricem arcessat. Illa exclamat, /Abi, abi iam, Aeschine./
+/Satis diu dedisti verba; sat adhuc tua nos frustrata est fides./
+/Hem, quid istuc obsecro,/ inquam, /est?/ /Valeas; habeas illam quae placet./
+
+Sensi ilico id illas suspicari: sed me reprehendi tamen
+Ne quid de fratre garrulae illi dicerem, ac fieret palam.
+Nunc quid faciam? Dicam fratris esse? Id quidem minime est opus
+Usquam efferri. Ac mitto: fieri potis est ut ne qua exeat.
+Ipsum id metuo ut credant; tot concurrunt verisimilia.
+
+Egomet rapui; ipse egomet solvi argentum; ad me abducta est domum.
+Haec adeo mea culpa fateor fieri. Non me hanc rem patri
+Ut ut erat gesta indicasse? Exorassem ut eam ducerem.
+Cessatum usque adhuc est: nunc porro, Aeschine, expergiscere!
+Nunc hoc primum est: ad illas ibo ut purgem me; accedam ad fores.
+
+Perii! horresco semper ubi pultare hasce occipio miser.
+Heus, heus: Aeschinus ego sum: aperite aliquis actutum ostium.
+Prodit nescio quis: concedam huc.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+* 636
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+(MICIO. AESCHINUS.)
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h1
+:END:
+
+Ita uti dixi, Sostrata,
+Facite: ego Aeschinum conveniam, ut quomodo acta haec sint sciat.
+Sed quis ostium hoc pultavit?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h2
+:END:
+
+Pater hercle est: perii.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h3
+:END:
+
+Aeschine.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h4
+:END:
+
+Quid huic hic negoti est?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h5
+:END:
+
+Tune has pepulisti fores?
+
+Tacet. Cur non ludo hunc aliquantisper? Melius est,
+Quandoquidem hoc nunquam mihi ipse voluit credere.
+Nihil mihi respondes?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h6
+:END:
+
+Non equidem istas quod sciam.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h7
+:END:
+
+Ita? nam mirabar quid hic negoti esset tibi.
+Erubuit: salva res est.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h8
+:END:
+
+Dic sodes, pater,
+
+Tibi vero quid istic est rei?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h9
+:END:
+
+Nihil mihi quidem:
+Amicus quidam me a foro abduxit modo
+Huc advocatum sibi.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h10
+:END:
+
+Quid?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h11
+:END:
+
+Ego dicam tibi:
+Habitant hic quaedam mulieres pauperculae,
+Ut opinor; has non nosse te et certo scio;
+
+Neque enim diu huc commigrarunt.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h12
+:END:
+
+Quid tum postea?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h13
+:END:
+
+Virgo est cum matre.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h14
+:END:
+
+Perge.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h15
+:END:
+
+Haec virgo orba est patre:
+Hic meus amicus illi genere est proximus:
+Huic leges cogunt nubere hanc.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h16
+:END:
+
+Perii.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h17
+:END:
+
+Quid est?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h18
+:END:
+
+Nihil: recte: perge.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h19
+:END:
+
+Is venit ut secum avehat;
+
+Nam habitat Mileti.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h20
+:END:
+
+Hem, virginem ut secum avehat?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h21
+:END:
+
+Sic est.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h22
+:END:
+
+Miletum usque obsecro?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h23
+:END:
+
+Ita.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h24
+:END:
+
+Animo male est.
+Quid ipsae? quid aiunt?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h25
+:END:
+
+Quid illas censes? nihil enim.
+Commenta mater est esse ex alio viro
+Nescio quo puerum natum; neque eum nominat;
+
+Priorem esse illum; non oportere huic dari.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h26
+:END:
+
+Eho, nonne haec iusta tibi videntur postea?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h27
+:END:
+
+Non.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h28
+:END:
+
+Obsecro, non? an illam hinc abducet, pater?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h29
+:END:
+
+Quid illam ni abducat?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h30
+:END:
+
+Factum a vobis duriter
+Immisericorditerque; atque etiam, si est, pater,
+
+Dicendum magis aperte, illiberaliter.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h31
+:END:
+
+Quamobrem?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h32
+:END:
+
+Rogas me? quid illi tandem creditis
+Fore animi misero quicum illa consuevit prius,
+Qui infelix haud scio an illam misere nunc amat,
+Quum hanc sibi videbit praesens praesenti eripi,
+
+Abduci ab oculis? Facinus indignum, pater.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h33
+:END:
+
+Qua ratione istuc? quis despondit? quis dedit?
+Cui, quando nupsit? auctor his rebus quis est?
+Cur duxit alienam?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h34
+:END:
+
+An sedere oportuit
+Domi virginem tam grandem, dum cognatus hinc
+
+Illinc veniret exspectantem? Haec, mi pater,
+Te dicere aequum fuit, et id defendere.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h35
+:END:
+
+Ridiculum: adversumne illum causam dicerem
+Cui veneram advocatus? sed, quid ista, Aeschine,
+Nostra? aut quid nobis cum illis? abeamus. Quid est?
+
+Quid lacrimas?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h36
+:END:
+
+Pater obsecro ausculta.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h37
+:END:
+
+Aeschine, audivi omnia
+Et scio; nam te amo; quo magis quae agis curae sunt mihi.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h38
+:END:
+
+Ita velim me promerentem ames dum vivas mi pater,
+Ut me hoc delictum admisisse in me id mihi vehementer dolet,
+Et me tui pudet.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h39
+:END:
+
+Credo hercle; nam ingenium novi tuum
+
+Liberale: sed vereor ne indiligens nimium sies.
+In qua civitate tandem te arbitrare vivere?
+Virginem vitiasti quam te ius non fuerat tangere.
+Iam id peccatum primum magnum; magnum, at humanum tamen.
+Fecere alii saepe item boni: at postquam id evenit, cedo
+
+Numquid circumspexti? aut numquid tute prospexti tibi,
+Quid fieret, qua fieret? si te ipsum mihi puduit dicere,
+Qua resciscerem? Haec dum dubitas menses abierunt decem.
+Prodidisti et te, et illam miseram, et gnatum, quod quidem in te fuit.
+Quid? credebas dormienti haec tibi confecturos Deos,
+
+Et illam sine tua opera in cubiculum iri deductum domum?
+Nolim ceterarum rerum te socordem eodem modo.
+Bono animo es: duces uxorem hanc.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h40
+:END:
+
+Hem.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h41
+:END:
+
+Bono animo es, inquam.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h42
+:END:
+
+Pater,
+Obsecro, non ludis tu nunc me?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h43
+:END:
+
+Ego te? quamobrem?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h44
+:END:
+
+Nescio;
+Nisi quia tam misere hoc esse cupio verum eo vereor magis.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h45
+:END:
+
+Abi domum, ac Deos comprecare ut uxorem arcessas: abi.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h46
+:END:
+
+Quid? iam uxorem?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h47
+:END:
+
+Iam.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h48
+:END:
+
+Iam?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h49
+:END:
+
+Iam, quantum potest.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h50
+:END:
+
+Di me, pater,
+Omnes oderint ni magis te quam oculos nunc amo meos.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h51
+:END:
+
+Quid? quam illam?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h52
+:END:
+
+Aeque.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h53
+:END:
+
+Perbenigne.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h54
+:END:
+
+Quid? ille ubi est Milesius?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h55
+:END:
+
+Abiit; periit; navem adscendit. Sed cur cessas?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h56
+:END:
+
+Abi pater:
+
+Tu potius Deos comprecare; nam tibi eos certo scio,
+Quo vir melior multo es quam ego, obtemperaturos magis.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h39-h57
+:END:
+
+Ego eo intro ut quae opus sunt parentur: tu fac ut dixi, si sapis.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h39-h58
+:END:
+
+Quid hoc est negoti! Hoc est patrem esse? aut hoc est filium esse?
+Si frater aut sodalis esset, qui magis morem gereret?
+
+Hic non amandus? hicine non gestandus in sinu est? hem!
+Itaque adeo magnam mili iniecit sua commoditate curam
+Ne forte imprudens faciam quod nolit: sciens cavebo.
+Sed cesso ire intro ne morae meis nuptiis egomet siem?
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+* 714
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+(DEMEA.)
+
+** DEMEA.
+:PROPERTIES:
+:CUSTOM_ID: h41-h1
+:END:
+
+Defessus sum ambulando. Ut, Syre, te cum tua
+Monstratione magnus perdat Iupiter!
+Perreptavi usque omne oppidum: ad portam, ad lacum:
+Quo non? neque illic fabrica ulla erat, neque fratrem homo
+
+Vidisse se aibat quisquam: nunc vero domi
+Certum obsidere est usque donec redierit.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+* 720
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+(MICIO. DEMEA.)
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h1
+:END:
+
+Ibo, illis dicam nullam esse in nobis moram.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h2
+:END:
+
+Sed eccum ipsum: te iamdudum quaero, Micio.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h3
+:END:
+
+Quidnam?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h4
+:END:
+
+Fero alia flagitia ad te ingentia
+Boni illius adolescentis.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h5
+:END:
+
+Ecce autem!
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h6
+:END:
+
+Nova;
+
+Capitalia.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h7
+:END:
+
+Ohe, iam.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h8
+:END:
+
+Nescis qui vir sit.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h9
+:END:
+
+Scio.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h10
+:END:
+
+O stulte, tu de psaltria me somnias
+Agere: hoc peccatum in virginem est civem.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h11
+:END:
+
+Scio.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h12
+:END:
+
+Oho, scis et patere?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h13
+:END:
+
+Quidni patiar?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h14
+:END:
+
+Dic mihi,
+Non clamas? non insanis?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h15
+:END:
+
+Non. Malim quidem—
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h16
+:END:
+
+Puer natus est.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h17
+:END:
+
+Di bene vertant!
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h18
+:END:
+
+Virgo nihil habet.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h19
+:END:
+
+Audivi.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h20
+:END:
+
+Et ducenda indotata est?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h21
+:END:
+
+Scilicet.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h22
+:END:
+
+Quid nunc futurum est?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h23
+:END:
+
+Id enim quod res ipsa fert:
+Illinc huc transferetur virgo.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h24
+:END:
+
+O Iupiter!
+Istocine pacto oportet?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h25
+:END:
+
+Quid faciam amplius?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h26
+:END:
+
+Quid facias? Si non ipsa re istuc tibi dolet,
+Simulare certe est hominis.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h27
+:END:
+
+Quin iam virginem
+Despondi; res composita est; fiunt nuptiae:
+Demsi metum omnem: haec magis sunt hominis.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h28
+:END:
+
+Caeterum,
+Placet tibi factum, Micio?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h29
+:END:
+
+Non, si queam
+
+Mutare: nunc, quum non queo, aequo animo fero.
+Ita vita est hominum quasi quum ludas tesseris:
+Si illud quod maxime opus est iactu non cadit,
+Illud quod cecidit forte id arte ut corrigas.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h30
+:END:
+
+Corrector! Nempe tua arte viginti minae
+
+Pro psaltria periere; quae, quantum potest,
+Aliquo abiicienda est, si non pretio at gratiis.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h31
+:END:
+
+Neque est, neque illam sane studeo vendere.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h32
+:END:
+
+Quid igitur facies?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h33
+:END:
+
+Domi erit.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h34
+:END:
+
+Pro Divum fidem!
+Meretrix et materfamilias una in domo?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h35
+:END:
+
+Cur non?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h36
+:END:
+
+Sanum te credis esse?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h37
+:END:
+
+Equidem arbitror.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h38
+:END:
+
+Ita me Di ament, ut video ego tuam ineptiam,
+Facturum credo ut habeas quicum cantites.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h39
+:END:
+
+Cur non?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h40
+:END:
+
+Et nova nupta eadem haece discet?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h41
+:END:
+
+Scilicet.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h42
+:END:
+
+Tu inter eas restim ductans saltabis.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h43
+:END:
+
+Probe.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h44
+:END:
+
+Probe?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h45
+:END:
+
+Et tu nobiscum una, si opus sit.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h46
+:END:
+
+Hei mihi!
+Non te haec pudent?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h43-h47
+:END:
+
+Iam vero omitte, Demea,
+Tuam istanc iracundiam; atque ita uti decet
+Hilarum ac libentem fac te gnati in nuptiis.
+Ego hos conveniam: post huc redeo.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h43-h48
+:END:
+
+O Iupiter!
+
+Hancine vitam? hoscine mores? hanc dementiam?
+Uxor sine dote veniet; intus psaltria est:
+Domus sumtuosa; adolescens luxu perditus;
+Senex delirans. Ipsa si cupiat Salus
+Servare prorsus non potest hanc familiam.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+* 764
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+(SYRUS. DEMEA.)
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h1
+:END:
+
+Edepol, Syrisce, te curasti molliter,
+Lauteque munus administrasti tuum.
+Abi. Sed postquam intus sum omnium rerum satur,
+Prodeambulare huc libitum est.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h46-h2
+:END:
+
+Illud sis vide
+
+Exemplum disciplinae.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h3
+:END:
+
+Ecce autem hic adest
+Senex noster. Quid fit? quid tu es tristis?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h46-h4
+:END:
+
+Oh scelus.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h5
+:END:
+
+Ohe, iam tu verba fundis hic, sapientia?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h46-h6
+:END:
+
+Tu si meus esses—
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h7
+:END:
+
+dis quidem esses, Demea,
+Ac tuam rem constabilisses.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h46-h8
+:END:
+
+exemplum omnibus
+
+Curarem ut esses.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h9
+:END:
+
+Quamobrem? quid feci?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h46-h10
+:END:
+
+Rogas?
+In ipsa turba, atque in peccato maximo,
+Quod vix sedatum satis est, potasti scelus,
+Quasi re bene gesta.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h46-h11
+:END:
+
+Sane nollem huc exitum.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+* 777
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+(DROMO. SYRUS. DEMEA.)
+
+** DROMO
+:PROPERTIES:
+:CUSTOM_ID: h48-h1
+:END:
+
+Heus, Syre; rogat te Ctesipho ut redeas.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h2
+:END:
+
+Abi.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h48-h3
+:END:
+
+Quid Ctesiphonem hic narrat?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h4
+:END:
+
+Nihil.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h48-h5
+:END:
+
+Eho carnifex,
+Est Ctesipho intus?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h6
+:END:
+
+Non est.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h48-h7
+:END:
+
+Cur hic nominat?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h8
+:END:
+
+Est alius quidam, parasitaster parvulus:
+
+Nostin?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h48-h9
+:END:
+
+Iam scibo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h10
+:END:
+
+Quid agis? quo abis?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h48-h11
+:END:
+
+Mitte me.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h12
+:END:
+
+Noli inquam.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h48-h13
+:END:
+
+Non manum abstines, mastigia?
+An tibi iam mavis cerebrum dispergi hic?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h48-h14
+:END:
+
+Abit.
+Edepol comissatorem haud sane commodum,
+Praesertim Ctesiphoni. Quid ego nunc agam
+
+Nisi, dum hae silescunt turbae, interea in angulum
+Aliquo abeam, atque edormiscam hoc villi? Sic agam.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+* 788
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+(MICIO. DEMEA.)
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h1
+:END:
+
+Parata a nobis sunt, ut dixi, Sostrata,
+Ubi vis. Quisnam a me pepulit tam graviter fores?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h2
+:END:
+
+Hei mihi, quid faciam? quid agam? quid clamem aut querar?
+O coelum, O terra, O maria Neptuni!
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h3
+:END:
+
+Em tibi:
+
+Rescivit omnem rem; id nunc clamat scilicet:
+Paratae lites; succurrendum est.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h4
+:END:
+
+Eccum adest
+Communis corruptela nostrum liberum.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h5
+:END:
+
+Tandem reprime iracundiam, atque ad te redi.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h6
+:END:
+
+Repressi, redii: mitto maledicta omnia:
+
+Rem ipsam putemus: dictum hoc inter nos fuit,
+Ex te adeo est ortum, ne tu curares meum,
+Neve ego tuum? responde.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h7
+:END:
+
+Factum est; non nego.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h8
+:END:
+
+Cur nunc apud te potat? cur recipis meum?
+Cur emis amicam Micio? Numqui minus
+
+Mihi idem ius aequum est esse quod mecum est tibi?
+Quando ego tuum non euro, ne cura meum.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h9
+:END:
+
+Non aequum dicis; non; nam vetus verbum hoc quidem est;
+Communia esse amicorum inter se omnia.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h10
+:END:
+
+Facete! nunc demum istaec nata oratio est.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h11
+:END:
+
+Ausculta paucis, nisi molestum est, Demea.
+Principio, si id te mordet, sumtum filii
+Quem faciunt, quaeso facito haec tecum cogites:
+Tu illos duos olim pro re tollebas tua,
+Quod satis putabas tua bona ambobus fore,
+
+Et me tum uxorem credidisti, scilicet,
+Ducturum: eandem illam rationem antiquam obtine:
+Conserva, quaere, parce: fac quam plurimum
+Illis relinquas: gloriam tu istam obtine.
+Mea, quae praeter spem evenere, utantur sine.
+
+De summa nihil decedet: quod hinc accesserit,
+Id de lucro putato esse omne. Haec si voles
+In animo vere cogitare, Demea,
+Et mihi, et tibi, et illis demseris molestiam.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h12
+:END:
+
+Mitto rem: consuetudinem ipsorum.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h13
+:END:
+
+Mane:
+
+Scio: istuc ibam. Multa in homine, Demea,
+Signa insunt ex quibus coniectura facile fit,
+Duo quum idem faciunt, saepe ut possis dicere,
+Hoc licet impune facere huic, illi non licet;
+Non quod dissimilis res sit, sed quod is qui facit:
+
+Quae ego illis inesse video, ut confidam fore
+Ita ut volumus: video sapere, intelligere, in loco
+Vereri, inter se amare: scires liberum
+Ingenium atque animum; quovis illos tu die
+Reducas. At enim metuas ne ab re sint tamen
+
+Omissiores paullo. O noster Demea,
+Ad omnia alia aetate sapimus rectius:
+Solum unum hoc vitium senectus affert hominibus;
+Attentiores sumus ad rem omnes quam sat est:
+Quod illos sat aetas acuet.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h14
+:END:
+
+Ne nimium modo
+
+Bonae tuae istae nos rationes, Micio,
+Et tuus iste animus aequus, subvertant.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h15
+:END:
+
+Tace:
+Non fiet: mitte iam istaec: da te hodie mihi:
+Exporge frontem.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h16
+:END:
+
+Scilicet, ita tempus fert;
+Faciendum est: caeterum rus eras cum filio
+
+Cum primo lucu ibo hinc.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h17
+:END:
+
+Immo de note censeo;
+Hodie modo hilarum fac te.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h18
+:END:
+
+Et istam psaltriam
+Una illuc mecum hinc abstraham.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h19
+:END:
+
+Pugnaveris.
+Eo pacto prorsum illic alligaris filium:
+Modo facito ut illam serves.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h20
+:END:
+
+Ego istuc videro:
+
+Atque illi favillae plena, funi, ac pollinis,
+Coquendo sit faxo, et molendo: praeter haec
+Meridie ipso faciam ut stipulam colligat:
+Tam excoctam reddam atque atram quam carbo est.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h21
+:END:
+
+Placet:
+Nunc mihi videre sapere; atque equidem filium
+
+Tum etiam si nolit cogam ut cum illa una cubet.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h22
+:END:
+
+Derides? fortunatus qui istoc animo sies.
+Ego sentio—
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h23
+:END:
+
+Ah, pergisne?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h50-h24
+:END:
+
+Iam iam desino.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h50-h25
+:END:
+
+I ergo intro, et cui rei est ei rei hunc sumamus diem.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+* 856
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+(DEMEA.)
+
+** DEMEA.
+:PROPERTIES:
+:CUSTOM_ID: h52-h1
+:END:
+
+Nunquam ita quisquam bene subducta ratione ad vitam fuit
+Quin res, aetas, usus semper aliquid apportet novi,
+Aliquid moneat; ut illa quae te scire credas nescias,
+Et quae tibi putaris prima in experiendo repudies:
+
+Quod nunc mihi evenit; nam ego vitam duram quam vixi usque adhuc
+Prope iam excurso spatio mitto. Id quamobrem? Re ipsa repperi
+Facilitate nihil esse homini melius neque clementia.
+Id esse verum ex me atque ex fratre cuivis facile est noscere.
+Ille suam semper egit vitam in otio, in conviviis,
+
+Clemens, placidus, nulli laedere os, arridere omnibus:
+Sibi vixit; sibi sumtum fecit: omnes bene dicunt, amant.
+Ego ille agrestis, saevus, tristis, parcus, truculentus, tenax,
+Duxi uxorem: quam ibi miseriam vidi! Nati filii,
+Alia cura. Porro autem illis dum studeo ut quam plurimum
+
+Facerem, contrivi in quaerendo vitam atque aetatem meam.
+Nunc exacta aetate hoc fructi pro labore ab his fero,
+Odium. Ille alter sine labore patria potitur commoda:
+Illum amant, me fugitant: illi credunt consilia omnia;
+Illum diligunt; apud illum sunt ambo: ego desertus sum.
+
+Illum ut vivat optant; meam autem mortem exspectant. Scilicet
+Ita eos meo labore eductos maximo hic fecit suos
+Paulo sumptu: miseriam omnem ego capio; hic potitur gaudia.
+Age, age, nunc iam experiamur porro contra quid ego possiem
+Blande dicere, aut benigne facere, quando eo provocat.
+
+Ego quoque a meis me amari et magni pendi postulo:
+Si id fit dando atque obsequendo, non posteriores feram.
+Deerit. Id mea minime refert qui sum natu maximus.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+* 883
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+(SYRUS. DEMEA.)
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h54-h1
+:END:
+
+Heus, Demea, rogat frater ne abeas longius.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h54-h2
+:END:
+
+Quis homo? O Syre noster salve: quid fit? quid agitur?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h54-h3
+:END:
+
+Recte.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h54-h4
+:END:
+
+Optime est. Iam nunc haec tria primum addidi
+Praeter naturam: /O noster! quid fit? quid agitur?/
+
+Servum haud illiberalem praebes te; et tibi
+Libens bene faxim.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h54-h5
+:END:
+
+Gratiam habeo.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h54-h6
+:END:
+
+Atqui, Syre,
+Hoc verum est; et ipsa re experiere propediem.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+
+* 890
+:PROPERTIES:
+:CUSTOM_ID: h56
+:END:
+
+(GETA. DEMEA.)
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h56-h1
+:END:
+
+Hera, ego huc ad hos provisam quam mox virginem
+Arcessant: sed eccum Demeam. Salvus sies.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h56-h2
+:END:
+
+O, qui vocare?
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h56-h3
+:END:
+
+Geta.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h56-h4
+:END:
+
+Geta, hominem maximi
+Preti te esse hodie animo iudicavi meo:
+
+Nam is mihi profecto est servus spectatus satis
+Cui dominus curae est, ita uti tibi sensi, Geta:
+Et tibi ob eam rem, si quid usus venerit,
+Libens bene faxim. Meditor esse affabilis;
+Et bene procedit.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h56-h5
+:END:
+
+Bonus es quum hace existimas.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h56-h6
+:END:
+
+Paulatim plebem primulum facio meam.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h57
+:END:
+
+* 900
+:PROPERTIES:
+:CUSTOM_ID: h58
+:END:
+
+(AESCHINUS. DEMEA. SYRUS. GETA.)
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h58-h1
+:END:
+
+Occidunt me quidem dum nimis sanctas nuptias
+Student facere: in apparando consumunt diem.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h58-h2
+:END:
+
+Quid agitur, Aeschine?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h58-h3
+:END:
+
+Ehem, pater mi, tu hic eras?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h58-h4
+:END:
+
+Tuus hercle vero et animo et natura pater,
+
+Qui te amat plus quam hosce oculos: sed cur non domum
+Uxorem arcessis?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h58-h5
+:END:
+
+Cupio: verum hoc mihi morae est;
+Tibicina, et Hymenaeum qui cantent.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h58-h6
+:END:
+
+Eho,
+Vin tu huic seni auscultare?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h58-h7
+:END:
+
+Quid?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h58-h8
+:END:
+
+Missa haec face,
+Hymenaeum, turbas, lampadas, tibicinas;
+
+Atque hanc in horto maceriam iube dirui,
+Quantum potest; hac transfer; unam fac domum;
+Traduce et matrem et familiam omnem ad nos.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h58-h9
+:END:
+
+Placet,
+Pater lepidissime.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h58-h10
+:END:
+
+Euge! iam lepidus vocor.
+Fratri aedes fient perviae: turbam domum
+
+Adducet; sumtum admittet; multa. Quid mea?
+Ego lepidus ineo gratiam. Iube nunc iam
+Dinumeret illi Babylo viginti minas.
+Syre, cessas ire ac facere?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h58-h11
+:END:
+
+Quid ago?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h58-h12
+:END:
+
+Dirue.
+Tu illas abi et traduce.
+
+** GETA
+:PROPERTIES:
+:CUSTOM_ID: h58-h13
+:END:
+
+Di tibi, Demea,
+
+Bene faciant quum te video nostrae familiae
+Tam ex animo factum velle.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h58-h14
+:END:
+
+Dignos arbitror.
+Quid ais tu?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h58-h15
+:END:
+
+Sic opinor.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h58-h16
+:END:
+
+Multo rectius est
+Quam illam puerperam nunc duci huc per viam
+Aegrotam.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h58-h17
+:END:
+
+Nihil enim vidi melius, mi pater.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h58-h18
+:END:
+
+Sic soleo: sed eccum Micio egreditur foras.
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h59
+:END:
+
+* 925
+:PROPERTIES:
+:CUSTOM_ID: h60
+:END:
+
+(MICIO. DEMEA. AESCHINUS.)
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h1
+:END:
+
+Iubet frater? ubi is est? Tun iubes hoc, Demea?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h2
+:END:
+
+Ego vero iubeo et in hac re et aliis omnibus
+Quam maxime unam facere nos hanc familiam,
+Colere, adiuvare, adiungere.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h60-h3
+:END:
+
+Ita quaeso, pater.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h4
+:END:
+
+Haud aliter censeo.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h5
+:END:
+
+Immo hercle ita nobis decet.
+Primum huius uxoris est mater.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h6
+:END:
+
+Quid postea?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h7
+:END:
+
+Proba et modesta.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h8
+:END:
+
+Ita aiunt.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h9
+:END:
+
+Natu grandior.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h10
+:END:
+
+Scio.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h11
+:END:
+
+Parere iam diu haec per annos non potest;
+Nec qui eam respiciat quisquam est: sola est.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h12
+:END:
+
+Quam hic rem agit?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h13
+:END:
+
+Hanc te aequum est ducere; et te operam ut fiat dare.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h14
+:END:
+
+Me ducere autem?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h15
+:END:
+
+Te.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h16
+:END:
+
+Me?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h17
+:END:
+
+Te inquam.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h18
+:END:
+
+Ineptis.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h19
+:END:
+
+Si tu sis homo,
+Hic faciat.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h60-h20
+:END:
+
+Mi pater.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h21
+:END:
+
+Quid? tu autem huic, asine, auscultas?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h22
+:END:
+
+Nihil agis:
+Fieri aliter non potest.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h23
+:END:
+
+Deliras.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h60-h24
+:END:
+
+Sine te exorem, mi pater.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h25
+:END:
+
+Insanis: aufer.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h26
+:END:
+
+Age da veniam filio.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h27
+:END:
+
+Satin sanus es? ego
+
+Novus maritus anno demum quinto et sexagesimo
+Fiam, atque anum decrepitam ducam? Idne estis auctores mihi?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h60-h28
+:END:
+
+Fac: promisi ego illis.
+
+** Mi
+:PROPERTIES:
+:CUSTOM_ID: h60-h29
+:END:
+
+Promisti autem? de te largitor, puer.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h30
+:END:
+
+Age; quid si quid te maius oret?
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h31
+:END:
+
+Quasi non hoc sit maximum.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h32
+:END:
+
+Da veniam.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h60-h33
+:END:
+
+Ne gravere.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h34
+:END:
+
+Fac promitte.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h35
+:END:
+
+Non omittis?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h60-h36
+:END:
+
+Non, nisi te exorem.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h37
+:END:
+
+Vis est haec quidem.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h38
+:END:
+
+Age prolixe, Micio.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h39
+:END:
+
+Etsi hoc mihi pravum, ineptum, absurdum, atque alienum a vita mea
+Videtur, si vos tantopere istuc vultis, fiat.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h60-h40
+:END:
+
+Bene facis:
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h41
+:END:
+
+Merito te amo. Verum—
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h42
+:END:
+
+Quid?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h43
+:END:
+
+Ego dicam, hoc quum fit quod volo.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h44
+:END:
+
+Quid nunc quod restat? Hegio his est cognatus proximus,
+
+Affinis nobis, pauper: bene nos aliquid facere illi decet.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h45
+:END:
+
+Quid facere?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h46
+:END:
+
+Agelli est hic sub urbe paulum, quod locitas foras:
+Huic demus qui fruatur.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h47
+:END:
+
+Paulum id autem?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h48
+:END:
+
+Si multum est, tamen
+Faciendum est: pro patre huic est; bonus est; noster est; recte datur.
+Postremo nunc meum illud verbum facio quod tu, Micio,
+
+Bene et sapienter dixti dudum: /Vitium commune omnium est,/
+/Quod nimium ad rem in senecta attenti sumus./ Hanc maculam nos decet
+Effugere: dictum est vere, et re ipsa fieri oportet Micio.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h49
+:END:
+
+Quid istic? dabitur quandoquidem hic vult.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h60-h50
+:END:
+
+Mi pater.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h51
+:END:
+
+Nunc tu mihi es germanus pariter corpore et animo.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h60-h52
+:END:
+
+Gaudeo.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h60-h53
+:END:
+
+Suo sibi gladio hunc iugulo.
+
+* 9
+:PROPERTIES:
+:CUSTOM_ID: h61
+:END:
+
+* 959b
+:PROPERTIES:
+:CUSTOM_ID: h62
+:END:
+
+(SYRUS. DEMEA. MICIO. AESCHINUS.)
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h1
+:END:
+
+Factum est quod iussisti, Demea.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h2
+:END:
+
+Frugi homo es. Ego edepol hodie mea quidem sententia
+Iudico Syrum fieri esse aequum liberum.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h62-h3
+:END:
+
+Istunc liberum?
+Quodnam ob factum?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h4
+:END:
+
+Multa.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h5
+:END:
+
+O noster Demea, edepol vir bonus es.
+
+Ego istos vobis usque a pueris curavi ambos sedulo;
+Docui, monui, bene praecepi semper quae potui omnia.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h6
+:END:
+
+Res apparet. Et quidem porro haec; obsonare cuni fide,
+Scortum adducere, apparare de die convivium;
+Non mediocris hominis haec sunt officia.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h7
+:END:
+
+O lepidum caput!
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h8
+:END:
+
+Postremo, hodie in psaltria hac emenda hic adiutor fuit,
+Hic curavit: prodesse aequum est: alii meliores erunt:
+Denique hic vult fieri.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h62-h9
+:END:
+
+Vin tu hoc fieri?
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h10
+:END:
+
+Cupio.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h62-h11
+:END:
+
+Si quidem
+Tu vis, Syre, eho accede huc ad me: liber esto.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h12
+:END:
+
+Bene facis.
+Omnibus gratiam habeo, et seorsum tibi praeterea, Demea.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h13
+:END:
+
+Gaudeo.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h14
+:END:
+
+Et ego.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h15
+:END:
+
+Credo: utinam hoc perpetuum fiat gaudium,
+Phrygiam ut uxorem meam una mecum videam liberam.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h16
+:END:
+
+Optimam quidem mulierem.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h17
+:END:
+
+Et quidem tuo nepoti, huius filio,
+Hodie primam mammam dedit haec.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h18
+:END:
+
+Hercle vero serio,
+Si quidem primam dedit, haud dubium quin emitti aequum siet.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h62-h19
+:END:
+
+Ob eam rem?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h20
+:END:
+
+Ob eam. Postremo a me argentum quanti est sumito.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h21
+:END:
+
+Di tibi, Demea, omnes semper omnia optata offerant.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h62-h22
+:END:
+
+Syre, processisti hodie pulchre.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h23
+:END:
+
+Si quidem porro, Micio,
+Tu tuum officium facies, atque huic aliquid paulum prae manu
+Dederis unde utatur; reddet tibi cito.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h62-h24
+:END:
+
+Istoc vilius.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h25
+:END:
+
+Frugi homo est.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h26
+:END:
+
+Reddam hercle; da modo.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h27
+:END:
+
+Age pater.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h62-h28
+:END:
+
+Post consulam.
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h29
+:END:
+
+Faciet.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h30
+:END:
+
+O vir optime.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h31
+:END:
+
+O mi pater festivissime.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h62-h32
+:END:
+
+Quid istuc? quae res tam repente mores mutavit tuos?
+Quod prolubium? quae istaec subita est largitas?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h33
+:END:
+
+Dicam tibi;
+Ut id ostenderem quod te isti facilem et festivum putant,
+
+Id non fieri ex vera vita, neque adeo ex aequo et bono:
+Sed ex assentando, indulgendo, et largiendo, Micio.
+Nunc adeo si ob eam rem vobis vita mea invisa est, Aeschine,
+Quia non iusta iniusta prorsus omnia omnino obsequor,
+Missa facio: effundite, emite, facite, quod vobis libet:
+
+Sed si id vultis potius, quae vos propter adolescentiam
+Minus videtis, magis impense cupitis, consulitis parum,
+Haec reprehendere et corrigere me, et obsecundare in loco;
+Ecce me qui id faciam vobis.
+
+** AESCHINUS
+:PROPERTIES:
+:CUSTOM_ID: h62-h34
+:END:
+
+Tibi, pater, permittimus:
+Plus scis quid facto opus est. Sed de fratre quid fiet?
+
+** DEMEA
+:PROPERTIES:
+:CUSTOM_ID: h62-h35
+:END:
+
+Sino;
+
+Habeat; in istac finem faciat.
+
+** MICIO
+:PROPERTIES:
+:CUSTOM_ID: h62-h36
+:END:
+
+Istuc recte.
+
+** Ω
+:PROPERTIES:
+:CUSTOM_ID: h62-h37
+:END:
+
+Plaudite.

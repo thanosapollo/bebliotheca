@@ -1,0 +1,21 @@
+#+TITLE: Hymn 14 to the Mother of the Gods
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-14-to-the-mother-of-the-gods--anonymous
+
+#+BEGIN_QUOTE
+Hymn 14 to the Mother of the Gods translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+I Prithee, clear-voiced Muse, daughter of mighty Zeus, sing of the mother of all gods
+and men. She is well-pleased with the sound of rattles and of timbrels, with the voice of
+flutes and the outcry of wolves and bright-eyed lions,
+with echoing hills and wooded coombes. And so hail to you in my song and to all
+goddesses as well!

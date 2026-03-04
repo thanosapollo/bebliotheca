@@ -1,0 +1,18 @@
+#+TITLE: Ἐπικαλούμεθά σε, Θεὲ παντοκράτορ Κύριε Ἰησοῦ Χριστὲ οὐράνιε βασιλεῦ·
+#+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
+#+FILETAGS: :patristic:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/fragmenta-precationis-et-exorcismi--epiphanius-of-salamis
+#+LANGUAGE: el
+
+* Ἐπικαλούμεθά σε, Θεὲ παντοκράτορ Κύριε Ἰησοῦ Χριστὲ οὐράνιε βασιλεῦ·
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+ἐπικαλούμεθά σε τὸν ποιήσαντα τὸν οὐρανὸν καὶ τὴν γῆν. Ἐξορκίζω σε, πνεῦμα
+ἀκάθαρτον, κατὰ τοῦ λόγου Θεοῦ τοῦ ποιήσαντος τὸν οὐρανὸν καὶ τὴν γῆν.
+φοβήθητι τὸν ἀναβαλλόμενον φῶς ὡς ἱμάτιον· τὸν μόνον ἔχοντα ἀθανασίαν καὶ
+φῶς ἀπρόσιτον· ᾧ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας. Ἀμήν.

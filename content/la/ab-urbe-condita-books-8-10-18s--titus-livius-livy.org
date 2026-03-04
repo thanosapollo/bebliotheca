@@ -1,0 +1,35 @@
+#+TITLE: Ab Urbe Condita, books 8-10 - 18s
+#+AUTHOR: Titus Livius (Livy)
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/ab-urbe-condita-books-8-10-18s--titus-livius-livy
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Ab Urbe Condita, books 8-10 - 18s edited by Benjamin Oliver Foster, Ph.D.
+#+END_QUOTE
+
+* 18s
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+ATILIUS REGULUS in Africa serpentem portentosae magnitudinis cum magna clade
+militum occidit, et cum aliquot proeliis bene adversus Carthaginienses
+pugnasset, successorque ei a senatu prospere bellum gerenti non mitteretur, id
+ipsum per litteras ad senatum scriptas questus est, in quibus inter causas
+petendi successoris erat  quod agellus eius a mercennariis
+desertus esset. quaerente deinde Fortuna ut magnum utriusque casus
+exemplum in Regulo  proderetur, arcessito a Carthaginiensibus
+Xanthippo, Lacedaemoniorum duce, victus proelio et captus est. res
+deinde a ducibus Romanis omnibus terra marique prospere gestas deformaverunt
+naufragia classium. tib . Coruncanius primus ex plebe pontifex
+maximus creatus est. M'. Valerius Maximus P. Sempronius Sophus  censores cum senatum legerent, xvi
+senatu moverunt. lustrum condiderunt, quo censa sunt civium capita
+CCXCVII nccxcvii. Regulus missus a
+Carthaginiensibus ad senatum ut de pace, et si eam non posset impetrare, de
+commutandis captivis ageret, et iureiurando adstrictus rediturum se Carthaginem,
+si commutari captivos non placuisset, utrumque negandi auctor senatui  fuit, et cum fide custodita reversus esset, supplicio a
+Carthaginiensibus de eo sumpto perit.

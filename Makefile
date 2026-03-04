@@ -2,7 +2,7 @@
 
 PYTHON = $(shell command -v guix >/dev/null 2>&1 && echo "guix shell python -- python3" || echo "python3")
 
-.PHONY: all catalog export clean clean-sources import update publish publish-update help test test-structure test-report test-untranslated test-lang test-lang-report test-originals test-originals-report test-metadata test-metadata-report test-all-reports web
+.PHONY: all catalog export clean clean-sources report import update publish publish-update help test test-structure test-report test-untranslated test-lang test-lang-report test-originals test-originals-report test-metadata test-metadata-report test-all-reports web
 
 all:
 	@./build.sh all
@@ -18,6 +18,9 @@ clean:
 
 clean-sources:
 	@./build.sh clean-sources
+
+report:
+	@./build.sh report
 
 import:
 	@./build.sh import
@@ -77,8 +80,9 @@ help:
 	@echo "make catalog          Generate catalog.json"
 	@echo "make export           Incremental export (changed files only)"
 	@echo "make clean            Remove generated HTML + catalog"
-	@echo "make clean-sources    Remove auto-generated .org files from all sources"
-	@echo "make import           Import content from all source submodules"
+	@echo "make clean-sources    Remove tracked .org files listed in manifests"
+	@echo "make report           Write test reports to log/"
+	@echo "make import           Import new files from sources (skips existing)"
 	@echo "make update           Update all submodules to latest and re-import"
 	@echo "make publish          Import + build + deploy to server"
 	@echo "make publish-update   Update sources, build, and deploy"

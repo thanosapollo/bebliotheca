@@ -1,0 +1,35 @@
+#+TITLE: Ab Urbe Condita, books 8-10 - 13s
+#+AUTHOR: Titus Livius (Livy)
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/ab-urbe-condita-books-8-10-13s--titus-livius-livy
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Ab Urbe Condita, books 8-10 - 13s edited by Benjamin Oliver Foster, Ph.D.
+#+END_QUOTE
+
+* 13s
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+VALERIUS LAEVINUS COS. parum prospere adversus Pyrrhum pugnavit, elephantorum
+maxime inusitata facie territis militibus. post id proelium cum
+corpora Romanorum qui in acie ceciderant Pyrrhuis inspiceret, omnia versa in
+hosted invenit  populabundusque ad urbem Romanam processit. C. Fabricius missus ad eum a
+senatu, ut de redimendis captivis ageret, frustra ut patriam desereret a rege
+temptatus est. captivi sine pretio remissi sunt. cineas
+legatus a Pyrrho ad senatum missus petit ut conponendae pacis causa rex in urbem
+reciperetur. de qua re cum ad frequentiorem senatum referri
+placuisset, Appius Claudius, qui propter valetudinem oculorum iam diu consiliis
+publicis se abstinuerat,  venit in curiam et sententia sua tenuit
+ut id Pyrrho negaretur. Cn . Domitius censor primus ex plebe
+lustrum condidit. censa sunt civium capita ccxxxxvii ccxxii.
+iterum adversus Pyrrhum dubio eventu pugnatum est. cum
+Carthaginiensibus quarto foedus renovatum est. cum C. Fabricio
+consuli is qui ad eum a Pyrrho transfugerat polliceretur venenum se regi
+daturum, cum indicio ad regem remissus est. res praeterea contra
+Lucanos et Bruttios, Samnites et Etruscos  prospere gestas continet.

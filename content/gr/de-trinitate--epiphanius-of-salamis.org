@@ -1,0 +1,17 @@
+#+TITLE: ̓Επιφανίου Κύπρου ἐκ τοῦ περὶ τριάδος λόγου.
+#+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
+#+FILETAGS: :patristic:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/de-trinitate--epiphanius-of-salamis
+#+LANGUAGE: el
+
+* ̓Επιφανίου Κύπρου ἐκ τοῦ περὶ τριάδος λόγου.
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Μία δοξολογία πατρὸς καὶ υἱοῦ καὶ ἁγίου πνεύματος καὶ μία προσκύνησις·
+ὅτε γὰρ δοξολογοῦσι τὰ σεραφὶμ τὸν θεὸν "ἅγιος, ἅγιος, ἅγιος", πατέρα καὶ υἱὸν καὶ
+πνεῦμα ἅγιον δοξολογοῦσι.

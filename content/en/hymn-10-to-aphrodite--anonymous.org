@@ -1,0 +1,22 @@
+#+TITLE: Hymn 10 To Aphrodite
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-10-to-aphrodite--anonymous
+
+#+BEGIN_QUOTE
+Hymn 10 To Aphrodite translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of Cytherea, born in Cyprus, I will sing.
+She gives kindly gifts to men: smiles are ever on her lovely face, and lovely is the brightness that plays over it.
+
+Hail, goddess, queen of well-built Salamis
+and sea-girt Cyprus; grant me a cheerful song.
+And now I will remember you and another song also.

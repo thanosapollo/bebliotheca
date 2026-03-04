@@ -57,11 +57,39 @@ export_dir() {
         export_files
 }
 
+PG_MIGNE_DIR="sources/pg-migne"
+PDF_MANIFEST="log/pg-migne-pdf-manifest.json"
+
+# Copy PG Migne PDFs to public/gr/ using the JSON manifest.
+# Skips silently if the source directory or manifest doesn't exist
+# (PDFs are not tracked in git).
+copy_pdfs() {
+    [ -d "$PG_MIGNE_DIR" ] || return 0
+    [ -f "$PDF_MANIFEST" ] || return 0
+    echo "==> Copying PG Migne PDFs"
+    python3 -c "
+import json, shutil, sys
+from pathlib import Path
+manifest = json.load(open('$PDF_MANIFEST'))
+copied = 0
+for org_name, pdf_rel in manifest.items():
+    src = Path('$PG_MIGNE_DIR') / pdf_rel
+    if not src.exists():
+        continue
+    stem = org_name.replace('.org', '')
+    dst = Path('$PUBLIC_DIR/gr') / (stem + '.pdf')
+    if dst.exists():
+        continue
+    shutil.copy2(src, dst)
+    copied += 1
+print(f'Copied {copied} PDFs to $PUBLIC_DIR/gr/')
+"
+}
+
 ALL_DIRS="$CONTENT_DIR/gr $CONTENT_DIR/en $CONTENT_DIR/la"
 
 case "${1:-all}" in
     all)
-        "$0" import
         echo "==> Cleaning previous build"
         "$0" clean
         echo "==> Generating catalog"
@@ -100,11 +128,14 @@ case "${1:-all}" in
         ;;
     clean)
         find "$PUBLIC_DIR/gr" "$PUBLIC_DIR/en" "$PUBLIC_DIR/la" -name '*.html' -delete 2>/dev/null || true
+        find "$PUBLIC_DIR/gr" -name '*.pdf' -delete 2>/dev/null || true
         rm -f "$PUBLIC_DIR/catalog.json"
         echo "Cleaned"
         ;;
     clean-sources)
-        for manifest in sources/*-manifest.txt; do
+        echo "WARNING: This deletes tracked .org files from content/."
+        echo "They can be restored with: git checkout -- content/"
+        for manifest in log/*-manifest.txt; do
             [ -f "$manifest" ] || continue
             count=0
             while IFS= read -r f; do
@@ -114,14 +145,24 @@ case "${1:-all}" in
             echo "Removed $count files ($(basename "$manifest"))"
         done
         ;;
+    report)
+        mkdir -p log
+        python3 tests/check_structure.py report > log/structure-report.txt || true
+        python3 tests/check_language.py report > log/language-report.txt || true
+        python3 tests/check_originals.py report > log/originals-report.txt || true
+        python3 tests/check_metadata.py report > log/metadata-report.txt || true
+        echo "Reports written to log/"
+        ;;
     import)
         python3 scripts/import_sources.py
         ;;
     update)
         python3 scripts/import_sources.py --update
         ;;
+    copy-pdfs)
+        copy_pdfs
+        ;;
     publish)
-        "$0" import
         "$0" all
         ./publish.sh
         ;;
@@ -131,7 +172,7 @@ case "${1:-all}" in
         ./publish.sh
         ;;
     help|-h|--help)
-        echo "Usage: $0 [all|catalog|export|gr|en|la|clean|clean-sources|import|update|publish|publish-update|help]"
+        echo "Usage: $0 [all|catalog|export|gr|en|la|clean|clean-sources|copy-pdfs|report|import|update|publish|publish-update|help]"
         echo ""
         echo "  all            Clean + catalog + full export (default)"
         echo "  catalog        Generate catalog.json"
@@ -140,8 +181,10 @@ case "${1:-all}" in
         echo "  en             Export English content only"
         echo "  la             Export Latin content only"
         echo "  clean          Remove generated HTML + catalog"
-        echo "  clean-sources  Remove auto-generated .org files from all sources"
-        echo "  import         Import content from all source submodules"
+        echo "  clean-sources  Remove tracked .org files listed in manifests"
+        echo "  copy-pdfs      Copy PG Migne PDFs to public/gr/ (requires sources/pg-migne/)"
+        echo "  report         Write test reports to log/"
+        echo "  import         Import new files from source submodules (skips existing)"
         echo "  update         Update all submodules to latest and re-import"
         echo "  publish        Import + build + deploy to server"
         echo "  publish-update Update sources, build, and deploy"

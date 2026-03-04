@@ -1,0 +1,23 @@
+#+TITLE: Hymn 25 To the Muses and Apollo
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-25-to-the-muses-and-apollo--anonymous
+
+#+BEGIN_QUOTE
+Hymn 25 To the Muses and Apollo translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+I will begin with the Muses and Apollo and Zeus. For it is through the Muses and
+Apollo that there are singers upon the earth and players upon the lyre; but kings are from
+Zeus. Happy is he whom the Muses
+love: sweet flows speech from his lips.
+
+Hail, children of Zeus! Give honor to my
+song! And now I will remember you and another song also.

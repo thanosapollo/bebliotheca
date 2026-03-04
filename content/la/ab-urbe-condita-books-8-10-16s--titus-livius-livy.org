@@ -1,0 +1,27 @@
+#+TITLE: Ab Urbe Condita, books 8-10 - 16s
+#+AUTHOR: Titus Livius (Livy)
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/ab-urbe-condita-books-8-10-16s--titus-livius-livy
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Ab Urbe Condita, books 8-10 - 16s edited by Benjamin Oliver Foster, Ph.D.
+#+END_QUOTE
+
+* 16s
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+ORIGO Carthaginiensium et primordia urbis eorum referuntur. contra
+quos et Hieronem, regem Syracusanorum, auxilium Mamertinis ferendum senatus
+censuit, cum de ea re inter suadentes ut id fieret dissuadentesque contentio
+fuisset; transgressisque tunc primum mare equitibus  Romanis adversus Hieronem saepius bene pugnatum. petenti pax
+data est. lustrum a censoribus conditum est. censa sunt
+civium capita CCCLXXXII ccxxxiiii. Decimus
+Iunius Brutus munus gladiatorium in honorem defuncti patris primus edidit.
+colonia Aesernia deducta est. res praeterea contra
+Poenos et Vulsinios  prospere gestas continet.

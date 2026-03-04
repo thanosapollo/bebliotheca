@@ -1,0 +1,20 @@
+#+TITLE: Hymn 11 To Athena
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-11-to-athena--anonymous
+
+#+BEGIN_QUOTE
+Hymn 11 To Athena translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of Pallas Athena, guardian of the city, I begin to sing. Dread is she, and with Ares
+she loves deeds of war, the sack of cities and the shouting and the battle. It is she who
+saves the people as they go out to war and come back.
+Hail, goddess, and give us good fortune with happiness!

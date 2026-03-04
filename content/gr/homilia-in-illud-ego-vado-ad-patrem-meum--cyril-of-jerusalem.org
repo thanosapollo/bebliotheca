@@ -1,0 +1,19 @@
+#+TITLE: Κυρίλλου ἐπισκόπου Ἱεροσολύμων εἰς τὸ "Ἐγὼ πορεύομαι πρὸς τὸν πατέρα μου· καὶ
+#+AUTHOR: Κύριλλος Ἱεροσολύμων
+#+FILETAGS: :patristic:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/homilia-in-illud-ego-vado-ad-patrem-meum--cyril-of-jerusalem
+#+LANGUAGE: el
+
+* Κυρίλλου ἐπισκόπου Ἱεροσολύμων εἰς τὸ "Ἐγὼ πορεύομαι πρὸς τὸν πατέρα μου· καὶ
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+ὃ ἐὰν αἰτήσητε ἐν τῷ ὀνόματί μου, τοῦτο ποιήσω, ἵνα δοξασθῇ ὁ πατὴρ ἐν τῷ υἱῷ".
+Ἐπ' ἀμφοτέρων τῶν περὶ τῆς θεότητος καὶ τῆς ἀνθρωπότητος λεγομένων τίθησιν τὸ
+ἐγώ, ὡς τὴν μὲν διάνοιαν τῶν ῥημάτων ἐκ τῆς ἀκολουθίας φαίνεσθαι, τὴν δὲ
+διάγνωσιν τῶν φύσεων ἐκ τῆς διαφορᾶς τῶν λεγομένων. ἐκ δὲ τοῦ διαλέγεσθαι ἐν
+ἀμφοτέραις ὡσὰν περὶ ἑνός τινος τὴν τοῦ προσώπου συνάφειαν σημαίνει.

@@ -1,0 +1,4492 @@
+#+TITLE: Epidicus, or The Fortunate Discovery
+#+AUTHOR: Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epidicus-or-the-fortunate-discovery--t-maccius-plautus
+
+#+BEGIN_QUOTE
+Epidicus, or The Fortunate Discovery translated by Henry Thomas Riley
+#+END_QUOTE
+
+* front
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Dramatis Personae
+
+PERIPHIANES, an aged Athenian of rank.
+STRATIPPOCLES, his son by a former wife.
+APAECIDES, an aged Athenian, friend of Periphanes.
+EPIDICUS, servant of Periphanes.
+CHAERIBULUS, a young Athenian, friend of Stratippocies.
+THESPRIO, armour-bearer to Stratippocles.
+A CAPTAIN of .
+A BANKER.
+PHILIPPA, a woman of , the mother of Telestis.
+ACROPOLISTIS, a music-girl, mistress of Stratippocles.
+TELESTIS, daughter of Periphanes and Philippa.
+A MUSIC-GIRL.
+
+(Scene—Athens: before the houses of PERIPHANES, APAECIDES, and CHAERIBULUS.)
+
+THE SUBJECT.
+The plot of this Play is of an involved nature. Periphanes, an aged Athenian, has a son, born in wedlock, named Stratippocles. By Philippa, a woman of Epidaurus, whom he has formerly seduced, he has had a daughter, named Telestis who has been residing with her mother at Thebes. A war arising between the Athenians and Thebans, Stratippocles, on setting out for the army, commissions Epidicus, his father’s servant, to purchase for him Acropolistis, a music-girl, of whom lie is enamoured. Epidicns, on this, persuades Periphanes that this girl is really his daughter by Philippa, whom he has not seen for many years, and that she has been taken captive at Thebes, and brought to Athens. On this the old man gives Epidicus the requisite sum, and she is brought home and introduced to him as his daughter Telestis. In the meantime, Stratippocles meets with another damsel who has been taken captive, and agrees with a Banker to borrow forty mince, for the purpose of purchasing her. He returns to Athens, and resolves not to meet his father until he has paid the money to the Banker and gained possession of the damsel, and Epidicus is threatened by him with a severe punishment, if he does not manage to raise the sum required. On this he accosts his aged master, and tells him that he must find a wife for his son, who is about to purchase a singing-girl of the name of Acropolistis. The old man is persuaded to give a sum of money to Epidicus for the purpose of buying Acropolistis, that she may be kept out of the way of his son. On receiving the money, Epidicus hands it over to Stratippocles, to be paid to the Banker. The old gentleman having that morning ordered a singing-girl to be hired to perform at a sacrifice at his house, she is brought to him as Acropolistis, having been instructed how to play her part. A Captain, who admires Acropolistis, having heard that Periphanes has purchased her, applies to him, and offers to give him a profit of ten minae if he will transfer her to him. Periphanes, thereupon, brings to him the music-girl who is assuming that character (while the real Acropolistis is taken for his daughter), on which the Captain discovers the deception, and Periphanes finds out that the girl is already free, and has been only brought to his house to perform at the sacrifice. At this conjuncture Philippa arrives, having heard that her daughter has been brought to Athens. Periphanes meets her, and assures her that her daughter is safe at his house. On this, Philippa is introduced to Acropolistis, and declares that she is not her daughter, and that Periphanes has been imposed upon. On being questioned,Acropolistis confesses that she has only called Periphanes her father because lie has called her his daughter. Epidicus, on being discovered to be guilty of this second fraud upon his master, is greatly alarmed; but just then he perceives the Banker, who has come for the money, leading the Theban captive. He immediately recognizes her as Telestis, the real daughter of Periphanes and Philippa, Stratippocles, somewhat to his sorrow, is informed that the captive is his half-sister, and therefore, most probably, consoles himself with Acropolistis. For making this discovery, Epidicus is not only pardoned by Periphanes, but receives his freedom.
+
+THE ACROSTIC ARGUMENT.
+An old gentleman, thinking her his daughter, purchases (Emit) a music-girl, by the advice (Persuasu) of his servant, who, a second time (Iterum), substitutes for him, in place of his son’s mistress, another one hired; he gives (Dat) to his master’s son the money; with it the young man, not knowing it (Imprudens), purchases his sister. Soon afterwards, by the aid of a woman whom he has seduced, and of a Captain, the old man understands (Cognoscit) that he has been imposed upon, as (Ut) the one is in search of his mistress, the other of her daughter. But (Sed) on finding his daughter, he gives his servant his liberty.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+(Enter THESPRIO, followed by EPIDICUS.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+(pulling THESPRIO by the cloak.)
+Harkye! young man.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h2
+:END:
+
+Who pulls me by the cloak, when thus in haste?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h3
+:END:
+
+An intimate.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h4
+:END:
+
+I confess it; for with your annoyance you are too intimate.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h5
+:END:
+
+But do look back, Thesprio!
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h6
+:END:
+
+(looking round.)
+What? Is it Epidicus that I see?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h7
+:END:
+
+Why surely you’ve the use of your eyes.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h8
+:END:
+
+Greetings to you.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h9
+:END:
+
+May the Gods grant what you desire. I’m glad that you’ve got here safe.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h10
+:END:
+
+What besides?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h11
+:END:
+
+According to the usage, a dinner shall be given you.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h12
+:END:
+
+I agree.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h13
+:END:
+
+What to do?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h14
+:END:
+
+That I’ll accept it, if you offer it.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h15
+:END:
+
+How are you? Fare you as you could wish?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h16
+:END:
+
+The proof’s before you.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h17
+:END:
+
+Marvellous! You seem quite plump and hearty.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h18
+:END:
+
+(pointing to his left hand.)
+Thanks to this.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h19
+:END:
+
+Which, indeed, you ought to have parted with long ago.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h20
+:END:
+
+I’m less of a pilferer now than formerly.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h21
+:END:
+
+How so?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h22
+:END:
+
+I rob above-board.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h23
+:END:
+
+May the immortal Gods confound you, with what huge strides you do walk! for when I caught sight of you at the harbour, I began to run at a rapid pace;
+I was hardly able to overtake you just now.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h24
+:END:
+
+You are a town wit.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h25
+:END:
+
+I know that you, on the other hand, are a military gentleman.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h26
+:END:
+
+Speak out as boldly as you please.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h27
+:END:
+
+How say you? Have you been well all along?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h28
+:END:
+
+In a varied way.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h29
+:END:
+
+Those who are well in a varied way, a race of men of the goat kind or of the panther kind, don’t please me.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h30
+:END:
+
+What do you wish me to tell you but that which is fact?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h31
+:END:
+
+To answer to these things fairly;
+how’s our master’s son? Is he well?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h32
+:END:
+
+Stout as a boxer and an athlete.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h33
+:END:
+
+You’ve brought me joyous tidings on your arrival. But where is he?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h34
+:END:
+
+I came here together with him.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h35
+:END:
+
+Where is he then? Unless, perchance, you’ve brought him in your wallet, or, perhaps, in your knapsack.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h36
+:END:
+
+May the Gods confound you!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h37
+:END:
+
+I want to make enquiries of you. Lend me your attention; attention shall be lent you in return.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h38
+:END:
+
+You say what’s law.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h39
+:END:
+
+It becomes me to do so.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h40
+:END:
+
+But why now are you acting the Praetor over us?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h41
+:END:
+
+What other person in Athens will you say is more deserving of it than I?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h42
+:END:
+
+But still, Epidicus, one thing is wanting for your Praetorship.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h43
+:END:
+
+What, pray?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h44
+:END:
+
+You shall know; two lictors two osier bundles of twigs—
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h45
+:END:
+
+(shaking his fist at him.)
+Woe unto you! But how say you—?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h46
+:END:
+
+What is it you ask?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h47
+:END:
+
+Where are the arms of Stratippocles?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h48
+:END:
+
+I’ faith, they’ve gone over to the enemy.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h49
+:END:
+
+What, his arms?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h50
+:END:
+
+Aye, and quickly too.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h51
+:END:
+
+Do you say that seriously?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h52
+:END:
+
+Seriously I say it; the enemy have got them.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h53
+:END:
+
+By my troth, a disgraceful affair.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h54
+:END:
+
+Still, before now, other persons have done the same. This affair will turn out to his honor.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h55
+:END:
+
+How so?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h56
+:END:
+
+Because it has been so to others before.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h57
+:END:
+
+Mulciber, I suppose, made the arms which Stratippocles had;
+they flew over to the enemy.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h58
+:END:
+
+Why, then, e’en let this son of Thetis lose them; the daughters of Nereus will bring him others.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h59
+:END:
+
+Only this must be looked to, that material may be found for the armourers, if in each campaign he yields a spoil to the enemy.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h60
+:END:
+
+Have done now with these matters.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h61
+:END:
+
+You yourself make an end of them when you please.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h62
+:END:
+
+Cease your enquiries then.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h63
+:END:
+
+Say, where is Stratippocles himself?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h64
+:END:
+
+There is a reason, for which reason he has been afraid to come together with me.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h65
+:END:
+
+Pray, what is it?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h66
+:END:
+
+He doesn’t wish to see his father as yet.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h67
+:END:
+
+For what reason?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h68
+:END:
+
+You shall hear; because he has purchased out of the spoil a young female captive of charming and genteel figure.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h69
+:END:
+
+What is it I hear from you?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h70
+:END:
+
+That which I’m telling you.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h71
+:END:
+
+Why has he purchased her?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h72
+:END:
+
+To please his fancy.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h73
+:END:
+
+How many fancies has this man? For assuredly, before he went away from home to the army, he himself commissioned me, that a music-girl whom he was in love with should be purchased of a Procurer for him. That I have managed to accomplish for him.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h74
+:END:
+
+Whichever way the wind is at sea, Epidicus, in that direction the sail is shifted.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h75
+:END:
+
+Woe unto wretched me! He has utterly undone me!
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h76
+:END:
+
+What’s the meaning of this? What’s the matter, pray?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h77
+:END:
+
+Well now—she whom he has bought, at what sum has he purchased her?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h78
+:END:
+
+A very little.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h79
+:END:
+
+That I don’t ask you.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h80
+:END:
+
+What then?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h81
+:END:
+
+For how many minae?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h82
+:END:
+
+(holding up all his fingers four times.)
+For so many.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h83
+:END:
+
+Forty minae?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h84
+:END:
+
+For that purpose, he borrowed the money on interest of a Banker at Thebes, at a didrachm for each silver mina per day.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h85
+:END:
+
+Surprising!
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h86
+:END:
+
+This Banker, too, has come together with him, and is dunning for his money.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h87
+:END:
+
+Immortal Gods! now I’m fairly done for!
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h88
+:END:
+
+Why so, or.what’s the matter, Epidicus?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h89
+:END:
+
+He has proved my ruin!
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h90
+:END:
+
+Who?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h91
+:END:
+
+Who? He who lost his arms.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h92
+:END:
+
+But why so?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h93
+:END:
+
+Because he himself was every day sending me letters from the army—but I shall hold my tongue; it’s best to do so.
+It’s best for a man in servitude to know more than he says; that’s true wisdom.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h94
+:END:
+
+On my faith, I don’t understand why you are alarmed. You are frightened, Epidicus; I see it by your countenance. You seem here, in my absence, to have got into some scrape or other.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h95
+:END:
+
+Can’t you cease annoying me?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h96
+:END:
+
+I’ll be off. (Moves as if going.)
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h97
+:END:
+
+Stand still; I’ll not let you go from here. (Holds him.)
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h98
+:END:
+
+Why do you hold me back?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h99
+:END:
+
+Is he in love with her whom he has purchased out of the spoil?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h100
+:END:
+
+Do you ask me?
+He dotes to death upon her.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h101
+:END:
+
+The hide will be stripped from off my back.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h102
+:END:
+
+He loves her, too, more than ever he loved you.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h103
+:END:
+
+May Jupiter confound you!
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h104
+:END:
+
+Let me go now; for he has forbidden me to go to our house; he ordered me to come here (pointing to the house) to our neighbour’s, Chaeribulus; there he bade me wait; he’s about to come there himself.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h105
+:END:
+
+Why so?
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h106
+:END:
+
+I’ll tell you;
+because he doesn’t wish to meet with or see his father, before he has paid down this money which is owing for her.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h107
+:END:
+
+O dear! an involved business, i’ faith.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h108
+:END:
+
+Do let go of me, that I may now be off forthwith.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h109
+:END:
+
+When the old gentleman knows this, our ship will fairly founder.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h110
+:END:
+
+What matters it to me in what way you come to your end?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h111
+:END:
+
+Because I don’t wish to perish alone; I’d like you to perish with me, well-wisher with well-wisher.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h112
+:END:
+
+(tearing himself away from EPIDICUS.)
+Away with you from me to utter and extreme perdition with those terms of yours!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h113
+:END:
+
+Be off, then, if you are in great haste about anything.
+
+** THESPRIO
+:PROPERTIES:
+:CUSTOM_ID: h4-h114
+:END:
+
+(aside.)
+I never met with any person from whom I parted with greater pleasure. (Goes into the house of CHAERIBULUS.)
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h115
+:END:
+
+(to himself.)
+He’s gone away from here; you are now alone. In what plight this matter is, you now see, Epidicus. Unless you have some resources in your own self, you are done for. Ruination so great is impending over you—unless you support yourself stoutly, you cannot hold up; to such a degree are mountains of misfortune threatening to tumble on you.
+Neither does any plan just now please me by means of which to find myself disengaged from my entanglement. To my misfortune, by my trickeries I have forced the old man to imagine that he was making purchase of his own daughter; whereas he has bought for his own son
+a music-girl whom he was fond of, and whom on his departure he commissioned me about. He now, to please his fancy, has brought another one from the army. I’ve lost my hide, for when the old man finds out that he has been played tricks with, he’ll be flaying my back with twigs. But still, do you take all precautions. (He stands still and thinKs.)
+That’s of no use! clearly this head of mine is addled! You are a worthless fellow, Epidicus. (In another tone.) What pleasure have you in being abusive? Because you are forsaking yourself. What am I to do? Do you ask me the question? Why you yourself, in former days, were wont to lend advice to others.
+Well, well; something must be found out. But why delay to go meet the young man, that I may know how the matter stands? And here he is himself. He is in a grave mood. He’s coming with Chaeribulus, his year’s-mate. I’ll step aside here, whence at my leisure I’ll follow their discourse. (He steps aside.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 104
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+(Enter STRATIPPOCLES and CHAERIBULUS.)
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+I’ve told you all the matter, Chaeribulus, and
+I have fully disclosed to you the sum of my griefs and loves.
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h2
+:END:
+
+You are foolish, Stratippocles, beyond your age and lineage. Does it shame you, because you have bought a captive girl, born of good family, from among the spoil? Who will there be to impute it as a fault to you?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h3
+:END:
+
+Through doing this, I’ve found that those who are envious are all enemies to me;
+but I’ve never offered or criminal assault against her chastity.
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h4
+:END:
+
+Then, so far, in my opinion at least, you are a still more deserving man, inasmuch as you are temperate in your passion.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h5
+:END:
+
+He effects nothing who consoles a desponding man with his words: he is a friend, who, in dubious circumstances, aids in deed when deeds are necessary.
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h6
+:END:
+
+What do you wish me to do?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h7
+:END:
+
+To lend me forty minae of silver,
+to be paid to the Banker from whom I borrowed it on interest.
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h8
+:END:
+
+On my word, if I had it, I would not deny you.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h9
+:END:
+
+What then does it signify your being bounteous in talk, if all aid in the matter is dead outright.
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h10
+:END:
+
+Why faith, I myself am quite wearied and distracted with being dunned.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h11
+:END:
+
+I had rather my friends of that sort were thrust into a furnace than into litigation.
+But now I could wish to buy me the assistance of Epidicus at a weighty price, a fellow whom I’ll hand over well-liquored with stripes to the baker, unless he this day finds me forty minae before I’ve mentioned to him the last syllable of the sum.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h12
+:END:
+
+(apart.)
+The matter’s all right; he promises well; he’ll keep faith, I trust. (Ironically.)
+Without any expenditure of my own, an entertainment is already provided for my shoulder-blades. I’ll accost the man. (He goes up to STRATIPPOCLES.) The servant Epidicus wishes health to his master Stratippocles, on his arrival from abroad.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h13
+:END:
+
+(turning round.)
+Where is he?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h14
+:END:
+
+Here he is; I’m delighted that you have returned safe.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h15
+:END:
+
+I believe you as much in that as I do myself.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h16
+:END:
+
+Have you been well all along?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h17
+:END:
+
+I’ve been free from disease; in mind I’ve been ailing.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h18
+:END:
+
+As regarded myself, I’ve taken care of what you entrusted to me; it has been obtained; the female captive has been bought, about which matter you were sending me letters so often.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h19
+:END:
+
+You’ve lost all your labour.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h20
+:END:
+
+But why have I lost it?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h21
+:END:
+
+Because she is not dear to my heart, nor does she please me.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h22
+:END:
+
+What means it, then, that you gave me such strict injunctions, and sent letters to me?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h23
+:END:
+
+Formerly I did love her; but now another passion influences my heart.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h24
+:END:
+
+I’ faith, it is a shocking thing for that to be unpleasant for a man which you have managed well for him; where I’ve done well, I’ve in reality done ill, since love has shifted sides.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h25
+:END:
+
+I wasn’t right in my mind when I sent those letters to you.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h26
+:END:
+
+Is it proper that I should be the atonement for your folly,
+so as for you to substitute my back as the scape-goat for your folly?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h27
+:END:
+
+Why are we making words about that? This man (pointing to himself) has need of forty minae, ready money, and in all haste, for him to pay a Banker, and speedily too.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h28
+:END:
+
+Only tell me from what quarter you wish me to get them. From what banker am I to seek them?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h29
+:END:
+
+From where you like. But if I don’t finger them before sunset,
+don’t you enter my house; off with yourself to the mill.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h30
+:END:
+
+You easily say that without risk and concern, and with a gay heart. I know our floggers; I feel the pain when I’m beaten.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h31
+:END:
+
+How say you now? Will you suffer me to destroy myself?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h32
+:END:
+
+Don’t do that. I’ll cope with this peril and bold attempt in preference.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h33
+:END:
+
+Now you please me; now do I commend you.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h34
+:END:
+
+I’ll submit to this in any way that’s pleasing to you.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h35
+:END:
+
+What then is to be done about this music-girl?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h36
+:END:
+
+Some method shall be found out; by some means I’ll disengage myself; some way I shall get extricated.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h37
+:END:
+
+You are full of scheming; I know you of old.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h38
+:END:
+
+There is a rich Captain of Eubœa, abounding in plenty of gold, who, when he knows that that one was bought for you, and that this other one has been brought here,
+will forthwith be entreating you, of his own accord, to transfer that other one to him. But where is she whom you have brought with you?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h39
+:END:
+
+I shall have her here just now.
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h40
+:END:
+
+What are we now doing here?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h6-h41
+:END:
+
+Let’s go in-doors here at your house, that, for the present, we may pass this day merrily. (They go into the house of CHAERIBULUS.)
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h42
+:END:
+
+(to himself.)
+Go in-doors; I’ll now call a council in my heart to adopt measures about this money business,
+against whom, in especial, war is to be declared, and out of whom I’m to get the money. Epidicus, consider what you are to do; thus suddenly has this business been thrown upon you. But now you must not be slumbering, nor have you any leisure for delay. Now must you be daring! ’Tis my fixed determination to lay siege to the old man. I’ll go indoors; I’ll tell the young man, my master’s son,
+not to walk abroad here, or come anywhere in the way of the old gentleman. (Goes into the house of CHAERIBULUS.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+* 166
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+(Enter APAECIDES and PERIPHANES, from the house of the former.)
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+Mostly all men are ashamed when they have no occasion to be; when they ought to be ashamed, then does shame forsake them, when there’s a necessity for their being ashamed. That man, in fact, are you. What is there to be ashamed of
+in your bringing home a wife, poor, but born of good family? Especially her, whose daughter you say this girl is, who is at your house?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h9-h2
+:END:
+
+I have some regard for my son.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h9-h3
+:END:
+
+But, i’ faith, the wife whom you buried I thought you had felt some respect for;
+whose tomb as oft as you see, you straightway sacrifice victims to Orcus; and not without reason, in fact, since you’ve been allowed to get the better of her by surviving her.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h9-h4
+:END:
+
+Ah me! I was a Hercules while she was with me; and, upon my faith, the sixth labour was not more difficult to Hercules than the one that fell to my lot.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h9-h5
+:END:
+
+I’ faith, money’s a handsome dowry.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h9-h6
+:END:
+
+Troth, so it is, which isn’t encumbered with a wife.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+* 181
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+(Enter EPIDICUS, from the house of CHAERIBULUS, softly crossing the stage.)
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h1
+:END:
+
+(at the door, as he enters.)
+Hist! hist! be silent, and have good courage; with a fair omen have I come out of doors, the bird upon the left hand. (Pointing to his head.) I’ve got a sharp knife, with which to embowel the old man’s purse;
+but see! here he is before the house of Apaecides, the two old fellows, just as I want. Now I shall change me into a leech, and suck out the blood of these who are called the pillars of the Senate.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h2
+:END:
+
+Let him be married at once.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h3
+:END:
+
+I approve of your design.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h4
+:END:
+
+For I’ve heard that he’s entangled with love with a certain music-girl, I don’t know who. At that I’m vexed to death.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h5
+:END:
+
+(apart.)
+By my troth, all the Deities do aid, amplify, and love me; really, these men themselves are pointing out to me the way by means of which I’m to get the money out of them. Now then, come, equip yourself, Epidicus, and throw your cloak about your neck (suiting the action to the word.)
+and pretend as though you had been in search of the man all the city over. On with it, if you are going to do it! (He hurries past the OLD MEN as though he didn’t see them, and calls out aloud.) Immortal Gods! I do wish I could meet with Periphanes at home, whom I’m tired with searching for all over the city, throughout the doctors’ shops, throughout the barbers’ shops, in the gymnasium, and in the Forum, at the perfumers’ shops and the butchers’ stalls, and round about the bankers’ shops.
+I’m become hoarse with enquiring; I’ve almost dropped down with running.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h6
+:END:
+
+Epidicus!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h7
+:END:
+
+(looking round.)
+Who is it that’s calling Epidicus back?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h8
+:END:
+
+It’s I, Periphanes.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h9
+:END:
+
+And I, Apaecides.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h10
+:END:
+
+And I, indeed, am Epidicus. But, master, I find that you’ve both met me at the nick of time.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h11
+:END:
+
+What’s the matter?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h12
+:END:
+
+Wait, wait! (puffs and blows.) prithee, do let me get breath!
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h13
+:END:
+
+By all means, rest yourself.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h14
+:END:
+
+I’m quite faint;
+I must recover my breath.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h15
+:END:
+
+Do rest yourself at your leisure.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h16
+:END:
+
+Lend me your attention. All the men of the army have been remanded home from Thebes.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h17
+:END:
+
+Who knows for certain that this has been done?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h18
+:END:
+
+I say that it has been done.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h19
+:END:
+
+Are you sure of that?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h20
+:END:
+
+I am sure of it.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h21
+:END:
+
+Why are you sure of it?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h22
+:END:
+
+Because I’ve seen the soldiers marching through the streets in shoals. They are bringing back their arms and their baggage-horses.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h23
+:END:
+
+Very good indeed!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h24
+:END:
+
+Then, what prisoners they’ve got with them! boys, girls, in twos and threes; another one has got five; there’s a crowd in the streets; they are looking out each for his son.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h25
+:END:
+
+I’ troth, a business very well managed!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h26
+:END:
+
+Then, filly as many of the courtesans as there are in the whole city were going decked out each to meet her lover;
+they were going to trap them; that’s the fact, inasmuch as I gave especial attention to it; several of these had with them nets beneath their garments. When I came to the harbour, forthwith I espied her waiting there, and with her were four music-girls.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h27
+:END:
+
+With whom, Epidicus?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h28
+:END:
+
+With her whom your son has been loving and doting on for years,
+with whom he’s making all haste to ruin credit, property, himself, and yourself. She was on the lookout for him at the harbour.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h29
+:END:
+
+Just see the sorceress now!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h30
+:END:
+
+But decked out, sparkling with gold, and adorned so splendidly! so nicely! so fashionably!
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h31
+:END:
+
+What was she drest in? Was it a royal robe, or was it a plain dress?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h32
+:END:
+
+A skylight one, according as these women coin names for garments.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h33
+:END:
+
+What! was she dressed in a skylight?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h34
+:END:
+
+What’s there wonderful in that? As though many women didn’t go through the streets decked out with farms upon them. But when the tax is demanded, they declare it cannot be paid; while to these hussies, to whom a larger tax is paid, it can be paid. Why, what new names every year these women are finding for their clothing—
+the thin tunic, the thick tunic, your fulled linen cloth, chemises, bordered shifts’ the marigold or saffron-coloured dress, the under-petticoat or else the light vermilion dress, the hood, the royal or the foreign robe, the wave pattern or the feather-pattern, the wax or the apple-tint. The greatest nonsense! From dogs, too, do they even take the names.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h35
+:END:
+
+How so?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h36
+:END:
+
+They call one the Laconian. These names compel men to make auctions.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h37
+:END:
+
+But do you say on as you commenced.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h38
+:END:
+
+Two other women behind me began to speak thus between themselves; I, like my wont, went away a little distance from them; I pretended that I wasn’t attending to their talk: I didn’t quite hear all, and still I wasn’t deceived
+in a word they said.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h39
+:END:
+
+I long to hear it.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h40
+:END:
+
+Then one of them said to the other with whom she was talking—
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h41
+:END:
+
+What?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h42
+:END:
+
+Be quiet then, that you may hear. After they had caught sight of her whom your son is dying for: /Prithee, how happily and luckily has it befallen that woman for her lover to be wishing to set her free./ /Who is he?/
+said the other. She mentioned Stratippocles.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h43
+:END:
+
+Troth now, I’m undone; what is it I hear of you?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h44
+:END:
+
+That which really took place. After this, I myself, when I heard them talking, began again to draw closer towards them little by little, as though the crowd of people was pushing me, whether I would or no.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h45
+:END:
+
+I understand.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h46
+:END:
+
+Then the one asked the other, /How do you know?/ /Why, because a letter has been brought her to-day from Stratippocles; that he has borrowed money on interest from a banker at Thebes; that it is ready, and he himself has brought it for that purpose./
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h47
+:END:
+
+Tell on—I’m undone!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h48
+:END:
+
+She said that she had heard so from her and from the letter which she had seen.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h49
+:END:
+
+What am I to do now? I ask your advice, Apaecides.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h50
+:END:
+
+Let us find some clever, useful expedient; for he, indeed, will either be here just now, or is here already.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h51
+:END:
+
+If it were right for me to be wiser than you, I could give you some good advice, which you will praise, I fancy, both of you—
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h52
+:END:
+
+Then where is it, Epidicus?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h53
+:END:
+
+Yes, and useful for this purpose,
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h54
+:END:
+
+Why do you hesitate to mention it?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h55
+:END:
+
+It’s proper for yourselves, who are the wiser, to be the first to speak, and for me to speak afterwards.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h56
+:END:
+
+Aye, aye, of course—come, say on.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h57
+:END:
+
+But you’ll laugh at me.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h58
+:END:
+
+On my word, we will not do so.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h59
+:END:
+
+Well then, if it pleases you, use my advice; if it doesn’t please you, find better.
+There’s neither sowing nor reaping for me in this matter; only that I do wish the same that you wish.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h60
+:END:
+
+I return you thanks. Make us partakers in your wisdom.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h61
+:END:
+
+Let a wife at once be chosen for your son; and so take vengeance on this music-girl whom he wants to liberate, and who is corrupting him for you; and so let it be managed, that even until her dying day she may remain a slave.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h62
+:END:
+
+It ought to be so managed.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h63
+:END:
+
+I am ready to do anything, so long only as this may be brought about
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h64
+:END:
+
+Well then, now there’s an opportunity of doing so, before he comes into the city, as to-morrow he will be here; to-day he will not have come.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h65
+:END:
+
+How do you know?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h66
+:END:
+
+I do know, because another person told me, who came from there, that he would be here in the morning.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h67
+:END:
+
+Then say you what we are to do.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h68
+:END:
+
+I’m of opinion that you ought to do thus:
+you must pretend as though you were desirous to give her liberty to the music-girl for your own whim, and as though you were violently in love with her.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h69
+:END:
+
+To what advantage does that tend?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h70
+:END:
+
+Do you ask that? Why, that you may purchase her beforehand with money, before your son comes, and may say that you bought her to set her at liberty—
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h71
+:END:
+
+I understand.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h72
+:END:
+
+When she’s bought, you must remove her somewhere out of the city; unless your own
+feelings are any way opposed.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h73
+:END:
+
+O no, skilfully suggested.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h74
+:END:
+
+But what say you, Apaecides?
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h75
+:END:
+
+Why, what should I? Except that I think you’ve contrived it very cleverly.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h76
+:END:
+
+Then, in consequence, all thoughts of marriage with her will be removed from him, so that he will make no difficulties as to what you wish.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h77
+:END:
+
+Long life to you, wise as you are, it really does please us.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h78
+:END:
+
+Do you then skilfully do whatever you are going to do.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h79
+:END:
+
+I’ faith, you speak to the purpose.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h80
+:END:
+
+I have found, too, how this suspicion may be removed from yourself.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h81
+:END:
+
+Let me know it.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h82
+:END:
+
+You shall know it; just listen.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h83
+:END:
+
+He’s come with a breast full of counsel.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h84
+:END:
+
+There’s need of a person to carry the money there for the music-girl; but there’s no equal necessity for yourself to do it.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h85
+:END:
+
+Why so?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h86
+:END:
+
+Lest he should think you are doing it for the sake of your son—
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h87
+:END:
+
+Cleverly thought of!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h88
+:END:
+
+By which means you’ll keep him away from her;
+lest any difficulty might arise by reason of that suspicion.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h89
+:END:
+
+What person shall we find suited to this purpose?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h90
+:END:
+
+(pointing to APAECIDES.)
+He will be the best; he will be able to take all due precautions, as he understands the laws and ordinances.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h91
+:END:
+
+Epidicus, receive my thanks. But I’ll attend to this with all care.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h92
+:END:
+
+I’ll find him and bring him here to you, to whom the music-girl belongs;
+and I’ll take the money along with him. (Pointing to APAECIDES.)
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h93
+:END:
+
+For how much, at the lowest, can she be bought?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h94
+:END:
+
+What, she? Perhaps she might possibly be bought at the lowest for forty minae; but if you give me more, I shall return it. There’s no trickery in this matter. This money, too, of yours won’t be locked up ten days.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h95
+:END:
+
+How so?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h96
+:END:
+
+Why, because another young man is dying with love for this woman,
+one abounding in money, a great warrior, a Rhodian, a spoiler of his foes, a boaster; he’ll buy her of you, and give the money with pleasure. You only do it; there’s a large profit for you here.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h97
+:END:
+
+I really pray the Gods it may be so.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h98
+:END:
+
+You’ll obtain your prayer.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h99
+:END:
+
+Why then, don’t you go in-doors and bring the money out here? I’ll go visit the Forum. Epidicus, do you come thither.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h100
+:END:
+
+(to APAECIDES.)
+Don’t you go away from there before I come to you.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h11-h101
+:END:
+
+I’ll wait till then.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h11-h102
+:END:
+
+(to EPIDICUS.)
+Do you follow me in-doors.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h103
+:END:
+
+Go and count it out; I’ll not detain you at all. (Exit APAECIDES, and PERIPHANES goes into his house.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+* 306
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+(EPIDICUS, alone.)
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h1
+:END:
+
+(to himself.)
+I do think that in the Attic land there is no spot of land so fertile as is this Periphanes of ours; why, from the locked and sealed-up money-chest I summon forth silver just as much as I please.
+But this, i’ troth, I am afraid of, that if the old man should come to know it, he’ll be making parasites of elm-twigs, to be shaving me quite clean. But one matter and consideration disturbs me—what music-girl, one that goes out on hire, I’m to show to Apaecides. (He muses.) And that as well I’ve got: this morning the old gentleman bade me
+bring for him on hire some music-girl to his house here, to sing for him while he was performing a sacrifice. She shall be hired, and be instructed beforehand in what way she’s to prove herself cunning towards the old man. I’ll away in-doors; I’ll get the money out of the swindled old fellow. (He goes into the house of PERIPHANES.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+* 320
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+(Enter STRATIPPOCLES and CHAERIBULUS, from the house of the latter.)
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+I’m distractedly in suspense and worn to the heart with waiting how the fair promises of Epidicus will turn out for me. I’ve been tormented too long. Whether there is to be anything, or whether there is not, I wish to know.
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h2
+:END:
+
+For all these resources you may still seek some other resources for yourself. For my part, I knew at the first, or the instant, that there was no help for you in him.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h16-h3
+:END:
+
+Upon my faith, I’m ruined!
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h4
+:END:
+
+You act absurdly in tormenting yourself in mind. By my troth, if I should catch him, I would never allow that slave of a fellow to be laughing at us with impunity.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h16-h5
+:END:
+
+What can you expect him to do, you, who have such great wealth at home, and have not a coin of it, as you say, and have in yourself no resources for your friend?
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h6
+:END:
+
+I’ faith, if I had had it, I should have proffered it with pleasure; but something in some manner, in some way, in some direction, from some person, some hope I have for you, that there’ll be some good fortune for you to share with me.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h16-h7
+:END:
+
+Woe to you, you sneaking fellow.
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h8
+:END:
+
+Why does it please you to abuse me?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h16-h9
+:END:
+
+Why, because you are prating to me about something in some manner, from somewhere or other, from some persons,
+that nowhere exists, and I won’t admit it to my ears. Of no more assistance are you unto me than he who never yet has been born. (They stand near the door of the house of CHAERIBULUS.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 337
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+(Enter EPIDICUS, from the house of PERIPHANES, with a bag of money round his neck.)
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h1
+:END:
+
+(to PERIPHANES, within the house.)
+You’ve done your duty then; it now befits me to do mine. Through this care of mine, you may be allowed to be at ease. (In a lower voice.) This, in fact, is now lost to you; don’t at all be setting your hopes on it. (Holding some of the coins in his hands.) How very shining it is! You only trust me for that.
+This way I’m going to act, this way my forefathers have acted before me. O ye immortal Gods, what a brilliant day you have bestowed upon me in this how propitious and how favourable to my requests! But why do I delay to take my departure hence, that I may bear this supply with lucky auspices to the colony. I’m delaying while I’m standing here. But what means this? Before the house I see the two companions,
+my master and Chaeribulus. (Accosting them.) What are you doing? Take this, will you. (Gives STRATIPPOCLES the bag of money.)
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h2
+:END:
+
+How much is there in this?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h3
+:END:
+
+As much as is enough, and more than enough; a superabundance; I’ve brought more by ten minae than you owe to the Banker. So long as I please and obey you, I value my own back at a straw.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h4
+:END:
+
+But why so?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h5
+:END:
+
+Because I shall make your father a bag-murderer.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h6
+:END:
+
+What kind of expression is that?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h7
+:END:
+
+I don’t at all care for your old-fashioned and every-day words; you chouse by purses full, but I’ll chouse by bags full. For the procurer took away a whole lot of money for the music-girl (I paid it; with these hands I counted it out), her whom your father supposes to be his own daughter. Now, again, that your father may be deceived, and assistance be provided for you,
+I’ve discovered a method. In such a way have I persuaded the old gentleman—and had a talk to this effect, that, when you returned, you might not have possession of her—
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h8
+:END:
+
+Bravo!—bravo!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h9
+:END:
+
+She’s now at your house in place of her.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h10
+:END:
+
+I understand.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h11
+:END:
+
+Now he has given me Apaecides by way of guarantee in this matter (he’s waiting for me at the Forum), as if to seem the purchaser.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h12
+:END:
+
+Not a bad precaution!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h13
+:END:
+
+The cautious man’s now taken in himself;
+your own father himself placed this purse around my neck. He’s making preparation, that immediately on your arrival home you shall be married.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h14
+:END:
+
+In one way only will he persuade me; if Orcus takes her away from me, who has been brought with me.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h15
+:END:
+
+Now I’ve hit upon this scheme: I’ll go by myself alone to the procurer’s house; I’ll instruct him,
+if any one comes to him, to say that the money has been paid him for the music-girl; inasmuch as, the day before yesterday, I paid it down with my own hands for this mistress of yours, whom your father takes to be his own daughter. Then the procurer, unknowingly, will be staking his accursed head,
+as though he had received the money for her who has now been brought here together with you.
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h16
+:END:
+
+You are more versatile than a potter’s-wheel.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h17
+:END:
+
+Now I’ll get ready some artful music-girl, who’s hired at a didrachm, to pretend that she has been purchased, and cleverly to trick the two old fellows: Apaecides, together with her, will bring her to your father.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h18
+:END:
+
+How adroitly managed!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h19
+:END:
+
+Her, prepared beforehand with my devices, and provided with my schemes, I shall send to him. But I’m talking at too great length; you have delayed me too long: you now know these things how they are to be; I’ll be off.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h20
+:END:
+
+Success attend you! (Exit EPIDICUS.)
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h21
+:END:
+
+He is very clever at artful tricks.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h22
+:END:
+
+Indeed, by his plans, he has saved me, that’s sure.
+
+** CHAERIBULUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h23
+:END:
+
+Let’s go hence into my house.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h18-h24
+:END:
+
+Yes, and a little more joyfully than I came out of your house, by the courage and conduct of Epidicus, do I return into camp with the spoil. (They go into the house.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+* 382
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+(Enter PERIPHANES.)
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h1
+:END:
+
+(to herself.)
+Not only for the sake of the face were it right for men to have a mirror for themselves wherein to look at their faces; but one with which they might be enabled to examine the heart of discretion,
+and therefore be able to examine the resources of the mind; when they had looked in that, they might afterwards consider how they had once passed their lives in youth. Just as myself, for instance, who, for the sake of my son, began to torment myself in mind, as though my son
+had been guilty of some offence against, me, or as though my own misdeeds had not been most heavy in my youth. In truth, we old fellows are out of our senses sometimes. This, in my own opinion at least, has proved advantageous. But my friend Apaecides is coming with the spoil.
+I’m glad that the negotiator has returned safe. (Enter APAECIDES, with a MUSIC-GIRL.)
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h2
+:END:
+
+How goes it?
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h20-h3
+:END:
+
+The Gods and Goddesses are favouring you.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h4
+:END:
+
+The omen pleases me.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h20-h5
+:END:
+
+A person with whom all things go on prosperously. But do you order her to be taken in-doors.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h6
+:END:
+
+(going to the door of his house, and calling.)
+Hallo there! come out of doors here, some one. (A SERVANT comes out.) Take that woman into the house!
+And, do you hear?
+
+** SERVANT
+:PROPERTIES:
+:CUSTOM_ID: h20-h7
+:END:
+
+What do you desire?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h8
+:END:
+
+Take care you don’t permit this woman to associate with my daughter, or to see her. Now do you understand? I wish her to be shut up apart in that little chamber; there’s a great difference between the manners of a maiden and a courtesan. (The SERVANT leads the MUSIC-GIRL into the house.)
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h20-h9
+:END:
+
+You speak cleverly and judiciously; each man cannot keep too strict a guard upon the chastity of his daughter.
+Upon my faith, we certainly did forestall this woman from your son just in time.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h10
+:END:
+
+Why so?
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h20-h11
+:END:
+
+Because another person told me that he had just seen your son here.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h12
+:END:
+
+I’ troth, he was stirring in this business.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h20-h13
+:END:
+
+Upon my faith, it really is so, clearly.
+You really have a clever servant, and worth any price.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h14
+:END:
+
+At his weight in gold he would not be dear.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h20-h15
+:END:
+
+How well he kept that Music-girl quite in ignorance that she was purchased for you; so full of joke and fun did he bring her hither along with him.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h16
+:END:
+
+It’s wonderful how that could be managed.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h20-h17
+:END:
+
+He said that you were going to offer a sacrifice at home for your son,
+because he had returned safe from Thebes.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h18
+:END:
+
+He hit upon the right thing.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h20-h19
+:END:
+
+Yes, and he himself told her that she had been hired to assist you here in the sacrifice. He said that you were about to perform it, and that you had a sacrifice at home.
+But I then made pretence that I was ignorant, as it were, inasmuch as I made myself out half-witted.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h20
+:END:
+
+Why yes; it was right to do so.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h20-h21
+:END:
+
+An important trial of a friend is going on at the Forum; I want to go as his advocate.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h22
+:END:
+
+Go, and when you have leisure, return to me mediately.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h20-h23
+:END:
+
+I’ll be here just now. (Exit.)
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h20-h24
+:END:
+
+(to himself.)
+Nothing is there more opportune to man than a friend in need; without labour of your own, what you want is done nevertheless. If I had commissioned any one upon this business, a less skilful person, and less fitted for this matter, he would have been gulled; and so, grinning with his white teeth,
+my son would have most deservedly laughed at me.
+But who is this I see coming this way, that with his swaggering makes his scarf to be streaming in the wind? (He stands aside.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+* 437
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+(Enter a CAPTAIN, with his SERVANT.)
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+(to his SERVANT.)
+Take care not to pass by any house without asking where lives the old gentleman, Periphanes of Plothea. Take care that you don’t return to me without knowing it.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h2
+:END:
+
+(coming forward.)
+Young man, if I point out to you the person whom you are in search of, what thanks shall I get of you?
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h3
+:END:
+
+In arms, by the might of war, I’ve deserved that all people ought to give me thanks.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h4
+:END:
+
+You haven’t found out, young man, a tranquil spot
+where to recount your virtues as you wish; for, if an inferior vaunts his battles to a superior, by his lips they become soiled; but this Periphanes of Plothea whom you are seeking, I am he, if you want him for anything.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h5
+:END:
+
+Him, you mean, who in his youth
+among kings in arms, by his skill in war, gained vast wealth?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h6
+:END:
+
+Aye, if you were to hear of my achievements, drop ping your hands you would run off home.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h7
+:END:
+
+I’ faith, I’m rather in search of one to whom to speak of my own, than of one to be speaking of his to me.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h8
+:END:
+
+This is not the place for it.
+Do you then look out for another person, into whom to stuff your scraps of nonsense. (Aside.)
+And yet this is folly, for me to impute that to him as a fault, which I myself used to do in my youth when I was a soldier; in recounting my battles I used to tear out men’s ears by the roots, when I had once begun.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h9
+:END:
+
+Lend your attention, that you may learn what I’ve come to you about. I’ve heard that you have purchased my mistress.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h10
+:END:
+
+(aside.)
+Heyday! now at last I know who he is; the officer whom Epidicus was telling me about a short time since. (To the OFFICER.) Young man, it is
+as you say; I have purchased her.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h11
+:END:
+
+I want a few words with you, if it is not inconvenient to you.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h12
+:END:
+
+Upon my faith, I don’t know whether it’s convenient or not, until perhaps you say what you want.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h13
+:END:
+
+I want you to transfer her to me, and take the ransom.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h14
+:END:
+
+You may have her.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h15
+:END:
+
+But why should I hesitate to speak out to you? I wish at once to make her my freed-woman, that she may be my mistress.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h16
+:END:
+
+I’ll make short work with you; she was bought for me for fifty minae of silver; if sixty minae are paid down to me, I’ll let the damsel employ your holidays,
+and so assuredly so, that, if you like, you may remove her from this country.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h17
+:END:
+
+Is she then purchased by me?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h18
+:END:
+
+On those terms you may have her.
+You have made a good bargain. (Going to the door of his house.)
+Hallo there! bring out of doors the Music-girl you took in. The harp, too, as well, that was thrown in with her, I’ll make you a present of it for nothing.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h19
+:END:
+
+(MUSIC-GIRL.)
+(taking her by the hand and leading her to the CAPTAIN.)
+Come, take her, please.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h20
+:END:
+
+What madness possesses you? What mystery are you devising for me? Why don’t you order the Music-girl to be brought from in-doors?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h21
+:END:
+
+Why, this is the Music-girl. There’s no other one here.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h22
+:END:
+
+You can’t impose on me. Why don’t you bring out here the Music-girl Acropolistis?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h23
+:END:
+
+This, I tell you, is she.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h24
+:END:
+
+This, I tell you, is not she. Do you suppose that I can’t know my own mistress?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h25
+:END:
+
+It was this Music-girl, I tell you, for whom my son was dying with love.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h26
+:END:
+
+This is not she.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h27
+:END:
+
+How, not she?
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h28
+:END:
+
+It is not.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h29
+:END:
+
+Where in the world, then, does, she come from? For my part, i’ faith, I certainly paid the money for her.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h30
+:END:
+
+Foolishly paid, I guess, and a mighty mistake.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h31
+:END:
+
+Nay, but this is she; for I sent the servant who is in the habit of attending my son; he himself this moment purchased the Music-girl.
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h32
+:END:
+
+Well then, this fellow has cut you up joint by joint, old gentleman, this servant of yours.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h33
+:END:
+
+How, cut me up?
+
+** A CAPTAIN
+:PROPERTIES:
+:CUSTOM_ID: h22-h34
+:END:
+
+Such is my suspicion;
+for she has been palmed upon you for that Music-girl. Old gentleman, you’ve been bubbled clearly and cleverly. I shall now go seek her wherever she is.
+Warrior, farewell! (Exeunt the OFFICER and SERVANT.)
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h35
+:END:
+
+(stamnping with rage.)
+Bravo, bravo! Epidicus You’re a clever fellow! You have fought well—you’re a man! you’ve wiped my nose when snivelling, worthless fellow that I am! (To the MUSIC-GIRL.)
+Did Apaecides purchase you to-day of the procurer? (A pause.) Come now, tell me.
+
+** MUSIC-GIRL
+:PROPERTIES:
+:CUSTOM_ID: h22-h36
+:END:
+
+I never heard of that person before to-day, nor, indeed, was any one able to purchase me for any money; I’ve been free now for more than five years.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h37
+:END:
+
+What business have you, then, at my house?
+
+** MUSIC-GIRL
+:PROPERTIES:
+:CUSTOM_ID: h22-h38
+:END:
+
+You shall hear;
+I came, being hired to perform for an old gentleman while he was sacrificing.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h39
+:END:
+
+I do confess that I am the most worthless of all men in Athens of Attica. But do you know Acropolistis the Music-girl?
+
+** MUSIC-GIRL
+:PROPERTIES:
+:CUSTOM_ID: h22-h40
+:END:
+
+As well as my own self.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h41
+:END:
+
+Where does she live?
+
+** MUSIC-GIRL
+:PROPERTIES:
+:CUSTOM_ID: h22-h42
+:END:
+
+Since she has been made free,
+I don’t know for certain.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h43
+:END:
+
+Well now, I should like to know who has made her free, if you know?
+
+** MUSIC-GIRL
+:PROPERTIES:
+:CUSTOM_ID: h22-h44
+:END:
+
+That which I have heard, you shall hear; I heard that Stratippocles, the son of Periphanes, had provided in his absence that she should be made free.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h45
+:END:
+
+By heavens, I’m undone, most clearly, if these things are true. Epidicus has disembowelled my purse!
+
+** MUSIC-GIRL
+:PROPERTIES:
+:CUSTOM_ID: h22-h46
+:END:
+
+I’ve heard to that effect. Do you want me for anything else?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h47
+:END:
+
+Away to perdition in the veriest torments, and off this instant!
+
+** MUSIC-GIRL
+:PROPERTIES:
+:CUSTOM_ID: h22-h48
+:END:
+
+Won’t you give me back my harp?
+
+** PERIPHANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h49
+:END:
+
+Neither harp nor pipes.
+Make haste, then, and escape from here, if the Gods love you!
+
+** MUSIC-GIRL
+:PROPERTIES:
+:CUSTOM_ID: h22-h50
+:END:
+
+I’ll be off. At a future time, however, you’ll restore it, with the greater disgrace to yourself. (Exit.)
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h22-h51
+:END:
+
+(to himself.)
+What now? Shall I, who have been placed before so many edicts, allow him to get with impunity? No; even though as much again should be required to be lost, I’ll lose it rather than
+allow myself to be held in derision with impunity and plundered by them. That I should have been thus cheated openly to my face, and that I should have been set at nought before this Apaecides, who is famed as being the framer and founder of all the laws and ordinances! He too declares that he is a wise man! that the hammer,
+forsooth, should be wiser than the handle! (He stands aside.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+* 526
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+(Enter PHILIPPA, at a distance.)
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h1
+:END:
+
+(to herself.)
+If a mortal being has aught of misery, through which, miserable creature, to be wretched from the heart, that same do I experience, for whom full many a woe unites in the same spot, which, all, at the same instant are beating against my breast. A multitude of troubles keep me in suspense.
+Poverty and misery alarm the thoughts of my heart; nor have I anywhere a spot of safety where to fix my hopes; in such a way has my daughter fallen into the power of the enemy; nor do I know where she now is.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h2
+:END:
+
+(apart.)
+Who is this woman coming from a distance with a breast filled with alarms, and who thus bewails her lot?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h3
+:END:
+
+(to herself.)
+It was told me that Periphanes was living in this neighbourhood.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h4
+:END:
+
+(apart.)
+She’s mentioning me; need of hospitality has befallen her, I suppose.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h5
+:END:
+
+(to herself.)
+I would be very willing to give a reward to any one who would point me out that man, or where he dwells.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h6
+:END:
+
+(apart.)
+I recognize her; for I think I have seen her before; where, I know not. Is it, or is it not she, whom my mind suspects her to be?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h7
+:END:
+
+(seeing him.)
+Good Gods! I have seen this person before!
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h8
+:END:
+
+(to himself.)
+It surely is she, a poor woman whom I remember having an intrigue with at Epidaurus.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h9
+:END:
+
+(to herself.)
+Surely it is he, who at Epidaurus first violated my maiden modesty.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h10
+:END:
+
+(to himself.)
+She who had the daughter by me whom I’ve now got at home.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h11
+:END:
+
+(to herself.)
+What if I accost him?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h12
+:END:
+
+(to himself.)
+I don’t know whether to make up to her.
+If this is she—
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h13
+:END:
+
+(to herself.)
+But if it is the man, as length of years renders me doubtful—
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h14
+:END:
+
+(to himself.)
+Length of time renders my mind uncertain. But if it is she, whom with some doubt I conjecture it to be, I’ll accost her circumspectly.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h15
+:END:
+
+(to herself.)
+A woman’s artfulness must be employed by me.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h16
+:END:
+
+(to himself.)
+I’ll address her.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h17
+:END:
+
+(to herself.)
+I’ll bring my powers of conversation to bear against him.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h18
+:END:
+
+(accosting her.)
+Health to you!
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h19
+:END:
+
+That health I accept for me and mine.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h20
+:END:
+
+What besides?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h21
+:END:
+
+Health to yourself; what you lent me, I return.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h22
+:END:
+
+I don’t impeach your punctuality.
+Don’t I know you?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h23
+:END:
+
+If I know you, I’ll move your feelings, so that you shall know me.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h24
+:END:
+
+Where have I been in the habit of seeing you?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h25
+:END:
+
+You are unfairly hard upon me.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h26
+:END:
+
+Why so?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h27
+:END:
+
+Because you think it right that I should be the prompter of your memory.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h28
+:END:
+
+You speak to the purpose.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h29
+:END:
+
+You say what’s strange to me, Periphanes.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h30
+:END:
+
+Ah now! that’s better.
+Do you remember, Philippa—
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h31
+:END:
+
+Yes, I remember that.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h32
+:END:
+
+At Epidaurus—
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h33
+:END:
+
+Ah! you have moistened my burning breast with a little drop of comfort.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h34
+:END:
+
+How I relieved the poverty of you, a poor young maiden, and your mother?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h35
+:END:
+
+What, are you he who for your own gratification brought heavy troubles upon me?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h36
+:END:
+
+I am he. Health to you.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h37
+:END:
+
+I am in health, since I see you in health.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h38
+:END:
+
+Give me your hand.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h39
+:END:
+
+(extending her hand, which he takes.)
+Take it—you hold by the hand a woman distrest and full of woes.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h40
+:END:
+
+What is it that disturbs your features?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h41
+:END:
+
+The daughter whom I had by you—
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h42
+:END:
+
+What of her?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h43
+:END:
+
+When I had brought her up, I lost her; she fell into the hands of the enemy.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h44
+:END:
+
+Keep your mind in quiet and at rest. Why look, she’s here at my house safe and sound. For immediately I heard from my servant that she was a captive, instantly I gave the money for her to be purchased;
+he managed this affair as discreetly and frugally as in other matters he is egregiously—dishonest.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h45
+:END:
+
+Let me see her, whether it is she or no.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h25-h46
+:END:
+
+(going to the door of his house.)
+Hallo there! you—Canthara, this instant bid my daughter come out before the house, that she may see her mother.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h25-h47
+:END:
+
+My spirits now at last return to me.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+* 570
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+(Enter ACROPOLISTIS from the house.)
+
+** ACROPOLISTIS
+:PROPERTIES:
+:CUSTOM_ID: h27-h1
+:END:
+
+Why is it, father, that you have called me out before the house?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h2
+:END:
+
+That you may see and accost your mother, and wish her health on her arrival, and give her kisses.
+
+** ACROPOLISTIS
+:PROPERTIES:
+:CUSTOM_ID: h27-h3
+:END:
+
+(looking about.)
+What mother of mine?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h4
+:END:
+
+(pointing to PHILIPPA.)
+She who, half dead, is following your gaze.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h5
+:END:
+
+Who is this that you are requesting to kiss me?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h6
+:END:
+
+Your own daughter.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h7
+:END:
+
+What, she?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h8
+:END:
+
+She.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h9
+:END:
+
+What—am I to kiss her?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h10
+:END:
+
+Why not, her who was born of you?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h11
+:END:
+
+Man, you are mad.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h12
+:END:
+
+What, I?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h13
+:END:
+
+Yes, you.
+
+** PERIPHANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h14
+:END:
+
+Why?
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h15
+:END:
+
+Because this woman—I neither know nor understand who she is, nor have I beheld her with my eyes before this day.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h16
+:END:
+
+I know why you are mistaken; because this woman has her dress and ornaments changed.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h17
+:END:
+
+Puppies have one smell, pigs quite another;
+I say that I do not know her, who she is.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h18
+:END:
+
+(stamping with rage.)
+Oh! by our trust in Gods and men, what is this? Am I following the calling of a Procurer, to be keeping strange women in my house, and to be emptying my house of my money? (To ACROPOLISTIS.) What are you to be calling me your father and kissing me? Why stand you stupidly there? Why do you keep silent?
+
+** ACROPOLISTIS
+:PROPERTIES:
+:CUSTOM_ID: h27-h19
+:END:
+
+What do you want me to say?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h20
+:END:
+
+(pointing to PHILIPPA.)
+She denies that she is your mother.
+
+** ACROPOLISTIS
+:PROPERTIES:
+:CUSTOM_ID: h27-h21
+:END:
+
+Don’t let her be so,
+if she don’t choose. For my own part, whether she likes it or not, I shall be my mother’s daughter still. It isn’t right for me to compel this woman to be my mother if she doesn’t like.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h22
+:END:
+
+Why then did you call me father?
+
+** ACROPOLISTIS
+:PROPERTIES:
+:CUSTOM_ID: h27-h23
+:END:
+
+That is your own fault, not mine; ought I not to call you father when you call me daughter? Her too, as well (pointing to PHILIPPA) if she were to call me daughter, I should call mother.
+She declares that I am not her daughter; then she is not my mother. In fine, this is no fault of mine; what I’ve been taught, I’ve told you all of it. Epidicus was my instructor.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h24
+:END:
+
+I’m undone! I’ve upset my waggon!
+
+** ACROPOLISTIS
+:PROPERTIES:
+:CUSTOM_ID: h27-h25
+:END:
+
+Have I done anything amiss towards that?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h26
+:END:
+
+Upon my faith, if I ever hear you call me father, I’ll put an end to your life, you jade!
+
+** ACROPOLISTIS
+:PROPERTIES:
+:CUSTOM_ID: h27-h27
+:END:
+
+I shan’t call you so.
+When you want to be my father, then be so; when you don’t want, don’t be my father.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h28
+:END:
+
+(to PERIPHANES.)
+What? Did you purchase her for that reason, because you supposed her to be your daughter? By what signs did you recognize her?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h29
+:END:
+
+By none.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h30
+:END:
+
+Why did you suppose her to be our daughter?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h31
+:END:
+
+My servant Epidicus told me so.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h32
+:END:
+
+What if it had seemed to your servant otherwise? Prithee, could you not have known?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h33
+:END:
+
+How should I, who had never seen her after having once beheld her.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h34
+:END:
+
+Wretched creature, I’m quite undone! (Begins to weep.)
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h35
+:END:
+
+Don’t weep, madam; go in-doors; be of good courage; I’ll find her out.
+
+** PHILIPPA
+:PROPERTIES:
+:CUSTOM_ID: h27-h36
+:END:
+
+An Attic citizen from Athens here purchased her Indeed, they said it was a young man who had bought her.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h27-h37
+:END:
+
+I will find her; hold your peace. Only do go in-doors, and keep an eye upon this Circe, this daughter of the Sun. (She goes into the house, followed by ACROPOLISTIS.)
+All business laid aside, I’ll give my attention to seeking for Epidicus. If I find him, I’ll make this day become the final one for him. (Exit.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+* 607
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+(Enter STRATIPPOCLES, from the house of CHAERIBULUS.)
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h1
+:END:
+
+(to himself.)
+The Banker is inattentive to me, not to seek the money of me, or bring this woman who has been purchased out of the spoil. But see—here comes Epidicus How’s this, that in gloominess his brow is wrinkled? (at a distance.)
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h2
+:END:
+
+(to himself.)
+If Jupiter unto himself were to take the eleven Gods beside himself, even then, all of them would not be able to rescue Epidicus from torture. I’ve seen Periphanes buying the thongs; Apaecides was together with him; now, I do believe that these persons are in search of me. They have found it out; they know that they’ve been imposed upon.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h3
+:END:
+
+(coming forward.)
+What are you about, my ready occasion?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h4
+:END:
+
+That which a wretched fellow is about.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h5
+:END:
+
+What’s the matter with you?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h6
+:END:
+
+Why don’t you prepare for me the necessaries for flight before I’m quite undone? For the two fleeced old gentlemen are hunting for me through the city; they are carrying in their hands handcuffs an inch and a half thick.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h7
+:END:
+
+Be of good heart—
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h8
+:END:
+
+Of course I will, whose freedom is so close at hand.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h9
+:END:
+
+I will preserve you.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h10
+:END:
+
+I’ faith, they’ll do it better for me, if they catch me.
+But who’s this young woman, this greyish old fellow, too, that’s coming along? (are seen at a distance.)
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h11
+:END:
+
+This is the Banker, and this is the woman whom I purchased out of the spoil.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h12
+:END:
+
+What, is this she?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h13
+:END:
+
+It is she. Isn’t she just like what I told you? Look at her.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h14
+:END:
+
+Is it she?
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h15
+:END:
+
+Survey her, Epidicus.  Even from her nail to the top of her hair she is most lovely! Is she not? Do look at her! Observe her! You’ll be looking at a picture beautifully painted.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h16
+:END:
+
+Judging from your words you are foretelling that my hide will be beautifully painted; me, whom Apelles and Zeuxis, the pair of them, will be painting with elm-tree pigments. (Enter the BANKER and TELESTIS.)
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h17
+:END:
+
+(to the BANKER.)
+Immortal Gods! I’m surprised at your slowness. The man that’s spoken of in the proverb with swollen feet, would have got here sooner than you have arrived for me.
+
+** A BANKER.
+:PROPERTIES:
+:CUSTOM_ID: h30-h18
+:END:
+
+(pointing to TELESTIS.)
+I’ faith, ’twas she delayed me.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h19
+:END:
+
+If indeed you delayed for her sake,
+because she wished it, you have come too quickly.
+
+** A BANKER
+:PROPERTIES:
+:CUSTOM_ID: h30-h20
+:END:
+
+Well, well, dispatch with me and count out the money, that I mayn’t be detaining my friends.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h21
+:END:
+
+It has been counted out.
+
+** A BANKER.
+:PROPERTIES:
+:CUSTOM_ID: h30-h22
+:END:
+
+(giving him a bag.)
+Take this bag; put it into it.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h23
+:END:
+
+You come discreetly provided! Wait till I bring out the money to you.
+
+** A BANKER
+:PROPERTIES:
+:CUSTOM_ID: h30-h24
+:END:
+
+Make haste.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h25
+:END:
+
+It’s at home. (Goes into the house of CHAERIBULUS.)
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h26
+:END:
+
+(looking steadily at TELESTIS.)
+Have I the use of my eyes quite unimpaired, or is it otherwise?
+Do I not behold in you, Telestis, the daughter of Periphanes, born at Thebes of your mother Philippa, and conceived at Epidaurus?
+
+** TELESTIS
+:PROPERTIES:
+:CUSTOM_ID: h30-h27
+:END:
+
+What person are you who are making mention of the name of my parents and my own?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h28
+:END:
+
+Don’t you know me?
+
+** TELESTIS
+:PROPERTIES:
+:CUSTOM_ID: h30-h29
+:END:
+
+Not, indeed, so far as recurs to my mind just now.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h30
+:END:
+
+Don’t you remember my bringing you a crescent upon your birthday, and a little gold ring for your finger? (STRATIPPOCLES returns with the money.)
+
+** TELESTIS
+:PROPERTIES:
+:CUSTOM_ID: h30-h31
+:END:
+
+I remember it. What, are you that person?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h32
+:END:
+
+I am, and (pointing to STRATIPPOCLES, at a distance) he there is your brother by another mother and the same father.
+
+** TELESTIS
+:PROPERTIES:
+:CUSTOM_ID: h30-h33
+:END:
+
+(in agitation.)
+What of my father? Is he alive?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h34
+:END:
+
+Be of calm and composed feelings; hold your peace.
+
+** TELESTIS
+:PROPERTIES:
+:CUSTOM_ID: h30-h35
+:END:
+
+The Gods will that from being lost I should be saved, if you speak the truth.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h36
+:END:
+
+I have no occasion to be telling untruths to you.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h37
+:END:
+
+(to the BANKER.)
+Take this money, Banker; here are forty minae. If any piece shall be doubtful I’ll change it. (Gives him the money.)
+
+** A BANKER
+:PROPERTIES:
+:CUSTOM_ID: h30-h38
+:END:
+
+You do well. Kindly farewell. (Exit.)
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h39
+:END:
+
+(to TELESTIS.)
+Now then you are my own—
+
+** TELESTIS
+:PROPERTIES:
+:CUSTOM_ID: h30-h40
+:END:
+
+Why yes—sister, i’ faith, that you may know it as well. Greetings to you, brother.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h41
+:END:
+
+(to EPIDICUS.)
+Is this woman in her senses?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h42
+:END:
+
+In her senses, if she calls you her brother.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h43
+:END:
+
+How’s this? Have I just now become her brother while going in-doors and coming out?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h44
+:END:
+
+What good fortune there is, do you in silence keep your peace thereon and rejoice.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h45
+:END:
+
+Sister, you have both lost and found me!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h46
+:END:
+
+Simpleton, hold your tongue! Through my endeavours, there’s ready for you at home, in fact, a Music-girl for you to make love to; I too, through my endeavours, have restored your sister to liberty.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h47
+:END:
+
+Epidicus, I confess—
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h48
+:END:
+
+Be off into the house, and order the water to be made warm for her. The rest I’ll let you know afterwards, when there’s leisure.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h49
+:END:
+
+Follow me this way, sister.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h50
+:END:
+
+I’ll bid Thesprio come across to you. But remember, if the old gentlemen are at all savage, you, with your sister, to run and help me.
+
+** STRATIPPOCLES
+:PROPERTIES:
+:CUSTOM_ID: h30-h51
+:END:
+
+That will be easy. (He and TELESTIS go into the house of PERIPHANES.)
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h52
+:END:
+
+(going to the door of the house of CHAERIBULUS.)
+Thesprio, come this way through the garden. Come to my rescue at home! The matter’s of importance! (To himself.) I care much less for the old fellows than I did just now. I’ll return in-doors, that the strangers may be attended to on their arrival. I’ll tell these same things that I know, in-doors to Stratippocles. I shall not take to flight; I’m determined to be there at home, and he shan’t throw it in my teeth
+that he has been provoked by my running away. I’ll away in-doors; I’ve been talking too long. (Goes into the house of PERIPHANES.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+* 666
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+(Enter PERIPHANES and APAECIDES, with thongs in their hands.)
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h1
+:END:
+
+Hasn’t this fellow quite made a laughing-stock of us two decrepit old people?
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h2
+:END:
+
+Why yes, I’ faith, you’ve really kept me plagued in a shocking fashion.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h3
+:END:
+
+Now do hold your tongue. Only let me catch the fellow!
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h4
+:END:
+
+I’ll tell you now, that you may know it. It’s best for you to seek another companion; so much, while I’ve been following you,
+has the congested blood, from weariness, come down into the knees of poor me.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h5
+:END:
+
+After how many fashions has this fellow made sport of me and you to-day! besides, how he has disembowelled my silver resources for me!
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h6
+:END:
+
+Away with him from me; for surely he’s the son of Vulcan in his wrath: wherever he touches, he sets all on fire; if you stand by him, he scorches you with his heat. (unperceived, from the house.)
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h7
+:END:
+
+(to himself.)
+More than the twelve Gods, the immortal Gods as many as are in the heavens, are now assistants in my rescue, and are fighting on my side. As to whatever I have offended in, I have aid and assistance at home. All my enemies I quite spurn by the heels.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h8
+:END:
+
+(looking about.)
+Where in the world shall I look for him?
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h9
+:END:
+
+So long as you look for him without me, you may look for him even in the middle of the sea, as far as I’m concerned.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h10
+:END:
+
+(coming forward, and addressing PERIPHANES)
+Why are you looking for me? Why are you taking this trouble? Why are you worrying him? (Pointing to APAECIDES.) See, here I am. Have I run away from you? Have I betaken myself from the house? Have I hid myself from your sight? I don’t entreat you either. Do you wish to bind me? Look then, I present my hands. (Holding out his hands.) You have got thongs; I saw you purchase them. Why do you delay now? Do bind me!
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h11
+:END:
+
+It’s all over. He gives bail to me of his own accord for his appearance.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h12
+:END:
+
+Why don’t you bind me?
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h13
+:END:
+
+A wicked slave, upon my faith!
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h14
+:END:
+
+Really, Apaecides, I don’t want you to intercede for me.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h15
+:END:
+
+You easily obtain your wish, Epidicus.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h16
+:END:
+
+(to PERIPHANES.)
+Are you going to do anything?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h17
+:END:
+
+What, at your pleasure?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h18
+:END:
+
+Troth, at my own, indeed, and not at yours, are these hands to be bound by you to-day.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h19
+:END:
+
+But I don’t choose; I shan’t bind them.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h20
+:END:
+
+(to PERIPHANES.)
+He’s preparing to throw a dragnet over you; he’s framing some plan, I know not what.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h21
+:END:
+
+You are causing delay to yourself, while I stand unbound; bind them, I tell you, bind them together.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h22
+:END:
+
+But I choose rather to question you unbound.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h23
+:END:
+
+But you shall know nothing.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h24
+:END:
+
+(turning to APAECIDES.)
+What am I to do?
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h25
+:END:
+
+What are you to do? Let him be complied with.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h26
+:END:
+
+You are a worthy person, Apaecides.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h27
+:END:
+
+Hold out your hands then.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h28
+:END:
+
+(holding out his hands.)
+They don’t at all object; bind them fast together too.
+Don’t be afraid. (PERIPHANES binds his hands.)
+I’m submissive.
+When the job is done, then pronounce your judgment.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h29
+:END:
+
+There, that is good.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h30
+:END:
+
+Now then, to the point, with your enquiries of me; ask me what you please.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h31
+:END:
+
+In the first place, with what assurance did you presume to say that she who was bought the day before yesterday was my daughter?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h32
+:END:
+
+I chose to; on that assurance.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h33
+:END:
+
+Do you say so? You chose to?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h34
+:END:
+
+I do say so. Even lay me a wager that she is not the daughter—
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h35
+:END:
+
+A woman whom the mother declares she doesn’t know?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h36
+:END:
+
+Then, if she isn’t the daughter of her mother, make me a bet about it, my didrachm to your talent.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h37
+:END:
+
+Why, that’s a mere catch. But who is this woman?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h38
+:END:
+
+The mistress of your son, that you may know the whole matter.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h39
+:END:
+
+Did I not give you the thirty minae for my daughter?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h40
+:END:
+
+I confess that they were given, and that with that money I purchased this Music-girl, your son’s mistress,
+instead of your daughter. As to those thirty minae, in fact, I imposed upon you.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h41
+:END:
+
+For what reason did you play a trick upon me about that hired Music-girl?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h42
+:END:
+
+I’ faith, I really did do it, and I think it was rightly done.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h43
+:END:
+
+In the last place, what has been done with the silver I gave you?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h44
+:END:
+
+I’ll tell you; I gave it to a person neither bad nor yet good—your son Stratippocles.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h45
+:END:
+
+Why did you dare to give it him?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h46
+:END:
+
+Because it pleased me.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h47
+:END:
+
+(stamping.)
+Plague on it! what insolence is this?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h48
+:END:
+
+Am I to be bawled at just as if I were a slave?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h49
+:END:
+
+(ironically.)
+As you are a free man, I rejoice.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h50
+:END:
+
+I have deserved to become so.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h51
+:END:
+
+You—deserved?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h52
+:END:
+
+Go look in-doors; I’ll let you know that this is the truth.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h53
+:END:
+
+What’s the matter?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h54
+:END:
+
+The thing itself will tell you so at once. Only do go in-doors.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h55
+:END:
+
+Aye, aye! this is not without its meaning.
+Do you keep an eye on him, Apaecides. (Goes into his house.)
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h56
+:END:
+
+What’s the meaning of this, Epidicus?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h57
+:END:
+
+I’ faith, it’s with the greatest injustice that I’m standing here bound, through whose aid his daughter has been discovered to-day.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h58
+:END:
+
+Do you say that you have found his daughter?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h59
+:END:
+
+I have found her, and she is at home. But how hard it is, when, for services done, you reap a harvest of evil.
+
+** APAECIDES
+:PROPERTIES:
+:CUSTOM_ID: h32-h60
+:END:
+
+What, her whom this day we’ve both been weary with seeking throughout the city?
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h61
+:END:
+
+I’m weary with finding, you weary with seeking. (from the house.)
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h62
+:END:
+
+(at the door, to those within.)
+Why do you entreat me thus earnestly in his behalf? For I find that he does deserve that I should be pleased to act according to his deserts. (To EPIDICUS.) Hold out your hands, you, that I may unbind them.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h63
+:END:
+
+Don’t you touch them.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h64
+:END:
+
+But do you present them to me.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h65
+:END:
+
+I don’t choose.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h66
+:END:
+
+You don’t do right.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h67
+:END:
+
+Upon my faith, I’ll never allow myself to be unbound this day, unless you give me satisfaction.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h68
+:END:
+
+You ask what’s very fair and very just. Shoes, a tunic, and a cloak I’ll give you.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h69
+:END:
+
+What next, after that?
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h70
+:END:
+
+Your freedom.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h71
+:END:
+
+But after that? There’s need for a new-made freed-man to pick a bit.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h72
+:END:
+
+It shall be given; I’ll find you food.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h73
+:END:
+
+On my word, never this day shall you release me, unless you beg my pardon.
+
+** PERIPHIANES
+:PROPERTIES:
+:CUSTOM_ID: h32-h74
+:END:
+
+I do entreat you, Epidicus, to forgive me, if unawares in fault I’ve done anything wrong.
+But by way of return for this matter, be a free man.
+
+** EPIDICUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h75
+:END:
+
+Against my inclination do I grant you this pardon, but I’m compelled by necessity. Unbind them then, if you choose. (He holds out his hands, which are unbound by PERIPHANES, and they go into his house.)
+(coming forward.) This is that man who by his roguery has gained his freedom. Clap your hands, and fare you well! Stretch your loins, and rise from your seats.

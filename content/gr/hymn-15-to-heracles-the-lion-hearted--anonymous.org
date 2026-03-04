@@ -1,0 +1,27 @@
+#+TITLE: Hymn 15 To Heracles the Lion-Hearted
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/hymn-15-to-heracles-the-lion-hearted--anonymous
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Hymn 15 To Heracles the Lion-Hearted edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Ἡρακλέα, Διὸς υἱόν, ἀείσομαι, ὃν μέγʼ ἄριστον
+γείνατʼ ἐπιχθονίων Θήβῃς ἔνι καλλιχόροισιν
+Ἀλκμήνη μιχθεῖσα κελαινεφέι Κρονίωνι·
+ὃς πρὶν μὲν κατὰ γαῖαν ἀθέσφατον ἠδὲ θάλασσαν
+πλαζόμενος πομπῇσιν ὕπʼ Εὐρυσθῆος ἄνακτος
+πολλὰ μὲν αὐτὸς ἔρεξεν ἀτάσθαλα, πολλὰ δʼ ἀνέτλη·
+νῦν δʼ ἤδη κατὰ καλὸν ἕδος νιφόεντος Ὀλύμπου
+ναίει τερπόμενος καὶ ἔχει καλλίσφυρον Ἥβην.
+
+χαῖρε, ἄναξ, Διὸς υἱέ· δίδου δʼ ἀρετήν τε καὶ ὄλβον.

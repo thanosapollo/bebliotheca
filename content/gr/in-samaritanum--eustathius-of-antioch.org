@@ -1,0 +1,18 @@
+#+TITLE: ΛΟΓΟΣ ΕΙΣ ΤΗΝ ΣΑΜΑΡΕΙΤΙΝ
+#+AUTHOR: Εὐστάθιος Ἀντιοχείας
+#+FILETAGS: :patristic:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/in-samaritanum--eustathius-of-antioch
+#+LANGUAGE: el
+
+* ΛΟΓΟΣ ΕΙΣ ΤΗΝ ΣΑΜΑΡΕΙΤΙΝ
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+74 Ἡμεῖς οὖν ἀνακεκαλυμμένῳ προσώπῳ τὴν τοῦ Κυρίου ἐνοπτριζόμεθα
+παναγίαν σάρκα διὰ τῆς ἐν εἰκόνι μορφῆς. Τὸ γοῦν τῆς ψυχῆς ὄμμα ἀθόλωτον
+ἔχοντες, πρὸς τὸ τῆς πρωτοτυ[πωθείσης] εἰκόνος μόρφωμα προσβλέποντες,
+δοξάζωμεν τὸ τῆς εἰκόνος ἀρχέτυπον.

@@ -1,0 +1,23 @@
+#+TITLE: Hymn 21 To Apollo
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/hymn-21-to-apollo--anonymous
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Hymn 21 To Apollo edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+φοῖβε, σὲ μὲν καὶ κύκνος ὑπὸ πτερύγων λίγʼ ἀείδει,
+ὄχθῃ ἐπιθρώσκων ποταμὸν πάρα δινήεντα,
+Πηνειόν· σὲ δʼ ἀοιδὸς ἔχων φόρμιγγα λίγειαν
+ἡδυεπὴς πρῶτόν τε καὶ ὕστατον αἰὲν ἀείδει.
+
+καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ, ἵλαμαι δέ σʼ ἀοιδῇ.

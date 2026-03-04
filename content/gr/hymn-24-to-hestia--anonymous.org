@@ -1,0 +1,22 @@
+#+TITLE: Hymn 24 To Hestia
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/hymn-24-to-hestia--anonymous
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Hymn 24 To Hestia edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Ἑστίη, ἥτε ἄνακτος Ἀπόλλωνος ἑκάτοιο
+Πυθοῖ ἐν ἠγαθέῃ ἱερὸν δόμον ἀμφιπολεύεις,
+αἰεὶ σῶν πλοκάμων ἀπολείβεται ὑγρὸν ἔλαιον·
+ἔρχεο τόνδʼ ἀνὰ οἶκον, ἕνʼ ἔρχεο θυμὸν ἔχουσα
+σὺν Διὶ μητιόεντι· χάριν δʼ ἅμʼ ὄπασσον ἀοιδῇ.

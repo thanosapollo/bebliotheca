@@ -1,0 +1,6046 @@
+#+TITLE: Persa
+#+AUTHOR: T. Maccius Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/persa--t-maccius-plautus
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Persa edited by Friedrich Leo
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+Qui amáns egens ingressus est princeps in Amoris vias,
+superávit aerumnis suis aerumnas Herculi.
+nam cúm leone, cum éxcetra, cum cérvo, cum apro Aetólico,
+cum avibús Stymphalicís, cum Antaeo déluctari mávelim,
+
+quam cúm Amore: ita fio miser quaerendo argento mutuo,
+nec quicquam nisi /non est/ sciunt mihi respondere quos rogo.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h2
+:END:
+
+Qui eró suo servíre volt bene sérvos servitútem,
+ne illum edepol multa in pectore suo conlocare oportet,
+quae eró placere cénseat praesénti atque apsentí suo.
+
+ego neque lubenter servio neque satis sum ero ex sententia,
+sed quasi lippo oculo me érus meus manum apstinere hau quit tamen,
+quin mi imperet, quin me suis negotiis praefulciat.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h3
+:END:
+
+Quís illic est qui cóntra me astat?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h4
+:END:
+
+Quís hic est qui sic cóntra me astat?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h5
+:END:
+
+Similis est Sagaristionis.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h6
+:END:
+
+Toxilus híc quidem meus amicust.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h7
+:END:
+
+Ís est profecto.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h8
+:END:
+
+Eum esse opinor.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h9
+:END:
+
+Congrediar.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h10
+:END:
+
+Contra adgredibor.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h11
+:END:
+
+O Sagaristio, di ament te.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h12
+:END:
+
+O Toxilé, dabunt di quae exoptes.
+út vales?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h13
+:END:
+
+Út queo.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h14
+:END:
+
+Quíd agitur?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h15
+:END:
+
+Vívitur.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h16
+:END:
+
+Sátin ergo ex sententia?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h17
+:END:
+
+Si eveniunt quae exopto, satis.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h18
+:END:
+
+Nimis stúlte amicis utere.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h19
+:END:
+
+Quid iam?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h20
+:END:
+
+Imperare oportet.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h21
+:END:
+
+Mihi quidem tu iám eras mortuos, quia non te visitabam.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h22
+:END:
+
+Negotium edepol—
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h23
+:END:
+
+Ferreum fortasse?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h24
+:END:
+
+Plusculum annum
+fui praéferratus apud molas tribunus vapularis.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h25
+:END:
+
+Vetus iam ístaec militiast tua.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h26
+:END:
+
+Satin tu úsque valuisti?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h27
+:END:
+
+Hau probe.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h28
+:END:
+
+Ergo edepol palles.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h29
+:END:
+
+Saucius factus sum in Veneris proelio:
+
+sagittá Cupido cor meum transfixit.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h30
+:END:
+
+Iam servi hic amant?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h31
+:END:
+
+Quíd ego faciam? disne advorser? quasi Titani cum eis belligerem
+quibus sat esse non queam?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h32
+:END:
+
+Vide modo, ulmeae catapultae tuom ne transfigant latus.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h33
+:END:
+
+Básilice ágito eleútheria.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h34
+:END:
+
+Quíd iam?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h35
+:END:
+
+Quia erus peregri est.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h36
+:END:
+
+Ain tu,
+péregri est?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h37
+:END:
+
+Si tu tibi bene esse
+póte pati, veni: víves mecum,
+básilico accipiere victu.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h38
+:END:
+
+Váh, iam scapulae pruriunt, quia te ístaec audivi loqui.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h39
+:END:
+
+Sed hoc me únum excruciat.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h40
+:END:
+
+Quidnam id est?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h41
+:END:
+
+Haéc dies summa hódie est, mea amíca sitne líbera,
+an sémpiternam sérvitutem sérviat.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h42
+:END:
+
+Quid núnc vis ergo?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h43
+:END:
+
+Fácere amicum tibi me potis es sempiternum.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h44
+:END:
+
+Quem ad modum?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h45
+:END:
+
+Út mihi des nummos sescentos, quós pro capite illius pendam,
+
+quós continuo tibi reponam in hoc tríduo, aut quadriduo.
+age fí benignus, subveni.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h46
+:END:
+
+Qua cónfidentia rogare tu á med argentum tantum audes,
+ímpudens? quin si egomet totus véneam, vix recipi potis est
+quód tu me rogas; nam tú aquam a púmice nunc póstulas,
+
+qui ípsus sitiat.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h47
+:END:
+
+Sicine hoc te mihi fácere?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h48
+:END:
+
+Quid faciam?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h49
+:END:
+
+Rogas?
+alicúnde exora mutuom.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h50
+:END:
+
+Tu fác idem quod rogas me.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h51
+:END:
+
+Quaesivi, nusquam repperi.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h52
+:END:
+
+Quaeram equidem, si quis credat.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h53
+:END:
+
+Nempe habeo in mundo.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h54
+:END:
+
+Si id domi esset mihi, iam pollicerer:
+hoc meumst ut faciam sedulo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h55
+:END:
+
+Quidquid erit, recipe te ad me.
+
+quaeré tamen, ego item sedulo.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h56
+:END:
+
+Si quid erit, te faciam ut scias.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h57
+:END:
+
+[lost]  obsecro te resecroque, operam da hánc mihi
+fidélem.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h58
+:END:
+
+Ah, odio me énicas.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h59
+:END:
+
+Amóris vitio, non meo, nunc tibi morologus fio.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h3-h60
+:END:
+
+At pol ego aps te concessero.—
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h61
+:END:
+
+Iamne ábis? bene ambulato.
+
+sed recipe quam primum potes, cave fúas mi in quaestione.
+usque ero domi, dum excoxero lenoni malam rem magnam.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+* 53
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h5-h1
+:END:
+
+Veterem atque antiquom quaestum maiorum meum
+servo atque obtineo et magna cum cura colo.
+nam numquam quisquam meorum maiorum fuit,
+quin parasitando paverint ventres suos:
+
+patér, avos, proavos, abavos, atavos, tritavos
+quasi mures semper edere alienum cibum,
+neque edacitate eos quisquam poterat vincere;
+atque eis cognómentum erat durís Capitonibus.
+unde égo hunc quaestum optineo et maiorum locum.
+
+neque quadrupulari me volo, neque enim decet
+sine meo periclo ire aliena ereptum bona,
+neque illí qui faciunt mihi placent. planen loquor?
+nam publicae rei causa quicumque id facit
+magis quám sui quaesti, animus induci potest,
+
+eum esse civem ét fidelem ét bonum.
+sed  [lost]
+si legirupam qui damnet, det in publicum
+dimidium; atque etiam in ea lege adscribier:
+ubi quadrupulator quempiam iniexit manum,
+
+tantidem ille illi rursus iniciat manum,
+ut aequa parti prodeant ad tris viros:
+si id fiat, ne isti faxim nusquam appareant,
+qui hic albo rete áliena oppugnant bona.
+sed sumne ego stultus, qui rem curo publicam,
+
+ubi sint magistratus, quos curare oporteat?
+nunc huc intro ibo, visam hesternas reliquias,
+quieríntne recte necne, num afuerit febris,
+opertaen fuerint, ne quis obreptaverit.
+sed aperiuntur aedes, remorandust gradus.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+* 81
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+Omnem rem inveni, ut sua sibi pecunia
+hodie illam faciat leno libertam suam.
+sed eccúm parasitum, quoius mi auxilio est opus.
+simulabo quasi non videam: ita alliciam virum.
+
+curate istic vos atque adproperate ocius,
+ne mihi morae sit quicquam, ubi ego intro advenero.
+commisce mulsum, struthea † coluthequam appara,
+bene ut in scutris concaleat, et calamum inice.
+iam pól ille hic aderit, credo, congerro meus.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h2
+:END:
+
+Me dicit, euge.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h3
+:END:
+
+Lautum credo e balineis
+iam hic adfuturum.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h4
+:END:
+
+Vt ordine omnem rem tenet.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h5
+:END:
+
+Collyrae facite ut madeant et colyphia,
+ne mihi incócta detis.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h6
+:END:
+
+Rem loquitur meram.
+nihili sunt crudae, nisi quas madidas gluttias;
+
+tum nisi cremore crassost ius collyricum,
+nihilist, macrum illud epicrocum pellucidum:
+quasi †iuream esse ius decet collyricum.
+nolo in vesicam quod eat, in ventrem volo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h7
+:END:
+
+Prope me hic nescio quis loquitur.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h8
+:END:
+
+O mi Iuppiter
+
+terrestris, te coepulonus compellat tuos.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h9
+:END:
+
+O Saturio, opportune advenisti mihi.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h10
+:END:
+
+Mendacium edepol dicis, atque haud te decet:
+nam essurio venio, non advenio saturio.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h11
+:END:
+
+At edes, nam iam intus ventris fumant focula.
+
+calefieri iussi reliquias.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h12
+:END:
+
+Pernam quidem
+ius est adponi frigidam postridie.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h13
+:END:
+
+Ita fieri iussi.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h14
+:END:
+
+Ecquid hallecis?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h15
+:END:
+
+Vah, rogas?
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h16
+:END:
+
+Sapis múltum ad genium.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h17
+:END:
+
+Sed tu, ecquid meministi, here
+qua de re ego tecum mentionem feceram?
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h18
+:END:
+
+Memini: ut murena et conger ne calefierent;
+nam nimio melius oppectuntur frigida.
+sed quid cessamus proelium committere?
+dum mane est, omnis esse mortalis decet.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h19
+:END:
+
+Nimis paéne manest.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h20
+:END:
+
+Mane quod tu occeperis
+
+negotium agere, id totum procedit diem.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h21
+:END:
+
+Quaeso animum advorte hoc. iám heri narravi tibi
+tecumque oravi, ut nummos sescentos mihi
+dares utendos mutuos.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h22
+:END:
+
+Memini et scio,
+et te me orare et mihi non esse quod darem.
+
+nihili parasitus est, cui árgentum domi est:
+lubido extemplo coeperest convivium,
+tuburcinari de suo, si quid domi est.
+cynicum esse egentem oportet parasitum probe:
+ampullam, strigilem, scaphium, soccos, pallium,
+
+marsuppium habeat, inibi paullum praesidi,
+qui familiarem suam vitam oblectet modo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h23
+:END:
+
+Iam nolo argentum: filiam utendam tuam
+mihi da.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h24
+:END:
+
+Numquam edepol cuiquam etiam utendam dedi.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h25
+:END:
+
+Non ad istuc quod tu insimulas.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h26
+:END:
+
+Quid eam vis?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h27
+:END:
+
+Scies.
+
+quia forma lepida et liberali est.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h28
+:END:
+
+Res itast.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h29
+:END:
+
+Hic leno neque te novit neque gnatam tuam.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h30
+:END:
+
+Me ut quisquam norit, nisi ille qui praebet cibum?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h31
+:END:
+
+Ita est. hoc tu mihi reperire argentum potes.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h32
+:END:
+
+Cupio hercle.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h33
+:END:
+
+Tum tu me sine illam vendere.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h34
+:END:
+
+Tun illam vendas?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h35
+:END:
+
+Immo alium adlegavero
+qui vendat, qui esse se peregrinum praedicet.
+sicut istic leno non sex menses Megaribus
+huc est cum commigravit.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h36
+:END:
+
+Pereunt reliquiae.
+posterius istuc tamen potest.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h37
+:END:
+
+Scin quam potest?
+
+numquam hercle hodie hic prius edes, ne frustra sis,
+quam te hoc facturum quod rogo adfirmas mihi;
+atqué nisi gnatam tecum huc iam quantum potest
+adducis, exigam hercle ego te ex hac decuria.
+quid nunc? quid est? quin dicis quid facturus sis?
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h38
+:END:
+
+Quaeso hercle me quoque etiam vende, si lubet,
+dum saturum vendas.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h39
+:END:
+
+Hoc, si facturu's facturus es  , face.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h40
+:END:
+
+Faciam equidem quae vis.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h41
+:END:
+
+Bene facis. propera, abi domum;
+praemonstra docte, praecipe astu filiae,
+quid fabuletur: ubi se natam praedicet,
+
+qui sibi parentes fuerint, unde surpta sit.
+sed longe ab Athenis esse se gnatam autumet;
+et ut adfleat, cum ea memoret.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h42
+:END:
+
+Etiam tu taces?
+ter tanto peior ipsa est quam illam tu esse vis.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h43
+:END:
+
+Lepide hercle dicis. sed scin quid facias? cape
+
+tunicam atque zonam, et chlamydem adferto et causeam,
+quam ille habeat qui hanc lenoni huic vendat.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h44
+:END:
+
+Eu, probe.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h45
+:END:
+
+Quasi sit peregrinus.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h46
+:END:
+
+Laudo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h47
+:END:
+
+Et tu gnatam tuam
+ornatam adduce lepide in peregrinum modum.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h48
+:END:
+
+πόθεν ornamenta?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h49
+:END:
+
+Abs chorago sumito;
+
+dare debet: praebenda aediles locaverunt.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h50
+:END:
+
+Iam faxo hic aderunt. sed ego nihil horunc scio.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h51
+:END:
+
+Nihil hercle vero. nam ubi ego argentum accepero,
+continuo tu illam a lenone adserito manu.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h7-h52
+:END:
+
+Sibi habeat, si non extemplo ab eo abduxero.—
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h7-h53
+:END:
+
+Abi et istuc cura. interibi egó puerum volo
+mittere ad amicam meam, út habeat animum bonum,
+me esse effecturum hoc hodie. nimis longum loquor.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+* 168
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+Satis fúit índoctae, ímmemori, insípienti dicére totiens.
+nimis tándem me quidem pró barda et pro rústica reor habitam ésse aps te.
+quamquam égo vinum bibo, at mándata non cónsuevi simul bíbere una.
+me quídem iam satis tibi spéctatam censébam esse et meos móres.
+
+nam equidém te iam sectór quintum hunc annúm, quom interea, crédo,
+ovis si ín ludum iret, pótuisset iam fíeri ut probe litterás sciret,
+quom interím tu meum ingeniúm fans atque infans nondum etiam edídicisti.
+potin út taceas? potin né moneas?
+memini ét scio et calleo et cómmemini.
+
+amas pól misera: id tuos scátit animus.
+ego istúc placidum tibi ut sít faciam.
+
+** Lemniselenis
+:PROPERTIES:
+:CUSTOM_ID: h10-h2
+:END:
+
+Miser ést qui amat.—
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h10-h3
+:END:
+
+Cérto is quidém nihilist,
+qui níl amat: quíd ei homini ópus vita est?
+iré decet me, út erae opsequéns fiam, libéra ea opera ócius ut sit.
+
+convéniam hunc Toxilum: eius auris, quae mandata sunt, onerabo.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+* 183
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+Sátin haec tibi sunt plána et certa? sátin haec meministi ét tenes?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h2
+:END:
+
+Melius quam tu qui docuisti.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h3
+:END:
+
+Ain véro, verbereum caput?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h4
+:END:
+
+Aio enim véro.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h5
+:END:
+
+Quid ergo dixi?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h6
+:END:
+
+Ego recte apud illam dixero.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h7
+:END:
+
+Non edepol scis.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h8
+:END:
+
+Da hercle pignus, ni omnia memini et scio,
+
+et quidem sí scis tute, quot hodie habeas digitos in manu.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h9
+:END:
+
+Egon dem pignus tecum?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h10
+:END:
+
+Audacter, si lubido est perdere.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h11
+:END:
+
+Bona pax sit potius.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h12
+:END:
+
+Tum tu igitur sine me ire.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h13
+:END:
+
+Et iubeo et sino;
+sed ita volo te ire, ut domí sis, cum ego te esse illi censeam.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h14
+:END:
+
+Faciam.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h15
+:END:
+
+Quo ergo is nunc?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h16
+:END:
+
+Domum: uti domi sim, quom illi censeas.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h17
+:END:
+
+Scelus tu pueri es, atque ob istánc rem ego aliqui te peculiabo.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h18
+:END:
+
+Scio fide hercle erili ut soleat impudicitia opprobrari
+nec subigi queantur umquam, ut pro éa fide habeant iudicem.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h19
+:END:
+
+Abi modo.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h20
+:END:
+
+Ego laudabis faxo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h21
+:END:
+
+Sed has tabellas, Paegnium,
+ipsi Lemniseleni fac des et quae iussi nuntiato.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h22
+:END:
+
+Cesso ire ego quo missa sum?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h23
+:END:
+
+Eo ego.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h12-h24
+:END:
+
+I sane. ego domum ibo. face rem hanc cum cura geras.
+vola curriculo.—
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h25
+:END:
+
+Istuc marinus passer per circum solet.
+illic hinc abiit intro huc. sed quis haec ést quae med advorsum incedit?
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h26
+:END:
+
+Paegnium hic quidem est.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h27
+:END:
+
+Sophoclidisca haéc peculiarest eius
+
+quo ego sum missus.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h28
+:END:
+
+Nullus esse hodie hóc puero peior perhibetur.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h29
+:END:
+
+Compellabo.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h30
+:END:
+
+Commorandust.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h31
+:END:
+
+Apud hanc obieci  [lost]
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h32
+:END:
+
+Paegnium, deliciae pueri, salve. quid agis? ut vales?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h33
+:END:
+
+Sophoclidisca, di me amabunt.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h34
+:END:
+
+Quid me?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h35
+:END:
+
+Vtrum hercle di volent;
+sed si ut digna es faciant, odio hercle habeant et faciant male.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h36
+:END:
+
+Mitte male loqui.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h37
+:END:
+
+Quom ut digna es dico, bene, non male loquor.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h38
+:END:
+
+Quid agis?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h39
+:END:
+
+Feminam scelestam te astans contra contuor.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h40
+:END:
+
+Certe equidem puerum peiorem quam te novi neminem.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h41
+:END:
+
+Quid male facio aut quoi male dico?
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h42
+:END:
+
+Quoi pol cumque occasio est.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h43
+:END:
+
+Nemo homo umquam ita arbitratust.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h44
+:END:
+
+At pol multi esse ita sciunt.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h45
+:END:
+
+Heia.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h46
+:END:
+
+Beia.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h47
+:END:
+
+Tuo ex ingenio mores alienos probas.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h48
+:END:
+
+Fateor ego profecto me esse ut decet lenonis familiae.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h49
+:END:
+
+Satis iam dictum habeo.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h50
+:END:
+
+Sed quid tu? confitere ut te autumo?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h51
+:END:
+
+Fatear, si ita sim.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h52
+:END:
+
+Iam ábi, vicisti.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h53
+:END:
+
+Abi núnciam ergo.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h54
+:END:
+
+Hoc mi expedi,
+quó agis?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h55
+:END:
+
+Quo tu?
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h56
+:END:
+
+Dic tu.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h57
+:END:
+
+Dic tu.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h58
+:END:
+
+Prior rogavi.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h59
+:END:
+
+At post scies.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h60
+:END:
+
+Eo ego hinc haud longe.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h61
+:END:
+
+Et quidem ego haud longe hinc eo.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h62
+:END:
+
+Quo ergo is, scelus?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h63
+:END:
+
+Nisi scieró prius ex te, tu ex me numquam hoc quod rogitas scies.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h64
+:END:
+
+Numquam ecastor hodie scibis prius quam ex te audivero.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h65
+:END:
+
+Itane est?
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h66
+:END:
+
+Itane est.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h67
+:END:
+
+Mala es.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h68
+:END:
+
+Scelestu's scelestus es  .
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h69
+:END:
+
+Decet me.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h70
+:END:
+
+Me quidem addecet.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h71
+:END:
+
+Quid ais? certumnest celare, quó iter facias, pessuma?
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h72
+:END:
+
+Offirmastin occultare quo te immittas, pessume?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h73
+:END:
+
+Par pari respondes dicto. abi iam, quando ita certa res.
+nihili facio scire. valeas.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h74
+:END:
+
+Asta.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h75
+:END:
+
+At propero.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h76
+:END:
+
+Et pol ego item.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h77
+:END:
+
+Ecquid habes?
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h78
+:END:
+
+Ecquid tú?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h79
+:END:
+
+Nil equidem.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h80
+:END:
+
+Cedo manum ergo.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h81
+:END:
+
+Estne haec manus?
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h82
+:END:
+
+Vbi illa altera ést furtifica laeva?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h83
+:END:
+
+Domi eccam. huc nullam attuli.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h84
+:END:
+
+Habes nescio quid.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h85
+:END:
+
+Ne me attrecta, subigitatrix.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h86
+:END:
+
+Sin te amo?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h87
+:END:
+
+Male operam locas.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h88
+:END:
+
+Qui?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h89
+:END:
+
+Quia enim nihil amas, quom ingratum amas.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h90
+:END:
+
+Temperi hanc vigilare oportet formulam atque aetatulam,
+né, ubi versicapillus fias, foede semper servias.
+tu quidem haud étiam es octoginta pondo.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h91
+:END:
+
+At confidentia
+
+illa militia militatur multo magis quam pondere.
+atque ego hanc nunc operam perdo.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h92
+:END:
+
+Quid iam?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h93
+:END:
+
+Quia peritae praedico.
+sed ego cesso.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h94
+:END:
+
+Mane.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h95
+:END:
+
+Molesta es.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h96
+:END:
+
+Ergo ero quoque, nisi scio,
+quó agas te.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h97
+:END:
+
+Ad vos.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h98
+:END:
+
+Et pol ego ad vos.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h99
+:END:
+
+Quid eo?
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h100
+:END:
+
+Quid id ad te attinet?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h101
+:END:
+
+Enim non ibis nunc, vicissim nisi scio.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h102
+:END:
+
+Odiosu's odiosus es  .
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h103
+:END:
+
+Lubet.
+
+numquam hercle istuc exterebrabis, tu ut sis peior quam ego siem.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h104
+:END:
+
+Malitia certare tecum miseria est.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h105
+:END:
+
+Mers tu mala es.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h106
+:END:
+
+Quid est quod metuas?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h107
+:END:
+
+Idem istuc quod tu.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h108
+:END:
+
+Dic ergo  [lost]
+ne hoc cuiquam homini edicerem, omnes muti ut loquerentur prius.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h109
+:END:
+
+Edictum est magno opere mihi, ne quoiquam hoc homini crederem,
+
+omnes muti ut eloquerentur prius hoc quám ego.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h110
+:END:
+
+At tu hoc face:
+fide data credamus.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h111
+:END:
+
+Novi: omnes sunt lenae levifidae,
+neque tippulae levius pondust, quam fides lenonia.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h112
+:END:
+
+Dic amabo.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h113
+:END:
+
+Dic amabo.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h114
+:END:
+
+Nolo ames.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h115
+:END:
+
+Facile impetras.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h116
+:END:
+
+Tecum habeto.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h117
+:END:
+
+Et tu hoc taceto.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h118
+:END:
+
+Tacitum erit.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h119
+:END:
+
+Celabitur.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h120
+:END:
+
+Toxilo has fero tabellas tuo ero.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h121
+:END:
+
+Abi, eccillum domi.
+at ego hánc ad Lemniselenem tuam eram opsignatam abietem.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h122
+:END:
+
+Quid istic scriptum?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h123
+:END:
+
+Iuxta tecum, si tu nescis, nescio;
+nisi fortasse blanda verba.
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h124
+:END:
+
+Ábeo.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h12-h125
+:END:
+
+Et ego ábiero.—
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h126
+:END:
+
+Ambula.—
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+* 125
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h14-h1
+:END:
+
+Ióvi opulento, íncluto,
+Ope gnáto, suprémo, validó, viripoténti,
+opés, spes bonás, copiás commodánti
+[lost]  lubens vítulorque merito,
+
+quiá meo amico amíciter hanc cómmoditatis cópiam
+danúnt, argenti mutui ut éi egenti opem adferam;
+quód ego non magis sómniabam neque opinabar neque censebam,
+eam fore mihi occasionem, ea nunc quasi decidit de caelo;
+nam erus meus me Eretriam misit, domitos boves ut sibi mercarer,
+
+dedit argentum, nam ibi mercatum dixit esse die septumi:
+stultus, qui hoc mihi daret argentum, cuius ingenium noverat.
+nam hoc argentum álibi abutar: boves, quos emerem, non erant;
+nunc et amico prosperabo et genio meo multá bona faciam,
+diu quo bene erit, die úno absolvam: tux tax tergo erit meo. non curo.
+
+nunc amico homini boves dómitos mea ex crumina largiar.
+nam id demum lepidumst, triparcos homines, vetulos, avidos, aridos
+béne admordere, qui salinum servo obsignant cum sale.
+virtús, ubi occásio admonet, dispicere. quid faciet mihi?
+verberibus caedi iusserit, compédes impingi? vapulet,
+
+ne sibi me credat supplicem fore: vae illi, nil iam mihi novi
+offérre potest, quin sím peritus. sed  [lost]  Toxili
+púerum Paegnium eccum.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+* 272
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+Pensúm meum, quod datumst, cónfeci. nunc dómum propero.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h2
+:END:
+
+Mane, etsí properas.
+Paégnium, ausculta.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h3
+:END:
+
+Emere oportet, quem tibi oboediré velis.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h4
+:END:
+
+Asta.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h5
+:END:
+
+Exhibeas molestiam, ut opínor, si quid debeam,
+qui nunc sic tamen es molestus.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h6
+:END:
+
+Scelerate, etiam respicis?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h7
+:END:
+
+Scio ego quid sim aetatis, eo istuc maledictum impune auferes.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h8
+:END:
+
+Vbi Tóxilus est tuus érus?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h9
+:END:
+
+Vbi illí libet, néque te consulit.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h10
+:END:
+
+Etiam
+dicís ubi sit, venéfice?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h11
+:END:
+
+Néscio, inquam, ulmítriba tu.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h12
+:END:
+
+Male dícis maiorí.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h13
+:END:
+
+Prior proméritus perpetiáre.
+
+servam operam, linguam liberam erus iussit med habere.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h14
+:END:
+
+Dicisne mi, ubi sit Toxilus?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h15
+:END:
+
+Dico ut perpetuo pereas.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h16
+:END:
+
+Caedere hodie tu restibus.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h17
+:END:
+
+Tua quidem, cucule, causa!
+non hercle, si os perciderim tibi, metuam, morticine.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h18
+:END:
+
+Video ego te: iam incubitatus es.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h19
+:END:
+
+Ita sum. quid id ad te attinet?
+
+at non sum, ita ut tu, gratiis.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h20
+:END:
+
+Confidens.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h21
+:END:
+
+Sum hercle vero.
+nam ego me confido liberum fore, tu te numquam speras.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h22
+:END:
+
+Potin ut molestus ne sies?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h23
+:END:
+
+Quod dicis facere non quis.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h24
+:END:
+
+Abi in malam rem.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h25
+:END:
+
+At tu domum: nam ibi tibi parata praestost.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h26
+:END:
+
+Vadatur hic me.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h27
+:END:
+
+Vtinam vades desint, in carcere ut sis.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h28
+:END:
+
+Quid hoc?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h29
+:END:
+
+Quid est?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h30
+:END:
+
+Etiam, scelus, male loquere?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h31
+:END:
+
+Tandem ut liceat,
+quom servos sis, servom tibi male dicere.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h32
+:END:
+
+Itane? specta
+quid dedero.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h33
+:END:
+
+Nil, nam nil habes.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h34
+:END:
+
+Di deaeque me omnes perdant—
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h35
+:END:
+
+Amicus sum, eveniant volo tibi quae optas.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h36
+:END:
+
+Atque id fiat,
+nisi te hodie, si prehendero, defigam in terram colaphis.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h37
+:END:
+
+Tun me defigas? te cruci ipsum adfigent propediem alii.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h38
+:END:
+
+Qui te di deaeque—scis quid hinc porro dicturus fuerim,
+ni linguae moderari queam. potin abeas?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h16-h39
+:END:
+
+Abigis facile.
+nam umbra mea iam intus vapulat.—
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h16-h40
+:END:
+
+Vt istúnc di deaeque perdant.
+tamquam proserpens bestiast bilinguis et scelestus.
+
+hercle illum abiisse gaudeo. foris aperit, eccere autem
+quem convenire maxime cupiebam egreditur intus.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 302
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h1
+:END:
+
+Paratum iam esse dicito, unde argentum sit futurum,
+iubeto habere animum bonum, dic me illam amare multum;
+ubi se adiuvat, ibi me adiuvat. quae dixi ut nuntiares,
+satin ea tenes?
+
+** Sophoclidisca
+:PROPERTIES:
+:CUSTOM_ID: h18-h2
+:END:
+
+Magis cálleo quam aprugnum callum callet.—
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h3
+:END:
+
+Propera, abi domum.  [lost]
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h4
+:END:
+
+Nunc ego huic graphice facetus fiam.
+subnixis alis me inferam atque amicibor gloriose.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h5
+:END:
+
+Sed quís hic ansatus ambulat?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h6
+:END:
+
+Magnifice conscreabor.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h7
+:END:
+
+Sagaristio hic quidemst. quíd agitur, Sagaristio? ut valetur?
+ecquid, quod mandavi tibi, †estne in te speculae?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h8
+:END:
+
+Adito.
+
+videbitur. factum volo. venito. promoneto.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h9
+:END:
+
+Quid hoc híc in collo tibi tumet?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h10
+:END:
+
+Vomicast, pressare parce;
+nam ubi quí mala tangit manu, dolores cooriuntur.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h11
+:END:
+
+Quando istaec innatast tibi?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h12
+:END:
+
+Hodie.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h13
+:END:
+
+Secari iubeas.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h14
+:END:
+
+Metuo, ne immaturam secem, ne exhibeat plus negoti.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h15
+:END:
+
+Inspicere morbum tuom lubet.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h16
+:END:
+
+Ah ah, abi atque cave sis
+a cornu.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h17
+:END:
+
+Quid iam?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h18
+:END:
+
+Quia boves bini hic sunt in crumina.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h19
+:END:
+
+Emitte sodes, ne enices fame; sine ire pastum.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h20
+:END:
+
+Enim métuo, ut possim reicere in bubile, ne vagentur.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h21
+:END:
+
+Ego reiciam. habe animum bonum.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h22
+:END:
+
+Credetur, commodabo.
+
+sequere hac sis. argentum hic inest, quod mecum dudum orasti.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h23
+:END:
+
+Quid tú ais?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h24
+:END:
+
+Dominus me bovis mercatum Eretriam misit.
+nunc mi Eretria erit haec tua domus.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h25
+:END:
+
+Nimis tú facete loquere.
+atque ego omne argentúm tibi hoc actutum incolume redigam;
+nam iam omnes sycophantias instruxi et comparavi,
+
+quo pacto ab lenone auferam hoc argentum,
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h26
+:END:
+
+Tanto melior.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h18-h27
+:END:
+
+Et mulier ut sit libera atque ipse ultro det argentum.
+sed sequere me: ad eam rem usus est tua mihi opera.—
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h18-h28
+:END:
+
+Vtere ut vis.—
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+* 329
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h1
+:END:
+
+Quae res bene vortat mi et tibi et ventri meo
+perennitatique adeo huic, perpetuo cibus
+ut mihi supersit, suppetat, superstitet:
+sequere hac, mea gnata, me, cum dis volentibus.
+
+quoi rei opera detur scis, tenes, intellegis;
+communicavi tecum consilia omnia.
+ea causa ad hoc exemplum te exornavi ego.
+venibis tu hodie, virgo.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h2
+:END:
+
+Amabo, mi pater,
+quamquam libenter escis alienis studes,
+
+tuin véntris causa filiam vendas tuam?
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h3
+:END:
+
+Mirum quin regis Phílippi causa aut Attali
+te potius vendam quam mea, quae sis mea.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h4
+:END:
+
+Vtrum tú pro ancilla mé habes an pro filia?
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h5
+:END:
+
+Vtrum hercle magis in ventris rem videbitur.
+
+meum, opino, imperiumst in te, non in me tibi.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h6
+:END:
+
+Tua istaéc potestas est, pater. verum tamen,
+quamquam res nostrae sunt, pater, pauperculae,
+modice et modeste meliust vitam vivere;
+nam ad paupertatem si admigrant infamiae,
+
+gravior paupertas fit, fides sublestior.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h7
+:END:
+
+Enim véro odiosa es.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h8
+:END:
+
+Non sum, neque me esse arbitror,
+quom parva natu recte praecipio patri.
+nam inimici famam non ita ut natast ferunt.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h9
+:END:
+
+Ferant eantque maximam malam crucem;
+
+neque ego ínimicitias omnes pluris existimo,
+quam mensa inanis nunc si apponatur mihi.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h10
+:END:
+
+Patér, hominum immortalis est infamia;
+etiam tum vivit, cum esse credas mortuam.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h11
+:END:
+
+Quid? metuis, ne te vendam?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h12
+:END:
+
+Non metuo, pater.
+
+verum insimulari nolo.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h13
+:END:
+
+At nequiquam nevis.
+meo modo istuc potius fiet quam tuo
+fiat. quae hae res sunt?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h14
+:END:
+
+Cogita hoc verbum, pater:
+erus sí minatus est malum servo suo,
+tametsi íd futurum non est, ubi captumst flagrum,
+
+dum tunicas ponit, quanta adficitur miseria!
+ego nunc quod non futurumst formido tamen.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h15
+:END:
+
+Virgo atque mulier nulla erit quin sit mala,
+quae praeter sapiet quam placet parentibus.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h16
+:END:
+
+Virgo atque mulier nulla erit quin sit mala,
+
+quae reticet, si quid fieri pervorse videt.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h17
+:END:
+
+Malo cavere meliust te.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h18
+:END:
+
+At si non licet
+cavere, quid agam? nám ego tibi cautum volo.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h19
+:END:
+
+Malusne égo sum?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h20
+:END:
+
+Non es, neque me dignumst dicere,
+verum ei rei operam do, ne alii dicant, quibus licet.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h21
+:END:
+
+Dicat quod quisque volt; ego de hac sententia
+non demovebor.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h22
+:END:
+
+At, meo sí liceat modo,
+sapienter potius facias quam stulte.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h23
+:END:
+
+Lubet.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h24
+:END:
+
+Lubere per me tibi licere intellego;
+verum lubere hau lubeat, sí liceat mihi.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h25
+:END:
+
+Futura es dicto oboediens an non patri?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h26
+:END:
+
+Futura.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h27
+:END:
+
+Scis iam tibi quae praecepi?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h28
+:END:
+
+Omnia.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h29
+:END:
+
+Et ut surrupta fueris?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h30
+:END:
+
+Docte calleo.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h31
+:END:
+
+Et qui parentes fuerint?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h32
+:END:
+
+Habeo in memoria.
+necessitate me mala ut fiam facis.
+
+verum videto, me ubi voles nuptum dare,
+ne haec fama faciat repudiosas nuptias.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h33
+:END:
+
+Tace, stúlta. non tu nunc hominum mores vides?
+quoivis modi hic cum mala fama facile nubitur:
+dum dos sit, nullum vitium vitio vortitur.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h34
+:END:
+
+Ergo istuc facito ut veniat in mentem tibi,
+me esse indotatam.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h35
+:END:
+
+Cave sis tu istuc dixeris.
+pol deum virtute dicam et maiorum meum,
+ne te indotatam dicas, quoi dos sit domi:
+librorum eccillum hábeo plenum soracum.
+
+si hoc adcurassis lepide, cui rei operam damus,
+dabuntur dotis tibi inde sescenti logi,
+atque Attici omnes; nullum Siculum acceperis:
+cum hac dote poteris vel mendico nubere.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h36
+:END:
+
+Quin tu me ducis, si quo ducturu's ducturus es  , pater?
+
+vel tu me vende vel face quid tibi lubet.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h21-h37
+:END:
+
+Bonum aequomque oras. sequere hac.—
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h21-h38
+:END:
+
+Dicto sum audiens.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+* 400
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h23-h1
+:END:
+
+Quidnam esse acturum hunc dicam vicinum meum,
+qui mihi iuratust sese hodie argentum dare?
+quod si non dederit atque hic dies praeterierit,
+ego argentum, ille iusiurandum amiserit.
+
+sed ibi concrepuit foris. quisnam egreditur foras?
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+* 405
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h1
+:END:
+
+Curate isti intus, iam égo domum me recipiam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h2
+:END:
+
+Oh,
+Toxile, quid agitur?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h3
+:END:
+
+Oh, lutum lenonium,
+commixtum caeno sterculinum publicum,
+impure, inhoneste, iniure, inlex, labes popli,
+
+pecuniae accípiter avide atque invide,
+procax, rapax, trahax—trecentis versibus
+tuas ímpuritias traloqui nemo potest—
+accipin argentum? accipe sis argentum, impudens,
+tené sis argentum, etiam tu argentum tenes?
+
+possum te facere ut argentum accipias, lutum?
+non mihi censebas copiam argenti fore,
+qui nisi iurato mihi nil ausu's ausus es   credere?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h4
+:END:
+
+Sine respirare me, ut tibi respondeam.
+vir summe populi, stabulum servitutium,
+
+scortorum liberator, suduculum flagri,
+compedium tritor, pistrinorum civitas,
+perenniserve, lurco, edax, furax, fugax,
+cedo sis mi argentum, da mihi argentum, impudens,
+possum a te exigere argentum? argentum, inquam, cedo,
+
+quin tu mi argentum reddis? nilne te pudet?
+leno te argentum poscit, solida servitus,
+pro liberanda amica, ut omnes audiant.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h5
+:END:
+
+Tace, obsecro hercle. ne tua vox valide valet.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h6
+:END:
+
+Referundae ego habeo linguam natam gratiae.
+
+eodém mihi pretio sal praehibetur quo tibi.
+nisi me haec defendet, numquam delinget salem.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h7
+:END:
+
+Iam omitte iratus esse. id tibi suscensui,
+quia te negabas credere argentum mihi.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h8
+:END:
+
+Mirum quin tibi ego crederém, ut idem mihi
+
+faceres quod partim faciunt argentarii:
+ubi quid credideris, citius extemplo a foro
+fugiunt quam ex porta ludis cum emissust lepus.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h9
+:END:
+
+Cape hoc sis.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h10
+:END:
+
+Quin das?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h11
+:END:
+
+Nummi sescenti hic erunt,
+probi, numerati. fac sit mulier libera,
+
+atque huc continuo adduce.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h12
+:END:
+
+Iam faxo hic erit.
+non hercle, quoi nunc hoc dem spectandum, scio.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h13
+:END:
+
+Fortasse metuis in manum concredere?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h14
+:END:
+
+Mirum quin  [lost]  citius iam a foro argentarii
+abeunt, quam in cursu rotula circumvortitur.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h15
+:END:
+
+Abi istác travorsis angiportis ad forum;
+eadem ístaec facito mulier ad me transeat
+per hortum.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h16
+:END:
+
+Iam hic faxo aderit.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h17
+:END:
+
+At ne propalam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h18
+:END:
+
+Sapienter sane.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h19
+:END:
+
+Supplicatum cras eat.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h20
+:END:
+
+Ita hercle vero.—
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h25-h21
+:END:
+
+Dum stas, reditum oportuit.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+* 449
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h28-h1
+:END:
+
+si quam rem accures sobrie aut frugaliter,
+solet illa recte sub manus succedere.
+atque edepol ferme ut quisque rem accurat suam,
+sic ei procedit postprincipio, denique
+
+si malus aut nequamst, male res vortunt quas agit,
+sin autem frugist, eveniunt frugaliter.
+hanc ego rem exorsus sum facete et callide,
+igitur proventuram bene confido mihi.
+nunc ego lenonem ita hodie intricatum dabo,
+
+ut ipsus sese, qua se expediat, nesciat.
+Sagaristio, heus, exi atque educe virginem
+et istás tabellas, quas consignavi tibi,
+quas tu attulisti mi ab ero meo usque e Persia.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+* 462
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h30-h1
+:END:
+
+Numquid moror?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h30-h2
+:END:
+
+Euge, euge, exornatu's exornatus es   basilice;
+tiara ornatum lepida condecorat schema.
+tum hanc hospitam autem crepidula ut graphice decet.
+sed satin estis meditati?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h30-h3
+:END:
+
+Tragici et comici
+
+numquam aeque sunt meditati.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h30-h4
+:END:
+
+Lepide hercle adiuvas.
+age, illúc abscede procul e conspectu et tace.
+ubi cum lenone me videbis conloqui
+id erit adeundi tempus. nunc agite ite vos.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+* 470
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h1
+:END:
+
+Quoí homini di própitii sunt, áliquid obiciúnt lucri;
+nam égo hodie compendi feci binos panes in dies.
+íta ancillá mea quae fuit hodie, sua nunc est: argento vicit;
+iám hodie alienum cenabit, nil gustabit de meo.
+
+sumne probus, sum lepidus civis, qui Atticam hodie civitatem
+maximam maiorem feci atque auxi civi femina?
+sed ut ego hodie fui benignus, ut ego multis credidi,
+nec satis a quiquam homine accepi: ita prosum credebam omnibus;
+nec metuo, quibus credidi hodie, ne quis mi in iure abiurassit:
+
+bonus volo iam ex hoc die esse—quod neque fiet neque fuit.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h2
+:END:
+
+Hunc hominem ego hodie in trasennam doctis deducam dolis,
+itaque huic insidiae paratae sunt probe. adgrediar virum.
+quid agis?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h3
+:END:
+
+Credo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h4
+:END:
+
+Únde agis te, Dordale?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h5
+:END:
+
+Credo tibi.
+di dent, quae velis.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h6
+:END:
+
+Eho, an iám manu emisisti mulierem?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h7
+:END:
+
+Crédo edepol, credo, inquam, tibi.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h8
+:END:
+
+Iam liberta auctu's auctus es  ?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h9
+:END:
+
+Enicas.
+quin tíbi me dico crédere.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h10
+:END:
+
+Dic bona fíde: iam liberast?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h11
+:END:
+
+Ólim.
+i, i ád forum ad praetorem, éxquire, siquidém mihi credere nón vis.
+líbera, inquam, est: ecquid audis?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h12
+:END:
+
+At tibi di bene faciant omnes.
+númquam enim pósthac tibi nec tuorum quoiquam quod nolis volam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h13
+:END:
+
+Abi, né iura, satis crédo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h14
+:END:
+
+Vbi núnc tua libertást?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h15
+:END:
+
+Apud te.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h16
+:END:
+
+Ain, apud mést?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h17
+:END:
+
+Aio, inquam, apud te ést, inquam.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h18
+:END:
+
+Ita mé di ament, ut ob ístam rem tibi múlta bona instant á me.
+nam est rés quaedam, quam occúltabam tibi dícere: nunc eam nárrabo,
+unde tú pergrande lucrúm facias: faciam, út mei memineris, dúm vitam
+
+vivás.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h19
+:END:
+
+Bene dictis tuís bene facta aurés meae auxilium expóscunt.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h20
+:END:
+
+Tuom prómeritumst, merito út faciam. et ut mé scias esse ita fácturum,
+tabellás tene has, péllege.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h21
+:END:
+
+Istaé quid ad mé?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h22
+:END:
+
+Immo ád te attinént et tuá refert.
+nam ex Pérsia sunt haec állatae mihi a méo ero.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h23
+:END:
+
+Quando?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h24
+:END:
+
+Haud dúdum.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h25
+:END:
+
+Quid istaé narrant?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h26
+:END:
+
+Percóntare ex ipsís. ipsae tibi nárrabunt.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h27
+:END:
+
+Cedo sáne mihi.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h28
+:END:
+
+At clare récitato.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h29
+:END:
+
+Tace, dúm pellego.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h30
+:END:
+
+Hau verbúm faciam
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h31
+:END:
+
+Salutem dicit Toxilo Timarchides
+et familiae omni. si valetis, gaudeo.
+ego valeo recte et rem gero et facio lucrum,
+neque istóc redire his octo possum mensibus,
+
+itaque hic est quod me detinet negotium.
+Chrysopolim Persae cepere urbem in Arabia,
+plenam bonarum rerum atque antiquom oppidum:
+ea comportatur praeda, ut fiat auctio
+publicitus; ea res me domo expertem facit.
+
+operam atque hospitium ego isti praehiberi volo,
+qui tibi tabellas adfert. cura quae is volet,
+nam is mihi honores suae domi habuit maxumos.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h32
+:END:
+
+Quíd id ad me aut ad meam rem refert, Persae quid rerum gerant
+aut quid erus tuos?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h33
+:END:
+
+Tace, stultiloque; nescis quid te instet boni
+
+neque quam tibi Fortuna faculam lucrifera adlucere volt.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h34
+:END:
+
+Quae istaec lucrifera est Fortuna?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h35
+:END:
+
+Istas, quae norunt, roga.
+ego tantumdem scio quantum tu, nisi quod pellegi prior.
+sed, ut occepisti, ex tabellis nosce rem.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h36
+:END:
+
+Bene me mones.
+fac silentium.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h37
+:END:
+
+Nunc ad illud venies quod refert tua.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h38
+:END:
+
+Iste quí tabellas adfert adduxit simul
+forma expetenda liberalem virginem,
+furtivam, abductam ex Arabia penitissuma;
+eam te volo accurare ut istic veneat.
+ac suo periclo is emat qui eam mercabitur:
+
+mancipio neque promittet neque quisquam dabit.
+probum et numeratum argentum ut accipiat face.
+haec cura, et hospes cura ut curetur. vale.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h39
+:END:
+
+Quíd igitur? postquam recitasti quod erat cerae creditum,
+iam mihi credis?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h40
+:END:
+
+Vbi nunc illest hospes, qui hasce huc attulit?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h41
+:END:
+
+Iam hic credo aderit: arcessivit illam a navi.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h42
+:END:
+
+Nil mi opust
+litibus neque tricis. quam ob rem ego argentum enumerem foras?
+nisi mancipio accipio, quid eo mi opus est mercimonio?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h43
+:END:
+
+Tacen an non taces? numquam ego te tam esse matulam credidi.
+quid metuis?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h44
+:END:
+
+Metuo hercle vero. sensi ego iam compluriens,
+
+neque mi haud imperito eveniet, tali ut in luto haeream.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h45
+:END:
+
+Nil pericli mihi videtur.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h46
+:END:
+
+Scio istuc, sed metuo mihi.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h47
+:END:
+
+Mea quidem istuc nil refert: tua ego hoc facio gratia,
+ut tibi recte conciliandi primo facerem copiam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h48
+:END:
+
+Gratiam habeo. sed te de aliis, quam alios de te suaviust
+
+fieri doctos.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h49
+:END:
+
+Ne quis vero ex Arabia penitissuma
+persequatur. etiam tu illam destinas?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h50
+:END:
+
+Videam modo
+mercimonium.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h51
+:END:
+
+Aequa dicis. séd optume eccum ipse advenit
+hospes ille, qui has tabellas attulit.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h52
+:END:
+
+Hicinest?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h53
+:END:
+
+Hic est.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h54
+:END:
+
+Haecine illást furtiva virgo?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h55
+:END:
+
+Iuxta tecum aeque scio,
+
+nisi quia specie quidem edepol liberalist, quisquis est.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h56
+:END:
+
+Sat edepol concinnast facie.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h57
+:END:
+
+Vt contemptim carnufex.
+taciti contemplemur formam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h32-h58
+:END:
+
+Laudo consilium tuom.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+* 549
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h1
+:END:
+
+Satin Athenae tibi sunt visae fortunatae atque opiparae?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h2
+:END:
+
+Vrbis speciem vidi, hominum móres perspexi parum.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h3
+:END:
+
+Numquid in principió cessavit verbum docte dicere?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h4
+:END:
+
+Hau potui etiam in primo verbo perspiceré sapientiam.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h5
+:END:
+
+Quid id quod vidisti? ut munitum muro tibi visum oppidumst?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h6
+:END:
+
+Si incolae bene sunt morati, pulchre munitum arbitror.
+perfidia et pecúlatus ex urbe et avaritia si exulant,
+quarta invidia, quinta ambitio, sexta óbtrectatio,
+septimum periurium,
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h7
+:END:
+
+Euge.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h8
+:END:
+
+Octava indiligentia,
+
+nona iniuria, decimum, quod pessimum adgressust, scelus:
+haec unde aberunt, ea urbs moenita muro sat erit simplici;
+ubi ea aderúnt, centumplex murus rebus servandis parumst.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h9
+:END:
+
+Quid ais tu?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h10
+:END:
+
+Quid vis?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h11
+:END:
+
+Tu in illis es decem sodalibus:
+té in exilium ire hinc oportet.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h12
+:END:
+
+Quid iam?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h13
+:END:
+
+Quia periurus es.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h14
+:END:
+
+Verba quidem haud indocte fecit.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h15
+:END:
+
+Ex tuo, inquam, usust: eme hanc.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h16
+:END:
+
+Edepol qui cum hanc magis contemplo, magis placet.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h17
+:END:
+
+Si hanc emeris,
+di immortales, nullus leno te alter érit opulentior.
+evortes tuo arbitratu hómines fundis, familiis;
+cum optimis viris rem habebis, gratiam cupient tuam:
+
+venient ad te comissatum.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h18
+:END:
+
+At ego intro mitti votuero.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h19
+:END:
+
+At enim illi noctu occentabunt ostium, exurent fores:
+proin tu tibi iubeás concludi aédis foribus ferreis,
+ferreas aedis commutes, limina indas ferrea,
+ferream seram atque anellum; ne sis ferro parseris:
+
+ferreas tute tibi impingi iubeas crassas compedis.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h20
+:END:
+
+I sis in malum cruciatum.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h21
+:END:
+
+I sane tu, hanc eme atque ausculta mihi.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h22
+:END:
+
+Modo uti sciam, quanti indicet.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h23
+:END:
+
+Vin huc vocem?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h24
+:END:
+
+Ego illo accessero.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h25
+:END:
+
+Quid agis, hospes?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h26
+:END:
+
+Venio, adduco hanc ad te, ut dudum dixeram.
+nám heri in portum noctu navis venit. veniri hanc volo,
+
+si potest; si non potest, iri hinc volo quantum potest.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h27
+:END:
+
+Salvos sis, adulescens.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h28
+:END:
+
+Siquidem hanc vendidero pretio suo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h29
+:END:
+
+At qui aut hoc emptore vendes pulchre, aut alio non potis.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h30
+:END:
+
+Esne tu huic amicus?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h31
+:END:
+
+Tam quam di omnes qui caelum colunt.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h32
+:END:
+
+Tum tu mi es inimicus certus. nam generi lenonio
+
+numquam ullus deus tám benignus fuit, qui fuerit propitius.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h33
+:END:
+
+Hoc age. opusnest hac tibi empta?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h34
+:END:
+
+Si tibi venissest opus,
+mihi quoque emptast; si tibi subiti nihil est, tantumdemst mihi.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h35
+:END:
+
+Indica, fac pretium.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h36
+:END:
+
+Tua mers est, tua indicatiost.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h37
+:END:
+
+Aequom hic orat.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h38
+:END:
+
+Vin bene emere?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h39
+:END:
+
+Vin tu pulchre vendere?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h40
+:END:
+
+Ego scio hercle utrumque velle.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h41
+:END:
+
+Age, indica prognariter.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h42
+:END:
+
+Prius dico: hanc mancupio nemo tibi dabit. iam scis?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h43
+:END:
+
+Scio.
+indica, minimo daturus qui sis, qui duci queat.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h44
+:END:
+
+Tace, tace. nimis tú quidem hercle homo stultus es pueriliter.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h45
+:END:
+
+Quid ita?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h46
+:END:
+
+Quia enim te ex puella prius percontari volo
+
+quae ad rem referúnt.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h47
+:END:
+
+Atque hercle tu me monuisti hau male.
+vide sis, ego ille doctus leno paene in foveam decidi,
+ni hic adesses. quantum est adhibere hominem amicum, ubi quid geras.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h48
+:END:
+
+Quo genere aut qua in patria nata sit aut quibus parentibus,
+ne temere hanc te emisse dicas suasu atque impulsu meo,
+
+volo te percontari.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h49
+:END:
+
+Quin laudo, inquam, consilium tuom.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h50
+:END:
+
+Nisi molestum est, percontari hanc paucis hic volt.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h51
+:END:
+
+Maxime,
+suo arbitratu.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h52
+:END:
+
+Quid stas? adi sis tute atque ipse itidem roga,
+ut tibi percontari liceat quae velis; etsi mihi
+dixit dare potestatem eius; sed ego te malo tamen,
+
+eumpse adire, ut ne contemnat te ille.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h53
+:END:
+
+Satis recte mones.
+hospes, volo ego hanc percontari.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h54
+:END:
+
+A terra ad caelum, quid lubet.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h55
+:END:
+
+Iube dum eam hoc accedat ad me.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h56
+:END:
+
+I sane ac morem illi gere.
+percontare, exquire quid vis.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h57
+:END:
+
+Age, age nunc tu, in proelium
+vide ut ingrediare auspicato.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h58
+:END:
+
+Liquidumst auspicium, tace.
+
+curabo ut praedati pulchre ad castra convertamini.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h59
+:END:
+
+Concede istuc, ego illam adducam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h60
+:END:
+
+Age, ut rem esse in nostram putas.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h61
+:END:
+
+Ehodum huc, virgo. vide sis quid agas.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h62
+:END:
+
+Taceas, curabo ut voles.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h63
+:END:
+
+Sequere me. adduco hanc, si quid vis ex hac percontarier.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h64
+:END:
+
+Enim volo te adesse.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h65
+:END:
+
+Hau possum quin huic operam dem hospiti,
+
+quoí erus iussit. quid si hic non volt mé adesse una?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h66
+:END:
+
+Immo i modo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h67
+:END:
+
+Do tibi ego operam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h68
+:END:
+
+Tibi ibidem das, ubi tu tuom amicum adiuvas.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h69
+:END:
+
+Exquire. heus tu, advigila.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h70
+:END:
+
+Satis est dictum: quamquam ego serva sum,
+scio ego officium meum, ut quae rogiter vera, ut accepi, eloquar.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h71
+:END:
+
+Virgo, híc homo probus est.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h72
+:END:
+
+Credo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h73
+:END:
+
+Non diu apud hunc servies.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h74
+:END:
+
+Ita pol spero, si parentes facient officium suom.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h75
+:END:
+
+Nolo ego te mirari, si nos ex te percontabimur
+aut patriam tuam aut parentes.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h76
+:END:
+
+Quor ego id mirer, mi homo?
+servitus mea mi interdixit, ne quid mirer meum malum.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h77
+:END:
+
+Noli flere.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h78
+:END:
+
+Ah, di istam perdant, ita catast et callida.
+
+ut sapiens habet cór, quam dicit quod opust!
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h79
+:END:
+
+Quid nomen tibist?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h80
+:END:
+
+Nunc metuo ne peccet.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h81
+:END:
+
+Lucridi nomen in patria fuit.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h82
+:END:
+
+Nomen atque omen quantivis iam est preti. quin tu hanc emis?
+nimis pavebam, ne peccaret. expedivit.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h83
+:END:
+
+Si te emam,
+mihi quoque Lucridem confido fore te.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h84
+:END:
+
+Tu si hanc emeris,
+
+numquam hercle hunc mensem vortentem, credo, servibit tibi.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h85
+:END:
+
+Ita velim quidem hercle.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h86
+:END:
+
+Optata ut evenant, operam addito.
+nihil adhuc peccavit etiam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h87
+:END:
+
+Vbi tu nata es?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h88
+:END:
+
+Vt mihi
+mater dixit, in culina, in angulo ad laevam manum.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h89
+:END:
+
+Haec erit tibi fausta meretrix: natast in calido loco,
+
+ubi rerum omnium bonarum copiast saepissume.
+tactust leno; qui rogaret, ubi nata esset diceret,
+lepide lusit.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h90
+:END:
+
+At ego patriam te rogo quae sit tua.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h91
+:END:
+
+Quae mihi sít, nisi haec ubi nunc sum?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h92
+:END:
+
+At ego illam quaero quae fuit.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h93
+:END:
+
+Omne ego pro nihilo esse duco quod fuit, quando fuit:
+
+tamquam hominem, quando animam ecflavit, quid eum quaeras qui fuit?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h94
+:END:
+
+Ita me di bene ament, sapienter. atque equidem miseret tamen.
+sed tamen, virgo, quae patriast tua, age mi actutum expedi.
+quid taces?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h95
+:END:
+
+Dico equidem: quando hic servio, haec patriast mea.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h96
+:END:
+
+Iam de istoc rogare omitte (non vides nolle eloqui?)
+
+ne suarúm se miseriarum in memoriam inducas.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h97
+:END:
+
+Quid est?
+captusne est pater?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h98
+:END:
+
+Non captus, sed quod habuit perdidit.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h99
+:END:
+
+Haec erit bono genere nata: nil scit nisi verum loqui.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h100
+:END:
+
+Quis fuit? dic nomen.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h101
+:END:
+
+Quid illum miserum memorem qui fuit?
+nunc et illúm miserum et me miseram aéquom est nominarier.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h102
+:END:
+
+Quoius modi is suo ín populo habitust?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h103
+:END:
+
+Nemo quisquam acceptior:
+servi liberique amabant.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h104
+:END:
+
+Hominem miserum praedicas,
+quom ét ipsus prorsus perditust et benevolentis perdidit.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h105
+:END:
+
+Emam, opinor.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h106
+:END:
+
+Etiam opinor? summo genere esse arbitror;
+divitias tu ex istac facies.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h107
+:END:
+
+Ita di faxint.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h108
+:END:
+
+Eme modo.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h109
+:END:
+
+Iam hoc tibi dico: iam actutum ecastor meus pater, ubi me sciet
+veniisse, ipse aderit et me abs te redimet.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h110
+:END:
+
+Quid nunc?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h111
+:END:
+
+Quid est?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h112
+:END:
+
+Audin quid ait?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h113
+:END:
+
+Nam etsi res sunt fractae, amici sunt tamen.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h114
+:END:
+
+Ne sis plora; libera eris actutum, si crebro cades.
+vin mea esse?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h34-h115
+:END:
+
+Dum quidem ne nímis diu tua sim, volo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h116
+:END:
+
+Satin ut meminit libertatis? dabit haec tibi grandis bolos.
+age si quid agis. ego ad hunc redeo. sequere. redduco hanc tibi.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h117
+:END:
+
+Adulescens, vin vendere istanc?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h118
+:END:
+
+Magis libet quam perdere.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h119
+:END:
+
+Tum tu pauca in verba confer: qui datur, tanti indica.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h120
+:END:
+
+Faciam ita ut te velle video, út emas. habe centum minis.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h121
+:END:
+
+Nimiumst.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h122
+:END:
+
+Octoginta.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h123
+:END:
+
+Nimiumst.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h124
+:END:
+
+Nummus abesse hinc non potest,
+quod nunc dicam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h125
+:END:
+
+Quid id est ergo? eloquere actutum atque indica.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h126
+:END:
+
+Tuo periclo sexaginta haec dabitur argenti minis.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h127
+:END:
+
+Toxilé, quid ago?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h128
+:END:
+
+Di deaeque te agitant irati, scelus,
+qui hanc non properes destinare.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h129
+:END:
+
+Habeto.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h130
+:END:
+
+Eu, praedatu's praedatus es   probe.
+
+non edepol minis trecentis carast. fecisti lucri.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h34-h131
+:END:
+
+Heus tu, etiam pro vestimentis huc decem accedent minae.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h132
+:END:
+
+Abscedent enim, nón accedent.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h133
+:END:
+
+Tace sis, non tu illum vides
+quaerere ansam, infectum ut faciat? abin atque argentum petis?
+[lost]  atque ut dignust perit.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h134
+:END:
+
+Heus tu serva istum.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h135
+:END:
+
+Quin tu is intro?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h34-h136
+:END:
+
+Abeo atque argentum affero.—
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 673
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+Edepol dedisti, virgo, operam adlaudabilem,
+probam et sapientem et sobriam.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h36-h2
+:END:
+
+Si quid bonis
+boni fit, esse id et grave et gratum solet.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h3
+:END:
+
+Audin tu, Persa? ubi argentum ab hoc acceperis,
+
+simulato, quasi eas prorsum in navem.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h36-h4
+:END:
+
+Ne doce.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h5
+:END:
+
+Per angiportum rursum te ad me recipito
+illac per hortum.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h36-h6
+:END:
+
+Quod futurum est praedicas.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h7
+:END:
+
+At ne cum argento protinam permittas domum,
+moneo, te.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h36-h8
+:END:
+
+Quod te dignumst, me dignum esse vis?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h36-h9
+:END:
+
+Tace, párce voci: praeda progreditur foras.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 683
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+Probae hic argenti sunt sexaginta minae,
+duobus nummis minus est.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+Quid ei nummi sciunt?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+Cruminam hanc emere aut facere uti remigret domum.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+Ne non sat esses leno, id metuebas miser,
+
+impure, avare, ne crumillam amitteres?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h5
+:END:
+
+Sine quaeso. quando lenost, nil mirum facit.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h6
+:END:
+
+Lucro faciundo ego auspicavi in hunc diem:
+nil mihi tam parvist, quin me id pigeat perdere.
+age, accipe hoc sis.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h38-h7
+:END:
+
+Hunc in collum, nisi piget,
+
+impone.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h8
+:END:
+
+Vero fiat.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h38-h9
+:END:
+
+Numquid ceterum
+me voltis?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h10
+:END:
+
+Quid tam properas?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h38-h11
+:END:
+
+Ita negotiumst:
+mandatae quae sunt, volo deferre epistulas;
+geminum autem fratrem servire audivi hic meum,
+eum ego ut requiram átque uti redimam volo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h12
+:END:
+
+Atque edepol tu me commonuisti haú male.
+videor vidisse hic forma persimilem tui,
+eadém statura.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h38-h13
+:END:
+
+Quippe qui frater siet.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h14
+:END:
+
+Quid est tibi nomen?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h15
+:END:
+
+[lost]  quod ad te attinet.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h16
+:END:
+
+Quid attinet non scire?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h38-h17
+:END:
+
+Ausculta ergo, ut scias:
+
+Vaniloquidorus Virginesvendonides
+Nugiepiloquides Argentumexterebronides
+Tedigniloquides Nugides Palponides
+Quodsemelarripides Numquameripides. em tibi.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h18
+:END:
+
+Eu hercle, nomen multimodis scriptumst tuom.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h38-h19
+:END:
+
+Ita sunt Persarum mores, longa nomina,
+contortiplicata habemus. numquid ceterum
+voltis?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h20
+:END:
+
+Vale.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h38-h21
+:END:
+
+Et vos, nam animus iam in navist meus.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h38-h22
+:END:
+
+Cras ires potius, hodie hic cenares.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h38-h23
+:END:
+
+Vale.—
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 711
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+Postquam illic hinc abiit, dicere hic quidvis licet.
+ne hic tibi dies inluxit lucrificabilis.
+nam non emisti hanc, verum fecisti lucri.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h2
+:END:
+
+Ille quidem iam scit, quid negoti gesserit,
+
+qui mihi furtivam meo periclo vendidit,
+argentum accepit, abiit. quí ego nunc scio,
+an iam adseratur haec manu? quo illum sequar?
+in Persas? nugas.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h3
+:END:
+
+Credidi gratum fore
+beneficium meum apud te.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h4
+:END:
+
+Immo equidem gratiam
+
+tibi, Toxile, habeo; nam te sensi sedulo
+mihi dare bonam operam.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h5
+:END:
+
+Tibine ego? immo sedulo.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h6
+:END:
+
+Attat, oblitus sum intus dudum edicere
+quae volui edicta. adserva hanc.—
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h7
+:END:
+
+Salvast haec quidem.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h40-h8
+:END:
+
+Pater nunc cessat.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h9
+:END:
+
+Quid si admoneam?
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h40-h10
+:END:
+
+Tempus est.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h11
+:END:
+
+Heus, Saturio, exi. nunc est illa occasio
+inimicum ulcisci.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h40-h12
+:END:
+
+Ecce me. numquid moror?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h13
+:END:
+
+Age, illúc abscede procul e conspectu, tace;
+ubi cum lenone me videbis conloqui,
+tum turbam facito.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h40-h14
+:END:
+
+Dictum sapienti sat est.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h40-h15
+:END:
+
+Tunc, quando abiero—
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h40-h16
+:END:
+
+Quin taces? scio quid velis.
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 731
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+Transcidi loris omnis adveniens domi,
+ita mihi supellex squalet atque aedes meae.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+Redis tu tandem?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+Redeo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+Ne ego hodie tibi
+bona multa feci.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+Fateor, habeo gratiam.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+Num quippiam aliud me vis?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h7
+:END:
+
+Vt bene sit tibi.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h8
+:END:
+
+Pol istúc quidem omen iám ego usurpabo domi,
+nam iam inclinabo me cum liberta tua.
+
+* 9
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 738
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h44-h1
+:END:
+
+Nisi ego illum hominem perdo, perii. atque optume
+eccum ipsum ante aedes.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h44-h2
+:END:
+
+Salve multum, mi pater.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h44-h3
+:END:
+
+Salve, mea gnata.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h4
+:END:
+
+Ei, Persa me pessum dedit.
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h44-h5
+:END:
+
+Pater hic meus est.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h6
+:END:
+
+Hem, quid? pater? perii oppido.
+
+quid ego igitur cesso infelix lamentarier
+minas sexaginta?
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h44-h7
+:END:
+
+Ego pol te faciam, scelus,
+te quoque etiam ipsum ut lamenteris.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h8
+:END:
+
+Occidi.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h44-h9
+:END:
+
+Age ambula in ius, leno.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h10
+:END:
+
+Quid me in ius vocas?
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h44-h11
+:END:
+
+Illi apud praetorem dicam. sed ego in ius voco.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h12
+:END:
+
+Nonne antestaris?
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h44-h13
+:END:
+
+Tuan ego causa, carnufex,
+cuiquam mortali libero auris atteram,
+qui hic commercaris civis homines liberos?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h14
+:END:
+
+Sine dicam.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h44-h15
+:END:
+
+Nolo.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h44-h16
+:END:
+
+Aúdi.
+
+** Satvrio
+:PROPERTIES:
+:CUSTOM_ID: h44-h17
+:END:
+
+Surdus sum. ambula.
+sequere hac, sceleste, feles virginaria.
+
+sequere hac, mea gnata, me usque ad praetorem.—
+
+** Virgo
+:PROPERTIES:
+:CUSTOM_ID: h44-h18
+:END:
+
+Sequor.—
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+* 753
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h1
+:END:
+
+Hostíbus victis, civíbus salvis, re plácida, pacibus pérfectis,
+bello éxstincto, re béne gestá, integró exércitu et praésidiis,
+cum béne nos, Iuppiter, iúvisti, dique álii omnes caelípotentes,
+eas vóbis habeo grátes atque ago, quía probe sum últus meum ínimicum.
+
+nunc ób eam rem inter párticipes didám praedam et partícipabo.
+íte foras: híc volo ante óstium et iánuam
+meos párticipes bene accípere.
+státuite hic léctulos, pónite hic quae ádsolent.
+hic státui volo primum † aliqua mihi,
+
+unde égo omnis hilaros, lúdentis, laetíficantis faciam út fiant,
+quorum ópera mihi facilía factu facta haéc sunt, quae volui éffieri.
+nam impróbus est homo qui béneficium scit áccipere et reddére nescit.
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h47-h2
+:END:
+
+Toxíle mi, cur ego síne te sum, cur tu aútem sine me es?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h3
+:END:
+
+Ágedum ergo,
+accéde ad me atque ampléctere sis.
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h47-h4
+:END:
+
+Ego véro.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h5
+:END:
+
+Oh, nihil hoc mágis dulcest.
+
+sed, amábo, oculus meus, quín lectis nos áctutum comméndamus?
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h47-h6
+:END:
+
+Omnía quae tu vis, éa cupio.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h7
+:END:
+
+Mutúa fiunt a me. age, age ergo,
+tu Ságaristio, accumbe ín summo.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h47-h8
+:END:
+
+Ego níl moror: cedo parem, quém pepigi.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h9
+:END:
+
+Temperí.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h47-h10
+:END:
+
+Mi istuc temperí serost.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h11
+:END:
+
+Hoc age, accúmbe. hunc diém suavem
+meum nátalem agitemús amoenum. date aquám manibus, apponíte mensam.
+
+do hanc tíbi florentem flórenti. tu hic éris dictatrix nóbis.
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h47-h12
+:END:
+
+Age, púere, ab summo séptenis cyathís committe hos lúdos.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h13
+:END:
+
+Move mánus, propera, Paegniúm, tarde cyathós mihi das, cedo sáne.
+bene míhi, bene vobis, béne meae amicae, optátus hic míhi dies dátus hodiést.
+ab dís, quia te licet líberam med amplécti.
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h47-h14
+:END:
+
+Tua factum ópera.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h15
+:END:
+
+Bene omníbus nobis. hoc méa manus tuaé poclúm donat, ut amántem
+amantí decet.
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h47-h16
+:END:
+
+Cédo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h17
+:END:
+
+Accípe.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h18
+:END:
+
+Bene eí qui invidét mi et eí qui hoc gaúdet.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h1
+:END:
+
+Qui súnt † qui erunt quiqué fuerunt quiqué futuri sunt pósthac,
+solus ego omnibus antideo facilé, miserrímus hominum út vivam.
+perii, ínterii. pessímus hic mi dies hódie inluxit córruptor,
+ita mé Toxilus perfábricavit itaqué meam rem divéxavit.
+
+vehiclum árgenti miser éieci amisi, neque quam ób rem eieci, hábeo.
+qui illúm Persam atque omnís Persas atque étiam omnis persónas
+male di ómnes perdant, íta misero Toxílus haec mihi concívit.
+quia eí fidem non habui árgenti, eo míhi eas machinas mólitust;
+quem pól ego ut non in crúciatum atque in cómpedis cogam, sí vivam,
+
+siquidem húc umquam erus rediérit eius, quod spéro—sed quid ego áspicio?
+hoc víde, quae haec fabulast? híc quidem pol potánt. adgrediar. ó bone vir,
+salvéto, et tu, bona líberta.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h2
+:END:
+
+Dordálus hic quidemst.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h48-h3
+:END:
+
+Quin iúbe adire.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h4
+:END:
+
+Adi, sí libet.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h48-h5
+:END:
+
+Agite, adplaúdamus.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h6
+:END:
+
+Dordále, homo lepidissúme, salve.
+locus híc tuos est, hic accumbe. férte aquam pédibus. praeben tú puere?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h7
+:END:
+
+Ne sís me uno digito áttigeris, ne te ád terram, scelus, ádfligam.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h48-h8
+:END:
+
+At tíbi ego hoc continuó cyatho oculum éxcutiam † tuum.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h9
+:END:
+
+Quid aís, crux, stimulorúm tritor? quo módo me hodie versávisti,
+ut me ín tricas coniécisti, quo módo de Persa mánus mi aditast?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h10
+:END:
+
+Iurgium hínc auféras, si sápias.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h11
+:END:
+
+At, bóna liberta, haec scívisti et me célavisti?
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h48-h12
+:END:
+
+Stúltitiast,
+cui béne esse licet, eum praévorti litíbus. posterius ístaec te
+magis pár agerest.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h13
+:END:
+
+Vrítur cor mi.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h14
+:END:
+
+Da illí cantharum, extingue ígnem, si
+cor úritur, caput ne ardéscat.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h15
+:END:
+
+Lúdos me fácitis, intéllego.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h16
+:END:
+
+Vín cinaedúm novom tíbi dari, Paégnium?
+quín elude, út soles, quándo libér locust hic.
+huí, babae, básilice te íntulisti ét facete.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h48-h17
+:END:
+
+Decét me facétum esse, et húnc inridére
+lenónem lubídost, quandó dignus ést.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h18
+:END:
+
+Perge út coeperás.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h48-h19
+:END:
+
+Hoc, léno, tibí.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h20
+:END:
+
+Perií perculít me prope.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h48-h21
+:END:
+
+Em, serva rúsum.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h22
+:END:
+
+Delúde, ut lubet, erus dum hínc abest.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h48-h23
+:END:
+
+Viden út tuis dictis páreo?
+sed quín tu meís contra itém dictis sérvis
+
+atque hóc, quod tibí suadeó, facis?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h24
+:END:
+
+Quid ést id?
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h48-h25
+:END:
+
+Restím tu tibí cápe crassam ac suspende te.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h26
+:END:
+
+Cave sís me attigás, ne tibi hóc scipióne
+malúm magnum dém.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h48-h27
+:END:
+
+Vteré, te condóno.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h28
+:END:
+
+Iam iám, Paegnium, da paúsam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h29
+:END:
+
+Égo pol vos erádicabo.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h48-h30
+:END:
+
+At te ílle, qui suprá nos habitat,
+qui tibi male volt maleque faciet. non hi dicunt, verum ego.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h31
+:END:
+
+Age, circumfer mulsum, bibere da usque plenis cantharis.
+iam diu fáctum est, postquam bibimus; nimis diu sicci sumus.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h32
+:END:
+
+Di faciant ut id bibatis quod vos numquam transeat.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h48-h33
+:END:
+
+Nequeo, leno, quin tibi saltem staticulum, olim quem Hegea
+faciebat. vide vero, si tibi satis placet.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h34
+:END:
+
+Me quoque volo
+reddere, Diodorus quem olim faciebat in Ionia.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h35
+:END:
+
+Malum ego vobis dabo, ni abitis.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h48-h36
+:END:
+
+Etiam muttis, impudens?
+iam ego tibi, si me inritassis, Persam adducam denuo.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h37
+:END:
+
+iam taceo hercle Atque tu Persa es, qui me usque ádmutilavisti ad cutem.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h38
+:END:
+
+Tace, stulte: hic eius geminust frater.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h39
+:END:
+
+Hicinest?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h40
+:END:
+
+Ac geminissumus.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h41
+:END:
+
+Di deaeque et te et geminum fratrem excrucient.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h48-h42
+:END:
+
+Qui te perdidit:
+nám ego nil merui.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h43
+:END:
+
+At enim quod ille meruit, tibi id obsit volo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h44
+:END:
+
+Agite sultis, hunc lúdificemus.
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h48-h45
+:END:
+
+Nisi si dignust, non opust.
+
+et me haud par est.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h46
+:END:
+
+Credo eo, quia non ínconciliavit, cúm te emo.
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h48-h47
+:END:
+
+At tamen non—tamen—
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h48
+:END:
+
+Cave ergo sis maló, et sequere me.
+te mihí dicto audientem esse addecet, nam hercle absque me
+foret et meo praesidio, hic faceret te prostibilem propediem.
+sed ita pars libertinorum est: nisi patrono qui adversatust,
+
+nec satis liber sibi videtur nec satis frugi nec sat honestus,
+ní id effecit, ni ei male dixit, ni grato ingratus repertust.
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h48-h49
+:END:
+
+Pol bene facta tua me hortantur, tuo ut imperio paream.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h50
+:END:
+
+Ego sum tibi patronus plane, qui huic pro te argentum dedi.
+[lost]  gráphice hunc volo ludíficari.
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h48-h51
+:END:
+
+Meo ego ín loco sedulo cúrabo.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h52
+:END:
+
+Certo ílli homines mihi néscio quid mali cónsulunt, quod faciánt.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h48-h53
+:END:
+
+Heus vos.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h54
+:END:
+
+Quid aís?
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h48-h55
+:END:
+
+Hicin Dordalus ést leno, qui hic liberas virgines mércatur?
+hicinést, qui fuit quondám fortis?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h56
+:END:
+
+Quae haec rés est? ei, colaphó me icit.
+malum vóbis dabo.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h57
+:END:
+
+At tibi nós dedimus dabimúsque etiam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h58
+:END:
+
+Ei, natis pérvellit.
+
+** Paegnivm
+:PROPERTIES:
+:CUSTOM_ID: h48-h59
+:END:
+
+Licet: iám diu saepe sunt éxpunctae.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h60
+:END:
+
+Loqueré tu etiam, frustúm pueri?
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h48-h61
+:END:
+
+Patróne mi, i intro, amábo, ad cenam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h62
+:END:
+
+Mea Ignávia, tu nunc me ínrides?
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h48-h63
+:END:
+
+Quíane te vocó, bene ut tíbi sit?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h64
+:END:
+
+Nólo mihi bene ésse.
+
+** Lemnisilenis
+:PROPERTIES:
+:CUSTOM_ID: h48-h65
+:END:
+
+Ne sit.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h66
+:END:
+
+Quíd igitur? sescénti nummi quíd agunt, quas turbás danunt?
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h67
+:END:
+
+Mále disperii, scíunt referre próbe inimico grátiam.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h68
+:END:
+
+Satis súmpsimus súpplici iam.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h69
+:END:
+
+Fateór, manus vobís do.
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h70
+:END:
+
+Et póst dabis sub fúrcis.
+
+** Sagaristio
+:PROPERTIES:
+:CUSTOM_ID: h48-h71
+:END:
+
+Abi íntro—in crucem.
+
+** Dordalvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h72
+:END:
+
+Án me hic parum éxercitum hísce
+habént?
+
+** Toxilvs
+:PROPERTIES:
+:CUSTOM_ID: h48-h73
+:END:
+
+Convenísse te Tóxilum me  [lost]
+spéctatores, bene valete. leno periit. plaudite.

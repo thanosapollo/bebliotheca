@@ -1,0 +1,396 @@
+#+TITLE: Nutrimen
+#+AUTHOR: Hippocrates
+#+FILETAGS: :classical:5c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/nutrimen--hippocrates
+
+#+BEGIN_QUOTE
+Nutrimen translated by William Henry Samuel Jones
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Nutriment and form of nutriment, one and many. One, inasmuch as its kind is one; form varies with moistness or dryness. These foods too have their forms and quantities; they are for certain things, and for a certain number of things.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+It increases, strengthens, clothes with flesh, makes like, makes unlike, what is in the several parts, according to the nature of each part and its original power.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+It makes into the likeness of a power, when the nutriment that comes in has the mastery, and when that is mastered which was there to begin with.
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+It also loses its qualities; sometimes the earlier nutriment, when in time it has been liberated or added, sometimes the later, when in time it has been liberated or added.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+Both are weakened in time and after a time by the nutriment from without which has continuously entered in, and for a long time firmly has interwoven itself with all the limbs.
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+And it sends forth shoots of its own proper form. It changes the old form and descends; it nourishes as it is digested. Sometimes it alters the earlier form, and completely obscures the former ones.
+
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+Power of nutriment reaches to bone and to all the parts of bone, to sinew, to vein, to artery, to muscle, to membrane, to flesh, fat, blood, phlegm, marrow, brain, spinal marrow, the intestines and all their parts; it reaches also to heat, breath, and moisture.
+
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+Nutriment is that which is nourishing; nutriment is that which is fit to nourish; nutriment is that which is about to nourish.
+
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+The beginning of all things is one and the end of all things is one, and the end and beginning are the same.
+
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+And all the particular details in nourishment are managed well or ill; well if as aforesaid, ill if ordered in the opposite way to these.
+
+* Section 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+Juices varied in colours and in powers, to harm or to help, or neither to harm nor to help, varied in amount, excess or defect, in combination of some but not of others.
+
+* Section 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+And to the warming of all it harms or helps, to the cooling it harms or helps, to the power it harms or helps.
+
+* Section 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+Of power varied natures.
+
+* Section 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+Humours corrupting whole, part, from without, from within, spontaneous, not spontaneous; spontaneous for us, not spontaneous for the cause. Of the cause, part is clear, part is obscure, part is within our power and part is not.
+
+* Section 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+Nature is sufficient in all for all.
+
+* Section 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+To deal with nature from without: plaster, anointing, salve, uncovering of whole or part, covering of whole or part, warming or cooling similarly, astriction, ulceration, biting, grease; from within: some of the aforesaid, and in addition an obscure cause in part or whole, in some cases but not in all.
+
+* Section 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+Secretions in accordance with nature, by the bowels, urine, sweat, sputum, mucus, womb, through hemorrhoid, wart, leprosy, tumour, carcinoma, from nostrils, lungs, bowels, seat, penis, in accordance with nature or contrary to nature. The peculiar differences in these things depend on differences in the individual, on times and on methods. All these things are one nature and not one. All these things are many natures and one nature.
+
+* Section 18
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+Purging upward or downward, neither upward nor downward.
+
+* Section 19
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+In nutriment purging excellent, in nutriment purging bad; bad or excellent according to circumstances.
+
+* Section 20
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+Ulceration, burn-scab, blood, pus, lymph, leprosy, scurf, dandruff, scurvy, white leprosy, freckles, sometimes harm and sometimes help, and sometimes neither harm nor help.
+
+* Section 21
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+Nutriment not nutriment if it have not its power. Not nutriment nutriment if it can nourish. Nutriment in name, not in deed; nutriment in deed, not in name.
+
+* Section 22
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+It travels from within to hair, nails, and to the extreme surface; from without nutriment travels from the extreme surface to the innermost parts.
+
+* Section 23
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+Conflux one, conspiration one, all things in sympathy; all the parts as forming a whole, and severally the parts in each part, with reference to the work.
+
+* Section 24
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+The great beginning travels to the extreme part; from the extreme part there is travelling to the great beginning. One nature to be and not to be.
+
+* Section 25
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+Differences of diseases depend on nutriment, on breath, on heat, on blood, on phlegm, on bile, on humours, on flesh, on fat, on vein, on artery, on sinew, muscle, membrane, bone, brain, spinal marrow, mouth, tongue, oesophagus, stomach, bowels, midriff, peritoneum, liver, spleen, kidneys, bladder, womb, skin. All these things both as a whole and severally. Their greatness great and not great.
+
+* Section 26
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+Signs: tickling, ache, rupture, mind, sweat, sediment in urine, rest, tossing, condition of the eyes, imaginations, jaundice, hiccoughs, epilepsy, blood entire, sleep, from both these and all other things in accordance with nature, and everything else of a similar nature that tends to harm or help. Pains of the whole or of a part, indications of severity: of the one, greater severity, of the other, less, and from both come signs of greater severity, and from both come signs of less.
+
+* Section 27
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+Sweet, not sweet; sweet in power, like water, sweet to the taste, like honey. Signs of either are sores, eyes and tastings, which can also distinguish degrees. Sweet to sight, in colours and in combinations generally, sweet to a greater or less degree.
+
+* Section 28
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+Porousness of a body for transpiration healthy for those from whom more is taken; denseness of body for transpiration unhealthy for those from whom less is taken. Those who transpire freely are weaker, healthier, and recover easily; those who transpire hardly are stronger before they are sick, but on falling sick they make difficult recovery. These for both whole and part.
+
+* Section 29
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+The lungs draw a nourishment which is the opposite of that of the body, all other parts draw the same.
+
+* Section 30
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+Beginning of nutriment of breath, nostrils, mouth, throat, lungs, and the transpiratory system generally. Beginning of nutriment, both wet and dry, mouth, oesophagus, stomach. The more ancient nutriment, through the epigastrium, where the navel is.
+
+* Section 31
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+Root of veins, liver; root of arteries, heart. Out of these travel to all parts blood and breath, and heat passes through them.
+
+* Section 32
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+Power one, and not one, by which all these things and those of a different sort are managed; one for the life of whole and part, not one for the sensation of whole and part.
+
+* Section 33
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+Milk nutriment, for those to whom milk is a natural nutriment, but for others it is not. For some wine is nutriment, for others not. So with meats and the other many forms of nutriment, the differences being due to place and habit.
+
+* Section 34
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+Nourishment is sometimes into growth and being, sometimes into being only, as is the case with old men; sometimes in addition it is into strength. The condition of the athlete is not natural. A healthy state is superior in all.
+
+* Section 35
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+It is a great thing successfully to adapt quantity to power.
+
+* Section 36
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+Milk and blood are what is left over from nutriment.
+
+* Section 37
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+Periods generally harmonise for the embryo and its nutriment; and again nutriment tends upwards to milk and the nourishment of the baby.
+
+* Section 38
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+Inanimates get life, animates get life, the parts of animates get life.
+
+* Section 39
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+The natures of all are untaught.
+
+* Section 40
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+Blood of another is useful, one’s own blood is useful; blood of another is harmful, one’s own blood is harmful; one’s own humours are harmful, humours of another are harmful; humours of another are beneficial, one’s own humours are beneficial; the harmonious is unharmonious, the unharmonious is harmonious; another’s milk is good, one’s own milk is bad; another’s milk is harmful, one’s own milk is useful.
+
+* Section 41
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+Food for the young partly digested, for the old completely changed, for adults unchanged.
+
+* Section 42
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+For formation, thirty-five days; for movement, seventy days; for completion, two hundred and ten days. Others, for form, forty-five days; for motion, ninety days; for delivery, two hundred and seventy days. Others, fifty for form; for the first leap, one hundred; for completion, three hundred days. For distinction of limbs, forty; for shifting, eighty; for detachment, two hundred and forty days. It is not and is. There are found therein both more and less, in respect of both the whole and the parts, but the more is not much more, and the less not much less.
+
+* Section 43
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+Nutriment of bones after breaking; for the nostril, twice five; for jaw, collar-bone and ribs, twice this; for the fore-arm, thrice; for the leg and upper-arm, four times; for the thigh, five times; there may be, however, in these a little more or less.
+
+* Section 44
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+Blood is liquid and blood is solid. Liquid blood is good, liquid blood is bad. Solid blood is good, solid blood is bad. All things are good or bad relatively.
+
+* Section 45
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+The way up, down.
+
+* Section 46
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+Power of nutriment superior to mass; mass of nutriment superior to power; both in moist things and in dry.
+
+* Section 47
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+It takes away and adds not the same thing; it takes away from one, and adds to another, the same thing.
+
+* Section 48
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+Pulsations of veins and breathing of the lungs according to age, harmonious and unharmonious, signs of disease and of health, and of health more than of disease, and of disease more than of health. For breath too is nutriment.
+
+* Section 49
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+Liquid nutriment more easily changed than solid; solid nutriment more easily changed than liquid. That which is hardly altered is hard of digestion, and that which is easily added is easy of digestion.
+
+* Section 50
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+And for such as need a quick reinforcement, a liquid remedy is best for recovery of power; for such as need a quicker, a remedy through smell; for those who need a slower reinforcement, solid nutriment.
+
+* Section 51
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+Muscles being more solid waste less easily than other parts, save bone and sinew. Parts that have been exercised resist change, being according to their kind stronger than they otherwise would have been, and therefore less liable to waste.
+
+* Section 52
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+Pus comes from flesh; pus-like lymph comes from blood and moisture generally. Pus is nutriment for a sore; lymph is nutriment for vein and artery.
+
+* Section 53
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+Marrow nutriment of bone, and through this a callus forms.
+
+* Section 54
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+Power gives to all things increase, nourishment and birth.
+
+* Section 55
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+
+Moisture the vehicle of nutriment.

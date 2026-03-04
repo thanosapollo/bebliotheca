@@ -1,0 +1,19 @@
+#+TITLE: ̓Επιφανίου Κύπρου ἐκ τοῦ περὶ πίστεως λόγου.
+#+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
+#+FILETAGS: :patristic:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/de-fide--epiphanius-of-salamis
+#+LANGUAGE: el
+
+* ̓Επιφανίου Κύπρου ἐκ τοῦ περὶ πίστεως λόγου.
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Καὶ ἵνα δείξῃ, ὅτι "μεσίτης" ἐστὶ "θεοῦ καὶ ἀνθρώπων" τὰ ἀμφότερα ἔχων, ἐξ
+ἀνθρώπων μὲν τὴν σάρκα, ἐκ δὲ πατρὸς τὴν ἀόρατον οὐσίαν, λαλεῖ μὲν ὡς θεὸς τὰ
+θεῖα καὶ θεοπρεπῆ, ὡς δὲ ἄνθρωπος ὁ αὐτὸς τὰ ἀνθρώπινα καὶ ἀνθρωποπρεπῆ, ἔχων
+ἐν ἀμφοτέροις τὴν ἐξουσίαν φυσικῶς καὶ οὐσιωδῶς, ἀσυγχύτως καὶ ἀδιαιρέτως,
+θεϊκῶς τε καὶ ἀνθρωπίνως.

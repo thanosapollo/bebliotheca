@@ -1,0 +1,7756 @@
+#+TITLE: Rudens
+#+AUTHOR: T. Maccius Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/rudens-or-the-fishermans-rope--t-maccius-plautus
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Rudens edited by Friedrich Leo
+#+END_QUOTE
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** Arctvrvs
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+Qui gentes omnes mariaque et terras movet,
+eius sum civis civitate caelitum.
+ita sum, ut videtis, splendens stella candida,
+signum quod semper tempore exoritur suo
+
+hic atque in caelo: nomen Arcturo est mihi.
+noctu sum in caelo clarus atque inter deos,
+inter mortalis ambuló interdius.
+at alia signa de caelo ad terram accidunt.
+qui est imperator divom atque hominum Iuppiter,
+
+is nos per gentis alium ália disparat,
+qui facta hominum, mores, pietatem et fidem
+noscamus, ut quemque adiuvet opulentia.
+qui falsas litis falsis testimoniis
+petunt quique in iure abiurant pecuniam,
+
+eorúm referimus nomina exscripta ad Iovem;
+cotidie ille scit quis hic quaerat malum:
+qui hic litem apisci postulant peiurio
+mali, res falsas qui impetrant apud iudicem,
+iterum ille eam rem iudicatam iudicat;
+
+maiore multa multat quam litem auferunt.
+bonos in aliis tabulis exscriptos habet.
+atque hoc scelesti in animum inducunt suom,
+Iovem sé placare posse donis, hostiis:
+et operam et sumptum perdunt; id eo fit quia
+
+nihil éi acceptumst a periuris supplici;
+facilius si qui pius est a dis supplicans,
+quam qui scelestust, inveniet veniam sibi.
+idcirco moneo vos ego haec, qui estis boni
+quique aetatem agitis cum pietate et cum fide:
+
+[omitted]
+retinete porro, post factum ut laetemini.
+nunc, huc qua causa veni, argumentum eloquar.
+primumdum huic esse nomen urbi Diphilus
+Cyrenas voluit. illic habitat Daemones
+
+in agro atque villa proxima propter mare,
+senex, qui húc Athenis exul venit, hau malus;
+neque is adeo propter malitiam patria caret,
+sed dum alios servat se impedivit interim,
+rem bene paratam comitate perdidit.
+
+huíc filiola virgo periit parvola.
+eam dé praedone vir mercatur pessumus,
+is eam huc Cyrenas leno advexit virginem.
+adulescens quidam civis huius Atticus
+eam vídit ire e ludo fidicinio domum,
+
+amare occepit: ad lenonem devenit,
+minis triginta sibi puellam destinat
+datque arrabonem et iure iurando alligat.
+is leno, ut se aequom est, flocci non fecit fidem
+neque quod iuratus adulescenti dixerat.
+
+eí erat hospes par sui, Siculus senex
+scelestus, Agrigentinus, urbis proditor;
+is illius laudare infit formam virginis
+et aliarum itidem quae eius erant mulierculae.
+infit lenoni suadere, ut secum simul
+
+eat in Siciliam: ibi esse homines voluptários
+dicit, potesse íbi eum fieri divitem.
+ibi esse quaestum maximum meretricibus.
+persuadet. navis clanculum conducitur,
+quidquid erat noctu in navem comportat domo
+
+leno; adulescenti qui puellam ab eo emerat
+ait sése Veneri velle votum solvere
+(id hic est Veneris fanum) et eo ad prandium
+vocavit adulescentem huc. ipse hinc ilico
+conscendit navem, ávehit meretriculas.
+
+adulescenti alii narrant ut res gesta sit,
+lenonem abiisse. ad portum ádulescens venit:
+illorum navis longe in altum abscesserat.
+ego quoniam video virginem asportarier,
+tetuli éi auxilium et lenoni exitium simul:
+
+increpui hibernum et fluctus movi maritimos.
+nam Arcturus signum sum omniúm acerrimum:
+vehemens sum exoriens, cum occido vehementior.
+nunc ambo in saxo, leno átque hospes, simul
+sedent eiecti: navis confracta est eis.
+
+illa autem virgo atque altera itidem ancillula
+de navi timidae desuluerunt in scapham.
+nunc eas ab saxo fluctus ad terram ferunt
+ad villam illius, exul ubi habitat senex,
+cuius déturbavit ventus tectum et tegulas;
+
+et servos illic est éius, qui egreditur foras.
+adulescens huc iam adveniet, quem videbitis,
+qui illam mercatust de lenone virginem.
+valete, ut hostes vestri diffidant sibi.—
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 83
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+Pro di immortales, tempestatem cuius modi
+Neptunus nobis nocte hac misit proxima.
+detexit ventus villam—quid verbis opust?
+non ventus fuit, verum Álcumena Euripidi,
+
+ita omnís de tecto deturbavit tegulas;
+inlustrioris fecit fenestrasque indidit.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+* 89
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+Et vos a vestris abduxi negotiis
+neque id processit qua vos duxi gratia,
+neque quivi ad portum lenonem prehendere.
+sed mea desidia spem deserere nolui:
+
+eo vós, amici, detinui diutius.
+nunc huc ad Veneris fanum venio visere,
+ubi rem divinam se facturum dixerat.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h2
+:END:
+
+Si sapiam, hoc quod me mactat concinnem lutum.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h3
+:END:
+
+Prope me hic nescio quis loquitur.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h4
+:END:
+
+Heus, Sceparnio.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h5
+:END:
+
+Qui nominat me?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h6
+:END:
+
+Qui pro te argentum dedit.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h7
+:END:
+
+Quasi me tuom esse servom dicas, Daemones.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h8
+:END:
+
+Luto usust multo, multam terram confode.
+villam integundam intellego totam mihi,
+nam nunc perlucet ea quam cribrum crebrius.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h9
+:END:
+
+Pater salveto, ámboque adeo.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h10
+:END:
+
+Salvos sis.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h11
+:END:
+
+Sed utrum tu masne an femina es, qui illum patrem
+voces?
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h12
+:END:
+
+Vir sum equidem.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h13
+:END:
+
+Quaere vir porro patrem.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h14
+:END:
+
+Filiolam ego unam hábui, eam unam perdidi.
+virile sexus numquam ullum habui.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h15
+:END:
+
+At di dabunt.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h16
+:END:
+
+Tibi quidem hercle, quisquis es, magnum malum,
+qui oratione nos hic occupatos occupes.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h17
+:END:
+
+Isticine vos habitatis?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h18
+:END:
+
+Quid tu id quaeritas?
+quon furatum mox venias, vestigas loca?
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h19
+:END:
+
+Peculiosum esse addecet servom et probum,
+
+quem ero praesente † praetereat oratio
+aut qui inclementer dicat homini libero.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h20
+:END:
+
+Et impudicum et impudentem hominem addecet
+molestum ultro advenire ad alienam domum,
+cui debeatur nil.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h21
+:END:
+
+Tace, Sceparnio.
+
+quid opust, adulescens?
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h22
+:END:
+
+Istic infortunium,
+qui praefestinet, ubi erus adsit, praeloqui.
+sed nisi molestumst, paucis percontarier
+volo ego ex te.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h23
+:END:
+
+Dabitur opera, atque in negotio.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h24
+:END:
+
+Quin tu in paludem is exicasque harundinem,
+
+qui pertegamus villam, dum sudumst?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h25
+:END:
+
+Tace.
+tu si quid opus est dice.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h26
+:END:
+
+Dic quod te rogo,
+ecquem tu hic hominem crispum, incanum videris,
+malum, periurum, palpatorem—
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h27
+:END:
+
+Plurimos,
+nam ego propter eius modi viros vivo miser.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h28
+:END:
+
+Hic dico, in fanum Veneris qui mulierculas
+duas sécum adduxit, quique adornaret sibi
+ut rem divinam faciat, aut hodie aut heri.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h29
+:END:
+
+Non hercle, adulescens, iam hos dies complusculos
+quemquam istic vidi sacruficare, neque potest
+
+clam me esse si qui sacruficat: semper petunt
+aquam hinc aut ignem aut vascula aut cultrum aut veru
+aut aulam extarem, aut aliquid—quid verbis opust?
+Veneri paravi vasa et puteum, non mihi.
+nunc intervallum iam hos dies multos fuit.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h30
+:END:
+
+Vt verba praehibes, me periisse praedicas.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h31
+:END:
+
+Mea quidem hercle causa salvos sis licet.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h32
+:END:
+
+Heus tu, qui fana ventris causa circumis,
+iubere meliust prandium ornari domi.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h33
+:END:
+
+Fortasse tu huc vocatus es ad prandium,
+
+ille quí vocavit nullus venit?
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h34
+:END:
+
+Admodum.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h35
+:END:
+
+Nullumst periclum te hinc ire inpransum domum:
+Cererem te meliust quam Venerem sectarier:
+amori haec curat; tritico curat Ceres.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h36
+:END:
+
+Deludificavit me illic homo indignis modis.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h37
+:END:
+
+Pro di immortales, quid illuc est, Sceparnio,
+hominum secundum litus?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h38
+:END:
+
+Vt mea est opinio,
+propter viam illi sunt vocati ad prandium.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h39
+:END:
+
+Qui?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h40
+:END:
+
+Quia post cenam, credo, laverunt heri.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h41
+:END:
+
+Confracta navis in mari est illis.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h42
+:END:
+
+Ita est.
+
+at hercle nobis villa in terra et tegulae.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h43
+:END:
+
+Hui,
+homunculi quanti estis. eiecti ut natant.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h44
+:END:
+
+Vbi sunt i homines, obsecro?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h45
+:END:
+
+Hac ad dexteram
+(viden?) secundum litus.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h8-h46
+:END:
+
+Video. sequimini.
+utinam is sit quém ego quaero, vir sacerrimus.
+
+valete.—
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h47
+:END:
+
+Si non moneas, nosmet meminimus.
+sed, o Palaemon, sancte Neptuni comes,
+qui Herculis socius esse diceris,†
+quod facinus video.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h48
+:END:
+
+Quid vides?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h49
+:END:
+
+Mulierculas
+video sedentis in scapha solas duas.
+
+ut adflictantur miserae. euge euge, perbene,
+ab saxo avortit fluctus ad litus scapham,
+nequé gubernator umquam potuit rectius.
+non vidisse undas me maioris censeo.
+salvae sunt, si illos fluctus devitaverint.
+
+nunc, nunc periclumst. unda eiecit alteram.
+at in vadost, iam facile enabit. eugepae,
+viden alteram illam ut fluctus eiecit foras?
+surrexit, horsum se capessit. salva res.
+desiluit haec autem altera in terram e scapha.
+
+ut prae timore in genua in undas concidit.
+salvast, evasit ex aqua. iam in litore est.
+sed dextrovorsum avorsa it in malam crucem.
+hem, errabit illaec hodie.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h50
+:END:
+
+Quid id refert tua?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h51
+:END:
+
+Si ad saxum quo capessit, ea deorsum cadit,
+
+errationis fecerit compendium.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h52
+:END:
+
+Si tu de illarum cenaturus vesperi es,
+illis curandum censeo, Sceparnio,
+si apud me essurus, mihi darí operam volo.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h53
+:END:
+
+Bonum aequomque oras.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h8-h54
+:END:
+
+Sequere me hac ergo.—
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h8-h55
+:END:
+
+Sequor.—
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+* 185
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+Nimio hóminum fortunaé minus miseraé memorantur,
+[omitted]  experiundo iis datur acerbum.
+[omitted]  hoc deo cómplacitumst, me hoc órnatu ornatam ín incertas
+regiónes timidam eiéctam.
+
+hancíne ego ad rem natam ésse me miserám memorábo?
+hancíne ego partem cápio ob píetatem praecípuam?
+nam hóc mi haud labórist, labórem hunc potíri,
+si érga paréntem aut deós me impiávi;
+sed íd si paráte curávi ut cavérem,
+
+tum hóc mi indecóre, iníque, inmodéste
+datis, dí; nam quid habebúnt sibi signi ímpii posthac,
+si ad húnc modum est innóxiis honór apud vos?
+nam mé si sciam ín vos fecísse aut paréntis
+sceléste, minus me míserer;
+
+sed eríle scelus me sóllicitat, eiús me impietas mále habet.
+ís navem atque ómnia pérdidit ín mari:
+haéc bonorum éius sunt réliquiae; étiam quae simul
+vécta mecum ín scaphast, éxcidit. égo nunc sola sum.
+quaé mihi sí foret sálva saltém, labor
+
+lénior ésset hic mi éius opera.
+nunc quám spem aut opem aút consilí quid capéssam?
+ita híc sola sólis locis compotita sum.
+hic sáxa sunt, hic máre sonat,
+neque quísquam homo mihi obviám venit.
+
+[omitted]
+hóc quod indúta sum, summae opes óppido,
+néc cibo néc loco técta quo sím scio:
+quaé mihist spés, qua me vívere velim?
+néc loci gnára sum, néc vidi aut híc fui.
+
+sáltem aliquém velim quí mihi ex hís locis
+aút viam aut sémitam mónstret, ita nunc
+hác an illác eam, incérta sum cónsili;
+néc prope usquam híc quidem cúltum agrum cónspicor.
+álgor, errór, pavor, me ómnia tenent.
+
+haéc parentés mei haud scítis miseri,
+me núnc miseram esse ita utí sum.
+líbera ego prognáta fui máxume, nequíquam fui.
+nunc quí minus servio, quám si servá forem náta?
+neque quícquam umquam illis prófuit qui mé sibi eduxérunt.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+* 220
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+Quid míhi meliust, quid mágis in remst, quam a córpore vitam ut sécludam?
+ita mále vivo atque ita míhi multae in pectóre sunt curae exánimales.
+ita rés se habent: vitae haú parco, perdidí spem qua me obléctabam.
+omnía iam circumcúrsavi atque omníbus latebris perréptavi
+
+quaerére conservam, vóce oculis auríbus ut pervestígarem.
+neque eam úsquam invenio néque quo eam neque quá quaeram consúltumst,
+neque quém rogitem respónsorem quemquam ínterea convénio,
+neque mágis solae terraé solae sunt quam haéc loca atque hae regiónes;
+neque sí vivit, eam víva umquam quin ínveniam desístam.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h2
+:END:
+
+Quóianam vox míhi prope hic sonat?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h3
+:END:
+
+Pértimui, quis híc loquitur prope?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h4
+:END:
+
+Spés bona, obsecro, súbventa mihi,
+éxime ex hóc miseram metu.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h5
+:END:
+
+Cérto vox múliebris aúris tetigít meas.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h6
+:END:
+
+Múlier est, múliebris vóx mi ad aurís venit.
+num Ámpelisca óbsecro est?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h7
+:END:
+
+Tén, Palaestra, aúdio?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h8
+:END:
+
+Quín voco, ut me aúdiat, nómine illám suo?
+Ámpelisca.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h9
+:END:
+
+Hém quis est?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h10
+:END:
+
+Ego, Palaestra  [omitted]
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h11
+:END:
+
+Díc ubi es?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h12
+:END:
+
+Pól ego nunc ín malis plúrimis.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h13
+:END:
+
+Sócia sum, néc minor párs meast quam tua.
+séd videre éxpeto té.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h14
+:END:
+
+Mihi es aémula.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h15
+:END:
+
+Cónsequamúr gradu vócem. ubi es?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h16
+:END:
+
+Écce me.
+áccede ad me átque adi cóntra.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h17
+:END:
+
+Fit sédulo.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h18
+:END:
+
+Cédo manum.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h19
+:END:
+
+Áccipe.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h20
+:END:
+
+Díc, vivisne? óbsecro.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h21
+:END:
+
+Tú facis mé quidem ut vívere núnc velim,
+quóm mihi té licet tángere. ut víx mihi
+crédo ego hoc, té tenere. óbsecro, ampléctere,
+spés mea. ut me ómnium iám laborúm levas.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h22
+:END:
+
+Óccupas praéloqui quaé mea orátiost.
+
+núnc abire hínc decet nós.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h23
+:END:
+
+Quo, amabo, íbimus?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h24
+:END:
+
+Lítus hoc pérsequamúr.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h25
+:END:
+
+Sequor quó lubet.
+sícine hic cum úvida véste grassábimur?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h26
+:END:
+
+Hóc quod est, íd necessárium est pérpeti.
+séd quid hoc, óbsecro, est?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h27
+:END:
+
+Quid?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h28
+:END:
+
+Víden, amabo,
+
+fanum videsne hóc?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h29
+:END:
+
+Vbi est?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h30
+:END:
+
+Ad déxteram.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h12-h31
+:END:
+
+Videó decorum dís locum vidérier.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h12-h32
+:END:
+
+Haud lónge abesse opórtet homines hínc, ita hic lepidúst locus.
+quísquis est deus, véneror ut nos éx hac aerumna éximat,
+míseras inopis aérumnosas út aliquo auxilio ádiuvet.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+* 259
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+** Ptolemocratia
+:PROPERTIES:
+:CUSTOM_ID: h14-h1
+:END:
+
+Qui súnt qui a patróna precés mea expetéssunt?
+nam vóx me precántum huc forás excitávit.
+bonam átque obsequéntem deam átque haud gravátam
+patrónam exsequontur benígnamque múltum.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h14-h2
+:END:
+
+Iubémus te sálvere, máter.
+
+** Ptolemocratia
+:PROPERTIES:
+:CUSTOM_ID: h14-h3
+:END:
+
+Salvéte,
+puéllae. sed únde
+vos íre cum uvida veste dicam, óbsecro, tam maéstiter vestítas?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h14-h4
+:END:
+
+Ílico hinc ímus, haud lóngule ex hóc loco;
+vérum longe hínc abest únde advectae húc sumus.
+
+** Ptolemocratia
+:PROPERTIES:
+:CUSTOM_ID: h14-h5
+:END:
+
+Némpe equo lígneo pér vias caérulas
+éstis vectae?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h14-h6
+:END:
+
+Ádmodum.
+
+** Ptolemocratia
+:PROPERTIES:
+:CUSTOM_ID: h14-h7
+:END:
+
+Ergo aéquius vós erat
+cándidatás venire hóstiatásque. ad hoc
+fánum ad istúnc modum nón venirí solet.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h14-h8
+:END:
+
+Quaéne eiectae é mari símus ambae, óbsecro,
+
+únde nos hóstias agere voluisti huc?
+núnc tibi ampléctimur génua egentés opum,
+quae ín locis nésciis néscia spé sumus,
+út tuo récipias técto servésque nos
+míseriarúmque te ambárum uti mísereat,
+
+quibús nec locúst ullus néc spes parata,
+neque hóc ampliús, quam quod vidés, nobis quícquamst.
+
+** Ptolemocratia
+:PROPERTIES:
+:CUSTOM_ID: h14-h9
+:END:
+
+Manús mihi date, éxurgite á genibus ámbae.
+miséricordiór nulla me ést feminárum.
+sed haéc pauperés res sunt inopesque, puellae:
+
+egomét meam vix vitám colo; Venerí cibo meo sérvio.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h14-h10
+:END:
+
+Venerís fanum, obsecro, hóc est?
+
+** Ptolemocratia
+:PROPERTIES:
+:CUSTOM_ID: h14-h11
+:END:
+
+Fateór. ego huius fáni sacérdos clueo.
+verúm, quidquid ést, comitér fiet á me,
+quo núnc copia valebit.
+
+ite hác mecum.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h14-h12
+:END:
+
+Amíce benígneque honórem,
+matér, nostrum habés.—
+
+** Ptolemocratia
+:PROPERTIES:
+:CUSTOM_ID: h14-h13
+:END:
+
+Oportet.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+* 290
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+** Piscatores
+:PROPERTIES:
+:CUSTOM_ID: h17-h1
+:END:
+
+Omníbus modis qui paúperes sunt hómines miseri vívont,
+praesertim quibus nec quaestus est, nec didicere artem ullam:
+necessitate quidquid est domi id sat est habendum.
+nos iam de ornatu propemodum ut locupletes simus scitis:
+
+hisce hami atque haec harundines sunt nobis quaestu et cultu.
+[omitted]  ex urbe ad mare huc prodimus pabulatum:
+pro exercitu gymnastico et palaestrico hoc habemus;
+echinos, lopadas, ostreas, balanos captamus, conchas,
+marinam urticam, musculos, plagusias striatas;
+
+post id piscatum hamatilem et saxatilem aggredimur.
+cibum captamus e mari: si eventus non evenit
+neque quicquam captumst piscium, salsi lautique pure
+domum redimus clanculum, dormimus incenati.
+atque ut nunc valide fluctuat mare, nulla nobis spes est:
+
+nisi quid conclarum capsimus, incenati sumus profecto.
+nunc Venerem hanc veneremur bonam, ut nos lepide adiuerit hodie.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+* 306
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h19-h1
+:END:
+
+Animum adversavi sedulo, ne erum usquam praeterirem;
+nam cum modo exibat foras, ad portum se aibat ire,
+me huc obviam iussit sibi venire ad Veneris fanum.
+sed quos perconter commode eccos video astare. adibo.
+
+salvete, fures maritimi, conchitae atque hamiotae,
+famelica hominum natio. quid agitis? ut peritis?
+
+** Piscatores
+:PROPERTIES:
+:CUSTOM_ID: h19-h2
+:END:
+
+Vt piscatorem aequomst, fame sitique speque  [omitted]
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h19-h3
+:END:
+
+[omitted]  ecquem adulescentem
+huc, dum hic astatis, strenua facie rubicundum fortem,
+
+qui tres secum homines duceret chlamydatos cum machaeris,
+vidistis vos venire  [omitted]  ?  [omitted]
+
+** Piscatores
+:PROPERTIES:
+:CUSTOM_ID: h19-h4
+:END:
+
+Nullum istac facie ut praedicas venisse huc scimus.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h19-h5
+:END:
+
+Ecquem
+recalvom ac silanum senem, statutum, ventriosum,
+tortis superciliis, contracta fronte, fraudulentum,
+
+deorum ódium atque hominum, málum, mali viti probrique plenum,
+qui duceret mulierculas duas sécum satis venustas?
+
+** Piscatores
+:PROPERTIES:
+:CUSTOM_ID: h19-h6
+:END:
+
+Cum istius modi virtutibus operisque natus qui sit,
+eum quídem ad carnificem est aequius quam ad Venerem commeare.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h19-h7
+:END:
+
+At si vidistis, dicite.
+
+** Piscatores
+:PROPERTIES:
+:CUSTOM_ID: h19-h8
+:END:
+
+Huc profecto nullus venit.
+
+vale.—
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h19-h9
+:END:
+
+Valete. credidi: factum est quod suspicabar,
+data verba ero sunt, leno abit scelestus exulatum,
+in navem ascendit, mulieres avexit: hariolus sum.
+is huc erum etiam ad prandium vocavit, sceleris semen.
+nunc quid mihi meliust, quam ilico hic opperiar erum dum veniat?
+
+eadém, sacerdos Veneria haec sí quid amplius scit,
+si videro, exquisivero: faciet me certiorem.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+* 331
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h1
+:END:
+
+Intellego: hanc quae proxuma est víllam Veneris fano
+pulsare iussisti atque aquam rogare.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h2
+:END:
+
+Cuia ad auris
+vox mi advolavit?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h3
+:END:
+
+Obsecro, quis hic loquitur? quém ego video?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h4
+:END:
+
+Estne Ampelisca haec quae foras e fano egreditur?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h5
+:END:
+
+Estne hic
+
+Trachalio, quem conspicor, calator Plesidippi?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h6
+:END:
+
+East.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h7
+:END:
+
+Is est. Trachalio, salve.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h8
+:END:
+
+Salve, Ampelisca.
+quid agis tu?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h9
+:END:
+
+Aétatem haud malam male.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h10
+:END:
+
+Melius ominare.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h11
+:END:
+
+Verum omnes sapientes decet conferre et fabulari.
+sed Plesidippus tuos erus ubi, amabo, est?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h12
+:END:
+
+Heia vero,
+
+quasi non sit intus.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h13
+:END:
+
+Neque pol est neque huc quidem ullus venit.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h14
+:END:
+
+Non venit?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h15
+:END:
+
+Vera praedicas.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h16
+:END:
+
+Non est meum, Ampelisca.
+sed quam mox coctum est prandium?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h17
+:END:
+
+Quod prandium, obsecro te?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h18
+:END:
+
+Nempe rém divinam facitis hic.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h19
+:END:
+
+Quid somnias, amabo?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h20
+:END:
+
+Certe huc Labrax ad prandium vocavit Plesidippum
+
+erúm meum erus vestér.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h21
+:END:
+
+Pol haud miranda facta dicis:
+si deos decepit et homines, lenonum more fecit.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h22
+:END:
+
+Non rem divinam facitis hic vos neque erus?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h23
+:END:
+
+Hariolare.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h24
+:END:
+
+Quid tu agis hic igitur?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h25
+:END:
+
+Ex malis multis metuque summo
+capitalique ex periculo orbas auxilique opumque huc
+
+recepit ad se Veneria haec sacerdos me et Palaestram.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h26
+:END:
+
+An hic Palaestrast, obsecro, erí mei amica?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h27
+:END:
+
+Certo.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h28
+:END:
+
+Inest lepos in nuntio tuo mágnus, mea Ampelisca.
+sed istúc periclum perlubet quod fuerit vobis scire.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h29
+:END:
+
+Confracta est, mi Trachalio, hac nocte navis nobis.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h30
+:END:
+
+Quid navis? quae istaec fabulast?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h31
+:END:
+
+Non audivisti, amabo,
+quo pacto leno clanculum nos hinc auferre voluit
+in Siciliam et quidquid domi fuit in navem imposivit?
+ea nunc perierunt omnia.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h32
+:END:
+
+Oh, Neptune lepide, salve,
+nec te aleator nullus est sapientior; profecto
+
+nimis lépide iecisti bolum: periurum perdidisti.
+sed nunc ubi est leno Labrax?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h33
+:END:
+
+Periit potando, opinor.
+Neptunus magnis poculis hac nocte eum invitavit.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h34
+:END:
+
+Credo hercle anancaeo datum quod biberet. ut ego amo te,
+mea Ampelisca, ut dulcis es, ut mulsa dicta dicis.
+
+sed tu et Palaestra quomodo salvae estis?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h35
+:END:
+
+Scibis faxo.
+de navi timidae ambae in scapham insiluimus, quia videmus
+ad saxa navem ferrier; properans exsolvi restim,
+dum illi timent; nos cum scapha tempestas dextrovorsum
+differt ab illis. itaque nos ventisque fluctibusque
+
+iactatae exemplis plurimis miserae perpetuam noctem;
+vix hodie ad litus pertulit nos ventus exanimatas.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h36
+:END:
+
+Novi, Neptunus ita solet, quamvis fastidiosus
+aedilis est: si quae improbae sunt merces, iactat omnis.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h37
+:END:
+
+Vae capiti atque aetati tuae.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h38
+:END:
+
+Tuo, mea Ampelisca.
+
+scivi lenonem facere hóc, quod fecit, saepe dixi;
+capillum promittam optimumst occipiamque hariolari.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h39
+:END:
+
+Cavistis ergo tu atque erus ne abiret, cum scibatis.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h40
+:END:
+
+Quid faceret?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h41
+:END:
+
+Sí amabat, rogas, quid faceret? adservaret
+dies nóctesque, in custodia esset semper. verum ecastor
+
+ut multi fecit ita probe curavit Plesidippus.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h42
+:END:
+
+Cur tu istuc dicis?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h43
+:END:
+
+Res palam est.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h44
+:END:
+
+Scin tu? etiam qui it lavatum
+in balineas, cum ibi sedulo sua vestimenta servat,
+tamen surripiuntur, quippe qui quem illorum observet falsust;
+fur facile qui observat videt: custos qui fur sit nescit.
+
+sed duce me ad illam ubi est.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h45
+:END:
+
+I sane in Veneris fanum huc intro,
+sedentem flentemque opprimes.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h46
+:END:
+
+Vt iam istuc mihi molestumst.
+sed quid flet?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h47
+:END:
+
+Ego dicam tibi: hoc sése excruciat animi,
+quia leno ademit cistulam ei, quam habebat ubique habebat
+qui suos parentis noscere possét: eam veretur
+
+ne perierit.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h48
+:END:
+
+Vbinam ea fuit cistellula?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h49
+:END:
+
+Ibidem in navi.
+conclusit ipse in vidulum, ne copia esset eius,
+qui suos parentes nosceret.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h50
+:END:
+
+O facinus impudicum,
+quam liberam esse oporteat servire postulare.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h51
+:END:
+
+Nunc eam cum navi scilicet abiisse pessum in altum.
+
+et aurum et argentum fuit lenonis omne ibidem.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h52
+:END:
+
+Credo aliquem immersisse atque eum excepisse.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h53
+:END:
+
+Id misera maestast,
+sibi eorum evenisse inopiam.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h54
+:END:
+
+Iam istoc magis usus factost,
+ut eam intro consolerque eam, ne sic se excruciet animi;
+nam multa praeter spem scio multis bona evenisse.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h55
+:END:
+
+At ego étiam, qui speraverint spem decepisse multos.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h21-h56
+:END:
+
+Ergo animus aequos optimum est aerumnae condimentum.
+ego eo intro, nisi quid vis.—
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h21-h57
+:END:
+
+Eas. ego quod mihi imperavit
+sacerdos, id faciam atque aquam hinc de proximo rogabo;
+nam extemplo, si verbis suis peterem, daturos dixit.
+
+neque digniorem censeo vidisse anum me quemquam,
+cui deos atque homines censeam bene facere magis decere.
+ut lepide, ut liberaliter, ut honeste atque haud gravate
+timidas egentes uvidas eiectas exanimatas
+accepit ad sese, haud secus quam si ex se simus natae;
+
+ut eapse sic succincta aquam calefactat, ut lavemus.
+nunc ne morae illi sim, petam hinc aquam, unde mi imperavit.
+heus ecquis in víllast? ecquis hoc recludit? ecquis prodit?
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+* 414
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h1
+:END:
+
+Quís est qui nostris tám proterve fóribus facit iniúriam?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h2
+:END:
+
+Égo sum.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h3
+:END:
+
+Hem, quid hoc boni est? eu edepol specie lepida mulierem.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h4
+:END:
+
+Salve, adulescens.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h5
+:END:
+
+Et tu multum salveto, adulescentula.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h6
+:END:
+
+Ad vos venio.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h7
+:END:
+
+Accipiam hospitio, si mox venies  [omitted]
+
+item ut adfectam; nam nunc nihil est qui te manem  [omitted]
+sed quid ais, meá lepida, hilara?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h8
+:END:
+
+Aha, nimium familiariter
+me attrectas.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h9
+:END:
+
+Pro di immortales, Veneris effigia haec quidem est.
+ut in ocellis hilaritudo est, heia, corpus cuius modi,
+subvolturium—illud quidem, subaquilum volui dicere.
+
+vel papillae cuius modi, tum quae indoles in saviost.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h10
+:END:
+
+Non ego sum pollucta pago. potin ut me abstineas manum?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h11
+:END:
+
+Non licet saltem sic placide bellam belle tangere?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h12
+:END:
+
+Otium ubi erit, tum tibi operam ludo et deliciae dabo;
+nunc quam ob rem huc sum missa, amabo, vel tu mi aias vel neges.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h13
+:END:
+
+Quid nunc vis?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h14
+:END:
+
+Sapienti ornatus quid velim indicium facit.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h15
+:END:
+
+Meus quoque hic sapienti ornatus quid velim indicium facit.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h16
+:END:
+
+Haec sacerdos Veneris hinc me petere aquam iussit a vobis. †
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h17
+:END:
+
+At ego basilicus sum: quem nisi oras, guttam non feres.
+nostro illum puteum periclo et ferramentis fodimus.
+
+nisi multis blanditiis a me gutta non ferri potest.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h18
+:END:
+
+Cur tu aquam gravare, amabo, quam hostis hosti commodat?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h19
+:END:
+
+Cur tu operam gravare mihi quam civis civi commodat?
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h20
+:END:
+
+Immo etiam tibi, mea voluptas, quae voles faciam omnia.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h21
+:END:
+
+Eugepae, salvos sum, haec iam me suam voluptatem vocat.
+
+dabitur tibi aqua, ne nequiquam mé ames. cedo mi urnam.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h22
+:END:
+
+Cape.
+propera, amabo, efferre.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h23-h23
+:END:
+
+Manta, iam hic ero, voluptas mea.—
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h23-h24
+:END:
+
+Quid sacerdoti me dicam hic demoratam tam diu?
+ut etiam nunc misera timeo, ubi oculis intueor mare.
+sed quid ego misera video procul in litore?
+
+meum erum lenonem Siciliensemque hospitem,
+quos periisse ambos misera censebam in mari.
+iam illud mali plus nobis vivit quam ratae.
+sed quid ego cesso fugere in fanum ac dicere haec
+Palaestrae, in aram ut confugiamus prius quam huc†
+
+scelestus leno veniat nosque hic opprimat?
+confugiam huc, ita res suppetit subit  [omitted]
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+* 458
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h25-h1
+:END:
+
+Pro di immortales, in aqua numquam credidi
+voluptátem inesse tantam. ut hanc traxi lubens.
+nimio minus altus puteus visust quam prius.
+ut sine labore hanc extraxi, praefiscine.
+
+satin néquam sum, ut pote qui hodie amare inceperim?
+em tibi aquam, mea tu belliata. em sic volo
+te ferre honeste, ut ego fero, ut placeas mihi.
+sed ubi tu es, delicata? cape aquam hanc sis. ubi es?
+amat hercle me, ut ego opinor. delituit mala.
+
+ubi tu es? etiamne hanc urnam acceptura es? ubi es?
+commodule ludis. tandem vero serio,
+etiam acceptura es urnam hanc? ubi tu es gentium?
+nusquam hercle equidem illam video. ludos me facit.
+adponam hercle urnam iám ego hanc in media via.
+
+sed autem, quid si hanc hinc abstulerit quispiam,
+sacram urnam Veneris? mi exhibeat negotium.
+metuo hercle ne illa mulier mi insidias locet,
+ut comprehendar cum sacra urna Veneria.
+nempe optimo me iure in vinclis enicet
+
+magistrátus si quis me hanc habere viderit.
+nam haec litteratast, eapse cantat cuia sit.
+iam hercle evocabo hinc hanc sacerdotem foras,
+ut hanc accipiat urnam. accedam huc ad fores.
+heus exi, Ptolemocratia, cape hanc urnam tibi:
+
+muliercula hanc nescio quae huc ad me detulit.
+intro ferundast. repperi negotium,
+siquidem hís mihi ultro ádgerunda etiam est aqua.—
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+* 485
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h1
+:END:
+
+Qui homo sese miserum et mendicum volet,†
+Neptuno credat sese atque aetatem suam:
+nam si quis cúm eo quid rei commiscuit,
+ad hoc exemplum amittit ornatum domum.
+
+edepol, Libertas, lepida es, quae numquam pedem
+voluisti in navem cum Hercule una imponere.
+sed ubi ille meus est hospes, qui me perdidit?
+atque eccum incedit.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h2
+:END:
+
+Quo malum properas, Labrax?
+nam equidem te nequeo consequi tam strenue.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h3
+:END:
+
+Vtinam te prius quam óculis vidissem meis,
+malo cruciatu in Sicilia perbiteres,
+quem propter hoc mihi optigit misero mali.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h4
+:END:
+
+Vtinam, quom in aedis me ad te adduxisti tuas,
+in carcere illo potius cubuissem die.
+
+deosque ímmortales quaeso, dum vivas uti
+omnes tui símiles hospites habeas tibi.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h5
+:END:
+
+Malam fortunam in aedis te adduxi meas.
+quid mihi scelesto tibi erat auscultatio,
+quidve hinc abitio quidve in navem inscensio?
+
+ubi perdidi etiam plus boni quam mihi fuit.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h6
+:END:
+
+Pol minime miror, navis si fractast tibi,
+scelus te ét sceleste parta quae vexit bona.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h7
+:END:
+
+Pessum dedisti me blandimentis tuis.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h8
+:END:
+
+Scelestiorem cenam cenavi tuam,
+
+quam quae Thyestae quondam aut posita est Tereo.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h9
+:END:
+
+Perii, animo male fit. contine quaeso caput.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h10
+:END:
+
+Pulmoneum edepol nimis velim vomitum vomas.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h11
+:END:
+
+Eheu, Palaestra atque Ampelisca, ubi estis nunc?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h12
+:END:
+
+Piscibus in alto, credo, praebent pabulum.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h13
+:END:
+
+Mendicitatem mi optulisti opera tua,
+dum tuis ausculto magnidicis mendaciis.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h14
+:END:
+
+Bonam est quod habeas gratiam merito mihi,
+qui te ex insulso salsum feci opera mea.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h15
+:END:
+
+Quin tu hinc is a me in maxumam malam crucem?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h16
+:END:
+
+Eas. easque res agebam commodum.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h17
+:END:
+
+Eheu, quis vivit me mortalis miserior?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h18
+:END:
+
+Ego multo tanto miserior quam tu, Labrax.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h19
+:END:
+
+Qui?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h20
+:END:
+
+Quia ego indignus sum, tu dignus qui sies.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h21
+:END:
+
+O scirpe, scirpe, laudo fortunas tuas,
+
+qui semper servas gloriam aritudinis.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h22
+:END:
+
+Equidem me ad velitationem exerceo,
+nam omnia corusca prae temore fabulor.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h23
+:END:
+
+Edepol, Neptune, es balineator frigidus:
+cum vestimentis postquam aps té abii, algeo.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h24
+:END:
+
+Ne thermipolium quidem ullum ínstruit,
+ita salsam praehibet potionem et frigidam.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h25
+:END:
+
+Vt fortunati sunt fabri ferrarii,
+qui apud carbones adsident: semper calent.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h26
+:END:
+
+Vtinam fortuna nunc anetina úterer,
+
+ut quom exiissem éx aqua, arerem tamen.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h27
+:END:
+
+Quid si aliquo ad ludos me pro manduco locem?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h28
+:END:
+
+Quapropter?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h29
+:END:
+
+Quia pol clare crepito dentibus.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h30
+:END:
+
+Iure optumo me élavisse árbitror.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h31
+:END:
+
+Qui?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h32
+:END:
+
+Qui una auderem tecum in navem ascendere,
+
+qui a fundamento mi usque movisti mare.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h33
+:END:
+
+Tibi auscultavi, tu promittebas mihi
+illi esse quaestum maximum meretricibus,
+ibi me conruere posse aiebas ditias.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h34
+:END:
+
+Iam postulabas te, impurata belua,
+
+totam Siciliam devoraturum insulam?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h35
+:END:
+
+Quaenam ballaena meum voravit vidulum,
+aurum atque argentum ubi omne compactum fuit?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h36
+:END:
+
+Eadem illa, credo, quae meum marsuppium,
+quod plenum argenti fuit in sacciperio.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h37
+:END:
+
+Eheu, redactus sum usque ad unam hanc tuniculam
+et ad hoc misellum pallium. perii oppido.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h38
+:END:
+
+Vel consociare mihi quidem tecum licet:
+aequas habemus partes.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h27-h39
+:END:
+
+Saltem si mihi
+mulierculae essent salvae, spes aliquae forent.
+
+nunc si me adulescens Plesidippus viderit,
+quo ab arrabonem pro Palaestra acceperam,
+iam is exhibebit hic mihi negotium.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h27-h40
+:END:
+
+Quid, stulte, ploras? tibi quidem edepol copiast,
+dum lingua vivet, qui rem solvas omnibus.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 559
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h29-h1
+:END:
+
+Quíd illuc, opsecro, negotist quod duae mulierculae
+hic in fano Veneris signum flentes amplexae tenent,
+nescio quém metuentes miserae? nocte hac aiunt proxuma
+se iactatas, atque eiectas hodie esse aiunt e mari.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h29-h2
+:END:
+
+Opsecro hercle, adulescens, ubi istaec sunt quas memoras mulieres?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h29-h3
+:END:
+
+Hic in fano Veneris.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h29-h4
+:END:
+
+Quot sunt?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h29-h5
+:END:
+
+Totidem quot ego et tu sumus.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h29-h6
+:END:
+
+Nempe meae?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h29-h7
+:END:
+
+Nempe néscio istuc.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h29-h8
+:END:
+
+Qua sunt facie?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h29-h9
+:END:
+
+Scitula.
+vel ego amare utramvis possum, si probe adpotus siem.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h29-h10
+:END:
+
+Nempe puellae?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h29-h11
+:END:
+
+Nempe moléstus es. i vise, si lubet.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h29-h12
+:END:
+
+Meas oportet intus esse hic mulieres, mi Charmides.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h29-h13
+:END:
+
+Iuppiter te perdat, et si sunt, et si non sunt tamen.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h29-h14
+:END:
+
+Intro rumpam iam huc in Veneris fanum.—
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h29-h15
+:END:
+
+In barathrum mavelim.
+opsecro, hospes, da mihi aliquid ubi condormiscam loci.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h29-h16
+:END:
+
+Istic ubi vis condormisce; nemo prohibet, publicum est.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h29-h17
+:END:
+
+At vides me ornatus ut sim vestimentis uvidis:
+recipe me in tectum, da mihi vestimenti aliquid aridi,
+dum arescunt mea; ín aliquo tibi gratiam referam loco.
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h29-h18
+:END:
+
+Tegillum eccillud, mihi unum id aret; id si vis, dabo:
+eodem amictus, eodem tectus esse soleo, si pluit.
+
+tu istaec mihi dato: exarescent faxo.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h29-h19
+:END:
+
+Eho an te paenitet,
+in mari quod elavi, ni híc in terra iterum eluam?
+
+** Sceparnio
+:PROPERTIES:
+:CUSTOM_ID: h29-h20
+:END:
+
+Eluas tu an exunguare, ciccum non interduim.
+tibi ego numquam quicquam credam, nisi si accepto pignore.
+tu vel suda vel peri algu, vel tu aegrota vel vale.
+
+barbarum hospitem mi in aedis nil moror. sat litiumst.—
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h29-h21
+:END:
+
+Iamne abis? venalis illic ductitavit, quisquis est;
+non est misericors. sed quid ego hic asto infelix uvidus?
+quin abeo huc in Veneris fanum, ut edormiscam hanc crapulam,
+quam potavi praeter animi quam libuit sententiam?
+
+quasi vinis Graecis Neptunus nobis suffudit mare,
+itaque alvom prodi speravit nobis salsis poculis;
+quid opust verbis? si invitare nos paulisper pergeret,
+ibidem obdormissemus: nunc vix vivos amisit domum.
+nunc lenonem quid agat intus visam, convivam meum.—
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+* 593
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h32-h1
+:END:
+
+Miris modis di ludos faciunt hominibus:
+mirisque exemplis somnia in somnis danunt
+ne dormientis quidem sinunt quiescere.
+velut ego hac nocte quae praecessit proxima
+
+mirum atque inscitum somniavi somnium.
+ad hirundininum nidum visa est simia
+ascensionem ut faceret admolirier
+[omitted]
+neque eas eripere quibat inde. postibi
+
+videtur ad me simia adgredirier,
+rogare scalas ut darem utendas sibi.
+ego ad hoc exemplum simiae respondeo,
+[omitted]
+natas ex Philomela † atque ex Progne esse hirundines.
+
+ago cum ílla, ne quid noceat meis popularibus.
+atque illa ánimo iam fieri ferocior;
+videtur ultro mihi malum minitarier.
+in ius vocat med. ibi ego nescio quo modo
+iratus videor mediam arripere simiam;
+
+concludo in vincla bestiam nequissimam.
+nunc quam ad rem dicam hoc attinere somnium,
+numquam hodie quivi ad coniecturam evadere.
+sed quid hic in Veneris fano meae viciniae
+clamoris oritur? animus miratur meus.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+* 615
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h1
+:END:
+
+Pró Cyrenenses populares, vostram ego imploro fidem,
+agricolae, accolae propinqui qui estis his regionibus,
+ferte opem inopiae atque exemplum pessumum pessum date.
+vindicate, ne impiorum potior sit pollentia
+
+quam innocentum, qui se scelere fieri nolunt nobiles.
+statuite exemplum impudenti, date pudori praemium,
+facite hic lege potius liceat quam vi victo vivere.
+currite huc in Veneris fanum, vostram iterum imploro fidem,
+qui prope hic adestis quique auditis clamorem meum,
+
+ferte suppetias qui Veneri Veneriaeque antistitae
+more antiquo in custodelam suom commiserunt caput,
+praetorquete iniuriae prius cóllum quam ad vos pervenat.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h2
+:END:
+
+Quid istuc est negoti?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h3
+:END:
+
+Per ego haec genua te optestor, senex,
+quisquis es—
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h4
+:END:
+
+Quin tu ergo omitte genua et quid sit mi expedi
+
+quod tumultues.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h5
+:END:
+
+Teque oro et quaeso, si speras tibi
+hoc anno multum futurum sirpe et laserpicium
+eamque eventuram exagogam Capuam salvam et sospitem,
+atque ab lippitudine usque siccitas ut sit tibi,
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h6
+:END:
+
+Sanun es?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h7
+:END:
+
+Seu tibi confidis fore multam magudarim
+
+ut te ne pigeat dare operam mihi quod te orabo, senex.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h8
+:END:
+
+At ego te per crura et talos tergumque obtestor tuom,
+ut, tibi ulmeam ni deesse speres virgidemiam
+et tibi eventuram hoc anno úberem messem mali,
+ut mi istuc dicas negoti quid sit, quod tumultues.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h9
+:END:
+
+Qui lubet maledicere? equidem tibi bona optavi omnia.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h10
+:END:
+
+Bene equidem tibi dico, qui te digna ut eveniant precor.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h11
+:END:
+
+Obsecro, hoc praevortere ergo.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h12
+:END:
+
+Quid negotist?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h13
+:END:
+
+Mulieres
+duae innocentes intus hic sunt, tui indigentes auxili,
+quibus advorsum ius legesque ínsignite iniuria hic
+
+facta est fitque in Veneris fano; tum sacerdos Veneria
+indigne adflictatur.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h14
+:END:
+
+Quis homo est tanta confidentia,
+qui sacerdotem violare aúdet? sed eae mulieres
+quae sunt? aut quid is iniqui fit?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h15
+:END:
+
+Si das operam, eloquar.
+Veneris signum sunt amplexae. nunc homo audacissimus
+
+eas deripere volt. eas ámbas esse oportet liberas.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h16
+:END:
+
+Quis istic est qui deos tam parvi pendit? paucis expedi.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h17
+:END:
+
+Fraudis sceleris parricidi periuri plenissimus,
+legirupa impudens impurus inverecundissimus,
+uno verbo absolvam, lenost: quid illum porro praedicem?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h18
+:END:
+
+Edepol infortunio hominem praedicas donabilem.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h19
+:END:
+
+Qui sacerdoti scelestus faucis interpresserit.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h20
+:END:
+
+At malo cum magno suo fecít hercle. ite istinc foras,
+Turbalio, Sparax. ubi estis?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h21
+:END:
+
+I obsecro intro, subveni
+illis.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h22
+:END:
+
+Iterum haud imperabo. sequimini hac.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h23
+:END:
+
+Age nunciam,
+
+iube oculos elidere, itidem ut sepiis faciunt coqui.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h34-h24
+:END:
+
+Proripite hominem pedibus huc itidem quasi occisam suem.—
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h34-h25
+:END:
+
+Audio tumultum. opinor, leno pugnis pectitur.
+nimis velim improbissimo homini malas edentaverint.
+sed eccas ipsae huc egrediuntur timidae e fano mulieres.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 664
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+Núnc id est cum ómnium cópiarum átque opum,
+aúxili, praésidi víduitas nós tenet.
+núlla nunc spéculast quaé salutem áfferat,
+néc quam in partem íngredi pérsequamur
+
+scímus: tanto ín metu núnc sumus ambae,
+tánta importúnitas tántaque iniúria
+fácta in nos ést modo hic íntus ab nóstro ero,
+quí scelestús sacerdótem anum praécipes
+réppulit própulit pérquam indignís modis
+
+nósque ab signo íntimo ví deripuít sua.
+séd nunc sese út ferunt rés fortunaéque nostrae,
+pár moriri ést. neque est mélius morte ín malis,
+rébus miserís.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h36-h2
+:END:
+
+Quid est? quae íllaec orátiost?
+césso ego has cónsolari? heús, Palaestra!
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h36-h3
+:END:
+
+Quí vocat?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h36-h4
+:END:
+
+Ámpelisca.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h36-h5
+:END:
+
+Óbsecro, quis est qui vocat?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h36-h6
+:END:
+
+Quís is est qui nóminat?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h36-h7
+:END:
+
+Sí respexís, scies.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h36-h8
+:END:
+
+Ó salutís meae spés.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h36-h9
+:END:
+
+Tace ac bóno animo es.
+mé vide.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h36-h10
+:END:
+
+Sí modo id líceat, vis ne ópprimat,
+quaé vis vim mi áfferam ipsa ádigit.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h36-h11
+:END:
+
+Ah, désine, nímis inepta es.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h36-h12
+:END:
+
+Desíste dictis núnciam miserám me consolári;
+nisi quid re praesidium apparas, Trachalio, acta haec res est.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h36-h13
+:END:
+
+Certumst moriri quam hunc pati saevire lenonem in me.
+sed muliebri animo sum tamen: miserae quom venit in mentem
+mihi mortis, metus membra occupat. edepol  [omitted]  hunc acerbum.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h36-h14
+:END:
+
+Bonum animum habete.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h36-h15
+:END:
+
+Nam, obsecro, unde ánimus mi invenitur?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h36-h16
+:END:
+
+Ne, inquam, timete; adsidite hic in ara.
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h36-h17
+:END:
+
+Quid istaec ara
+prodesse nobis plus potest quam signum in fano hic intus
+Veneris, quod amplexae modo, unde abreptae per vim miserae?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h36-h18
+:END:
+
+Sedete hic modo, ego hinc vós tamen tutabor. aram habete hanc
+
+vobis pro castris, moenia hinc égo vos defensabo;
+praesidio Veneris malitiae lenonis contra incedam.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h36-h19
+:END:
+
+Tibi auscultamus et, Venús alma, ambae te obsecramus,
+aram amplexantes hanc tuam lacrumantes, genibus nixae,
+in custodelam nos tuam ut recipias et tutere;
+
+illos scelestos, qui tuom fecerunt fanum parvi,
+fac ut ulciscare nosque ut hanc tua páce aram obsidere
+patiare: elautae ambae sumus opera Neptuni noctu,
+ne invisas habeas neve idcirco nobis vitio vortas,
+si quippiamst, minus quód bene esse lautum tu arbitrare.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h36-h20
+:END:
+
+Venus, aequom has petere intellego: decet abs te id impetrari;
+ignoscere his te convenit: metus has id ut fáciant subigit.
+te ex concha natam esse autumant, cave tu hárum conchas spernas.
+sed optume eccum exit senex, patronus mihique et vobis.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 706
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+Éxi e fano, natum quantum est hominum sacrilegissime.
+vos in aram abite sessum. sed ubi sunt?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+Huc respice.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+Optume, istuc volueramus. iube modo accedat prope.
+tun legirupionem hic nobis cum dis facere postulas?
+
+pugnum in os impinge.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+Iniqua haec patior cum pretio tuo.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h5
+:END:
+
+At etiam minitatur audax?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h6
+:END:
+
+Ius meum ereptum est mihi,
+meas mihi ancillas invito me eripis.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h7
+:END:
+
+Cedo iudicem
+de senatu Cyrenensi quemvis opulentum virum,
+si tuas ésse oportet nive eas ésse oportet liberas
+
+nive in carcerem compingi te est aequom aetatemque ibi
+te usque habitare, donec totum carcerem contriveris.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h8
+:END:
+
+Non hodie isti rei auspicavi, ut cum furcifero fabuler.
+té ego appello.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h9
+:END:
+
+Cum istoc primum, qui te novit, disputa.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h10
+:END:
+
+Tecum ago.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h11
+:END:
+
+At qui mecum agendumst. suntne illae ancillae tuae?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h12
+:END:
+
+Sunt.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h13
+:END:
+
+Agedum ergo, tange utramvis digitulo minimo modo.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h14
+:END:
+
+Quid si attigero?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h15
+:END:
+
+Extemplo hercle ego te follem pugilatorium
+faciam et pendentem incursabo pugnis, periurissime.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h16
+:END:
+
+Mihi non liceat meas ancillas Veneris de ara abducere?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h17
+:END:
+
+Non licet: est lex apud nos—
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h18
+:END:
+
+Mihi cum vestris legibus
+
+nil quicquamst commerci. equidem istas iam ambas educam foras.
+tu, senex, si istas amas, huc arido argentost opus;
+si autem Veneri complacuerunt, habeat, si argentum dabit.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h19
+:END:
+
+Det tibi argentum? nunc adeo meam ut scias sententiam,
+occipito modo illís adferre vim ioculo pausillulum,
+
+ita ego te hinc ornatum amittam, tu ipsus te ut non noveris.
+vos adeo, ubi ego innuero vobis, ni ei caput exoculassitis,
+quasi murteta iunci, item ego vos virgis circumvinciam.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h20
+:END:
+
+Ví agis mecum.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h21
+:END:
+
+Etiam vim †proportas, flagiti flagrantia?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h22
+:END:
+
+Tun, trifurcifer, mihi audes inclementer dicere?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h23
+:END:
+
+Fateor, ego trifurcifer sum, tu es homo adprime probus:
+numqui minus hasce esse oportet liberas?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h24
+:END:
+
+Quid, liberas?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h25
+:END:
+
+Atque eras tuas quidem hercle, atque ex germana Graecia;
+nam altera haec est nata Athenis ingenuis parentibus.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h26
+:END:
+
+Quid ego ex te audio?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h27
+:END:
+
+Hanc Athenis esse natam liberam.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h28
+:END:
+
+Mea popularis, obsecro, haec est?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h29
+:END:
+
+Non tu Cyrenensis es?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h30
+:END:
+
+Immo Athenis natus altusque educatusque Atticis.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h31
+:END:
+
+Opsecro, defende cives tuas, senex.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h32
+:END:
+
+O filia
+mea, quom hanc video, mearum me absens miseriarum commones;
+trima quae periit mihi, iam tanta esset, si vivit, scio.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h33
+:END:
+
+Argentum ego pro istisce ambabus cuiae erant domino dedi;
+quid mea réfert, haec Athenis natae án Thebis sient,
+dum mihi recte servitutem serviant?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h34
+:END:
+
+Itane, impudens?
+tune hic, feles virginalis, liberos parentibus
+sublectos habebis atque indigno quaestu conteres?
+
+nam húic alterae quae patria sit profecto nescio,
+nisi scio probiorem hanc esse, quam te, impuratissime.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h35
+:END:
+
+†Tuae istae sunt.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h36
+:END:
+
+Contende ergo, uter sit tergo—verior:
+ni offerumentas habebis pluris in tergo tuo,
+quam ulla navis longa clavos, tum ego ero mendacissimus:
+
+postea aspicito meum, quando ego tuom inspectavero:
+ní erit tam sincerum, ut quivis dicat ampullarius
+optimum esse operi faciundo corium et sincerissimum,
+quid causae est quin virgis te usque ad saturitatem sauciem?
+quid illas spectas? quas si attigeris, oculos eripiam tibi.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h37
+:END:
+
+At qui, quia votas, utramque iam mecum abducam simul.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h38
+:END:
+
+Quid facies?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h39
+:END:
+
+Volcanum adducam, is Venerist adversarius.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h40
+:END:
+
+Quo illic it?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h41
+:END:
+
+Heus, ecquis hic est? heus.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h42
+:END:
+
+Si attigeris ostium,
+iam hercle tibi messis in ore fiet mergis pugneis.
+
+** Lorarivs
+:PROPERTIES:
+:CUSTOM_ID: h38-h43
+:END:
+
+Nullum habemus ignem, ficis victitamus aridis.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h44
+:END:
+
+Ego dabo ignem, siquidem in capite tuo conflandi copiast.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h45
+:END:
+
+Ibo hercle aliquo quaeritatum ígnem.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h46
+:END:
+
+Quid quom inveneris?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h47
+:END:
+
+Ignem magnum hic faciam.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h48
+:END:
+
+Quin † inhumanum exuras tibi?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h38-h49
+:END:
+
+Immo hasce ambas hic in ara ut vivas comburam, id volo.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h50
+:END:
+
+Iam hercle ego te barba continuo arripiam, in ignem coniciam
+
+teque ambustulatum obiciam magnis avibus pabulum.
+quom coniecturam egomet mecum facio, haec illast simia,
+quae has hirundines ex nido volt eripere ingratiis,
+quod ego in somnis somniavi.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h51
+:END:
+
+Scin quid tecum oro, senex?
+ut illas serves, vim defendas, dúm ego erum adduco meum.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h52
+:END:
+
+Quaere erum atque adduce.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h53
+:END:
+
+At hic ne—
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h54
+:END:
+
+Maximo malo suo,
+si attigerit sive occeptassit.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h55
+:END:
+
+Cura.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h56
+:END:
+
+Curatumst, abi.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h57
+:END:
+
+Hunc quoque adserva ipsum, ne quo abitat; nam promisimus
+carnufici aut talentum magnum aút hunc hodie sistere.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h38-h58
+:END:
+
+Abi modo, ego dum hoc curabo recte.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h38-h59
+:END:
+
+Iam ego revenero.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 780
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+Vtrum tu, leno, cum malo lubentius
+quiescis an sic sine malo, si copiast?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h2
+:END:
+
+Ego quae tu loquere flocci non facio, senex.
+meas quidem te invito et Venere et summo Iove
+
+de ara capillo iam deripiam.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h3
+:END:
+
+Tange dum.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h4
+:END:
+
+Tangam hercle vero.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h5
+:END:
+
+Agedum ergo, accede huc modo.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h6
+:END:
+
+Iube dúm recedere istos ambo illuc modo.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h7
+:END:
+
+Immo ad te accedent.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h8
+:END:
+
+Non hercle equidem censeo.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h9
+:END:
+
+Quid ages, si accedent propius?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h10
+:END:
+
+Ego recessero.
+
+verum, senex, si te umquam in urbe offendero,
+numquam hercle quisquam me lenonem dixerit,
+si te non ludos pessimos dimisero.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h11
+:END:
+
+Facito istuc quod minitare; sed nunc interim,
+si illas attigeris, dabitur tibi magnum malum.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h12
+:END:
+
+Quam magnum vero?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h13
+:END:
+
+Quantum lenoni sat est.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h14
+:END:
+
+Minacias ego flocci non faciam tuas,
+equidem has te invito iam ambas rapiam.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h15
+:END:
+
+Tange dum.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h16
+:END:
+
+Tangam hercle vero.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h17
+:END:
+
+Tanges, at scin quo modo?
+i dum, Turbalio, curriculo, adferto domo
+
+duas clávas.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h18
+:END:
+
+Clavas?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h19
+:END:
+
+Sed probas. propera cito.
+ego te hodie faxo recte acceptum, ut dignus es.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h20
+:END:
+
+Eheu, scelestus galeam in navi perdidi;
+nunc mi opportuna hic esset, salva si foret.
+licet saltem istas mi appellare?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h21
+:END:
+
+Non licet.
+
+ehem, optime edepol eccum clavator ádvenit.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h22
+:END:
+
+Illud quidem edepol tinnimentum est auribus.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h23
+:END:
+
+Age accipe illinc alteram clavam, Sparax.
+age, alter istinc, alter hinc adsistite.
+adsistite ambo. sic. audite nunciam:
+
+si hercle illic illas hodie digito tetigerit
+invitas, ni istunc istis invitassitis
+usque adeo donec qua domum abeat nesciat,
+periistis ambo. si appellabit quempiam,
+vos respondetote istinc istarum vicem;
+
+sin ipse abire hínc volet, quantum potest
+extemplo amplectitote crura fustibus.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h24
+:END:
+
+Etiam me abire hinc non sinent?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h40-h25
+:END:
+
+Dixi satis.
+et ubi ille servos cúm ero huc advenerit,
+qui erum accersivit, itote extemplo domum.
+
+curate haec sultis magna diligentia.—
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h26
+:END:
+
+Heu hercle, ne istic fana mutantur cito:
+iam hoc Herculi est, Veneris fanum quod fuit,
+ita duo destituit signa hic cum clavis senex.
+non hercle quo hinc nunc gentium aufugiam scio,
+
+ita nunc mi utrumque saevit, et terra et mare.
+Palaestra.
+
+** Lorarius
+:PROPERTIES:
+:CUSTOM_ID: h40-h27
+:END:
+
+Quid vis?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h28
+:END:
+
+Apage, controversia est,
+haec quidem Palaestra, quae respondit, non mea est.
+heus, Ampelisca.
+
+** Lorarius alter
+:PROPERTIES:
+:CUSTOM_ID: h40-h29
+:END:
+
+Cave sis infortunio.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h30
+:END:
+
+Vltro te. signa ut homines satis recte monent.
+
+sed vobis dico, heús vos, num molestiaest,
+me adire ad illas propius?
+
+** Lorarius
+:PROPERTIES:
+:CUSTOM_ID: h40-h31
+:END:
+
+Nil nobis quidem.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h32
+:END:
+
+Numquid molestum mihi erit?
+
+** Lorarius
+:PROPERTIES:
+:CUSTOM_ID: h40-h33
+:END:
+
+Nil, si caveris.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h34
+:END:
+
+Quid est quod caveam?
+
+** Lorarius
+:PROPERTIES:
+:CUSTOM_ID: h40-h35
+:END:
+
+Em, a crasso infortunio.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h36
+:END:
+
+Quaeso hercle, abire ut liceat.
+
+** Lorarius
+:PROPERTIES:
+:CUSTOM_ID: h40-h37
+:END:
+
+Abeas, si velis.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h38
+:END:
+
+Bene hercle factum. habeo vobis gratiam.
+non accedam potius.
+
+** Lorarius
+:PROPERTIES:
+:CUSTOM_ID: h40-h39
+:END:
+
+Illic astato ilico.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h40-h40
+:END:
+
+Edepol proveni nequiter multis modis.
+certumst hasce hodie usque obsidione vincere.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 839
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+Meamne ílle amicam leno vi, violentia
+de ara deripere Veneris voluit?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+Admodum.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+Quin occidisti extemplo?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+Gladius non erat.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+Caperes aut fustem aut lapidem.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+Quid? ego quasi canem
+
+hominem insectarer lapidibus nequissimum?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h7
+:END:
+
+Nunc pol ego perii, Plesidippus eccum adest.
+converret iam hic me totum cum pulvisculo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h8
+:END:
+
+Etiamne in ara tunc sedebant mulieres,
+quom ad me profectu's profectus es   ire?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h42-h9
+:END:
+
+Ibidem nunc sedent.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h10
+:END:
+
+Quis illás nunc illic servat?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h42-h11
+:END:
+
+Nescio quis senex,
+vicinus Veneris; is dedit operam optumam.
+is nunc cum servis servat. ego mandaveram.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h12
+:END:
+
+Duc me ad lenonem recta. ubi illic est homo?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h13
+:END:
+
+Salve.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h14
+:END:
+
+Salutem nil moror. opta ocius:
+
+rapi te obtorto collo mavis an trahi?
+utrum vis opta, dum licet.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h15
+:END:
+
+Neutrum volo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h16
+:END:
+
+Abi sáne ad litus curriculo, Trachalio,
+iube illós in urbem ire obviam ad portum mihi,
+quos mecum duxi, hunc qui ad carnificem traderent.
+
+post huc redito atque agitato hic custodiam.
+ego hunc scelestum ín ius rapiam éxulem.
+age, ambula in ius.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h17
+:END:
+
+Quid ego deliqui?
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h18
+:END:
+
+Rogas,
+quin arrabonem a me accepisti ob mulierem
+et eam hinc abduxti?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h19
+:END:
+
+Non avexi.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h20
+:END:
+
+Cur negas?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h21
+:END:
+
+Quia pol provexi: avehere non quivi miser.
+equidem tibi me dixeram praesto fore
+apud Véneris fanum: numquid muto? sumne ibi?
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h22
+:END:
+
+In iure causam dicito, hic verbum sat est:
+sequere.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h23
+:END:
+
+Obsecro te, subveni mi, Charmides.
+
+rapior optorto collo.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h42-h24
+:END:
+
+Quis me nominat?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h25
+:END:
+
+Viden me ut rapior?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h42-h26
+:END:
+
+Video, atque inspecto lubens.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h27
+:END:
+
+Non subvenire mi audes?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h42-h28
+:END:
+
+Quis homo te rapit?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h29
+:END:
+
+Adulescens Plesidippus.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h42-h30
+:END:
+
+Vt nanctu's nanctus es  , habe.
+bono animo meliust te in nervom conrepere.
+
+tibi optigit quod plurimi exoptant sibi.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h31
+:END:
+
+Quid id est?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h42-h32
+:END:
+
+Vt id quod quaerant inveniant sibi.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h33
+:END:
+
+Sequere, obsecro, me.
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h42-h34
+:END:
+
+Pariter suades qualis es:
+tu in nervom rapere, eo me óbsecras ut te sequar.
+etiam retentas?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h35
+:END:
+
+Perii.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h36
+:END:
+
+Verum sit velim.
+
+tu, mea Palaestra et Ampelisca, ibidem ilico
+manete, dúm ego huc redeo.
+
+** Lorarius
+:PROPERTIES:
+:CUSTOM_ID: h42-h37
+:END:
+
+Equidem suadeo,
+ut ad nos abeant potius, dum recipis.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h38
+:END:
+
+Placet,
+bene facitis.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h39
+:END:
+
+Fures mi estis.
+
+** Lorarius
+:PROPERTIES:
+:CUSTOM_ID: h42-h40
+:END:
+
+Quid, fures? rape.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h41
+:END:
+
+Oro obsecro, Palaestra.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h42-h42
+:END:
+
+Sequere, carnufex.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h43
+:END:
+
+Hospes—
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h42-h44
+:END:
+
+Non sum hospes, repudio hospitium tuom.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h45
+:END:
+
+Sicine me spernis?
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h42-h46
+:END:
+
+Sic ago: semel bibo.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h42-h47
+:END:
+
+Di te infelicent.—
+
+** Charmides
+:PROPERTIES:
+:CUSTOM_ID: h42-h48
+:END:
+
+Isti capiti dicito.
+credo alium in aliam beluam hominem vortier:
+illic ín columbum, credo, leno vortitur,
+
+nam in collumbari collus haud multo post erit;
+in nervom ille hodie nidamenta congeret.
+verum tamen ibo, ei advocatus ut siem,
+si qui mea opera citius addici potest.—
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+* 892
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h45-h1
+:END:
+
+Bene factum et volup est, mé hodie his mulierculis
+tetulisse auxilium. iam clientas repperi,
+atque ambas forma scitula atque aetatula.
+sed uxór scelesta me omnibus servat modis,
+
+ne quid significem quippiam mulierculis.
+sed Gripus servos noster quid rerum gerat
+miror, de nocte qui abiit piscatum ad mare.
+pol magis sapisset, si dormivisset domi,
+nam nunc et operam ludos facit et retia,
+
+ut tempestas est nunc atque ut noctu fuit.
+in digitis hodie percoquam quod ceperit,
+ita fluctuare video vehementer mare.
+sed ad prándium uxor me vocat. redeo domum.
+iam meas opplebit aures † sua vaniloquentia.—
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+* 906
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h47-h1
+:END:
+
+Neptúno has agó gratiás meo patróno,
+qui sálsis locís incolít pisculéntis,
+quom me éx suis locís pulchre ornátum expedívit
+†templís reducém, plurimá praeda onústum,
+
+salúte horiaé, quae in marí fluctuóso
+piscátu novó me uberí compotívit;
+miróque modo atque incrédibili hic piscátus mihi lepide évenit,
+neque píscium ullam unciam hodié pondo cepí, nisi hoc quod fero hic ín rete.
+nam ut dé nocte múlta impigréque exurréxi,
+
+lucrúm praeposívi sopóri et quiéti:
+tempéstate saéva experíri expetívi,
+paupértatem erí qui et meám servitútem
+tolerárem, opera haud fui párcus mea.
+nímis homo nihilist quis piger est nímisque id genus odi égo male.
+
+vigiláre decet hominém qui volt sua témperi conficere ófficia.
+non énim illum expectare óportet, dum erus se ád suom suscitet ófficium.
+nám qui dormiúnt libenter, síne lucro et cum málo quiescunt.
+nám ego nunc mihi, qui ímpiger fui,
+répperi ut piger, sí velim, siem:
+
+hóc ego in mari quidquid inést répperi.
+quidquíd inest, grave quidem inést; aurum hic ego inésse reor;
+nec míhi consciust ullús homo.
+nunc haéc tibi occasio, Grípe optigit, ut líber sit
+nemo éx populo praetér te.
+
+nunc síc faciam, sic cónsilium est: ad erúm veniam docte atque astute.
+pauxíllatim pollícitabor pro cápite argentum, ut sím liber.
+iam ubi líber ero, igitúr demum instrúam agrum atque aedis, máncipia,
+navíbus magnis mercáturam faciam, ápud reges rex pérhibebor.
+post ánimi causa míhi navem faciam átque imitabor Strátonicum,
+
+oppída circumvectábor.
+ubi nóbilitas mea erít clara,
+oppídum magnum commúnibo, ei ego úrbi Gripo indám nomen,
+moniméntum meae famae ét factis, ibi quí regnum magnum ínstituam.
+magnas res hic agito in mentem instruere. nunc hunc vidulum condam.
+
+sed hic réx cum aceto pránsurust et sále, sine bono pulménto.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+* 938
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h1
+:END:
+
+Heus, máne.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h2
+:END:
+
+Quid maneam?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h3
+:END:
+
+Dum hánc tibi, quam tráhis, rudentem cómplico.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h4
+:END:
+
+Mitté modo.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h5
+:END:
+
+At pol ego te ádiuvo nam bónis quod bene fit haúd perit.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h6
+:END:
+
+Turbída tempestas héri fuit,
+nil hábeo, adulescens, píscium, ne tú mihi esse póstules;
+
+non vídes referre me úvidum reté, sine squamosó pecu?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h7
+:END:
+
+Non édepol piscis éxpeto quam tuí sermonis sum índigens.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h8
+:END:
+
+Enícas iam me odio, quísquis es.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h9
+:END:
+
+Non sínam ego abire hinc té. mane.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h10
+:END:
+
+Cave sís malo. quid tú, malum, nám me retrahis?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h11
+:END:
+
+Aúdi.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h12
+:END:
+
+Non aúdio.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h13
+:END:
+
+At pol qui aúdies póst.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h14
+:END:
+
+Quin loquere quíd vis.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h15
+:END:
+
+Eho máne dum, est óperae pretium quod tíbi ego narraré volo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h16
+:END:
+
+Elóquere quid id est?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h17
+:END:
+
+Víde num quispíam consequitur própe nos.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h18
+:END:
+
+Écquid est quód mea réferat?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h19
+:END:
+
+Scílicet.
+séd boni cónsili écquid in té mihi est?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h20
+:END:
+
+Quíd negoti ést, modo díce.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h21
+:END:
+
+Dicám, tace,
+
+sí fidem modo dás mihi te nón fore infídum.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h22
+:END:
+
+Dó fidem tibi, fídus ero, quísquis es.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h23
+:END:
+
+Aúdi.
+furtum égo vidi qui fáciebat;
+norám dominum, id cui fíebat,
+post ád furem egomet dévenio
+
+feroque eí condicionem hóc pacto:
+“ego istúc furtum scio cuí factum est;
+nunc míhi si vis dare dímidium, indícium domino nón faciam.”
+is míhi nihil etiam réspondit.  quid inde aéquom est dari mihi? dímidium
+volo ut dícas.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h24
+:END:
+
+Immo hercle étiam amplius,  nam nísi dat, domino dícundum
+censeó.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h25
+:END:
+
+Tuo consilió faciam.  nunc ádvorte animum; námque hoc omne
+
+attinét ad te.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h26
+:END:
+
+Quid fáctumst?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h27
+:END:
+
+Vídulum istum cúiust novi ego hóminem iam pridem.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h28
+:END:
+
+Quid est?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h29
+:END:
+
+Et quo pacto periit.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h30
+:END:
+
+At ego quo pacto inventust scio
+et qui invenit hominem novi et dominus qui nunc est scio.
+nihilo pol pluris tua hoc quam quanti illud refert mea:
+
+ego illum novi cuius nunc est, tu illum cuius antehac fuit.
+hunc homo feret a me nemo, ne tu te speres potis.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h31
+:END:
+
+Non ferat si dominus veniat?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h32
+:END:
+
+Dominus huic, ne frustra sis,
+nisi ego nemo natust, hunc qui cepi in venatu meo.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h33
+:END:
+
+Itane vero?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h34
+:END:
+
+Ecquem esse dices in mari piscem meum?
+
+quos cum capio, siquidem cepi, mei sunt; habeo pro meis,
+nec manu adseruntur neque illinc partem quisquam postulat.
+in foro palam omnes vendo pro meis venalibus.
+mare quidem commune certost omnibus.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h35
+:END:
+
+Adsentio:
+qui minus hunc communem quaeso mi esse oportet vidulum?
+
+in mari inventust communi.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h36
+:END:
+
+Esne impudenter impudens?
+nam si istuc ius sit quod memoras, piscatores perierint.
+quippe quom extemplo in macellum pisces prolati sient,
+nemo emat, suam quisque partem piscium poscant sibi,
+dicant, in mari communi captos.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h37
+:END:
+
+Quid ais, impudens?
+
+ausu's ausus es   etiam comparare vidulum cum piscibus?
+eadem tandem res videtur?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h38
+:END:
+
+In manu non est mea:
+ubi demisi rete atque hamum, quidquid haesit extraho.
+meum quod rete atque hami nancti sunt, meum potissimumst.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h39
+:END:
+
+Immo hercle haud est, siquidem quod vas excepisti.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h40
+:END:
+
+Philosophe.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h41
+:END:
+
+Sed tu enumquam piscatorem vidisti, venefice,
+vidulum piscem cepisse aut protulisse ullum in forum?
+non enim tu híc quidem occupabis omnis quaestus quos voles:
+et vitorem et piscatorem te esse, impure, postulas.
+vel te mihi monstrare oportet piscis qui sit vidulus,
+
+vel quod in mari non natum est neque habet squamas ne feras.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h42
+:END:
+
+Quid, tu numquam audisti esse antehac vidulum piscem?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h43
+:END:
+
+Scelus,
+nullus est.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h44
+:END:
+
+Immo est profecto; ego, qui sum piscator, scio;
+verum raro capitur, nullus minus saepe ad terram venit.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h45
+:END:
+
+Nil agis, dare verba speras mihi te posse, furcifer.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h46
+:END:
+
+Quo colore est, hoc colore capiuntur pauxilluli;
+sunt alii puniceo corio, magni item; atque atri.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h47
+:END:
+
+Scio.
+tu hercle, opino, in vidulum te bis convertes, nisi caves:
+fiet tibi puniceum corium, postea atrum denuo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h48
+:END:
+
+Quod scelus hodie hoc inveni.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h49
+:END:
+
+Verba facimus, it dies.
+
+vide sis, cuius arbitratu nos vis facere.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h50
+:END:
+
+Viduli
+arbitratu.  [omitted]  ita enim vero.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h51
+:END:
+
+Stultus es.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h52
+:END:
+
+Salve, Thales.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h53
+:END:
+
+Tu istunc hodie non feres, nisi das sequestrum aut arbitrum,
+quoius haec res arbitratu fiat.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h54
+:END:
+
+Quaeso, sanus es?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h55
+:END:
+
+Elleborosus sum.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h56
+:END:
+
+At ego cerritus, hunc non amittam tamen.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h57
+:END:
+
+Verbum etiam adde unum, iam in cerebro colaphos apstrudam tuo;
+iam ego te hic, itidem quasi peniculus novos exurgeri solet,
+ni hunc amittis, exurgebo quidquid umoris tibist.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h58
+:END:
+
+Tange: adfligam ad terram te itidem ut piscem soleo polypum.
+vis pugnare?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h59
+:END:
+
+Quid opust? quin tu potius praedam divide.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h60
+:END:
+
+Hinc tu nisi malum frunisci nil potes, ne postules.
+abeo ego hinc.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h61
+:END:
+
+At ego hinc offlectam navem, ne quo abeas. mane.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h62
+:END:
+
+Si tu proreta isti navi es, ego gubernator ero.
+mitte rudentem, sceleste.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h63
+:END:
+
+Mittam: omitte vidulum.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h64
+:END:
+
+Numquam hercle hinc hodie ramenta fies fortunatior.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h65
+:END:
+
+Non probare pernegando mihi potes, nisi pars datur
+aut ad arbitrum reditur aut sequestro ponitur.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h66
+:END:
+
+Quemne ego excepi in mari—
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h67
+:END:
+
+At ego ínspectavi e litore.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h68
+:END:
+
+Mea opera, labore et rete et horia?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h69
+:END:
+
+Numqui minus,
+si veniat nunc dominus cuiust, ego qui inspectavi procul
+
+te hunc habere, fur sum quam tu?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h70
+:END:
+
+Nihilo.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h71
+:END:
+
+Mane, mastigia:
+quo argumento socius non sum, et fur sum? fac dum ex te sciam.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h72
+:END:
+
+Nescio, neque ego istas vestras leges urbanas scio,
+nisi quia hunc meum esse dico.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h73
+:END:
+
+Ét ego item esse aio meum.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h74
+:END:
+
+Mane, iam repperi quo pacto nec fur nec socius sies.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h75
+:END:
+
+Quo pacto?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h76
+:END:
+
+Sine me hinc abire, tú abi tacitus tuam viam;
+nec tu me cuiquam indicassis neque ego tibi quicquam dabo;
+tu taceto, ego mussitabo: hoc optimum atque aequissimum est.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h77
+:END:
+
+Ecquid condicionis audes ferre?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h78
+:END:
+
+Iam dudum fero:
+ut abeas, rudentem amittas, mihi molestus ne sies.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h79
+:END:
+
+Mane, dum refero condicionem.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h80
+:END:
+
+Te, opsecro hercle, aufer modo.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h81
+:END:
+
+Ecquem in his locis novisti?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h82
+:END:
+
+Oportet vicinos meos.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h83
+:END:
+
+Vbi tu hic habitas?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h84
+:END:
+
+Porro illic longe usque in campis ultimis.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h85
+:END:
+
+Vin qui in hac villa habitat, eius arbitratu fieri?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h86
+:END:
+
+Paulisper remitte restem, dum concedo et consulo.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h87
+:END:
+
+Fiat.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h88
+:END:
+
+Euge, salva res est, praeda haec perpetua est mea;
+ad meum erum arbitrum vocat me hic intra praesepis meas:
+numquam hercle hodie abiudicabit ab suo triobolum.
+ne iste haud scit quam condicionem tetulerit. íbo ad arbitrum.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h89
+:END:
+
+Quid igitur?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h90
+:END:
+
+Quamquam istuc esse ius meum certo scio,
+
+fiat istuc potius, quam nunc pugnem tecum.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h49-h91
+:END:
+
+Nunc places.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h49-h92
+:END:
+
+Quamquam ad ignotum arbitrum me appellis, si adhibebit fidem,
+etsist ignotus, notus: si non, notus ignotissimust.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+* 1045
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h1
+:END:
+
+Serio edepol, quamquam vobis volo quae voltis, mulieres,
+metuo, propter vos ne uxor mea med extrudat aedibus,
+quae me paelices adduxe dicet ante oculos suos.
+vos confugite in aram potius quám ego.
+
+** Pvellae
+:PROPERTIES:
+:CUSTOM_ID: h51-h2
+:END:
+
+Miserae periimus.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h3
+:END:
+
+Ego vos salvas sistam, ne timete. sed quid vos foras
+prosequimini? quoniam ego adsum, faciet nemo iniuriam;
+ite, inquam, domum ambo nunciam ex praesidio praesides.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h4
+:END:
+
+O ere, salve.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h5
+:END:
+
+Salve, Gripe. quid fit?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h6
+:END:
+
+Túosne hic servos est?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h7
+:END:
+
+Haud pudet.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h8
+:END:
+
+Níl ago tecum.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h9
+:END:
+
+Ergo ábi hinc sis.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h10
+:END:
+
+Quaeso responde, senex:
+
+tuos hic servost?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h11
+:END:
+
+Meus est.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h12
+:END:
+
+Em istuc optime, quando tuost.
+iterum te saluto.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h13
+:END:
+
+Et ego te. tune es qui haud multo prius
+abiisti hinc erum accersitum?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h14
+:END:
+
+Ego is sum.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h15
+:END:
+
+Quid nunc vis tibi?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h16
+:END:
+
+Nempe hic tuos est?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h17
+:END:
+
+Meus est.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h18
+:END:
+
+Istuc optime, quando tuost.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h19
+:END:
+
+Quid negotist?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h20
+:END:
+
+Vir scelestus íllic est.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h21
+:END:
+
+Quíd fecit tibi
+
+vir scelestus?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h22
+:END:
+
+Homini ego isti talos subfringi volo.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h23
+:END:
+
+Quid est? qua de re litigatis nunc inter vos?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h24
+:END:
+
+Eloquar.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h25
+:END:
+
+Immo ego eloquar.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h26
+:END:
+
+Ego, opinor, rem facesso.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h27
+:END:
+
+Si quidem
+sis pudicus, hinc facessas.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h28
+:END:
+
+Gripe, animum advorte ac tace.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h29
+:END:
+
+Vtin istic prius dicat?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h30
+:END:
+
+Audi. loquere tu.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h31
+:END:
+
+Alienon prius
+
+quam tuo dábis orationem?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h32
+:END:
+
+Vt nequitur comprimi.
+ita ut occepi dicere, illum quem dudum e fano foras
+lenonem extrusisti, hic eius vidulum eccillum tenet.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h33
+:END:
+
+Non habeo.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h34
+:END:
+
+Negas quod oculis video?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h35
+:END:
+
+At ne videas velim.
+habeo, non habeo: quid tu me curas quid rerum geram?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h36
+:END:
+
+Quo modó habeas, id refert, iurene anne iniuria.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h37
+:END:
+
+Ni istum cepi, nulla causa est quin me condones cruci;
+si in mari reti prehendi, qui tuom pótiust quam meum?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h38
+:END:
+
+Verba dat. hoc modo res gesta est ut ego dico.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h39
+:END:
+
+Quid tu ais?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h40
+:END:
+
+Quod primarius vir dicat: comprime hunc sis, si tuost.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h41
+:END:
+
+Quid? tu idem mihi vis fieri quod erus consuevit tibi?
+si ille te comprimere solitust, hic noster nos non solet.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h42
+:END:
+
+Verbo illo modo ille vicit. quid nunc tu vis? dic mihi.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h43
+:END:
+
+Equidem ego neque partem posco mi istinc de istoc vidulo
+neque meum esse hodie umquam dixi; séd isti inest cistellula
+
+huius mulieris, quam dudum dixi fuisse liberam.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h44
+:END:
+
+Nempe tu hanc dícis quam esse aiebas dudum popularem meam?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h45
+:END:
+
+Admodum; et ea quae olim parva gestavit crepundia
+istic ín ista cistula insunt, quae isti inest in vidulo.
+hoc neque isti usust, et illi miserae suppetias feret,
+
+si id dederit, qui suos parentis quaerat.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h46
+:END:
+
+Faciam ut det. tace.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h47
+:END:
+
+Nil hercle ego sum isti daturus.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h48
+:END:
+
+Nil peto nisi cistulam
+et crepundia.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h49
+:END:
+
+Quid si ea sunt aurea?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h50
+:END:
+
+Quid istuc tua?
+aurum auro expendetur, argentum argento exaequabitur.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h51
+:END:
+
+Fac sis aurum ut videam, post ego faciam ut videas cistulam.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h52
+:END:
+
+Cave malo ac tace tú. tu perge ut occepisti dicere.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h53
+:END:
+
+Vnum te obsecro, ut ted huius commiserescat mulieris,
+si quidem hic lenonis eiust vidulus, quem suspicor;
+hic, nisi de opinione, certum nil dico tibi.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h54
+:END:
+
+Viden? scelestus aucupatur.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h55
+:END:
+
+Sine me ut occepi loqui.
+
+si scelesti illius est hic, cuius dico, vidulus,
+haec poterunt novisse: ostendere his iube.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h56
+:END:
+
+Ain? ostendere?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h57
+:END:
+
+Haud iniquom dicit, Gripe, ut ostendatur vidulus.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h58
+:END:
+
+Immo hercle insignite inique.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h59
+:END:
+
+Quidum?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h60
+:END:
+
+Quia, si ostendero,
+continuo hunc novisse dicent scilicet.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h61
+:END:
+
+Scelerum caput,
+
+ut tute es, item omnis censes esse, periuri caput?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h62
+:END:
+
+Omnia istaéc ego facile patior, dúm hic hinc a me sentiat.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h63
+:END:
+
+At qui nunc abs te stat, verum hinc  [omitted]  ibi testimonium.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h64
+:END:
+
+Gripe, advorte animum. tu paucis expedi, quid postulas.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h65
+:END:
+
+Dixi equidem, sed si parum intellexti, dicam denuo.
+
+hasce ambas, ut dudum dixi, ita esse oportet liberas:
+haec Athenis parva fúit virgo surpta.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h66
+:END:
+
+Dic mihi,
+quid id ad vidulum pertinet, servae sint istae an fuerint liberae?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h67
+:END:
+
+Omnia iterum vis memorari, scelus, ut defiat dies.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h68
+:END:
+
+Apstine maledictis et mihi quod rogavi dilue.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h69
+:END:
+
+Cistellam isti inesse oportet caudeam ín isto vidulo,
+ubi sunt signa qui parentes noscere haec possit suos,
+quibuscum periit parva Athenis, sicuti dixi prius.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h70
+:END:
+
+Iuppiter te dique perdant. quid ais, vir venefice?
+quid, istae mutae sunt, quae pro se fabulari non queant?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h71
+:END:
+
+Eo tacent, quia tacitast melior mulier semper quam loquens.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h72
+:END:
+
+Tum pol tu pro portione nec vir nec mulier mihi es.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h73
+:END:
+
+Quidum?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h74
+:END:
+
+Quia enim neque loquens es neque tacens umquam bonus.
+quaeso, enumquam hodie licebit mihi loqui?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h75
+:END:
+
+Si praeterhac
+unum verbum faxis hodie, ego tibi comminuam caput.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h76
+:END:
+
+Vt id occepi diceré, senex, eam te quaeso cistulam
+ut iubeas hunc reddere illis; ob eam si quid postulat
+sibi mercedis, dabitur: aliud quidquid ibi est habeat sibi.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h77
+:END:
+
+Nunc demum istuc dicis, quoniam ius meum esse intellegis:
+dudum dimidiam petebas partem.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h78
+:END:
+
+Immo etiam nunc peto.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h79
+:END:
+
+Vidi petere miluom, etiam cum nihil auferret tamen.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h80
+:END:
+
+Non ego te comprimere possum sine malo?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h81
+:END:
+
+Si istic tacet,
+ego tacebo; si iste loquitur, sine me pro parte loqui.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h82
+:END:
+
+Cedo modó mihi vidulum istum, Gripe.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h83
+:END:
+
+Concedam tibi,
+ac, si istorum nil sit, ut mihi reddas.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h84
+:END:
+
+Reddetur.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h85
+:END:
+
+Tene.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h86
+:END:
+
+Audi nunciam, Palaestra atque Ampelisca, hoc quod loquor.
+estne hic vidulus úbi cistellam tuam inesse aiebas?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h87
+:END:
+
+Is est.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h88
+:END:
+
+Perii hercle ego miser, uti, prius quam plane aspexit, ilico
+eum esse dixit.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h89
+:END:
+
+Faciam ego hanc rem ex procliva planam tibi.
+cistellam isti inesse oportet caudeam ín isto vidulo.
+
+ibi ego dicam quidquid inerit nominatim: tu mihi
+nullum ostenderis; si falsa dicam, frustra dixero,
+vos tamen istaec, quidquid istic inerit, vobis habebitis;
+sed si erunt véra, tum opsecro te, ut mea mi reddantur.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h90
+:END:
+
+Placet.
+ius merum oras meo quidem animo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h91
+:END:
+
+Át meo hercle iniuriam.
+
+quid si ista aut superstitiosa aut hariolast atque omnia,
+quidquid insit, vera dicet? anne habebit hariola?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h92
+:END:
+
+Non feret, nisi vera dicet: nequiquam hariolabitur.
+solve vidulum ergo, ut quid sit verum quam primum sciam.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h93
+:END:
+
+Hoc habet, solutust.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h94
+:END:
+
+Aperi. video cistellam. haecinest?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h95
+:END:
+
+Istaec est. o mei parentes, hic vos conclusos gero,
+huc opesque spesque vestrum cognoscendum condidi.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h96
+:END:
+
+Tum tibi hercle deos iratos esse oportet, quisquis es,
+quae parentis tám in angustum tuos locum compegeris.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h97
+:END:
+
+Gripe, accede huc; tua res agitur. tu, puella, istinc procul
+
+dicito quid insit et qua facie, memorato omnia.
+si hercle tantillum peccassis, quod posterius postules
+te ad verum convorti, nugas, mulier, magnas egeris.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h98
+:END:
+
+Ius bonum oras.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h99
+:END:
+
+Edepol haud te órat, nam tu iniuriu's iniurius es  .
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h100
+:END:
+
+Loquere nunciam, puella. Gripe, animum advorte ac tace.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h101
+:END:
+
+Sunt crepundia.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h102
+:END:
+
+Ecca video.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h103
+:END:
+
+Perii in primo proelio.
+mane, ne ostenderis.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h104
+:END:
+
+Qua facie sunt? responde ex ordine.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h105
+:END:
+
+Ensiculust aureolus primum litteratus.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h106
+:END:
+
+Dice dum,
+in eo ensiculo litterarum quid est?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h107
+:END:
+
+Mei nomen patris.
+post altrinsecust securicula ancipes, itidem aurea
+
+litterata: ibi matris nomen in securiculast.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h108
+:END:
+
+Mane.
+dic, in ensiculo quid nomen est paternum?
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h109
+:END:
+
+Daemones.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h110
+:END:
+
+Di immortales, ubi loci sunt spes meae?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h111
+:END:
+
+Immo edepol meae?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h112
+:END:
+
+Pergite, opsecro, continuo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h113
+:END:
+
+Placide, aut i in malam crucem.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h114
+:END:
+
+Loquere matris nomen hic quid in securicula siet.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h115
+:END:
+
+Daedalis.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h116
+:END:
+
+Di me servatum cupiunt.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h117
+:END:
+
+At me perditum.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h118
+:END:
+
+Filiam meam esse hánc oportet, Gripe.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h119
+:END:
+
+Sit per me quidem.
+qui te di omnes perdant, qui me hodie oculis vidisti tuis,
+meque adeo scelestum, qui non circumspexi centiens,
+prius me ne quis inspectaret quam rete extraxi ex aqua.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h120
+:END:
+
+Post sicilicula argenteola et duae conexae maniculae et
+sucula.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h121
+:END:
+
+Quin tu i díerecta, cum sucula et cum porculis.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h122
+:END:
+
+Et bulla aurea est, pater quam dedit mi natali die.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h123
+:END:
+
+Ea est profecto. contineri quin complectar non queo.
+filia mea, salve. ego is sum qui te produxi pater,
+
+ego sum Daemones, et mater tua eccam hic intus Daedalis.
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h124
+:END:
+
+Salve, mi pater insperate.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h125
+:END:
+
+Salve. ut te amplector libens.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h126
+:END:
+
+Volup est cum istuc ex pietate vestra vobis contigit.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h127
+:END:
+
+Cape dum, hunc si potes fer intro vidulum, age, Trachalio.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h128
+:END:
+
+Ecce Gripi scelera. cum istaec res male evenit tibi,
+
+Gripe, gratulor.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h51-h129
+:END:
+
+Age eamus, mea gnata, ad matrem tuam,
+quae ex te poterit argumentis hanc rem magis exquirere,
+quae te magis tractavit magisque signa pernovit tua.—
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h51-h130
+:END:
+
+Eamus intro ómnes, quando óperam promiscam damus.—
+
+** Palaestra
+:PROPERTIES:
+:CUSTOM_ID: h51-h131
+:END:
+
+Sequere me, Ampelisca.—
+
+** Ampelisca
+:PROPERTIES:
+:CUSTOM_ID: h51-h132
+:END:
+
+Cum te di amant, voluptati est mihi.—
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h51-h133
+:END:
+
+Sumne ego sceléstus, qui illunc hodie excepi vidulum?
+aut cum excepi, qui non alicubi in solo abstrusi loco?
+credebam edepol turbulentam praedam eventuram mihi,
+quia illa mihi tam turbulenta tempestate evenerat.
+credo edepol ego illic inesse argenti et auri largiter.
+
+quid meliust, quam ut hinc intro abeam et me suspendam clanculum,
+saltem tantisper dum abscedat haec a me aegrimonia?—
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+* 1191
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h53-h1
+:END:
+
+Pro di immortales, quis me est fortunatior,
+qui ex improviso filiam inveni meam?
+satin si cui homini dei esse bene factum volunt,
+aliquo illud pacto optingit optatum piis?
+
+ego hodie neque speravi neque illud credidi:
+is improviso filiam inveni tamen;
+et eam de genere summo adulescenti dabo
+ingenuo, Atheniensi et cognato meo.
+ego eum adeo arcessi huc ad me quam primum volo,
+
+iussique exire huc servom éius, ut ad forum
+iret; nondum egressum esse eum, id miror tamen.
+accedam, opinor, ad fores. quid conspicor?
+uxor complexa collo retinet filiam.
+nimis paéne inepta atque odiosa eius amatiost.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+* 1205
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h1
+:END:
+
+Aliquando osculando meliust, uxor, pausam fieri;
+atque adorna, ut rem divinam faciam, cum intro advenero,
+Laribus familiaribus, cum auxerunt nostram familiam.
+sunt domi agni et porci sacres. sed quid istúm remoramini,
+
+mulieres, Trachalionem? atque optime eccum exit foras.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h2
+:END:
+
+Vbi ubi erit, iam investigabo et mecum ad te adducam simul
+Plesidippum.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h3
+:END:
+
+Eloquere ut haec res optigit de filia;
+eum roga, ut relinquat alias res et huc veniat.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h4
+:END:
+
+Licet.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h5
+:END:
+
+Dicito daturum meam illi filiam uxorem.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h6
+:END:
+
+Licet.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h7
+:END:
+
+Et patrem eius me novisse et mi esse cognatum.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h8
+:END:
+
+Licet.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h9
+:END:
+
+Sed propera.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h10
+:END:
+
+Licet.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h11
+:END:
+
+Iam hic fac sit, cena ut curetur.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h12
+:END:
+
+Licet.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h13
+:END:
+
+Omnian licet?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h14
+:END:
+
+Licet. sed scin quid est quod te volo?
+quod promisisti ut memineris, hodie ut liber sim.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h15
+:END:
+
+Licet.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h16
+:END:
+
+Fac ut exores Plesidippum, ut me manu emittat.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h17
+:END:
+
+Licet.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h18
+:END:
+
+Et tua filiá facito oret: facile exorabit.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h19
+:END:
+
+Licet.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h20
+:END:
+
+Atque ut mi Ampelisca nubat, ubi ego sim liber.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h21
+:END:
+
+Licet.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h22
+:END:
+
+Atque ut gratum mi beneficium factis experiar.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h23
+:END:
+
+Licet.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h24
+:END:
+
+Omnian licet?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h25
+:END:
+
+Licet: tibi rursum refero gratiam.
+sed propera ire in urbem actutum et recipe te huc rursum.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h55-h26
+:END:
+
+Licet.
+
+iam hic ero. tu interibi adorna ceterum quod opust.—
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h55-h27
+:END:
+
+Licet.
+Hercules istum infelicet cum sua licentia;
+ita meas replevit auris, quidquid memorabam, licet.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h56
+:END:
+
+* 1227
+:PROPERTIES:
+:CUSTOM_ID: h57
+:END:
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h57-h1
+:END:
+
+Quam mox licet te compellare, Daemones?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h57-h2
+:END:
+
+Quid est negoti, Gripe?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h57-h3
+:END:
+
+De illo vidulo:
+si sapias, sapias; habeas quod di dant boni.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h57-h4
+:END:
+
+Aequom videtur tibi, ut ego, alienum quod est,
+
+meum esse dicam?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h57-h5
+:END:
+
+Quodne ego inveni in mari?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h57-h6
+:END:
+
+Tanto illi melius optigit qui perdidit;
+tuom esse nihilo magis oportet vidulum.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h57-h7
+:END:
+
+Isto tu pauper es, quom nimis sancte pius.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h57-h8
+:END:
+
+O Gripe, Gripe, in aetate hominum plurimae
+
+fiunt trasennae, ubi decipiuntur dolis.
+atque edepol in eas plerumque esca imponitur:
+quam si quis avidus poscit escam avariter,
+decipitur in trasenna avaritia sua.
+ille quí consulte, docte atque astute cavet,
+
+diutine uti bene licet partum bene.
+mihi istaéc videtur praeda praedatum irier,
+ut cum maiore dote abeat quam advenerit.
+egone ut quod ad me allatum esse alienum sciam,
+celem? minime istuc faciet noster Daemones.
+
+semper cavere hoc sapientis aequissimumst,
+ne conscii sint ipsi malefici suis.
+ego mihi cum † lusi nil moror ullum lucrum.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h57-h9
+:END:
+
+Spectavi ego pridem comicos ad istúnc modum
+sapienter dicta dicere atque eis plaudier,
+
+cum illos sapientis mores monstrabant poplo:
+sed cum inde suam quisque ibant divorsi domum,
+nullus erat illo pacto ut illi iusserant.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h57-h10
+:END:
+
+Abi intro, ne molestu's molestus es  , linguae tempera.
+ego tibi daturus nil sum, ne tu frustra sis.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h57-h11
+:END:
+
+At ego deos quaeso, ut quidquid ín illo vidulost,
+si aurum si argentum est, omne id ut fiat cinis.—
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h57-h12
+:END:
+
+Illuc est quod nos nequam servis utimur.
+nam illic cum † servo si quo congressus foret,
+et ipsum sese et illum furti adstringeret;
+
+dum praedam habere se censeret, interim
+praeda ipsus esset, praeda praedam duceret.
+nunc hinc intro ibo et sacrificabo, postibi
+iubebo nobis cenam continuo coqui.—
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h58
+:END:
+
+* 1265
+:PROPERTIES:
+:CUSTOM_ID: h59
+:END:
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h1
+:END:
+
+Íterum mihi istaec omnia itera, mi anime, mi Trachalio,
+mi liberte, mi patrone potius, immo mi pater.
+repperit patrem Palaestra suom atque matrem?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h2
+:END:
+
+Repperit.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h3
+:END:
+
+Et popularis est?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h4
+:END:
+
+Opino.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h5
+:END:
+
+Et mihi nuptura est?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h6
+:END:
+
+Suspicor.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h7
+:END:
+
+Censen hodie despondebit eam mihi, quaéso?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h8
+:END:
+
+Censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h9
+:END:
+
+Quid? patri etiam gratulabor cum illam invenit?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h10
+:END:
+
+Censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h11
+:END:
+
+Quid matri eius?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h12
+:END:
+
+Censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h13
+:END:
+
+Quid ergo censes?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h14
+:END:
+
+Quod rogas,
+censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h15
+:END:
+
+Dic ergo quanti censes?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h16
+:END:
+
+Egone? censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h17
+:END:
+
+Adsum equidem, ne censionem semper facias.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h18
+:END:
+
+Censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h19
+:END:
+
+Quid si curram?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h20
+:END:
+
+Censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h21
+:END:
+
+An sic potius placide?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h22
+:END:
+
+Censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h23
+:END:
+
+Etiamne eam ádveniens salutem?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h24
+:END:
+
+Censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h25
+:END:
+
+Etiam patrem?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h26
+:END:
+
+Censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h27
+:END:
+
+Post eius matrem?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h28
+:END:
+
+Censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h29
+:END:
+
+Quid postea?
+etiamne adveniens complectar eius patrem?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h30
+:END:
+
+Non censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h31
+:END:
+
+Quid matrem?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h32
+:END:
+
+Non censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h33
+:END:
+
+Quid eampse illam?
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h34
+:END:
+
+Non censeo.
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h35
+:END:
+
+Perii, dilectum dimisit. nunc non censet, cum volo.
+
+** Trachalio
+:PROPERTIES:
+:CUSTOM_ID: h59-h36
+:END:
+
+Sanus non es. sequere.—
+
+** Plesidippvs
+:PROPERTIES:
+:CUSTOM_ID: h59-h37
+:END:
+
+Duc me, mi patrone, quo libet. —
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h60
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h61
+:END:
+
+* 1281
+:PROPERTIES:
+:CUSTOM_ID: h62
+:END:
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h62-h1
+:END:
+
+Quis me ést mortalis miserior qui vivat alter hodie,
+quem ad recuperatores modo damnavit Plesidippus?
+abiudicata a me modo est Palaestra. perditus sum.
+nam lenones ex Gaudio credo esse procreatos,
+
+ita omnés mortales, si quid est mali lenoni, gaudent.
+nunc alteram illam quae mea est visam huc in Veneris fanum,
+saltem ut eam abducam, de bonis quod restat reliquiarum.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h63
+:END:
+
+* 1288
+:PROPERTIES:
+:CUSTOM_ID: h64
+:END:
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h1
+:END:
+
+Numquam edepol hodie ad vesperum Gripum inspicietis vivom,
+nisi vidulus mihi redditur.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h2
+:END:
+
+Perii, cum mentionem
+fieri audio usquam viduli  [omitted]  quasi palo pectus tundat.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h3
+:END:
+
+Istic scelestus liber est: ego qui in mari prehendi
+
+reti atque excepi vidulum, ei dáre negatis quicquam.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h4
+:END:
+
+Pro di immortales, suo mihi hic sermone arrexit aures.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h5
+:END:
+
+Cubitum hercle longis litteris signabo iam usquequaque,
+si quis perdiderit vidulum cum auro atque argento multo,
+ad Gripum ut veniat. non feretis istum, ut postulatis.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h6
+:END:
+
+Meum hercle illic homo vidulum scit quí habet, ut ego opinor.
+adeundus mihi illic est homo. di, quaeso, subvenite.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h7
+:END:
+
+Quid me intro revocas? hoc volo hic ante ostium extergere.
+nam hoc quidem pol e robigine, non est e ferro factum,
+ita quanto magis extergeo, rutilum atque tenuius fit.
+
+† nam quidem hoc venenatumst verum: ita in manibus consenescit.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h8
+:END:
+
+Adulescens, salve.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h9
+:END:
+
+Di te ament cum inraso capite.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h10
+:END:
+
+Quid fit?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h11
+:END:
+
+Verum extergetur.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h12
+:END:
+
+Vt vales?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h13
+:END:
+
+Quid tu? num medicus, quaeso, es?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h14
+:END:
+
+Immo edepol una littera plus sum quam medicus.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h15
+:END:
+
+Tum tu
+mendicus es?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h16
+:END:
+
+Tetigisti acu.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h17
+:END:
+
+Videtur digna forma.
+
+sed quid tibi est?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h18
+:END:
+
+Hac proxima nocte in marí elavi.
+confracta est navis, perdidi quidquid erat miser ibi omne.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h19
+:END:
+
+Quid perdidisti?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h20
+:END:
+
+Vidulum cum auro atque argento multo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h21
+:END:
+
+Ecquid meministi, in vidulo qui periit quid ibi infuerit?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h22
+:END:
+
+Quid refert, qui periit tamen? sine hoc, áliud fabulemur.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h23
+:END:
+
+Quid si ego sciam qui invenerit? volo ex te scire signa.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h24
+:END:
+
+Nummi octingenti aúrei in marsuppio infuerunt,
+praeterea centum minaria Philippa ín pasceolo sorsus.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h25
+:END:
+
+Magna hercle praedast, largiter mercedis indipiscar;
+di homines respiciunt: bené ego hinc praedatus ibo.
+
+profecto húius est vidulus. perge alia tu expedire.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h26
+:END:
+
+Talentum argenti commodum magnum inerat in crumina,
+praeterea sinus, cantharus, epichysis, gaulus, cyathus.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h27
+:END:
+
+Papae, divitias tu quidém habuisti luculentas.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h28
+:END:
+
+Miserum istuc verbum et pessimum est, habuisse, et nihil habere.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h29
+:END:
+
+Quid dare velis, qui istaec tibi investiget indicetque?
+eloquere propere celeriter.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h30
+:END:
+
+Nummos trecentos.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h31
+:END:
+
+Tricas.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h32
+:END:
+
+Quadringéntos.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h33
+:END:
+
+Tramas putidas.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h34
+:END:
+
+Quingentos.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h35
+:END:
+
+Cassam glandem.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h36
+:END:
+
+Sescentos.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h37
+:END:
+
+Curculiunculos minutos fabulare.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h38
+:END:
+
+Dabo séptingentos.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h39
+:END:
+
+Os calet tibi, nunc id frigefactas.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h40
+:END:
+
+Millé dabo nummum.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h41
+:END:
+
+Somnias.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h42
+:END:
+
+Nihil addo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h43
+:END:
+
+Abi igitur.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h44
+:END:
+
+Audi:
+si hercle abiero hinc, hic non ero. vin centum et mille?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h45
+:END:
+
+Dormis.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h46
+:END:
+
+Eloquere quantum postules.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h47
+:END:
+
+Quo nihil invitus addas:
+talentum magnum. non potest triobolum hinc abesse.
+proin tú vel aias vel neges.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h48
+:END:
+
+Quid istíc? necessum est, video:
+
+dabitur talentum.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h49
+:END:
+
+Accede dum huc: Venus haec volo adroget te.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h50
+:END:
+
+Quod tibi libet id mi impera.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h51
+:END:
+
+Tange aram hanc Veneris.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h52
+:END:
+
+Tango.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h53
+:END:
+
+Per Venerem hanc iurandum est tibi.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h54
+:END:
+
+Quid iurem?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h55
+:END:
+
+Quod iubebo.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h56
+:END:
+
+Praei vérbis quidvis. íd quod domi est, numquam ulli supplicabo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h57
+:END:
+
+Tene aram hanc.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h58
+:END:
+
+Teneo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h59
+:END:
+
+Deiera te mi argentum daturum
+
+eodém die, tui viduli ubi sis potitus.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h60
+:END:
+
+Fiat.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h61
+:END:
+
+Venus Cýrenensis, testem te testor mihi,
+si vidulum illum, quém ego in navi perdidi,
+cum auro atque argento salvom investigavero
+isque in potestatem meam pervenerit,
+
+tum ego húic Gripo, ínquito, et me tangito—
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h62
+:END:
+
+Tum ego húic Gripo (dico, Venus, ut tu audias)
+talentum argenti magnum continuo dabo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h63
+:END:
+
+Si quid fraudassis, dic ut te in quaestu tuo
+Venus eradicet, caput atque aetatem tuam.
+
+tecum hoc habeto tamen, ubi iuraveris.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h64
+:END:
+
+Illaec advorsum si quid peccasso, Venus,
+veneror te ut omnes miseri lenones sient.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h64-h65
+:END:
+
+Tamen fíet, etsi tu fidem servaveris.
+tu hic opperire, iam ego faxo exibit senex;
+
+eum tú continuo vidulum reposcito.—
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h64-h66
+:END:
+
+Si maxime mi illum reddiderit vidulum,
+non ego illi hodie debeo triobolum.
+meus arbitratust, lingua quod iuret mea.
+sed conticiscam: eccum exit et ducit senem.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h65
+:END:
+
+* 1357
+:PROPERTIES:
+:CUSTOM_ID: h66
+:END:
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h1
+:END:
+
+Séquere hac.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h2
+:END:
+
+Vbi istic lenost?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h3
+:END:
+
+Heus tu. ém tibi, hic habet vidulum.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h4
+:END:
+
+Habeo et fateor esse apud me, et, si tuos est, habeas tibi.
+omnia, ut quídquid infuit, ita salva sistentur tibi.
+tene, si tuost.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h5
+:END:
+
+O di immortales, meus est. salve, vidule.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h6
+:END:
+
+Tuosne est?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h7
+:END:
+
+Rogitas? si quidem hercle Iovis fuit, meus est tamen.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h8
+:END:
+
+Omnia insunt salva; una istinc cistella excepta est modo
+cum crepundiis, quibuscum hódie filiam inveni meam.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h9
+:END:
+
+Quam?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h10
+:END:
+
+Tua quae fuit Palaestra, ea filia inventast mea.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h11
+:END:
+
+Bene mehercle factum est. cum istaec res tibi ex sententia
+
+pulchre evenit, gaudeo.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h12
+:END:
+
+Istuc facile non credo tibi.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h13
+:END:
+
+Immo hercle, ut scias gaudere me, mihi triobolum
+ob eam ne duis, condono te.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h14
+:END:
+
+Benigne edepol facis.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h15
+:END:
+
+Immo tu quidem hercle vero.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h16
+:END:
+
+Heus tu, iám habes vidulum.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h17
+:END:
+
+Habeo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h18
+:END:
+
+Propera.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h19
+:END:
+
+Quid properabo?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h20
+:END:
+
+Reddere argentum mihi.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h21
+:END:
+
+Neque edepol tibi do, neque quicquam debeo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h22
+:END:
+
+Quae haec factio est?
+non debes?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h23
+:END:
+
+Non hercle vero.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h24
+:END:
+
+Non tu iuratus mihi es?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h25
+:END:
+
+Iuratus sum, et nunc iurabo, si quid vóluptati est mihi:
+ius iurandum rei servandae, non perdendae conditum est.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h26
+:END:
+
+Cedo sis mihi talentum magnum argenti, periurissime.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h27
+:END:
+
+Gripe, quod tu istum talentum poscis?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h28
+:END:
+
+Iuratust mihi
+dare.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h29
+:END:
+
+Libet iurare. tun meo póntifex peiurio es?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h30
+:END:
+
+Qua pro re argentum promisit hic tibi?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h31
+:END:
+
+Si vidulum
+hunc redegissem in potestatem eius, iuratust dare
+mihi talentum magnum argenti.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h32
+:END:
+
+Cedo quicum habeam iudicem,
+
+ni dolo malo instipulatus sis nive etiamdum haud siem
+quinque et viginti annos natus.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h33
+:END:
+
+Habe cum hóc.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h34
+:END:
+
+Aliost opus.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h35
+:END:
+
+Iám ab isto auferre haud potis sim, si istunc condemnavero.
+promisistin huic argentum?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h36
+:END:
+
+Fateor.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h37
+:END:
+
+Quod servo meo
+promisisti, meum esse oportet, ne tu, leno, postules
+
+te hic fide lenonia uti: non potes.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h38
+:END:
+
+Iam te ratu's ratus es
+nactum hominem quem defraudares? dandum huc argentum est probum:
+id ego continuo huic dabo adeo, mé ut hic emittat manu.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h39
+:END:
+
+Quando ergo erga te benignus ego fui atque opera mea
+haec tibi sunt servata—
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h40
+:END:
+
+Immo hercle mea, ne tu dicas tua.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h41
+:END:
+
+(Si sapies, tacebis) tum te mihi benigne itidem addecet
+bene merenti bene referre gratiam.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h42
+:END:
+
+Nempe pró meo
+iure oras?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h43
+:END:
+
+Mirum quin tuom ius meo periclo aps te expetam.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h44
+:END:
+
+Salvos sum, leno labascit, libertas portenditur.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h45
+:END:
+
+Vidulum istunc ille invenit, illud mancipium meum est;
+
+ego tibi hunc porro servavi cum magna pecunia.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h46
+:END:
+
+Gratiam habeo, et de talento nulla causa est quin feras,
+quod isti sum iuratus.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h47
+:END:
+
+Heus tu, mihi dato ergo, si sapis.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h48
+:END:
+
+Tacen an non?
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h49
+:END:
+
+Tu meam rem simulas agere, tibi mu  [omitted]  .
+non hercle istoc me intervortes, si aliam praedam perdidi.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h50
+:END:
+
+Vapulabis, verbum si addis istúc unum.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h51
+:END:
+
+Vel hercle énica,
+non tacebo umquam alio pacto, nisi talento comprimor.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h52
+:END:
+
+Tibi operam hic quidem dát. tace.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h53
+:END:
+
+Concede hoc tu, leno.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h54
+:END:
+
+Licet.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h55
+:END:
+
+Palam age, nolo ego murmurillum neque susurrum fieri.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h56
+:END:
+
+Dic mihi, quanti íllam emisti tuam alteram mulierculam,
+
+Ampeliscam?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h57
+:END:
+
+Mille nummum denumeravi.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h58
+:END:
+
+Vin tibi
+condicionem luculentam ferre me?
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h59
+:END:
+
+Sane volo.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h60
+:END:
+
+Dividuom talentum faciam.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h61
+:END:
+
+Bene facis.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h62
+:END:
+
+Pro illa altera,
+libera ut sit, dimidium tibi sume, dimidium huc cedo.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h63
+:END:
+
+Maxime.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h64
+:END:
+
+Pro illo dimidio égo Gripum emittam manu,
+
+quem propter tu vidulum et ego gnatam inveni.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h65
+:END:
+
+Bene facis,
+gratiam habeo magnam.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h66
+:END:
+
+Quam mox mi argentum ergo redditur?
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h67
+:END:
+
+Res soluta est, Gripe. ego habeo.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h68
+:END:
+
+Át ego me hercle mavolo.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h69
+:END:
+
+Nihil hercle hic tibi est, né tu speres. iuris iurandi volo
+gratiam facias.
+
+** Gripvs
+:PROPERTIES:
+:CUSTOM_ID: h66-h70
+:END:
+
+Perii hercle. nisi me suspendo, occidi.
+
+numquam hercle iterum defraudabis me quidem post hunc diem.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h71
+:END:
+
+Hic hodie cenato, leno.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h72
+:END:
+
+Fiat, condicio placet.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h73
+:END:
+
+Sequimini intro. spectatores, vos quoque ad cenam vocem,
+ni daturus nil sim neque sit quicquam pollucti domi,
+nive adeo vocatos credam vos esse ad cenam foras.
+
+verum si voletis plausum fabulae huic clarum dare,
+comissatum omnes venitote ad me ad annos sedecim.
+vos hic hodie cenatote ambó.
+
+** Labrax
+:PROPERTIES:
+:CUSTOM_ID: h66-h74
+:END:
+
+Fiat.
+
+** Daemones
+:PROPERTIES:
+:CUSTOM_ID: h66-h75
+:END:
+
+Plausum date.

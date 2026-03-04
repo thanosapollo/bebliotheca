@@ -1,0 +1,23 @@
+#+TITLE: Hymn 15 To Heracles the Lion-Hearted
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-15-to-heracles-the-lion-hearted--anonymous
+
+#+BEGIN_QUOTE
+Hymn 15 To Heracles the Lion-Hearted translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+I will sing of Heracles, the son of Zeus and much the mightiest of men on earth.
+Alcmena bare him in Thebes, the city of lovely
+dances, when the dark-clouded Son of Cronos had lain with her. Once he used to wander over
+unmeasured tracts of land and sea
+at the bidding of King Eurystheus, and himself did many deeds of violence and endured
+many; but now he lives happily in the glorious home of snowy Olympus, and has neat-ankled Hebe for his wife. Hail, lord, son of Zeus' Give
+me success and prosperity.

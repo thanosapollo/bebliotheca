@@ -1,0 +1,6579 @@
+#+TITLE: Heautontimorumenos
+#+AUTHOR: Publius Terentius Afer (Terence)
+#+FILETAGS: :classical:2c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/la/heautontimorumenos-or-the-self-tormenter--publius-terentius-afer-terence
+#+LANGUAGE: la
+
+#+BEGIN_QUOTE
+Heautontimorumenos edited by Edward St. John Parry
+#+END_QUOTE
+
+* front
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+ANTIPHILA, amica Cliniae.
+BACCHIS, amica Clitiphonis.
+CHREMES, Clitiphonis pater.
+CLINIA, Menedemi filius.
+CLITIPHO, Chremetis filius.
+DROMO, servus Menedemi.
+MENEDEMUS, Cliniae pater.
+NUTRIX.
+PHRYGIA, ancilla.
+SOSTRATA, Chremetis uxor.
+SYRUS, servus Chremetis.
+
+INTRODUCTION.
+THE plot of the Heautontimorumenos turns, as is often the case, partly upon the recognition of a child which had been exposed as an infant. Sostrata the wife of Chremes had an infant daughter, which her husband refused to bring up, and ordered to be exposed. She gave it to an old woman for that purpose, attaching to its dress a ring, from a superstitious feeling that the child ought not to be entirely disinherited. The old woman, instead of exposing the child, brought her up as her own daughter, and named her Antiphila. When she grew up she attracted the attention of Clinia. son of Menedemus. Their attachment continued for some time before it came to the knowledge of Clinia’s father. As soon as he discovered it he began to persecute his son about the affair, till at last the young man, to put an end to the dispute, went to Asia, and there entered the service of the king. No sooner had he gone than his father repented his severity; and finding that his son was past recall, he determined, as the only amends he could make, to inflict upon himself a continual penance. He sold his house, and all his servants except a few to work upon a farm which he purchased. There he kept himself at work from morning to night. Three months passed in this way, and at the end of that time, Clinia, who could not support any longer his absence from his mistress, returns and is received into the house of Chremes, whose son Clitipho had been his friend from his childhood. No sooner has he arrived than his servant Dromo is sent with Syrus, Clitipho’s slave, to bring Antiphila to her lover. Syrus discharges his errand more cleverly than was intended; he found Antiphila alone, for her reputed mother, Philtere, had died in the interval, and in circumstances which shewed that she was still faithful to Clinia. Thinking besides to do a stroke of business for his own master, he brings at the same time Bacchis, Clitipho’s mistress, a very different character from Antiphila: and that Chremes may have no suspicion of this connection of his son’s, it is arranged that Bacchis shall pass for Clinia’s mistress, and Antiphila for one of her servants. While this is going on, Chremes and Menedemus have been talking together; Chremes remonstrating with Menedemus upon his unintelligible conduct in working himself to death instead of superintending his slaves, and Menedemus explaining his reasons by an account of what led to his son’s departure, and his consequent determination to punish himself till his return.
+
+Chremes being unable to shake his friend’s determination, returns to keep the festival of Bacchus at his own house. There he finds the party assembled, and what with Bacchis and the young men they make a pretty night of it, nearly emptying his cellar, and turning the house upside down. Early next morning Chremes, who has a strong head for an old man, goes to meet his friend Menedemus as he comes out to his work, and informs him of his son’s return. He advises him to be cautious in receiving him, tells him what sort of a life he has to expect, and recommends him to do any thing rather than openly encourage his son in such debauchery. Menedemus begs him to do any thing he can to bring about a reunion with his son, even if it be to encourage the young man and Syrus to cheat him in any imaginable way. Chremes enters into the plan: and encourages Syrus to devise some scheme for making Menedemus supply Clinia with the means of indulgence. Syrus has already some such scheme on foot; but it is to be directed against Chremes, for he has promised Bacchis ten minae for her share in the night’s amusements, and intends to get it out of his master. So he at once explains to his master a plausible scheme that he has, namely, to induce Menedemus to buy Antiphila from Bacchis, to whom she has been left in pawn by Philtere, on the representation that she is a captive from Caria whom her friends are sure to ransom very handsomely. Meanwhile Sostrata has discovered, through the medium of the aforesaid ring, that Antiphila is her own daughter. This disconcerts Syrus, who now springs a new mine; he sends Bacchis off to Menedemus’ house, and explains to Chremes that the only way to deceive Menedemus now, is to pretend that she is Clitipho’s mistress, and at the same time to get Clinia to profess an attachment to Antiphila, and desire his father to demand her in marriage, for then the old man would have to supply him with money for the marriage, which of course would go to his mistress Bacchis. At the same time Chremes is persuaded to release his daughter from her pledge to Bacchis; and the money is given to Clitipho to carry to Bacchis for the purpose forsooth of more fully persuading Menedemus that she is his mistress. At this point the dénouement takes place. Clitipho acts his part of Bacchis’ lover a little too well, and all the circumstances are discovered by Menedemus, who proceeds to inform Chremes of the real state of the case. Now the two old men change places, Chremes is enraged beyond measure at having been made the dupe of his dissolute son, and Menedemus has to urge upon him the same maxims of forbearance which Chremes had used to him. Clitipho has to undergo a complete humiliation; but is ultimately received into favour by his father upon his promising to settle and lead a respectable life.
+
+This play is remarkable for a supposed irregularity in its construction, which has made it the subject of an animated controversy among advocates of the /Unities./ It is clear that the opening scene of the play is laid at evening, when Menedemus is just finishing his day’s work. The Third Act commences with the following morning, and in the interval the supper at Chremes’ house takes place. This in itself, though an exception to the general arrangement of Terence’s plays, is not a very important matter. The theory of the /Unities/ is not to be received as an absolute law for the Drama: and there is nothing in this case which is not abundantly justified by many other instances. Upon this point turns a theory which was first mooted by Scaliger, and afterwards maintained by Madame Dacier,—that this play was acted in two portions: the first two Acts at night, after sunset; and the three remaining Acts the next morning at break of day; the interval between the two parts being taken up with the supper at Chremes’ house. This idea proceeds entirely upon the supposed necessity of filling up the interval between the Second and Third Acts; and is, as far as we are informed, entirely gratuitous. Colman has shown the absurdity of the idea very well in his remarks on this subject. Any one who considers that the Roman Drama was performed in the open air, will at once see the improbability of such a mode of representation. The Roman Amphitheatre was at any time a disadvantageous arena for the Drama. What must have been the success of a play, acted partly at night-fall, partly before breakfast next morning? Nothing but a devotion to the /Unities/ could have led to such an idea; and it will be dismissed without any further discussion, now that a more artistic idea of Dramatic Unity is generally recognized.
+
+HEAUTONTIMORUMENOS. ACTA LUDIS MEGALENSIBUS, L. CORNELIO LENTULO L. VALERIO FLACCO AEDILIBUS CURULIBUS. EGERUNT L. AMBIVIUS TURPIO ET L. ATTILIUS PRAENESTINUS. MODOS FECIT FLACCUS CLAUDII. GRAECA EST MENANDRU. ACTA PRIMUM TIBIIS IMPARIBUS; DEINDE DUABUS DEXTRIS. ACTA III. EDITA M. IUVENTIO ET T. SEMPRONIO COSS.
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** PROLOGUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+NE cui sit vestrum mirum, cur partes seni
+Poeta dederit quae sunt adolescentium,
+Id primum dicam: deinde quod veni eloquar.
+Ex integra Graeca integram comoediam
+
+Hodie sum acturus Heautontimorumenon;
+Duplex quae ex argumento facta est simplici.
+Novam esse ostendi, et quae esset: nunc qui scripserit,
+Et cuia Graeca sit, ni partem maximam
+Existimarem scire vestrum, id dicerem.
+
+Nunc, quamobrem has partes didicerim, paucis dabo.
+Oratorem voluit esse me, non prologum.
+Vestrum iudicium fecit; me actorem dedit.
+Sed hic actor tantum poterit a facundia,
+Quantum ille potuit cogitare commode
+
+Qui orationem hanc scripsit quam dicturus sum.
+Nam quod rumores distulerunt malevoli,
+Multas contaminasse Graecas dum facit
+Paucas Latinas; factum hic esse id non negat,
+Neque se pigere: et deinde facturum autumat.
+
+Habet bonorum exemplum, quo exemplo sibi
+Licere id facere quod illi fecerunt putat.
+Tum quod malevolus vetus poeta dictitat,
+Repente ad studium hunc se applicasse musicum,
+Amicum ingenio fretum, haud natura sua;
+
+Arbitrium vestrum, vestra existimatio
+Valebit; quamobrem omnes vos oratos volo,
+Ne plus iniquum possit quam aequum oratio.
+Facite aequi sitis: date crescendi copiam
+Novarum qui spectandi faciunt copiam
+
+Sine vitiis; ne ille pro se dictum existimet,
+Qui nuper fecit servo currenti in via
+Decesse populum. Cur insano serviat?
+De illius peccatis plura dicet cum dabit
+Alias novas, nisi finem maledictis facit.
+
+Adeste aequo animo; date potestatem mihi
+Statariam agere ut liceat per silentium;
+Ne semper servus currens, iratus senex,
+Edax parasitus, sycophanta autem impudens,
+Avarus leno, assidue agendi sint mihi,
+
+Clamore summo, cum labore maximo.
+Mea causa causam hanc iustam esse animum inducite,
+Ut aliqua pars laboris minuatur mihi.
+Nam nunc novas qui scribunt nihil parcunt seni:
+Si qua laboriosa est, ad me curritur;
+
+Sin lenis est, ad alium defertur gregem.
+In hac est pura oratio. Experimini
+In utramque partem ingenium quid possit meum.
+Si nunquam avare pretium statui arti meae,
+Et eum esse quaestum in animum induxi maximum,
+
+Quam maxime servire vestris commodis;
+Exemplum statuite in me, ut adolescentuli
+Vobis placere studeant potius quam sibi.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+* 53
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+(CHREMES. MENEDEMUS.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+Quanquam haec inter nos nupera notitia admodum est,
+Inde adeo quod agrum in proximo hic mercatus es,
+Nec rei fere sane amplius quicquam fuit;
+Tamen vel virtus tua me, vel vicinitas,
+
+Quod ego in propinqua parte amicitiae puto,
+Facit ut te audacter moneam et familiariter,
+Quod mihi videre praeter aetatem tuam
+Facere, et praeter quam res te adhortatur tua.
+Nam proh Deum atque hominum fidem, quid vis tibi?
+
+Quid quaeris? annos sexaginta natus es,
+Aut plus eo ut coniicio: agrum in his regionibus
+Meliorem, neque preti maioris, nemo habet;
+Servos complures: proinde quasi nemo siet,
+Ita tute attente illorum officia fungere.
+
+Nunquam tam mane egredior, neque tam vesperi
+Domum revertor, quin te in fundo conspicer
+Fodere, aut arare, aut aliquid ferre. Denique
+Nullum remittis tempus, neque te respicis.
+Haec non voluptati tibi esse satis certo scio.
+
+At enim dices, /Quantum hic operis fiat, poenitet./
+Quod in opere faciendo operae consumis tuae,
+Si sumas in illis exercendis, plus agas.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h2
+:END:
+
+Chreme, tantumne est ab re tua oti tibi
+Aliena ut cures, eaque nihil quae ad te attinent?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h3
+:END:
+
+Homo sum: humani nihil a me alienum puto.
+Vel me monere hoc, vel percontari puta.
+Rectum est? ego ut faciam: non est? te ut deterream.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h4
+:END:
+
+Mihi sic est usus: tibi ut opus facto est, face.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h5
+:END:
+
+An cuiquam est usus homini se ut cruciet?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h6
+:END:
+
+Mihi.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h7
+:END:
+
+Si quid laboris est, nollem: sed quid istuc mali est,
+Quaeso? quid de te tantum meruisti?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h8
+:END:
+
+Eheu!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h9
+:END:
+
+Ne lacrima: atque istuc quicquid est fac me ut sciam:
+Ne retice: ne verere: crede, inquam, mihi,
+Aut consolando, aut consilio, aut re iuvero.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h10
+:END:
+
+Scire hoc vis?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h11
+:END:
+
+Hac quidem causa qua dixi tibi.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h12
+:END:
+
+Dicetur.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h13
+:END:
+
+At istos rastros interea tamen
+Appone: ne labora.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h14
+:END:
+
+Minime.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h15
+:END:
+
+Quam rem agis?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h16
+:END:
+
+Sine me vacivum tempus ne quod dem mihi
+Laboris.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h17
+:END:
+
+Non sinam, inquam.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h18
+:END:
+
+Ah, non aequum facis.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h19
+:END:
+
+Hui, tam graves hos, quaeso?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h20
+:END:
+
+Sic meritum est meum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h21
+:END:
+
+Nunc loquere.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h22
+:END:
+
+Filium unicum adolescentulum
+Habeo: ah, quid dixi habere me? immo habui, Chreme:
+Nunc habeam necne incertum est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h23
+:END:
+
+Quid ita istuc?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h24
+:END:
+
+Scies.
+Est e Corintho hic advena anus paupercula:
+
+Eius filiam ille amare coepit perdite,
+Prope iam ut pro uxore haberet: haec clam me omnia.
+Ubi rem rescivi coepi non humanitus,
+Neque ut animum decuit aegrotum adolescentuli,
+Tractare; sed vi, et via pervulgata patrum.
+
+Quotidie accusabam. /Hem, tibine haec diutius/
+/Licere speras facere me vivo patre,/
+/Amicam ut habeas prope iam in uxoris loco?/
+/Erras, si id credis, et me ignoras, Clinia./
+/Ego te meum esse dici tantisper volo,/
+
+/Dum, quod te dignum est, facies: sed si id non facis,/
+/Ego quod me in te sit facere dignum invenero./
+/Nulla adeo ex re istuc fit nisi ex nimio otio./
+/Ego istuc aetatis non amori operam dabam,/
+/Sed in Asiam hinc abii propter pauperiem; atque ibi/
+
+/Simul rem, et belli gloriam armis repperi./
+Postremo adeo res rediit: adolescentulus,
+Saepe eadem et graviter audiendo victus est,
+Et aetate putavit me et benevolentia
+Plus scire et providere quam se ipsum sibi.
+
+In Asiam ad regem militatum abiit, Chreme.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h25
+:END:
+
+Quid ais?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h26
+:END:
+
+Clam me profectus, menses tres abest.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h27
+:END:
+
+Ambo accusandi; etsi illud inceptum tamen
+Animi est pudentis signum, et non instrenui.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h28
+:END:
+
+Ubi comperi ex iis qui ei fuere conscii,
+
+Domum revertor moestus, atque animo fere
+Perturbato, atque incerto prae aegritudine:
+Assido; accurrunt servi, soccos detrahunt;
+Video alios festinare, lectos sternere,
+Coenam apparare: pro se quisque sedulo
+
+Faciebat quo illam mihi lenirent miseriam.
+Ubi video haec, coepi cogitare: /Hem! tot mea/
+/Solius solliciti sint causa, ut me unum expleant?/
+/Ancillae tot me vestiant? sumtus domi/
+/Tantos ego solus faciam? sed gnatum unicum,/
+
+/Quem pariter uti his decuit, aut etiam amplius,/
+/Quod illa aetas magis ad haec utenda idonea est,/
+/Eum ego hinc eieci miserum iniustitia mea./
+/Malo quidem me dignum quovis deputem,/
+/Si id faciam: nam usque dum ille vitam illam colet/
+
+/Inopem, carens patria ob meas iniurias,/
+/Interea usque illi de me supplicium dabo,/
+/Laborans, quaerens, parcens, illi serviens./
+Ita facio prorsus: nihil relinquo in aedibus
+Nec vas, nec vestimentum: conrasi omnia,
+
+Ancillas, servos, nisi eos qui opere rustico
+Faciundo facile sumtum exercerent suum:
+Omnes produxi ac vendidi: inscripsi ilico
+Aedes mercede; quasi talenta ad quindecim
+Coegi; agrum hunc mercatus sum; hic me exerceo.
+
+Decrevi tantisper me minus iniuriae,
+Chreme, meo gnato facere dum fiam miser;
+Nec fas esse ulla me voluptate hic frui,
+Nisi ubi ille huc salvus redierit meus particeps.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h29
+:END:
+
+Ingenio te esse in liberos leni puto,
+
+Et illum obsequentem si quis recte aut commode
+Tractaret. Verum nec tu illum satis noveras,
+Nec te ille: hocque fit ubi non vere vivitur.
+Tu illum numquam ostendisti quanti penderes,
+Nec tibi ille est credere ausus quae est aequum patri;
+
+Quod si esset factum haec numquam evenissent tibi.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h30
+:END:
+
+Ita res est, fateor: peccatum a me maximum est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h31
+:END:
+
+Menedeme, at porro recte spero, et illum tibi
+Salvum affuturum esse hic confido propediem.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h32
+:END:
+
+Utinam ita Di faxint.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h33
+:END:
+
+Facient: nunc, si commodum est,
+
+Dionysia hic sunt; hodie apud me sis volo.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h34
+:END:
+
+Non possum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h35
+:END:
+
+Cur non? quaeso, tandem aliquantulum
+Tibi parce: idem absens facere te hoc vult filius.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h36
+:END:
+
+Non convenit qui illum ad laborem impulerim
+Nunc me ipsum fugere.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h37
+:END:
+
+Sicine est sententia?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h38
+:END:
+
+Sic.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h39
+:END:
+
+Bene vale.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h40
+:END:
+
+Et tu.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h7-h41
+:END:
+
+Lacrimas excussit mihi,
+Miseretque me eius. Sed, ut diei tempus est,
+Monere oportet me hunc vicinum Phaniam,
+Ad coenam ut veniat. Ibo, visam si domi est.
+Nihil opus fuit monitore: iam dudum domi
+
+Praesto apud me esse aiunt: egomet convivas moror.
+Ibo adeo hinc intro: sed quid crepuerunt fores
+Hinc a me? quisnam egreditur? huc concessero.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+* 175
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+(CLITIPHO. CHREMES.)
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+Nihil adhuc est quod vereare, Clinia: haudquaquam etiam cessant:
+Et illam simul cum nuntio tibi hic ego affuturam hodie scio:
+Proin tu sollicitudinem istam falsam quae te excruciat mittas.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h2
+:END:
+
+Quicum loquitur filius?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h3
+:END:
+
+Pater adest quem volui: adibo. Pater, opportune advenis.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h4
+:END:
+
+Quid id est?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h5
+:END:
+
+Hunc Menedemum nostin nostrum vicinum?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h6
+:END:
+
+Probe.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h7
+:END:
+
+Huic filium scis esse?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h8
+:END:
+
+Audivi esse in Asia.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h9
+:END:
+
+Non est, pater:
+Apud nos est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h10
+:END:
+
+Quid ais?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h11
+:END:
+
+Advenientem, e navi egredientem, ilico
+Adduxi ad coenam: nam mihi magna cum eo iam inde usque a pueritia
+
+Fuit semper familiaritas.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h12
+:END:
+
+Voluptatem magnam nuntias.
+Quam vellem Menedemum invitatum ut nobiscum esset hodie amplius;
+Ut hanc laetitiam nec opinanti primus ei obiicerem domi:
+Atque etiam nunc tempus est.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h13
+:END:
+
+Cave faxis: non opus est, pater.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h14
+:END:
+
+Quapropter?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h15
+:END:
+
+Quia enim incertum est etiam, quid se faciat. Modo venit;
+
+Timet omnia, patris iram et animum amicae se erga ut siet suae:
+Eam misere amat: propter eam haec turba atque abitio evenit.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h16
+:END:
+
+Scio.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h17
+:END:
+
+Nunc servulum ad eam in urbem misit, et ego nostrum una Syrum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h18
+:END:
+
+Quid narrat?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h19
+:END:
+
+Quid ille? miserum se esse.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h20
+:END:
+
+Miserum? quem minus crederes?
+Quid reliqui est quin habeat quae quidem in homine dicuntur bona;
+
+Parentes, patriam incolumem, amicos, genus, cognatos, divitias?
+Atque haec perinde sunt ut illius animus qui ea possidet:
+Qui uti scit ei bona; illi qui non utitur recte mala.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h21
+:END:
+
+Immo ille fuit senex importunus semper: et nunc nihil magis
+Vereor quam ne quid in illum iratus plus satis faxit, pater.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h22
+:END:
+
+Illene? sed reprimam me: nam in metu esse hunc illi est utile.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h23
+:END:
+
+Quid tute tecum?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h24
+:END:
+
+Dicam: ut ut erat, mansum tamen oportuit.
+Fortasse aliquantum iniquior erat praeter eius libidinem:
+Pateretur; nam quem ferret, si parentem non ferret suum?
+Huncine erat aequum ex illius more, an illum ex huius vivere?
+
+Et quod illum insimulat durum, id non est: nam parentum iniuriae
+Uniusmodi sunt ferme, paulo qui est homo tolerabilis.
+Scortari crebro nolunt; nolunt crebro convivarier:
+Praebent exigue sumtum: atque haec sunt tamen ad virtutem omnia.
+Verum ubi animus semel se cupiditate devinxit mala,
+
+Necesse est, Clitipho, consilia consequi consimilia: hoc
+Scitum est; periculum ex aliis facere, tibi quod ex usu siet.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h9-h25
+:END:
+
+Ita credo.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h9-h26
+:END:
+
+Ego ibo hinc intro, ut videam nobis quid coenae siet.
+Tu, ut tempus est diei, vide sis ne quo hinc abeas longius.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+* 213
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+(CLITIPHO.)
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+Quam iniqui sunt patres in omnes adolescentes iudices,
+Qui aequum esse censent nos iam a pueris ilico nasci senes,
+Neque illarum affines esse rerum quas fert adolescentia.
+Ex sua libidine moderantur, nunc quae est, non quae olim fuit.
+
+Mihi si unquam filius erit, nae ille facili me utetur patre;
+Nam et cognoscendi et ignoscendi dabitur peccati locus;
+Non ut meus, qui mihi per alium ostendit suam sententiam.
+Perii! is mihi, ubi adbibit plus paulo, sua quae narrat facinora!
+Nunc ait, /Periculum ex aliis facito, tibi quod ex usu siet:/
+
+Astutus: nae ille haud scit quam mihi nunc surdo narret fabulam.
+Magis nunc me amicae dicta stimulant: /Da mihi, atque affer mihi;/
+Cui quid respondeam nihil habeo; neque me quisquam est miserior:
+Nam hic Clinia, etsi is quoque suarum rerum satagit, attamen
+Habet bene ac pudice eductam, ignaram artis meretriciae.
+
+Mea est potens, procax, magnifica, sumtuosa, nobilis.
+Tum quod dem ei recte est; nam, nihil esse mihi, religio est dicere.
+Hoc ego mali non pridem inveni; neque etiamdum scit pater.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+* 230
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+(CLINIA. CLITIPHO.)
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h14-h1
+:END:
+
+Si mihi secundae res de amore meo essent, iamdudum, scio,
+Venissent: sed vereor ne mulier me absente hic corrupta sit.
+Concurrunt multae opiniones quae mihi animum exaugeant;
+Occasio, locus, aetas, mater cuius sub imperio est mala;
+
+Cui nihil iam praeter pretium dulce est.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h2
+:END:
+
+Clinia.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h14-h3
+:END:
+
+Hei misero mihi!
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h4
+:END:
+
+Etiam caves ne videat forte hinc te a patre aliquis exiens?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h14-h5
+:END:
+
+Faciam: sed nescio quid profecto mihi animus praesagit mali.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h6
+:END:
+
+Pergin istuc prius diiudicare quam scis quid veri siet?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h14-h7
+:END:
+
+Si nihil mali esset, iam hic adessent.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h8
+:END:
+
+Iam aderunt.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h14-h9
+:END:
+
+Quando istuc erit?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h10
+:END:
+
+Non cogitas hinc longule esse? et nosti mores mulierum:
+Dum moliuntur, dum conantur, annus est.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h14-h11
+:END:
+
+O Clitipho,
+Timeo.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h12
+:END:
+
+Respira: eccum Dromonem cum Syro: una adsunt tibi.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+* 242
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+(SYRUS. DROMO. CLITIPHO. CLINIA.)
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+Ain tu?
+
+** DROMO
+:PROPERTIES:
+:CUSTOM_ID: h16-h2
+:END:
+
+Sic est.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h3
+:END:
+
+Verum interea dum sermones caedimus,
+Illae sunt relictae.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h4
+:END:
+
+Mulier tibi adest; audin, Clinia?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h5
+:END:
+
+Ego vero audio nunc demum et video et valeo, Clitipho.
+
+** DROMO
+:PROPERTIES:
+:CUSTOM_ID: h16-h6
+:END:
+
+Minime mirum, adeo impeditae sunt: ancillarum gregem
+
+Ducunt secum.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h7
+:END:
+
+Perii. Unde illi sunt ancillae?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h8
+:END:
+
+Men rogas?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h9
+:END:
+
+Non oportuit relictas: portant quid rerum!
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h10
+:END:
+
+Hei mihi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h11
+:END:
+
+Aurum, vestem: et vesperascit, et non noverunt viam.
+Factum a nobis stulte est: abidum tu, Dromo, illis obviam,
+Propera: quid stas?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h12
+:END:
+
+Vae misero mihi, quanta de spe decidi!
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h13
+:END:
+
+Quid istuc? quae res te sollicitat autem?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h14
+:END:
+
+Rogitas quid siet?
+Viden tu ancillas, aurum, vestem? quam ego cum una ancillula
+Hic reliqui. Unde ea esse censes?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h15
+:END:
+
+Vah! nunc demum intelligo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h16
+:END:
+
+Di boni, quid turbae est? aedes nostrae vix capient, scio.
+Quid comedent? quid ebibent? quid sene erit nostro miserius?
+
+Sed video eccos quos volebam.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h17
+:END:
+
+O Iupiter, ubinam est fides?
+Dum ego propter te errans patria careo demens, tu interea loci
+Conlocupletasti te, Antiphila; et me in his deseruisti malis;
+Propter quam in summa infamia sum, et meo patri minus obsequens;
+Cuius nunc pudet me et miseret, qui harum mores cantabat mihi
+
+Monuisse frustra; neque potuisse unquam ab hac me expellere;
+Quod tamen nunc faciam: tum quum gratum mihi esse potuit nolui.
+Nemo est miserior me.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h18
+:END:
+
+Hic de nostris verbis errat videlicet
+Quae hic sumus locuti. Clinia, aliter tuum amorem atque est accipis:
+Nam et vita est eadem, et animus te erga idem ac fuit;
+
+Quantum ex ipsa re coniecturam cepimus.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h19
+:END:
+
+Quid est, obsecro? nam mihi nunc nihil rerum omnium est
+Quod malim quam me hoc falso suspicarier.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h20
+:END:
+
+Hoc primum, ut ne quid huius rerum ignores; anus
+Quae est dicta mater esse ei antehac non fuit:
+
+Ea obiit mortem: hoc ipsa in itinere alterae
+Dum narrat forte audivi.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h21
+:END:
+
+Quaenam est altera?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h22
+:END:
+
+Mane: hoc quod coepi primum enarrem, Clitipho:
+Post istuc veniam.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h23
+:END:
+
+Propera.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h24
+:END:
+
+Iam primum omnium,
+Ubi ventum ad aedes est, Dromo pultat fores:
+
+Anus quaedam prodit: haec ubi aperuit ostium,
+Continuo hic se coniecit intro: ego consequor.
+Anus foribus obdit pessulum; ad lanam redit.
+Hinc sciri potuit, aut nusquam alibi, Clinia,
+Quo studio vitam suam te absente exegerit,
+
+Ubi de improviso interventum est mulieri:
+Nam ea res dedit tum existimandi copiam
+Quotidianae vitae consuetudinem,
+Quae cuiusque ingenium ut sit declarat maxime:
+Texentem telam studiose ipsam offendimus,
+
+Mediocriter vestitam veste lugubri,
+Eius anuis causa, opinor, quae erat mortua;
+Sine auro, tum ornatam ita uti quae ornantur sibi;
+Nulla mala re esse expolitam muliebri;
+Capillus passus, prolixus, circum caput
+
+Reiectus negligenter: pax.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h25
+:END:
+
+Syre mi, obsecro,
+Ne me in laetitiam frustra coniicias.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h26
+:END:
+
+Anus
+Subtemen nebat: praeterea una ancillula
+Erat; ea texebat una, pannis obsita,
+Neglecta, immunda illuvie.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h27
+:END:
+
+Si haec sunt, Clinia,
+
+Vera, ita uti credo, quis te est fortunatior?
+Scin tu hanc quam dicit sordidatam et sordidam?
+Magnum hoc quoque signum est dominam esse extra noxiam,
+Quum eius tam negliguntur internuntii:
+Nam disciplina est eisdem munerarier
+
+Ancillas primum ad dominas qui affectant viam.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h28
+:END:
+
+Perge, obsecro te, et cave ne falsam gratiam
+Studeas inire. Quid ait, ubi me nominas?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h29
+:END:
+
+Ubi dicimus redisse te, et rogare uti
+Veniret ad te, mulier telam deserit
+
+Continuo, et lacrimis opplet os totum sibi, ut
+Facile scires desiderio id fieri tuo.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h30
+:END:
+
+Prae gaudio, ita me Di ament, ubi sim nescio:
+Ita timui.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h31
+:END:
+
+At ego nihil esse scibam, Clinia.
+Agedum vicissim, Syre, dic quae illa est altera?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h32
+:END:
+
+Adducimus tuam Bacchidem.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h33
+:END:
+
+Hem, quid? Bacchidem?
+Eho sceleste, quo illam ducis?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h34
+:END:
+
+Quo ego illam? ad nos scilicet.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h35
+:END:
+
+Ad patremne?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h36
+:END:
+
+Ad eum ipsum.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h37
+:END:
+
+O hominis impudentem audaciam!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h38
+:END:
+
+Heus tu,
+Non fit sine periclo facinus magnum et memorabile.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h39
+:END:
+
+Hoc vide: in mea vita tu tibi laudem is quaesitum, scelus;
+
+Ubi si paululum modo quid te fugerit, ego perierim.
+Quid illo facias?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h40
+:END:
+
+At enim.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h41
+:END:
+
+Quid enim?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h42
+:END:
+
+Si sinas, dicam.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h43
+:END:
+
+Sine.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h44
+:END:
+
+Sino.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h45
+:END:
+
+Ita res est haec nunc, quasi cum.—
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h46
+:END:
+
+Quas, malum, ambages mihi
+Narrare occipit?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h47
+:END:
+
+Syre, verum hic dicit; mitte: ad rem redi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h48
+:END:
+
+Enimvero reticere nequeo: multimodis iniurius,
+
+Clitipho, es; neque ferri potis est.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h49
+:END:
+
+Audiendum hercle est: tace.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h50
+:END:
+
+Vis amare; vis potiri; vis quod des illi effici:
+Tuum esse in potiendo periclum non vis: haud stulte sapis;
+Siquidem id sapere est, velle te id quod non potest contingere:
+Aut haec cum illis sunt habenda, aut illa cum his mittenda sunt.
+
+Harum duarum conditionum nunc utram malis vide;
+Etsi consilium quod cepi rectum esse et tutum scio:
+Nam apud patrem tua amica tecum sine metu ut sit copia est.
+Tum quod illi argentum es pollicitus eadem hac inveniam via;
+Quod ut efficerem orando surdas iam aures reddideras mihi.
+
+Quid aliud tibi vis?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h51
+:END:
+
+Siquidem hoc fit.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h52
+:END:
+
+/Siquidem./ Experiundo scies.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h53
+:END:
+
+Age, age, cedo istuc tuum consilium: quid id est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h54
+:END:
+
+Adsimulabimus
+Tuam amicam huius esse.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h55
+:END:
+
+Pulchre: cedo quid hic faciet sua?
+An ea quoque dicetur huius, si una haec dedecori est parum?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h56
+:END:
+
+Immo ad tuam matrem abducetur.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h57
+:END:
+
+Quid eo?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h58
+:END:
+
+Longum est, Clitipho,
+
+Si tibi narrem. Quamobrem id faciam vera causa est.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h59
+:END:
+
+Fabulae!
+Nihil satis firmi video quamobrem accipere hunc mihi expediat metum.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h60
+:END:
+
+Mane. Habeo aliud, si istud metuis; quod ambo confiteamini
+Sine periclo esse.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h61
+:END:
+
+Huiusmodi, obsecro, aliquid reperi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h62
+:END:
+
+Maxime.
+Ibo obviam hinc: dicam ut revertantur domum.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h63
+:END:
+
+Hem!
+
+Quid dixti?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h64
+:END:
+
+Ademtum tibi iam faxo omnem metum,
+In aurem utramvis otiose ut dormias.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h65
+:END:
+
+Quid ago nunc?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h66
+:END:
+
+Tune? quod boni est—
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h67
+:END:
+
+Syre, dic modo
+Verum.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h68
+:END:
+
+Age modo, hodie sero ac nequicquam voles.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h69
+:END:
+
+Datur: fruare dum licet, nam nescias—
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h70
+:END:
+
+Syre, inquam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h71
+:END:
+
+Perge porro; tamen istuc ago.
+Eius sit potestas posthac an nunquam tibi.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h72
+:END:
+
+Verum hercle istuc est. Syre, Syre inquam, heus, heus, Syre.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h73
+:END:
+
+Concaluit: quid vis?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h74
+:END:
+
+Redi, redi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h75
+:END:
+
+Adsum: dic quid est?
+Iam hoc quoque negabis tibi placere?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h76
+:END:
+
+Immo, Syre,
+
+Et me, et meum amorem, et famam permitto tibi.
+Tu es iudex: ne quid accusandus sis vide.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h77
+:END:
+
+Ridiculum est te istuc me admonere, Clitipho;
+Quasi istic minor mea res agatur quam tua.
+Hic si quid nobis forte adversi evenerit,
+
+Tibi erunt parata verba, huic homini verbera;
+Quapropter haec res neutiquam neglectu est mihi.
+Sed istunc exora ut suam esse assimulet.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h78
+:END:
+
+Scilicet
+Facturum me esse: in eum iam res rediit locum
+Ut sit necessus.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h79
+:END:
+
+Amo te merito, Clinia.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h16-h80
+:END:
+
+Verum illa ne quid titubet.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h81
+:END:
+
+Perdocta est probe.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h82
+:END:
+
+At hoc demiror, qui tam facile potueris
+Persuadere illi quae solet quos spernere!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h83
+:END:
+
+In tempore ad eam veni, quod rerum omnium est
+Primum: nam quendam misere offendi militem
+
+Eius noctem orantem: haec arte tractabat virum,
+Ut illius animum cupidum inopia incenderet;
+Eademque ut esset apud te hoc quam gratissimum.
+Sed heus tu, vide sis ne quid imprudens ruas:
+Patrem novisti ad has res quam sit perspicax:
+
+Ego te autem novi quam esse soleas impotens:
+Inversa verba, eversas cervices tuas,
+Gemitus, screatus, tussis, risus abstine.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h84
+:END:
+
+Laudabis.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h85
+:END:
+
+Vide sis.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h86
+:END:
+
+Tutemet mirabere.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h87
+:END:
+
+Sed quam cito sunt consecutae mulieres!
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h88
+:END:
+
+Ubi sunt? cur retines?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h89
+:END:
+
+Iam nunc haec non est tua.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h90
+:END:
+
+Scio; apud patrem: at nunc interim.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h91
+:END:
+
+Nihilo magis.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h92
+:END:
+
+Sine.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h93
+:END:
+
+Non sinam, inquam.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h94
+:END:
+
+Quaeso, paulisper.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h95
+:END:
+
+Veto.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h96
+:END:
+
+Saltem salutare.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h97
+:END:
+
+Abeas, si sapis.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h98
+:END:
+
+Eo.
+Quid istic?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h99
+:END:
+
+Manebit.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h16-h100
+:END:
+
+O hominem felicem!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h101
+:END:
+
+Ambula.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 381
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+(BACCHIS. ANTIPHILA. CLINIA. SYRUS.)
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h18-h1
+:END:
+
+Edepol te, mea Antiphila, laudo et fortunatam iudico,
+Id quum studuisti, isti formae ut mores consimiles forent:
+Minimeque, ita me Di ament, miror, si te sibi quisque expetit.
+Nam mihi quale ingenium haberes fuit indicio oratio.
+
+Et quum egomet nunc mecum in animo vitam tuam considero,
+Omniumque adeo vestrarum vulgus quae abs se segregant;
+Et vos esse istiusmodi, et nos non esse, haud mirabile est.
+Nam expedit bonas esse vobis: nos quibuscum est res non sinunt.
+Quippe forma impulsi nostra nos amatores colunt:
+
+Haec ubi immutata est, illi suum animum alio conferunt.
+Nisi si prospectum interea aliquid est, desertae vivimus.
+Vobis cum uno semel ubi aetatem agere decretum est viro,
+Cuius mos maxime est consimilis vostrum, hi se ad vos applicant.
+Hoc beneficio utrique ab utrisque vero devincimini,
+
+Ut numquam ulla amori vestro incidere possit calamitas.
+
+** ANTIPHILA
+:PROPERTIES:
+:CUSTOM_ID: h18-h2
+:END:
+
+Nescio alias: me quidem semper scio fecisse sedulo
+Ut ex illius commodo meum compararem commodum.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h18-h3
+:END:
+
+Ah!
+Ergo, mea Antiphila, tu nunc sola reducem me in patriam facis:
+Nam, dum abs te absum, omnes mihi labores fuere quos cepi leves
+
+Praeterquam tui carendum quod erat.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h4
+:END:
+
+Credo.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h18-h5
+:END:
+
+Syre, vix suffero.
+Hocine me miserum non licere meo modo ingenium frui?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h6
+:END:
+
+Immo, ut patrem tuum vidi esse habitum, diu etiam duras dabit.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h18-h7
+:END:
+
+Quisnam hic adolescens est qui intuitur nos?
+
+** ANTIPHILA
+:PROPERTIES:
+:CUSTOM_ID: h18-h8
+:END:
+
+Ah, retine me, obsecro.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h18-h9
+:END:
+
+Amabo, quid tibi est?
+
+** ANTIPHILA
+:PROPERTIES:
+:CUSTOM_ID: h18-h10
+:END:
+
+Disperii, perii misera.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h18-h11
+:END:
+
+Quid stupes,
+
+Antiphila?
+
+** ANTIPHILA
+:PROPERTIES:
+:CUSTOM_ID: h18-h12
+:END:
+
+Videon Cliniam an non?
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h18-h13
+:END:
+
+Quem vides?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h18-h14
+:END:
+
+Salve, anime mi.
+
+** ANTIPHILA
+:PROPERTIES:
+:CUSTOM_ID: h18-h15
+:END:
+
+O mi exspectate, salve.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h18-h16
+:END:
+
+Ut vales?
+
+** ANTIPHILA
+:PROPERTIES:
+:CUSTOM_ID: h18-h17
+:END:
+
+Salvum advenisse gaudeo.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h18-h18
+:END:
+
+Teneone te,
+Antiphila, maxime animo exoptata meo?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h19
+:END:
+
+Ite intro: nam vos iamdudum exspectat senex.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+* 410
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+(CHREMES. MENEDEMUS.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h1
+:END:
+
+Luciscit hoc iam: cesso pultare ostium
+Vicini, primum ex me ut sciat sibi filium
+Redisse? etsi adolescentem hoc nolle intelligo.
+Verum quum videam miserum hunc tam excruciarier
+
+Eius abitu, celem tam insperatum gaudium,
+Cum illi pericli nihil ex indicio siet?
+Haud faciam: nam, quod potero, adiutabo senem;
+Ita ut filium meum amico atque aequali suo
+Video inservire, et socium esse in negotiis;
+
+Nos quoque senes est aequum senibus obsequi.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h2
+:END:
+
+Aut ego profecto ingenio egregie ad miserias
+Natus sum: aut illud falsum est, quod vulgo audio
+Dici, diem adimere aegritudinem hominibus:
+Nam mihi quidem quotidie augescit magis
+
+De filio aegritudo; et quanto diutius
+Abest, magis cupio tanto et magis desidero.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h3
+:END:
+
+Sed ipsum foras egressum video: ibo, alloquar.
+Menedeme, salve: nuntium apporto tibi,
+Cuius maxime te fieri participem cupis.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h4
+:END:
+
+Numquidnam de gnato meo audisti, Chreme?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h5
+:END:
+
+Valet atque vivit.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h6
+:END:
+
+Ubinam est, quaeso?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h7
+:END:
+
+Apud me domi.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h8
+:END:
+
+Meus gnatus?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h9
+:END:
+
+Sic est.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h10
+:END:
+
+Venit?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h11
+:END:
+
+Certe.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h12
+:END:
+
+Clinia
+Meus venit?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h13
+:END:
+
+Dixi.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h14
+:END:
+
+Eamus: duc me ad eum, obsecro.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h15
+:END:
+
+Non vult te scire se redisse etiam, et tuum
+
+Conspectum fugitat, propter peccatum; tum hoc timet,
+Ne tua duritia antiqua illa etiam adaucta sit.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h16
+:END:
+
+Non tu ei dixisti ut essem?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h17
+:END:
+
+Non.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h18
+:END:
+
+Quamobrem, Chreme?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h19
+:END:
+
+Quia pessime istoc in te atque in illum consulis,
+Si te tam leni et victo animo esse ostenderis.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h20
+:END:
+
+Non possum: satis iam satis pater durus fui.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h21
+:END:
+
+Ah!
+Vehemens in utramque partem, Menedeme, es nimis,
+Aut largitate nimia, aut parsimonia.
+In eandem fraudem ex hac re atque ex illa incides.
+Primum; olim potius quam paterere filium
+
+Commetare ad mulierculam, quae paululo
+Tum erat contenta, cuique erant grata omnia,
+Proterruisti hinc: ea coacta ingratiis
+Postilla coepit victum vulgo quaerere.
+Nunc cum sine magno intertrimento non potest
+
+Haberi, quidvis dare cupis: nam ut tu scias
+Quam ea nunc instructa pulchre ad perniciem siet,
+Primum, iam ancillas secum adduxit plus decem,
+Oneratas veste atque auro. Satrapes si siet
+Amator, nunquam sufferre eius sumtus queat;
+
+Nedum tu possis.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h22
+:END:
+
+Estne ea intus?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h23
+:END:
+
+Sit rogas?
+Sensi: namque ei unam coenam atque eius comitibus
+Dedi; quod si iterum mihi sit danda, actum siet.
+Nam ut alia omittam, pytissando modo mihi
+Quid vini absumsit! /Sic hoc,/ dicens; /Asperum,/
+
+/Pater, hoc est; aliud lenius sodes vide./
+Relevi dolia omnia, omnes serias;
+Omnes sollicitos habui: atque haec una nox.
+Quid te futurum censes quem assidue exedent?
+Sic me Di amabunt, ut me tuarum miseritum est,
+
+Menedeme, fortunarum.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h24
+:END:
+
+Faciat quod libet:
+Sumat, consumat, perdat, decretum est pati,
+Dum illum modo habeam mecum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h25
+:END:
+
+Si certum est tibi
+Sic facere, illud permagni referre arbitror,
+Ut ne cientem sentiat te id sibi dare.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h26
+:END:
+
+Quid faciam?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h27
+:END:
+
+Quidvis potius quam quod cogitas:
+
+Per alium quemvis ut des; falli te sinas
+Technis per servulum; etsi subsensi id quoque,
+Illos ibi esse et id agere inter se clanculum.
+Syrus cum illo vestro consusurrat; conferunt
+
+Consilia ad adolescentes: et tibi perdere
+Talentum hoc pacto satius est quam illo minam.
+Non nunc pecunia agitur; sed illud, quomodo
+Minimo periclo id demus adolescentulo.
+Nam si semel tuum animum ille intellexerit,
+
+Prius proditurum te tuam vitam, et prius
+Pecuniam omnem, quam abs te amittas filium; hui,
+Quantam fenestram ad nequitiam patefeceris!
+Tibi autem porro ut non sit suave vivere:
+Nam deteriores omnes sumus licentia.
+
+Quodcunque inciderit in mentem volet: neque id
+Putabit, pravum siet an rectum quod petet.
+Tu rem perire et ipsum non poteris pati.
+Dare denegaris; ibit ad illud ilico,
+Quo maxime apud te se valere sentiet:
+
+Abiturum se abs te esse ilico minabitur.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h28
+:END:
+
+Videre verum, atque ita uti res est, dicere.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h29
+:END:
+
+Somnum hercle ego hac nocte oculis non vidi meis,
+Dum id quaero tibi qui filium restituerem.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h30
+:END:
+
+Cedo dextram: porro te idem oro ut facias, Chreme.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h31
+:END:
+
+Paratus sum.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h32
+:END:
+
+Scin quid nunc facere te volo?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h33
+:END:
+
+Dic.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h34
+:END:
+
+Quod sensisti illos me incipere fallere.
+Id ut maturent facere: cupio illi dare
+Quod vult: cupio iam videre.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h35
+:END:
+
+Operam dabo.
+Paulum negoti mihi obstat: Simus et Crito
+
+Vicini nostri hic ambigunt de finibus:
+Me cepere arbitrum: ibo ac dicam, ut dixeram
+Operam daturum me, hodie non posse his dare.
+Continuo hic adero.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h21-h36
+:END:
+
+Ita quaeso. Di vestram fidem!
+Ita comparatam esse hominum naturam omnium,
+
+Aliena ut melius videant et diiudicent
+Quam sua? an eo fit quia in re nostra aut gaudio
+Sumus praepediti nimio aut aegritudine?
+Hic mihi quanto nunc plus sapit quam egomet mihi !
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h21-h37
+:END:
+
+Dissolvi me otiosus operam ut tibi darem.
+
+Syrus est prehendendus, atque adhortandus mihi.
+A me nescio quis exit: concede hinc domum,
+Ne nos inter nos congruere sentiant.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+* 512
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+(SYRUS. CHREMES.)
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h1
+:END:
+
+Hac illac circumcursa: inveniendum est tamen
+Argentum: intendenda in senem est fallacia.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h2
+:END:
+
+Num me fefellit hosce id struere? Videlicet
+Quia Cliniae ille servus tardiusculus est,
+
+Idcirco huic nostro tradita est provincia.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h3
+:END:
+
+Quis hic loquitur? Perii. Numnam haec audivit?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h4
+:END:
+
+Syre.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h5
+:END:
+
+Hem.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h6
+:END:
+
+Quid tu istic?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h7
+:END:
+
+Recte equidem: sed te miror, Chreme,
+Tam mane qui heri tantum biberis.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h8
+:END:
+
+Nihil nimis.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h9
+:END:
+
+/Nihil/ narras? visa vero est, quod dici solet,
+
+Aquilae senectus.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h10
+:END:
+
+Heia.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h11
+:END:
+
+Mulier commoda et
+Faceta haec meretrix.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h12
+:END:
+
+Sane, idem visa est mihi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h13
+:END:
+
+Et quidem hercle forma luculenta.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h14
+:END:
+
+Sic satis.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h15
+:END:
+
+Ita non ut olim; sed uti nunc, sane bona:
+Minimeque miror Clinia hanc si deperit.
+
+Sed habet patrem quendam avidum, miserum, atque aridum,
+Vicinum hunc: nostine? At quasi is non divitiis
+Abundet, gnatus eius profugit inopia.
+Scis esse factum ut dico?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h16
+:END:
+
+Quid ego nesciam?
+Hominem pistrino dignum.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h17
+:END:
+
+Quem?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h18
+:END:
+
+Istunc servulum
+
+Dico adolescentis.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h19
+:END:
+
+Syre, tibi timui male.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h20
+:END:
+
+Qui passus est id fieri.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h21
+:END:
+
+Quid faceret?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h22
+:END:
+
+Rogas?
+Aliquid reperiret, fingeret fallacias,
+Unde esset adolescenti amicae quod daret;
+Atque hunc difficilem invitum servaret senem.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h23
+:END:
+
+Garris.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h24
+:END:
+
+Haec facta ab illo oportebat, Syre.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h25
+:END:
+
+Eho quaeso, laudas qui heros fallunt?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h26
+:END:
+
+In loco
+Ego vero laudo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h27
+:END:
+
+Recte sane.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h28
+:END:
+
+Quippe quia
+Magnarum saepe id remedium aegritudinum est.
+Huic iam mansisset unicus gnatus domi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h29
+:END:
+
+Iocone an serio illaec dicat, nescio;
+Nisi mihi quidem addit animum, quo lubeat magis.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h30
+:END:
+
+Et nunc quid exspectat, Syre? an dum hinc denuo
+Abeat, cum tolerare huius sumtus non queat?
+Nonne ad senem aliquam fabricam fingit?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h31
+:END:
+
+Stolidus est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h32
+:END:
+
+At te adiutare oportet adolescentuli
+Causa.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h33
+:END:
+
+Facile equidem facere possum, si iubes:
+Etenim quo pacto id fieri soleat calleo.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h34
+:END:
+
+Tanto hercle melior.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h35
+:END:
+
+Non est mentiri meum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h36
+:END:
+
+Fac ergo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h37
+:END:
+
+At heus tu, facitodum eadem haec memineris,
+
+Si quid huius simile forte aliquando evenerit,
+Ut sunt humana, tuus ut faciat filius.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h38
+:END:
+
+Non usus veniet, spero.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h39
+:END:
+
+Spero hercle ego quoque.
+Neque eo nunc dico, quo quicquam illum senserim:
+Sed si quid, ne quid. Quae sit eius aetas vides.
+
+Et nae ego te, si usus veniat, magnifice, Chreme,
+Tractare possim.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h40
+:END:
+
+De istoc, quum usus venerit,
+Videbimus quid opus sit: nunc istuc age.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h23-h41
+:END:
+
+Nunquam commodius unquam herum audivi loqui,
+Nec quum male facerem crederem mihi impunius
+
+Licere. Quisnam a nobis egreditur foras?
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+* 562
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+(CHREMES. CLITIPHO. SYRUS.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h1
+:END:
+
+Quid istuc, quaeso? qui istic mos est, Clitipho? itane fieri oportet?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h2
+:END:
+
+Quid ego feci?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h3
+:END:
+
+Vidine ego te modo manum in sinum huic meretrici
+Inserere?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h4
+:END:
+
+Acta haec res est: perii.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h5
+:END:
+
+Mene?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h6
+:END:
+
+Hisce oculis; ne nega.
+Facis adeo indigne iniuriam illi, qui non abstineas manum:
+
+Nam istaec quidem contumelia est,
+Hominem amicum recipere ad te, atque eius amicam subagitare.
+Vel heri in vino quam immodestus fuisti!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h7
+:END:
+
+Factum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h8
+:END:
+
+Quam molestus!
+Ut equidem, ita me Di ament, metui quid futurum denique esset.
+Novi ego amantium animum: advertunt graviter quae non censeas.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h9
+:END:
+
+At mihi fides apud hunc est nihil me istius facturum, pater.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h10
+:END:
+
+Esto: at certe concedas hinc aliquo ab ore eorum aliquantisper.
+Multa fert libido: ea prohibet facere tua praesentia.
+Ego de me facio coniecturam: nemo est meorum amicorum hodie
+Apud quem expromere omnia mea occulta, Clitipho, audeam;
+
+Apud alium prohibet dignitas, apud alium ipsius facti pudet,
+Ne ineptus, ne protervus videar; quod illum facere credito.
+Sed nostrum est intelligere, utcumque atque ubicumque opus sit obsequi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h11
+:END:
+
+Quid istic narrat?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h12
+:END:
+
+Perii.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h13
+:END:
+
+Clitipho, haec ego praecipio tibi?
+Hominis frugi et temperantis functus es officium?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h14
+:END:
+
+Tace sodes.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h15
+:END:
+
+Recte sane.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h16
+:END:
+
+Syre, pudet me.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h17
+:END:
+
+Credo; neque id iniuria.
+Quin mihi molestum est.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h18
+:END:
+
+Pergis hercle?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h19
+:END:
+
+Verum dico quod videtur.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h20
+:END:
+
+Non accedam ad illos?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h21
+:END:
+
+Eho quaeso, una accedendi via est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h22
+:END:
+
+Actum est: hic prius se indicarit quam ego argentum effecero.
+Chreme, vin tu homini stulto mihi auscultare?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h23
+:END:
+
+Quid faciam?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h24
+:END:
+
+Iube hunc
+
+Abire hinc aliquo.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h25
+:END:
+
+Quo hinc abeam ego?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h26
+:END:
+
+Quo? quo libet: da illis locum.
+Abi deambulatum.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h27
+:END:
+
+Deambulatum quo?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h28
+:END:
+
+Vah! quasi desit locus.
+Abi sane istac, istorsum, quo vis.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h29
+:END:
+
+Recte dicit: censeo.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h30
+:END:
+
+Di te eradicent, Syre, qui me hinc extrudis.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h31
+:END:
+
+At
+Tu pol tibi istas posthac comprimito manus.
+
+Censen vero? quid illum porro credis facturum, Chreme,
+Nisi eum, quantum tibi opis Di dant, servas, castigas, mones?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h32
+:END:
+
+Ego istuc curabo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h33
+:END:
+
+Atqui nunc, here, hic tibi asservandus est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h34
+:END:
+
+Fiet.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h35
+:END:
+
+Si sapias: nam mihi iam minus minusque obtemperat.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h36
+:END:
+
+Quid tu? ecquid de illo quod dudum tecum egi egisti, Syre? aut
+
+Repperisti, tibi quod placeat? an nondum etiam?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h37
+:END:
+
+De fallacia
+Dicis? st! inveni nuper quandam.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h38
+:END:
+
+Frugi es: cedo, quid est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h39
+:END:
+
+Dicam: verum, ut aliud ex alio incidit.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h40
+:END:
+
+Quidnam, Syre?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h41
+:END:
+
+Pessima haec est meretrix.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h42
+:END:
+
+Ita videtur.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h43
+:END:
+
+Immo si scias.
+Vah, vide, quod inceptet facinus. Fuit quaedam anus Corinthia
+
+Hic: huic drachmarum argenti haec mille dederat mutuum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h44
+:END:
+
+Quid tum?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h45
+:END:
+
+Ea mortua est: reliquit filiam adolescentulam.
+Ea relicta huic arrhaboni est pro illo argento.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h46
+:END:
+
+Intelligo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h47
+:END:
+
+Hanc secum huc adduxit, ea quae est nunc apud uxorem tuam.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h48
+:END:
+
+Quid tum?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h49
+:END:
+
+Cliniam orat sibi uti id nunc det; illam illi tamen
+
+Post daturam. Mille nummum poscit.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h50
+:END:
+
+Et poscit quidem?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h51
+:END:
+
+Hui,
+Dubium id est?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h52
+:END:
+
+Ego sic putavi: quid nunc facere cogitas?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h53
+:END:
+
+Egone? ad Menedemum ibo: dicam hanc esse captam ex Caria
+Ditem et nobilem; si redimat, magnum inesse in ea lucrum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h54
+:END:
+
+Erras.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h55
+:END:
+
+Quid ita?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h56
+:END:
+
+Pro Menedemo nunc tibi ego respondeo:
+
+Non emo: quid ais?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h57
+:END:
+
+Optata loquere.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h58
+:END:
+
+Atqui non est opus.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h59
+:END:
+
+Non opus est?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h60
+:END:
+
+Non hercle vero.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h61
+:END:
+
+Quid istuc? miror.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h25-h62
+:END:
+
+Iam scies.
+Mane, mane: quid est quod tam a nobis graviter crepuerunt fores?
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+* 614
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+(SOSTRATA. CHREMES. NUTRIX. SYRUS.)
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h1
+:END:
+
+Nisi me animus fallit, hic profecto est annulus quem ego suspicor
+Is quicum exposita est gnata.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h2
+:END:
+
+Quid volt sibi, Syre, haec oratio?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h3
+:END:
+
+Quid est? isne tibi videtur?
+
+** NUTRIX
+:PROPERTIES:
+:CUSTOM_ID: h28-h4
+:END:
+
+Dixi equidem ubi mihi ostendisti ilico
+Eum esse.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h5
+:END:
+
+At ut satis contemplata modo sis, mea nutrix.
+
+** NUTRIX
+:PROPERTIES:
+:CUSTOM_ID: h28-h6
+:END:
+
+Satis.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h7
+:END:
+
+Abi iam nunc intro, atque illa si iam laverit mihi nuntia:
+
+Hic ego virum interea opperibor.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h28-h8
+:END:
+
+Te vult: videas, quid velit.
+Nescio quid tristis est: non temere est: metuo quid sit.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h9
+:END:
+
+Quid siet?
+Nae, ista hercle magno iam conatu magnas nugas dixerit.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h10
+:END:
+
+Ehem mi vir.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h11
+:END:
+
+Ehem mea uxor.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h12
+:END:
+
+Te ipsum quaero.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h13
+:END:
+
+Loquere quid velis.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h14
+:END:
+
+Primum hoc te oro ne quid credas me adversum edictum tuum
+Facere esse ausam.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h15
+:END:
+
+Vin me istuc tibi, etsi incredibile est, credere?
+Credo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h28-h16
+:END:
+
+Nescio quid peccati portet haec purgatio.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h17
+:END:
+
+Meministin me esse gravidam, et mihi te maximopere dicere,
+Si puellam parerem nolle tolli?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h18
+:END:
+
+Scio quid feceris:
+
+Sustulisti.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h28-h19
+:END:
+
+Sic est factum, domina, ergo herus damno auctus est.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h20
+:END:
+
+Minime: sed erat hic Corinthia anus haud impura: ei dedi
+Exponendam.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h21
+:END:
+
+O Iupiter, tantamne esse in animo inscitiam!
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h22
+:END:
+
+Perii: quid ego feci?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h23
+:END:
+
+Rogitas?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h24
+:END:
+
+Si peccavi, mi Chreme,
+Insciens feci.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h25
+:END:
+
+Id equidem ego si tu neges, certo scio
+
+Te inscientem atque imprudentem dicere ac facere omnia:
+Tot peccata in hac re ostendis: nam iam primum, si meum
+Imperium exsequi voluisses, interemtam oportuit;
+Non simulare mortem verbis, re ipsa spem vitae dare.
+At id omitto: misericordia, animus maternus: sino.
+
+Quam bene vero abs te prospectum est! quid voluisti? cogita.
+Nempe anui illi prodita abs te filia est planissime,
+Per te vel uti quaestum faceret, vel uti veniret palam.
+Credo id cogitasti: /Quidvis satis est dum vivat modo./
+Quid cum illis agas, qui neque ius, neque bonum atque aequum sciunt?
+
+Melius, peius; prosit, obsit; nihil vident, nisi quod libet.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h26
+:END:
+
+Mi Chreme, peccavi, fateor: vincor: nunc hoc te obsecro,
+Quanto tuus est animus natu gravior, ignoscentior,
+Ut meae stultitiae in iustitia tua sit aliquid praesidi.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h27
+:END:
+
+Scilicet equidem istuc factum ignoscam: verum, Sostrata,
+Male docet te mea facilitas multa. Sed istuc, quicquid est,
+
+Qua hoc occeptum est causa loquere.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h28
+:END:
+
+Ut stultae et misere omnes sumus
+Religiosae, quum exponendam do illi, de digito annulum
+Detraho; et eum edico ut una cum puella exponeret;
+Si moreretur, ne expers partis esset de nostris bonis.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h29
+:END:
+
+Istuc recte: conservasti te atque illam.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h30
+:END:
+
+Is hic est annulus.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h31
+:END:
+
+Unde habes?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h32
+:END:
+
+Quam Bacchis secum adduxit adolescentulam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h28-h33
+:END:
+
+Hem!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h34
+:END:
+
+Quid ea narrat?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h35
+:END:
+
+Ea lavatum dum it servandum mihi dedit.
+Animum non adverti primum; sed postquam aspexi, ilico
+Cognovi: ad te exsilui.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h36
+:END:
+
+Quid nunc suspicare, aut invenis
+
+De illa?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h37
+:END:
+
+Nescio; nisi ut ex ipsa quaeras unde hunc habuerit,
+Si potis est reperiri.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h28-h38
+:END:
+
+Interii: plus spei video quam volo.
+Nostra est, si ita est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h39
+:END:
+
+Vivitne illa cui tu dederas?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h40
+:END:
+
+Nescio.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h41
+:END:
+
+Quid renuntiavit olim?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h42
+:END:
+
+Fecisse id quod iusseram.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h43
+:END:
+
+Nomen mulieris cedo quod sit, ut quaeratur.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h44
+:END:
+
+Philtere.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h28-h45
+:END:
+
+Ipsa est: mirum ni illa salva est, et ego perii.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h46
+:END:
+
+Sostrata,
+Sequere me intro hac.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h28-h47
+:END:
+
+Ut praeter spem evenit. Quam timui male
+Ne nunc animo ita esses duro ut olim in tollenda, Chreme!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h28-h48
+:END:
+
+Non licet hominem esse saepe ita ut volt, si res non sinit.
+Nunc ita tempus est mihi ut cupiam filiam; olim nihil minus.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+* 668
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+(SYRUS.)
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h30-h1
+:END:
+
+Nisi me animus fallit, haud permultum a me aberit infortunium:
+Ita hac re in angustum oppido nunc meae coguntur copiae;
+Nisi aliquid video ne esse amicam hanc gnati resciscat senex.
+Nam quod de argento sperem, aut posse postulem me fallere,
+
+Nihil est: triumpho si licet me latere tecto abscedere.
+Crucior, bolum tantum mihi ereptum tam de subito e faucibus.
+Quid agam? aut quid comminiscar? ratio de integro ineunda est mihi.
+Nihil tam difficile est quin quaerendo investigari possiet.
+Quid si hoc nunc sic incipiam? Nihil est. Quid si sic? Tantundem egero.
+
+At sic opinor. Non potest. Immo optime. Euge, habeo optimam.
+Retraham hercle opinor ad me idem illud fugitivum argentum tamen.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+* 679
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+(CLINIA. SYRUS.)
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h1
+:END:
+
+Nulla mihi res posthac potest iam intervenire tanta
+Quae mihi aegritudinem afferat: tanta haec laetitia oborta est.
+Dedo patri me nunc iam ut frugalior sim quam vult.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h2
+:END:
+
+Nihil me fefellit: cognita est, quantum audio huius verba.
+
+Istuc tibi ex sententia tua obtigisse laetor.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h3
+:END:
+
+O mi Syre, audistine obsecro?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h4
+:END:
+
+Quidni, qui usque una adfuerim?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h5
+:END:
+
+Cuiquam aeque audisti commodius quicquam evenisse?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h6
+:END:
+
+Nulli.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h7
+:END:
+
+Atque ita me Di ament ut ego nunc non tam meapte causa
+Laetor quam illius quam ego scio esse honore quovis dignam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h8
+:END:
+
+Ita credo: sed nunc, Clinia, age, da te mihi vicissim:
+Nam amici quoque res est videnda in tuto ut collocetur;
+Ne quid de amica nunc senex.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h9
+:END:
+
+O Iupiter!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h10
+:END:
+
+Quiesce.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h11
+:END:
+
+Antiphila mea nubet mihi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h12
+:END:
+
+Sicine mihi interloquere?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h13
+:END:
+
+Quid faciam, Syre mi? gaudeo: fer me.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h14
+:END:
+
+Fero hercle vero.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h15
+:END:
+
+Deorum vitam apti sumus.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h16
+:END:
+
+Frustra operam, opinor, sumo.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h17
+:END:
+
+Loquere; audio.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h18
+:END:
+
+At iam hoc non ages.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h19
+:END:
+
+Agam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h20
+:END:
+
+Videndum est, inquam,
+Amici quoque res, Clinia, tui in tuto ut collocetur:
+Nam si nunc a nobis abis, et Bacchidem hic relinquis,
+Noster resciscet ilico esse amicam hanc Clitiphonis:
+
+Si abduxeris, celabitur itidem ut celata adhuc est.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h21
+:END:
+
+At enim istoc nihil est magis, Syre, meis nuptiis adversum:
+Nam quo ore appellabo patrem? Tenes quid dicam?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h22
+:END:
+
+Quidni?
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h23
+:END:
+
+Quid dicam? quam causam afferam?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h24
+:END:
+
+Quin nolo mentiare.
+Aperte ita ut res sese habet narrato.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h25
+:END:
+
+Quid ais?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h26
+:END:
+
+Iubeo;
+
+Illam te amare et velle uxorem: hanc esse Clitiphonis.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h27
+:END:
+
+Bonam atque iustam rem oppido imperas, et factu facilem;
+Et scilicet iam me hoc voles patrem exorare ut celet
+Senem vestrum.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h28
+:END:
+
+Immo, ut recta via rem narret ordine omnem.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h29
+:END:
+
+Hem,
+Satin sanus es, aut sobrius? tu quidem illum plane prodis.
+
+Nam qui ille poterit esse in tuto? dic mihi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h30
+:END:
+
+Huic equidem consilio palmam do: hic me magnifice effero,
+Qui vim tantam in me et potestatem habeam tantae astutiae,
+Vera dicendo ut eos ambos fallam; ut quum narret senex
+Vester nostro istam esse amicam gnati, non credat tamen.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h31
+:END:
+
+At enim spem istoc pacto rursum nuptiarum omnem eripis:
+Nam, dum amicam hanc meam esse credet, non committet filiam.
+Tu fortasse quid me fiat parvi pendis dum illi consulas.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h32
+:END:
+
+Quid, malum, me aetatem censes velle id assimularier?
+Unus est dies, dum argentum eripio: pax: nihil amplius.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h33
+:END:
+
+Tantum sat habes? quid tum, quaeso, si hoc pater resciverit?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h34
+:END:
+
+Quid si redeo ad illos qui aiunt, /Quid si nunc coelum ruat?/
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h35
+:END:
+
+Metuo quid agam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h36
+:END:
+
+Metuis? quasi non ea potestas sit tua,
+Quo velis in tempore ut te exsolvas, rem facias palam.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h37
+:END:
+
+Age, age, traducatur Bacchis.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h38
+:END:
+
+Optime ipsa exit foras.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+* 723
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+(BACCHIS. CLINIA. SYRUS. DROMO. PHRYGIA.)
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h1
+:END:
+
+Satis pol proterve me Syri promissa huc induxerunt;
+Decem minas quas mihi dare pollicitus est. Quod si is nunc
+Me deceperit, saepe obsecrans me ut veniam frustra veniet.
+Aut quum venturam dixero et constituero; quum is certo
+
+Renuntiarit; Clitipho cum in spe pendebit animi;
+Decipiam, ac non veniam: Syrus mihi tergo poenas pendet.
+
+** CLINIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h2
+:END:
+
+Satis scite promittit tibi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h3
+:END:
+
+Atqui tu hanc iocari credis?
+Faciet, nisi caveo.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h4
+:END:
+
+Dormiunt: ego pol istos commovebo.
+Mea Phrygia, audisti modo iste homo quam villam demonstravit
+
+Charini?
+
+** PHRYGIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h5
+:END:
+
+Audivi.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h6
+:END:
+
+Proximam esse huic fundo ad dextram?
+
+** PHRYGIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h7
+:END:
+
+Memini.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h8
+:END:
+
+Curriculo percurre: apud eum miles Dionysia agitat.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h9
+:END:
+
+Quid inceptat?
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h10
+:END:
+
+Dic me hic oppido esse invitam, atque asservari;
+Verum aliquo pacto verba me his daturam esse, et venturam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h11
+:END:
+
+Perii hercle. Bacchis, mane, mane: quo mittis istanc quaeso?
+
+Iube maneat.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h12
+:END:
+
+I.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h13
+:END:
+
+Quin est paratum argentum.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h14
+:END:
+
+Quin ego maneo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h15
+:END:
+
+Atqui iam dabitur.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h16
+:END:
+
+Ut libet: num ego insto?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h17
+:END:
+
+At scin quid, sodes?
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h18
+:END:
+
+Quid?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h19
+:END:
+
+Transeundum nunc tibi ad Menedemum est, et tua pompa
+Eo traducenda est.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h20
+:END:
+
+Quam rem agis, scelus?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h21
+:END:
+
+Egone? argentum cudo
+Quod tibi dem.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h22
+:END:
+
+Dignam me putas quam illudas?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h23
+:END:
+
+Non est temere.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h24
+:END:
+
+Etiamne tecum res hic mihi est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h25
+:END:
+
+Minime: tuum tibi reddo.
+
+** BACCHIS
+:PROPERTIES:
+:CUSTOM_ID: h34-h26
+:END:
+
+Eatur.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h27
+:END:
+
+Sequere hac. Heus, Dromo.
+
+** DROMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h28
+:END:
+
+Quis me vult?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h29
+:END:
+
+Syrus.
+
+** DROMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h30
+:END:
+
+Quid est rei?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h31
+:END:
+
+Ancillas omnes Bacchidis traduce huc ad vos propere.
+
+** DROMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h32
+:END:
+
+Quamobrem?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h33
+:END:
+
+Ne quaeras: efferant quae secum huc attulerunt.
+
+Sperabit sumtum tibi senex levatum esse harum abitu.
+Nae ille haud scit paullum lucri quantum ei damni apportet.
+Tu nescis id quod scis, Dromo, si sapies.
+
+** DROMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h34
+:END:
+
+Mutum dices.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 749
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+(CHREMES. SYRUS.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+Ita me Di amabunt ut nunc Menedemi vicem
+Miseret me tantum devenisse ad eum mali.
+Hancine mulierem alere cum illa familia?
+Etsi scio hosce aliquot dies non sentiet;
+
+Ita magno desiderio fuit ei filius:
+Verum ubi videbit tantos sibi sumtus domi
+Quotidiano fieri, nec fieri modum,
+Optabit rursum ut abeat ab se filius.
+Syrum optime eccum!
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h2
+:END:
+
+Cesso hunc adoriri?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h3
+:END:
+
+Syre.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h4
+:END:
+
+Hem.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h5
+:END:
+
+Quid est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h6
+:END:
+
+Te mihi ipsum iam dudum optabam dari.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h7
+:END:
+
+Videre egisse iam nescio quid cum sene.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h8
+:END:
+
+De illo quod dudum? dictum ac factum reddidi.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h9
+:END:
+
+Bonane fide?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h10
+:END:
+
+Bona hercle.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h11
+:END:
+
+Non possum pati
+Quin tibi caput demulceam. Accede huc, Syre:
+
+Faciam boni tibi aliquid pro ista re, ac libens.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h12
+:END:
+
+At si scias, quam scite in mentem venerit.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h13
+:END:
+
+Vah, gloriare evenisse ex sententia?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h14
+:END:
+
+Non hercle vero : verum dico.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h15
+:END:
+
+Dic, quid est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h16
+:END:
+
+Tui Clitiphonis esse amicam hanc Bacchidem
+
+Menedemo dixit Clinia; et ea gratia
+Secum adduxisse, ne tu id persentisceres.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h17
+:END:
+
+Probe.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h18
+:END:
+
+Dic sodes.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h19
+:END:
+
+Nimium, inquam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h20
+:END:
+
+Immo sic satis.
+Sed porro ausculta quod superest fallaciae.
+Sese ipse dicet tuam vidisse filiam;
+
+Eius sibi complacitam formam, postquam aspexerit;
+Hanc cupere uxorem.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h21
+:END:
+
+Modone quae inventa est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h22
+:END:
+
+Eam.
+Et quidem iubebit posci.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h23
+:END:
+
+Quamobrem istuc, Syre?
+Nam prorsum nihil intelligo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h24
+:END:
+
+Hui! tardus es.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h25
+:END:
+
+Fortasse.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h26
+:END:
+
+Argentum dabitur ei ad nuptias,
+
+Aurum, atque vestem, qui,—tenesne?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h27
+:END:
+
+Comparet?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h28
+:END:
+
+Id ipsum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h29
+:END:
+
+At ego illi neque do, neque despondeo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h30
+:END:
+
+Non? quamobrem?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h31
+:END:
+
+Quamobrem? me rogas? Homini fugitivo dabo?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h32
+:END:
+
+Non ego dicebam in perpetuum illam illi ut dares;
+Verum ut simulares.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h33
+:END:
+
+Non mea est simulatio.
+
+Ita tu istaec tua misceto ne me admisceas.
+Ego cui daturus non sum ut ei despondeam?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h34
+:END:
+
+Credebam.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h35
+:END:
+
+Minime.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h36
+:END:
+
+Scite poterat fieri.
+Et ego hoc, quia dudum tu tantopere iusseras,
+Eo coepi.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h37
+:END:
+
+Credo.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h38
+:END:
+
+Caeterum equidem istuc, Chreme,
+
+Aequi bonique facio.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h39
+:END:
+
+Atqui cummaxime
+Volo te dare operam ut fiat, verum alia via.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h40
+:END:
+
+Fiat: quaeratur aliud: sed illud quod tibi
+Dixi de argento, quod ista debet Bacchidi,
+Id nunc reddendum est illi: neque tu scilicet
+
+Eo nunc confugies: /Quid mea? num datum mihi est?/
+/Num iussi? num illa oppignerare filiam/
+/Meam, me invito, potuit?/ Verum illud, Chreme,
+Dicunt, Ius summum saepe summa malitia est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h41
+:END:
+
+Haud faciam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h42
+:END:
+
+Immo aliis si licet, tibi non licet.
+
+Omnes te in lauta et bene acta parte putant.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h43
+:END:
+
+Quin egomet iam ad eam deferam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h44
+:END:
+
+Immo filium
+Iube potius.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h45
+:END:
+
+Quamobrem?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h46
+:END:
+
+Quia enim in hunc suspicio est
+Translata amoris.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h47
+:END:
+
+Quid tum?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h48
+:END:
+
+Quia videbitur
+Magis verisimile id esse, quum hic illi dabit:
+
+Simul et conficiam facilius ego, quod volo.
+Ipse adeo adest: abi, effer argentum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h36-h49
+:END:
+
+Effero.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 805
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+(CLITIPHO. SYRUS.)
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+Nulla est tam facilis res quin difficilis siet,
+Quam invitus facias. Vel me haec deambulatio,
+Quam non laboriosa, ad languorem dedit.
+Nec quicquam magis nunc metuo quam ne denuo
+
+Miser aliquo extrudar hinc, ne accedam ad Bacchidem.
+Ut te quidem omnes Dii Deaeque, quantum est, Syre,
+Cum tuo istoc invento, cumque incepto perduint.
+Huiusmodi res semper comminiscere,
+Ubi me excarnifices.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+I tu hinc quo dignus es.
+
+Quam pene tua me perdidit protervitas !
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+Vellem hercle factum: ita meritus es.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+Meritus? quomodo?
+Nae me istuc ex te prius audivisse gaudeo
+Quam argentum haberes, quod daturus iam fui.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h38-h5
+:END:
+
+Quid igitur dicam tibi vis? abiisti, mihi
+
+Amicam adduxti, quam non liceat tangere.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h6
+:END:
+
+Iam non sum iratus: sed scin ubi nunc sit tibi
+Tua Bacchis?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h38-h7
+:END:
+
+Apud nos.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h8
+:END:
+
+Non.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h38-h9
+:END:
+
+Ubi ergo?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h10
+:END:
+
+Apud Cliniam.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h38-h11
+:END:
+
+Perii.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h12
+:END:
+
+Bono animo es: iam argentum ad eam deferes
+Quod ei es pollicitus.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h38-h13
+:END:
+
+Garris: unde?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h14
+:END:
+
+A tuo patre.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h38-h15
+:END:
+
+Ludis fortasse me.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h16
+:END:
+
+Ipsa re experibere.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h38-h17
+:END:
+
+Nae ego fortunatus homo sum: deamo te, Syre.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h18
+:END:
+
+Sed pater egreditur: cave quicquam admiratus sies
+Qua causa id fiat: obsecundato in loco.
+Quod imperabit facito; loquitor paucula.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 829
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+(CHREMES. CLITIPHO. SYRUS.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+Ubi Clitipho nunc est?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h2
+:END:
+
+Eccum me, inque.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h40-h3
+:END:
+
+Eccum hic tibi.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h4
+:END:
+
+Quid rei esset dixti huic?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h5
+:END:
+
+Dixi pleraque omnia.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h6
+:END:
+
+Cape hoc argentum ac defer.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h7
+:END:
+
+Hei, quid stas? lapis?
+Quin accipis?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h40-h8
+:END:
+
+Cedo sane.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h40-h9
+:END:
+
+Sequere hac me ocius.
+
+Tu hic nos dum eximus interea opperibere;
+Nam nihil est illic quod moremur diutius.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h10
+:END:
+
+Minas quidem iam decem habet a me filia,
+Quas pro alimentis esse nunc duco datas:
+Hasce ornamentis consequentur alterae.
+
+Porro haec talenta dotis adposcent duo.
+Quam multa iniusta ac prava fiunt moribus!
+Mihi nunc, relictis rebus, inveniendus est
+Aliquis labore inventa mea cui dem bona.
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 842
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+(MENEDEMUS. CHREMES.)
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+Multo omnium nunc me fortunatissimum
+Factum puto esse, gnate, quum te intelligo
+Resipisse.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+Ut errat.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+Te ipsum quaerebam, Chreme.
+Serva, quod in te est, filium et me et familiam.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+Cedo quid vis faciam?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+Invenisti hodie filiam.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+Quid tum?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h7
+:END:
+
+Hanc sibi uxorem dari vult Clinia.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h8
+:END:
+
+Quaeso quid tu hominis es?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h9
+:END:
+
+Quid est?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h10
+:END:
+
+Iamne oblitus es
+Inter nos quid sit dictum de fallacia,
+Ut ea via abs te argentum auferretur?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h11
+:END:
+
+Scio.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h12
+:END:
+
+Ea res nunc agitur ipsa.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h13
+:END:
+
+Quid dixti, Chreme?
+Immo haec quidem, quae apud me est, Clitiphonis est
+Amica.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h14
+:END:
+
+Ita aiunt: et tu credis omnia:
+Et illum aiunt velle uxorem, ut, quum desponderim,
+Des qui aurum ac vestem atque alia quae opus sunt comparet.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h15
+:END:
+
+Id est profecto: id amicae dabitur.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h16
+:END:
+
+Scilicet
+Daturum.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h17
+:END:
+
+Vah, frustra sum igitur gavisus miser.
+Quidvis tamen iam malo quam hunc amittere.
+Quid nunc renuntiem abs te responsum, Chreme,
+Ne sentiat me sensisse, atque aegre ferat?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h18
+:END:
+
+/Aegre?/ nimium illi, Menedeme, indulges.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h19
+:END:
+
+Sine.
+Inceptum est: perfice hoc mihi perpetuo, Chreme.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h20
+:END:
+
+Dic convenisse; egisse te de nuptiis.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h21
+:END:
+
+Dicam: quid deinde?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h22
+:END:
+
+Me facturum esse omnia;
+Generum placere: postremo etiam, si voles,
+
+Desponsam quoque esse dicito.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h23
+:END:
+
+Hem, istuc volueram.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h24
+:END:
+
+Tanto ocius te ut poscat, et tu id quod cupis
+Quam ocissime ut des.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h25
+:END:
+
+Cupio.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h26
+:END:
+
+Nae tu propediem,
+Ut istam rem video, istius obsaturabere.
+Sed haec ut ut sunt, cautim et paulatim dabis,
+
+Si sapies.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h27
+:END:
+
+Faciam.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h28
+:END:
+
+Abi intro; vide quid postulet.
+Ego domi ero, si quid me voles.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h42-h29
+:END:
+
+Sane volo:
+Nam te sciente faciam, quicquid egero.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+* 874
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+(MENEDEMUS. CHREMES.)
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h1
+:END:
+
+Ego me non tam astutum, neque ita perspicacem esse certo scio:
+Sed hic adiutor meus et monitor et praemonstrator Chremes
+Hoc mihi praestat. In me quidvis harum rerum convenit
+Quae sunt dicta in stultum; caudex, stipes, asinus, plumbeus:
+
+In illum nihil potest; nam exsuperat eius stultitia haec omnia.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h2
+:END:
+
+Ohe, iam desine Deos, uxor, gratulando obtundere,
+Tuam esse inventam gnatam; nisi illos ex tuo ingenio iudicas,
+Ut nihil credas intelligere nisi idem dictum sit centies.
+Sed interim, quid illic iam dudum gnatus cessat cum Syro?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h3
+:END:
+
+Quos ais homines, Chreme, cessare?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h4
+:END:
+
+Ehem, Menedeme, advenis?
+Dic mihi, Cliniae quae dixi nuntiastine?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h5
+:END:
+
+Omnia.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h6
+:END:
+
+Quid ait?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h7
+:END:
+
+Gaudere adeo coepit quasi qui cupiunt nuptias.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h8
+:END:
+
+Ha ha he!
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h9
+:END:
+
+Quid risisti?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h10
+:END:
+
+Servi venere in mentem Syri
+Calliditates.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h11
+:END:
+
+Itane?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h12
+:END:
+
+Vultus quoque hominum fingit scelus.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h13
+:END:
+
+Gnatus quod se adsimulat laetum, id dicis?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h14
+:END:
+
+Id.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h15
+:END:
+
+Idem istuc mihi
+Venit in mentem.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h16
+:END:
+
+Veterator!
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h17
+:END:
+
+Magis, si magis noris, putes
+Ita rem esse.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h18
+:END:
+
+Ain tu?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h19
+:END:
+
+Quin tu ausculta.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h20
+:END:
+
+Mane. Hoc prius scire expeto,
+Quid perdideris. Nam ubi desponsam nuntiasti filio,
+Continuo iniecisse verba tibi Dromonem scilicet,
+
+Sponsae vestem, aurum, atque ancillas opus esse, argentum ut dares.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h21
+:END:
+
+Non.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h22
+:END:
+
+Quid? non?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h23
+:END:
+
+Non, inquam.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h24
+:END:
+
+Neque ipse gnatus?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h25
+:END:
+
+Nihil prorsus, Chreme:
+Magis unum etiam instare ut hodie conficerentur nuptiae.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h26
+:END:
+
+Mira narras. Quid Syrus meus? ne is quidem quicquam?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h27
+:END:
+
+Nihil.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h28
+:END:
+
+Quamobrem nescio.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h29
+:END:
+
+Equidem miror, qui alia tam plane scias.
+
+Sed ille tuum quoque Syrus idem mire finxit filium,
+Ut ne paululum quidem subolat, esse amicam hanc Cliniae.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h30
+:END:
+
+Quid ais?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h31
+:END:
+
+Mitto iam osculari atque amplexari: id nihil puto.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h32
+:END:
+
+Quid est, quod amplius simuletur?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h33
+:END:
+
+Vah!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h34
+:END:
+
+Quid est?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h35
+:END:
+
+Audi modo:
+Est mihi ultimis conclave in aedibus quoddam retro:
+
+Huc est intro latus lectus; vestimentis stratus est.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h36
+:END:
+
+Quid postquam hoc est factum?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h37
+:END:
+
+Dictum factum, huc abiit Clitipho.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h38
+:END:
+
+Solus?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h39
+:END:
+
+Solus.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h40
+:END:
+
+Timeo.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h41
+:END:
+
+Bacchis consecuta est ilico.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h42
+:END:
+
+Sola?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h43
+:END:
+
+Sola.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h44
+:END:
+
+Perii.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h45
+:END:
+
+Ubi abiere intro, operuere ostium.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h46
+:END:
+
+Hem,
+Clinia haec fieri videbat?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h47
+:END:
+
+Quidni? mecum una simul.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h48
+:END:
+
+Fili est amica Bacchis, Menedeme. Occidi.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h49
+:END:
+
+Quamobrem?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h50
+:END:
+
+Decem dierum vix mihi est familia.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h51
+:END:
+
+Quid? istuc times quod ille operam amico dat suo?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h52
+:END:
+
+Immo quod amicae.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h53
+:END:
+
+Si dat.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h54
+:END:
+
+An dubium id tibi est?
+Quemquamne animo tam communi esse, aut leni putas,
+
+Qui se vidente amicam patiatur suam?—
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h55
+:END:
+
+Quidni? quo verba facilius dentur mihi.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h56
+:END:
+
+Derides merito. Mihi nunc ego succenseo.
+Quot res dedere ubi possem persentiscere,
+Nisi essem lapis? Quae vidi! Vae misero mihi.
+
+At nae illud haud inultum, si vivo, ferent:
+Nam iam-
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h57
+:END:
+
+Non tu te cohibes? non te respicis?
+Non tibi ego exempli satis sum?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h58
+:END:
+
+Prae iracundia,
+Menedeme, non sum apud me.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h59
+:END:
+
+Tene istuc loqui?
+Nonne id flagitium est, te aliis consilium dare,
+
+Foris sapere, tibi non posse auxiliarier?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h60
+:END:
+
+Quid faciam?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h61
+:END:
+
+Id quod me fecisse aiebas parum.
+Fac te patrem esse sentiat; fac ut audeat
+Tibi credere omnia, abs te petere et poscere;
+Ne quam aliam quaerat copiam, ac te deserat.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h62
+:END:
+
+Immo abeat multo malo quovis gentium,
+Quam hic per flagitium ad inopiam redigat patrem:
+Nam, si illi pergo suppeditare sumtibus,
+Menedeme, mihi illaec vero ad rastros res redit.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h63
+:END:
+
+Quot incommoditates in hac re accipies, nisi caves?
+
+Difficilem ostendes te esse, et ignosces tamen
+Post; et id ingratum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h64
+:END:
+
+Ah, nescis quam doleam.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h65
+:END:
+
+Ut libet.
+Quid hoc quod volo, ut illa nubat nostro? nisi quid est
+Quod mavis.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h66
+:END:
+
+Immo et gener et affines placent.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h67
+:END:
+
+Quid dotis dicam te dixisse filio?
+
+Quid obticuisti?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h68
+:END:
+
+Dotis?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h69
+:END:
+
+Ita dico.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h70
+:END:
+
+Ah!
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h71
+:END:
+
+Chreme,
+Ne quid vereare si minus: nihil nos dos movet.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h72
+:END:
+
+Duo talenta pro re nostra ego esse decrevi satis.
+Sed ita dictu opus est, si me vis salvum esse, rem, et filium,
+Me mea omnia bona doti dixisse illi.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h73
+:END:
+
+Quam rem agis?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h74
+:END:
+
+Id mirari te simulato, et illum hoc rogitato simul,
+Quamobrem id faciam.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h75
+:END:
+
+Quin ego vero quamobrem id facias nescio.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h76
+:END:
+
+Egone? ut eius animum, qui nunc luxuria et lascivia
+Diffluit, retundam, redigam ut quo se vertat nesciat.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h77
+:END:
+
+Quid agis?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h78
+:END:
+
+Mitte; sine me in hac re gerere mihi morem.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h79
+:END:
+
+Sino.
+
+Itane vis?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h80
+:END:
+
+Ita.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h81
+:END:
+
+Fiat.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h82
+:END:
+
+Age iam uxorem ut arcessat paret.
+Hic ita ut liberos est aequum dictis confutabitur.
+Sed Syrum.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h45-h83
+:END:
+
+Quid eum?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h45-h84
+:END:
+
+Egone? si vivo, adeo exornatum dabo,
+Adeo depexum, ut dum vivat meminerit semper mei;
+Qui sibi me pro ridiculo ac delectamento putat.
+
+Non, ita me Di ament, auderet haec facere viduae mulieri,
+Quae in me fecit.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+* 954
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+(CLITIPHO. MENEDEMUS. CHREMES. SYRUS.)
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h1
+:END:
+
+Itane tandem quaeso, Menedeme, ut pater
+Tam in brevi spatio omnem de me eiecerit animum patris?
+Quodnam ob facinus? quid ego tantum sceleris admisi miser?
+Vulgo faciunt.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h2
+:END:
+
+Scio tibi esse hoc gravius multo ac durius,
+
+Cui fit; verum ego haud minus aegre patior. Id qui nescio,
+Nec rationem capio, nisi quod tibi bene ex animo volo.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h3
+:END:
+
+Hic patrem adstare aibas?
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h4
+:END:
+
+Eccum.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h47-h5
+:END:
+
+Quid me incusas, Clitipho?
+Quicquid ego huius feci, tibi prospexi et stultitiae tuae.
+Ubi te vidi animo esse omisso, et suavia in praesentia
+
+Quae essent prima habere, neque consulere in longitudinem,
+Cepi rationem ut neque egeres, neque ut haec posses perdere.
+Ubi cui decuit primo tibi non licuit per te mihi dare,
+Abii ad proximos qui erant tibi; eis commisi et credidi:
+Ibi tuae stultitiae semper erit praesidium, Clitipho;
+
+Victus, vestitus, quo in tectum te receptes.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h6
+:END:
+
+Hei mihi !
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h47-h7
+:END:
+
+Satius est quam te ipso herede haec possidere Bacchidem.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h8
+:END:
+
+Disperii: scelestus quantas turbas concivi insciens !
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h9
+:END:
+
+Emori cupio.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h47-h10
+:END:
+
+Prius quaeso disce quid sit vivere:
+Ubi scies, si displicebit vita, tum istoc utitor.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h11
+:END:
+
+Here, licetne?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h47-h12
+:END:
+
+Loquere.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h13
+:END:
+
+At tuto?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h47-h14
+:END:
+
+Loquere.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h15
+:END:
+
+Quae ista est pravitas,
+Quaeve amentia est, quod peccavi ego id obesse huic?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h47-h16
+:END:
+
+Ilicet.
+Ne te admisce: nemo accusat, Syre, te; nec tu aram tibi
+Nec precatorem pararis.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h17
+:END:
+
+Quid agis?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h47-h18
+:END:
+
+Nihil succenseo,
+Nec tibi nec huic: nec vos est aequum quod facio mihi.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h19
+:END:
+
+Abiit; vah, rogasse vellem.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h20
+:END:
+
+Quid?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h21
+:END:
+
+Unde mihi peterem cibum:
+Ita nos alienavit: tibi iam esse ad sororem intelligo.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h22
+:END:
+
+Adeon rem rediisse ut periculum etiam fame mihi sit, Syre?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h23
+:END:
+
+Modo liceat vivere, est spes—
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h24
+:END:
+
+Quae?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h25
+:END:
+
+nos esurituros satis.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h26
+:END:
+
+Irrides in re tanta, neque me quicquam consilio adiuvas?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h27
+:END:
+
+Immo et ibi nunc sum, et usque id egi dudum, dum loquitur pater;
+Et, quantum ego intelligere possum—
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h28
+:END:
+
+Quid?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h29
+:END:
+
+non aberit longius.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h30
+:END:
+
+Quid id ergo?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h31
+:END:
+
+Sic est, non esse horum te arbitror.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h32
+:END:
+
+Quid istuc, Syre?
+Satin sanus es?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h33
+:END:
+
+Ego dicam quod mihi in mentem: tu diiudica.
+Dum istis fuisti solus, dum nulla alia delectatio
+
+Quae propior esset, te indulgebant, tibi dabant: nunc filia
+Postquam est inventa vera, inventa est causa qua te expellerent.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h34
+:END:
+
+Est verisimile.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h35
+:END:
+
+An tu ob peccatum hoc esse illum iratum putas?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h36
+:END:
+
+Non arbitror.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h37
+:END:
+
+Nunc aliud specta: matres omnes filiis
+In peccato adiutrices, auxilio in paterna iniuria
+
+Solent esse: id non fit.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h38
+:END:
+
+Verum dicis: quid nunc faciam, Syre?
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h39
+:END:
+
+Suspicionem istanc ex illis quaere; rem profer palam:
+Si non est verum, ad misericordiam ambos adduces cito, aut
+Scibis cuius sis.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h47-h40
+:END:
+
+Recte suades; faciam.
+
+** SYRUS
+:PROPERTIES:
+:CUSTOM_ID: h47-h41
+:END:
+
+Sat recte hoc mihi
+In mentem venit: namque adolescens quam minima in spe situs erit
+
+Tam facillime patris pacem in leges conficiet suas.
+Etiam haud scio an uxorem ducat; ac Syro nihil gratiae.
+Quid hoc autem? senex exit foras: ego fugio: adhuc quod factum est
+Miror, continuo non iussisse abripi me. Ad Menedemum hunc pergam:
+Eum mihi precatorem paro: seni nostro fidei nihil habeo.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+* 1003
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+(SOSTRATA. CHREMES.)
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h49-h1
+:END:
+
+Profecto nisi caves tu homo, aliquid gnato conficies mali:
+Idque adeo miror quomodo
+Tam ineptum quicquam tibi in mentem venire, mi vir, potuerit.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h2
+:END:
+
+Oh, pergin mulier esse? Nullamne ego rem unquam in vita mea
+
+Volui quin tu in ea re mihi fueris adversatrix, Sostrata?
+At si rogitem iam, quid est quod peccem, aut quamobrem hoc faciam, nescias:
+In qua re nunc tam confidenter restas, stulta.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h49-h3
+:END:
+
+Ego nescio?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h4
+:END:
+
+Immo scis, potius quam quidem redeat ad integrum haec eadem oratio.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h49-h5
+:END:
+
+Oh, iniquus es, qui me tacere de re tanta postules.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h6
+:END:
+
+Non postulo: iam loquere: nihilo minus ego hoc faciam tamen.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h49-h7
+:END:
+
+Facies?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h8
+:END:
+
+Verum.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h49-h9
+:END:
+
+Non vides quantum mali ex ea re excites?
+Subditum se suspicatur.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h10
+:END:
+
+Subditum, ain tu?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h49-h11
+:END:
+
+Certe sic erit, inquam, mi vir.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h12
+:END:
+
+Confitere tuum non esse.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h49-h13
+:END:
+
+Au obsecro te, istuc inimicis siet.
+Egon confitear meum non esse filium qui sit meus?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h14
+:END:
+
+Quid? metuis ne non, quum velis, convincas esse illum tuum?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h49-h15
+:END:
+
+Quod filia est inventa?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h16
+:END:
+
+Non; sed, quod magis credendum siet,
+Id quod est consimilis moribus,
+Convincas facile ex te natum; nam tui similis est probe;
+Nam illi nihil viti est relictum, quin sit et idem tibi.
+
+Tum praeterea talem nisi tu nulla pareret filium.
+Sed ipse egreditur: quam severus ! rem cum videas, censeas.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+* 1024
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+(CLITIPHO. SOSTRATA. CHREMES.)
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h51-h1
+:END:
+
+Si unquam ullum fuit tempus, mater, quum ego voluptati tibi
+Fuerim, dictus filius tuus tua voluntate, obsecro,
+Eius ut memineris, atque inopis nunc te miserescat mei:
+Quod peto, et volo, parentes meos ut commonstres mihi.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h2
+:END:
+
+Obsecro, mi gnate, ne istuc in animum inducas tuum,
+Alienum esse te.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h51-h3
+:END:
+
+Sum.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h4
+:END:
+
+Miseram me! hocine quaesisti, obsecro?
+Ita mihi atque huic sis superstes ut ex me atque ex hoc natus es.
+Et cave posthac, si me amas, unquam istuc verbum ex te audiam.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h51-h5
+:END:
+
+At ego, si me metuis, mores cave in te esse istos sentiam.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h51-h6
+:END:
+
+Quos?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h51-h7
+:END:
+
+Si scire vis, ego dicam: gerro, iners, fraus, heluo,
+Ganeo, damnosus: crede, et nostrum te esse credito.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h51-h8
+:END:
+
+Non sunt haec parentis dicta.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h51-h9
+:END:
+
+Non si ex capite sis meo
+Natus, item ut aiunt Minervam esse ex Iove, ea causa magis
+Patiar, Clitipho, flagitiis tuis me infamem fieri.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h10
+:END:
+
+Di istaec prohibeant.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h51-h11
+:END:
+
+Deos nescio: ego quod potero sedulo.
+Quaeris id quod habes, parentes: quod abest non quaeris, patri
+Quomodo obsequare, et ut serves quod labore invenerit.
+Non mihi per fallacias adducere ante oculos—? Pudet
+Dicere hac praesente verbum turpe: at te id nullo modo
+
+Puduit facere.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h51-h12
+:END:
+
+Eheu, quam ego nunc totus displiceo mihi,
+Quam pudet! neque quod principium inveniam ad placandum scio.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+* 1045
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+(MENEDEMUS. CHREMES. CLITIPHO. SOSTRATA.)
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h53-h1
+:END:
+
+Enimvero Chremes nimis graviter cruciat adolescentulum,
+Nimisque inhumane. Exeo ergo ut pace conciliem. Optime
+Ipsos video.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h2
+:END:
+
+Ehem, Menedeme, cur non arcessi iubes
+Filiam, et quod dotis dixi firmas?
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h53-h3
+:END:
+
+Mi vir, te obsecro
+
+Ne facias.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h4
+:END:
+
+Pater, obsecro ut mihi ignoscas.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h53-h5
+:END:
+
+Da veniam, Chreme:
+Sine te exoret.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h6
+:END:
+
+Egon mea bona ut dem Bacchidi dono sciens?
+Non faciam.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h53-h7
+:END:
+
+At id nos non sinemus.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h8
+:END:
+
+Si me vivum vis, pater,
+Ignosce.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h53-h9
+:END:
+
+Age, Chreme mi.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h53-h10
+:END:
+
+Age quaeso ne tam offirma te, Chreme.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h11
+:END:
+
+Quid istic? video non licere ut coeperam hoc pertendere.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h53-h12
+:END:
+
+Facis ut te decet.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h13
+:END:
+
+Ea lege hoc adeo faciam; si facit
+Quod ego hunc aequum censeo.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h14
+:END:
+
+Pater, omnia faciam: impera.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h15
+:END:
+
+Uxorem ut ducas.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h16
+:END:
+
+Pater!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h17
+:END:
+
+Nihil audio.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h53-h18
+:END:
+
+Ad me recipio:
+Faciet.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h19
+:END:
+
+Nihil etiam audio ipsum.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h20
+:END:
+
+Perii!
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h53-h21
+:END:
+
+An dubitas, Clitipho?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h22
+:END:
+
+Immo utrum vult.
+
+** MENEDEMUS
+:PROPERTIES:
+:CUSTOM_ID: h53-h23
+:END:
+
+Faciet omnia.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h53-h24
+:END:
+
+Haec dum incipias gravia sunt,
+
+Dumque ignores: ubi cognoris, facilia.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h25
+:END:
+
+Faciam, pater.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h53-h26
+:END:
+
+Gnate mi, ego pol tibi dabo illam lepidam quam tu facile ames;
+Filiam Phanocratae nostri.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h27
+:END:
+
+Rufamne illam virginem,
+Caesiam, sparso ore, adunco naso? non possum, pater.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h28
+:END:
+
+Heia, ut elegans est! credas animum ibi esse.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h53-h29
+:END:
+
+Aliam dabo.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h30
+:END:
+
+Quid istic? quandoquidem ducenda est, egomet habeo propemodum
+Quam volo.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h53-h31
+:END:
+
+Nunc laudo te, gnate.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h32
+:END:
+
+Archonidi huius filiam.
+
+** SOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h53-h33
+:END:
+
+Perplacet.
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h34
+:END:
+
+Pater, hoc nunc restat.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h35
+:END:
+
+Quid?
+
+** CLITIPHO
+:PROPERTIES:
+:CUSTOM_ID: h53-h36
+:END:
+
+Syro ignoscas volo
+Quae mea causa fecit.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h53-h37
+:END:
+
+Fiat.
+
+** Ω
+:PROPERTIES:
+:CUSTOM_ID: h53-h38
+:END:
+
+Vos valete, et plaudite!

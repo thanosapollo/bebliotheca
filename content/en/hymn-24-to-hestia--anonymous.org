@@ -1,0 +1,20 @@
+#+TITLE: Hymn 24 To Hestia
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-24-to-hestia--anonymous
+
+#+BEGIN_QUOTE
+Hymn 24 To Hestia translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Hestia, you who tend the holy house of the lord Apollo, the Far-shooter at goodly
+Pytho, with soft oil dripping ever from your
+locks, come now into this house, come, having one mind
+with Zeus the all-wise —draw near, and withal bestow grace upon my song.

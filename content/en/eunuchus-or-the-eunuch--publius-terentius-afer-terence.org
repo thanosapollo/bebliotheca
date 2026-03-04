@@ -1,0 +1,6142 @@
+#+TITLE: Eunuchus; or, The Eunuch
+#+AUTHOR: Publius Terentius Afer (Terence)
+#+FILETAGS: :classical:2c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/eunuchus-or-the-eunuch--publius-terentius-afer-terence
+
+#+BEGIN_QUOTE
+Eunuchus; or, The Eunuch translated by Henry Thomas Riley
+#+END_QUOTE
+
+* front
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Dramatis Personae
+
+LACHES, From λαγχύνω, to obtain by lot or heirship. an aged Athenian.
+
+PHAEDRIA, From φαιδρὸς, cheerful. his sons.
+CHAEREAFrom χαίρων, rejoicing.
+ANTIPHO, From ἀντὶ, opposite to, and φῶς, light, or φῆμι, to speak. a young man, friend of Chaerea.
+CHREMES, From χρεμίζω, to neigh; delighting in horses. a young man, brother of Pamphila.
+THRASO, From θρασὸς, boldness. a boastful Captain.
+GNATHO, From γναθὸς, the jawbone; a glutton. a Parasite.
+PARMENO, From παρὰ, by, and μένω, to remain. servant of Phldria.
+SANGA, From Sangia in Phrygia, his native country. cook to Thraso.
+
+DONAX, From δόνὺξ, a reed. servants of Thraso.
+SIMALIOFrom σιμὸς, flat-nosed.
+SYRISCUSFrom Syria, his country; or from συρίσκος, a basket of figs.
+
+DORUS, a Eunuch slave.
+THAIS, From θεύομαι, to look at. a Courtesan.
+
+PYTHIAS,From πυθομένη, asking questions. her attendants.
+DORIASFrom Doris, their country, a part of Caria.
+
+SOPHRONA, From σώφρων, prudent. a nurse.
+PAMPHILA, From πᾶν, all and φιλὸς, a friend. a female slave.
+
+(Scene.—Athens; before the houses of LACHES and THAIS. )
+
+THE SUBJECT.
+A CERTAIN citizen of Athens had a daughter named Pamphila, and a son called Chremes. The former was stolen while an infant, and sold to a Rhodian merchant, who having made a present of her to a Courtesan of Rhodes, she brought her up with her own daughter Thais, who was somewhat older. In the course of years, Thais following her mother’s way of life, removes to Athens. Her mother dying, her property is put up for sale, and Pamphila is purchased as a slave by Thraso, an officer and an admirer of Thais, who happens just then to be visiting Rhodes. During the absence of Thraso, Thais becomes acquainted with Phaedria, an Athenian youth, the son of Laches; she also discovers from Chremes, who lives near Athens, that Pamphila, her former companion, is his sister. Thraso returns, intending to present to her the girl he has bought, but determines not to do so until she has discarded Phaedria. Finding that the girl is no other than Pamphila, Thais is at a loss what to do, as she both loves Phaedria, and is extremely anxious to recover Pamphila. At length, to please the Captain, she excludes Phaedria, but next day sends for him, and explains to him her reasons, at the same time begging of him to allow Thraso the sole right of admission to her house for the next two days, and assuring him that as soon as she shall have gained possession of the girl, she will entirely throw him off. Phaedria consents, and resolves to spend these two days in the country; at the same time he orders Parmeno to take to Thais a Eunuch and an Aethiopian girl, whom he has purchased for her. The Captain also sends Pamphila, who is accidentally seen by Chaerea, the younger brother of Phaedria; he, being smitten with her beauty, prevails upon Parmeno to introduce him into the house of Thais, in the Eunuch’s dress. Being admitted there, in the absence of Thais, he ravishes the damsel. Shortly afterward Thraso quarrels with Thais, and comes with all his attendants to her house to demand the return of Pamphila, but is disappointed. In conclusion, Pamphila is recognized by her brother Chremes, and is promised in marriage to Chaerea; while Thraso becomes reconciled to Phaedria, through the mediation of Gnatho, his Parasite.
+
+THE TITLE OF THE PLAY.
+PERFORMED at the Megalensian Games; L. Posthumius Albinus and L. Cornelius Merula being Curule Aediles. L. Ambivius Turpio and L. Atilius Praenestinus performed it. Flaccus, the freedman of Claudius, composed the music to two treble flutes. From the Greek of Menander. It was acted twice, M. Valerius and C. Fannius being Consuls.
+
+THE SUMMARY OF C. SULPITIUS APOLLINARIS.
+THE Captain, Thraso, being ignorant of the same, has brought from abroad a girl who used wrongly to be called the sister of Thais, and presents her to Thais herself: she in reality is a citizen of Attica. To the same woman, Phaedria, an admirer of Thais, orders a Eunuch whom he has purchased, to be taken, and he himself goes away into the country, having been entreated to give up two days to Thraso. A youth, the brother of Phaedria, having fallen in love with the damsel sent to the house of Thais, is dressed up in the clothes of the Eunuch. Parmeno prompts him; he goes in; he ravishes the maiden; but at length her brother being discovered, a citizen of Attica, betroths her who has been ravished, to the youth, and Thraso prevails upon Phaedria by his entreaties.
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** THE PROLOGUE
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+IF there is any one who desires to please as many good men as possible, and to give offense to extremely few, among those does our Poet enroll his name.
+Next, if there is one who thinks that language too harsh is here applied to him, let him bear this in mind—
+that it is an answer, not an attack; inasmuch as he has himself been the first aggressor; who, by translating plays verbally, and writing them in bad Latin, has made out of good Greek Plays Latin ones by no means good. Just as of late he has published the Phasma [the Apparition] of Menander;
+and in the Thesaurus [the Treasure] has described him from whom the gold is demanded, as pleading his cause why it should be deemed his own, before the person who demands it has stated how this treasure belongs to him, or how it came into the tomb of his father. Henceforward, let him not deceive himself, or fancy thus,
+/I have now done with it; there’s nothing that he can say to me./ I recommend him not to be mistaken, and to refrain from provoking me. I have many other points, as to which for the present he shall be pardoned, which, however, shall be brought forward hereafter, if he persists in attacking me,
+as he has begun to do. After the Aediles had purchased the Eunuch of Menander, the Play which we are about to perform, he managed to get an opportunity of viewing it. When the magistrates were present it began to be performed. He exclaimed that a thief, no Poet, had produced the piece, but still had not deceived him;
+that, in fact, it was the Colax, an old Play of Plautus; and that from it were taken the characters of the Parasite and the Captain. If this is a fault, the fault is the ignorance of the Poet; not that he intended to be guilty of theft. That so it is, you will now be enabled to judge.
+The Colax is a Play of Meander’s; in it there is Colax, a Parasite, and a braggart Captain: he does not deny that he has transferred these characters into his Eunuch from the Greek; but assuredly he does deny this, that he was aware that those pieces had been already translated into Latin.
+But if it is not permitted us to use the same characters as others, how can it any more be allowed to represent hurrying servants, to describe virtuous matrons, artful courtesans, the gluttonous parasite, the braggart captain, the infant palmed off, the old man cajoled by the servant,
+about love, hatred, suspicion? In fine, nothing is said now that has not been said before. Wherefore it is but just that you should know this, and make allowance, if the moderns do what the ancients used to do. Grant me your attention, and give heed in silence,
+that you may understand what the Eunuch means.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+* 46
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+(Enter PHAEDRIA and PARMENO.)
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+What then, shall I do? Ought I not to go, not now even, when I am sent for of her own accord? Or ought I rather so to behave myself as not to put up with affronts from Courtesans? She shut her door against me; she now invites me back. Ought I to return? No; though she should implore me.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h7-h2
+:END:
+
+l’faith, if indeed you only can, there’s nothing better or more spirited; but if you begin, and can not hold out stoutly, and if, when you can not endure it, while no one asks you, peace being not made, you come to her of your own accord, showing that you love her, and can not endure it, you are done for; it’s all over with you;
+you are ruined outright. She’ll be jilting you, when she finds you overcome. Do you then, while there’s time, again and again reflect upon this, master, that a matter, which in itself admits of neither prudence nor moderation, you are unable to manage with prudence. In love there are all these evils; wrongs,
+suspicions, enmities reconcilements, war, then peace; if you expect to render these things, naturally uncertain, certain by dint of reason, you wouldn’t effect it a bit the more than if you were to use your endeavors to be mad with reason. And, what you are now, in anger, meditating to yourself,
+/What! I to her?What! I to her? Donatus remarks that this is an abrupt manner of speaking familiarly to persons in anger; and that the sentences are thus to be understood, I, go to her? Her, who has received him! Who has excluded me!—inasmuch as indignation loves to deal in Ellipsis and Aposiopesis. Who—him! Who—me! Who wouldn’t? Only let me alone; I had rather die; she shall find out what sort of a person I am;/ these expressions, upon my faith, by a single false tiny tear, which, by rubbing her eyes, poor thing, she can hardly squeeze out perforce, she will put an end to; and she’ll be the first to accuse you; and you will be
+too ready to give satisfaction to her.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h7-h3
+:END:
+
+O disgraceful conduct! I now perceive, both that she is perfidious, and that I am a wretched man. I am both weary of her, and burn with passion; knowing and fully sensible, alive and seeing it, I am going to ruin; nor do I know what I am to do.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h7-h4
+:END:
+
+What you are to do? Why, only to redeem yourself, thus captivated,
+at the smallest price you can; if you can not at a very small, rate, still for as little as you can; and do not afflict yourself.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h7-h5
+:END:
+
+Do you persuade me to this?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h7-h6
+:END:
+
+If you are wise. And don’t be adding to the troubles which love itself produces; those which it does produce, bear patiently. But see, here she is coming herself, the downfall of our fortunes,—
+for that which we ought ourselves to enjoy she intercepts.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+* 81
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+(Enter THAIS from her house.)
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+(to herself, not seeing them.)
+Ah wretched me! I fear lest Phaedria should take it amiss or otherwise than I intended it, that he was not admitted yesterday.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h2
+:END:
+
+(aside to PARMENO.)
+I’m trembling and shivering all over, Parmeno, at the sight of her.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h3
+:END:
+
+(apart.)
+Be of good heart;
+only approach this fire, you’ll soon be warmer than you need.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h4
+:END:
+
+(turning round.)
+Who is it that’s speaking here? What, are you here, my Phaedria? Why are you standing here? Why didn’t you come into the house at once?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h5
+:END:
+
+(whispering to PHAEDRIA.)
+But not a word about shutting you out!
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h6
+:END:
+
+Why are you silent?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h7
+:END:
+
+Of course, it’s because this door is always open to me,
+or because I’m the highest in your favor?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h8
+:END:
+
+Pass those matters by.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h9
+:END:
+
+How pass them by? O Thais, Thais, I wish that I had equal affection with yourself, and that it were in like degree, that either this might distress you in the same way that it distresses me, or that I might be indifferent at this being done by you.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h10
+:END:
+
+Prithee, don’t torment yourself, my life, my Phaedria. Upon my faith, I did it, not because I love or esteem any person more than you; but the case was such that it was necessary to be done.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h11
+:END:
+
+(ironically.)
+I suppose that, poor thing, you shut him out of doors, for love, according to the usual practice.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h12
+:END:
+
+Is it thus you act, Parmeno? Well, well. (To PHAEDRIA.) But listen—the reason for which
+I desired you to be sent for hither—
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h13
+:END:
+
+Go on.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h14
+:END:
+
+First tell me this; can this fellow possibly hold his tongue? (pointing to PARMENO.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h15
+:END:
+
+What, I? Perfectly well. But, hark you, upon these conditions I pledge my word to you; the truth that I hear, I’m silent upon, and retain it most faithfully; but if I hear what’s false and without foundation, it’s out at once;
+I’m full of chinks, and leak in every direction. Therefore, if you wish it to be kept secret, speak the truth.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h16
+:END:
+
+My mother was a Samian; she lived at Rhodes—
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h17
+:END:
+
+That may be kept a secret.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h18
+:END:
+
+There, at that period, a certain merchant made present to my mother of a little girl,
+who had been stolen away from Attica here.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h19
+:END:
+
+What, a citizen?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h20
+:END:
+
+I think so; we do not know for certain: she herself used to mention her mother’s and her father’s name; her country and other tokens she didn’t know, nor, by reason of her age, was she able. The merchant added this: that he had heard from the kidnappers
+that she had been carried off from Sunium. When my mother received her, she began carefully to teach her every thing, and to bring her up, just as though she had been her own daughter. Most persons supposed that she was my sister.
+Thence I came hither with that stranger, with whom alone at that period I was connected; he left me all which I now possess—
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h21
+:END:
+
+Both these things are false; out it goes.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h22
+:END:
+
+How so?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h23
+:END:
+
+Because you were neither content with one, nor was he the only one to make you presents; for he likewise (pointing to PHAEDRIA) brought a pretty considerable share to you.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h24
+:END:
+
+Such is the fact; but do allow me to arrive at the point I wish.
+In the mean time, the Captain, who had begun to take a fancy to me, set out to Caria; since when, in the interval, I became acquainted with you. You yourself are aware how very dear I have held you; and how I confess to you all my nearest counsels.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h25
+:END:
+
+Nor will Parmeno be silent about that.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h26
+:END:
+
+O, is that a matter of doubt?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h27
+:END:
+
+Attend; I entreat you. My mother died there recently; her brother is somewhat greedy after wealth. When he saw that this damsel was of beauteous form and understood music, hoping for a good price, he forthwith put her up for sale, and sold her. By good fortune
+this friend of mine was present; he bought her as a gift to me, not knowing or suspecting any thing of all this. He returned; but when he perceived that I had formed a connection with you as well, he feigned excuses on purpose that he might not give her; he said that if he could feel confidence that he should be preferred to yourself
+by me, so as not to apprehend that, when I had received her, I should forsake him, then he was ready to give her to me; but that he did fear this. But, so far as I can conjecture, he has set his affections upon the girl.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h28
+:END:
+
+Any thing beyond that?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h29
+:END:
+
+Nothing; for I have made inquiry. Now, my Phaedria,
+there are many reasons why I could wish to get her away from him. In the first place, because she was called my sister; moreover, that I may restore and deliver her to her friends. I am a lone woman; I have no one here, neither acquaintance nor relative; wherefore, Phaedria, I am desirous by my good offices to secure friends.
+Prithee, do aid me in this, in order that it may be the more easily effected. Do allow him for the few next days to have the preference with me. Do you make no answer?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h30
+:END:
+
+Most vile woman! Can I make you any answer after such behavior as this?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h31
+:END:
+
+Well done, my master, I commend you; (aside) he’s galled at last. (To PHAEDRIA.) You show yourself a man.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h32
+:END:
+
+I was not aware what you were aiming at; /she was carried away from here, when a little child; my mother brought her up as though her own; she was called my sister; I wish to get her away, that I may restore her to her friends./ The meaning is, that all these expressions, in fine, now amount to this, that I am shut out, he is admitted. For what reason?
+Except that you love him more than me: and now you are afraid of her who has been brought hither, lest she should win him, such as he is, from yourself.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h33
+:END:
+
+I, afraid of that?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h34
+:END:
+
+What else, then, gives you concern? Let me know. Is he the only person who makes presents? Have you found my bounty shut against you?
+Did I not, when you told me that you wished for a servant-maid from Aethiopia, setting all other matters aside, go and seek for one? Then you said that you wanted a Eunuch, because ladies of quality alone make use of them; I found you one. I yesterday paid twenty minae for them both.
+Though slighted by you, I still kept these things in mind; as a reward for so doing, I am despised by you.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h35
+:END:
+
+Phaedria, what does this mean? Although I wish to get her away, and think that by these means it could most probably be effected; still, rather than make an enemy of you, I’ll do as you request me.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h36
+:END:
+
+I only wish that you used that expression from your heart and truthfully, /rather than make an enemy of you./ If I could believe that this was said sincerely, I could put up with any thing.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h37
+:END:
+
+(aside.)
+He staggers; how instantaneously is he vanquished by a single expression!
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h38
+:END:
+
+I, wretched woman, not speak from my heart? What, pray,
+did you ever ask of me in jest, but that you carried your point? I am unable to obtain even this of you, that you would grant me only two days.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h39
+:END:
+
+If, indeed, it is but two days; but don’t let these days become twenty.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h40
+:END:
+
+Assuredly not more than two days, or—
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h41
+:END:
+
+/Or?/ I won’t have it.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h42
+:END:
+
+It shall not be; only do allow me to obtain this of you.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h43
+:END:
+
+Of course that which you desire must be done.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h44
+:END:
+
+I love you as you deserve; you act obligingly.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h45
+:END:
+
+(to PARMENO.)
+I shall go into the country; there I shall worry myself for the next two days: I’m resolved to do so; Thais must be humored. Do you, Parmeno, take care that they are brought hither.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h9-h46
+:END:
+
+Certainly.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h47
+:END:
+
+For the next two days then, Thais, adieu.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h48
+:END:
+
+And the same to you, my Phaedria; do you desire aught else?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h9-h49
+:END:
+
+What should I desire? That, present with the Captain, you may be as if absent; that night and day you may love me; may feel my absence; may dream of me; may be impatient for me; may think about me;
+may hope for me; may centre your delight in me; may be all in all with me; in fine, if you will, be my very life, as I am yours. (Exeunt PHAEDRIA and PARMENO.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h9-h50
+:END:
+
+(to herself.)
+Ah wretched me! perhaps now he puts but little faith in me, and forms his estimate of me from the dispositions of other women. By my troth, I, who know my own self, am very sure of this,
+that I have not feigned any thing that’s false, and that no person is dearer to my heart than this same Phaedria; and whatever in the present case I have done, for this girl’s sake have I done it; for I trust that now I have pretty nearly discovered her brother, a young man of very good family;
+and he has appointed this day to come to me at my house. I’ll go hence in-doors, and wait until he comes. (She goes into her house.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+* 207
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+(Enter PHAEDRIA and PARMENO.)
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+Mind that those people are taken there, as I ordered.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h2
+:END:
+
+I’ll do so.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h3
+:END:
+
+And carefully.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h4
+:END:
+
+It shall be done.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h5
+:END:
+
+And with all speed.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h6
+:END:
+
+It shall be done.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h7
+:END:
+
+Have you had sufficient instructions?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h8
+:END:
+
+Dear me! to ask the question, as though it were a matter of difficulty.
+I wish that you were able, Phaedria, to find any thing as easily as this present will be lost.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h9
+:END:
+
+Together with it, I myself am lost, which concerns me more nearly. Don’t bear this with such a feeling of vexation.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h10
+:END:
+
+By no means; on the contrary, I’ll see it done. But do you order any thing else?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h11
+:END:
+
+Set off my present with words, as far as you can; and so far as you are able, do drive away that rival of mine from her.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h12
+:END:
+
+Pshaw! I should have kept that in mind, even if you hadn’t reminded me.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h13
+:END:
+
+I shall go into the country and remain there.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h14
+:END:
+
+I agree with you. (Moves as if going.)
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h15
+:END:
+
+But hark you!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h16
+:END:
+
+What is it you want?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h17
+:END:
+
+Are you of opinion that I can muster resolution and hold out so as not to come back within the time?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h18
+:END:
+
+What, you? Upon my faith, I don’t think so; for either you’ll be returning at once, or by-and-by, at night, want of sleep will be driving you hither.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h19
+:END:
+
+I’ll do some laborious work, that I may be continually fatigued, so as to sleep in spite of myself.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h20
+:END:
+
+When wearied, you will be keeping awake; by this you will be making it worse.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h21
+:END:
+
+Oh, you talk to no purpose, Parmeno: this softness of spirit, upon my faith, must be got rid of; I indulge myself too much. Could I not do without her, pray, if there were the necessity, even for a whole three days?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h22
+:END:
+
+Whew! an entire three days! Take care what you are about.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h12-h23
+:END:
+
+My mind is made up. (Exit.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h12-h24
+:END:
+
+(to himself.)
+Good Gods! What a malady is this! That a man should become so changed through love, that you wouldn’t know him to be the same person! Not any one was there less inclined to folly than he, and no one more discreet or more temperate. But who is it that’s coming this way? Heyday! surely this is Gnatho, the Captain’s Parasite; he’s bringing along with him the damsel as a present to her. Heavens!
+How beautiful! No wonder if I make but a sorry figure here to-day with this decrepit Eunuch of mine. She surpasses Thais herself. (Stands aside.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+* 232
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+(Enter GNATHO at a distance, leading PAMPHILA.)
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h1
+:END:
+
+(to himself.)
+Immortal Gods! how much does one man excel another! What a difference there is between a wise person and a fool! This strongly came into my mind from the following circumstance. As I was, coming along to-day, I met a certain person of this place, of my own rank and station,
+no mean fellow, one who, like myself, had guttled away his paternal estate; I saw him, shabby, dirty, sickly, beset with rags and years;—/What’s the meaning of this garb?/ said I; he answered, /Because, wretch that I am, I’ve lost what I possessed: see to what I am reduced,—all my acquaintances and friends forsake me./ On this I felt contempt for him in: comparison with myself. /What!/ said I, /you pitiful sluggard,/
+/have you so managed matters as to have no hope left? Have you lost your wits together with your estate? Don’t you see me, who have risen from the same condition? What a complexion I have, how spruce and well dressed, what portliness of person? I have every thing, yet have nothing; and although I possess nothing, still, of nothing am I in want./ /But I,/ said he, /unhappily, can neither be a butt nor submit to blows./
+/What!/ said I, /do you suppose it is managed by those means? You are quite mistaken. Once upon a time, in the early ages, there was a calling for that class; this is a new mode of coney-catching; I, in fact, have been the first to strike into this path. There is a class of men who strive to be the first in every thing, but are not; to these I make my court; I do not present myself to them to be laughed at; /
+/but I am the first to laugh with them, and at the same time to admire their parts: whatever they say, I commend; if they contradict that self-same thing, I commend again. Does any one deny? I deny: does he affirm? I affirm: in fine, I have so trained myself as to humor them in every thing. This calling is now by far the most productive./
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h2
+:END:
+
+(apart.)
+A clever fellow, upon my faith! From being fools he makes men mad outright.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h3
+:END:
+
+(to himself, continuing.)
+While we were thus talking, in the mean time we arrived at the market-place; overjoyed, all the confectioners ran at once to meet me; fishmongers, butchers, cooks, sausage-makers, and fishermen, whom, both when my fortunes were flourishing and when they were ruined, I had served, and often serve still: they complimented me, asked me to dinner, and gave me a hearty welcome.
+When this poor hungry wretch saw that I was in such great esteem, and that I obtained a living so easily, then the fellow began to entreat me that I would allow him to learn this method of me; I bade him become my follower if he could; as the disciples of the Philosophers take their names from the Philosophers themselves, so too, the Parasite; ought to be called Gnathonics.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h4
+:END:
+
+(apart to the Audience.)
+Do you see the effects of ease and feeding at another’s cost?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h5
+:END:
+
+(to Iimself, continuing.)
+But why do I delay to take this girl to Thais, and ask her to come to dinner? (Aside, on seeing PARMENO.) But I see Parmeno, our rival’s servant, waiting before the door of Thais with a sorrowful air; all’s safe; no doubt these people are finding a cold welcome. I’m resolved to have some sport with this knave.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h6
+:END:
+
+(aside.)
+They fancy that, through this present,
+Thais is quite their own.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h7
+:END:
+
+(accosting PARMENO.)
+With his very best wishes Gnatho greets Parmeno, his very good friend.—What are you doing?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h8
+:END:
+
+I’m standing.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h9
+:END:
+
+So I perceive. Pray, do you see any thing here that don’t please you?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h10
+:END:
+
+Yourself.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h11
+:END:
+
+I believe you,—but any thing else, pray?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h12
+:END:
+
+Why so?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h13
+:END:
+
+Because you are out of spirits.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h14
+:END:
+
+Not in the least.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h15
+:END:
+
+Well, don’t be so; but what think you of this slave? (pointing to her.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h16
+:END:
+
+Really, not amiss.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h17
+:END:
+
+(aside.)
+I’ve galled the fellow.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h18
+:END:
+
+(aside, on overhearing him.)
+How mistaken you are in your notion!
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h19
+:END:
+
+How far do you suppose this gift will prove acceptable to Thais?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h20
+:END:
+
+It’s this you mean to say now, that we are discarded there. Hark you, there are vicissitudes in all things.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h21
+:END:
+
+For the next six months, Parmeno, I’ll set you at ease; you sha’n’t have to be running to and fro, or sitting up till daylight. Don’t I make you happy?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h22
+:END:
+
+Me? O prodigiously!
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h23
+:END:
+
+That’s my way with my friends.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h24
+:END:
+
+I commend you.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h25
+:END:
+
+I’m detaining you; perhaps you were about to go somewhere else.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h26
+:END:
+
+Nowhere.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h27
+:END:
+
+In that case then, lend me your services a little; let me be introduced to her.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h28
+:END:
+
+Very well; (GNATHO knocks at the door, which immediately opens) now the door is open for you, (aside) because you are bringing her.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h29
+:END:
+
+(going into the house of THAIS, ironically.)
+Should you like any one to be called out from here? (Goes in with PAMPHILA, and shuts the door.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h30
+:END:
+
+(to himself.)
+Only let the next two days go by; you who, at present, in such high favor, are opening the door with one little finger,
+assuredly I’ll cause to be kicking at that door full oft, with your heels, to no purpose. (Re-enter GNATHO from the house.)
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h14-h31
+:END:
+
+Still standing here, Parmeno? Why now, have you been left on guard here, that no go-between might perchance be secretly running from the Captain to her? (Exit.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h14-h32
+:END:
+
+Smartly said; really they ought to be wonderful things to please the Captain. But I see my master’s youngest son coming this way;I wonder why he has come away from the Piraeus, for he is at present on guard there in the public service. It’s not for nothing; he’s coming in a hurry, too; I can’t imagine why he’s looking around in all directions.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+* 292
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+(Enter CHAEREA on the other side of the stage, in haste.)
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+(to himself.)
+I’m utterly undone! The girl is nowhere; nor do I know where I am myself, to have lost sight of her. Where to inquire for her, where to search for her, whom to ask, which way to turn,
+I’m at a loss. I have only this hope; wherever she is, she can not long be concealed. O what beauteous features! from this moment I banish all other women from my thoughts; I can not endure these every-day beauties.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h2
+:END:
+
+(apart.)
+Why look, here’s the other one. He’s saying something, I don’t know what, about love.
+O unfortunate old man, their father! This assuredly is a youth, who, if he does begin, you will say that
+the other one was mere play and pastime, compared with what the madness of this one will cause.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h3
+:END:
+
+(to himself, aloud.)
+May all the Gods and Goddesses confound that old fellow who detained me to-day, and me as well who stopped for him, and in fact troubled myself a straw about him. But see, here’s Parmeno. (Addressing him.) Good-morrow to you.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h4
+:END:
+
+Why are you out of spirits, and why in such a hurry? Whence come you?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h5
+:END:
+
+What, I? I’faith, I neither know whence I’m come, nor whither I’m going;
+so utterly have I lost myself.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h6
+:END:
+
+How, pray?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h7
+:END:
+
+I’m in love.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h8
+:END:
+
+(starting.)
+Ha!
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h9
+:END:
+
+Now, Parmeno, you may show what sort of a man you are. You know that you often promised me to this effect: /Chaerea, do you only find some object to fall in love with; I’ll make you sensible of my usefulness in such matters,/ when I used to be storing up my father’s provisions for you on the sly in your little room.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h10
+:END:
+
+To the point, you simpleton.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h11
+:END:
+
+Upon my faith, this is the fact. Now, then, let your promises be made good, if you please, or if indeed the affair is a deserving one for you to exert your energies upon. The girl isn’t like our girls, whom their mothers are anxious to have with shoulders kept down, and chests well girthed, that they may be slender. If one is a little inclined to plumpness, they declare that she’s training for a boxer, and stint her food;
+although their constitutions are good, by their treatment they make them as slight as bulrushes; and so for that reason they are admired, forsooth.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h12
+:END:
+
+What sort of a girl is this one of yours?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h13
+:END:
+
+A new style of beauty.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h14
+:END:
+
+(ironically.)
+Astounding!
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h15
+:END:
+
+Her complexion genuine, her flesh firm and full of juiciness.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h16
+:END:
+
+Her age?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h17
+:END:
+
+Her age Sixteen.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h18
+:END:
+
+The very flower of youth.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h19
+:END:
+
+Do you make, it your care to obtain her for me either by force, stealth, or entreaty; so that I only gain her, it matters not how to me.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h20
+:END:
+
+Well, but to whom does the damsel belong?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h21
+:END:
+
+That, i’faith, I don’t know.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h22
+:END:
+
+Whence did she come?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h23
+:END:
+
+That, just as much.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h24
+:END:
+
+Where does she live?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h25
+:END:
+
+Nor yet do I know that.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h26
+:END:
+
+Where did you see her?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h27
+:END:
+
+In the street.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h28
+:END:
+
+How did you come to lose her?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h29
+:END:
+
+Why, that’s what I was just now fretting myself about; and I do not believe that there is one individual to whom all good luck is a greater stranger than to myself.
+What ill fortune this is!
+I’m utterly undone!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h30
+:END:
+
+What’s the matter?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h31
+:END:
+
+Do you ask me? Do you know Archidemides, my father’s kinsman and
+years’-mate?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h32
+:END:
+
+Why not?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h33
+:END:
+
+He, while I was in full pursuit of her, met me.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h34
+:END:
+
+Unseasonably, upon my faith.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h35
+:END:
+
+Aye, unhappily, rather; for other ordinary matters are to be called /unseasonable,/ Parmeno.
+It would be safe for me to make oath that I have not seen him for fully these six or seven months, until just now, when I least wanted, and there was the least occasion. Come now! isn’t this like a fatality? What do you say?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h36
+:END:
+
+Extremely so.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h37
+:END:
+
+At once he came running up to me, from a considerable distance,
+stooping, palsied, hanging his lip, and wheezing. /Halloo, Chaerea! halloo!/ said he; /I’ve something to say to you./ I stopped. /Do you know what it is I want with you?/ said he. /Say on,/ said I. /To-morrow my cause comes on,/ said he. /What then?/ /Be sure and tell your father to remember and be my advocateBe my advocate. Advocatus. It must be remembered that this word did not among the Romans bear the same sense as the-word advocate does with us. The advocati were the friends of a man who accompanied him when his cause was pleaded, and often performed the part of witnesses; those who assisted a person in a dispute or difficulty were also his advocati, and in this respect distantly resembled the second or friend of a party in the modern duel. In the Phormio, Hegio, Cratinus, and Crito are introduced as the advocati of Demipho. See also the Paenulus of Plautus, and the Notes to that Play in Bohn’s Translation.  in the morning./
+In talking of this, an hour elapsed. I inquired if he wanted any thing else. /That’s all,/ said he. I left him. When I looked in this direction for the damsel, she had that very instant turned this way down this street of ours.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h38
+:END:
+
+(aside.)
+It’s a wonder if he doesn’t mean her who has just now been made a present of to Thais here.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h39
+:END:
+
+When I got here, she was nowhere to be seen.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h40
+:END:
+
+Some attendants, I suppose, were accompanying the girl?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h41
+:END:
+
+Yes; a Parasite, and a female servant.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h42
+:END:
+
+(apart.)
+It’s the very same. (To CHAEREA.) It’s all over with you; make an end of it; you’ve said your last.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h43
+:END:
+
+You are thinking about something else.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h44
+:END:
+
+Indeed I’m thinking of this same matter.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h45
+:END:
+
+Pray, tell me, do you know her, or did you see her?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h46
+:END:
+
+I did see, and I do know her, I am aware to what house she has been taken.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h47
+:END:
+
+What, my dear Parmeno, do you know her,
+and are you aware where she is?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h48
+:END:
+
+She has been brought here (pointing) to the house of Thais the Courtesan. She has been made a present to her.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h49
+:END:
+
+What opulent person is it, to be presenting a gift so precious as this?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h50
+:END:
+
+The Captain Thraso, Phaedria’s rival.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h51
+:END:
+
+An unpleasant business for my brother, it should seem.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h52
+:END:
+
+Aye, and if you did but know what present he is pitting against this present, you would say so still more.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h53
+:END:
+
+Troth now, what is it, pray?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h54
+:END:
+
+A Eunuch.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h55
+:END:
+
+What! that unsightly creature, pray, that he purchased yesterday, an old woman?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h56
+:END:
+
+That very same.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h57
+:END:
+
+To a certainty, the gentleman will be bundled out of doors, together with his present; but I wasn’t aware that this Thais is our neighbor.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h58
+:END:
+
+It isn’t long since she came.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h59
+:END:
+
+Unhappy wretch that I am! never to have seen her, even. Come now, just tell me,
+is she as handsome as she is reported to be?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h60
+:END:
+
+Quite.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h61
+:END:
+
+But nothing in comparison with this damsel of mine?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h62
+:END:
+
+Another thing altogether.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h63
+:END:
+
+Troth now, Parmeno, prithee do contrive for me to gain possession of her.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h64
+:END:
+
+I’ll do my best, and use all my endeavors; I’ll lend you my assistance. (Going.) Do you want any thing else with me?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h65
+:END:
+
+Where are you going now?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h66
+:END:
+
+Home; to take those slaves to Thais, as your brother ordered me.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h67
+:END:
+
+Oh, lucky Eunuch that! really, to be sent as a present to that house!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h68
+:END:
+
+Why so?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h69
+:END:
+
+Do you ask? He will always see at home a fellow-servant of consummate beauty, and be conversing with her; he will be in the same house with her; sometimes he will take his meals with her; sometimes sleep near her.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h70
+:END:
+
+What now, if you yourself were to be this fortunate person?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h71
+:END:
+
+By what means, Parmeno? Tell me.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h72
+:END:
+
+Do you assume his dress.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h73
+:END:
+
+His dress! Well, what then?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h74
+:END:
+
+I’ll take you there instead of him.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h75
+:END:
+
+(musing.)
+I hear you.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h76
+:END:
+
+I’ll say that you are he.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h77
+:END:
+
+I understand you.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h78
+:END:
+
+You may enjoy those advantages which you just now said lie would enjoy; you may take your meals together with her, be in company with her, touch her, dally with her, and sleep by her side; as not one of these women is acquainted with you, nor yet knows who you are. Besides, you are of an age and figure that you may easily pass for a eunuch.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h79
+:END:
+
+You speak to the purpose; I never knew better counsel given. Well, let’s go in at once; dress me up, take me away, lead me to her, as fast as you can.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h80
+:END:
+
+What do you mean? Really, I was only joking.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h81
+:END:
+
+You talk nonsense.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h82
+:END:
+
+I’m undone! Wretch that I am! what have I done? (CHAEREA pushes him along.) Whither are you pushing me? You’ll throw me down presently. I entreat you, be quiet.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h83
+:END:
+
+Let’s be off. (Pushes him.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h84
+:END:
+
+Do you still persist?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h85
+:END:
+
+I am resolved upon it.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h86
+:END:
+
+Only take care that this isn’t too rash a project.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h87
+:END:
+
+Certainly it isn’t; let me alone for that.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h88
+:END:
+
+Aye, but I shall have to pay the penalty for this?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h89
+:END:
+
+Pshaw!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h90
+:END:
+
+We shall be guilty of a disgraceful action.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h91
+:END:
+
+What, is it disgraceful to be taken to the house of a Courtesan, and to return the compliment upon those tormentors who treat us and our youthful age so scornfully, and who are always tormenting us in every way;—to dupe them just as we are duped by them?
+Or is it right and proper that in preference my father should be wheedled out of his money by deceitful pretexts? Those who knew of this would blame me; while all would think the other a meritorious act.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h92
+:END:
+
+What’s to be done in such case? If you are determined to do it, you must do it: but don’t you by-and-by be throwing the blame upon me.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h93
+:END:
+
+I shall not do so.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h94
+:END:
+
+Do you order me, then?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h16-h95
+:END:
+
+I order, charge, and command you; I will never disavow my authorizing you.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h16-h96
+:END:
+
+Follow me; may the Gods prosper it! (They go into the house of LACHES.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+* 390
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+(Enter THRASO and GNATHO.)
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h1
+:END:
+
+Did Thais really return me many thanks?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h2
+:END:
+
+Exceeding thanks.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h3
+:END:
+
+Was she delighted, say you?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h4
+:END:
+
+Not so much, indeed, at the present itself, as because it was given by you; really, in right earnest, she does exult at that. (Enter PARMIENO unseen, from LACHES’ house.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h19-h5
+:END:
+
+(apart.)
+I’ve come here to be on the look-out, that when there is an opportunity I may take the presents. But see, here’s the Captain.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h6
+:END:
+
+Undoubtedly it is the case with me
+, that every thing I do is a cause for thankfulness.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h7
+:END:
+
+Upon my faith, I’ve observed it.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h8
+:END:
+
+The most mighty King, even, always used to give me especial thanks for whatever I did; but not so to others.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h9
+:END:
+
+He who has the wit that you have, often by his words appropriates to himself the glory that has been achieved by the labor of others.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h10
+:END:
+
+You’ve just hit it.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h11
+:END:
+
+The king, then, kept you in his eye.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h12
+:END:
+
+Just so.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h13
+:END:
+
+To enjoy your society.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h14
+:END:
+
+True; he intrusted to me all his army, all his state secrets.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h15
+:END:
+
+Astonishing!
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h16
+:END:
+
+Then if, on any occasion, a surfeit of society, or a dislike of business, came upon him, when he was desirous to take some recreation; just as though—you understand?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h17
+:END:
+
+I know;
+just as though on occasion he would rid his mind of those anxieties.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h18
+:END:
+
+You have it. Then he used to take me aside as his only boon companion.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h19
+:END:
+
+Whew! You are telling of a King of refined taste.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h20
+:END:
+
+Aye, he is a person of that sort; a man of but very few acquaintanceships.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h21
+:END:
+
+(aside.)
+Indeed, of none, I fancy, if he’s on intimate terms with you.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h22
+:END:
+
+All the people envied me,
+and attacked me privately. I don’t care one straw. They envied me dreadfully; but one in particular, whom the King had appointed over the Indian elephants. Once, when he became particularly troublesome, /Prithee, Strato,/ said I, /are you so fierce because you hold command over the wild beasts?/
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h23
+:END:
+
+Cleverly said, upon my faith, and shrewdly. Astounding! You did give the fellow a home thrust. What said he?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h24
+:END:
+
+Dumfounded, instantaneously.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h25
+:END:
+
+How could he be otherwise?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h19-h26
+:END:
+
+(apart.)
+Ye Gods, by our trust in you! a lost and miserable fellow the one, and the other a scoundrel.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h27
+:END:
+
+Well then, about that: matter, Gnatho, the way in which I touched up the Rhodian at a banquet—
+did I never tell you?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h28
+:END:
+
+Never; but pray, do tell me. (Aside.) I’ve heard it more than a thousand times already.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h29
+:END:
+
+There was in my company at a banquet, this young man of Rhodes, whom I’m speaking of. By chance I had a mistress there; he began to toy with her, and to annoy me. /What are you doing, sir impudence?/ said I to the fellow;
+/a hare yourself, and looking out for game?/
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h30
+:END:
+
+(pretending to laugh very heartily.)
+Ha, ha, ha!
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h31
+:END:
+
+What’s the matter?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h32
+:END:
+
+How apt, how smart, how clever; nothing could be more excellent. Prithee, was this a saying of yours? I fancied it was an old one.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h33
+:END:
+
+Did you ever hear it before?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h34
+:END:
+
+Many a time; and it is mentioned among the first-rate ones.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h35
+:END:
+
+It’s my own.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h36
+:END:
+
+I’m sorry though that it was said to a thoughtless young man, and one of respectability.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h19-h37
+:END:
+
+(apart.)
+May the Gods confound you!
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h38
+:END:
+
+Pray, what did he do?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h39
+:END:
+
+Quite disconcerted. All who were present were dying with laughter; in short, they were all quite afraid of me.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h40
+:END:
+
+[Not without reason.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h41
+:END:
+
+But hark you, had I best clear myself of this to Thais, as to her suspicion that I’m fond of this girl?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h42
+:END:
+
+By no means:
+on the contrary, rather increase her jealousy.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h43
+:END:
+
+Why so?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h44
+:END:
+
+Do you ask me? Don’t you see, if on any occasion she makes mention of Phaedria or commends him, to provoke you—
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h45
+:END:
+
+I understand.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h46
+:END:
+
+That such may not be the case, this method is the only remedy. When she speaks of Phaedria, do you instantly mention Pamphila.
+If at any time she says, /Let’s invite Phaedria to make one,/ do you say, /Let’s ask Pamphila to sing./ If she praises his good looks, do you, on the other hand, praise hers. In short, do you return like for like, which will mortify her.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h47
+:END:
+
+If, indeed, she loved me, this might be of some use, Gnatho.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h48
+:END:
+
+Since she is impatient for and loves that which you give her, she already loves you; as it is, then, it is an easy matter for her to feel vexed. She will be always afraid lest the presents which she herself is now getting, you may on some occasion be taking elsewhere.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h19-h49
+:END:
+
+Well said; that never came into my mind.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h19-h50
+:END:
+
+Nonsense. You never thought about it; else how much more readily would you yourself have hit upon it, Thraso!
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+* 453
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+(Enter THAIS from her house, attended by PYTHIAS.)
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h1
+:END:
+
+(as she comes out.)
+I thought I just now heard the Captain’s voice. And look, here he is. Welcome, my dear Thraso.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h2
+:END:
+
+O my Thais,
+my sweet one, how are you? How much do you love me in return for that music girl?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h3
+:END:
+
+(apart.)
+How polite! What a beginning he has made on meeting her!
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h4
+:END:
+
+Very much, as you deserve.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h5
+:END:
+
+Let’s go to dinner then. (To THRASO.) What do you stand here for?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h6
+:END:
+
+(apart.)
+Then there’s the other one: you would declare that he was born for his belly’s sake.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h7
+:END:
+
+When you please; I sha’n’t delay.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h8
+:END:
+
+(apart.)
+I’ll accost them, and pretend as though I had just come out. (He comes forward.) Are you going any where, Thais?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h9
+:END:
+
+Ha! Parmeno; well done; just going out for the day.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h10
+:END:
+
+Where?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h11
+:END:
+
+(aside, pointing at THRASO.)
+Why! don’t you see him?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h12
+:END:
+
+(aside.)
+I see him, and I’m sorry for it. (Aloud.) Phaedria’s presents are ready for you when you please.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h13
+:END:
+
+(impatiently.)
+Why are we to stand here? Why don’t we be off?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h14
+:END:
+
+(to THRASO.)
+Troth now, pray, do let us, with your leave, present to her the things we intend, and accost and speak to her.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h15
+:END:
+
+(ironically.)
+Very fine presents, I suppose, or at least equal to mine.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h16
+:END:
+
+The fact will prove itself. (Goes to the door of LACHES’ house and calls.) Ho there! bid those people come out of doors at once, as I ordered. (Enter from the house a BLACK GIRL.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h17
+:END:
+
+Do you step forward this way. (To THAIS.) She comes all the way from Aethiopia.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h18
+:END:
+
+(contemptuously.)
+Here are some three minae in value.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h19
+:END:
+
+Hardly so much.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h20
+:END:
+
+Where are you, Dorus? Step this way. (Enter CHAEREA from the house, dressed like the EUNUCH.) There’s a Eunuch for you—of what a genteel appearance! of what a prime age!
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h21
+:END:
+
+God bless me, he’s handsome.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h22
+:END:
+
+What say you, Gnatho? Do you see any thing to find fault with? And what say you, Thraso?
+(Aside.) They hold their tongues; they praise him sufficiently thereby. (To THAIS.) Make trial of him in literature, try him in exercises, and in music; I’ll warrant him well skilled in what it becomes a gentleman to know.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h23
+:END:
+
+That Eunuch, if occasion served, even in my sober senses, I—
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h24
+:END:
+
+And he who has sent these things makes no request that
+you will live for him alone, and that for his own sake others may be excluded; he neither tells of battles nor shows his scars, nor does he restrict you as (looking at THRASO) a certain person does; but when it is not inconvenient, whenever you think fit, whenever you have the time, he is satisfied to be admitted.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h25
+:END:
+
+(to GNATHO, contemptuously.)
+It appears that this is the servant of some beggarly, wretched master.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h26
+:END:
+
+Why, faith, no person, I’m quite sure of that, could possibly put up with him, who had the means to get another.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h27
+:END:
+
+You hold your tongue—a fellow whom I consider beneath all men of the very lowest grade: for when you can bring yourself to flatter that fellow (pointing at THRASO),
+I do believe you could pick your victuals out of the very flames.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h28
+:END:
+
+Are we to go now?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h29
+:END:
+
+I’ll take these in-doors first (pointing to CHAEREA and the AETHIOPIAN), and at the same time I’ll order what I wish; after that I’ll return immediately. (Goes into the house with PYTHIAS, CHAEREA, and the SLAVE.)
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h30
+:END:
+
+(to GNATHO.)
+I shall be off. Do you wait for her.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h21-h31
+:END:
+
+It is not a proper thing for a general to be walking in the street with a mistress.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h32
+:END:
+
+Why should I use many words with you? You are the very ape of your master. (Exit PARMENO.)
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h33
+:END:
+
+(laughing.)
+Ha, ha, ha!
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h34
+:END:
+
+What are you laughing at?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h35
+:END:
+
+At what you were mentioning just now; that saying, too, about the Rhodian, recurred to my mind. But Thais is coming out.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h36
+:END:
+
+You go before; take care that every thing is ready at home.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h21-h37
+:END:
+
+Very well. (Exit.)
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h38
+:END:
+
+(Re-enter THAIS, with PYTHIAS and FEMALE ATTENDANTS.)
+Take care, Pythias,
+and be sure that if Chremes should happen to come, to beg him to wait; if that is not convenient, then to come again; if he can not do that, bring him to me.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h21-h39
+:END:
+
+I’ll do so.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h40
+:END:
+
+Well, what else was I intending to say? O, do you take particular care of that young woman;
+be sure that you keep at home.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h21-h41
+:END:
+
+Let us begone.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h21-h42
+:END:
+
+(to her attendants.)
+You follow me. (Exeunt THAIS and THRASO, followed by the Attendants. PYTHIAS goes into the house.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+* 506
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+(Enter CHREMES.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h1
+:END:
+
+(to himself.)
+Why, really, the more and more I think of it, I shouldn’t be surprised if this Thais should be doing me some great mischief; so cunningly do I perceive myself beset by her. Even on the occasion when she first requested me to be fetched to her
+(any one might ask me, /What business had you with her?/ Really I don’t know.) When I came, she found an excuse for me to remain there; she said that she had been offering a sacrifice, and that she was desirous to speak upon some important business with me. Even then I had a suspicion that all these things were being done for her artful purposes. She takes her place beside
+me; pays every attention to me; seeks and opportunity of conversation. When the conversation flagged, she turned off to this point—how long since my father and mother died? I said that it was now a long time ago. Whether I had any country-house at Sunium, and how far from the sea? I suppose that this has taken her fancy, and she expects to get it away from me.
+Then at last, whether any little sister of mine had been lost from there; whether any person was with her; what she had about her when she was lost; whether any one could recognize her. Why should she make these inquiries? Unless, perhaps, she pretends—so great is her assurance—that she herself is the same person that was formerly lost when a little girl.
+But if she is alive, she is sixteen years old, not older; whereas Thais is somewhat older than I am. She has sent to press me earnestly to come. Either let her speak out what she wants, or not be troublesome; I assuredly shall not come a third time (knocking at the door of THAIS). Ho! there, ho! there! Is any one here?
+It’s I, Chremes. (Enter PYTHIAS from the house.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h2
+:END:
+
+O most charming, dear creature!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h3
+:END:
+
+(apart.)
+I said there was a design upon me.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h4
+:END:
+
+Thais entreated you most earnestly to come again to-morrow.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h5
+:END:
+
+I’m going into the country.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h6
+:END:
+
+Do, there’s a dear sir.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h7
+:END:
+
+I can not, I tell you.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h8
+:END:
+
+Then stay here at our house till she comes back.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h9
+:END:
+
+Nothing less likely.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h10
+:END:
+
+Why, my dear Chremes? (Taking hold of him.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h11
+:END:
+
+(shaking her off.)
+Away to perdition with you!
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h12
+:END:
+
+If you are so determined about it, pray do step over to the place where she is.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h23-h13
+:END:
+
+I’ll go there.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h23-h14
+:END:
+
+(calling at the door.)
+Here, Dorias (DORIAS enters), show this person directly to the Captain’s. (Exit CHREMES with DORIAS, PYTHIAS goes into the house.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+* 538
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+(Enter ANTIPHO.)
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h25-h1
+:END:
+
+(to himself.)
+Yesterday some young fellows of us agreed together at the Piraeus that we were to go shares today in a club-entertainment. We gave Chaerea charge of this matter;
+our rings were given as pledges; the place and time arranged. The time has now gone by; at the place appointed there was nothing ready. The fellow himself is nowhere to be met with; I neither know what to say nor what to suppose. Now the rest have commissioned me with his business, to look for him. I’ll go see, therefore, if he’s at home. But who’s this, I wonder, coming out of Thais’s?
+Is it he, or is it not? ’Tis the very man! What sort of being is this? What kind of garb is this? What mischief is going on now? I can not sufficiently wonder or conjecture. But, whatever it is, I should like first at a distance to try and find out. (He stands apart.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+* 548
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+(Enter CHAEREA from the house of Thais, in the EUNUCH’s dress.)
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h1
+:END:
+
+(looking around, then aloud to himself.)
+Is there any body here? There’s no one. Is there any one following me from there? There’s not a person. Now am I not at liberty to give vent to these raptures? O supreme Jupiter!
+now assuredly is the time for me to meet my death, when I can so well endure it; lest my life should sully this ecstasy with some disaster. But is there now no inquisitive person to be intruding upon me, to be following me wherever I do, to be deafening me, worrying me to death, with asking questions; why thus transported, or why so overjoyed, whither I’m going, whence I’m come, where
+I got this garb, what is my object, whether I’m in my senses or whether downright mad?
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h2
+:END:
+
+(apart.)
+I’ll accost him, and I’ll do him the favor which I see he’s wishing for. (Accosting him.) Chaerea, why are you thus transported? What’s the object of this garb? Why is it that you’re so overjoyed? What is the meaning of this? Are you quite right in your senses? Why do you stare at me? What have you to say?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h3
+:END:
+
+O joyous day! O welcome, my friend!
+There’s not one in all the world whom I would rather wish to see at this moment that yourself.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h4
+:END:
+
+Pray, do tell me what all this means.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h5
+:END:
+
+Nay rather, i’faith, I beg of you to listen to me. Do you know the mistress whom my brother is so fond of?
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h6
+:END:
+
+I know her; I suppose you mean Thais?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h7
+:END:
+
+The very same.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h8
+:END:
+
+So far I recollect.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h9
+:END:
+
+To-day a certain damsel was presented to her. Why now should I extol or commend her beauty to you, Antipho,
+since you yourself know how nice a judge of beauty I am? I have been smitten by her.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h10
+:END:
+
+Do you say so?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h11
+:END:
+
+If you saw her, I am sure you would say she’s exquisite. What need of many words? I fell in love with her. By good luck there was at our house a certain Eunuch, whom my brother had purchased for Thais, and he had not as yet been sent to her. On this occasion, Parmeno,
+our servant, made a suggestion to me, which I adopted.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h12
+:END:
+
+What was it?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h13
+:END:
+
+Be quiet, and you shall hear the sooner; to change clothes with him, and order myself to be taken there in his stead.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h14
+:END:
+
+What, instead of the Eunuch?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h15
+:END:
+
+The fact.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h16
+:END:
+
+To receive what advantage, pray, from this plan?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h17
+:END:
+
+Do you ask? That I might see, hear, and be in company with her whom I loved, Antipho. Is that a slight motive, or a poor reason? I was presented to the woman.
+She, as soon as she received me, joyfully took me home to her house and intrusted the damsel—
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h18
+:END:
+
+To whom? To you?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h19
+:END:
+
+To me.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h20
+:END:
+
+(ironically.)
+In perfect safety, at all events.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h21
+:END:
+
+She gave orders that no male was to come near her, and commanded me not to stir away from her; that I was to remain alone with her in the inner apartments. Looking bashfully on the ground, I nodded assent.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h22
+:END:
+
+(ironically.)
+Poor fellow!
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h23
+:END:
+
+(continuing.)
+/I am going out,/ said she, /to dinner./
+She took her maids with her; a few novices of girls remained, to be about her. These immediately made preparations for her to bathe. I urged them to make haste. While preparations were being made, the damsel sat in a room looking up at a certain painting, in which was represented how Jove is said once to have sent a golden shower into the bosom of Danaë.
+I myself began to look at it as well, and as he had in former times played the like game, I felt extremely delighted that a God should change himself into money, and slily come through the tiles of another person’s house, to deceive the fair one by means of a shower. But what God was this? He who shakes the most lofty temples of heaven with his thunders.
+Was I, a poor creature of a mortal, not to do the same? Certainly, I was to do it, and without hesitation. While I was thinking over these matters with myself, the damsel meantime was fetched away to bathe; she went, bathed, and came back; after which they laid her on a couch. I stood waiting to see if they gave me any orders. One came up, /Here, Dorus,/ said she, /take this fan,Take this fan: As to the fans of the ancients, see the Trinummus of Plautus, l. 252, and the Note to the passage in Bohn’s Translation. See also the Amours of Ovid, B. iii., El. 2, l. 38. and let her have a little air in this fashion, while we are bathing;/
+/when we have bathed, if you like, you may bathe too./ With a demure air I took it.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h24
+:END:
+
+Really, I should very much have liked to see that impudent face of yours just then, and what figure a great donkey like you made, holding a fan!
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h25
+:END:
+
+(continuing.)
+Hardly had she said this, when all, in a moment, betook themselves off: away they went to bathe, and chattered aloud; just as the way is when masters are absent.
+Meanwhile, sleep overtook the damsel; I slily looked askance through the fan; this way (showing how): at the same time I looked round in all directions, to see whether all was quite safe. I saw that it was. I bolted the door.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h26
+:END:
+
+What then?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h27
+:END:
+
+Eh? What then, you simpleton?
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h28
+:END:
+
+I own I am.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h29
+:END:
+
+Was I to let slip the opportunity offered me, so excellent, so short-lived, so longed for, so unexpected.
+In that case, i’faith, I really should have been the person I was pretending to be.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h30
+:END:
+
+Troth, you certainly are in the right; but, meantime, what has been arranged about the club-entertainment?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h31
+:END:
+
+All’s ready.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h32
+:END:
+
+You are a clever hand; but where? At your house?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h33
+:END:
+
+No, at Discus’s, our freedman.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h34
+:END:
+
+That’s a long way off.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h35
+:END:
+
+Then let’s make so much the greater haste.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h36
+:END:
+
+Change your dress.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h37
+:END:
+
+Where am I to change it? I’m at a loss; for at present I’m an exile from home; I’m afraid of my brother,
+lest he should be in-doors: and then again of my father, lest he should have returned from the country by this.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h38
+:END:
+
+Let’s go to my house; there is the nearest place for you to change.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h27-h39
+:END:
+
+You say right. Let’s be off; besides, I want to take counsel with you about this girl, by what means I may be able to secure the future possession of her.
+
+** ANTIPHO
+:PROPERTIES:
+:CUSTOM_ID: h27-h40
+:END:
+
+Very well. (Exeunt.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+* 614
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+(Enter DORIAS, with a casket in her hand.)
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h30-h1
+:END:
+
+(to herself.)
+So may the Gods bless me, but from what I have seen, I’m terribly afraid that
+this mad fellow will be guilty of some disturbance to-day or of some violence to Thais. For when this young man, the brother of the damsel, arrived, she begged the Captain to order him to be admitted; he immediately began to get into a passion, and yet didn’t dare refuse; Thais still insisted that he would invite the man in. This she did for the sake of detaining him; because there was no opportunity just then of telling him what she wanted to disclose about her sister.
+He was invited in, and took his seat. Then she entered into discourse with him. But the Captain, fancying it was a rival brought before his very eyes, wanted in his turn to mortify her: /Hark you, boy,/ said he, /go fetch Pamphila, that she may amuse us here./ She exclaimed, /At a banquet! Certainly not./ The Captain still persisted to a downright quarrel.
+Meanwhile my mistress secretly took off her golden jewels, and gave them to me to take away: this is a sign, I’m sure, that she’ll betake herself from there as soon as she possibly can. (Goes into the house.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+* 628
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+(Enter PHAEDRIA.)
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h32-h1
+:END:
+
+(to himself.)
+While I was going into the country, I began on the road, as it mostly happens when there is any anxiety on the mind,
+to reflect with myself upon one thing after another, and upon every thing in the worst light. What need of words? While I was musing thus, inadvertently I passed my country-house. I had already got some distance from it, when I perceived this; I returned again, really feeling quite uneasy; when I came to the very turning that leads to the house, I came to a stop,
+and began to reason with myself; /What! must I stay here alone for two days without her? Well, and what then? It’s nothing at all. What? Nothing at all? Well now, if I haven't the privilege of touching her, am I not even to have that of seeing her? If I may not do the one, at least I may the other. Surely to love at a distanceAt a distance: Extremâ lineâ. There have been many suggestions offered for the origin of this figurative expression. Some suggest that it alludes to the last or lowest stage of the supposed ladder of love; others that it refers to the first or elementary line traced by the student, when beginning to learn the art of painting. It is however more generally thought to be a metaphor taken from the chariot races in the Circus, where, in going round the turning-place, he who was nearest was said currere in primâ lineâ; the next, in secundâ; and so on to the last, who took the widest range, and was said to run in extremâ lineâ./
+/even, is better than nothing at all./ I purposely passed the house. But how’s this, that Pythias is suddenly hurrying out in such a fright? (Stands apart.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+* 642
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+(Enter PYTHIAS and DORIAS in haste from the house of THAIS.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h1
+:END:
+
+(aloud.)
+Where, wretch that I am, shall I find this wicked and impious fellow? Or where look for him? That he should dare to commit so audacious a crime as this! I’m ruined outright!
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h2
+:END:
+
+(apart.)
+I dread what this may be.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h3
+:END:
+
+Besides, too, the villain, after he had abused the girl,
+rent all the poor thing’s clothes, and tore her hair as well.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h4
+:END:
+
+(apart, in surprise.)
+Ha!
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h5
+:END:
+
+If he were just now in my reach, how eagerly would I fly at that villain’s eyes with my nails!
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h6
+:END:
+
+(apart.)
+Really I can’t imagine what disturbance has happened to us at home in my absence. I’ll accost them. (Going up to them.) What’s the matter? Why in such haste? Or whom are you looking for, Pythias?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h7
+:END:
+
+Why, Phaedria, whom should I be looking for? Away with you, as you deserve, with such fine presents of yours.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h8
+:END:
+
+What is the matter?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h9
+:END:
+
+What, do you ask? The Eunuch you gave us, what confusion he has caused. He has ravished the girl whom the Captain made present of to my mistress.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h10
+:END:
+
+What is it you say?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h11
+:END:
+
+I’m ruined outright!
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h12
+:END:
+
+You are drunk.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h13
+:END:
+
+I wish that they were so, who wish ill to me.
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h14
+:END:
+
+Oh, prithee, my dear Pythias, what a monstrous thing this is!
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h15
+:END:
+
+You are out of your senses. How could a Eunuch possibly do this?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h16
+:END:
+
+I know nothing about him: as to what he has done, the thing speaks for itself. The girl is in tears; and when you ask her what’s the matter, she does not dare tell. But he, a precious fellow, is nowhere to be seen. To my sorrow I suspect too,
+that when he took himself off he carried something away from the house.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h17
+:END:
+
+I can not enough wonder, whither this varlet can possibly have betaken himself to any distance from here; unless perhaps he has returned home to our house.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h18
+:END:
+
+Pray, go and see whether he is there.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h34-h19
+:END:
+
+I’ll let you know immediately. (Goes into the house of LACHES.)
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h20
+:END:
+
+Ruined outright! Prithee, my dear, I never did so much as hear of a deed so abominable!
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h34-h21
+:END:
+
+Why, faith, I had heard that they were extremely fond of the women,
+but were incapable; unfortunately what has happened never came into my mind; otherwise I should have shut him up somewhere, and not have intrusted the girl to him.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 667
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+(Enter PHAEDRIA from the house of LACHES, with DORUS in CHAEREA’s clothes.)
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+(dragging him out.)
+Come out, you villain! What, do you lag behind, you runaway? Out with you, you sorry bargain!
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h2
+:END:
+
+(crying out.)
+Mercy, I do entreat you!
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h3
+:END:
+
+Oh, do look at that! How the villain distorts his face.
+What means your coming back hither? Why this change of dress? What have you to say? If I had delayed a moment, Pythias, I shouldn’t have found him at home: he had just prepared, in this fashion, for flight. (Pointing at his dress.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h4
+:END:
+
+Have you caught the fellow, pray?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h5
+:END:
+
+Caught him, why not?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h6
+:END:
+
+O well done!
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h7
+:END:
+
+Upon my faith that really is capital!
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h8
+:END:
+
+Where is he?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h9
+:END:
+
+Do you ask the question? Don’t you see him? (Pointing to the EUNUCH.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h10
+:END:
+
+(staring about.)
+See whom, pray?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h11
+:END:
+
+This fellow, to be sure (pointing).
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h12
+:END:
+
+What person is this?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h13
+:END:
+
+The same that was brought to your house to-day.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h14
+:END:
+
+Not one of our people has ever beheld this person with her eyes, Phaedria.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h15
+:END:
+
+Not beheld him?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h16
+:END:
+
+Prithee, did you fancy that this was he who was brought to our house?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h17
+:END:
+
+Why, I had no other.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h18
+:END:
+
+O dear!
+this one really isn’t to be compared with the other. He was of a handsome and genteel appearance.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h19
+:END:
+
+He seemed so, just then, because he was decked out in party-colored clothes: now he appears ugly, for this reason—because he hasn’t got them on.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h20
+:END:
+
+Prithee, do hold your tongue; as though indeed the difference was so trifling.
+A young man was brought to our house to-day, whom, really, Phaedria, you would have liked to look upon. This is a withered, antiquated, lethargic, old fellow, with a speckled complexion.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h21
+:END:
+
+(starting.)
+Hah! What tale is this? You’ll so befool me that I sha’n’t know what I bought.
+(To DORUS.) How now, sirrah, did I not buy you?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h22
+:END:
+
+You did buy me.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h23
+:END:
+
+Bid him answer me in my turn.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h24
+:END:
+
+Question him.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h25
+:END:
+
+(to DORUS.)
+Did you come here to-day to our house? (DORUS shakes his head.) He says, no. But it was the other one that came, about sixteen years of age; whom Parmeno brought with him.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h26
+:END:
+
+(to DORUS.)
+Well now, in the first place tell me this, where did you get that dress that you have on? What, are you silent?
+Monster of a fellow, are you not going to speak? (Shakes him.)
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h27
+:END:
+
+Chaerea came.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h28
+:END:
+
+What, my brother?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h29
+:END:
+
+Yes.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h30
+:END:
+
+When?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h31
+:END:
+
+To-day.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h32
+:END:
+
+How long since?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h33
+:END:
+
+Just now.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h34
+:END:
+
+With whom?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h35
+:END:
+
+With Parmeno.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h36
+:END:
+
+Did you know him before?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h37
+:END:
+
+No.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h38
+:END:
+
+How did you know he was my brother?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h39
+:END:
+
+Parmeno
+said he was. He gave me these clothes.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h40
+:END:
+
+I’m undone!
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h41
+:END:
+
+He himself put on mine; afterward, they both went out together.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h42
+:END:
+
+Now are you quite satisfied that I am sober, and that we have told you no falsehood? Is it now sufficiently evident that the girl has been ravished?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h43
+:END:
+
+Avaunt, you beast, do you believe what he says?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h44
+:END:
+
+What is there to believe? The thing speaks for itself.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h45
+:END:
+
+(apart to DORUS.)
+Step aside a little this way. Do you hear? (DORUS steps aside.) A little further still. That will do. Now tell me this once more; did Chaerea take your clothes off you?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h46
+:END:
+
+He did.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h47
+:END:
+
+And did he put them on?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h48
+:END:
+
+He did.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h49
+:END:
+
+And was he brought here instead of you?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h50
+:END:
+
+Yes.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h51
+:END:
+
+Great Jupiter! O wicked and audacious fellow!
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h52
+:END:
+
+Woe unto me! Now at last will you believe that we have been insulted in a disgraceful manner?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h53
+:END:
+
+It is no wonder that you believe what the fellow says. (Aside.) What I’m to do I know not. (Aside to DORUS.) Hark you, deny it all again. (Aloud.) Can I not this day extract the truth from you? Did you really see my brother Chaerea?
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h54
+:END:
+
+No.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h55
+:END:
+
+He can’t be brought to confess without being punished, I see: follow me this way. At one moment he affirms, at another denies. (Aside.) Ask pardon of me.
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h56
+:END:
+
+Indeed, I do entreat you, Phaedria.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h57
+:END:
+
+(kicking him.)
+Be off in-doors.
+
+** DORUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h58
+:END:
+
+Oh! oh!
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h36-h59
+:END:
+
+(aside.)
+How in any other fashion to get decently out of this I don’t know; for really it’s all up with me. (Aloud, with pretended indignation.) Will you be trifling with me even here, you knave? (Follows DORUS into the house.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h60
+:END:
+
+I’m as certain that this is the contrivance of Parmeno as that I’m alive.
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h61
+:END:
+
+So it is, no doubt.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h62
+:END:
+
+I’faith, I’ll find out a method to-day to be even with him. But now, what do you think ought to be done, Dorias?
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h63
+:END:
+
+Do you mean with regard to this
+girl?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h64
+:END:
+
+Yes; whether I ought to mention it or be silent?
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h65
+:END:
+
+Upon my word, if you are prudent, you won’t know what you do know, either about the Eunuch or the girl’s misfortune. By this method you’ll both rid yourself of all perplexity, and have done a service to her. Say this only, that Dorus has run away.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h66
+:END:
+
+I’ll do so.
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h67
+:END:
+
+But don’t I see Chremes? Thais will be here just now.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h68
+:END:
+
+Why so?
+
+** DORIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h69
+:END:
+
+Because when I came away from there, a quarrel had just commenced between them.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h36-h70
+:END:
+
+Take in these golden trinkets; I shall learn from him what’s the matter. (DORIAS takes the casket into the house.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 726
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+(Enter CHREMES, somewhat drunk.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+Heyday! upon my faith, I’ve been bamboozled: the wine that I’ve drunk has got the upper hand. But, so long as I was reclining, how extremely sober I did seem to myself to be; when I got up, neither feet nor senses were quite equal to their duty.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+Chremes!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+(turning round.)
+Who’s that? What, Pythias; dear me, how much more charming you now
+seem to me than a short time since!
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+Troth now, you are much more merry, that’s certain.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h5
+:END:
+
+Upon my faith, it is a true saying, that /Venus grows cold without Ceres and Bacchus./ But has Thais got here long before me?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h38-h6
+:END:
+
+Has she already come away from the Captain’s?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h7
+:END:
+
+A long time ago; an age since. There has been a most violent quarrel between them.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h38-h8
+:END:
+
+Did she say nothing about you following her?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h9
+:END:
+
+Nothing at all; only, on going away, she gave me a nod.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h38-h10
+:END:
+
+Well now, wasn’t that enough?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h38-h11
+:END:
+
+Why, I didn’t know that she meant that, until the Captain gave me an explanation, because I was dull of comprehension; for he bundled me out of the house. But look, here she is; I wonder how it was I got here before her.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 738
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+(Enter THAIS.)
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+(to herself.)
+I really do believe that he’ll be here presently, to force her away from me. Let him come; but if he touches her with a single finger, that instant his eyes shall be torn out.
+I can put up with his impertinences and his high-sounding words, as long as they remain words: but if they are turned into realities, he shall get a drubbing.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h2
+:END:
+
+Thais, I’ve been here some time.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h3
+:END:
+
+O my dear Chremes, you are the very person I was wanting. Are you aware that this quarrel took place on your account, and that the whole of this affair, in fact, bore reference to yourself?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h4
+:END:
+
+To me? How so, pray?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h5
+:END:
+
+Because, while I’ve been doing my best
+to recover and restore your sister to you, this and a great deal more like it I’ve had to put up with.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h6
+:END:
+
+Where is she?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h7
+:END:
+
+At home, at my house.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h8
+:END:
+
+(starting.)
+Hah!
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h9
+:END:
+
+What’s the matter? She has been brought up in a manner worthy of yourself and of her.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h10
+:END:
+
+What is it you say?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h11
+:END:
+
+That which is the fact. Her I present to you, nor do I ask of you any return for her.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h12
+:END:
+
+Thanks are both felt and shall be returned in such way, Thais, as you deserve.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h13
+:END:
+
+But still, take care, Chremes, that you don’t lose her, before you receive her from me; for it is she, whom the Captain is now coming to take away from me by force. Do you go, Pythias, and bring out of the house the casket with the tokens.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h14
+:END:
+
+(looking down the side Scene.)
+Don’t you see him, Thais?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h40-h15
+:END:
+
+(to THAIS.)
+Where is it put?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h16
+:END:
+
+In the clothes’ chest. Tiresome creature, why do you delay? (PYTHIAS goes into the house.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h17
+:END:
+
+What a large body of troops the Captain is bringing with him against you.
+Bless me!
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h18
+:END:
+
+Prithee, are you frightened, my dear sir?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h19
+:END:
+
+Get out with you. What, I frightened? There’s not a man alive less so.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h20
+:END:
+
+Then now is the time to prove it.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h21
+:END:
+
+Why, I wonder what sort of a man you take me to be.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h22
+:END:
+
+Nay, and consider this too; the person that you have to deal with is a foreigner; of less influence than you, less known, and one that has fewer friends here.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h23
+:END:
+
+I’m aware of that; but it’s foolish to run the risk of what you are able to avoid. I had rather we should prevent it, than, having received an injury, avenge ourselves upon him. Do you go in and fasten the door, while I run across hence to the Forum; I should like us to have the aid of some legal adviser in this disturbance. (Moves, as if going.)
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h24
+:END:
+
+(holding him.)
+Stay.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h25
+:END:
+
+Let me go, I’ll be here presently.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h26
+:END:
+
+There’s no occasion, Chremes.
+Only say that she is your sister, and that you lost her when a little girl, and have now recognized her; then show the tokens. (Re-enter PYTHIAS from the house, with the trinkets.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h40-h27
+:END:
+
+(giving them to THAIS.)
+Here they are.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h28
+:END:
+
+(giving them to CHREMES.)
+Take them. If he offers any violence, summon the fellow to justice; do you understand me?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h29
+:END:
+
+Perfectly.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h30
+:END:
+
+Take care and say this with presence of mind.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h40-h31
+:END:
+
+I’ll take care.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h40-h32
+:END:
+
+Gather up your cloak. (Aside.) Undone! the very person whom I’ve provided as a champion, wants one himself. (They all go into the house.)
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 770
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+(Enter THRASO, followed by GNATHO, SANGA, and other Attendants.)
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+Am I to submit, Gnatho, to such a glaring affront as this being put upon me? I’d die sooner. Simalio, Donax, Syriscus, follow me! First, I’ll storm the house.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+Quite right.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+I’ll carry off the girl.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+Very good.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+I’ll give her own self a mauling.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+Very proper.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h7
+:END:
+
+(arranging the men.)
+Advance hither to the main body, Donax, with your crowbar; you, Simalio, to the left wing; you, Syriscus, to the right.
+Bring up the rest; where’s the centurion Sanga, and his maniple of rogues?
+
+** SANGA
+:PROPERTIES:
+:CUSTOM_ID: h42-h8
+:END:
+
+(coming forward.)
+See, here he is.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h9
+:END:
+
+What, you booby, do you think of fighting with a dish-clout, to be bringing that here?
+
+** SANGA
+:PROPERTIES:
+:CUSTOM_ID: h42-h10
+:END:
+
+What, I? I knew the valor of the general, and the prowess of the soldiers; and that this could not possibly go on without bloodshed; how was I to wipe the wounds?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h11
+:END:
+
+Where are the others?
+
+** SANGA
+:PROPERTIES:
+:CUSTOM_ID: h42-h12
+:END:
+
+Plague on you, what others? Sannio is the only one left on guard at home.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h13
+:END:
+
+(to GNATHO.)
+Do you draw up your men in battle order; I’ll be behind the second rank; from that position I’ll give the word to all. (Takes his place behind the second rank.)
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h14
+:END:
+
+(aside.)
+That’s showing prudence; as soon as he has drawn them up, he secures a retreat for himself.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h15
+:END:
+
+(pointing to the arrangements.)
+This is just the way Pyrrhus used to proceed. (CHREMES and THAIS appear above at a window.)
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h16
+:END:
+
+Do you see, Thais, what plan he is upon? Assuredly, that advice of mine about closing the door was good.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h42-h17
+:END:
+
+He who now seems to you to be a hero, is in reality a mere vaporer;
+don’t be alarmed.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h18
+:END:
+
+(to GNATHO.)
+What seems best to you?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h19
+:END:
+
+I could very much like a sling to be given you just now, that you might pelt them from here on the sly at a distance; they would be taking to flight.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h20
+:END:
+
+(to GNATHO.)
+But look (pointing), I see Thais there herself.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h21
+:END:
+
+How soon are we to fall to?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h22
+:END:
+
+Hold (holding him back); it behooves a prudent person to make trial of every thing before arms. How do you know but that she may do what I bid her without compulsion?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h23
+:END:
+
+Ye Gods, by our trust in you,
+what a thing it is to be wise! I never come near you but what I go away from you the wiser.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h24
+:END:
+
+Thais, in the first place, answer me this. When I presented you that girl, did you not say that you would give yourself up to me alone for some days to come?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h42-h25
+:END:
+
+Well, what then?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h26
+:END:
+
+Do you ask the question? You, who have been and brought your lover under my very eyes?
+What business had you with him?
+With him, too, you clandestinely betook yourself away from me.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h42-h27
+:END:
+
+I chose to do so.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h28
+:END:
+
+Then give me back Pamphila; unless you had rather she were taken away by force.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h29
+:END:
+
+Give her back to you, or you lay hands upon her? Of all the—
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h30
+:END:
+
+Ha! What are you about? Hold your tongue.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h31
+:END:
+
+What do you mean? Am I not to touch my own?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h32
+:END:
+
+Your own, indeed, you gallows-bird!
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h33
+:END:
+
+(to CHREMES.)
+Have a care, if you please. You don’t know what kind of man you are abusing now.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h34
+:END:
+
+(to GNATHO.)
+Won’t you be off from here? Do you know how matters stand with you? If you cause any disturbance here to-day,
+I’ll make you remember the place, and day, and me too, for the rest of your life.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h35
+:END:
+
+I pity you, who are making so great a man as this your enemy.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h36
+:END:
+
+I’ll break your head this instant if you are not off.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h37
+:END:
+
+Do you really say so, puppy? Is it that you are at?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h38
+:END:
+
+(to CHREMES.)
+What fellow are you? What do you mean? What business have you with her?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h39
+:END:
+
+I’ll let you know: in the first place, I assert that she is a freeborn woman.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h40
+:END:
+
+(starting.)
+Ha!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h41
+:END:
+
+A citizen of Attica.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h42
+:END:
+
+Whew!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h43
+:END:
+
+My own sister.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h44
+:END:
+
+Brazen face!
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h45
+:END:
+
+Now, therefore, Captain, I give you warning; don’t you use any violence toward her. Thais, I’m going to Sophrona, the nurse, that I may bring her here and show her these tokens.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h46
+:END:
+
+What! Are you to prevent me from touching what’s my own?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h42-h47
+:END:
+
+I will prevent it, I tell you.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h48
+:END:
+
+(to THRASO.)
+Do you hear him? He is convicting himself of theft. Is not that enough for you?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h49
+:END:
+
+Do you say the same, Thais?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h42-h50
+:END:
+
+Go, find some one to answer you. (She and CHREMES go away from the window.)
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h51
+:END:
+
+(to GNATHO.)
+What are we to do now?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h52
+:END:
+
+Why, go back again: she’ll soon be with you, of her own accord, to entreat forgiveness.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h53
+:END:
+
+Do you think so?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h54
+:END:
+
+Certainly, yes. I know the disposition of women: when you will, they won’t; when you won’t, they set their hearts upon you of their own inclination.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h55
+:END:
+
+You judge right.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h56
+:END:
+
+Shall I dismiss the army then?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h57
+:END:
+
+Whenever you like.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h58
+:END:
+
+Sanga, as befits gallant soldiers, take care in your turn to remember your homes and hearths.
+
+** SANGA
+:PROPERTIES:
+:CUSTOM_ID: h42-h59
+:END:
+
+My thoughts have been for some time among the sauce-pans.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h42-h60
+:END:
+
+You are a worthy fellow.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h42-h61
+:END:
+
+(putting himself at their head.)
+You follow me this way. (Exeunt omnes.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+* 816
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+(Enter THAIS from her house, followed by PYTHIAS.)
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h1
+:END:
+
+What! do you persist, hussy, in talking ambiguously to me? /I do know;/ /I don’t know;/ /he has gone off;/ /I have heard;/ /I wasn’t there./ Don’t you mean to tell me plainly, whatever it is? The girl in tears, with her garments torn, is mute;
+the Eunuch is off: for what reason? What has happened? Won’t you speak?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h2
+:END:
+
+Wretch that I am, what am I to say to you? They declare that he was not a Eunuch.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h3
+:END:
+
+What was he then?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h4
+:END:
+
+That Chaerea.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h5
+:END:
+
+What Chaerea?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h6
+:END:
+
+That stripling, the brother of Phaedria.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h7
+:END:
+
+What’s that you say, you hag?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h8
+:END:
+
+And I am satisfied of it.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h9
+:END:
+
+Pray, what business had he at my house? What brought him there?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h10
+:END:
+
+I don’t know; unless, as I suppose, he was in love with Pamphila.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h11
+:END:
+
+Alas! to my confusion, unhappy woman that I am, I’m undone, if what you tell me is true. Is it about this that the girl is crying?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h12
+:END:
+
+I believe so.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h13
+:END:
+
+How say you, you arch-jade? Did I not warn you about this very thing, when I was going away from here?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h14
+:END:
+
+What could I do? Just as you ordered, she was intrusted to his care only.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h15
+:END:
+
+Hussy, I’ve been intrusting the sheep to the wolf. I’m quite ashamed to have been imposed upon in this way. What sort of man was he?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h16
+:END:
+
+Hush! hush! mistress, pray; we are all right. Here we have the very man.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h17
+:END:
+
+Where is he?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h18
+:END:
+
+Why there, to the left.
+Don’t you see?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h19
+:END:
+
+I see.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h20
+:END:
+
+Order him to be seized as quickly as possible.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h21
+:END:
+
+What can we do to him, simpleton?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h22
+:END:
+
+What do to him, do you ask? Pray, do look at him; if his face doesn’t seem an impudent one.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h45-h23
+:END:
+
+Not at all.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h45-h24
+:END:
+
+Besides, what effrontery he has.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+* 839
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+(Enter CHAEREA, in the EUNUCH’s dress, on the other side of the stage.)
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h1
+:END:
+
+(to himself.)
+At Antipho’s, both of them, father and mother,
+just as if on purpose, were at home, so that I couldn’t any way get in, but that they must have seen me. In the mean time, while I was standing before the door, a certain acquaintance of mine was coming full upon me. When I espied him, I took to my heels as fast as I could down a narrow unfrequented alley; thence again
+to another, and thence to another; thus have I been most dreadfully harassed with running about, that no one might recognize me. But isn’t this Thais that I see? It is she. I’m at a stand. What shall I do? But what need I care? What can she do to me?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h2
+:END:
+
+(to PYTHIAS.)
+Let’s accost him. (To CHAEREA.) Good Mister Dorus, welcome; tell me,
+have you been running away?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h3
+:END:
+
+Madam, I did so.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h4
+:END:
+
+Are you quite pleased with it?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h5
+:END:
+
+No.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h6
+:END:
+
+Do you fancy that you’ll get off with impunity?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h7
+:END:
+
+Forgive this one fault; if I’m ever guilty of another, then kill me.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h8
+:END:
+
+Were you in fear of my severity?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h9
+:END:
+
+No.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h10
+:END:
+
+No? What then?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h11
+:END:
+
+(pointing at PYTHIAS.)
+I was afraid of her, lest she might be accusing me to you.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h12
+:END:
+
+What had you done?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h13
+:END:
+
+A mere trifle.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h14
+:END:
+
+Come now, a trifle, you impudent fellow. Does this appear a trifle to you, to ravish a virgin, a citizen?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h15
+:END:
+
+I took her for my fellow-servant.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h16
+:END:
+
+Fellow-servant? I can hardly restrain myself from flying at his hair. A miscreant! Even of his own free will he comes to make fun of us.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h17
+:END:
+
+(to PYTHIAS.)
+Won’t you begone from here, you mad woman?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h18
+:END:
+
+Why so? Really, I do believe I should be something in this hang-dog’s debt, if I were to do so; especially as he owns that he is your servant.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h19
+:END:
+
+We’ll pass that by. Chaerea, you have behaved unworthily of yourself; for if I am deserving in the highest degree of this affront,
+still it is unbecoming of you to be guilty of it. And, upon my faith, I do not know what method now to adopt about this girl: you have so confounded all my plans, that I can not possibly return her to her friends in such a manner as is befitting and as I had intended;
+in order that, by this means, I might, Chaerea, do a real service to myself.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h20
+:END:
+
+But now, from henceforth, I hope, Thais, that there will be lasting good-will between us. Many a time, from some affair of this kind and from a bad beginning, great friendships have sprung up. What if some Divinity has willed this?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h21
+:END:
+
+I’faith, for my own part I both take it in that view and wish to do so.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h22
+:END:
+
+Yes, prithee, do so. Be sure of this one thing, that I did not do it for the sake of affronting you, but in consequence of passion.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h23
+:END:
+
+I understand, and, i’faith, for that reason do I now the more readily forgive you. I am not, Chaerea, of a disposition so ungentle, or so inexperienced,
+as not to know what is the power of love.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h24
+:END:
+
+So may the Deities kindly bless me, Thais; I am now smitten with you as well.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h25
+:END:
+
+Then, i’faith, mistress, I foresee you must have a care of him.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h26
+:END:
+
+I would not dare—
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h27
+:END:
+
+I won’t trust you at all in any thing.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h28
+:END:
+
+(to PYTHIAS.)
+Do have done.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h29
+:END:
+
+Now I entreat you that you will be my assistant in this affair.
+I intrust and commit myself to your care; I take you, Thais, as my protectress; I implore you; I shall die if I don’t have her for my wife.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h30
+:END:
+
+But if your father should say any thing—
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h31
+:END:
+
+Oh, he’ll consent, I’m quite sure of that, if she is only a citizen.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h32
+:END:
+
+If you will wait a little,
+the brother himself of the young woman will be here presently; he has gone to fetch the nurse, who brought her up when a little child; you yourself, shall be present Chaerea, at his recognition of her.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h33
+:END:
+
+I certainly will stay.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h34
+:END:
+
+In the mean time, until he comes, would you prefer that we should wait for him in the house, rather than here before the door?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h35
+:END:
+
+Why yes, I should like it much.
+
+** PYTIH.
+:PROPERTIES:
+:CUSTOM_ID: h47-h36
+:END:
+
+(to THAIS.)
+Prithee, what are you going to do?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h37
+:END:
+
+Why, what’s the matter?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h38
+:END:
+
+Do you ask? Do you think of admitting him after this into your house?
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h39
+:END:
+
+Why not?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h40
+:END:
+
+Trust my word for it, he’ll be creating some new disturbance.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h41
+:END:
+
+O dear, prithee, do hold your tongue.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h42
+:END:
+
+You seem to me to be far from sensible of his assurance.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h43
+:END:
+
+I’ll not do any thing, Pythias.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h44
+:END:
+
+Upon my faith, I don’t believe you, Chaerea, except in case you are not trusted.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h45
+:END:
+
+Nay but, Pythias, do you be my keeper.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h46
+:END:
+
+Upon my faith, I would neither venture to give any thing to you to keep, nor to keep you myself: away with you!
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h47
+:END:
+
+Most opportunely the brother himself is coming.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h48
+:END:
+
+I’faith, I’m undone. Prithee,
+let’s be gone in-doors, Thais. I don’t want him to see me in the street with this dress on.
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h49
+:END:
+
+For what reason, pray? Because you are ashamed?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h47-h50
+:END:
+
+Just so.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h47-h51
+:END:
+
+Just so? But the young woman—
+
+** THAIS
+:PROPERTIES:
+:CUSTOM_ID: h47-h52
+:END:
+
+Go first; I’ll follow. You stay here, Pythias, that you may show Chremes in. (THAIS and CHAEREA go into the house.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+* 909
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+(Enter CHREMES and SOPHRONA.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h49-h1
+:END:
+
+(to herself.)
+Well! what now can suggest itself to my mind?
+What, I wonder, in order that I may repay the favor to that villain who palmed this fellow off upon us?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h2
+:END:
+
+Really, do bestir yourself more quickly, nurse.
+
+** SOPHRONA
+:PROPERTIES:
+:CUSTOM_ID: h49-h3
+:END:
+
+I am bestirring.
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h4
+:END:
+
+So I see; but you don’t stir forward.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h49-h5
+:END:
+
+(to CHREMES.)
+Have you yet shown the tokens to the nurse?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h6
+:END:
+
+All of them.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h49-h7
+:END:
+
+Prithee, what does she say? Does she recognize them?
+
+** CHREMES
+:PROPERTIES:
+:CUSTOM_ID: h49-h8
+:END:
+
+Yes, with a full recollection of them.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h49-h9
+:END:
+
+Upon my faith, you do bring good news; for I really wish well to this young woman. Go in-doors: my mistress has been for some time expecting you at home. (CHREMES and SOPHRONA go into THAIS’s house.) But look, yonder I espy that worthy fellow, Parmeno, coming: just see, for heaven’s sake, how leisurely he moves along. I hope I have it in my power to torment him after my own fashion.
+I’ll go in-doors, that I may know for certain about the discovery; afterward I’ll come out, and give this villain a terrible fright. (Goes into the house.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+* 922
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+(Enter PARMENO.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h1
+:END:
+
+(to himself.)
+I’ve just come back to see what Chaerea has been doing here. If he has managed the affair with dexterity, ye Gods, by our trust in you, how great and genuine applause will Parmeno obtain!
+For not to mention that a passion, full of difficulty and expense, with which he was smitten for a virgin, belonging to an extortionate courtesan, I’ve found means of satisfying for him, without molestation, without outlay, and without cost; then, this other point—that is really a thing that I consider my crowning merit,
+to have found out the way by which a young man may be enabled to learn the dispositions and manners of courtesans, so that by knowing them betimes, he may detest them ever after. (PYTHIAS enters from the house unperceived.) For while they are out of doors, nothing seems more cleanly, nothing more neat or more elegant;
+and when they dine with a gallant, they pick daintily about: to see the filth, the dirtiness, the neediness of these women; how sluttish they are when at home, and how greedy after victuals; in what a fashion they devour the black bread with yesterday’s broth:—to know all this, is salvation to a young man. (Enter PYTHIAS from the house.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h2
+:END:
+
+(apart, unseen by PARMENO.)
+Upon my faith, you villain, I’ll take vengeance upon you for these sayings and doings; so that you sha’n’t make sport of us with impunity. (Aloud, coming forward.) O, by our trust in the Gods, what a disgraceful action! O hapless young man! O wicked Parmeno, to have brought him here!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h3
+:END:
+
+What’s the matter?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h4
+:END:
+
+I do pity him; and so that I mightn’t see it, wretched creature that I am, I hurried away out of doors.
+What a dreadful example they talk of making him!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h5
+:END:
+
+O Jupiter! What is this tumult? Am I then undone? I’ll accost her. What’s all this, Pythias? What are you saying? An example made of whom?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h6
+:END:
+
+Do you ask the question, you most audacious fellow? You’ve proved the ruin of the young man whom you brought hither for the Eunuch, while you were trying to put a trick upon us.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h7
+:END:
+
+How so, or what has happened? Tell me.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h8
+:END:
+
+I’ll tell you: that young woman who was to-day made a present to Thais, are you aware that she is a citizen of this place, and that her brother is a person of very high rank?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h9
+:END:
+
+I didn’t know that.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h10
+:END:
+
+But so she has been discovered to be; he, unfortunate youth, has ravished her. When the brother came to know of this being done, in a most towering rage, he—
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h11
+:END:
+
+Did what, pray?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h12
+:END:
+
+First, bound him in a shocking manner.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h13
+:END:
+
+Bound him?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h14
+:END:
+
+And even though Thais entreated him that he wouldn’t do so—
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h15
+:END:
+
+What is it you tell me?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h16
+:END:
+
+Now he is threatening that he will also do that which is usually done to ravishers; a thing that I never saw done, nor wish to.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h17
+:END:
+
+With what assurance does he dare perpetrate a crime so heinous?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h18
+:END:
+
+How /so heinous?/
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h19
+:END:
+
+Is it not most heinous? Who ever saw any one taken up as a ravisher in a courtesan’s house?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h20
+:END:
+
+I don’t know.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h21
+:END:
+
+But that you mayn’t be ignorant of this, Pythias, I tell you, and give you notice that he is my master’s son.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h22
+:END:
+
+How! Prithee, is it he?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h23
+:END:
+
+Don’t let Thais suffer any violence to be done to him. But why don’t I go in myself?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h24
+:END:
+
+Take care, Parmeno, what you are about, lest you both do him no good and come to harm yourself; for it is their notion,
+that whatever has happened, has originated in you.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h51-h25
+:END:
+
+What then, wretch that I am, shall I do, or how resolve? But look, I see the old gentleman returning from the country; shall I tell him or shall I not? By my troth, I will tell him; although I am certain that a heavy punishment is in readiness for me; but it’s a matter of necessity, in order that he may rescue him.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h51-h26
+:END:
+
+You are wise. I’m going in-doors; do you relate to him every thing exactly as it happened. (Goes into the house.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+* 970
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+(Enter LACHES.)
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h1
+:END:
+
+(to himself.)
+I have this advantage from my country-house being so near at hand; no weariness, either of country or of town, ever takes possession of me; when satiety begins to come on, I change my locality. But is not that our Parmeno? Surely it is he. Whom are you waiting for, Parmeno, before the door here?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h2
+:END:
+
+(pretends not to see him.)
+Who is it (Turning round.) Oh, I’m glad that you have returned safe.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h3
+:END:
+
+Whom are you waiting for?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h4
+:END:
+
+(aside.)
+I’m undone: my tongue cleaves to my mouth through fright.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h5
+:END:
+
+Why, what is it you are trembling about? Is all quite right? Tell me.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h6
+:END:
+
+Master, in the first place, I would have you persuaded of what is the fact; whatever has happened in this affair has happened through no fault of mine.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h7
+:END:
+
+What is it?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h8
+:END:
+
+Really you have reason to ask. I ought first to have told you the circumstances. Phaedria purchased a certain Eunuch, to make a present of to this woman here.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h9
+:END:
+
+To what woman?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h10
+:END:
+
+To Thais.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h11
+:END:
+
+Bought? Good heavens, I’m undone! For how much?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h12
+:END:
+
+Twenty minae.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h13
+:END:
+
+Done for, quite.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h14
+:END:
+
+Then, Chaerea is in love with a certain music-girl here. (Pointing to THAIS’s house.)
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h15
+:END:
+
+How! What? In love? Does he know already what a courtesan means? Is he come to town? One misfortune close upon another.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h16
+:END:
+
+Master, don’t look so at me; he didn’t do these things by my encouragement.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h17
+:END:
+
+Leave off talking about yourself. If I live, you hang-dog, I’ll— But first give me an account of it, whatever it is.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h18
+:END:
+
+He was taken to the house of Thais in place of the Eunuch.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h19
+:END:
+
+In place of the Eunuch?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h20
+:END:
+
+Such is the fact. They have since apprehended him in the house as a ravisher, and bound him.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h21
+:END:
+
+Death!
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h22
+:END:
+
+Mark the assurance of courtesans.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h23
+:END:
+
+Is there any other calamity or misfortune besides, that you have not told me of?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h24
+:END:
+
+That’s all.
+
+** LACHES
+:PROPERTIES:
+:CUSTOM_ID: h53-h25
+:END:
+
+Do I delay rushing in here? (Runs into the house of THAIS.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h53-h26
+:END:
+
+(to himself.)
+There’s no doubt but that I shall have a heavy punishment for this affair, only that I was obliged to act thus. I’m glad of this, that some mischief will befall these women here through my agency, for the old man has, for a long time, been on the look-out for some occasion
+to do them a bad turn; at last he has found it.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+* 1001
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+
+(Enter PYTHIAS from the house of THAIS, laughing.)
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h1
+:END:
+
+(to herself, on entering.)
+Never, upon my faith, for a long time past, has any thing happened to me that I could have better liked to happen, than the old gentleman just now, full of his mistake, coming into our house. I had the joke all to myself, as I knew what it was he feared.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h2
+:END:
+
+(apart.)
+Why, what’s all this?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h3
+:END:
+
+Now I’m come out to meet with Parmeno.
+But, prithee, where is he? (Looking around.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h4
+:END:
+
+(apart.)
+She’s looking for me.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h5
+:END:
+
+And there he is, I see; I’ll go up to him.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h6
+:END:
+
+What’s the matter, simpleton? What do you mean? What are you laughing about? Still going on?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h7
+:END:
+
+(laughing.)
+I’m dying; I’m wretchedly tired with laughing at you.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h8
+:END:
+
+Why so?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h9
+:END:
+
+Do you ask? Upon my faith, I never did see, nor shall see, a more silly fellow. Oh dear, I can not well express what amusement you’ve afforded in-doors.
+And still I formerly took you to be a clever and shrewd person. Why, was there any need for you instantly to believe what I told you? Or were you not content with the crime, which by your advice the young man had been guilty of, without betraying the poor fellow to his father as well?
+Why, what do you suppose his feelings must have been at the moment when his father saw him clothed in that dress? Well, do you now understand that you are done for? (Laughing.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h10
+:END:
+
+Hah! what is it you say, you hussy? Have you been telling me lies? What, laughing still? Does it appear so delightful to you, you jade, to be making fools of us?
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h11
+:END:
+
+(laughing.)
+Very much so.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h12
+:END:
+
+Yes, indeed, if you can do it with impunity.
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h13
+:END:
+
+Exactly so.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h14
+:END:
+
+By heavens, I’ll repay you!
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h15
+:END:
+
+I believe you; but, perhaps, that which you are threatening, Parmeno, will need a future day;
+you’ll be trussed up directly, for rendering a silly young man remarkable for disgraceful conduct, and then betraying him to his father; they’ll both be making an example of you. (Laughing.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h16
+:END:
+
+I’m done for!
+
+** PYTHIAS
+:PROPERTIES:
+:CUSTOM_ID: h55-h17
+:END:
+
+This reward has been found you in return for that present of yours; I’m off. (Goes into the house.)
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h55-h18
+:END:
+
+(to himself.)
+Wretch that I am; just like a rat, this day I’ve come to destruction through betrayal of myself.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h56
+:END:
+
+* 1024
+:PROPERTIES:
+:CUSTOM_ID: h57
+:END:
+
+(Enter THRASO and GNATHO.)
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h57-h1
+:END:
+
+(to THRASO.)
+Well now? With what hope, or what design, are we come hither? What do you intend to do, Thraso?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h57-h2
+:END:
+
+What, I? To surrender myself to Thais, and do what she bids me.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h57-h3
+:END:
+
+What is it you say?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h57-h4
+:END:
+
+Why any the less so, than Hercules served Omphale.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h57-h5
+:END:
+
+The precedent pleases me. (Aside.) I only wish I may see your head stroked down with a slipper; but her door makes a noise.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h57-h6
+:END:
+
+Confusion! Why, what mischiefsthis? I never saw this person before; why, I wonder, is he rushing out in such a hurry? (They stand aside.)
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h58
+:END:
+
+* 1030
+:PROPERTIES:
+:CUSTOM_ID: h59
+:END:
+
+(Enter CHAEREA from the house of THAIS, on the other side of the stage.)
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h1
+:END:
+
+(to himself, aloud.)
+O fellow-townsmen, is there any one alive more fortunate than me this day? Not any one, upon my faith: for clearly in me have the Gods manifested all their power, on whom, thus suddenly, so many blessings are bestowed.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h2
+:END:
+
+(apart.)
+Why is he thus overjoyed?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h3
+:END:
+
+(seeing PARMENO, and running up to him.)
+O my dear Parmeno, the contriver, the beginner, the perfecter of all my delights, do you know what are my transports? Are you aware that my Pamphila has been discovered to be a citizen?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h4
+:END:
+
+I have heard so.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h5
+:END:
+
+Do you know that she is betrothed to me?
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h6
+:END:
+
+So may the Gods bless me, happily done.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h7
+:END:
+
+(apart to THRASO.)
+Do you hear what he says?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h8
+:END:
+
+And then, besides, I am delighted that my brother’s mistress is secured to him; the family is united. Thais has committed herself to the patronage of my father; she has put herself under our care and protection.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h9
+:END:
+
+Thais, then, is wholly your brother’s.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h10
+:END:
+
+Of course.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h11
+:END:
+
+Then this is another reason for us to rejoice, that the Captain will be beaten out of doors.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h12
+:END:
+
+Wherever my brother is, do you take care that he hears this as soon as possible.
+
+** PARMENO
+:PROPERTIES:
+:CUSTOM_ID: h59-h13
+:END:
+
+I’ll go look for him at home. (Goes into the house of LACHES.)
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h14
+:END:
+
+(apart to GNATHO.)
+Do you at all doubt, Gnatho, but that I am now ruined everlastingly?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h15
+:END:
+
+(to THRASO.)
+Without doubt, I do think so.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h16
+:END:
+
+(to himself.)
+What am I to make mention of first, or commend in especial? Him who gave me the advice to do so, or myself, who ventured
+to undertake it? Or ought I to extol fortune, who has been my guide, and has so opportunely crowded into a single day events so numerous, so important; or my father’s kindness and indulgence Oh Jupiter, I entreat you, do preserve these blessings unto us! (Enter PHAEDRIA from the house of LACHES.)
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h17
+:END:
+
+(to himself.)
+Ye Gods, by our trust in you, what incredible things has Parmeno just related to me! But where is my brother?
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h18
+:END:
+
+(stepping forward.)
+Here he is.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h19
+:END:
+
+I’m overjoyed.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h20
+:END:
+
+I quite believe you. There is no one, brother, more worthy to be loved than this Thais of yours: so much is she a benefactress to all our family.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h21
+:END:
+
+Whew! are you commending her too to me?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h22
+:END:
+
+(apart.)
+I’m undone; the less the hope I have, the more I am in love. Prithee, Gnatho, my hope is in you.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h23
+:END:
+
+(apart.)
+What do you wish me to do?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h24
+:END:
+
+(apart.)
+Bring this about, by entreaties or with money, that I may at least share Thais’s favors in some degree.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h25
+:END:
+
+(apart.)
+It’s a hard task.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h26
+:END:
+
+(apart.)
+If you set your mind on any thing, I know you well. If you manage this, ask me for any present you like as your reward; you shall have what you ask.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h27
+:END:
+
+(apart.)
+Is it so?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h28
+:END:
+
+(apart.)
+It shall be so.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h29
+:END:
+
+(apart.)
+If I manage this, I ask that your house, whether you are present or absent, may be open to me; that, without invitation, there may always be a place for me.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h30
+:END:
+
+(apart.)
+I pledge my honor that it shall be so.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h31
+:END:
+
+(apart.)
+I’ll set about it then.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h32
+:END:
+
+Who is it I hear so close at hand? (Turning round.) O Thraso—
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h33
+:END:
+
+(coming forward.)
+Save you both—
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h34
+:END:
+
+Perhaps you are not aware what has taken place here.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h35
+:END:
+
+I am quite aware.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h36
+:END:
+
+Why, then, do I see you in this neighborhood?
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h37
+:END:
+
+Depending on your kindness.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h38
+:END:
+
+Do you know what sort of dependence you have? Captain, I give you notice, if ever I catch you in this street again, even if you should say to me, /I was looking for another person, I was on my road this way,/ you are undone.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h39
+:END:
+
+Come, come, that’s not handsome.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h40
+:END:
+
+I’ve said it.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h41
+:END:
+
+I didn’t know you gave yourself such airs.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h42
+:END:
+
+So it shall be.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h43
+:END:
+
+First hear a few words from me; and when I have said the thing, if you approve of it, do it.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h44
+:END:
+
+Let’s hear.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h45
+:END:
+
+Do you step a little that way, Thraso. (THRASO stands aside.) In the first place, I wish you both implicitly to believe me in this, that whatever I do in this matter, I do it entirely for my own sake;
+but if the same thing is of advantage to yourselves, it would be folly for you not to do it.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h46
+:END:
+
+What is it?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h47
+:END:
+
+I’m of opinion that the Captain, your rival, should be received among you.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h48
+:END:
+
+(starting.)
+Hah!
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h49
+:END:
+
+Be received?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h50
+:END:
+
+(to PHAEDRIA.)
+Only consider. I’faith, Phaedria, at the free rate you are living with her, and indeed very freely you are living, you have but little to give; and it’s necessary for Thais to receive a good deal.
+That all this may be supplied for your amour and not at your own expense, there is not an individual better suited or more fitted for your purpose than the Captain. In the first place, he both.has got enough to give, and no one does give more profusely. He is a fool, a dolt, a blockhead; night and day he snores away; and you need not fear that the lady will fall in love with him; you may easily have him discarded whenever you please.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h51
+:END:
+
+(to PHAEDRIA.)
+What shall we do?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h52
+:END:
+
+And this besides, which I deem to be of even greater importance,—not a single person entertains in better style or more bountifully.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h53
+:END:
+
+It’s a wonder if this sort of man can not be made use of in some way or other.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h54
+:END:
+
+I think so too.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h55
+:END:
+
+You act properly. One thing I have still to beg of you,—that you’ll receive me into your fraternity; I’ve been rolling that stone for a considerable time past.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h56
+:END:
+
+We admit you.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h57
+:END:
+
+And with all my heart.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h58
+:END:
+
+Then I, in return for this, Phaedria, and you, Chaerea, make him over to you to be eaten and drunk to the dregs.
+
+** CHAEREA
+:PROPERTIES:
+:CUSTOM_ID: h59-h59
+:END:
+
+Agreed.
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h60
+:END:
+
+He quite deserves it.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h61
+:END:
+
+(calling to THRASO.)
+Thraso, whenever you please, step this way.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h62
+:END:
+
+Prithee, how goes it?
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h63
+:END:
+
+How? Why, these people didn’t know you; after I had discovered to them your qualities, and had praised you as your actions and your virtues deserved,
+I prevailed upon them.
+
+** THRASO
+:PROPERTIES:
+:CUSTOM_ID: h59-h64
+:END:
+
+You have managed well; I give you my best thanks. Besides, I never was any where but what all were extremely fond of me.
+
+** GNATHO
+:PROPERTIES:
+:CUSTOM_ID: h59-h65
+:END:
+
+(to PHAEDRIA and CHAEREA.)
+Didn’t I tell you that he was a master of the Attic elegance?
+
+** PHAEDRIA
+:PROPERTIES:
+:CUSTOM_ID: h59-h66
+:END:
+
+He is no other than you mentioned. (Pointing to his FATHER’s house.) Walk this way.
+(To the AUDIENCE.) Fare you well, and grant us your applause.

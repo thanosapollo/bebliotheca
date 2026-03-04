@@ -1,0 +1,22 @@
+#+TITLE: Hymn 23 to Zeus
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/hymn-23-to-zeus--anonymous
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Hymn 23 to Zeus edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Ζῆνα θεῶν τὸν ἄριστον ἀείσομαι ἠδὲ μέγιστον,
+εὐρύοπα, κρείοντα, τελεσφόρον, ὅστε Θέμιστι
+ἐγκλιδὸν ἑζομένῃ πυκινοὺς ὀάρους ὀαρίζει.
+
+ἵληθʼ, εὐρύοπα Κρονίδη, κύδιστε μέγιστε.

@@ -1,0 +1,4851 @@
+#+TITLE: Casina, or The Stratagem Defeated
+#+AUTHOR: Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/casina-or-the-stratagem-defeated--t-maccius-plautus
+
+#+BEGIN_QUOTE
+Casina, or The Stratagem Defeated translated by Henry Thomas Riley
+#+END_QUOTE
+
+* front
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Dramatis Personae
+
+STALINO, an aged Athenian.
+
+CHALINUS, the armour-bearer of Euthynicus, son of .
+
+OLYMPIO, bailiff of .
+
+ALCESIMUS, a neighbour of .
+
+A COOK.
+
+MALE SLAVES.
+
+CLEOSTRATA, wife of .
+
+PARDALISCA, her maid-servant.
+
+MYRRHINA, wife of Alcesimus.
+
+TWO MAID-SERVANTS of Cleostrata.
+
+(Scene—
+Athens before the houses of
+STALINO and ALCESIMUS)
+
+THE SUBJECT.
+A SERVANT, having obtained from a woman a female infant which was about to be exposed, brings it to his mistress, Cleostrata, who brings it up with the greatest care. The child is called Casina; and when she grows up, both Stalino, the husband, and Euthynicus, the son of Cleostrata, fall in love with her. Cleostrata, being aware of this, and favouring the passion of Euthynicus, is desirous to give Casina in marriage to Chalinus, his armour-bearer, as a covert method of putting her in the power of Euthynicus. On the other hand, Stalino wishes her to be married to Olympio, the bailiff of his farm, as a means of getting her into his own possession. It is at last arranged that the matter shall be decided by lot, which being drawn, Olympio is the winner. Cleostrata then resorts to a stratagem to defeat her husband’s plan. With the assistance of Myrrhina and her own female servants, she dresses up Chalinus to represent Casina, who is taken by the bridegroom Olympio to a house in the vicinity, which has been secretly engaged by Stalino. The Play concludes with Olympio and Stalino rushing out of the house in dismay, after having been soundly beaten by Chalinus. Stalino implores pardon of his wife, which, at the intercession of Myrrhina, is granted. It is then discovered that Casina is really the daughter of Alcesimus, and the Audience is informed that she is to be given in marriage to Euthynicus.
+
+THE ACROSTIC ARGUMENT.
+
+Two fellow-servants seek their fellow-servant (Conservam) as a wife; the old man prompts the one (Alium), his son the other. A decision by lot (Sors) favours the old man; but he is deceived by a stratagem; and so (Ita) for him, in place of the damsel, a rascally (Nequam) servant is substituted, who thrashes his master and the bailiff. The young man (Adolescens) marries
+Casina, when known to be a citizen.
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** THE PROLOGUE
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+I bid you, most worthy Spectators, welcome; who most highly esteem the Goddess Faith, and Faith esteems you. If I have said the truth, then give me loud applause, that even now, from the very beginning forward, I may know that you are favourably disposed towards me.
+Those who make use of aged wine, I deem to be wise; and those as well, who, through choice, are the spectators of ancient Plays. Since antique works and words are pleasing to you, ’tis just that ancient Plays should in preference please you; for the new Comedies which come out now-a-days
+are much more worthless than the new-coined money. We, since we have heard the report in public, that you ardently wish for the Plays of Plautus, have brought forward this ancient Comedy of his, which you, who are among the older ones, have formerly approved.
+But I am aware that those who are among the younger ones are not acquainted with it; still, that they may make acquaintance with it, we will carefully use our best endeavours. When this was first represented, it surpassed all other Plays. In those days there was the very elite of the poets, who have now departed hence to the place common to all.
+But though departed, yet do they prove of advantage to those who are still existing. All of you, with the greatest earnestness, I would have entreated that you’ll kindly lend attention to this our company. Dismiss from your thoughts cares and monies due; let no man stand in dread of his duns.
+’Tis a holiday this—to the bankers a holiday has been given. ’Tis now a calm; about the Forum these are Halcyon days. Reasonably do they act: during the games they ask no man for money; but during the games to no one do they pay. If your ears are disengaged, give me your attention;
+I wish to mention to you the name of the Play. /ClerumenaeClerumenae: The Greek word κληρούμενοι, the lot-drawers. This passage is considered by some Commentators to prove that the Greek οι was pronounced like the Latin ae./ this Comedy is called in Greek; in Latin, /Sortientes./ Diphilus wrote it in Greek, and after that, over again, Plautus with the barking name in Latin afresh.
+(Pointing to the house of STALINO.)
+An old married man is living here; he has a son; he, with his father, is dwelling in this house. He has a certain slave, who with disease is confined—aye, faith, to his bed, he really is, that I may tell no lie. But sixteen years ago, it happened that on a time this servant,
+at early dawn, beheld a female child being exposed. He went at once to the woman who was exposing it, and begged her to give it to himself. He gained his request: he took it away, and carried it straight home. He gave it to his mistress, and entreated her to take care of it, and bring it up.
+His mistress did so; with great care she brought it up, as though it had been her own daughter, not much different. Since then she has grown up to that age to be able to prove an attraction to the men; but this old gentleman loves this girl distractedly, and, on the other hand, so does his son as well.
+Each of them now, on either side, is preparing his legions, both father and son, each unknown to the other. The father has deputed his bailiff to ask her as his wife; he hopes that, if she’s given to him, an attraction out of doors will be, unknown to his wife, provided for him.
+But the son has deputed his armour-bearer to ask her for himself as a wife. He knows that if he gains that request, there will be an object for him to love, within his abode. The wife of the old gentleman has found out that he is gratifying his amorousness; for that reason, she is making common cause together with her son.
+But this father, when he found out that his son was in love with this same woman, and was a hindrance to him, sent the young man hence upon business abroad. His mother, understanding this, still lends him, though absent, her assistance. Don’t you expect it; he will not, in this Play, to-day,
+return to the city. Plautus did not choose it: he broke down the bridge that lay before him in the way. There are some here, who, I fancy, are now saying among themselves, /Prithee, what means this, i’ faith?—the marriage of a slaveMarriage of a slave: The ingenious  Rost suggests this explanation of the passage: The slaves at Rome were not allowed to contract marriages petween themselves, or what was in legal terms called matrimonium. They were, however, permitted to live together in contubernium, or what was in common parlance called quasi matrimonium. This he supposes to have in time come to be styled, in common parlance, matrimonium by the lower classes, and consequently to have given great offence to some martinets, who insisted on giving, on all occasions, the strict legal term to the unions of slaves. He therefore excuses this shock to their feelings, by pleading the example of the Greeks, Carthaginians, and Apulians. Are slaves to be marrying wives, or asking them for themselves?/
+/They’ve introduced something new—a thing that’s done nowhere in the world./ But I affirm that this is done in Greece , and at  Carthage, and here in our own country, and in the Apulian country; and that the marriages of slaves are wont to be solemnized there with more fuss than even those of free persons.
+If this is not the fact, if any one pleases, let him bet with me a stake towards a jug of honied wine, so long as a Carthaginian is the umpire in my cause, or a Greek in fact, or an Apulian. (A pause.) What now? You don’t take it? No one’s thirsty, I find. I’ll return to that foundling girl,
+whom the two slaves are, with all their might, contending for as a wife. She’ll be found to be both chaste and free, of freeborn parents, an Athenian girl, and assuredly of no immodesty at all will she be guilty in this Comedy at least. But i’ faith, for sure, directly afterwards, when the Play is over,
+if any one offers the money, as I guess, she’ll readily enter into matrimony with him, and not wait for good omens. Thus much I have to say. Farewell; be prosperous in your affairs, and conquer by true valour, as hitherto you’ve done.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+* 89
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+(Enter OLYMPIO, CHALINUS following him.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+Isn’t it to be allowed me for myself to speak and think about my own affairs by myself, just as I choose, without you as an overlooker? Why the plague are you following me about?
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h2
+:END:
+
+Because I’m resolved, just like your shadow, wherever you go, to follow you about. Why troth, even if you are ready to go to the cross, I’m determined to follow you. Hence judge of the sequel,
+whether you can or not, by your artifices, slily deprive me of
+Casina for a wife, just as you are attempting.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h7-h3
+:END:
+
+What business have you with me?
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h4
+:END:
+
+What say you, impudence? Why are you creeping about in the city, you bailiff, so very valuable in this place?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h7-h5
+:END:
+
+Because I choose.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h6
+:END:
+
+But why ain’t you in the country, at your post of command?
+Why don’t you rather pay attention to the business that has been entrusted to you, and keep yourself from meddling in city matters? Have you come hither to deprive me of my betrothed? Be off to the country—be off to your place of command, and be hanged to you.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h7-h7
+:END:
+
+Chalinus, I have not forgotten my duty.
+I’ve given charge to one who will still take care that all’s right in the country. When I’ve got that for which I came hither to the city, to take her as my wife whom you are dying for—the fair and charming  Casina, your fellow-servant—when I’ve carried her off with myself into the country as my wife,
+I’ll then stick fast in the country, at my post of command.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h8
+:END:
+
+What, you marry her? By my faith, ’twere better I should die by a halter, than that you should be the winner of her.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h7-h9
+:END:
+
+She’s my prize; do you put yourself in a halter at once.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h10
+:END:
+
+Fellow, dug up from your own dunghill, is she to be your prize?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h7-h11
+:END:
+
+You’ll find that such is the fact.
+Woe be unto you!
+in what a many ways, if I only live, I’ll have you tormented at my wedding!
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h12
+:END:
+
+What will you do to me?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h7-h13
+:END:
+
+What will I do to you? In the first place of all, you shall hold the lighted torch for this new-made bride of nine; that always, in future, you may be worthless, and not esteemed.
+Then next after that, when you get to the country-house, a single pitcher shall be found you, and a single path, a single spring, a single brass cauldron, and eight casks; and unless these shall be always kept filled, I’ll load you with lashes. I’ll make you so thoroughly bent with carrying water,
+that a horse’s crupper might be manufactured out of you. And then, in future, unless in the country you either feed on pulse, or, like a worm, upon the soil, should you require to taste of any better food, never, upon my faith, is hunger as full of hungriness as I’ll make you to be in the country.
+After that, when you’re tired out, and starved with famine, care shall be taken that, at night, you go to bed as you deserve.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h14
+:END:
+
+What will you do?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h7-h15
+:END:
+
+You shall be shut up fast in a nook with bars, where you can listen while I’m caressing her, while she is saying to me, /My soul, my own Olympio,/
+/my life, my sweet, my delight, do let me kiss your dear eyes, my love! do, there’s a dear, let yourself be loved! my own day of happiness, my sparrow-chick, my own dove, my leveret!/ When these expressions shall be being uttered to me, then will you, you villain,
+be wriggling about like a mouse in the middle of the wall. Now, that you mayn’t be trying to give me an answer, I’ll off in-doors; I’m tired of your talk. (Goes into the house of  STALINO.)
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h16
+:END:
+
+I’ll follow you. Here, indeed, on my word, assuredly you shall do nothing without me for an overlooker. (Follows him into the house.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+* 144
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+(Enter CLEOSTRATA and PARDALISCA, from the house of STALINO.)
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+(at the door, to the SERVANTS, within.)
+Seal fast the store-rooms, bring back the signet to me.
+I’m going here to my next door neighbour; if my husband wants me for anything, take care and send for me thence.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h10-h2
+:END:
+
+The old gentleman ordered a breakfast to be got ready for him to-day.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h10-h3
+:END:
+
+Tut! Hold your tongue, and be off. (PARDALISCA goes into the house.) I don’t prepare it, and it shan’t be cooked; since he sets himself against myself and his son,
+for the sake of his passion and his appetite. A disgraceful fellow that! I’ll punish this lover with hunger, I’ll punish him with thirst, with abuse, with hardships.
+By my faith, I’ll thoroughly worry him with disagreable speeches; I’ll make him to pass a life in future just as he deserves—fit food for Acheron, a hunter after iniquity, a stable of infamy!
+Now I’ll away hence to my neighbours, to lament my lot. But the door makes a noise; and see, she’s coming out of doors herself. On my word, I’ve not started for my call at a convenient time.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+* 163
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+(Enter MYRRHINA, from the house of ALCESIMUS.)
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+(to her SERVANTS, at the door.)
+Follow me, my attendants, here next door. You there! Does any one hear this that I say? I shall be here, if my husband or any person shall seek me. Did I order my distaff to be taken there? For when I’m at home alone, drowsiness takes effect upon my hand.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h2
+:END:
+
+Myrrhina, good morrow.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h3
+:END:
+
+Good morrow, my dear Cleostrata. But, prithee, why are you sad?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h4
+:END:
+
+So all are wont to be who are unfortunately married; at home and abroad, there’s always enough to make them sad. But I was going to your house.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h5
+:END:
+
+And, troth, I was coming here to yours. But what is it that now distresses your mind? For the thing that distresses you, that same is a trouble to me.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h6
+:END:
+
+On my word, I do believe you. For with good reason no female neighbour of mine do I love better than yourself, nor any one with whom I have more ties of intimacy, to afford me pleasure.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h7
+:END:
+
+I thank you kindly, and I long to know what this is.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h8
+:END:
+
+My husband has put slights upon me in a most unworthy manner.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h9
+:END:
+
+Hah! What is it? Prithee, repeat that same again; for, on my word, I don’t in my mind sufficiently comprehend your complaints.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h10
+:END:
+
+My husband has put slights upon me in a most unworthy manner,
+and I have not the advantage of enjoying my own rights.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h11
+:END:
+
+’Tis surprising, if you say the truth; for husbands can scarce obtain from their wives what’s their own right.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h12
+:END:
+
+Why, against my will, he demands a female servant of me, who belongs to myself, and was brought up at my own expense,
+for him to give to his bailiff. But he is in love with her himself.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h13
+:END:
+
+Pray, do hold your tongue.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h14
+:END:
+
+(looking round.)
+But here we may speak at present; we are alone—
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h15
+:END:
+
+It is so. But whence did you get her? For a good wife ought to have no property
+unknown to her husband; and she who has got any, it is not to her credit, for she must either have purloined it from her husband, or obtained it by unfaithfulness. Whatever is your own, all that I take to be your husband’s.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h16
+:END:
+
+Surely, you’re saying all this out of opposition to your friend.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h17
+:END:
+
+Do hold your tongue, will you, simpleton, and attend to me. Do you forbear to oppose him, will you. Let him love on; that which he chooses let him do, so long as nothing’s denied you at home.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h18
+:END:
+
+Are you quite in your senses? For really, you are saying these things against your own interest.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h19
+:END:
+
+Silly creature, do you always take care and be on guard against this expression from your husband—
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h20
+:END:
+
+What expression?
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h21
+:END:
+
+/Woman! out of doors with you!/
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h22
+:END:
+
+(in a low voice.)
+’St! be quiet.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h23
+:END:
+
+What’s the matter?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h24
+:END:
+
+Hush! (Looks in a particular direction.)
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h25
+:END:
+
+Who is it that you see?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h26
+:END:
+
+Why look, my husband’s coming; go you in-doors. Make all haste; be off, there’s a dear.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h27
+:END:
+
+You easily prevail; I’m off.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h12-h28
+:END:
+
+At a future time, when you and I shall have more leisure, then I’ll talk to you. For the present, adieu!
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h12-h29
+:END:
+
+Adieu! (Goes into her house. CLEOSTRATA stands aside.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+* 217
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+(Enter STALINO.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h1
+:END:
+
+(to himself.)
+I do believe that love excels all things and delights that are exquisite. It is not possible for anything to be mentioned, that has more relish and more that’s delicious in it. Really, I do much wonder at the cooks, who employ sauces so many,
+that they don’t employ this one seasoning, which excels them all. For where love shall be the seasoning, that I do believe will please every one; nor can there be anything relishing or sweet, where love is not mixed with it. The gall which is bitter, that same it will make into honey; a man from morose into one cheerful and pleasant. This conjecture do I form rather from myself at home than from anything I’ve heard;
+who, since I’ve been in love with Casina, more than in my young days have excelled Neatness herself in neatness; I give employment to all the perfumers; wherever an unguent is excellent, I perfume myself, that I may please her. And I do please her, as I think. But inasmuch as she keeps living on, my wife’s a torment. (Catches sight of his WIFE, and speaks in a low voice.) I espy her standing there in gloominess. This plaguy baggage must be addressed by me with civility. (Going towards her.) My own wife and my delight, what are you about? (Takes hold of her.)
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h2
+:END:
+
+(shaking him off.)
+Get you gone, and keep your hand off!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h3
+:END:
+
+O fie! my Juno. You shouldn’t be so cross to your own Jupiter. Where art come now?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h4
+:END:
+
+Let me alone. (Moves as if going.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h5
+:END:
+
+Do stay.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h6
+:END:
+
+(still going.)
+I shan’t stay.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h7
+:END:
+
+I’ troth, then I’ll follow you. (Follows her.)
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h8
+:END:
+
+(turning round.)
+Prithee, are you in your senses?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h9
+:END:
+
+In my senses, inasmuch as I love you.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h10
+:END:
+
+I don’t want you to love me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h11
+:END:
+
+You can’t have your way there.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h12
+:END:
+
+You plague me to death.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h13
+:END:
+
+I only wish you spoke the truth.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h14
+:END:
+
+There I believe you. (Moves on.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h15
+:END:
+
+Do look back, O my sweet one.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h16
+:END:
+
+About as much, I suppose, as you are to me. Whence is this strong smell of perfumes, prithee?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h17
+:END:
+
+(aside.)
+O dear, I’m undone; to my misfortune, I’m caught in the fact. Why delay to rub it off my head with my cloak? (Rubs his head with his cloak.) May good Mercury confound you, you perfumer, who provided me with this.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h18
+:END:
+
+How now, you worthless grey gnat! I can hardly restrain myself from saying what you deserve.
+In your old age, good-for-nothing, are you walking along the streets reeking with perfumes?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h19
+:END:
+
+I’ faith, I lent my company to a certain friend of mine, while he was purchasing some perfumes.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h20
+:END:
+
+How readily he did trump that up. Are you ashamed of anything?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h21
+:END:
+
+Of everything that you like.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h22
+:END:
+
+In what dens of iniquity have you been lying?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h23
+:END:
+
+(with an air of surprise.)
+I, in dens of iniquity?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h24
+:END:
+
+I know more than you think I do.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h25
+:END:
+
+What is it that you know?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h26
+:END:
+
+That not one among all the old men is more worthless than yourself, an old man.
+Whence come you, good-for-nothing? Where have you been? In what den amusing yourself? Where have you been drinking? You are come, on my word; look at his cloak, how it’s creased. (Points at it.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h27
+:END:
+
+May the Gods confound both me and yourself, if I this day have put a drop of wine into my mouth.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h28
+:END:
+
+Very well then; just as you like:
+drink, eat, and squander away your property!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h29
+:END:
+
+Hold, wife; there’s now enough of it; you din me too much. Do leave a little of your talk, that you may wrangle with me to-morrow. But what say you? Have you by this time subdued your temper, so as to do that in preference which your husband wishes to be done, rather than strive against him?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h30
+:END:
+
+About what matter are you speaking?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h31
+:END:
+
+Do you ask me? About the handmaid Casina—that she may be given in marriage to our bailiff,
+an honest servant, where she’ll be well off, in wood, warm water, food, and clothing, and where she may properly bring up the children which she may have, in preference to that rascally servant of an armour-bearer, a good-for-nothing and dishonest, a fellow that hasn’t this day a leaden dump of money his own.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h32
+:END:
+
+Upon my faith, I am surprised that in your old age you
+do not remember your duty.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h33
+:END:
+
+How so?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h34
+:END:
+
+Because if you were to act rightly or becomingly, you’d let me manage the maid-servants, which is my own province.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h35
+:END:
+
+Why the plague do you wish to give her to a fellow that carries a shield?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h36
+:END:
+
+Because it’s our duty to gratify our only son.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h37
+:END:
+
+But although he is an only one, not a bit the more is he my only son than I am his only father.
+It’s more becoming for him to conform to me, than for me to him.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h38
+:END:
+
+By my troth, sir, you’re providing for yourself a serious piece of trouble.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h39
+:END:
+
+(aside.)
+She suspects it, I find that. (To his wife.) What, I, do you mean?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h40
+:END:
+
+You; but why do. you stammer so? Why do you wish for this with such anxiety?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h41
+:END:
+
+Why, that she may rather be given to a servant that’s honest, than to a servant that’s dishonest.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h42
+:END:
+
+What if I prevail upon, and obtain of the bailiff, that for my sake
+he’ll give her up to the other one?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h43
+:END:
+
+But what if I prevail upon the armour-bearer to give her up to the other one? And I think that I can prevail upon him in this.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h44
+:END:
+
+That’s agreed upon. Should you like that, in your name, I should call Chalinus hither out of doors? Do you beg of him, and I’ll beg of the bailiff.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h45
+:END:
+
+I’m quite willing.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h14-h46
+:END:
+
+He’ll be here just now. Now we’ll make trial which of us two is the most persuasive. (She goes into the house.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h14-h47
+:END:
+
+(to himself.)
+May Hercules and the Gods confound her!—a thing that now I’m at liberty to say. I’m wretchedly distracted with love; but she, as though on purpose, thwarts me. My wife has some suspicion now of this that I’m planning; for that reason is she purposely lending her assistance to the armour-bearer.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+* 279
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+(Enter CHALINUS, from the house.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+(aside, on seeing him.)
+May all the Gods and Goddesses confound him!
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h2
+:END:
+
+(addressing him.)
+Your wife said that you were calling me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h3
+:END:
+
+Why yes, I did order you to be sent for.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h4
+:END:
+
+Tell me what you want.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h5
+:END:
+
+In the first place, I want you to speak to me with a more cheerful countenance.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h6
+:END:
+
+It would be folly for me to be morose toward you whose rule is the strongest.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h7
+:END:
+
+Indeed! I consider you to be an honest fellow.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h8
+:END:
+
+So I find.
+But if you think so, why don’t you give me my freedom?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h9
+:END:
+
+Why so I wish to do; but it’s of no use for me to wish a thing to be done, unless you aid me with your actions.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h10
+:END:
+
+What you wish, I only wish myself to be acquainted with it.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h11
+:END:
+
+Listen then; I’ll tell you. I’ve promised to give  Casina as a wife to our bailiff.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h12
+:END:
+
+But your wife and your son have promised her to me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h13
+:END:
+
+I know it;
+but whether now would you prefer yourself to be single and a free man, or, as a married man, to pass your lives, yourself and your children, in slavery? This choice is your own: whichever condition of these two you prefer, take it.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h14
+:END:
+
+If I am free, I live at my own cost; at present I live at yours. As to
+Casina, I’m resolved to give way to no born man.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h15
+:END:
+
+Go in-doors, and at once be quick and call my wife here, out of doors; and bring hither together with you an urn, with some water, and the lots.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h16
+:END:
+
+I’m quite agreable.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h17
+:END:
+
+I’ faith, in some way or other I’ll now ward off this weapon of yours; for if, as it is, I shall not be able to prevail by persuasion, at least I’ll try it by lot. There I shall take vengeance upon you and your abettors.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h18
+:END:
+
+Still, for all that the lot will fall to me—
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h19
+:END:
+
+Aye, faith, for you to go to perdition with direful torments.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h20
+:END:
+
+She shall marry me, contrive what you will, in any way you please.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h21
+:END:
+
+Won’t you away hence from my sight?
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h16-h22
+:END:
+
+Unwillingly you look upon me, still I shall live on. (Goes into the house.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h16-h23
+:END:
+
+(to himself.)
+Am I not a wretched man? Don’t all things go quite contrary with me? I’m now afraid that my wife will prevail upon Olympio not to
+marry Casina. If that’s done, why look, it’s all over with me in my old age! If she does not prevail, there is still some tiny hope in the lots. But if the lots fail me, I’ll make a pillow of a sword, and lay me down upon it. But see, most opportunely Olympio’s coming out of doors.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 309
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+(Enter OLYMPIO, from the house, speaking to CLEOSTRATA, within.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h1
+:END:
+
+By my faith, all in an instant shut me up in a hot furnace,
+and parch me there for a hard-baked biscuit, good mistress, before you shall gain that point of me which you desire.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h2
+:END:
+
+(apart.)
+I’m all right. My hope’s realized, according as I hear his words.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h3
+:END:
+
+(at the door, to his MISTRESS, within.)
+But why do you frighten me about liberty? Why, even though you should oppose it, and your son as well,
+against your wills and in spite of you both, for a single penny I can become free.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h4
+:END:
+
+(stepping forward.)
+What’s this? Who are you wrangling with, Olympio?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h5
+:END:
+
+With the same person that you always are.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h6
+:END:
+
+What, with my wife?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h7
+:END:
+
+What wife are you speaking of to me? Really you are a hunter, as it were:
+your nights and days you pass with a female cur.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h8
+:END:
+
+What does she say? What’s she talking to you about?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h9
+:END:
+
+She’s begging and entreating of me that I won’t be taking Casina as my wife.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h10
+:END:
+
+What did you say after that?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h11
+:END:
+
+Why, I declared that I wouldn’t give way to  Jupiter himself, if he were to entreat me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h12
+:END:
+
+May the Gods preserve you for me!
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h13
+:END:
+
+She’s now all in a ferment; she’s swelling so against me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h14
+:END:
+
+By my troth, I could like her to burst in the middle.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h15
+:END:
+
+I’ faith, I fancy she will, if indeed you manage cleverly. But your amorousness, i’ faith, is a cause of trouble to me; your wife is at enmity with me, your son at enmity,
+my fellow-servants at enmity.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h16
+:END:
+
+What matters that to you? So long as (pointing to himself) this  Jupiter only is propitious to you, do you take care and esteem the lesser Gods at a straw’s value.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h17
+:END:
+
+That’s great nonsense; as if you didn’t know how suddenly your human Jupiters take to dying.
+So after all, if you, my Jupiter, are dead and gone, when your realm devolves upon the lesser Gods, who shall then come to the rescue of my back, or head, or legs?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h18
+:END:
+
+Affairs will go with you better than you expect, if I obtain this—the enjoyment of my
+Casina.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h19
+:END:
+
+I’ faith, I do not think it possibly can be; so earnestly is your wife striving that she shall not be given to me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h20
+:END:
+
+But this way I’ll proceed: I’ll put the lots in an urn, and draw the lots for yourself and Chalinus. I find that the business has come to this pass; it’s necessary to fight with swords hand to hand.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h21
+:END:
+
+What, if the lot should turn out different from what you wish?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h22
+:END:
+
+Speak with good omen. I rely upon the Gods; we’ll trust in the Gods.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h23
+:END:
+
+That expression I wouldn’t purchase at a rotten thread, for all people are relying upon the Gods; but still I’ve frequently seen many of those deceived who relied upon the Gods.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h24
+:END:
+
+But hold your tongue a little while. (Pointing.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h18-h25
+:END:
+
+What is it you mean?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h18-h26
+:END:
+
+Why look; here’s Chalinus coming from the house, out here, with the urn and the lots. Now, with standards closing, we shall fight.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+* 353
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+(Enter CLEOSTRATA and CHALINUS, with the urn and lots.)
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h1
+:END:
+
+Let me know, Chalinus, what my husband wants with me.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h2
+:END:
+
+By my troth, he wants to see you burning outside of the Metian gate.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h3
+:END:
+
+I’ faith, I believe he does want that.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h4
+:END:
+
+But, by my troth, I don’t believe it, but I know it for certain.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h5
+:END:
+
+(aside to OLYMPIO.)
+I’ve got more men of business than I imagined: I’ve got this fellow, a Diviner, in my house. What, if we move our standards nearer, and go to meet them? Follow me. (Goes up to CLEOSTRATA and CHALINUS.) What are you about?
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h6
+:END:
+
+All the things are here which you ordered; your wife, the lots, the urn, and myself.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h7
+:END:
+
+By yourself only, there is more here than I want.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h8
+:END:
+
+I’ faith, so it seems to you indeed. I’m a stinger to you now; I’m pricking that dear little heart of yours; even now it’s palpitating from alarm.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h9
+:END:
+
+Whip-knave—
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h10
+:END:
+
+Hold your tongue, Chalinus,
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h11
+:END:
+
+Do make that fellow be quiet.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h12
+:END:
+
+No, that fellow rather (pointing to OLYMPIO), who has learned to misbehave.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h13
+:END:
+
+(to CHALINUS.)
+Set the urn down here. (CHALINUS puts it down.) Give me the lots: lend your attention now. But I did think, my wife, that I could have prevailed upon you thus far,
+for Casina to be given me as my wife, and even now I think so.
+
+** OLYMPIO.
+:PROPERTIES:
+:CUSTOM_ID: h20-h14
+:END:
+
+She, given to you?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h15
+:END:
+
+Why yes, to me—dear me, I didn’t mean to say that. While I meant for myself, I said him; (aside) why really, while I’m wanting her for myself, I’ve already, i’ faith, been chattering at random.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h16
+:END:
+
+(overhearing him.)
+Upon my word, you really have; and you are still doing so.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h17
+:END:
+
+For him—no, no; for myself, i’ faith. Plague take it, at last, with great difficulty, I’ve got into the right road!
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h18
+:END:
+
+Very often, i’ faith, you are making your mistakes.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h19
+:END:
+
+Such is the case when you desire anything very much. But each of us, both he (pointing to OLYMPIO) and I, apply to you for our rights—
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h20
+:END:
+
+How’s that?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h21
+:END:
+
+Why, I’ll tell you, my sweet. As to this Casina, you must make a present of her to this bailiff of ours.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h22
+:END:
+
+But, i’ faith, I neither do make it, nor do I in tend it.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h23
+:END:
+
+In that case, then, I’ll divide the lots between them.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h24
+:END:
+
+Who forbids you?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h25
+:END:
+
+I judge with reason that that is the best and fairest way. In fine, if that happens which we desire, we shall be glad; but if otherwise, we’ll bear it with equanimity. (Giving a lot to OLYMPIO.) Take, this lot—take it; see what’s written on it.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h26
+:END:
+
+(looking at it.)
+Number one.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h27
+:END:
+
+It isn’t fair, be cause that fellow has got one before me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h28
+:END:
+
+(giving one to CHALINUS.)
+Take this, will you.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h29
+:END:
+
+(taking it.)
+Give it me. Stop though; one thing has just now come into my mind.
+(To CLEOSTRATA.)
+Do you see that there’s no other lot in there by chance at the bottom of the water.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h30
+:END:
+
+Whip-rascal! do you take me to be your own self? (To CLEOSTRATA.)
+There is none; only set your feelings at rest.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h31
+:END:
+
+(to CHALINUS.)
+May it prove lucky and fortunate to me, a great mischance to you!
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h32
+:END:
+
+I’ faith, it will certainly fall to you, I fancy; I know your pious ways. But stop a bit; is that lot of yours of poplar or of fir?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h33
+:END:
+
+Why do you trouble yourself about that?
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h34
+:END:
+
+Why, because I’m afraid that it may float on the surface of the water. (They go up to the urn.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h35
+:END:
+
+Capital!—take care! Now then, both of you, throw your lots in here. (Pointing to the urn.) Look now, wife, all’s fair. (They throw them in.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h36
+:END:
+
+Don’t you trust your wife.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h37
+:END:
+
+Be of good courage.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h38
+:END:
+
+Upon my faith, I do believe that she’ll lay a spell upon the lots this very day, if she touches them.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h39
+:END:
+
+Hold your tongue.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h40
+:END:
+
+I’ll hold my tongue. I pray the Gods—
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h41
+:END:
+
+Aye,that this day you may have to endure the chain and the bilboes.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h42
+:END:
+
+That the lot may fall to me.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h43
+:END:
+
+Aye, faith, that you may hang up by the feet.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h44
+:END:
+
+Aye, that you may blow your eyes out of your head through your nose.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h45
+:END:
+
+(to STALINO.)
+What are you afraid of? It must be ready by this— (Turning to OLYMPIO.) A halter for you, I mean.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h46
+:END:
+
+(to CHALINUS.)
+You’re undone!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h47
+:END:
+
+Give attention, both of you.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h48
+:END:
+
+I’ll be mum.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h49
+:END:
+
+Now you, Cleostrata, that you may not say that anything has been done cheatingly by me in this matter, or suspect it,
+I give you leave, do you yourself draw the lots.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h50
+:END:
+
+(to STALINO.)
+You are ruining me.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h51
+:END:
+
+He’s gaining an advantage rather.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h52
+:END:
+
+(to STALINO.)
+You do what’s fair.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h53
+:END:
+
+(to OLYMPIO.)
+I pray the Gods that your lot say run away out of the urn.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h54
+:END:
+
+Say you so? Because you are a runaway yourself, do you wish all to follow your example? I wish, indeed, that that lot of yours, as they say that of the descendants of Hercules once did, may melt away while the lots are drawing.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h55
+:END:
+
+And you, that you may melt away yourself, and just now be made hot with twigs.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h56
+:END:
+
+Attend, will you, to the business in hand, Olympio!
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h57
+:END:
+
+Yes, if this thrice-dotted fellow ’ll let me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h58
+:END:
+
+May this prove lucky and fortunate to me.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h59
+:END:
+
+Yes indeed; to me as well.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h60
+:END:
+
+Not so.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h61
+:END:
+
+By my troth, yes, I say.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h62
+:END:
+
+By my troth, yes, for myself, I say.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h63
+:END:
+
+(to OLYMPIO.)
+He’ll be the winner; you’ll live in wretchedness.
+Do you give him a punch in the face this instant! Well, what are you about?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h64
+:END:
+
+(to OLYMPIO.)
+Don’t you raise your hand.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h65
+:END:
+
+(to STALINO.)
+With clenched or open hand am I to strike him?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h66
+:END:
+
+Do just as you please.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h67
+:END:
+
+(striking CHALINUS.)
+There’s for you, take that!
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h68
+:END:
+
+(to OLYMPIO.)
+What business have you to touch him?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h69
+:END:
+
+Because my Jupiter (pointing to STALINO) commanded me.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h70
+:END:
+
+(to CHALINUS.)
+Do you slap him in the face in return. (CHALINUS strikes OLYMPIO in the face.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h71
+:END:
+
+(calling out to STALINO.)
+I’m being murdered, I’m being punched with his fists, Jupiter!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h72
+:END:
+
+(to CHALINUS.)
+What business had you to touch him?
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h73
+:END:
+
+Because this Juno of mine (pointing to CLEOSTRATA) ordered me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h74
+:END:
+
+I must put up with it, since, as long as I live, my wife will have the mastery.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h75
+:END:
+
+(to STALINO.)
+He (pointing to CHALINUS) ought to be allowed to speak as much as that fellow.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h76
+:END:
+
+Why by his talk does he occasion me an unlucky omens
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h77
+:END:
+
+I think, Chalinus, you should be on your guard against a mishap.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h78
+:END:
+
+Full time, after my face has been battered!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h79
+:END:
+
+Come, wife, now then draw the lots. (To the SERVANTS.) Do you give your attention. (To CLEOSTRATA.) And give it, you, as well.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h80
+:END:
+
+Where I am I know not.  I’m undone, I’ve got my heart full of maggots, I think; it’s jumping about already;
+with its throbbing it beats against my breast.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h81
+:END:
+
+(putting her hand into the urn.)
+I’ve got hold of a lot.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h82
+:END:
+
+Draw it out, then.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h83
+:END:
+
+(to OLYMPIO.)
+Are you not dead now?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h84
+:END:
+
+Show it. (She shows it.) It’s mine.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h85
+:END:
+
+Really this is an unlucky mishap.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h86
+:END:
+
+You are beaten, Chalinus.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h87
+:END:
+
+Then I’m glad that we are to survive after all, Olympio.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h88
+:END:
+
+Through my own piety and that of my forefathers has it happened.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h89
+:END:
+
+Wife, go in-doors and make ready for the wedding.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h90
+:END:
+
+I’ll do as you bid me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h91
+:END:
+
+Do you know that it’s to a distance in the country, at the farm-house,that he is to take her?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h92
+:END:
+
+I know.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h93
+:END:
+
+Go in-doors,and although this is disagreable to you, still take care and attend to it.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h20-h94
+:END:
+
+Very well. (Goes into the house.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h20-h95
+:END:
+
+(to OLYMPIO.)
+Let us, as well, go in-doors; let’s entreat them to make all haste.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h20-h96
+:END:
+
+Am I delaying at all?
+For in his presence (pointing to CHALINUS) I don’t want there to be any further conversation. (They go into the house.)
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+* 424
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+(CHALINUS, alone.)
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+(to himself.)
+If now I were to hang myself, I should be losing my pains,
+and besides my pains, putting myself to the expense of purchasing a rope, and doing a pleasure to my evil-wishers. What need is there for me, who, indeed, am dead even as it is? At the lots I’m beaten; Casina’s to be married to the bailiff. And this now is not so much to be regretted, that the bailiff has got the better,
+as the fact that the old man so vehemently desired that she shouldn’t be given me, and should marry him. How frightened he was, how in his misery he did bustle about, how he did caper about after the bailiff had won. By-the-bye, I’ll step aside here; I hear the door opening. (Sees STALINO and OLYMPIO, coming out.)
+My well-wishers and friendsare coming out. Here in ambush I’ll lay in wait against them. (Goes on one side.)
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+* 437
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+(Enter STALINO and OLYMPIO, from the house.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h1
+:END:
+
+Only let him come into the country; I’ll send the fellow back into the city to you with his porter’s knot, as black as a collier.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h2
+:END:
+
+So it ought to be.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h3
+:END:
+
+I’ll have that done and well taken care of.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h4
+:END:
+
+I intended, if he had been at home, to send Chalinus to cater with you; that, even in his sadness, I might, in addition,inflict this misfortune upon our foe.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h5
+:END:
+
+(apart, retreating to the wall of the house.)
+I’ll betake me back again to the wall; I’ll imitate the crab. Their conversation must be secretly picked up by me;
+for the one of them is tormenting me, the other wasting me with anguish. Why, this whip-rascal is marching along in his white garb, a very receptacle for stripes. My own death I defer; I’m determined to send this fellow to Acheron before me.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h6
+:END:
+
+How obsequious have I been found to you! A thing that you especially
+desired, that same have I put in your power; this day the object that you love shall be with you, unknown to your wife.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h7
+:END:
+
+Hush! So may the Deities kindly bless me, I can hardly withhold my lips from kissing you on account of this, my own delight!
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h8
+:END:
+
+(apart.)
+What? Kiss him? What’s the meaning of this? What’s this delight of yours?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h9
+:END:
+
+Do you love me at all now?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h10
+:END:
+
+Aye, by my faith, myself even less than you. May I embrace you?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h11
+:END:
+
+You may. (STALINO embraces him.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h12
+:END:
+
+How, when I touch you, I do seem to myself to be tasting honey!
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h13
+:END:
+
+(apart.)
+I really do think he intends to choke the bailiff.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h14
+:END:
+
+(pushing STALINO away.)
+Away with you, you lover; get off, with your too close acquaintanceship!
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h15
+:END:
+
+(apart.)
+I’ faith, I think that this very day they’ll be making terms. Surely,this old fellow is an universal admirer.
+This is the reason, this is it why he made him his bailiff; some time ago, too, when I came in his way, he wanted to make me his chamberlain upon the like terms.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h16
+:END:
+
+How subservient have I proved to you to-day, how attentive to your pleasure!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h17
+:END:
+
+How surely, so long as I live, will I prove more of a well-wisher to you than to my own self!
+How will I this day give full many a kiss to Casina! How will I, unknown to my wife, right pleasantly enjoy myself!
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h18
+:END:
+
+(apart.)
+Oho! Now, faith,at last I’ve got into the right track.
+It’s himself that’s dying for Casina. I’ve caught the fellows.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h19
+:END:
+
+Even now, by my troth, am I longing to embrace her; even now to be kissing her.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h20
+:END:
+
+Do let her be brought out first from the house. Why the plague are you in such a hurry?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h21
+:END:
+
+I’m in love.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h22
+:END:
+
+But I don’t think that this can possibly be managed to-day.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h23
+:END:
+
+It can, if, indeed, you think that you can possibly receive your freedom to-morrow.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h24
+:END:
+
+(apart.)
+Why, really, I must make still better use here of my ears; now, in one thicket, I shall be cleverly catching two boars.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h25
+:END:
+
+(pointing to the house of ALCESIMUS.)
+At the house of this friend and neighbour of mine there’s a place provided; I have confided to him all my amorousness: he said that he would find me a room.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h26
+:END:
+
+What will his wife do? Where will she be?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h27
+:END:
+
+I’ve cleverly contrived that: my wife will invite her here, to her own house, to the wedding; to be here with her, to help her, to sleep with her. I have requested it, and my wife has said that she will do so. She’ll be sleeping here: I’ll take care her husband is away from home.
+You shall take your wife home into the country; that country shall be this house, for a period, until I’ve had my marriage with Casina. Hence,before daylight, you shall afterwards take her home to-morrow.Isn’t it very skilfully managed?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h28
+:END:
+
+Cleverly!
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h29
+:END:
+
+(apart.)
+Only do proceed; contrive away. By my troth, to your own mischance are you so clever.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h30
+:END:
+
+Do you know what you must do now?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h31
+:END:
+
+Tell me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h32
+:END:
+
+(giving him a purse.)
+Take this purse. Be off and buy some provisions: make haste. But I want it nicely done: delicate eatables, just as she herself is a delicate bit.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h33
+:END:
+
+Very well.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h34
+:END:
+
+Buy some cuttle-fish, mussels, calamaries, barley-fish.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h35
+:END:
+
+(apart.)
+Aye, wheaten fish, if you know what you’re about.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h36
+:END:
+
+Some sole-fish.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h37
+:END:
+
+(apart.)
+Prithee, why those rather than soles of wood, with which your head may be banged, you most vile old fellow?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h38
+:END:
+
+Should you like some tongue-fish?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h39
+:END:
+
+What need is there, since my wife’s at home? She is our tongue-fish, for she’s never silent.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h40
+:END:
+
+While I’m about it, I must make choice out of the supply of fish what to purchase.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h41
+:END:
+
+You say what’s good: be off. I don’t care to spare for cost; provide abundantly. But it’s requisite also that I should see this neighbour of mine, that he may attend to what I’ve requested.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h24-h42
+:END:
+
+Am I to go now?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h24-h43
+:END:
+
+I wish you. (Exit OLYMPIO. STALINO goes into the house of ALCESIMUS.)
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h44
+:END:
+
+(coming forward.)
+By three freedoms I could not be induced
+this day to do other than provide a heavy retribution for them, and at once disclose all this matter to my mistress. I’ve caught and fully detected my enemies in their guilt. But if my mistress is ready now to do her duty, the cause is all our own: I’ll cleverly be beforehand with the fellows.
+With omens in our favour the day proceeds: just conquered, we are the conquerors. I’ll go indoors, that that which another cook has seasoned, I now, in my turn, may season after another fashion; and that for him for whom it was prepared, it may really not be prepared; and that that may be prepared for him, which before was not prepared. (Goes into the house.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+* 515
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+(Enter ALCESIMUS and STALINO, from the house of the former.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h27-h1
+:END:
+
+Now, Alcesimus, I shall know whether you are the very picture of friend or foe to me; now is the proof upon view; now is the contest going on. /But why do I do so;/ forbear to correct me; save yourself all that. /With your hoary head, at an age unfit;/ save yourself that as well. /One who has a wife;/ save yourself that like wise.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h27-h2
+:END:
+
+I never saw a person more distracted with love than yourself.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h27-h3
+:END:
+
+Do take care that the house is clear.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h27-h4
+:END:
+
+Why, faith, men-servants, maid-servants, all of them I’m determined to send out of the house to yours.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h27-h5
+:END:
+
+Heyday! with your adroitness you are very adroit! But only take care and remember the lines which Colax repeats ; take care that every one comes with his own provisions, as if they were going to Sutrium.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h27-h6
+:END:
+
+I’ll remember it.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h27-h7
+:END:
+
+Why now there’s no public ordinance better ordered than yourself, in fact. Attend to this. I’m now going to the Forum; I shall be here just now.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h27-h8
+:END:
+
+Luck go with you.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h27-h9
+:END:
+
+Take care that your house gets a tongue.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h27-h10
+:END:
+
+Why so?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h27-h11
+:END:
+
+That when I come, it may invite me.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h27-h12
+:END:
+
+Pooh, pooh! you area person that stands in good need of a basting; you’re making too free with your fun.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h27-h13
+:END:
+
+Of what use is it for me to be in love, unless I’m quite ready and talkative?
+But take you care that you haven’t to be sought for by me.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h27-h14
+:END:
+
+I’ll be at home all the while. (Exit STALINO; ALCESIMUS goes into his house.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 531
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+(Enter CLEOSTRATA, from her house.)
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h29-h1
+:END:
+
+(to herself.)
+This was the reason, then, i’ faith, why my husband entreated me, with such great earnestness, to make haste and invite my female neighbour to our house— that the house might be clear for him to be taking Casina there. Now, therefore, I shall by no means invite her,
+so that liberty of free range shan’t be any way given to worn-out bell-wethers. (ALCESIMUS is coming out of his house.) But look, the pillar of the Senate’s coming forward, the safeguard of the public, my neighbour, the person who is finding free range for my husband. I’ faith, the measure of wit that has been sold to him, was purchased at no cheap rate.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h29-h2
+:END:
+
+(to himself.)
+I’m wondering that my wife, who’s already waiting at home, dressed out, to be sent for, hasn’t been invited by this to my neighbour’s here.
+But see, here she is; she’s come to fetch her, I guess. (Going up to CLEOSTRATA.) Good day, Cleostrata!
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h29-h3
+:END:
+
+And you the same, Alcesimus. Where’s your wife?
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h29-h4
+:END:
+
+She’s waiting in-doors for you to send for her; for your husband requested me to send her to help you. Do you wish me to call her? (Going towards the door.)
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h29-h5
+:END:
+
+Let it alone; I don’t care;  [lost]  if she’s busy.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h29-h6
+:END:
+
+She’s at leisure.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h29-h7
+:END:
+
+I don’t care about it; I don’t want to be troublesome to her; I’ll see her at a future time.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h29-h8
+:END:
+
+Are you not getting ready for a wedding there at your house?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h29-h9
+:END:
+
+I am getting ready and making preparations.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h29-h10
+:END:
+
+Don’t you require an assistant then?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h29-h11
+:END:
+
+We have enough at home. When the marriage has taken place, then I’ll call upon her; for the present, farewell, and bid her the same from me. (Goes into her house.)
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h29-h12
+:END:
+
+(to himself.)
+What am I to do now? To my sorrow. I’ve done a most disgraceful action
+for the sake of that vile and toothless goat, who has engaged me in this. I’ve promised the aid of my wife out of doors, as though to go lick dishes like a dog. A worthless fellow, to tell me that his wife was going to send for her, whereas she herself declares that she does not want her. And upon my faith, it’s a wonder if this female neighbour of mine hasn’t already her suspicions of this.
+But yet, on the other hand, when I reflect with myself on this notion, if there were anything of that, there would have been enquiries of me. I’ll go in-doors, that I may lay up the ship again in the dockyard. (Goes into his house.) (Enter CLEOSTRATA, from her house.)
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h29-h13
+:END:
+
+(to herself.)
+Now he has been finely made a fool of. In what a bustle are these unfortunate old fellows. Now I do wish that that good-for-nothing decrepit husband of mine would come,
+that I might make a fool of him in his turn, after I have thus fooled the other one. For I long to make a bit of a quarrel between these two. But look, he’s coming. Why, when you see him so serious, you’d think him a decent person. (She stands on one side, unseen.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+* 563
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+(Enter STALINO.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h31-h1
+:END:
+
+(aloud, to himself.)
+It’s a great folly, to my notion at least, for any man that’s in love to go to the Forum
+on that day on which the object which he loves is close at hand; as I in my folly have been doing; I’ve spent the day, standing pleading for a certain relative of mine, who, faith, I’m very delighted has lost his cause; so that he hasn’t for nothing chosen me as his advocate to-day.
+He ought first to ask and make enquiry, whether his mind is at home or not at home, whom he’s choosing for his advocate; if he says it isn’t, without his mind he should send him off home. (Catches sight of his wife.) But look, there’s my wife before the house! Alas! wretch that I am!
+I’m afraid that she isn’t deaf, and has heard this.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h31-h2
+:END:
+
+(apart.)
+By my troth, I have heard it to your great cost.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h31-h3
+:END:
+
+I’ll go nearer to her. (Goes up to CLEOSTRATA.) What are you about, my delight?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h31-h4
+:END:
+
+I’ faith, I was waiting for you.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h31-h5
+:END:
+
+Are the things ready now? Have you by this brought over here to our house this female neighbour of yours,
+who was to assist you?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h31-h6
+:END:
+
+I sent for her as you requested me; but this companion of yours, your very good friend, was in a pet with his wife about something, I don’t know what; he said, when I went to fetch her, that he wouldn’t send her.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h31-h7
+:END:
+
+That’s your greatest fault; you are not courteous enough.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h31-h8
+:END:
+
+It’s not the part of matrons, but of harlots, to be showing courtesies, my husband, to the husbands of others. Go yourself and fetch her; I wish to attend in-doors, my husband, to what is requisite to be done.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h31-h9
+:END:
+
+Make haste then.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h31-h10
+:END:
+
+Very well. (Aside.) Now, faith, I shall inspire some apprehensions in his heart.
+I’ll this day render this lovesick man completely miserable. (She goes into the house.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+* 591
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+(Enter ALCESIMUS, from his house.)
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h1
+:END:
+
+(to himself.)
+I’ll go see here if the lover has come back home from the Forum, who, an old ghost, has been making fools of myself and my wife. But see, there he is before his house. (Addressing STALINO.) I’ faith, ’twas just in good time I was coming to your house.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h33-h2
+:END:
+
+And, i’ faith, I to yours. How say you, you good-for-nothing fellow? What did I enjoin you? What did I beg of you?
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h3
+:END:
+
+What’s the matter?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h33-h4
+:END:
+
+How nicely you’ve had your house empty for me! How well you have sent your wife over to our house here! Isn’t it through yourself that I and the opportunity are lost, both of us?
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h5
+:END:
+
+Why don’t you go hang yourself? Why, ’twas you yourself said that
+your wife would come and fetch mine from our house?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h33-h6
+:END:
+
+Then she declares that she has been to fetch her, and that you said you wouldn’t let her go.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h7
+:END:
+
+But she herself, of her own accord, said to me that she didn’t care for her assistance.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h33-h8
+:END:
+
+But ’tis she herself who has deputed me to come and fetch her.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h9
+:END:
+
+But I don’t care for that.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h33-h10
+:END:
+
+But you are proving my ruin.
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h11
+:END:
+
+But that’s as it should be. But I shall still go on delaying; but I very much long for—
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h33-h12
+:END:
+
+But—
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h13
+:END:
+
+nothing but to do you some mischief;
+but I’ll do it with pleasure. Never this day shall you have a /but/ the more than I.
+But, in fine, really, upon my faith, may the Gods confound you.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h33-h14
+:END:
+
+What now? Are you going to send your wife to my house?
+
+** ALCESIMUS
+:PROPERTIES:
+:CUSTOM_ID: h33-h15
+:END:
+
+You may take her, and be off to utter and extreme perdition, both with her and with that one of yours, and with that mistress of yours as well. A way with you, and attend to something else; I’ll at once bid my wife to pass thither through the garden to your wife.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h33-h16
+:END:
+
+Now you are proving yourself a friend to me in genuine style! (ALCESIMUS goes into his house.) Under what auspices am I to say that this passion was inflicted upon me, or what have I ever done amiss towards Venus, that when I’m thus in love crosses so many should befall me in my path? (A noise is heard.) Hey day!
+what’s that noise, prithee, that’s going on in our house?
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+* 621
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+(Enter PARDALISCA, running out of the house.)
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h1
+:END:
+
+(bawling out at the door.)
+I’m undone, I’m undone, I’m utterly, utterly ruined! My heart is deadened with fear. My limbs, in my misery, are all a-trembling! I know not whence to obtain or look for any assistance, safety, or refuge for myself, or any means of relief:
+things so surprising, in a manner so surprisingly done, have I just now witnessed in-doors, a new and unusual piece of audacity. Be on your guard, Cleostrata! prithee do get away from her,lest amid such transports she may be doing you some mischief! Tear away that sword from her, who’s not in possession of her senses!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h2
+:END:
+
+Why, what is the matter—that she, frightened and half dead with fear, rushes hither out of doors? Pardalisca!
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h3
+:END:
+
+(looking wildly about her.)
+Whence do my ears catch the sound?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h4
+:END:
+
+Just look back at me.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h5
+:END:
+
+My master!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h6
+:END:
+
+What’s the matter? What?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h7
+:END:
+
+I’m undone.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h8
+:END:
+
+How undone?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h9
+:END:
+
+I’m undone, and you are undone.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h10
+:END:
+
+Disclose it, what’s the matter with you?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h11
+:END:
+
+Woe to you!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h12
+:END:
+
+Aye, and the same to yourself.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h13
+:END:
+
+That I mayn’t fall down, prithee do hold, hold me. (Staggers, on which STALINO supports her.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h14
+:END:
+
+Whatever it is, tell me quickly.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h15
+:END:
+
+Do support my throbbing breast, prithee do make a little air with your cloak.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h16
+:END:
+
+(fanning her with the lappet of his cloak.)
+I’m in alarm as to what is the matter; (aside) unless this woman has been somewhere upsetting herself with the pure cream of Bacchus.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h17
+:END:
+
+Hold my ears, pray do. (Her head falls on her shoulder.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h18
+:END:
+
+Away to utter perdition; breast, ears, head, and yourself, may the Gods confound! For, unless I quickly learn from you this matter, whatever it is, I’ll forth with be knocking your brains out, you viper,
+you hussey, who have thus far been making a laughing-stock of me.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h19
+:END:
+
+My master!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h20
+:END:
+
+What do you want, my servant?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h21
+:END:
+
+You are too angry.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h22
+:END:
+
+You are saying so too soon. But whatever this is, tell it; relate in a few words what has been the disturbance in-doors.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h23
+:END:
+
+You shall know.
+Hear this most foul crime which just now in-doors at our house your female slave began to attempt after this fashion, a thing that does not befit the regulations lations of Attica.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h24
+:END:
+
+What is it?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h25
+:END:
+
+Fever prevents the use of my tongue.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h26
+:END:
+
+What is it? Can I possibly learn from you what is the matter?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h27
+:END:
+
+I’ll tell you. Your female slave, she whom you intend to give as a wife to your bailiff, in-doors she—
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h28
+:END:
+
+In-doors what? What is it?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h29
+:END:
+
+Is imitating the wicked practices of wicked women, in threatening her husband—
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h30
+:END:
+
+What then?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h31
+:END:
+
+Ah!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h32
+:END:
+
+What is it?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h33
+:END:
+
+She says that she intends to take her husband’s life.
+A sword—
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h34
+:END:
+
+(starting.)
+Hah!
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h35
+:END:
+
+A sword—
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h36
+:END:
+
+What about that sword?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h37
+:END:
+
+She has got one.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h38
+:END:
+
+Ah! wretch that I am! Why has she got it?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h39
+:END:
+
+She is pursuing them all at home all over the house, and she won’t allow any person to approach her; and so, all, hiding in chests and under beds,
+are mute with fear.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h40
+:END:
+
+I’m murdered and ruined outright! What malady is this that has so suddenly befallen her?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h41
+:END:
+
+She is mad.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h42
+:END:
+
+I do think that I am the most unfortunate of men!
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h43
+:END:
+
+Aye, and if you were to know the speeches she uttered to-day.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h44
+:END:
+
+I long to know about what she said.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h45
+:END:
+
+Listen.
+By all the Gods and Goddesses she swore that she would murder the person with whom she should bed.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h46
+:END:
+
+Will she murder me?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h47
+:END:
+
+Does that bear reference to yourself in any way?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h48
+:END:
+
+Pshaw!
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h49
+:END:
+
+What business have you with her?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h50
+:END:
+
+I made a mistake; him, the bailiff, I meant to say.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h51
+:END:
+
+It’s on purpose that you are turning aside from the high road into bye-paths.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h52
+:END:
+
+Does she threaten anything against myself?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h53
+:END:
+
+She is hostile to you individually more than any person.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h54
+:END:
+
+For what reason?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h55
+:END:
+
+Because you have given her as a wife to Olympio; she says that she’ll neither suffer your life, nor her own, nor that of her husband,
+to be prolonged until the morrow. I have been sent hither to tell you this, that you might beware of her.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h56
+:END:
+
+(aside.)
+By my troth, to my misery I’m quite undone!
+There neither is nor ever was any old man in love so wretched as I.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h57
+:END:
+
+(aside, to the AUDIENCE.)
+Don’t I play him off cleverly? For everything that I’ve been telling him as taking place, I’ve been telling him falsely. My mistress and she who lives next door have concocted this scheme. I’ve been sent to fool him.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h58
+:END:
+
+Hark you, Pardalisca!
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h59
+:END:
+
+What is it?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h60
+:END:
+
+There is —
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h61
+:END:
+
+What?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h62
+:END:
+
+There is something that I want to enquire of you about.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h63
+:END:
+
+You are causing me delay.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h64
+:END:
+
+Why, you are causing me sorrow. But has Casina got that sword even still?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h65
+:END:
+
+She has; but two of them.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h66
+:END:
+
+Why two?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h67
+:END:
+
+She says that this very day she’ll murder you with the one, the bailiff with the other.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h68
+:END:
+
+I am now the most utterly murdered of all people that do exist.
+I’ll put on me a coat of mail; I think that’s the best. What did my wife do? Didn’t she go and take them away from her?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h69
+:END:
+
+No person dares go near her.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h70
+:END:
+
+She should have prevailed on her.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h71
+:END:
+
+She is entreating her. She declares that assuredly she will lay them down on no other terms, unless she understands that she shall not be given to the bailiff.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h72
+:END:
+
+But whether she likes it or no, because she refuses, she shall marry him this day. For why shouldn’t I carry this out that I’ve begun, for her to marry me?—that, indeed, I didn’t intend to say—but, our bailiff?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h73
+:END:
+
+You’re making your mistakes pretty often.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h74
+:END:
+
+It’s alarm that impedes my words. But, prithee,
+do tell my wife, that I entreat her to prevail upon her to put down the sword, and allow me to return in-doors.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h75
+:END:
+
+I’ll tell her.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h76
+:END:
+
+And do you entreat her.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h77
+:END:
+
+And I’ll entreat her.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h78
+:END:
+
+And in soft language, in your usual way. But do you hear me? If you manage this, I’ll give you a pair of shoes and a gold ring for your finger, and plenty of nice things.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h79
+:END:
+
+I’ll do my best.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h80
+:END:
+
+Take care and prevail.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h81
+:END:
+
+Now then I’ll be off; unless you detain me for anything.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h35-h82
+:END:
+
+Be off, and take care.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h35-h83
+:END:
+
+(aside.)
+Look, his assistant is returning, at last, with the provisions; he’s bringing a train after him. (She goes into the house.)
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+* 720
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+(Enter OLYMPIO, a COOK, and his ASSISTANTS, with provisions.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h1
+:END:
+
+(to the COOK.)
+See, you thief, that you lead on your briars beneath their banners.
+
+** A COOK
+:PROPERTIES:
+:CUSTOM_ID: h37-h2
+:END:
+
+But how are they briars?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h3
+:END:
+
+Because that which they have touched, they instantly seize hold of; if you go to snatch it from them, they instantly rend it; so, wherever they come, wherever they are, with a twofold loss do they mulct their masters.
+
+** A COOK
+:PROPERTIES:
+:CUSTOM_ID: h37-h4
+:END:
+
+Heyday, indeed!
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h5
+:END:
+
+Well, well! This way I’m delaying to go meet my master with a magnificent, patrician, and patronizing air. (He struts along.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h6
+:END:
+
+My good man, save you.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h7
+:END:
+
+I admit that so I am.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h8
+:END:
+
+How goes it?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h9
+:END:
+
+You are in love, but I’m hungering and thirsting.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h10
+:END:
+
+You have come capitally provided.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h11
+:END:
+
+Pooh! pooh! (Goes towards the door.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h12
+:END:
+
+But stop you, although you do hold me in contempt—
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h13
+:END:
+
+O dear, O dear! your converse has a bad smell to me. (Moving away.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h14
+:END:
+
+What’s the matter?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h15
+:END:
+
+(pointing to the baskets of provisions.)
+That’s the matter.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h16
+:END:
+
+Will you not stop there?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h17
+:END:
+
+Why, really, you are causing me ennui .
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h18
+:END:
+
+I shall be giving you a grand coup , I fancy, if you don’t stand still forthwith. (Catches hold of him.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h19
+:END:
+
+O mon Dieu! Can’t you get away from me, unless you would like me to be sick just now?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h20
+:END:
+
+Do stop a bit.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h21
+:END:
+
+How’s this? (Staring at him.) What person’s this?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h22
+:END:
+
+I’m your master.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h23
+:END:
+
+What master?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h24
+:END:
+
+He whose slave you are.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h25
+:END:
+
+I, a slave?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h26
+:END:
+
+Aye, and mine.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h27
+:END:
+
+Am I not a free man? Remember! remember!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h28
+:END:
+
+Stop and stay you there! (Catches hold of him.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h29
+:END:
+
+Let me alone.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h30
+:END:
+
+I am your slave.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h31
+:END:
+
+That’s very good.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h32
+:END:
+
+My dear little Olympio, my father, my patron, I do beg of you—
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h33
+:END:
+
+Well, you certainly are in your senses.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h34
+:END:
+
+Of course I am your slave.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h35
+:END:
+
+What need have I of so worthless a slave?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h36
+:END:
+
+Well now, how soon are you going to provide me some amusement ?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h37
+:END:
+
+If the dinner were but drest.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h38
+:END:
+
+Then let them be off this instant in-doors. (To the COOK and his ASSISTANTS.)
+Go you into the house and despatch with all haste.
+I’ll come in just now. Have the dinner charmingly sauced up for me; I want to have a charming meal. I really don’t care, now, to be eating in the style of your sumptuous foreigners. Be off, will you; but for the present, however, I take up my abode here. (The COOK and his ASSISTANTS go into the house.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h39
+:END:
+
+Is there anything that detains you here?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h40
+:END:
+
+The servant-maid says that Casina has got a sword in-doors, to deprive you and me of life with it.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h41
+:END:
+
+I understand it. Just let her alone with it. They are imposing on you: I know these worthless baggages. However, do you now go into the house with me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h42
+:END:
+
+But, i’ faith, I’m fearful of mischief:
+only do you go. Reconnoitre, first, what’s going on within.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h43
+:END:
+
+My life’s as dear to me as yours is to you.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h37-h44
+:END:
+
+But only do go now.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h37-h45
+:END:
+
+If you’ll go yourself, I’ll go in with you. (They go into the house.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 759
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+(Enter PARDALISCA, from the house, laughing aloud.)
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+(to herself.)
+Upon my faith, I do not believe that at Nemea, nor do I think that at Olympia,
+or anywhere else, there ever where such funny games as these ridiculous games that are going on in-doors here with our old gentleman and our bailiff Olympio. In-doors, all over the house, all are in a bustle; the old man is bawling away in the kitchen, and urging on the cooks.
+/Why don’t you go to work at once? Why don’t you serve up, if you are going to serve up? Make haste; the dinner ought to have been cooked by this./ And then this bailiff is strutting about with his chaplet, clothed in white and finely rigged out. And then these women are dressing up the armour-bearer in the bedroom,
+to give him to be married to our bailiff in place of Casina; but the artful baggages very cleverly conceal what the upshot of this is really to be. Then too, in a manner quite worthy of them, the cooks are very cleverly doing their best to the end that the old gentleman mayn’t get his dinner. They are upsetting the pots, and putting out the fire with the water.
+At the request of these ladies they are so doing; they, too, are determined to bundle the old fellow dinnerless out of doors, that they by themselves may blow out their own stomachs. I know these female gluttons; a merchant-ship full of victuals they can devour. But the door is opening.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 780
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+(Enter STALINO, from the house.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+(speaking to CLEOSTRATA, within.)
+If you are wise, wife, you’ll dine, after all, when the dinner’s cooked. I shall dine in the country, for I’m desirous to attend the new-made husband and the newly-made bride into the country (I know the mischievous habits of persons), that no one may carry her off. Do you people indulge your appetite.
+But do make haste and send him and her out immediately, that at least we may get there in daylight. I shall be here tomorrow; to-morrow, wife, I’ll be having a banquet still.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+(aside.)
+’Tis as I said it would be; the women are packing the old fellow dinnerless out of doors.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+(to PARDALISCA.)
+What are you doing here?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+I’m going whither she sent me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+Really?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+Seriously.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h42-h7
+:END:
+
+What are you looking for here?
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h42-h8
+:END:
+
+Really I’m looking for nothing at all.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h42-h9
+:END:
+
+Be off; you are loitering here; the others are bustling about in-doors.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h42-h10
+:END:
+
+I’m off.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h42-h11
+:END:
+
+Be off, then, will you, away from here, you jade of jades. (PARDALISCA goes into the house.) Is she gone then? I may now say here anything I please.
+He that’s in love, i’ faith, even if he is hungry, isn’t hungry at all. But see, the bailiff, my associate, companion, and husband-in-copartnership, is coming out of doors with wreath and torch.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 798
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+(Enter OLYMPIO, dressed in white, with a wreath on his head, and a torch in his hand, accompanied by MUSICIANS)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h1
+:END:
+
+(to one of the MUSICIANS.)
+Come, piper, while they are escorting the new-made bride out of doors, make the whole of this street resound with a sweet wedding-tune.
+(He sings aloud.)
+Io Hymen hymenaee! Io Hymen!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h44-h2
+:END:
+
+(accosting him.)
+How fare you, my preserver?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h3
+:END:
+
+I’m very hungry, faith; and, in fact, I’m not thirsty a little.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h44-h4
+:END:
+
+But I’m in love.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h5
+:END:
+
+Still, upon my faith, love, I shan’t be making any trial of you. For some time past my inside has been grumbling with emptiness.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h44-h6
+:END:
+
+But why is she now delaying so long in-doors, just as though on purpose?
+The greater the haste I’m in, in so much the less is she.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h7
+:END:
+
+What if I were even to trill an hymeneal lay?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h44-h8
+:END:
+
+I agree to that; and I’ll help you at these our common nuptials.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h9
+:END:
+
+(STALINO joining, they sing.)
+Hymen hymenaee! Io Hymen!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h44-h10
+:END:
+
+Upon my faith, I’m dreadfully done up; one may burst one’s self with singing this hymeneal lay; if I do burst this way, I can’t burst any other, that I may make sure of.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h11
+:END:
+
+Upon my faith, for sure, if you were a horse, you’d never be broken in.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h44-h12
+:END:
+
+On what grounds?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h13
+:END:
+
+You are too hard-mouthed.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h44-h14
+:END:
+
+Have you ever found me so?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h15
+:END:
+
+The Gods forbid! But the door makes a noise; they are coming out.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h44-h16
+:END:
+
+I’ troth, the Gods do will me to be preserved at last. I already smell Casina at a distance. (They move to a distance.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+* 815
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+(Enter, from the house, two FEMALE SERVANTS leading CHALINUS, veiled and dressed in women’s clothes, as CASINA.)
+
+** TWO MAID-SERVANTS
+:PROPERTIES:
+:CUSTOM_ID: h46-h1
+:END:
+
+Move on, and raise your feet a little over the threshold, newly-married bride; prosperously commence this journey, that you may always be alive for your husband, that you may be his superior in power, and the conqueror, and that your rule may gain the upper hand. Let your husband find you in clothes; you plunder your husband;
+by night and day to be tricking your husband, prithee, do remember.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h2
+:END:
+
+(to STALINO.)
+Upon my faith, at her downright peril, the instant she offends me ever so little!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h3
+:END:
+
+Hold your tongue.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h4
+:END:
+
+I shall not hold my tongue.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h5
+:END:
+
+What’s the matter
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h6
+:END:
+
+These wicked jades are wickedly teaching her wicked lessons.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h7
+:END:
+
+Instead of being all ready, they’ll be bringing this matter all into confusion for me. They are striving at that, wishing for it, that they may have it all undone.
+
+** TWO MAID-SERVANTS
+:PROPERTIES:
+:CUSTOM_ID: h46-h8
+:END:
+
+Come, Olympio, as soon as you please, receive this wife of yours from us. (They present CHALINUS to him.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h9
+:END:
+
+Hand her to me then, if you are going to hand her to me at all to-day. (They hand CHALINUS to him.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h10
+:END:
+
+(to the FEMALE SERVANTS.)
+Be off in-doors.
+
+** TWO MAID-SERVANTS
+:PROPERTIES:
+:CUSTOM_ID: h46-h11
+:END:
+
+Prithee, do deal gently with her who is so young and inexperienced.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h12
+:END:
+
+It shall be so.
+Farewell; be off now.
+
+** TWO MAID-SERVANTS
+:PROPERTIES:
+:CUSTOM_ID: h46-h13
+:END:
+
+Farewell. (They go into the house.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h14
+:END:
+
+Is my wife now gone?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h15
+:END:
+
+She’s in the house; don’t be afraid.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h16
+:END:
+
+Hurra! Now, faith, I’m free at last. (Addressing himself to CHALINUS as CASINA.) My sweetheart, my spring-flower, my little honey! (Embraces him.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h17
+:END:
+
+But, hark you! you’ll beware, if you are wise, of some mishap: she’s mine.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h18
+:END:
+
+I know that; but mine’s the first enjoyment.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h19
+:END:
+
+(holding him the torch.)
+Hold this torch for me.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h20
+:END:
+
+Why, no, I’ll hold her in my arms in preference. All-powerful Venus, a happy existence hast thou given me in giving me the possession of her! A dear little body! a dear little honey! (Hugs CHALINUS, who pretends to struggle.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h21
+:END:
+
+(shouting aloud.)
+O my dear little wife! (Jumps about on one leg.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h22
+:END:
+
+What’s the matter?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h23
+:END:
+
+She has trod upon my toes.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h24
+:END:
+
+(aside.)
+I’ll compliment her, as it were. A mist is not so soft as is— her breast.
+(Pulls CHALINUS about.)
+A pretty little bosom, upon my faith. (CHALINUS gives him a thrust with his elbow, on which he roars out.) Woe to unfortunate me!
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h25
+:END:
+
+What’s the matter?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h26
+:END:
+
+She struck me in the breast with her elbow.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h27
+:END:
+
+Why then, pray, do you maul her about? But she does not do so to me, who touch her gently. (CHALINUS gives him a poke with his elbow.)
+O me!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h28
+:END:
+
+What’s the matter?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h29
+:END:
+
+Prithee, how robust she is! she has almost laid me flat with her elbow.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h30
+:END:
+
+She wishes, then, to go to bed.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h46-h31
+:END:
+
+Nay but, why don’t we be off?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h46-h32
+:END:
+
+(taking hold of CHALINUS.)
+My pretty, pretty little dear! (They go into the house of ALCESIMUS.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+* 855
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+(Enter MYRRHINA and PARADALISCA, from the house of STALINO.)
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h49-h1
+:END:
+
+Having been well and handsomely entertained indoors, we’ve come out here in the street to see the wedding-sports.
+I’d like to know how Chalinus gets on—the newly-married bride with her new-made husband.
+Never, upon my faith, any day did I laugh so much, nor in the time that’s to come do I think I shall laugh more;
+and no poet ever did con trive a more artful plot than this was skilfully contrived by us.
+I’d now very much like the old fellow to come out, with his face well battered, than whom there is not a more wicked old man alive.
+Not even him do I deem to be more wicked who finds the room for him. Now, Pardalisca, do you be guard here (pointing to the door of her house); that whoever comes out from here, you may have some sport with him.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h49-h2
+:END:
+
+I’ll do it with pleasure, and in my usual way.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h49-h3
+:END:
+
+Observe from here everything that’s going on indoors.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h49-h4
+:END:
+
+Prithee, get behind me.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h49-h5
+:END:
+
+You have liberty, too, to say freely and boldly to him anything you like.
+
+** PARDALISCA
+:PROPERTIES:
+:CUSTOM_ID: h49-h6
+:END:
+
+(in a low voice.)
+Be quiet; your door makes a noise. (They hide themselves.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+* 875
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+(Enter OLYMPIO, in great alarm, from the house of ALCESIMUS.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h1
+:END:
+
+(bawling aloud.)
+Neither where to fly to, nor where to conceal myself, nor how to hide this disgrace, do I know; so much have my master and myself been supereminently disgraced at these nuptials of ours. I’m now so ashamed, and now so afraid, and so ridiculous are we both. But, a simpleton, I’m now doing what’s new to me: I’m ashamed at that which has never shamed me before. (To the AUDIENCE.) Lend me your attention, while I repeat my exploits; it’s worth your while to catch them with your ears;
+so ridiculous to be heard, to be repeated, are these mishaps which I have met with in the house. [When straightway I had led my new-made bride into the room, I fastened the bolt; but, however, the gloom there was just like the night. I placed, I propped things against the door; I struggled hard that before the old fellow  [omitted]  with my bride.
+Then I began to be slow in my proceedings, for I looked behind me every now and then, lest the old fellow should break in  [lost] , a kiss, that provocative to lust, I asked of her first. She pushed back my hand, and allowed me not to give her a kiss in a quiet way.
+But then the more anxious was I, the more desirous to assert my privilege with Casina, and I longed to do the old fellow out of that task. The door I blocked up, so that the old man might not over-power me. (from the house.)
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h51-h2
+:END:
+
+(apart to CLEOSTRATA.)
+Come now, you accost him. (Pointing to OLYMPIO.)
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h3
+:END:
+
+(accosting OLYMPIO.)
+Where is your newly-made bride?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h4
+:END:
+
+(aside.)
+By heavens, I’m utterly undone; the thing’s all out.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h5
+:END:
+
+(overhearing him.)
+It’s right, then, that you should relate the whole affair as it happened. What’s going on in-doors? How fares Casina? Is she quite obsequious to your will?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h6
+:END:
+
+I’m ashamed to tell it.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h7
+:END:
+
+Relate it in its order just as you proceeded.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h8
+:END:
+
+Upon my faith, I am ashamed.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h9
+:END:
+
+Proceed boldly. After you went to bed, I want you to tell what took place after that.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h10
+:END:
+
+But it’s a disgraceful matter.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h11
+:END:
+
+I’ll take care that those who hear it shall be on their guard as to mentioning it.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h12
+:END:
+
+That’s the principal thing.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h13
+:END:
+
+You kill me with weariness. Why don’t you proceed?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h14
+:END:
+
+—Ubi  [lost]  us subtus porro  [lost]
+quid.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h15
+:END:
+
+Babae!
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h16
+:END:
+
+Quid?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h17
+:END:
+
+Papae!
+[lost]  quid est?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h18
+:END:
+
+Oh, erat maximum. Gladium ne haberet metui; id quaerere occœpi. Dum, gladiumne habeat, quaero, arripio capulum.
+Sed, quom cogito, non habuit gladium; nam id esset frigidius.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h19
+:END:
+
+Eloquere.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h20
+:END:
+
+At pudet.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h21
+:END:
+
+Num radix fuit?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h22
+:END:
+
+Non fuit.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h23
+:END:
+
+Num cucumis?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h24
+:END:
+
+Profecto hercle non fuit quidquam olerum; Nisi quidquid erat, calamitas profecto attigerat nunquam. Ita, quidquid erat, grande erat.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h51-h25
+:END:
+
+Quid fit denique? Edisserta.
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h26
+:END:
+
+—sepit veste id, quî estis. Ubi illum saltum video obseptum; Rogo, ut altero sinat ire. Ita, quidquid erat, grande erat. Tollo ut obvortam cubitissim  [lost]  Ullum mutire  [lost]
+Surge, ut ineam in  [lost]  Atque illam in  [lost]
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h51-h27
+:END:
+
+Perlepide narrat  [lost]
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h28
+:END:
+
+When I addressed Casina, /Casina,/ said I, /my dear wife, why do you slight your husband in this fashion? Really, upon my faith, you do this quite without my deserving it, inasmuch as I have given you the preference as my wife./
+She answered not a word.
+When I attempted a kiss, a beard pricked my lips just like briars.
+Forthwith, as I was upon my knees, she struck my head with her feet. I tumbled headlong from the bed; she leapt down upon me and punched my face. From there in silence out of doors I came in this guise; by your leaves I say it; may the old fellow drink of the same cup that I have been drinking of.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h29
+:END:
+
+Most excellent. But where’s your cloak?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h30
+:END:
+
+(pointing to the house of ALCESIMUS.)
+I left it here in-doors.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h51-h31
+:END:
+
+Well now; hasn’t a very nice trick been played you?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h51-h32
+:END:
+
+Yes, and deservedly. Hush! the door makes a noise. What, is she following me, I wonder? (They go to a distance.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+* 937
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+(Enter STALINO, in haste, from the house of ALCESIMUS.)
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h53-h1
+:END:
+
+(aloud to himself.)
+I’m branded with the greatest disgrace, nor what, under my circumstances to do, do I know. Nor yet how to look my wife in the face; so utterly undone am I! All my misdeeds are discovered.
+In every way, to my confusion, I am ruined! So clearly am I hooked fast by the jaws! nor know I in what way to clear myself before my wife; wretch that I am, to have been stripped of my cloak!  [lost]  These clandestine nuptials are all discovered.
+[lost]  I judge it best for me  [lost]  She taught my wife  [lost]  the way  [lost]  But who is there, what person would be ready to undertake this office
+for me? What now to do I know not, except to imitate worthless slaves, and fly from the house; for there’s no safety for my shoulder-blades if I return home. I may tell lies there; i’ faith, I shall get a basting, though much against my will, although I have earned my punishment.
+I’ll at once betake myself in this direction in flight. (He begins to run.)
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h53-h2
+:END:
+
+(coming forward with the others.)
+Hallo there! Stop, this instant, you amorous one!
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h53-h3
+:END:
+
+(to himself.)
+I’m utterly undone! I’m being called back. I’ll be off, as though I didn’t hear. (Runs on.]
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+* 963
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+(Enter CHALINUS, from the house of ALCESIMUS, dressed in woman’s clothes.)
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h1
+:END:
+
+Where are you, you who imitate the morals of the Massilians? Now, if you wish to be taking liberties with me, is a good opportunity
+[ [lost]  at your risk. By my troth, you are undone. Come, only step this way.  [lost]  Now I fancy that when a witness out of  [lost]  I’ll find  [lost]  thus out of the street I order  [lost]  a murmur I  [lost]
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h2
+:END:
+
+Now am I in extreme danger, between the stone and the sacrifice, nor know I which way to fly  [lost] The wolf-dogs  [lost]  it was  [lost]
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h3
+:END:
+
+I’ faith, I do think  [lost]  old there now like new.]
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h4
+:END:
+
+(turning about.)
+I’ll go this way. I trust that the omen of a bitch’s barking will prove the better.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h5
+:END:
+
+What are you doing, my husband, my good man? Whence come you in this guise?
+What have you done with your walking-stick, or how disposed of the cloak you had?
+
+** TWO MAID-SERVANTS
+:PROPERTIES:
+:CUSTOM_ID: h55-h6
+:END:
+
+While he was playing his loving pranks with Casina, he lost it, I fancy.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h7
+:END:
+
+(aside.)
+Utterly undone!
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h8
+:END:
+
+(coming up to STALINO.)
+Shall we go to bed again? I am Casina.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h9
+:END:
+
+Away with you to utter perdition!
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h10
+:END:
+
+Don’t you love me?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h11
+:END:
+
+Nay, but answer me; what has become of your cloak?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h12
+:END:
+
+(running about, exclaiming.)
+[Upon my faith, wife, the Bacchantes!
+Bacchantes!
+Bacchantes!
+
+** TWO MAID-SERVANTS
+:PROPERTIES:
+:CUSTOM_ID: h55-h13
+:END:
+
+He’s making pretence on purpose
+for, upon my word, no Bacchantes are exhibiting at the present time.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h14
+:END:
+
+I forgot that. But still, the Bacchantes!—
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h15
+:END:
+
+How, the Bacchantes?
+Why, that cannot be.
+
+** TWO MAID-SERVANTS
+:PROPERTIES:
+:CUSTOM_ID: h55-h16
+:END:
+
+By my troth, you are in a fright.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h17
+:END:
+
+What I?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h18
+:END:
+
+(to the SERVANT.)
+I’ faith, do tell no lies, for it’s quite clear.  [lost] ]
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h55-h19
+:END:
+
+[ [lost]  who even made a notorius man of me with his flagrant acts.]
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h20
+:END:
+
+Won’t you hold your tongue?
+
+** OLYMPIO
+:PROPERTIES:
+:CUSTOM_ID: h55-h21
+:END:
+
+I’ troth, I certainly shall not hold my tongue; for with the greatest earnestness you begged me to ask for Casina as my wife.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h22
+:END:
+
+That I did
+on account of my love for you.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h23
+:END:
+
+I’ faith, of her rather. (Turning to CHALINUS.)
+He’d have been making an attack upon you, in fact.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h24
+:END:
+
+I been doing these things that you mention?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h25
+:END:
+
+And do you ask me that?
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h26
+:END:
+
+If indeed I have done so, I’ve been doing wrong.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h27
+:END:
+
+Just come back in-doors here; I’ll remind you, if you have forgotten anything.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h28
+:END:
+
+Troth, I think, I’ll believe you in preference as to what you say.
+But, wife, do grant pardon to your husband for this; Myrrhina, do entreat Cleostrata! If ever, from this time forward, I love Casina, or even think of it, should I love her, I say, should I ever hereafter, in fact, be guilty of such a thing, there’s no reason, wife, why you shouldn’t lash me with twigs as I hang up by the arms.
+
+** MYRRHINA
+:PROPERTIES:
+:CUSTOM_ID: h55-h29
+:END:
+
+On my word, I do think that forgiveness may be granted for this.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h30
+:END:
+
+(to MYRRHINA.)
+I’ll do as you request me. (To STALINO.)
+On this account with the less difficulty do I now grant you this pardon, that, from being a long one, we mayn’t be making this Play still longer.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h31
+:END:
+
+You are not angry?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h32
+:END:
+
+I am not angry.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h33
+:END:
+
+Am I to trust your word?
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h34
+:END:
+
+You may my word.
+
+** STALINO
+:PROPERTIES:
+:CUSTOM_ID: h55-h35
+:END:
+
+No person ever did have a more amiable wife than I’ve got.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h36
+:END:
+
+Keep to her, then.
+
+** CLEOSTRATA
+:PROPERTIES:
+:CUSTOM_ID: h55-h37
+:END:
+
+(to CHALINUS.)
+Come you, give him back his walking-stick and cloak.
+
+** CHALINUS
+:PROPERTIES:
+:CUSTOM_ID: h55-h38
+:END:
+
+(taking them from behind him, where he had held them.)
+Take them, if you wish.
+Upon my faith, a great injustice has really been most egregiously done me; I’ve been married to two husbands; neither has behaved to me as to a new-made bride.
+
+** The PLAYERS.
+:PROPERTIES:
+:CUSTOM_ID: h55-h39
+:END:
+
+Spectators, what’s to be done within, we’ll tell you here. This Casina will be discovered to be the daughter of this person next door, and she’ll be married to Euthynicus, our master’s son.
+Now it’s only fair that with your deserving hands you should give us deserved applause. He who does so, may he always keep his mistress without the knowledge of his wife. But he who doesn’t with his hands clap as loud as he can, in place of a mistress, may a he-goat, soused in bilge-water, be palmed off upon him.

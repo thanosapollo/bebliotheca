@@ -1,0 +1,25 @@
+#+TITLE: Hymn 25 To the Muses and Apollo
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/hymn-25-to-the-muses-and-apollo--anonymous
+#+LANGUAGE: el
+
+#+BEGIN_QUOTE
+Hymn 25 To the Muses and Apollo edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+μουσάων ἄρχωμαι Ἀπόλλωνός τε Διός τε·
+ἐκ γὰρ Μουσάων καὶ ἑκηβόλου Ἀπόλλωνος
+ἄνδρες ἀοιδοὶ ἔασιν ἐπὶ χθονὶ καὶ κιθαρισταί,
+ἐκ δὲ Διὸς βασιλῆες· ὃ δʼ ὄλβιος, ὅν τινα Μοῦσαι
+φίλωνται· γλυκερή οἱ ἀπὸ στόματος ῥέει αὐδή.
+
+χαίρετε, τέκνα Διός, καὶ ἐμὴν τιμήσατʼ ἀοιδήν·
+αὐτὰρ ἐγὼν ὑμέων τε καὶ ἄλλης μνήσομʼ ἀοιδῆς.

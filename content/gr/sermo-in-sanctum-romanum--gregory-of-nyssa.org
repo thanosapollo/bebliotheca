@@ -1,0 +1,19 @@
+#+TITLE: 96.477 Τοῦ Νύσσης, ἐκ τοῦ εἰς τὸν ἅγιον Ῥωμανόν.
+#+AUTHOR: Γρηγόριος Νύσσης
+#+FILETAGS: :patristic:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/sermo-in-sanctum-romanum--gregory-of-nyssa
+#+LANGUAGE: el
+
+* 96.477 Τοῦ Νύσσης, ἐκ τοῦ εἰς τὸν ἅγιον Ῥωμανόν.
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Οὐ μήρυνθον λεπτὴν διαθέουσιν οἱ θαυματοποιοὶ τοῦ Χριστοῦ, οὐδὲ ξίφεσιν
+ἐπικυβιστῶντες γυμνοῖς, τέχνῃ τὰς πληγὰς διαφεύγουσι, ἀλλ' ἀντὶ μὲν σχοινίου τὴν
+στενὴν καὶ ἀμφίκρημνον τῆς εὐσεβείας ὁδὸν ἀσαλεύτῳ βήματι διατρέχουσι. Τῶν δὲ
+τυραννουμένων ξιφῶν τὰς ἀκμὰς τῇ τῶν πληγῶν φιλοτιμίᾳ =96.477= ἀμβλύνουσιν, οὐ
+τὸ μὴ πάσχειν τέχνην ποιούμενοι, ἀλλὰ τὸ νικᾷν ἐν τῷ πάσχειν ἀσκούμενοι.

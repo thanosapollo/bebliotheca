@@ -1,0 +1,21 @@
+#+TITLE: Hymn 12 To Hera
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-12-to-hera--anonymous
+
+#+BEGIN_QUOTE
+Hymn 12 To Hera translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+I sing of golden-throned Hera whom Rhea bare. Queen of the immortals is she,
+surpassing all in beauty: she is the sister and the wife of loud-thundering Zeus, —the
+glorious one whom all the blessed throughout high Olympus
+
+reverence and honor even as Zeus who delights in thunder.

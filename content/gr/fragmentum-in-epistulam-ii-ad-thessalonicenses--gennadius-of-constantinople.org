@@ -1,0 +1,16 @@
+#+TITLE: 2 Thess 2,78 Ὅταν μέντοι τὸ πέρας ἐπιστῇ τῆς τοῦ θεοῦ προθεσμίας, καὶ ὁ
+#+AUTHOR: Γεννάδιος Κωνσταντινουπόλεως
+#+FILETAGS: :patristic:5c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-epistulam-ii-ad-thessalonicenses--gennadius-of-constantinople
+#+LANGUAGE: el
+
+* 2 Thess 2,78 Ὅταν μέντοι τὸ πέρας ἐπιστῇ τῆς τοῦ θεοῦ προθεσμίας, καὶ ὁ
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+νῦν κατέχων αὐτὸν ὅρος ἐκστῇ πληρωθείς, ἑτοίμως τότε καὶ δίχα πάσης ἀναβολῆς ὁ
+ἄνομος ἀποκαλυφθήσεται.

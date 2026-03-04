@@ -1,0 +1,19 @@
+#+TITLE: Hymn 13 To Demeter
+#+AUTHOR: Anonymous
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymn-13-to-demeter--anonymous
+
+#+BEGIN_QUOTE
+Hymn 13 To Demeter translated by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+I begin to sing of rich-haired Demeter, awful goddess, of her and of her daughter lovely Persephone.
+
+Hail, goddess! Keep this city safe, and govern my song.

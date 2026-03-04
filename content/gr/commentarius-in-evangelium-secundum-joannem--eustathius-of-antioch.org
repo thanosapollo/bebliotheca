@@ -1,0 +1,20 @@
+#+TITLE: ΛΟΓΟΣ ΚΑΤΑ ΙΩΑΝΝΗΝ
+#+AUTHOR: Εὐστάθιος Ἀντιοχείας
+#+FILETAGS: :patristic:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/gr/commentarius-in-evangelium-secundum-joannem--eustathius-of-antioch
+#+LANGUAGE: el
+
+* ΛΟΓΟΣ ΚΑΤΑ ΙΩΑΝΝΗΝ
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+82 Ὑποτάττει καὶ μᾶλλον κυροῖ ὑπὲρ τὸ ἑαυτοῦ ὁ Χριστὸς τὸ τοῦ Πατρὸς
+θέλημα, ἐν διαφόροις τόποις· οὐχ ὅτι θέλημα ἦν ἐν αὐτῷ δεόμενον καταλύσεως οὔτε
+θεϊκὸν οὔτε μὴν τὸ τῆς αὐτοῦ ἀνθρωπήσεως (καθάπερ ἂν γὰρ τὴν φύσιν καὶ τὰ τῆς
+φύσεως ἀπειργάσατο)· ἀλλὰ πρὸς Ἰουδαίους λαλῶν τοὺς νομίζοντας αὐτὸν ἀντίθεον
+τοῦ Πατρὸς εἶναι, οἰκονομικῶς ταῦτα ἔφασκε λέγων ὅτι· οὐ ζητῶ τὸ θέλημα τὸ ἐμὸν
+ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με Πατρός.

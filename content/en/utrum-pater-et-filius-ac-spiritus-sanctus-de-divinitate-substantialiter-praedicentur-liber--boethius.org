@@ -1,0 +1,7 @@
+#+TITLE: Untitled
+#+AUTHOR: Unknown
+#+FILETAGS: :patristic:6c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/utrum-pater-et-filius-ac-spiritus-sanctus-de-divinitate-substantialiter-praedicentur-liber--boethius

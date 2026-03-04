@@ -1,0 +1,6627 @@
+#+TITLE: Pseudolus, or The Cheat
+#+AUTHOR: Plautus
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/pseudolus-or-the-cheat--t-maccius-plautus
+
+#+BEGIN_QUOTE
+Pseudolus, or The Cheat translated by Henry Thomas Riley
+#+END_QUOTE
+
+* front
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Dramatis Personae
+
+SIMO, an old gentleman of .
+CALIDORUS, his son, in love with Phœnicium.
+CHARINUS, the friend of Calidorus.
+CALLIPHO, the friend of Simo.
+PSEUDOLUS, the servant of Simo.
+BALLIO, a procurer, the owner of Phœnicium.
+HARPAX, the servant of Polymachaeroplagides.
+SIMMIA, the Cheat, a servant of Charinus.
+A COOK.
+A BOY, servant of Ballio.
+POENICIUM [mute], beloved by Calidorus.
+SLAVES of Ballio.
+
+(Scene—Athens. The house of BALLIO is on one side of the Street, that of SIMO on the other.)
+
+THE SUBJECT.
+CALIDORUS, a young Athenian, the son of Simo, is in love with Phœnicium, a young woman who belongs to Ballio, a procurer. A bargain has been made by the procurer, to sell her to a military officer for twenty minae; fifteen of these have been paid down, and it has been agreed that when the remaining five and a certain token, with a letter, shall have been sent by the Captain, the damsel shall be sent to him in return. Pseudolus, the servant of Simo, promises his master’s son, that, if possible, he will prevent this. They first address Ballio on the subject; but their attempts to influence him are all in vain. Pseudolus then devises a plan to get some money out of Simo, by whom, however, it is discovered; but, after having acknowledged his fault, he prevails upon the old gentleman to promise him twenty minae if he shall contrive to get the girl out of the procurer’s hands. Harpax, the messenger from the Captain, in the meantime makes his appearance. Being a stranger to the place, he unwittingly delivers the Captain’s letter and the token to Pseudolus, who pretends that he is the head-servant of the procurer. Charinus, the friend of Calidorus, lends him five minae; and, provided with this, Pseudolus equips Simmia, a servant of Charinus, so as to represent the messenger from the Captain. He finds the procurer, delivers the letter, pays the five mine, and carries off the damsel. Ballio then makes a bet of twenty minae with Simo, that Pseudolus shall not outwit him that day. The real Harpax now applies to Ballio for the girl, and the trick being discovered, the procurer has to pay back the fifteen minae to the Captain, and the twenty for the bet which he has made with Simo. Simo then pays the twenty minae, which he has promised to Pseudolus if he should succeed in outwitting the procurer. Pseudolus is handsomely entertained by Calidorus, and engages to return to Simo one-half of the money, if he wil join the entertainment.
+
+THE ACROSTIC ARGUMENT.
+An officer pays down fifteen mine, ready money (Prœsentes); as a token he also (Simul) gives an impression of his seal, that the procurer may deliver Phœnicium to him (Ei), who brings it with the rest of the money. Pseudolus intercepts his camp-servant coming (Venientem) with the token, saving (Dicens), that he is Syrus, the servant of Ballio, and thus he gives his aid (Opem) to his master; for the procurer (Leno) delivers up the damsel to Simmia, whom he has substituted. The real Harpax comes (Venit); the matter is all discovered, and the old man (Senex) pays the money which he has agreed to give.
+
+* prologue
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+* pr
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+* 0
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** PROLOGUEThe Prologue: It is generally supposed that this Prologue, with the exception of the last two lines, was not written by Plautus it is, however, of grest antiquity, and is found in most of the MSS.
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+ATTEND to me this day; good things I bring upon the stage; for I think ’tis very just that to the good good things should be brought; as likewise bad things to the bad; that those who are bad may have what’s bad, those who are good what’s good; bad men are bad because they hate the good; because the good contemn the bad, needs must be that they are good; and therefore, you are good since you have ever abhorred the bad; and both by your laws, Quirites, and by your legions, have you routed them with good success. In like manner now do you give your goodly attention to this goodly company, which is a good one, and. to good people brings this day good things. Ears, eyes, and understanding, shall be amply filled. He that comes hungry or thirsty to the theatre, the same shall carefully give his attention both through laughter and a sharpened stomach; while those who are full will laugh, the hungry will be carping. Now, if you are wise, you hungry ones, give place, and go away; you who are full, stand—aye, sit you down, and give attention. I shall not now divulge the plot, nor yet the name of this play—Pseudolus will fully do that. I imagine then and I think that this is enough which I have said to you. Where mirth, jokes, laughter, wine, and jollity, are the order of the day, the Graces, too, and propriety, joyousness, and delight; he who seeks for other things, that person appears to seek for evil. Away, then, with evil cares, as being men at your ease this day.
+’Tis better for your loins to be stretched, and for you to arise. A long play of Plautus is coming upon the stage.
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+(Enter CALIDORUS and PSEUDOLUS from SIMO’S house.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+If, master, by your being silent, I could be informed what miseries are afflicting you so sadly,
+I would willingly have spared the trouble of two persons—of myself in asking you, and of yourself in answering me. Since, however, that cannot be, necessity compels me to enquire of you. Answer me: What’s the reason that, out of spirits for these many days past,
+you’ve been carrying a letter about with you, washing it with your tears, and making no person the sharer of your purpose? Speak out, that what I am ignorant of, I may know together with yourself.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h2
+:END:
+
+I am wretchedly miserable, Pseudolus.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h3
+:END:
+
+May Jupiter forbid it!
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h4
+:END:
+
+This belongs not at all to the arbitration of Jupiter;
+under the sway of Venus  am I harassed, not under that of Jove.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h5
+:END:
+
+Is it allowable for me to know what it is? For hitherto you have had me as chief confidant in your plans.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h6
+:END:
+
+The same is now my intention.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h7
+:END:
+
+Let me know then what’s the matter with you. I’ll aid you either with resources, or with my efforts, or with good counsel.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h8
+:END:
+
+Do you take this letter: do you thence inform yourself what misery and what care are wasting me away.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h9
+:END:
+
+(taking the letter.)
+Compliance shall be given you. But, prithee, how’s this?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h10
+:END:
+
+What’s the matter?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h11
+:END:
+
+As I think, these letters are very loving; they are climbing on each other’s backs.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h12
+:END:
+
+Are you making sport of me with your foolery?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h13
+:END:
+
+I’ faith, I really do believe that unless the Sibyl  can read them, nobody else can possibly interpret them.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h14
+:END:
+
+Why speak you unkindly of those sweet letters— sweet tablets too, written upon by a hand as sweet.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h15
+:END:
+
+Troth now, have hens, prithee, such hands?
+For certainly a hen has written these letters.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h16
+:END:
+
+You are annoying me. Either read it or return the letter.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h17
+:END:
+
+Very well then, I’ll read it through. Give me your attention.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h18
+:END:
+
+That’s not here.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h19
+:END:
+
+Do you summon it then.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h20
+:END:
+
+Well, I’ll be silent; do you summon it from that wax there ; for there my attention is at present, not in my breast.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h21
+:END:
+
+I see your mistress, Calidorus.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h22
+:END:
+
+Where is she, prithee?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h23
+:END:
+
+See, here she is at full length in the letter; she’s lying upon the wax.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h24
+:END:
+
+Now, may the Gods and Goddesses, inasmuch—
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h25
+:END:
+
+Preserve me from harm, to wit.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h26
+:END:
+
+For a short season have I been like a summer plant ; suddenly have I sprung up, suddenly have I withered.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h27
+:END:
+
+Be silent, while I read the letter through.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h28
+:END:
+
+Why don’t you read it then?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h29
+:END:
+
+(reading.)
+/Phœnicium to her lover, Calidorus, by means of wax and string and letters, her exponents, sends health, and safety does she beg Safety does she beg: The writer plays upon the different meanings of the word sarus. She sends you salus, greeting or salutation, and requests you to find her salus, safety or rescue, in return. of you, weeping, and with palpitating feelings, heart, and breast./
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h30
+:END:
+
+I’m undone; I nowhere find, Pseudolus, this safety for me to send her back.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h31
+:END:
+
+What safety?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h32
+:END:
+
+A silver one.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h33
+:END:
+
+And do you wish to send her back a silver safety for one on wood ? Consider what you’re about.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h34
+:END:
+
+Read on now; I’ll soon cause you to know from the letter
+how suddenly there’s need for me for one of silver to be found.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h35
+:END:
+
+(reading on.)
+/The procurer has sold me, my love, for twenty minae, to a Macedonian officer from abroad. Before he departed hence, the Captain paid him fifteen minae; only five minae now are remaining unpaid./
+/On that account the Captain left here a token—his own likeness impressed on wax by his ring—that he who should bring hither a token like to that, together with him the procurer might send me. The next day hence, on the Festival of Bacchus Festival of Bacchus: Dionysia. There were several festivals of Bacchus at Athens. They were called Dionysia from Dionysus, the Greek same of that God., is the one fixed for this matter./
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h36
+:END:
+
+Well, that’s to-morrow;
+my ruin is near at hand, unless I have some help in you.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h37
+:END:
+
+Let me read it through.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h38
+:END:
+
+I permit you; for I seem to myself to be talking to her. Read on; the sweet and the hitter are you now mingling together for me.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h39
+:END:
+
+(reading on.)
+/Now our loves, our tenderness, our intimacy,/
+/our mirth, our dalliance, our talking, our sweet kisses, the close embrace of us lovers equally fond, the soft, dear kisses impressed on our tender lips, the delicious pressing of the swelling bosom; of all these delights, I say, for me and for you as well,/
+/the severance, the destruction, and the downfal is at hand, unless there is some rescue for me in you or for you in me. I have taken care that you should know all these things that I have written; now shall I make trial how far you love me, and how far you pretend to do so./
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h40
+:END:
+
+’Tis written, Pseudolus, in wretchedness.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h41
+:END:
+
+Alas! very wretchedly .
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h42
+:END:
+
+Why don’t you weep, then?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h43
+:END:
+
+I’ve eyes of pumice stone ; I can’t prevail upon them to squeeze out one tear even.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h44
+:END:
+
+Why so?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h45
+:END:
+
+My family was always a dryeyed one.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h46
+:END:
+
+Won’t you attempt to assist me at all?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h47
+:END:
+
+What shall I do for you?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h48
+:END:
+
+Alas!
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h49
+:END:
+
+Alas! do you say? Well, don’t be sparing of them, i’ faith; I’ll give you plenty.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h50
+:END:
+
+I’m distracted. I nowhere can find any money to borrow.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h51
+:END:
+
+Alas!
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h52
+:END:
+
+Nor is there a single coin in the house.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h53
+:END:
+
+Alas!
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h54
+:END:
+
+He’s going to carry the damsel away to-morrow.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h55
+:END:
+
+Alas!
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h56
+:END:
+
+Is it in that fashion that you help me?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h57
+:END:
+
+I give you that which I have; for I’ve a perpetual supply of those treasures  in my house.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h58
+:END:
+
+It’s all over with me this very day. But can you now lend me one drachma, which I’ll pay you back to-morrow
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h59
+:END:
+
+I’ faith, I hardly think I could, even though I should pawn myself for it. But what do you want to do with this drachma?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h60
+:END:
+
+I want to purchase a halter for myself.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h61
+:END:
+
+For what reason?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h62
+:END:
+
+With which to hang myself.
+I’m determined, ere ’tis dark, to take  a leap in the dark.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h63
+:END:
+
+Who then shall pay me back my drachma * * * * ? Do you wish purposely to hang yourself for the very reason, that you may cheat mo out of my drachma if I lend it you?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h64
+:END:
+
+At all events, I can in nowise survive
+if she’s removed and carried off from me.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h65
+:END:
+
+Why do you weep, you cuckoo ? You shall survive.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h66
+:END:
+
+Why should I not weep, who have neither a coin of silver in ready money, nor have the hope of a groat  anywhere in the world?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h67
+:END:
+
+As I understand the tenor of this letter,
+unless you weep for her with tears of silver, the affection which you wish yourself by those tears to prove is of no more value than if you were to pour water into a sieve. But have no fear, I’ll not forsake you in your love. In troth, I do trust that this day, from some quarter or other, by my good aid
+I shall find you help in the money line. But whence that is to come,—that whence I know not how to pronounce; except only that so it shall be; my eyebrow twitches  to that effect.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h68
+:END:
+
+As to what you say, I trust that your deeds may be as good as your words.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h69
+:END:
+
+I’ faith, you surely know, if I set my plans a-going ,
+after what fashion and how great is the bustle that I am in the habit of causing.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h70
+:END:
+
+In you are now centred all the hopes of my existence.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h71
+:END:
+
+Is it enough, if I this day make this damsel to be yours, or if I find you twenty minae?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h72
+:END:
+
+’Tis enough, if so it is to be.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h73
+:END:
+
+Ask of me twenty minae,
+that you may be assured that I’ll procure for you that which I have promised. Ask them of me, by my troth, prithee do; I long to make the promise.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h74
+:END:
+
+Will you this day find me twenty minae of silver?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h75
+:END:
+
+I will find them; be no more troublesome to me then. And this I tell you first, that you mayn’t deny that it was told you;
+if I can no one else, I’ll diddle your father out of the money.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h76
+:END:
+
+So far as filial affection is concerned, even my mother as well. May the Gods always preserve you for me. But what if you are not able?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h77
+:END:
+
+Upon that matter do you go to sleep with either eye.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h78
+:END:
+
+With the eye or with the ear ?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h79
+:END:
+
+The latter is too common an expression.
+Now, that no one may affirm that it wasn’t told him, I tell you all (to the AUDIENCE), in the presence of the youths in this audience, and of all the people, to all my friends and all my acquaintances I give notice, that for this day they must guard against me, and not trust me.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h80
+:END:
+
+Hist! be silent, prithee, by all the powers!
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h81
+:END:
+
+What’s the matter?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h82
+:END:
+
+There was a noise at the procurer’s door.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h83
+:END:
+
+I could only wish it were his legs in preference.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h7-h84
+:END:
+
+Yes, and he himself is coming out from in-doors, the perjured scoundrel.
+(They stand at a distance.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+* 133
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+(Enter BALLIO, with several MALE and FEMALE SLAVES, from his house.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+Get out, come, out with you, you rascals, kept at a loss and bought at a loss, in the minds of not one of whom aught ever comes to do aright,
+of whom I can’t make a bit of use, unless I try it after this fashion. (He flogs the men all round.) At no time did I ever see human beings more like asses; so hardened are your ribs with stripes; when you flog them, you hurt yourself the most. Of such a disposition are these whipping-posts who follow this line of conduct; when the opportunity is given, pilfer, purloin , prig, plunder, drink, eat, and run away’s the word. This
+is their method, so that you would choose rather to leave wolves among sheep, than these fellows on guard in your house. Yet, when you look at their appearance, they don’t seem amiss; by their doings they deceive you. Now, therefore, unless you all of you give your attention to this charge, unless you remove drowsiness and sloth from your breasts and eyes,
+I’ll make your sides to be right thoroughly marked with thongs, so much so that not even Campanian coverlets are coloured as well, nor yet Alexandrian tapestry  of purple embroidered with beasts all over. Even yesterday I already gave you all notice, and assigned to each his own respective employment; but so utterly worthless are you, so neglectful, of such stubborn dispositions,
+that you compel me to put you in mind of your duty with a basting. You are so minded I suppose, to get the better of this scourge and myself through the hardness of your hides. Never, i’ faith, will your hides prove harder, than is this cow-hide of mine. (He dangles it before them.) Do look at that, please; they are minding other matters. Attend to this, and give heed to this.
+(He flogs one of them.) How now? Does it pain? Ah, that’s the way it’s laid on when any slave slights his master. Stand all of you before me, you race of mortals born to be thrashed; turn your ears this way; give attention all of you to what I say. You fellow who are holding the pitcher, do you fetch the water; do you take care that the cauldron’s full this instant. You, with the axe, I appoint over the wood-cutting department.
+
+** SLAVES of Ballio.
+:PROPERTIES:
+:CUSTOM_ID: h9-h2
+:END:
+
+But this one is blunted on the edge.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h9-h3
+:END:
+
+Let it be so, then. And so are you yourselves with stripes;
+yet am I for that reason any the less to enjoy your services? My orders I give to you, that the house be made clean. You have what you are to do; make haste, and go in-doors. (Exit FIRST SLAVE.) Be you the one that makes the couches smooth . Do you wash the plate clean, and arrange it in order as well, Take care that when I return from the Forum, I find things done; that all be swept, sprinkled, scoured, made smooth, cleaned, and arranged in order.
+For this day is my birthday; it befits you all to celebrate it. Take care to lay the gammon of bacon, the brawn, the collared neck, and the udder, in water; do you hear me? I wish to entertain tip-top men in first-rate style, that they may fancy that I have property. Go you in-doors, and get these things ready quickly, that there may be no delay when the cook comes. I’m going to market, that I may make purchase of whatever fish is there.
+Boy, go you before me; I must have a care that no one cuts away my purse. Or wait there; there’s something that I had almost forgotten to say at home. Do you hear me, you women? I have this charge for you—you, misses of distinction, who spend your time with illustrious men in refinements, luxury, and delights; now shall I know and make trial this day,
+which one has regard for her liberty , which for her appetite which thinks on her business, which on sleeping only: this day I’ll make trial which I must think of as a freed-woman, and which as one to be sold. Take you care that many a present from your lovers comes in for me this day; for if your year’s board isn’t picked up for me, to-morrow I’ll turn you adrift on the public. You know that this is my birthday; where are those youths, the apples of whose eyes you are,
+whose very existence, whose delight you are? Where are your kisses, where your bosoms sweet as honey? Make the bearers of presents to come here then, for my sake, before this house, in whole regiments . Why am I to find clothes for you, gold trinkets, and those things which you need? What have I, you jades, through your means, except vexation, you women, eager for nothing but the wine? You are a-soaking away yourselves and your paunches too, at the very time that I’m here a-dry.
+Now, therefore, this is the best thing to do; for me to call you each by her name, that no one of you may be declaring to me by-and-by that her business hasn’t been told her. Give attention, all of you. In the first place, Hedylium, my business is with you—you, who are the favorite of the corn-merchants, men who have, all of them, immense mountains of wheat piled up at home;
+take you care that wheat is brought here for me, to suffice this year to come for myself and all my household, and that I may so abound in corn that the city may change my name for me, and instead of the procurer Ballio proclaim me King lasions .
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h4
+:END:
+
+(apart.)
+Do you hear what the gallows-bird is saying?  [lost]  Doesn’t he seem a regular boaster to you?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h5
+:END:
+
+(apart.)
+I’ troth the fellow does, and a wicked one  as well. But hush now, and give attention to this.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h9-h6
+:END:
+
+Aeschrodora, you who have for your patrons the butchers, those rivals of the procurers, who, just like ourselves, by false oaths seek their gains, do you listen; unless the three larders shall be crammed for me this day with carcases of ample weight, to-morrow, just as they say that formerly the two sons of Jupiter fastened Dirce
+to the bull, aye, this day as well, will I tie you up to the larder; that, in fact, shall be your bull.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h7
+:END:
+
+(apart.)
+I’m quite enraged by the talk of this fellow;
+that we should suffer the youth of Attica to encourage here  this fellow! Where are they—where are they skulking, they of mature age, who have their amorous dealings with this procurer? Why don’t they meet? Why don’t they one and all deliver the public from this pestilence?
+But I am very simple, and very ignorant; they would venture, of course, to do that to those, to whom their passions compel them, to their misfortune, to be subservient, and, at the same time, prevent them from doing that against them which they would rather wish to do.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h8
+:END:
+
+(apart.)
+Hush!
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h9
+:END:
+
+(apart.)
+What’s the matter?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h10
+:END:
+
+(apart.)
+Pshaw! you are not very obliging. Why are you drowning his talk  by your noise?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h11
+:END:
+
+(apart.)
+I’ll be silent.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h12
+:END:
+
+(apart.)
+But I’d much rather you would be silent, than that you should say you will be silent.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h9-h13
+:END:
+
+And you,
+Xystilis, take you care and give me your attention—you whose fanciers have large quantities of oil at home. If oil shall not be brought me here forthwith in leathern bags, I’ll to-morrow cause yourself to be carried off in a leathern bag to the prostitutes’ shambles .
+There a bed shall be given you, I warrant, where you can have no rest, but where, even to downright fainting— You understand what’s the tendency of that which I’m saying? Will you tell me, you viper you, you who have so many of your fanciers so right well laden with their oil,
+is now the head of any one of your fellow-slaves a bit the better anointed by your means, or do I, myself, get my dainty morsels a bit the better seasoned with oil  for it? But I understand— you don’t care much about oil; with wine you anoint yourself. Only wait a bit; by my troth I’ll punish you for all at one spell, unless indeed this day you contrive to manage all these things that I’ve been speaking of.
+But as for you, Phœnicium, I tell you this, you pet of the mighty men—you who have been for so long a time always paying down to me your money for your liberty—you who only know how to promise, but don’t know how to pay what you have promised; unless this day all your keep is brought me here out of the stores of your customers, to-morrow, Phœnicium, with a true Phœnician hide , you’ll pay a visit to the strumpets’ shambles. (The SLAVES go into the house of BALLIO.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+* 230
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+(CALIDORUS and PSEUDOLUS come forward. BALLIO stands near his door.)
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h1
+:END:
+
+Pseudolus, don’t you hear what he says?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h2
+:END:
+
+I hear it, master, and I give good heed.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h3
+:END:
+
+What do you advise me to send him, that he mayn’t devote my mistress to dishonor?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h4
+:END:
+
+Don’t you trouble yourself about that; be of cheerful mind. I’ll manage for myself and for you. For some time past I’ve been on terms of goodwill with him, and he with me; and our friendship is of old standing. I’ll send him this day, on his birthday, a mischief heavy and well-matured.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h5
+:END:
+
+What’s the plan?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h6
+:END:
+
+Can’t you attend to something else?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h7
+:END:
+
+But—
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h8
+:END:
+
+Tut.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h9
+:END:
+
+I’m distracted.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h10
+:END:
+
+Harden your heart.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h11
+:END:
+
+I cannot.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h12
+:END:
+
+Make yourself to can.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h13
+:END:
+
+By what means, pray, can I prevail upon my feelings?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h14
+:END:
+
+Carry you out that which is to your advantage, rather than give heed with your feelings to the thing that’s disadvantageous.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h15
+:END:
+
+That’s nonsense; there is no pleasure, unless a lover acts like a fool.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h16
+:END:
+
+Do you persist?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h17
+:END:
+
+O my dear Pseudolus, let me be undone—do let me, please.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h18
+:END:
+
+I’ll let you; only let me go. (Going.)
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h19
+:END:
+
+Stay, stay. As you shall, then, wish me to be, so will I be.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h20
+:END:
+
+Now, at last, you are in your senses.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h21
+:END:
+
+(coming forward from the door of his house to the other side of the stage.)
+The day is passing; I’m causing delay to myself. Boy, do you go before me. (Moves as if going.)
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h22
+:END:
+
+Hallo there! he’s going; why don’t you call him back?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h23
+:END:
+
+Why in such a hurry? Gently.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h24
+:END:
+
+But before he’s gone.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h25
+:END:
+
+Why the plague do you go so slowly, boy?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h26
+:END:
+
+You born on this day, hallo! you born on this day; I’m calling to you; hallo! you born on this day, come you back and look at us. Although you are busy,
+we want you; stop—it’s because some persons want to speak to you.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h27
+:END:
+
+What’s this? Who is it, when I’m busy, causes me unseasonable delay?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h28
+:END:
+
+He that has been your supporter.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h29
+:END:
+
+He’s dead that has been; only he that is, is now alive.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h30
+:END:
+
+You are too saucy.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h31
+:END:
+
+You are too troublesome. (Turns away to go on.)
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h32
+:END:
+
+Seize the fellow: follow him up.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h33
+:END:
+
+Go on, boy.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h34
+:END:
+
+Let’s go and meet him this way. (They run and stand before him.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h35
+:END:
+
+May Jupiter confound you, whoever you are.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h36
+:END:
+
+That for yourself I wish.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h37
+:END:
+
+And for both of you do I. Turn you this way, boy. (Takes another direction.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h38
+:END:
+
+May we not speak with you?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h39
+:END:
+
+Why, it doesn’t please me.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h40
+:END:
+
+But if it’s something to your advantage?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h41
+:END:
+
+Am I allowed to go away, pray, or am I not?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h42
+:END:
+
+Pshaw!
+Stop. (Catches hold of him.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h43
+:END:
+
+Let me go.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h44
+:END:
+
+Ballio, listen.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h45
+:END:
+
+I’m deaf.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h46
+:END:
+
+Really, you are uncivil.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h47
+:END:
+
+You are a chatterer of nonsense.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h48
+:END:
+
+I gave you money so long as I had it.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h49
+:END:
+
+I’m not asking what you gave.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h50
+:END:
+
+I’ll give you some when I have it.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h51
+:END:
+
+When you have it, bring it to me .
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h52
+:END:
+
+Alas, alas! In what a foolish fashion have I lavished what I brought to you, and what I gave you.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h53
+:END:
+
+Your wealth defunct,
+you now are talking about it; you are a simpleton, a cause that has been tried you are trying over again.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h54
+:END:
+
+At least consider him, who he is.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h55
+:END:
+
+I’ve known for a long time now who he was; who he now is, let him know himself. Do you walk on (to the BOY).
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h56
+:END:
+
+And can’t you, Ballio, only once give a look this way for your own profit?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h57
+:END:
+
+At that price I’ll give a look; for if I were sacrificing to supreme Jupiter, and were presenting  the entrails in my hands to lay them on the altar, if in the meanwhile anything in the way of profit were offered, I should in preference forsake the sacrifice. There’s no being able to resist that sort of piety, however other things go.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h58
+:END:
+
+(aside.)
+The very Gods, whom it is especially our duty to reverence—them he esteems of little value.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h59
+:END:
+
+I’ll speak to him. Hail to you, right heartily, the very vilest slave in Athens.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h60
+:END:
+
+May the Gods and Goddesses favour you, Ballio, both at his wish and at my own; or, if you are deserving of other terms, let them neither favour nor bless you.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h61
+:END:
+
+What’s the matter, Calidorus?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h62
+:END:
+
+Love and pinching want  are the matter.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h63
+:END:
+
+I would pity you, if, upon pity I could support my establishment.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h64
+:END:
+
+Aye, aye, we know you quite well, what sort of character you are; don’t be proclaiming it. But do you know what we want?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h65
+:END:
+
+I’ faith, I know it pretty nearly; that there may be something unfortunate for me.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h66
+:END:
+
+Both to that and this for which we called you back, prithee do give your attention.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h67
+:END:
+
+I am attending; but compress into a few words what you want, as I’m busy now.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h68
+:END:
+
+He (pointing to CALIDORUS) is quite ashamed about what he promised you, and the day for which he promised it,
+that he hasn’t even yet paid you those twenty minae for his mistress.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h69
+:END:
+
+That which we are ashamed at is much more easily endured than that which we are vexed at. At not having paid the money, he is ashamed; I, because I have not received it, am vexed.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h70
+:END:
+
+Still, he’ll pay it, he’ll procure it; do you only wait some days to come. But he has been afraid of this, that you’ll sell her on account of his embarrassment.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h71
+:END:
+
+He had an opportunity, had he wished, of paying the money long ago.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h72
+:END:
+
+What if I had it not?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h73
+:END:
+
+If you had been in love, you would have found it on loan. You would have gone to the usurer ; you would have paid the interest; or else you would have pilfered it from your father.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h74
+:END:
+
+Ought he to have pilfered it from his father, you most shameless villain? There is no fear that you’ll point out to him anything that’s right.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h75
+:END:
+
+That’s not like a procurer.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h76
+:END:
+
+And could I possibly pilfer anything from my father, an old man so much on his guard? And besides, if I could do so, filial affection forbids.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h77
+:END:
+
+I understand you; do you then at night embrace filial affection in place of Phœnicium. But since I see you prefer your filial affection to your love—are all men your fathers? Is there no one for you to ask
+to lend you some money?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h78
+:END:
+
+Why, the very name of lending’s dead and gone by this.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h79
+:END:
+
+Look you now; since, i’ faith , those fellows arose from the banker’s table, with a filled skin, who, when they called in their own, paid what they had borrowed to no born creature, since then, I say, all people have been more cautious not to trust another.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h80
+:END:
+
+Most wretched am I; nowhere am I able to find a coin of silver;
+so distractedly am I perishing both through love and want of money.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h81
+:END:
+
+Buy oil on credit , and sell it for ready money; then, i’ faith, even two hundred minae ready money might be raised.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h82
+:END:
+
+There I’m done; the twenty-five year old law  founders me. All are afraid to trust me.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h83
+:END:
+
+The same law  have I. I’m afraid to trust you.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h84
+:END:
+
+To trust him, indeed! How now, do you repent of the great profit he has been to you?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h85
+:END:
+
+No lover is a profitable one, except him who keeps continually making presents. Either let him be always giving, or when he has nothing, let him at the same time cease to be in love.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h86
+:END:
+
+And don’t you pity me at all?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h87
+:END:
+
+You come empty-handed; words don’t chink. But I wish you life and health.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h88
+:END:
+
+Heyday! Is he dead already?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h89
+:END:
+
+However he is, to me indeed, at all events, with these speeches, he is dead. Then, does a lover really live, when he comes begging to a procurer? Do you always come to me with a complaint that brings  its money. As for that, which you are now lamenting about, that you have got no money, complain of it to your stepmother .
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h90
+:END:
+
+Why, have you ever been married to his father, pray?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h91
+:END:
+
+May the Gods grant better things.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h92
+:END:
+
+Do what we ask you, Ballio, on my credit, if you are afraid to trust him. Within the next three days, from some quarter, in some way, either by land or sea, I’ll rout up this money for you.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h93
+:END:
+
+I, trust you?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h94
+:END:
+
+Why not?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h95
+:END:
+
+Because, i’ faith, on the same principle that I trust you, on that principle I should tie a run-away dog to a lamb’s fry.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h96
+:END:
+
+Is the obligation thus ungratefully returned by you to me, who have deserved so well of you?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h97
+:END:
+
+What do you want now?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h98
+:END:
+
+That you will only wait these six days of the Feast, and will not sell her or prove the death of the person who loves her.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h99
+:END:
+
+Be of good courage; I’ll wait six months even.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h100
+:END:
+
+Capital—most delightful man!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h101
+:END:
+
+Aye; and do you wish, too, that from joyful I should make you even more joyous?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h102
+:END:
+
+How so?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h103
+:END:
+
+Why, because I’ve got no Phœnicium to sell.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h104
+:END:
+
+Not got her?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h105
+:END:
+
+I’ faith, not I, indeed.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h106
+:END:
+
+Pseudolus, go fetch the sacrifice, the victims, the sacrificers , that I may make offering to this supreme Jove. For this Jupiter is now much more mighty to me than is Jupiter himself.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h107
+:END:
+
+I want no victims; with the entrails of minae  I wish to be appeased.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h108
+:END:
+
+(to PSEUDOLUS.)
+Make haste. Why do you hesitate? Go fetch the lambs; do you hear what Jupiter says?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h109
+:END:
+
+I’ll be here this moment; but first I must run as far as beyond the gate .
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h110
+:END:
+
+Why thither?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h111
+:END:
+
+I’ll fetch two sacrificers thence, with their bells; at the same time I’ll fetch thence two bundles of elm twigs, that this day a sufficiency may be provided for the sacrifice to this Jove.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h112
+:END:
+
+Away to utter perdition .
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h113
+:END:
+
+Thither shall the pimping Jupiter go.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h114
+:END:
+
+It isn’t for your interest that I should die.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h115
+:END:
+
+How so?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h116
+:END:
+
+This way; because, if I’m dead, there will be no one worse than yourself in Athens. For your interest (to CALIDORUS) it is that I should die.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h117
+:END:
+
+How so?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h118
+:END:
+
+I’ll tell you; because, i’ faith, so long as I shall be alive, you’ll never be a man well to do.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h119
+:END:
+
+Troth now, prithee, in serious truth, tell me this that I ask you—have you not got my mistress, Phœnicium, on sale?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h120
+:END:
+
+By my faith, I really have not; for I’ve now sold her already.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h121
+:END:
+
+In what way?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h122
+:END:
+
+Without her trappings, with all her inwards .
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h123
+:END:
+
+What? Have you sold my mistress?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h124
+:END:
+
+Decidedly; for twenty minae.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h125
+:END:
+
+For twenty minae?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h126
+:END:
+
+Or, in other words, for four times five minae, whichever you please, to a Macedonian Captain; and I’ve already got fifteen of the minae at home.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h127
+:END:
+
+What is it that I hear of you?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h128
+:END:
+
+That your mistress has been turned into money.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h129
+:END:
+
+Why did you dare to do so?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h130
+:END:
+
+’Twas my pleasure; she was my own.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h131
+:END:
+
+Hallo! Pseudolus. Run, fetch me a sword.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h132
+:END:
+
+What need is there of a sword?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h133
+:END:
+
+With which to kill this fellow this instant, and then myself.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h134
+:END:
+
+But why not kill yourself only rather? For famine will soon be killing him.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h135
+:END:
+
+What do you say, most perjured of men as many as are living upon the earth? Did you not take an oath that you would sell her to no person besides myself?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h136
+:END:
+
+I confess it.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h137
+:END:
+
+In solemn form , to wit.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h138
+:END:
+
+Aye, and well considered too.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h139
+:END:
+
+You have proved perjured, you villain.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h140
+:END:
+
+I sacked the money at home, however.
+Villain as I am, I am now able to draw upon a stock of silver in my house; whereas you who are so dutiful, and born of that grand family, haven’t a single coin.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h141
+:END:
+
+Pseudolus, stand by him on the other side and load this fellow with imprecations.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h142
+:END:
+
+Very well. Never would I run to the Praetor  with equal speed that I might be made free. (Stands on the other side of BALLIO.)
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h143
+:END:
+
+Heap on him a multitude of curses.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h144
+:END:
+
+Now will I publish you with my rebukes.
+Thou lackshame!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h145
+:END:
+
+’Tis the fact.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h146
+:END:
+
+Villain!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h147
+:END:
+
+You say the truth.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h148
+:END:
+
+Whipping-post!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h149
+:END:
+
+Why not?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h150
+:END:
+
+Robber of tombs!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h151
+:END:
+
+No doubt.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h152
+:END:
+
+Gallows-bird!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h153
+:END:
+
+Very well done.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h154
+:END:
+
+Cheater of your friends!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h155
+:END:
+
+That’s in my way.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h156
+:END:
+
+Parricide!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h157
+:END:
+
+Proceed, you.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h158
+:END:
+
+Committer of sacrilege!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h159
+:END:
+
+I own it.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h160
+:END:
+
+Perjurer!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h161
+:END:
+
+You’re telling nothing new .
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h162
+:END:
+
+Lawbreaker!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h163
+:END:
+
+Very much so.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h164
+:END:
+
+Pest of youth!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h165
+:END:
+
+Most severely said.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h166
+:END:
+
+Thief!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h167
+:END:
+
+Oh! wonderful!
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h168
+:END:
+
+Vagabond!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h169
+:END:
+
+Pooh! pooh !
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h170
+:END:
+
+Defrauder of the public!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h171
+:END:
+
+Most decidedly so.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h172
+:END:
+
+Cheating scoundrel!
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h173
+:END:
+
+Filthy
+pander!
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h174
+:END:
+
+Lump of filth!
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h175
+:END:
+
+A capital chorus.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h176
+:END:
+
+You beat your father and mother.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h177
+:END:
+
+Aye, and killed them, too, rather than find them food; did I do wrong at all?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h178
+:END:
+
+We are pouring our words into a pierced cask : we are losing our pains.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h179
+:END:
+
+Would you like to call me anything else besides?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h180
+:END:
+
+Is there anything that shames you?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h181
+:END:
+
+Yes; that you have been found to be a lover as empty as a rotten nut. But although you have used towards me expressions many and harsh, unless the Captain shall bring me this day the five minae that he owes me, as this was the last day appointed for the payment of that money,
+if he doesn’t bring it, I think that I am able to do my duty.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h182
+:END:
+
+What is that duty?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h183
+:END:
+
+If you bring the money, I’ll break faith with him; that’s my duty. If it were more worth my while, I would talk further with you. But, without a coin of money, ’tis in vain that you request me to have pity upon you. Such is my determination; but do you, from this, consider what you have henceforth to do? (Moves.)
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h184
+:END:
+
+Are you going then?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h11-h185
+:END:
+
+At present I am full of business. (Exit.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h186
+:END:
+
+Before long you’ll be more so. That man is my own, unless all Gods and men forsake me. I’ll bone him just in the same fashion that a cook does a lamprey . Now, Calidorus, I wish you to give me your attention.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h187
+:END:
+
+What do you bid me do?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h188
+:END:
+
+I wish to lay siege to this town, that this day it may be taken.
+For that purpose, I have need of an artful, clever, knowing, and crafty fellow, who may despatch out of hand what he is ordered, not one to go to sleep upon his watch.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h189
+:END:
+
+Tell me, then, what you are going to do?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h190
+:END:
+
+In good time I’ll let you know. I don’t care for it to be repeated twice; stories are made too long that way.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h191
+:END:
+
+You plead what’s very fair and very just.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h192
+:END:
+
+Make haste; bring the fellow hither quickly.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h193
+:END:
+
+Out of many, there are but few friends that are to be depended upon by a person.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h194
+:END:
+
+I know that; therefore, get for yourself now a choice of both, and seek out of these many one that can be depended upon.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h195
+:END:
+
+I’ll have him here this instant.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h196
+:END:
+
+Can’t you be off then? You create delay for yourself by your talking. (Exit CALIDORUS.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+* 394
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+(PSEUDOLUS, alone.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h1
+:END:
+
+Since he has gone hence, you are now standing alone, Pseudolus.
+What are you to do now, after you have so largely promised costly delights to your master’s son by your speeches? You, for whom not even one drop of sure counsel is ready, nor yet of silver * * * * nor have you where first you must begin your undertaking,
+nor yet fixed limits for finishing off your web. But just as the poet, when he has taken up his tablets, seeks what nowhere in the world exists, and still finds it, and makes that like truth which really is a fiction; now I’ll become a poet; twenty minae,
+which no-where in the world are now existing, still will I find. And some time since had I said that I would find them for him, and I had attempted to throw a net over our old gentleman; however, by what means I know not, he perceived it beforehand. But my voice and my talking must be stopped;
+for, see! I perceive my master, Simo, coming this way, together with his neighbour, Callipho. Out of this old sepulchre will I dig twenty minae this day, to give them to my master’s son. Now I’ll step aside here, that I may pick up their conversation. (He stands apart.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+* 415
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+(Enter SIMO and CALLIPHO.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h1
+:END:
+
+If now a Dictator  were to be appointed at Athens of Attica out of the spendthrifts or out of the gallants, I do think that no one would surpass my son. For now the only talk of all throughout the city is to the effect that he is trying to set his mistress free,
+and is seeking after money for that purpose. Some people bring me word of this; and, in fact, I had long ago perceived it, and had suspected it, but I dissembled on it.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h2
+:END:
+
+(apart.)
+Already is his son suspected by him; this affair is nipt in the bud, this business is at a stand-still.
+The way is now entirely blocked up against me, by which I had intended to go a-foraging for the money.
+He has perceived it beforehand. There’s no booty for the marauders.
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h3
+:END:
+
+Those men who carry about and who listen to accusations, should all be hanged, if so it could be at my decision, the carriers by their tongues, the listeners by their ears.
+For these things that are told you, that your son in his amour is desirous to chouse you out of money, the chance is that these things so told you are all lies. But sappose they are true, as habits are, now-a-days especially, what has he done so surprising? What new thing, if a young man
+does love, and if he does liberate his mistress?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h4
+:END:
+
+(apart.)
+A delightful old gentleman.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h5
+:END:
+
+I don’t wish him to follow the old-fashioned habits .
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h6
+:END:
+
+But still, in vain do you object; or you yourself shouldn’t have done the like in your youthful days. It befits the father to be immaculate, who wishes his son to be more immaculate than he has been himself.
+But the mischief and the profligacy you were guilty of might have been distributed throughout the whole population, a share for each man. Are you surprised at it, if the son does take after the father?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h7
+:END:
+
+(apart.)
+O Zeus, Zeus ! how few in number are you considerate men. See, that’s being a father to a son, just as is proper.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h8
+:END:
+
+Who is it that’s speaking here? (Looking round.) Why, surely ’tis my servant Pseudolus. ’Tis he corrupts my son, the wicked scoundrel; he is his leader, he his tutor. I long for him to be put to extreme torture.
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h9
+:END:
+
+This is folly now, thus to keep your anger in readiness. How much better were it
+to accost him with kind words and to make all enquiries, whether these things are true or not that they tell you of?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h10
+:END:
+
+I’ll take your advice.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h11
+:END:
+
+(apart.)
+They are making towards you, Pseudolus; prepare your speech to meet the old fellow.
+Good courage in a bad case is half the evil got over. (Aloud, as he advances to meet them.) First, I salute my master, as is proper; and alter that, if anything is left, that I bestow upon his neighbour.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h12
+:END:
+
+Good day to you. What are you about?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h13
+:END:
+
+About standing here in this fashion (assuming an attitude).
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h14
+:END:
+
+See the attitude of the fellow, Callipho; how like that of a man of rank.
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h15
+:END:
+
+I consider that he is standing properly and with boldness.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h16
+:END:
+
+It befits a servant innocent and guileless, as he is, to be bold, most especially before his master.
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h17
+:END:
+
+There are some things about which we wish to inquire of you, which we ourselves know and have heard of as though through a cloud of mist.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h18
+:END:
+
+He’ll manage you now with his speeches, so that you shall think
+it isn’t Pseudolus but Socrates  that’s talking to you. What do you say?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h19
+:END:
+
+For a long time you have held me in contempt, I know. I see that you have but little confidence in me. You wish me to be a villain; still, I will be of strict honesty.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h20
+:END:
+
+Take care, please, and make the recesses of your ears free, Pseudolus,
+that my words may be enabled to enter where I desire.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h21
+:END:
+
+Come, say anything you please, although I am angry at you.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h22
+:END:
+
+What, you, a slave, angry at me your master?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h23
+:END:
+
+And does that seem wonderful to you?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h24
+:END:
+
+Why, by my troth, according to what you say, I must be on my guard against you in your anger, and you are thinking of beating me in no other way than I am wont to beat yourself.
+What do you think? (To CALLIPHO.)
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h25
+:END:
+
+I’ faith, I think that he’s angry with good reason, since you have so little confidence in him.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h26
+:END:
+
+I’ll leave him alone then. Let him be angry: I’ll take care that he shall do me no harm. But what do you say? What as to that which I was asking you?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h27
+:END:
+
+If you want anything, ask me.
+What I know, do you consider given you as a response at Delphi.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h28
+:END:
+
+Give your attention then, and take care and please mind your promise. What do you say? Do you know that my son is in love with a certain music-girl?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h29
+:END:
+
+Yea, verily .
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h30
+:END:
+
+Whom he is trying to make free?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h31
+:END:
+
+Yea, verily and indeed.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h32
+:END:
+
+And you are scheming by cajolery and by cunning tricks to get twenty minae in ready money out of me?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h33
+:END:
+
+I, get them out of you?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h34
+:END:
+
+Just so; to give them to my son, with which to liberate his mistress. Do you confess it? Speak out.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h35
+:END:
+
+Yea, verily; yea, verily.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h36
+:END:
+
+He confesses it.
+Didn’t I tell you so just now, Callipho?
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h37
+:END:
+
+So I remember.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h38
+:END:
+
+Why, directly you knew of these things, were they kept concealed from me? Why wasn’t I made acquainted with them?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h39
+:END:
+
+I’ll tell you: because I was unwilling that a bad custom should originate in me, for a servant to accuse his master before his master.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h40
+:END:
+
+Wouldn’t you order this fellow to be dragged head first to the treadmills ?
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h41
+:END:
+
+Has he done anything amiss, Simo?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h42
+:END:
+
+Yes, very much so.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h43
+:END:
+
+(to CALLIPHO.)
+Be quiet, I quite well understand my own affairs, Callipho. Is this a fault? Now then, give your attention to the reason why I you kept ignorant of this amour. I knew that the treadmill was close at hand, if I told you.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h44
+:END:
+
+And didn’t you know, as well, that the treadmill would be close at hand when you kept silent on it?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h45
+:END:
+
+I did know it.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h46
+:END:
+
+Why wasn’t it told me?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h47
+:END:
+
+The one evil was close at hand, the other at a greater distance; the one was at the moment, the other was a few days off.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h48
+:END:
+
+What will you be doing now? For assuredly the money cannot be got in this quarter out of me, who have especially detected it.
+I shall forthwith give notice to all that no one is to trust him the money.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h49
+:END:
+
+I’ faith, I’ll never go begging to any person, so long, at all events, as you shall be alive; troth, you shall find me the money; and as for me, I shall take it from you.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h50
+:END:
+
+You, take it from me?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h51
+:END:
+
+Undoubtedly.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h52
+:END:
+
+Troth, now, knock out my eye, if I do find it.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h53
+:END:
+
+You shall provide it. I warn you then to be on your guard against me.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h54
+:END:
+
+By my troth, I know this for sure; if you do take it away, you will have done a wonderful and a great exploit.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h55
+:END:
+
+I will do it, however.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h56
+:END:
+
+But if you don’t carry it off?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h57
+:END:
+
+Then flog me with rods. But what if I do carry it off?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h58
+:END:
+
+I give you Jupiter as your witness,
+that you shall pass your life free from punishment.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h59
+:END:
+
+Take care and remember that.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h60
+:END:
+
+Could I possibly be unable to be on my guard, who am forewarned?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h61
+:END:
+
+I forewarn you to be on your guard. I say you must be on your guard, I tell you. Keep watch. Look, now, with those same hands will you this day give me the money
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h62
+:END:
+
+By my troth, ’tis a clever mortal if he keeps his word.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h63
+:END:
+
+Carry me away to be your slave if I don’t do it.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h64
+:END:
+
+You speak kindly and obligingly; for at present you are not mine, I suppose.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h65
+:END:
+
+Would you like me to tell you, too, what you will still more wonder at?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h66
+:END:
+
+Come, then; i’ faith, I long to hear it; I listen to you with pleasure.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h67
+:END:
+
+Before I fight that battle, I shall first
+fight another battle, famous and memorable.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h68
+:END:
+
+What battle?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h69
+:END:
+
+Why, with the procurer your neighbour; by means of stratagem and artful tricks, I’l cleverly bamboozle the procurer out of this music-girl, with whom your son is so desperately in love;
+and I surely will have both of these things effected this very day, before the evening.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h70
+:END:
+
+Well, if you accomplish these tasks as you say, you will surpass in might King Agathocles . But if you don’t do it, is there any reason why I shouldn’t forthwith put you in the treadmill?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h71
+:END:
+
+Not for one day, but,
+i’ faith, for all, whatever the time. But if I effect it, will you not at once give me the money of your own free will for me to pay to the procurer?
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h72
+:END:
+
+Pseudolus is making a fair claim; say /I’ll give it./
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h73
+:END:
+
+But still, do you know what comes into my mind? Suppose they have made an arrangement, Callipho,
+among themselves, or are acting in concert, and on a preconcerted plan, to bamboozle me out of the money?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h74
+:END:
+
+Who would be more audacious than myself, if I dared to do such an action? Well, Simo, if we are thus in collusion, or have ever arranged any plan, do you mark me quite all over with elm-tree stripes , just as when letters are written in a book with a reed.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h75
+:END:
+
+Now then, proclaim the games as soon as you please.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h76
+:END:
+
+Give me your attention, Callipho, I beg you, for this day, so that you may not any way employ yourself upon other business.
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h77
+:END:
+
+Why, now, I had made up my mind yesterday to go into the country.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h78
+:END:
+
+Still, do you now change the plan which you had resolved upon.
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h79
+:END:
+
+I am now resolved not to go away on account of this; I have an inclination to be a spectator of your games, Pseudolus; and if I shall find that he doesn’t give you the money which he has promised, rather than it shouldn’t be done, I’ll give it.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h80
+:END:
+
+I shall not change my purpose.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h81
+:END:
+
+Because, by my faith, if you don’t give it, you shall be dunned for it with clamour great and plenteous. Come, now, move yourselves off hence into the house this instant, and in turn give room for my tricks.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h82
+:END:
+
+Be it so.
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h83
+:END:
+
+You may have your way,
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h84
+:END:
+
+But I want you
+to keep close at home.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h15-h85
+:END:
+
+Well, that assistance I promise you.
+
+** CALLIPHO
+:PROPERTIES:
+:CUSTOM_ID: h15-h86
+:END:
+
+But I shall be off to the Forum. I’ll be back here presently. (Exit CALLIPHO. SIMO goes into his house.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h15-h87
+:END:
+
+Be back directly. (To the AUDIENCE.) I have a suspicion, now, that you are suspecting that I have been promising these so great exploits to these persons for the purpose of amusing you, while I am acting this play,
+and that I shall not do that which I said I will do. I will not change my design; so far as that then I know for certain; by what means I’m to carry it out not at all do I know as yet; only this, that so it shall be. For he that appears upon the stage in a new character, him it befits to bring something that is new.
+If he cannot do that, let him give place to him who can. I am inclined to go hence into the house for some little time, while I summon together  all my stratagems in my mind. Meanwhile this piper shall entertain you. (Goes into the house of SIMO, and the PIPER strikes up a tune.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+* 574
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+(Enter PSEUDOLUS, from the house of SIMO.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h1
+:END:
+
+O Jupiter, whatever I undertake, how cleverly and how fortunately does it befal me.
+Not any plan is there stored up in my breast that I can hesitate upon or be afraid of. But it is folly to entrust a bold exploit to a timorous heart; for all things are just as you make them, so as you make them of importance. Now in my breast have I already so prepared my forces—
+double, aye, threefold stratagems, that when I engage with the enemy, relying upon the merits, I say, of my forefathers, and on my own industry and tricking propensity for mischief, I may easily conquer, and easily spoil my antagonists by my contrivances.
+Now will I adroitly batter down this Ballio , the common foe of me and all of you; only lend me your attention. Now will I forthwith draw out my legions against this old town. If I take it, I shall make it a pleasant matter for the citizens: I’ll load and fill myself, and my allies as well, with booty from it. I shall strike terror and fright into my enemies, so that they may know of what race I was born.
+Great exploits it befits me to perform, which long after may bespeak fame for me. But whom do I see here? Who’s this low fellow that’s presented before my eyes? I should like to know why he’s come here with his sword: I’ troth, now then I’ll lie here in ambush for him, to see the business that he’s about. (Retires to a distance.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+* 594
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+(Enter HARPAX, with a bay in his hand.)
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h1
+:END:
+
+This is the place, and this the spot, which was pointed out to me by my master, according as I form a judgment from my eyesight. For my master, the Captain, told me to this effect, that the house was the seventh from the gate, in which lives the person to whom he requested me to carry the token and this silver * * * * * I could vastly wish that some one would inform me where this Ballio, the procurer, lives. (Looks from side to side.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h2
+:END:
+
+(apart.)
+Hist! Silence! This man is mine, unless all Gods and men forsake me. Now have I need of a new plan; this new scheme is suddenly presented to me. This I prefer to my former one; that I shall dismiss, which, before, I had commenced to carry into effect. By my troth, I’ll then work this military messenger that’s just arrived.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h3
+:END:
+
+I’ll knock at the door, and call some one out of doors from within. (Goes towards the door of BALLIO’S house.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h4
+:END:
+
+(coming up to him.)
+Whoever you are, I wish you to spare your knocking; for I’ve just come out of doors, I, the spokesman and the defender of the door.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h5
+:END:
+
+Are you Ballio?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h6
+:END:
+
+Why, no; but I’m the deputy-Ballio .
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h7
+:END:
+
+What means that expression?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h8
+:END:
+
+I’m his butler-steward ; the caterer for his larder.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h9
+:END:
+
+As though you were to say, you are his chamberlain .
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h10
+:END:
+
+No; I’m above his chamberlain.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h11
+:END:
+
+What are you, slave or free man?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h12
+:END:
+
+Why, at present, I’m still a slave.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h13
+:END:
+
+So you seem to be; and you don’t look to be one worthy to be free.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h14
+:END:
+
+Ain’t you in the habit of looking at yourself when you abuse another person?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h15
+:END:
+
+(aside.)
+This must be a roguish fellow.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h16
+:END:
+
+(aside.)
+The Gods protect and favour me! for this is my anvil: this day will I hammer out thence full many a device.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h17
+:END:
+
+Why is he talking to himself alone?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h18
+:END:
+
+How say you, young man—?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h19
+:END:
+
+What is it?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h20
+:END:
+
+Are you, or are you not, from that Captain of Macedonia? The servant of him, II mean, who bought a damsel of us here, who gave fifteen silver minae to the procurer, my master, and is still owing five?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h21
+:END:
+
+I am. But where in the world have you ever known me,
+or have ever seen or spoken to me? For in fact, before this day, I never was at Athens, nor did I ever before this day behold you with my eyes * * * * * * * * * *
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h22
+:END:
+
+Because you seem likely to be from him; for at the time when he went away, this was the day appointed for the money, on which he was to pay it to us, and he has not brought it as yet.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h23
+:END:
+
+Yes, here it is. (Holding up the bag.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h24
+:END:
+
+What?—have you brought it?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h25
+:END:
+
+I, myself.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h26
+:END:
+
+Do you at all hesitate to give it me?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h27
+:END:
+
+I, give it you?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h28
+:END:
+
+Aye, faith, to me, who manage the business and the accounts of my master Ballio, receive his money, and pay it to him to whom he owes it.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h29
+:END:
+
+By my troth, if you were even the keeper of the treasures of supreme Jove, I would never entrust a groat of silver to you.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h30
+:END:
+
+(pointing.)
+While you’ve been making yourself so big,
+the money has become loose .
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h31
+:END:
+
+I’ll keep it the rather tied up—this way. (Ties the mouth of the bag.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h32
+:END:
+
+Woe to you! You indeed have been found to doubt my honor. As though innumerable times as much are not in the habit of being entrusted to me alone.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h33
+:END:
+
+It’s possible that others may think so, and that I mayn’t trust you.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h34
+:END:
+
+As though you meant to say that I wished to chouse you out of the money.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h35
+:END:
+
+Why, yes; as though you meant to say so; and as though I, on the other hand, meant to suspect it. But what’s your name?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h36
+:END:
+
+(aside.)
+This procurer has a servant of the name of Syrus; I’ll say that I am he. I am Syrus.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h37
+:END:
+
+Syrus?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h38
+:END:
+
+That’s my name.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h39
+:END:
+
+We are making many words. If your master’s at home, why don’t you call him out, that I may transact that for which I was sent here, whatever be your name?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h40
+:END:
+
+If he were within I would call him out. But if you choose to give it me, it will be more truly paid than if you were to give it to himself.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h41
+:END:
+
+But now do you know how it is? My master has sent me to pay this, not to lose it. But I know, to a certainty, that you are in a fever now, because you cannot lay your claws upon it. I shall entrust the money to no person except to Ballio himself.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h42
+:END:
+
+But at present he’s full of business: a cause of his is being tried before the judge.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h43
+:END:
+
+May the Gods prosper it! And I, when I shall think that he’s at home, will come again. Do you take this letter from me, and give it him: for in it is the token agreed upon between your master and mine about the damsel.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h44
+:END:
+
+For my part, I understand it; the person who should bring the money and the impress of his likeness
+hither to us, with him he said he wished the damsel to be sent; for he left a specimen of it here as well.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h45
+:END:
+
+You understand the whole affair?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h46
+:END:
+
+Why should I not understand it?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h47
+:END:
+
+Give him this token then. (Gives the letter and token.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h48
+:END:
+
+Very well. But what’s your name?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h49
+:END:
+
+Harpax.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h50
+:END:
+
+Get along with you, Harpax, I like you not. By my troth, you really shan’t enter this house, lest you should be doing something in the harpy line .
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h51
+:END:
+
+I am wont to carry off my enemies alive from the battle-field; from that circumrstance is my name.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h52
+:END:
+
+I’ faith, I think that you are much more likely to carry off the brass pots from a house.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h53
+:END:
+
+Such is not the fact. But, Syrus, do you know what I request of you?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h54
+:END:
+
+I shall know, if you tell me.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h55
+:END:
+
+I shall put up outside of the gate here, at the third shop, at the house of that tun-bellied, limping, fat old woman, Chrysis.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h56
+:END:
+
+What do you wish then?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h57
+:END:
+
+That you’ll fetch me thence when your master comes.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h58
+:END:
+
+At your pleasure; by all means.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h59
+:END:
+
+For, as I’ve come wearied off my journey, I wish to refresh myself.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h60
+:END:
+
+You are very wise, and your plan is agreable to me. But take care, please, that you are not out of the way when I send for you.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h61
+:END:
+
+Why, when I’ve dined, I shall indulge myself with a nap.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h62
+:END:
+
+I quite agree with you.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h63
+:END:
+
+Do you wish aught else?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h64
+:END:
+
+That you’ll be off to take your nap.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h20-h65
+:END:
+
+I’m off.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h66
+:END:
+
+And, do you hear, Harpax? Order yourself to be covered up, please; you’ll receive the benefit if you take a good sweat. (Exit HARPAX.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+* 667
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+(PSEUDOLUS, alone.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+Immortal Gods! this man has preserved me by his coming. By his supply for my journey he has brought me from my wanderings quite into the right way. For the Goddess Opportunity herself could not come to me more opportunely,
+than has this letter in this opportune manner been brought to me. For this has been brought as a horn of plenty , in which there is whatever I wish for: here are my wiles, here all my tricks, here my stratagems, here my money, here his mistress for my master’s son so much in love. And now how vaunting shall I show myself; how, with a breast so fertile in expedients,
+I was to do each thing, how, to steal away the damsel from the procurer, I had all my plans arranged in order in my mind as I desired, fixed, planned out. But, no doubt, thus will it come to pass: this Goddess Fortune, unaided, prevails over the designs of a hundred armed men. And this is the fact, just as each person uses his fortune, so does he surpass others,
+and forthwith we all pronounce him wise. When we learn that the counsels of any person have turned out well, we declare that he is a prudent man; but that he is a fool who is unsuccessful. In our folly we know not how much we are mistaken, when we eagerly wish anything to be given to us; as though we ourselves could possibly know what is for our advantage.
+We lose what is certain, while we are seeking what is uncertain. And this comes to pass, amid labours and amid sorrow, that death meanwhile comes creeping on. But there’s enough now of philosophizing; I have been talking too long, and at too great length. Immortal Gods! my lie was not dear at its weight in double-distilled gold, which I just now trumped up here on the spur of the moment,
+when I said that I belonged to the procurer. Now, through this letter shall I deceive three persons—my master, and the procurer, and him who gave me this letter. Excellent! another thing as well has happened, that I wished for: see, Calidorus is coming; he is bringing some one with him, I know not whom. (Stands apart.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+* 694
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+(Enter CALIDORUS and CHARINUS.)
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h1
+:END:
+
+The sweets and the bitters, all have I disclosed to you. You know my love, you know my difficulty, you know my poverty.
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h2
+:END:
+
+I well remember all; do you only let me know what you want me to do.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h3
+:END:
+
+Pseudolus has directed me thus, that I should bring to him some bold and zealous person.
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h4
+:END:
+
+You observe your directions well; for you bring him one both friendly and zealous. But this Pseudolus
+is a stranger to me.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h5
+:END:
+
+He is a very clever fellow—he is my contriver. He said that he would effect those things for me that I have told you of.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h6
+:END:
+
+(apart.)
+I’ll address this person in a very lofty strain.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h7
+:END:
+
+Whose voice is it that’s heard here?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h8
+:END:
+
+Oh! thee, sovereign lord, thee, oh! thee do I address who dost rule over Pseudolus: thee do I seek, to impart to thee delights thrice three, threefold, acquired by three contrivances,
+obtained over three persons through craftiness and through subtlety, which in this very little sealed packet I have brought unto you . (Holds up the letter.)
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h9
+:END:
+
+That’s the fellow;
+how the hang-dog does bluster just like a tragedian.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h10
+:END:
+
+Advance a step on thy side towards me. Boldly stretch forth thine arm for greeting.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h11
+:END:
+
+(taking his hand.)
+Tell me, Pseudolus, whether, as Hope or as Safety, must I greet you?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h12
+:END:
+
+Why both.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h13
+:END:
+
+As both I greet you. But what has been done?
+Why are you silent?
+I have carried this person here. (Pointing to CHARINUS.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h14
+:END:
+
+How? Carried him here?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h15
+:END:
+
+Brought, I meant to say.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h16
+:END:
+
+Who’s this person?
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h17
+:END:
+
+Charinus.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h18
+:END:
+
+Well done; I return him thanks  then.
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h19
+:END:
+
+Will you then boldly enjoin me what it is necessary to do?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h20
+:END:
+
+My thanks, so far. May it be well with you, Charinus; I don’t like that we should be troublesome to you.
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h21
+:END:
+
+You, troublesome to me? Now, really, that’s troublesome.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h22
+:END:
+
+Well, then, wait a moment. (Takes the letter out from under his dress.)
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h23
+:END:
+
+What’s that?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h24
+:END:
+
+This letter have I just now intercepted, and the token.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h25
+:END:
+
+Token? What token?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h26
+:END:
+
+The one that was brought just now from the Captain. His servant, who was bringing it, with five mineae of silver, who came to fetch your mistress hence, him I have just now bamboozled.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h27
+:END:
+
+How so?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h28
+:END:
+
+For the sake of these Spectators the play is being performed; they know, who were present here; you I’ll tell at another time.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h29
+:END:
+
+What are we to do then?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h30
+:END:
+
+You shall this day embrace your mistress at liberty.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h31
+:END:
+
+What, I?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h32
+:END:
+
+You yourself.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h33
+:END:
+
+I?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h34
+:END:
+
+Your own self, I say, if indeed this head shall exist so long; if you’ll only quickly find me out a man.
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h35
+:END:
+
+Of what description?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h36
+:END:
+
+A cunning,
+crafty and clever one, who, when he has once taken hold of the beginning, may by his own ingenuity still hold fast upon what it behoves him to do; one, too, who has not often been seen here.
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h37
+:END:
+
+If he is a slave, does that matter at all?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h38
+:END:
+
+Why, I’d much rather have him than a free man.
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h39
+:END:
+
+I think that I’m able to procure for you a cunning and clever fellow,
+that has lately come to my father from Carystus , and hasn’t as yet gone anywhere out the house, and who never visited Athens before yesterday.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h40
+:END:
+
+You assist in right earnest. But I have need to borrow five minae of silver, which I shall repay this day, for his father (pointing to CALIDORUS) owes it me.
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h41
+:END:
+
+I’ll lend it; don’t seek it anywhere else.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h42
+:END:
+
+O, how convenient a person for me.
+I have need of a scarf as well, a sword, and a broad-brimmed hat.
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h43
+:END:
+
+I can provide them from my house.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h44
+:END:
+
+Immortal Gods! surely this is not Charinus for me, but Abundance. But this servant, who is come here from Carystus, is there anything in him?
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h45
+:END:
+
+Plenty of the stinking goat  in him.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h46
+:END:
+
+It befits the fellow, then, to have a tunic with long sleeves  Has the chap anything sharp  in his breast?
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h47
+:END:
+
+Aye, of the very sharpest.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h48
+:END:
+
+But if it is necessary for him to draw forth what is sweet from the same place, has he aught of that?
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h49
+:END:
+
+Do you ask that He has wine of myrrh, sweet raisin wine, spice wine  honey wine, sweets of every sort. Why, he once began to set up a hot liquor-shop in his breast.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h50
+:END:
+
+Bravissimo! Why, Charinus, you beat me cleverly  at my own game. But what am I to say is the name of this servant?
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h51
+:END:
+
+Simmia.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h52
+:END:
+
+In a difficulty, does he understand how to twirl about?
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h53
+:END:
+
+A whirlwind  is not so ready as he.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h54
+:END:
+
+Is he shrewd at all?
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h55
+:END:
+
+In mischievous tricks  very often.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h56
+:END:
+
+How, when he’s caught in the fact?
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h57
+:END:
+
+He’s a very eel; he slips out.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h58
+:END:
+
+Is this fellow an experienced one?
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h59
+:END:
+
+A public ordinance  is not more experienced.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h60
+:END:
+
+He is a suitable person, according to what I hear you say.
+
+** CHARINUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h61
+:END:
+
+Aye, and from this you may know it.
+When he looks at you he’ll tell, of his own accord, what it is you want with him. But what are you about to do?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h62
+:END:
+
+I’ll tell you. When I’ve dressed up my man, I intend to make him become the pretended servant of the Captain; let him take this token to the procurer, with five minae of silver. There’s the whole plot for you.
+As for the rest, in what way he is to do each thing, I’ll instruct himself.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h63
+:END:
+
+Why, therefore, do we stand here then?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h64
+:END:
+
+Bring the fellow to me just now, dressed out with all his accoutrements, to Aeschinus, the banker’s. But make all haste.
+
+** CALIDORUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h65
+:END:
+
+We’ll be there before you.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h24-h66
+:END:
+
+Get you gone there quickly. (CALIDORUS and CHARINUS go into SIMO’S house.) Whatever before was uncertain or doubtful in my mind,
+is now clear-now fined to the dregs; my heart has now an open path. All my legions will I lead forth under their standards with happy omen  with favorable auspices, and to my heart’s content. I have a certainty that I can rout my enemies. Now will I go to the Forum, and load Simmia with my instructions
+what he is to do, that he may not be tripping at all, and that he may cleverly lay the train for this plot. Soon now shall I cause the town of this procurer to be carried by storm. (Exit.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+* 767
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+(Enter a BOY from the house of BALLIO.)
+
+** A BOY
+:PROPERTIES:
+:CUSTOM_ID: h27-h1
+:END:
+
+On that Boy on whom the Gods bestow servitude under a procurer, when they add a base occupation as well, assuredly do they, so far as I now understand in my mind,
+bestow upon him a great misfortune and miseries manifold. Just as this servitude has turned out to me, where I am set over duties great and small; nor am I able to find any admirer to love me, so that at length I might be fitted out in a little better guise.
+Now this day is the birthday of this procurer. The procurer has made a determination, from the lowest to the highest, that if each one does not this day send him a present, he shall perish to-morrow with the greatest torments. Now, faith, I know not what to do in my line,
+for, unless I shall send a present to the procurer this day, to-morrow must I swallow down fullers’ produce . And yet I cannot do that which they who can are wont to do. Alas! how little am I, even still for this vocation. And by my troth, now, to my misfortune how fearfully do I dread punishment.
+If any one lays on  whose hand is too heavy, although they say that it generally is done amid great weeping, I think that I am able in some measure to keep my teeth closed. But I must keep close my lips and my talking, for see, my master is betaking himself home, and bringing a Cook with him. (Stands at a distance.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+* 790
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+(Enter BALLIO and a COOK.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h1
+:END:
+
+Those who call it the cook’s market, call it so foolishly; for ’tis not a cook’s market, but a thieves’ market. For if, upon oath, I were to seek out the worst of men, I couldn’t have brought a worse one than this fellow that I’m bringing, one, chattering, bragging, silly, and worthless.
+Why, for this very reason Orcus has declined  to take him to himself, that he might be here to cook a banquet for the dead; for here he is able to cook a thing to please them alone.
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h2
+:END:
+
+If you thought of me in this manner that you are mentioning, why did you hire me?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h3
+:END:
+
+From scarcity; there wasn’t another.
+But why, if you were a cook, were you sitting in the market-place, you alone behind the rest?
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h4
+:END:
+
+I’ll tell you. By reason of the avarice of men have I become an inferior cook, not through my own inclination.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h5
+:END:
+
+For what reason is that?
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h6
+:END:
+
+I’ll tell you. Because, in fact, directly people come to hire a cook,
+no one enquires for him that’s the best and the highest priced: rather do they hire him that’s the lowest priced. Through this have I to-day been the only sitter in the market. Those wretched fellows are for a drachma a-piece; not any person is able to prevail on me to rise for less than a didrachm .
+I don’t cook a dinner too, like other cooks, who bring me up seasoned meadows of grass upon their dishes; who turn the guests into oxen, and supply the grass. This herbage, too, do they further season with other herbs: put in coriander, fennel, garlick, orage;
+they add, too, sorrel, cabbage, beet, and spinach. In this they dissolve a pound weight of asafoetida. The roguish mustard is pounded, which makes the eyes of those that pound it drop tears before they have pounded it. These fellows, when they cook dinners, when they do season them, season them,
+not with seasonings, but with vampyre owls which eat out the bowels of the guests while still alive. Through this, in fact, it is, that people here live such short lives, inasmuch as they heap up these herbs of this sort in their stomachs, dreadful to be mentioned, not only to be eaten.
+Herbage which the cattle eat not, men eat themselves.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h7
+:END:
+
+What do you say? Do you use divine seasonings, by which you can prolong the life of men, you, who find fault with these other seasonings?
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h8
+:END:
+
+I proclaim it boldly;
+for those who shall eat of my victuals which I have seasoned will be able to exist two hundred years even.
+For when I’ve put into the saucepan either cicilendrum, or cepolindrum, or mace , or saucaptis, the very dishes become warmed forthwith. These are sauces for fish, the cattle of Neptune;
+the flesh of the earthly cattle I season with cicimandrum, hapalopsis, or cataractria.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h9
+:END:
+
+Now may Jupiter and all the Divinities confound you with your sauces, and with all those lies of yours!
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h10
+:END:
+
+Do allow me to speak, please.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h11
+:END:
+
+Speak, and go to very perdition.
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h12
+:END:
+
+When all the saucepans are hot, I open them all then does the odour fly towards heaven with its hand hanging down .
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h13
+:END:
+
+The odour with its hands hanging down?
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h14
+:END:
+
+I made a mistake without thinking.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h15
+:END:
+
+How so?
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h16
+:END:
+
+With its feet hanging down, I meant to say. Jupiter dines on that odour every day.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h17
+:END:
+
+If you happen not to go out to cook, pray what does Jupiter dine upon?
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h18
+:END:
+
+He goes to sleep without his dinner.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h19
+:END:
+
+Go to very perdition. Is it for this reason that I’m to give you a didrachm to-day?
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h20
+:END:
+
+Well, I confess that I am a very high-priced cook; but I make the results of my labour to be seen for the price,
+hired at which I go out.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h21
+:END:
+
+In thieving, to wit.
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h22
+:END:
+
+And do you expect to meet with any cook except with the claws of a kite or of an eagle?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h23
+:END:
+
+And do you expect to go anywhere to cook, and not to cook the dinner there with your claws tied up?
+Now, therefore, you boy (to the BOY), who are my servant, I now give you notice to make haste to remove hence all my property; and to keep his eyes as well in your sight. Whichever way he shall look, do you look the same way as well. If he shall move in any direction, do you move as well.
+If he shall put forth his hand, put you forth your hand as well. If he shall take anything of his own, do you suffer him to take it; if he shall take what’s mine, do you on the other side hold him fast. If he shall stoop to the ground, do you stoop there as well.
+Likewise over your understrappers I shall appoint a single guard a-piece.
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h24
+:END:
+
+Only have good courage.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h25
+:END:
+
+Prithee, tell me how I possibly can have good courage, who am taking you home to my house?
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h26
+:END:
+
+Because, by my broth, this day will I do just in the way that Medea cooked up the old man Pelias
+whom she is said by a draught and by her potions from an aged man to have made young again; so will I make you likewise.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h27
+:END:
+
+How now; are you an enchanter as well?
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h28
+:END:
+
+Why no, by my troth, I am rather a preserver  of mankind.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h29
+:END:
+
+Well now; for how much would you teach me that one point in cooking?
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h30
+:END:
+
+What point?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h31
+:END:
+
+That I may preserve you from pilfering anything from me.
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h32
+:END:
+
+For a didrachm, if you believe me; if not, not for a mina even. But whether are you about to-day to give a dinner, to your friends or to your enemies?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h33
+:END:
+
+Why, faith, to my friends surely.
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h34
+:END:
+
+But why don’t you invite your enemies to it rather than your friends? For this day will I present to the guests a banquet so savoury, and I’ll season it with such a dulcet sweetness, that whoever shall taste each thing that’s seasoned, I’ll make that same person to gnaw off the ends of his own fingers.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h35
+:END:
+
+Troth now, prithee, before you shall present aught to the guests do you yourself first taste, and give some to your understrappers, that you may gnaw off the ends of your own pilfering hands.
+
+** A COOK.
+:PROPERTIES:
+:CUSTOM_ID: h29-h36
+:END:
+
+Perhaps then you don’t believe me in the things that I say.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h37
+:END:
+
+Don’t you be troublesome; you din me too much; you don’t please me by it.
+See, there I live. (Points to his house.) Do you go in-doors and cook the dinner, with all speed.
+
+** A BOY
+:PROPERTIES:
+:CUSTOM_ID: h29-h38
+:END:
+
+Why don’t you go, and take your place? Go and find the guests; the dinner’s spoiling already. (COOK and BOY go into the house.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h29-h39
+:END:
+
+Now, just look, please, at that young offshoot; for he, too, is a good-for-nothing deputy-scullion for the cook. Truly I don’t know what now first to be on my guard against;
+such thieves there are in my house, and there’s a robber close at hand. For my neighbour here, the father of Calidorus, a short time since, in the market-place, asked me by all means to be on my guard against his servant Pseudolus, not to put any trust in him; for that he is on the hunt this day,
+if possible to dupe me out of the woman. He said that he had stoutly promised to him that he would get away Phœnicium from me by stratagem. I’ll now go indoors and give notice to my household, that no one must put any trust whatever in this Pseudolus. (Goes into his house.)
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+* 905
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+(Enter PSEUDOLUS.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h1
+:END:
+
+If the immortal Gods ever did determine that any person should be assisted by their aid, now do they intend that Calidorus shall be preserved for me, and the procurer destroyed, inasmuch as they produced you for my assistant, so clever and so knowing a fellow. (Looking back.) But where is he? am I not a silly fellow to be thus talking to myself alone? I’ faith, he has put a trick upon myself, as I fancy; myself one knave, I have been poorly on my guard against another knave.
+By my troth I’m undone, if this fellow’s off, and I shall not carry into effect this day what I intended. But see, there he is, a statue that deserves a whipping; how stately he does stalk along! (HARPAX.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h2
+:END:
+
+How now! By my faith I was looking about for you; I was very greatly afraid that you were off.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h3
+:END:
+
+It was my character to do so, I confess.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h4
+:END:
+
+Where were you loitering?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h5
+:END:
+
+Where I pleased.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h6
+:END:
+
+That I know well enough already.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h7
+:END:
+
+Why then do you ask me what you know?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h8
+:END:
+
+Why this I want, to put you in mind.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h9
+:END:
+
+Needing to be put in mind yourself, don’t you be putting me in mind.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h10
+:END:
+
+Really I am treated by you quite with contempt.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h11
+:END:
+
+And why shouldn’t I treat you with contempt, I who have the repute of being a military gentleman?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h12
+:END:
+
+I want this then, which has been commenced, to be completed.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h13
+:END:
+
+Do you see me a-doing anything else?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h14
+:END:
+
+Therefore walk on briskly.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h15
+:END:
+
+No, I choose to go slowly.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h16
+:END:
+
+This is the opportunity; while this Harpax is asleep, I want you to be the first to accost him.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h17
+:END:
+
+Why are you hurrying? Softly; don’t you fear. I wish Jupiter would so make it, that he were openly in the same place with me, whoever he is, that has arrived from the Captain.
+Never a jot, by my troth, should he be a bit the better Harpax than I. Have good courage, I’ll have this business nicely accounted for to you. So by my tricks and lies would I put this military stranger in a fright that he himself would deny that he is the person that he is,
+and would believe me to be the person that he himself is.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h18
+:END:
+
+How can that be?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h19
+:END:
+
+You are murdering me when you ask me that.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h20
+:END:
+
+A clever fellow.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h21
+:END:
+
+And so are you too, who are quite my equal with your mischievous tricks and lies  [lost]
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h22
+:END:
+
+May Jupiter preserve you for me.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h23
+:END:
+
+Aye, and for myself.
+But look, does this dress become me quite well?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h24
+:END:
+
+It suits very well.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h25
+:END:
+
+Be it so.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h26
+:END:
+
+May the Deities grant you as many blessings as you may wish for yourself. For if I were to wish for as many as you are deserving of, they would be less than nothing; (aside) nor have I ever seen any one more of a rogue than this fellow.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h27
+:END:
+
+(overhearing him.)
+Do you say that to me?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h28
+:END:
+
+This man’s an honest fellow.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h29
+:END:
+
+It is neither this person, then (pointing to PSEUDOLUS), nor myself.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h30
+:END:
+
+But take care that you don’t be tripping.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h31
+:END:
+
+Can’t you hold your tongue? He that puts a man in mind of that which, remembering it, he does keep in mind, causes him to forget it. I recollect everything; they are stored up in my breast; my plans are cleverly laid.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h32
+:END:
+
+I’m silent. But what good turn shall I do you if you carry through this matter with management?
+So may the Gods love me—
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h33
+:END:
+
+They won’t do so; you’ll be uttering sheer falsehoods then.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h34
+:END:
+
+How I do love you, Simmia, for your roguery, and both fear and laud you.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h35
+:END:
+
+That I have learned to make a present of to others; you can’t put your flatteries on me.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h36
+:END:
+
+In how delightful a manner I shall receive you this day, when you have completed this matter.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h37
+:END:
+
+Ha, ha, ha! (Laughing.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h38
+:END:
+
+With nice viands, wine, perfumes, and titbits between our cups. There, too, shall be a charming damsel, who shall give you kiss upon kiss.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h39
+:END:
+
+You will be receiving me in a delightful manner.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h40
+:END:
+
+Aye, and if you effect it, then I’ll make you say so still more.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h41
+:END:
+
+If I don’t effect it, do you, the executioner, take me off to torture. But make haste and point out to me where is the door of the procurer’s house.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h42
+:END:
+
+’Tis the third hence.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h43
+:END:
+
+Hist! hush! the door’s opening.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h44
+:END:
+
+In my mind, I believe that the house is poorly.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h45
+:END:
+
+Why so?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h46
+:END:
+
+Because, i’ faith, it is vomiting forth the procurer. (BALLIO is coming out of his house.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h47
+:END:
+
+Is this he?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h48
+:END:
+
+This is his own self.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h32-h49
+:END:
+
+’Tis a worthless commodity.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h32-h50
+:END:
+
+Do see that: he doesn’t go straight, but sideways, just as a crab is wont. (They conceal themselves from BALLIO.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+* 956
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+(Enter BALLIO from his house.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h1
+:END:
+
+I do believe that this fellow is not so bad a cook as I thought he was; for he has clawed off nothing as yet except a cup and a tankard.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h2
+:END:
+
+(apart to SIMMIA.)
+Hallo you! now’s your opportunity and your time.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h3
+:END:
+
+I agree with you.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h4
+:END:
+
+Step slily out into the street; I’ll be here in ambush. (SIMMIA steps forward, and then walks along the middle of the street to meet BALLIO.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h5
+:END:
+
+(talking aloud to himself.)
+I took the number carefully; this is the sixth lane from the city gate; down that lane he bade me turn; how many houses down he told me, that I don’t quite know for certain.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h6
+:END:
+
+(eyeing SIMMIA.)
+Who’s this fellow in the scarf, or whence does he come, or whom is he looking for? The appearance of the fellow seems outlandish and shabby.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h7
+:END:
+
+But see, here’s a person, who, from uncertainty, will make the thing more certain for me that I wish to know.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h8
+:END:
+
+He’s coming straight towards me. Where in the world am I to say this fellow comes from?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h9
+:END:
+
+Harkye! you who are standing there with a goat’s beard, answer me this that I ask you.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h10
+:END:
+
+How now! Don’t you salute me first?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h11
+:END:
+
+(with a surly voice.)
+I have no salutations to give away.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h12
+:END:
+
+Well, troth, you shall get just as much from here then.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h13
+:END:
+
+(from behind.)
+Well done, at the very beginning.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h14
+:END:
+
+Do you know any person in this lane, I ask you?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h15
+:END:
+
+I know myself.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h16
+:END:
+
+Few persons do that which you mention; for in the Forum there is hardly every tenth person that knows his own self.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h17
+:END:
+
+(from behind.)
+I’m all right; he is philosophizing now.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h18
+:END:
+
+I’m looking for a fellow here, a bad one,
+a law breaker, an impious, perjured, and dishonest rogue.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h19
+:END:
+
+(aside.)
+He’s looking for me, for those are my titles If he would only mention the name. (To SIMMIA.) What’s the name of this person?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h20
+:END:
+
+Ballio, the procurer.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h21
+:END:
+
+Do I know him? I am the very person, young man, that you are looking for.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h22
+:END:
+
+What, are you Ballio?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h23
+:END:
+
+I really am he.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h24
+:END:
+
+How you are clothed, a housebreaker  [lost]  (He takes hold of BALLIO’S cloak.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h25
+:END:
+
+I think if you were to see me in the dark, you’d be keeping your hand off.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h26
+:END:
+
+My master bade me present you many greetings. Receive this letter from me; he bade me give you it.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h27
+:END:
+
+Who’s the person that bade you?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h34-h28
+:END:
+
+(from behind.)
+I’m undone, now the fellow’s in the middle of the mud.
+He doesn’t know the name—this business is at a dead lock.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h29
+:END:
+
+Who do you say sent me this?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h30
+:END:
+
+Observe the seal; do you yourself tell me his name, that I may know that you are Ballio himself.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h31
+:END:
+
+Give me the letter.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h32
+:END:
+
+Take it, and look at the seal. (Gives him the letter.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h33
+:END:
+
+(looking at it.)
+Oho! ’Tis nothing more nor less than Polymachaeroplagides , his own very self; I recognize it. Hallo you, Polymachaeroplagides
+is his name!
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h34
+:END:
+
+I know now that I have rightly given you the letter, since you have mentioned the name of Polymachaeroplagides,
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h35
+:END:
+
+How fares he?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h36
+:END:
+
+By my troth, just as a brave man and a good soldier should. But make haste, I beg, to read this letter through, for it is requisite to do so, and to take this money at once and send out the damsel.
+For it’s necessary for me this day to be at Sicyon , or else to suffer death to-morrow; so peremptory is my master.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h37
+:END:
+
+I know it: you are telling those who know it already.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h38
+:END:
+
+Make haste then to read the letter through.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h39
+:END:
+
+I’ll do so, if you’ll only hold your tongue. (He reads the letter.) /The Captain Polymachaeroplagides sends this letter, written to the procurer Ballio,/
+/sealed with the impression which was formerly agreed upon between us two.Part of line 1001 in the Latin. /
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h40
+:END:
+
+The token’s in the letter
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h41
+:END:
+
+I see the token and I recognize it. But is he in the habit of sending no greeting written in his letter?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h42
+:END:
+
+Such is the military etiquette, Ballio;
+with their hand they send health to their well-wishers, and with the same do they send destruction to their evil-wishers. But as you have commenced, go on to ascertain of yourself what this letter says.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h43
+:END:
+
+Listen then. (Reading on.) /Harpax is my camp-servant, who has come to you./
+Are you this Harpax?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h44
+:END:
+
+I am, and the real Harpax too .
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h45
+:END:
+
+(reading on.)
+/Who brings this letter; I wish the money to be received from him, and the woman to be sent together with him. ’Tis becoming to send greeting to the worthy; had I deemed you worthy, I should have sent it to you./
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h46
+:END:
+
+What then?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h47
+:END:
+
+Pay me the money, take away the woman.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h48
+:END:
+
+Which of us is delaying the matter?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h34-h49
+:END:
+
+Follow me in-doors then.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h34-h50
+:END:
+
+I’m following. (They go into BALLIO’S house.)
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+* 1017
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+(PSEUDOLUS comes forward.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h36-h1
+:END:
+
+I’ troth, a more artful fellow, and one more skilfully cunning, I never did see than is this same Simmia. Very much do I dread this man, and sadly do I fear that
+he may prove mischievous against myself just as he has been against him; lest in his prosperity he may now turn his horns against me, if he finds an opportunity. Should he prove mischievous towards me  [lost]  But, i’ faith, for my part I hope not, for I wish well to him.
+Now in three ways am I in the greatest dread. First of all then, I dread this comrade of mine, lest he should forsake me and go over from me to the enemy. Next do I dread that my master should in the meantime return from the Forum; lest, the booty taken, the plunderers should be taken.
+Together with these things do I fear, lest that other Harpax should arrive here before this Harpax has departed hence with the woman. By my faith, I’m undone; they are very slow in coming out of doors. With baggage packed  up, my heart is waiting, ready,
+if he doesn’t bring out the damsel together with himself, to fly away in exile out from of my breast.  [lost]  (The door of BALLIO’S house opens.) I’m the conqueror— I’ve got the better of my wary guards.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+* 1038
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+(Enter SIMMIA, from BALLIO’S house, leading PHŒNICIUM.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h38-h1
+:END:
+
+(to PHŒNICIUM.)
+Don’t weep: you know not how the matter is, Phœnicium; but before long I’ll let you know it when you are resting.
+I’m not leading you to that Macedonian long-teethed fellow, who now causes you to be weeping. To him will I lead you, whose you especially long to be. I’ll cause you before very long to be embracing Calidorus.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h2
+:END:
+
+Prithee, why did you stay so long in-doors?
+For how long a time was my heart throbbing with beating against my breast.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h38-h3
+:END:
+
+You have found reason, you whipping-post, with a vengeance to be making enquires of me  [lost]  amid the ambush of the enemy. Why don’t we go home with all speed with military strides .
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h38-h4
+:END:
+
+Now, by my troth, although you are a worthless fellow, you advise aright. March in triumphal procession, this way, straight in the path to the festive goblet. (They march off in triumphal procession.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+* 1052
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+(Enter BALLIO, from his house.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h40-h1
+:END:
+
+Ha, ha, ha! (laughing.) Now, at last, my mind is in a state of ease, since that fellow has departed hence, and taken away the woman. I should like Pseudolus now to come, that wicked rascal,
+to carry the woman off from me by his stratagems. I know for sure, right well, that I had rather in solemn form perjure myself a thousand times, than that he should cheat me by making a laughing-stock of me. By my troth now, I’ll laugh at the fellow if I meet him.
+But I guess that he’ll soon be on the treadmill, just as befits him. Now I wish for Simo that he would come in my way, in order that he might be joyful in common with my joy.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+* 1063
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+(Enter SIMO.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h1
+:END:
+
+(to himself.)
+I’m going to see what business my Ulysses has transacted; whether he now has the statue  from the Ballionian citadel.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h2
+:END:
+
+O, lucky man! give me your lucky hand. (Takes his hand.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h3
+:END:
+
+What’s the matter?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h4
+:END:
+
+Now.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h5
+:END:
+
+What now?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h6
+:END:
+
+There’s nothing at all for you to fear.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h7
+:END:
+
+What’s the matter? Has that fellow Pseudolus come to you?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h8
+:END:
+
+No.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h9
+:END:
+
+What good fortune is there, then?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h10
+:END:
+
+Your twenty minae are safe and sound which Pseudolus stipulated for from you this day.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h11
+:END:
+
+I’ faith, I really do wish they were.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h12
+:END:
+
+Ask of me twenty minae if he this day gets hold of that woman, or gives her to your son this day, as he has promised. On my word, prithee, do demand them of me; I quite long to promise them.
+And, besides this, keep the woman as a present for yourself, that in every way you may know that your money’s safe.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h13
+:END:
+
+There’s no danger that I know of in making this bargain. According as you have solemnly pledged your word, will you give me twenty minae?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h14
+:END:
+
+They shall be given.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h15
+:END:
+
+This, indeed, is not so badly done. But have you met the fellow?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h16
+:END:
+
+Aye, both of them together.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h17
+:END:
+
+What did he say? What did ho talk about? Prithee, what did he mention to you?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h18
+:END:
+
+Theatrical nonsense; expressions which, in comedies, are wont to be used to a procurer, which boys are acquainted with. He said that I was worthless, and wicked, and forsworn.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h19
+:END:
+
+I’ faith, he told no lie.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h20
+:END:
+
+’Twas for that reason I wasn’t angry.
+For what matters it for you to speak uncivilly to him who cares not for it, and who don’t deny the truth of what you say?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h21
+:END:
+
+Why is it that you are in no fear of him? That I’m longing to hear.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h22
+:END:
+
+Because he never will carry the woman off now, nor is he able. Don’t you yourself remember that I told you, some time since,
+that she had been sold to a Macedonian officer?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h23
+:END:
+
+I remember.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h24
+:END:
+
+Well, his servant just now brought me the money, and the token with the impression, which had been arranged between himself and me.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h25
+:END:
+
+What then?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h26
+:END:
+
+He took away with him the woman, not long since.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h27
+:END:
+
+Do you say this in real truth?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h28
+:END:
+
+Whence could I possibly have that quality?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h29
+:END:
+
+Do you only take care that he hasn’t been playing some trick there.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h30
+:END:
+
+The letter and the impress on the seal make me sure. Indeed, ’twas but just now he took her off for Sicyon.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h42-h31
+:END:
+
+Troth now, ’twas well done. Why do I delay to make Pseudolus give a name  to a colony at the mill-stones?
+But who’s this fellow in the scarf?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h42-h32
+:END:
+
+I don’t know, i’ faith; however, let’s observe whither he’s going, and what business he’s upon. (They stand on one side.)
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+* 1103
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+(Enter HARPAX.)
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h1
+:END:
+
+(to himself.)
+That slave’s a base and worthless fellow, who values his master’s commands at nought; and he, too, is good for nothing who is forgetful to do his duty unless he’s put in mind.
+But those who forthwith deem themselves to be at liberty, when they have hidden themselves from the sight of their master, who riot, wench, devour what they have,—aye, what they have not,—long do those same endure the name of servitude. Nor is there any good disposition in them,
+except only that they may uphold themselves by their dishonest contrivances. With these, neither their company nor their conversation suits me, nor by these persons have I been ever known. Although he is away, I consider my master as being here; I fear him
+when he isn’t here, that I may not have to fear him when he is here. Therefore, as I have been ordered, to this business will I give my attention. But that Syrus, to whom I gave the token, would have been letting me stay even yet in the shop. As he bade me, I stayed there; he said that he would send for me when the procurer was at home. But since he hasn’t come, or called me while staying there,
+I’m come hither of my own accord, that I may know what is the fact, that that fellow mayn’t be playing tricks with me. And there is nothing better than that I should knock at this door, and call some out here from indoors. I want this procurer to take this money of me, and to send off this woman with me. (Goes towards BALLIO’S door.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h2
+:END:
+
+(from behind, to SIMO.)
+Hark you!
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h3
+:END:
+
+(apart.)
+What do you want?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h4
+:END:
+
+(apart.)
+This fellow’s my own.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h5
+:END:
+
+(apart.)
+How so?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h6
+:END:
+
+(apart, pointing to the purse in the hand of HARPAX.)
+Because that booty’s mine.
+He’s in search of a mistress he has got money. I already long to fix my teeth in him.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h7
+:END:
+
+(apart.)
+Are you going to devour him already?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h8
+:END:
+
+(apart.)
+While he’s fresh, while he’s in the habit of giving away, while he’s warm upon it, ’tis proper for him to be gobbled up. The good men keep me poor, the bad ones support me; the virtuous are a benefit to the public, the debauched to myself.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h9
+:END:
+
+(aside.)
+A mischief may the Gods send you; such a villain are you.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h10
+:END:
+
+(apart.)
+Venus bestows upon me these blessings, when she drives hither these haters of money, these who quite long for losses, who carefully pamper themselves and their youthful age, eat, drink, and wench. Of quite different dispositions are they and you.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h11
+:END:
+
+(to himself.)
+I’m now delaying myself, in not knocking at this door, that I may know whether or no Ballio is at home now.
+(Calls out, going up to the door.) Hallo! where are you? Hallo! where are you?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h12
+:END:
+
+(apart.)
+Why, he’s going straight up towards my house.
+I shall come off finely loaded with plunder from this fellow; I know it’s a lucky omen for me.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h13
+:END:
+
+(knocking violently at the door.)
+Does any one come to open this door?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h14
+:END:
+
+(calling out to him.)
+Hallo! you in the scarf, what’s owing you at that house?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h15
+:END:
+
+I’m enquiring for Ballio, the procurer, the master of the house.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h16
+:END:
+
+Whoever you are, young man, make short work of your enquiries.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h17
+:END:
+
+Why so?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h18
+:END:
+
+Because he himself in person sees you in his presence before him.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h19
+:END:
+
+What, are you he?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h20
+:END:
+
+You in the scarf, take you care, please, of some crooked misfortune, and point your finger  at him; this fellow is a procurer.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h21
+:END:
+
+(pointing to SIMO.)
+And this is an honest man.
+(To SIMO.) But you, worthy fellow, are many a time being hunted after in the Forum with noise enough, when you haven’t a groat in the world, unless this procurer here comes to help you a bit.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h22
+:END:
+
+But why don’t you address yourself to me?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h23
+:END:
+
+I do address you. What is it you want?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h24
+:END:
+
+You to take this money. (He holds out the five minae.)
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h25
+:END:
+
+(holding out his hand.)
+Already have I extended my hand, if you are going to give it.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h26
+:END:
+
+Take it; here are five picked minae of silver counted out.
+(Gives him the money.) This did my master, Polymachaeroplagides. order me to deliver to you, the sum which he was owing, and that you were to send Phœnicium with me.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h27
+:END:
+
+Your master?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h28
+:END:
+
+I say to that effect.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h29
+:END:
+
+The Captain?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h30
+:END:
+
+I speak to that effect.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h31
+:END:
+
+The Macedonian?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h32
+:END:
+
+Such is the fact, I say.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h33
+:END:
+
+Polymachaeroplagides sent you to me?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h34
+:END:
+
+You say what’s fact.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h35
+:END:
+
+To give me this money?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h36
+:END:
+
+If you really are
+the procurer Ballio.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h37
+:END:
+
+And for you to take away the woman from me?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h38
+:END:
+
+Even so.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h39
+:END:
+
+Did he say that it was Phœnicium?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h40
+:END:
+
+You remember it exactly.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h41
+:END:
+
+Wait there; I’ll return to you this instant.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h42
+:END:
+
+Make haste, then, with all speed, for I’m in a hurry. ’Tis now late in the day, d’ye see?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h43
+:END:
+
+I see; still I wish to call this person aside. Do you only wait there; I’ll return to you this instant. (He takes SIMO on one side.) What’s to be done now, Simo?
+What are we to do? I’ve detected this fellow that has brought the money in the fact.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h44
+:END:
+
+How so?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h45
+:END:
+
+And don’t you understand what this plan is?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h46
+:END:
+
+About as much as the most ignorant do.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h47
+:END:
+
+Your servant, Pseudolus, has sent this fellow on the message, as though he was from the Macedonian Captain.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h48
+:END:
+
+Have you got the money from the fellow?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h49
+:END:
+
+Do you ask about that which you see? (Shows the purse in his hand.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h50
+:END:
+
+Harkye, remember to give me one half of that plunder.
+It’s right that that should be in common.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h51
+:END:
+
+Why, plague on’t, ’tis all your own .
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h52
+:END:
+
+(coming forward a step.)
+How soon are you going to attend to me?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h53
+:END:
+
+I’ll attend to you, indeed. (Aside.) What now do you advise me to do, Simo?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h54
+:END:
+
+(aside.)
+Let’s make some fun of this counterfeit spy, even until he himself shall be sensible that he is being made a fool of.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h55
+:END:
+
+Follow me. (To HARPAX.) What have you to say? You are his servant, I suppose?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h56
+:END:
+
+Most certainly.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h57
+:END:
+
+At what price did he purchase you?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h58
+:END:
+
+With the victory of his prowess in battle; for I was a very great general at home in my own country.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h59
+:END:
+
+Why, did he ever capture a gaol in your country?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h60
+:END:
+
+If you utter affronting speeches, you’ll be hearing them.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h61
+:END:
+
+In what time did you come from Sicyon hither?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h62
+:END:
+
+In one day, by noon.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h63
+:END:
+
+Bravo! By my troth, you did come quickly;
+how very swift of foot this man is.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h64
+:END:
+
+When you look at his calves, you might know that he can wear heavy fetters.
+How say you—were you also, when a child, in the habit of sleeping in a cradle?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h65
+:END:
+
+Of course.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h66
+:END:
+
+And were you, too, in the habit of doing —you know what I mean?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h67
+:END:
+
+Of course he was in the habit of doing as other children did?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h68
+:END:
+
+Are you men in your senses?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h69
+:END:
+
+What, because I asked you that?
+At night, when the Captain was going on guard, and when you were going with him, did the sword of the officer fit your scabbard?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h70
+:END:
+
+Go to utter perdition.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h71
+:END:
+
+You, indeed, shall have the opportunity of going there in good time to-day.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h72
+:END:
+
+But do you bring out the woman to me, or else give me back the money.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h73
+:END:
+
+Wait a bit.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h74
+:END:
+
+Why should I wait?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h75
+:END:
+
+That scarf, tell me for how much it has been lent.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h76
+:END:
+
+What matters it?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h77
+:END:
+
+How much is the sword hired for?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h78
+:END:
+
+These fellows surely stand in need of hellebore .
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h79
+:END:
+
+How now—(Takes hold of him.)
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h80
+:END:
+
+(repulsing him.)
+Leave me alone.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h81
+:END:
+
+What wages does that broad-brimmed hat hire to-day for its owner?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h82
+:END:
+
+What owner?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h83
+:END:
+
+What do the shoes?  [lost]
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h84
+:END:
+
+What are you dreaming about? Why, I’m the owner of all these things, bought with my own savings.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h85
+:END:
+
+Those, you mean, which the upper part of your thighs supports .
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h86
+:END:
+
+(aside.)
+These old fellows have been anointed; they want themselves rubbed down , after the old-fashioned custom.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h87
+:END:
+
+I’ faith, prithee, answer me this truly and seriously, which I ask of you: What are you to earn? For how trifling a sum has Pseudolus hired you?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h88
+:END:
+
+Who is this Pseudolus?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h89
+:END:
+
+Your tutor, who has instructed you in this knavery, to take away the woman hence from me by stratagem.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h90
+:END:
+
+What Pseudolus, and what stratagem are you talking to me about? A person that I know of no colour, black or white.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h91
+:END:
+
+Will you not be off from here? There’s no profit here for swindlers to-day. Therefore you may tell Pseudolus that another person has carried off the prize-the first Harpax that came.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h92
+:END:
+
+On my word, I really am that Harpax.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h93
+:END:
+
+Aye, on my word, you want to be.
+This is nothing more nor less than a downright impostor.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h94
+:END:
+
+I have given yourself the money, and a while ago, immediately on my arrival, the token to your servant; a letter sealed with the likeness of my master, here before the door.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h95
+:END:
+
+You gave a letter to my servant? What servant?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h96
+:END:
+
+To Syrus.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h97
+:END:
+
+(to SIMO.)
+The wicked rogue has assurance enough . He hasn’t contrived his knavish scheme amiss.
+By my faith, that whipping-post of a fellow, Pseudolus, how cleverly he has managed his plans; just as much money as the Captain owed, he has given this man, and has dressed out the fellow that he might take away the woman  [lost] (To HARPAX.) But the real Harpax himself brought that letter hither to me.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h98
+:END:
+
+My name is Harpax; I am the servant of the Macedonian Captain. I’m doing nothing roguishly or cheatingly, nor do I know or understand this Pseudolus, what mortal being he is.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h99
+:END:
+
+Unless it’s something wonderful, procurer, you’ve clearly lost the woman.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h100
+:END:
+
+Assuredly, by my troth, I’m in dread of that more and more, when I come to hear his words.
+I’ faith, that Syrus, too, has already set my heart a-freezing, that received the token from him.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h101
+:END:
+
+’Tis a wonder if it isn’t Pseudolus.
+(To HARPAX.) How now, you! of what appearance was the person to whom you delivered the token?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h102
+:END:
+
+A certain red-haired fellow , pot-bellied, with thick calves, swarthy, with a big head, sharp eyes, red face,
+and very large feet.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h103
+:END:
+
+You prove our undoing, when you mention the feet. It was Pseudolus himself. It’s all up with me. I’m dying now, Simo.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h104
+:END:
+
+By my troth, I shan’t let you die, unless the money’s returned me-twenty minae.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h105
+:END:
+
+And another twenty minae to me as well.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h106
+:END:
+
+(to SIMO.)
+And is the sum to be taken of me that I promised by way of a joke?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h107
+:END:
+
+From unprincipled men it’s proper for both their money and their plunder to be taken.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h108
+:END:
+
+At least you might give up Pseudolus to me.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h109
+:END:
+
+I, give up Pseudolus to you? What has he done amiss? Did I not tell you a hundred times that you were to beware of him?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h110
+:END:
+
+He has ruined me.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h111
+:END:
+
+And on me he has laid a fine of twenty fair minae.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h112
+:END:
+
+What am I to do then?
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h113
+:END:
+
+When you have given me the money—go hang yourself.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h114
+:END:
+
+The Gods confound you. (To HARPAX.) Follow me, then, this way, please, to the Forum, that I may pay you.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h115
+:END:
+
+I follow you.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h44-h116
+:END:
+
+What am I to do?
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h117
+:END:
+
+Strangers I’ll pay at once; to-morrow I’ll settle with fellow-citizens. Pseudolus has been holding a council-general  against my life, in sending that fellow to me to-day to carry off the woman. (To HARPAX.) Do you follow me, (To the AUDIENCE.) Now don’t you be expecting that I shall be returning home this way.
+As matters stand, I’ve determined to go through the alleys.
+
+** HARPAX
+:PROPERTIES:
+:CUSTOM_ID: h44-h118
+:END:
+
+If you had walked at the rate you talk, you’d by this have been at the Forum.
+
+** BALLIO
+:PROPERTIES:
+:CUSTOM_ID: h44-h119
+:END:
+
+I’m determined to make this, instead of my birthday, my dying day. (Exit BALLIO, HARPAX following.)
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+* 1238
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+(SIMO, alone)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h46-h1
+:END:
+
+I’ve touched this fellow handsomely, and cleverly has my servant managed his adversary. Now am I resolved to lie in ambush for Pseudolus
+in a different manner to what’s done in other plays, where people lie in wait with goads or whips. Without revenge will I at once pay down the twenty minae which I promised if he should effect it. I’ll carry them to him of my own accord. This creature is very clever, very cunning, very artful. Pseudolus has surpassed the Trojan stratagem  and Ulysses too.
+Now I’ll be off in-doors. I’ll take out the money; I’ll lie in ambush for Pseudolus. (Goes into his house.)
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+* 1246
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+(Enter PSEUDOLUS, drunk, with a chaplet on his head.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h49-h1
+:END:
+
+(staggering.)
+How’s this? And is it the fact? Feet-are you standing or not? Or is it this you want, some; one to pick me up here as I lie? But, by my faith, if I do fall down, yours will be the fault. Are you going to go? Heigho! I must wait upon myself.
+This is the great fault in wine; it first lays hold of the feet; ’tis a cunning wrestler. By my faith, assuredly am I now come off right well drenched; with such exquisite viands, with such becoming elegance, in such a delightful place, have we been delightfully entertained.
+What’s the need for me to make much prosing? This is the thing for a man, an object for him to pass his life for; here are all pleasures and all delights. I think that the ecstasy is equal to that of the Deities, when the lover embraces his mistress, when he places lip to lip,
+when melting kisses are exchanged, when breast is pressed to breast, or else, if they please, they are locked in strict embrace; then for your most loving mistress, with her white hand, to be pledging you in the luscious goblet, for no one there to be disagreable to another, for no one to be indulging in silly conversation;
+for unguents and perfumes, ribbons  and festive wreaths, to be provided in profusion; and for the rest of the entertainment, too, to be provided in no niggardly style. That no one may have to question me then, in this manner have myself and my young master been spending this day in jollity.
+After I had fulfilled all my task just as I intended, the enemy put to flight, I was leaving them reclining and drinking, each lover with his mistress, and my own mistress there as well, indulging heart and soul. But after I had risen, they begged me to dance. After this fashion (he dances) did I show myself off there quite charmingly, in a master-like style, to wit; for I am
+thoroughly acquainted with the Ionian step. Thus, clad in my little mantle, full of fun, I was stepping about, this way. Some of them clapped me, others cried out for me to dance again. In that same Ionian fashion once again did I begin to take a turn; I presented myself to my mistress,
+that she might caress me; as I was pirouetting, down I tumbled: that was the funeral dirge  for my sport. And so, while I was a-struggling to get up, near—, almost, I mean, I soiled my mantle.
+Then, by my troth, I was the cause of plenteous mirth. A goblet was presented me on account of my fall. Forthwith I changed my mantle, and put on this; thence have I come hither, that I might get rid of my surfeit. Now I’m going to my old master, to put him in mind of our bargain. Open-open the door. Hallo, there! Tell Simo, somebody, that I’m here. (Knocks at the door of SIMO’S house.)
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+* 1285
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+(Enter SIMO, from his house.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h1
+:END:
+
+The voice of a rascally fellow is calling me out of doors. (He stares at PSEUDOLUS.) But what’s this? How’s this? What is it I see in this guise?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h2
+:END:
+
+(staggering towards him.)
+Your own Pseudolus, drunk, with a chaplet on .
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h3
+:END:
+
+(to himself.)
+By my troth, this is free and easy indeed. But see his attitude; is he on my account a bit the more afraid?
+I’m thinking whether I shall address him harshly or kindly. But this (pointing to a purse in his hand) that I’m carrying forbids me to use rough measures towards him just now; if there’s any hope for me, centred in this.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h4
+:END:
+
+(staggering up to SIMO.)
+A worthless fellow is coming to meet the best of men.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h5
+:END:
+
+May the Gods bless you, Pseudolus. (PSEUDOLUS eructates.) Foh! go to utter perdition. (Pushes him away.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h6
+:END:
+
+But why should I have that mischance befal me?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h7
+:END:
+
+Why, the plague, in your drunkenness, are you eructating in my face?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h8
+:END:
+
+Hold me up, steadily; take care that I don’t fall. Don’t you see me, how drenched and soaking I am?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h9
+:END:
+
+What impudence is this, for you to be going about this way in broad daylight, drunk, with a chaplet on?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h10
+:END:
+
+Such is my pleasure. (Eructates again.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h11
+:END:
+
+Why your pleasure? Do you persist in eructating in my very face?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h12
+:END:
+
+An eructation is comforting to me; do indulge me in it; do but stand off.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h13
+:END:
+
+For my part I really do believe, you villain, that you are able in a single hour to drink up four right plentiful vintages of the Massic hills .
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h14
+:END:
+
+A winter hour , add.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h15
+:END:
+
+You don’t remind me amiss. But tell me, however, whence I am to say that you are bringing your deeply-laden bark?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h16
+:END:
+
+I’ve just been having a thorough bout with your son.
+That damsel is the cause of this; along with your son she is carousing, a free woman.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h17
+:END:
+
+You are a most worthless fellow.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h18
+:END:
+
+But, Simo, wasn’t Ballio nicely diddled? How well I carried what I told you into effect.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h19
+:END:
+
+I know everything in its order, just as you managed each particular.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h20
+:END:
+
+Why, then, do you hesitate to pay me the money?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h21
+:END:
+
+You ask what’s just, I confess; take it. (Gives him the money.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h22
+:END:
+
+But you declared that you wouldn’t give it me; and still do you give it.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h23
+:END:
+
+Are you laughing at me?
+What? Are you going to take this from your master, Pseudolus?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h24
+:END:
+
+With most willing heart and soul.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h25
+:END:
+
+Prithee, can’t you venture to make me an abatement of some portion of this money?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h26
+:END:
+
+No: you shall say that I really am a greedy fellow; for you shall never be richer by a single coin of this money.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h27
+:END:
+
+Well,
+I really didn’t suppose that it would ever come to pass with me that I should be begging of you.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h28
+:END:
+
+Load your shoulder with it, and follow me this way. (Pointing.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h29
+:END:
+
+I—load myself with that?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h30
+:END:
+
+You will load yourself, I’m sure.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h31
+:END:
+
+What am I to do to this fellow? Doesn’t he, contrary to my expectation, take my money, and then laugh at me?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h32
+:END:
+
+Woe to the conquered :
+turn your back, then. (Turns him round.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h33
+:END:
+
+Oh! oh!
+desist. Let me alone—
+I’m in pain.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h34
+:END:
+
+Were you not in pain, I should be in pain;
+and no compassion would you have had for my back, if I hadn’t this day managed this.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h35
+:END:
+
+There will be an opportunity for me to be revenged on you, if I live.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h36
+:END:
+
+Why do you threaten? I’ve got a back of my own.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h37
+:END:
+
+Very well, then. (Moves as if going.)
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h38
+:END:
+
+Come you back then.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h39
+:END:
+
+Why come back?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h40
+:END:
+
+Only come you back; you shall not be deceived.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h41
+:END:
+
+(turns round.)
+I am come back.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h42
+:END:
+
+Come and have a drink with me.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h43
+:END:
+
+What—I, come?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h44
+:END:
+
+Do as I ask you. If you do come, I’ll let you take half of this, or even more. (Points to the purse in his hand.)
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h45
+:END:
+
+I’ll come; take me where you like, Pseudolus.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h46
+:END:
+
+How now then? Are you at all angry with me or with your son, Simo, on account of these matters?
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h47
+:END:
+
+Certainly, not at all.
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h48
+:END:
+
+(going.)
+Step this way now.
+
+** SIMO
+:PROPERTIES:
+:CUSTOM_ID: h51-h49
+:END:
+
+I follow you. But why don’t you invite the Spectators as well?
+
+** PSEUDOLUS
+:PROPERTIES:
+:CUSTOM_ID: h51-h50
+:END:
+
+(turning round.)
+I’ faith, they are not in the habit of inviting me; and, therefore, I don’t invite them. But if you (addressing the AUDIENCE) are willing to applaud and approve of this company of players, and this Comedy,
+I invite you for to-morrow .
