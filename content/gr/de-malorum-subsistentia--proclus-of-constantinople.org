@@ -1,6 +1,6 @@
 #+TITLE: De malorum subsistentia
 #+AUTHOR: Πρόκλος Κωνσταντινουπόλεως
-#+FILETAGS: :patristic:5c-ad:
+#+FILETAGS: :patristic:5c-ad:pg65:
 #+MIGNE_TITLE: De malorum subsistentia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

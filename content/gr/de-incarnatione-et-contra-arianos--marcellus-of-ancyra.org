@@ -1,6 +1,6 @@
 #+TITLE: De incarnatione et contra Arianos
 #+AUTHOR: Μάρκελλος Ἀγκύρας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg18:
 #+MIGNE_TITLE: De incarnatione et contra Arianos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

@@ -1,6 +1,6 @@
 #+TITLE: Poenae in monachos delinquentes
 #+AUTHOR: Βασίλειος Καισαρείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg29-32:
 #+MIGNE_TITLE: Poenae in monachos delinquentes
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

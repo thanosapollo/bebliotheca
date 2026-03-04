@@ -1,6 +1,6 @@
 #+TITLE: Epistula catholica
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg25-28:
 #+MIGNE_TITLE: Epistula catholica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

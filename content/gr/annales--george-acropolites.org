@@ -1,6 +1,6 @@
 #+TITLE: Annales
 #+AUTHOR: Γεώργιος Ἀκροπολίτης
-#+FILETAGS: :byzantine:13c-ad:
+#+FILETAGS: :byzantine:13c-ad:pg140:
 #+MIGNE_TITLE: Annales
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

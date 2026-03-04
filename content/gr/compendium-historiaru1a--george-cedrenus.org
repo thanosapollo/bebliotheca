@@ -1,6 +1,6 @@
 #+TITLE: Compendium historiarum
 #+AUTHOR: Γεώργιος Κεδρηνός
-#+FILETAGS: :byzantine:11c-ad:
+#+FILETAGS: :byzantine:11c-ad:pg121-122:
 #+MIGNE_TITLE: Compendium historiarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

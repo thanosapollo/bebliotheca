@@ -1,6 +1,6 @@
 #+TITLE: Homiliae 7
 #+AUTHOR: Μακάριος Αἰγύπτου
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg34:
 #+MIGNE_TITLE: Homiliae 7
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

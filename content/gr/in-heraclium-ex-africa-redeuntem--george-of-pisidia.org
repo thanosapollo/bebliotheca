@@ -1,6 +1,6 @@
 #+TITLE: In Heraclium ex Africa redeuntem
 #+AUTHOR: Γεώργιος Πισίδης
-#+FILETAGS: :byzantine:7c-ad:
+#+FILETAGS: :byzantine:7c-ad:pg92:
 #+MIGNE_TITLE: In Heraclium ex Africa redeuntem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

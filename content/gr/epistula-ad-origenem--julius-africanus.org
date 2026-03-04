@@ -1,6 +1,6 @@
 #+TITLE: Epistula ad Origenem
 #+AUTHOR: Ἰούλιος Ἀφρικανός
-#+FILETAGS: :patristic:3c-ad:
+#+FILETAGS: :patristic:3c-ad:pg10:
 #+MIGNE_TITLE: Epistula ad Origenem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

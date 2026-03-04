@@ -1,6 +1,6 @@
 #+TITLE: Epithalamium fortunatissimis caesaris filiis
 #+AUTHOR: Θεόδωρος Πρόδρομος
-#+FILETAGS: :byzantine:12c-ad:
+#+FILETAGS: :byzantine:12c-ad:pg133:
 #+MIGNE_TITLE: Epithalamium fortunatissimis caesaris filiis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

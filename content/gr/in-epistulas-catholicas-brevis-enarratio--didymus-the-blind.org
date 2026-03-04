@@ -1,6 +1,6 @@
 #+TITLE: In epistulas catholicas brevis enarratio
 #+AUTHOR: Δίδυμος ὁ Τυφλός
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg39:
 #+MIGNE_TITLE: In epistulas catholicas brevis enarratio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

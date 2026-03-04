@@ -1,6 +1,6 @@
 #+TITLE: Lexicon
 #+AUTHOR: Ἰωάννης Ζωναρᾶς
-#+FILETAGS: :byzantine:12c-ad:
+#+FILETAGS: :byzantine:12c-ad:pg134-135:
 #+MIGNE_TITLE: Lexicon
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

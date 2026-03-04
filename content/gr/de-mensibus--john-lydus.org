@@ -1,6 +1,6 @@
 #+TITLE: De mensibus
 #+AUTHOR: Ἰωάννης Λαυρέντιος Λυδός
-#+FILETAGS: :byzantine:6c-ad:
+#+FILETAGS: :byzantine:6c-ad:pg85:
 #+MIGNE_TITLE: De mensibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

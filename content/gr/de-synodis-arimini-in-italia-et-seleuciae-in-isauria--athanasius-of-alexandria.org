@@ -1,6 +1,6 @@
 #+TITLE: De synodis Arimini in Italia et Seleuciae in Isauria
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg25-28:
 #+MIGNE_TITLE: De synodis Arimini in Italia et Seleuciae in Isauria
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

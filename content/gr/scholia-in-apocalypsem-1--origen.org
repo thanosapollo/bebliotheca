@@ -1,6 +1,6 @@
 #+TITLE: Scholia in Apocalypsem
 #+AUTHOR: Ὠριγένης
-#+FILETAGS: :patristic:3c-ad:
+#+FILETAGS: :patristic:3c-ad:pg11-17:
 #+MIGNE_TITLE: Scholia in Apocalypsem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

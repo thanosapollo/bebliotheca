@@ -1,6 +1,6 @@
 #+TITLE: Sacra parallela recensiones secundum alphabeti
 #+AUTHOR: Ἰωάννης Δαμασκηνός
-#+FILETAGS: :patristic:8c-ad:
+#+FILETAGS: :patristic:8c-ad:pg94-96:
 #+MIGNE_TITLE: Sacra parallela recensiones secundum alphabeti
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

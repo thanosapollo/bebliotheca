@@ -1,6 +1,6 @@
 #+TITLE: Stromata
 #+AUTHOR: Κλήμης Ἀλεξανδρείας
-#+FILETAGS: :patristic:2c-ad:
+#+FILETAGS: :patristic:2c-ad:pg08-09:
 #+MIGNE_TITLE: Stromata
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

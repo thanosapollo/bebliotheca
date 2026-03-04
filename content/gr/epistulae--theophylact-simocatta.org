@@ -1,6 +1,6 @@
 #+TITLE: Epistulae
 #+AUTHOR: Θεοφύλακτος Σιμοκάττης
-#+FILETAGS: :byzantine:7c-ad:
+#+FILETAGS: :byzantine:7c-ad:pg98:pg113:
 #+MIGNE_TITLE: Epistulae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

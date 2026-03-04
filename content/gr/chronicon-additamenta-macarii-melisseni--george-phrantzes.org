@@ -1,6 +1,6 @@
 #+TITLE: Chronicon additamenta Macarii Melisseni
 #+AUTHOR: Γεώργιος Φραντζῆς
-#+FILETAGS: :byzantine:15c-ad:
+#+FILETAGS: :byzantine:15c-ad:pg156:
 #+MIGNE_TITLE: Chronicon additamenta Macarii Melisseni
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

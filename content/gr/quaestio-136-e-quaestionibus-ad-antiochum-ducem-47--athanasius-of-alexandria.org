@@ -1,6 +1,6 @@
 #+TITLE: Quaestio 136 e quaestionibus ad Antiochum ducem 47
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg25-28:
 #+MIGNE_TITLE: Quaestio 136 e quaestionibus ad Antiochum ducem 47
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

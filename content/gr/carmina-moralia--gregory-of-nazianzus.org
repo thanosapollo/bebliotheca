@@ -1,6 +1,6 @@
 #+TITLE: Carmina moralia
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg35-38:
 #+MIGNE_TITLE: Carmina moralia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

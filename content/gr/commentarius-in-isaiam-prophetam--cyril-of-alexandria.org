@@ -1,6 +1,6 @@
 #+TITLE: Commentarius in Isaiam prophetam
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
-#+FILETAGS: :patristic:5c-ad:
+#+FILETAGS: :patristic:5c-ad:pg68-77:
 #+MIGNE_TITLE: Commentarius in Isaiam prophetam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

@@ -1,6 +1,6 @@
 #+TITLE: Epistula ad Aristidem
 #+AUTHOR: Ἰούλιος Ἀφρικανός
-#+FILETAGS: :patristic:3c-ad:
+#+FILETAGS: :patristic:3c-ad:pg10:
 #+MIGNE_TITLE: Epistula ad Aristidem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

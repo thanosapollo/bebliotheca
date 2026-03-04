@@ -1,6 +1,6 @@
 #+TITLE: Epigrammata
 #+AUTHOR: Ἀρέθας Καισαρείας Καππαδοκίας
-#+FILETAGS: :byzantine:10c-ad:
+#+FILETAGS: :byzantine:10c-ad:pg106:
 #+MIGNE_TITLE: Epigrammata
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

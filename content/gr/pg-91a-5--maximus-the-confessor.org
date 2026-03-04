@@ -1,6 +1,6 @@
 #+TITLE: Scholia in librum de Divinis Nominibus
 #+AUTHOR: Μάξιμος ὁ Ὁμολογητής
-#+FILETAGS: :patristic:7c-ad:
+#+FILETAGS: :patristic:7c-ad:pg90-91:
 #+MIGNE_TITLE: PG 91A 5
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

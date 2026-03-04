@@ -1,6 +1,6 @@
 #+TITLE: Contra Severum Antiochenum
 #+AUTHOR: Ὀλυμπιόδωρος Διάκονος Ἀλεξανδρείας
-#+FILETAGS: :byzantine:6c-ad:
+#+FILETAGS: :byzantine:6c-ad:pg93:
 #+MIGNE_TITLE: Contra Severum Antiochenum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

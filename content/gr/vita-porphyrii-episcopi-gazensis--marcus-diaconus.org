@@ -1,6 +1,6 @@
 #+TITLE: Vita Porphyrii episcopi Gazensis
 #+AUTHOR: Μάρκος Διάκονος
-#+FILETAGS: :patristic:5c-ad:
+#+FILETAGS: :patristic:5c-ad:pg65:
 #+MIGNE_TITLE: Vita Porphyrii episcopi Gazensis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

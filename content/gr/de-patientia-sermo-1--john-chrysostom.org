@@ -1,6 +1,6 @@
 #+TITLE: De patientia sermo 1
 #+AUTHOR: Ἰωάννης Χρυσόστομος
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg47-64:
 #+MIGNE_TITLE: De patientia sermo 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

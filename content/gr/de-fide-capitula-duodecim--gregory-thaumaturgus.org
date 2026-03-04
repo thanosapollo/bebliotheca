@@ -1,6 +1,6 @@
 #+TITLE: De fide capitula duodecim
 #+AUTHOR: Γρηγόριος Θαυματουργός
-#+FILETAGS: :patristic:3c-ad:
+#+FILETAGS: :patristic:3c-ad:pg10:
 #+MIGNE_TITLE: De fide capitula duodecim
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

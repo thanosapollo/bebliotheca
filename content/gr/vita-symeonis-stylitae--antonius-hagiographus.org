@@ -1,6 +1,6 @@
 #+TITLE: Vita Symeonis Stylitae
 #+AUTHOR: Ἀντώνιος Ἁγιογράφος
-#+FILETAGS: :byzantine:6c-ad:
+#+FILETAGS: :byzantine:6c-ad:pg86b:
 #+MIGNE_TITLE: Vita Symeonis Stylitae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

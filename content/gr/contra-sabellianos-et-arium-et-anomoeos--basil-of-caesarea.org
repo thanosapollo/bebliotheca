@@ -1,6 +1,6 @@
 #+TITLE: Contra Sabellianos et Arium et Anomoeos
 #+AUTHOR: Βασίλειος Καισαρείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg29-32:
 #+MIGNE_TITLE: Contra Sabellianos et Arium et Anomoeos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

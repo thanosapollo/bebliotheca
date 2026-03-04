@@ -1,6 +1,6 @@
 #+TITLE: Fragmenta ex commentariis in epistulam i ad Corinthios
 #+AUTHOR: Ὠριγένης
-#+FILETAGS: :patristic:3c-ad:
+#+FILETAGS: :patristic:3c-ad:pg11-17:
 #+MIGNE_TITLE: Fragmenta ex commentariis in epistulam i ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

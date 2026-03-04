@@ -1,6 +1,6 @@
 #+TITLE: Antirrheticus adversus Apollinarium
 #+AUTHOR: Γρηγόριος Νύσσης
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg44-46:
 #+MIGNE_TITLE: Antirrheticus adversus Apollinarium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

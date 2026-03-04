@@ -1,6 +1,6 @@
 #+TITLE: Constantini imperatoris oratio ad coetum sanctorum
 #+AUTHOR: Εὐσέβιος Καισαρείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg19-24:
 #+MIGNE_TITLE: Constantini imperatoris oratio ad coetum sanctorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

@@ -1,6 +1,6 @@
 #+TITLE: Epitome rerum ab Joanne et Alexio Comnenis gestarum
 #+AUTHOR: Ἰωάννης Κίνναμος
-#+FILETAGS: :byzantine:12c-ad:
+#+FILETAGS: :byzantine:12c-ad:pg133:
 #+MIGNE_TITLE: Epitome rerum ab Joanne et Alexio Comnenis gestarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

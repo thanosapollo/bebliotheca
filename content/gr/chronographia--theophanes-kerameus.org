@@ -1,6 +1,6 @@
 #+TITLE: Chronographia
 #+AUTHOR: Θεοφάνης Κεραμεύς
-#+FILETAGS: :byzantine:12c-ad:
+#+FILETAGS: :byzantine:12c-ad:pg132:
 #+MIGNE_TITLE: Chronographia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

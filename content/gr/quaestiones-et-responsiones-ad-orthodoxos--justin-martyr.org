@@ -1,6 +1,6 @@
 #+TITLE: Quaestiones et responsiones ad orthodoxos
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
-#+FILETAGS: :patristic:2c-ad:
+#+FILETAGS: :patristic:2c-ad:pg06:
 #+MIGNE_TITLE: Quaestiones et responsiones ad orthodoxos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

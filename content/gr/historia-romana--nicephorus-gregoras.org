@@ -1,6 +1,6 @@
 #+TITLE: Historia Romana
 #+AUTHOR: Νικηφόρος Γρηγορᾶς
-#+FILETAGS: :byzantine:14c-ad:
+#+FILETAGS: :byzantine:14c-ad:pg148-149:
 #+MIGNE_TITLE: Historia Romana
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

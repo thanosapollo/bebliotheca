@@ -1,6 +1,6 @@
 #+TITLE: Commentarius in hexaemeron
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg18:
 #+MIGNE_TITLE: Commentarius in hexaemeron
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

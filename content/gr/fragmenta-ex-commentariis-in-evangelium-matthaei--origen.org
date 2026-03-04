@@ -1,6 +1,6 @@
 #+TITLE: Fragmenta ex commentariis in evangelium Matthaei
 #+AUTHOR: Ὠριγένης
-#+FILETAGS: :patristic:3c-ad:
+#+FILETAGS: :patristic:3c-ad:pg11-17:
 #+MIGNE_TITLE: Fragmenta ex commentariis in evangelium Matthaei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

@@ -1,6 +1,6 @@
 #+TITLE: Historiae 1
 #+AUTHOR: Ἀγαθίας Σχολαστικός
-#+FILETAGS: :byzantine:6c-ad:
+#+FILETAGS: :byzantine:6c-ad:pg88:
 #+MIGNE_TITLE: Historiae 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

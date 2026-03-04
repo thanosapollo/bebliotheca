@@ -1,6 +1,6 @@
 #+TITLE: Barnabae epistula
 #+AUTHOR: Βαρνάβας
-#+FILETAGS: :patristic:1c-ad:
+#+FILETAGS: :patristic:1c-ad:pg02:
 #+MIGNE_TITLE: Barnabae epistula
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

@@ -1,6 +1,6 @@
 #+TITLE: Inventio crucis
 #+AUTHOR: Ἀλέξανδρος Μοναχός
-#+FILETAGS: :byzantine:6c-ad:
+#+FILETAGS: :byzantine:6c-ad:pg87c:
 #+MIGNE_TITLE: Inventio crucis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

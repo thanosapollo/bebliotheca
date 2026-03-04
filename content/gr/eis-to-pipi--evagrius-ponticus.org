@@ -1,6 +1,6 @@
 #+TITLE: eis to pipi
 #+AUTHOR: Εὐάγριος Ποντικός
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg40:
 #+MIGNE_TITLE: eis to pipi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

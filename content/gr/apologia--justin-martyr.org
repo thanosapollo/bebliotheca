@@ -1,6 +1,6 @@
 #+TITLE: Apologia
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
-#+FILETAGS: :patristic:2c-ad:
+#+FILETAGS: :patristic:2c-ad:pg06:
 #+MIGNE_TITLE: Apologia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

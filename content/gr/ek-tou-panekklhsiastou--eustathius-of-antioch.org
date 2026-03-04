@@ -1,6 +1,6 @@
 #+TITLE: ek tou panekklhsiastou
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg18:
 #+MIGNE_TITLE: ek tou panekklhsiastou
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

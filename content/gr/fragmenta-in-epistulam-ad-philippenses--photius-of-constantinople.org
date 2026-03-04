@@ -1,6 +1,6 @@
 #+TITLE: Fragmenta in epistulam ad Philippenses
 #+AUTHOR: Φώτιος Κωνσταντινουπόλεως
-#+FILETAGS: :byzantine:9c-ad:
+#+FILETAGS: :byzantine:9c-ad:pg101-104:
 #+MIGNE_TITLE: Fragmenta in epistulam ad Philippenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

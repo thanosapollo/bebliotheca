@@ -1,6 +1,6 @@
 #+TITLE: Vita Symeonis Stylitae - for merge 1
 #+AUTHOR: Ἀντώνιος Ἁγιογράφος
-#+FILETAGS: :byzantine:6c-ad:
+#+FILETAGS: :byzantine:6c-ad:pg86b:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

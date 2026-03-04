@@ -1,6 +1,6 @@
 #+TITLE: Homilia in nativitatem Mariae
 #+AUTHOR: Θεόδωρος Στουδίτης
-#+FILETAGS: :byzantine:9c-ad:
+#+FILETAGS: :byzantine:9c-ad:pg99:
 #+MIGNE_TITLE: Homilia in nativitatem Mariae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

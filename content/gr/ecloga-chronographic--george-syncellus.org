@@ -1,6 +1,6 @@
 #+TITLE: Ecloga chronographic
 #+AUTHOR: Γεώργιος Σύγκελλος
-#+FILETAGS: :byzantine:9c-ad:
+#+FILETAGS: :byzantine:9c-ad:pg110:
 #+MIGNE_TITLE: Ecloga chronographic
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

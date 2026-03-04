@@ -1,6 +1,6 @@
 #+TITLE: Constantinopoli oppugnata
 #+AUTHOR: Ἰωάννης Κανανός
-#+FILETAGS: :byzantine:15c-ad:
+#+FILETAGS: :byzantine:15c-ad:pg156:
 #+MIGNE_TITLE: Constantinopoli oppugnata
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

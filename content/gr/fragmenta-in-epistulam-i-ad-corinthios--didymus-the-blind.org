@@ -1,6 +1,6 @@
 #+TITLE: Fragmenta in epistulam i ad Corinthios
 #+AUTHOR: Δίδυμος ὁ Τυφλός
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg39:
 #+MIGNE_TITLE: Fragmenta in epistulam i ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

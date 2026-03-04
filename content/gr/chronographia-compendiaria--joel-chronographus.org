@@ -1,6 +1,6 @@
 #+TITLE: Chronographia compendiaria
 #+AUTHOR: Ἰωὴλ Χρονογράφος
-#+FILETAGS: :byzantine:13c-ad:
+#+FILETAGS: :byzantine:13c-ad:pg139:
 #+MIGNE_TITLE: Chronographia compendiaria
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

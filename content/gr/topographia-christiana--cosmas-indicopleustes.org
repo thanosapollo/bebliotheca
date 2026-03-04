@@ -1,6 +1,6 @@
 #+TITLE: Topographia Christiana
 #+AUTHOR: Κοσμᾶς Ἰνδικοπλεύστης
-#+FILETAGS: :byzantine:6c-ad:
+#+FILETAGS: :byzantine:6c-ad:pg88:
 #+MIGNE_TITLE: Topographia Christiana
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

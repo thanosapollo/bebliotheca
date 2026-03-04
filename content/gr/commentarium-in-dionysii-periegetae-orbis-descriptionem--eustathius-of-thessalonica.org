@@ -1,6 +1,6 @@
 #+TITLE: Commentarium in Dionysii periegetae orbis descriptionem
 #+AUTHOR: Εὐστάθιος Θεσσαλονίκης
-#+FILETAGS: :byzantine:12c-ad:
+#+FILETAGS: :byzantine:12c-ad:pg135:pg136:
 #+MIGNE_TITLE: Commentarium in Dionysii periegetae orbis descriptionem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

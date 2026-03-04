@@ -1,6 +1,6 @@
 #+TITLE: Chronicon i
 #+AUTHOR: Γεώργιος Παχυμέρης
-#+FILETAGS: :byzantine:13c-ad:
+#+FILETAGS: :byzantine:13c-ad:pg143-144:
 #+MIGNE_TITLE: Chronicon i
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

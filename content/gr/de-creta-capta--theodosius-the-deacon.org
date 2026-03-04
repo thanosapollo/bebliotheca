@@ -1,6 +1,6 @@
 #+TITLE: De Creta capta
 #+AUTHOR: Θεοδόσιος Διάκονος
-#+FILETAGS: :byzantine:8c-ad:
+#+FILETAGS: :byzantine:8c-ad:pg113:
 #+MIGNE_TITLE: De Creta capta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

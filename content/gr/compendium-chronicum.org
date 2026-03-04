@@ -1,6 +1,6 @@
 #+TITLE: Compendium chronicum
 #+AUTHOR: Γεώργιος Κεδρηνός
-#+FILETAGS: :byzantine:11c-ad:
+#+FILETAGS: :byzantine:12c-ad:pg127:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

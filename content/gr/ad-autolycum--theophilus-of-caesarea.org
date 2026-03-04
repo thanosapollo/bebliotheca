@@ -1,6 +1,6 @@
 #+TITLE: Ad Autolycum
 #+AUTHOR: Θεόφιλος Καισαρείας Παλαιστίνης
-#+FILETAGS: :patristic:2c-ad:
+#+FILETAGS: :patristic:2c-ad:pg05:
 #+MIGNE_TITLE: Ad Autolycum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

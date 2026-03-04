@@ -1,6 +1,6 @@
 #+TITLE: Epistulae paschales sive Homiliae paschales
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
-#+FILETAGS: :patristic:5c-ad:
+#+FILETAGS: :patristic:5c-ad:pg68-77:
 #+MIGNE_TITLE: Epistulae paschales sive Homiliae paschales
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

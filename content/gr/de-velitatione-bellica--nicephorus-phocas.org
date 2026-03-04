@@ -1,6 +1,6 @@
 #+TITLE: De velitatione bellica
 #+AUTHOR: Νικηφόρος Φωκᾶς
-#+FILETAGS: :byzantine:10c-ad:
+#+FILETAGS: :byzantine:10c-ad:pg117:
 #+MIGNE_TITLE: De velitatione bellica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

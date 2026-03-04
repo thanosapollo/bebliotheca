@@ -1,6 +1,6 @@
 #+TITLE: Ex thesauro orthodoxiae Nicetae Choniatae
 #+AUTHOR: Ἰωάννης Δαμασκηνός
-#+FILETAGS: :patristic:8c-ad:
+#+FILETAGS: :patristic:8c-ad:pg94-96:
 #+MIGNE_TITLE: Ex thesauro orthodoxiae Nicetae Choniatae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

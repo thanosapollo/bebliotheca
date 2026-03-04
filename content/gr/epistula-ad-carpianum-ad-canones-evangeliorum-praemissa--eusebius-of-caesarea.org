@@ -1,6 +1,6 @@
 #+TITLE: Epistula ad Carpianum ad canones evangeliorum praemissa
 #+AUTHOR: Εὐσέβιος Καισαρείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg19-24:
 #+MIGNE_TITLE: Epistula ad Carpianum ad canones evangeliorum praemissa
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

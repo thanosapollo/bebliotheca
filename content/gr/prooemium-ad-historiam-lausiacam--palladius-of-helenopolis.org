@@ -1,6 +1,6 @@
 #+TITLE: Prooemium ad historiam Lausiacam
 #+AUTHOR: Παλλάδιος Ἑλενοπόλεως
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg34:pg65:
 #+MIGNE_TITLE: Prooemium ad historiam Lausiacam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

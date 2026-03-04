@@ -1,6 +1,6 @@
 #+TITLE: Legatio
 #+AUTHOR: Ἀθηναγόρας Ἀθηναῖος
-#+FILETAGS: :patristic:2c-ad:
+#+FILETAGS: :patristic:2c-ad:pg06:
 #+MIGNE_TITLE: Legatio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

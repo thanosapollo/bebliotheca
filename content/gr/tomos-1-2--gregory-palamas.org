@@ -1,6 +1,6 @@
 #+TITLE: Γρηγορίου τοῦ Παλαμᾶ λόγοι ἀποδεικτικοὶ δύο περὶ ἐκπορεύσεως τοῦ ἁγίου Πνεύματος, λόγος δεύτερος
 #+AUTHOR: Γρηγόριος Παλαμᾶς
-#+FILETAGS: :byzantine:14c-ad:
+#+FILETAGS: :byzantine:14c-ad:pg150-151:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

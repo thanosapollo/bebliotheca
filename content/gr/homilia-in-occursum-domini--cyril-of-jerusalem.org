@@ -1,6 +1,6 @@
 #+TITLE: Homilia in occursum domini
 #+AUTHOR: Κύριλλος Ἱεροσολύμων
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg33:
 #+MIGNE_TITLE: Homilia in occursum domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

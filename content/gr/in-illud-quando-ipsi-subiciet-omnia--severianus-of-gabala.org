@@ -1,6 +1,6 @@
 #+TITLE: In illud Quando ipsi subiciet omnia
 #+AUTHOR: Σεβηριανὸς Γαβάλων
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg65:
 #+MIGNE_TITLE: In illud Quando ipsi subiciet omnia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

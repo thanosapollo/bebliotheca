@@ -1,6 +1,6 @@
 #+TITLE: Epistula ad Theodosium imperatorem
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg41-43:
 #+MIGNE_TITLE: Epistula ad Theodosium imperatorem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

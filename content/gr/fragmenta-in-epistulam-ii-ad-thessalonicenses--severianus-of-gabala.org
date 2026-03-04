@@ -1,6 +1,6 @@
 #+TITLE: Fragmenta in epistulam ii ad Thessalonicenses
 #+AUTHOR: Σεβηριανὸς Γαβάλων
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg65:
 #+MIGNE_TITLE: Fragmenta in epistulam ii ad Thessalonicenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

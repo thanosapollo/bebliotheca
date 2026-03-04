@@ -1,6 +1,6 @@
 #+TITLE: Epistula ad Diognet
 #+AUTHOR: Πρὸς Διόγνητον
-#+FILETAGS: :patristic:2c-ad:
+#+FILETAGS: :patristic:2c-ad:pg02:
 #+MIGNE_TITLE: Epistula ad Diognet
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

@@ -1,6 +1,6 @@
 #+TITLE: In imaginem beatae virginis
 #+AUTHOR: Γεώργιος Ἀκροπολίτης
-#+FILETAGS: :byzantine:13c-ad:
+#+FILETAGS: :byzantine:13c-ad:pg140:
 #+MIGNE_TITLE: In imaginem beatae virginis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

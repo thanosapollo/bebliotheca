@@ -1,6 +1,6 @@
 #+TITLE: Oratio in ascensionem domini
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
-#+FILETAGS: :patristic:5c-ad:
+#+FILETAGS: :patristic:5c-ad:pg68-77:
 #+MIGNE_TITLE: Oratio in ascensionem domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

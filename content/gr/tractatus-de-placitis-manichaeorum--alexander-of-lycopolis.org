@@ -1,6 +1,6 @@
 #+TITLE: Tractatus de placitis Manichaeorum
 #+AUTHOR: Ἀλέξανδρος Λυκοπόλεως
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg18:
 #+MIGNE_TITLE: Tractatus de placitis Manichaeorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

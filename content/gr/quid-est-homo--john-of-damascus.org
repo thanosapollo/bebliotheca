@@ -1,6 +1,6 @@
 #+TITLE: Quid est homo
 #+AUTHOR: Ἰωάννης Δαμασκηνός
-#+FILETAGS: :patristic:8c-ad:
+#+FILETAGS: :patristic:8c-ad:pg94-96:
 #+MIGNE_TITLE: Quid est homo
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

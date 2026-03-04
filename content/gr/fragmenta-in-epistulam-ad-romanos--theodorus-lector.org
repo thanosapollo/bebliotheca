@@ -1,6 +1,6 @@
 #+TITLE: Fragmenta in epistulam ad Romanos
 #+AUTHOR: Θεόδωρος Ἀναγνώστης
-#+FILETAGS: :byzantine:6c-ad:
+#+FILETAGS: :byzantine:6c-ad:pg86a:
 #+MIGNE_TITLE: Fragmenta in epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

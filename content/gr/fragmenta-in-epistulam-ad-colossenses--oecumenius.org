@@ -1,6 +1,6 @@
 #+TITLE: Fragmenta in epistulam ad Colossenses
 #+AUTHOR: Οἰκουμένιος
-#+FILETAGS: :byzantine:6c-ad:
+#+FILETAGS: :byzantine:6c-ad:pg118-119:
 #+MIGNE_TITLE: Fragmenta in epistulam ad Colossenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

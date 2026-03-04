@@ -1,6 +1,6 @@
 #+TITLE: Disputatio Christiani et Saraceni
 #+AUTHOR: Ἰωάννης Δαμασκηνός
-#+FILETAGS: :patristic:8c-ad:
+#+FILETAGS: :patristic:8c-ad:pg94-96:
 #+MIGNE_TITLE: Disputatio Christiani et Saraceni
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

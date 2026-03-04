@@ -1,6 +1,6 @@
 #+TITLE: Χρονογραφία
 #+AUTHOR: Μιχαήλ Ψελλός
-#+FILETAGS: :byzantine:11c-ad:
+#+FILETAGS: :byzantine:11c-ad:pg122:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

@@ -1,6 +1,6 @@
 #+TITLE: In sanctum pascha
 #+AUTHOR: Λέων Πρεσβύτερος
-#+FILETAGS: :byzantine:10c-ad:
+#+FILETAGS: :byzantine:10c-ad:pg120:
 #+MIGNE_TITLE: In sanctum pascha
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

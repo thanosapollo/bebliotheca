@@ -1,6 +1,6 @@
 #+TITLE: De anima contra philosophos
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg18:
 #+MIGNE_TITLE: De anima contra philosophos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

@@ -1,6 +1,6 @@
 #+TITLE: Libellus contra Nestorium ad Sporacium
 #+AUTHOR: Θεοδώρητος Κύρρου
-#+FILETAGS: :patristic:5c-ad:
+#+FILETAGS: :patristic:5c-ad:pg80-84:
 #+MIGNE_TITLE: Libellus contra Nestorium ad Sporacium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

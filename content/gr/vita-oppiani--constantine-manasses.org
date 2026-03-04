@@ -1,6 +1,6 @@
 #+TITLE: Vita Oppiani
 #+AUTHOR: Κωνσταντῖνος Μανασσῆς
-#+FILETAGS: :byzantine:12c-ad:
+#+FILETAGS: :byzantine:12c-ad:pg127:
 #+MIGNE_TITLE: Vita Oppiani
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

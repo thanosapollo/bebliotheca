@@ -1,6 +1,6 @@
 #+TITLE: De vitiis quae opposita sunt virtutibus
 #+AUTHOR: Εὐάγριος Ποντικός
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg40:
 #+MIGNE_TITLE: De vitiis quae opposita sunt virtutibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

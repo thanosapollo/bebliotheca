@@ -1,6 +1,6 @@
 #+TITLE: Paroemiae Mosq
 #+AUTHOR: Γρηγόριος Κύπριος
-#+FILETAGS: :byzantine:13c-ad:
+#+FILETAGS: :byzantine:13c-ad:pg142:
 #+MIGNE_TITLE: Paroemiae Mosq
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

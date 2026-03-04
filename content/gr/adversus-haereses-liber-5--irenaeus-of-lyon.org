@@ -1,6 +1,6 @@
 #+TITLE: Adversus haereses liber 5
 #+AUTHOR: Εἰρηναῖος Λυών
-#+FILETAGS: :patristic:2c-ad:
+#+FILETAGS: :patristic:2c-ad:pg07:
 #+MIGNE_TITLE: Adversus haereses liber 5
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

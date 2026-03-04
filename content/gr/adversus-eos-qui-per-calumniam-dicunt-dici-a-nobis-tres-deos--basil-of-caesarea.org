@@ -1,6 +1,6 @@
 #+TITLE: Adversus eos qui per calumniam dicunt dici a nobis tres deos
 #+AUTHOR: Βασίλειος Καισαρείας
-#+FILETAGS: :patristic:4c-ad:
+#+FILETAGS: :patristic:4c-ad:pg29-32:
 #+MIGNE_TITLE: Adversus eos qui per calumniam dicunt dici a nobis tres deos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

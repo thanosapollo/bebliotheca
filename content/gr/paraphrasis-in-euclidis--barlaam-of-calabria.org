@@ -1,6 +1,6 @@
 #+TITLE: Paraphrasis in Euclidis
 #+AUTHOR: Βαρλαὰμ Καλαβρός
-#+FILETAGS: :byzantine:14c-ad:
+#+FILETAGS: :byzantine:14c-ad:pg151:
 #+MIGNE_TITLE: Paraphrasis in Euclidis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
