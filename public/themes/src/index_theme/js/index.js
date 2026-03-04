@@ -43,30 +43,111 @@
         'la': 'Latin'
     };
 
-    // Autocomplete suggestion data
-    const TAG_SUGGESTIONS = [
-        { label: '#classical', description: 'Pre-Christian Greek & Latin', value: '#classical' },
-        { label: '#imperial', description: 'Roman-era secular literature', value: '#imperial' },
-        { label: '#patristic', description: 'Church Fathers & theology', value: '#patristic' },
-        { label: '#byzantine', description: 'Medieval Roman/Byzantine', value: '#byzantine' },
-        { label: '#scripture', description: 'Biblical texts', value: '#scripture' },
-        { label: '#8c-bc', description: '8th century BC (Homer)', value: '#8c-bc' },
-        { label: '#7c-bc', description: '7th century BC (Hesiod)', value: '#7c-bc' },
-        { label: '#5c-bc', description: '5th century BC (Attic golden age)', value: '#5c-bc' },
-        { label: '#4c-bc', description: '4th century BC (Plato, Aristotle)', value: '#4c-bc' },
-        { label: '#3c-bc', description: '3rd century BC (Hellenistic)', value: '#3c-bc' },
-        { label: '#2c-bc', description: '2nd century BC', value: '#2c-bc' },
-        { label: '#1c-bc', description: '1st century BC (Late Republic)', value: '#1c-bc' },
-        { label: '#1c-ad', description: '1st century AD (Early Empire)', value: '#1c-ad' },
-        { label: '#2c-ad', description: '2nd century AD (High Empire)', value: '#2c-ad' },
-        { label: '#3c-ad', description: '3rd century AD', value: '#3c-ad' },
-        { label: '#4c-ad', description: '4th century AD (Church Fathers)', value: '#4c-ad' },
-        { label: '#5c-ad', description: '5th century AD', value: '#5c-ad' },
-        { label: '#6c-ad', description: '6th century AD (Justinian)', value: '#6c-ad' },
-        { label: '#8c-ad', description: '8th century AD', value: '#8c-ad' },
-        { label: '#11c-ad', description: '11th century AD', value: '#11c-ad' },
-        { label: '#12c-ad', description: '12th century AD (Komnenian)', value: '#12c-ad' },
-    ];
+    // Tag suggestions - built dynamically from catalog after load
+    let tagSuggestions = [];
+
+    const ERA_DESCRIPTIONS = {
+        'classical': 'Pre-Christian Greek & Latin',
+        'imperial': 'Roman-era secular literature',
+        'patristic': 'Church Fathers & theology',
+        'byzantine': 'Medieval Roman/Byzantine',
+        'scripture': 'Biblical texts'
+    };
+
+    const ERA_ORDER = ['classical', 'imperial', 'patristic', 'byzantine', 'scripture'];
+
+    function describeTag(tag, count) {
+        const suffix = ' (' + count + (count === 1 ? ' work)' : ' works)');
+
+        // Era tags
+        if (ERA_DESCRIPTIONS[tag]) {
+            return ERA_DESCRIPTIONS[tag] + suffix;
+        }
+
+        // Century tags: e.g. 5c-bc, 4c-ad
+        var centuryMatch = tag.match(/^(\d+)c-(bc|ad)$/);
+        if (centuryMatch) {
+            var n = parseInt(centuryMatch[1], 10);
+            var era = centuryMatch[2].toUpperCase();
+            var ordinal = n === 1 ? '1st' : n === 2 ? '2nd' : n === 3 ? '3rd' : n + 'th';
+            return ordinal + ' century ' + era + suffix;
+        }
+
+        // PG range tags: e.g. pg47-64
+        var pgRange = tag.match(/^pg(\d+)-(\d+)$/);
+        if (pgRange) {
+            return 'Patrologia Graeca vols. ' + pgRange[1] + '-' + pgRange[2] + suffix;
+        }
+
+        // PG single volume tags: e.g. pg88
+        var pgSingle = tag.match(/^pg(\d+)$/);
+        if (pgSingle) {
+            return 'Patrologia Graeca vol. ' + pgSingle[1] + suffix;
+        }
+
+        // Unknown tag type
+        return count + (count === 1 ? ' work' : ' works');
+    }
+
+    function tagSortOrder(a, b) {
+        var aTag = a.value.substring(1); // strip #
+        var bTag = b.value.substring(1);
+
+        var aEra = ERA_ORDER.indexOf(aTag);
+        var bEra = ERA_ORDER.indexOf(bTag);
+
+        // Era tags first, in fixed order
+        if (aEra !== -1 && bEra !== -1) return aEra - bEra;
+        if (aEra !== -1) return -1;
+        if (bEra !== -1) return 1;
+
+        var aCentury = aTag.match(/^(\d+)c-(bc|ad)$/);
+        var bCentury = bTag.match(/^(\d+)c-(bc|ad)$/);
+        var aPg = aTag.match(/^pg(\d+)/);
+        var bPg = bTag.match(/^pg(\d+)/);
+
+        // Century tags before PG tags
+        if (aCentury && !bCentury) return -1;
+        if (!aCentury && bCentury) return 1;
+
+        // Sort centuries chronologically: BC descending, then AD ascending
+        if (aCentury && bCentury) {
+            var aVal = parseInt(aCentury[1], 10) * (aCentury[2] === 'bc' ? -1 : 1);
+            var bVal = parseInt(bCentury[1], 10) * (bCentury[2] === 'bc' ? -1 : 1);
+            return aVal - bVal;
+        }
+
+        // Sort PG tags numerically
+        if (aPg && bPg) {
+            return parseInt(aPg[1], 10) - parseInt(bPg[1], 10);
+        }
+
+        // Fallback: alphabetical
+        return aTag.localeCompare(bTag);
+    }
+
+    function buildTagSuggestions(works) {
+        var tagCounts = {};
+        works.forEach(function(work) {
+            (work.tags || []).forEach(function(tag) {
+                tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+            });
+        });
+
+        var suggestions = [];
+        for (var tag in tagCounts) {
+            if (tagCounts.hasOwnProperty(tag)) {
+                suggestions.push({
+                    label: '#' + tag,
+                    description: describeTag(tag, tagCounts[tag]),
+                    value: '#' + tag
+                });
+            }
+        }
+
+        suggestions.sort(tagSortOrder);
+        return suggestions;
+    }
 
     const LANG_SUGGESTIONS = [
         { label: 'lang:gr', description: 'Ἑλληνικά - Greek texts', value: 'lang:gr' },
@@ -75,6 +156,15 @@
     ];
 
     const LANG_ALIASES = { greek: 'gr', english: 'en', latin: 'la', el: 'gr' };
+
+    // PG range matching: check if a numeric PG query falls within a range tag
+    function matchesPgRange(tag, queryNum) {
+        var rangeMatch = tag.match(/^pg(\d+)-(\d+)$/);
+        if (!rangeMatch) return false;
+        var lo = parseInt(rangeMatch[1], 10);
+        var hi = parseInt(rangeMatch[2], 10);
+        return queryNum >= lo && queryNum <= hi;
+    }
 
     // Get recently viewed works from localStorage
     function getRecentlyViewed() {
@@ -170,6 +260,7 @@
             const response = await fetch('catalog.json');
             const data = await response.json();
             catalog = data.works || [];
+            tagSuggestions = buildTagSuggestions(catalog);
             applyFilters();
         } catch (error) {
             console.error('Error loading catalog:', error);
@@ -229,9 +320,16 @@
             // Check if searching for tags (starts with #)
             if (searchQuery.startsWith('#')) {
                 const tagQuery = normalizeGreek(searchQuery.substring(1));
+                // Check if this is a pure numeric PG query (e.g. #pg50)
+                const pgNumMatch = tagQuery.match(/^pg(\d+)$/);
+                const pgQueryNum = pgNumMatch ? parseInt(pgNumMatch[1], 10) : null;
+
                 return work.tags && work.tags.some(tag => {
                     const normalizedTag = normalizeGreek(tag);
-                    return normalizedTag.includes(tagQuery);
+                    if (normalizedTag.includes(tagQuery)) return true;
+                    // Range match: #pg50 should match tag pg47-64
+                    if (pgQueryNum !== null) return matchesPgRange(normalizedTag, pgQueryNum);
+                    return false;
                 });
             }
 
@@ -374,7 +472,7 @@
             const val = value.trim().toLowerCase();
             if (val.startsWith('#')) {
                 const partial = val.substring(1);
-                return TAG_SUGGESTIONS.filter(s =>
+                return tagSuggestions.filter(s =>
                     s.value.substring(1).startsWith(partial)
                 );
             }
@@ -394,7 +492,8 @@
                 activeIndex = -1;
                 return;
             }
-            dropdown.innerHTML = suggestions.map((s, i) =>
+            var capped = suggestions.slice(0, 15);
+            dropdown.innerHTML = capped.map((s, i) =>
                 `<li data-value="${escapeHtml(s.value)}" class="${i === activeIndex ? 'active' : ''}">` +
                 `<span class="suggestion-label">${escapeHtml(s.label)}</span>` +
                 `<span class="suggestion-desc">${escapeHtml(s.description)}</span>` +
