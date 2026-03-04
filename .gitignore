@@ -6,6 +6,8 @@
 public/catalog.json
 public/structure.json
 
+sources/pg-migne
+
 publish.sh
 
 __pycache__
@@ -13,8 +15,6 @@ __pycache__
 # Keep index files
 !public/index.html
 
-# Log directory: manifests tracked, reports regenerated
+# Log directory: all generated, not tracked
 !log/
-log/*-report.txt
-log/*-skipped.txt
-!log/*-manifest.txt
+log/*
