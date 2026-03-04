@@ -115,6 +115,20 @@ case "${1:-all}" in
             cat "$tmp" | export_files
         fi
         rm -f "$tmp"
+        # Remove orphaned HTML (no matching .org source)
+        stale=0
+        for lang in gr en la; do
+            [ -d "$PUBLIC_DIR/$lang" ] || continue
+            for html in "$PUBLIC_DIR/$lang"/*.html; do
+                [ -f "$html" ] || continue
+                stem=$(basename "$html" .html)
+                if [ ! -f "$CONTENT_DIR/$lang/$stem.org" ]; then
+                    rm -f "$html"
+                    stale=$((stale + 1))
+                fi
+            done
+        done
+        [ "$stale" -gt 0 ] && echo "Removed $stale orphaned HTML files"
         echo "==> Done"
         ;;
     gr|greek)
