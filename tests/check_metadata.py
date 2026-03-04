@@ -21,6 +21,9 @@ VALID_ERA_TAGS = {'classical', 'imperial', 'patristic', 'byzantine', 'scripture'
 # Century tags match this pattern
 CENTURY_RE = re.compile(r'^\d+c-(bc|ad)$')
 
+# PG volume tags: pg88, pg47-64, pg86a, etc.
+PG_TAG_RE = re.compile(r'^pg\d+[a-z]?(-\d+[a-z]?)?$')
+
 # Placeholder values that indicate incomplete imports
 PLACEHOLDER_TITLES = {'untitled', ''}
 PLACEHOLDER_AUTHORS = {'unknown', ''}
@@ -68,8 +71,10 @@ def parse_tags(filetags_value: str) -> List[str]:
 
 
 def is_valid_tag(tag: str) -> bool:
-    """Check if a tag is a valid era or century tag."""
-    return tag in VALID_ERA_TAGS or bool(CENTURY_RE.match(tag))
+    """Check if a tag is a valid era, century, or PG volume tag."""
+    return (tag in VALID_ERA_TAGS
+            or bool(CENTURY_RE.match(tag))
+            or bool(PG_TAG_RE.match(tag)))
 
 
 def check_file(file_path: Path, lang_dir: str) -> Tuple[List[str], List[str]]:
