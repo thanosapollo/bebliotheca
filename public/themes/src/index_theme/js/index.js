@@ -241,6 +241,7 @@
             // Search in title and author
             const title = normalizeGreek(work.title || '');
             const author = normalizeGreek(work.author || '');
+            const authorLatin = (work.author_latin || '').toLowerCase();
 
             // Search in all translation titles and authors
             const translationMatch = work.translations.some(trans => {
@@ -255,7 +256,7 @@
                 return normalizedTag.includes(query);
             });
 
-            return title.includes(query) || author.includes(query) || translationMatch || tagMatch;
+            return title.includes(query) || author.includes(query) || authorLatin.includes(query) || translationMatch || tagMatch;
         });
 
         // Sort by Greek titles first, then by recently viewed (only when not searching)

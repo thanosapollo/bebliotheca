@@ -379,13 +379,26 @@
             }
         },
 
+        isCustomId: function(id) {
+            // CUSTOM_IDs from .org files use patterns like:
+            //   h1, h1-h1, h0-h3 (hand-curated)
+            //   bk-1, ch-3, sec-5, bk-1-ch-2-sec-3 (auto-generated)
+            // Org-mode auto-generates IDs starting with "org" (e.g., org9a81d0f)
+            // and structural IDs like "content", "table-of-contents", etc.
+            if (!id) return false;
+            if (/^org[0-9a-f]/.test(id)) return false;
+            if (/^(content|table-of-contents|text-table-of-contents|postamble|preamble)$/.test(id)) return false;
+            if (/^(outline-container-|text-)/.test(id)) return false;
+            return true;
+        },
+
         getCurrentVisibleHeading: function(doc) {
-            // Find all headings with custom IDs (h1, h2, h1-h1, etc.)
-            var headings = doc.querySelectorAll('[id^="h"]');
+            // Find all heading elements with CUSTOM_IDs
+            var headings = doc.querySelectorAll('h2[id], h3[id], h4[id]');
             var filtered = [];
 
             for (var i = 0; i < headings.length; i++) {
-                if (/^h\d+(-h\d+)?$/.test(headings[i].id)) {
+                if (ParallelView.isCustomId(headings[i].id)) {
                     filtered.push(headings[i]);
                 }
             }
@@ -407,11 +420,11 @@
         },
 
         getNextHeading: function(doc, currentHeading) {
-            var headings = doc.querySelectorAll('[id^="h"]');
+            var headings = doc.querySelectorAll('h2[id], h3[id], h4[id]');
             var filtered = [];
 
             for (var i = 0; i < headings.length; i++) {
-                if (/^h\d+(-h\d+)?$/.test(headings[i].id)) {
+                if (ParallelView.isCustomId(headings[i].id)) {
                     filtered.push(headings[i]);
                 }
             }
