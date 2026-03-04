@@ -204,19 +204,41 @@
                 }
             });
 
+            // Watch parent for theme/font changes and propagate to iframes
+            var settingsObserver = new MutationObserver(function() {
+                ParallelView.syncSettingsToIframes();
+            });
+            settingsObserver.observe(document.documentElement, {
+                attributes: true, attributeFilter: ['data-theme']
+            });
+            settingsObserver.observe(document.body, {
+                attributes: true, attributeFilter: ['data-font']
+            });
+
             // Wait for iframes to load
             var loadCount = 0;
             $('#left-frame, #right-frame').on('load', function() {
                 loadCount++;
 
-                // Inject mobile styles into iframe with media query
                 try {
                     var iframe = this;
                     var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+
+                    // Propagate parent theme and font to iframe
+                    var parentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+                    var parentFont = document.body.getAttribute('data-font') || 'sans';
+                    iframeDoc.documentElement.setAttribute('data-theme', parentTheme);
+                    if (iframeDoc.body) {
+                        iframeDoc.body.setAttribute('data-font', parentFont);
+                    }
+
+                    // Inject mobile styles into iframe with media query
                     var style = iframeDoc.createElement('style');
                     style.textContent = `
-                        /* Hide home button in iframes */
+                        /* Hide home button and theme/font controls in iframes */
                         #home-button { display: none !important; }
+                        #theme-toggle-mobile { display: none !important; }
+                        #font-selector-mobile { display: none !important; }
 
                         @media (max-width: 768px) {
                             #content {
@@ -245,7 +267,7 @@
                         }
                     `;
                     iframeDoc.head.appendChild(style);
-                    console.log('Injected responsive styles into iframe');
+                    console.log('Injected styles and synced theme/font into iframe');
                 } catch (e) {
                     console.log('Could not inject styles:', e);
                 }
@@ -253,6 +275,26 @@
                 if (loadCount === 2) {
                     ParallelView.setupTOCClickHandlers();
                     ParallelView.startSync();
+                }
+            });
+        },
+
+        // Propagate theme and font from parent to both iframes
+        syncSettingsToIframes: function() {
+            var theme = document.documentElement.getAttribute('data-theme') || 'dark';
+            var font = document.body.getAttribute('data-font') || 'sans';
+
+            ['left-frame', 'right-frame'].forEach(function(id) {
+                try {
+                    var iframe = document.getElementById(id);
+                    if (!iframe) return;
+                    var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+                    iframeDoc.documentElement.setAttribute('data-theme', theme);
+                    if (iframeDoc.body) {
+                        iframeDoc.body.setAttribute('data-font', font);
+                    }
+                } catch (e) {
+                    // cross-origin or not loaded yet
                 }
             });
         },

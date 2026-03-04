@@ -83,6 +83,10 @@ $( document ).ready(function() {
 });
 
 $( document ).ready(function() {
+    // Theme init: apply saved theme immediately to prevent flash
+    var savedTheme = localStorage.getItem('theme') || 'dark';
+    document.documentElement.setAttribute('data-theme', savedTheme);
+
     $('#text-table-of-contents ul').first().addClass('nav');
                                         // ScrollSpy also requires that we use
                                         // a Bootstrap nav component.
@@ -112,6 +116,59 @@ $( document ).ready(function() {
     // add TOC hide button
     var tocHideBtn = $('<button id="toc-hide-btn">◀</button>');
     buttonContainer.append(tocHideBtn);
+
+    // add font selector
+    var fontSelect = $('<select id="font-selector"></select>');
+    fontSelect.append('<option value="sans">Sans-serif</option>');
+    fontSelect.append('<option value="serif">Serif</option>');
+    fontSelect.append('<option value="noto-serif">Noto Serif</option>');
+    fontSelect.append('<option value="gentium">Gentium</option>');
+    fontSelect.append('<option value="monospace">Monospace</option>');
+
+    // On desktop it sits in #toc-buttons, on mobile CSS repositions it fixed
+    buttonContainer.append(fontSelect);
+
+    // Also clone into body so mobile CSS can show it when #toc-buttons is hidden
+    var fontSelectMobile = fontSelect.clone().attr('id', 'font-selector-mobile');
+    $('body').append(fontSelectMobile);
+
+    // restore saved font preference
+    var savedFont = localStorage.getItem('bebliotheca_font') || 'gentium';
+    $('body').attr('data-font', savedFont);
+    fontSelect.val(savedFont);
+    fontSelectMobile.val(savedFont);
+
+    // sync both selectors
+    function onFontChange() {
+        var font = $(this).val();
+        $('body').attr('data-font', font);
+        localStorage.setItem('bebliotheca_font', font);
+        fontSelect.val(font);
+        fontSelectMobile.val(font);
+    }
+    fontSelect.on('change', onFontChange);
+    fontSelectMobile.on('change', onFontChange);
+
+    // add theme toggle button
+    var themeBtn = $('<button id="theme-toggle-btn"></button>');
+    themeBtn.text(savedTheme === 'dark' ? '\u2600' : '\u263E');
+    buttonContainer.append(themeBtn);
+
+    // mobile theme toggle
+    var themeBtnMobile = $('<button id="theme-toggle-mobile"></button>');
+    themeBtnMobile.text(savedTheme === 'dark' ? '\u2600' : '\u263E');
+    $('body').append(themeBtnMobile);
+
+    themeBtn.on('click', function() {
+        var current = document.documentElement.getAttribute('data-theme');
+        var next = current === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+        themeBtn.text(next === 'dark' ? '\u2600' : '\u263E');
+        themeBtnMobile.text(next === 'dark' ? '\u2600' : '\u263E');
+    });
+
+    themeBtnMobile.on('click', function() { themeBtn.click(); });
 
     // add home button independently (not in TOC)
     var homeButton = $('<a id="home-button" href="/index.html" title="Επιστροφή στην αρχική σελίδα">⌂</a>');

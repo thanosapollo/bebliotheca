@@ -1,8 +1,25 @@
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
 
+/* Self-hosted Iosevka from thanosapollo.org */
+@font-face {
+    font-family: "Iosevka";
+    src: url("https://thanosapollo.org/fonts/Iosevka.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Iosevka";
+    src: url("https://thanosapollo.org/fonts/Iosevka-Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
 /* CSS Variables for easy customization */
-:root {
+:root, [data-theme="dark"] {
     /* Byzantine palette (matches index theme) */
     --accent-purple: #7b6b9e;
     --accent-purple-dark: #3a3052;
@@ -13,6 +30,9 @@
     --text-primary: #e8e8e8;
     --text-secondary: #b0b0b0;
 
+    /* Font */
+    --font-body: "Gentium Plus", "Noto Serif", Georgia, serif;
+
     /* Table colors */
     --table-border-color: #433F4f;
     --table-header-accent: var(--accent-gold);
@@ -22,6 +42,85 @@
     /* Table spacing */
     --table-cell-padding: 10px 16px;
     --table-margin-bottom: 24px;
+
+    /* Theme-dependent colors */
+    --heading-color: #ffffff;
+    --heading-sub-color: #c6daff;
+    --heading-border: #38325c;
+    --toc-bg: #1d2021;
+    --toc-text: #c6daff;
+    --toc-hover-text: #ffffff;
+    --toc-active-bg: #171717;
+    --toc-active-nested-bg: #303030;
+    --toc-active-item-bg: #222323;
+    --toc-divider: #404040;
+    --nav-active-bg: #1e1e1e;
+    --link-visited: #8b7ab8;
+    --code-bg: #151515;
+    --code-border: #38325c;
+    --footer-bg: #1f1d1d;
+    --footer-text: #fcfcfc;
+    --footer-border: #343131;
+    --hr-color: #e1e4e5;
+    --toc-btn-color: #c6daff;
+    --toc-btn-border: rgba(122, 162, 247, 0.5);
+    --toc-btn-hover-bg: rgba(122, 162, 247, 0.2);
+    --toc-btn-hover-color: #ffffff;
+    --toc-btn-hover-border: #7aa2f7;
+}
+
+[data-theme="light"] {
+    --accent-purple: #5a4b7e;
+    --accent-purple-dark: #e8e0f0;
+    --accent-gold: #a8862a;
+    --accent-gold-muted: rgba(168, 134, 42, 0.3);
+    --bg-primary: #ffffff;
+    --bg-secondary: #f5f5f5;
+    --text-primary: #1a1a1a;
+    --text-secondary: #4a4a4a;
+    --table-border-color: #d0d0d0;
+    --table-bg-dark: #f8f8f8;
+    --table-bg-light: #ffffff;
+    --heading-color: #1a1a1a;
+    --heading-sub-color: #3a3052;
+    --heading-border: #d0c8e0;
+    --toc-bg: #f0eef5;
+    --toc-text: #3a3052;
+    --toc-hover-text: #1a1a1a;
+    --toc-active-bg: #e8e0f0;
+    --toc-active-nested-bg: #ded6ec;
+    --toc-active-item-bg: #e0d8ee;
+    --toc-divider: #d0c8e0;
+    --nav-active-bg: #e8e0f0;
+    --link-visited: #6a5a8e;
+    --code-bg: #f5f3f8;
+    --code-border: #d0c8e0;
+    --footer-bg: #f0eef5;
+    --footer-text: #1a1a1a;
+    --footer-border: #d0c8e0;
+    --hr-color: #d0d0d0;
+    --toc-btn-color: #3a3052;
+    --toc-btn-border: rgba(90, 75, 126, 0.4);
+    --toc-btn-hover-bg: rgba(90, 75, 126, 0.1);
+    --toc-btn-hover-color: #1a1a1a;
+    --toc-btn-hover-border: #5a4b7e;
+}
+
+/* Font selector overrides */
+[data-font="serif"] {
+    --font-body: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+[data-font="noto-serif"] {
+    --font-body: "Noto Serif", Georgia, "Palatino Linotype", serif;
+}
+
+[data-font="gentium"] {
+    --font-body: "Gentium Plus", "Noto Serif", Georgia, serif;
+}
+
+[data-font="monospace"] {
+    --font-body: "Iosevka", "Noto Sans Mono", "Source Code Pro", "Courier New", monospace;
 }
 
 h1,h2,h3,h4,h5,h6,legend{
@@ -42,15 +141,15 @@ h1{
 
 h2{
     font-size:150%;
-    color: #ffffff;
+    color: var(--heading-color);
     letter-spacing: 0.5px;
-    border-bottom: 3px solid #38325c;
+    border-bottom: 3px solid var(--heading-border);
 }
 
 h3{
     font-size:125%;
-    color: #ffffff;
-    border-bottom: 1px solid #38325c;
+    color: var(--heading-color);
+    border-bottom: 1px solid var(--heading-border);
     letter-spacing: 0.25px;
 }
 
@@ -67,7 +166,7 @@ h6{
 }
 
 h4,h5,h6{
-    color:#c6daff;
+    color: var(--heading-sub-color);
     font-weight:300;
     letter-spacing: 0;
 }
@@ -82,7 +181,7 @@ html{
 body{
     background: var(--bg-primary);
     color: var(--text-primary);
-    font-family: "Noto Sans", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-family: var(--font-body);
     font-weight:normal;
     margin:0;
     min-height:100%;
@@ -312,8 +411,8 @@ dl dd{
 }
 
 code{
-    background:#151515;
-    border:solid 1px #38325c;
+    background: var(--code-bg);
+    border:solid 1px var(--code-border);
     font-family: "Noto Sans Mono", "Source Code Pro", "Courier New", monospace;
     font-size:75%;
     max-width:100%;
@@ -576,10 +675,11 @@ table caption {
         display: none !important;
     }
 
-    /* Hide the button container on mobile */
+    /* Hide the button container on mobile (hide button lives there) */
     #toc-buttons {
         display: none !important;
     }
+
 }
 
 *{
@@ -786,12 +886,13 @@ a:hover{
 }
 
 a:visited{
-    color: #8b7ab8}
+    color: var(--link-visited)}
 
 /* No underlines in navigation and UI elements */
 #table-of-contents a,
 #home-button,
 #toc-hide-btn,
+#theme-toggle-btn,
 .parallel-control-btn,
 #parallel-close-btn,
 .parallel-pane-header a,
@@ -813,7 +914,7 @@ hr{
     display:block;
     height:1px;
     border:0;
-    border-top:1px solid #e1e4e5;
+    border-top:1px solid var(--hr-color);
     margin:24px 0;
     padding:0}
 
@@ -837,13 +938,13 @@ hr{
     margin-bottom:0}
 
 #table-of-contents li.divide-top{
-    border-top:solid 1px #404040}
+    border-top:solid 1px var(--toc-divider)}
 
 #table-of-contents li.divide-bottom{
-    border-bottom:solid 1px #404040}
+    border-bottom:solid 1px var(--toc-divider)}
 
 #table-of-contents li.current{
-    background:#171717}
+    background: var(--toc-active-bg)}
 
 #table-of-contents li a{
     /* color:#404040; */
@@ -854,7 +955,7 @@ hr{
     /* border-bottom:solid 1px #c9c9c9; */
     /* border-top:solid 1px #c9c9c9; */
     padding-left:1.618em -4px;
-    color: #c6daff;
+    color: var(--toc-text);
 }
 
 #table-of-contents li ul li a{
@@ -881,12 +982,12 @@ hr{
     display:block;
     position:relative;
     font-size:90%;
-    color:#c6daff !important;
+    color: var(--toc-text) !important;
     direction: ltr;
 }
 
 #table-of-contents a:hover{
-    color: #ffffff !important;
+    color: var(--toc-hover-text) !important;
     background-color: var(--accent-purple-dark);
     cursor:pointer}
 
@@ -903,7 +1004,7 @@ hr{
     overflow-x:hidden;
     overflow-y:scroll;
     height:100%;
-    background:#1d2021;
+    background: var(--toc-bg);
     z-index:200;
 }
 
@@ -935,15 +1036,83 @@ hr{
 /* TOC buttons container */
 #toc-buttons {
     display: flex;
-    gap: 10px;
-    padding: 0.809em;
+    gap: 6px;
+    padding: 6px 10px;
     align-items: center;
     justify-content: center;
 }
 
-/* Hide button centered alone now that home is fixed position */
-#toc-buttons #toc-hide-btn {
-    margin: 0 auto;
+/* Font selector dropdown */
+#font-selector {
+    background: transparent;
+    color: var(--toc-btn-color);
+    border: 2px solid var(--toc-btn-border);
+    padding: 5px 8px;
+    font-family: "Noto Sans", "Source Sans Pro", sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='5'%3E%3Cpath d='M0 0l4 5 4-5z' fill='%23c6daff'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 6px center;
+    padding-right: 20px;
+}
+
+#font-selector:hover {
+    background-color: var(--toc-btn-hover-bg);
+    color: var(--toc-btn-hover-color);
+    border-color: var(--toc-btn-hover-border);
+}
+
+#font-selector:focus {
+    outline: none;
+    border-color: var(--toc-btn-hover-border);
+}
+
+#font-selector option {
+    background: var(--toc-bg);
+    color: var(--toc-text);
+}
+
+/* Mobile font selector (cloned to body, hidden on desktop) */
+#font-selector-mobile {
+    display: none;
+    background: transparent;
+    color: var(--accent-gold);
+    border: 1px solid var(--accent-gold-muted);
+    padding: 4px 18px 4px 6px;
+    font-family: "Noto Sans", "Source Sans Pro", sans-serif;
+    font-weight: 600;
+    font-size: 11px;
+    border-radius: 4px;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='5'%3E%3Cpath d='M0 0l4 5 4-5z' fill='%23c9a040'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 5px center;
+}
+
+#font-selector-mobile option {
+    background: var(--toc-bg);
+    color: var(--toc-text);
+}
+
+@media screen and (max-width: 768px) {
+    #font-selector-mobile {
+        display: block;
+        position: fixed;
+        top: 8px;
+        right: 10px;
+        z-index: 11;
+    }
 }
 
 /* Home button styling */
@@ -992,24 +1161,24 @@ ul.nav > li ul {
 }
 
 li.active {
-    background-color: #1e1e1e;
+    background-color: var(--nav-active-bg);
     font-weight: bold;
 }
 
 ul.nav>li.active li.active {
-    background-color: #303030;
+    background-color: var(--toc-active-nested-bg);
 }
 
 ul.nav>li.active li.active>a {
-    color: #c6daff !important;
+    color: var(--toc-text) !important;
     border-bottom: dashed 2px var(--accent-gold) !important;
     font-weight: bold !important;
     display: block !important;
 }
 
 ul.nav>li.active>a {
-    background-color: #222323;
-    color: #c6daff !important;
+    background-color: var(--toc-active-item-bg);
+    color: var(--toc-text) !important;
     border-bottom: solid 3px var(--accent-gold) !important;
     font-weight: bold !important;
     display: block !important;
@@ -1030,9 +1199,9 @@ footer p{
     bottom:0;
     left:0;
     width:300px;
-    color:#fcfcfc;
-    background:#1f1d1d;
-    border-top:solid 10px #343131;
+    color: var(--footer-text);
+    background: var(--footer-bg);
+    border-top:solid 10px var(--footer-border);
     font-size: 90%;
     z-index:400;
     padding:12px;
@@ -1513,13 +1682,13 @@ body.parallel-view-open #parallel-view-btn {
 #toc-hide-btn {
     display: inline-block;
     background: transparent;
-    color: #c6daff;
-    border: 2px solid rgba(122, 162, 247, 0.5);
-    padding: 6px 10px;
+    color: var(--toc-btn-color);
+    border: 2px solid var(--toc-btn-border);
+    padding: 5px 10px;
     text-decoration: none;
     font-family: "Noto Sans", "Source Sans Pro", sans-serif;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 12px;
     border-radius: 4px;
     transition: all 0.3s ease;
     cursor: pointer;
@@ -1527,10 +1696,9 @@ body.parallel-view-open #parallel-view-btn {
 }
 
 #toc-hide-btn:hover {
-    background: rgba(122, 162, 247, 0.2);
-    color: #ffffff;
-    border-color: #7aa2f7;
-    box-shadow: 0 4px 12px rgba(122, 162, 247, 0.4);
+    background: var(--toc-btn-hover-bg);
+    color: var(--toc-btn-hover-color);
+    border-color: var(--toc-btn-hover-border);
 }
 
 /* Desktop only: Ensure button remains visible when collapsed */
@@ -1558,6 +1726,10 @@ body.parallel-view-open #parallel-view-btn {
     body.toc-hidden #toc-buttons {
         padding: 0.809em 0.5em;
         justify-content: center;
+    }
+
+    body.toc-hidden #font-selector {
+        display: none;
     }
 
     #text-table-of-contents {
@@ -1831,5 +2003,66 @@ body.parallel-view-open #parallel-view-btn {
     .pdf-badge-readtheorg {
         padding: 0.6em 0.8em;
         font-size: 0.85em;
+    }
+}
+
+/* ============================================
+   Theme Toggle
+   ============================================ */
+
+/* Light mode: override font selector SVG arrow color */
+[data-theme="light"] #font-selector {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='5'%3E%3Cpath d='M0 0l4 5 4-5z' fill='%233a3052'/%3E%3C/svg%3E");
+}
+
+/* Theme toggle button (desktop, in TOC sidebar) */
+#theme-toggle-btn {
+    display: inline-block;
+    background: transparent;
+    color: var(--toc-btn-color);
+    border: 2px solid var(--toc-btn-border);
+    padding: 5px 10px;
+    text-decoration: none;
+    font-family: "Noto Sans", "Source Sans Pro", sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    flex-shrink: 0;
+}
+
+#theme-toggle-btn:hover {
+    background: var(--toc-btn-hover-bg);
+    color: var(--toc-btn-hover-color);
+    border-color: var(--toc-btn-hover-border);
+}
+
+/* Hide desktop theme toggle when TOC is collapsed */
+body.toc-hidden #theme-toggle-btn {
+    display: none;
+}
+
+/* Theme toggle button (mobile, fixed position) */
+#theme-toggle-mobile {
+    display: none;
+    background: transparent;
+    color: var(--accent-gold);
+    border: 1px solid var(--accent-gold-muted);
+    padding: 4px 8px;
+    font-family: "Noto Sans", "Source Sans Pro", sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    #theme-toggle-mobile {
+        display: block;
+        position: fixed;
+        top: 8px;
+        right: 80px;
+        z-index: 11;
     }
 }
