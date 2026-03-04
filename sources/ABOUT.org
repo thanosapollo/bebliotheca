@@ -68,6 +68,16 @@ index page search is range-aware: =#pg50= matches =pg47-64=. Tags
 are verified against =sources/pg-migne/volumes.org= using
 =scripts/verify_pg_volumes.py=.
 
+*** TODO Classify range-tagged works by exact volume
+
+27 authors (999 files) have imprecise range tags like =pg47-64=
+instead of exact volume tags like =pg52=.  Each PDF corresponds to a
+single work that belongs to a specific volume; cross-reference work
+titles against PG tables of contents to assign precise tags.
+
+Biggest: Chrysostom (398), Gregory of Nyssa (79), Origen (77), Cyril
+of Alexandria (70), Basil (65), Gregory of Nazianzus (64).
+
 *** TODO Missing volumes (20 of 161)
 
 | Volumes | Author(s)                                  | Notes                                 |
@@ -126,6 +136,13 @@ ready to import with minor modifications:
 - ~3,339 texts. All major Greek and Latin Fathers in English.
 - Needs HTML-to-Org scraper (regular structure).
 - Alternative: [[https://ccel.org/fathers]] has same texts in ThML/XML.
+
+** TODO Liturgical texts
+- Liturgy of St. John Chrysostom, Liturgy of St. Basil
+- Hymns of Romanos the Melodist, John of Damascus (Easter Canon)
+- The Akathist Hymn, Lenten Triodion, Paschal Pentecostarion
+- No single digital corpus available; requires individual sourcing
+- Some texts may exist in First1KGreek or PTA
 
 ** Evaluated and rejected
 - *TLG*: Subscription-only.
