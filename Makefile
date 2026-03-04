@@ -28,12 +28,6 @@ import:
 update:
 	@./build.sh update
 
-publish:
-	@./build.sh publish
-
-publish-update:
-	@./build.sh publish-update
-
 test:
 	@$(PYTHON) tests/check_structure.py check --severity error
 	@$(PYTHON) tests/check_language.py check
