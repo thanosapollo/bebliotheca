@@ -18,10 +18,26 @@ import shutil
 import subprocess
 import sys
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Set
 
 SCRIPTS_DIR = Path(__file__).resolve().parent
 ROOT_DIR = SCRIPTS_DIR.parent
+
+
+def load_known_duplicates() -> Set[str]:
+    """Load import filenames that are known duplicates of curated files."""
+    dupes_file = ROOT_DIR / 'log' / 'known-duplicates.txt'
+    names: Set[str] = set()
+    if not dupes_file.exists():
+        return names
+    for line in dupes_file.read_text().splitlines():
+        line = line.strip()
+        if not line or line.startswith('#'):
+            continue
+        if '=>' in line:
+            import_name = line.split('=>')[0].strip()
+            names.add(import_name)
+    return names
 
 # ── Source definitions ─────────────────────────────────────────────────
 # Each source describes a submodule and how to import it.
@@ -147,9 +163,11 @@ def copy_to_content(source: Dict[str, Any]) -> List[str]:
     log('Copying to content/', indent=1)
     submodule_path = ROOT_DIR / source['submodule']
     content_dir = ROOT_DIR / 'content'
+    known_dupes = load_known_duplicates()
     copied = 0
     updated = 0
     skipped: List[str] = []
+    dup_skipped = 0
     for lang in source['output_langs']:
         src_dir = submodule_path / lang
         if not src_dir.is_dir():
@@ -157,6 +175,9 @@ def copy_to_content(source: Dict[str, Any]) -> List[str]:
         dst_dir = content_dir / lang
         dst_dir.mkdir(parents=True, exist_ok=True)
         for f in sorted(src_dir.glob('*.org')):
+            if f.name in known_dupes:
+                dup_skipped += 1
+                continue
             dst = dst_dir / f.name
             if dst.exists():
                 if has_auto_update_nil(dst):
@@ -167,8 +188,10 @@ def copy_to_content(source: Dict[str, Any]) -> List[str]:
             else:
                 shutil.copy2(f, dst_dir)
                 copied += 1
-    log(f'Copied {copied} new, updated {updated}, skipped {len(skipped)} (auto_update: nil)',
-        indent=2)
+    msg = f'Copied {copied} new, updated {updated}, skipped {len(skipped)} (auto_update: nil)'
+    if dup_skipped:
+        msg += f', {dup_skipped} known duplicates'
+    log(msg, indent=2)
     return skipped
 
 
@@ -200,6 +223,12 @@ def tag_filetags() -> None:
     """Run tag_filetags.py to insert FILETAGS based on author classification."""
     log('Tagging files', indent=1)
     run(['python3', str(SCRIPTS_DIR / 'tag_filetags.py')], cwd=ROOT_DIR)
+
+
+def tag_pg_filetags() -> None:
+    """Run tag_filetags.py --pg-tags to add PG volume tags."""
+    log('Adding PG volume tags', indent=1)
+    run(['python3', str(SCRIPTS_DIR / 'tag_filetags.py'), '--pg-tags'], cwd=ROOT_DIR)
 
 
 def generate_manifest(source: Dict[str, Any]) -> None:
@@ -276,6 +305,8 @@ def import_source(name: str, source: Dict[str, Any], update: bool = False) -> No
     if source['hellenize']:
         hellenize_headings()
     tag_filetags()
+    if name == 'pg-migne':
+        tag_pg_filetags()
     generate_manifest(source)
     write_skipped_log(source, skipped)
     if has_converter:
