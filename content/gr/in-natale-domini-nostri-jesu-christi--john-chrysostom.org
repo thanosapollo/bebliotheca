@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν γέννησιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ. 61.763
+#+TITLE: In natale domini nostri Jesu Christi
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In natale domini nostri Jesu Christi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-natale-domini-nostri-jesu-christi--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν γέννησιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ. 61.763
+* In natale domini nostri Jesu Christi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν γέννησιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.
+=61.763=
 Ὁπόταν ἐκ χειμῶνος κρυεροῦ θερμὸν ἔαρ ἐκλάμψῃ, τότε καὶ ἡ γῆ χλοερὰν
 πόαν προβάλλεται, καὶ τὰ δένδρα ἀνθοκόμοις πρέμνοις ὡραΐζεται, καὶ ὁ ἀὴρ ἡλίῳ
 καταλαμπόμενος ἀγλαΐζεται, καὶ πᾶς ὀρνίθων χορὸς, ἀνὰ τὸν αἰθέρα πετώμενος,

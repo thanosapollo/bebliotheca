@@ -1,4 +1,4 @@
-#+TITLE: ΠΕΡΙΕΧΟΜΕΝΑ
+#+TITLE: tomos 2
 #+AUTHOR: Γρηγόριος Παλαμᾶς
 #+FILETAGS: :byzantine:14c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup

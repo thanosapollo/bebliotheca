@@ -1,17 +1,20 @@
-#+TITLE: Κυριακῇ τῆς Τυροφάγου περὶ μετανοίας καὶ ἐλεημοσύνης. Λόγος βʹ. 60.699
+#+TITLE: De paenitentia sermo 2
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De paenitentia sermo 2
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-paenitentia-sermo-2--john-chrysostom
 #+LANGUAGE: el
 
-* Κυριακῇ τῆς Τυροφάγου περὶ μετανοίας καὶ ἐλεημοσύνης. Λόγος βʹ. 60.699
+* De paenitentia sermo 2
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Κυριακῇ τῆς Τυροφάγου περὶ μετανοίας καὶ ἐλεημοσύνης. Λόγος βʹ.
+=60.699=
 αʹ. Βασιλέως μὲν τοῦ ἐπιγείου στρατιώτας παρασκευάζουσι πρὸς παράταξιν
 βοῶσαι σάλπιγγες· βασιλέως δὲ τοῦ ἐπουρανίου Ἰησοῦ Χριστοῦ στρατιώτας διεγείρει
 πρὸς δοξολογίαν καὶ φόβον Θεοῦ ἡ τῶν θείων Γραφῶν ἀνάγνωσις· ἀλλ' ἐκείνους

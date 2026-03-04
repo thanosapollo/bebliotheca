@@ -1,17 +1,19 @@
-#+TITLE: Περὶ ὑπομονῆς, καὶ περὶ συντελείας τοῦ αἰῶνος τούτου, καὶ δευτέρας
+#+TITLE: De patientia et de consummatione huius saeculi
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De patientia et de consummatione huius saeculi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-patientia-et-de-consummatione-huius-saeculi--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ ὑπομονῆς, καὶ περὶ συντελείας τοῦ αἰῶνος τούτου, καὶ δευτέρας
+* De patientia et de consummatione huius saeculi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ ὑπομονῆς, καὶ περὶ συντελείας τοῦ αἰῶνος τούτου, καὶ δευτέρας
 παρουσίας, ἀδιαδόχου τε τῶν δικαίων βασιλείας, καὶ ἀτελευτήτου τῶν
 ἁμαρτωλῶν κολάσεως· ὑπόθεσίς τε ἐξομολογήσεως, καὶ πρὸς τὴν τῶν
 θείων Γραφῶν μελέτην προτροπὴ, τίνες τε αἱ μεθοδεῖαι τοῦ Ἐχθροῦ, καὶ

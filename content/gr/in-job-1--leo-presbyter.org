@@ -1,17 +1,19 @@
-#+TITLE: \
+#+TITLE: In Job
 #+AUTHOR: Λέων Πρεσβύτερος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: In Job
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-job-1--leo-presbyter
 #+LANGUAGE: el
 
-* \
+* In Job
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+\
 Εὔκαιρον ἐν τῷ παρόντι τὸν ἀήττητον τοῦ θεοῦ στρατιώτην Ἰὼβ λέγειν τὰ τοῦ
 προφήτου ∆αυΐδ. Εἶπα· Φυλάξω τὰς ὁδούς μου τοῦ μὴ ἁμαρτάνειν με ἐν γλώσσῃ μου·
 ἐθέμην τῷ στόματί μου φυλακὴν ἐν τῷ συστῆναι τὸν ἁμαρτωλὸν ἐναντίον μου.

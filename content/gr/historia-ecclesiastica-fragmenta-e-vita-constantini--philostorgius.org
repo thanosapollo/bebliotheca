@@ -1,13 +1,14 @@
-#+TITLE: 1.7a Vita Constantini Cod. Angelic. A f. 15v Franchi de' Cav. 93: Τοῦ τοίνυν ̓Αρείου
+#+TITLE: Historia ecclesiastica Fragmenta e vita Constantini
 #+AUTHOR: Φιλοστόργιος
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Historia ecclesiastica Fragmenta e vita Constantini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historia-ecclesiastica-fragmenta-e-vita-constantini--philostorgius
 #+LANGUAGE: el
 
-* 1.7a Vita Constantini Cod. Angelic. A f. 15v Franchi de' Cav. 93: Τοῦ τοίνυν ̓Αρείου
+* Historia ecclesiastica Fragmenta e vita Constantini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

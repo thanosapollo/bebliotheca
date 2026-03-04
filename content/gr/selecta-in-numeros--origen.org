@@ -1,17 +1,20 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΥΣ ΑΡΙΘΜΟΥΣ. 12.576
+#+TITLE: Selecta in Numeros
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Selecta in Numeros
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/selecta-in-numeros--origen
 #+LANGUAGE: el
 
-* ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΥΣ ΑΡΙΘΜΟΥΣ. 12.576
+* Selecta in Numeros
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΥΣ ΑΡΙΘΜΟΥΣ.
+=12.576=
 Οὐδὲν πλὴν εἰς τὸ μάννα οἱ ὀφθαλμοὶ ἡμῶν. Μᾶν ὠνομάσθη ἀπὸ τοῦ τοὺς Ἑβραίους
 πρώτους θέαμα ξένον ὁρῶντας εἰπεῖν πρὸς ἀλλήλους τῇ πα τρίῳ γλώσσῃ, «Μᾶν,»
 τουτέστι, «Τί τοῦτο;» ὅπερ οὐκ ἂν εἶπον, εἰ ἔθος ἦν, ὥς τινες τῶν ἐθνικῶν φασι, τὴν

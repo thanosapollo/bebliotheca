@@ -1,17 +1,19 @@
-#+TITLE: Περὶ νηστείας, καὶ εἰς τὸν ∆αυῒδ, καὶ περὶ πρεσβυτέρων, καὶ εἰς τὸν Ἰωσὴφ,
+#+TITLE: De jejunio de Davide
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De jejunio de Davide
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-jejunio-de-davide--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ νηστείας, καὶ εἰς τὸν ∆αυῒδ, καὶ περὶ πρεσβυτέρων, καὶ εἰς τὸν Ἰωσὴφ,
+* De jejunio de Davide
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ νηστείας, καὶ εἰς τὸν ∆αυῒδ, καὶ περὶ πρεσβυτέρων, καὶ εἰς τὸν Ἰωσὴφ,
 καὶ κατὰ Ναυάτου.
 =62.759=
 Καθολικὸν ἡμῖν, καὶ οὐ μερικὸν μέλος ὑπαγορεύων ὁ μακάριος ∆αυῒδ, ἐπῆλθε

@@ -1,17 +1,21 @@
-#+TITLE: ΛΟΓΟΣ ΙΒʹ. Εἰς τὸν πατέρα ἑαυτοῦ, ἡνίκ' ἐπέτρεψεν αὐτὸν φροντίζειν τῆς Ναζιανζοῦ Ἐκκλησίας.
+#+TITLE: Ad patrem
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ad patrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-patrem--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΙΒʹ. Εἰς τὸν πατέρα ἑαυτοῦ, ἡνίκ' ἐπέτρεψεν αὐτὸν φροντίζειν τῆς Ναζιανζοῦ Ἐκκλησίας.
+* Ad patrem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΙΒʹ.
+Εἰς τὸν πατέρα ἑαυτοῦ, ἡνίκ' ἐπέτρεψεν αὐτὸν φροντίζειν τῆς
+Ναζιανζοῦ Ἐκκλησίας.
 Αʹ. Τὸ στόμα μου ἤνοιξα, καὶ εἵλκυσα Πνεῦμα, καὶ δίδωμι τὰ ἐμαυτοῦ πάντα,
 καὶ ἐμαυτὸν τῷ Πνεύ ματι, καὶ πρᾶξιν, καὶ λόγον, καὶ ἀπραξίαν, καὶ σιω πήν· μόνον
 ἐχέτω με, καὶ ἀγέτω, καὶ κινείτω καὶ χεῖρα, καὶ νοῦν, καὶ γλῶσσαν, ἐφ' ἃ δεῖ καὶ

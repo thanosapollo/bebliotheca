@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΟ Γυνὴ δέδεται νόμῳ, ἐφ' ὅσον χρόνον ζῇ ὁ ἀνὴρ αὐτῆς· ἐὰν δὲ
+#+TITLE: De libello repudii
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De libello repudii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-libello-repudii--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟ Γυνὴ δέδεται νόμῳ, ἐφ' ὅσον χρόνον ζῇ ὁ ἀνὴρ αὐτῆς· ἐὰν δὲ
+* De libello repudii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟ Γυνὴ δέδεται νόμῳ, ἐφ' ὅσον χρόνον ζῇ ὁ ἀνὴρ αὐτῆς· ἐὰν δὲ
 κοιμηθῇ, ἐλευθέρα ἐστὶν ᾧ θέλει γαμηθῆναι, μόνον ἐν Κυρίῳ.
 Μακαριωτέρα δέ ἐστιν, ἐὰν οὕτω μείνῃ.
 =51.217=

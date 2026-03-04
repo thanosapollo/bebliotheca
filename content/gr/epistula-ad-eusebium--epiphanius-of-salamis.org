@@ -1,17 +1,19 @@
-#+TITLE: Tοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου Κωνσταντίας τῆς
+#+TITLE: Epistula ad Eusebium
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Eusebium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-eusebium--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Tοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου Κωνσταντίας τῆς
+* Epistula ad Eusebium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Tοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου Κωνσταντίας τῆς
 Κυπρίων νήσου περὶ τῆς τοῦ πάσχα ἡμέρας ἀκριβὴς διασάφησις· ἐκ τῆς
 πρὸς Εὐσέβιον καὶ Μάρκελλον, Βιβιανόν (Βηβιανόν cod.) τε καὶ Κάρπον
 ἐπιστολῆς.

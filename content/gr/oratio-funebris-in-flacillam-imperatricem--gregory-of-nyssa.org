@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΠΙΤΦΙΟΣ ΕΙΣ ΠΛΑΚΙΛΛΑΝ ΒΑΣΙΛΙΣΣΑΝ
+#+TITLE: Oratio funebris in Flacillam imperatricem
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Oratio funebris in Flacillam imperatricem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-funebris-in-flacillam-imperatricem--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΠΙΤΦΙΟΣ ΕΙΣ ΠΛΑΚΙΛΛΑΝ ΒΑΣΙΛΙΣΣΑΝ
+* Oratio funebris in Flacillam imperatricem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΠΙΤΦΙΟΣ ΕΙΣ ΠΛΑΚΙΛΛΑΝ
+ΒΑΣΙΛΙΣΣΑΝ
 Ὁ πιστὸς καὶ φρόνιμος οἰκονόμος (ἐκ γὰρ τῶν ἀνεγνωσ μένων ἀπὸ τοῦ θείου
 εὐαγγελίου προοιμιάζομαι), ὃν κατέστη σεν ὁ κύριος ἐπὶ τῆς οἰκετίας ταύτης τοῦ
 διδόναι ἐν καιρῷ τοῖς οἰκονομουμένοις τὸ σιτομέτριον, καλῶς ἐν τῷ πρὸ τούτου

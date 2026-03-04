@@ -1,17 +1,19 @@
-#+TITLE: Ἀπελθόντος τοῦ ἐπισκόπου μαρτύρων ἡμέραν ἐν τῇ χώρᾳ ἐπιτελέσαι,
+#+TITLE: De sanctis martyribus
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sanctis martyribus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sanctis-martyribus--john-chrysostom
 #+LANGUAGE: el
 
-* Ἀπελθόντος τοῦ ἐπισκόπου μαρτύρων ἡμέραν ἐν τῇ χώρᾳ ἐπιτελέσαι,
+* De sanctis martyribus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀπελθόντος τοῦ ἐπισκόπου μαρτύρων ἡμέραν ἐν τῇ χώρᾳ ἐπιτελέσαι,
 ἐλέχθη ἡ ὁμιλία ἐν τῇ πόλει εἰς μάρτυρας, καὶ περὶ κατανύξεως καὶ
 ἐλεημοσύνης.
 =50.645=

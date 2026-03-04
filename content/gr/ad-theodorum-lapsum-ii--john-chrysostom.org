@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ πρὸς Θεόδωρον μοναχόν, σκεπτόμενον ἐξελθεῖν τοῦ
+#+TITLE: Ad Theodorum lapsum ii
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ad Theodorum lapsum ii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-theodorum-lapsum-ii--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ πρὸς Θεόδωρον μοναχόν, σκεπτόμενον ἐξελθεῖν τοῦ
+* Ad Theodorum lapsum ii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ πρὸς Θεόδωρον μοναχόν, σκεπτόμενον ἐξελθεῖν τοῦ
 μοναστηρίου καὶ γαμῆσαι καὶ πραγματεύεσθαι.
 1 Εἰ καὶ δάκρυα καὶ στεναγμοὺς ἦν διὰ γραμμάτων δηλοῦσθαι, καὶ τούτων ἄν
 σοι τὴν ἐπιστολὴν ἐμπλήσας ἀπέστειλα· δακρύω δὲ ἐγὼ οὐχ ὅτι πραγμάτων

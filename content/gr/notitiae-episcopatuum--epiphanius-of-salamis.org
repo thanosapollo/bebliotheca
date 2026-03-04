@@ -1,17 +1,19 @@
-#+TITLE: ̓Επιφανίου ἀρχιεπισκόπου Κύπρου ἔκθεσις πρωτοκλησιῶν πατριαρχῶν
+#+TITLE: Notitiae episcopatuum
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Notitiae episcopatuum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/notitiae-episcopatuum--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* ̓Επιφανίου ἀρχιεπισκόπου Κύπρου ἔκθεσις πρωτοκλησιῶν πατριαρχῶν
+* Notitiae episcopatuum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Επιφανίου ἀρχιεπισκόπου Κύπρου ἔκθεσις πρωτοκλησιῶν πατριαρχῶν
 τε καὶ μητροπολιτῶν.
 Ὁ πατριάρχης Ῥώμης
 ὁ πατριάρχης Κωνσταντινουπόλεως

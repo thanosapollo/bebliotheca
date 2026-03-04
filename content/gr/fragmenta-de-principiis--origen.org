@@ -1,13 +1,14 @@
-#+TITLE: 1 Euseb. C. Marcell. I 4 (GCS 14, p. 3, 11–18): (Marcell.:) γέγραφεν γὰρ ἀρχόμενος (scil.
+#+TITLE: Fragmenta de principiis
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmenta de principiis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-de-principiis--origen
 #+LANGUAGE: el
 
-* 1 Euseb. C. Marcell. I 4 (GCS 14, p. 3, 11–18): (Marcell.:) γέγραφεν γὰρ ἀρχόμενος (scil.
+* Fragmenta de principiis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

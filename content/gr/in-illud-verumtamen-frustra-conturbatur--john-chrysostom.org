@@ -1,17 +1,21 @@
-#+TITLE: ΕΙΣ ΤΟ ΠΡΟΦΗΤΙΚΟΝ ΡΗΤΟΝ ΤΟ ΛΕΓΟΝ, "Πλὴν μάτην ταράσσεται πᾶς ἄνθρωπος ζῶν"· καὶ περὶ ἐλεημοσύνης. 55.559
+#+TITLE: In illud Verumtamen frustra conturbatur
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Verumtamen frustra conturbatur
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-verumtamen-frustra-conturbatur--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟ ΠΡΟΦΗΤΙΚΟΝ ΡΗΤΟΝ ΤΟ ΛΕΓΟΝ, "Πλὴν μάτην ταράσσεται πᾶς ἄνθρωπος ζῶν"· καὶ περὶ ἐλεημοσύνης. 55.559
+* In illud Verumtamen frustra conturbatur
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟ ΠΡΟΦΗΤΙΚΟΝ ΡΗΤΟΝ ΤΟ ΛΕΓΟΝ, "Πλὴν μάτην ταράσσεται πᾶς
+ἄνθρωπος ζῶν"· καὶ περὶ ἐλεημοσύνης.
+=55.559=
 αʹ. Προτρέπεται καὶ κόλπος βύθιος ἁλιέα, ὅταν τὸ δίκτυον ῥίψας, καὶ πολλὴν
 τῶν ἐναλίων ἄγραν περιλαβὼν, κάμνουσαν τῷ φόρτῳ τὴν σαγήνην ἐφέλκηται· καὶ
 θηρατὴν ὕλη θηροτρόφος, ὅταν ὄρη διερευνήσας, καὶ κορυφὴν κατάκομον

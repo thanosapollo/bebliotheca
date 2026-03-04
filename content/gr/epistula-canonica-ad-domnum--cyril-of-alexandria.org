@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ Κύριλλος ∆όμνῳ Α Περὶ τοῦ ἐπίσκοπον καθαιρεθέντα καὶ τοῦ ἱερουργεῖν παύεσθαι.
+#+TITLE: Epistula canonica ad Domnum
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Epistula canonica ad Domnum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-canonica-ad-domnum--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ Κύριλλος ∆όμνῳ Α Περὶ τοῦ ἐπίσκοπον καθαιρεθέντα καὶ τοῦ ἱερουργεῖν παύεσθαι.
+* Epistula canonica ad Domnum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ Κύριλλος
+∆όμνῳ Α Περὶ τοῦ ἐπίσκοπον καθαιρεθέντα καὶ τοῦ ἱερουργεῖν
+παύεσθαι.
 Ἕκαστα τῶν καθ' ἡμᾶς πραγμάτων, ὅταν εὐθὺ φέρωνται κανονικῆς εὐταξίας
 , οὐδένα μὲν ἡμῖν ἐντίκτει θόρυβον, ἀπαλάττει δὲ καὶ τῆς παρά τινων δυσφημίας
 , μᾶλλον δὲ καὶ τὰς παρὰ τῶν εὖ φρονούντων εὐφημίας ἡμῖν προξενεῖ. Τίς γὰρ οὐκ

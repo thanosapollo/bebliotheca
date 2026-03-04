@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ μεγάλου λογοθέτου Γεωργίου τοῦ Ἀκροπολίτου λόγος κατὰ Λατίνων, γραφεὶς αὐτῷ ὅτε ἐν τῇ δύσει κατάσχετος ἦν.
+#+TITLE: Contra Latinos
 #+AUTHOR: Γεώργιος Ἀκροπολίτης
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: Contra Latinos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-latinos--george-acropolites
 #+LANGUAGE: el
 
-* Τοῦ μεγάλου λογοθέτου Γεωργίου τοῦ Ἀκροπολίτου λόγος κατὰ Λατίνων, γραφεὶς αὐτῷ ὅτε ἐν τῇ δύσει κατάσχετος ἦν.
+* Contra Latinos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ μεγάλου λογοθέτου Γεωργίου τοῦ Ἀκροπολίτου λόγος κατὰ
+Λατίνων, γραφεὶς αὐτῷ ὅτε ἐν τῇ δύσει κατάσχετος ἦν.
 1.1 Ἄνδρες Ῥωμαῖοι, οἱ τῆς πρεσβυτέρας Ῥώμης ὁρμώμενοι,ἐβουλόμην μὲν
 καλεῖν ὑμᾶς ἀδελφοὺς ὡς ὁμογνώμονας καὶ ὁμόφρονας, ἐπεί τοί γε τοῦτο σκοπὸς
 τοῦ ὑπὲρ ἡμῶν τὸ καθ' ἡμᾶς προσειληφότος θεοῦ καὶ πάντα τὰ τῆς σαρκὸς

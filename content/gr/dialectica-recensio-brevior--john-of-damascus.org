@@ -1,17 +1,19 @@
-#+TITLE: Πίναξ σὺν θεῷ τῶν φιλοσόφων κεφαλαίων τοῦ ∆αμασκηνοῦ
+#+TITLE: Dialectica Recensio brevior
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Dialectica Recensio brevior
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/dialectica-recensio-brevior--john-of-damascus
 #+LANGUAGE: el
 
-* Πίναξ σὺν θεῷ τῶν φιλοσόφων κεφαλαίων τοῦ ∆αμασκηνοῦ
+* Dialectica Recensio brevior
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Πίναξ σὺν θεῷ τῶν φιλοσόφων κεφαλαίων τοῦ ∆αμασκηνοῦ
 <Προοίμιον–Ἐπιστολή> αʹ Περὶ τοῦ ὄντος οὐσίας τε καὶ συμβεβηκότος (ῃ. ινφρα
 ιβʹ) (ῃ. ινφρα ιγʹ) (ῃ. ινφρα ιδʹ) βʹ Περὶ γένους καὶ εἴδους, τοῦ γενικωτάτου καὶ τοῦ
 εἰδικωτάτου καὶ τῶν ὑπ αλλήλων γʹ Περὶ ἀτόμου δʹ Περὶ διαφορᾶς εʹ Περὶ

@@ -1,17 +1,19 @@
-#+TITLE: Gal 3, Λέγει τοίνυν ὅτι Μωϋσῆς μὲν ἐμεσίτευσε πρὸς τὴν δόσιν τοῦ νόμου,
+#+TITLE: Fragmenta in epistulam ad Galatas
 #+AUTHOR: Γεννάδιος Κωνσταντινουπόλεως
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Galatas
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-galatas--gennadius-of-constantinople
 #+LANGUAGE: el
 
-* Gal 3, Λέγει τοίνυν ὅτι Μωϋσῆς μὲν ἐμεσίτευσε πρὸς τὴν δόσιν τοῦ νόμου,
+* Fragmenta in epistulam ad Galatas
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Gal 3, Λέγει τοίνυν ὅτι Μωϋσῆς μὲν ἐμεσίτευσε πρὸς τὴν δόσιν τοῦ νόμου,
 ἀλλ' ἑνὶ μόνον ἐμεσίτευσεν ἔθνει· δεῖ δὲ τὸν ὡς ἀληθῶς μέλλοντα μεσιτεύειν πρὸς
 τὸν τῶν ἁπάντων ἐθνῶν ἕνα θεόν, οὐχ ὑπὲρ ἑνὸς ἔθνους ἀλλ' ὑπὲρ πάντων κοινῇ
 τὴν μεσιτείαν ποιήσασθαι, ἐπειδὴ καὶ πάντων ἐθνῶν εἷς ἐστι θεός. εἴη δ' ἂν οὗτος οὐ

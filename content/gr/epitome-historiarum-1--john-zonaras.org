@@ -1,17 +1,19 @@
-#+TITLE: 1 Οὕτω μὲν οὖν, ὡς εἴρηται, τῆς τοῦ πατρὸς βασιλείας ὁ μέγας Κωνσταντῖνος
+#+TITLE: Epitome historiarum
 #+AUTHOR: Ἰωάννης Ζωναρᾶς
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Epitome historiarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epitome-historiarum-1--john-zonaras
 #+LANGUAGE: el
 
-* 1 Οὕτω μὲν οὖν, ὡς εἴρηται, τῆς τοῦ πατρὸς βασιλείας ὁ μέγας Κωνσταντῖνος
+* Epitome historiarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Οὕτω μὲν οὖν, ὡς εἴρηται, τῆς τοῦ πατρὸς βασιλείας ὁ μέγας Κωνσταντῖνος
 διάδοχος γέγονεν, ὁ ἐν βασιλεῦσιν ἀοίδιμος καὶ ἐν ὀρθοδόξοις ἐπισημότατος. ὃς ἐκ
 τῆς μακαρίας Ἐλένης γεγέννητο τῷ πατρί, περὶ ἧς διαφωνοῦσιν οἱ συγγραφεῖς καὶ
 παρ' αὐτοῖς τὰ περὶ ταύτης οὐχ ὡμολόγηται. οἱ μὲν γὰρ τῷ Κώνσταντι νόμῳ γάμου

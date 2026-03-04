@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν Χριστοῦ γέννησιν. 61.737
+#+TITLE: In Christi natalem diem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Christi natalem diem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-christi-natalem-diem--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν Χριστοῦ γέννησιν. 61.737
+* In Christi natalem diem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν Χριστοῦ γέννησιν.
+=61.737=
 Ὁ τῆς δικαιοσύνης ἀνέτειλε σήμερον ἥλιος, καὶ τὸν πρὶν ἀνατέλλοντα
 ἐκάλυψεν· ἐλυτρώθην τοῦ σκότους, καὶ οὐ φέρω τὰς ἀκτῖνας· ἐτέχθη μοι πάλιν τὸ
 φῶς, καὶ ἀμαυροῦμαι τῷ φόβῳ· τὸν τόκον ἀγάλλομαι, καὶ τὸν τρόπον ταράττομαι·

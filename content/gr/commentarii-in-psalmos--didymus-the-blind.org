@@ -1,17 +1,19 @@
-#+TITLE: 1 Ἔχ̣ομ̣ε̣ν̣ περὶ θεοῦ διάλημψιν καὶ ἀπὸ τ̣ῆς γραφῆς καὶ τῆς κοινῆς ἐννοίας
+#+TITLE: Commentarii in Psalmos
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Commentarii in Psalmos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-psalmos--didymus-the-blind
 #+LANGUAGE: el
 
-* 1 Ἔχ̣ομ̣ε̣ν̣ περὶ θεοῦ διάλημψιν καὶ ἀπὸ τ̣ῆς γραφῆς καὶ τῆς κοινῆς ἐννοίας
+* Commentarii in Psalmos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Ἔχ̣ομ̣ε̣ν̣ περὶ θεοῦ διάλημψιν καὶ ἀπὸ τ̣ῆς γραφῆς καὶ τῆς κοινῆς ἐννοίας
 ὅτι ἄτρεπτός ἐστιν, ὅτι ἀναλλοίωτός ἐστιν· ὁ γὰρ ὅλως μὴ ὑποκείμενος ποιότη̣τι οὐ
 τρέπεται, οὐκ ἀλλοιοῦται· οὐδὲν γ̣α`̣ρ̣ ἕτερ̣ο´̣ν̣ ἐστιν ἀλλοίωσις ἢ κατὰ ποιὸν
 μεταβολή. οὐ πᾶσα μεταβολ̣ὴ ἀλλοίωσίς ἐστιν, ἀλλ' ἡ κ̣ατὰ π̣οιότητα. εἰσίν γ̣ε̣ καὶ

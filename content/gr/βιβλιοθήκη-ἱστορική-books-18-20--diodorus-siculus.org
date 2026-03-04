@@ -1,4 +1,4 @@
-#+TITLE: Βιβλιοθήκη Ἱστορική (Books 18-20)
+#+TITLE: Βιβλιοθήκη Ἱστορική (Βιβλία ΙΗʹ-Κʹ)
 #+AUTHOR: Diodorus Siculus
 #+FILETAGS: :imperial:1c-bc:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup

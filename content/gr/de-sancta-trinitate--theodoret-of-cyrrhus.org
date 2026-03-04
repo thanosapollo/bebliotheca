@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΖΩΟΠΟΙΟΥ ΤΡΙΑ∆ΟΣ. ΠΡΟΟΙΜΙΟΝ.
+#+TITLE: De sancta trinitate
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: De sancta trinitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancta-trinitate--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΖΩΟΠΟΙΟΥ ΤΡΙΑ∆ΟΣ. ΠΡΟΟΙΜΙΟΝ.
+* De sancta trinitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΖΩΟΠΟΙΟΥ ΤΡΙΑ∆ΟΣ.
+ΠΡΟΟΙΜΙΟΝ.
 ΠΡΟΟΙΜΙΟΝ. Ἔδει μὲν πάντας τοὺς τῇ προσηγορίᾳ τοῦ Σωτῆ ρος ἡμῶν Ἰησοῦ
 Χριστοῦ λαμπρυνομένους, καὶ πρό βατα εἶναι σεμνυνομένους τοῦ τὴν ψυχὴν
 τεθεικότος ποιμένος ὑπὲρ ἡμῶν, τῆς τοῦ ποιμένος ἀκούειν φω νῆς, καὶ τὴν ὑπ'

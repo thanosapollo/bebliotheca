@@ -1,6 +1,7 @@
-#+TITLE: Τάδε ἔνεστιν ἐν τῷ πρώτῳ τόμῳ τῆς Θεοδωρήτου ἐκκλησιαστικῆς ἱστορίας
+#+TITLE: Historia ecclesiastica
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Historia ecclesiastica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

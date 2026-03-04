@@ -1,17 +1,19 @@
-#+TITLE: Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος τῷ ἁγίῳ σαββάτῳ.
+#+TITLE: In diem sabbati sancti
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In diem sabbati sancti
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-diem-sabbati-sancti--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος τῷ ἁγίῳ σαββάτῳ.
+* In diem sabbati sancti
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος τῷ ἁγίῳ σαββάτῳ.
 Ἐπιτάφιον ἑορτὴν τοῦ σωτῆρος ἡμῶν ἑορτάζομεν σήμερον. Καὶ ὁ μὲν παρὰ
 τοῖς νεκροῖς κάτω τοῦ θανάτου τὰ δεσμὰ διαλύων καὶ φωτὸς τὸν ᾅδην πληρῶν καὶ
 ἀφυπνίζων τοὺς κεκοιμημένους, ἡμεῖς δὲ χορεύομεν ὑπὲρ γῆν τὴν ἀνάστασιν

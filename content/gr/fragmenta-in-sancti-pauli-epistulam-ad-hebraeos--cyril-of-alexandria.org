@@ -1,13 +1,14 @@
-#+TITLE: CYRILLI ARCHIEPISCOPI ALEXANDRINI COMMENTARIORUM IN EPISTOLAM AD HEBRAEOS FRAGMENTA QUOT REPERIRI POTUERUNT. PRAEFATIONIS FRAGMENTUM.
+#+TITLE: Fragmenta in sancti Pauli epistulam ad Hebraeos
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmenta in sancti Pauli epistulam ad Hebraeos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-sancti-pauli-epistulam-ad-hebraeos--cyril-of-alexandria
 #+LANGUAGE: el
 
-* CYRILLI ARCHIEPISCOPI ALEXANDRINI COMMENTARIORUM IN EPISTOLAM AD HEBRAEOS FRAGMENTA QUOT REPERIRI POTUERUNT. PRAEFATIONIS FRAGMENTUM.
+* Fragmenta in sancti Pauli epistulam ad Hebraeos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

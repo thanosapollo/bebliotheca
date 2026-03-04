@@ -1,17 +1,20 @@
-#+TITLE: ΤOΥ AΥΤOΥ ΠEΡI AΝAΣΤAΣEΩΣ ΝEΚΡΩΝ Παντὶ δόγματι καὶ λόγῳ τῆς ἐν τούτοις ἀληθείας ἐχομένῳ
+#+TITLE: De resurrectione
 #+AUTHOR: Ἀθηναγόρας Ἀθηναῖος
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: De resurrectione
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-resurrectione--athenagoras
 #+LANGUAGE: el
 
-* ΤOΥ AΥΤOΥ ΠEΡI AΝAΣΤAΣEΩΣ ΝEΚΡΩΝ Παντὶ δόγματι καὶ λόγῳ τῆς ἐν τούτοις ἀληθείας ἐχομένῳ
+* De resurrectione
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤOΥ AΥΤOΥ ΠEΡI AΝAΣΤAΣEΩΣ ΝEΚΡΩΝ
+Παντὶ δόγματι καὶ λόγῳ τῆς ἐν τούτοις ἀληθείας ἐχομένῳ
 παραφύεταί τι ψεῦδος· παραφύεται δὲ οὐκ ἐξ ὑποκειμένης τινὸς
 ἀρχῆς κατὰ φύσιν ὁρμώμενον ἢ τῆς κατ' αὐτὸ ὅπερ ἐστὶν ἕκαστον
 αἰτίας, ἀλλ' ὑπὸ τῶν τὴν ἔκθεσμον σπορὰν ἐπὶ διαφθορᾷ τῆς

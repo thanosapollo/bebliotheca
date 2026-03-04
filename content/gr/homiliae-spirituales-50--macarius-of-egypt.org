@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΟΣΙΟΥ ΠΑΤΡΟΣ ΗΜΩΝ ΜΑΚΑΡΙΟΥ ΤΟΥ ΑΙΓΥΠΤΙΟΥ ΟΜΙΛΙΑΙ ΠΝΕΥΜΑΤΙΚΑΙ Πάνυ πολλῆς ὠφελείας πεπληρωμέναι Περὶ τῆς
+#+TITLE: Homiliae spirituales 50
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homiliae spirituales 50
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

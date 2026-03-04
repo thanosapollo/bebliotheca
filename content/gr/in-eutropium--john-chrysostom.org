@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ ΕΙΣ ΕΥΤΡΟΠΙΟΝ ΕΥΝΟΥΧΟΝ ΠΑΤΡΙΚΙΟΝ ΚΑΙ ΥΠΑΤΟΝ. 52.391
+#+TITLE: In Eutropium
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Eutropium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-eutropium--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΕΙΣ ΕΥΤΡΟΠΙΟΝ ΕΥΝΟΥΧΟΝ ΠΑΤΡΙΚΙΟΝ ΚΑΙ ΥΠΑΤΟΝ. 52.391
+* In Eutropium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΕΙΣ ΕΥΤΡΟΠΙΟΝ ΕΥΝΟΥΧΟΝ ΠΑΤΡΙΚΙΟΝ ΚΑΙ ΥΠΑΤΟΝ.
+=52.391=
 αʹ. Ἀεὶ μὲν, μάλιστα δὲ νῦν εὔκαιρον εἰπεῖν· Ματαιότης ματαιοτήτων, καὶ
 πάντα ματαιότης. Ποῦ νῦν ἡ λαμπρὰ τῆς ὑπατείας περιβολή; ποῦ δὲ αἱ φαιδραὶ
 λαμπάδες; ποῦ δὲ οἱ κρότοι, καὶ οἱ χοροὶ, καὶ αἱ θαλίαι, καὶ αἱ πανηγύρεις; ποῦ οἱ

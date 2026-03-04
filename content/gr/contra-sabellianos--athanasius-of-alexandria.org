@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ
+#+TITLE: Contra Sabellianos
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra Sabellianos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-sabellianos--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ
+* Contra Sabellianos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ
 Περὶ τῆς ἀϊδίου ὑπάρξεως τοῦ Υἱοῦ καὶ τοῦ Πνεύματος σὺν Θεῷ, καὶ
 πρὸς τοὺς Σαβελλίζοντας.
 Ἰουδαϊσμὸς ἀντίκειται πρὸς Ἑλληνισμὸν, καὶ οὐδέτερος εὐσεβὴς, ἀλλ' ἀμφότεροι

@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸ, "Ὅσα ἐὰν δήσητε ἐπὶ τῆς γῆς, ἔσται δεδεμένα καὶ ἐν τῷ οὐρανῷ·"
+#+TITLE: De remissione peccatorum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De remissione peccatorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-remissione-peccatorum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸ, "Ὅσα ἐὰν δήσητε ἐπὶ τῆς γῆς, ἔσται δεδεμένα καὶ ἐν τῷ οὐρανῷ·"
+* De remissione peccatorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸ, "Ὅσα ἐὰν δήσητε ἐπὶ τῆς γῆς, ἔσται δεδεμένα καὶ ἐν τῷ οὐρανῷ·"
 καὶ περὶ τῆς παραβολῆς τῶν ἑκατὸν προβάτων· καὶ εἰς τὸ ῥητὸν τοῦ
 εὐαγγελιστοῦ, "Ἐὰν δύο συμφωνήσωσι," καὶ τὰ ἑξῆς· καὶ εἰς τὸ,
 "Ποσάκις ἐὰν ἁμαρτήσῃ εἰς ἐμὲ ὁ ἀδελφός μου, ἀφήσω αὐτῷ;"

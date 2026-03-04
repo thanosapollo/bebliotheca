@@ -1,17 +1,19 @@
-#+TITLE: 1 Kor 2,6-9 Ἡ συνάρτησις τοῦ ὅλου νοήματος οὕτως· σοφίαν λαλοῦμεν ἐν τοῖς
+#+TITLE: Fragmenta in epistulam i ad Corinthios
 #+AUTHOR: Ἀρέθας Καισαρείας Καππαδοκίας
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam i ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-i-ad-corinthios--arethas-of-caesarea
 #+LANGUAGE: el
 
-* 1 Kor 2,6-9 Ἡ συνάρτησις τοῦ ὅλου νοήματος οὕτως· σοφίαν λαλοῦμεν ἐν τοῖς
+* Fragmenta in epistulam i ad Corinthios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Kor 2,6-9 Ἡ συνάρτησις τοῦ ὅλου νοήματος οὕτως· σοφίαν λαλοῦμεν ἐν τοῖς
 τελείοις, οὐ τοῦ αἰῶνος τούτου, ἀλλὰ τὴν ἀποκεκρυμμένην, καθὼς γέγραπται ὅτι
 ὀφθαλμὸς οὐκ εἶδεν καὶ οὖς οὐκ ἤκουσεν καὶ ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη ἃ
 ἡτοίμασεν ὁ θεὸς τοῖς ἀγαπῶσιν αὐτόν. ἡμῖν δὲ ταύτην τὴν περὶ τούτων

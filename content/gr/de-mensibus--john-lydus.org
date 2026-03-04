@@ -1,13 +1,14 @@
-#+TITLE: LIBER PRIMUS.
+#+TITLE: De mensibus
 #+AUTHOR: Ἰωάννης Λαυρέντιος Λυδός
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: De mensibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-mensibus--john-lydus
 #+LANGUAGE: el
 
-* LIBER PRIMUS.
+* De mensibus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

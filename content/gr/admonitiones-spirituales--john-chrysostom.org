@@ -1,17 +1,20 @@
-#+TITLE: Νουθεσίαι πνευματικαί. 62.741
+#+TITLE: Admonitiones spirituales
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Admonitiones spirituales
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/admonitiones-spirituales--john-chrysostom
 #+LANGUAGE: el
 
-* Νουθεσίαι πνευματικαί. 62.741
+* Admonitiones spirituales
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Νουθεσίαι πνευματικαί.
+=62.741=
 Καιρός σε λοιπὸν ἀνανῆψαι καὶ πάντα ἀποσείσασθαι. Μνήσθητι ὅτι σήμερον
 ἢ αὔριον ἰδεῖν ἔχεις τοὺς οὐρανοὺς, καὶ τοὺς ἀγγέλους θεάσασθαι, καὶ παραστῆναι
 τῷ φοβερῷ βήματι, καὶ ἐλθεῖν ἐνώπιον τοῦ Θεοῦ ἐν τῷ κριτηρίῳ αὐτοῦ, ἐν τῷ τῆς

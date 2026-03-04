@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸν σταυρὸν, ἐλέχθη εἰς τὴν ἁγίαν καὶ μεγάλην Παρασκευήν· καὶ εἰς
+#+TITLE: De cruce et latrone ii
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De cruce et latrone ii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-cruce-et-latrone-ii--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν σταυρὸν, ἐλέχθη εἰς τὴν ἁγίαν καὶ μεγάλην Παρασκευήν· καὶ εἰς
+* De cruce et latrone ii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν σταυρὸν, ἐλέχθη εἰς τὴν ἁγίαν καὶ μεγάλην Παρασκευήν· καὶ εἰς
 τὴν ἐξομολόγησιν τοῦ λῃστοῦ, καὶ ὅτι χρὴ ἡμᾶς ὑπὲρ τῶν ἐχθρῶν
 εὔχεσθαι.
 =49.407= Ὁμιλία βʹ.

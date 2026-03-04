@@ -1,17 +1,19 @@
-#+TITLE: Κωνσταντίνου τοῦ Μανασσῆ γένος ̓Οππιανοῦ διὰ στίχων πολιτικῶν
+#+TITLE: Vita Oppiani
 #+AUTHOR: Κωνσταντῖνος Μανασσῆς
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Vita Oppiani
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/vita-oppiani--constantine-manasses
 #+LANGUAGE: el
 
-* Κωνσταντίνου τοῦ Μανασσῆ γένος ̓Οππιανοῦ διὰ στίχων πολιτικῶν
+* Vita Oppiani
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Κωνσταντίνου τοῦ Μανασσῆ γένος ̓Οππιανοῦ διὰ στίχων πολιτικῶν
 ἐμμέτρων.
 ̓ ππιανὸς ὁ ποιητὴς Κίλιξ μὲν η ν τὸ γένος ἐκ λαμτροτάτης πόλεως Ναζάρβου
 Ο

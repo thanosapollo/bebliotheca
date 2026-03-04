@@ -1,6 +1,7 @@
-#+TITLE: 1 Χθὲς μέν, ἀδελφοί, περὶ τῆς προθεσμίας τοῦ ἁγίου πάσχα τινὰ ἐλαλοῦμεν
+#+TITLE: In sanctum pascha sermo 7
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum pascha sermo 7
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

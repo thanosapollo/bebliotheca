@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ ΙΘʹ. Εἰς τοὺς λόγους, καὶ εἰς τὸν ἐξισωτὴν Ἰουλιανόν.
+#+TITLE: Ad Julianum tributorum exaequatorem
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ad Julianum tributorum exaequatorem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-julianum-tributorum-exaequatorem--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΙΘʹ. Εἰς τοὺς λόγους, καὶ εἰς τὸν ἐξισωτὴν Ἰουλιανόν.
+* Ad Julianum tributorum exaequatorem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΙΘʹ.
+Εἰς τοὺς λόγους, καὶ εἰς τὸν ἐξισωτὴν Ἰουλιανόν.
 Αʹ. Τίς ἡ τυραννὶς, ἣν ἐξ ἀγάπης ἀεὶ τυραννού μεθα; τίς ἡ ἐμὴ σοφία καὶ
 ἐπιστήμη, δι' ἣν καθ' ἑκάστην πανήγυριν πολεμούμεθα; Ἐγὼ μὲν γὰρ οὐδεμίαν
 εὑρίσκω, πανταχόθεν ἐμαυτὸν διεξάγων καὶ διευθύνων. Πλὴν ἕν γε τοῦτο ἐμαυτῷ

@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΠΕΡΙ ΕΛΕΟΥΣ ΚΑΙ ΚΡΙΣΕΩΣ.
+#+TITLE: Homilia de misericordia et judicio
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia de misericordia et judicio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-de-misericordia-et-judicio--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΠΕΡΙ ΕΛΕΟΥΣ ΚΑΙ ΚΡΙΣΕΩΣ.
+* Homilia de misericordia et judicio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΠΕΡΙ ΕΛΕΟΥΣ ΚΑΙ ΚΡΙΣΕΩΣ.
 Πάτερ, εὐλόγησον. Ὁ μὲν ἐπιλανθανόμενος τοῦ Θεοῦ κόσμος, ἀδελ φοὶ,
 ἀδικίᾳ τῇ πρὸς τὸν πλησίον, καὶ ἀπαν θρωπίᾳ τῇ πρὸς τοὺς ἀδυνάτους κρατεῖται,
 καθά περ ὁ θεῖος Ἀπόστολος λέγει, ὅτι Καθὼς οὐκ ἐδοκίμασαν τὸν Θεὸν ἔχειν ἐν

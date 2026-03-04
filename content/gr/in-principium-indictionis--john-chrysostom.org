@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὴν ἀρχὴν τῆς ἰνδικτιῶνος τοῦ νέου ἔτους, καὶ εἰς μάρτυρας, καὶ εἰς
+#+TITLE: In principium indictionis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In principium indictionis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-principium-indictionis--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν ἀρχὴν τῆς ἰνδικτιῶνος τοῦ νέου ἔτους, καὶ εἰς μάρτυρας, καὶ εἰς
+* In principium indictionis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν ἀρχὴν τῆς ἰνδικτιῶνος τοῦ νέου ἔτους, καὶ εἰς μάρτυρας, καὶ εἰς
 αἱμόῤῥουν.
 =59.575=
 αʹ. Ἐπάλληλον σημεῖον παρὰ τοῦ ∆εσπότου Χριστοῦ ἡ τῶν ἀγαθῶν ἐπομβρία,

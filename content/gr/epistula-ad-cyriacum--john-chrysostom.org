@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως
+#+TITLE: Epistula ad Cyriacum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Cyriacum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-cyriacum--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως
+* Epistula ad Cyriacum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως
 τοῦ Χρυσοστόμου ἐπιστολὴ πεμφθεῖσα ἀπὸ τῆς ἐξορίας πρὸς Κυριακὸν
 ἐπίσκοπον.
 Φέρε δὴ ἀπαντλήσω σου τῆς ῥᾳθυμίας τὸ ἕλκος καὶ διασκεδάσω τοὺς λογισμοὺς

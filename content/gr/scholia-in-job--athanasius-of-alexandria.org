@@ -1,17 +1,19 @@
-#+TITLE: 27.1344 ἈΘΑΝΑΣΙΟΥ. Τό γε μὴν λέγειν τὴν Γραφήν· Ἐγένοντο δὲ αὐτῷ ἑπτὰ υἱοὶ, καὶ
+#+TITLE: Scholia in Job
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Scholia in Job
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/scholia-in-job--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* 27.1344 ἈΘΑΝΑΣΙΟΥ. Τό γε μὴν λέγειν τὴν Γραφήν· Ἐγένοντο δὲ αὐτῷ ἑπτὰ υἱοὶ, καὶ
+* Scholia in Job
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=27.1344= ἈΘΑΝΑΣΙΟΥ. Τό γε μὴν λέγειν τὴν Γραφήν· Ἐγένοντο δὲ αὐτῷ ἑπτὰ υἱοὶ, καὶ
 πρὸς τοὺς Ἀρειομανίτας ἡμῖν συμβαλεῖται· οἳ ὡς μέγα βοήθημα τῆς αἱρέσεως αὐτῶν
 κατέχουσι τὸ περὶ τοῦ Μονογενοῦς παρὰ τοῦ Ἀποστόλου λεγόμενον· Πιστὸν ὄντα τῷ
 ποιήσαντι αὐτόν· καὶ φιλονεικοῦσι ποίημα εἶναι τὸν τοῦ Θεοῦ Υἱόν. Ἔστι δὲ αὐτοῖς

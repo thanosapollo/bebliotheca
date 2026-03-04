@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸ, "Ἀρκεῖ σοι ἡ χάρις μου· ἡ γὰρ δύναμίς μου ἐν ἀσθενείᾳ
+#+TITLE: In illud Sufficit tibi gratia mea
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Sufficit tibi gratia mea
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-sufficit-tibi-gratia-mea--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸ, "Ἀρκεῖ σοι ἡ χάρις μου· ἡ γὰρ δύναμίς μου ἐν ἀσθενείᾳ
+* In illud Sufficit tibi gratia mea
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸ, "Ἀρκεῖ σοι ἡ χάρις μου· ἡ γὰρ δύναμίς μου ἐν ἀσθενείᾳ
 τελειοῦται."
 =59.507=
 αʹ. Ὅτε τὸν παναρμόνιον τουτονὶ κόσμον ἐξ ἀρχῆς ἔπλαττεν ὁ Θεὸς, θαύματα

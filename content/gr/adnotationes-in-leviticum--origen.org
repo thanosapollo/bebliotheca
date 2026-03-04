@@ -1,17 +1,19 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟ ΛΕΥΙΤΙΚΟΝ.
+#+TITLE: Adnotationes in Leviticum
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Adnotationes in Leviticum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adnotationes-in-leviticum--origen
 #+LANGUAGE: el
 
-* ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟ ΛΕΥΙΤΙΚΟΝ.
+* Adnotationes in Leviticum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟ ΛΕΥΙΤΙΚΟΝ.
 =17.17= ΚΕΦ. ∆ʹ. Στίχ. κζʹ. Ψυχὴ ἐὰν ἁμάρτῃ ἀκουσίως, φησὶ, καὶ μὴ ποιήσῃ ἀπὸ πασῶν
 τῶν ἐντολῶν Κυρίου, ὧν δεῖ ποιεῖν. Εἰ δὲ κατὰ φύσιν ἔχει. Ἔστι τάχα τινὰ προστάγματα Κυρίου, ἃ οὐ δεῖ ποιεῖν, κατὰ τό· Ἔδωξαν αὐτοῖς προστάγματα οὐ καλά.
 Ψυχὴ οὖν ἁμαρτάνει ἀκουσίως, ὅτε προφάσει εὐσεβείας τὸ μὴ δέον τηρεῖ. Καὶ δεῖται

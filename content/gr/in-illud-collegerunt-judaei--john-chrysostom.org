@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸ, Συνήγαγον οἱ Ἰουδαῖοι συνέδριον, καὶ ἔλεγον· "Τί ποιήσωμεν;"Τῇ
+#+TITLE: In illud Collegerunt Judaei
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Collegerunt Judaei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-collegerunt-judaei--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸ, Συνήγαγον οἱ Ἰουδαῖοι συνέδριον, καὶ ἔλεγον· "Τί ποιήσωμεν;"Τῇ
+* In illud Collegerunt Judaei
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸ, Συνήγαγον οἱ Ἰουδαῖοι συνέδριον, καὶ ἔλεγον· "Τί ποιήσωμεν;"Τῇ
 ἁγίᾳ καὶ μεγάλῃ βʹ.
 =59.525=
 Ἐοίκασιν οἱ τῆς Ἐκκλησίας φίλτατοι παῖδες νηπίοις θηλάζουσι, τοῖς τοῦ

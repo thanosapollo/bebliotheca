@@ -1,17 +1,19 @@
-#+TITLE: ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΚΑΤΗΧΗΣΕΙΣ. Τοῦ αὐτοῦ. Ἐν τῇ προτέρᾳ
+#+TITLE: Catechesis de juramento
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Catechesis de juramento
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/catechesis-de-juramento--john-chrysostom
 #+LANGUAGE: el
 
-* ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΚΑΤΗΧΗΣΕΙΣ. Τοῦ αὐτοῦ. Ἐν τῇ προτέρᾳ
+* Catechesis de juramento
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΚΑΤΗΧΗΣΕΙΣ. Τοῦ αὐτοῦ. Ἐν τῇ προτέρᾳ
 κατηχήσει διαλεχθεὶς περὶ ὅρκων ταύτην εἶπεν εἰς τὴν αὐτὴν πάλιν
 ὑπόθεσιν, δεικνὺς ὅτι οὐ τὸ ἐπιορκεῖν μόνον, ἀλλὰ καὶ τὸ εὐορκεῖν
 κόλασιν ἔχει, καὶ ὅτι χρησίμως ὁ Χριστὸς διὰ τριῶν ἡμερῶν ἀνέστη.

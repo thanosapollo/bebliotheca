@@ -1,17 +1,19 @@
-#+TITLE: Τατιανοῦ πρὸς Ἕλληνας.
+#+TITLE: Oratio ad Graecos
 #+AUTHOR: Τατιανός
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Oratio ad Graecos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-ad-graecos--tatian
 #+LANGUAGE: el
 
-* Τατιανοῦ πρὸς Ἕλληνας.
+* Oratio ad Graecos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τατιανοῦ πρὸς Ἕλληνας.
 1.1 Μὴ πάνυ φιλέχθρως διατίθεσθε πρὸς τοὺς βαρβάρους, ὦ ἄνδρες Ἕλληνες, μηδὲ
 φθονήσητε τοῖς τούτων δόγμασιν. ποῖον γὰρ ἐπιτήδευμα παρ' ὑμῖν τὴν σύστασιν οὐκ
 ἀπὸ βαρβάρων ἐκτήσατο; Τελμησσέων μὲν γὰρ οἱ δοκιμώτατοι τὴν δι' ὀνείρων

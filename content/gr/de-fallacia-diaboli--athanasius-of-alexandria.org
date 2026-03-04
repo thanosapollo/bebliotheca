@@ -1,6 +1,7 @@
-#+TITLE: Τοῦ αὐτοῦ Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας· Ἐξήγησις περὶ τῆς
+#+TITLE: De fallacia diaboli
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De fallacia diaboli
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

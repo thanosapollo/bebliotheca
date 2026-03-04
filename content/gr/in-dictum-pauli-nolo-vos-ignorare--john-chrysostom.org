@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΟ ΑΠΟΣΤΟΛΙΚΟΝ ΡΗΤΟΝ Οὐ θέλω ὑμᾶς ἀγνοεῖν, ἀδελφοὶ, ὅτι οἱ
+#+TITLE: In dictum Pauli Nolo vos ignorare
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In dictum Pauli Nolo vos ignorare
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-dictum-pauli-nolo-vos-ignorare--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟ ΑΠΟΣΤΟΛΙΚΟΝ ΡΗΤΟΝ Οὐ θέλω ὑμᾶς ἀγνοεῖν, ἀδελφοὶ, ὅτι οἱ
+* In dictum Pauli Nolo vos ignorare
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟ ΑΠΟΣΤΟΛΙΚΟΝ ΡΗΤΟΝ Οὐ θέλω ὑμᾶς ἀγνοεῖν, ἀδελφοὶ, ὅτι οἱ
 πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν, καὶ πάντες διὰ τῆς
 θαλάσσης διῆλθον.
 =51.241=

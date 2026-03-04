@@ -1,17 +1,19 @@
-#+TITLE: Ἀμφιλοχίου ἐπισκόπου Ἰκονίου εἰς τὴν θεοτόκον καὶ εἰς τὸν Συμεῶνα
+#+TITLE: In occursum domini
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In occursum domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-occursum-domini--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* Ἀμφιλοχίου ἐπισκόπου Ἰκονίου εἰς τὴν θεοτόκον καὶ εἰς τὸν Συμεῶνα
+* In occursum domini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀμφιλοχίου ἐπισκόπου Ἰκονίου εἰς τὴν θεοτόκον καὶ εἰς τὸν Συμεῶνα
 καὶ Ἄνναν.
 Πολλοὶ τῶν μεγάλων ἀνθρώπων τὴν παρθενίαν θαυμάζουσιν· καὶ γάρ ἐστι
 θαυμαστὴ ὡς τῶν ἀγγέλων σύμφυτος, ὡς τῶν ἄνω δυνάμεων συνόμιλος, ὡς τῶν

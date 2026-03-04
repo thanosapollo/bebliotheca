@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν Σαμαρεῖτιν. Τῇ ἡμέρᾳ τῆς Μεσοπεντηκοστῆς. 61.743
+#+TITLE: In Samaritanam in die mediae pentecostes
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Samaritanam in die mediae pentecostes
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-samaritanam-in-die-mediae-pentecostes--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν Σαμαρεῖτιν. Τῇ ἡμέρᾳ τῆς Μεσοπεντηκοστῆς. 61.743
+* In Samaritanam in die mediae pentecostes
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν Σαμαρεῖτιν. Τῇ ἡμέρᾳ τῆς Μεσοπεντηκοστῆς.
+=61.743=
 Φέρε τοίνυν σήμερον, ἀγαπητοὶ, καθὼς ἂν ἡ θεία χάρις δίδωσι, τοῖς
 εὐαγγελικοῖς θησαυροῖς ἐγχειρήσω μεν. Κοσμεῖ γὰρ τὸ περὶ ταῦτα φιλομαθὲς τὰς
 ψυχὰς, καὶ τὴν γηΐνην ἐκτείνει πρὸς οὐρανὸν ἕξιν. Καὶ γὰρ φιλομάθεια τὴν

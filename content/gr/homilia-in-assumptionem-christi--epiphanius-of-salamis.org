@@ -1,17 +1,21 @@
-#+TITLE: Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου Κύπρου εἰς τὴν ἀνάληψιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ. Εὐλογητὸς ὁ Θεός.
+#+TITLE: Homilia in assumptionem Christi
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in assumptionem Christi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-assumptionem-christi--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου Κύπρου εἰς τὴν ἀνάληψιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ. Εὐλογητὸς ὁ Θεός.
+* Homilia in assumptionem Christi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου Κύπρου εἰς τὴν
+ἀνάληψιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.
+Εὐλογητὸς ὁ Θεός.
 Κόσμος σώματος ἡ ἐπιτεθεῖσα τῷ σώματι κεφαλή· κόσμος δὲ τῶν ἑορτῶν ἡ
 σήμερον ἑορτή. Τί γάρ; φησί. Χριστοῦ ἀνάληψιν μετὰ σαρκὸς ἑορτάζομεν, ὡς τῶν
 ∆εσποτικῶν ἑορτῶν δεικνυμένην πλήρωμα. Καθάπερ γὰρ κεφαλὴ φαιδρόμορφος,

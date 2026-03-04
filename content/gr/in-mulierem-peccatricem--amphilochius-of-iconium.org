@@ -1,17 +1,19 @@
-#+TITLE: Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος εἰς τὴν γυναῖκα τὴν ἁμαρτωλὸν
+#+TITLE: In mulierem peccatricem
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In mulierem peccatricem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-mulierem-peccatricem--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος εἰς τὴν γυναῖκα τὴν ἁμαρτωλὸν
+* In mulierem peccatricem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος εἰς τὴν γυναῖκα τὴν ἁμαρτωλὸν
 τὴν ἀλείψασαν τὸν κύριον μύρῳ καὶ εἰς τὸν φαρισαῖον.
 Ἱκανῶς ἡμᾶς πρώην ἐψυχαγώγησεν ὁ Χριστὸς παρὰ Ζακχαίῳ ἑστιώμενος· ὅπου γὰρ
 Χριστὸς ἑστιᾶται καὶ τοῖς ἀνθρώ ποις συνανακλίνεται καὶ ποτοῦ καὶ τραπέζης

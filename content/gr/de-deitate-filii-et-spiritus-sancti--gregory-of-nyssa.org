@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΚΑΤΑ ΜΑΝΙΧΑΙΩΝ ΛΟΓΟΣ
+#+TITLE: De deitate filii et spiritus sancti
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De deitate filii et spiritus sancti
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-deitate-filii-et-spiritus-sancti--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΚΑΤΑ ΜΑΝΙΧΑΙΩΝ ΛΟΓΟΣ
+* De deitate filii et spiritus sancti
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΚΑΤΑ ΜΑΝΙΧΑΙΩΝ ΛΟΓΟΣ
 ∆ώδεκα συλλογισμῶν, ὅτι τὸ κακὸν, φθαρτὸν καὶ γεννητὸν καὶ ἀνύπαρκτον,
 καὶ ὁ τούτου δὲ πατὴρ διάβολος οὐκ ἀγέννητος.
 Εἴ τι ἂν κακὸν, κολαστέον· οὐδὲν δὲ κολαζόμενον ἄφθαρτον. Οὐδὲν ἄρα

@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΟΜΙΛΙΑ Πρὸς τοὺς
+#+TITLE: Contra ludos et theatra
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra ludos et theatra
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-ludos-et-theatra--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΟΜΙΛΙΑ Πρὸς τοὺς
+* Contra ludos et theatra
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ,
+ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΟΜΙΛΙΑ Πρὸς τοὺς
 καταλείψαντας τὴν ἐκκλησίαν καὶ αὐτομολήσαντας πρὸς τὰς
 ἱπποδρομίας καὶ τὰ θέατρα.
 =56.263=

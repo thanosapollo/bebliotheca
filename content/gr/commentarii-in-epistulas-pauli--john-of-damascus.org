@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΠΡΟΣ ΡΩΜΑΙΟΥΣ ΕΠΙΣΤΟΛΗΝ. ΚΕΦΑΛ. ΠΡΩΤΟΝ.
+#+TITLE: Commentarii in epistulas Pauli
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Commentarii in epistulas Pauli
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-epistulas-pauli--john-of-damascus
 #+LANGUAGE: el
 
-* ΕΙΣ ΠΡΟΣ ΡΩΜΑΙΟΥΣ ΕΠΙΣΤΟΛΗΝ. ΚΕΦΑΛ. ΠΡΩΤΟΝ.
+* Commentarii in epistulas Pauli
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΠΡΟΣ ΡΩΜΑΙΟΥΣ ΕΠΙΣΤΟΛΗΝ.
+ΚΕΦΑΛ. ΠΡΩΤΟΝ.
 «Παῦλος δοῦλος Ἰησοῦ Χριστοῦ, κλητὸς Ἀπόστολος.» Τρεῖς εἰσὶ δουλείας
 τρόποι· εἷς μὲν ὁ κατὰ τὴν δημιουργίαν, καθ' ὅ φησιν, ὅτι Τὰ σύμπαντα δοῦλα σά.
 Ἕτερος δὲ ὁ ἀπὸ πίστεως, κατὰ τὸ εἰρημένον· Ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας

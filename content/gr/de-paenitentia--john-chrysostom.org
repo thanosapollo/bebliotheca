@@ -1,17 +1,21 @@
-#+TITLE: ΛΟΓΟΣ ΠΕΡΙ ΜΕΤΑΝΟΙΑΣ 49.277 Ἐξ ἀγροῦ αὐτοῦ ἐπανελθόντος. Ὁμιλία αʹ.
+#+TITLE: De paenitentia
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De paenitentia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-paenitentia--john-chrysostom
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΠΕΡΙ ΜΕΤΑΝΟΙΑΣ 49.277 Ἐξ ἀγροῦ αὐτοῦ ἐπανελθόντος. Ὁμιλία αʹ.
+* De paenitentia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΠΕΡΙ ΜΕΤΑΝΟΙΑΣ
+=49.277= Ἐξ ἀγροῦ αὐτοῦ ἐπανελθόντος.
+Ὁμιλία αʹ.
 αʹ. Ἆρα ἐμέμνησθε ἡμῶν, ἡνίκα τὸν μεταξὺ τοῦτον ἐχωρίσθημεν χρόνον ὑμῶν;
 Ἐγὼ μὲν γὰρ ὑμῶν οὐδέποτε ἠδυνήθην ἐπιλαθέσθαι, ἀλλὰ καὶ τὴν πόλιν ἀφεὶς, τὴν
 ὑμετέραν οὐκ ἀφῆκα μνήμην· ἀλλ' ὥσπερ οἱ τῶν λαμπρῶν ἐρῶντες σωμάτων, ὅπουπερ

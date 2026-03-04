@@ -1,17 +1,19 @@
-#+TITLE: ̓Επιτάφιοι τῇ γυναικὶ τοῦ υἱοῦ τοῦ πανευτυχεστάτου καίσαρος κυροῦ
+#+TITLE: Epitaphius in Theodoram nurum Bryennii
 #+AUTHOR: Θεόδωρος Πρόδρομος
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Epitaphius in Theodoram nurum Bryennii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epitaphius-in-theodoram-nurum-bryennii--theodore-prodromus
 #+LANGUAGE: el
 
-* ̓Επιτάφιοι τῇ γυναικὶ τοῦ υἱοῦ τοῦ πανευτυχεστάτου καίσαρος κυροῦ
+* Epitaphius in Theodoram nurum Bryennii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Επιτάφιοι τῇ γυναικὶ τοῦ υἱοῦ τοῦ πανευτυχεστάτου καίσαρος κυροῦ
 Νικηφόρου τοῦ Βρυεννίου, κυρᾷ Θεοδώρᾳ
 Οὐκ οἶδα πῶς νῦν ἐξοδεύσω τὸν λόγον καὶ πῶς δραμοίμην τὸν προκείμενον
 δρόμον καὶ τίς γενοίμην ταῖς ἐνεστώσαις τύχαις. Ἂν ταῖς ἀβύσσοις ἀτενίσω τοῦ

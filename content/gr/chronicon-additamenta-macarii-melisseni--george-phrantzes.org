@@ -1,17 +1,19 @@
-#+TITLE: 272.20 ἀλλ' οὖν καὶ οὕτως ἐνδέδωκε πρὸς αὐτὸν ὅσα ἐν τοῖς ποσὶ τοῖς πρὸς
+#+TITLE: Chronicon additamenta Macarii Melisseni
 #+AUTHOR: Γεώργιος Φραντζῆς
 #+FILETAGS: :byzantine:15c-ad:
+#+MIGNE_TITLE: Chronicon additamenta Macarii Melisseni
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronicon-additamenta-macarii-melisseni--george-phrantzes
 #+LANGUAGE: el
 
-* 272.20 ἀλλ' οὖν καὶ οὕτως ἐνδέδωκε πρὸς αὐτὸν ὅσα ἐν τοῖς ποσὶ τοῖς πρὸς
+* Chronicon additamenta Macarii Melisseni
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=272.20= ἀλλ' οὖν καὶ οὕτως ἐνδέδωκε πρὸς αὐτὸν ὅσα ἐν τοῖς ποσὶ τοῖς πρὸς
 δυσμὰς ἡλίου εἰσὶ τοῦ ὑπερμεγέθους ὄρους τοῦ Ταϋγέτου ἄχρι καὶ τοῦ Πύλου τοῦ
 λεγομένου Ὑϊτύλου. Ἐκ δὲ τοῦ ἔξω ζυγὸν τὸ κάστρον Ζαρνάδας καὶ Γαστίτζα, τὸ
 ἀδιάσεστον Μελέ, ∆ιράχιον, Πολιανούς, Γαρδίκια καὶ τὰ περὶ αὐτά, ἔτι δὲ χορηγήσας

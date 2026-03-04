@@ -1,17 +1,19 @@
-#+TITLE: ΕΥΑΓΡΙΟΥ ΜΟΝΑΧΟΥ
+#+TITLE: Practicus
 #+AUTHOR: Εὐάγριος Ποντικός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Practicus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/practicus--evagrius-ponticus
 #+LANGUAGE: el
 
-* ΕΥΑΓΡΙΟΥ ΜΟΝΑΧΟΥ
+* Practicus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΑΓΡΙΟΥ ΜΟΝΑΧΟΥ
 Ἐπειδή μοι πρώην δεδήλωκας ἀπὸ τοῦ ἁγίου ὄρους ἐν τῇ Σκίτει καθεζομένῳ,
 ποθεινότατε ἀδελφὲ Ἀνατόλιε, καὶ τὸ συμβολικὸν σχῆμα τῶν ἐν Αἰγύπτῳ μοναχῶν
 σαφηνισθῆναί σοι παρεκάλεσας· οὐ γὰρ εἰκῇ οὐδὲ παρέλκον αὐτὸ νενόμικας

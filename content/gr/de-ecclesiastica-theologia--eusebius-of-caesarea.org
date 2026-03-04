@@ -1,17 +1,20 @@
-#+TITLE: ΤΗΣ ΕΚΚΛΗΣΙΑΣΤΙΚΗΣ ΘΕΟΛΟΓΙΑΣ Αʹ
+#+TITLE: De ecclesiastica theologia
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De ecclesiastica theologia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-ecclesiastica-theologia--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* ΤΗΣ ΕΚΚΛΗΣΙΑΣΤΙΚΗΣ ΘΕΟΛΟΓΙΑΣ Αʹ
+* De ecclesiastica theologia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΗΣ ΕΚΚΛΗΣΙΑΣΤΙΚΗΣ ΘΕΟΛΟΓΙΑΣ
+Αʹ
 Τάδε τὸ αʹ περιέχει σύγγραμμα αʹ ὅτι μάτην Σαβέλλιον διέβαλλεν Μάρκελλος τὰ ἴσα
 αὐτῷ δοξάζων. βʹ ὅτι τῇ ἐκκλησίᾳ τοῦ θεοῦ ἡ Χριστοῦ χάρις τὴν περὶ πατρὸς καὶ υἱοῦ
 γνῶσιν ἐξαίρετον ἐδωρήσατο. γʹ ὅτι ποικίλως ἐσφάλησαν οἱ ἑτερόδοξοι ἐν τῷ περὶ

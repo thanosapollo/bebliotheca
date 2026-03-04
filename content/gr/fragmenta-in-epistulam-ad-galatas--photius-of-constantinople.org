@@ -1,17 +1,19 @@
-#+TITLE: 604 Gal 1,16–22 Οὐ προσανεθέμην σαρκί. οὐκ ἀπέκλινα εἰς ἄνεσιν καὶ ἡδυπάθειαν,
+#+TITLE: Fragmenta in epistulam ad Galatas
 #+AUTHOR: Φώτιος Κωνσταντινουπόλεως
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Galatas
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-galatas--photius-of-constantinople
 #+LANGUAGE: el
 
-* 604 Gal 1,16–22 Οὐ προσανεθέμην σαρκί. οὐκ ἀπέκλινα εἰς ἄνεσιν καὶ ἡδυπάθειαν,
+* Fragmenta in epistulam ad Galatas
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+604 Gal 1,16–22 Οὐ προσανεθέμην σαρκί. οὐκ ἀπέκλινα εἰς ἄνεσιν καὶ ἡδυπάθειαν,
 οὐδ' ὡς μέγα τι κατωρθωκὼς εἰς ῥᾳστώνην καὶ ὀλιγωρίαν 605 ἀνέπεσα, ἀλλὰ
 σύντονον τὸν τοῦ εὐαγγελίου δρόμον ἐποιούμην. Ἢ οὕτως· οὐ προετίμησα ἰδεῖν
 συγγενεῖς ἢ οἰκίαν ἢ πατρίδα, ἀλλὰ πάντα λιπών οὐδὲ γὰρ ἐν τούτῳ τῶν περὶ

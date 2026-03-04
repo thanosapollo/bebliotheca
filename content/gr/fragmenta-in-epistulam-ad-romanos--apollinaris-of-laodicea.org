@@ -1,17 +1,19 @@
-#+TITLE: Rom 1,2
+#+TITLE: Fragmenta in epistulam ad Romanos
 #+AUTHOR: Ἀπολινάριος Λαοδικείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-romanos--apollinaris-of-laodicea
 #+LANGUAGE: el
 
-* Rom 1,2
+* Fragmenta in epistulam ad Romanos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Rom 1,2
 Κεχωρισμένος καὶ ἀφιερωμένος εἰς τὸν εὐαγγελισμόν, ὡς ὁ νόμος ἀφόρισμα καὶ
 ἀφαίρεμα λέγει τὸ χωριζόμενον ἀπὸ τῶν θυμάτων θεῷ καὶ ἱερεῦσιν.
 

@@ -1,17 +1,20 @@
-#+TITLE: ΕΓΚΩΜΙΟΝ Εἰς τὸν ἅγιον μάρτυρα Ῥωμανὸν αʹ. 50.605
+#+TITLE: In sanctum Romanum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum Romanum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-romanum--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΓΚΩΜΙΟΝ Εἰς τὸν ἅγιον μάρτυρα Ῥωμανὸν αʹ. 50.605
+* In sanctum Romanum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΓΚΩΜΙΟΝ Εἰς τὸν ἅγιον μάρτυρα Ῥωμανὸν αʹ.
+=50.605=
 αʹ. Πάλιν μαρτύρων μνήμη, καὶ πάλιν ἑορτὴ, καὶ, πανήγυρις πνευματική.
 Ἔκαμον ἐκεῖνοι, καὶ χαίρομεν ἡμεῖς· ἐπάλαισαν ἐκεῖνοι, καὶ ἡμεῖς ἀγαλλόμεθα·
 ἐκείνων ὁ στέφανος, καὶ κοινὸν τὸ κλέος, μᾶλλον δὲ τῆς Ἐκκλησίας ἁπάσης ἡ δόξα.

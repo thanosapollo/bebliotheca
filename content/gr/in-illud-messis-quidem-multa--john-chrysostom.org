@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ Ιʹ. 63.515
+#+TITLE: In illud Messis quidem multa
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Messis quidem multa
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-messis-quidem-multa--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Ιʹ. 63.515
+* In illud Messis quidem multa
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Ιʹ.
+=63.515=
 Τοῦ αὐτοῦ ὁμιλία, ῥηθεῖσα ἐν τῇ ἐκκλησίᾳ τῇ ἐπὶ τοῦ Ἀποστόλου,
 ἐπισκόπου ὀλίγα προομιλήσαν τος, εἰς τὸ, Ὁ μὲν θερισμὸς πολὺς, οἱ δὲ
 ἐργάται ὀλίγοι.

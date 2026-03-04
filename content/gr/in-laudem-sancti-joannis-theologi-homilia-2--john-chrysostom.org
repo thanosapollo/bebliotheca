@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν ἅγιον Ἰωάννην τὸν ἀπόστολον καὶ εὐαγγελιστὴν τὸν Θεολόγον. 61.719
+#+TITLE: In laudem sancti Joannis theologi homilia 2
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In laudem sancti Joannis theologi homilia 2
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-laudem-sancti-joannis-theologi-homilia-2--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν ἅγιον Ἰωάννην τὸν ἀπόστολον καὶ εὐαγγελιστὴν τὸν Θεολόγον. 61.719
+* In laudem sancti Joannis theologi homilia 2
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν ἅγιον Ἰωάννην τὸν ἀπόστολον καὶ εὐαγγελιστὴν τὸν Θεολόγον.
+=61.719=
 Πάλιν ὁ ἡμέτερος Ἰωάννης, ὦ Ἐφέσιοι, μᾶλλον δὲ πάσης τῆς οἰκουμένης
 διδάσκαλος, τὴν πνευματικὴν σαγήνην ἐξήπλωσε, καὶ πάντας ἡμᾶς ἐκ διαφόρων
 τόπων συνήγαγεν, οὐχ ἵνα αὐτὸν στεφάνοις ῥόδων τιμήσωμεν, ἀλλ' ἵνα αὐτὸν

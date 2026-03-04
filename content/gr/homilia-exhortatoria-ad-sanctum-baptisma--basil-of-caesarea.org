@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ ΙΓʹ. Προτρεπτικὴ εἰς τὸ ἅγιον βάπτισμα.
+#+TITLE: Homilia exhortatoria ad sanctum baptisma
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia exhortatoria ad sanctum baptisma
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-exhortatoria-ad-sanctum-baptisma--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΙΓʹ. Προτρεπτικὴ εἰς τὸ ἅγιον βάπτισμα.
+* Homilia exhortatoria ad sanctum baptisma
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΙΓʹ.
+Προτρεπτικὴ εἰς τὸ ἅγιον βάπτισμα.
 Ὁ μὲν σοφὸς Σολομὼν, τῶν κατὰ τὸν βίον πρα γμάτων τοὺς καιροὺς
 διαιρῶν, καὶ ἑκάστῳ τῶν γινο μένων τὸν ἐπιτήδειον ἀφορίζων, ἔφη· Τοῖς πᾶσιν ὁ
 χρόνος, καὶ καιρὸς τῷ παντὶ πράγματι· καιρὸς τοῦ τεκεῖν, καὶ καιρὸς τοῦ ἀποθανεῖν·

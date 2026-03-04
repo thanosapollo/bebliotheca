@@ -1,17 +1,19 @@
-#+TITLE: ̓Ιωάννου μοναχοῦ πρεσβυτέρου ∆αμασκηνοῦ, ἐπίκλην Μανσοὺρ, περὶ
+#+TITLE: Qua ratione homo imago dei
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Qua ratione homo imago dei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/qua-ratione-homo-imago-dei--john-of-damascus
 #+LANGUAGE: el
 
-* ̓Ιωάννου μοναχοῦ πρεσβυτέρου ∆αμασκηνοῦ, ἐπίκλην Μανσοὺρ, περὶ
+* Qua ratione homo imago dei
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Ιωάννου μοναχοῦ πρεσβυτέρου ∆αμασκηνοῦ, ἐπίκλην Μανσοὺρ, περὶ
 θεολογίας· πῶς εἰκονίζει τὸ Θεῖον ἄνθρωπος.
 =95.228= Τὸ κατ' εἰκόνα καὶ ὁμοίωσιν Θεοῦ εἶναι τὸν ἄνθρωπον, τοῦτο δηλοῖ, τὸ ἐν
 τρισὶν ἰδιώμασιν εἶναι τὴν τούτου νοερὰν καὶ λογικὴν ψυχήν· τουτέστι νοῦς καὶ

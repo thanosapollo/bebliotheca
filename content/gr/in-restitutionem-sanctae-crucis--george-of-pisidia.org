@@ -1,17 +1,19 @@
-#+TITLE: Αὐτοσχέδιοι πρὸς τὴν γενομένην ἀνάγνωσιν τῶν κελεύσεων χάριν τῆς
+#+TITLE: In restitutionem sanctae crucis
 #+AUTHOR: Γεώργιος Πισίδης
 #+FILETAGS: :byzantine:7c-ad:
+#+MIGNE_TITLE: In restitutionem sanctae crucis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-restitutionem-sanctae-crucis--george-of-pisidia
 #+LANGUAGE: el
 
-* Αὐτοσχέδιοι πρὸς τὴν γενομένην ἀνάγνωσιν τῶν κελεύσεων χάριν τῆς
+* In restitutionem sanctae crucis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Αὐτοσχέδιοι πρὸς τὴν γενομένην ἀνάγνωσιν τῶν κελεύσεων χάριν τῆς
 ἀποκαταστάσεως τῶν τιμίων ξύλων
 1 Ὦ Γολγοθὰ σκίρτησον· ἡ κτίσις πάλιν ὅλη σε τιμᾷ καὶ καλεῖ θεηδόχον· ἐκ
 Περσίδος γὰρ ὁ βασιλεὺς ἀφιγμένος τὸν σταυρὸν ἐν σοὶ δεικνύει πεπηγμένον·

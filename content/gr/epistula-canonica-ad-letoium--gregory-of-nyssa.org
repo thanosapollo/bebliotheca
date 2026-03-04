@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΕΠΙΣΤΟΛΗ ΚΑΝΟΝΙΚΗ ΠΡΟΣ ΤΟΝ ΕΝ ΑΓΙΟΙΣ ΛΗΤΟΙΟΝ ΕΠΙΣΚΟΠΟΝ ΜΕΛΙΤΙΝΗΣ.
+#+TITLE: Epistula canonica ad Letoium
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula canonica ad Letoium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-canonica-ad-letoium--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΕΠΙΣΤΟΛΗ ΚΑΝΟΝΙΚΗ ΠΡΟΣ ΤΟΝ ΕΝ ΑΓΙΟΙΣ ΛΗΤΟΙΟΝ ΕΠΙΣΚΟΠΟΝ ΜΕΛΙΤΙΝΗΣ.
+* Epistula canonica ad Letoium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΕΠΙΣΤΟΛΗ ΚΑΝΟΝΙΚΗ ΠΡΟΣ ΤΟΝ ΕΝ ΑΓΙΟΙΣ ΛΗΤΟΙΟΝ
+ΕΠΙΣΚΟΠΟΝ ΜΕΛΙΤΙΝΗΣ.
 Ἓν καὶ τοῦτο τῶν εἰς τὴν ἁγίαν ἑορτὴν συντελούν των ἐστὶ, τὸ κατανοῆσαι
 ἡμᾶς τὴν ἔννομόν τε καὶ κανονικὴν ἐπὶ τῶν πεπλημμεληκότων οἰκονομίαν· ὅπως
 ἂν θεραπευθείη πᾶν ἀῤῥώστημα ψυχικὸν, τὸ διά τινος ἁμαρτίας ἐπιγινόμενον.

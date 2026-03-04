@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ ἐν ἁγίοις Ἰωάννου τοῦ Χρυσοστόμου· Περὶ σωφροσύνης. 575
+#+TITLE: De continentia
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De continentia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-continentia--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις Ἰωάννου τοῦ Χρυσοστόμου· Περὶ σωφροσύνης. 575
+* De continentia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις Ἰωάννου τοῦ Χρυσοστόμου· Περὶ σωφροσύνης.
+575
 Ἀεὶ μὲν ἐμοὶ δοκεῖ χρησιμώτατος εἶναι καὶ πρέπων τοῖς τοῦ Χριστοῦ δούλοις
 ὁ περὶ σωφροσύνης λόγος, μάλιστα δὲ νῦν ἐν καιρῷ τοῦτον ποιησόμεθα πρὸς ὑμᾶς,
 ὅτε τὸν Χριστὸν ἐνδυσάμενοι τῆς ἐκκλησίας οἱ παῖδες σωφροσύνην μάλιστα

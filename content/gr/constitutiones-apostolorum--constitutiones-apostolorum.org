@@ -1,17 +1,19 @@
-#+TITLE: ∆ιαταγαὶ τῶν ἁγίων ἀποστόλων διὰ Κλήμεντος τοῦ Ῥωμαίων ἐπισκόπου τε
+#+TITLE: Constitutiones Apostolorum
 #+AUTHOR: Ἀποστολικαὶ Διαταγαί
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Constitutiones Apostolorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/constitutiones-apostolorum--constitutiones-apostolorum
 #+LANGUAGE: el
 
-* ∆ιαταγαὶ τῶν ἁγίων ἀποστόλων διὰ Κλήμεντος τοῦ Ῥωμαίων ἐπισκόπου τε
+* Constitutiones Apostolorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+∆ιαταγαὶ τῶν ἁγίων ἀποστόλων διὰ Κλήμεντος τοῦ Ῥωμαίων ἐπισκόπου τε
 καὶ πολίτου ἡ καθολικὴ διδασκαλία.
 ΒIΒΛIOΝ A
 Καθολικὴ διδασκαλία περὶ λαϊκῶν

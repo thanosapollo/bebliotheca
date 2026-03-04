@@ -1,16 +1,19 @@
-#+TITLE: 40)
+#+TITLE: In evangelium secundum Joannem
 #+AUTHOR: Ἰωάννης Πρεσβύτερος
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: In evangelium secundum Joannem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-evangelium-secundum-joannem--john-presbyter
 #+LANGUAGE: el
 
-* 40)
+* In evangelium secundum Joannem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
+
+40)
 
 In Ioh. 8, 44 Ἰωάννου γραμματικοῦ· Ὥσπερ ὁ Κάϊν φθόνῳ τηκόμενος φό-νου
 πρωτουργὸς γέγονεν, οὕτως καὶ Ἰουδαῖοι φθόνῳ φερόμενοι τὸν Χριστὸν ἀνελεῖν

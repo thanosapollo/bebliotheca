@@ -1,17 +1,22 @@
-#+TITLE: Μαρτύριον τῶν Ἁγίων Ἰουστίνου, Χαρίτωνος, Χαριτοῦς, Eὐελπίστου, Ἱέρακος, Παίονος, Λιβεριανοῦ, καὶ τῆς Συνοδίας αὐτῶν Ἐν τῷ καιρῷ τῶν ἀνόμων προσταγμάτων τῆς εἰδωλολατρείας
+#+TITLE: Acta justini et septem sodalium
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Acta justini et septem sodalium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/acta-justini-et-septem-sodalium--justin-martyr
 #+LANGUAGE: el
 
-* Μαρτύριον τῶν Ἁγίων Ἰουστίνου, Χαρίτωνος, Χαριτοῦς, Eὐελπίστου, Ἱέρακος, Παίονος, Λιβεριανοῦ, καὶ τῆς Συνοδίας αὐτῶν Ἐν τῷ καιρῷ τῶν ἀνόμων προσταγμάτων τῆς εἰδωλολατρείας
+* Acta justini et septem sodalium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Μαρτύριον τῶν Ἁγίων Ἰουστίνου, Χαρίτωνος, Χαριτοῦς,
+Eὐελπίστου, Ἱέρακος, Παίονος, Λιβεριανοῦ, καὶ τῆς
+Συνοδίας αὐτῶν
+Ἐν τῷ καιρῷ τῶν ἀνόμων προσταγμάτων τῆς εἰδωλολατρείας
 συλληφθέντες οἱ μνημονευθέντες ἅγιοι εἰσήχθησαν πρὸς τὸν τῆς
 Ῥώμης ἔπαρχον Ῥούστικον.
 Ὧν εἰσαχθέντων ὁ ἔπαρχος Ἰουστίνῳ εἶπεν· Τίνα βίον βιοῖς;

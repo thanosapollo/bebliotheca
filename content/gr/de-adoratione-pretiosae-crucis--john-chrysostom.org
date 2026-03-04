@@ -1,17 +1,21 @@
-#+TITLE: Εἰς τὴν προσκύνησιν τοῦ τιμίου καὶ ζωοποιοῦ σταυροῦ, τῇ μέσῃ ἑβδομάδι τῶν νηστειῶν. 52.835
+#+TITLE: De adoratione pretiosae crucis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De adoratione pretiosae crucis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-adoratione-pretiosae-crucis--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν προσκύνησιν τοῦ τιμίου καὶ ζωοποιοῦ σταυροῦ, τῇ μέσῃ ἑβδομάδι τῶν νηστειῶν. 52.835
+* De adoratione pretiosae crucis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν προσκύνησιν τοῦ τιμίου καὶ ζωοποιοῦ σταυροῦ, τῇ μέσῃ
+ἑβδομάδι τῶν νηστειῶν.
+=52.835=
 αʹ. Ἧκεν ἡμῖν ἐνιαύσιος ἡμέρα, ἡ πανσέβαστος καὶ φωσφόρος τῶν ἁγίων
 νηστειῶν ἡ μέση ἑβδομὰς, τὸν τρισόλβιον καὶ ζωοποιὸν τοῦ Σωτῆρος ἡμῶν Ἰησοῦ
 Χριστοῦ σταυρὸν προσκομίζουσα, καὶ τοῦτον προτιθεμένη εἰς προσκύνησιν, καὶ τοὺς

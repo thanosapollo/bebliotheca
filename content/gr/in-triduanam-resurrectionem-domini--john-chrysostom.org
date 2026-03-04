@@ -1,17 +1,21 @@
-#+TITLE: ΕΙΣ ΤΗΝ ΤΡΙΗΜΕΡΟΝ ΑΝΑΣΤΑΣΙΝ Τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, Ὁμιλία. 50.821
+#+TITLE: In triduanam resurrectionem domini
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In triduanam resurrectionem domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-triduanam-resurrectionem-domini--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΗΝ ΤΡΙΗΜΕΡΟΝ ΑΝΑΣΤΑΣΙΝ Τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, Ὁμιλία. 50.821
+* In triduanam resurrectionem domini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΗΝ ΤΡΙΗΜΕΡΟΝ ΑΝΑΣΤΑΣΙΝ Τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,
+Ὁμιλία.
+=50.821=
 Χαίρετε ἐν Κυρίῳ πάντοτε, ἀγαπητοὶ ἀδελφοί· πάλιν ἐρῶ, χαίρετε· ὁ Κύριος
 ἐγγὺς, μηδὲν μεριμνᾶτε· ὁ Κύριος ἐκ νεκρῶν ἐγήγερται, καὶ μετ αὐτοῦ ὄχλος πολὺς
 ἁγίων. Ἑορτάσωμεν οὖν ἡδέως τε καὶ σωφρόνως· Αὕτη γὰρ ἀληθῶς ἡ ἡμέρα ἣν

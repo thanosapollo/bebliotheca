@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΤΗΣ ΝΕΟΚΑΙΣΑΡΕΙΑΣ ΠΟΝΤΟΥ, ΕΠΩΝΥΜΙΑ ΤΟΥ ΘΑΥΜΑΤΟΥΡΓΟΥ, ΠΡΟΣ ΤΑΤΙΑΝΟΝ ΠΕΡΙ ΨΥΧΗΣ ΛΟΓΟΣ ΚΕΦΑΛΑΙΩ∆ΗΣ
+#+TITLE: Ad Tatianum de anima per capita disputatio
 #+AUTHOR: Γρηγόριος Θαυματουργός
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Ad Tatianum de anima per capita disputatio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-tatianum-de-anima-per-capita-disputatio--gregory-thaumaturgus
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΤΗΣ ΝΕΟΚΑΙΣΑΡΕΙΑΣ ΠΟΝΤΟΥ, ΕΠΩΝΥΜΙΑ ΤΟΥ ΘΑΥΜΑΤΟΥΡΓΟΥ, ΠΡΟΣ ΤΑΤΙΑΝΟΝ ΠΕΡΙ ΨΥΧΗΣ ΛΟΓΟΣ ΚΕΦΑΛΑΙΩ∆ΗΣ
+* Ad Tatianum de anima per capita disputatio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΤΗΣ
+ΝΕΟΚΑΙΣΑΡΕΙΑΣ ΠΟΝΤΟΥ, ΕΠΩΝΥΜΙΑ ΤΟΥ ΘΑΥΜΑΤΟΥΡΓΟΥ, ΠΡΟΣ
+ΤΑΤΙΑΝΟΝ ΠΕΡΙ ΨΥΧΗΣ ΛΟΓΟΣ ΚΕΦΑΛΑΙΩ∆ΗΣ
 Τὸν περὶ ψυχῆς σοι λόγον ἐκέλευσας ἡμῖν, ὦ θαυμάσιε Τατιανὲ, μετ'
 ἐνεργουσῶν ἀποδείξεων διαχαράξασιν ἀποστεῖλαι· καὶ ταῦτα ἠξίους ποιεῖν, μὴ ταῖς
 τῶν Γραφῶν μαρτυρίαις χρησαμένους· ὅπερ ἔστι τε καὶ τοῖς εὐσεβῶς φρονεῖν

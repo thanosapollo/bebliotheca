@@ -1,6 +1,7 @@
-#+TITLE: 1 ∆ημιουργὸν τῶν πάντων τιθέμενος αὐτὸν τὸ τοῦ Λόγου ὄνομα κατηγορεῖ αὐτοῦ.
+#+TITLE: Fragmenta in evangelium Joannis
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmenta in evangelium Joannis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

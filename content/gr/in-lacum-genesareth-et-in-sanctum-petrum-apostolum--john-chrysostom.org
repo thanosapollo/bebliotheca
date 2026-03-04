@@ -1,17 +1,22 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου, ἀρχιεπισκόπου Κωνσταντινουπόλεως, τοῦ Χρυσοστόμου, ὁμιλία εἰς τὴν λίμνην Γενησαρὲτ, καὶ εἰς τὸν ἅγιον Πέτρον τὸν ἀπόστολον. 64.47
+#+TITLE: In lacum Genesareth et in sanctum Petrum apostolum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In lacum Genesareth et in sanctum Petrum apostolum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-lacum-genesareth-et-in-sanctum-petrum-apostolum--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου, ἀρχιεπισκόπου Κωνσταντινουπόλεως, τοῦ Χρυσοστόμου, ὁμιλία εἰς τὴν λίμνην Γενησαρὲτ, καὶ εἰς τὸν ἅγιον Πέτρον τὸν ἀπόστολον. 64.47
+* In lacum Genesareth et in sanctum Petrum apostolum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου, ἀρχιεπισκόπου
+Κωνσταντινουπόλεως, τοῦ Χρυσοστόμου, ὁμιλία εἰς τὴν λίμνην
+Γενησαρὲτ, καὶ εἰς τὸν ἅγιον Πέτρον τὸν ἀπόστολον.
+=64.47=
 Ὅτε διδάσκαλος εὐκλεὴς, τότε μαθητὴς εὐπειθὴς, τότε μαθητὴς εὔελπις· ὅτε
 διδάσκαλος πρόθυμος, τότε διδάσκαλος κέρδος καρποῦται· ὅτε μαθητὴς σπουδὴν
 ἐπιδείξηται, τότε μαθητὴς διδασκάλου τέχνην ἐκδέχεται ὅτι τὴν διατριβὴν ὡς φίλην

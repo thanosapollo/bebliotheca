@@ -1,17 +1,19 @@
-#+TITLE: Ἀφρικανοῦ περὶ τῆς κατὰ Σουσάνναν ἱστορίας.
+#+TITLE: Epistula ad Origenem
 #+AUTHOR: Ἰούλιος Ἀφρικανός
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Epistula ad Origenem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-origenem--julius-africanus
 #+LANGUAGE: el
 
-* Ἀφρικανοῦ περὶ τῆς κατὰ Σουσάνναν ἱστορίας.
+* Epistula ad Origenem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀφρικανοῦ περὶ τῆς κατὰ Σουσάνναν ἱστορίας.
 Χαῖρε κύριέ μου καὶ υἱὲ καὶ πάντα τιμιώτατε Ὠρίγενες παρὰ Ἀφρικανοῦ. Ὅτε τὸν
 ἱερὸν ἐποιοῦ πρὸς τὸν ἀγνώμονα. διάλογον, ἐμνήσθης τῆς ἐν νεότητι προφητείας
 τοῦ ∆ανιήλ· καὶ ὡς ἔπρεπεν, ἠσπασάμην τότε. θαυμάζω δὲ πῶς ἔλαθέ σε τὸ μέρος

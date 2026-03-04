@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΠΕΡΙ ΣΑΡΚΩΣΕΩΣ ΤΟΥ ΚΥΡΙΟΥ ΗΜΩΝ ΙΗΣΟΥ ΧΡΙΣΤΟΥ ΚΑΤΑ ΑΠΟΛΛΙΝΑΡΙΟΥ ΛΟΓΟΣ ΠΡΩΤΟΣ.
+#+TITLE: De incarnatione contra Apollinarium libri ii
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De incarnatione contra Apollinarium libri ii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

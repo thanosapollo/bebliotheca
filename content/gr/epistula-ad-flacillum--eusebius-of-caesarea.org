@@ -1,17 +1,20 @@
-#+TITLE: 2 Τῷ τιμιωτάτῳ καὶ ἀγαπητῷ συλλειτουργῷ Φλακίλλῳ Εὐσέβιος ἐν κυρίῳ χαίρειν
+#+TITLE: Epistula ad Flacillum
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Flacillum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-flacillum--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* 2 Τῷ τιμιωτάτῳ καὶ ἀγαπητῷ συλλειτουργῷ Φλακίλλῳ Εὐσέβιος ἐν κυρίῳ χαίρειν
+* Epistula ad Flacillum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+2 Τῷ τιμιωτάτῳ καὶ ἀγαπητῷ συλλειτουργῷ Φλακίλλῳ Εὐσέβιος ἐν
+κυρίῳ χαίρειν
 Εἰ πρὸς τὴν ἀδόλεσχον καὶ πολυεπῆ Μαρκέλλου γραφὴν τὰ παρ' ἡμῶν ἐν
 βραχέσιν ἤρκεσεν, οὐ χρὴ θαυμάζειν· οὐ γὰρ δὴ πολλῶν ἔδει λόγων πρὸς ἀνατροπὴν
 τῶν αὐτόθεν καὶ τοῖς τυχοῦσιν κατεγνωσμένων. διὸ δὴ ἐν δυσὶ τοῖς πρώτοις μόνῃ τῇ

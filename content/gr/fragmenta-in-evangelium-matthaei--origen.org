@@ -1,13 +1,14 @@
-#+TITLE: 4 _2_ _ _̓_Ε_ν_ _τ_ο_ύ_τ_ο_ι_ς_ _ _̓_Η_λ_ί_α_ς_ _ο_ὐ_χ_ _ἡ_ _ψ_υ_χ_ὴ δοκεῖ μοι
+#+TITLE: Fragmenta in evangelium Matthaei
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmenta in evangelium Matthaei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-evangelium-matthaei--origen
 #+LANGUAGE: el
 
-* 4 _2_ _ _̓_Ε_ν_ _τ_ο_ύ_τ_ο_ι_ς_ _ _̓_Η_λ_ί_α_ς_ _ο_ὐ_χ_ _ἡ_ _ψ_υ_χ_ὴ δοκεῖ μοι
+* Fragmenta in evangelium Matthaei
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

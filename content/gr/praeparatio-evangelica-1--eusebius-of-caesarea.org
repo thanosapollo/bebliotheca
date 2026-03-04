@@ -1,17 +1,20 @@
-#+TITLE: 7.Pin.t Ζ ΤΑ∆Ε ΤΟ ΕΒ∆ΟΜΟΝ ΠΕΡΙΕΧΕΙ ΣΥΓΓΡΑΜΜΑ ΤΗ ΕΥΑΓΓΕΛΙΚΗΣ ΠΡΟΠΑΡΑΣΚΕΥΗΣ
+#+TITLE: Praeparatio evangelica
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Praeparatio evangelica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/praeparatio-evangelica-1--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* 7.Pin.t Ζ ΤΑ∆Ε ΤΟ ΕΒ∆ΟΜΟΝ ΠΕΡΙΕΧΕΙ ΣΥΓΓΡΑΜΜΑ ΤΗ ΕΥΑΓΓΕΛΙΚΗΣ ΠΡΟΠΑΡΑΣΚΕΥΗΣ
+* Praeparatio evangelica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+7.Pin.t Ζ ΤΑ∆Ε ΤΟ ΕΒ∆ΟΜΟΝ ΠΕΡΙΕΧΕΙ ΣΥΓΓΡΑΜΜΑ ΤΗ ΕΥΑΓΓΕΛΙΚΗΣ
+ΠΡΟΠΑΡΑΣΚΕΥΗΣ
 7.Pin.1 αʹ. Τὰ περὶ τοῦ τῶν ἀνέκαθεν ἑβραίων βίου καὶ ὡς εὐλόγως τὰς ἐνθέους
 αὐτῶν γραφὰς τῶν πατρίων λόγων προετιμήσαμεν βʹ. Ἀνακεφαλαίωσις τῆς παρὰ τοῖς
 ἄλλοις ἔθνεσι θεολογίας καὶ οἵων κακῶν αἰτία συνέστη τῷ βίῳ γʹ. Παράθεσις τοῦ τῶν

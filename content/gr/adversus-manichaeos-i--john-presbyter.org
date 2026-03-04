@@ -1,17 +1,19 @@
-#+TITLE: ΙΩΑΝΝΟΥ ΑΠΟ ΓΡΑΜΜΑΤΙΚΩΝ ΟΜΙΛΙΑ ΠΡΩΤΗ ΠΡΟΣ ΜΑΝΙΧΑΙΟΥΣ
+#+TITLE: Adversus Manichaeos i
 #+AUTHOR: Ἰωάννης Πρεσβύτερος
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Adversus Manichaeos i
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-manichaeos-i--john-presbyter
 #+LANGUAGE: el
 
-* ΙΩΑΝΝΟΥ ΑΠΟ ΓΡΑΜΜΑΤΙΚΩΝ ΟΜΙΛΙΑ ΠΡΩΤΗ ΠΡΟΣ ΜΑΝΙΧΑΙΟΥΣ
+* Adversus Manichaeos i
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΙΩΑΝΝΟΥ ΑΠΟ ΓΡΑΜΜΑΤΙΚΩΝ ΟΜΙΛΙΑ ΠΡΩΤΗ ΠΡΟΣ ΜΑΝΙΧΑΙΟΥΣ
 1. Καλὸν ἦν, ἀγαπητοί, τὴν εἰς οὐρανοὺς ἄνοδον ὑμῖν ὑποδει- κνύναι τῷ λόγῳ
 τε καὶ διαγράφειν πολιτείαν ἣν ὁ Χριστὸς τοῖς ἑαυτοῦ μαθηταῖς διετάξατο καὶ οὕτως
 ὑμᾶς, ὡς τοὺς ἀγαθοὺς τῶν ἀθλητῶν οἱ παιδοτρίβαι, τοῖς τῆς ἀρετῆς παλαίσμασι παραπέμπειν. Τοιούτοις γὰρ εἴωθεν ἡ ἐκκλησία τοὺς ἑαυτῆς θιασώτας | ὑπαλείφειν

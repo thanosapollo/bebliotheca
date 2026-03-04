@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Πρός τινα πολιτικὸν, σύνταγμα πάνυ ὠφελιμώτατον, καὶ πολὺ ὠφελέστατον
+#+TITLE: Syntagma ad quendam politicum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Syntagma ad quendam politicum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/syntagma-ad-quendam-politicum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Πρός τινα πολιτικὸν, σύνταγμα πάνυ ὠφελιμώτατον, καὶ πολὺ ὠφελέστατον
+* Syntagma ad quendam politicum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ
+Πρός τινα πολιτικὸν, σύνταγμα πάνυ ὠφελιμώτατον, καὶ πολὺ
+ὠφελέστατον
 Ἐπειδή σοι τῷ περιδεξίῳ καὶ μεγαλεπιβόλῳ τῆς φύσεως μετὰ τῆς τῶν τακτικῶν
 ἐμπειρίας τε καὶ μαθήσεως, ἔτι δὲ καὶ τῆς τῶν πολιτικῶν πραγμάτων ἀκριβοῦς
 μεταλήψεως, οὐδὲ τὰ τῶν ἱερέων λόγια ἀμελετήτως παρεώρασαι, ἀλλ' ἔτι τοσοῦτόν

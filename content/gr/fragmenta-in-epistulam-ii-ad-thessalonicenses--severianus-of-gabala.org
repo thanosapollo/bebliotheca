@@ -1,13 +1,14 @@
-#+TITLE: 2 Thess: Prolog
+#+TITLE: Fragmenta in epistulam ii ad Thessalonicenses
 #+AUTHOR: Σεβηριανὸς Γαβάλων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ii ad Thessalonicenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ii-ad-thessalonicenses--severianus-of-gabala
 #+LANGUAGE: el
 
-* 2 Thess: Prolog
+* Fragmenta in epistulam ii ad Thessalonicenses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

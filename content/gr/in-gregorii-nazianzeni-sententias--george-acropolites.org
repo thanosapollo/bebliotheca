@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ σοφωτάτου μεγάλου λογοθέτου κυροῦ Γεωργίου τοῦ Ἀκροπολίτου
+#+TITLE: In Gregorii Nazianzeni sententias
 #+AUTHOR: Γεώργιος Ἀκροπολίτης
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: In Gregorii Nazianzeni sententias
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-gregorii-nazianzeni-sententias--george-acropolites
 #+LANGUAGE: el
 
-* Τοῦ σοφωτάτου μεγάλου λογοθέτου κυροῦ Γεωργίου τοῦ Ἀκροπολίτου
+* In Gregorii Nazianzeni sententias
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ σοφωτάτου μεγάλου λογοθέτου κυροῦ Γεωργίου τοῦ Ἀκροπολίτου
 ἑρμηνεία τῶν θεολογικῶν ῥητῶν τοῦ τε «ἔστι γὰρ καὶ τὸ ἓν στασιάζον
 πρὸς ἑαυτὸ πολλὰ γίνεσθαι» καὶ τοῦ «μονὰς εἰς δυάδα κινηθεῖσα μέχρι
 τριάδος ἔστη.»

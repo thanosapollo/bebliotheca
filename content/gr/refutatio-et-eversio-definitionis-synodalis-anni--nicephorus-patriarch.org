@@ -1,17 +1,19 @@
-#+TITLE: Ελεγχος καὶ ἀνατροπὴ τοῦ ἀθέσμου καὶ ἀορίστου καὶ ὄντως
+#+TITLE: Refutatio et eversio definitionis synodalis anni
 #+AUTHOR: Νικηφόρος Κωνσταντινουπόλεως
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Refutatio et eversio definitionis synodalis anni
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/refutatio-et-eversio-definitionis-synodalis-anni--nicephorus-patriarch
 #+LANGUAGE: el
 
-* Ελεγχος καὶ ἀνατροπὴ τοῦ ἀθέσμου καὶ ἀορίστου καὶ ὄντως
+* Refutatio et eversio definitionis synodalis anni
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ελεγχος καὶ ἀνατροπὴ τοῦ ἀθέσμου καὶ ἀορίστου καὶ ὄντως
 ψευδωνύμου ὅρου τοῦ ἐκτεθέντος παρὰ τῶν ἀποστατησάντων τῆς
 καθολικῆς καὶ ἀποστολικῆς ἐκκλησίας καὶ ἀλλοτρίῳ προσθεμένων
 φρονήματι ἐπ' ἀναιρέσει τῆς τοῦ θεοῦ λόγου σωτηρίου οἰκονομίασ

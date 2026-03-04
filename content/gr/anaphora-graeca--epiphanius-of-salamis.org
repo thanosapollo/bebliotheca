@@ -1,17 +1,19 @@
-#+TITLE: «Ἄξιον καὶ δίκαιόν ἐστιν ὁ Θεὸς ἡμῶν, εὐχαριστεῖν σοι ἀδιαλείπτως ὑπὲρ πασῶν
+#+TITLE: Anaphora Graeca
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Anaphora Graeca
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/anaphora-graeca--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* «Ἄξιον καὶ δίκαιόν ἐστιν ὁ Θεὸς ἡμῶν, εὐχαριστεῖν σοι ἀδιαλείπτως ὑπὲρ πασῶν
+* Anaphora Graeca
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+«Ἄξιον καὶ δίκαιόν ἐστιν ὁ Θεὸς ἡμῶν, εὐχαριστεῖν σοι ἀδιαλείπτως ὑπὲρ πασῶν
 τῶν εὐεργεσιῶν σου ὧν ἐδωρήσω ἡμῖν, πρῶτον μὲν ὅτι ἀπέστειλας ἡμῖν ἐξ οὐρανοῦ τὸν
 ἅγιον παῖδά σου, τὸν σύνθρονον τῆς βασιλείας σου, τὸν συναΐδιόν σου υἱόν, τὸν Θεὸν
 λόγον, ὃς 299 ἐλθὼν ἐπ' ἐσχάτων τῶν ἡμερῶν, λαβὼν τὴν ἡμετέραν ἀνθρωπότητα ὁ

@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΠΕΡΙ ΤΩΝ ΟΚΤΩ ΠΝΕΥΜΑΤΩΝ ΤΗΣ ΠΟΝΗΡΙΑΣ. ΚΕΦΑΛ. Λʹ. Περὶ γαστριμαργίας.
+#+TITLE: De octo spiritibus malitiae
 #+AUTHOR: Εὐάγριος Ποντικός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De octo spiritibus malitiae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

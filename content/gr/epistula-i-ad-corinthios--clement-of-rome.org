@@ -1,17 +1,22 @@
-#+TITLE: Τοῦ ἁγίου Κλήμεντος τοῦ Ῥώμης ἐπισκόπου ἐπιστολὴ πρὸς Κορινθίους Α’. Ἐκ προσώπου τῆς Ῥωμαίων Ἐκκλησίας γραφεῖσα.
+#+TITLE: Epistula i ad Corinthios
 #+AUTHOR: Κλήμης Ρώμης
 #+FILETAGS: :patristic:1c-ad:
+#+MIGNE_TITLE: Epistula i ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-i-ad-corinthios--clement-of-rome
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου Κλήμεντος τοῦ Ῥώμης ἐπισκόπου ἐπιστολὴ πρὸς Κορινθίους Α’. Ἐκ προσώπου τῆς Ῥωμαίων Ἐκκλησίας γραφεῖσα.
+* Epistula i ad Corinthios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου Κλήμεντος
+τοῦ Ῥώμης ἐπισκόπου
+ἐπιστολὴ πρὸς Κορινθίους Α’.
+Ἐκ προσώπου τῆς Ῥωμαίων Ἐκκλησίας γραφεῖσα.
 ΚΕΦΑΛΑΙΟΝ Α’.
 Ἡ ἐκκλησία τοῦ θεοῦ ἡ παροικοῦσα Ῥώμην τῇ ἐκκλησίᾳ
 τοῦ θεοῦ τῇ παροικούσῃ Κόρινθον, κλητοῖς ἡγιασμένοις ἐν

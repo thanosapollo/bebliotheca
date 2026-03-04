@@ -1,17 +1,19 @@
-#+TITLE: 79 Πνεῦμα τὴν ψυχὴν ὀνομάζει· προαίρεσις γάρ ἐστι ποία νοῦ κίνησις· καὶ ὁ
+#+TITLE: In Ecclesiasten
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Ecclesiasten
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ecclesiasten--eustathius-of-antioch
 #+LANGUAGE: el
 
-* 79 Πνεῦμα τὴν ψυχὴν ὀνομάζει· προαίρεσις γάρ ἐστι ποία νοῦ κίνησις· καὶ ὁ
+* In Ecclesiasten
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+79 Πνεῦμα τὴν ψυχὴν ὀνομάζει· προαίρεσις γάρ ἐστι ποία νοῦ κίνησις· καὶ ὁ
 ∆αυῒδ· εἰς χεῖράς σου παρατίθημι τὸ πνεῦμά μου· Κύριε Ἰησοῦ, δέξαι τὸ πνεῦμά μου·
 καὶ ἐν ταῖς Βασιλείαις· οὐκ ἐλύπησε, φησὶ, ∆αυῒδ τὸ πνεῦμα Ἀμνὼν τοῦ υἱοῦ αὐτοῦ.
 80 Ὅτι ἓν τέλος τῶν τοιούτων πάντων ἡ ματαιότης ἐστίν· ἧς περισσεύειν εἰς τὸ

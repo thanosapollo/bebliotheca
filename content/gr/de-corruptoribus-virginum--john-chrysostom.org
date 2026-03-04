@@ -1,17 +1,20 @@
-#+TITLE: Ταλανισμὸς πρὸς τοὺς φθείροντας τὰς τοῦ Χριστοῦ παρθένους. 60.741
+#+TITLE: De corruptoribus virginum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De corruptoribus virginum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-corruptoribus-virginum--john-chrysostom
 #+LANGUAGE: el
 
-* Ταλανισμὸς πρὸς τοὺς φθείροντας τὰς τοῦ Χριστοῦ παρθένους. 60.741
+* De corruptoribus virginum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ταλανισμὸς πρὸς τοὺς φθείροντας τὰς τοῦ Χριστοῦ παρθένους.
+=60.741=
 Τί δὲ ἡμῖν, ἄθλιοι καὶ ταλαίπωροι, κακῶν ἡδονῶν ὁδηγοί; πῶς βούλεσθε
 ἐκφυγεῖν χεῖρας Θεοῦ ζῶντος; τί ποιήσετε, ὅταν ἔλθῃ ὁ ταύτην μνηστευσάμενος
 κρῖναι ζῶντας καὶ νεκρούς; τί δὲ ἀπολογήσεσθε, τοιαῦτα παράνομα εἰς τὰς τοῦ

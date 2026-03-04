@@ -1,17 +1,21 @@
-#+TITLE: ΠΕΡΙ ΤΟΥ ΜΗ ∆ΗΜΟΣΙΕΥΕΙΝ τὰ ἁμαρτήματα τῶν ἀδελφῶν, μηδὲ κατεύχεσθαι τῶν ἐχθρῶν. 51.353
+#+TITLE: Peccata fratrum non evulganda
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Peccata fratrum non evulganda
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/peccata-fratrum-non-evulganda--john-chrysostom
 #+LANGUAGE: el
 
-* ΠΕΡΙ ΤΟΥ ΜΗ ∆ΗΜΟΣΙΕΥΕΙΝ τὰ ἁμαρτήματα τῶν ἀδελφῶν, μηδὲ κατεύχεσθαι τῶν ἐχθρῶν. 51.353
+* Peccata fratrum non evulganda
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΕΡΙ ΤΟΥ ΜΗ ∆ΗΜΟΣΙΕΥΕΙΝ τὰ ἁμαρτήματα τῶν ἀδελφῶν, μηδὲ
+κατεύχεσθαι τῶν ἐχθρῶν.
+=51.353=
 αʹ. Μακαρίζω τῆς σπουδῆς ὑμᾶς, ἀγαπητοὶ, μεθ' ἧς εἰς τὸν πατρῷον οἶκον
 συντρέχετε. Ἀπὸ γὰρ τῆς σπουδῆς ταύτης καὶ περὶ τῆς ὑγιείας ἡμῶν τῆς κατὰ ψυχὴν
 ἔχω θαῤῥεῖν· καὶ γὰρ ἰατρεῖον θαυμαστὸν τῆς Ἐκκλησίας τὸ διδασκαλεῖόν ἐστιν·

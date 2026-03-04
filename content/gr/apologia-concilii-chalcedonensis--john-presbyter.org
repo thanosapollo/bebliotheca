@@ -1,17 +1,19 @@
-#+TITLE: ̓Εκ τῶν Εὐλογίου συνηγοριῶν περὶ τοῦ αὐτοῦ κεφαλαίου
+#+TITLE: Apologia concilii Chalcedonensis
 #+AUTHOR: Ἰωάννης Πρεσβύτερος
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Apologia concilii Chalcedonensis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/apologia-concilii-chalcedonensis--john-presbyter
 #+LANGUAGE: el
 
-* ̓Εκ τῶν Εὐλογίου συνηγοριῶν περὶ τοῦ αὐτοῦ κεφαλαίου
+* Apologia concilii Chalcedonensis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Εκ τῶν Εὐλογίου συνηγοριῶν περὶ τοῦ αὐτοῦ κεφαλαίου
 I. Πᾶν ὃ κοινῶς καὶ ἐν πολλοῖς θεωρεῖται, οὐ τινὶ μὲν πλέον, τινὶ δὲ ἔλαττον
 ὑπάρχον, οὐσία ὀνομάζεται. Ἐπεὶ οὖν τῷ καθέ- καστον ἀνθρώπῳ ἐξ ἴσου πρόσεστι τὸ
 εἶναι σάρκα ἐψυχωμένην ψυχῇ λογικῇ, ὅ ἐστιν ἀνθρωπότης, κατὰ τοῦτο τὴν

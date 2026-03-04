@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΕΑΥΤΟΥ ΧΕΙΡΟΤΟΝΙΑΝ ΠΡΟΣ ΕΥΑΓΡΙΟΝ ΠΕΡΙ ΘΕΟΤΗΤΟΣ
+#+TITLE: De deitate adversus Evagrium
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De deitate adversus Evagrium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-deitate-adversus-evagrium--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΕΑΥΤΟΥ ΧΕΙΡΟΤΟΝΙΑΝ ΠΡΟΣ ΕΥΑΓΡΙΟΝ ΠΕΡΙ ΘΕΟΤΗΤΟΣ
+* De deitate adversus Evagrium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΕΑΥΤΟΥ ΧΕΙΡΟΤΟΝΙΑΝ ΠΡΟΣ
+ΕΥΑΓΡΙΟΝ ΠΕΡΙ ΘΕΟΤΗΤΟΣ
 Ἦλθε καὶ ἐφ' ἡμᾶς ἡ τῆς πνευματικῆς ἑστιάσεως λειτουργία μετέχειν
 μᾶλλον ἑτέρων ἢ ἑαυτοὺς παρέχειν ἄλλοις ὄντας ἐπιτηδείους. καίτοι γε ἔγωγε καὶ
 παντελῶς ἠξίουν ἀτελὴς εἶναι τῶν τοιούτων φόρων διὰ τὴν τοῦ λέγειν πενίαν κατά

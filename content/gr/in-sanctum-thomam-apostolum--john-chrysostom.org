@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸν ἅγιον Θωμᾶν τὸν ἀπόστολον, καὶ κατὰ Ἀρειανῶν, καὶ εἰς τὸν ἐν
+#+TITLE: In sanctum Thomam apostolum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum Thomam apostolum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-thomam-apostolum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν ἅγιον Θωμᾶν τὸν ἀπόστολον, καὶ κατὰ Ἀρειανῶν, καὶ εἰς τὸν ἐν
+* In sanctum Thomam apostolum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν ἅγιον Θωμᾶν τὸν ἀπόστολον, καὶ κατὰ Ἀρειανῶν, καὶ εἰς τὸν ἐν
 τῇ Θρᾴκῃ τυραννήσαντα καὶ ἀναιρεθέντα, καὶ αὐτὸν Ἀρειανόν.
 =59.497=
 Τῷ μὲν νόμῳ τῆς Ἐκκλησίας πειθόμενος ἡψάμην, ὡς οἷόν τε, τοῦ βήματος·

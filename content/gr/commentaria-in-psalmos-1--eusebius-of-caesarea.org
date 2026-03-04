@@ -1,6 +1,7 @@
-#+TITLE: 24.9 ΕΥΣΕΒΙΟΥ ΤΟΥ ΠΑΜΦΙΛΟΥ ΕΙΣ ΤΟΥΣ ΨΑΛΜΟΥΣ ΑΠΟ ΡΙΘʹ ΕΩΣ ΡΝ. ΨΑΛΜΟΣ ΡΙΘʹ. Ὠδὴ τῶν ἀναβαθμῶν.
+#+TITLE: Commentaria in Psalmos 1
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Commentaria in Psalmos 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

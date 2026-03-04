@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ∆ΙΑΛΟΓΟΣ ΠΕΡΙ ΤΗΣ ΤΡΙΑ∆ΟΣ, ΕΝ Ω ∆ΙΑΛΕΓΟΝΤΑΙ ΟΡΘΟ∆ΟΞΟΣ ΚΑΙ ΑΝΟΜΟΙΟΣ ΑΡΕΙΑΝΙΣΤΗΣ. ΑΝΟΜΟΙΟΣ.
+#+TITLE: De sancta trinitat
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sancta trinitat
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancta-trinitat--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ∆ΙΑΛΟΓΟΣ ΠΕΡΙ ΤΗΣ ΤΡΙΑ∆ΟΣ, ΕΝ Ω ∆ΙΑΛΕΓΟΝΤΑΙ ΟΡΘΟ∆ΟΞΟΣ ΚΑΙ ΑΝΟΜΟΙΟΣ ΑΡΕΙΑΝΙΣΤΗΣ. ΑΝΟΜΟΙΟΣ.
+* De sancta trinitat
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ∆ΙΑΛΟΓΟΣ ΠΕΡΙ ΤΗΣ
+ΤΡΙΑ∆ΟΣ, ΕΝ Ω ∆ΙΑΛΕΓΟΝΤΑΙ ΟΡΘΟ∆ΟΞΟΣ ΚΑΙ ΑΝΟΜΟΙΟΣ
+ΑΡΕΙΑΝΙΣΤΗΣ.
+ΑΝΟΜΟΙΟΣ.
 Χριστιανὸς εἶ; Ὀρθόδοξος. Καὶ πάνυ. Ἀνόμ. Τί ἐστιν ὁ Χριστιανισμός; Ὀρθ. Ἀλλὰ τὸ
 μὲν ἦν ἀναγκαῖον εἰπεῖν, τὸ δὲ οὐκ ἀσφαλές. Ἀνόμ. ∆ιὰ τί; Ὀρθ. Τὸ μὲν γὰρ εἰπεῖν,
 ὅτι Χριστοῦ δοῦλός εἰμι, ἀναγκαῖον εἰπεῖν· τὸ δὲ, τί ἐστιν ὁ Χριστιανισμὸς, οὐκ

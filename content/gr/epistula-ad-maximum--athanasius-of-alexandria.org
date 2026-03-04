@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΠΡΟΣ ΜΑΞΙΜΟΝ ΦΙΛΟΣΟΦΟΝ.
+#+TITLE: Epistula ad Maximum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Maximum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-maximum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΠΡΟΣ ΜΑΞΙΜΟΝ ΦΙΛΟΣΟΦΟΝ.
+* Epistula ad Maximum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΠΡΟΣ ΜΑΞΙΜΟΝ ΦΙΛΟΣΟΦΟΝ.
 Τῷ ἀγαπητῷ καὶ ἀληθῶς ποθεινοτάτῳ υἱῷ Μαξίμῳ φιλοσόφῳ, Ἀθανάσιος ἐν Κυρίῳ
 χαίρειν. Ἐντυχὼν τοῖς νῦν γραφεῖσι παρὰ σοῦ, τὴν μὲν σὴν εὐλάβειαν ἀπεδεξάμην,
 τὴν δὲ προπέτειαν τῶν μὴ νοούντων μήτε ἃ λέγουσι, μήτε περὶ τίνων

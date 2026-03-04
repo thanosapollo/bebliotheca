@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Εἰς τοὺς ἁγίους Πατέρας
+#+TITLE: Homilia in sanctos patres et prophetas 1
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in sanctos patres et prophetas 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-sanctos-patres-et-prophetas-1--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Εἰς τοὺς ἁγίους Πατέρας
+* Homilia in sanctos patres et prophetas 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Εἰς τοὺς ἁγίους Πατέρας
 καὶ προφήτας, καὶ εἰς τὴν πάνσεπτον Ἐκκλησίαν, καὶ εἰς τὸν λδʹ ψαλμὸν
 ὁμιλία.
 Ἡ ποδηγοῦσα πίστις εἰς τὴν ὁδὸν τῆς θεογνωσίας, καὶ τὴν ἐνάρετον καὶ

@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ ΙΖʹ. ΕΙΣ ΤΗΝ ΠΑΡΑΒΟΛΗΝ ΤΟΥ ΑΜΠΕΛΩΝΟΣ.
+#+TITLE: In parabolam vineae
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: In parabolam vineae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-parabolam-vineae--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΙΖʹ. ΕΙΣ ΤΗΝ ΠΑΡΑΒΟΛΗΝ ΤΟΥ ΑΜΠΕΛΩΝΟΣ.
+* In parabolam vineae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΙΖʹ. ΕΙΣ ΤΗΝ ΠΑΡΑΒΟΛΗΝ ΤΟΥ ΑΜΠΕΛΩΝΟΣ.
 Ὡμοιώθη ἡ βασιλεία τῶν οὐρανῶν ἀνθρώπῳ οἰκοδεσπότῃ, ὅστις ἐξῆλθεν
 ἅμα πρωῒ μισθώσασθαι ἐργάτας εἰς τὸν ἀμπελῶνα αὐτοῦ. Ἤκουσας, ἀγαπητὲ, τῆς
 εὐαγγελικῆς τοῦ Κυρίου παραβολῆς· ἄκουε καὶ τὴν ἑρμηνείαν, ἣν κατὰ δύναμιν

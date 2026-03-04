@@ -1,17 +1,19 @@
-#+TITLE: 126 Τιμόθεος ὁ ἐπίσκοπος Ἐφέσου κατασταθεὶς ὑπὸ τοῦ μακαρίου Παύλου ἐξ
+#+TITLE: Appendices ad indices apostolorum discipulorumque
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Appendices ad indices apostolorum discipulorumque
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/appendices-ad-indices-apostolorum-discipulorumque--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* 126 Τιμόθεος ὁ ἐπίσκοπος Ἐφέσου κατασταθεὶς ὑπὸ τοῦ μακαρίου Παύλου ἐξ
+* Appendices ad indices apostolorum discipulorumque
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+126 Τιμόθεος ὁ ἐπίσκοπος Ἐφέσου κατασταθεὶς ὑπὸ τοῦ μακαρίου Παύλου ἐξ
 ἐθνῶν ἦν, οὐκ ἐκ περιτομῆς, ᾧ καὶ πολλὰ μαρτυρεῖ Παῦλος νουθετῶν τὴν καλὴν
 ὁμολογίαν τοῦ δοθέντος αὐτῷ χαρίσματος φυλάξαι, ὃς καὶ ἐνδόξως ἐκεῖ
 ἐμαρτύρησεν. 127 Τίτος ἐπίσκοπος Κρήτης αὐτοῖς τοῖς Κρησὶ καὶ ταῖς πέριξ νήσοις

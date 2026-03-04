@@ -1,17 +1,20 @@
-#+TITLE: ΣΥΝΑΓΩΓΗ ΤΩΝ ΑΝΑΓΩΓΙΚΩΣ ΕΡΜΗΝΕΥΟΜΕΝΩΝ ΡΗΤΩΝ ΤΗΣ ΠΑΛΑΙΑΣ ΑΓΙΑΣ ΓΡΑΦΗΣ
+#+TITLE: Collectio dictorum veteris testamenti
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Collectio dictorum veteris testamenti
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/collectio-dictorum-veteris-testamenti--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΣΥΝΑΓΩΓΗ ΤΩΝ ΑΝΑΓΩΓΙΚΩΣ ΕΡΜΗΝΕΥΟΜΕΝΩΝ ΡΗΤΩΝ ΤΗΣ ΠΑΛΑΙΑΣ ΑΓΙΑΣ ΓΡΑΦΗΣ
+* Collectio dictorum veteris testamenti
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΥΝΑΓΩΓΗ ΤΩΝ ΑΝΑΓΩΓΙΚΩΣ ΕΡΜΗΝΕΥΟΜΕΝΩΝ ΡΗΤΩΝ ΤΗΣ ΠΑΛΑΙΑΣ
+ΑΓΙΑΣ ΓΡΑΦΗΣ
 Ἐρανισθεῖσα κατὰ σύνοψιν καὶ σαφεστέραν ἀπαγγελίαν, ἔκ τε τῶν τοῦ
 θεσπεσίου Κυρίλλου, καὶ τῶν τοῦ μεγάλου Μαξίμου, καὶ λοιπῶν ἐξηγητῶν.
 ΒΙΒΛΟΣ ΓΕΝΕΣΕΩΣ.

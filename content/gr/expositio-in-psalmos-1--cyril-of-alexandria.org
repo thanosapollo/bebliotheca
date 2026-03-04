@@ -1,17 +1,19 @@
-#+TITLE: Κυρίλλου Ἀρχιεπισκόπου Ἀλεξανδρείας εἰς τοὺς ψαλμούς.
+#+TITLE: Expositio in Psalmos
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Expositio in Psalmos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/expositio-in-psalmos-1--cyril-of-alexandria
 #+LANGUAGE: el
 
-* Κυρίλλου Ἀρχιεπισκόπου Ἀλεξανδρείας εἰς τοὺς ψαλμούς.
+* Expositio in Psalmos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Κυρίλλου Ἀρχιεπισκόπου Ἀλεξανδρείας εἰς τοὺς ψαλμούς.
 Ἱεροὶ μὲν λόγοι καὶ τῶν θείων ἄθροισις μαθημάτων εὐκλεᾶ τοῖς εἰρηκόσιν
 περιποιοῦσι τὴν ὄνησιν, Κρεῖσσον γὰρ σοφία λίθων πολυτελῶν, πᾶν δὲ τίμιον οὐκ
 ἄξιον αὐτῆς ἐστιν. χρῆναι δὲ οἶμαι πονεῖν καὶ μάλα προθύμως ἔν γε δὴ τοῖς οὕτως

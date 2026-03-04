@@ -1,17 +1,19 @@
-#+TITLE: 72 1 Kor 1,1–2 Ἑκάτερα συνυπακούεται τά τε τῶν γραφόντων προσώπων καὶ
+#+TITLE: Fragmenta in epistulam i ad Corinthios
 #+AUTHOR: Θεόδωρος Ἀναγνώστης
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam i ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-i-ad-corinthios--theodorus-lector
 #+LANGUAGE: el
 
-* 72 1 Kor 1,1–2 Ἑκάτερα συνυπακούεται τά τε τῶν γραφόντων προσώπων καὶ
+* Fragmenta in epistulam i ad Corinthios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+72 1 Kor 1,1–2 Ἑκάτερα συνυπακούεται τά τε τῶν γραφόντων προσώπων καὶ
 τῶν Κορινθίων πρὸς οὓς τὸ γράμμα ἐγίνετο, ἀντὶ τοῦ ἐγώ τε καὶ Σωσθένης γράφομεν
 μετὰ πάντων τῶν παρ' ἡμῶν ταύτην ἀσπαζομένων τὴν ἐπίκλησιν, κοινωνούς τε τῆς
 τοῦ γράφειν αὐθεντίας τοὺς παρ' ἡμῖν τοιούτους ἅπαντας λαμβάνοντες καὶ τὸν τῆς

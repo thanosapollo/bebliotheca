@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ∆ΕΥΤΕΡΟΣ ΠΕΡΙ ΘΕΟΛΟΓΙΑΣ
+#+TITLE: De theologia
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De theologia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-theologia--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ∆ΕΥΤΕΡΟΣ ΠΕΡΙ ΘΕΟΛΟΓΙΑΣ
+* De theologia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ∆ΕΥΤΕΡΟΣ ΠΕΡΙ ΘΕΟΛΟΓΙΑΣ
 1 Ἐπειδὴ ἀνεκαθήραμεν τῷ λόγῳ τὸν θεολόγον, οἷόν τε εἶναι χρὴ
 διελθόντες, καὶ οἷστισι φιλοσοφητέον, καὶ ἡνίκα, καὶ ὅσον· ὅτι ὡς οἷόν τε καθαρόν,
 ἵνα φωτὶ καταλαμβάνηται φῶς. καὶ τοῖς ἐπιμελεστέροις, ἵνα μὴ ἄγονος ᾖ εἰς ἄγονον

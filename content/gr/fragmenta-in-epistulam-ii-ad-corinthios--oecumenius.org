@@ -1,17 +1,19 @@
-#+TITLE: 444 2 Kor 1,9
+#+TITLE: Fragmenta in epistulam ii ad Corinthios
 #+AUTHOR: Οἰκουμένιος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ii ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ii-ad-corinthios--oecumenius
 #+LANGUAGE: el
 
-* 444 2 Kor 1,9
+* Fragmenta in epistulam ii ad Corinthios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+2 Kor 1,9
 Ἢ οὕτως· ἑαυτῶν, φησίν, ἀπέγνωμεν παντελῶς, ἵνα τὴν ἐλπίδα ἐπὶ μόνῳ τῷ θεῷ
 σχῶμεν· ὁ γὰρ ἑαυτοῦ προαπογινώσκων πῶς ἂν οἰκείᾳ βουλῇ ἢ δυνάμει ἢ ἀπολογίᾳ
 σώζεσθαι ἐθελήσοι, ὡς ἐκ τοῦ ἀκολούθου τὸ ἅπαν αὐτὸν ἐκδιδόναι τῷ θεῷ. 2 kor

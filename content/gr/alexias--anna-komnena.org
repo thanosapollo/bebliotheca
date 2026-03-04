@@ -1,17 +1,19 @@
-#+TITLE: ΠΡΟΟΙΜΙΟΝ
+#+TITLE: Alexias
 #+AUTHOR: Ἄννα Κομνηνή
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Alexias
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/alexias--anna-komnena
 #+LANGUAGE: el
 
-* ΠΡΟΟΙΜΙΟΝ
+* Alexias
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΟΙΜΙΟΝ
 p.1.1 Ῥέων ὁ χρόνος ἀκάθεκτα καὶ ἀεί τι κινούμενος παρασύρει καὶ
 παραφέρει πάντα τὰ ἐν γενέσει καὶ ἐς βυθὸν ἀφανείας καταποντοῖ ὅπου μὲν οὐκ
 ἄξια λόγου πράγματα, ὅπου δὲ μεγάλα τε καὶ ἄξια μνήμης, καὶ τά τε ἄδηλα φύων

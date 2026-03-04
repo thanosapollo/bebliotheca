@@ -1,17 +1,19 @@
-#+TITLE: Ὅτι ἐπικίνδυνον καὶ τοῖς λέγουσι, καὶ τοῖς ἀκούουσι τὸ πρὸς χάριν
+#+TITLE: Non esse ad gratiam concionandum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Non esse ad gratiam concionandum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/non-esse-ad-gratiam-concionandum--john-chrysostom
 #+LANGUAGE: el
 
-* Ὅτι ἐπικίνδυνον καὶ τοῖς λέγουσι, καὶ τοῖς ἀκούουσι τὸ πρὸς χάριν
+* Non esse ad gratiam concionandum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ὅτι ἐπικίνδυνον καὶ τοῖς λέγουσι, καὶ τοῖς ἀκούουσι τὸ πρὸς χάριν
 δημηγορεῖν, καὶ ὅτι χρήσιμον καὶ δικαιοσύνη μεγίστη τὸ κατηγορεῖν
 τῶν οἰκείων ἁμαρτημάτων.
 =50.653=

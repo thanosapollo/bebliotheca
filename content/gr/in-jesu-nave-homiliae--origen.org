@@ -1,17 +1,19 @@
-#+TITLE: 290 «τετελεύ τηκε Μωυσῆς», ἀπέθανεν ὁ νόμος, Μωυσῆς χρηματίζων, κατὰ τό·
+#+TITLE: In Jesu Nave homiliae
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: In Jesu Nave homiliae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-jesu-nave-homiliae--origen
 #+LANGUAGE: el
 
-* 290 «τετελεύ τηκε Μωυσῆς», ἀπέθανεν ὁ νόμος, Μωυσῆς χρηματίζων, κατὰ τό·
+* In Jesu Nave homiliae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+290 «τετελεύ τηκε Μωυσῆς», ἀπέθανεν ὁ νόμος, Μωυσῆς χρηματίζων, κατὰ τό·
 «ἔχουσι Μωυσέα καὶ τοὺς προφήτας». 291 ἐπὶ μὲν οὖν Μωϋσέως ἄγοντος διὰ
 θαλάττης, ὕδατος ἁλμυροῦ, οὐδεμία τάξις ἐγί νετο, ἣν νῦν ὁρῶμεν Ἰησοῦ
 στρατηγήσαντος καὶ τοῦ Κυρίου πλη ροῦντος τὸ σύμβολον. τῷ μέλλοντι διαβῆναι

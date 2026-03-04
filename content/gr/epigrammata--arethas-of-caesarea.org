@@ -1,17 +1,19 @@
-#+TITLE: ΑΡΕΘΑ ∆ΙΑΚΟΝΟΥ
+#+TITLE: Epigrammata
 #+AUTHOR: Ἀρέθας Καισαρείας Καππαδοκίας
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Epigrammata
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epigrammata--arethas-of-caesarea
 #+LANGUAGE: el
 
-* ΑΡΕΘΑ ∆ΙΑΚΟΝΟΥ
+* Epigrammata
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΑΡΕΘΑ ∆ΙΑΚΟΝΟΥ
 Εἰ καί μοι λύχνον αἰῶνος ταχὺς ἔσβεσεν οἶτος λαμπάδος ἡμετέρης φέγγος
 ἀμερσάμενος, ἀλλά γ' ἄρ' ἤρκεσε λύσσῃ ἑῆς κακότητος ὁ δαίμων πᾶσαν ἐμὴν τελέσαι
 στυγναλέην βιοτήν· θῆκέ με χήρην ἐγγὺς ἀειρομένου μοι μαζοῦ, οὐδ' ἐπὶ τέκνον

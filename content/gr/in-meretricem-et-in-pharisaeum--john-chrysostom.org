@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν πόρνην καὶ εἰς τὸν Φαρισαῖον. 61.709
+#+TITLE: In meretricem et in pharisaeum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In meretricem et in pharisaeum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-meretricem-et-in-pharisaeum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν πόρνην καὶ εἰς τὸν Φαρισαῖον. 61.709
+* In meretricem et in pharisaeum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν πόρνην καὶ εἰς τὸν Φαρισαῖον.
+=61.709=
 Σήμερον ὁ Φαρισαῖος εἰς ἄριστον τὸν ∆εσπότην ἐκάλεσε, τιμὴν ὕβρει
 κεράσας· ἡ δὲ πόρνη αὐτὸν τῇ πίστει εἱστίασεν. Ὄντος γὰρ αὐτοῦ ἐν τῇ οἰκίᾳ τοῦ
 Σίμωνος, ἰδοὺ γυνὴ πόρνη. Μανικὸν σχῆμα, γυνὴ πόρνη ἐν τῇ πόλει, ὁ ἐντοίχιος

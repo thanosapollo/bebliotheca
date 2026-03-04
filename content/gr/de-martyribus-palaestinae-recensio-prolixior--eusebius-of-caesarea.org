@@ -1,6 +1,7 @@
-#+TITLE: 4.1 ∆εινὸς ὄφις καὶ τύραννος ἀπηνὴς ἄρτι τότε νεαρᾶς τῆς κατὰ πάντων
+#+TITLE: De martyribus Palaestinae Recensio prolixior
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De martyribus Palaestinae Recensio prolixior
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

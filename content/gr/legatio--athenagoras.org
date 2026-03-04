@@ -1,6 +1,7 @@
-#+TITLE: ΧΡIΣΤIAΝOΥ ΠΡEΣΒEIA ΠEΡI ΧΡIΣΤIAΝΩΝ Aὐτοκράτορσιν Μάρκῳ Aὐρηλίῳ Ἀντωνίνῳ καὶ Λουκίῳ Aὐρηλίῳ Κομόδῳ Ἀρμενιακοῖς Σαρματικοῖς, τὸ δὲ μέγιστον φιλοσόφοις. Ἡ ὑμετέρα, μεγάλοι βασιλέων, οἰκουμένη ἄλλος ἄλλοις ἔθεσι
+#+TITLE: Legatio
 #+AUTHOR: Ἀθηναγόρας Ἀθηναῖος
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Legatio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

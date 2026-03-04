@@ -1,6 +1,7 @@
-#+TITLE: Τοῦ αὐτοῦ ἁγίου Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας καὶ
+#+TITLE: Sermo major de fide
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo major de fide
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

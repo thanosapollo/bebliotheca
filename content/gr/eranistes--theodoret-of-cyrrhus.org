@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΕΡΑΝΙΣΤΗΣ Η ΠΟΛΥΜΟΡΦΟΣ ΠΡΟΛΟΓΟΣ
+#+TITLE: Eranistes
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Eranistes
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/eranistes--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΕΡΑΝΙΣΤΗΣ Η ΠΟΛΥΜΟΡΦΟΣ ΠΡΟΛΟΓΟΣ
+* Eranistes
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΕΡΑΝΙΣΤΗΣ Η
+ΠΟΛΥΜΟΡΦΟΣ ΠΡΟΛΟΓΟΣ
 Εἰσί τινες, οἳ τὴν ἐκ γένους ἢ παιδεύσεως ἢ κατορθωμάτων ἀξιέπαι νον οὐκ
 ἔχοντες περιφάνειαν, ἐκ πονηρῶν ἐπιτηδευμάτων ἐπίσημοι γενέσθαι φιλονεικοῦσι.
 Τοιοῦτος ἦν ἐκεῖνος Ἀλέξανδρος ὁ χαλκεύς, ὃς οὐδὲν ἔχων περίβλεπτον, οὐ

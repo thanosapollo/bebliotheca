@@ -1,17 +1,19 @@
-#+TITLE: Βʹ. Τοῦ αὐτοῦ περὶ τῶν ἐν νηστείᾳ σωφρονούντων, καὶ διαγωγῆς διαφόρων
+#+TITLE: De iis qui in jejunio continenter vivunt
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De iis qui in jejunio continenter vivunt
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-iis-qui-in-jejunio-continenter-vivunt--john-chrysostom
 #+LANGUAGE: el
 
-* Βʹ. Τοῦ αὐτοῦ περὶ τῶν ἐν νηστείᾳ σωφρονούντων, καὶ διαγωγῆς διαφόρων
+* De iis qui in jejunio continenter vivunt
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Βʹ. Τοῦ αὐτοῦ περὶ τῶν ἐν νηστείᾳ σωφρονούντων, καὶ διαγωγῆς διαφόρων
 προφητῶν.
 =64.15=
 Οἱ μὲν ἀθληταὶ καθ' ἑκάστην ἡμέραν γυμναζόμενοι καὶ τὴν τέχνην αὔξουσι, καὶ

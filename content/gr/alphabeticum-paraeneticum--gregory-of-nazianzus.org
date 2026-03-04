@@ -1,17 +1,22 @@
-#+TITLE: Ἀρχὴν νόμιζε τῶν ὅλων εἶναι Θεόν. Βέβαιον οὐδὲν ἐν βίῳ δόκει πέλειν. Γονεῖς τιμῶν μάλιστα Θεὸν φοβοῦ. ∆ίδασκε σαυτὸν μὴ λαλεῖν ἃ μὴ θέμις.
+#+TITLE: Alphabeticum paraeneticum
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Alphabeticum paraeneticum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/alphabeticum-paraeneticum--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* Ἀρχὴν νόμιζε τῶν ὅλων εἶναι Θεόν. Βέβαιον οὐδὲν ἐν βίῳ δόκει πέλειν. Γονεῖς τιμῶν μάλιστα Θεὸν φοβοῦ. ∆ίδασκε σαυτὸν μὴ λαλεῖν ἃ μὴ θέμις.
+* Alphabeticum paraeneticum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀρχὴν νόμιζε τῶν ὅλων εἶναι Θεόν.
+Βέβαιον οὐδὲν ἐν βίῳ δόκει πέλειν.
+Γονεῖς τιμῶν μάλιστα Θεὸν φοβοῦ.
+∆ίδασκε σαυτὸν μὴ λαλεῖν ἃ μὴ θέμις.
 Ἔργοις δ' ἀρέσκειν σπεῦδε καὶ λόγοις Θεῷ.
 Ζωὴν πόθησον τὴν ἔχουσαν μὴ τέλος.
 Ἡττῶν σεαυτὸν τοῖς φίλοις νικῶν ἔσῃ.

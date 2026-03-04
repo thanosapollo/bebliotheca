@@ -1,6 +1,7 @@
-#+TITLE: ΛΟΓΟΣ ΙΗʹ. ̓Επιτάφιος εἰς τὸν πατέρα, παρόντος Βασιλείου.
+#+TITLE: Funebris oratio in patrem 1
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Funebris oratio in patrem 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

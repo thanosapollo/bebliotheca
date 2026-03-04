@@ -1,17 +1,19 @@
-#+TITLE: ΑΠΑΝΤΑ, ΜΑΞΙΜΟΥ τοῦ ΟΜΟΛΟΓΗΤΟΥ *
+#+TITLE: Opuscula Theologica et Polemica
 #+AUTHOR: Μάξιμος ὁ Ὁμολογητής
 #+FILETAGS: :patristic:7c-ad:
+#+MIGNE_TITLE: PG 91A 6
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/pg-91a-6--maximus-the-confessor
 #+LANGUAGE: el
 
-* ΑΠΑΝΤΑ, ΜΑΞΙΜΟΥ τοῦ ΟΜΟΛΟΓΗΤΟΥ *
+* PG 91A 6
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΑΠΑΝΤΑ, ΜΑΞΙΜΟΥ τοῦ ΟΜΟΛΟΓΗΤΟΥ *
 8ος Τόμος 15 Α....................................................................................................................... 1
 ΜΙΚΡΑ ΘΕΟΛΟΓΙΚΑ ΚΑΙ ΠΟΛΕΜΙΚΑ ................................................................................ 1
 8ος Τόμος 15 Α

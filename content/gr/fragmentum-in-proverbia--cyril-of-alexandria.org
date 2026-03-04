@@ -1,17 +1,19 @@
-#+TITLE: ΕΚ ΤΗΣ ΕΡΜΗΝΕΙΑΣ ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΕΙΣ ΤΑΣ ΠΑΡΟΙΜΙΑΣ
+#+TITLE: Fragmentum in Proverbia
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmentum in Proverbia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-proverbia--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΕΚ ΤΗΣ ΕΡΜΗΝΕΙΑΣ ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΕΙΣ ΤΑΣ ΠΑΡΟΙΜΙΑΣ
+* Fragmentum in Proverbia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚ ΤΗΣ ΕΡΜΗΝΕΙΑΣ ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΕΙΣ ΤΑΣ ΠΑΡΟΙΜΙΑΣ
 Κύριος ἔκτισέ με. {Κυρίλλου.} Τὸ ἔκτισέ με, ἂν περὶ θεότητος ἐκλάβῃς, ἀντὶ
 τοῦ Κατέστησέ με· ὡς τὸ, Καρδίαν καθαρὰν κτίσον ἐν ἐμοὶ, ὁ Θεός. Καὶ,Ἵνα τοὺς δύο
 κτίσῃ ἐν ἑαυτῷ. Οὐ γὰρ οὐσιωδῶς, ἵνα κτίσῃ τοὺς ἤδη γεγενημένους, ἀλλ' ἵνα

@@ -1,17 +1,21 @@
-#+TITLE: ΒΙΒΛΙΟΝ Ζʹ. ΕΙΣ ΚΟΣΜΟΠΟΙΙΑΝ ΣΥΜΕΩΝ ΛΟΓΟΘΕΤΟΥ ΕΚ ∆ΙΑΦΟΡΩΝ ΧΡΟΝΙΚΩΝ ΚΑΙ ΙΣΤΟΡΙΩΝ. Αʹ. Περὶ τοῦ φωτός.
+#+TITLE: Chronicon breve
 #+AUTHOR: Συμεὼν Μεταφραστής
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Chronicon breve
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronicon-breve--symeon-metaphrastes
 #+LANGUAGE: el
 
-* ΒΙΒΛΙΟΝ Ζʹ. ΕΙΣ ΚΟΣΜΟΠΟΙΙΑΝ ΣΥΜΕΩΝ ΛΟΓΟΘΕΤΟΥ ΕΚ ∆ΙΑΦΟΡΩΝ ΧΡΟΝΙΚΩΝ ΚΑΙ ΙΣΤΟΡΙΩΝ. Αʹ. Περὶ τοῦ φωτός.
+* Chronicon breve
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΒΙΒΛΙΟΝ Ζʹ. ΕΙΣ ΚΟΣΜΟΠΟΙΙΑΝ ΣΥΜΕΩΝ ΛΟΓΟΘΕΤΟΥ ΕΚ ∆ΙΑΦΟΡΩΝ
+ΧΡΟΝΙΚΩΝ ΚΑΙ ΙΣΤΟΡΙΩΝ.
+Αʹ. Περὶ τοῦ φωτός.
 [Αʹ. Περὶ τοῦ φωτός.] Θεὸς ἄχρονος τόνδε τὸν κόσμον μὴ πρότερον ὑφεστῶτα ἐν
 χρόνῳ παράγων ἐποίησεν ἐν ἀρχῇ οὐρανὸν καὶ γῆν· συνυπέστη δὲ τῇ γῇ τό τε ὕδωρ
 καὶ πῦρ· καὶ τούτου τεκμήριον ἐναργὲς τὸ ἐκ λίθου μὲν καὶ σιδήρου, ὄντων ἐκ γῆς,

@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ Ιʹ. Κατὰ ὀργιζομένων.
+#+TITLE: Homilia adversus eos qui irascuntur
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia adversus eos qui irascuntur
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-adversus-eos-qui-irascuntur--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Ιʹ. Κατὰ ὀργιζομένων.
+* Homilia adversus eos qui irascuntur
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Ιʹ.
+Κατὰ ὀργιζομένων.
 Ὥσπερ ἐπὶ τῶν ἰατρικῶν παραγγελμάτων, ὅταν εὐστόχως καὶ κατὰ τὸν
 λόγον τῆς τέχνης γίγνη ται, μετὰ τὴν πεῖραν μάλιστα τὸ ἀπ' αὐτῶν ὠφέλιμον
 διαδείκνυται· οὕτως ἐπὶ τῶν πνευματικῶν παραινέσεων, ἐπειδὰν μάλιστα τὴν

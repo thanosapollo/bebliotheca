@@ -1,17 +1,19 @@
-#+TITLE: ΠΡΟΣ ΤΟΥΣ Οὐκ εἰς δέον χρωμένους τῷ ἀποστολικῷ ῥητῷ τῷ λέγοντι,
+#+TITLE: De profectu evangelii
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De profectu evangelii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-profectu-evangelii--john-chrysostom
 #+LANGUAGE: el
 
-* ΠΡΟΣ ΤΟΥΣ Οὐκ εἰς δέον χρωμένους τῷ ἀποστολικῷ ῥητῷ τῷ λέγοντι,
+* De profectu evangelii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΣ ΤΟΥΣ Οὐκ εἰς δέον χρωμένους τῷ ἀποστολικῷ ῥητῷ τῷ λέγοντι,
 "Εἴτε προφάσει, εἴτε ἀληθείᾳ Χριστὸς καταγγέλλεται" καὶ περὶ
 ταπεινοφροσύνης.
 =51.311=

@@ -1,17 +1,19 @@
-#+TITLE: 319 Οὐ πάντες οἱ ἐν αἰχμαλωσίᾳ «ἀπαχθέντες εἰς Βαβυλῶνα» διὰ τοῦ
+#+TITLE: Homiliae in Ezechielem
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Homiliae in Ezechielem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homiliae-in-ezechielem--origen
 #+LANGUAGE: el
 
-* 319 Οὐ πάντες οἱ ἐν αἰχμαλωσίᾳ «ἀπαχθέντες εἰς Βαβυλῶνα» διὰ τοῦ
+* Homiliae in Ezechielem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+319 Οὐ πάντες οἱ ἐν αἰχμαλωσίᾳ «ἀπαχθέντες εἰς Βαβυλῶνα» διὰ τοῦ
 Ναβουχοδονόσορ, δι' ἁμαρτίας εἰς «Βαβυλῶνα» ἦλθον. Τὸ μὲν πλῆθος τοῦ λαοῦ δι'
 ἁμαρτίας, οἱ δὲ ἐν αὐτοῖς δίκαιοι οὔ, οἷον ∆ανιήλ, Ἀνανίας, Ἀζαρίας, Μισαήλ,
 Ἰεζεκιὴλ οὗτος, Ζαχαρίας, Ἀγγαῖος καὶ οἱ ὅμοιοι. Ἀγαθὸς ὢν ὁ Θεὸς καὶ κολάζων

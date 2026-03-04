@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας εἰς τὸ Ἆσμα τῶν
+#+TITLE: Homilia in Canticum canticorum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in Canticum canticorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-canticum-canticorum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας εἰς τὸ Ἆσμα τῶν
+* Homilia in Canticum canticorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας εἰς τὸ Ἆσμα τῶν
 ᾀσμάτων.
 Ποθητοὶ οἱ λόγοι καὶ ἐράσμιοι, καὶ εἰς οὐρανοὺς ἀνάγοντες, καὶ πτεροποιοῦντες
 τοὺς πιστούς. Πτεροποιοῦσι γὰρ ἀληθῶς αἱ θεῖαι Γραφαὶ τοὺς πιστοὺς τῷ πόθῳ τῶν

@@ -1,17 +1,20 @@
-#+TITLE: diversa 12]) ΟΜΙΛΙΑ ΙΒʹ. Εἰς τὴν ὑπαντὴν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.
+#+TITLE: Commentarii in Lucam In occursum domini
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Commentarii in Lucam In occursum domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-lucam-in-occursum-domini--cyril-of-alexandria
 #+LANGUAGE: el
 
-* diversa 12]) ΟΜΙΛΙΑ ΙΒʹ. Εἰς τὴν ὑπαντὴν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.
+* Commentarii in Lucam In occursum domini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΙΒʹ.
+Εἰς τὴν ὑπαντὴν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.
 =77.1040= Πολλὴ μὲν λίαν ἡ σύνοδος, καὶ πρόθυμος ὁ ἀκροατὴς (πλήρη γὰρ
 ὁρῶμεν τὴν Ἐκκλησίαν)· οὐ πλού =77.1041= σιος δὲ ὁ μυσταγωγός. Πλὴν ὁ διδοὺς
 ἀνθρώπῳ στόμα τε καὶ γλῶσσαν, χορηγήσει πάλιν ἡμῖν ἐννοίας ἀγαθάς. Αὐτὸς γὰρ

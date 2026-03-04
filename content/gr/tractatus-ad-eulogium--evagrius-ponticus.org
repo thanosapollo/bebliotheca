@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΠΡΟΣ ΕΥΛΟΓΙΟΝ ΜΟΝΑΧΟΝ. 79.1093 ΚΕΦΑΛ. Αʹ.
+#+TITLE: Tractatus ad Eulogium
 #+AUTHOR: Εὐάγριος Ποντικός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Tractatus ad Eulogium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/tractatus-ad-eulogium--evagrius-ponticus
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΠΡΟΣ ΕΥΛΟΓΙΟΝ ΜΟΝΑΧΟΝ. 79.1093 ΚΕΦΑΛ. Αʹ.
+* Tractatus ad Eulogium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΠΡΟΣ ΕΥΛΟΓΙΟΝ ΜΟΝΑΧΟΝ.
+=79.1093= ΚΕΦΑΛ. Αʹ.
 Οἱ τὸν οὐράνιον χῶρον νεμόμενοι τοῖς πόνοις, οὐ τῇ γαστρὶ, οὐδὲ τῇ μερίμνῃ τῶν
 φθαρτῶν ἀτενί79.1096 ζουσι· καθάπερ οἱ κέρδους ἕνεκα τὰς εὐχὰς ποιούμενοι
 νομίζοντες πορισμὸν εἶναι τὴν εὐσέβειαν, ἀλλὰ νοερᾷ ὁράσει τῆς τροφίμου τῶν

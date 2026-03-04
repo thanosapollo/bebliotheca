@@ -1,17 +1,19 @@
-#+TITLE: ΠΑΛΛΑ∆ΙΟΥ ΛΑΥΣΙΑΚΟΝ
+#+TITLE: Historia Lausiaca
 #+AUTHOR: Παλλάδιος Ἑλενοπόλεως
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Historia Lausiaca
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historia-lausiaca--palladius-of-helenopolis
 #+LANGUAGE: el
 
-* ΠΑΛΛΑ∆ΙΟΥ ΛΑΥΣΙΑΚΟΝ
+* Historia Lausiaca
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΑΛΛΑ∆ΙΟΥ ΛΑΥΣΙΑΚΟΝ
 Πολλῶν πολλὰ καὶ ποικίλα κατὰ διαφόρους καιροὺς συγγράμματα τῷ βίῳ
 καταλελοιπότων, τῶν μὲν ἐξ ἐπι πνοίας τῆς ἄνωθεν χάριτος θεοδότου εἰς οἰκοδομὴν
 καὶ ἀσφάλειαν τῶν πιστῇ προθέσει ἑπομένων τοῖς δόγμασι τοῦ σωτῆρος, τῶν δὲ ἐξ

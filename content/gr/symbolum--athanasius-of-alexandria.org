@@ -1,17 +1,19 @@
-#+TITLE: ΣΥΜΒΟΛΟΝ ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ.
+#+TITLE: Symbolum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Symbolum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/symbolum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΣΥΜΒΟΛΟΝ ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ.
+* Symbolum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΥΜΒΟΛΟΝ ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ.
 Εἴ τις θέλει σωθῆναι, πρὸ πάντων χρὴ αὐτῷ τὴν καθολικὴν κρατῆσαι πίστιν· ἣν εἰ
 μή τις ὑγιῆ καὶ ἄμωμον τηρήσειε, πάσης ἀμφιβολίας ἐκτὸς εἰς τὸν αἰῶνα ἀπολεῖται.
 Πίστις δὲ καθολικὴ αὕτη ἐστὶν, ἵνα ἕνα Θεὸν ἐν Τριάδι, καὶ Τριάδα ἐν μονάδι

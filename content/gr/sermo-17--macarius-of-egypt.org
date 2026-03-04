@@ -1,17 +1,19 @@
-#+TITLE: 91 (hgl.ζ. 5ff.) Περὶ τῶν ἀνυπομονήτων καὶ θεμέλιον πίστεως μὴ ἐχόντων,
+#+TITLE: Sermo 17
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo 17
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-17--macarius-of-egypt
 #+LANGUAGE: el
 
-* 91 (hgl.ζ. 5ff.) Περὶ τῶν ἀνυπομονήτων καὶ θεμέλιον πίστεως μὴ ἐχόντων,
+* Sermo 17
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+91 (hgl.ζ. 5ff.) Περὶ τῶν ἀνυπομονήτων καὶ θεμέλιον πίστεως μὴ ἐχόντων,
 (hgl.ζ. 10ff.) ὅτι αἱ προαιρέσεις τούτων τοιαῦταί εἰσιν· ἐὰν μή (φησίν) μεταλάβω
 χάριν πνεύματος, ἀδυνάτως ἔχω παραμεῖναι, 92 (hgl.ζ. 2ff.) εἰ δὲ λάβω, τότε
 παραμενῶ. οὗτος οὐδὲ λαβὼν παρα μένει, ὅτι τὰς θλίψεις γενναίως φέρειν οὐ

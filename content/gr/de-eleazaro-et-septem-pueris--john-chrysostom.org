@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ ΙΑʹ. 63.523
+#+TITLE: De Eleazaro et septem pueris
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De Eleazaro et septem pueris
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-eleazaro-et-septem-pueris--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΙΑʹ. 63.523
+* De Eleazaro et septem pueris
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΙΑʹ.
+=63.523=
 Τοῦ αὐτοῦ ὁμιλία λεχθεῖσα, ἑτέρου προειρηκότος σφόδρα πρεσβύτου, περὶ
 Ἐλεαζάρου καὶ ἑπτὰ παίδων.
 αʹ. Ὡς ὡραία ἡ πνευματικὴ ἐλαία αὕτη! τῶν κλάδων αὐτῆς γεγηρακότων,

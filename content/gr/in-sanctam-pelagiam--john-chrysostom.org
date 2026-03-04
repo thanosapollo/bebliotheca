@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ ἐγκώμιον εἰς τὴν αὐτὴν ἁγίαν μάρτυρα Πελαγίαν.
+#+TITLE: In sanctam Pelagiam
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctam Pelagiam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctam-pelagiam--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ ἐγκώμιον εἰς τὴν αὐτὴν ἁγίαν μάρτυρα Πελαγίαν.
+* In sanctam Pelagiam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ ἐγκώμιον εἰς τὴν αὐτὴν ἁγίαν μάρτυρα Πελαγίαν.
 Ἔδει μὲν μείζονος τῆι Πελαγίαι θεάτρου· μεγάλα γὰρ τῆς κόρης τὰ σκάμματα
 καὶ πολυανθρώπου θεωρίας ἀντάξια. ἀρκεῖ δὲ ὅμως ἀντὶ τοῦ κόσμου παντὸς ὁ
 Χριστός, τῆι τῆς παρθένου πανηγύρει παρών· ὅπου γὰρ Χριστὸς ὁ παρών, ἐκεῖ

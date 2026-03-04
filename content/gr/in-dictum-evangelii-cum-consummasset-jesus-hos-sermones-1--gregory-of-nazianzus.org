@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ ΛΖʹ.
+#+TITLE: In dictum evangelii Cum consummasset Jesus hos sermones 1
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In dictum evangelii Cum consummasset Jesus hos sermones 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-dictum-evangelii-cum-consummasset-jesus-hos-sermones-1--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΛΖʹ.
+* In dictum evangelii Cum consummasset Jesus hos sermones 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΛΖʹ.
 Εἰς τὸ ῥητὸν τοῦ Εὐαγγελίου· «Ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους
 τούτους,» καὶ τὰ ἑξῆς.
 Αʹ. Ὁ τοὺς ἁλιεῖς προελόμενος Ἰησοῦς, καὶ αὐτὸς σαγηνεύει, καὶ τόπους ἐκ

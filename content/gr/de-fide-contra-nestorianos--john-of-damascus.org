@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ ∆αμασκηνοῦ λόγος περὶ πίστεως
+#+TITLE: De fide contra Nestorianos
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: De fide contra Nestorianos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-fide-contra-nestorianos--john-of-damascus
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ ∆αμασκηνοῦ λόγος περὶ πίστεως
+* De fide contra Nestorianos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ ∆αμασκηνοῦ λόγος περὶ πίστεως
 κατὰ Νεστοριανῶν.
 1 Ἔδει μὲν ἡμᾶς τοὺς ὑπὸ θεοῦ σεσωσμένους διὰ τοῦ μονογενοῦς υἱοῦ αὐτοῦ, ὃν
 ἔδωκε λύτρον ὑπὲρ ἡμῶν, κατὰ τὸν τοῦ κυρίου λόγον πιστεύειν εἰς πατέρα καὶ υἱὸν καὶ

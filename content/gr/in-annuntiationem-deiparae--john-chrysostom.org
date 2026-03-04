@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν εὐαγγελισμὸν τῆς Θεοτόκου, καὶ κατὰ Ἀρείου δυσσεβοῦς. 62.763
+#+TITLE: In annuntiationem deiparae
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In annuntiationem deiparae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-annuntiationem-deiparae--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν εὐαγγελισμὸν τῆς Θεοτόκου, καὶ κατὰ Ἀρείου δυσσεβοῦς. 62.763
+* In annuntiationem deiparae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν εὐαγγελισμὸν τῆς Θεοτόκου, καὶ κατὰ Ἀρείου δυσσεβοῦς.
+=62.763=
 Τῇ προτέρᾳ Κυριακῇ τὴν ὀρθόδοξον ταύτην Ἐκκλησίαν οὐράνιον χορείαν
 ἐκάλεσεν ὁ τῆς ἀκτίστου Τριάδος μύστης καὶ ἐξηγητὴς, ὁ μέγας Βασίλειος, ὁ
 θεοδίδακτος ῥήτωρ, ὁ τῆς ἀληθείας συνήγορος, ὁ γενναῖος τοῦ ψεύδους κατήγορος,

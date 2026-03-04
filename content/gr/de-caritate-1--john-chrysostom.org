@@ -1,17 +1,20 @@
-#+TITLE: Περὶ ἀγάπης. 62.769
+#+TITLE: De caritate
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De caritate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-caritate-1--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ ἀγάπης. 62.769
+* De caritate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ ἀγάπης.
+=62.769=
 Καλῶς εἶπεν ὁ Κύριος, ὅτι Τὸ φορτίον μου ἐλαφρόν ἐστι. Ποῖον γὰρ βάρος, ἢ
 ποῖος κόπος ἐστὶ τοῦ ἀφιέναι τοῦ ἀδελφοῦ τὰ παραπτώματα ἐλαφρὰ καὶ μηδαμινὰ,
 =62.770= καὶ συγχωρηθῆναι τὰ ἴδια, καὶ δικαιωθῆναι συντόμως; Οὐκ εἶπεν, ὅτι

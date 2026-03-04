@@ -1,17 +1,19 @@
-#+TITLE: ̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ἅγιον Λουκᾶν
+#+TITLE: In sanctum Lucam
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: In sanctum Lucam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-lucam--hesychius-of-jerusalem
 #+LANGUAGE: el
 
-* ̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ἅγιον Λουκᾶν
+* In sanctum Lucam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ἅγιον Λουκᾶν
 τὸν ἀπόστολον καὶ εὐαγγελιστήν.
 1 Φόβῳ τοῦ σιωπᾶν μὴ ἀνεχόμενος περὶ τῆς παρούσης ἑορτῆς, εἰ καὶ λίαν εἰμὶ
 ἀμαθὴς τῷ λόγῳ ὁ τάλας ἐγὼ καὶ οὐκ ἀξίως ἔχων τοῦ λέγειν, ὅμως τῷ πόθῳ

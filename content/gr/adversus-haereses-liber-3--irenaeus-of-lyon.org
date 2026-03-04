@@ -1,17 +1,19 @@
-#+TITLE: 1 Ὁ μὲν δὴ Ματθαῖος ἐν τοῖς Ἑβραίοις τῇ ἰδίᾳ αὐτῶν διαλέκτῳ καὶ γραφὴν
+#+TITLE: Adversus haereses liber 3
 #+AUTHOR: Εἰρηναῖος Λυών
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Adversus haereses liber 3
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-haereses-liber-3--irenaeus-of-lyon
 #+LANGUAGE: el
 
-* 1 Ὁ μὲν δὴ Ματθαῖος ἐν τοῖς Ἑβραίοις τῇ ἰδίᾳ αὐτῶν διαλέκτῳ καὶ γραφὴν
+* Adversus haereses liber 3
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Ὁ μὲν δὴ Ματθαῖος ἐν τοῖς Ἑβραίοις τῇ ἰδίᾳ αὐτῶν διαλέκτῳ καὶ γραφὴν
 ἐξήνεγκεν εὐαγγελίου, τοῦ Πέτρου καὶ τοῦ Παύλου ἐν Ῥώμῃ εὐαγγελιζομένων καὶ
 θεμελιούντων τὴν ἐκκλησίαν. Μετὰ δὲ τὴν τούτων ἔξοδον, Μάρκος, ὁ μαθητὴς καὶ
 ἑρμηνευτὴς Πέτρου, καὶ αὐτὸς τὰ ὑπὸ Πέτρου κηρυσσόμενα ἐγγράφως ἡμῖν

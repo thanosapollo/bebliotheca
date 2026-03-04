@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΠΕΡΙ ΤΗΣ ΤΟΥ ΚΥΡΙΟΥ ΕΝΑΝΘΡΩΠΗΣΕΩΣ. Αʹ. Ὅτι ὠφέλιμον τοῖς ἀκούουσιν ἡ τῆς θείας οἰκονομίας ἀνάμνησις.
+#+TITLE: De incarnatione domini
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: De incarnatione domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

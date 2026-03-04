@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸ, "Ἐμνήσθην τοῦ Θεοῦ καὶ ηὐφράνθην." 61.689
+#+TITLE: In illud Memor fui dei
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Memor fui dei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-memor-fui-dei--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸ, "Ἐμνήσθην τοῦ Θεοῦ καὶ ηὐφράνθην." 61.689
+* In illud Memor fui dei
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸ, "Ἐμνήσθην τοῦ Θεοῦ καὶ ηὐφράνθην."
+=61.689=
 Ἐμνήσθην τοῦ Θεοῦ, καὶ ηὐφράνθην, ὁ μελῳδὸς ἐμαρτυρήσατο ∆αυΐδ. Οὐκ
 ἐξ οἰκείας φύσεως ἐμαρτύρατο, ἀλλ' ἐξ ἁγίου Πνεύματος τοῦ Θεοῦ ἐκελάδησεν· οὐχ
 ἁπλῶς ἐμνημόνευσεν, ἀλλὰ καὶ σοφῶς ὁ ∆αυῒδ ἐλιτάνευσεν· οὐκ ἀπὸ χειλέων μόνον

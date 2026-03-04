@@ -1,17 +1,20 @@
-#+TITLE: Περὶ τοῦ ναοῦ καὶ περὶ τῶν διδασκαλείων καὶ τῶν θεάτρων ἐν ̓Αθήναις. ̓Αθανασίου τοῦ μεγάλου ἐξηγητικὸν περὶ τοῦ ἐν ̓Αθήναις ναοῦ.
+#+TITLE: Commentarius de templo Athenarum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Commentarius de templo Athenarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarius-de-templo-athenarum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Περὶ τοῦ ναοῦ καὶ περὶ τῶν διδασκαλείων καὶ τῶν θεάτρων ἐν ̓Αθήναις. ̓Αθανασίου τοῦ μεγάλου ἐξηγητικὸν περὶ τοῦ ἐν ̓Αθήναις ναοῦ.
+* Commentarius de templo Athenarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ τοῦ ναοῦ καὶ περὶ τῶν διδασκαλείων καὶ τῶν θεάτρων ἐν ̓Αθήναις.
+̓Αθανασίου τοῦ μεγάλου ἐξηγητικὸν περὶ τοῦ ἐν ̓Αθήναις ναοῦ.
 Τοὺς τὰς θείας γραφὰς μὴ ἐπισταμένους ἐξ αὐτῆς λοιπὸν τῆς τῶν πραγμάτων
 φύσεως πεῖσαι ὀφείλομεν περὶ θεογνωσίας. ὁρῶμεν γάρ τι νας οὐσίας ἐν τῇ κτίσει,
 οὐ κατὰ φύσιν, ἀλλὰ ὑπὲρ φύσιν μετ' ἀλ λήλων ὑπηρετούσας οιόν τι λέγω, φύσις ἡ

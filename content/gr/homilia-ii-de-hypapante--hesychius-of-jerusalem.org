@@ -1,17 +1,19 @@
-#+TITLE: Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, λόγος εἰς τὴν ὑπαπαντὴν τοῦ
+#+TITLE: Homilia ii de Hypapante
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Homilia ii de Hypapante
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-ii-de-hypapante--hesychius-of-jerusalem
 #+LANGUAGE: el
 
-* Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, λόγος εἰς τὴν ὑπαπαντὴν τοῦ
+* Homilia ii de Hypapante
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, λόγος εἰς τὴν ὑπαπαντὴν τοῦ
 κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.
 1 Μὴ ἀγνοεῖτε ὅτι τὸ Πνεῦμα προφήτην τὸν Συμεῶνα κατέστη σεν καὶ
 χρηματισμὸν αὐτῷ «μὴ ἰδεῖν θάνατον πρὶν ἰδεῖν τὸν Χριστὸν» προσεφώνησεν; «Νῦν

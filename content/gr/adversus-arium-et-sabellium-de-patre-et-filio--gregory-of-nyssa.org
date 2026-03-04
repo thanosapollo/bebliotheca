@@ -1,17 +1,19 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΚΑΤΑ ΑΡΕΙΟΥ ΚΑΙ ΣΑΒΕΛΛΙΟΥ
+#+TITLE: Adversus Arium et Sabellium de patre et filio
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Adversus Arium et Sabellium de patre et filio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-arium-et-sabellium-de-patre-et-filio--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΚΑΤΑ ΑΡΕΙΟΥ ΚΑΙ ΣΑΒΕΛΛΙΟΥ
+* Adversus Arium et Sabellium de patre et filio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΚΑΤΑ ΑΡΕΙΟΥ ΚΑΙ ΣΑΒΕΛΛΙΟΥ
 Ἐξηρεύξατο ἡ καρδία μου λόγον ἀγαθόν, ἀρτίως ὁ ψαλμῳδὸς ἔλεγεν. τοῦτον
 τὸν ἀγαθὸν λόγον τοῦ θεοῦ οἱ μὲν κατὰ Ἄρειον καὶ Ἀχίλλιον τὴν ἀσεβεστάτην
 φωνὴν προϊέμενοι ἐτόλμησαν κτίσμα καὶ ποίημα διακηρύξαι καὶ πολλοὺς τῇ ἑαυτῶν

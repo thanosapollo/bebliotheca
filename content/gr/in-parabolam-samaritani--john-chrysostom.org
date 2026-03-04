@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν παραβολὴν τοῦ ἐμπεσόντος εἰς τοὺς λῃστάς. 62.755
+#+TITLE: In parabolam Samaritani
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In parabolam Samaritani
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-parabolam-samaritani--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν παραβολὴν τοῦ ἐμπεσόντος εἰς τοὺς λῃστάς. 62.755
+* In parabolam Samaritani
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν παραβολὴν τοῦ ἐμπεσόντος εἰς τοὺς λῃστάς.
+=62.755=
 Ἠκούσαμεν, ἀδελφοὶ, ἐν τῷ Εὐαγγελίῳ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ
 λέγοντος, ὅτι Ἄνθρωπός τις κατέβαινεν ἀπὸ Ἱερουσαλὴμ εἰς Ἱεριχὼ, καὶ λῃσταῖς
 περιέπεσεν· οἳ καὶ ἐκδύσαντες αὐτὸν, καὶ πληγὰς ἐπιθέντες κατέλιπον ἡμιθανῆ

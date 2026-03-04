@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὰ ὑπόλοιπα κατὰ αἱρετικῶν, καὶ περὶ κρίσεως καὶ ἐλεημοσύνης, καὶ εἰς
+#+TITLE: De petitione matris filiorum Zebedaei
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De petitione matris filiorum Zebedaei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-petitione-matris-filiorum-zebedaei--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὰ ὑπόλοιπα κατὰ αἱρετικῶν, καὶ περὶ κρίσεως καὶ ἐλεημοσύνης, καὶ εἰς
+* De petitione matris filiorum Zebedaei
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὰ ὑπόλοιπα κατὰ αἱρετικῶν, καὶ περὶ κρίσεως καὶ ἐλεημοσύνης, καὶ εἰς
 τὴν αἴτησιν τῆς μητρὸς τῶν υἱῶν Ζεβεδαίου.
 Λόγος ὄγδοος.
 =48.767=

@@ -1,6 +1,7 @@
-#+TITLE: ΚΩΝΣΤΑΝΤΙΝΟΥ τοῦ φιλοχρίστου καὶ ἐν αὐτῷ τῷ Χριστῷ τῷ αἰωνίῳ
+#+TITLE: De cerimoniis aulae Byzantinae
 #+AUTHOR: Κωνσταντῖνος Πορφυρογέννητος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: De cerimoniis aulae Byzantinae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

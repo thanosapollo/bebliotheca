@@ -1,17 +1,19 @@
-#+TITLE: ̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ὅσιον μάρτυρα
+#+TITLE: In sanctum Procopium
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: In sanctum Procopium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-procopium--hesychius-of-jerusalem
 #+LANGUAGE: el
 
-* ̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ὅσιον μάρτυρα
+* In sanctum Procopium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ὅσιον μάρτυρα
 Προκόπιον τὸν Πέρσην· καὶ εἰς τὴν ὑπακοὴν τοῦ ψαλμοῦ· «Τίμιος
 ἐναντίον κυρίου ὁ θάνατος τῶν ὁσίων αὐτοῦ», καὶ εἰς τὸ τοῦ ἀποστόλου
 ῥητόν· «Τοῖς ἀγαπῶσιν τὸν θεὸν πάντα συνεργεῖ εἰς ἀγαθόν», καὶ εἰς τὸ

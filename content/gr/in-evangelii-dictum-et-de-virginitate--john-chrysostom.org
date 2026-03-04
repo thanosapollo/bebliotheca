@@ -1,17 +1,19 @@
-#+TITLE: Ιʹ. Τοῦ αὐτοῦ εἰς τὸ τοῦ Εὐαγγελίου ῥητὸν, καὶ περὶ παρθενείας, καὶ
+#+TITLE: In evangelii dictum et de virginitate
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In evangelii dictum et de virginitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-evangelii-dictum-et-de-virginitate--john-chrysostom
 #+LANGUAGE: el
 
-* Ιʹ. Τοῦ αὐτοῦ εἰς τὸ τοῦ Εὐαγγελίου ῥητὸν, καὶ περὶ παρθενείας, καὶ
+* In evangelii dictum et de virginitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ιʹ. Τοῦ αὐτοῦ εἰς τὸ τοῦ Εὐαγγελίου ῥητὸν, καὶ περὶ παρθενείας, καὶ
 παραινετικὸς εἰς τὰς ἐκπεσούσας.
 =64.37=
 Οὐδὲν ὁ θεῖος λόγος ἀσκόπως, οὐδὲ ξένον τῆς ἡμετέρας σωτηρίας παρέδωκεν

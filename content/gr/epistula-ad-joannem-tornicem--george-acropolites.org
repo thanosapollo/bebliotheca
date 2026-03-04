@@ -1,17 +1,19 @@
-#+TITLE: Ἐπιστολὴ τοῦ σοφωτάτου μεγάλου λογοθέτου γραφεῖσα πρὸς τὸν
+#+TITLE: Epistula ad Joannem Tornicem
 #+AUTHOR: Γεώργιος Ἀκροπολίτης
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: Epistula ad Joannem Tornicem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-joannem-tornicem--george-acropolites
 #+LANGUAGE: el
 
-* Ἐπιστολὴ τοῦ σοφωτάτου μεγάλου λογοθέτου γραφεῖσα πρὸς τὸν
+* Epistula ad Joannem Tornicem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἐπιστολὴ τοῦ σοφωτάτου μεγάλου λογοθέτου γραφεῖσα πρὸς τὸν
 περιπόθητον συμπενθερὸν τοῦ κραταιοῦ καὶ ἁγίου ἡμῶν αὐθέντου καὶ
 βασιλέως παντευτυχέστατον σεβαστοκράτορα κύριν Ἰωάννην τὸν
 Τορνίκην, γράψαντα αὐτῷ μετρίως καὶ φιλικῶς ὅτι "ψευδῶς κάθησαι

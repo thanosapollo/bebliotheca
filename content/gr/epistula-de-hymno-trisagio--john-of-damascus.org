@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ μακαρίου Ἰωάννου μοναχοῦ καὶ πρεσβυτέρου ἐπιστολὴ γραφεῖσα πρὸς
+#+TITLE: Epistula de hymno trisagio
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Epistula de hymno trisagio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-de-hymno-trisagio--john-of-damascus
 #+LANGUAGE: el
 
-* Τοῦ μακαρίου Ἰωάννου μοναχοῦ καὶ πρεσβυτέρου ἐπιστολὴ γραφεῖσα πρὸς
+* Epistula de hymno trisagio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ μακαρίου Ἰωάννου μοναχοῦ καὶ πρεσβυτέρου ἐπιστολὴ γραφεῖσα πρὸς
 Ἰορδάνην ἀρχιμανδρίτην περὶ τοῦ τρισαγίου ὕμνου.
 Τῷ θεοτιμήτῳ καὶ ζήλῳ θείῳ κεκοσμημένῳ κυρῷ Ἰορδάνῃ ἀρχιμανδρίτῃ Ἰωάννης.
 1 Τοῦ πρός σέ μοι πόθου ἡ ἀκρότης, ὦ πατέρων ἄριστε, οὐκ ἐξ ἀστάτου

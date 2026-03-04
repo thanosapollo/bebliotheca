@@ -1,17 +1,19 @@
-#+TITLE: 39.1120 ΚΕΦ. Αʹ, στ. αʹ. Ἄνθρωπος τις ἦν ἐν χώρᾳ Τῇ Αὐσίτιδι, ᾧ ὄνομα Ἰώβ.
+#+TITLE: Commentarii in Job In Catenis
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Commentarii in Job In Catenis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-job-in-catenis--didymus-the-blind
 #+LANGUAGE: el
 
-* 39.1120 ΚΕΦ. Αʹ, στ. αʹ. Ἄνθρωπος τις ἦν ἐν χώρᾳ Τῇ Αὐσίτιδι, ᾧ ὄνομα Ἰώβ.
+* Commentarii in Job In Catenis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=39.1120= ΚΕΦ. Αʹ, στ. αʹ. Ἄνθρωπος τις ἦν ἐν χώρᾳ Τῇ Αὐσίτιδι, ᾧ ὄνομα Ἰώβ.
 ∆ιδύμου. Ὑψηλότερον δὲ, Αὐσῖτις βουλὴ ἑρμη νεύεται, κατὰ τὴν Ἑλλάδα φωνὴν, ἐν
 ᾗ ᾤκει ὁ δί καιος. Ὀξύθυμος μὲν γὰρ μετὰ ἀβουλίας πράσσει· διὸ τυφλὰ παρ' αὐτῷ
 γεννᾶται, καθάπερ τοῖς κυσὶ, καὶ τὰ πράγματα καὶ τὰ ῥήματα· ὁ δὲ δίκαιος οὐδὲν

@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΟΥΣ ΑΓΙΟΥΣ ΜΑΚΚΑΒΑΙΟΥΣ Καὶ εἰς τὴν μητέρα αὐτῶν. Ὁμιλία αʹ.
+#+TITLE: De Maccabeis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De Maccabeis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-maccabeis--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΥΣ ΑΓΙΟΥΣ ΜΑΚΚΑΒΑΙΟΥΣ Καὶ εἰς τὴν μητέρα αὐτῶν. Ὁμιλία αʹ.
+* De Maccabeis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΥΣ ΑΓΙΟΥΣ ΜΑΚΚΑΒΑΙΟΥΣ Καὶ εἰς τὴν μητέρα αὐτῶν.
+Ὁμιλία αʹ.
 αʹ. Ὡς φαιδρὰ καὶ περιχαρὴς ἡμῖν ἡ πόλις, καὶ τοῦ παντὸς ἐνιαυτοῦ λαμπροτέρα
 ἡ σήμερον ἡμέρα, οὐ τοῦ ἡλίου φανερωτέραν ἀκτῖνα τῆς εἰωθυίας πρὸς τὴν γῆν
 ἀφιέντος σήμερον, ἀλλὰ τοῦ φωτὸς τῶν ἁγίων μαρτύρων ὑπὲρ ἀστραπὴν ἅπασαν τὴν

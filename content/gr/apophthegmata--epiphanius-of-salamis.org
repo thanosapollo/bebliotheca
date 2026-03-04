@@ -1,17 +1,19 @@
-#+TITLE: Περὶ τοῦ ἁγίου Ἐπιφανίου ἐπισκόπου Κύπρου.
+#+TITLE: Apophthegmata
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Apophthegmata
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/apophthegmata--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Περὶ τοῦ ἁγίου Ἐπιφανίου ἐπισκόπου Κύπρου.
+* Apophthegmata
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ τοῦ ἁγίου Ἐπιφανίου ἐπισκόπου Κύπρου.
 αʹ. ∆ιηγήσατο ὁ ἅγιος Ἐπιφάνιος ὁ ἐπίσκοπος, ὅτι ἐπὶ τοῦ μακαρίου
 Ἀθανασίου τοῦ μεγάλου, κορῶναι περιϊπτάμεναι τὸ τοῦ Σεράπιδος ἱερὸν, ἔκραζον
 ἀπαύ =65.164= στως, Κρᾶς, Κρᾶς. Καὶ προστάντες ἐπὶ τὸν μακάριον Ἀθανάσιον οἱ

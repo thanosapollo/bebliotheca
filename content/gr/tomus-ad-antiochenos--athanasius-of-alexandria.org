@@ -1,17 +1,20 @@
-#+TITLE: Ο ΠΡΟΣ ΤΟΥΣ ΑΝΤΙΟΧΕΙΣ ΤΟΜΟΣ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ.
+#+TITLE: Tomus ad Antiochenos
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Tomus ad Antiochenos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/tomus-ad-antiochenos--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Ο ΠΡΟΣ ΤΟΥΣ ΑΝΤΙΟΧΕΙΣ ΤΟΜΟΣ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ.
+* Tomus ad Antiochenos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ο ΠΡΟΣ ΤΟΥΣ ΑΝΤΙΟΧΕΙΣ ΤΟΜΟΣ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ.
 Τοῖς ἀγαπητοῖς καὶ ποθεινοτάτοις συλλειτουργοῖς Εὐσεβίῳ, Λουκίφερι, Ἀστερίῳ,
 Κυματίῳ καὶ Ἀνατολίῳ, Ἀθανάσιος καὶ οἱ παρατυχόντες ἐν Ἀλεξανδρείᾳ ἐπίσκοποι
 ἀπό τε τῆς Ἰταλίας καὶ Ἀραβίας, Αἰγύπτου καὶ Λιβύης, Εὐσέβιος, Ἀστέριος, Γάϊος,

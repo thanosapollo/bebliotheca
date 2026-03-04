@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ ΚΑʹ.
+#+TITLE: Quod rebus mundanis adhaerendum non sit
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quod rebus mundanis adhaerendum non sit
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quod-rebus-mundanis-adhaerendum-non-sit--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΚΑʹ.
+* Quod rebus mundanis adhaerendum non sit
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΚΑʹ.
 Περὶ τοῦ μὴ προσηλῶσθαι τοῖς βιωτικοῖς, καὶ περὶ τοῦ γενομένου
 ἐμπρησμοῦ ἔξωθεν τῆς Ἐκκλησίας.
 Ἐγὼ μὲν ᾤμην, ἀγαπητοὶ, σφοδρότερον ἑκάστο τε τοῦ λόγου τὸ κέντρον

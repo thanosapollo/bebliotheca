@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΕΙΣ ΤΟ ΑΓΙΟΝ ΠΝΕΥΜΑ.
+#+TITLE: De spiritu sancto
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De spiritu sancto
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-spiritu-sancto--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΕΙΣ ΤΟ ΑΓΙΟΝ ΠΝΕΥΜΑ.
+* De spiritu sancto
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΕΙΣ ΤΟ ΑΓΙΟΝ ΠΝΕΥΜΑ.
 Πᾶσαν ἑορτῆς ὑπόθεσιν φαιδροτέραν ὁ ∆αβὶδ δι' ἑαυτοῦ ἀπεργάζεται, τὴν
 πολυαρμόνιον ἐκείνην κιθά ραν προσφόρως ἀεὶ τῇ χρείᾳ μεθαρμοζόμενος. Οὐκ οῦν
 καὶ τὴν μεγάλην τῆς Πεντηκοστῆς ἑορτὴν φαι δρυνέτω ἡμῖν ὁ αὐτὸς Προφήτης, τῷ

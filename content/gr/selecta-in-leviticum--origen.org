@@ -1,17 +1,20 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΛΕΥΙΤΙΚΟΝ. 12.397
+#+TITLE: Selecta in Leviticum
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Selecta in Leviticum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/selecta-in-leviticum--origen
 #+LANGUAGE: el
 
-* ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΛΕΥΙΤΙΚΟΝ. 12.397
+* Selecta in Leviticum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΛΕΥΙΤΙΚΟΝ.
+=12.397=
 Καὶ ἀνεκάλεσε Μωϋσῆν. Λευϊτικὸν ὠνόμασται, ἐπειδὴ τὸ τῆς ἱερωσύνης καὶ τὰ τῶν
 θυσιῶν καὶ ὅσα τοιαῦτα προσέταξεν ὁ Θεὸς, ἐν τούτῳ Λευϊτικῷ φέ ρεται. Ἔχει μὲν
 οὖν καὶ ἡ Ἔξοδος τοῦ Θεοῦ νομοθεσίας· ὅπως δὲ ἐτελέσθησαν οἱ ἱερεῖς χρισθέντες,

@@ -1,17 +1,19 @@
-#+TITLE: Χαίρειν κελεύω τὸν καλόν τε κἀγαθὸν υἱὸν Σέλευκον, εὐγενοῦς ῥίζης
+#+TITLE: Iambi ad Seleucum
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Iambi ad Seleucum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/iambi-ad-seleucum--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* Χαίρειν κελεύω τὸν καλόν τε κἀγαθὸν υἱὸν Σέλευκον, εὐγενοῦς ῥίζης
+* Iambi ad Seleucum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Χαίρειν κελεύω τὸν καλόν τε κἀγαθὸν υἱὸν Σέλευκον, εὐγενοῦς ῥίζης
 κλάδον. χαίρειν δὲ καὐτὸς εὔχομαι τῷ σῷ βίῳ μαθήμασίν τε καὶ τρόποις φρονῶν
 μέγα. Πρῶτον μὲν οὖν φόβον τε καὶ πόθον ἔχε θεοῦ· θεὸς γὰρ πᾶσιν ἀρχὴ καὶ τέλος
 τοῖς εὖ φρονοῦσι γίγνεται παντὸς βίου. Τὸ δεύτερον δὲ τὸν τρόπον ἄσκει, τέκνον,

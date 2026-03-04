@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν Σουσάνναν. 56.589
+#+TITLE: De Susanna
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De Susanna
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-susanna--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν Σουσάνναν. 56.589
+* De Susanna
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν Σουσάνναν.
+=56.589=
 Ἥκομεν ὑμῖν εὐγνώμονες ὀφειλέται τοῦ λόγου, οὐχ ὅσον ὀφείλομεν
 πληροῦντες, ἀλλ' ὅσον ἔχομεν ἀποδιδόντες. Ἡ μὲν γὰρ προθυμία δαψιλὴς καὶ πλείω
 τοῦ ὀφειλομένου ἥπλωται διδόναι· ἡ δὲ τοῦ λόγου πενία ἐστένωται· δι' ὃ ὀλίγα ὑμῖν

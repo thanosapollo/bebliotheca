@@ -1,17 +1,19 @@
-#+TITLE: 2 Tim 1,1 Ἐν μὲν τῇ προτέρᾳ ἐπιστολῇ μέλλων ἐκκλησιαστικοὺς κανόνας
+#+TITLE: Fragmenta in epistulam ii ad Timotheum
 #+AUTHOR: Σεβηριανὸς Γαβάλων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ii ad Timotheum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ii-ad-timotheum--severianus-of-gabala
 #+LANGUAGE: el
 
-* 2 Tim 1,1 Ἐν μὲν τῇ προτέρᾳ ἐπιστολῇ μέλλων ἐκκλησιαστικοὺς κανόνας
+* Fragmenta in epistulam ii ad Timotheum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+2 Tim 1,1 Ἐν μὲν τῇ προτέρᾳ ἐπιστολῇ μέλλων ἐκκλησιαστικοὺς κανόνας
 παραδιδόναι, εἶπε κατ' ἐπιταγήν, ἐν δὲ τῇ δευτέρᾳ κατ' ἐπαγγελίαν ἔφη· ἡ γὰρ
 ἀποστολὴ ἡ μὲν κατ' ἐπιταγὴν τοῦ θεοῦ διατάττει τὰ συμφέροντα, ἡ δὲ τοῖς ἀκούουσι
 ἐπαγγελίαν ζωῆς, οὐ τῆς νῦν ἀλλὰ τῆς ἀϊδίου, τῆς ἐν Χριστῷ Ἰησοῦ. Ἐν τῇ πρώτῃ

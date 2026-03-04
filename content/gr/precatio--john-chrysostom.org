@@ -1,17 +1,19 @@
-#+TITLE: 64.1061 Εὐχὴ ἑτέρα τοῦ αὐτοῦ.
+#+TITLE: Precatio
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Precatio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/precatio--john-chrysostom
 #+LANGUAGE: el
 
-* 64.1061 Εὐχὴ ἑτέρα τοῦ αὐτοῦ.
+* Precatio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εὐχὴ ἑτέρα τοῦ αὐτοῦ.
 Τοῦ Κυρίου δεηθῶμεν. Ὁ πᾶσιν ἀκαθάρτοις πνεύμασιν ἐπιτιμήσας, καὶ
 δυνάμει ῥήματος ἐκδιώξας τὴν λεγεῶνα, ἐπιφανήθητι καὶ νῦν διὰ τοῦ μονογενοῦς
 σου Υἱοῦ, ἐπὶ τὸ πλάσμα ὃ καὶ εἰκόνα σου, ἐποίησας, καὶ ἐξελοῦ αὐτὸ

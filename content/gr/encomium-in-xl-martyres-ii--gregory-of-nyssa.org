@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΕΙΣ ΤΟΥΣ ΤΕΣΣΑΡΑΚΟΝΤΑ ΜΑΡΤΥΡΑΣ ΛΟΓΟΣ ΕΓΚΩΜΙΑΣΤΙΚΟΣ ΡΗΘΕΙΣΕΝ ΤΩ ΜΑΡΤΥΡΙΩ.
+#+TITLE: Encomium in xl martyres ii
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Encomium in xl martyres ii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/encomium-in-xl-martyres-ii--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΕΙΣ ΤΟΥΣ ΤΕΣΣΑΡΑΚΟΝΤΑ ΜΑΡΤΥΡΑΣ ΛΟΓΟΣ ΕΓΚΩΜΙΑΣΤΙΚΟΣ ΡΗΘΕΙΣΕΝ ΤΩ ΜΑΡΤΥΡΙΩ.
+* Encomium in xl martyres ii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΕΙΣ ΤΟΥΣ ΤΕΣΣΑΡΑΚΟΝΤΑ ΜΑΡΤΥΡΑΣ ΛΟΓΟΣ
+ΕΓΚΩΜΙΑΣΤΙΚΟΣ ΡΗΘΕΙΣΕΝ ΤΩ ΜΑΡΤΥΡΙΩ.
 Οἱ μὲν ὁπλῖται Ῥωμαίων κατὰ νόμον πάτριον, καὶ συνήθειαν παλαιὰν, ἣν
 παῖδες παρὰ προγόνων διαδε ξάμενοι, καὶ μέχρι τοῦ παρόντος φυλάττουσιν, ἐν τῇ
 ἀρχῇ τοῦ ἐνεστῶτος μηνὸς τὴν πανοπλίαν ἐνσκευαζό μενοι, καὶ χωροῦντες ἐπί τι

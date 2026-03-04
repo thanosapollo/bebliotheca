@@ -1,17 +1,19 @@
-#+TITLE: ΡΟΥΘ.
+#+TITLE: In Ruth
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: In Ruth
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ruth--origen
 #+LANGUAGE: el
 
-* ΡΟΥΘ.
+* In Ruth
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΡΟΥΘ.
 =12.989= Καὶ ὄνομα τῇ δευτέρᾳ Ῥούθ. Ῥοὺθ τύπον φέρει τῶν ἐθνῶν· ἥτις κατέλιπε τὰ
 πάτρια, καὶ ἡνώθη τῇ Ἰσραηλιτικῇ ἕξει. Ζητητέον δὲ πῶς, τοῦ νόμου ἀπαγορεύοντος
 μὴ εἰσελθεῖν Μοαβίτην εἰς Ἐκκλησίαν Θεοῦ, ἡ Ῥοὺς Μοαβίτις οὖσα εἰσῆλθε. Καὶ

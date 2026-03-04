@@ -1,17 +1,20 @@
-#+TITLE: Κατὰ αἱρετικῶν, καὶ εἰς τὴν ἁγίαν Θεοτόκον. 59.709
+#+TITLE: Contra haereticos et in sanctam deiparam
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra haereticos et in sanctam deiparam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-haereticos-et-in-sanctam-deiparam--john-chrysostom
 #+LANGUAGE: el
 
-* Κατὰ αἱρετικῶν, καὶ εἰς τὴν ἁγίαν Θεοτόκον. 59.709
+* Contra haereticos et in sanctam deiparam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Κατὰ αἱρετικῶν, καὶ εἰς τὴν ἁγίαν Θεοτόκον.
+=59.709=
 αʹ. Πάλιν τῇ παῤῥησίᾳ τοῦ ἁγίου Πνεύματος διασπῶν τὰς σειρὰς τῆς ἀμαθίας
 τὸν διδασκαλικὸν καταλαμβάνω θρόνον, οὐκ αἰδούμενός μου τὴν πτωχείαν·
 φιλόπτωχοι γὰρ ὄντες οἰκτείρετέ με διὰ τὴν τῆς ἀγάπης φιλοτιμίαν. Πένης γὰρ ὢν

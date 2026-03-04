@@ -1,17 +1,19 @@
-#+TITLE: ∆ʹ. Ἰωάννου ταπεινοῦ μοναχοῦ καὶ πρεσβυτέρου τοῦ ∆αμασκηνοῦ, λόγος
+#+TITLE: Homilia in sabbatum sanctum
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Homilia in sabbatum sanctum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-sabbatum-sanctum--john-of-damascus
 #+LANGUAGE: el
 
-* ∆ʹ. Ἰωάννου ταπεινοῦ μοναχοῦ καὶ πρεσβυτέρου τοῦ ∆αμασκηνοῦ, λόγος
+* Homilia in sabbatum sanctum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+∆ʹ. Ἰωάννου ταπεινοῦ μοναχοῦ καὶ πρεσβυτέρου τοῦ ∆αμασκηνοῦ, λόγος
 εἰς τὸ ἅγιον Σάββατον.
 =96.601=
 αʹ. Τίς λαλήσει τὰς δυναστείας τοῦ Κυρίου, ἀκουστὰς ποιήσει πάσας τὰς αἰνέσεις

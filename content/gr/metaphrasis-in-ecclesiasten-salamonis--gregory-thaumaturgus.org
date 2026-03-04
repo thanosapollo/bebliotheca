@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΑΥΜΑΤΟΥΡΓΟΥ ΜΕΤΑΦΡΑΣΙΣ ΕΙΣ ΤΟΝ ΕΚΚΛΗΣΙΑΣΤΗΝ ΤΟΥ ΣΟΛΟΜΩΝΤΟΣ. ΚΕΦΑΛ. Αʹ.
+#+TITLE: Metaphrasis in Ecclesiasten Salamonis
 #+AUTHOR: Γρηγόριος Θαυματουργός
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Metaphrasis in Ecclesiasten Salamonis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/metaphrasis-in-ecclesiasten-salamonis--gregory-thaumaturgus
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΑΥΜΑΤΟΥΡΓΟΥ ΜΕΤΑΦΡΑΣΙΣ ΕΙΣ ΤΟΝ ΕΚΚΛΗΣΙΑΣΤΗΝ ΤΟΥ ΣΟΛΟΜΩΝΤΟΣ. ΚΕΦΑΛ. Αʹ.
+* Metaphrasis in Ecclesiasten Salamonis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΑΥΜΑΤΟΥΡΓΟΥ
+ΜΕΤΑΦΡΑΣΙΣ ΕΙΣ ΤΟΝ ΕΚΚΛΗΣΙΑΣΤΗΝ ΤΟΥ ΣΟΛΟΜΩΝΤΟΣ.
+ΚΕΦΑΛ. Αʹ.
 Τάδε λέγει Σαλομὼν, ὁ τοῦ ∆αβὶδ βασιλέως καὶ προφήτου παῖς ἁπάσῃ τῇ τοῦ
 Θεοῦ Ἐκκλησίᾳ, παρὰ 989 πάντας ἀνθρώπους βασιλεὺς ἐντιμότατος, καὶ προ φήτης
 σοφώτατος. Ὡς κενὰ καὶ ἀνόνητα τὰ τῶν ἀνθρώπων πράγματά τε καὶ σπουδάσματα,

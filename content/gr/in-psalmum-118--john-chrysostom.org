@@ -1,17 +1,21 @@
-#+TITLE: ΕΙΣ ΤΟΝ ΡΙΗʹ ΨΑΛΜΟΝ, Ητοι τὸν ἄμωμον. Στάσις αʹ. 55.675
+#+TITLE: In Psalmum 118
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Psalmum 118
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-psalmum-118--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ ΡΙΗʹ ΨΑΛΜΟΝ, Ητοι τὸν ἄμωμον. Στάσις αʹ. 55.675
+* In Psalmum 118
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ ΡΙΗʹ ΨΑΛΜΟΝ,
+Ητοι τὸν ἄμωμον. Στάσις αʹ.
+=55.675=
 αʹ. Μέγα θησαύρισμα καὶ πλοῦτον πνευματικὸν καὶ ψυχῶν θυμηρεστάτην
 λυσιτέλειαν πρός τε τὴν τοῦ Θεοῦ αἴνεσιν καὶ δοξολογίαν, καὶ τοῦ βίου ἡμῶν
 ἀσφάλειαν καὶ ὑποτύπωσιν ἀγαθῶν ἔργων, κατὰ ἀνακύκλησιν τῆς ἑβδομάδος τῇ πρώτῃ

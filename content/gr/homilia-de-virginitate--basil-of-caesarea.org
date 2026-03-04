@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ ΠΕΡΙ ΠΑΡΘΕΝΙΑΣ.
+#+TITLE: Homilia de virginitate
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia de virginitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-de-virginitate--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΠΕΡΙ ΠΑΡΘΕΝΙΑΣ.
+* Homilia de virginitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΠΕΡΙ ΠΑΡΘΕΝΙΑΣ.
 1.1 Ἕκαστος ἡμῶν τὸ αὐτεξούσιον λαβὼν παρὰ τοῦ θεοῦ, ὡς ὁ ἅγιος Παῦλός
 φησιν ἐν τῇ πρώτῃ πρὸς Κορινθίους, ἐξουσίαν ἔχει ἕκα στος τοῦ ἰδίου θελήματος. 1.2
 Καὶ ὃς μὲν κέκρικε τῇ ἑαυ τοῦ καρδίᾳ τηρεῖν τὴν ἑαυτοῦ παρθένον, καλῶς ποι ήσει,

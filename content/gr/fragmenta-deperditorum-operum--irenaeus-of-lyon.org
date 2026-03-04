@@ -1,17 +1,19 @@
-#+TITLE: 1 Ὁρκίζω σε τὸν μεταγραψόμενον τὸ βιβλίον τοῦτο, κατὰ τοῦ Κυρίου ἡμῶν Ἰησοῦ
+#+TITLE: Fragmenta deperditorum operum
 #+AUTHOR: Εἰρηναῖος Λυών
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Fragmenta deperditorum operum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-deperditorum-operum--irenaeus-of-lyon
 #+LANGUAGE: el
 
-* 1 Ὁρκίζω σε τὸν μεταγραψόμενον τὸ βιβλίον τοῦτο, κατὰ τοῦ Κυρίου ἡμῶν Ἰησοῦ
+* Fragmenta deperditorum operum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Ὁρκίζω σε τὸν μεταγραψόμενον τὸ βιβλίον τοῦτο, κατὰ τοῦ Κυρίου ἡμῶν Ἰησοῦ
 Χριστοῦ, καὶ κατὰ τῆς ἐνδόξου παρουσίας αὐτοῦ, ἧς ἔρχεται κρῖναι ζῶντας καὶ
 νεκροὺς, ἵνα ἀντιβάλης ὃ μετεγράψω, καὶ κατορθώσῃς αὐτὸ πρὸς ἀντίγραφον τοῦτο,
 ὅθεν μετεγράψω, ἐπιμελῶς· καὶ τὸν ὅρκον τοῦτον ὁμοίως μεταγράψῃς, καὶ θήσεις ἐν

@@ -1,17 +1,20 @@
-#+TITLE: 28.845 ΤΟΥ ΜΕΓΑΛΟΥ ΑΘΑΝΑΣΙΟΥ ∆ΙΑΤΥΠΩΣΙΣ ΤΩΝ ΘΕΛΟΝΤΩΝ ΕΝ ΗΣΥΧΙΑ ∆ΙΑΓΕΙΝ.
+#+TITLE: Vitae monasticae institutio
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Vitae monasticae institutio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/vitae-monasticae-institutio--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* 28.845 ΤΟΥ ΜΕΓΑΛΟΥ ΑΘΑΝΑΣΙΟΥ ∆ΙΑΤΥΠΩΣΙΣ ΤΩΝ ΘΕΛΟΝΤΩΝ ΕΝ ΗΣΥΧΙΑ ∆ΙΑΓΕΙΝ.
+* Vitae monasticae institutio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΜΕΓΑΛΟΥ ΑΘΑΝΑΣΙΟΥ ∆ΙΑΤΥΠΩΣΙΣ ΤΩΝ ΘΕΛΟΝΤΩΝ ΕΝ ΗΣΥΧΙΑ
+∆ΙΑΓΕΙΝ.
 Τοιοῦτος ὁ μοναχὸς, καὶ οὕτω χρὴ εἶναι τὸν μοναχὸν, ἀπεχόμενον ἀπὸ γηΐνων
 πραγμάτων· οὐ μὴν δὲ ἀλλὰ καὶ Χριστοῦ στρατιώτην, ἄϋλον, ἀμέριμνον, πάσης
 πραγματευτικῆς ἐννοίας καὶ πράξεως ἐκτός. Ἐν τούτοις ἤτω ὁ μοναχὸς, μάλιστα ὁ

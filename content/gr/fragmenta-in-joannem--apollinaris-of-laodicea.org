@@ -1,17 +1,19 @@
-#+TITLE: Jo 1, 1
+#+TITLE: Fragmenta in Joannem
 #+AUTHOR: Ἀπολινάριος Λαοδικείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in Joannem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-joannem--apollinaris-of-laodicea
 #+LANGUAGE: el
 
-* Jo 1, 1
+* Fragmenta in Joannem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Jo 1, 1
 Ὥστε μὴ ἐκ τῆς ἀνθρωπίνης–ἄνευ τινὸς προσθήκης καὶ ὁρισμοῦ. 2 Jο 1, 14 Οὐ
 γὰρ δὴ μεταβολὴν τοῦ λόγου τολμήσει τις εἰς σάρκα γεγενημένην ἀκοῦσαι, τὸ δὲ
 σκηνῶσαι αὐτὸν ἐν ἡμῖν τὸ μετὰ ἀνθρώπων ἐστὶ κατοικῆσαι. 3 Jο 1, 15 Γεγονέναι δ'

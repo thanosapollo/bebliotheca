@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ΤΡΙΤΟΣ ΠΕΡΙ ΥΙΟΥ
+#+TITLE: De filio orat 29
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De filio orat 29
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-filio-orat-29--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ΤΡΙΤΟΣ ΠΕΡΙ ΥΙΟΥ
+* De filio orat 29
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ΤΡΙΤΟΣ ΠΕΡΙ ΥΙΟΥ
 1 Ἃ μὲν οὖν εἴποι τις ἂν ἐπικόπτων τὴν περὶ τὸν λόγον αὐτῶν ἑτοιμότητα
 καὶ ταχύτητα, καὶ τὸ τοῦ τάχους ἐπισφαλὲς ἐν πᾶσι μὲν πράγμασι, μάλιστα δὲ ἐν τοῖς
 περὶ θεοῦ λόγοις, ταῦτά ἐστιν. ἐπεὶ δὲ τὸ μὲν ἐπιτιμᾷν οὐ μέγα· ῥᾷστον γὰρ καὶ τοῦ

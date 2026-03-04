@@ -1,17 +1,19 @@
-#+TITLE: 9 Jo 1, 32 Εἰ γὰρ καὶ αἰσθητοῖς ὀφθαλμοῖς δυνατὸν ἦν ἰδεῖν ὡς ἐν εἴδει
+#+TITLE: Fragmenta in Joannem
 #+AUTHOR: Θεόδωρος Ἀναγνώστης
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in Joannem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-joannem--theodorus-lector
 #+LANGUAGE: el
 
-* 9 Jo 1, 32 Εἰ γὰρ καὶ αἰσθητοῖς ὀφθαλμοῖς δυνατὸν ἦν ἰδεῖν ὡς ἐν εἴδει
+* Fragmenta in Joannem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+9 Jo 1, 32 Εἰ γὰρ καὶ αἰσθητοῖς ὀφθαλμοῖς δυνατὸν ἦν ἰδεῖν ὡς ἐν εἴδει
 περιστερᾶς τὸ πνεῦμα κατιόν, ἀλλ' ὅμως οὐ διὰ τοῦτο πᾶσα ἀνάγκη πᾶσι κατάδηλον
 εἶναι τὸ πρᾶγμα.
 12 Jo 2, 1–9 Κατὰ θεωρίαν καταβέβηκεν ἐξ οὐρανῶν ὁ τοῦ θεοῦ λόγος, ἵνα

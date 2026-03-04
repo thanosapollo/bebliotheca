@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ ΙΗʹ. Εἰς Γόρδιον τὸν μάρτυρα.
+#+TITLE: In Gordium martyrem
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Gordium martyrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-gordium-martyrem--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΙΗʹ. Εἰς Γόρδιον τὸν μάρτυρα.
+* In Gordium martyrem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΙΗʹ.
+Εἰς Γόρδιον τὸν μάρτυρα.
 Νόμος ἐστὶ φύσεως ταῖς μελίσσαις μὴ ἀπαίρειν τῶν σίμβλων πρὶν ἂν ὁ
 βασιλεὺς αὐτῶν τῆς πτήσεως ἀφηγήσηται. Ἐπεὶ οὖν καὶ τὸν λαὸν Κυρίου εἶδον νῦν
 πρῶτον ἐπὶ τὰ οὐράνια ἄνθη, τοὺς μάρ τυρας, ἐξιόντα, ζητῶ τὸν ἡγεμόνα. Τίς ὁ

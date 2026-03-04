@@ -1,17 +1,19 @@
-#+TITLE: 544 1Kor 1,1–3 Μὴ γὰρ νομίσητε ὅτι ἐμαυτῷ περιποιούμενος τὸ τῆς διδασκαλίας
+#+TITLE: Fragmenta in epistulam I ad Corinthios
 #+AUTHOR: Φώτιος Κωνσταντινουπόλεως
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam I ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-i-ad-corinthios--photius-of-constantinople
 #+LANGUAGE: el
 
-* 544 1Kor 1,1–3 Μὴ γὰρ νομίσητε ὅτι ἐμαυτῷ περιποιούμενος τὸ τῆς διδασκαλίας
+* Fragmenta in epistulam I ad Corinthios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+544 1Kor 1,1–3 Μὴ γὰρ νομίσητε ὅτι ἐμαυτῷ περιποιούμενος τὸ τῆς διδασκαλίας
 ἀξίωμα, ὑμᾶς μέλλω καθαιρεῖν τῆς ἐπὶ τούτῳ φυσιώσεως· ἰδοὺ γὰρ καὶ Σωσθένην
 ἐμαυτῷ συντάττω, καὶ ἀδελφὸν καλῶ, καὶ σὺν αὐτῷ ἐπιστέλλω κοινοποιούμενος τὰ
 ἐμά. διὰ τί οὖν ὑμᾶς ἐγκόπτω; ὅτι ἐπιβλαβὲς ὑμῶν τὸ ἐπὶ τῇ διδασκαλίᾳ φύσημα·

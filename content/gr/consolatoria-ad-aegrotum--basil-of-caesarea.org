@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ ΠΑΡΑΜΥΘΗΤΙΚΗ ΑΣΘΕΝΟΥΝΤΙ.
+#+TITLE: Consolatoria ad aegrotum
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Consolatoria ad aegrotum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/consolatoria-ad-aegrotum--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ ΠΑΡΑΜΥΘΗΤΙΚΗ ΑΣΘΕΝΟΥΝΤΙ.
+* Consolatoria ad aegrotum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ ΠΑΡΑΜΥΘΗΤΙΚΗ ΑΣΘΕΝΟΥΝΤΙ.
 Πάτερ, εὐλόγησον. Ὁ βίος τῶν ἀνθρώπων βραχὺς, καὶ ὀλιγοχρόνιος τῆς ἐπιμόχθου
 ζωῆς ἡ φαιδρότης, ἱστὸς ἀρά χνης, εὐδιάλυτος ἡ δόξα, ἡ φαντασία τοῦ βίου ὄναρ,
 ἀλλὰ μακαριωτάτη τῶν δικαίων ἡ ἄνεσις. Ἀπέραν τός ἐστιν ἡ ἐν οὐρανοῖς

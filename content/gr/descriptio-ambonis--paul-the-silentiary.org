@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΕΚΦΡΑΣΙΣ ΤΟΥ ΑΜΒΩΝΟΣ ΛΕΧΘΕΙΣΑ Ι∆ΙΑΖΟΝΤΩΣ ΜΕΤΑ ΤΗΝ ΠΡΩΤΗΝ ΠΑΡΟ∆ΟΝ ΤΗΝ ΜΕΓΑΛΗΝ ΕΝ ΤΩΙ ΠΑΤΡΙΑΡΧΕΙΩΙ
+#+TITLE: Descriptio ambonis
 #+AUTHOR: Παῦλος Σιλεντιάριος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Descriptio ambonis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/descriptio-ambonis--paul-the-silentiary
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΕΚΦΡΑΣΙΣ ΤΟΥ ΑΜΒΩΝΟΣ ΛΕΧΘΕΙΣΑ Ι∆ΙΑΖΟΝΤΩΣ ΜΕΤΑ ΤΗΝ ΠΡΩΤΗΝ ΠΑΡΟ∆ΟΝ ΤΗΝ ΜΕΓΑΛΗΝ ΕΝ ΤΩΙ ΠΑΤΡΙΑΡΧΕΙΩΙ
+* Descriptio ambonis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΕΚΦΡΑΣΙΣ ΤΟΥ ΑΜΒΩΝΟΣ ΛΕΧΘΕΙΣΑ Ι∆ΙΑΖΟΝΤΩΣ ΜΕΤΑ
+ΤΗΝ ΠΡΩΤΗΝ ΠΑΡΟ∆ΟΝ ΤΗΝ ΜΕΓΑΛΗΝ ΕΝ ΤΩΙ ΠΑΤΡΙΑΡΧΕΙΩΙ
 Ἔχεις ἅπασαν, ὦ βασιλεῦ, τὴν ἐλπίδα, προσθεὶς τὸ λεῖπον τῶι νεῶι τῶι
 παγκάλωι. οὐκοῦν, ἄριστοι, προσφόρως καὶ νῦν ἐγὼ ἥκω τὸ λεῖπον προστιθεὶς τῶι
 βιβλίωι. καλὸν γὰρ ἂν εἴη τοὺς λόγους τῶι δεσπότηι συνδημιουργεῖν τὸν νεὼν τὸν

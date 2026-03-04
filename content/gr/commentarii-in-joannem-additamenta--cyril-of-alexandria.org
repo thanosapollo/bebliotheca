@@ -1,17 +1,19 @@
-#+TITLE: 1 Jo 10, 17 Ἐπειδὴ ὡς θεὸς εἰδὼς τὰς ἐνθυμήσεις τῶν Ἰουδαίων ἑώρα δὲ
+#+TITLE: Commentarii in Joannem Additamenta
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Commentarii in Joannem Additamenta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-joannem-additamenta--cyril-of-alexandria
 #+LANGUAGE: el
 
-* 1 Jo 10, 17 Ἐπειδὴ ὡς θεὸς εἰδὼς τὰς ἐνθυμήσεις τῶν Ἰουδαίων ἑώρα δὲ
+* Commentarii in Joannem Additamenta
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Jo 10, 17 Ἐπειδὴ ὡς θεὸς εἰδὼς τὰς ἐνθυμήσεις τῶν Ἰουδαίων ἑώρα δὲ
 αὐτοὺς καταγελῶντας ἐφ' οἷς ἔλεγεν ὑπεραποθνῄσκειν τῶν προβάτων, δείκνυσιν
 αὐτοὺς ἐκ τῶν λεγομένων τοσοῦτον ὄντας ἀσεβεῖς ὡς καὶ καταγελᾶν ἐκείνων ἅπερ
 πάνυ ἀγαπᾷ ὁ θεὸς καὶ πατήρ, ἐπειδὴ καὶ οὕτως ἑώρα ἀθόλωτον μένουσαν ἐν τῷ

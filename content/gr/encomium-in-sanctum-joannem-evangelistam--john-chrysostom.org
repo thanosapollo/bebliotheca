@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐγκώμιον εἰς τὸν
+#+TITLE: Encomium in sanctum Joannem evangelistam
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Encomium in sanctum Joannem evangelistam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/encomium-in-sanctum-joannem-evangelistam--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐγκώμιον εἰς τὸν
+* Encomium in sanctum Joannem evangelistam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐγκώμιον εἰς τὸν
 ἅγιον Ἰωάννην τὸν Εὐαγγελιστήν.
 Πάλιν ἡμῖν ἐξ οὐρανοῦ ἐπεδήμησεν ὁ μέγας καὶ μόνος θεολόγος Ἰωάννης·
 πάλιν Θεὸν Λόγον ἀνακηρύττει καὶ τὴν οἰκουμένην ἅπασαν εἰς οὐρανοὺς

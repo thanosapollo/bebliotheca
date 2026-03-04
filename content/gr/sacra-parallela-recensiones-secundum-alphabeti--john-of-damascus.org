@@ -1,17 +1,20 @@
-#+TITLE: quae tres libros conflant) (fragmenta e cod. Vat. gr. 1236) ΠΡΟΛΟΓΟΣ ΤΩΝ ΠΑΡΑΛΛΗΛΩΝ. Κτῆμα τίμιον ἡ ἀρετὴ, Θεῷ συνάπτουσα, καὶ βασιλείας οὐρανῶν
+#+TITLE: Sacra parallela recensiones secundum alphabeti
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Sacra parallela recensiones secundum alphabeti
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sacra-parallela-recensiones-secundum-alphabeti--john-of-damascus
 #+LANGUAGE: el
 
-* quae tres libros conflant) (fragmenta e cod. Vat. gr. 1236) ΠΡΟΛΟΓΟΣ ΤΩΝ ΠΑΡΑΛΛΗΛΩΝ. Κτῆμα τίμιον ἡ ἀρετὴ, Θεῷ συνάπτουσα, καὶ βασιλείας οὐρανῶν
+* Sacra parallela recensiones secundum alphabeti
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΛΟΓΟΣ ΤΩΝ ΠΑΡΑΛΛΗΛΩΝ.
+Κτῆμα τίμιον ἡ ἀρετὴ, Θεῷ συνάπτουσα, καὶ βασιλείας οὐρανῶν
 προξενοῦσα. Πορισμὸς δὲ ταύτης ἡ τῶν θείων ἐντολῶν τήρησις γίνεται. Φησὶ γὰρ ὁ
 Κύριος ἐν ἐπαγγελίαις πρὸς τὸν ἐν Αἰγύπτῳ λαόν· Ἐὰν ἀκούσητέ μου, καὶ φυλάξητε
 τὰς ἐντολάς μου, ἔσεσθέ μοι λαὸς περιούσιος, βασίλειον ἱεράτευμα, ἔθνος ἅγιον. Καὶ

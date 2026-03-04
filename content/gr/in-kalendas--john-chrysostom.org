@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ λόγος ἐν ταῖς καλάνδαις, μὴ προελθόντος τοῦ ἐπισκόπου
+#+TITLE: In Kalendas
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Kalendas
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-kalendas--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ λόγος ἐν ταῖς καλάνδαις, μὴ προελθόντος τοῦ ἐπισκόπου
+* In Kalendas
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ λόγος ἐν ταῖς καλάνδαις, μὴ προελθόντος τοῦ ἐπισκόπου
 Ἀντιοχείας Φλαβιανοῦ. Ἐλέχθη δὲ κατὰ τῶν παρατηρούντων τὰς
 νεομηνίας, καὶ κατὰ τὴν πόλιν χορείας τελούντων, καὶ εἰς τὸ ῥητὸν τοῦ
 Ἀποστόλου· Τὰ πάντα εἰς δόξαν Θεοῦ ποιεῖτε.

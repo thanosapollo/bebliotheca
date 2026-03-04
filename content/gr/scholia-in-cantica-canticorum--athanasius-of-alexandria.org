@@ -1,17 +1,19 @@
-#+TITLE: Ἐπ' ἀγέλαις ἑταίρων σου ὡς ῥεμβομένη. Αὐτὸς πρὸς αὐτήν·Γνῶθι σεαυτὴν πρῶτον,
+#+TITLE: Scholia in cantica canticorum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Scholia in cantica canticorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/scholia-in-cantica-canticorum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Ἐπ' ἀγέλαις ἑταίρων σου ὡς ῥεμβομένη. Αὐτὸς πρὸς αὐτήν·Γνῶθι σεαυτὴν πρῶτον,
+* Scholia in cantica canticorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἐπ' ἀγέλαις ἑταίρων σου ὡς ῥεμβομένη. Αὐτὸς πρὸς αὐτήν·Γνῶθι σεαυτὴν πρῶτον,
 ἵνα καὶ ἐμὲ γνῶναι δυνηθῇς. Ἐὰν μὴ γνῷς ἑαυτήν· εἰ οὐκ ἔγνως· εἰ μὴ οἶδας, ἔξελθε
 σὺ ἐν πτέρναις κατ' ἴχνη, καὶ ποίμαινε τὰς ἐρίφους σου· καὶ θρέψῃς ἁμαρτίας ἀντὶ
 ἀρετῶν. Ἐπὶ σκηνώμασι τῶν ποιμένων· ἐν ταῖς ἐπιθυμίαις τῶν ἐναντίων δυνάμεων

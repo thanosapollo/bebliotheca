@@ -1,6 +1,7 @@
-#+TITLE: ΙΣΤΟΡΙΑ ΧΡΟΝΙΚΗ. 1 Exc. Salmasii in Crameri Anecd. Par. II: Ἀρχαιολογία Ἰωάννου Ἀντιοχέως, ἔχουσα καὶ διασάφησιν τῶν μυθευομένων.
+#+TITLE: HISTORIA CHRONIKE
 #+AUTHOR: Ἰωάννης Ἀντιοχείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: HISTORIA CHRONIKE
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

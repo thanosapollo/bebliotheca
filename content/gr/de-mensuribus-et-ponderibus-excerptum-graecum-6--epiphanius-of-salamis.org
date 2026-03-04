@@ -1,17 +1,19 @@
-#+TITLE: ̓Επιφανίου, ἐπισκόπου Κύπρου, ἐκ τοῦ λόγου τοῦ Περὶ μέτρων καὶ
+#+TITLE: De mensuribus et ponderibus Excerptum Graecum 6
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De mensuribus et ponderibus Excerptum Graecum 6
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-mensuribus-et-ponderibus-excerptum-graecum-6--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* ̓Επιφανίου, ἐπισκόπου Κύπρου, ἐκ τοῦ λόγου τοῦ Περὶ μέτρων καὶ
+* De mensuribus et ponderibus Excerptum Graecum 6
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Επιφανίου, ἐπισκόπου Κύπρου, ἐκ τοῦ λόγου τοῦ Περὶ μέτρων καὶ
 σταθμῶν
 43 Εἴκοσι γὰρ καὶ δύο ἔργα, ὦ φιλόκαλε, ὁ Θεὸς ἐποίησεν ἀπ' ἀρχῆς ἄχρι τῆς
 ἑβδόμης ἡμέρας, ἅτινά ἐστι τάδε· τῇ πρώτῃ ἡμέρᾳ τὸν οὐρανὸν τὸν ἀνώτερον, τὴν

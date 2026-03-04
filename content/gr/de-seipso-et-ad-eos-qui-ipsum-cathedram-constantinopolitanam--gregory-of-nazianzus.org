@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ Λ ʹ.
+#+TITLE: De seipso et ad eos qui ipsum cathedram Constantinopolitanam
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De seipso et ad eos qui ipsum cathedram Constantinopolitanam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-seipso-et-ad-eos-qui-ipsum-cathedram-constantinopolitanam--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ Λ ʹ.
+* De seipso et ad eos qui ipsum cathedram Constantinopolitanam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Λ ʹ.
 Εἰς ἑαυτὸν, καὶ πρὸς τοὺς λέγοντας ἐπιθυμεῖν αὐτὸν τῆς καθέδρας
 Κωνσταντινουπόλεως, καὶ εἰς τὴν τοῦ λαοῦ προθυμίαν, ἣν ἐπεδείξαντο εἰς αὐτόν.
 Αʹ. Ἐγὼ θαυμάζω, τί ποτέ ἐστιν ὃ πρὸς τοὺς ἐμοὺς πεπόνθατε λόγους, καὶ

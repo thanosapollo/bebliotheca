@@ -1,17 +1,20 @@
-#+TITLE: Περὶ Νηστείας. 61.787
+#+TITLE: De jejunio
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De jejunio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-jejunio--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ Νηστείας. 61.787
+* De jejunio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ Νηστείας.
+=61.787=
 Σάλπιγγος ὑψηλότερα βοῶ τὴν φωνὴν ἀνυψῶν, οὐχ ἵνα τέρψει ἡδονῆς τὴν
 ἀκοὴν ἀπατήσω, ἀλλ' ἵνα λέξει τῆς ἀληθείας τὴν ἡδονὴν σβέσω· καὶ παύσω μὲν ἀπὸ
 λόγου τὴν τῆς γαστρὸς ἐπιθυμίαν, ἐξεγερῶ δὲ διὰ πόθου τὴν τῆς νηστείας ἐργασίαν.

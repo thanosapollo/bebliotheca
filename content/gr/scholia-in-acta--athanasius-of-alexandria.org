@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἁγίου Ἀθανασίου ἐκ τοῦ πρὸς Νουατιανοὺς βʹ λόγου.
+#+TITLE: Scholia in Acta
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Scholia in Acta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/scholia-in-acta--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου Ἀθανασίου ἐκ τοῦ πρὸς Νουατιανοὺς βʹ λόγου.
+* Scholia in Acta
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου Ἀθανασίου ἐκ τοῦ πρὸς Νουατιανοὺς βʹ λόγου.
 Εἰ ἔμενε, φησὶν, ὑμῖν ἔμενε, καὶ πραθὲν ἐν τῇ ὑμετέρᾳ ἐξουσίᾳ ἦν. Ἐπειδὴ δὲ, φησὶν,
 ἐπεχειρήσατε πειράσαι τὸ Πνεῦμα τὸ ἅγιον, καὶ εἰς τοῦτο συνεφωνήσατε, λήψεσθε
 πεῖραν οὗ ἠθελήσατε. Σωφρονισθήσονται δὴ, καὶ φοβηθήσονται καὶ ἄλλοι πειράσαι,

@@ -1,17 +1,19 @@
-#+TITLE: ΠΡΟΚΛΟΥ ∆ΙΑ∆ΟΧΟΥ ΣΤΟΙΧΕΙΩΣΙΣ ΘΕΟΛΟΓΙΚΗ.
+#+TITLE: Institutio theologica
 #+AUTHOR: Πρόκλος Κωνσταντινουπόλεως
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Institutio theologica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/institutio-theologica--proclus-of-constantinople
 #+LANGUAGE: el
 
-* ΠΡΟΚΛΟΥ ∆ΙΑ∆ΟΧΟΥ ΣΤΟΙΧΕΙΩΣΙΣ ΘΕΟΛΟΓΙΚΗ.
+* Institutio theologica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΚΛΟΥ ∆ΙΑ∆ΟΧΟΥ ΣΤΟΙΧΕΙΩΣΙΣ ΘΕΟΛΟΓΙΚΗ.
 1 Πᾶν πλῆθος μετέχει πῃ τοῦ ἑνός. εἰ γὰρ μηδαμῇ μετέχοι, οὔτε τὸ ὅλον ἓν ἔσται οὔθ'
 ἕκαστον τῶν πολλῶν ἐξ ὧν τὸ πλῆθος, ἀλλ' ἔσται καὶ ἐκείνων ἕκαστον πλῆθος, καὶ
 τοῦτο εἰς ἄπειρον, καὶ τῶν ἀπείρων τούτων ἕκαστον ἔσται πάλιν πλῆθος ἄπειρον.

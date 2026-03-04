@@ -1,17 +1,21 @@
-#+TITLE: ΛΟΓΟΣ Γʹ. Πρὸς τοὺς καλέσαντας, καὶ μὴ ἀπαντήσαντας. 35.517
+#+TITLE: Ad eos qui ipsum acciverant nec occurrerant
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ad eos qui ipsum acciverant nec occurrerant
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-eos-qui-ipsum-acciverant-nec-occurrerant--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ Γʹ. Πρὸς τοὺς καλέσαντας, καὶ μὴ ἀπαντήσαντας. 35.517
+* Ad eos qui ipsum acciverant nec occurrerant
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Γʹ.
+Πρὸς τοὺς καλέσαντας, καὶ μὴ ἀπαντήσαντας.
+=35.517=
 Αʹ. Πῶς βραδεῖς ἐπὶ τὸν ἡμέτερον λόγον, ὦ φίλοι καὶ ἀδελφοὶ, καίτοι γε
 ταχεῖς εἰς τὸ τυραννῆσαι, καὶ τῆς ἡμετέρας ἀκροπόλεως ἀποσπᾶσαι τῆς ἐρημίας, ἣν
 ἐγὼ πάντων μάλιστα ἠσπασάμην, καὶ ὡς συνεργὸν καὶ μητέρα τῆς θείας ἀναβάσεως,

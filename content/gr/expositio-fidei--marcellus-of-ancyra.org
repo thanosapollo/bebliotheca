@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ Ἀθανασίου, ἀρχιεπισκόπου Ἀλεξανδρείας, ἔκθεσις πίστεως.
+#+TITLE: Expositio fidei
 #+AUTHOR: Μάρκελλος Ἀγκύρας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Expositio fidei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/expositio-fidei--marcellus-of-ancyra
 #+LANGUAGE: el
 
-* Τοῦ Ἀθανασίου, ἀρχιεπισκόπου Ἀλεξανδρείας, ἔκθεσις πίστεως.
+* Expositio fidei
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ Ἀθανασίου, ἀρχιεπισκόπου Ἀλεξανδρείας, ἔκθεσις πίστεως.
 1.1 Πιστεύομεν εἰς ἕνα ἀγέννητον θεόν, πατέρα παντοκράτορα, πάντων ποιητὴν
 ὁρατῶν τε καὶ ἀοράτων, τὸν ἔχοντα ἀφ' ἑαυτοῦ τὸ εἶναι. 1.2 καὶ εἰς ἕνα μονογενῆ
 λόγον, σοφίαν, υἱόν, ἐκ τοῦ πατρὸς ἀνάρχως καὶ ἀϊδίως γεγεννημένον, λόγον δὲ οὐ

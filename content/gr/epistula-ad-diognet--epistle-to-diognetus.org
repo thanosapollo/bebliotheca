@@ -1,17 +1,19 @@
-#+TITLE: ΠΡOΣ ∆IOΓΝHΤOΝ
+#+TITLE: Epistula ad Diognet
 #+AUTHOR: Πρὸς Διόγνητον
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Epistula ad Diognet
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-diognet--epistle-to-diognetus
 #+LANGUAGE: el
 
-* ΠΡOΣ ∆IOΓΝHΤOΝ
+* Epistula ad Diognet
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡOΣ ∆IOΓΝHΤOΝ
 Ἐπειδὴ ὁρῶ, κράτιστε ∆ιόγνητε, ὑπερεσπουδακότα σε τὴν θεοσέβειαν τῶν
 Χριστιανῶν μαθεῖν καὶ πάνυ σαφῶς καὶ ἐπιμελῶς πυνθανόμενον περὶ αὐτῶν, τίνι τε
 Θεῷ πεποιθότες καὶ πῶς θρησκεύοντες αὐτὸν τόν τε κόσμον ὑπερορῶσι πάντες καὶ

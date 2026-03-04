@@ -1,17 +1,20 @@
-#+TITLE: Στίχοι τοῦ μεγάλου λογαριαστοῦ ἐπιτύμβιοι εἰς τὴν δέσποιναν Κομνηνὴν κυρὰν Εἰρήνην.
+#+TITLE: Epitaphius in Irenam imperatricem
 #+AUTHOR: Γεώργιος Ἀκροπολίτης
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: Epitaphius in Irenam imperatricem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epitaphius-in-irenam-imperatricem--george-acropolites
 #+LANGUAGE: el
 
-* Στίχοι τοῦ μεγάλου λογαριαστοῦ ἐπιτύμβιοι εἰς τὴν δέσποιναν Κομνηνὴν κυρὰν Εἰρήνην.
+* Epitaphius in Irenam imperatricem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Στίχοι τοῦ μεγάλου λογαριαστοῦ ἐπιτύμβιοι εἰς τὴν δέσποιναν
+Κομνηνὴν κυρὰν Εἰρήνην.
 Ἐμὸν βλέπων ἐνταῦθα τάφον, ὦ ξένε, Μὴ παροδεύσῃς τοῦτον ὡς κοινὸν
 τάφον, Κρύπτει γὰρ ἔνδον οὐκ ἀνώνυμον νέκυν, Οὐ τὴν τύχην ἄδοξον, οὐ τὴν ἀξίαν,
 Οὐ τῶν ἀφανῶν οὐδὲ τῶν ἐρριμμένων. Ἀλλὰ μαθὼν ἥτις τε κἀκ τίνων ἔφυν,

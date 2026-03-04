@@ -1,17 +1,19 @@
-#+TITLE: αʹ. Περὶ δὲ τοῦ τὸν Ματθαῖον ἄνωθεν κατάγειν τὰς διαδοχὰς, τὸν δὲ Λουκᾶν
+#+TITLE: Supplementa ad quaestiones ad Stephanum
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Supplementa ad quaestiones ad Stephanum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/supplementa-ad-quaestiones-ad-stephanum--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* αʹ. Περὶ δὲ τοῦ τὸν Ματθαῖον ἄνωθεν κατάγειν τὰς διαδοχὰς, τὸν δὲ Λουκᾶν
+* Supplementa ad quaestiones ad Stephanum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+αʹ. Περὶ δὲ τοῦ τὸν Ματθαῖον ἄνωθεν κατάγειν τὰς διαδοχὰς, τὸν δὲ Λουκᾶν
 ἀνάπαλιν πεποιηκέναι, μίαν καὶ τὴν αὐτὴν ὁδὸν πορευθέντας, οὐδὲν ἐπιμέμφεσθαι
 δεῖ· ἐπεὶ καὶ τοὺς ἀνάντη καὶ ὄρθιον πορείαν ἀνιόντας, καὶ τοὺς ἔμπαλιν διὰ τῆς
 αὐτῆς κατιόντας, οὐκ ἄν τις ἑτέραν φαίη βαδίζειν, μιᾶς ἀμφοτέροις κειμένης τοῖς τε

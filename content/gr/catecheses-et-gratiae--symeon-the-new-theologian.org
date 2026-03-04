@@ -1,17 +1,22 @@
-#+TITLE: ΠΕΡΙΕΧΟΜΕΝΑ ΤΟΥ ΟΣΙΟΥ ΚΑΙ ΜΕΓΑΛΟΥ ΠΑΤΡΟΣ ΗΜΩΝ ΣΥΜΕΩΝ ΤΟΥ ΝΕΟΥ ΘΕΟΛΟΓΟΥ ΠΡΕΣΒΥΤΕΡΟΥ ΚΑΙ ΗΓΟΥΜΕΝΟΥ ΜΟΝΗΣ ΤΟΥ ΑΓΙΟΥ ΜΑΜΑΝΤΟΣ ΤΗΣ
+#+TITLE: Catecheses et Gratiae
 #+AUTHOR: Συμεὼν ὁ Νέος Θεολόγος
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Catecheses et Gratiae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/catecheses-et-gratiae--symeon-the-new-theologian
 #+LANGUAGE: el
 
-* ΠΕΡΙΕΧΟΜΕΝΑ ΤΟΥ ΟΣΙΟΥ ΚΑΙ ΜΕΓΑΛΟΥ ΠΑΤΡΟΣ ΗΜΩΝ ΣΥΜΕΩΝ ΤΟΥ ΝΕΟΥ ΘΕΟΛΟΓΟΥ ΠΡΕΣΒΥΤΕΡΟΥ ΚΑΙ ΗΓΟΥΜΕΝΟΥ ΜΟΝΗΣ ΤΟΥ ΑΓΙΟΥ ΜΑΜΑΝΤΟΣ ΤΗΣ
+* Catecheses et Gratiae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΕΡΙΕΧΟΜΕΝΑ
+ΤΟΥ ΟΣΙΟΥ ΚΑΙ ΜΕΓΑΛΟΥ ΠΑΤΡΟΣ ΗΜΩΝ
+ΣΥΜΕΩΝ ΤΟΥ ΝΕΟΥ ΘΕΟΛΟΓΟΥ
+ΠΡΕΣΒΥΤΕΡΟΥ ΚΑΙ ΗΓΟΥΜΕΝΟΥ ΜΟΝΗΣ ΤΟΥ ΑΓΙΟΥ ΜΑΜΑΝΤΟΣ ΤΗΣ
 ΞΗΡΟΚΕΡΚΟΥ
 ΕΡΓΑ
 ΤΟΜΟΣ ΠΡΩΤΟΣ (Α’)

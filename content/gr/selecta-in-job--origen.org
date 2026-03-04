@@ -1,17 +1,20 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΙΩΒ. 12.1032 ΚΕΦ. Αʹ.
+#+TITLE: Selecta in Job
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Selecta in Job
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/selecta-in-job--origen
 #+LANGUAGE: el
 
-* ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΙΩΒ. 12.1032 ΚΕΦ. Αʹ.
+* Selecta in Job
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΙΩΒ.
+=12.1032= ΚΕΦ. Αʹ.
 Οἱ ἱππεῖς ἐποίησαν ἡμῖν κεφαλὰς τρεῖς καὶ ἐκύκλωσαν τὰς καμήλους. Τὰς μὲν οὖν
 καμήλους πεποίηκε γενέσθαι ὑπὸ τοὺς ἱππεῖς· τὰς ὄνους δὲ καὶ τὰ ζεύγη τῶν βοῶν
 ὑπὸ τοὺς αἰχμαλωτίζοντας· τὰ πρόβατα δὲ ἐμίσει· διὰ τοῦτο πῦρ ἐπ' αὐτὰ κατήγα γεν·

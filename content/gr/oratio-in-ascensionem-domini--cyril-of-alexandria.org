@@ -1,6 +1,7 @@
-#+TITLE: Τοῦ ἁγίου Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας εἰς τὴν ἀνάληψιν
+#+TITLE: Oratio in ascensionem domini
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Oratio in ascensionem domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

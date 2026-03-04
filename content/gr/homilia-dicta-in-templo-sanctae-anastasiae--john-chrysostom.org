@@ -1,17 +1,21 @@
-#+TITLE: ΟΜΙΛΙΑ Ζʹ. 63.493 Ὁμιλία λεχθεῖσα ἐν τῷ ναῷ τῆς ἁγίας Ἀναστασίας.
+#+TITLE: Homilia dicta in templo sanctae Anastasiae
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia dicta in templo sanctae Anastasiae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-dicta-in-templo-sanctae-anastasiae--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Ζʹ. 63.493 Ὁμιλία λεχθεῖσα ἐν τῷ ναῷ τῆς ἁγίας Ἀναστασίας.
+* Homilia dicta in templo sanctae Anastasiae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Ζʹ.
+=63.493=
+Ὁμιλία λεχθεῖσα ἐν τῷ ναῷ τῆς ἁγίας Ἀναστασίας.
 αʹ. Βραχὺς μὲν τῶν παρόντων ὁ σύλλογος, μέγας δὲ ὁ πόθος· διόπερ οὐδὲ ὁ
 σύλλογος βραχύς. Οὐ γὰρ πλήθη σωμάτων ἐπιζητοῦμεν, ἀλλὰ γνώμην
 παρεσκευασμένην, διάνοιαν ἐπτερωμένην, ἀκροατὴν ὑψηλότερον γινόμενον τῶν

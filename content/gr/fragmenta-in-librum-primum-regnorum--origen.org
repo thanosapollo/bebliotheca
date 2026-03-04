@@ -1,17 +1,19 @@
-#+TITLE: 1 Ἐπειδὴ ἔμελλεν ἡ θεία γραφὴ τὴν ἀπώλειαν τῶν υἱῶν Ἠλὶ προλέγειν, ὅτι τε ἡ
+#+TITLE: Fragmenta in librum primum Regnorum
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmenta in librum primum Regnorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-librum-primum-regnorum--origen
 #+LANGUAGE: el
 
-* 1 Ἐπειδὴ ἔμελλεν ἡ θεία γραφὴ τὴν ἀπώλειαν τῶν υἱῶν Ἠλὶ προλέγειν, ὅτι τε ἡ
+* Fragmenta in librum primum Regnorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Ἐπειδὴ ἔμελλεν ἡ θεία γραφὴ τὴν ἀπώλειαν τῶν υἱῶν Ἠλὶ προλέγειν, ὅτι τε ἡ
 κιβωτὸς τοῦ θεοῦ ληφθήσεται ὑπὸ τῶν ἀλλο φύλων, προλαβοῦσα θεραπεύει τὴν
 ἀκοήν, μήποτέ τις οἰηθῇ σκληρὸν εἶναι τὸν θεόν. διὰ τοῦτο, ὡς ἔφην, ἱστορεῖ ὡς οὐκ
 ἠλαττώθη τῶν υἱῶν Ἠλὶ ἡ κακία καὶ ἡ ἁμαρτία διὰ τῆς ἀπειλῆς καὶ τῆς κατ' αὐ τῶν

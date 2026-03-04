@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΕΝΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ.
+#+TITLE: Epistula ad monachos
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad monachos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-monacho1--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ.
+* Epistula ad monachos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ.
 Τοῖς τὸν μονήρη βίον ἀσκοῦσι, καὶ ἐν πίστει Θεοῦ ἱδρυμένοις, ἀγαπητοῖς
 καὶ ποθεινοτάτοις ἀδελφοῖς ἐν Κυρίῳ χαίρειν.
 =26.1188= Εὐχαριστῶ μὲν τῷ Κυρίῳ, τῷ δόντι ὑμῖν εἰς αὐτὸν πιστεῦσαι, ἵνα μετὰ τῶν

@@ -1,17 +1,19 @@
-#+TITLE: Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὴν ἁγίαν
+#+TITLE: In sanctam parasceven
 #+AUTHOR: Λέων Πρεσβύτερος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: In sanctam parasceven
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctam-parasceven--leo-presbyter
 #+LANGUAGE: el
 
-* Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὴν ἁγίαν
+* In sanctam parasceven
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὴν ἁγίαν
 παρασκευὴν καὶ εἰς τὸ πάθος τοῦ Χριστοῦ καὶ εἰς τὸν δίκαιον Ἰώβ
 Μεγάλα τῆς προσευχῆς τὰ χαρίσματα, ἀνεξάλειπτα ταύτης τὰ κατορθώματα.
 Ὅπου δ' ἄν τις περιστρέψῃ τὸ τῆς διανοίας ὄμμα, οὐδὲ προσευχῆς τιμιώτερον εὑρήσει.

@@ -1,17 +1,20 @@
-#+TITLE: Ἑρμηνεία εἰς τὸ, "Πάτερ ἡμῶν" 59.627
+#+TITLE: Interpretatio orationis Pater noster
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Interpretatio orationis Pater noster
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/interpretatio-orationis-pater-noster--john-chrysostom
 #+LANGUAGE: el
 
-* Ἑρμηνεία εἰς τὸ, "Πάτερ ἡμῶν" 59.627
+* Interpretatio orationis Pater noster
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἑρμηνεία εἰς τὸ, "Πάτερ ἡμῶν"
+=59.627=
 Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς. Πατέρα λέγεις, ἄνθρωπε, τὸν Θεόν; Καλῶς
 λέγεις. Ἔστι γὰρ Πατὴρ πάντων. Ἀλλὰ σπεῦδε ἐργάζεσθαι ἔργα ἀρέσκοντα τῷ Πατρί
 σου. Εἰ δὲ κακὰ ποιεῖς ἔργα, πρόδηλον ὅτι τὸν διάβολον ἐπικαλῇ πατέρα· αὐτὸς γάρ

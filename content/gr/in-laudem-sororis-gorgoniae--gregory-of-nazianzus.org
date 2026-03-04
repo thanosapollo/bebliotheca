@@ -1,6 +1,7 @@
-#+TITLE: ΛΟΓΟΣ Ηʹ. Εἰς τὴν ἀδελφὴν ἑαυτοῦ Γοργονίαν ἐπιτάφιος.
+#+TITLE: In laudem sororis Gorgoniae
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In laudem sororis Gorgoniae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

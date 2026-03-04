@@ -1,17 +1,19 @@
-#+TITLE: Γρηγορίῳ ἑταίρῳ.
+#+TITLE: Epistulae tres
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistulae tres
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistulae-tres--basil-of-caesarea
 #+LANGUAGE: el
 
-* Γρηγορίῳ ἑταίρῳ.
+* Epistulae tres
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Γρηγορίῳ ἑταίρῳ.
 Ἐπέγνων σου τὴν ἐπιστολήν, ὥσπερ οἳ τοὺς τῶν φίλων παῖδας ἐκ τῆς
 ἐπιφαινομένης αὐτοῖς ὁμοιότητος πρὸς τοὺς τεκόντας ἐπιγινώσκουσιν. τὸ γὰρ μὴ
 μέγα εἶναι φῆσαι τὴν τοῦ τόπου κατασκευὴν πρὸς τὸ ἐμποιῆσαι ὁρμήν τινα τῇ ψυχῇ

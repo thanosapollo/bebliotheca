@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν παραβολὴν περὶ τοῦ ἀσώτου. 59.515
+#+TITLE: In parabolam de filio prodigo
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In parabolam de filio prodigo
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-parabolam-de-filio-prodigo--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν παραβολὴν περὶ τοῦ ἀσώτου. 59.515
+* In parabolam de filio prodigo
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν παραβολὴν περὶ τοῦ ἀσώτου.
+=59.515=
 αʹ. Ἀεὶ μὲν, ἀδελφοὶ, τὴν τοῦ Θεοῦ φιλανθρωπίαν κηρύττειν ὀφείλομεν (δι'
 αὐτῆς γὰρ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν)· μάλιστα δὲ ἐν τούτῳ τῷ καιρῷ
 χρεωστοῦμεν τοῦτο ποιεῖν, διὰ τὴν κοινὴν ὠφέλειαν, καὶ τὴν εὐεργεσίαν τῶν

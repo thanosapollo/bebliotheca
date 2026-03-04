@@ -1,17 +1,19 @@
-#+TITLE: ΒΙΟΣ ΚΑΙ ΠΟΛΙΤΕΙΑ ΤΟΥ ΜΑΚΑΡΙΟΥ ΣΥΜΕΩΝ ΤΟΥ ΣΤΥΛΙΤΟΥ
+#+TITLE: Vita Symeonis Stylitae
 #+AUTHOR: Ἀντώνιος Ἁγιογράφος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Vita Symeonis Stylitae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/vita-symeonis-stylitae--antonius-hagiographus
 #+LANGUAGE: el
 
-* ΒΙΟΣ ΚΑΙ ΠΟΛΙΤΕΙΑ ΤΟΥ ΜΑΚΑΡΙΟΥ ΣΥΜΕΩΝ ΤΟΥ ΣΤΥΛΙΤΟΥ
+* Vita Symeonis Stylitae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΒΙΟΣ ΚΑΙ ΠΟΛΙΤΕΙΑ ΤΟΥ ΜΑΚΑΡΙΟΥ ΣΥΜΕΩΝ ΤΟΥ ΣΤΥΛΙΤΟΥ
 1 Ξένον καὶ παράδοξον μυστήριον γέγονεν ἐν ταῖς ἡμέραις ἡμῶν. ἔδοξεν ἐμοὶ
 τῷ ἁμαρτωλῷ καὶ ἐλαχίστῳ Ἀντονίῳ γράψαι εἰς ὃ καταλαμβάνω. ὠφελείας γὰρ καὶ
 κατανύξεως πε πλήρωται τὸ σύνταγμα. ὅθεν παρακαλῶ κλίνατε τὸ οὖς ὑμῶν καὶ

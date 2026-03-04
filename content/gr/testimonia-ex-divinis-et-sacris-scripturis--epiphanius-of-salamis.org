@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἁγίου καὶ μακαρίου ἘΠΙΦΑΝΙΟΥ Ἀρχιεπισκόπου Κωνσταντίας τῆς
+#+TITLE: Testimonia ex divinis et sacris scripturis
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Testimonia ex divinis et sacris scripturis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/testimonia-ex-divinis-et-sacris-scripturis--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου καὶ μακαρίου ἘΠΙΦΑΝΙΟΥ Ἀρχιεπισκόπου Κωνσταντίας τῆς
+* Testimonia ex divinis et sacris scripturis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου καὶ μακαρίου ἘΠΙΦΑΝΙΟΥ Ἀρχιεπισκόπου Κωνσταντίας τῆς
 Κύπρου
 ΜΑΡΤΥΡΙΑΙ τῶν θεοπνεύστων γραφῶν καὶ ἁγίων περὶ τῆς ἐξ οὐρανοῦ
 ἐπὶ τῆς γῆς τοῦ μονογενοῦς θεοῦ Λόγου παρουσίας, καὶ τῶν δι' αὐτοῦ

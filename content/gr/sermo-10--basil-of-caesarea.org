@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΑΙΣΑΡΕΙΑΣ ΚΑΠΠΑ∆ΟΚΙΑΣ ΑΣΚΗΤΙΚΑ
+#+TITLE: Sermo 10
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo 10
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-10--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΑΙΣΑΡΕΙΑΣ ΚΑΠΠΑ∆ΟΚΙΑΣ ΑΣΚΗΤΙΚΑ
+* Sermo 10
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΑΙΣΑΡΕΙΑΣ ΚΑΠΠΑ∆ΟΚΙΑΣ ΑΣΚΗΤΙΚΑ
 ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ, Ἀρχιεπισκόπου Καισαρείας
 Καππαδοκίας, ΑΣΚΗΤΙΚΗ ΠΡΟ∆ΙΑΤΥΠΩΣΙΣ.
 Καλὰ μὲν τοῦ βασιλέως τὰ πρὸς τοὺς ὑπηκόους νομοθετήματα· μείζονα δὲ

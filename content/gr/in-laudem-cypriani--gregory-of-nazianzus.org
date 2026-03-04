@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ Κ∆ʹ.
+#+TITLE: In laudem Cypriani
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In laudem Cypriani
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-laudem-cypriani--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ Κ∆ʹ.
+* In laudem Cypriani
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Κ∆ʹ.
 Εἰς τὸν ἅγιον ἱερομάρτυρα Κυπριανὸν, ἐξ ἀγροῦ μετὰ μίαν τῆς μνείας
 ἡμέραν ἐπανήκοντος.
 Αʹ. Μικροῦ Κυπριανὸς διέφυγεν ἡμᾶς· ὢ τῆς ζη =35.1172= μίας! καὶ ὑμεῖς

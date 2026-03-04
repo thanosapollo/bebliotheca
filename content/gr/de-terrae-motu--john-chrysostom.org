@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ ΜΕΤΑ ΤΟΝ ΣΕΙΣΜΟΝ. 50.713
+#+TITLE: De terrae motu
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De terrae motu
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-terrae-motu--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΜΕΤΑ ΤΟΝ ΣΕΙΣΜΟΝ. 50.713
+* De terrae motu
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΜΕΤΑ ΤΟΝ ΣΕΙΣΜΟΝ.
+=50.713=
 Εἰ καὶ ἡμᾶς ἡ ἀῤῥωστία ἐκώλυσε χορεῦσαι μεθ' ὑμῶν τὴν χορείαν τὴν
 πνευματικὴν, ἀλλ' ὑμᾶς ὁ κόπος τῆς ὁδοιπορίας οὐκ ἐξέλυσεν. Εἰ γὰρ καὶ ὁ κόπος
 πολλῷ ἱδρῶτι περιῤῥεομένους ὑμᾶς ἐνταῦθα ἤγαγεν, ἀλλ' ἡ τοῦ λόγου διδασκαλία

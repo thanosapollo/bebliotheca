@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ Εʹ. Πρὸς τοὺς μεγάλα τὰ παρόντα νομίζοντας καὶ περὶ τὰ τοῦ
+#+TITLE: Ad eos qui magni aestimant opes
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ad eos qui magni aestimant opes
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-eos-qui-magni-aestimant-opes--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Εʹ. Πρὸς τοὺς μεγάλα τὰ παρόντα νομίζοντας καὶ περὶ τὰ τοῦ
+* Ad eos qui magni aestimant opes
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Εʹ. Πρὸς τοὺς μεγάλα τὰ παρόντα νομίζοντας καὶ περὶ τὰ τοῦ
 βίου λαμπρὰ μάτην ἐπτοημένους.
 =64.453=
 Ἀγγέλοις μὲν οὐρανὸς εὐφροσύνης χωρίον, Ἐκκλησία δὲ πιστοῖς ἀντ'

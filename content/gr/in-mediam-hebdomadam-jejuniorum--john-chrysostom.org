@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν μέσην ἑβδομάδα τῶν νηστειῶν. 59.701
+#+TITLE: In mediam hebdomadam jejuniorum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In mediam hebdomadam jejuniorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-mediam-hebdomadam-jejuniorum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν μέσην ἑβδομάδα τῶν νηστειῶν. 59.701
+* In mediam hebdomadam jejuniorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν μέσην ἑβδομάδα τῶν νηστειῶν.
+=59.701=
 Εὐλογητὸς ὁ Θεὸς ὁ χαρισάμενος τοῖς ἀγωνισταῖς τῆς νηστείας καὶ τὸ μέσον
 ἆθλον τῆς ἐγκρατείας θεάσασθαι. Ἰδοὺ γὰρ ἐπὶ ταῖς θύραις ἑστήκαμεν τῶν μέσων
 τῆς νηστείας σκαμμάτων· ἰδοὺ τὸ μέσον τοῦ ἀγῶνος ἡμῖν πρόκειται. ∆εῦρο γοῦν

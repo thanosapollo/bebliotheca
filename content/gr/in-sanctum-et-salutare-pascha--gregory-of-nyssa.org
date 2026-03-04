@@ -1,17 +1,19 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟ ΑΓΙΟΝ ΚΑΙ ΣΩΤΗΡΙΟΝ ΠΑΣΧΑ
+#+TITLE: In sanctum et salutare pascha
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum et salutare pascha
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-et-salutare-pascha--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟ ΑΓΙΟΝ ΚΑΙ ΣΩΤΗΡΙΟΝ ΠΑΣΧΑ
+* In sanctum et salutare pascha
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟ ΑΓΙΟΝ ΚΑΙ ΣΩΤΗΡΙΟΝ ΠΑΣΧΑ
 Ἡ μὲν ἀληθινὴ τοῦ σαββάτου κατάπαυσις ἡ τὴν εὐλογίαν τοῦ θεοῦ
 δεξαμένη, ἐν ᾗ κατέπαυσεν ἀπὸ τῶν ἑαυτοῦ ἔργων ὁ κύριος ὑπὲρ τῆς τοῦ κόσμου
 σωτηρίας τῇ ἀπραξίᾳ τοῦ θανάτου ἐνσαββατίσας, ἤδη πέρας ἔχει καὶ τὴν ἰδίαν ἔδειξε

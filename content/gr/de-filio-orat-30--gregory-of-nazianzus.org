@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ΤΕΤΑΡΤΟΣ ΠΕΡΙ ΥΙΟΥ
+#+TITLE: De filio orat 30
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De filio orat 30
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-filio-orat-30--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ΤΕΤΑΡΤΟΣ ΠΕΡΙ ΥΙΟΥ
+* De filio orat 30
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ΤΕΤΑΡΤΟΣ ΠΕΡΙ ΥΙΟΥ
 1 Ἐπειδή σοι τὰς μὲν ἐκ τῶν λογισμῶν στροφὰς καὶ πλοκὰς ἱκανῶς
 διεσείσαμεν τῇ δυνάμει τοῦ πνεύματος, τὰς δὲ παρὰ τῶν θείων γραφῶν ἐνστάσεις τε
 καὶ ἀντιθέσεις, αἷς οἱ τοῦ γράμματος ἱερόσυλοι καὶ τὸν νοῦν τῶν γεγραμμένων

@@ -1,17 +1,19 @@
-#+TITLE: ̓Εκ τῆς ἱστορίας Νικολάου ∆αμασκηνοῦ. Περὶ ἐπιβουλῶν κατὰ βασιλέων
+#+TITLE: De insidiis
 #+AUTHOR: Κωνσταντῖνος Πορφυρογέννητος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: De insidiis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-insidiis--constantine-porphyrogenitus
 #+LANGUAGE: el
 
-* ̓Εκ τῆς ἱστορίας Νικολάου ∆αμασκηνοῦ. Περὶ ἐπιβουλῶν κατὰ βασιλέων
+* De insidiis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Εκ τῆς ἱστορίας Νικολάου ∆αμασκηνοῦ. Περὶ ἐπιβουλῶν κατὰ βασιλέων
 γεγονυιῶν.
 1. Ὅτι ἐστράτευσεν ἐπὶ τὴν Ἀραβίαν Ἡρώδης, οὐ συνδοκοῦν Καίσαρι, ἐφ' οἷς ἐκεῖνος
 ἠφίει φωνάς, καὶ ὀργὴν εἶχε χαλεπὴν εἰς τὸν Ἡρώδην, ἐπέστειλέ τε αὐτῷ πικρότατα,

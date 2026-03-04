@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ, Ἀρχιεπισκόπου Καισαρείας
+#+TITLE: Homiliae super Psalmos
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homiliae super Psalmos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homiliae-super-psalmos--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ, Ἀρχιεπισκόπου Καισαρείας
+* Homiliae super Psalmos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ, Ἀρχιεπισκόπου Καισαρείας
 Καππαδοκίας, ΟΜΙΛΙΑ ΕΙΣ ΤΟΝ ΠΡΩΤΟΝ ΨΑΛΜΟΝ.
 Πᾶσα Γραφὴ θεόπνευστος καὶ ὠφέλιμος, διὰ τοῦτο συγγραφεῖσα παρὰ τοῦ
 Πνεύματος, ἵν', ὥσπερ ἐν κοινῷ τῶν ψυχῶν ἰατρείῳ, πάντες ἄνθρωποι τὸ ἴαμα τοῦ

@@ -1,17 +1,20 @@
-#+TITLE: Γʹ. Τοῦ αὐτοῦ λόγος παραινετικὸς περὶ ἐγκρατείας. 64.17
+#+TITLE: Sermo exhortatorius de temperantia
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo exhortatorius de temperantia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-exhortatorius-de-temperantia--john-chrysostom
 #+LANGUAGE: el
 
-* Γʹ. Τοῦ αὐτοῦ λόγος παραινετικὸς περὶ ἐγκρατείας. 64.17
+* Sermo exhortatorius de temperantia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Γʹ. Τοῦ αὐτοῦ λόγος παραινετικὸς περὶ ἐγκρατείας.
+=64.17=
 Οσοι μαθήμασί τισι προσεδρεύοντες φιλοπονίαν ἐνδείκνυνται, τῆς τοῦ
 διδάσκοντος ἐπικειμένης ἀνάγκης, τοῦ διδασκαλικοῦ φόβου τὸ τῶν παίδων
 νενόμισται σπούδασμα· ἐπειδὰν δὲ ἀπόντος διδασκάλου τῆς τῶν καλῶν ἐπιμελείας

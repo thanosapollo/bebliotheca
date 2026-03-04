@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ ΕΠΙΣΤΟΛΗΝ ΠΡΩΤΗΝ. ΟΜΙΛΙΑ Αʹ.
+#+TITLE: In epistulam i ad Thessalonicenses
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In epistulam i ad Thessalonicenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-epistulam-i-ad-thessalonicenses--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ ΕΠΙΣΤΟΛΗΝ ΠΡΩΤΗΝ. ΟΜΙΛΙΑ Αʹ.
+* In epistulam i ad Thessalonicenses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ
+ΘΕΣΣΑΛΟΝΙΚΕΙΣ ΕΠΙΣΤΟΛΗΝ ΠΡΩΤΗΝ.
+ΟΜΙΛΙΑ Αʹ.
 Παῦλος καὶ Σιλουανὸς καὶ Τιμόθεος τῇ Ἐκκλησίᾳ Θεσσαλονικέων ἐν Θεῷ Πατρὶ
 καὶ Κυρίῳ Ἰησοῦ Χριστῷ, χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ Πατρὸς ἡμῶν καὶ Κυρίου
 Ἰησοῦ Χριστοῦ. Εὐχαριστοῦμεν τῷ Θεῷ πάντοτε περὶ ὑμῶν, μνείαν ὑμῶν ποιούμενοι ἐπὶ

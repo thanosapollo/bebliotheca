@@ -1,13 +1,14 @@
-#+TITLE: Graecum 7)
+#+TITLE: De mensuribus et ponderibus Excerptum Graecum 7
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De mensuribus et ponderibus Excerptum Graecum 7
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-mensuribus-et-ponderibus-excerptum-graecum-7--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Graecum 7)
+* De mensuribus et ponderibus Excerptum Graecum 7
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

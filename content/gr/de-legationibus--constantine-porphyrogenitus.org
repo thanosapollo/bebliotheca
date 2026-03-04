@@ -1,17 +1,20 @@
-#+TITLE: ̔Υπόθεσις τοῦ περὶ πρέσβεων τεύχους Ῥωμαίων πρὸς ἐθνικούς. Προοίμιον.
+#+TITLE: De legationibus
 #+AUTHOR: Κωνσταντῖνος Πορφυρογέννητος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: De legationibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-legationibus--constantine-porphyrogenitus
 #+LANGUAGE: el
 
-* ̔Υπόθεσις τοῦ περὶ πρέσβεων τεύχους Ῥωμαίων πρὸς ἐθνικούς. Προοίμιον.
+* De legationibus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̔Υπόθεσις τοῦ περὶ πρέσβεων τεύχους Ῥωμαίων πρὸς ἐθνικούς.
+Προοίμιον.
 Ὅσοι τῶν πάλαι ποτὲ βασιλέων τε καὶ ἰδιωτῶν μὴ τὸν νοῦν παρεσύρησαν ἡδοναῖς, ἢ
 κατεμαλακίσθησαν, ἀλλὰ τὸ τῆς ψυχῆς εὐγενὲς ἀκηλίδωτον ἀρετῇ συνετήρησαν, οὗτοι δὴ οὗτοι
 καὶ πόνοις ἐνεκαρτέρησαν καὶ λόγοις ἐνησχολήθησαν, καὶ ἄλλος ἄλλο τι τῶν ὅσοι λογικώτερον

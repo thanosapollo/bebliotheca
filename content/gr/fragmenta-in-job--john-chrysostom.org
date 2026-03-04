@@ -1,17 +1,19 @@
-#+TITLE: FRAGMENTA IN BEATUM JOB. ΠΡΟΟΙΜΙΟΝ
+#+TITLE: Fragmenta in Job
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in Job
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-job--john-chrysostom
 #+LANGUAGE: el
 
-* FRAGMENTA IN BEATUM JOB. ΠΡΟΟΙΜΙΟΝ
+* Fragmenta in Job
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΟΙΜΙΟΝ
 Ὅτι δὲ παντὶ χρήσιμον τὸ βιβλίον, ἐν ἰδέᾳ πάσῃ καὶ βίων καὶ περιστάσεων, ἀνδρὶ
 καὶ γυναικὶ, πρεσβυτέρῳ καὶ νέῳ, ἰδιώτῃ καὶ ἄρχοντι, πλουσίῳ καὶ πένητι, τοῖς δεξιοῖς
 εὐθηνουμένῳ, καὶ τοῖς ἀριστεροῖς πιεζομένῳ, ἐγγύθεν ἔστι λαβεῖν τὴν ἀπόδειξιν. Ὁ

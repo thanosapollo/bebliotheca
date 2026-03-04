@@ -1,17 +1,19 @@
-#+TITLE: ΘΕΟΦΥΛΑΚΤΟΥ ΑΠΟ ΕΠΑΡΧΩΝ ΤΟΥ ΣΙΜΟΚΑΤΟΥ διάλογος περὶ
+#+TITLE: Quaestiones physicae
 #+AUTHOR: Θεοφύλακτος Σιμοκάττης
 #+FILETAGS: :byzantine:7c-ad:
+#+MIGNE_TITLE: Quaestiones physicae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quaestiones-physicae--theophylact-simocatta
 #+LANGUAGE: el
 
-* ΘΕΟΦΥΛΑΚΤΟΥ ΑΠΟ ΕΠΑΡΧΩΝ ΤΟΥ ΣΙΜΟΚΑΤΟΥ διάλογος περὶ
+* Quaestiones physicae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΘΕΟΦΥΛΑΚΤΟΥ ΑΠΟ ΕΠΑΡΧΩΝ ΤΟΥ ΣΙΜΟΚΑΤΟΥ διάλογος περὶ
 διαφόρων φυσικῶν ἀπορημάτων καὶ ἐπιλύσεων αὐτῶν ῾Η διάλεξις τοῦ
 διαλόγου.
 Τὰς χελιδόνας ὑπὸ τῶν μητέρων ἀκήκοα τὴν παρ' αὐταῖς ᾠδὴν διδάσκεσθαι

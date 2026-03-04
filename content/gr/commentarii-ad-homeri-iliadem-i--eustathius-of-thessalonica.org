@@ -1,17 +1,19 @@
-#+TITLE: <ΕΥΣΤΑΘΙΟΥΠΑΡΕΚΒΟΛΑΙΕΙΣΤΗΝΟΜΗΡΟΥΙΛΙΑ∆Α>
+#+TITLE: Commentarii ad Homeri Iliadem i
 #+AUTHOR: Εὐστάθιος Θεσσαλονίκης
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Commentarii ad Homeri Iliadem i
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-ad-homeri-iliadem-i--eustathius-of-thessalonica
 #+LANGUAGE: el
 
-* <ΕΥΣΤΑΘΙΟΥΠΑΡΕΚΒΟΛΑΙΕΙΣΤΗΝΟΜΗΡΟΥΙΛΙΑ∆Α>
+* Commentarii ad Homeri Iliadem i
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+<ΕΥΣΤΑΘΙΟΥΠΑΡΕΚΒΟΛΑΙΕΙΣΤΗΝΟΜΗΡΟΥΙΛΙΑ∆Α>
 Τῶν Ὁμήρου Σειρήνων καλὸν μὲν ἴσως εἴ τις ἀπόσχοιτο τὴν ἀρχὴν ἢ κηρῷτὰς
 ἀκοὰς ἀλειψάμενος ἢ ἀλλ' ἑτέραν τραπόμενος, ὡς ἂν ἀποφύγῃ τὸ θέλγητρον.μὴ
 ἀποσχόμενος δέ, ἀλλὰ διὰ τῆς ᾠδῆς ἐκείνης ἐλθών, οὐκ ἄν, οἶμαι, οὔτεπαρέλθῃ ῥᾳδίως,

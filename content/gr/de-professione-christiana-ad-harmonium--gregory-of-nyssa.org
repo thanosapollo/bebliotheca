@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΡΟΣ ΑΠΜΟΝΙΟΝ ΠΕΡΙ ΤΟΥ ΤΙ ΤΟΥ ΧΡΙΣΤΙΑΝΟΥ ΕΠΑΓΓΕΛΜΑ
+#+TITLE: De professione Christiana ad Harmonium
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De professione Christiana ad Harmonium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-professione-christiana-ad-harmonium--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΡΟΣ ΑΠΜΟΝΙΟΝ ΠΕΡΙ ΤΟΥ ΤΙ ΤΟΥ ΧΡΙΣΤΙΑΝΟΥ ΕΠΑΓΓΕΛΜΑ
+* De professione Christiana ad Harmonium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΡΟΣ ΑΠΜΟΝΙΟΝ ΠΕΡΙ ΤΟΥ ΤΙ ΤΟΥ
+ΧΡΙΣΤΙΑΝΟΥ ΕΠΑΓΓΕΛΜΑ
 Ὅπερ ποιοῦσι πρὸς τοὺς κρατοῦντας οἱ τοῖς ἡμερινοῖς ὑποκείμενοι φόροις, εἰ
 πλειόνων ἡμερῶν ἐλλειφθείη τὸ χρέος, ἀθρόως τῶν κατὰ μέρος ὀφλημάτων
 ἀποτιννύντες ἐν κεφαλαίῳ τὸ ὄφλημα, εἴ τινος ἐπιτύχοιεν εὐπορίας, τοῦτο ποιήσω

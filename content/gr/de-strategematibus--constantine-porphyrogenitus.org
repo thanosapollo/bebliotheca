@@ -1,6 +1,7 @@
-#+TITLE: ΠΑΡΑΓΓΕΛΜΑΤΑ ΠΟΛΙΟΡΚΗΤΙΚΑ.
+#+TITLE: De strategematibus
 #+AUTHOR: Κωνσταντῖνος Πορφυρογέννητος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: De strategematibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

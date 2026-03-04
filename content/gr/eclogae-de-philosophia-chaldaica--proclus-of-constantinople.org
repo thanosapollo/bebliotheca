@@ -1,17 +1,19 @@
-#+TITLE: Πρόκλου ἐκ τῆς αὐτῆς χαλδαϊκῆς φιλοσοφίας
+#+TITLE: Eclogae de philosophia Chaldaica
 #+AUTHOR: Πρόκλος Κωνσταντινουπόλεως
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Eclogae de philosophia Chaldaica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/eclogae-de-philosophia-chaldaica--proclus-of-constantinople
 #+LANGUAGE: el
 
-* Πρόκλου ἐκ τῆς αὐτῆς χαλδαϊκῆς φιλοσοφίας
+* Eclogae de philosophia Chaldaica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Πρόκλου ἐκ τῆς αὐτῆς χαλδαϊκῆς φιλοσοφίας
 1 Αὐλαὶ τῶν θείων καὶ οἰκήσεις αἱ ἀΐδιαι τάξεις. Καὶ ἡ "πανδεκτικὴ αὐλὴ" τοῦ
 Πατρὸς ἡ πατρικὴ τάξις ἐστίν, ἡ πάσας ὑποδεχομένη καὶ συνέχουσα τὰς ἀναχθείσας
 ψυχάς· ἡ δὲ τῶν ἀγγέλων μερὶς πῶς ἀνάγει ψυχήν; φέγγουσα, φησί, πυρὶ τὴν ψυχήν,

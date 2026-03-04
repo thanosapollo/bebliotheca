@@ -1,17 +1,19 @@
-#+TITLE: 31.692 αʹ Περὶ μετανοίας, καὶ τίς ὁ τῆς μετανοίας καιρὸς, καὶ περὶ τῶν
+#+TITLE: Regulae morales
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Regulae morales
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/regulae-morales--basil-of-caesarea
 #+LANGUAGE: el
 
-* 31.692 αʹ Περὶ μετανοίας, καὶ τίς ὁ τῆς μετανοίας καιρὸς, καὶ περὶ τῶν
+* Regulae morales
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=31.692= αʹ Περὶ μετανοίας, καὶ τίς ὁ τῆς μετανοίας καιρὸς, καὶ περὶ τῶν
 ἰδιωμάτων αὐτῆς, καὶ περὶ τῶν καρπῶν αὐτῆς. βʹ Περὶ τοῦ ἀμιγῆ παντὸς ἐναντίου,
 καὶ καθαρὰν εἶναι τὴν σπουδὴν τῶν εὐαρεστῆσαι τῷ Θεῷ βου λομένων. γʹ Περὶ τῆς
 εἰς Θεὸν ἀγάπης, καὶ τίς ἡ ταύτης ἀπόδειξις. δʹ Τίς ἡ εἰς Θεὸν τιμὴ, καὶ τίς ἡ ἀτιμία. εʹ

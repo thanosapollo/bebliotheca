@@ -1,17 +1,20 @@
-#+TITLE: ΙΩΑΝΝΟΥ ΛΑΥΡΕΝΤΙΟΥ ΛΥ∆ΟΥ ΠΕΡΙ ∆ΙΟΣΗΜΕΙΩΝ PROOEMIVM
+#+TITLE: De ostentis
 #+AUTHOR: Ἰωάννης Λαυρέντιος Λυδός
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: De ostentis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-ostentis--john-lydus
 #+LANGUAGE: el
 
-* ΙΩΑΝΝΟΥ ΛΑΥΡΕΝΤΙΟΥ ΛΥ∆ΟΥ ΠΕΡΙ ∆ΙΟΣΗΜΕΙΩΝ PROOEMIVM
+* De ostentis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΙΩΑΝΝΟΥ ΛΑΥΡΕΝΤΙΟΥ ΛΥ∆ΟΥ ΠΕΡΙ ∆ΙΟΣΗΜΕΙΩΝ
+PROOEMIVM
 Οἱ τῶν Ἑβραίων λόγιοι τὸν περὶ προγνώσεως λόγον διχῆ τέμνουσιν εἰς σημεῖα
 καὶ τέρατα· καὶ σημεῖα μὲν εἶναι βούλονται τὰ ἐν μετεώροις συνιστάμενα, τέρατα δὲ τὰ
 ἐπὶ γῆς ὡς παρὰ φύσιν φαινόμενα, ὁποῖον ἐκεῖνο τὸ ἐπὶ τῆς καλουμένης τῶν Ἑβραίων

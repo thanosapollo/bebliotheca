@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΛΟΓΟΣ ΕΙΣ ΤΗΝ ΥΠΑΝΤΗΝ ΤΟΥ ΚΥΡΙΟΥ, ΚΑΙ ΘΕΟΥ, ΚΑΙ ΣΩΤΗΡΟΣ ΗΜΩΝ ΙΗΣΟΥ ΧΡΙΣΤΟΥ.
+#+TITLE: Homilia in occursum domini
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in occursum domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

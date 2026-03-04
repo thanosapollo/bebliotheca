@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ ΚΑʹ. Εἰς τὸν μέγαν Ἀθανάσιον ἐπίσκοπον Ἀλεξανδρείας.
+#+TITLE: In laudem Athanasii
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In laudem Athanasii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-laudem-athanasii--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΚΑʹ. Εἰς τὸν μέγαν Ἀθανάσιον ἐπίσκοπον Ἀλεξανδρείας.
+* In laudem Athanasii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΚΑʹ.
+Εἰς τὸν μέγαν Ἀθανάσιον ἐπίσκοπον Ἀλεξανδρείας.
 Αʹ. Ἀθανάσιον ἐπαινῶν, ἀρετὴν ἐπαινέσομαι. Ταυτὸν γὰρ, ἐκεῖνόν τε εἰπεῖν,
 καὶ ἀρετὴν ἐπαινέσαι, ὅτι πᾶσαν ἐν ἑαυτῷ συλλαβὼν εἶχε τὴν ἀρετὴν, ἢ, τό γε
 ἀληθέστερον εἰπεῖν, ἔχει. Θεῷ γὰρ ζῶσι πάντες οἱ κατὰ Θεὸν ζήσαντες, κἂν ἐνθένδε

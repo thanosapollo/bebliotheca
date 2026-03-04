@@ -1,13 +1,14 @@
-#+TITLE: QUAESTIONES IN GENESIN
+#+TITLE: Quaestiones in Octateuchum
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Quaestiones in Octateuchum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quaestiones-in-octateuchum--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* QUAESTIONES IN GENESIN
+* Quaestiones in Octateuchum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

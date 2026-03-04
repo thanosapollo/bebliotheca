@@ -1,17 +1,19 @@
-#+TITLE: Mt 1, 16
+#+TITLE: Fragmenta in Matthaeum
 #+AUTHOR: Ἀπολινάριος Λαοδικείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in Matthaeum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-matthaeum--apollinaris-of-laodicea
 #+LANGUAGE: el
 
-* Mt 1, 16
+* Fragmenta in Matthaeum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Mt 1, 16
 Καὶ Ἀπολινάριος δὲ τὴν τελευταίαν μόνην ἀποδεχόμενός φησιν· ἡ μὲν τοῦ
 Ματθαίου γενεαλογία φυσικὴν ἔχει τὴν διαδοχὴν τῶν γεννηθέντων, ἡ δὲ τοῦ Λουκᾶ
 νομίζεται τῶν ἐπιγραφέντων υἱῶν κατὰ τὸν νόμον τοῖς μὴ γεννήσασιν· οὕτως γὰρ

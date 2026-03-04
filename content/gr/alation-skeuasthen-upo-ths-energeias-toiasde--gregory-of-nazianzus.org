@@ -1,17 +1,19 @@
-#+TITLE: Ἁλάτιον σκευασθὲν ὑπὸ τῆς ἐνεργείας τοιάσδε
+#+TITLE: ALATION SKEUASTHEN UPO THS ENERGEIAS TOIASDE
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: ALATION SKEUASTHEN UPO THS ENERGEIAS TOIASDE
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/alation-skeuasthen-upo-ths-energeias-toiasde--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* Ἁλάτιον σκευασθὲν ὑπὸ τῆς ἐνεργείας τοιάσδε
+* ALATION SKEUASTHEN UPO THS ENERGEIAS TOIASDE
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἁλάτιον σκευασθὲν ὑπὸ τῆς ἐνεργείας τοιάσδε
 Ὀφθαλμίαν οὐ ποιεῖ ἕως γήρως, οὐκ ὀδόντες ἀλγῆσαι, οὐ μῖξαι, οὐ τρίχες
 ῥεῦσαι, ὀξυδορκίαν ποιεῖ, οὐκ ἀφίησι φλέγμα, οὐ χολήν, οὐ χυμόν, οὐ ποδαλγίαν, οὐ
 σπλῆνα. ἐστὶ δὲ ἡ κατασκευὴ αὐτοῦ οὕτως· 2 Ὑσωπ' κρητικοῦ γο αʹ. κυμίνου

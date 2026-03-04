@@ -1,17 +1,19 @@
-#+TITLE: ΕΥΣΕΒΙΟΥ ΚΑΙΣΑΡΕΙΑΣ ΠΕΡΙ ΤΗΣ ΤΟΥ ΠΑΣΧΑ ΕΟΡΤΗΣ.
+#+TITLE: De solemnitate paschali
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De solemnitate paschali
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-solemnitate-paschali--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* ΕΥΣΕΒΙΟΥ ΚΑΙΣΑΡΕΙΑΣ ΠΕΡΙ ΤΗΣ ΤΟΥ ΠΑΣΧΑ ΕΟΡΤΗΣ.
+* De solemnitate paschali
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΣΕΒΙΟΥ ΚΑΙΣΑΡΕΙΑΣ ΠΕΡΙ ΤΗΣ ΤΟΥ ΠΑΣΧΑ ΕΟΡΤΗΣ.
 αʹ. Τάχα οὐκ ἄκαιρον ἂν εἴη καὶ αὖθις περὶ τοῦ Πάσχα διαλαβεῖν, ἄνωθεν
 Ἑβραίων παισὶν εἰκονικῶς παραδεδομένου. Ὁπηνίκα γοῦν Ἑβραῖοι, σκιὰς
 μελλόντων ἐπιτελοῦντες, πρῶτοι τὴν τοῦ φασὲκ ἑορτὴν ἐτέλουν, θρέμμα μὲν αὐτοῖς

@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΜΑΚΑΡΙΟΥ ΙΩΑΝΝΟΥ ΠΕΡΙ ΤΩΝ ΕΝ ΠΙΣΤΕΙ ΚΕΚΟΙΜΗΜΕΝΩΝ ΟΠΩΣ ΑΙ ΥΠΕΡ ΑΥΤΩΝ ΓΙΝΟΜΕΝΑΙ ΛΕΙΤΟΥΡΓΙΑΙ ΚΑΙ ΕΥΠΟΙΙΑΙ ΤΟΥΤΟΥΣ ΟΝΙΝΗΣΙΝ. 95.248
+#+TITLE: Oratio de his qui in fide dormierunt
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Oratio de his qui in fide dormierunt
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-de-his-qui-in-fide-dormierunt--john-of-damascus
 #+LANGUAGE: el
 
-* ΤΟΥ ΜΑΚΑΡΙΟΥ ΙΩΑΝΝΟΥ ΠΕΡΙ ΤΩΝ ΕΝ ΠΙΣΤΕΙ ΚΕΚΟΙΜΗΜΕΝΩΝ ΟΠΩΣ ΑΙ ΥΠΕΡ ΑΥΤΩΝ ΓΙΝΟΜΕΝΑΙ ΛΕΙΤΟΥΡΓΙΑΙ ΚΑΙ ΕΥΠΟΙΙΑΙ ΤΟΥΤΟΥΣ ΟΝΙΝΗΣΙΝ. 95.248
+* Oratio de his qui in fide dormierunt
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΜΑΚΑΡΙΟΥ ΙΩΑΝΝΟΥ ΠΕΡΙ ΤΩΝ ΕΝ ΠΙΣΤΕΙ ΚΕΚΟΙΜΗΜΕΝΩΝ ΟΠΩΣ ΑΙ
+ΥΠΕΡ ΑΥΤΩΝ ΓΙΝΟΜΕΝΑΙ ΛΕΙΤΟΥΡΓΙΑΙ ΚΑΙ ΕΥΠΟΙΙΑΙ ΤΟΥΤΟΥΣ
+ΟΝΙΝΗΣΙΝ.
+=95.248=
 αʹ. Τὰ τῶν βρωμάτων ἡδέα καὶ τίμια προτιθέμενα πολλάκις, οὐ μόνον τοὺς
 πεινῶντας εἰς βρῶσιν ἕλκουσιν, ἀλλ' ἐνίοτε καὶ τοὺς ἤδη κεκορεσμένους
 προσερεθίζουσιν· ὥσπερ καὶ τῶν πομάτων τὰ λίαν ἡδύποτα καὶ εὐώδη, οὐ τοὺς

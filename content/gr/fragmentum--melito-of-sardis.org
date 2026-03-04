@@ -1,16 +1,18 @@
-#+TITLE: Ὑμνήσατε τὸν πατέρα οἱ ἅγιοι, ᾄσατε τῇ μητρὶ παρθένοι. Ὑμνοῦμεν,
+#+TITLE: Fragmentum
 #+AUTHOR: Μελίτων Σάρδεων
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Fragmentum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmentum--melito-of-sardis
 #+LANGUAGE: el
 
-* Ὑμνήσατε τὸν πατέρα οἱ ἅγιοι, ᾄσατε τῇ μητρὶ παρθένοι. Ὑμνοῦμεν,
+* Fragmentum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ὑμνήσατε τὸν πατέρα οἱ ἅγιοι, ᾄσατε τῇ μητρὶ παρθένοι. Ὑμνοῦμεν,
 ὑπερυψοῦμεν, ἅγιοι. Ὑψώθητε, νύμφαι καὶ νυμφίοι, ὅτι ηὕρατε τὸν νυμφίον ὑμῶν
 Χριστόν. Εἰς οἶνον πίετε, νύμφαι καὶ νυμφίοι, ...

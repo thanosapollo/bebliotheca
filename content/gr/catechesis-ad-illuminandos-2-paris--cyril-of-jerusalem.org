@@ -1,17 +1,19 @@
-#+TITLE: 1 ∆εῖνον ἡ ἁμαρτία καὶ νόσος χαλεπωτάτη ψυχῆς ... αὐτῆς τὰ νεῦρα, πυρὸς δὲ ..
+#+TITLE: Catechesis ad illuminandos 2 Paris
 #+AUTHOR: Κύριλλος Ἱεροσολύμων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Catechesis ad illuminandos 2 Paris
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/catechesis-ad-illuminandos-2-paris--cyril-of-jerusalem
 #+LANGUAGE: el
 
-* 1 ∆εῖνον ἡ ἁμαρτία καὶ νόσος χαλεπωτάτη ψυχῆς ... αὐτῆς τὰ νεῦρα, πυρὸς δὲ ..
+* Catechesis ad illuminandos 2 Paris
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 ∆εῖνον ἡ ἁμαρτία καὶ νόσος χαλεπωτάτη ψυχῆς ... αὐτῆς τὰ νεῦρα, πυρὸς δὲ ..
 αὐτεξ. βλάστημα προαιρέσεως, καὶ ὅτι γε (υτ πριορ ἔκδοσις) .. ομ. σαφῶς ... ὁ καρπὸς
 κακὸς, ἐκ προαιρέσεως γὰρ τὸ κακὸν, ὁ φυτουργὸς ἀναίτιος. Λοιπὸν ἡ ἀμπ..
 ἐκαρποφόρησεν ἐκ προαιρέσεως .. ἄνθρωπον ἐπ' εὐθείᾳ .. ἐπὶ ἔργοις ἀγαθοῖς, ὥς

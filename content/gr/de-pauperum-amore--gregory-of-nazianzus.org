@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ Ι∆ʹ. Περὶ φιλοπτωχίας.
+#+TITLE: De pauperum amore
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De pauperum amore
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-pauperum-amore--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ Ι∆ʹ. Περὶ φιλοπτωχίας.
+* De pauperum amore
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Ι∆ʹ.
+Περὶ φιλοπτωχίας.
 Αʹ. Ἄνδρες ἀδελφοὶ καὶ συμπένητες, πτωχοὶ γὰρ =35.860= ἅπαντες, καὶ τῆς
 θείας χάριτος ἐπιδεεῖς, κἂν ἄλλος ἄλλου προέχειν δοκῇ, μικροῖς μέτροις
 μετρούμενος, δέξασθε τὸν περὶ φιλοπτωχίας λόγον, μὴ πενιχρῶς, ἀλλὰ φιλοτίμως,

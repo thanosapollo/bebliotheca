@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν τελώνην καὶ τὸν Φαρισαῖον λόγος. 59.595
+#+TITLE: In publicanum et pharisaeum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In publicanum et pharisaeum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-publicanum-et-pharisaeum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν τελώνην καὶ τὸν Φαρισαῖον λόγος. 59.595
+* In publicanum et pharisaeum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν τελώνην καὶ τὸν Φαρισαῖον λόγος.
+=59.595=
 αʹ. Οἱ πόῤῥωθεν τοὺς λειμῶνας θεασάμενοι, ποικίλην μὲν βλέπουσι τῶν
 ἀνθέων τὴν τερπνότητα· τότε δὲ αὐτῶν τὸ εὐειδὲς γινώσκουσιν, ὅταν πλησίον
 γενόμενοι, τὰ ἄνθη ταῖς χερσὶν αὐτῶν ψηλαφήσωσι. Τοιαύτην μοι νόει, ἀγα πητὲ,

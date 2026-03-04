@@ -1,17 +1,19 @@
-#+TITLE: Rom 1,5-7a Ἐκπεπολέμωτο γὰρ τῷ θεῷ ἡ φύσις ἡμῶν διὰ παρακοήν, καὶ ἣν ὁ
+#+TITLE: Fragmenta in epistulam ad Romanos
 #+AUTHOR: Γεννάδιος Κωνσταντινουπόλεως
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-romanos--gennadius-of-constantinople
 #+LANGUAGE: el
 
-* Rom 1,5-7a Ἐκπεπολέμωτο γὰρ τῷ θεῷ ἡ φύσις ἡμῶν διὰ παρακοήν, καὶ ἣν ὁ
+* Fragmenta in epistulam ad Romanos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Rom 1,5-7a Ἐκπεπολέμωτο γὰρ τῷ θεῷ ἡ φύσις ἡμῶν διὰ παρακοήν, καὶ ἣν ὁ
 νόμος ἐπέταττεν ἀρετὴν οὐ φυλάσσοντες, ἀλλὰ παιδευόμενοι μὲν ἕως γήρους, οὐδὲν
 δὲ μᾶλλον βελτίους ἑαυτῶν γινόμενοι τὸν νομοθέτην ὡς εἰκὸς παροξύνομεν, ἃ μὲν
 δεῖ ποιεῖν τε καὶ μὴ ποιεῖν ἐκμανθάνοντες ὡς μηδὲ ἀγνοίας σκῆψιν ἡμῖν

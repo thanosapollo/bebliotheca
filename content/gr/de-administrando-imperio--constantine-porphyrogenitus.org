@@ -1,6 +1,7 @@
-#+TITLE: ΚΩΝΣΤΑΝΤΙΝΟΥ ΕΝ ΧΡΙΣΤΩΙ ΒΑΣΙΛΕΙ ΑΙΩΝΙΩΙ ΒΑΣΙΛΕΩΣ ΡΩΜΑΙΩΝ ΠΡΟΣ ΤΟΝ Ι∆ΙΟΝ ΥΙΟΝ ΡΩΜΑΝΟΝ ΤΟΝ ΘΕΟΣΤΕΦΗ ΚΑΙ ΠΟΡΦΥΡΟΓΕΝΝΗΤΟΝ ΒΑΣΙΛΕΑ Προοίμιον.
+#+TITLE: De administrando imperio
 #+AUTHOR: Κωνσταντῖνος Πορφυρογέννητος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: De administrando imperio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

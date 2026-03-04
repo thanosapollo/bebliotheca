@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ ΛΗʹ. Εἰς τὰ Θεοφάνια, εἴτουν Γενέθλια τοῦ Σωτῆρος.
+#+TITLE: In theophania
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In theophania
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-theophania--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΛΗʹ. Εἰς τὰ Θεοφάνια, εἴτουν Γενέθλια τοῦ Σωτῆρος.
+* In theophania
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΛΗʹ.
+Εἰς τὰ Θεοφάνια, εἴτουν Γενέθλια τοῦ Σωτῆρος.
 Αʹ. Χριστὸς γεννᾶται, δοξάσατε· Χριστὸς ἐξ οὐρανῶν, ἀπαντήσατε· Χριστὸς
 ἐπὶ γῆς, ὑψώθητε. Ἄσατε τῷ Κυρίῳ, πᾶσα ἡ γῆ· καὶ, ἵν' ἀμφότερα συνελὼν εἴπω,
 Εὐφραινέσθωσαν οἱ οὐρανοὶ, καὶ ἀγαλλιάσθω ἡ γῆ, διὰ τὸν ἐπουράνιον, εἶτα ἐπί

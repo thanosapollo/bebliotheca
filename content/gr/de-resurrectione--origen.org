@@ -1,17 +1,19 @@
-#+TITLE: Περὶ τοῦ Λαζάρου καὶ τοῦ πλουσίου ἀπορεῖσθαι δύναται· τῶν μὲν ἁπλουστέρων
+#+TITLE: De Resurrectione
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: De Resurrectione
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-resurrectione--origen
 #+LANGUAGE: el
 
-* Περὶ τοῦ Λαζάρου καὶ τοῦ πλουσίου ἀπορεῖσθαι δύναται· τῶν μὲν ἁπλουστέρων
+* De Resurrectione
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ τοῦ Λαζάρου καὶ τοῦ πλουσίου ἀπορεῖσθαι δύναται· τῶν μὲν ἁπλουστέρων
 οἰομένων ταῦτα λελέχθαι, ὡς ἀμφοτέρων μετὰ τῶν σωμάτων λαμβανόντων τὰ ἄξια
 τῶν τῷ βίῳ πεπραγμένων· τῶν δὲ ἀκριβεστέρων, ἐπεὶ μετὰ τὴν ἀνάστασιν οὐδεὶς ἐν
 βίῳ καταλείπεται, οὐκ ἐν τῇ ἀναστάσει οἰομένων ταῦτα γεγονέναι· λέγει γὰρ ὁ

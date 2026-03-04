@@ -1,17 +1,20 @@
-#+TITLE: ΙΩΑΝΝΟΥ ΤΟΥ ∆ΑΜΑΣΚΗΝΟΥ ΠΕΡΙ ΤΩΝ ΟΚΤΩ ΤΗΣ ΠΟΝΗΡΙΑΣ ΠΝΕΥΜΑΤΩΝ.
+#+TITLE: De octo spiritibus nequitiae
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: De octo spiritibus nequitiae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-octo-spiritibus-nequitiae--john-of-damascus
 #+LANGUAGE: el
 
-* ΙΩΑΝΝΟΥ ΤΟΥ ∆ΑΜΑΣΚΗΝΟΥ ΠΕΡΙ ΤΩΝ ΟΚΤΩ ΤΗΣ ΠΟΝΗΡΙΑΣ ΠΝΕΥΜΑΤΩΝ.
+* De octo spiritibus nequitiae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΙΩΑΝΝΟΥ ΤΟΥ ∆ΑΜΑΣΚΗΝΟΥ ΠΕΡΙ ΤΩΝ ΟΚΤΩ ΤΗΣ ΠΟΝΗΡΙΑΣ
+ΠΝΕΥΜΑΤΩΝ.
 αʹ. Γίνωσκε, ἀδελφὲ, ὅτι ὀκτώ εἰσιν οἱ λογισμοὶ οἱ πολεμοῦντες τὸν μοναχὸν,
 καθὼς λέγουσιν οἱ Πατέρες. Πρῶτον ὁ τῆς γαστριμαργίας· δεύτερος ὁ τῆς κακῆς καὶ
 αἰσχρᾶς ἐπιθυμίας· τρίτος ὁ τῆς φιλαργυρίας· τέταρτος ὁ τῆς λύπης· πέμπτος ὁ τῆς

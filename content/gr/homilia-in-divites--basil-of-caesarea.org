@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ ΠΡΟΣ ΤΟΥΣ ΠΛΟΥΤΟΥΝΤΑΣ
+#+TITLE: Homilia in divites
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in divites
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-divites--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ ΠΡΟΣ ΤΟΥΣ ΠΛΟΥΤΟΥΝΤΑΣ
+* Homilia in divites
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ ΠΡΟΣ ΤΟΥΣ ΠΛΟΥΤΟΥΝΤΑΣ
 1 –Εἴρηται καὶ πρώην ἡμῖν τὰ περὶ τοῦ νεανίσκου τούτου, καὶ μέ μνηται
 πάντως ὅ γε φιλόπονος ἀκροατὴς τῶν ἐξητασμένων τότε· πρῶτον μὲν, ὅτι οὐχ ὁ
 αὐτός ἐστι τῷ παρὰ τῷ Λουκᾷ νομικῷ. Ὁ μὲν γὰρ πειρασ τὴς ἦν, εἰρωνικὰς τὰς

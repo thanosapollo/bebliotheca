@@ -1,6 +1,7 @@
-#+TITLE: Λόγος εἰς τὸν βασιλέα κῦρ Κωνσταντῖνον τὸν Μονομάχον.
+#+TITLE: Orationes panegyricae
 #+AUTHOR: Μιχαὴλ Ψελλός
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Orationes panegyricae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

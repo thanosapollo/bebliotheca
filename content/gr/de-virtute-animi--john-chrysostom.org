@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ Ηʹ. Ὅτι πάντων ἡ κατὰ ψυχὴν ἀρετὴ προτιμοτέρα. 64.473
+#+TITLE: De virtute animi
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De virtute animi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-virtute-animi--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Ηʹ. Ὅτι πάντων ἡ κατὰ ψυχὴν ἀρετὴ προτιμοτέρα. 64.473
+* De virtute animi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Ηʹ. Ὅτι πάντων ἡ κατὰ ψυχὴν ἀρετὴ προτιμοτέρα.
+=64.473=
 Ἀριθμῶν τὰ τοῦ βίου πολλάκις κατ' ἐμαυτὸν ἀγαθὰ, καὶ μεστὴν εὑρίσκων
 πολλῶν πανταχόθεν τὴν κτίσιν, καὶ μυρίων τῷ γένει παρεκτικὴν ἀγαθῶν, οὐδὲν
 ὁρῶ τοῦ ψυχῆς ὡραιότητα φιλοκαλεῖν ἀγαθώτερον, οὐδὲ μᾶλλον ἀνθρώπου

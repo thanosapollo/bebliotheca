@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ∆ΑΜΑΣΚΗΝΟΥ ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΤΡΙΑ∆ΟΣ.
+#+TITLE: De sancta trinitate
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: De sancta trinitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancta-trinitate--john-of-damascus
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ∆ΑΜΑΣΚΗΝΟΥ ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΤΡΙΑ∆ΟΣ.
+* De sancta trinitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ∆ΑΜΑΣΚΗΝΟΥ ΠΕΡΙ ΤΗΣ
+ΑΓΙΑΣ ΤΡΙΑ∆ΟΣ.
 αʹ. Περὶ μὲν τῆς ἁγίας Τριάδος τῆς ὁμοουσίου, ζωοποιοῦ, μίαν φύσιν ὁμολόγει,
 μίαν θέλησιν, μίαν ἐνέργειαν, μίαν δύναμίν τε καὶ ἐξουσίαν, καὶ κυριότητα, ὅτι καὶ μία
 θεότης τρεῖς ὑποστάσεις, ἤτοι τρία πρόσωπα, φυλασσομένης ἑκάστῳ προσώπῳ τῆς

@@ -1,17 +1,20 @@
-#+TITLE: ΕΓΚΩΜΙΟΝ ΕΙΣ ΜΑΡΤΥΡΑΣ ΑΙΓΥΠΤΙΟΥΣ. 50.693
+#+TITLE: In martyres Aegyptios
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In martyres Aegyptios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-martyres-aegyptios--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΓΚΩΜΙΟΝ ΕΙΣ ΜΑΡΤΥΡΑΣ ΑΙΓΥΠΤΙΟΥΣ. 50.693
+* In martyres Aegyptios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΓΚΩΜΙΟΝ ΕΙΣ ΜΑΡΤΥΡΑΣ ΑΙΓΥΠΤΙΟΥΣ.
+=50.693=
 αʹ. Εὐλογητὸς ὁ Θεὸς, ὅτι καὶ ἐξ Αἰγύπτου μάρτυρες, Αἰγύπτου τῆς θεομάχου
 καὶ μανικωτάτης, καὶ ὅθεν τὰ ἄθεα στόματα, ὅθεν αἱ βλάσφημοι γλῶσσαι, ἐξ
 Αἰγύπτου μάρτυρες, οὐκ ἐν Αἰγύπτῳ δὲ μόνον, οὐδὲ ἐν τῇ παροίκῳ καὶ γείτονι χώρᾳ,

@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΗΝ ΑΓΙΑΝ ΠΕΝΤΗΚΟΣΤΗΝ, Καὶ διὰ τί σημεῖα νῦν οὐ γίνεται, καὶ
+#+TITLE: De sancta pentecoste
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sancta pentecoste
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancta-pentecoste--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΗΝ ΑΓΙΑΝ ΠΕΝΤΗΚΟΣΤΗΝ, Καὶ διὰ τί σημεῖα νῦν οὐ γίνεται, καὶ
+* De sancta pentecoste
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΗΝ ΑΓΙΑΝ ΠΕΝΤΗΚΟΣΤΗΝ, Καὶ διὰ τί σημεῖα νῦν οὐ γίνεται, καὶ
 ὅτι τὰ πραττόμενα καὶ λεγόμενα παρ' ἡμῶν ἀναγράφεται.
 =50.453= Ὁμιλία αʹ.
 αʹ. Πάλιν ἑορτὴ, καὶ πάλιν πανήγυρις, καὶ πάλιν ἡ Ἐκκλησία τῷ πλήθει τῶν

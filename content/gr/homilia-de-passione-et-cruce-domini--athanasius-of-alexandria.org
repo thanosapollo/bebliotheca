@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΕΙΣ ΤΟ ΠΑΘΟΣ ΤΟΥ ΚΥΡΙΟΥ ΚΑΙ ΕΙΣ ΤΟΝ ΣΤΑΥΡΟΝ.
+#+TITLE: Homilia de passione et cruce domini
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia de passione et cruce domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

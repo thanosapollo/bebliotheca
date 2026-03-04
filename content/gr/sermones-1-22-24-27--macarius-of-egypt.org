@@ -1,6 +1,7 @@
-#+TITLE: 1.1 Ἐρώτησις. Πῶς λέγει Παῦλος· «ἔθνη τὰ μὴ νόμον ἔχοντα» «ἑαυτοῖς εἰσι
+#+TITLE: Sermones 1-22 et 24-27
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermones 1-22 et 24-27
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

@@ -1,6 +1,7 @@
-#+TITLE: Nazianzeno facta (cap. 23, 25-27)
+#+TITLE: Philocalia sive Ecloga
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Philocalia sive Ecloga
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

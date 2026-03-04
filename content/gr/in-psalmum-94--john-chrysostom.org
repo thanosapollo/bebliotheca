@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΕΙΣ ΤΟ, ∆εῦτε, ἀγαλλιασώμεθα τῷ Κυρίῳ. 55.615
+#+TITLE: In Psalmum 94
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Psalmum 94
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-psalmum-94--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΕΙΣ ΤΟ, ∆εῦτε, ἀγαλλιασώμεθα τῷ Κυρίῳ. 55.615
+* In Psalmum 94
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΕΙΣ ΤΟ, ∆εῦτε, ἀγαλλιασώμεθα τῷ Κυρίῳ.
+=55.615=
 Ἐγείρει τὸν ὁπλίτην πρὸς πόλεμον ἡ τῆς σάλπιγγος βοὴ, καὶ τοῦτον ἕτοιμον
 πρὸς μάχην τοῖς πολεμίοις παρ ίστησιν· καὶ ναύτας παρ' ὅρμον βαίνειν ἐπὶ νηὸς ἡ
 τοῦ χειμῶνος ἔκβασις κατηνάγκασεν. Καὶ ἡμᾶς ὁ μελῳδὸς ∆αυῒδ διὰ τῆς πυκτίδος

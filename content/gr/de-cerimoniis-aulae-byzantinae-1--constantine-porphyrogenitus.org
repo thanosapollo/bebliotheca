@@ -1,17 +1,19 @@
-#+TITLE: ΚΕΦ. πδʹ. Ἐκ τῶν τοῦ Μαγίστρου Πέτρου. Ὅσα δεῖ παραφυλάττειν ἐπὶ
+#+TITLE: De cerimoniis aulae Byzantinae
 #+AUTHOR: Κωνσταντῖνος Πορφυρογέννητος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: De cerimoniis aulae Byzantinae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-cerimoniis-aulae-byzantinae-1--constantine-porphyrogenitus
 #+LANGUAGE: el
 
-* ΚΕΦ. πδʹ. Ἐκ τῶν τοῦ Μαγίστρου Πέτρου. Ὅσα δεῖ παραφυλάττειν ἐπὶ
+* De cerimoniis aulae Byzantinae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΚΕΦ. πδʹ. Ἐκ τῶν τοῦ Μαγίστρου Πέτρου. Ὅσα δεῖ παραφυλάττειν ἐπὶ
 προαγωγῇ κόμητος ἀδμινσιόνων καὶ κόμητος σχολῆς καὶ κωροπαλάτου.
 Ὁ κόμης τῶν ἀδμηνσιόνων ἐπὶ σιλεντίου γίνεται, καὶ καθημένου τοῦ βασιλέως ἐν
 κονσιστωρίῳ· πολλάκις δὲ καὶ εἰς ἱππικὸν ἀνιὼν, ποιεῖ αὐτὸν ἐν τῷ μεγάλῳ τρικλίνῳ, ἐν ᾧ τό

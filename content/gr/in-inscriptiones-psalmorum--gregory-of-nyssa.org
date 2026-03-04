@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΑΣ ΕΠΙΓΡΑΘΑΣ ΤΩΝ ΨΑΛΜΩΝ I
+#+TITLE: In inscriptiones Psalmorum
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In inscriptiones Psalmorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-inscriptiones-psalmorum--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΑΣ ΕΠΙΓΡΑΘΑΣ ΤΩΝ ΨΑΛΜΩΝ I
+* In inscriptiones Psalmorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΑΣ ΕΠΙΓΡΑΘΑΣ ΤΩΝ ΨΑΛΜΩΝ
+I
 Ἐδεξάμην σου τὸ ἐπίταγμα μετὰ προθυμίας πάσης, ὦ ἄνθρωπε τοῦ θεοῦ,
 κατὰ τὸ ἴσον ἐμοί τε καὶ σοὶ τὴν σπουδὴν χαριζόμενον, καὶ προσέσχον ταῖς τῶν
 ψαλμῶν ἐπιγραφαῖς. τοῦτο γὰρ ἡμῖν ἐπέταξας διερευνήσασθαι τὴν ἐνθεωρουμένην

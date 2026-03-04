@@ -1,17 +1,19 @@
-#+TITLE: 7.1 Ἐκφεύγειν τοιγαροῦν τὸ ἔγκλημα τὸ περὶ τῆς δόξης τῶν κτιστῶν θεῶν
+#+TITLE: De trinitate
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De trinitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-trinitate--didymus-the-blind
 #+LANGUAGE: el
 
-* 7.1 Ἐκφεύγειν τοιγαροῦν τὸ ἔγκλημα τὸ περὶ τῆς δόξης τῶν κτιστῶν θεῶν
+* De trinitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+7.1 Ἐκφεύγειν τοιγαροῦν τὸ ἔγκλημα τὸ περὶ τῆς δόξης τῶν κτιστῶν θεῶν
 τοὺς πιστεύοντας τῷ υἱῷ ὁ ἔννομος Παῦλος τῷ θεϊκῷ πνεύματι σεσοφισμένος
 ἐγγυᾶται. 7.2 ἔτι δὲ καὶ "ἀθέους" ἀποκαλεῖ τοὺς πρὸ τούτου ἐκτὸς τοῦ υἱοῦ τὸν θεὸν
 καὶ πατέρα μόνον ἐγνωκότας, ἐπειδὴ οὐκ ἐν π̣ο̣ι̣ήμασι τ̣ελ̣εῖ, γράφων πῇ μὲν ὅτι

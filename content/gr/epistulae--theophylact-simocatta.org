@@ -1,6 +1,7 @@
-#+TITLE: ΘΕΟΦΥΛΑΚΤΟΥ ΣΧΟΛΑΣΤΙΚΟΥ ΤΟΥ ΣΙΜΟΚΡΑΤΟΥ ΕΠΙΣΤΟΛΑΙ ΗΘΙΚΑΙ ΑΓΡΟΙΚΙΚΑΙ ΕΤΑΙΡΙΚΑΙ 1 Κριτίας Πλωτίνῳ
+#+TITLE: Epistulae
 #+AUTHOR: Θεοφύλακτος Σιμοκάττης
 #+FILETAGS: :byzantine:7c-ad:
+#+MIGNE_TITLE: Epistulae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

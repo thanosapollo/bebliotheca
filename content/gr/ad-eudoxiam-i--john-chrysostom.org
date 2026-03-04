@@ -1,17 +1,19 @@
-#+TITLE: 286 «Ὡς ὁρῶ, ἅπερ σπεύδω οἰκοδομεῖν πρὸς σωτηρίαν τῆς θεοφιλοῦς σου
+#+TITLE: Ad Eudoxiam i
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ad Eudoxiam i
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-eudoxiam-i--john-chrysostom
 #+LANGUAGE: el
 
-* 286 «Ὡς ὁρῶ, ἅπερ σπεύδω οἰκοδομεῖν πρὸς σωτηρίαν τῆς θεοφιλοῦς σου
+* Ad Eudoxiam i
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+286 «Ὡς ὁρῶ, ἅπερ σπεύδω οἰκοδομεῖν πρὸς σωτηρίαν τῆς θεοφιλοῦς σου
 ψυχῆς, σὺ τὸ μᾶλλον καταβάλαι οὐκ ὀκνεῖς. Ἐγὼ γὰρ οὐ μόνον ταύτης τῆς
 προσκαίρου βασιλείας ἀπολαῦσαί σε εὔχομαι ἐν γήρᾳ πίονι, ἀλλὰ καὶ τῆς
 ἐπουρανίου καὶ ἀπεράντου τῶν οὐρανῶν βασιλείας κληρονόμον σε ἀναδειχθῆναι

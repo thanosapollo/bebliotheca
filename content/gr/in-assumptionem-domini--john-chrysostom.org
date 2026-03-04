@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου
+#+TITLE: In assumptionem domini
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In assumptionem domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-assumptionem-domini--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου
+* In assumptionem domini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου
 Κωνσταντινουπόλεως τοῦ Χρυσοστόμου εἰς τὴν ἀνάληψιν τοῦ Κυρίου
 ἡμῶν Ἰησοῦ Χριστοῦ.
 Θεία τις, ὡς ἔοικεν, ἡ παροῦσα πανήγυρις τὴν τοῦ ∆εσπότου κατὰ τοῦ

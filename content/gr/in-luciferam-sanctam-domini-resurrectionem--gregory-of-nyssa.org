@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΦΩΤΟΦΟΠΟΝ ΚΑΙΑΓΙΑΝ ΑΝΑΣΤΑΣΙΝ ΤΟΥ ΚΥΡΙΟΥ
+#+TITLE: In luciferam sanctam domini resurrectionem
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In luciferam sanctam domini resurrectionem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-luciferam-sanctam-domini-resurrectionem--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΦΩΤΟΦΟΠΟΝ ΚΑΙΑΓΙΑΝ ΑΝΑΣΤΑΣΙΝ ΤΟΥ ΚΥΡΙΟΥ
+* In luciferam sanctam domini resurrectionem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΦΩΤΟΦΟΠΟΝ ΚΑΙΑΓΙΑΝ
+ΑΝΑΣΤΑΣΙΝ ΤΟΥ ΚΥΡΙΟΥ
 Εὐλόγητος ὁ θεός. εὐφημήσωμεν σήμερον τὸν μονογενῆ θεὸν τὸν τῶν
 οὐρανίων γεννήτορα, τὸν τῶν κρυφίων λαγόνων τῆς γῆς ὑπερκύψαντα καὶ ταῖς
 φαεσφόροις ἀκτῖσι τὴν ὅλην οἰκουμένην ἀποσκιάσαντα. εὐφημήσωμεν σήμερον τὴν

@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ ΟΤΙ ΟΥΚ ΕΣΤΙΝ ΑΙΤΙΟΣ ΤΩΝ ΚΑΚΩΝ Ο ΘΕΟΣ.
+#+TITLE: Quod deus non est auctor malorum
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quod deus non est auctor malorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quod-deus-non-est-auctor-malorum--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΟΤΙ ΟΥΚ ΕΣΤΙΝ ΑΙΤΙΟΣ ΤΩΝ ΚΑΚΩΝ Ο ΘΕΟΣ.
+* Quod deus non est auctor malorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΟΤΙ ΟΥΚ ΕΣΤΙΝ ΑΙΤΙΟΣ ΤΩΝ ΚΑΚΩΝ Ο ΘΕΟΣ.
 Πολλοὶ τῆς διδασκαλίας οἱ τρόποι, οἱ διὰ ἱεροψάλ του ∆αβὶδ παρὰ τοῦ
 ἐνεργοῦντος ἐν αὐτῷ Πνεύματος ὑποδειχθέντες ἡμῖν. Ποτὲ μὲν γὰρ, τὰ οἰκεῖα πάθη
 διηγούμενος ἡμῖν ὁ προφήτης, καὶ ὅπως ἤνεγκε τὰ συμπίπτοντα γενναίως, διὰ τοῦ

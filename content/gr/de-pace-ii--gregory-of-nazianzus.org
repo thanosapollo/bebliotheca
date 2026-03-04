@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ ΚΒʹ.
+#+TITLE: De pace ii
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De pace ii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-pace-ii--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΚΒʹ.
+* De pace ii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΚΒʹ.
 Εἰρηνικὸς βʹ, λεχθεὶς ἐν Κωνσταντίνου πό λει, ἐπὶ τῇ γενομένῃ τῷ λαῷ
 φιλονεικίᾳ, περὶ ἐπισκόπων τινῶν διενεχθέντων πρὸς ἀλλήλους.
 Αʹ. Εἰρήνη φίλη, τὸ γλυκὺ καὶ πρᾶγμα καὶ ὄνομα, ὃ νῦν ἔδωκα τῷ λαῷ καὶ

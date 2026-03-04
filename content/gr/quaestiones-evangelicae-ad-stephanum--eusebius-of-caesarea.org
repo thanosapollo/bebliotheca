@@ -1,6 +1,7 @@
-#+TITLE: ΕΚΛΟΓΗ ΕΝ ΣΥΝΤΟΜΩ ΕΚ ΤΩΝ ΣΥΝΤΕΘΕΝΤΩΝ ΥΠΟ ΕΥΣΕΒΙΟΥ ΠΡΟΣ ΣΤΕΦΑΝΟΝ ΠΕΡΙ ΤΩΝ ΕΝ ΕΥΑΓΓΕΛΙΟΙΣ ΖΗΤΗΜΑΤΩΝ ΚΑΙ ΛΥΣΕΩΝ. Αʹ. ∆ιὰ τί τὸν Ἰωσὴφ, ἀλλ' οὐ τὴν Μαρίαν, οἱ εὐαγγελισταὶ γενεαλογοῦσιν. Αʹ. ∆ιὰ τί τὸν Ἰωσὴφ, ἀλλ' οὐ τὴν Μαρίαν, οἱ εὐαγγελισταὶ γενεαλογοῦσιν.
+#+TITLE: Quaestiones evangelicae ad Stephanum
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quaestiones evangelicae ad Stephanum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

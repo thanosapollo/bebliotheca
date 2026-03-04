@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΤΑ ΕΥΡΙΣΚΟΜΕΝΑ ΠΑΝΤΑ. ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΑΣ ΠΡΑΞΕΙΣ ΤΩΝ ΑΠΟΣΤΟΛΩΝ. 60.13 ΟΜΙΛΙΑ Αʹ.
+#+TITLE: In Acta apostolorum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Acta apostolorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-acta-apostolorum--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΤΑ ΕΥΡΙΣΚΟΜΕΝΑ ΠΑΝΤΑ. ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΑΣ ΠΡΑΞΕΙΣ ΤΩΝ ΑΠΟΣΤΟΛΩΝ. 60.13 ΟΜΙΛΙΑ Αʹ.
+* In Acta apostolorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΤΑ
+ΕΥΡΙΣΚΟΜΕΝΑ ΠΑΝΤΑ. ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΑΣ ΠΡΑΞΕΙΣ ΤΩΝ
+ΑΠΟΣΤΟΛΩΝ.
+=60.13= ΟΜΙΛΙΑ Αʹ.
 Τὸν μὲν πρῶτον λόγον ἐποιησάμην περὶ πάντων, ὦ Θεόφιλε, ὧν ἤρξατο ὁ
 Ἰησοῦς ποιεῖν τε καὶ διδάσκειν, ἄχρι ἧς ἡμέρας ἐντειλάμενος τοῖς ἀποστόλοις διὰ
 Πνεύματος ἁγίου, οὓς ἐξελέξα το, ἀνελήφθη. αʹ. Πολλοῖς τουτὶ τὸ βιβλίον οὐδ' ὅτι

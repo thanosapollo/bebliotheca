@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὴν μνήμην τοῦ ἁγίου Βάσσου. Ἐλέχθη εἰς τοὺς φόβους, καὶ εἰς τὸ,
+#+TITLE: In Bassum martyrem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Bassum martyrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-bassum-martyrem--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν μνήμην τοῦ ἁγίου Βάσσου. Ἐλέχθη εἰς τοὺς φόβους, καὶ εἰς τὸ,
+* In Bassum martyrem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν μνήμην τοῦ ἁγίου Βάσσου. Ἐλέχθη εἰς τοὺς φόβους, καὶ εἰς τὸ,
 Μάθετε ἀπ' ἐμοῦ, ὅτι πρᾶός εἰμι, καὶ ταπεινὸς τῇ καρδίᾳ.
 =50.719=
 αʹ. Ἔδει μὲν ἡμᾶς τοσαύτης λόγων πηγῆς συνήθως εἰς ὑμᾶς χεομένης, νῦν δὲ

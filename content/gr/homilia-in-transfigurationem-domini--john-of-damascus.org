@@ -1,6 +1,7 @@
-#+TITLE: Αʹ. Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν καὶ μακαριωτάτου μοναχοῦ καὶ
+#+TITLE: Homilia in transfigurationem domini
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Homilia in transfigurationem domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

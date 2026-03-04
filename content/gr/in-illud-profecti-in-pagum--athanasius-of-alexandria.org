@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ Ἀθανασίου, ἀρχιεπισκόπου Ἀλεξανδρείας, εἰς τό· «πορεύεσθε εἰς
+#+TITLE: In illud Profecti in pagum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Profecti in pagum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-profecti-in-pagum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ Ἀθανασίου, ἀρχιεπισκόπου Ἀλεξανδρείας, εἰς τό· «πορεύεσθε εἰς
+* In illud Profecti in pagum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ Ἀθανασίου, ἀρχιεπισκόπου Ἀλεξανδρείας, εἰς τό· «πορεύεσθε εἰς
 τὴν κατέναντι κώμην καὶ εὑρήσετε πῶλον δεδεμένον.»
 1.1 «Οἱ τὰ ἐπίγεια φρονήσαντες» καὶ τῆς ἐντολῆς τοῦ θεοῦ κατα φρονήσαντες καὶ ἐν
 τῷ βίῳ τούτῳ μοχθήσαντες, οὗτοι πρὸ τῆς τῶν ἀγαθῶν εὑρέσεως ἐν ἀγνοίᾳ

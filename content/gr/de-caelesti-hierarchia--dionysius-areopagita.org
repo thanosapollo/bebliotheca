@@ -1,17 +1,21 @@
-#+TITLE: ΤΩι ΣΥΜΠΡEΣΒΥΤEΡΩι ΤIΜOΘEΩι ∆IOΝΥΣIOΣ O ΠΡEΣΒΥΤEΡOΣ ΠEΡI ΤHΣ OΥΡAΝIAΣ IEΡAΡΧIAΣ <I.>
+#+TITLE: De caelesti hierarchia
 #+AUTHOR: Διονύσιος Ἀρεοπαγίτης
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: De caelesti hierarchia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-caelesti-hierarchia--dionysius-areopagita
 #+LANGUAGE: el
 
-* ΤΩι ΣΥΜΠΡEΣΒΥΤEΡΩι ΤIΜOΘEΩι ∆IOΝΥΣIOΣ O ΠΡEΣΒΥΤEΡOΣ ΠEΡI ΤHΣ OΥΡAΝIAΣ IEΡAΡΧIAΣ <I.>
+* De caelesti hierarchia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΩι ΣΥΜΠΡEΣΒΥΤEΡΩι ΤIΜOΘEΩι ∆IOΝΥΣIOΣ O ΠΡEΣΒΥΤEΡOΣ
+ΠEΡI ΤHΣ OΥΡAΝIAΣ IEΡAΡΧIAΣ
+<I.>
 <1> «Πᾶσα δόσις ἀγαθὴ καὶ πᾶν δώρημα τέλειον ἄνωθέν ἐστι κατα
 βαῖνον ἀπὸ τοῦ πατρὸς τῶν φώτων.» Ἀλλὰ καὶ πᾶσα πατροκινήτου
 φωτοφανείας πρόοδος εἰς ἡμᾶς ἀγαθοδότως φοιτῶσα πάλιν ὡς ἑνοποιὸς

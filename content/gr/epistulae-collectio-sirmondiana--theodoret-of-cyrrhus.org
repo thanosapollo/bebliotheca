@@ -1,17 +1,21 @@
-#+TITLE: ΕΠΙΣΤΟΛΑΙ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΡΟΥ ΤΟΥ ΑΥΤΟΥ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ∆ΙΑΦΟΡΟΝ ΦΙΛΟΝ. Τῷ θαυμαστῷ συμβούλῳ τὸν συνετὸν ἀκροατὴν ὁ προφητι κὸς συνέζευξε λόγος.
+#+TITLE: Epistulae Collectio Sirmondiana
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Epistulae Collectio Sirmondiana
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistulae-collectio-sirmondiana--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΕΠΙΣΤΟΛΑΙ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΡΟΥ ΤΟΥ ΑΥΤΟΥ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ∆ΙΑΦΟΡΟΝ ΦΙΛΟΝ. Τῷ θαυμαστῷ συμβούλῳ τὸν συνετὸν ἀκροατὴν ὁ προφητι κὸς συνέζευξε λόγος.
+* Epistulae Collectio Sirmondiana
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΠΙΣΤΟΛΑΙ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΡΟΥ
+ΤΟΥ ΑΥΤΟΥ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ∆ΙΑΦΟΡΟΝ ΦΙΛΟΝ.
+Τῷ θαυμαστῷ συμβούλῳ τὸν συνετὸν ἀκροατὴν ὁ προφητι κὸς συνέζευξε λόγος.
 Ἐγὼ δέ σου τῇ ὁσιότητι οὐχ ὡς ἀκρο ατῇ συνετῷ, ἀλλ' ὡς κριτῇ σοφῷ τε καὶ ἀληθεῖ, τὴν
 εἰς τὸν θεῖον Ἀπόστολον συγγραφεῖσάν μοι δέδωκα βίβλον. Καὶ καθά περ οἱ χρυσοχόοι
 τῇ βασάνῳ προσφέρουσι τὸν χρυσόν, ἰδεῖν ἐθέλοντες εἰ ἀκίβδηλός τε καὶ ἄπεφθος,

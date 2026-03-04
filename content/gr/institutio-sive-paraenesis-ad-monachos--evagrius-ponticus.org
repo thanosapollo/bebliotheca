@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΝΕΙΛΟΥ ΠΑΡΑΙΝΕΣΙΣ ΠΡΟΣ ΜΟΝΑΧΟΥΣ.
+#+TITLE: Institutio sive Paraenesis ad monachos
 #+AUTHOR: Εὐάγριος Ποντικός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Institutio sive Paraenesis ad monachos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/institutio-sive-paraenesis-ad-monachos--evagrius-ponticus
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΝΕΙΛΟΥ ΠΑΡΑΙΝΕΣΙΣ ΠΡΟΣ ΜΟΝΑΧΟΥΣ.
+* Institutio sive Paraenesis ad monachos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΝΕΙΛΟΥ ΠΑΡΑΙΝΕΣΙΣ ΠΡΟΣ
+ΜΟΝΑΧΟΥΣ.
 =79.1236= Ἀκρασίαν βρωμάτων περικόπτει νηστεία, ἀκολασίαν δὲ πορνείας
 περιαιρεῖ ἐγκράτεια μετὰ προσευχῆς. Φιλαργυρίαν τὴν τῆς εἰδωλολατρίας μητέρα
 συστέλλει ἀκτημοσύνη, μέριμναν δὲ σωματικὴν περικόπτει ἐλπὶς ἡ εἰς Θεόν.

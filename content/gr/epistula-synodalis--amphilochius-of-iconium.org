@@ -1,17 +1,19 @@
-#+TITLE: Ἀμφιλοχίου ἐπισκόπου Ἰκονίου ἐπιστολὴ συνοδική.
+#+TITLE: Epistula synodalis
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula synodalis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-synodalis--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* Ἀμφιλοχίου ἐπισκόπου Ἰκονίου ἐπιστολὴ συνοδική.
+* Epistula synodalis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀμφιλοχίου ἐπισκόπου Ἰκονίου ἐπιστολὴ συνοδική.
 Καὶ πρὶν κομίζεσθαι τὰ παρὰ τῆς ἀγάπης ὑμῶν γράμματα, περιήγγειλεν εἰς ἡμᾶς ἡ
 φήμη καὶ τὸ τῆς πίστεως ὑμῶν ἀκραιφνὲς καὶ πρὸς τοὺς κινδύνους παρατεταμένον
 καὶ πρὸς τὰ παθήματα τὰ ὑπὲρ Χριστοῦ καρτερικὸν καὶ τῆς εἰς θεὸν ἀγάπης καὶ τὸ

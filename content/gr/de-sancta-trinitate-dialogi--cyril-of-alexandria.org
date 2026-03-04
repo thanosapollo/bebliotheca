@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ <περὶ ἁγίας τε καὶ ὁμοουσίου Τριάδος> ΠΡΟΛΟΓΟΣ ΤΗΣ ΠΑΡΟΥΣΗΣ ΒΙΒΛΟΥ
+#+TITLE: De sancta trinitate dialogi
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: De sancta trinitate dialogi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancta-trinitate-dialogi--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ <περὶ ἁγίας τε καὶ ὁμοουσίου Τριάδος> ΠΡΟΛΟΓΟΣ ΤΗΣ ΠΑΡΟΥΣΗΣ ΒΙΒΛΟΥ
+* De sancta trinitate dialogi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ <περὶ ἁγίας τε
+καὶ ὁμοουσίου Τριάδος>
+ΠΡΟΛΟΓΟΣ ΤΗΣ ΠΑΡΟΥΣΗΣ ΒΙΒΛΟΥ
 383 ∆υσέφικτα μὲν κομιδῇ τὰ περὶ Θεοῦ καὶ τοῖς ἄγαν ἐξησκημένως καὶ
 ἀρτίως ἔχουσιν εἰς τὸ δύνασθαι καταθρεῖν μυστήρια, καὶ τὰ παντὸς ἐπέκεινα νοῦ καὶ
 γοῦν "ἐν ἐσόπτρῳ καὶ αἰνίγματι" βλέπειν, κατὰ τὸν σοφώτατον Παῦλον. Παχὺς δὲ

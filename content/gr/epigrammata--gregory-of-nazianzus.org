@@ -1,17 +1,22 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ Εἰς τὸν αὐτόν Τέτρατον ἦμαρ ἔην, καὶ Λάζαρος ἔγρετο τύμβου. 1.92 ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ
+#+TITLE: Epigrammata
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epigrammata
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epigrammata--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ Εἰς τὸν αὐτόν Τέτρατον ἦμαρ ἔην, καὶ Λάζαρος ἔγρετο τύμβου. 1.92 ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ
+* Epigrammata
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ
+Εἰς τὸν αὐτόν
+Τέτρατον ἦμαρ ἔην, καὶ Λάζαρος ἔγρετο τύμβου.
+=1.92= ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ
 Ἐν Καισαρείᾳ εἰς τὸν ναὸν τοῦ ἁγίου Βασιλείου Ἦν ὅτε Χριστὸς ἴαυεν ἐφ'
 ὁλκάδος ἔμφυτον ὕπνον, τετρήχει δὲ θάλασσα κυδοιμοτόκοισιν ἀήταις, δείματί τε
 πλωτῆρες ἀνίαχον· «Ἔγρεο, σῶτερ· ὀλλυμένοις ἐπάμυνον.» ἄναξ δὲ κέλευεν

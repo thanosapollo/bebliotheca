@@ -1,17 +1,21 @@
-#+TITLE: ΕΙΣ ΤΗΝ ΕΠΙΛΥΣΙΝ ΤΗΣ ΧΑΝΑΝΑΙΑΣ Ἐῤῥήθη δὲ μετὰ τὸ ὑποστρέψαι αὐτὸν ἐκ τῆς ἐξορίας. 52.449
+#+TITLE: De Chananaea
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De Chananaea
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-chananaea--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΗΝ ΕΠΙΛΥΣΙΝ ΤΗΣ ΧΑΝΑΝΑΙΑΣ Ἐῤῥήθη δὲ μετὰ τὸ ὑποστρέψαι αὐτὸν ἐκ τῆς ἐξορίας. 52.449
+* De Chananaea
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΗΝ ΕΠΙΛΥΣΙΝ ΤΗΣ ΧΑΝΑΝΑΙΑΣ Ἐῤῥήθη δὲ μετὰ τὸ ὑποστρέψαι
+αὐτὸν ἐκ τῆς ἐξορίας.
+=52.449=
 αʹ. Πολὺς ὁ χειμὼν, ἀλλὰ τὴν προθυμίαν τῶν παραγενομένων οὐ διεκώλυσε·
 πολλοὶ οἱ πειρασμοὶ, ἀλλὰ τὸν πόθον ὑμῶν οὐκ ἐξέλυσαν. Οὐ παύεται ἡ Ἐκκλησία
 πολεμουμένη καὶ νικῶσα, ἐπιβουλευομένη καὶ περιγινομένη. Ὅσον ἄλλοι

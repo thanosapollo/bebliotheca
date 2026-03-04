@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ Εʹ. 63.485
+#+TITLE: De studio praesentium
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De studio praesentium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-studio-praesentium--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Εʹ. 63.485
+* De studio praesentium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Εʹ.
+=63.485=
 Τοῦ αὐτοῦ ὁμιλία, λεχθεῖσα ἐν τῷ ναῷ τῆς ἁγίας Εἰρήνης, ὑπέρ τε τῆς
 σπουδῆς τῶν παρόντων καὶ ῥᾳθυμίας τῶν ἀπολειφθέντων, καὶ περὶ τοῦ
 ψάλλειν, καὶ περὶ τοῦ μηδὲν εἶναι κώλυμα γυναιξὶ τὴν φύσιν πρὸς τοὺς τῆς

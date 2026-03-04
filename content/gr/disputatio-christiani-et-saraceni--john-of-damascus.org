@@ -1,17 +1,19 @@
-#+TITLE: ∆ιάλεξις Σαρακηνοῦ καὶ Χριστιανοῦ
+#+TITLE: Disputatio Christiani et Saraceni
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Disputatio Christiani et Saraceni
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/disputatio-christiani-et-saraceni--john-of-damascus
 #+LANGUAGE: el
 
-* ∆ιάλεξις Σαρακηνοῦ καὶ Χριστιανοῦ
+* Disputatio Christiani et Saraceni
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+∆ιάλεξις Σαρακηνοῦ καὶ Χριστιανοῦ
 1 Ἐρωτηθεὶς ὁ Χριστιανὸς παρὰ Σαρακηνοῦ· Τίνα λέγεις αἴτιον καλοῦ καὶ κακοῦ;
 ὁ Χριστιανός· Πάντων τῶν ἀγαθῶν οὐδένα φαμὲν αἴτιον εἶναι εἰ μὴ τὸν θεόν, κακῶν δὲ
 οὔ. Καὶ ἀποκριθεὶς ὁ Σαρακηνὸς εἶπεν· Τίνα λέγεις αἴτιον τῶν κακῶν; Ὁ Χριστιανός·

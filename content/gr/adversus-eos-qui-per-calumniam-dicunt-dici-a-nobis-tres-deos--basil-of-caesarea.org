@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ Πρὸς τοὺς συκοφαντοῦντας ἡμᾶς, ὅτι τρεῖς θεοὺς λέγομεν.
+#+TITLE: Adversus eos qui per calumniam dicunt dici a nobis tres deos
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Adversus eos qui per calumniam dicunt dici a nobis tres deos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-eos-qui-per-calumniam-dicunt-dici-a-nobis-tres-deos--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ Πρὸς τοὺς συκοφαντοῦντας ἡμᾶς, ὅτι τρεῖς θεοὺς λέγομεν.
+* Adversus eos qui per calumniam dicunt dici a nobis tres deos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ
+Πρὸς τοὺς συκοφαντοῦντας ἡμᾶς, ὅτι τρεῖς θεοὺς λέγομεν.
 Μεγάλη παράκλησις ψυχαῖς, διὰ τὸ μισεῖσθαι κεκακωμέναις, τὸ μετὰ Κυρίου
 μισεῖσθαι. «Εἰ ὁ κόσμος γὰρ ὑμᾶς μισεῖ, γινώσκετε, φησὶν, ὅτι ἐμὲ πρῶτον ὑμῶν
 μεμίσηκε.» ∆ιὸ εἰ ὁ Ἀγαπητὸς μισεῖ ται, τί μέγα, εἰ ἡμεῖς τοῦ μίσους ἀξιούμεθα παρ'

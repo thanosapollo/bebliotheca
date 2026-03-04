@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ ΠΕΡΙ ΤΩΝ ΑΖΥΜΩΝ.
+#+TITLE: De azymis
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De azymis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-azymis--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ ΠΕΡΙ ΤΩΝ ΑΖΥΜΩΝ.
+* De azymis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ ΠΕΡΙ ΤΩΝ ΑΖΥΜΩΝ.
 Ἐν τρισὶν ὕλαις ἐτέλουν οἱ Ἰουδαῖοι τὸ Πάσχα καὶ ἐν τρισὶν ἀρεταῖς· καὶ ἐν τρισὶ
 μάρτυρσι κατὰ τὴν τάξιν τοῦ Νόμου. Καὶ αἱ μὲν τρεῖς ὕλαι ὁ ἀμνὸς ἦσαν, τὰ ἄζυμα
 καὶ ἡ πικραλίς· αἱ δὲ τρεῖς ἀρεταὶ, περιεζωσμένοι, καὶ ὑποδήματα εἰς τοὺς πόδας, καὶ

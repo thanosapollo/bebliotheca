@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ ΕΙΣ ΤΟΝ ΜΑΚΑΡΙΟΝ ΑΒΡΑΑΜ. 50.737
+#+TITLE: De beato Abraham
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De beato Abraham
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-beato-abraham--john-chrysostom
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΕΙΣ ΤΟΝ ΜΑΚΑΡΙΟΝ ΑΒΡΑΑΜ. 50.737
+* De beato Abraham
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΕΙΣ ΤΟΝ ΜΑΚΑΡΙΟΝ ΑΒΡΑΑΜ.
+=50.737=
 Εἴδετε πολιὰν σφριγῶσαν, καὶ γῆρας ἀκμάζον; εἴδετε ἀθλητὴν γενναῖον πρὸς
 φύσιν καὶ σπλάγχνα παραταξάμενον; εἴδετε ἄνδρα ἐν ἐσχάτῃ πολιᾷ ἀδάμαντος
 στεῤῥότερον; Κεχάλαστο μὲν αὐτοῦ ὁ τόνος τῶν σαρκῶν, νενεύρωτο δὲ αὐτοῦ ὁ

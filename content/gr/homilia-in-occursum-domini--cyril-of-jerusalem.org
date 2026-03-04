@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Κυρίλλου ἀρχιεπισκόπου Ἱεροσολύμων
+#+TITLE: Homilia in occursum domini
 #+AUTHOR: Κύριλλος Ἱεροσολύμων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in occursum domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-occursum-domini--cyril-of-jerusalem
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Κυρίλλου ἀρχιεπισκόπου Ἱεροσολύμων
+* Homilia in occursum domini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Κυρίλλου ἀρχιεπισκόπου Ἱεροσολύμων
 λόγος εἰς τὴν ὑπαπάντην τοῦ κυρίου ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ
 καὶ εἰς τὸν Συμεῶνα τὸν θεοδόχον.
 1 Χαῖρε σφόδρα, θύγατερ Σιών. κήρυττε χαράν, θύγατερ Ἱερουσαλήμ. χόρευε λαὸς

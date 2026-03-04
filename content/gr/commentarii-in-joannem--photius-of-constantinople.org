@@ -1,17 +1,19 @@
-#+TITLE: 1 Jo 1, 1 Ἐν ἀρχῇ ἦν ὁ Λόγος, ἄναρχός φησι κατὰ χρόνον, καὶ ὁ Λόγος ἦν πρὸς τὸν
+#+TITLE: Commentarii in Joannem
 #+AUTHOR: Φώτιος Κωνσταντινουπόλεως
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Commentarii in Joannem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-joannem--photius-of-constantinople
 #+LANGUAGE: el
 
-* 1 Jo 1, 1 Ἐν ἀρχῇ ἦν ὁ Λόγος, ἄναρχός φησι κατὰ χρόνον, καὶ ὁ Λόγος ἦν πρὸς τὸν
+* Commentarii in Joannem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Jo 1, 1 Ἐν ἀρχῇ ἦν ὁ Λόγος, ἄναρχός φησι κατὰ χρόνον, καὶ ὁ Λόγος ἦν πρὸς τὸν
 θεόν, οἷον οὐκ ἄναρχος κατ' αἰτίαν. ὅρα πῶς ἑκατέρωθεν ὑποστηρίζει καὶ συσφίγγει
 τὴν ὀρθὴν δόξαν περὶ τοῦ υἱοῦ. εἶτα ἐπειδὴ τὸν υἱὸν Λόγον καὶ <αὖθις> Λόγον εἶπεν,
 τὸν δὲ πατέρα θεόν, ἵνα <μὴ> μείζονα τὸν πατέρα ὑπολαβὼν κατ' οὐσίαν τοῦ υἱοῦ

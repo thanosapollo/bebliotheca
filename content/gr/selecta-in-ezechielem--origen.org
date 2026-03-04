@@ -1,17 +1,20 @@
-#+TITLE: ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΝ ΙΕΖΕΚΙΗΛ 13.768 ΚΕΦ. Αʹ.
+#+TITLE: Selecta in Ezechielem
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Selecta in Ezechielem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/selecta-in-ezechielem--origen
 #+LANGUAGE: el
 
-* ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΝ ΙΕΖΕΚΙΗΛ 13.768 ΚΕΦ. Αʹ.
+* Selecta in Ezechielem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΝ ΙΕΖΕΚΙΗΛ
+=13.768= ΚΕΦ. Αʹ.
 Καὶ ἐγένετο ἐν τῷ τριακοστῷ ἔτει, ἐν τῷ τε τάρτῳ μηνὶ, πέμπτῃ τοῦ μηνὸς, καὶ ἐγὼ
 ἤμην ἐν μέσῳ τῆς αἰχμαλωσίας ἐπὶ τοῦ ποταμοῦ τοῦ Χοβάρ· καὶ ἠνοίχθησαν οἱ
 οὐρανοί. Ὁ Ἰεζεκιὴλτύπον φέρει τοῦ Χριστοῦ κατὰ πολλὰ, καὶ ἄρξῃ θεωρεῖν τοῦτο

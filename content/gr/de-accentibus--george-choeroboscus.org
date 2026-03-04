@@ -1,17 +1,19 @@
-#+TITLE: Περὶ τόνων ἐκ τῶν Χοιροβοσκοῦ, Αἰθερίου, Φιλοπόνου καὶ ἑτέρων.
+#+TITLE: De accentibus
 #+AUTHOR: Γεώργιος Χοιροβοσκός
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: De accentibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-accentibus--george-choeroboscus
 #+LANGUAGE: el
 
-* Περὶ τόνων ἐκ τῶν Χοιροβοσκοῦ, Αἰθερίου, Φιλοπόνου καὶ ἑτέρων.
+* De accentibus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ τόνων ἐκ τῶν Χοιροβοσκοῦ, Αἰθερίου, Φιλοπόνου καὶ ἑτέρων.
 1.1 Πᾶν ὄνομα μονοσύλλαβον οὐδέτερον περισπᾶται, οἷον 20πᾶν, πῦρ, κῆρ,
 ἦρ, ὦς, φῶς, σταῖς, κρῖ, σκῶρ,20 καὶ αἱ κλητικαὶ τούτων· τῇ γὰρ εὐθείᾳ τῇ
 περισπωμένῃ ἕπονται καὶ αἱ κλητικαί. Περισπῶνται καὶ τὰ μονοσύλλαβα τῶν στοι

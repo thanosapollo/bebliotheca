@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ Εἰς ἐπιγραφὴν τοῦ νʹ ψαλμοῦ, καὶ περὶ μετανοίας ∆αυῒδ, καὶ
+#+TITLE: In Psalmum 50 homilia 1
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Psalmum 50 homilia 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-psalmum-50-homilia-1--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Εἰς ἐπιγραφὴν τοῦ νʹ ψαλμοῦ, καὶ περὶ μετανοίας ∆αυῒδ, καὶ
+* In Psalmum 50 homilia 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Εἰς ἐπιγραφὴν τοῦ νʹ ψαλμοῦ, καὶ περὶ μετανοίας ∆αυῒδ, καὶ
 περὶ τῆς τοῦ Οὐρίου.
 =55.565=
 αʹ. Οἱ ζωγράφοι μιμοῦνται τῇ τέχνῃ τὴν φύσιν, καὶ κεραννύντες τὰ χρώματα,

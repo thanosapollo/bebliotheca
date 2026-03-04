@@ -1,6 +1,7 @@
-#+TITLE: Οὐ ῥήματος ἀλλὰ καιροῦ; καὶ γὰρ πρώτοις Ἰουδαίοις τὸ εὐαγγέλιον ἐξηχήθη,
+#+TITLE: Fragmenta in epistulam ad Romanos
 #+AUTHOR: Ἀρέθας Καισαρείας Καππαδοκίας
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

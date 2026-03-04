@@ -1,17 +1,22 @@
-#+TITLE: Τοῦ ἁγίου Κλήμεντος τῶν Ῥωμαίων ἐπισκόπου Ἐπιστολὴ πρὸς Κορινθίους Β’. ΚΕΦΑΛΑΙΟΝ Α’.
+#+TITLE: Epistula ii ad Corinthios
 #+AUTHOR: Κλήμης Ρώμης
 #+FILETAGS: :patristic:1c-ad:
+#+MIGNE_TITLE: Epistula ii ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ii-ad-corinthios--clement-of-rome
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου Κλήμεντος τῶν Ῥωμαίων ἐπισκόπου Ἐπιστολὴ πρὸς Κορινθίους Β’. ΚΕΦΑΛΑΙΟΝ Α’.
+* Epistula ii ad Corinthios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου Κλήμεντος
+τῶν Ῥωμαίων ἐπισκόπου
+Ἐπιστολὴ πρὸς Κορινθίους Β’.
+ΚΕΦΑΛΑΙΟΝ Α’.
 Ἀδελφοί, οὕτως δεῖ ἡμᾶς φρονεῖν περὶ Ἰησοῦ Χριστοῦ, ὡς περὶ θεοῦ, ὡς περὶ
 κριτοῦ ζώντων καὶ νεκρῶν· καὶ οὐ δεῖ ἡμᾶς μικρὰ φρονεῖν περὶ τῆς σωτηρίας ἡμῶν.
 ἐν τῷ γὰρ φρονεῖν ἡμᾶς μικρὰ περὶ αὐτοῦ μικρὰ καὶ ἐλπίζομεν λαβεῖν· καὶ οἱ

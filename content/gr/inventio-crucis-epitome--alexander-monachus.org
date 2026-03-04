@@ -1,17 +1,20 @@
-#+TITLE: ΑΛΕΞΑΝ∆ΡΟΥ ΜΟΝΑΧΟΥ ΙΣΤΟΡΙΟΓΡΑΦΟΥ ΙΣΤΟΡΙΚΟΝ ΕΓΚΩΜΙΟΝ ΠΕΡΙ ΤΗΣ ΕΥΡΕΣΕΩΣ ΤΟΥ ΤΙΜΙΟΥ ΚΑΙ ΖΩΟΠΟΙΟΥ ΣΤΑΥΡΟΥ.
+#+TITLE: Inventio crucis epitome
 #+AUTHOR: Ἀλέξανδρος Μοναχός
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Inventio crucis epitome
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/inventio-crucis-epitome--alexander-monachus
 #+LANGUAGE: el
 
-* ΑΛΕΞΑΝ∆ΡΟΥ ΜΟΝΑΧΟΥ ΙΣΤΟΡΙΟΓΡΑΦΟΥ ΙΣΤΟΡΙΚΟΝ ΕΓΚΩΜΙΟΝ ΠΕΡΙ ΤΗΣ ΕΥΡΕΣΕΩΣ ΤΟΥ ΤΙΜΙΟΥ ΚΑΙ ΖΩΟΠΟΙΟΥ ΣΤΑΥΡΟΥ.
+* Inventio crucis epitome
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΑΛΕΞΑΝ∆ΡΟΥ ΜΟΝΑΧΟΥ ΙΣΤΟΡΙΟΓΡΑΦΟΥ ΙΣΤΟΡΙΚΟΝ ΕΓΚΩΜΙΟΝ ΠΕΡΙ
+ΤΗΣ ΕΥΡΕΣΕΩΣ ΤΟΥ ΤΙΜΙΟΥ ΚΑΙ ΖΩΟΠΟΙΟΥ ΣΤΑΥΡΟΥ.
 4077Κατ' ἐκεῖνον τὸν χρόνον ὁ τῆς Αἰλίας ἐπίσκοποςΜακάριος ὁ φερώνυμος
 ἦν Ἑρμονᾶν διαδεξάμενος. Ὁ δὲ Μέγας Κωνσταντῖνος μονοκράτωρ γενόμενος
 πᾶσαν τὴν φροντίδα εἰς τὰ θεῖα μετήνεγκεν. Ἀνοικο ομῶν τὰς ἐκκλησίας, ἐπεὶ

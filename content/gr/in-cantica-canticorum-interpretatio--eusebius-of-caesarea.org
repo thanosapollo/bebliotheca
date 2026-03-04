@@ -1,17 +1,19 @@
-#+TITLE: Εὐσεβίου τοῦ Παμφίλου εἰς τὸ ᾆσμα τῶν ᾀσμάτων ἐξήγησις.
+#+TITLE: In cantica canticorum interpretatio
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In cantica canticorum interpretatio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-cantica-canticorum-interpretatio--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* Εὐσεβίου τοῦ Παμφίλου εἰς τὸ ᾆσμα τῶν ᾀσμάτων ἐξήγησις.
+* In cantica canticorum interpretatio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εὐσεβίου τοῦ Παμφίλου εἰς τὸ ᾆσμα τῶν ᾀσμάτων ἐξήγησις.
 Ἆσμα ᾀσμάτων διὰ τοῦτο καλεῖται, ἐπειδὴ μετὰ τὰ μέν τ' ἄλλα ᾄσματα
 τοῦτο, μετὰ δὲ τοῦτο οὐκ ἔτι ἄλλο προσδοκᾶν ἐστίν· ἄλλο δὲ λέγω, οὐ βιβλίον, ἀλλὰ
 τὸ ἐκ τοῦ βιβλίου σημαινόμενον. Ὃ δὲ λέγει, τοιοῦτον ἐστί. Πᾶσα θεία γραφὴ περὶ

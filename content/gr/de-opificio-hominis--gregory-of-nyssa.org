@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΓΡΗΓΟΡΙΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΚΑΤΑΣΚΕΥΗΣ ΑΝΘΡΩΠΟΥ. Τῷ ἀδελφῷ δούλῳ Θεοῦ Πέτρῳ Γρηγόριος ἐπίσκοπος Νύσσης.
+#+TITLE: De opificio hominis
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De opificio hominis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-opificio-hominis--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΓΡΗΓΟΡΙΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΚΑΤΑΣΚΕΥΗΣ ΑΝΘΡΩΠΟΥ. Τῷ ἀδελφῷ δούλῳ Θεοῦ Πέτρῳ Γρηγόριος ἐπίσκοπος Νύσσης.
+* De opificio hominis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΓΡΗΓΟΡΙΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΚΑΤΑΣΚΕΥΗΣ ΑΝΘΡΩΠΟΥ.
+Τῷ ἀδελφῷ δούλῳ Θεοῦ Πέτρῳ Γρηγόριος ἐπίσκοπος Νύσσης.
 Εἰ ταῖς διὰ τῶν χρημάτων τιμαῖς ἔδει γεραίρειν τοὺς κατ' ἀρετὴν
 διαφέροντας, μικρὸς ἂν, καθώς φησιν ὁ Σολομὼν, ὅλος ὁ κόσμος τῶν χρημάτων
 ἐφάνη πρὸς τὸ γενέσθαι τῆς σῆς ἀρετῆς ἰσοστάσιος· ἐπειδὴ κρεῖττον ἢ κατὰ πλούτου

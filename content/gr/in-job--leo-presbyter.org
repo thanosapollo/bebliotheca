@@ -1,17 +1,19 @@
-#+TITLE: Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὸν Ἰώβ
+#+TITLE: In Job
 #+AUTHOR: Λέων Πρεσβύτερος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: In Job
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-job--leo-presbyter
 #+LANGUAGE: el
 
-* Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὸν Ἰώβ
+* In Job
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὸν Ἰώβ
 Ἄγε δὴ καὶ σήμερον, φίλε, γνησιώτερον τοῦ γενναιοτάτου Ἰὼβ τὸν ἄσυλον
 θησαυρὸν διαψηλαφήσωμεν τῷ λόγῳ· θησαυρὸν οὐ βαλλαντίῳ πεφυλακισμένον
 , ἀλλ' ἐν οὐρανοῖς ὠχυρωμένον· θησαυρὸν οὐ χρηματικῇ ποσότητι σταθμιζόμενον

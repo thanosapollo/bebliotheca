@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΜΟΥ Αʹ ΤΩΝ ΕΙΣ ΤΗΝ ΓΕΝΕΣΙΝ.
+#+TITLE: Commentarii in Genesim
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Commentarii in Genesim
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-genesim--origen
 #+LANGUAGE: el
 
-* ΤΟΜΟΥ Αʹ ΤΩΝ ΕΙΣ ΤΗΝ ΓΕΝΕΣΙΝ.
+* Commentarii in Genesim
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΜΟΥ Αʹ ΤΩΝ ΕΙΣ ΤΗΝ ΓΕΝΕΣΙΝ.
 =12.45= Οὐ γὰρ ὁ Θεὸς Πατὴρ εἶναι ἤρξατο, κωλυόμενος, ὡς οἱ γινόμενοι πατέρες
 ἄνθρωποι, ὑπὸ τοῦ μὴ δύνα σθαί πω πατέρες εἶναι. Εἰ γὰρ ἀεὶ τέλειος ὁ Θεὸς, καὶ
 πάρεστιν αὐτῷ δύναμις τοῦ πατέρα αὐτὸν εἶναι, καὶ καλὸν αὐτὸν εἶναι Πατέρα τοῦ

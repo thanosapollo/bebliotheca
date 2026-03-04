@@ -1,17 +1,19 @@
-#+TITLE: Ἐ κ τοῦ πανεκκλησιαστοῦ῾φραγμεντἀ
+#+TITLE: ek tou panekklhsiastou
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: ek tou panekklhsiastou
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ek-tou-panekklhsiastou--eustathius-of-antioch
 #+LANGUAGE: el
 
-* Ἐ κ τοῦ πανεκκλησιαστοῦ῾φραγμεντἀ
+* ek tou panekklhsiastou
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἐ κ τοῦ πανεκκλησιαστοῦ῾φραγμεντἀ
 Τοῦ ἁγίου Εὐσταθίου ἐπισκόπου Ἀντιοχείας ἐκ τοῦ Πανεκκλησιαστοῦ·
 Φανερὰν μὲν αἰσχύνης μοῖραν ὑπέστησαν ὁπηνίκα, τὰς μιαιφόνους
 ὁπλίσαντες χεῖρας, τὸ ἄχραντον αἷμα προύχεον. Αὐτίκα δὲ τὸ καταπέτασμα τοῦ ναοῦ

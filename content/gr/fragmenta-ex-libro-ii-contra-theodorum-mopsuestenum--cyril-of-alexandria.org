@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΚΥΡΙΛΛΟΥ Ἐκ τοῦ πρὸς τὰ Θεοδώρου δευτέρου λόγου Οὗ ἡ
+#+TITLE: Fragmenta ex libro ii contra Theodorum Mopsuestenum
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmenta ex libro ii contra Theodorum Mopsuestenum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-ex-libro-ii-contra-theodorum-mopsuestenum--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΚΥΡΙΛΛΟΥ Ἐκ τοῦ πρὸς τὰ Θεοδώρου δευτέρου λόγου Οὗ ἡ
+* Fragmenta ex libro ii contra Theodorum Mopsuestenum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΚΥΡΙΛΛΟΥ Ἐκ τοῦ πρὸς τὰ Θεοδώρου δευτέρου λόγου Οὗ ἡ
 ἀρχή Οἱ τὴν ἁγίαν καὶ θεόπνευστον γραφὴν καθαρῷ διανοίας
 περιαθρήσαντες ὀφθαλμῷ.
 αʹ.ΤΟΙΣ μαθηταῖς ἔλεγε "Μὴ καλέσητε διδάσκαλον ἐπὶ τῆς "γῆς· εἷς γάρ ἐστιν

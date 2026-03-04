@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ ΕΙΣ ΠΕΤΡΟΝ ΤΟΝ ΑΠΟΣΤΟΛΟΝ Καὶ Ἠλίαν τὸν προφήτην. 50.725
+#+TITLE: In sanctos Petrum et Heliam
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctos Petrum et Heliam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctos-petrum-et-heliam--john-chrysostom
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΕΙΣ ΠΕΤΡΟΝ ΤΟΝ ΑΠΟΣΤΟΛΟΝ Καὶ Ἠλίαν τὸν προφήτην. 50.725
+* In sanctos Petrum et Heliam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΕΙΣ ΠΕΤΡΟΝ ΤΟΝ ΑΠΟΣΤΟΛΟΝ Καὶ Ἠλίαν τὸν προφήτην.
+=50.725=
 αʹ. Ὀλίγοι ἡμῖν σήμερον οἱ παραγενόμενοι· ἆρα τί τὸ αἴτιον; Μνήμην
 μαρτύρων ἐπιτελοῦμεν, καὶ οὐ δεὶς ἡμῖν ἀπήντησεν· ἆρα τὸ διάστημα τῆς ὁδοῦ εἰς
 ῥᾳθυμίαν ἐνέβαλε; μᾶλλον δὲ οὐ τὸ διάστημα τῆς ὁδοῦ, ἀλλ' ἡ ῥᾳθυμία αὐτοὺς

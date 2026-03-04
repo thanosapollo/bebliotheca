@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ μακαρίου Ἀθανασίου περὶ ∆ιονυσίου τοῦ ἐπισκόπου Ἀλεξανδρείας,
+#+TITLE: De sententia Dionysii
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sententia Dionysii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sententia-dionysii--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ μακαρίου Ἀθανασίου περὶ ∆ιονυσίου τοῦ ἐπισκόπου Ἀλεξανδρείας,
+* De sententia Dionysii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ μακαρίου Ἀθανασίου περὶ ∆ιονυσίου τοῦ ἐπισκόπου Ἀλεξανδρείας,
 ὅτι καὶ αὐτὸς κατὰ τῆς ἀρειανῆς αἱρέσεως ἐφρόνει ὡς ἡ ἐν Νικαίᾳ
 σύνοδος, καὶ μάτην αὐτὸν συκοφαντοῦσιν οἱ Ἀρειομανῖται ὡς ὁμόδοξον
 ἑαυτῶν.

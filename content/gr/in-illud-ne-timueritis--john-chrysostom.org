@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΟ ΡΗΤΟΝ ΤΟΥ ΠΡΟΦΗΤΟΥ ∆ΑΥΙ∆ Τὸ λέγον, "Μὴ φοβοῦ ὅταν
+#+TITLE: In illud Ne timueritis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Ne timueritis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-ne-timueritis--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟ ΡΗΤΟΝ ΤΟΥ ΠΡΟΦΗΤΟΥ ∆ΑΥΙ∆ Τὸ λέγον, "Μὴ φοβοῦ ὅταν
+* In illud Ne timueritis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟ ΡΗΤΟΝ ΤΟΥ ΠΡΟΦΗΤΟΥ ∆ΑΥΙ∆ Τὸ λέγον, "Μὴ φοβοῦ ὅταν
 πλουτήσῃ ἄνθρωπος, ἢ ὅταν πληθυνθῇ ἡ δόξα τοῦ οἴκου αὐτοῦ," καὶ περὶ
 φιλοξενίας.
 =55.499=

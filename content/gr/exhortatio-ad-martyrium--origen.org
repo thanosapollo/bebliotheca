@@ -1,17 +1,19 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΜΑΡΤΥΡΙΟΝ ΠΡΟΤΡΕΠΤΙΚΟΣ.
+#+TITLE: Exhortatio ad martyrium
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Exhortatio ad martyrium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/exhortatio-ad-martyrium--origen
 #+LANGUAGE: el
 
-* ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΜΑΡΤΥΡΙΟΝ ΠΡΟΤΡΕΠΤΙΚΟΣ.
+* Exhortatio ad martyrium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΜΑΡΤΥΡΙΟΝ ΠΡΟΤΡΕΠΤΙΚΟΣ.
 1 «Οἱ ἀπογεγαλακτισμένοι ἀπὸ γάλακτος, οἱ ἀπεσπασμένοι ἀπὸ μαστοῦ, θλῖψιν ἐπὶ
 θλίψει προσδέχου, προσδέχου ἐλπίδα ἐπ' ἐλπίδι, ἔτι μικρὸν ἔτι μικρὸν, διὰ
 φαυλισμὸν χειλέων, διὰ γλώσσης ἑτέρας.» καὶ ὑμεῖς τοίνυν κατὰ τὸν Ἡσαΐαν ὡς

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐπιστολὴ πρός τινα
+#+TITLE: Epistula ad abbatem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad abbatem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-abbatem--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐπιστολὴ πρός τινα
+* Epistula ad abbatem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐπιστολὴ πρός τινα
 ἡγούμενον αἰτήσαντα παρ' αὐτοῦ πεμφθῆναι αὐτῷ κανόνα πνευματικῆς
 διδασκαλίας εἰς ὠφέλειαν αὐτοῦ τε καὶ τῶν μετ' αὐτοῦ ἀδελφῶν.
 Ἐπειδὴ ἔγραψάς μοι, ποθεινότατέ μου ἀδελφέ, ἵνα κανόνα σοι παραδώσω

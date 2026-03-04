@@ -1,6 +1,7 @@
-#+TITLE: Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου Κύπρου λόγος εἰς τὴν
+#+TITLE: Homilia in divini corporis sepulturam
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in divini corporis sepulturam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

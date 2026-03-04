@@ -1,17 +1,20 @@
-#+TITLE: ΠΙΝΑΞ ΤΗΣ∆Ε ΤΗΣ ΒΙΒΛΟΥ. ΛΟΓΟΣ Αʹ.Περὶ τῆς εἰς φαυλότητα τοῦ ἀνθρώπου παρατροπῆς, καὶ
+#+TITLE: De adoratione et cultu in spiritu et veritate
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: De adoratione et cultu in spiritu et veritate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-adoratione-et-cultu-in-spiritu-et-veritate--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΠΙΝΑΞ ΤΗΣ∆Ε ΤΗΣ ΒΙΒΛΟΥ. ΛΟΓΟΣ Αʹ.Περὶ τῆς εἰς φαυλότητα τοῦ ἀνθρώπου παρατροπῆς, καὶ
+* De adoratione et cultu in spiritu et veritate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΙΝΑΞ ΤΗΣ∆Ε ΤΗΣ ΒΙΒΛΟΥ.
+ΛΟΓΟΣ Αʹ.Περὶ τῆς εἰς φαυλότητα τοῦ ἀνθρώπου παρατροπῆς, καὶ
 αἰχμαλωσίας τῆς εἰς ἁμαρτίαν· καὶ ὁμοῦ περὶ κλήσεως καὶ ἐπιστροφῆς τῆς κατὰ
 μετάγνωσιν, καὶ τῆς εἰς τὸ ἄμεινον ἀναδρομῆς. ΛΟΓΟΣ Βʹ. Ὅτι ἀμήχανον διαφυγεῖν
 τὸν ἐξ ἁμαρτίας θάνατον καὶ τὴν τοῦ διαβόλου πλεονεξίαν, εἰ μὴ δι' ἁγιασμοῦ τοῦ

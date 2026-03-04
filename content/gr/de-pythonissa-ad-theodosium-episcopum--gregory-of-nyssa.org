@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΠΙΣΤΟΛΗ ∆ΙΑ ΤΗΝ ΕΓΓΑΣΤΡΙΜΥΘΟΝ ΠΡΟΣ ΘΕΟ∆ΟΣΙΟΝ ΕΠΙΣΚΟΠΟΝ
+#+TITLE: De pythonissa ad Theodosium episcopum
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De pythonissa ad Theodosium episcopum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-pythonissa-ad-theodosium-episcopum--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΠΙΣΤΟΛΗ ∆ΙΑ ΤΗΝ ΕΓΓΑΣΤΡΙΜΥΘΟΝ ΠΡΟΣ ΘΕΟ∆ΟΣΙΟΝ ΕΠΙΣΚΟΠΟΝ
+* De pythonissa ad Theodosium episcopum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΠΙΣΤΟΛΗ ∆ΙΑ ΤΗΝ ΕΓΓΑΣΤΡΙΜΥΘΟΝ
+ΠΡΟΣ ΘΕΟ∆ΟΣΙΟΝ ΕΠΙΣΚΟΠΟΝ
 Ὁ εἰπὼν τοῖς ἑαυτοῦ μαθηταῖς Ζητεῖτε καὶ εὑρήσετε, δώσει πάντως καὶ τὴν
 πρὸς τὸ εὑρεῖν δύναμιν τοῖς φιλομαθῶς κατὰ τὴν ἐντολὴν τοῦ κυρίου
 διερευνωμένοις καὶ ἀναζητοῦσι τὰ κεκρυμμένα μυστήρια· ἀψευδὴς γὰρ ὁ

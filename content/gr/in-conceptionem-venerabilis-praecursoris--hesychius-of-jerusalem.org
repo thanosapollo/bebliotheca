@@ -1,17 +1,19 @@
-#+TITLE: Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, λόγος εἰς τὴν σύλληψιν τοῦ τιμίου
+#+TITLE: In conceptionem venerabilis praecursoris
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: In conceptionem venerabilis praecursoris
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-conceptionem-venerabilis-praecursoris--hesychius-of-jerusalem
 #+LANGUAGE: el
 
-* Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, λόγος εἰς τὴν σύλληψιν τοῦ τιμίου
+* In conceptionem venerabilis praecursoris
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, λόγος εἰς τὴν σύλληψιν τοῦ τιμίου
 Προδρόμου.
 1 Πάντα μεγάλα καὶ πάντων ἐνδοξότατα τῶν θεοφόρων προ φητῶν ὑπάρχει
 τὰ σκιρτήματα· σὺν τῷ θεῷ γὰρ κινοῦσι τοὺς πόδας καὶ τὰς χεῖρας ἐνεργοῦντες ἐκ

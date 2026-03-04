@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ Ἐν τῇ
+#+TITLE: In illud Filius ex se nihil facit
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Filius ex se nihil facit
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-filius-ex-se-nihil-facit--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ Ἐν τῇ
+* In illud Filius ex se nihil facit
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ Ἐν τῇ
 μεγάλῃ ἐκκλησίᾳ, προειρηκότος (ἐπισκόπου) ὀλίγα εἰς τὸ Εὐαγγέλιον,
 εἰς τὸ, "Οὐδέποτε ἀφ' ἑαυτοῦ ποιεῖ ὁ Υἱὸς οὐδὲν, ἐὰν μή τι βλέπῃ τὸν
 Πατέρα ποιοῦντα."

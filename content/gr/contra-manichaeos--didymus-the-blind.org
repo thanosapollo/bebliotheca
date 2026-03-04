@@ -1,17 +1,19 @@
-#+TITLE: 39.1085 Οὐδεμία ἀντίθεσις ἐναντίων ἐξ ὅλων ἀντίκειται, τῷ καὶ κοινά τινα
+#+TITLE: Contra Manichaeos
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra Manichaeos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-manichaeos--didymus-the-blind
 #+LANGUAGE: el
 
-* 39.1085 Οὐδεμία ἀντίθεσις ἐναντίων ἐξ ὅλων ἀντίκειται, τῷ καὶ κοινά τινα
+* Contra Manichaeos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=39.1085= Οὐδεμία ἀντίθεσις ἐναντίων ἐξ ὅλων ἀντίκειται, τῷ καὶ κοινά τινα
 ὑπάρχειν τοῖς ἐναντίοις. Οἷον τὸ λευκὸν, ἐναντίον ὂν τῷ μέλανι, κατὰ μόνας τὰς
 διαφορὰς ἔχει τὴν ἐναντίωσιν, ὄντων αὐτοῖς κοινῶν χρώματος καὶ ποιότητος· οὐδὲν
 δὲ τῶν τοιούτων, τὴν περὶ αὐτὰ ἐναντιότητα προτέραν ἔχει· πάντα γὰρ μετὰ τὰ

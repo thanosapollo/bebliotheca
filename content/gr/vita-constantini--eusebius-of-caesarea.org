@@ -1,17 +1,21 @@
-#+TITLE: ΚΕΦΑΛΑΙΑ ΤΟΥ ΚΑΤΑ ΘΕΟΝ ΒΙΟΥ ΤΟΥ ΜΑΚΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ ΒΑΣΙΛΕΩΣ Pin.1.t ΛΟΓΟΣ Α
+#+TITLE: Vita Constantini
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Vita Constantini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/vita-constantini--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* ΚΕΦΑΛΑΙΑ ΤΟΥ ΚΑΤΑ ΘΕΟΝ ΒΙΟΥ ΤΟΥ ΜΑΚΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ ΒΑΣΙΛΕΩΣ Pin.1.t ΛΟΓΟΣ Α
+* Vita Constantini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΚΕΦΑΛΑΙΑ ΤΟΥ ΚΑΤΑ ΘΕΟΝ ΒΙΟΥ ΤΟΥ ΜΑΚΑΡΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ
+ΒΑΣΙΛΕΩΣ
+Pin.1.t ΛΟΓΟΣ Α
 Pin.1.1 Προοίμιον περὶ τῆς Κωνσταντίνου τελευτῆς. Pin.1.1,3 Περὶ υἱῶν αὐτοῦ
 βασιλευσάντων. Pin.1.2 Ἔτι προοίμιον. Pin.1.3 Περὶ θεοῦ τιμῶντος εὐσεβεῖς βασιλεῖς
 καὶ ἀπολλύντος τυράννους. Pin.1.4 Ὅτι ὁ θεὸς Κωνσταντῖνον ἐτίμησεν. Pin.1.5 Ὅτι

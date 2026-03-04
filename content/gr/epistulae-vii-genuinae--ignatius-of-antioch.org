@@ -1,17 +1,20 @@
-#+TITLE: ΕΠΙΣΤΟΛΑΙ ΓΝΗΣΙΑΙ ΠΡOΣ EΦEΣIOΥΣ IΓNATIOΣ
+#+TITLE: Epistulae vii genuinae
 #+AUTHOR: Ἰγνάτιος Ἀντιοχείας
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Epistulae vii genuinae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistulae-vii-genuinae--ignatius-of-antioch
 #+LANGUAGE: el
 
-* ΕΠΙΣΤΟΛΑΙ ΓΝΗΣΙΑΙ ΠΡOΣ EΦEΣIOΥΣ IΓNATIOΣ
+* Epistulae vii genuinae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΠΙΣΤΟΛΑΙ ΓΝΗΣΙΑΙ
+ΠΡOΣ EΦEΣIOΥΣ IΓNATIOΣ
 Ἰγνάτιος, ὁ καὶ Θεοφόρος, τῇ εὐλογημένῃ ἐν μεγέθει θεοῦ πατρὸς
 πληρώματι, τῇ προωρισμένῃ πρὸ αἰώνων εἶναι διὰ παντὸς εἰς δόξαν παράμονον,
 ἄτρεπτον ἡνωμένην καὶ ἐκλελεγμένην ἐν πάθει ἀληθινῷ, ἐν θελήματι τοῦ πατρὸς

@@ -1,17 +1,20 @@
-#+TITLE: ΕΠΙΦΑΝΙΟΥ ΠΕΡΙ ΤΩΝ ΙΣ ΠΡΟΦΗΤΩΝ ΠΟΘΕΝ ΗΣΑΝ ΚΑΙ ΠΟΥ ΕΤΕΛΕΙΩΘΗΣΑΝ.
+#+TITLE: De prophetarum vita et obitu Recensio altera
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De prophetarum vita et obitu Recensio altera
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-prophetarum-vita-et-obitu-recensio-altera--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* ΕΠΙΦΑΝΙΟΥ ΠΕΡΙ ΤΩΝ ΙΣ ΠΡΟΦΗΤΩΝ ΠΟΘΕΝ ΗΣΑΝ ΚΑΙ ΠΟΥ ΕΤΕΛΕΙΩΘΗΣΑΝ.
+* De prophetarum vita et obitu Recensio altera
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΠΙΦΑΝΙΟΥ ΠΕΡΙ ΤΩΝ ΙΣ ΠΡΟΦΗΤΩΝ ΠΟΘΕΝ ΗΣΑΝ ΚΑΙ ΠΟΥ
+ΕΤΕΛΕΙΩΘΗΣΑΝ.
 αʹ. Ὠσηὲ υἱὸς Βεηρὶ ἦν ἐκ Βελεμὼθ φυλῆς Ἰσάχαρ καὶ θανὼν ἐτάφη ἐν τῇ γῇ
 αὐτοῦ ἐν εἰρήνῃ. Καὶ ἔδωκεν τέρας 56 ἥξειν τὸν κύριον ἐπὶ τῆς γῆς. Ἐάν φησιν ἡ
 δρῦς ἡ ἐν Σιλὼμ μερισθῇ εἰς ιβʹ ἀφ' ἑαυτῆς καὶ γένωνται δρύες ιβʹ.

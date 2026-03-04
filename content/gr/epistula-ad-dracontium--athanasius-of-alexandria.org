@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ∆ΡΑΚΟΝΤΙΟΝ.
+#+TITLE: Epistula ad Dracontium
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Dracontium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-dracontium--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ∆ΡΑΚΟΝΤΙΟΝ.
+* Epistula ad Dracontium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ∆ΡΑΚΟΝΤΙΟΝ.
 Ἀπορῶ τί γράψω. Ἆρα γὰρ ὡς παραιτούμενον μέμψομαί σε, ἢ ὡς τὸν καιρὸν ὁρῶντα,
 καὶ κρυπτόμενον διὰ τὸν φόβον τῶν Ἰουδαίων; Πλὴν εἴτε ἄλλως, εἴτε οὕτως, ἄξιον
 μέμψεως τὸ παρὰ σοῦ γεγενημένον, ἀγαπητὲ ∆ρακόντιε. Οὐ γὰρ ἔπρεπε λαβόντα σε

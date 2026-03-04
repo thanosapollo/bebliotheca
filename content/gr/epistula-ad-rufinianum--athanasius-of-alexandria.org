@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΡΟΥΦΙΝΙΑΝΟΝ ΕΠΙΣΚΟΠΟΝ Γ Περὶ τῶν δι' ἀνάγκην ὑποσυρέντων μέν, μὴ φθαρέντων δὲ ἐν τῇ κακοπιστίᾳ.
+#+TITLE: Epistula ad Rufinianum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Rufinianum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-rufinianum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΡΟΥΦΙΝΙΑΝΟΝ ΕΠΙΣΚΟΠΟΝ Γ Περὶ τῶν δι' ἀνάγκην ὑποσυρέντων μέν, μὴ φθαρέντων δὲ ἐν τῇ κακοπιστίᾳ.
+* Epistula ad Rufinianum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΡΟΥΦΙΝΙΑΝΟΝ ΕΠΙΣΚΟΠΟΝ
+Γ Περὶ τῶν δι' ἀνάγκην ὑποσυρέντων μέν, μὴ φθαρέντων δὲ ἐν τῇ κακοπιστίᾳ.
 Κυρίῳ υἱῷ καὶ ποθεινοτάτῳ συλλειτουργῷ Ῥουφινιανῷ, Ἀθανάσιος ἐν κυρίῳ
 χαίρειν. 77 Σὺ μὲν τὰ υἱῷ ἠγαπημένῳ πρέποντα πρὸς πατέρα γράφεις· ἐγγίσαντα
 γοῦν σε διὰ τοῦ γράμματος περιεπτυξάμην, πάντων ἐμοὶ ποθεινότατε Ῥουφινιανέ.

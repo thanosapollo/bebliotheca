@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ Ἰωάννου τοῦ Χρυσοστόμου εἰς τοὺς περὶ τὴν ἑνδεκάτην
+#+TITLE: In operarios undecimae horae
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In operarios undecimae horae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-operarios-undecimae-horae--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ Ἰωάννου τοῦ Χρυσοστόμου εἰς τοὺς περὶ τὴν ἑνδεκάτην
+* In operarios undecimae horae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ Ἰωάννου τοῦ Χρυσοστόμου εἰς τοὺς περὶ τὴν ἑνδεκάτην
 ὥραν
 Ἐκ δύο φύσεων ὁ θεός, ψυχῆς λέγω καὶ σώματος, τὸν ἄνθρωπον
 κατεσκεύασεν. Ἑκατέροις δὲ πρὸς θεραπείαν παρέσχεν τὰ πρόσφορα· τῷ μὲν σώματι

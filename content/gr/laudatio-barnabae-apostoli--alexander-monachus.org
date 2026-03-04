@@ -1,17 +1,19 @@
-#+TITLE: Ἀλεξάνδρου μοναχοῦ ἐγκώμιον εἰς τὸν ἅγιον Βαρνάβαν τὸν ἀπόστολον,
+#+TITLE: Laudatio Barnabae apostoli
 #+AUTHOR: Ἀλέξανδρος Μοναχός
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Laudatio Barnabae apostoli
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/laudatio-barnabae-apostoli--alexander-monachus
 #+LANGUAGE: el
 
-* Ἀλεξάνδρου μοναχοῦ ἐγκώμιον εἰς τὸν ἅγιον Βαρνάβαν τὸν ἀπόστολον,
+* Laudatio Barnabae apostoli
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀλεξάνδρου μοναχοῦ ἐγκώμιον εἰς τὸν ἅγιον Βαρνάβαν τὸν ἀπόστολον,
 προτραπέντος ὑπὸ τοῦ πρεσβυτέρου καὶ κλειδούχου τοῦ σεβασμίου
 αὐτοῦ ναοῦ, ἐν ᾧ ἱστορεῖται καὶ ὁ τρόπος τῆς ἀποκαλύψεως τῶν ἁγίων
 αὐτοῦ λειψάνων.

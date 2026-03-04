@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΚΥΡΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ ΤΟΥ ΜΑΝΑΣΣΗ ΣΥΝΟΨΙΣ ΧΡΟΝΙΚΗ, ΑΡΚΟΜΕΝΗ ΑΠΟ ΚΟΣΜΟΠΟΙΙΑΣ ΜΕΧΡΙ ΤΟΥ ΚΥΡΟΥ ΝΙΚΗΦΟΡΟΥ ΤΟΥ ΒΟΤΑΝΕΙΑΤΟΥ.
+#+TITLE: Compendium chronicum
 #+AUTHOR: Κωνσταντῖνος Μανασσῆς
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Compendium chronicum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/compendium-chronicum--constantine-manasses
 #+LANGUAGE: el
 
-* ΤΟΥ ΚΥΡΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ ΤΟΥ ΜΑΝΑΣΣΗ ΣΥΝΟΨΙΣ ΧΡΟΝΙΚΗ, ΑΡΚΟΜΕΝΗ ΑΠΟ ΚΟΣΜΟΠΟΙΙΑΣ ΜΕΧΡΙ ΤΟΥ ΚΥΡΟΥ ΝΙΚΗΦΟΡΟΥ ΤΟΥ ΒΟΤΑΝΕΙΑΤΟΥ.
+* Compendium chronicum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΚΥΡΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥ ΤΟΥ ΜΑΝΑΣΣΗ ΣΥΝΟΨΙΣ ΧΡΟΝΙΚΗ,
+ΑΡΚΟΜΕΝΗ ΑΠΟ ΚΟΣΜΟΠΟΙΙΑΣ ΜΕΧΡΙ ΤΟΥ ΚΥΡΟΥ ΝΙΚΗΦΟΡΟΥ ΤΟΥ
+ΒΟΤΑΝΕΙΑΤΟΥ.
 Ἡ μὲν φιλόϋλος ψυχὴ ταῖς ὕλαις ἐπιχάσκει, καὶ πάντα πραγματεύεται πρὸς τὸ τυχεῖν
 τοῦ πόθου· σὺ δέ, ψυχὴ βασίλισσα καὶ φιλολογωτάτη, ἀεὶ διψῶσα γνώσεως καὶ
 λόγου καὶ παιδείας, βίβλοις ἀεὶ προστέτηκας, ἐπεντρυφᾷς τοῖς λόγοις, καὶ γίνεταί

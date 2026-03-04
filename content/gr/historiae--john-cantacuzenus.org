@@ -1,17 +1,19 @@
-#+TITLE: ΝΕΙΛΟΣ ΧΡΙΣΤΟ∆ΟΥΛΩΙ.
+#+TITLE: Historiae
 #+AUTHOR: Ἰωάννης Καντακουζηνός
 #+FILETAGS: :byzantine:14c-ad:
+#+MIGNE_TITLE: Historiae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historiae--john-cantacuzenus
 #+LANGUAGE: el
 
-* ΝΕΙΛΟΣ ΧΡΙΣΤΟ∆ΟΥΛΩΙ.
+* Historiae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΝΕΙΛΟΣ ΧΡΙΣΤΟ∆ΟΥΛΩΙ.
 ἐπειδή σε βούλεσθαι οἶδα μηδὲν τῶν ἡμετέρων ἀγνοεῖν, εἰ καὶ μηδέν τι γενναῖον
 ἔχοιμεν λέγειν, ἅ γε ἔνεστι, σιωπᾷν οὐ θέμις. οἶσθα τοὺς περιπάτους οὓς ἑκάστοτε
 μετὰ τῶν φίλων ποιούμεθα, ἐν οἷς πολλὰ, τὰ μὲν σπουδῇ, τὰ δὲ παιδιᾷ προσήκοντα

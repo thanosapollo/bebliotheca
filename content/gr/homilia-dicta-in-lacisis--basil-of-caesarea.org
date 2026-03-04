@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ ΡΗΘΕΙΣΑ ΕΝ ΛΑΚΙΖΟΙΣ.
+#+TITLE: Homilia dicta in Lacisis
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia dicta in Lacisis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-dicta-in-lacisis--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΡΗΘΕΙΣΑ ΕΝ ΛΑΚΙΖΟΙΣ.
+* Homilia dicta in Lacisis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΡΗΘΕΙΣΑ ΕΝ ΛΑΚΙΖΟΙΣ.
 Ἀνταγωνίζεται ὁ ἐχθρὸς, φιλονεικῶν τῷ ἔξωθεν θορύβῳ τὸν ἡμέτερον
 λόγον ὑπερηχῆσαι· ἀλλ' ἡμεῖς, αὐτοῦ τὰ νοήματα μὴ ἀγνοοῦντες, τρέψωμεν τὰς
 ἀκοὰς καὶ τὰς διανοίας τοῖς ἐνταῦθα λεγομένοις, οἰκτείροντες τοὺς ἀπολειπομένους

@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν Ἰωσὴφ καὶ περὶ σωφροσύνης. 56.587
+#+TITLE: De Joseph et de castitate
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De Joseph et de castitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-joseph-et-de-castitate--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν Ἰωσὴφ καὶ περὶ σωφροσύνης. 56.587
+* De Joseph et de castitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν Ἰωσὴφ καὶ περὶ σωφροσύνης.
+=56.587=
 Οἱ ἐκ πελάγους μεγάλα σαλεύοντες κυβερνῆται, οἷς οὐκ ἤπειρος, οὐκ ὄρος, οὐ
 βουνὸς, οὐ σκόπελοί τινες τὴν χέρσον σημαίνουσι, πρός τινας ἀστέρας ἀποβλέποντες,
 καὶ πρὸς ἐκείνους τὸ σκάφος ῥυθμίζοντες ἀναυάγητοι διαμένουσιν· οἱ δέ γε τῆς

@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν εἴσοδον τῶν ἁγίων νηστειῶν. 62.727
+#+TITLE: In ingressum sanctorum jejuniorum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In ingressum sanctorum jejuniorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ingressum-sanctorum-jejuniorum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν εἴσοδον τῶν ἁγίων νηστειῶν. 62.727
+* In ingressum sanctorum jejuniorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν εἴσοδον τῶν ἁγίων νηστειῶν.
+=62.727=
 Ἀνέτειλεν ἡμῖν σήμερον, ἀγαπητοὶ, τὸ φαιδρὸν ἔαρ τῶν ἁγίων νηστειῶν, καὶ
 προθύμως παρασκευάζει συντρέχειν εἰς τὸν θεοπρεπῆ τοῦτον παράδεισον, ὥστε τοὺς
 τῆς ἐγκρατείας ἀποτρυγῆσαι καρποὺς, καὶ τὰ τερπνὰ τῆς ἁγνείας δρεψαμένους ἄνθη,

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ μακαρίου Ἰωάννου μοναχοῦ ∆αμασκηνοῦ περὶ τῶν ἰδιωμάτων τῶν ἐν
+#+TITLE: De duabus in Christo voluntatibus
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: De duabus in Christo voluntatibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-duabus-in-christo-voluntatibus--john-of-damascus
 #+LANGUAGE: el
 
-* Τοῦ μακαρίου Ἰωάννου μοναχοῦ ∆αμασκηνοῦ περὶ τῶν ἰδιωμάτων τῶν ἐν
+* De duabus in Christo voluntatibus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ μακαρίου Ἰωάννου μοναχοῦ ∆αμασκηνοῦ περὶ τῶν ἰδιωμάτων τῶν ἐν
 τῷ ἑνὶ Χριστῷ τῷ κυρίῳ ἡμῶν δύο φύσεων, ἐξ ἐπιδρομῆς δὲ καὶ περὶ δύο
 θελημάτων καὶ ἐνεργειῶν καὶ μιᾶς ὑποστάσεως.
 1 Οἱ δύο φύσεις καὶ μίαν ὑπόστασιν ἐπὶ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ

@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ Εἰς τὸν παραλυτικὸν διὰ τῆς στέγης χαλασθέντα, ὅτι οὐκ αὐτός
+#+TITLE: In paralyticum demissum per tectum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In paralyticum demissum per tectum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-paralyticum-demissum-per-tectum--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Εἰς τὸν παραλυτικὸν διὰ τῆς στέγης χαλασθέντα, ὅτι οὐκ αὐτός
+* In paralyticum demissum per tectum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Εἰς τὸν παραλυτικὸν διὰ τῆς στέγης χαλασθέντα, ὅτι οὐκ αὐτός
 ἐστιν ὁ παρὰ τῷ Ἰωάννῃ κείμενος· καὶ περὶ τῆς τοῦ Υἱοῦ πρὸς τὸν
 Πατέρα ἰσότητος.
 =51.47=

@@ -1,17 +1,20 @@
-#+TITLE: ΠΡΟΟΙΜΙΑ ΤΩΝ ΨΑΛΜΩΝ. 55.531
+#+TITLE: Prooemia in Psalmos
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Prooemia in Psalmos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/prooemia-in-psalmos--john-chrysostom
 #+LANGUAGE: el
 
-* ΠΡΟΟΙΜΙΑ ΤΩΝ ΨΑΛΜΩΝ. 55.531
+* Prooemia in Psalmos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΟΙΜΙΑ ΤΩΝ ΨΑΛΜΩΝ.
+=55.531=
 Μετὰ τὸν Μωϋσέα καὶ τὸν τούτου διάδοχον Ἰησοῦν τοῦ Ναυῆ, καὶ τοὺς
 λεγομένους κριτὰς ἐν τῷ Ἰσραὴλ, ἐπιλαβομένου λοιπὸν τῆς βασιλείας τοῦ Ἰσραὴλ
 Σαοὺλ, καὶ ἀποδοκιμασθέντος. ἤγειρεν αὐτοῖς ὁ Θεὸς βασιλέα ἐνάρετον, δίκαιόν τε

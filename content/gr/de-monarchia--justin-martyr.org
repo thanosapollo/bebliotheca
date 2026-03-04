@@ -1,17 +1,21 @@
-#+TITLE: ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ ΠEΡI ΜOΝAΡΧIAΣ. Τῆς ἀνθρωπίνης φύσεως τὸ κατ' ἀρχὴν συζυγίαν συν
+#+TITLE: De monarchia
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: De monarchia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-monarchia--justin-martyr
 #+LANGUAGE: el
 
-* ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ ΠEΡI ΜOΝAΡΧIAΣ. Τῆς ἀνθρωπίνης φύσεως τὸ κατ' ἀρχὴν συζυγίαν συν
+* De monarchia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ
+ΠEΡI ΜOΝAΡΧIAΣ.
+Τῆς ἀνθρωπίνης φύσεως τὸ κατ' ἀρχὴν συζυγίαν συν
 έσεως καὶ σωτηρίας λαβούσης εἰς ἐπίγνωσιν ἀληθείας θρη
 σκείας τε τῆς εἰς τὸν ἕνα καὶ πάντων δεσπότην, παρεισδῦσα
 εἰς εἰδωλοποιΐας ἐξέτρεψε βασκανία τὸ ὑπερβάλλον τῆς τῶν

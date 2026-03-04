@@ -1,17 +1,19 @@
-#+TITLE: ̔Ερμηνεία τῆς ἀποκαλύψεως τοῦ θεσπεσίου καὶ εὐαγγελιστοῦ καὶ
+#+TITLE: Commentarius in Apocalypsin
 #+AUTHOR: Οἰκουμένιος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Commentarius in Apocalypsin
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarius-in-apocalypsin--oecumenius
 #+LANGUAGE: el
 
-* ̔Ερμηνεία τῆς ἀποκαλύψεως τοῦ θεσπεσίου καὶ εὐαγγελιστοῦ καὶ
+* Commentarius in Apocalypsin
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̔Ερμηνεία τῆς ἀποκαλύψεως τοῦ θεσπεσίου καὶ εὐαγγελιστοῦ καὶ
 θεολόγου Ἰωάννου ἡ συγγραφεῖσα παρὰ Οἰκουμενίον.
 Λόγος πρῶτοσ
 καὶ θεολόγου Ἰωάννου ἡ συγγραφεῖσα παρὰ Οἰκουμενίον. Λόγος πρῶτοσ Πάσα

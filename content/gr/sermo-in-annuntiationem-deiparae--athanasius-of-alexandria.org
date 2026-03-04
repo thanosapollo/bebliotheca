@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Κηρυκτικὸν εἰς τὸν εὐαγγελισμὸν τῆς ὑπεραγίας ∆εσποίνης ἡμῶν Θεοτόκου.
+#+TITLE: Sermo in annuntiationem deiparae
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo in annuntiationem deiparae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-in-annuntiationem-deiparae--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Κηρυκτικὸν εἰς τὸν εὐαγγελισμὸν τῆς ὑπεραγίας ∆εσποίνης ἡμῶν Θεοτόκου.
+* Sermo in annuntiationem deiparae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ
+Κηρυκτικὸν εἰς τὸν εὐαγγελισμὸν τῆς ὑπεραγίας ∆εσποίνης ἡμῶν
+Θεοτόκου.
 Τοὺς θείους ἱεροκήρυκας οὐ πρὸς τὴν ἀσθένειαν τῆς ἀκροάσεως δεῖ ἀποβλέπειν·
 ἀλλὰ πρὸς τὴν ἀπαι τουμένην δύναμιν, καὶ ὑπόθεσιν, καὶ αἰτίαν, ἣν ἐπι θεωροῦντας,
 προσῆκε καταστοχάζεσθαι τοῦ κηρύ γματος. ∆ιὸ καὶ νῦν ἐπὶ τὸ κήρυγμα τοῦ θείου

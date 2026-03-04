@@ -1,17 +1,21 @@
-#+TITLE: ΣΥΝΟΨΙΣ ΙΣΤΟΡΙΩΝ ΑΡΧΟΜΕΝΗ ΑΠΟ ΚΤΙΣΕΩΣ ΚΟΣΜΟΥ ΚΑΙ ΜΕΧΡΙ ΤΗΣ ΒΑΣΙΛΕΙΑΣ ΙΣΑΑΚΙΟΥ ΤΟΥ ΚΟΜΝΗΝΟΥ, ΣΥΛΛΕΓΕΙΣΑ ΠΑΡΑ ΚΥΡΟΥ ΓΕΩΡΓΙΟΥ ΤΟΥ ΚΕ∆ΡΗΝΟΥ ΕΚ ∆ΙΑΦΟΡΩΝ ΒΙΒΛΙΩΝ.
+#+TITLE: Compendium historiarum
 #+AUTHOR: Γεώργιος Κεδρηνός
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Compendium historiarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/compendium-historiaru1a--george-cedrenus
 #+LANGUAGE: el
 
-* ΣΥΝΟΨΙΣ ΙΣΤΟΡΙΩΝ ΑΡΧΟΜΕΝΗ ΑΠΟ ΚΤΙΣΕΩΣ ΚΟΣΜΟΥ ΚΑΙ ΜΕΧΡΙ ΤΗΣ ΒΑΣΙΛΕΙΑΣ ΙΣΑΑΚΙΟΥ ΤΟΥ ΚΟΜΝΗΝΟΥ, ΣΥΛΛΕΓΕΙΣΑ ΠΑΡΑ ΚΥΡΟΥ ΓΕΩΡΓΙΟΥ ΤΟΥ ΚΕ∆ΡΗΝΟΥ ΕΚ ∆ΙΑΦΟΡΩΝ ΒΙΒΛΙΩΝ.
+* Compendium historiarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΥΝΟΨΙΣ ΙΣΤΟΡΙΩΝ ΑΡΧΟΜΕΝΗ ΑΠΟ ΚΤΙΣΕΩΣ ΚΟΣΜΟΥ ΚΑΙ ΜΕΧΡΙ
+ΤΗΣ ΒΑΣΙΛΕΙΑΣ ΙΣΑΑΚΙΟΥ ΤΟΥ ΚΟΜΝΗΝΟΥ, ΣΥΛΛΕΓΕΙΣΑ ΠΑΡΑ ΚΥΡΟΥ
+ΓΕΩΡΓΙΟΥ ΤΟΥ ΚΕ∆ΡΗΝΟΥ ΕΚ ∆ΙΑΦΟΡΩΝ ΒΙΒΛΙΩΝ.
 Πολλοὶ τῶν πρὸ ἡμῶν φιλοθέων ἀνδρῶν καὶ φιλιστόρων τὴν ἐπιτομὴν τῆς
 ἱστορίας ἐπραγματεύσαντο· ὅ τε γὰρ μοναχὸς Γεώργιος καὶ σύγκελλος ἀπὸ
 καταβολῆς ἀρξάμενος κόσμου εἰς Μαξιμιανὸν καὶ Μαξιμῖνον τοὺς τυράννους

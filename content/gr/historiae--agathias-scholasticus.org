@@ -1,17 +1,20 @@
-#+TITLE: ΑΓΑΘΙΟΥ ΣΧΟΛΑΣΤΙΚΟΥ ΙΣΤΟΡΙΩΝ Α ΠΡΟΟΙΜΙΟΝ
+#+TITLE: Historiae
 #+AUTHOR: Ἀγαθίας Σχολαστικός
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Historiae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historiae--agathias-scholasticus
 #+LANGUAGE: el
 
-* ΑΓΑΘΙΟΥ ΣΧΟΛΑΣΤΙΚΟΥ ΙΣΤΟΡΙΩΝ Α ΠΡΟΟΙΜΙΟΝ
+* Historiae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΑΓΑΘΙΟΥ ΣΧΟΛΑΣΤΙΚΟΥ ΙΣΤΟΡΙΩΝ
+Α ΠΡΟΟΙΜΙΟΝ
 Καλὸν μέν τι χρῆμα καὶ εὔδαιμον νῖκαι πολέμων καὶ τρόπαια πόλεών τε
 ἀνοικισμοὶ καὶ ἀγλαΐσματα καὶ ἅπαντα ὁπόσα μεγάλα τε καὶ ἀξιά γαστα ἔργα. ταῦτα
 δὲ καὶ τὰ τοιάδε δόξαν μέν τινα καὶ ἡδονὴν τοῖς κτησαμένοις ἐπάγει, ἀποβιοῦσι δὲ

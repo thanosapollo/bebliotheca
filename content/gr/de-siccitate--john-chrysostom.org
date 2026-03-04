@@ -1,17 +1,20 @@
-#+TITLE: Περὶ αὐχμοῦ. 61.723
+#+TITLE: De siccitate
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De siccitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-siccitate--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ αὐχμοῦ. 61.723
+* De siccitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ αὐχμοῦ.
+=61.723=
 Τίς δώσει τῇ κεφαλῇ μου ὕδωρ, καὶ τοῖς ὀφθαλμοῖς μου πηγὴν δακρύων;
 Ἐπιδαψιλευέτω μοι τὸ τοῦ λόγου προοίμιον ὁ τῶν προφητῶν συμπαθέστατος. Ἀλλ'
 ἐκεῖνος μιᾶς πόλεως τῆς Ἱερουσαλὴμ τὴν ἐρημίαν ὠδύρετο· ἐγὼ δὲ πάσης τῆς

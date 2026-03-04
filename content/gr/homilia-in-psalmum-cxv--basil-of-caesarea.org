@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΟΝ ΡΙΕ ΨΑΛΜΟΝ.
+#+TITLE: Homilia in Psalmum CXV
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in Psalmum CXV
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-psalmum-cxv--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ ΡΙΕ ΨΑΛΜΟΝ.
+* Homilia in Psalmum CXV
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ ΡΙΕ ΨΑΛΜΟΝ.
 Ἐπίστευσα, διὸ ἐλάλησα· ἐγὼ δὲ ἐταπει νώθην σφόδρα· ἐγὼ δὲ εἶπα ἐν τῇ
 ἐκστάσει μου· Πᾶς ἄνθρωπος ψεύστης. Πίστις ἡγείσθω τῶν περὶ Θεοῦ λόγων· πίστις,
 καὶ μὴ ἀπόδειξις. Πίστις, ἡ ὑπὲρ τὰς λογικὰς μεθόδους τὴν ψυχὴν εἰς συγ κατάθεσιν

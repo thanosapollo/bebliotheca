@@ -1,6 +1,7 @@
-#+TITLE: ΠΕΡΙ ΕΥΧΑΡΙΣΤΙΑΣ, Λόγος.
+#+TITLE: Homilia de gratiarum actione
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia de gratiarum actione
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

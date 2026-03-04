@@ -1,17 +1,19 @@
-#+TITLE: 93.780 Ὥσπερ γὰρ ἐν τῷ σώματι ὁ ὑγιαίνων καὶ εὐσωματῶν, καὶ πρὸ τῆς τρυφῆς
+#+TITLE: Fragmentum in illud Gaudete in illa die
 #+AUTHOR: Ὀλυμπιόδωρος Διάκονος Ἀλεξανδρείας
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmentum in illud Gaudete in illa die
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-illud-gaudete-in-illa-die--olympiodorus-of-alexandria
 #+LANGUAGE: el
 
-* 93.780 Ὥσπερ γὰρ ἐν τῷ σώματι ὁ ὑγιαίνων καὶ εὐσωματῶν, καὶ πρὸ τῆς τρυφῆς
+* Fragmentum in illud Gaudete in illa die
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=93.780= Ὥσπερ γὰρ ἐν τῷ σώματι ὁ ὑγιαίνων καὶ εὐσωματῶν, καὶ πρὸ τῆς τρυφῆς
 αὐτῷ τούτῳ τρυφᾷ, συγκεκληρωμένην ἔχων τῇ ὑγείᾳ τὴν ἡδονὴν, καὶ οὔτε ἀέρων
 αὐτὸν ἀνωμαλίαι, οὔτε αὐχμὸς οὔτε κρυμὸς, οὕτε εὐτέλεια τραπέζης, οὐκ ἄλλο τι
 τῶν τοιούτων λυπῆσαι δύναιτ' ἂν, ἀρκούσης τῆς ὑγιείας τὴν ἐκ τούτων

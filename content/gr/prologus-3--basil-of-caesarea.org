@@ -1,17 +1,19 @@
-#+TITLE: ΠΡΟΟΙΜΙΟΝ ΤΩΝ ΚΑΤ' ΕΠΙΤΟΜΗΝ ΟΡΩΝ.
+#+TITLE: Prologus 3
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Prologus 3
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/prologus-3--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΠΡΟΟΙΜΙΟΝ ΤΩΝ ΚΑΤ' ΕΠΙΤΟΜΗΝ ΟΡΩΝ.
+* Prologus 3
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΟΙΜΙΟΝ ΤΩΝ ΚΑΤ' ΕΠΙΤΟΜΗΝ ΟΡΩΝ.
 =31.1080=.31 Ὁ φιλάνθρωπος Θεὸς, ὁ διδάσκων ἄνθρωπον γνῶσιν, τοῖς μὲν τὸ
 διδασκαλικὸν πεπιστευμένοις χάρισμα παραγγέλλει διὰ τοῦ Ἀποστόλου ἐμμένειν τῇ
 διδασκαλίᾳ, τοῖς δὲ χρῄζουσι τῆς ἐκ τῶν θείων διδαγμάτων οἰκοδομῆς διὰ Μωϋσέως

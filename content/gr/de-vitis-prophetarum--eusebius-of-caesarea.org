@@ -1,17 +1,19 @@
-#+TITLE: 22.1261 Ἐκ τῶν Εὐσεβίου τοῦ Παμφίλου περὶ τῆς τοῦ βιβλίου τῶν
+#+TITLE: De vitis prophetarum
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De vitis prophetarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-vitis-prophetarum--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* 22.1261 Ἐκ τῶν Εὐσεβίου τοῦ Παμφίλου περὶ τῆς τοῦ βιβλίου τῶν
+* De vitis prophetarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=22.1261= Ἐκ τῶν Εὐσεβίου τοῦ Παμφίλου περὶ τῆς τοῦ βιβλίου τῶν
 προφητῶν ὀνομασίας καὶ ἀπὸ μέ ρους τί περιέχει ἕκαστος.
 ΩΣΗΕ, Αʹ.
 Γεγόνασι μὲν καὶ πρὸ τούτου προφῆται· ἐπὶ μὲν =22.1264= τοῦ ∆αυῒδ, Σαμουὴλ

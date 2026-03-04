@@ -1,17 +1,19 @@
-#+TITLE: ΠOIΜHΝ
+#+TITLE: Pastor
 #+AUTHOR: Ποιμὴν τοῦ Ἑρμᾶ
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Pastor
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/pastor--hermas
 #+LANGUAGE: el
 
-* ΠOIΜHΝ
+* Pastor
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠOIΜHΝ
 Ὁ θρέψας με πέπρακέν με Ῥόδῃ τινὶ εἰς Ῥώμην· μετὰ πολλὰ ἔτη ταύτην
 ἀνεγνωρισάμην καὶ ἠρξάμην αὐτὴν ἀγαπᾶν ὡς ἀδελφήν. μετὰ χρόνον τινὰ
 λουομένην εἰς τὸν ποταμὸν τὸν Τίβεριν εἶδον καὶ ἐπέδωκα αὐτῇ τὴν χεῖρα καὶ

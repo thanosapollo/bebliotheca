@@ -1,17 +1,19 @@
-#+TITLE: Κυρίλλου ἐπισκόπου Ἱεροσολύμων εἰς τὸ "Ἐγὼ πορεύομαι πρὸς τὸν πατέρα μου· καὶ
+#+TITLE: Homilia in illud Ego vado ad patrem meum
 #+AUTHOR: Κύριλλος Ἱεροσολύμων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in illud Ego vado ad patrem meum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-illud-ego-vado-ad-patrem-meum--cyril-of-jerusalem
 #+LANGUAGE: el
 
-* Κυρίλλου ἐπισκόπου Ἱεροσολύμων εἰς τὸ "Ἐγὼ πορεύομαι πρὸς τὸν πατέρα μου· καὶ
+* Homilia in illud Ego vado ad patrem meum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Κυρίλλου ἐπισκόπου Ἱεροσολύμων εἰς τὸ "Ἐγὼ πορεύομαι πρὸς τὸν πατέρα μου· καὶ
 ὃ ἐὰν αἰτήσητε ἐν τῷ ὀνόματί μου, τοῦτο ποιήσω, ἵνα δοξασθῇ ὁ πατὴρ ἐν τῷ υἱῷ".
 Ἐπ' ἀμφοτέρων τῶν περὶ τῆς θεότητος καὶ τῆς ἀνθρωπότητος λεγομένων τίθησιν τὸ
 ἐγώ, ὡς τὴν μὲν διάνοιαν τῶν ῥημάτων ἐκ τῆς ἀκολουθίας φαίνεσθαι, τὴν δὲ

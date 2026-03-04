@@ -1,17 +1,20 @@
-#+TITLE: ΤΩΝ ΕΙΣ ΤΟ ΚΑΤΑ ΙΩΑΝΝΗΝ ΕΥΑΓΓΕΛΙΟΝ ΕΞΗΓΗΤΙΚΩΝ ΤΟΜΟΣ ΙΘʹ.
+#+TITLE: Commentarii in evangelium Joannis
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Commentarii in evangelium Joannis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-evangelium-joannis-1--origen
 #+LANGUAGE: el
 
-* ΤΩΝ ΕΙΣ ΤΟ ΚΑΤΑ ΙΩΑΝΝΗΝ ΕΥΑΓΓΕΛΙΟΝ ΕΞΗΓΗΤΙΚΩΝ ΤΟΜΟΣ ΙΘʹ.
+* Commentarii in evangelium Joannis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΩΝ ΕΙΣ ΤΟ ΚΑΤΑ ΙΩΑΝΝΗΝ ΕΥΑΓΓΕΛΙΟΝ ΕΞΗΓΗΤΙΚΩΝ
+ΤΟΜΟΣ ΙΘʹ.
 19.1.n Ἀπεκρίθη ὁ Ἰησοῦς· Οὔτε ἐμὲ οἴδατε οὔτε τὸν πατέρα μου· εἰ ἐμὲ ᾔδειτε, καὶ
 τὸν πατέρα μου ἂν ᾔδειτε. 19.1.1 Εἰ μὲν πρὸς τοὺς αὐτοὺς ὁ λόγος ἦν ὁ λέγων· «Κἀμὲ
 οἴδατε «πόθεν εἰμί» καὶ ὁ φάσκων· «Οὔτε ἐμὲ οἴδατε οὔτε τὸν πατέρα μου», ἄντικρυς

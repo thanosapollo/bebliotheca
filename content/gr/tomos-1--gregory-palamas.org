@@ -1,17 +1,22 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΠΑΛΑΜΑ ΛΟΓΟΙ ΑΠΟ∆ΕΙΚΤΙΚΟΙ ∆ΥΟ ΠΕΡΙ ΕΚΠΟΡΕΥΣΕΩΣ ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ
+#+TITLE: Tomus synodicus I
 #+AUTHOR: Γρηγόριος Παλαμᾶς
 #+FILETAGS: :byzantine:14c-ad:
+#+MIGNE_TITLE: Tomus synodicus I
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/tomos-1--gregory-palamas
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΠΑΛΑΜΑ ΛΟΓΟΙ ΑΠΟ∆ΕΙΚΤΙΚΟΙ ∆ΥΟ ΠΕΡΙ ΕΚΠΟΡΕΥΣΕΩΣ ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ
+* Tomus synodicus I
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΠΑΛΑΜΑ
+ΛΟΓΟΙ ΑΠΟ∆ΕΙΚΤΙΚΟΙ ∆ΥΟ
+ΠΕΡΙ ΕΚΠΟΡΕΥΣΕΩΣ ΤΟΥ
+ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ
 ΛΟΓΟΣ ΠΡΩΤΟΣ. (σελ. 68)
 Πρόλογος
 Πάλιν ὁ δεινός καί ἀρχέκακος ὄφις, τήν ἑαυτοῦ κεφαλήν καθ᾿ ἡμῶν διαιρών,

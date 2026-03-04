@@ -1,17 +1,19 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΡΟΣ ΟΛΥΜΠΙΟΝ ΠΕΡΙ ΤΕΛΕΙΟΤΗΤΟΣ
+#+TITLE: De perfectione Christiana ad Olympium monachum
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De perfectione Christiana ad Olympium monachum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-perfectione-christiana-ad-olympium-monachum--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΡΟΣ ΟΛΥΜΠΙΟΝ ΠΕΡΙ ΤΕΛΕΙΟΤΗΤΟΣ
+* De perfectione Christiana ad Olympium monachum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΡΟΣ ΟΛΥΜΠΙΟΝ ΠΕΡΙ ΤΕΛΕΙΟΤΗΤΟΣ
 Πρέπουσα τῇ προαιρέσει σου ἡ σπουδὴ ἡ περὶ τοῦ γνῶναι πῶς α ν τις διὰ τοῦ
 κατ' ἀρετὴν βίου τελειωθείη, ω στε διὰ πάντων κατορθωθῆναί σου τῇ ζωῇ τὸ
 ἀμώμητον. ἐγὼ δὲ περὶ παντὸς μὲν α ν ἐποιησάμην ἐν τῷ ἐμῷ βίῳ τῶν σοὶ

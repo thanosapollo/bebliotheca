@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, Ὁμιλία λεχθεῖσα ἐν τῷ
+#+TITLE: Quod frequenter conveniendum sit
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quod frequenter conveniendum sit
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quod-frequenter-conveniendum-sit--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, Ὁμιλία λεχθεῖσα ἐν τῷ
+* Quod frequenter conveniendum sit
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, Ὁμιλία λεχθεῖσα ἐν τῷ
 μαρτυρίῳ τῷ ἐπὶ τῇ παλαιᾷ πέτρᾳ, ὀλίγων συλλεγέντων διὰ τὸν
 χειμῶνα· εἰς τὸ δεῖν συνεχῶς συνάγεσθαι, καὶ μὴ ἀπαγορεύειν τὴν
 σωτηρίαν ἐν ἁμαρτήμασιν ὄντας, ἀλλὰ μετάνοιαν ἐπιδείκνυσθαι.

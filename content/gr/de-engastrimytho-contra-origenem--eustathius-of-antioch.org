@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΓΙΟΥ ΕΥΣΤΑΘΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΝΤΙΟΧΕΙΑΣ ΚΑΤΑ ΩΡΙΓΕΝΟΥΣ ∆ΙΑΓΝΩΣΤΙΚΟΣ ΕΙΣ ΤΟ ΤΗΣ ΕΓΓΑΣΤΡΙΜΥΘΟΥ ΘΕΩΡΗΜΑ}
+#+TITLE: De engastrimytho contra Origenem
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De engastrimytho contra Origenem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-engastrimytho-contra-origenem--eustathius-of-antioch
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΓΙΟΥ ΕΥΣΤΑΘΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΝΤΙΟΧΕΙΑΣ ΚΑΤΑ ΩΡΙΓΕΝΟΥΣ ∆ΙΑΓΝΩΣΤΙΚΟΣ ΕΙΣ ΤΟ ΤΗΣ ΕΓΓΑΣΤΡΙΜΥΘΟΥ ΘΕΩΡΗΜΑ}
+* De engastrimytho contra Origenem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΓΙΟΥ ΕΥΣΤΑΘΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΝΤΙΟΧΕΙΑΣ ΚΑΤΑ
+ΩΡΙΓΕΝΟΥΣ ∆ΙΑΓΝΩΣΤΙΚΟΣ ΕΙΣ ΤΟ ΤΗΣ ΕΓΓΑΣΤΡΙΜΥΘΟΥ ΘΕΩΡΗΜΑ}
 1.1 Ἀεὶ μὲν ἄγαμαι τὸν ἀξιοφανῆ τῆς ἐνθέου πολιτείας σου ζῆλον, ὦ
 διαπρεπέστατε τῆς ὀρθοδοξίας ἱεροκήρυξ Εὐτρόπιε· τὸ δὲ τῆς εὐσεβείας σου
 γνώρισμα πολλαχῶς ἐκπληττόμενος, οὐχ ἥκιστα καὶ περὶ τόδε μάλιστα τεθαύμακα

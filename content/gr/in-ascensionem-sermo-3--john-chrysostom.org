@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΗΝ ΑΝΑΛΗΨΙΝ Τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ. Λόγος γʹ. 52.797
+#+TITLE: In ascensionem Sermo 3
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In ascensionem Sermo 3
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ascensionem-sermo-3--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΗΝ ΑΝΑΛΗΨΙΝ Τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ. Λόγος γʹ. 52.797
+* In ascensionem Sermo 3
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΗΝ ΑΝΑΛΗΨΙΝ Τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ. Λόγος γʹ.
+=52.797=
 Φαιδρόν μοι τὸ τῆς Ἐκκλησίας θέατρον, οὐ γέλωτα τοῖς ἀνθρώποις
 ἐργαζόμενον μάταιον, ἀλλὰ σφοδρὸν τῷ διαβόλῳ τὸν θρῆνον. Βλέπει γὰρ ἄνω τῶν
 κάτω νεκρῶν ἀναστάσιμον ῥίζαν· βλέπει τὸν κάτω παρ' αὐτοῦ παραδοθέντα τῷ

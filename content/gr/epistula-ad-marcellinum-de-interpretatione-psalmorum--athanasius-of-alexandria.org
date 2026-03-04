@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΠΡΟΣ ΜΑΡΚΕΛΛΙΝΟΝ ΕΙΣ ΤΗΝ ΕΡΜΗΝΕΙΑΝ ΤΩΝ ΨΑΛΜΩΝ.
+#+TITLE: Epistula ad Marcellinum de interpretatione Psalmorum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Marcellinum de interpretatione Psalmorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-marcellinum-de-interpretatione-psalmorum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΠΡΟΣ ΜΑΡΚΕΛΛΙΝΟΝ ΕΙΣ ΤΗΝ ΕΡΜΗΝΕΙΑΝ ΤΩΝ ΨΑΛΜΩΝ.
+* Epistula ad Marcellinum de interpretatione Psalmorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΠΡΟΣ ΜΑΡΚΕΛΛΙΝΟΝ ΕΙΣ ΤΗΝ ΕΡΜΗΝΕΙΑΝ ΤΩΝ
+ΨΑΛΜΩΝ.
 Ἄγαμαί σε τῆς ἐν Χριστῷ προαιρέσεως, φίλε Μαρκελλῖνε. Καὶ γὰρ καὶ τὸν παρόντα
 πειρασμὸν, καίτοι πολλὰ παθὼν ἐν αὐτῷ, καλῶς φέρεις, καὶ τῆς ἀσκήσεως οὐκ
 ἀμελεῖς. Πυνθανόμενος γὰρ τοῦ κομί σαντος τὴν ἐπιστολὴν, πῶς ἄρα καὶ μετὰ τὴν

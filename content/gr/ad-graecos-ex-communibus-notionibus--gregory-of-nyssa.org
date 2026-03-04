@@ -1,17 +1,19 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ
+#+TITLE: Ad Graecos ex communibus notionibus
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ad Graecos ex communibus notionibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-graecos-ex-communibus-notionibus--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ
+* Ad Graecos ex communibus notionibus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ
 Πῶς τρία πρόσωπα λέγοντες ἐν τῇ θεότητι οὔ φαμεν τρεῖς θεούς πρὸς
 τοὺς Ἕλληνας ἀπὸ τῶν κοινῶν ἐννοιῶν
 Εἰ τὸ θεὸς ὄνομα προσώπου δηλωτικὸν ὑπῆρχεν, τρία πρόσωπα λέγοντες ἐξ

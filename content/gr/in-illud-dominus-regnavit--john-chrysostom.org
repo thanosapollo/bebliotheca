@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ εἰς τὸν ϛϛʹ ψαλμόν· "ὁ κύριος ἐβασίλευσεν, ἀγαλλιάσθω ἡ γῆ
+#+TITLE: In illud Dominus regnavit
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Dominus regnavit
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-dominus-regnavit--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ εἰς τὸν ϛϛʹ ψαλμόν· "ὁ κύριος ἐβασίλευσεν, ἀγαλλιάσθω ἡ γῆ
+* In illud Dominus regnavit
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ εἰς τὸν ϛϛʹ ψαλμόν· "ὁ κύριος ἐβασίλευσεν, ἀγαλλιάσθω ἡ γῆ
 καὶ εὐφρανθήτωσαν νήσοι πολλαί", τουτέστιν ὁ ἄνθρωπος καὶ ἡ
 ἐκκλησία. Καὶ εἰς τὸ "ἡμέρα τῇ ἡμέρᾳ ἐρεύγεται ῥῆμα"
 1 Εὐφροσύνης εἰ μὴ γάρ τι γεγόνει ἀγαθὸν, οὐκ ἂν προφῆται ἀνεφθέγγοντο

@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΟΝ ΕΑΥΤΟΥ ΒΙΟΝ
+#+TITLE: De vita sua
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De vita sua
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-vita-sua--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ ΕΑΥΤΟΥ ΒΙΟΝ
+* De vita sua
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ ΕΑΥΤΟΥ ΒΙΟΝ
 Τὸ τοῦ λόγου βούλημα, τῶν ἐμῶν κακῶν ἐξιστορῆσαι τὴν ὁδόν, εἴτ' οὖν
 δεξιῶν· οἱ μὲν γὰρ οὕτως, οἱ δ' ἐκείνως φαῖεν ἄν, ὅπως ἄν, οἶμαι, καὶ ῥοπῆς ὦσίν
 τινες. οὐ γὰρ τὸ βούλεσθ' ἀσφαλὲς κριτήριον. παίζει δὲ μέτρον τῆς ἀνίας φάρμακον,

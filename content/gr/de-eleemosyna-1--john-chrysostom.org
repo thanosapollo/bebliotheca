@@ -1,17 +1,20 @@
-#+TITLE: Χρυσοστόμου περὶ ἐλεημοσύνης. 60.747
+#+TITLE: De eleemosyna
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De eleemosyna
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-eleemosyna-1--john-chrysostom
 #+LANGUAGE: el
 
-* Χρυσοστόμου περὶ ἐλεημοσύνης. 60.747
+* De eleemosyna
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Χρυσοστόμου περὶ ἐλεημοσύνης.
+=60.747=
 Πάλιν ἡμῖν παρὰ τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ ἐδόθη
 καιρὸς τοῦ καταβαλεῖν ταῖς ὑμετέραις ἀκοαῖς τὰ τῆς ἐλεημοσύνης σπέρματα· πάλιν ἡμῖν
 ὁ Χριστὸς δέδωκε τὸν σπορέα μιμήσασθαι τὸν ἐπὶ τὴν καλὴν γῆν σπείροντα τὸν σπόρον

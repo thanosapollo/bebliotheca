@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΟΥΣ ∆Ω∆ΕΚΑ ΠΡΟΦΗΤΑΣ. ΠΡΟΛΟΓΟΣ.
+#+TITLE: Interpretatio in xii prophetas minores
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Interpretatio in xii prophetas minores
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/interpretatio-in-xii-prophetas-minores--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΟΥΣ ∆Ω∆ΕΚΑ ΠΡΟΦΗΤΑΣ. ΠΡΟΛΟΓΟΣ.
+* Interpretatio in xii prophetas minores
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ
+ΤΟΥΣ ∆Ω∆ΕΚΑ ΠΡΟΦΗΤΑΣ.
+ΠΡΟΛΟΓΟΣ.
 Ἴσως μέν τινες περιττόν τι ποιεῖν καὶ παρέλκον νομιοῦσιν ἡμᾶς τῆς
 προφητικῆς ἑρμηνείας κατατολ μῶντας, ἅτε δὴ καὶ ἄλλων τινῶν τοῦτον
 διηνυκότων τὸν πόνον· ἀλλ' εἰσὶν οἱ τὰ θεῖα περὶ πολλοῦ ποιού μενοι, καὶ τὴν ἱερὰν

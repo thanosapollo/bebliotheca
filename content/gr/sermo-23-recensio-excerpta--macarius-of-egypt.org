@@ -1,18 +1,18 @@
-#+TITLE: 114 XXIII. Exzerptfassung C Nr. 32b f. 133v18-134r13 - R Nr. 30a f. 139v1-13
+#+TITLE: Sermo 23 recensio excerpta
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo 23 recensio excerpta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-23-recensio-excerpta--macarius-of-egypt
 #+LANGUAGE: el
 
-* 114 XXIII. Exzerptfassung C Nr. 32b f. 133v18-134r13 - R Nr. 30a f. 139v1-13
+* Sermo 23 recensio excerpta
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
-setzt ein mit S. 116,10 - J Nr. 19. Vgl. zu Nr. XXIII Tbr 5 Vbr 12
 Ὁ γὰρ τοῦ θεοῦ ἄνθρωπος εἰς ἕκαστα τῶν ἀγαθῶν ἀεὶ προκοπὴν λαμβάνει
 εἰς ταπεινοφροσύνην εἰς χρηστότητα εἰς μακροθυμίαν· ἡ δὲ πάντων τούτων κρηπὶς
 ἡ πεποίθησίς ἐστιν ἡ εἰς θεόν. οἱ γὰρ τοιοῦτον θεμέλιον μὴ ἔχοντες οὕτως εἰσὶν ὡς οἱ

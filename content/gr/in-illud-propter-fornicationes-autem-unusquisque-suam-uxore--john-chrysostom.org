@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΟ ΑΠΟΣΤΟΛΙΚΟΝ ΡΗΤΟΝ ∆ιὰ δὲ τὰς πορνείας ἕκαστος τὴν ἑαυτοῦ
+#+TITLE: In illud Propter fornicationes autem unusquisque suam uxore
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Propter fornicationes autem unusquisque suam uxore
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-propter-fornicationes-autem-unusquisque-suam-uxore--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟ ΑΠΟΣΤΟΛΙΚΟΝ ΡΗΤΟΝ ∆ιὰ δὲ τὰς πορνείας ἕκαστος τὴν ἑαυτοῦ
+* In illud Propter fornicationes autem unusquisque suam uxore
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟ ΑΠΟΣΤΟΛΙΚΟΝ ΡΗΤΟΝ ∆ιὰ δὲ τὰς πορνείας ἕκαστος τὴν ἑαυτοῦ
 γυναῖκα ἐχέτω.
 =51.207=
 αʹ. Πρὸς τὰς τοῦ μέλιτος πηγὰς καὶ τήμερον ὑμᾶς χειραγωγῆσαι βούλομαι,

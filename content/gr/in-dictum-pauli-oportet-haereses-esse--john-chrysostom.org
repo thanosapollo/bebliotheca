@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΟ ΑΠΟΣΤΟΛΙΚΟΝ ΡΗΤΟΝ Τὸ λέγον· "∆εῖ δὲ καὶ αἱρέσεις εἶναι ἐν
+#+TITLE: In dictum Pauli Oportet haereses esse
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In dictum Pauli Oportet haereses esse
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-dictum-pauli-oportet-haereses-esse--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟ ΑΠΟΣΤΟΛΙΚΟΝ ΡΗΤΟΝ Τὸ λέγον· "∆εῖ δὲ καὶ αἱρέσεις εἶναι ἐν
+* In dictum Pauli Oportet haereses esse
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟ ΑΠΟΣΤΟΛΙΚΟΝ ΡΗΤΟΝ Τὸ λέγον· "∆εῖ δὲ καὶ αἱρέσεις εἶναι ἐν
 ὑμῖν, ἵνα οἱ δόκιμοι φανεροὶ γένωνται."
 =51.251=
 αʹ. Ἱκανῶς πρώην ἡμῖν διεθερμάνθη τὸ πνευματικὸν τοῦτο θέατρον, ὅτε τὴν

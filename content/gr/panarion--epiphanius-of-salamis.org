@@ -1,17 +1,19 @@
-#+TITLE: 1.153 Ἐπιστολὴ γραφεῖσα ἐν τῷ ἐνενηκοστῷ δευτέρῳ ἔτει ∆ιοκλητιανοῦ
+#+TITLE: Panarion
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Panarion
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/panarion--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* 1.153 Ἐπιστολὴ γραφεῖσα ἐν τῷ ἐνενηκοστῷ δευτέρῳ ἔτει ∆ιοκλητιανοῦ
+* Panarion
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=1.153= Ἐπιστολὴ γραφεῖσα ἐν τῷ ἐνενηκοστῷ δευτέρῳ ἔτει ∆ιοκλητιανοῦ
 βασιλείας, Οὐαλεντινιανοῦ καὶ Οὐάλεντος ἔτους δωδεκάτου καὶ Γρατιανοῦ
 ἔτους ὀγδόου, πρὸς Ἐπιφάνιον Παλαιστινὸν Ἐλευθεροπολίτην, γενόμενόν
 ποτε πατέρα μοναστηρίου ἐν τῇ τῆς αὐτῆς Ἐλευθεροπόλεως περιοικίᾳ,

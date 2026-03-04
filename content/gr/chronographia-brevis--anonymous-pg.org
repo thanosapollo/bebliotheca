@@ -1,17 +1,19 @@
-#+TITLE: ΣΥΝΑΓΩΓΗ ΧΡΟΝΩΝ κατὰ τὸν ἀκριβῆ ψῆφον τῶν ̣αλεξανδρέων καθωυς ὑποτέτακται
+#+TITLE: Chronographia brevis
 #+AUTHOR: Ἀνώνυμος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Chronographia brevis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronographia-brevis--anonymous-pg
 #+LANGUAGE: el
 
-* ΣΥΝΑΓΩΓΗ ΧΡΟΝΩΝ κατὰ τὸν ἀκριβῆ ψῆφον τῶν ̣αλεξανδρέων καθωυς ὑποτέτακται
+* Chronographia brevis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΥΝΑΓΩΓΗ ΧΡΟΝΩΝ κατὰ τὸν ἀκριβῆ ψῆφον τῶν ̣αλεξανδρέων καθωυς ὑποτέτακται
 ̣ δὰμ εατη διακόσια τριάκοντα. σὴθ εατη διακόσια πέντε. ̣ενωυς εατη ἑκατὸν ἐνενήκοντα.
 α
 καϊνὰν εατη ἑκατὸν ἑβδομήκοντα. μαλελεὴλ εατη ἑκατὸν ἑξήκοντα πέντε. ̣ιάρεδ εατη

@@ -1,6 +1,7 @@
-#+TITLE: ΛΟΓΟΣ Εʹ. Κατὰ Ἰουλιανοῦ βασιλέως στηλιτευτικὸς δεύτερος.
+#+TITLE: Contra Julianum imperatorem ii
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra Julianum imperatorem ii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

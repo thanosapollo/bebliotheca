@@ -1,6 +1,7 @@
-#+TITLE: ΣΥΜΕΩΝ ΤΟΥ ΝΕΟΥ ΘΕΟΛΟΓΟΥ ................................................................................... 4
+#+TITLE: Theologica
 #+AUTHOR: Συμεὼν ὁ Νέος Θεολόγος
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Theologica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ. ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΦΙΛΗΜΟΝΑ ΕΠΙΣΤΟΛΗΝ. 62.701 ΥΠΟΘΕΣΙΣ.
+#+TITLE: In epistulam ad Philemonem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In epistulam ad Philemonem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-epistulam-ad-philemonem--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ. ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΦΙΛΗΜΟΝΑ ΕΠΙΣΤΟΛΗΝ. 62.701 ΥΠΟΘΕΣΙΣ.
+* In epistulam ad Philemonem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ. ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ
+ΠΡΟΣ ΦΙΛΗΜΟΝΑ ΕΠΙΣΤΟΛΗΝ.
+=62.701= ΥΠΟΘΕΣΙΣ.
 Πρῶτον ἀναγκαῖον τὴν ὑπόθεσιν εἰπεῖν τῆς ἐπιστολῆς, εἶτα καὶ τὰ
 ζητούμενα. Τίς οὖν ἡ ὑπόθεσις; Φιλήμων ἀνήρ τις τῶν θαυμαστῶν καὶ γενναίων (ὅτι
 γὰρ θαυμαστὸς ἦν, δῆλον ἀπὸ τοῦ καὶ τὴν οἰκίαν αὐτοῦ πᾶσαν εἶναι πιστὴν, καὶ

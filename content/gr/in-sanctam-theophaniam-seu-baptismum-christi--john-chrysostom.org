@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΑ ΑΓΙΑ ΘΕΟΦΑΝΙΑ. 50.805
+#+TITLE: In sanctam theophaniam seu baptismum Christi
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctam theophaniam seu baptismum Christi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctam-theophaniam-seu-baptismum-christi--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΑ ΑΓΙΑ ΘΕΟΦΑΝΙΑ. 50.805
+* In sanctam theophaniam seu baptismum Christi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΑ ΑΓΙΑ ΘΕΟΦΑΝΙΑ.
+=50.805=
 Ἡ πηγὴ τῶν εὐαγγελικῶν διδαγμάτων ἀνεῳγμέ νους ἔχει τοὺς ῥύακας, καὶ
 εἴ τις διψῶν πίνει ἐξ ἐκεί νης τῆς πηγῆς, καὶ ζωοποιεῖται· ζωοποιεῖται δὲ κατὰ
 πνεῦμα καὶ τὸν νόμον τῶν ἐντολῶν, εὐφροσύνην ὑπὲρ οἶνον δεχόμενος. Ἀκόρεστος

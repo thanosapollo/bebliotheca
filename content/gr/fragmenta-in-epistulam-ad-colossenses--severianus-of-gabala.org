@@ -1,17 +1,19 @@
-#+TITLE: 314 Τὰ πολλὰ τῆς ἐπιστολῆς ταύτης δυσχερῆ ἔχει τὴν κατανόησιν διὰ τὸ πολλοὺς μὴ
+#+TITLE: Fragmenta in epistulam ad Colossenses
 #+AUTHOR: Σεβηριανὸς Γαβάλων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Colossenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-colossenses--severianus-of-gabala
 #+LANGUAGE: el
 
-* 314 Τὰ πολλὰ τῆς ἐπιστολῆς ταύτης δυσχερῆ ἔχει τὴν κατανόησιν διὰ τὸ πολλοὺς μὴ
+* Fragmenta in epistulam ad Colossenses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+314 Τὰ πολλὰ τῆς ἐπιστολῆς ταύτης δυσχερῆ ἔχει τὴν κατανόησιν διὰ τὸ πολλοὺς μὴ
 γινώσκειν τὴν ὑπό315 θεσιν τοῦ γράμματος καὶ τὸν σκοπὸν τοῦ ἀποστόλου. ἡ δὲ
 ὑπόθεσίς ἐστιν αὕτη. Οἱ ἀπὸ Ἑλλήνων πιστεύσαντες εἶχον τοὺς ἔτι Ἕλληνας
 ἀφέλκοντας αὐτοὺς εἰς τὰς παρατηρήσεις τὰς Ἑλληνικάς, οἱ δὲ ἀπὸ Ἰουδαίων τοὺς

@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ΚΥΡΙΛΛΟΥ ἀρχιεπισκόπου Ἱεροσολύμων ΟΜΙΛΙΑ ΕΙΣ ΤΟΝ ΠΑΡΑΛΥΤΙΚΟΝ τὸν ἐπὶ τὴν κολυμβήθραν.
+#+TITLE: Homilia in paralyticum juxta piscinam jacentem
 #+AUTHOR: Κύριλλος Ἱεροσολύμων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in paralyticum juxta piscinam jacentem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-paralyticum-juxta-piscinam-jacentem--cyril-of-jerusalem
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ΚΥΡΙΛΛΟΥ ἀρχιεπισκόπου Ἱεροσολύμων ΟΜΙΛΙΑ ΕΙΣ ΤΟΝ ΠΑΡΑΛΥΤΙΚΟΝ τὸν ἐπὶ τὴν κολυμβήθραν.
+* Homilia in paralyticum juxta piscinam jacentem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν ΚΥΡΙΛΛΟΥ ἀρχιεπισκόπου Ἱεροσολύμων
+ΟΜΙΛΙΑ ΕΙΣ ΤΟΝ ΠΑΡΑΛΥΤΙΚΟΝ τὸν ἐπὶ τὴν κολυμβήθραν.
 1 Ὅπου ἂν φανῇ Ἰησοῦς, ἐκεῖ καὶ ἡ σωτηρία. κἄν τε γὰρ ἴδῃ τελώνην καθήμενον ἐπὶ
 τοῦ τελωνίου, τοῦτον ἀπόστολον ποιεῖ καὶ εὐαγγελιστήν, κἄν τε μετὰ νεκρῶν ταφῇ,
 νεκροὺς ἐγείρει. καὶ τυφλοῖς μὲν τὸ βλέπειν χαρίζεται, κωφοῖς δὲ τὸ ἀκούειν. καὶ

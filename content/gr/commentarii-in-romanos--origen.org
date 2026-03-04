@@ -1,17 +1,19 @@
-#+TITLE: Ὠριγένους εἰς τὴν πρὸς Ῥω̣μ̣α̣ίους, τόμος ˉε.
+#+TITLE: Commentarii in Romanos
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Commentarii in Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-romanos--origen
 #+LANGUAGE: el
 
-* Ὠριγένους εἰς τὴν πρὸς Ῥω̣μ̣α̣ίους, τόμος ˉε.
+* Commentarii in Romanos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ὠριγένους εἰς τὴν πρὸς Ῥω̣μ̣α̣ίους, τόμος ˉε.
 [Rom. 3, 5–8] «Εἰ δὲ ἡ ἀδικία ἡμῶν Θεοῦ δικαιοσύνην συν ίστησιν». ὁτὲ μέν ·····]
 εθν[····]··ε·ομένῳ, ὁτὲ δὲ πρὸς τὰ ἔθνη τὸν λόγον ἀποτείνοντι καὶ ·[····]·το πα[········]ν
 πάντων ἐθνῶν ἀπαγγέλλοντι, ἕτερα δὲ περὶ Ἰουδαίων ···········[··] *** Λέγομεν δὲ ὅτι

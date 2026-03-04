@@ -1,17 +1,19 @@
-#+TITLE: 82.1 Ἕως ἐνταῦθα, φιλοκαλώτατε, ἀρκεσθέντες τοῖς προειρημένοις ἅπασι
+#+TITLE: De mensuribus et ponderibus Excerptum Graecum 4
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De mensuribus et ponderibus Excerptum Graecum 4
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-mensuribus-et-ponderibus-excerptum-graecum-4--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* 82.1 Ἕως ἐνταῦθα, φιλοκαλώτατε, ἀρκεσθέντες τοῖς προειρημένοις ἅπασι
+* De mensuribus et ponderibus Excerptum Graecum 4
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+82.1 Ἕως ἐνταῦθα, φιλοκαλώτατε, ἀρκεσθέντες τοῖς προειρημένοις ἅπασι
 τὴν τῶν ἑρμηνευτῶν ὑπόθεσιν ἐδηλώσαμεν· εἶθ' ἑξῆς εἰς τὰ ἐπίλοιπα, καθὼς
 ὑπευχόμεθα, σαῖς εὐχαῖς, ἄνθρωπε τοῦ θεοῦ, τὸν νοῦν ἐπιδῶμεν περὶ τῶν ἐν ταῖς
 θείαις γραφαῖς σταθμῶν τε καὶ μέτρων καὶ ἀριθμῶν δηλώσοντες, πόθεν ἕκαστον

@@ -1,13 +1,14 @@
-#+TITLE: SANCTUS CYRILLUS ALEXANDRINUS. Ex Thesauro de sancta et consubstantiali Trinitate.
+#+TITLE: Thesaurus de sancta et consubstantiali trinitate
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Thesaurus de sancta et consubstantiali trinitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/thesaurus-de-sancta-et-consubstantiali-trinitate--cyril-of-alexandria
 #+LANGUAGE: el
 
-* SANCTUS CYRILLUS ALEXANDRINUS. Ex Thesauro de sancta et consubstantiali Trinitate.
+* Thesaurus de sancta et consubstantiali trinitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

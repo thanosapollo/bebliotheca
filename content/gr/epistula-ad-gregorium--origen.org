@@ -1,17 +1,19 @@
-#+TITLE: 2.1 1 Χαῖρε ἐν θεῷ, κύριέ μου σπουδαιότατε καὶ αἰδεσιμώτατε υἱὲ Γρηγόριε, παρὰ
+#+TITLE: Epistula ad Gregorium
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Epistula ad Gregorium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-gregorium--origen
 #+LANGUAGE: el
 
-* 2.1 1 Χαῖρε ἐν θεῷ, κύριέ μου σπουδαιότατε καὶ αἰδεσιμώτατε υἱὲ Γρηγόριε, παρὰ
+* Epistula ad Gregorium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+2.1 1 Χαῖρε ἐν θεῷ, κύριέ μου σπουδαιότατε καὶ αἰδεσιμώτατε υἱὲ Γρηγόριε, παρὰ
 Ὠριγένους. Ἡ εἰς σύνεσιν, ὡς οἶσθα, εὐφυΐα ἔργον φέρειν δύναται ἄσκησιν
 προσλαβοῦσα, ἄγον ἐπὶ τὸ κατὰ τὸ ἐνδεχόμενον, ἵν' οὕτως ὀνομάσω, τέλος ἐκείνου,
 ὅπερ ἀσκεῖν τις βούλεται. δύναται οὖν ἡ εὐφυΐα σου Ῥωμαῖόν σε νομικὸν ποιῆσαι

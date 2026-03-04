@@ -1,17 +1,19 @@
-#+TITLE: Καὶ ὑπέγραψαν. Ὁ κύριος ἡμῶν φυλάξοι σε ἡμῖν ἐπὶ πλείστους χρόνους,
+#+TITLE: Ad Carthaginiense concilium
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Ad Carthaginiense concilium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-carthaginiense-concilium--cyril-of-alexandria
 #+LANGUAGE: el
 
-* Καὶ ὑπέγραψαν. Ὁ κύριος ἡμῶν φυλάξοι σε ἡμῖν ἐπὶ πλείστους χρόνους,
+* Ad Carthaginiense concilium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Καὶ ὑπέγραψαν. Ὁ κύριος ἡμῶν φυλάξοι σε ἡμῖν ἐπὶ πλείστους χρόνους,
 μακαριώτατε ἀδελφέ. Ὑπέγραψαν ὁμοίως· Ἀλύπιος, Αὐγουστῖνος, Ποσείδιος
 , Μαρῖνος καὶ οἱ λοιποὶ ἐπίσκοποι. Ἄρχεται τὰ πρὸς τὴν ἐν Ἀφρικῇ σύνοδον
 ἀντίγραφα Κυρίλλου τοῦ τῆς Ἀλεξανδρέων ἐπισκόπου, ἐν οἷς τὰ αὐθεντικὰ τῆς ἐν

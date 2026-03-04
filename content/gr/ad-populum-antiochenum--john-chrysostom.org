@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΤΑ ΣΩΖΟΜΕΝΑ ΠΑΝΤΑ ΕΙΣ ΤΟΥΣ ΑΝ∆ΡΙΑΝΤΑΣ ΟΜΙΛΙΑΙ ΚΑʹ ΕΝ ΑΝΤΙΟΧΕΙΑ ΛΕΧΘΕΙΣΑΙ.
+#+TITLE: Ad populum Antiochenum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ad populum Antiochenum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-populum-antiochenum--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΤΑ ΣΩΖΟΜΕΝΑ ΠΑΝΤΑ ΕΙΣ ΤΟΥΣ ΑΝ∆ΡΙΑΝΤΑΣ ΟΜΙΛΙΑΙ ΚΑʹ ΕΝ ΑΝΤΙΟΧΕΙΑ ΛΕΧΘΕΙΣΑΙ.
+* Ad populum Antiochenum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΤΑ ΣΩΖΟΜΕΝΑ ΠΑΝΤΑ
+ΕΙΣ ΤΟΥΣ ΑΝ∆ΡΙΑΝΤΑΣ ΟΜΙΛΙΑΙ ΚΑʹ ΕΝ ΑΝΤΙΟΧΕΙΑ ΛΕΧΘΕΙΣΑΙ.
 49.15Ὁμιλία λεχθεῖσα ἐν Ἀντιοχείᾳ, πρεσβυτέρου αὐτοῦ ὑπάρχοντος, ἐν
 τῇ παλαιᾷ ἐκκλησίᾳ, εἰς τὸ ῥητὸν τοῦ Ἀποστόλου, Οἴνῳ ὀλίγῳ χρῶ διὰ
 τὸν στόμαχόν σου καὶ τὰς πυκνάς σου ἀσθενείας.

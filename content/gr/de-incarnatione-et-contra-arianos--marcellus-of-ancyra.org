@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ, ΠΕΡΙ ΤΗΣ ΕΝΣΑΡΚΟΥ ΕΠΙΦΑΝΕΙΑΣ ΤΟΥ ΘΕΟΥ ΛΟΓΟΥ, ΚΑΙ ΚΑΤΑ ΑΡΕΙΑΝΩΝ.
+#+TITLE: De incarnatione et contra Arianos
 #+AUTHOR: Μάρκελλος Ἀγκύρας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De incarnatione et contra Arianos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-incarnatione-et-contra-arianos--marcellus-of-ancyra
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ, ΠΕΡΙ ΤΗΣ ΕΝΣΑΡΚΟΥ ΕΠΙΦΑΝΕΙΑΣ ΤΟΥ ΘΕΟΥ ΛΟΓΟΥ, ΚΑΙ ΚΑΤΑ ΑΡΕΙΑΝΩΝ.
+* De incarnatione et contra Arianos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ, ΠΕΡΙ ΤΗΣ ΕΝΣΑΡΚΟΥ ΕΠΙΦΑΝΕΙΑΣ ΤΟΥ ΘΕΟΥ ΛΟΓΟΥ,
+ΚΑΙ ΚΑΤΑ ΑΡΕΙΑΝΩΝ.
 Οἱ κακοτέχνως τὰς θείας Γραφὰς βουλόμενοι νοεῖν, τὰ ἀνθρώπινα ῥήματα τῆς
 πτωχείας τοῦ Υἱοῦ 985 τοῦ Θεοῦ παράγειν βούλονται πρὸς τὸ συστῆσαι τὴν ἑαυτῶν
 βλασφημίαν. Πᾶσα δὲ ἀκρίβεια τοῦ Χριστιανισμοῦ ἐν τοῖς εὐτελέσι ῥήμασι καὶ

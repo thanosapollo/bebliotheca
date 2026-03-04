@@ -1,17 +1,19 @@
-#+TITLE: ΥΜΝΟΣ ΤΟΥ ΣΩΤΗΡΟΣ ΧΡΙΣΤΟΥ ΤΟΥ ΑΓΙΟΥ ΚΛΗΜΕΝΤΟΣ
+#+TITLE: Hymnus Christi servatoris
 #+AUTHOR: Κλήμης Ἀλεξανδρείας
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Hymnus Christi servatoris
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/hymnus-christi-servatoris--clement-of-alexandria
 #+LANGUAGE: el
 
-* ΥΜΝΟΣ ΤΟΥ ΣΩΤΗΡΟΣ ΧΡΙΣΤΟΥ ΤΟΥ ΑΓΙΟΥ ΚΛΗΜΕΝΤΟΣ
+* Hymnus Christi servatoris
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΥΜΝΟΣ ΤΟΥ ΣΩΤΗΡΟΣ ΧΡΙΣΤΟΥ ΤΟΥ ΑΓΙΟΥ ΚΛΗΜΕΝΤΟΣ
 Στόμιον πώλων ἀδαῶν, πτερὸν ὀρνίθων ἀπλανῶν, οἴαξ νηῶν ἀτρεκής,
 ποιμὴν ἀρνῶν βασιλικῶν· τοὺς σοὺς ἀφελεῖς παῖδας ἄγειρον, αἰνεῖν ἁγίως, ὑμνεῖν
 ἀδόλως ἀκάκοις στόμασιν παίδων ἡγήτορα Χριστόν. Βασιλεῦ ἁγίων, λόγε

@@ -1,17 +1,19 @@
-#+TITLE: Λόγος εἰς τὸ πῶς δεῖ εἶναι τὸν μοναχόν.
+#+TITLE: Sermo 15
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo 15
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-15--basil-of-caesarea
 #+LANGUAGE: el
 
-* Λόγος εἰς τὸ πῶς δεῖ εἶναι τὸν μοναχόν.
+* Sermo 15
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λόγος εἰς τὸ πῶς δεῖ εἶναι τὸν μοναχόν.
 Ἠκούσατε, ἀδελφοί μου ἠγαπήμενοι ὑπὸ κυρίου, τοῦ κυρίου λέγοντος· ὅστις
 ἀφῆκε πατέρα καὶ μητέρα, ἀδελφοὺς ἢ ἀδελφὰς ἢ γυναῖκα ἢ τέκνα, ἔνεκεν τοῦ
 ὀνόματός μου, καὶ ἀκολουθεῖ ὀπίσω μου, οὗτος λήψεται εὐλογίαν

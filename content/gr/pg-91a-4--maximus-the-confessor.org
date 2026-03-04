@@ -1,6 +1,7 @@
-#+TITLE: ΑΠΑΝΤΑ, ΜΑΞΙΜΟΥ τοῦ ΟΜΟΛΟΓΗΤΟΥ *
+#+TITLE: Ambigua ad Iohannem II
 #+AUTHOR: Μάξιμος ὁ Ὁμολογητής
 #+FILETAGS: :patristic:7c-ad:
+#+MIGNE_TITLE: PG 91A 4
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

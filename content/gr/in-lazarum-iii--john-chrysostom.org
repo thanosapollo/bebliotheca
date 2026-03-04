@@ -1,17 +1,21 @@
-#+TITLE: Εἰς τὸν τετραήμερον Λάζαρον. γʹ. 62.777 Ἔλυσε τὸν Λάζαρον τὸ φῶς· ἀλλ' οὕτω καλούμενος ἔσπευσεν, ὡς
+#+TITLE: In Lazarum iii
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Lazarum iii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-lazarum-iii--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν τετραήμερον Λάζαρον. γʹ. 62.777 Ἔλυσε τὸν Λάζαρον τὸ φῶς· ἀλλ' οὕτω καλούμενος ἔσπευσεν, ὡς
+* In Lazarum iii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν τετραήμερον Λάζαρον. γʹ.
+=62.777=
+Ἔλυσε τὸν Λάζαρον τὸ φῶς· ἀλλ' οὕτω καλούμενος ἔσπευσεν, ὡς
 ἐσπαργανωμένος ἐπιδείξασθαι δρόμον, ὁ τετάρτην μὲν ἡμέραν κατασαπεὶς ἐν τῷ
 μνημείῳ, πολλὰ δὲ τῶν σπλάγχνων ὑπὸ σκωλήκων πεπορθημένος, πᾶσαν δὲ τὴν τοῦ
 σώματος διασπασθεὶς ἁρμονίαν, καὶ τῆς φθορᾶς μάρτυρα τὸ τοῦ τάφου κεκτημένος

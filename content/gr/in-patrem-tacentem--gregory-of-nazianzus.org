@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ Ιςʹ. Εἰς τὸν πατέρα σιωπῶντα διὰ τὴν πληγὴν τῆς χαλάζης.
+#+TITLE: In patrem tacentem
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In patrem tacentem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-patrem-tacentem--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ Ιςʹ. Εἰς τὸν πατέρα σιωπῶντα διὰ τὴν πληγὴν τῆς χαλάζης.
+* In patrem tacentem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Ιςʹ.
+Εἰς τὸν πατέρα σιωπῶντα διὰ τὴν πληγὴν τῆς χαλάζης.
 Αʹ. Τί λύετε τάξιν ἐπαινουμένην; τί βιάζεσθε γλῶσ =35.936= σαν νόμῳ
 δουλεύουσαν; τί προκαλεῖσθε λόγον εἴκοντα πνεύματι; τί τὴν κεφαλὴν ἀφέντες, ἐπὶ
 τοὺς πόδας ἐσπεύσατε; τί τὸν Ἀρὼν παρατρέχοντες, τὸν Ἐλεάζαρ προβάλλεσθε; Οὐ

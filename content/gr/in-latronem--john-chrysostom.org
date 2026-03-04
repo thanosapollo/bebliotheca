@@ -1,17 +1,21 @@
-#+TITLE: Εἰς τὸν λῃστὴν, καὶ εἰς τὴν προδοσίαν τοῦ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ. 59.719
+#+TITLE: In latronem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In latronem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-latronem--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν λῃστὴν, καὶ εἰς τὴν προδοσίαν τοῦ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ. 59.719
+* In latronem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν λῃστὴν, καὶ εἰς τὴν προδοσίαν τοῦ Σωτῆρος ἡμῶν Ἰησοῦ
+Χριστοῦ.
+=59.719=
 αʹ. Ὢ πόση δύναμις τῆς ἡμετέρας πίστεως! ὢ πόσον ἰσχύει δέησις
 φιλοχρίστου λαοῦ ὑπὲρ ἁμαρτωλοῦ ἱερέως πρεσβεύουσα! Καὶ μὴ ξενίσῃ σε τὸ
 λεγόμενον· τοῦτο γὰρ παρὰ τοῦ θεσπεσίου Παύλου λέγειν πρὸς ὑμᾶς δεδίδαγμαι,

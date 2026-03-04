@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΠΕΡΙ ΣΩΜΑΤΟΣ ΚΑΙ ΨΥΧΗΣ.
+#+TITLE: De corpore et anima
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De corpore et anima
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-corpore-et-anima--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΠΕΡΙ ΣΩΜΑΤΟΣ ΚΑΙ ΨΥΧΗΣ.
+* De corpore et anima
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΠΕΡΙ ΣΩΜΑΤΟΣ ΚΑΙ
+ΨΥΧΗΣ.
 Σῶμα τῷ ἔχοντι τὴν σύνθεσιν ἐκ τῶν στοιχείων δέχεται, καὶ διάλυσιν, καὶ
 ἀφανίζεται. ∆ιὰ τοῦτο τὰ σώματα, καὶ ἀνθρώπων, καὶ ζώων, εὔφθαρτά τε καὶ
 εὔθνητα τυγχάνουσιν, ἐκ τεσσάρων στοιχείων συνιστάμενα, λέγω δὴ, γῆς, ἡλίου,

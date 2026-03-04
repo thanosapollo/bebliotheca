@@ -1,17 +1,19 @@
-#+TITLE: ̓Εκλογὴ τῶν Χρονικῶν ἀπὸ Ἰωάννου Ἱστορικοῦ ἀπὸ Ἀδὰμ ἕως βασιλείας
+#+TITLE: Chronographia eclogae
 #+AUTHOR: Ἰωάννης Μαλάλας
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Chronographia eclogae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronographia-eclogae--john-malalas
 #+LANGUAGE: el
 
-* ̓Εκλογὴ τῶν Χρονικῶν ἀπὸ Ἰωάννου Ἱστορικοῦ ἀπὸ Ἀδὰμ ἕως βασιλείας
+* Chronographia eclogae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Εκλογὴ τῶν Χρονικῶν ἀπὸ Ἰωάννου Ἱστορικοῦ ἀπὸ Ἀδὰμ ἕως βασιλείας
 Καίσαρος.
 Ὁ ΠΡΩΤΟΣ ἄνθρωπος ἐκ τῆς γῆς Ἀδὰμ, εἶχε μέτρον ἡλικίας πόδας ἓξ, μετὰ
 τῆς αὐτοῦ κεφαλῆς, ὡς εἶναι τὴν αὐτοῦ ἡλικίαν δακτύλων ϟς. ἡ δὲ σπιθαμὴ αὐτοῦ

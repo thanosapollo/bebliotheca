@@ -1,17 +1,19 @@
-#+TITLE: 47 Τῷ (τοὺς τῷ μοντεφ.) εὐαγγελίῳ μὴ πιστεύοντας Ἕλληνας καὶ τὰς θείας πάσας
+#+TITLE: Quaestio 136 e quaestionibus ad Antiochum ducem 47
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quaestio 136 e quaestionibus ad Antiochum ducem 47
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quaestio-136-e-quaestionibus-ad-antiochum-ducem-47--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* 47 Τῷ (τοὺς τῷ μοντεφ.) εὐαγγελίῳ μὴ πιστεύοντας Ἕλληνας καὶ τὰς θείας πάσας
+* Quaestio 136 e quaestionibus ad Antiochum ducem 47
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+47 Τῷ (τοὺς τῷ μοντεφ.) εὐαγγελίῳ μὴ πιστεύοντας Ἕλληνας καὶ τὰς θείας πάσας
 γραφὰς εὐτελίζοντας πῶς αὐτοὺς πεῖσαι ὀφείλομεν ὅτι ἔστι θεὸς ἄκτιστος, ποιητὴς
 οὐρανοῦ καὶ γῆς, εἷς καὶ μόνος, καὶ οὐ πολλοὶ θεοὶ, ὡς αὐτοὶ πλανώμενοι
 νομίζουσιν; ρεσπονδετυρτῶν τὰς θείας γραφὰς μὴ δεχομένων, ἐξ αὐτῆς λοιπὸν τῆς

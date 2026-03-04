@@ -1,17 +1,20 @@
-#+TITLE: ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΨΑΛΜΟΥΣ. 12.1053
+#+TITLE: Selecta in Psalmos
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Selecta in Psalmos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/selecta-in-psalmos--origen
 #+LANGUAGE: el
 
-* ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΨΑΛΜΟΥΣ. 12.1053
+* Selecta in Psalmos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΨΑΛΜΟΥΣ.
+=12.1053=
 ∆ιὰ τοὺς ἐπιγεγραμμένους ψαλμοὺς «εἰς τὸ τέ λος,» ἐπελεξάμεθα τοὺς ὅρους αὐτοῦ,
 ἐκ μὲν τῶν Ἀριστοτέλους οὕτως ἔχοντας· Τέλος ἐστὶν οὗ ἕνεκεν τὰ ἄλλα, αὐτὸ δὲ
 μηδενὸς ἕνεκεν· ἢ οὕτως· οὗ ἕνε κεν τὰ ἄλλα, αὐτὸ δὲ οὐκ αὐτῶν ἕνεκα· ἢ οὕτως· δι'

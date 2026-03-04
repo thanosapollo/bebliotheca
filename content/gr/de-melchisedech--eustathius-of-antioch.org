@@ -1,17 +1,19 @@
-#+TITLE: Ἀμήτορά που καὶ ἀπάτορα τὸν Μελχισεδὲκ ἐξέφρασεν ὁ Παῦλος. Ὅτι μὲν
+#+TITLE: De Melchisedech
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De Melchisedech
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-melchisedech--eustathius-of-antioch
 #+LANGUAGE: el
 
-* Ἀμήτορά που καὶ ἀπάτορα τὸν Μελχισεδὲκ ἐξέφρασεν ὁ Παῦλος. Ὅτι μὲν
+* De Melchisedech
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀμήτορά που καὶ ἀπάτορα τὸν Μελχισεδὲκ ἐξέφρασεν ὁ Παῦλος. Ὅτι μὲν
 τοίνυν ἐκ γῆς οὐκ ἀνέτειλεν ὁ μέγιστος τῶν ἱερέων Μελχισεδέκ, οὐδεὶς ἀντειπεῖν
 ἔχοι· οὐδὲ γὰρ ἐκ δρυὸς οὐδ' ἀπὸ πέτρας ἔφυ, οὐδ' ἐκ γῆς ληφθεὶς πηλουργεῖται κατὰ
 τὸν Ἀδὰμ πλαττόμενος καὶ τῶ χεῖρε πλαστουργεῖται. Καὶ μετ' ὀλίγον τόπον· Τί οὖν

@@ -1,17 +1,19 @@
-#+TITLE: ΜΑΚΑΡΙΟΥ ΤΟΥ ΜΕΓΑΛΟΥ ΠΕΡΙ ΦΥΛΑΚΗΣ ΚΑΡ∆ΙΑΣ ΛΟΓΟΣ.
+#+TITLE: Opusculum
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Opusculum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/opusculum--macarius-of-egypt
 #+LANGUAGE: el
 
-* ΜΑΚΑΡΙΟΥ ΤΟΥ ΜΕΓΑΛΟΥ ΠΕΡΙ ΦΥΛΑΚΗΣ ΚΑΡ∆ΙΑΣ ΛΟΓΟΣ.
+* Opusculum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΜΑΚΑΡΙΟΥ ΤΟΥ ΜΕΓΑΛΟΥ ΠΕΡΙ ΦΥΛΑΚΗΣ ΚΑΡ∆ΙΑΣ ΛΟΓΟΣ.
 Αʹ. Πῶς δύναται λέγειν ὁ τυχὼν, ὅτι νηστεύων, καὶ ξενιτεύων, καὶ ψωμίζων
 μου τὰ ὑπάρχοντα ἅγιός εἰμι; Ἅγιός ἐστιν, οὐ καθαρθεὶς τὸν ἔσω ἄνθρωπον; =34.824=
 οὐ γὰρ ἡ ἀποχὴ τῶν κακῶν ἐστιν ἡ κάθαρσις, ἀλλ' ἡ κατὰ συνείδησιν τελεία

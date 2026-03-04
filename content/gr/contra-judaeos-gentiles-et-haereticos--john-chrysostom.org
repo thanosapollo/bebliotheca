@@ -1,13 +1,14 @@
-#+TITLE: nuptias Sp.
+#+TITLE: Contra Judaeos gentiles et haereticos
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra Judaeos gentiles et haereticos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-judaeos-gentiles-et-haereticos--john-chrysostom
 #+LANGUAGE: el
 
-* nuptias Sp.
+* Contra Judaeos gentiles et haereticos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

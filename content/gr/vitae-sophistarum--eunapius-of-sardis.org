@@ -1,17 +1,19 @@
-#+TITLE: ΕΥΝΑΠΙΟΥ ΒΙΟΙ ΦΙΛΟΣΟΦΩΝ ΚΑΙ ΣΟΦΙΣΤΩΝ
+#+TITLE: Vitae sophistarum
 #+AUTHOR: Εὐνάπιος Σαρδιανός
 #+FILETAGS: :imperial:4c-ad:
+#+MIGNE_TITLE: Vitae sophistarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/vitae-sophistarum--eunapius-of-sardis
 #+LANGUAGE: el
 
-* ΕΥΝΑΠΙΟΥ ΒΙΟΙ ΦΙΛΟΣΟΦΩΝ ΚΑΙ ΣΟΦΙΣΤΩΝ
+* Vitae sophistarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΝΑΠΙΟΥ ΒΙΟΙ ΦΙΛΟΣΟΦΩΝ ΚΑΙ ΣΟΦΙΣΤΩΝ
 Ξενοφῶν ὁ φιλόσοφος, ἀνὴρ μόνος ἐξ ἁπάντων φιλοσόφων ἐν λόγοις τε καὶ
 ἔργοις φιλοσοφίαν κοσμήσας (τὰ μὲν ἐς λόγους ἔστι τε ἐν γράμμασι καὶ ἠθικὴν ἀρετὴν
 γράφει, τὰ δὲ ἐν πράξεσί τε ἦν ἄριστος, ἀλλὰ καὶ ἐγέννα στρα1.1.2 τηγοὺς τοῖς

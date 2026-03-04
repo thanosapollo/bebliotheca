@@ -1,17 +1,19 @@
-#+TITLE: ...χαρᾶς ἡμέρα καὶ εὐφροσύνης ἀγαπητοί, ἡμέρα ἀγαλλιάσεως καὶ σωτηρίας,
+#+TITLE: Oratio in resurrectionem domini
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Oratio in resurrectionem domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-in-resurrectionem-domini--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* ...χαρᾶς ἡμέρα καὶ εὐφροσύνης ἀγαπητοί, ἡμέρα ἀγαλλιάσεως καὶ σωτηρίας,
+* Oratio in resurrectionem domini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+...χαρᾶς ἡμέρα καὶ εὐφροσύνης ἀγαπητοί, ἡμέρα ἀγαλλιάσεως καὶ σωτηρίας,
 ἡμέρα φωτισμοῦ καὶ ἁγιασμοῦ, ἡμέρα εἰρήνης καὶ καταλλαγῆς· ἡμέρα ἀναπλάσεως
 καὶ ἀνακαινισμοῦ τῶν ἡμετέρων ψυχῶν, ἡμέρα ὄντως μεγάλη καὶ θαυμαστὴ καὶ
 ἐπιφανής· ἐν ταύτῃ συνήγειρεν ἡμᾶς ὁ Χριστὸς ἐρριμμένους τῇ ἁμαρτίᾳ, ἐν ταύτῃ

@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΑΓΙΟΥ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΕΞΗΓΗΣΕΩΣ ΕΙΣ ΤΟΝ ΙΕΡΕΜΙΑΝ ΠΡΟΦΗΤΗΝ ΤΑ ΣΩΖΟΜΕΝΑ. 64.740
+#+TITLE: Fragmenta in Jeremiam
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in Jeremiam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-jeremiam--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΓΙΟΥ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΕΞΗΓΗΣΕΩΣ ΕΙΣ ΤΟΝ ΙΕΡΕΜΙΑΝ ΠΡΟΦΗΤΗΝ ΤΑ ΣΩΖΟΜΕΝΑ. 64.740
+* Fragmenta in Jeremiam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΓΙΟΥ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ
+ΧΡΥΣΟΣΤΟΜΟΥ ΕΞΗΓΗΣΕΩΣ ΕΙΣ ΤΟΝ ΙΕΡΕΜΙΑΝ ΠΡΟΦΗΤΗΝ ΤΑ
+ΣΩΖΟΜΕΝΑ.
+=64.740=
 Λεκτέον τίς ἡ προφητεία καὶ πότε ἤρξατο, καὶ πότε πέπαυται, καὶ τίνος ἕνεκεν
 ἔληξεν· καὶ τί λαβεῖν ἔστιν ἐκ ταύτης ἐν τῷ βίῳ ὠφέλιμον. Προφητεία τοίνυν, τὸ
 λέγειν, ἢ καὶ τυπικῶς δεικνύναι τὰ προλαβόντα, καὶ ὄντα, καὶ ἐσόμενα. Λόγος γάρ

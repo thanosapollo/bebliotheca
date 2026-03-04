@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἁγίου Ἀθανασίου, ἀρχιεπισκόπου Ἀλεξανδρείας, εἰς τὴν ἀνάστασιν
+#+TITLE: Oratio in resurrectionem et in recens baptizatos
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Oratio in resurrectionem et in recens baptizatos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-in-resurrectionem-et-in-recens-baptizatos--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου Ἀθανασίου, ἀρχιεπισκόπου Ἀλεξανδρείας, εἰς τὴν ἀνάστασιν
+* Oratio in resurrectionem et in recens baptizatos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου Ἀθανασίου, ἀρχιεπισκόπου Ἀλεξανδρείας, εἰς τὴν ἀνάστασιν
 τοῦ σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ καὶ εἰς τοὺς νεοφωτίστους.
 1 Νῦν ἀγγέλων χορεῖαι, νῦν ἀρχαγγέλων σκιρτήματα, στεφανηφοροῦντες καὶ τὴν
 πνευματικὴν τελοῦντες ἱερομηνίαν ἄφραστον εἰκότως ἔχουσιν ἡδονήν. Ἀκούεις· «Ὁ

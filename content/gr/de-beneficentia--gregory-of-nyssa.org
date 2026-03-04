@@ -1,17 +1,19 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΕΥΠΟΙΙΑΣ
+#+TITLE: De beneficentia
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De beneficentia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-beneficentia--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΕΥΠΟΙΙΑΣ
+* De beneficentia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΕΥΠΟΙΙΑΣ
 Ὁ τῆς ἐκκλησίας ταύτης πρόεδρος καὶ οἱ τῆς ἀπλανοῦς εὐσεβείας καὶ τῆς
 κατ' ἀρετὴν πολιτείας διδάσκαλοι πολλὴν ἔχουσι πρὸς τοὺς γραμματιστὰς καὶ τοὺς
 παιδευτὰς τῶν πρώτων στοιχείων τὴν ὁμοιότητα. ὥσπερ γὰρ ἐκεῖνοι τοὺς νηπίους

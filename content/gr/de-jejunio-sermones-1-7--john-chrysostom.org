@@ -1,17 +1,20 @@
-#+TITLE: Εἰς κήρυγμα νηστείας. 60.711 Λόγος αʹ.
+#+TITLE: De jejunio sermones 1 7
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De jejunio sermones 1 7
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-jejunio-sermones-1-7--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς κήρυγμα νηστείας. 60.711 Λόγος αʹ.
+* De jejunio sermones 1 7
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς κήρυγμα νηστείας.
+=60.711= Λόγος αʹ.
 Ἐπὶ θεραπείαν τήμερον ὁ Θεὸς τὸ γένος καλεῖ. Ἰατρείαν γὰρ διὰ τοῦ προφήτου
 τὴν νηστείαν ὡρίσατο, Ἁγιάσατε, λέγων, νηστείαν, κηρύξατε θεραπείαν. Ἐπειδὴ γὰρ
 εἶδεν ὁ Θεὸς ἐκ παραδείσου πολυτραυμάτιστον τὸν Ἀδὰμ βληθέντα, θεραπείαν τούτῳ

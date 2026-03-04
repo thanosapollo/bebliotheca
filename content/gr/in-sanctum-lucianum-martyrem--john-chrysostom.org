@@ -1,17 +1,21 @@
-#+TITLE: ΟΜΙΛΙΑ ΕΓΚΩΜΙΑΣΤΙΚΗ. Εἰς τὸν ἅγιον μάρτυρα Λουκιανόν. 50.519
+#+TITLE: In sanctum Lucianum martyrem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum Lucianum martyrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-lucianum-martyrem--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΕΓΚΩΜΙΑΣΤΙΚΗ. Εἰς τὸν ἅγιον μάρτυρα Λουκιανόν. 50.519
+* In sanctum Lucianum martyrem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΕΓΚΩΜΙΑΣΤΙΚΗ.
+Εἰς τὸν ἅγιον μάρτυρα Λουκιανόν.
+=50.519=
 αʹ. Ὅπερ χθὲς ἐδεδοίκειν ἐξέβη, καὶ τέλος ἔλαβε νῦν, =50.520= καὶ τῆς ἑορτῆς
 ἀπελθούσης, καὶ τὸ πλῆθος ἡμῖν συν =50.521= απεδήμησε, καὶ ἐλάττων ἡμῖν ὁ
 σύλλογος γέγονε. Καὶ ᾔδειν μὲν τοῦτο συμβησόμενον πάντως· οὐ μὴν δὲ διὰ τοῦτο

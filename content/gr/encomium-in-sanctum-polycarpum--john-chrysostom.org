@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΙΕΡΟΜΑΡΤΥΡΑ ΠΟΛΥΚΑΡΠΟΝ. ΕΥΛΟΓΗΣΟΝ.
+#+TITLE: Encomium in sanctum Polycarpum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Encomium in sanctum Polycarpum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/encomium-in-sanctum-polycarpum--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΙΕΡΟΜΑΡΤΥΡΑ ΠΟΛΥΚΑΡΠΟΝ. ΕΥΛΟΓΗΣΟΝ.
+* Encomium in sanctum Polycarpum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΙΕΡΟΜΑΡΤΥΡΑ
+ΠΟΛΥΚΑΡΠΟΝ. ΕΥΛΟΓΗΣΟΝ.
 Χαιρέτω καὶ σήμερον, ἀγαπητοί, μᾶλλον δὲ δι' αἰῶνος χαιρέτω τῶν
 ἁπανταχοῦ τῆς ἐκκλησίας ποιμένων τὸ ἱεροπρεπὲς ἐν Χριστῷ ἀξίωμα. τοῦτο Παῦλος
 τοῖς Φιλιππησίων ἐπισκόποις σὺν πρεσβυτέροις καὶ διακόνοις ἐπευχόμενος ἔλεγεν

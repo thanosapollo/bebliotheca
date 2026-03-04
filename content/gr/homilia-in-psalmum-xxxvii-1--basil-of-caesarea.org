@@ -1,17 +1,22 @@
-#+TITLE: ΕΙΣ ΛΖʹ ΨΑΛΜΟΝ. ∆ιδασκαλία ἐξομολογήσεως. Ψαλμὸς τῷ ∆αβὶδ εἰς ἀνάμνησιν. Οἱ τῆς θεοπνεύστου Γραφῆς λόγοι στήσονται ἐπὶ τοῦ βήματος τοῦ Χριστοῦ.
+#+TITLE: Homilia in Psalmum XXXVII 1
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in Psalmum XXXVII 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-psalmum-xxxvii-1--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΕΙΣ ΛΖʹ ΨΑΛΜΟΝ. ∆ιδασκαλία ἐξομολογήσεως. Ψαλμὸς τῷ ∆αβὶδ εἰς ἀνάμνησιν. Οἱ τῆς θεοπνεύστου Γραφῆς λόγοι στήσονται ἐπὶ τοῦ βήματος τοῦ Χριστοῦ.
+* Homilia in Psalmum XXXVII 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΛΖʹ ΨΑΛΜΟΝ.
+∆ιδασκαλία ἐξομολογήσεως.
+Ψαλμὸς τῷ ∆αβὶδ εἰς ἀνάμνησιν.
+Οἱ τῆς θεοπνεύστου Γραφῆς λόγοι στήσονται ἐπὶ τοῦ βήματος τοῦ Χριστοῦ.
 Ἐλέγξω γὰρ, φησὶ, καὶ παραστήσω κατὰ πρόσωπόν σου τὰς ἁμαρτίας σου. Οὕτω καὶ
 πρόσχωμεν νηφόντως τοῖς λεγομέ νοις κατὰ τὴν Γραφὴν, καὶ εἰς ἔργον προάγειν τὰς
 ἐν =30.84= τολὰς τοῦ Κυρίου σπουδάσαι ἐπειχθῶμεν, ὅτι οὐκ οἴδα μεν, ποίᾳ ὥρᾳ ἢ

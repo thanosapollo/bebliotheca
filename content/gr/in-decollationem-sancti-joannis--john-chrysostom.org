@@ -1,17 +1,21 @@
-#+TITLE: ΕΙΣ ΤΗΝ ΑΠΟΤΟΜΗΝ ΤΟΥ ΠΡΟ∆ΡΟΜΟΥ ΚΑΙ ΒΑΠΤΙΣΤΟΥ ΙΩΑΝΝΟΥ, Καὶ εἰς τὴν Ἡρωδιάδα. 59.485
+#+TITLE: In decollationem sancti Joannis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In decollationem sancti Joannis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-decollationem-sancti-joannis--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΗΝ ΑΠΟΤΟΜΗΝ ΤΟΥ ΠΡΟ∆ΡΟΜΟΥ ΚΑΙ ΒΑΠΤΙΣΤΟΥ ΙΩΑΝΝΟΥ, Καὶ εἰς τὴν Ἡρωδιάδα. 59.485
+* In decollationem sancti Joannis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΗΝ ΑΠΟΤΟΜΗΝ ΤΟΥ ΠΡΟ∆ΡΟΜΟΥ ΚΑΙ ΒΑΠΤΙΣΤΟΥ ΙΩΑΝΝΟΥ, Καὶ
+εἰς τὴν Ἡρωδιάδα.
+=59.485=
 Πάλιν Ἡρωδιὰς μαίνεται, πάλιν ταράττεται, πάλι ὀρχεῖται, πάλιν ἐπιζητεῖ
 τὴν κεφαλὴν Ἰωάννου τοῦ Βαπτιστοῦ ἀνόμως ὑπὸ Ἡρώδου ἀποτμηθῆναι. Πάλιν
 Ἰεζάβελ περιέρχεται ζητοῦσα τοῦ Ναβουθαὶ τὸν ἀμπελῶνα ἁρπάσαι, καὶ τὸν ἅγιον

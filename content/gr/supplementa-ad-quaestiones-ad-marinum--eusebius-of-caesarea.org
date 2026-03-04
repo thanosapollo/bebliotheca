@@ -1,17 +1,19 @@
-#+TITLE: Αʹ. Τοῦ φόβου τῶν Ἰουδαίων ἐπικειμένου τοῖς μαθηταῖς τοῦ Σωτῆρος, λέγει
+#+TITLE: Supplementa ad quaestiones ad Marinum
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Supplementa ad quaestiones ad Marinum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/supplementa-ad-quaestiones-ad-marinum--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* Αʹ. Τοῦ φόβου τῶν Ἰουδαίων ἐπικειμένου τοῖς μαθηταῖς τοῦ Σωτῆρος, λέγει
+* Supplementa ad quaestiones ad Marinum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Αʹ. Τοῦ φόβου τῶν Ἰουδαίων ἐπικειμένου τοῖς μαθηταῖς τοῦ Σωτῆρος, λέγει
 γοῦν ὁ Ἰωάννης ὡς ἦσαν ὁμοῦ συνηγμένοι οἱ μαθηταὶ ἐν οἴκῳ ἑνὶ, τῶν θυρῶν
 κεκλεισμένων διὰ τὸν φόβον τῶν Ἰουδαίων. Πῶς ὁ Πέτρος καὶ ὁ Ἰωάννης ἀπήντων
 ἐπὶ τὸ μνῆμα; Καὶ ταῦτα στρατιωτικῆς φρουρᾶς φυλαττούσης τὸν τόπον, ὡς ὁ

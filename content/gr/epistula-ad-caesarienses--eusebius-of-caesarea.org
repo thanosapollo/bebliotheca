@@ -1,17 +1,20 @@
-#+TITLE: Εὐσεβίου Καισαρέως τοῦ ἀρειανόφρονος ἐπιστολὴ πρὸς τοὺς τῆς παροικίας αὐτοῦ.
+#+TITLE: Epistula ad Caesarienses
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Caesarienses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-caesarienses--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* Εὐσεβίου Καισαρέως τοῦ ἀρειανόφρονος ἐπιστολὴ πρὸς τοὺς τῆς παροικίας αὐτοῦ.
+* Epistula ad Caesarienses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εὐσεβίου Καισαρέως τοῦ ἀρειανόφρονος ἐπιστολὴ πρὸς τοὺς τῆς
+παροικίας αὐτοῦ.
 1 Τὰ περὶ τῆς ἐκκλησιαστικῆς πίστεως πραγματευθέντα κατὰ τὴν μεγάλην
 σύνοδον τὴν ἐν Νικαίᾳ συγκροτηθεῖσαν εἰκὸς μὲν ὑμᾶς, ἀγαπητοί, καὶ ἄλλοθεν
 μεμαθηκέναι, τῆς φήμης προτρέχειν εἰωθυίας τὸν περὶ τῶν πραττομένων ἀκριβῆ

@@ -1,17 +1,19 @@
-#+TITLE: ΠΕΡΙ ΤΗΣ ΤΩΝ ΚΑΚΩΝ ὙΠΟΣΤΑΣΕΩΣ ΜΟΝΟΒΙΒΛΟΣ
+#+TITLE: De malorum subsistentia
 #+AUTHOR: Πρόκλος Κωνσταντινουπόλεως
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: De malorum subsistentia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-malorum-subsistentia--proclus-of-constantinople
 #+LANGUAGE: el
 
-* ΠΕΡΙ ΤΗΣ ΤΩΝ ΚΑΚΩΝ ὙΠΟΣΤΑΣΕΩΣ ΜΟΝΟΒΙΒΛΟΣ
+* De malorum subsistentia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΕΡΙ ΤΗΣ ΤΩΝ ΚΑΚΩΝ ὙΠΟΣΤΑΣΕΩΣ ΜΟΝΟΒΙΒΛΟΣ
 1 Τὴν τοῦ κακοῦ φύσιν, ἥτις τέ ἐστι καὶ ὅθεν ἔχει τὴν γένεσιν, ἐζήτησαν μὲν καὶ τῶν
 πρὸ ἡμῶν τινες, –––αὐτὸ καθ' αὑτὸ τὸ κακὸν σκοπήσαντες, εἴτε ἔστιν εἴτε καὶ μή, καὶ
 εἰ ἔστι, πῶς ἐστὶ καὶ πόθεν εἰς τὸ εἶναι καὶ τὴν ὑπόστασιν ἥκει· ... ἡμεῖς δὲ ...

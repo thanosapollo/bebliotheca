@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ ΙΑʹ. Περὶ φθόνου.
+#+TITLE: Homilia de invidia
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia de invidia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-de-invidia--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΙΑʹ. Περὶ φθόνου.
+* Homilia de invidia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΙΑʹ.
+Περὶ φθόνου.
 Ἀγαθὸς ὁ Θεὸς, καὶ ἀγαθῶν τοῖς ἀξίοις παρεκτι κός· πονηρὸς ὁ διάβολος, καὶ
 κακίας παντοίας δη μιουργός. Καὶ ὥσπερ ἕπεται τῷ ἀγαθῷ ἡ ἀφθονία, οὕτως
 ἀκολουθεῖ τῷ διαβόλῳ ἡ βασκανία. Φυλαξώ μεθα οὖν, ἀδελφοὶ, τὸ πάθος τοῦ

@@ -1,17 +1,20 @@
-#+TITLE: ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΚΑΤΑ ΝΕΣΤΟΡΙΟΥ ΠΡΟΣ ΣΠΟΡΑΚΙΟΝ.
+#+TITLE: Libellus contra Nestorium ad Sporacium
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Libellus contra Nestorium ad Sporacium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/libellus-contra-nestorium-ad-sporacium--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΚΑΤΑ ΝΕΣΤΟΡΙΟΥ ΠΡΟΣ ΣΠΟΡΑΚΙΟΝ.
+* Libellus contra Nestorium ad Sporacium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΚΑΤΑ ΝΕΣΤΟΡΙΟΥ ΠΡΟΣ
+ΣΠΟΡΑΚΙΟΝ.
 Ἐπειδὴ δὲ τοῦ κόσμου παντὸς κατὰ μικρὸν ὑποῤῥέοντος, καὶ πρὸς τὴν τοῦδε
 τοῦ παντὸς ἐπειγομένου λύσιν, πᾶς τις ἑαυτὸν ἀξιόχρεων εἶναι τῆς εὐσεβείας
 διδάσκαλον ᾤετο, διὰ τὸν ἐξ ἀμαθίας τῦφον οὐδενὸς μανθάνειν ἀνεχομένου, οὐκέτι

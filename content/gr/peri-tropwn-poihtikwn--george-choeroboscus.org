@@ -1,17 +1,19 @@
-#+TITLE: ΓΕΩΡΓΙΟΥ ΤΟΥ ΧΟΙΡΟΒΟΣΚΟΥ ΠΕΡΙ ΤΡΟΠΩΝ ΠΟΙΗΤΙΚΩΝ.
+#+TITLE: Peri tropwn poihtikwn
 #+AUTHOR: Γεώργιος Χοιροβοσκός
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Peri tropwn poihtikwn
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/peri-tropwn-poihtikwn--george-choeroboscus
 #+LANGUAGE: el
 
-* ΓΕΩΡΓΙΟΥ ΤΟΥ ΧΟΙΡΟΒΟΣΚΟΥ ΠΕΡΙ ΤΡΟΠΩΝ ΠΟΙΗΤΙΚΩΝ.
+* Peri tropwn poihtikwn
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΕΩΡΓΙΟΥ ΤΟΥ ΧΟΙΡΟΒΟΣΚΟΥ ΠΕΡΙ ΤΡΟΠΩΝ ΠΟΙΗΤΙΚΩΝ.
 Πάσης παλαιᾶς καὶ νέας γραφῆς ποιητικοὶ τρόποι εἰσὶν κζʹ. ἀλληγορία,
 μεταφορά, κατάχρησις, μετάληψις, ὑπερβατόν, ἀναστροφή, συνεκδοχή, σύλληψις,
 ὀνοματο ποιΐα, πεποιημένον, ἀντονομασία, μετωνυμία, ἀντίφρα σις, περίφρασις,

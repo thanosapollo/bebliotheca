@@ -1,17 +1,19 @@
-#+TITLE: Περὶ τοῦ ἀββᾶ Μακαρίου τοῦ Αἰγυπτίου.
+#+TITLE: Apophthegmata
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Apophthegmata
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/apophthegmata--macarius-of-egypt
 #+LANGUAGE: el
 
-* Περὶ τοῦ ἀββᾶ Μακαρίου τοῦ Αἰγυπτίου.
+* Apophthegmata
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ τοῦ ἀββᾶ Μακαρίου τοῦ Αἰγυπτίου.
 ∆ιηγήσατο περὶ ἑαυτοῦ ὁ ἀββᾶς Μακάριος, λέγων· ὅτε ἤμην νεώτερος καὶ
 ἐκαθήμην εἰς κελ λίον εἰς Αἴγυπτον, ἐκράτησάν με καὶ ἐποίησαν κληρικὸν εἰς τὴν
 κώμην· καὶ μὴ θέλων κατα δέξασθαι, ἔφυγον εἰς ἕτερον τόπον. καὶ ἦλθε πρός με

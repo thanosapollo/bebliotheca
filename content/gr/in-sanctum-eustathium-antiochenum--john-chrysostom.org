@@ -1,17 +1,19 @@
-#+TITLE: ΕΓΚΩΜΙΟΝ Εἰς τὸν ἐν ἁγίοις πατέρα ἡμῶν Εὐστάθιον ἀρχιεπίσκοπον
+#+TITLE: In sanctum Eustathium Antiochenum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum Eustathium Antiochenum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-eustathium-antiochenum--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΓΚΩΜΙΟΝ Εἰς τὸν ἐν ἁγίοις πατέρα ἡμῶν Εὐστάθιον ἀρχιεπίσκοπον
+* In sanctum Eustathium Antiochenum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΓΚΩΜΙΟΝ Εἰς τὸν ἐν ἁγίοις πατέρα ἡμῶν Εὐστάθιον ἀρχιεπίσκοπον
 Ἀντιοχείας τῆς μεγάλης.
 =50.597=
 αʹ. Σοφός τις ἀνὴρ καὶ φιλοσοφεῖν εἰδὼς, τῶν ἀνθρω πίνων πραγμάτων τὴν

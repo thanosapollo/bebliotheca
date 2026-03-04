@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ Περὶ ἱερωσύνης λόγος ἕβδομος.
+#+TITLE: De sacerdotio lib 7
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sacerdotio lib 7
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sacerdotio-lib-7--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ Περὶ ἱερωσύνης λόγος ἕβδομος.
+* De sacerdotio lib 7
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ Περὶ ἱερωσύνης λόγος ἕβδομος.
 Ὦ θαῦμα παράδοξον! ὦ δύναμις ἄῤῥητος! ὦ φρικτὸν μυστήριον τὸ τῆς
 ἱερωσύνης· νοερὰ καὶ ἁγία, σεμνὴ καὶ ἀμώμητος, ἣν Χριστὸς τοῖς ἀξίοις ἐλθὼν
 ἐδωρήσατο. Προσπίπτω καὶ δέομαι δάκρυσι καὶ στεναγμοῖς, ἵνα ἐσοπτρίσωμαι εἰς

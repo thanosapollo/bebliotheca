@@ -1,17 +1,19 @@
-#+TITLE: Περὶ τῶν οʹ ἀποστόλων.
+#+TITLE: Index discipulorum
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Index discipulorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/index-discipulorum--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Περὶ τῶν οʹ ἀποστόλων.
+* Index discipulorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ τῶν οʹ ἀποστόλων.
 αʹ. Ἰάκωβος ὁ ἀδελφὸς τοῦ κυρίου τὸ κατὰ σάρκα, ὁ καὶ ἐπικληθεὶς δίκαιος
 καὶ πρῶτος ἐπίσκοπος Ἱεροσολύμων χειροτονηθείς, λίθοις βληθεὶς ὑπὸ τῶν
 Ἰουδαίων ἐν αὐτῇ τῇ Ἱερουσαλὴμ ἐκοιμήθη καὶ ἐκεῖ ἐτάφη ἐν τῷ ναῷ πλησίον τῶν

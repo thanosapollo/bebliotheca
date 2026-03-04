@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ, ∆ΙΑ ΤΙ ΕΚΛΗΘΗ Ο ΜΕΛΧΙΣΕ∆ΕΚ «ΑΠΑΤΩΡ, ΑΜΗΤΩΡ ΚΑΙ ΑΓΕΝΕΑΛΟΓΗ ΤΟΣ.» Ἱστορία εἰς τὸν Μελχισεδέκ.
+#+TITLE: Historia de Melchisedech
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Historia de Melchisedech
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historia-de-melchisedech--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ, ∆ΙΑ ΤΙ ΕΚΛΗΘΗ Ο ΜΕΛΧΙΣΕ∆ΕΚ «ΑΠΑΤΩΡ, ΑΜΗΤΩΡ ΚΑΙ ΑΓΕΝΕΑΛΟΓΗ ΤΟΣ.» Ἱστορία εἰς τὸν Μελχισεδέκ.
+* Historia de Melchisedech
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ, ∆ΙΑ ΤΙ ΕΚΛΗΘΗ Ο ΜΕΛΧΙΣΕ∆ΕΚ «ΑΠΑΤΩΡ, ΑΜΗΤΩΡ ΚΑΙ
+ΑΓΕΝΕΑΛΟΓΗ ΤΟΣ.»
+Ἱστορία εἰς τὸν Μελχισεδέκ.
 Ἐν τῷ καιρῷ ἐκείνῳ ἦν τις βασίλισσα Σαλὴμ, κατὰ τὸ ὄνομα τῆς πόλεως· ἐγέννησε
 δὲ τὸν Σαλαάδ. Σαλαὰδ δὲ ἐγέννησε Μελχί. Μελχὶ δὲ ἔσχε γυναῖκα κατὰ τὸ ὄνομα
 αὐτῆς Σαλήμ· ἔτεκε δὲ αὐτῷ δύο υἱοὺς, ἕνα καλούμενον τὸν Μελχὶ, καὶ ἕτερον

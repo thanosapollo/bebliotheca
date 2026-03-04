@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸ, Ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι τὸν σπόρον αὑτοῦ. 61.771
+#+TITLE: In illud Exiit qui seminat
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Exiit qui seminat
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-exiit-qui-seminat--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸ, Ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι τὸν σπόρον αὑτοῦ. 61.771
+* In illud Exiit qui seminat
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸ, Ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι τὸν σπόρον αὑτοῦ.
+=61.771=
 Ἡ παρθένος ἄρουρα ὑπὸ ἐμπείρων γεωργῶν τῇ τῶν βοῶν συνεργείᾳ τοῖς
 ἀρότροις αὐλακισθεῖσα, δέχεται τὰ σπέρματα, καὶ ταῖς βώλοις περιπτύξασα, πρῶτον
 βλαστάνει τὴν πόαν, εἶτα μηκύνει τὸν στάχυν, εἶτα πλήρη ἐν τῷ στάχυϊ τοῦ σίτου

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας
+#+TITLE: Contra gentes
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra gentes
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-gentes--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας
+* Contra gentes
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας
 κατὰ Ἑλλήνων
 1 Ἡ μὲν περὶ τῆς θεοσεβείας καὶ τῆς τῶν ὅλων ἀληθείας γνῶσις οὐ τοσοῦτον
 τῆς παρὰ τῶν ἀνθρώπων διδασκαλίας δεῖται, ὅσον ἀφ' ἑαυτῆς ἔχει τὸ γνώριμον·

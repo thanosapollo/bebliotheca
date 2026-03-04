@@ -1,17 +1,19 @@
-#+TITLE: Λόγος τοῦ ἁγίου ̓Επιφανίου κατὰ τῶν ἐπιτηδευόντων ποιεῖν εἰδωλικῷ
+#+TITLE: Tractatus contra eos qui imagines faciunt
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Tractatus contra eos qui imagines faciunt
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/tractatus-contra-eos-qui-imagines-faciunt--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Λόγος τοῦ ἁγίου ̓Επιφανίου κατὰ τῶν ἐπιτηδευόντων ποιεῖν εἰδωλικῷ
+* Tractatus contra eos qui imagines faciunt
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λόγος τοῦ ἁγίου ̓Επιφανίου κατὰ τῶν ἐπιτηδευόντων ποιεῖν εἰδωλικῷ
 θεσμῷ εἰκόνας εἰς ἀφομοίωσιν τοῦ Χριστοῦ καὶ τῆς Θεοτόκου καὶ τῶν
 μαρτύρων, ετι δὲ καὶ ἀγγέλων καὶ προφητῶν.
 1 τὸν τοῖχον κονιάσαντες χρώμασι διηλλαγμένοις τὰς εἰκόνας ἀνετύπωσαν.

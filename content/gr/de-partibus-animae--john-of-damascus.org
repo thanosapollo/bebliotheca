@@ -1,17 +1,19 @@
-#+TITLE: Τῆς δὲ ψυχῆς μέρη γʹ. Ἐπιθυμητικὸν, θυμικὸν, λογιστικόν. Ἀρεταῖς δὲ τέσσαρσι
+#+TITLE: De partibus animae
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: De partibus animae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-partibus-animae--john-of-damascus
 #+LANGUAGE: el
 
-* Τῆς δὲ ψυχῆς μέρη γʹ. Ἐπιθυμητικὸν, θυμικὸν, λογιστικόν. Ἀρεταῖς δὲ τέσσαρσι
+* De partibus animae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τῆς δὲ ψυχῆς μέρη γʹ. Ἐπιθυμητικὸν, θυμικὸν, λογιστικόν. Ἀρεταῖς δὲ τέσσαρσι
 τεθρόνισται ὁ ἱερώτατος νοῦς· φρονήσεως, ἀνδρείας, δικαιοσύνης, σωφροσύνης.
 =95.232= Τρισσὸς ὁ νόμος. Φυσικὸς, γραπτὸς, καὶ ὁ ἐν χάριτι πνευματικός. Τετραμερές
 ἐστι τὸ σῶμα, ὥσπερ τις κόσμος συνιστάμενον· τριμερὴς δὲ ἐν αὐτῷ ἡ ψυχὴ, προτυποῦσα

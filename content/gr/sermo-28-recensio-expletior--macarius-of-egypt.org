@@ -1,17 +1,19 @@
-#+TITLE: 160 Ἡγοῦμαι κἀμοὶ νῦν ἁρμόζειν τὰ τοῦ προφήτου φάσκειν, ὅτι «ἐκαρτέρησα
+#+TITLE: Sermo 28 recensio expletior
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo 28 recensio expletior
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-28-recensio-expletior--macarius-of-egypt
 #+LANGUAGE: el
 
-* 160 Ἡγοῦμαι κἀμοὶ νῦν ἁρμόζειν τὰ τοῦ προφήτου φάσκειν, ὅτι «ἐκαρτέρησα
+* Sermo 28 recensio expletior
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+160 Ἡγοῦμαι κἀμοὶ νῦν ἁρμόζειν τὰ τοῦ προφήτου φάσκειν, ὅτι «ἐκαρτέρησα
 ὡς ἡ τίκτουσα», ἀεὶ ὀρεγόμενος τῆς ἐν σοὶ τοῦ ἁγίου πνεύματος προκοπῆς, οὐ λόγῳ
 καὶ σκιαῖς εὑρισκομένης ἀλλ' ἐνεργείᾳ «ἀληθείας» καὶ «δυνάμει θεοῦ»
 ἐπιτελουμένης κατ' αὐτὴν τὴν τοῦ δεσπότου ἀπόφασιν, ὅτι ἡ βασιλεία οὐκ «ἐν

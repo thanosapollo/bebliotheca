@@ -1,17 +1,19 @@
-#+TITLE: 1 Mt 1, 16 Αἱ ἐπαγγελίαι πρὸς τὸν ∆αβὶδ ἐγένοντο καὶ τὸν Ἀβραὰμ ὡς ἐξ
+#+TITLE: Fragmenta in Matthaeum
 #+AUTHOR: Θεόδωρος Ἀναγνώστης
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in Matthaeum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-matthaeum--theodorus-lector
 #+LANGUAGE: el
 
-* 1 Mt 1, 16 Αἱ ἐπαγγελίαι πρὸς τὸν ∆αβὶδ ἐγένοντο καὶ τὸν Ἀβραὰμ ὡς ἐξ
+* Fragmenta in Matthaeum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Mt 1, 16 Αἱ ἐπαγγελίαι πρὸς τὸν ∆αβὶδ ἐγένοντο καὶ τὸν Ἀβραὰμ ὡς ἐξ
 αὐτῶν φανήσεται ὁ Χριστὸς οὐχὶ τοῦ Χριστοῦ τι μέλλοντος ἐντεῦθεν ὠφελεῖσθαι,
 ἀλλὰ τοῦ θεοῦ τιμῶντος ἐκείνους. οἱ τοίνυν εὐαγγελισταὶ τοῦτο μὲν ὅτι κατὰ τὰς
 προφητικὰς φωνὰς ἐγένετο δεῖξαι ἠβουλήθησαν· ἵνα δὲ μὴ νομισθῶσιν οὕτω περὶ

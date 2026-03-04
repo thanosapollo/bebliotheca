@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Λόγος ἐν εἴδει διαλέξεως μετὰ Μακεδονιανοῦ Πνευματομάχου.
+#+TITLE: Dialogi duo contra Macedonianos
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Dialogi duo contra Macedonianos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/dialogi-duo-contra-macedonianos--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Λόγος ἐν εἴδει διαλέξεως μετὰ Μακεδονιανοῦ Πνευματομάχου.
+* Dialogi duo contra Macedonianos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Λόγος ἐν εἴδει διαλέξεως
+μετὰ Μακεδονιανοῦ Πνευματομάχου.
 Ἀπεστείλαμεν τῇ σῇ συνέσει τὸ παρὸν σύνταγμα ὑπὲρ τοῦ ἀναγνόντα σε δοκιμάσαι
 καὶ τὰ παρὰ τῶν αἱρετικῶν, τῶν τὰ Μακεδονίου φρονούντων εἰρημένα, καὶ τὰ παρ'
 ἡμῶν ἀντιτεθέντα. Τὰ μὲν οὖν ὑπ' ἐκείνων τεθέντα, ἐν τῷ σχεδαρίῳ ταῦτά εἰσιν· Εἰ

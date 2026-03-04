@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ ΙΕʹ. Εἰς τοὺς Μακκαβαίους.
+#+TITLE: In Machabaeorum laudem 1
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Machabaeorum laudem 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-machabaeorum-laudem-1--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΙΕʹ. Εἰς τοὺς Μακκαβαίους.
+* In Machabaeorum laudem 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΙΕʹ.
+Εἰς τοὺς Μακκαβαίους.
 Αʹ. Τί δὲ οἱ Μακκαβαῖοι; τούτων γὰρ ἡ παροῦσα πανήγυρις, οὐ παρὰ πολλοῖς
 μὲν τιμωμένων, ὅτι μὴ μετὰ Χριστὸν ἡ ἄθλησις· πᾶσι δὲ τιμᾶσθαι ἀξίων, ὅτι περὶ τῶν
 πατρίων ἡ καρτερία· καὶ οἱ πρὸ τῶν Χριστοῦ παθῶν μαρτυρήσαντες, τί ποτε δράσειν

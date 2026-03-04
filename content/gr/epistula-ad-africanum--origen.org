@@ -1,17 +1,19 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΠΙΣΤΟΛΗΩΡΙΓΕΝΟΥΣ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΑΦΡΙΚΑΝΟΝ.
+#+TITLE: Epistula ad Africanum
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Epistula ad Africanum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-africanum--origen
 #+LANGUAGE: el
 
-* ΩΡΙΓΕΝΟΥΣ ΕΠΙΣΤΟΛΗΩΡΙΓΕΝΟΥΣ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΑΦΡΙΚΑΝΟΝ.
+* Epistula ad Africanum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΩΡΙΓΕΝΟΥΣ ΕΠΙΣΤΟΛΗΩΡΙΓΕΝΟΥΣ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΑΦΡΙΚΑΝΟΝ.
 Ὠριγένης Ἀφρικανῷ ἀγαπητῷ ἀδελφῷ ἐν Θεῷ Πατρὶ διὰ Ἰησοῦ Χριστοῦ τοῦ ἁγίου
 παιδὸς αὐτοῦ εὖ πράττειν.
 Ἡ μὲν σὴ ἐπιστολὴ, δι' ἧς ἐμάνθανον ἃ ἐνέφηνας περὶ τῆς ἐν τῷ ∆ανιὴλ φερομένης

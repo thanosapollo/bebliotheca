@@ -1,6 +1,7 @@
-#+TITLE: 39.773.40 ΚΕΦ. Αʹ.Ψυχὴ καθ' αὑτὴν ἐν τῷ νοητῷ ἀπαθὴς ὑπάρχουσα, τοῦ
+#+TITLE: De trinitate
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De trinitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

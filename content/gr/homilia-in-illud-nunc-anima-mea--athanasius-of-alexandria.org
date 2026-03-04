@@ -1,17 +1,19 @@
-#+TITLE: 26.1240 Τῆς ὁμοιώσεως τοῦ Κυρίου τῆς πρὸς ἡμᾶς ἡ ὠφέλεια μεγάλη, ὅτι καὶ ἡμεῖς
+#+TITLE: Homilia in illud Nunc anima mea
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in illud Nunc anima mea
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-illud-nunc-anima-mea--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* 26.1240 Τῆς ὁμοιώσεως τοῦ Κυρίου τῆς πρὸς ἡμᾶς ἡ ὠφέλεια μεγάλη, ὅτι καὶ ἡμεῖς
+* Homilia in illud Nunc anima mea
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=26.1240= Τῆς ὁμοιώσεως τοῦ Κυρίου τῆς πρὸς ἡμᾶς ἡ ὠφέλεια μεγάλη, ὅτι καὶ ἡμεῖς
 ὁμοιούμεθα πρὸς αὐτόν. Εἰ γὰρ μὴ αὐτὸς ὡμοίωτο πρὸς ἀνθρώπους, οὐκ ἠδύναντο
 οἱ ἄνθρωποι ὁμοιοῦσθαι πρὸς Θεόν. Ἀλλὰ πρὸς Θεὸν ἄνθρωπον γενόμενον
 ὁμοιοῦνται ἄνθρωποι. Ἔδει δὲ τὸν εἰς ὁμοίωσιν ἡμῶν καταβαίνοντα, κατὰ τοῦτο

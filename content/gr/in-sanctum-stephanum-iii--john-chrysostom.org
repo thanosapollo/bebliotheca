@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν ἅγιον Στέφανον, γʹ. 63.933
+#+TITLE: In sanctum Stephanum iii
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum Stephanum iii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-stephanum-iii--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν ἅγιον Στέφανον, γʹ. 63.933
+* In sanctum Stephanum iii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν ἅγιον Στέφανον, γʹ.
+=63.933=
 Πολλὰ καὶ θαυμαστὰ τοῦ μακαρίου Στεφάνου τὰ τρόπαια, καὶ οὐδὲ θάνατος
 αὐτὸν τῆς εὐσεβοῦς παρατάξεως ἀπέσπασε. Ζῶν μὲν γὰρ πρὸς Ἰουδαίους ἐμάχετο,
 καὶ ἀποθανὼν δὲ κατὰ αἱρετικῶν ὁπλίζεται, ὅπλον ἔχων ἀκαταγώνιστον, τῆς

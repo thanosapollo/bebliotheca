@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ ΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΑΜΜΟΥΝ ΜΟΝΑΖΟΝΤΑ Α Περὶ γονορρυοῦς.
+#+TITLE: Epistula ad Amun
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Amun
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-amun--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ ΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΠΙΣΤΟΛΗ ΠΡΟΣ ΑΜΜΟΥΝ ΜΟΝΑΖΟΝΤΑ Α Περὶ γονορρυοῦς.
+* Epistula ad Amun
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ ΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΠΙΣΤΟΛΗ ΠΡΟΣ
+ΑΜΜΟΥΝ ΜΟΝΑΖΟΝΤΑ
+Α Περὶ γονορρυοῦς.
 Πάντα μὲν καλὰ καὶ καθαρὰ τὰ τοῦ θεοῦ ποιήματα· οὐδὲν γὰρ ἄχρηστον ἢ
 ἀκάθαρτον ὁ τοῦ θεοῦ πεποίηκε λόγος· «Χριστοῦ γὰρ εὐωδία ἐσμὲν ἐν τοῖς
 σῳζομένοις» κατὰ τὸν ἀπόστολον. Ἐπειδὴ δὲ ποικίλα καὶ πολύτροπα τὰ τοῦ

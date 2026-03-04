@@ -1,17 +1,19 @@
-#+TITLE: ΚΑΤΑ ΜΕΘΥΟΝΤΩΝ, Καὶ εἰς τὴν ἀνάστασιν, λόγος λεχθεὶς τῇ ἁγίᾳ καὶ
+#+TITLE: Adversus ebriosos et de resurrectione domini nostri Jesu Chr
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Adversus ebriosos et de resurrectione domini nostri Jesu Chr
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-ebriosos-et-de-resurrectione-domini-nostri-jesu-chr--john-chrysostom
 #+LANGUAGE: el
 
-* ΚΑΤΑ ΜΕΘΥΟΝΤΩΝ, Καὶ εἰς τὴν ἀνάστασιν, λόγος λεχθεὶς τῇ ἁγίᾳ καὶ
+* Adversus ebriosos et de resurrectione domini nostri Jesu Chr
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΚΑΤΑ ΜΕΘΥΟΝΤΩΝ, Καὶ εἰς τὴν ἀνάστασιν, λόγος λεχθεὶς τῇ ἁγίᾳ καὶ
 μεγάλῃ Κυριακῇ τοῦ Πάσχα.
 =50.433=
 αʹ. Ἀπεθέμεθα τῆς νηστείας τὸ φορτίον, ἀλλὰ μὴ ἀποθώμεθα τῆς νηστείας

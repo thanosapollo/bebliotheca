@@ -1,17 +1,19 @@
-#+TITLE: Τῷ αὐτῷ μηνὶ θʹ, Ἡ εὕρεσις τῆς ἀχειροποιήτου καὶ θείας εἰκόνος τῶν
+#+TITLE: Inventio imaginis in Camulianis
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Inventio imaginis in Camulianis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/inventio-imaginis-in-camulianis--gregory-of-nyssa
 #+LANGUAGE: el
 
-* Τῷ αὐτῷ μηνὶ θʹ, Ἡ εὕρεσις τῆς ἀχειροποιήτου καὶ θείας εἰκόνος τῶν
+* Inventio imaginis in Camulianis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τῷ αὐτῷ μηνὶ θʹ, Ἡ εὕρεσις τῆς ἀχειροποιήτου καὶ θείας εἰκόνος τῶν
 Καμουλιανῶν, συγγραφεῖσα παρὰ τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Γρηγορίου
 ἐπισκόπου Νύσης.
 1 Ὁ κύριος ἡμῶν Ἰησοῦς Χριστὸς ὁ δίκαιος καὶ μόνος ἀληθινὸς θεὸς ἡμῶν, ὁ

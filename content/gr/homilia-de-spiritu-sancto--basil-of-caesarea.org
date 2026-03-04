@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ, Ἀρχιεπισκόπου Καισαρείας
+#+TITLE: Homilia de spiritu sancto
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia de spiritu sancto
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-de-spiritu-sancto--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ, Ἀρχιεπισκόπου Καισαρείας
+* Homilia de spiritu sancto
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ, Ἀρχιεπισκόπου Καισαρείας
 Καππαδοκίας, ΟΜΙΛΙΑ ΠΕΡΙ ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ.
 Ὁ βαπτιζόμενος εἰς Τριάδα βαπτίζεται εἰς Πα τέρα καὶ Υἱὸν καὶ ἅγιον
 Πνεῦμα· οὔτε εἰς ἀρχὰς, οὔτε εἰς δυνάμεις, οὔτε εἰς τὰ ἑξῆς ἐν κτίσμασι. ∆ῆλον οὖν

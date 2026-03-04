@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ ΙΘʹ. Εἰς τοὺς ἁγίους τεσσαράκοντα μάρτυρας.
+#+TITLE: In quadraginta martyres Sebastenses
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In quadraginta martyres Sebastenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-quadraginta-martyres-sebastenses--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΙΘʹ. Εἰς τοὺς ἁγίους τεσσαράκοντα μάρτυρας.
+* In quadraginta martyres Sebastenses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΙΘʹ.
+Εἰς τοὺς ἁγίους τεσσαράκοντα μάρτυρας.
 Μαρτύρων μνήμης τίς ἂν γένοιτο κόρος τῷ φιλομάρτυρι; διότι ἡ πρὸς τοὺς
 ἀγαθοὺς τῶν ὁμοδού λων τιμὴ ἀπόδειξιν ἔχει τῆς πρὸς τὸν κοινὸν ∆εσπό την
 εὐνοίας. ∆ῆλον γὰρ, ὅτι ὁ τοὺς γενναίους ἄνδρας ἀποδεχόμενος ἐν τοῖς ὁμοίοις

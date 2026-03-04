@@ -1,17 +1,19 @@
-#+TITLE: ∆ΙΑΛΕΞΙΣ ἸΩΑΝΝΟΥ ὈΡΘΟ∆ΟΞΟΥ ΠΡΟΣ ΜΑΝΙΧΑΙΟΝ
+#+TITLE: Disputatio cum Manichaeo
 #+AUTHOR: Ἰωάννης Πρεσβύτερος
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Disputatio cum Manichaeo
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/disputatio-cum-manichaeo--john-presbyter
 #+LANGUAGE: el
 
-* ∆ΙΑΛΕΞΙΣ ἸΩΑΝΝΟΥ ὈΡΘΟ∆ΟΞΟΥ ΠΡΟΣ ΜΑΝΙΧΑΙΟΝ
+* Disputatio cum Manichaeo
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+∆ΙΑΛΕΞΙΣ ἸΩΑΝΝΟΥ ὈΡΘΟ∆ΟΞΟΥ ΠΡΟΣ ΜΑΝΙΧΑΙΟΝ
 1. ὈΡΘΟ∆ΟΞΟΣ. Εἰ τὸ σῶμα <ἐκ> τῆς ὕλης, ἡ δὲ ψυχὴ ἐκ τῆς οὐσίας τοῦ ἀγαθοῦ
 θεοῦ καθ' ὑμᾶς, ἐναντία δὲ ταῦτα, τὰ δ' ἐναντία οὐ συντίθεται ἄνευ τεχνίτου τινός, οἷον
 τὸ μέλαν καὶ λευκὸν ὑπὸ ζωγράφου καὶ ὑπὸ ἰατρῶν τὰ θερμὰ εἴδη τοῖς ψυχροῖς, τίς ὁ

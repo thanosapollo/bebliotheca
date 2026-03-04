@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ βασιλικοῦ γραμματικοῦ κυροῦ Ἰωάννου τοῦ Κιννάμου ἠθοποιία·
+#+TITLE: Ethopoeia
 #+AUTHOR: Ἰωάννης Κίνναμος
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Ethopoeia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ethopoeia--john-cinnamus
 #+LANGUAGE: el
 
-* Τοῦ βασιλικοῦ γραμματικοῦ κυροῦ Ἰωάννου τοῦ Κιννάμου ἠθοποιία·
+* Ethopoeia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ βασιλικοῦ γραμματικοῦ κυροῦ Ἰωάννου τοῦ Κιννάμου ἠθοποιία·
 Ποίους ἂν εἶπε λόγους ζωγράφος ζωγραφῶν τὸν Ἀπόλλωνα ἐν δαφνίνῳ
 πίνακι, καὶ μὴ συγχωροῦντος τοῦ πίνακος;
 Ὦ τέχνη καὶ χεῖρες καὶ χρώματα. Οἷον τοῦτο τέρας ὁρῶ· ἡλίκον κατὰ τῆς

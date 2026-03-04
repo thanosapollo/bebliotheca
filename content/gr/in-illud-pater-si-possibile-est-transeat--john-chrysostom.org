@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΟ Πάτερ, εἰ δυνατόν ἐστι, παρελθέτω ἀπ' ἐμοῦ τὸ ποτήριον τοῦτο·
+#+TITLE: In illud Pater si possibile est transeat
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Pater si possibile est transeat
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-pater-si-possibile-est-transeat--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟ Πάτερ, εἰ δυνατόν ἐστι, παρελθέτω ἀπ' ἐμοῦ τὸ ποτήριον τοῦτο·
+* In illud Pater si possibile est transeat
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟ Πάτερ, εἰ δυνατόν ἐστι, παρελθέτω ἀπ' ἐμοῦ τὸ ποτήριον τοῦτο·
 πλὴν οὐχ ὡς ἐγὼ θέλω, ἀλλ' ὡς σύ· καὶ κατὰ Μαρκιωνιστῶν καὶ
 Μανιχαίων· καὶ ὅτι οὐ χρὴ ἐπιπηδᾷν τοῖς κινδύνοις, ἀλλὰ παντὸς
 θελήματος προτιμᾷν τὸ τοῦ Θεοῦ θέλημα.

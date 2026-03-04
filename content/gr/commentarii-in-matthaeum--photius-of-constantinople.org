@@ -1,17 +1,19 @@
-#+TITLE: 1 Mt 1, 2 Ἀβραὰμ διὰ πίστεως ἐδικαιώθη· τούτῳ δὲ πιστεύσαντι εἶπεν ὁ θεός·
+#+TITLE: Commentarii in Matthaeum
 #+AUTHOR: Φώτιος Κωνσταντινουπόλεως
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Commentarii in Matthaeum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-matthaeum--photius-of-constantinople
 #+LANGUAGE: el
 
-* 1 Mt 1, 2 Ἀβραὰμ διὰ πίστεως ἐδικαιώθη· τούτῳ δὲ πιστεύσαντι εἶπεν ὁ θεός·
+* Commentarii in Matthaeum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Mt 1, 2 Ἀβραὰμ διὰ πίστεως ἐδικαιώθη· τούτῳ δὲ πιστεύσαντι εἶπεν ὁ θεός·
 πληθυνῶ τὸ σπέρμα σου καὶ δώσω σοι τὴν γῆν καὶ ἔν σοι ἐνευλογηθήσονται πᾶσαι αἱ
 φυλαί . εἰ οὖν ἀληθῆ φθέγγεται ὁ θεὸς καὶ σπέρμα Ἀβραὰμ οἱ Ἰουδαῖοι μόνοι
 τυγχάνουσιν, οὗτοι δὲ οὔτε τῆς γῆς ἐκράτησαν πώποτε οὔτε κρατοῦσιν, ποῦ ἐστι τὸ

@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΤΟΥ ΚΑΤΑ ΘΕΟΝ ΣΚΟΠΟΥ ΚΑΙ ΤΗΣ ΚΑΤΑ ΑΛΗΘΕΙΑΝ ΑΣΚΗΣΕΩΣ
+#+TITLE: De instituto Christiano
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De instituto Christiano
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-instituto-christiano--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΤΟΥ ΚΑΤΑ ΘΕΟΝ ΣΚΟΠΟΥ ΚΑΙ ΤΗΣ ΚΑΤΑ ΑΛΗΘΕΙΑΝ ΑΣΚΗΣΕΩΣ
+* De instituto Christiano
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΤΟΥ ΚΑΤΑ ΘΕΟΝ ΣΚΟΠΟΥ ΚΑΙ
+ΤΗΣ ΚΑΤΑ ΑΛΗΘΕΙΑΝ ΑΣΚΗΣΕΩΣ
 Εἴ τις μικρὸν ἀποστήσας τοῦ σώματος τὴν διάνοιαν καὶ τῆς τῶν παθῶν
 δουλείας τε καὶ ἀφροσύνης ἔξω γενό μενος ἀδόλῳ καὶ εἰλικρινεῖ λογισμῷ τὴν αὐτὸς
 ἑαυτοῦ κατίδοι ψυχήν, ὄψεται καθαρῶς ἐν τῇ ταύτης φύσει τοῦ θεοῦ τήν τε πρὸς

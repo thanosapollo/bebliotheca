@@ -1,17 +1,21 @@
-#+TITLE: Ὅτι θεοπρεπὲς ἔργον ἡ κατὰ Θεὸν ἀγάπη ἐστί. 61.681 Ἀγάπην τὴν οὐρανοκλίμακα λόγος οὐδεὶς κατ' ἀξίαν ὑμνῆσαι δύναται.
+#+TITLE: Caritatem secundum deum rem esse deo digna
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Caritatem secundum deum rem esse deo digna
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/caritatem-secundum-deum-rem-esse-deo-digna--john-chrysostom
 #+LANGUAGE: el
 
-* Ὅτι θεοπρεπὲς ἔργον ἡ κατὰ Θεὸν ἀγάπη ἐστί. 61.681 Ἀγάπην τὴν οὐρανοκλίμακα λόγος οὐδεὶς κατ' ἀξίαν ὑμνῆσαι δύναται.
+* Caritatem secundum deum rem esse deo digna
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ὅτι θεοπρεπὲς ἔργον ἡ κατὰ Θεὸν ἀγάπη ἐστί.
+=61.681=
+Ἀγάπην τὴν οὐρανοκλίμακα λόγος οὐδεὶς κατ' ἀξίαν ὑμνῆσαι δύναται.
 Ἀγάπη τοῦ Πατρὸς σύνθρονός ἐστιν, ἀγάπη τὰ ἐπίγεια συνάπτει πρὸς τὰ οὐράνια·
 περὶ ἧς γλῶττα οὐκ ἐπαρκέσει, οὔτε νοῦς ἐξευρήσει ἐπαξίως δοξάσαι· τὸ δὲ ἔργον
 αὐτὸ δεικνύει ἡγεμόνα οὖσαν τῆς ἀρίστης πολιτείας τὴν ἀγάπην. Τῇ γὰρ δημιουργίᾳ

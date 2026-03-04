@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΚΕΦΑΛΑΙΑ ΚΖ· ΠΕΡΙ ∆ΙΑΦΟΡΩΝ ΠΟΝΗΡΩΝ ΛΟΓΙΣΜΩΝ 79.1200 ΚΕΦΑΛ. Αʹ.
+#+TITLE: De malignis cogitationibus
 #+AUTHOR: Εὐάγριος Ποντικός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De malignis cogitationibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

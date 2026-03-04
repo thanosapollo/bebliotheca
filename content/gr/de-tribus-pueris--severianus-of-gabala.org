@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τοὺς τρεῖς παῖδας, καὶ εἰς τὴν Βαβυλωνίαν κάμινον, Λόγος.
+#+TITLE: De tribus pueris
 #+AUTHOR: Σεβηριανὸς Γαβάλων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De tribus pueris
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-tribus-pueris--severianus-of-gabala
 #+LANGUAGE: el
 
-* Εἰς τοὺς τρεῖς παῖδας, καὶ εἰς τὴν Βαβυλωνίαν κάμινον, Λόγος.
+* De tribus pueris
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τοὺς τρεῖς παῖδας, καὶ εἰς τὴν Βαβυλωνίαν κάμινον, Λόγος.
 αʹ. Καινὸν, ὡς ἀληθῶς, καὶ μέγιστον εὐσεβείας θέατρον ἡ τῶν τριῶν παίδων
 συνεστήσατο χορεία, ἐν Βαβυλῶνι μὲν τὸν ἀγῶνα τὸν καλὸν ἠγωνισμένη, κατὰ
 πᾶσαν δὲ τὴν οἰκουμένην συγκροτοῦσα τὸ θαῦμα τοῦ μαρτυρίου. Οὐ γὰρ

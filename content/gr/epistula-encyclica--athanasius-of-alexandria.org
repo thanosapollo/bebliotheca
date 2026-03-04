@@ -1,17 +1,19 @@
-#+TITLE: Ἐπιστολὴ ἐγκύκλιος τοῦ μακαρίου Ἀθανασίου ἐπισκόπου Ἀλεξανδρείας
+#+TITLE: Epistula encyclica
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula encyclica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-encyclica--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Ἐπιστολὴ ἐγκύκλιος τοῦ μακαρίου Ἀθανασίου ἐπισκόπου Ἀλεξανδρείας
+* Epistula encyclica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἐπιστολὴ ἐγκύκλιος τοῦ μακαρίου Ἀθανασίου ἐπισκόπου Ἀλεξανδρείας
 1.1 Τοῖς κατὰ τόπον συλλειτουργοῖς, κυρίοις ἀγαπητοῖς, Ἀθανάσιος ἐν κυρίῳ
 χαίρειν. Ἃ μὲν πεπόνθαμεν δεινὰ καὶ ἀφόρητά ἐστι, καὶ οὐκ ἔστιν ἐπαξίως αὐτῶν
 μνημονεῦσαι· ἵνα δὲ ταχύτερον τὸ δεινὸν τῶν συμβεβηκότων γνωσθῆναι δυνηθῇ,

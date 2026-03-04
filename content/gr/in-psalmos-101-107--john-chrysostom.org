@@ -1,17 +1,19 @@
-#+TITLE: ΨΑΛΜ. ΡΑʹ.
+#+TITLE: In Psalmos 101 107
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Psalmos 101 107
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-psalmos-101-107--john-chrysostom
 #+LANGUAGE: el
 
-* ΨΑΛΜ. ΡΑʹ.
+* In Psalmos 101 107
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΨΑΛΜ. ΡΑʹ.
 Προσευχὴ τῷ πτωχῷ, ὅταν ἀκηδιάῃ, καὶ ἔναντι Κυρίου ἐκχέῃ τὴν δέησιν
 αὐτοῦ.
 αʹ. Πρόῤῥησιν μὲν ὁ ψαλμὸς ἔχει τῆς ἐν Βαβυλῶνι τοῦ λαοῦ τῶν Ἰουδαίων

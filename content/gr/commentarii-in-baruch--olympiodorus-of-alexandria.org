@@ -1,17 +1,19 @@
-#+TITLE: 93.761 ΚΕΦΑΛΑΙΟΝ Αʹ.
+#+TITLE: Commentarii in Baruch
 #+AUTHOR: Ὀλυμπιόδωρος Διάκονος Ἀλεξανδρείας
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Commentarii in Baruch
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-baruch--olympiodorus-of-alexandria
 #+LANGUAGE: el
 
-* 93.761 ΚΕΦΑΛΑΙΟΝ Αʹ.
+* Commentarii in Baruch
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=93.761= ΚΕΦΑΛΑΙΟΝ Αʹ.
 "Υἱοῦ Χελκίου." Ἴσως ὡς ἀξιολόγων τῶν προγόνων τοῦ Βαροὺχ μέμνηται. "Ἐν τῷ
 καιρῷ." Οὐκ εἶπεν ἐν τῷ ἐνιαυτῷ, ἀλλ' ἐν τῷ καιρῷ, ἵνα εἴπῃ, κατ' ἐκείνους τοὺς
 χρόνους· οὐ γὰρ ἐν τῷ πέμπτῳ, οὕτε ἐν τῷ ἐνάτῳ ἔτει τῆς βασιλείας Σεδεκίου ἥλω ἡ

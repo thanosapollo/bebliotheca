@@ -1,6 +1,7 @@
-#+TITLE: Τοῦ μακαρίου Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας ἐπιστολὴ πρὸς
+#+TITLE: Epistula ad Epictetum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Epictetum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

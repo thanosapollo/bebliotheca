@@ -1,17 +1,20 @@
-#+TITLE: ̓Ιωάννου τοῦ ∆αμασκηνοῦ, περὶ τῶν Μακεδόνων μηνῶν, ἐκ τῆς ἐκκλησιαστικῆς παραδόσεως.
+#+TITLE: De mensibus Macedonicis
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: De mensibus Macedonicis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-mensibus-macedonicis--john-of-damascus
 #+LANGUAGE: el
 
-* ̓Ιωάννου τοῦ ∆αμασκηνοῦ, περὶ τῶν Μακεδόνων μηνῶν, ἐκ τῆς ἐκκλησιαστικῆς παραδόσεως.
+* De mensibus Macedonicis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Ιωάννου τοῦ ∆αμασκηνοῦ, περὶ τῶν Μακεδόνων μηνῶν, ἐκ τῆς
+ἐκκλησιαστικῆς παραδόσεως.
 Φασὶ γὰρ οἱ Ἕλληνες εἶναι δώδεκα ζώδια ἐξ ἀστέρων ἐν τῷ οὐρανῷ, ἐναντίαν
 κίνησιν ἔχοντα τῷ τε ἡλίῳ, καὶ τῇ σελήνῃ, καὶ τοῖς ἄλλοις πέντε πλανήταις, καὶ διὰ
 δώδεκα ζωδίων παρέρχεσθαι τοὺς ἑπτά. Τῶν δὲ ἑπτὰ πλανητῶν τὰ ὀνόματα εἰσὶ ταῦτα·

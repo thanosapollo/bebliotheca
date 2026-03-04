@@ -1,17 +1,20 @@
-#+TITLE: ΠΑΥΛΟΥ ΣΙΛΕΝΤΙΑΡΙΟΥ ΕΚΦΡΑΣΙΣ ΤΟΥ ΝΑΟΥ ΤΗΣ ΑΓΙΑΣ ΣΟΦΙΑΣ Ἴαμβοι πρὸς τὸν βασιλέα Ἰουστινιανόν
+#+TITLE: Descriptio Sanctae Sophiae
 #+AUTHOR: Παῦλος Σιλεντιάριος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Descriptio Sanctae Sophiae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/descriptio-sanctae-sophiae--paul-the-silentiary
 #+LANGUAGE: el
 
-* ΠΑΥΛΟΥ ΣΙΛΕΝΤΙΑΡΙΟΥ ΕΚΦΡΑΣΙΣ ΤΟΥ ΝΑΟΥ ΤΗΣ ΑΓΙΑΣ ΣΟΦΙΑΣ Ἴαμβοι πρὸς τὸν βασιλέα Ἰουστινιανόν
+* Descriptio Sanctae Sophiae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΑΥΛΟΥ ΣΙΛΕΝΤΙΑΡΙΟΥ ΕΚΦΡΑΣΙΣ ΤΟΥ ΝΑΟΥ ΤΗΣ ΑΓΙΑΣ ΣΟΦΙΑΣ
+Ἴαμβοι πρὸς τὸν βασιλέα Ἰουστινιανόν
 Ἄρ' ἔστιν εὑρεῖν μείζονα τῆς νῦν ἡμέρας, ἐν ἧι θεός τε καὶ βασιλεὺς
 σεμνύνεται; οὐκ ἔστιν εἰπεῖν. Χριστὸν ἴσμεν δεσπότην, ἴσμεν δὲ πάντως· τοῦτο γὰρ
 τοῖς σοῖς λόγοις ποιεῖς, κράτιστε, γνώριμον καὶ βαρβάροις· ὅθεν συνεργὸν αὐτὸν ἐν

@@ -1,17 +1,19 @@
-#+TITLE: ΕΠΙΛΥΣΙΣ πρὸς τοὺς λέγοντας, "Εἰ δύο φύσεις ὁ Χριστὸς, ἀνάγκη Θεοῦ καὶ
+#+TITLE: Contra Severianos
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Contra Severianos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-severianos--john-of-damascus
 #+LANGUAGE: el
 
-* ΕΠΙΛΥΣΙΣ πρὸς τοὺς λέγοντας, "Εἰ δύο φύσεις ὁ Χριστὸς, ἀνάγκη Θεοῦ καὶ
+* Contra Severianos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΠΙΛΥΣΙΣ πρὸς τοὺς λέγοντας, "Εἰ δύο φύσεις ὁ Χριστὸς, ἀνάγκη Θεοῦ καὶ
 ἀνθρώπου τρεῖς φύσεις, καὶ τοσαύτας λέγειν ἐνεργείας," ὡς ὁ Σεβῆρος
 ἔφασκεν.
 =95.225= Ὁ γὰρ ἄθλιος οὗτος Σεβῆρος ἁρπάσας τὸν θρόνον Ἀντιοχείας, τὴν κατὰ

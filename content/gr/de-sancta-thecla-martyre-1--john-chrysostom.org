@@ -1,17 +1,19 @@
-#+TITLE: Σῶσόν με ἐκ πάντων τῶν διωκόντων με καὶ ῥῦσαί με, μήποτε ἁρπάσῃ ὡς
+#+TITLE: De sancta Thecla martyre
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sancta Thecla martyre
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancta-thecla-martyre-1--john-chrysostom
 #+LANGUAGE: el
 
-* Σῶσόν με ἐκ πάντων τῶν διωκόντων με καὶ ῥῦσαί με, μήποτε ἁρπάσῃ ὡς
+* De sancta Thecla martyre
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Σῶσόν με ἐκ πάντων τῶν διωκόντων με καὶ ῥῦσαί με, μήποτε ἁρπάσῃ ὡς
 λέων τὴν ψυχήν μου, μὴ ὄντος λυτρουμένου μηδὲ σῴζοντος." Καὶ ταχεῖα ἡ τῆς
 κόρης βοήθεια· ἀφανοῦς γὰρ γενομένης ἐξαίφνης, ὁ μὲν μνηστὴρ ἀπῄει ἓν μόνον
 κερδάνας ἀσελγείας ἱπποδρομίαν. Τῷ νυμφίῳ δὲ ἡ νύμφη παρειστήκει που

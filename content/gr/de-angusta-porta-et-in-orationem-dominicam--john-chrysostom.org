@@ -1,17 +1,19 @@
-#+TITLE: Περὶ τοῦ κατὰ Θεὸν πολιτεύεσθαι, καὶ εἰς τὸ, Στενὴ ἡ πύλη, καὶ τὰ ἑξῆς·
+#+TITLE: De angusta porta et in orationem dominicam
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De angusta porta et in orationem dominicam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-angusta-porta-et-in-orationem-dominicam--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ τοῦ κατὰ Θεὸν πολιτεύεσθαι, καὶ εἰς τὸ, Στενὴ ἡ πύλη, καὶ τὰ ἑξῆς·
+* De angusta porta et in orationem dominicam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ τοῦ κατὰ Θεὸν πολιτεύεσθαι, καὶ εἰς τὸ, Στενὴ ἡ πύλη, καὶ τὰ ἑξῆς·
 καὶ ἑρμηνεία τῆς προσευχῆς τοῦ, Πάτερ ἡμῶν.
 =51.41=
 αʹ. Πάσης μὲν θεοπνεύστου Γραφῆς ἡ ἀνάγνωσις γίνεται τοῖς προσέχουσιν

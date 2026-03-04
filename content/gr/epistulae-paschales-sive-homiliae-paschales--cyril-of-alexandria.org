@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΟΜΙΛΙΑΙ ΕΟΡΤΑΣΤΙΚΑΙ.
+#+TITLE: Epistulae paschales sive Homiliae paschales
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Epistulae paschales sive Homiliae paschales
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistulae-paschales-sive-homiliae-paschales--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΟΜΙΛΙΑΙ ΕΟΡΤΑΣΤΙΚΑΙ.
+* Epistulae paschales sive Homiliae paschales
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΟΜΙΛΙΑΙ ΕΟΡΤΑΣΤΙΚΑΙ.
 αʹ Τῆς μὲν εὐθύμου καὶ θείας ἡμῶν ἑορτῆς ἀνὰ πᾶσαν τὴν οἰκουμένην τὰ
 φαιδρὰ προλάμπει καὶ φαίνεται φῶτα· οὐδὲν σκοτεινὸν καὶ ζοφῶδες τοῖς κατ'
 ἀρετὴν ἑορτάζειν ἐθέλουσιν ὑπαντᾷν ἐπιτρέ πουσα. ∆ιὸ καὶ τοῖς τοιούτοις ὁ

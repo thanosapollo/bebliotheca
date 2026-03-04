@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ Ἀρχιεπισκόπου Καισαρείας Καππαδοκίας ΟΜΙΛΙΑΙ θʹ ΕΙΣ ΤΗΝ ΕΞΑΗΜΕΡΟΝ ΟΜΙΛΙΑ αʹ ̓Εν ἀρχῇ ἐποίησεν ὁ Θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.
+#+TITLE: Homiliae in hexaemeron
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homiliae in hexaemeron
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homiliae-in-hexaemeron--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ Ἀρχιεπισκόπου Καισαρείας Καππαδοκίας ΟΜΙΛΙΑΙ θʹ ΕΙΣ ΤΗΝ ΕΞΑΗΜΕΡΟΝ ΟΜΙΛΙΑ αʹ ̓Εν ἀρχῇ ἐποίησεν ὁ Θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.
+* Homiliae in hexaemeron
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ Ἀρχιεπισκόπου Καισαρείας
+Καππαδοκίας ΟΜΙΛΙΑΙ θʹ ΕΙΣ ΤΗΝ ΕΞΑΗΜΕΡΟΝ
+ΟΜΙΛΙΑ αʹ
+̓Εν ἀρχῇ ἐποίησεν ὁ Θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.
 1.1 Πρέπουσα ἀρχὴ τῷ περὶ τῆς τοῦ κόσμου συστάσεως μέλλοντι διηγεῖσθαι,
 ἀρχὴν τῆς τῶν ὁρωμένων διακοσμήσεως προθεῖναι τοῦ λόγου. Οὐρανοῦ γὰρ καὶ γῆς
 ποίησις παραδί δοσθαι μέλλει, οὐκ αὐτομάτως συνενεχθεῖσα, ὥς τινες

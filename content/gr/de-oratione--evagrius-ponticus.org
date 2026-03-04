@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΠΕΡΙ ΠΡΟΣΕΥΧΗΣ ΛΟΓΟΣ ΕΙΣ ΡΝΓʹ ΚΕΦΑΛΑΙΑ ∆ΙΕΙΛΗΜΜΕΝΟΣ. ΠΡΟΟΙΜΙΟΝ.
+#+TITLE: De oratione
 #+AUTHOR: Εὐάγριος Ποντικός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De oratione
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-oratione--evagrius-ponticus
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΠΕΡΙ ΠΡΟΣΕΥΧΗΣ ΛΟΓΟΣ ΕΙΣ ΡΝΓʹ ΚΕΦΑΛΑΙΑ ∆ΙΕΙΛΗΜΜΕΝΟΣ. ΠΡΟΟΙΜΙΟΝ.
+* De oratione
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΠΕΡΙ ΠΡΟΣΕΥΧΗΣ ΛΟΓΟΣ ΕΙΣ ΡΝΓʹ ΚΕΦΑΛΑΙΑ
+∆ΙΕΙΛΗΜΜΕΝΟΣ.
+ΠΡΟΟΙΜΙΟΝ.
 Πυρέττοντά με τῷ φλογμῷ τῶν ἀκαθάρτων παθῶν, συνήθως ἀνεκτήσω, τῇ
 τῶν θεοφιλῶν σου γραμμάτων ἐπαφῇ, τὸν κάμνοντά μου νοῦν ἐν τοῖς ἐσχάτοις
 παραμυθησάμενος, καὶ τὸν μέγαν μιμησάμενος καθηγητὴν, καὶ διδάσκαλον

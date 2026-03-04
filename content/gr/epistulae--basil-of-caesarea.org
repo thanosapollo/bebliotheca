@@ -1,17 +1,19 @@
-#+TITLE: ΕΥΣΤΑΘΙΩ ΦΙΛΟΣΟΦΩ
+#+TITLE: Epistulae
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistulae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistulae--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΕΥΣΤΑΘΙΩ ΦΙΛΟΣΟΦΩ
+* Epistulae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΣΤΑΘΙΩ ΦΙΛΟΣΟΦΩ
 1.1 Ἀπειρηκότα με ἤδη πρὸς τὰς παρὰ τῆς τύχης ἐπη ρείας, παρ' ἧς ἀεί τι πρὸς
 τὸ μὴ συγγενέσθαι σοι ἐμπόδιον γέγονε, θαυμαστῶς πως ἀνεκαλέσω καὶ
 παρεμυθήσω τοῖς γράμμασι. Καὶ γάρ πως ἤδη καὶ κατ' ἐμαυτὸν ἔστρεφον μή ποτε

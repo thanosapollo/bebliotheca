@@ -1,13 +1,14 @@
-#+TITLE: ANONYMI CHRONOLOGICA.
+#+TITLE: Chronologica
 #+AUTHOR: Ἰωάννης Μαλάλας
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Chronologica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronologica--john-malalas
 #+LANGUAGE: el
 
-* ANONYMI CHRONOLOGICA.
+* Chronologica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

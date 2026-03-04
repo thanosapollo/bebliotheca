@@ -1,17 +1,19 @@
-#+TITLE: Βʹ. Τοῦ ὁσίου Πατρὸς ἡμῶν Ἰωάννου μοναχοῦ καὶ πρεσβυτέρου τῆς ἁγίας
+#+TITLE: Homilia in ficum arefactam
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Homilia in ficum arefactam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-ficum-arefactam--john-of-damascus
 #+LANGUAGE: el
 
-* Βʹ. Τοῦ ὁσίου Πατρὸς ἡμῶν Ἰωάννου μοναχοῦ καὶ πρεσβυτέρου τῆς ἁγίας
+* Homilia in ficum arefactam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Βʹ. Τοῦ ὁσίου Πατρὸς ἡμῶν Ἰωάννου μοναχοῦ καὶ πρεσβυτέρου τῆς ἁγίας
 Χριστοῦ τοῦ Θεοῦ ἡμῶν ἀναστάσεως, ἤτοι Μανσοὺρ, λόγος εἰς τὴν
 ξηρανθεῖσαν συκῆν, καὶ εἰς τὴν παραβολὴν τοῦ ἀμπελῶνος.
 =96.576=

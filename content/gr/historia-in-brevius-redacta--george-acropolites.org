@@ -1,17 +1,20 @@
-#+TITLE: ΓΕΩΡΓΙΟΥ ΜΕΓΑΛΟΥ ΛΟΓΟΘΕΤΟΥ ΤΟΥ ΑΚΡΟΠΟΛΙΤΟΥ ΠΟΙΗΜΑ ΧΡΟΝΙΚΟΝ ΗΜΙΤΕΛΕΣ.
+#+TITLE: Historia in brevius redacta
 #+AUTHOR: Γεώργιος Ἀκροπολίτης
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: Historia in brevius redacta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historia-in-brevius-redacta--george-acropolites
 #+LANGUAGE: el
 
-* ΓΕΩΡΓΙΟΥ ΜΕΓΑΛΟΥ ΛΟΓΟΘΕΤΟΥ ΤΟΥ ΑΚΡΟΠΟΛΙΤΟΥ ΠΟΙΗΜΑ ΧΡΟΝΙΚΟΝ ΗΜΙΤΕΛΕΣ.
+* Historia in brevius redacta
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΕΩΡΓΙΟΥ ΜΕΓΑΛΟΥ ΛΟΓΟΘΕΤΟΥ ΤΟΥ ΑΚΡΟΠΟΛΙΤΟΥ ΠΟΙΗΜΑ
+ΧΡΟΝΙΚΟΝ ΗΜΙΤΕΛΕΣ.
 1 Τὸ τῆς ἱστορίας χρήσιμον καὶ πρὸ ἡμῶν οἱ συγγρα ψάμενοι διωρίσαντο, καὶ
 ἅπερ ἂν ἐκείνοις ἐπῆλθεν εἰπεῖν, ταῦτα ἂν καὶ ἡμεῖς ἐρεῖν ἔχωμεν· τί γὰρ ἂν καὶ
 εὕροιμεν καινότερον νόημα τοσούτων ἱστορησάντων καὶ σύμπαν κα λὸν τῆς

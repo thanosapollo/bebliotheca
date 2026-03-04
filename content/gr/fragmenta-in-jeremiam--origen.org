@@ -1,17 +1,19 @@
-#+TITLE: 1 Ὁ γὰρ δίκαιος οὐκ ἔστιν ἐν νεότητι, ἐπεὶ «τελειωθεὶς ἐν ὀλίγῳ ἐπλήρωσε
+#+TITLE: Fragmenta in Jeremiam
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmenta in Jeremiam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-jeremiam--origen
 #+LANGUAGE: el
 
-* 1 Ὁ γὰρ δίκαιος οὐκ ἔστιν ἐν νεότητι, ἐπεὶ «τελειωθεὶς ἐν ὀλίγῳ ἐπλήρωσε
+* Fragmenta in Jeremiam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Ὁ γὰρ δίκαιος οὐκ ἔστιν ἐν νεότητι, ἐπεὶ «τελειωθεὶς ἐν ὀλίγῳ ἐπλήρωσε
 χρόνους μακρούς». ὡς πρὸς μὴ ὄντα γὰρ ἐν ὁδοῖς ψεκταῖς τὸ μὴ λέγε ὅτι νεώτερός
 εἰμι· ὁποῖος Ῥοβοὰμ «ἐγ καταλιπὼν τὴν βουλὴν τῶν πρεσβυτέρων» καὶ ταῖς τῶν
 νεωτέρων ἀκολουθήσας, διὸ καὶ τὴν βασιλείαν οὐ τετήρηκεν οἵαν παρέλαβεν. 2 Ὁ

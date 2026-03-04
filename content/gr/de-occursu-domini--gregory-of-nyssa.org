@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΕΙΣ ΤΗΝ ΥΠΑΠΑΝΤΗΝ ΤΟΥ ΚΥΡΙΟΥ, ΚΑΙ ΕΙΣ ΤΗΝ ΘΕΟΤΟΚΟΝ, ΚΑΙ ΕΙΣ ΤΟΝ ∆ΙΚΑΙΟΝ ΣΥΜΕΩΝΑ.
+#+TITLE: De occursu domini
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De occursu domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

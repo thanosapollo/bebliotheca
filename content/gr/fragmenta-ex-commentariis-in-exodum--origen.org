@@ -1,17 +1,20 @@
-#+TITLE: ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΗΝ ΕΞΟ∆ΟΝ 12.264 Εἰς τό· Ἐσκλήρυνε Κύριος τὴν καρδίαν Φαραώ.
+#+TITLE: Fragmenta ex commentariis in Exodum
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmenta ex commentariis in Exodum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-ex-commentariis-in-exodum--origen
 #+LANGUAGE: el
 
-* ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΗΝ ΕΞΟ∆ΟΝ 12.264 Εἰς τό· Ἐσκλήρυνε Κύριος τὴν καρδίαν Φαραώ.
+* Fragmenta ex commentariis in Exodum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΗΝ ΕΞΟ∆ΟΝ
+=12.264= Εἰς τό· Ἐσκλήρυνε Κύριος τὴν καρδίαν Φαραώ.
 «Ἐσκλήρυνε δὲ Κύριος τὴν καρδίαν Φαραὼ, καὶ οὐκ ἠβουλήθη ἐξαποστεῖλαι
 αὐτούς.» Πολλάκις ἐν τῇ Ἐξόδῳ κείμενον τό· «Ἐσκλήρυνε Κύριος τὴν καρδίαν
 Φαραὼ,» καὶ, «Ἐγὼ σκληρυνῶ τὴν καρδίαν Φαραὼ,» σχεδὸν πάντας τοὺς

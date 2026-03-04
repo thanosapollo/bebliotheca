@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΤΟΙΣ ΚΑΤΑ ΛΙΒΥΗΝ ΚΑΙ ΠΕΝΤΑΠΟΛΙΝ ΕΠΙΣΚΟΠΟΙΣ ∆ [Προοίμιον]
+#+TITLE: Ad episcopos qui sunt in Libya et Pentapoli
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Ad episcopos qui sunt in Libya et Pentapoli
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-episcopos-qui-sunt-in-libya-et-pentapoli--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΤΟΙΣ ΚΑΤΑ ΛΙΒΥΗΝ ΚΑΙ ΠΕΝΤΑΠΟΛΙΝ ΕΠΙΣΚΟΠΟΙΣ ∆ [Προοίμιον]
+* Ad episcopos qui sunt in Libya et Pentapoli
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΤΟΙΣ ΚΑΤΑ ΛΙΒΥΗΝ ΚΑΙ ΠΕΝΤΑΠΟΛΙΝ ΕΠΙΣΚΟΠΟΙΣ ∆
+[Προοίμιον]
 Παντὸς τοῦ χρησίμου καὶ ἀναγκαίου πρὸς οἰκοδομὴν τῶν λαῶν, τελοῦντος
 δὲ καὶ εἰς ὑπόληψιν τῶν ἁγίων ἐκκλησιῶν, φροντίδα ποιεῖσθαι χρή· γέγραπται γάρ,
 ὅτι εὐλαβεῖς ποιεῖτε τοὺς υἱοὺς Ἰσραήλ. Μοναστηρίων τοίνυν πατέρες τῶν κατὰ τὴν

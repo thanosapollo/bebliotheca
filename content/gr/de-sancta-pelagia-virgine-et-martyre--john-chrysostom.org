@@ -1,17 +1,21 @@
-#+TITLE: ΟΜΙΛΙΑ ΕΓΚΩΜΙΑΣΤΙΚΗ Εἰς τὴν ἁγίαν μάρτυρα Πελαγίαν τὴν ἐν Ἀντιοχείᾳ. 50.579
+#+TITLE: De sancta Pelagia virgine et martyre
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sancta Pelagia virgine et martyre
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancta-pelagia-virgine-et-martyre--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΕΓΚΩΜΙΑΣΤΙΚΗ Εἰς τὴν ἁγίαν μάρτυρα Πελαγίαν τὴν ἐν Ἀντιοχείᾳ. 50.579
+* De sancta Pelagia virgine et martyre
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΕΓΚΩΜΙΑΣΤΙΚΗ Εἰς τὴν ἁγίαν μάρτυρα Πελαγίαν τὴν ἐν
+Ἀντιοχείᾳ.
+=50.579=
 αʹ. Εὐλογητὸς ὁ Θεός· καὶ γυναῖκες θανάτου λοιπὸν καταπαίζουσι, καὶ κόραι
 καταγελῶσι τελευτῆς, καὶ παρθένοι κομιδῇ νέαι καὶ ἀπειρόγαμοι εἰς αὐτὰ σκιρτῶσι τοῦ
 ᾅδου τὰ κέντρα, καὶ οὐδὲν πάσχουσι δεινόν, Ταῦτα δὴ πάντα διὰ τὸν ἐκ παρθένου

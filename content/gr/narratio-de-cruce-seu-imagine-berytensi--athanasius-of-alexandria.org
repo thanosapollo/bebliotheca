@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Λόγος εἰς τὸ θαῦμα τὸ
+#+TITLE: Narratio de cruce seu imagine Berytensi
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Narratio de cruce seu imagine Berytensi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/narratio-de-cruce-seu-imagine-berytensi--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Λόγος εἰς τὸ θαῦμα τὸ
+* Narratio de cruce seu imagine Berytensi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Λόγος εἰς τὸ θαῦμα τὸ
 γεγονὸς ἐν Βηρυτῷ, περὶ τῆς τιμίας καὶ σεβασμίας εἰκόνος τοῦ Κυρίου
 καὶ Θεοῦ ἡμῶν.
 Ἄρατε τοὺς ὀφθαλμοὺς τῆς διανοίας ὑμῶν, καὶ ἴδετε τὸ καινὸν καὶ παράδοξον

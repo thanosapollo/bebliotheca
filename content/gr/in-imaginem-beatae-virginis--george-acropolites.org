@@ -1,17 +1,19 @@
-#+TITLE: Στίχοι τοῦ λογοθέτου τῶν γενικῶν κυροῦ Γεωργίου τοῦ Ἀκροπολίτου,
+#+TITLE: In imaginem beatae virginis
 #+AUTHOR: Γεώργιος Ἀκροπολίτης
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: In imaginem beatae virginis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-imaginem-beatae-virginis--george-acropolites
 #+LANGUAGE: el
 
-* Στίχοι τοῦ λογοθέτου τῶν γενικῶν κυροῦ Γεωργίου τοῦ Ἀκροπολίτου,
+* In imaginem beatae virginis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Στίχοι τοῦ λογοθέτου τῶν γενικῶν κυροῦ Γεωργίου τοῦ Ἀκροπολίτου,
 γεγονότες εἰς εἰκόνα τῆς ὑπεραγίας θεοτόκου ἔχουσαν τὰς ιβʹ
 δεσποτικὰς ἑορτάς.
 Σώσασα κοινὴν ἐνθέῳ φύσιν τόκῳ Ἴθυνον αἰτῶ τὸν βίον μοι πρὸς δέον, Μετὰ δὲ

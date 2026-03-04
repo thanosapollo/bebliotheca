@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΟΝ ΡΛΒ ΨΑΛΜΟΝ.
+#+TITLE: Homilia in Psalmum CXXII
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in Psalmum CXXII
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-psalmum-cxxii--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ ΡΛΒ ΨΑΛΜΟΝ.
+* Homilia in Psalmum CXXII
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ ΡΛΒ ΨΑΛΜΟΝ.
 Ἄκουε τοῦ μακαρίου ∆αβὶδ λέγοντος διὰ τοῦ ψαλ μοῦ· Ἰδοὺ δὴ, τί καλὸν, ἢ
 τί τερπνὸν, κατοι κεῖν ἀδελφοὺς ἐπὶ τὸ αὐτό; Οὐ μόνον γὰρ ἐπὶ τοῖς οἰκείοις
 κατορθώμασιν ἔχαιρεν, ἀλλὰ καὶ τῇ τῶν ἄλ λων ἐπευφραίνετο εὐνομίᾳ· ὥς που

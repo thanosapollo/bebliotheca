@@ -1,17 +1,19 @@
-#+TITLE: ΚΑΤΗΧΗΣΙΣ Βʹ ΦΩΤΙΖΟΜΕΝΩΝ, Ἐν Ἱεροσολύμοις, Περὶ μετανοίας, καὶ
+#+TITLE: Catechesis ad illuminandos 2
 #+AUTHOR: Κύριλλος Ἱεροσολύμων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Catechesis ad illuminandos 2
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/catechesis-ad-illuminandos-2--cyril-of-jerusalem
 #+LANGUAGE: el
 
-* ΚΑΤΗΧΗΣΙΣ Βʹ ΦΩΤΙΖΟΜΕΝΩΝ, Ἐν Ἱεροσολύμοις, Περὶ μετανοίας, καὶ
+* Catechesis ad illuminandos 2
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΚΑΤΗΧΗΣΙΣ Βʹ ΦΩΤΙΖΟΜΕΝΩΝ, Ἐν Ἱεροσολύμοις, Περὶ μετανοίας, καὶ
 ἀφέσεως ἁμαρτιῶν· καὶ περὶ Ἀντικειμένου· καὶ ἀνάγνωσις ἐκ τοῦ
 προφήτου Ἰεζεκιήλ· Ζῶ ἐγὼ, λέγει Κύριος, ὅτι οὐ βούλομαι τὸν θάνατον
 τοῦ ἁμαρτωλοῦ, ὡς ἐπιστρέψαι καὶ ζῇν αὐτὸν, καὶ τὰ ἑξῆς.

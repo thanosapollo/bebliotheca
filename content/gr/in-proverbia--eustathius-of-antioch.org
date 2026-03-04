@@ -1,17 +1,19 @@
-#+TITLE: 75 ∆ιὰ τοῦ οἴνου καὶ τοῦ ἄρτου τὰ ἀντίτυπα τῶν σωματικῶν τοῦ Χριστοῦ
+#+TITLE: In Proverbia
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Proverbia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-proverbia--eustathius-of-antioch
 #+LANGUAGE: el
 
-* 75 ∆ιὰ τοῦ οἴνου καὶ τοῦ ἄρτου τὰ ἀντίτυπα τῶν σωματικῶν τοῦ Χριστοῦ
+* In Proverbia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+75 ∆ιὰ τοῦ οἴνου καὶ τοῦ ἄρτου τὰ ἀντίτυπα τῶν σωματικῶν τοῦ Χριστοῦ
 κηρύττει μελῶν. 76 Τὸν Χριστὸν λέγει Σοφίαν, τὴν αἰσθητὴν αὐτῆς εἰκόνα,
 διαγράφων τὴν ὁρατὴν φρόνησιν τήν τε ἐμπορίαν αὐτῆς <πρὸ> πάντων ἀσπαστέαν
 σημαίνων· καὶ οὐδὲν αὐτῇ κακίας εἶδος ἢ πανουργίας ἀντιτασσόμενον ἰσχύει· τοῖς

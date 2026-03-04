@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸν τυφλὸν, ὃν ὁ Χριστὸς ἐθεράπευσεν, καὶ εἰς τὸν Ζακχαῖον, καὶ
+#+TITLE: De caeco et Zacchaeo
 #+AUTHOR: Σεβηριανὸς Γαβάλων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De caeco et Zacchaeo
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-caeco-et-zacchaeo--severianus-of-gabala
 #+LANGUAGE: el
 
-* Εἰς τὸν τυφλὸν, ὃν ὁ Χριστὸς ἐθεράπευσεν, καὶ εἰς τὸν Ζακχαῖον, καὶ
+* De caeco et Zacchaeo
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν τυφλὸν, ὃν ὁ Χριστὸς ἐθεράπευσεν, καὶ εἰς τὸν Ζακχαῖον, καὶ
 περὶ κρίσεως, καὶ ἐλεημοσύνης, ὁμιλία.
 Πολλαὶ καὶ διάφοροι τῶν ἁγίων Γραφῶν αἱ διδασκαλίαι, μία δὲ χάρις ἡ πᾶσιν
 ἐπιλάμπουσα, καὶ μία πηγὴ διδασκαλίας τὸ Πνεῦμα τῆς ἀληθείας. Καὶ ὅσα νόμος

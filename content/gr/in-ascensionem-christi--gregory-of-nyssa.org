@@ -1,17 +1,21 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΛΕΓΟΜΕΝΗΝ ΤΩΙ ΕΠΙΧΩΡΙΩΙ ΤΩΝ ΚΑΠΠΑ∆ΟΚΩΝ ΕΘΕΙ ΕΠΙΣΩΙΖΟΜΕΝΗΝ ΗΤΙΣ ΕΣΤΙΝ Η ΑΝΑΛΗΨΙΣ ΤΟΥ ΚΥΡΙΟΥ ΝΜΩΝ ΙΗΣΟΥ ΧΡΙΣΤΟΥ
+#+TITLE: In ascensionem Christi
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In ascensionem Christi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ascensionem-christi--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΛΕΓΟΜΕΝΗΝ ΤΩΙ ΕΠΙΧΩΡΙΩΙ ΤΩΝ ΚΑΠΠΑ∆ΟΚΩΝ ΕΘΕΙ ΕΠΙΣΩΙΖΟΜΕΝΗΝ ΗΤΙΣ ΕΣΤΙΝ Η ΑΝΑΛΗΨΙΣ ΤΟΥ ΚΥΡΙΟΥ ΝΜΩΝ ΙΗΣΟΥ ΧΡΙΣΤΟΥ
+* In ascensionem Christi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΛΕΓΟΜΕΝΗΝ ΤΩΙ ΕΠΙΧΩΡΙΩΙ
+ΤΩΝ ΚΑΠΠΑ∆ΟΚΩΝ ΕΘΕΙ ΕΠΙΣΩΙΖΟΜΕΝΗΝ ΗΤΙΣ ΕΣΤΙΝ Η ΑΝΑΛΗΨΙΣ
+ΤΟΥ ΚΥΡΙΟΥ ΝΜΩΝ ΙΗΣΟΥ ΧΡΙΣΤΟΥ
 Ὡς γλυκὺς συνέμπορος τοῦ ἀνθρωπίνου βίου ὁ προφήτης ∆αβὶδ ἐν πάσαις
 ταῖς ὁδοῖς τῆς ζωῆς εὑρισκόμενος καὶ πάσαις ταῖς πνευματικαῖς ἡλικίαις προσφόρως
 καταμιγνύμε νος καὶ παντὸς τάγματος τῶν προκοπτόντων συνεφαπτόμενος· τοῖς

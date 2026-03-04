@@ -1,17 +1,21 @@
-#+TITLE: ΕΥΣΕΒΙΟΥ ΤΟΥ ΠΑΜΦΙΛΟΥ ΤΩΝ ΚΑΤΑ ΜΑΡΚΕΛΛΟΥ ΤΟΥ ΑΓΚΥΡΑΣ ΕΠΙΣΚΟΠΟΥ Λόγος Αʹ
+#+TITLE: Contra Marcellum
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra Marcellum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-marcellum--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* ΕΥΣΕΒΙΟΥ ΤΟΥ ΠΑΜΦΙΛΟΥ ΤΩΝ ΚΑΤΑ ΜΑΡΚΕΛΛΟΥ ΤΟΥ ΑΓΚΥΡΑΣ ΕΠΙΣΚΟΠΟΥ Λόγος Αʹ
+* Contra Marcellum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΣΕΒΙΟΥ ΤΟΥ ΠΑΜΦΙΛΟΥ ΤΩΝ ΚΑΤΑ ΜΑΡΚΕΛΛΟΥ ΤΟΥ ΑΓΚΥΡΑΣ
+ΕΠΙΣΚΟΠΟΥ
+Λόγος Αʹ
 αʹ πόθεν ὁρμώμενος ὁ Μάρκελλος τουτὶ τὸ σύγγραμμα ἔγραψεν. βʹ ὅτι οὐδὲ τὰς θείας
 ἐξηκρίβου γραφάς. γʹ Μαρκέλλου περὶ τῶν παρ' Ἕλλησιν παροιμιῶν. δʹ ὅτι τήν τε
 ἐκκλησιαστικὴν διδασκαλίαν καὶ τοὺς προεστῶτας αὐτῆς διέβαλλεν.

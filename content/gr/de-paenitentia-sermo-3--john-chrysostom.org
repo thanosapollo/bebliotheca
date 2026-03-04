@@ -1,17 +1,20 @@
-#+TITLE: Περὶ μετανοίας. Λόγος γʹ. 60.705
+#+TITLE: De paenitentia sermo 3
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De paenitentia sermo 3
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-paenitentia-sermo-3--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ μετανοίας. Λόγος γʹ. 60.705
+* De paenitentia sermo 3
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ μετανοίας. Λόγος γʹ.
+=60.705=
 ∆ιαγράψωμεν, ἀγαπητοὶ, τὰ τῆς μετανοίας φάρμακα, ἵνα τῷ τῆς σωτηρίας
 λιμένι προσδράμωμεν. Ἐτρώθημεν τῇ ἁμαρτίᾳ· ἰαθῶμεν τῇ μετανοίᾳ· διὰ τῆς
 ἁμαρτίας ὁ διάβολος ἔτρωσε· διὰ τῆς μετανοίας ὁ Χριστὸς ἐθεράπευσεν· ἐκεῖνος διὰ

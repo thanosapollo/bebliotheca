@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ Εἰς τὸν Μελχισεδέκ. 56.257
+#+TITLE: De Melchisedech
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De Melchisedech
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-melchisedech--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ Εἰς τὸν Μελχισεδέκ. 56.257
+* De Melchisedech
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ Εἰς τὸν Μελχισεδέκ.
+=56.257=
 αʹ. Ἀποστολικὴν ὑμῖν σήμερον βούλομαι παραθεῖναι τράπεζαν, καὶ πρὸς τὸ
 πέλαγος τῆς Παύλου φωνῆς διατεῖναι τὸν λόγον παρασκευάζομαι. Ἀλλὰ τί πάθω; Ὀκνῶ
 καὶ δέδοικα μήποτε τὸν λιμένα ἐξελθόντες, καὶ πρὸς τὸ βάθος καταντήσαντες τῶν

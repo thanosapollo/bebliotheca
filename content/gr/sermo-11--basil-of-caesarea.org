@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΑΣΚΗΤΙΚΟΣ, καὶ παραίνεσις περὶ ἀποταγῆς βίου, καὶ
+#+TITLE: Sermo 11
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo 11
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-11--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΑΣΚΗΤΙΚΟΣ, καὶ παραίνεσις περὶ ἀποταγῆς βίου, καὶ
+* Sermo 11
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΑΣΚΗΤΙΚΟΣ, καὶ παραίνεσις περὶ ἀποταγῆς βίου, καὶ
 τελειώ-σεως πνευματικῆς.
 ∆εῦτε πρὸς μὲ, πάντες οἱ κοπιῶντες καὶ πεφορτισμένοι, κἀγὼ ἀναπαύσω
 ὑμᾶς, φησὶν ἡ θεία φωνὴ, εἴτε τὴν ἐκεῖ ἀνάπαυσιν, εἴτε τὴν ἐντεῦθεν αἰνιττομένη.

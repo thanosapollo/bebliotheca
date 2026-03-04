@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΟΝ ΕΥΑΓΓΕΛΙΣΜΟΝ Τῆς ὑπερενδόξου ∆εσποίνης ἡμῶν Θεοτόκου. 50.791
+#+TITLE: In annuntiationem beatae virginis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In annuntiationem beatae virginis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-annuntiationem-beatae-virginis--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ ΕΥΑΓΓΕΛΙΣΜΟΝ Τῆς ὑπερενδόξου ∆εσποίνης ἡμῶν Θεοτόκου. 50.791
+* In annuntiationem beatae virginis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ ΕΥΑΓΓΕΛΙΣΜΟΝ Τῆς ὑπερενδόξου ∆εσποίνης ἡμῶν Θεοτόκου.
+=50.791=
 Πάλιν χαρᾶς εὐαγγέλια, πάλιν ἐλευθερίας μηνύματα, πάλιν ἀνάκλησις,
 πάλιν ἐπάνοδος, πάλιν εὐ =50.792= φροσύνης φωνὴ, πάλιν δουλείας ἀπαλλαγή·
 ἄγγελος μετὰ παρθένου λαλεῖ, ἐπειδὴ καὶ γυναικὶ ὡμίλησεν =50.793= ὁ ὄφις. Τῷ μηνὶ

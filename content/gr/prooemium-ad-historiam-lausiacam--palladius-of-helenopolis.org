@@ -1,17 +1,19 @@
-#+TITLE: Προοίμιον τοῦ βίου τῶν ἁγίων πατέρων
+#+TITLE: Prooemium ad historiam Lausiacam
 #+AUTHOR: Παλλάδιος Ἑλενοπόλεως
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Prooemium ad historiam Lausiacam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/prooemium-ad-historiam-lausiacam--palladius-of-helenopolis
 #+LANGUAGE: el
 
-* Προοίμιον τοῦ βίου τῶν ἁγίων πατέρων
+* Prooemium ad historiam Lausiacam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Προοίμιον τοῦ βίου τῶν ἁγίων πατέρων
 Ἐν ταύτῃ τῇ βίβλῳ ἀναγέγραπται ἐνάρετος ἄσκησις καὶ θαυμαστὴ βίου διαγωγὴ
 τῶν μακαρίων καὶ ἁγίων πατέρων μοναχῶν καὶ ἀναχωρητῶν τῶν ἐν τῇ ἐρήμῳ,
 πρὸς ζῆλον καὶ μίμησιν τῶν τὴν οὐράνιον πολιτείαν ἐθελόντων κατορθοῦν καὶ τὴν

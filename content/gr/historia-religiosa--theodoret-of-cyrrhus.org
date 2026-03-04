@@ -1,17 +1,21 @@
-#+TITLE: ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΡΟΥ ΦΙΛΟΘΕΟΣ ΙΣΤΟΡΙΑ Η ΑΣΚΗΤΙΚΗ ΠΟΛΙΤΕΙΑ ΠΡΟΛΟΓΟΣ
+#+TITLE: Historia religiosa
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Historia religiosa
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historia-religiosa--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΡΟΥ ΦΙΛΟΘΕΟΣ ΙΣΤΟΡΙΑ Η ΑΣΚΗΤΙΚΗ ΠΟΛΙΤΕΙΑ ΠΡΟΛΟΓΟΣ
+* Historia religiosa
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΡΟΥ ΦΙΛΟΘΕΟΣ ΙΣΤΟΡΙΑ Η ΑΣΚΗΤΙΚΗ
+ΠΟΛΙΤΕΙΑ
+ΠΡΟΛΟΓΟΣ
 p.1 Τῶν ἀρίστων ἀνδρῶν καὶ τῆς ἀρετῆς ἀθλητῶν καλὸν μὲν ἰδεῖν τοὺς ἀγῶνας
 καὶ τοῖς ὀφθαλμοῖς τὴν ὠφέλειαν ἀρύσασθαι. Ὁρώμενα γὰρ τὰ ἐπαινούμενα ἀξιόκτητά
 τε φαίνεται καὶ ἀξιέραστα γίνεται, καὶ πρὸς τὴν κτῆσιν ἐπείγει τοὺς θεατάς. Φέρει δὲ

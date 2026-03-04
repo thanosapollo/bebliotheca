@@ -1,17 +1,21 @@
-#+TITLE: ΕΙΣ ΤΟΝ ΤΙΜΙΟΝ καὶ ζωοποιὸν σταυρὸν, καὶ περὶ τῆς τῶν πρώτων ἀνθρώπων παραβάσεως. 50.815
+#+TITLE: In venerabilem crucem sermo
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In venerabilem crucem sermo
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-venerabilem-crucem-sermo--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ ΤΙΜΙΟΝ καὶ ζωοποιὸν σταυρὸν, καὶ περὶ τῆς τῶν πρώτων ἀνθρώπων παραβάσεως. 50.815
+* In venerabilem crucem sermo
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ ΤΙΜΙΟΝ καὶ ζωοποιὸν σταυρὸν, καὶ περὶ τῆς τῶν πρώτων
+ἀνθρώπων παραβάσεως.
+=50.815=
 Τί εἴπω, ἢ τί λαλήσω; ἢ τίνας ὑμᾶς καλέσω; πρόβατα, ἢ ποιμένας; ναύτας, ἢ
 κυβερνήτας; =50.816= μαθητὰς, ἢ διδασκάλους; πῶς ὑμῶν θαυμάσω τὸν ζῆλον τὸν
 πυρὸς λαβρότερον; Πρόβατα ὑμᾶς καλέσω, καὶ γάρ ἐστε πραεῖς καὶ ἡσύχιοι. Ποιμένας

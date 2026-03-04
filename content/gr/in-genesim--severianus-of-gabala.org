@@ -1,17 +1,19 @@
-#+TITLE: Λόγος εἰς τὸ, "Εἶδεν ὁ Θεὸς πάντα ὅσα ἐποίησε· καὶ ἰδοὺ καλὰ λίαν·" καὶ
+#+TITLE: In Genesim
 #+AUTHOR: Σεβηριανὸς Γαβάλων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Genesim
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-genesim--severianus-of-gabala
 #+LANGUAGE: el
 
-* Λόγος εἰς τὸ, "Εἶδεν ὁ Θεὸς πάντα ὅσα ἐποίησε· καὶ ἰδοὺ καλὰ λίαν·" καὶ
+* In Genesim
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λόγος εἰς τὸ, "Εἶδεν ὁ Θεὸς πάντα ὅσα ἐποίησε· καὶ ἰδοὺ καλὰ λίαν·" καὶ
 ὅτι τὰ θεῖα λόγια τιμιώτερα πάντων ἡδέων.
 αʹ. Καλοὶ τῆς εὐσεβείας οἱ λειμῶνες, οὐ προσκαίροις χροιαῖς κομῶντες, ἀλλ'
 οὐρανίοις ἄνθεσι βρύοντες. Ἄνθη δέ εἰσι τῆς εὐσεβείας, οἱ καρποὶ τῆς ἐνθέου

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ Χρυσοστόμου] εἰς τὴν αὐτὴν ἡμέραν [εἰς τὰ γενέθλια τοῦ
+#+TITLE: In natale domini et in sanctam Mariam genitricem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In natale domini et in sanctam Mariam genitricem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-natale-domini-et-in-sanctam-mariam-genitricem--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ Χρυσοστόμου] εἰς τὴν αὐτὴν ἡμέραν [εἰς τὰ γενέθλια τοῦ
+* In natale domini et in sanctam Mariam genitricem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ Χρυσοστόμου] εἰς τὴν αὐτὴν ἡμέραν [εἰς τὰ γενέθλια τοῦ
 Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ εἰς τὴν ἁγίαν Μαρίαν τὴν θεοτόκον.
 1 Ἀδιήγητον πέλαγος δι' αἰῶνος ἐμφανίζεται σήμερον, ἐρεύνης ἀνθρωπίνης
 βαθύτερον ὑπάρχον. Βυθὸν ἀκατάλημπτον ἐξαντλεῖν ἐπεχείρησα καὶ ὅσον διερευνῶ

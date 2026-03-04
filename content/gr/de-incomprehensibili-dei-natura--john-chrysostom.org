@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰω ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ
+#+TITLE: De incomprehensibili dei natura
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De incomprehensibili dei natura
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-incomprehensibili-dei-natura--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰω ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ
+* De incomprehensibili dei natura
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰω ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ
 Χρυσοστόμου περὶ ἀκαταλήπτου, ἀπόντος τοῦ ἐπισκόπου, πρὸς
 Ἀνομοίους λόγος αʹ.
 Τί τοῦτο; ὁ ποιμὴν οὐ πάρεστι καὶ τὰ θρέμματα μετὰ πάσης τῆς εὐταξίας

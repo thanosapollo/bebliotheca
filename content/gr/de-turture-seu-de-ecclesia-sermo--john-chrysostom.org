@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ ΕΙΣ ΤΗΝ ΤΡΥΓΟΝΑ Ἤτοι εἰς τὴν Ἐκκλησίαν. 55.599
+#+TITLE: De turture seu de ecclesia sermo
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De turture seu de ecclesia sermo
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-turture-seu-de-ecclesia-sermo--john-chrysostom
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΕΙΣ ΤΗΝ ΤΡΥΓΟΝΑ Ἤτοι εἰς τὴν Ἐκκλησίαν. 55.599
+* De turture seu de ecclesia sermo
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΕΙΣ ΤΗΝ ΤΡΥΓΟΝΑ Ἤτοι εἰς τὴν Ἐκκλησίαν.
+=55.599=
 αʹ. Ἡ τρυγὼν ἡ φιλέρημος, ὅτε ἐν ὕλαις συγκοιταζομένη καλεῖ τὸν
 ὁμόζυγον, γοεραῖς κολακείαις τὰς κοιλάδας δονήσασα, καὶ τὸν ἑαυτῆς ἄῤῥενα παρ'
 ὕδασι νεμόμενον θέλξασα, καὶ τοῦτον πετάσασα παραινεῖ ταχεῖαν τὴν πτῆσιν

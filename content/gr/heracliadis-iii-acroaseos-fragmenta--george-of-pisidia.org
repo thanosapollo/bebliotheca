@@ -1,17 +1,19 @@
-#+TITLE: 1 σφύζεις, Ἀχιλλεῦ, καὶ μεθύσκῃ τὰς φρένας 2 ἐρῶ δέ σοι νῦν, εἴπερ οὐ βύειν
+#+TITLE: Heracliadis iii acroaseos fragmenta
 #+AUTHOR: Γεώργιος Πισίδης
 #+FILETAGS: :byzantine:7c-ad:
+#+MIGNE_TITLE: Heracliadis iii acroaseos fragmenta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/heracliadis-iii-acroaseos-fragmenta--george-of-pisidia
 #+LANGUAGE: el
 
-* 1 σφύζεις, Ἀχιλλεῦ, καὶ μεθύσκῃ τὰς φρένας 2 ἐρῶ δέ σοι νῦν, εἴπερ οὐ βύειν
+* Heracliadis iii acroaseos fragmenta
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 σφύζεις, Ἀχιλλεῦ, καὶ μεθύσκῃ τὰς φρένας 2 ἐρῶ δέ σοι νῦν, εἴπερ οὐ βύειν
 θέλεις 3 {2α}2 λάβωμεν, ἄνδρες, εἰς νοῦν τὸν Θεοῦ φόβον {2β}2 στῶμεν κατ' ἐχθρῶν
 τῶν πολλὰ δεινὰ Χριστιανοῖς εἰργασμένων {2γ}2 τὸ Ῥωμαίων κράτος <ἅπαντες>
 αἰδεσθῶμεν αὐτοδέσποτον {2δ}2 στῶμεν κατ' ἐχθρῶν δυσσεβῶς ὡπλισμένων {2ε}2

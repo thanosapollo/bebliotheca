@@ -1,17 +1,19 @@
-#+TITLE: Ἐπιτίμια τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου.
+#+TITLE: Epitimia lxxiii
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epitimia lxxiii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epitimia-lxxiii--john-chrysostom
 #+LANGUAGE: el
 
-* Ἐπιτίμια τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου.
+* Epitimia lxxiii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἐπιτίμια τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου.
 1 Ὁ ἑκουσίως φονεύσας ἔστω ἀκοινώτητος ἔτη ʹ· ποιῶν δὲ καθ' ἑκάστην
 ἡμέραν μετανοίας νʹ, τὸ «Κύριε ἐλέησον» σὺν τῷ «Ὁ Θεὸς, ἱλάσθητί μοι» ρνʹ,
 ἀπεχόμενος κρέατος, τυροῦ καὶ ὠοῦ, τὰς δὲ τετράδας καὶ παρασκευὰς ἀπεχόμενος

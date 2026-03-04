@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν ἑκατόνταρχον. 61.769
+#+TITLE: In centurionem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In centurionem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-centurionem--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν ἑκατόνταρχον. 61.769
+* In centurionem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν ἑκατόνταρχον.
+=61.769=
 Ἑκατοντάρχου τινὸς δοῦλος κακῶς ἔχων ἔμελλε τελευτᾷν· ἀλλ' οὐκ
 ἐτελεύτησε διὰ τὸν ∆εσπότην· ἔμελλεν ἀποθανεῖν· ἄνθρωπος γὰρ ἦν· ἀλλ' οὐκ
 ἀπέθανε διὰ τὸν πρεσβεύοντα θεοφιλῆ τυγχάνοντα. Ἡ φύσις τὸ ἴδιον ἀπαιτεῖ χρέος·

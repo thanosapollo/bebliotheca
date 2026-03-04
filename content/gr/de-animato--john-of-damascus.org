@@ -1,17 +1,20 @@
-#+TITLE: Περὶ ἐμψύχου. 95.229
+#+TITLE: De animato
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: De animato
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-animato--john-of-damascus
 #+LANGUAGE: el
 
-* Περὶ ἐμψύχου. 95.229
+* De animato
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ ἐμψύχου.
+=95.229=
 Ἔμψυχον λέγεται τὸ τρεφόμενον, καὶ αυξον, καὶ τίκτον ὅμοιον ἑαυτῷ. Τοῦτο δὲ
 διαιρεῖται εἰς τρία· εἰς ζῶον· τὸ δὲ ζῶον οὐκ εχει μόνον τὰς τρεῖς φυσικὰς ταύτας
 κινήσεις, ἀλλὰ καὶ τὸ ἐκ τόπου εἰς τόπον μεθίστασθαι· εἰς φυτόν· τοῦτο τὰς τρεῖς μόνας

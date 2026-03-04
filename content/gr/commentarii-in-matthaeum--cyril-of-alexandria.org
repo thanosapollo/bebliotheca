@@ -1,17 +1,19 @@
-#+TITLE: 1 Mt 1, 1 Ἰαὼ τὴν σωτηρίαν οἱ Ἑβραῖοι ἔλεγον, Χριστοῦ δὲ εἶπε διὰ τὸ τοὺς
+#+TITLE: Commentarii in Matthaeum
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Commentarii in Matthaeum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-matthaeum--cyril-of-alexandria
 #+LANGUAGE: el
 
-* 1 Mt 1, 1 Ἰαὼ τὴν σωτηρίαν οἱ Ἑβραῖοι ἔλεγον, Χριστοῦ δὲ εἶπε διὰ τὸ τοὺς
+* Commentarii in Matthaeum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Mt 1, 1 Ἰαὼ τὴν σωτηρίαν οἱ Ἑβραῖοι ἔλεγον, Χριστοῦ δὲ εἶπε διὰ τὸ τοὺς
 παλαιοὺς βασιλεῖς τε καὶ ἱερεῖς τῷ ἐλαίῳ χρίεσθαι διὰ τοῦ κέρατος. ὁ δὲ ἡμέτερος
 Ἰησοῦς Χριστὸς οὐ διὰ τὸ τῷ κέρατι χρισθῆναι προσ ηγορεύθη Χριστός, ἀλλὰ τὸ τῷ θείῳ
 πνεύματι· ἀληθῶς γὰρ καὶ κυρίως αὐτὸς εἶχε τὸ πνεῦμα τὸ ἅγιον. 2 Mt 1, 1 Μέμνηται

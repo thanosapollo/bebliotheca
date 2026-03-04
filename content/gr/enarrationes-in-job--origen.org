@@ -1,6 +1,7 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΞΗΓΗΤΙΚΑ ΕΙΣ ΤΟΝ ΙΩΒ.
+#+TITLE: Enarrationes in Job
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Enarrationes in Job
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

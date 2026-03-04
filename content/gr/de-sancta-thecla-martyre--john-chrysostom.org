@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΗΝ ΑΓΙΑΝ ΠΡΩΤΟΜΑΡΤΥΡΑ Καὶ ἀπόστολον Θέκλαν ἐγκώμιον. 50.745
+#+TITLE: De sancta Thecla martyre
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sancta Thecla martyre
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancta-thecla-martyre--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΗΝ ΑΓΙΑΝ ΠΡΩΤΟΜΑΡΤΥΡΑ Καὶ ἀπόστολον Θέκλαν ἐγκώμιον. 50.745
+* De sancta Thecla martyre
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΗΝ ΑΓΙΑΝ ΠΡΩΤΟΜΑΡΤΥΡΑ Καὶ ἀπόστολον Θέκλαν ἐγκώμιον.
+=50.745=
 Καλὰς ἡμῖν ἡ τοῦ Πνεύματος χάρις τῶν ἁγίων εἰκόνας τὰς ἐτησίους αὐτῶν
 ἀνεστήσατο μνήμας, καὶ χρόνῳ τὰς πράξεις ἐρχομένας εἰς λήθην νεαρὰς διηνεκῶς
 διασώζει. Ἕκαστος γὰρ ὥσπερ εἰκόνι τινὶ ἐντυγχάνων τῇ μνήμῃ, τὸ τῶν πράξεων

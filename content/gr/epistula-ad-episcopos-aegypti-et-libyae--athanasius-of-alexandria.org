@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ, ΠΡΟΣ ΤΟΥΣ ΕΠΙΣΚΟΠΟΥΣ ΑΙΓΥΠΤΟΥ ΚΑΙ ΛΙΒΥΗΣ ΕΠΙΣΤΟΛΗ ΕΓΚΥΚΛΙΟΣ ΚΑΤΑ ΑΡΕΙΑΝΩΝ.
+#+TITLE: Epistula ad episcopos Aegypti et Libyae
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad episcopos Aegypti et Libyae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-episcopos-aegypti-et-libyae--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ, ΠΡΟΣ ΤΟΥΣ ΕΠΙΣΚΟΠΟΥΣ ΑΙΓΥΠΤΟΥ ΚΑΙ ΛΙΒΥΗΣ ΕΠΙΣΤΟΛΗ ΕΓΚΥΚΛΙΟΣ ΚΑΤΑ ΑΡΕΙΑΝΩΝ.
+* Epistula ad episcopos Aegypti et Libyae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ, ΠΡΟΣ ΤΟΥΣ ΕΠΙΣΚΟΠΟΥΣ ΑΙΓΥΠΤΟΥ ΚΑΙ ΛΙΒΥΗΣ
+ΕΠΙΣΤΟΛΗ ΕΓΚΥΚΛΙΟΣ ΚΑΤΑ ΑΡΕΙΑΝΩΝ.
 Πάντα μὲν ὅσα ὁ Κύριος ἡμῶν καὶ Σωτὴρ Ἰησοῦς Χριστὸς, ὡς ἔγραψεν ὁ Λουκᾶς,
 πεποίηκέ τε καὶ ἐδίδαξεν, εἰς τὴν ἡμετέραν φανεὶς σωτηρίαν διεπράξατο· ἦλθε γὰρ,
 ὡς ὁ Ἰωάννης φησὶν, οὐχ ἵνα κρίνῃ τὸν κόσμον, ἀλλ' ἵνα σωθῇ ὁ κόσμος δι' αὐτοῦ.

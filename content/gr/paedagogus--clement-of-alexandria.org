@@ -1,17 +1,19 @@
-#+TITLE: Τί ἐπαγγέλλεται ὁ παιδαγωγός.
+#+TITLE: Paedagogus
 #+AUTHOR: Κλήμης Ἀλεξανδρείας
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Paedagogus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/paedagogus--clement-of-alexandria
 #+LANGUAGE: el
 
-* Τί ἐπαγγέλλεται ὁ παιδαγωγός.
+* Paedagogus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τί ἐπαγγέλλεται ὁ παιδαγωγός.
 1.1.1.1 Συγκεκρότηται κρηπὶς ἀληθείας, ὦ παῖδες ὑμεῖς, ἡμῖν αὐτοῖς, ἁγίου νεὼ
 μεγάλου θεοῦ θεμέλιος γνώσεως ἀρραγής, προτροπὴ καλή, δι' ὑπακοῆς εὐλόγου ζωῆς
 ἀιδίου ὄρεξις, νοερῷ καταβληθεῖσα χωρίῳ. Τριῶν γέ τοι τούτων περὶ τὸν ἄνθρωπον

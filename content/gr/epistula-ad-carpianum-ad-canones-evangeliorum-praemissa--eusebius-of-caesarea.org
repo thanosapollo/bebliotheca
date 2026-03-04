@@ -1,17 +1,19 @@
-#+TITLE: Εὐσέβιος Καρπιανῷ ἀγαπητῷ ἀδελφῷ ἐν κυρίῳ χαίρειν.
+#+TITLE: Epistula ad Carpianum ad canones evangeliorum praemissa
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Carpianum ad canones evangeliorum praemissa
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-carpianum-ad-canones-evangeliorum-praemissa--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* Εὐσέβιος Καρπιανῷ ἀγαπητῷ ἀδελφῷ ἐν κυρίῳ χαίρειν.
+* Epistula ad Carpianum ad canones evangeliorum praemissa
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εὐσέβιος Καρπιανῷ ἀγαπητῷ ἀδελφῷ ἐν κυρίῳ χαίρειν.
 Ἀμμώνιος μὲν ὁ Ἀλεξανδρεὺς πολλὴν ὡς εἰκὸς φιλοπονίαν καὶ σπουδὴν
 εἰσαγηοχὼς τὸ διὰ τεσσάρων ἡμῖν καταλέλοιπεν εὐαγγέλιον, τῷ κατὰ Ματθαῖον τὰς
 ὁμοφώνους τῶν λοιπῶν εὐαγγελιστῶν περικοπὰς παραθείς, ὡς ἐξ ἀνάγκης

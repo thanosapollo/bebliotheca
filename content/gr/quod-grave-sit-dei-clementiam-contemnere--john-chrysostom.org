@@ -1,17 +1,19 @@
-#+TITLE: ∆ʹ. Τοῦ αὐτοῦ, ὅτι βαρὺ τῆς τοῦ Θεοῦ φιλανθρωπίας καταφρονεῖν.
+#+TITLE: Quod grave sit dei clementiam contemnere
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quod grave sit dei clementiam contemnere
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quod-grave-sit-dei-clementiam-contemnere--john-chrysostom
 #+LANGUAGE: el
 
-* ∆ʹ. Τοῦ αὐτοῦ, ὅτι βαρὺ τῆς τοῦ Θεοῦ φιλανθρωπίας καταφρονεῖν.
+* Quod grave sit dei clementiam contemnere
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+∆ʹ. Τοῦ αὐτοῦ, ὅτι βαρὺ τῆς τοῦ Θεοῦ φιλανθρωπίας καταφρονεῖν.
 Ἐῤῥέθη δὲ τῆς τῶν μυρίων ταλάντων ἀναγνωσθείσης παραβολῆς. Καὶ
 κατὰ Ἰουδαίων, τοῦ σεισμοῦ γενομένου.
 =64.17=

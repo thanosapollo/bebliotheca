@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου πόλεως Κωνσταντίας,
+#+TITLE: Homilia in laudes Mariae deiparae
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in laudes Mariae deiparae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-laudes-mariae-deiparae--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου πόλεως Κωνσταντίας,
+* Homilia in laudes Mariae deiparae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου πόλεως Κωνσταντίας,
 τῆς Κυπριωνήσου, ἐγκώμιος εἰς τὴν ἁγίαν τὴν Θεοτόκον.
 Τὰς ἐκλαμπούσας μαρμαρυγὰς τῆς Θεοτόκου ἀκτῖνας φοβερὰς καὶ
 ἀκαταλήπτους δυνάμεις, οὐρανοῦ καὶ γῆς οἰκουμένης μυστήριον, θαῦμα, ἱλαστήριον

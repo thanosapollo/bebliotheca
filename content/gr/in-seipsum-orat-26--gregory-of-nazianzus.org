@@ -1,17 +1,20 @@
-#+TITLE: fuerant (orat. 26) ΛΟΓΟΣ Κςʹ. Εἰς ἐαυτὸν, ἐξ ἀγροῦ ἐπανήκοντα μετὰ τὰ κατὰ Μάξιμον.
+#+TITLE: In seipsum orat 26
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In seipsum orat 26
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-seipsum-orat-26--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* fuerant (orat. 26) ΛΟΓΟΣ Κςʹ. Εἰς ἐαυτὸν, ἐξ ἀγροῦ ἐπανήκοντα μετὰ τὰ κατὰ Μάξιμον.
+* In seipsum orat 26
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Κςʹ.
+Εἰς ἐαυτὸν, ἐξ ἀγροῦ ἐπανήκοντα μετὰ τὰ κατὰ Μάξιμον.
 Αʹ. Ἐπόθουν ὑμᾶς, ὦ τέκνα, καὶ ἀντεποθούμην τοῖς ἴσοις μέτροις. Πείθομαι
 γὰρ, εἰ δεῖ καὶ πίστιν προσθεῖναι τῷ λόγῳ, Ναὶ νὴ τὴν ὑμετέραν καύχησιν, ἀδελφοὶ,
 ἣν ἔχω ἐν Χριστῷ Ἰη σοῦ τῷ Κυρίῳ ἡμῶν. Τοῦτον γάρ μοι πεποίηκε τὸν ὅρκον τὸ

@@ -1,17 +1,19 @@
-#+TITLE: 1.1 Πολλοῖς μὲν ἤδη γέγονεν ἡ παρθενία τῶν πρὸς ἐπίδειξιν λόγων ὑπόθεσις,
+#+TITLE: De virginitate recensio altera
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De virginitate recensio altera
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-virginitate-recensio-altera--gregory-of-nyssa
 #+LANGUAGE: el
 
-* 1.1 Πολλοῖς μὲν ἤδη γέγονεν ἡ παρθενία τῶν πρὸς ἐπίδειξιν λόγων ὑπόθεσις,
+* De virginitate recensio altera
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1.1 Πολλοῖς μὲν ἤδη γέγονεν ἡ παρθενία τῶν πρὸς ἐπίδειξιν λόγων ὑπόθεσις,
 μυρίας παρεχομένη τοῖς φιλοτιμοτέροις τὰς ἀφορμὰς τοῦ πανηγυρικῶς ἐμπομπεύειν
 τῷ λόγῳ καὶ ταῖς προσούσαις τῷ κατορ θώματι χάρισιν ἐναβρύνεσθαι. Ἐγὼ δὲ
 σεμνὸν μὲν εἶναι τὸ ἐπιτή δευμα τοῦτο καὶ τίμιον πᾶσιν, ὅσοις τὸ καλὸν ἐν

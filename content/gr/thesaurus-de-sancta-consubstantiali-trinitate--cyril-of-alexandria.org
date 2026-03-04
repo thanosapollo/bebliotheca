@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ Η ΒΙΒΛΟΣ ΤΩΝ ΘΗΣΑΥΡΩΝ ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΟΜΟΟΥΣΙΟΥ ΤΡΙΑ∆ΟΣ. ΠΡΟΛΟΓΟΣ ἤτοι ΠΡΟΘΕΩΡΙΑ.
+#+TITLE: Thesaurus de sancta consubstantiali trinitate
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Thesaurus de sancta consubstantiali trinitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/thesaurus-de-sancta-consubstantiali-trinitate--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ Η ΒΙΒΛΟΣ ΤΩΝ ΘΗΣΑΥΡΩΝ ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΟΜΟΟΥΣΙΟΥ ΤΡΙΑ∆ΟΣ. ΠΡΟΛΟΓΟΣ ἤτοι ΠΡΟΘΕΩΡΙΑ.
+* Thesaurus de sancta consubstantiali trinitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ Η ΒΙΒΛΟΣ ΤΩΝ ΘΗΣΑΥΡΩΝ ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΚΑΙ
+ΟΜΟΟΥΣΙΟΥ ΤΡΙΑ∆ΟΣ.
+ΠΡΟΛΟΓΟΣ ἤτοι ΠΡΟΘΕΩΡΙΑ.
 75.9
 Οὐκ ἐπὶ μικροὺς ἡμᾶς ἀγῶνας ἐπείγεσθαι δεῖν ὁ σὸς ἀναπείθει λόγος, ὦ
 φιλοπονώτατε ἀδελφὲ Νεμεσῖνε. Τί γὰρ ἂν οὕτω γένοιτο δυσέφικτόν τε καὶ χαλεπὸν

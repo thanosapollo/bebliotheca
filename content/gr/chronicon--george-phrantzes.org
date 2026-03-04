@@ -1,6 +1,7 @@
-#+TITLE: ΟΙΚΤΡΟΣ ΓΕΩΡΓΙΟΣ ΣΦΡΑΝΤΖΗΣ, Ο ΚΑΙ ΠΡΩΤΟΒΕΣΤΙΑΡΙΤΗΣ, ΓΡΗΓΟΡΙΟΣ ΤΑΧΑ ΜΟΝΑΧΟΣ, ΤΑΥΤΑ ΕΓΡΑΨΑΜΕΝ ΑΠΟ ΤΩΝ ΚΑΘ' ΕΑΥΤΟΝ ΚΑΙ ΤΙΝΩΝ ΜΕΡΙΚΩΝ ΓΕΓΟΝΟΤΩΝ ΕΝ ΤΩ ΤΗΣ ΑΘΛΙΑΣ ΖΩΗΣ ΑΥΤΟΥ ΧΡΟΝΩ.
+#+TITLE: Chronicon
 #+AUTHOR: Γεώργιος Φραντζῆς
 #+FILETAGS: :byzantine:15c-ad:
+#+MIGNE_TITLE: Chronicon
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

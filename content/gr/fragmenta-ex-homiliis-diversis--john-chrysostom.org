@@ -1,17 +1,19 @@
-#+TITLE: 8 τοῦ αὐτοῦ, ὅτε ἦν ἐν Ἀντιοχείᾳ εἰς τὸ μυστικὸν δεῖπνον λόγου
+#+TITLE: Fragmenta ex homiliis diversis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta ex homiliis diversis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-ex-homiliis-diversis--john-chrysostom
 #+LANGUAGE: el
 
-* 8 τοῦ αὐτοῦ, ὅτε ἦν ἐν Ἀντιοχείᾳ εἰς τὸ μυστικὸν δεῖπνον λόγου
+* Fragmenta ex homiliis diversis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+8 τοῦ αὐτοῦ, ὅτε ἦν ἐν Ἀντιοχείᾳ εἰς τὸ μυστικὸν δεῖπνον λόγου
 οὗ ἡ ἀρχή·
 ἀπαρχὴν ἀπορρήτου θυσίας σήμερον ἑορτάζομεν.
 περὶ ἐνεργείων θεϊκῆς καὶ ἀνθρωπίνης. ὁ αὐτὸς μὲν οὖν ὡς ἄνθρωπος ὑπὲρ

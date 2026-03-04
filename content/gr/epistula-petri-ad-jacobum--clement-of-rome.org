@@ -1,6 +1,7 @@
-#+TITLE: Πέτρος Ἰακώβῳ τῷ κυρίῳ καὶ ἐπισκόπῳ τῆς ἁγίας ἐκκλησίας. ὑπὸ τοῦ
+#+TITLE: Epistula Petri ad Jacobum
 #+AUTHOR: Κλήμης Ρώμης
 #+FILETAGS: :patristic:1c-ad:
+#+MIGNE_TITLE: Epistula Petri ad Jacobum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

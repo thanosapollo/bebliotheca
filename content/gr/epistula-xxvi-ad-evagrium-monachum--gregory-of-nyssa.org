@@ -1,17 +1,20 @@
-#+TITLE: ΕΠΙΣΤΟΛΗ Κ ʹ. Πρὸς Εὐάγριον μοναχὸν, περὶ Θεότητος.
+#+TITLE: Epistula xxvi ad Evagrium monachum
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula xxvi ad Evagrium monachum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-xxvi-ad-evagrium-monachum--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΕΠΙΣΤΟΛΗ Κ ʹ. Πρὸς Εὐάγριον μοναχὸν, περὶ Θεότητος.
+* Epistula xxvi ad Evagrium monachum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΠΙΣΤΟΛΗ Κ ʹ.
+Πρὸς Εὐάγριον μοναχὸν, περὶ Θεότητος.
 Σφόδρα τε θαυμάζω καὶ λίαν ἐκπλήττομαι τῆς νηφαλιότητος, ὅπως τοιούτων
 θεωρημάτων καὶ τη λικούτων ζητήσεων αἴτιος καθίστασαι, ταῖς ἀκρι βέσιν
 ἐρωτήσεσιν, εἰς ἀνάγκην ἡμᾶς τοῦ λέγειν καὶ ἀγωνίαν ἀποδείξεως περιιστὰς,

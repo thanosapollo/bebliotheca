@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ
+#+TITLE: Epistula ad monachos 1
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad monachos 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-monachos-1--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ
+* Epistula ad monachos 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ
 Τοῖς ἁπανταχοῦ κατὰ τόπον τὸν μονήρη βίον ἀσκοῦσι καὶ ἐν πίστει θεοῦ
 ἱδρυμένοις ἡγιασμένοις τε ἐν Χριστῷ καὶ λέγουσιν «ἰδοὺ ἡμεῖς
 ἀφήκαμεν πάντα καὶ ἠκολουθήσαμέν σοι» ἀγαπητοῖς καὶ ποθεινοτάτοις

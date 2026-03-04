@@ -1,17 +1,19 @@
-#+TITLE: 28 (Μετὰ τὸ ἐγνωκέναι μέ, φησιν, ὅτι ἡ ῥίζα ∆αυείδ, ὁ νικήσας λέων ἐκ τῆς φυλῆς
+#+TITLE: Scholia in Apocalypsem
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Scholia in Apocalypsem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/scholia-in-apocalypsem-1--origen
 #+LANGUAGE: el
 
-* 28 (Μετὰ τὸ ἐγνωκέναι μέ, φησιν, ὅτι ἡ ῥίζα ∆αυείδ, ὁ νικήσας λέων ἐκ τῆς φυλῆς
+* Scholia in Apocalypsem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+28 (Μετὰ τὸ ἐγνωκέναι μέ, φησιν, ὅτι ἡ ῥίζα ∆αυείδ, ὁ νικήσας λέων ἐκ τῆς φυλῆς
 Ἰούδα, εἴληφεν τὸ βιβλίον ἐπὶ τῷ λῦσαι τὰς σφραγῖδας αὐτοῦ) Εἶδον ἐν μέσῳ τοῦ
 θρόνου καὶ τῶν τεσσάρων ζῴων καὶ τῶν πρεσβυτέρων ἀρνίον ἑστηκὸς <ὡς>
 ἐσφαγμένον. μετὰ τὴν ἀνάστασιν καὶ ἀνάληψιν ὀφθὲν τὸ ἀρνίον οὐκέτι ἐσφαγμένον

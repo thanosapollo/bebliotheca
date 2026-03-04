@@ -1,17 +1,19 @@
-#+TITLE: ̓Αξίωσις ἐπιδοθεῖσα τῷ ἁγίῳ Κυρίλλῳ πιστῷ ἀρχιερεῖ, γνησίῳ θεράποντι
+#+TITLE: Quaestio ad Cyrillum
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Quaestio ad Cyrillum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quaestio-ad-cyrillum--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ̓Αξίωσις ἐπιδοθεῖσα τῷ ἁγίῳ Κυρίλλῳ πιστῷ ἀρχιερεῖ, γνησίῳ θεράποντι
+* Quaestio ad Cyrillum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Αξίωσις ἐπιδοθεῖσα τῷ ἁγίῳ Κυρίλλῳ πιστῷ ἀρχιερεῖ, γνησίῳ θεράποντι
 Θεοῦ, ἁγίῳ Κυρίλλῳ ἀρχιεπισκόπῳ Ἀλεξανδρείας παρὰ τῆς
 ἀδελφότητος.
 Ἦν μὲν εὖ ἔχειν ἡμᾶς ἡσυχάζοντας, εἰ καί τι κατορθοῦντας ἴσως τῶν

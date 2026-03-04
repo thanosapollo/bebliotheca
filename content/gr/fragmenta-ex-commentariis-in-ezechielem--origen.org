@@ -1,17 +1,20 @@
-#+TITLE: ΑΠΟ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΟΝ ΙΕΖΕΚΙΗΑ ̓Εκ τοῦ κʹ τόμου τῶν εἰς τὸν Ἰεζεκιήλ.
+#+TITLE: Fragmenta ex commentariis in Ezechielem
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmenta ex commentariis in Ezechielem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-ex-commentariis-in-ezechielem--origen
 #+LANGUAGE: el
 
-* ΑΠΟ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΟΝ ΙΕΖΕΚΙΗΑ ̓Εκ τοῦ κʹ τόμου τῶν εἰς τὸν Ἰεζεκιήλ.
+* Fragmenta ex commentariis in Ezechielem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΑΠΟ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΟΝ ΙΕΖΕΚΙΗΑ
+̓Εκ τοῦ κʹ τόμου τῶν εἰς τὸν Ἰεζεκιήλ.
 =13.664= Τάδε λέγει Κύριος Κύριος· Ἰδοὺ ἐγὼ ἀνακρινῶ ἀναμέσον προβάτου καὶ
 προβάτου, κριῶν καὶ τράγων. Καὶ οὐχ ἱκανὸν ὑμῖν, ὅτι τὴν καλὴν νομὴν ἐνέμεσθε;
 Καὶ τὰ κατάλοιπα τῆς νομῆς κατεπατεῖτε τοῖς ποσὶν ὑμῶν· καὶ τὸ καθεστηκὸς ὕδωρ

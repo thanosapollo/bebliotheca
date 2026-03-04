@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸ, Ὅτε ἀνέβη ὁ Κύριος εἰς τὸ ἱερὸν, μεσούσης τῆς ἑορτῆς καὶ εἰς τὸν
+#+TITLE: In illud Ascendit dominus in templo
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Ascendit dominus in templo
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-ascendit-dominus-in-templo--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸ, Ὅτε ἀνέβη ὁ Κύριος εἰς τὸ ἱερὸν, μεσούσης τῆς ἑορτῆς καὶ εἰς τὸν
+* In illud Ascendit dominus in templo
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸ, Ὅτε ἀνέβη ὁ Κύριος εἰς τὸ ἱερὸν, μεσούσης τῆς ἑορτῆς καὶ εἰς τὸν
 Μελχισεδέκ. Τῇ μεσοπεντηκοστῇ.
 =61.739=
 Ῥοαὶ καὶ μῆλον καὶ φοίνιξ καὶ οἱ λοιποὶ τῶν ἀκροδρύων καρποὶ τὸν τοῦ

@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΑΣ ΟΡΑΣΕΙΣ ΤΟΥ ΠΡΟΦΗΤΟΥ ∆ΑΝΙΗΛ.
+#+TITLE: Interpretatio in Danielem
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Interpretatio in Danielem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/interpretatio-in-danielem--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΑΣ ΟΡΑΣΕΙΣ ΤΟΥ ΠΡΟΦΗΤΟΥ ∆ΑΝΙΗΛ.
+* Interpretatio in Danielem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ
+ΤΑΣ ΟΡΑΣΕΙΣ ΤΟΥ ΠΡΟΦΗΤΟΥ ∆ΑΝΙΗΛ.
 ΠΡΟΘΕΩΡΙΑ. Εἰ πᾶσι ῥᾴδιον ἦν τὰ τῶν θείων προφητῶν ἀνα πτύσσειν θεσπίσματα,
 καὶ τοῦ μὲν γράμματος ὑπερ βαίνειν τὴν ἐπιφάνειαν, εἰς δὲ τὸ βάθος καταδύνειν, καὶ
 τὸν ἐκεῖ κρυπτόμενον τοῦ νοήματος μαργαρίτην θηρεύειν, ἴσως ἂν εἰκότως

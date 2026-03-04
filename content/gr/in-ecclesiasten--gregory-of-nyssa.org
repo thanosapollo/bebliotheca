@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟΝ ΕΚΚΛΗΣΙΑΣΤΗΝ ΟΜΙΛΙΑ Αʹ
+#+TITLE: In Ecclesiasten
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Ecclesiasten
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ecclesiasten--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟΝ ΕΚΚΛΗΣΙΑΣΤΗΝ ΟΜΙΛΙΑ Αʹ
+* In Ecclesiasten
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟΝ ΕΚΚΛΗΣΙΑΣΤΗΝ
+ΟΜΙΛΙΑ Αʹ
 Πρόκειται ἡμῖν ὁ Ἐκκλησιαστὴς εἰς ἐξήγησιν ἴσον ἔχων τῷ μεγέθει τῆς ὠφελείας
 τὸν πόνον τῆς θεωρίας. τῶν γὰρ παροιμιακῶν νοημάτων ἤδη προγυμνασάντων τὸν
 νοῦν, ὧν οἱ σκοτεινοὶ λόγοι καὶ αἱ σοφαὶ ῥήσεις καὶ τὰ αἰνίγματα καὶ αἱ ποικίλαι

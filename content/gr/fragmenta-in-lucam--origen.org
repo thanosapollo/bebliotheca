@@ -1,17 +1,19 @@
-#+TITLE: 1a Ἐπειδὴ ὑπέρογκον ἦν τὸ ἐπιχείρημα ἄνθρωπον ὄντα θεοῦ διδασκαλίαν καὶ
+#+TITLE: Fragmenta in Lucam
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmenta in Lucam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-lucam--origen
 #+LANGUAGE: el
 
-* 1a Ἐπειδὴ ὑπέρογκον ἦν τὸ ἐπιχείρημα ἄνθρωπον ὄντα θεοῦ διδασκαλίαν καὶ
+* Fragmenta in Lucam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1a Ἐπειδὴ ὑπέρογκον ἦν τὸ ἐπιχείρημα ἄνθρωπον ὄντα θεοῦ διδασκαλίαν καὶ
 ῥήματα συγγράφειν, εἰκότως ἀπολογεῖται ἐν τῷ προοιμίῳ. οὐχ ἁπλῶς δὲ
 πεπιστευμένων εἶπεν, ἀλλὰ «πεπληροφορημένων», τὸ ἀπαράβατον τοῖς λεγομένοις
 μαρτυρῶν. «πραγμάτων» δέ φησιν, ἐπειδήπερ οὐ κατὰ φαντασίαν κατὰ τοὺς τῶν

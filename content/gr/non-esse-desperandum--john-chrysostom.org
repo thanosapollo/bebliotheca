@@ -1,17 +1,19 @@
-#+TITLE: Περὶ τοῦ μὴ ἀπογινώσκειν τινὰς ἑαυτῶν, μηδὲ κατεύχεσθαι τῶν ἐχθρῶν,
+#+TITLE: Non esse desperandum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Non esse desperandum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/non-esse-desperandum--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ τοῦ μὴ ἀπογινώσκειν τινὰς ἑαυτῶν, μηδὲ κατεύχεσθαι τῶν ἐχθρῶν,
+* Non esse desperandum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ τοῦ μὴ ἀπογινώσκειν τινὰς ἑαυτῶν, μηδὲ κατεύχεσθαι τῶν ἐχθρῶν,
 μηδὲ ἀπαγορεύειν ἐν τῷ μὴ λαμβάνειν αἰτοῦντας· καὶ πρὸς ἄνδρας περὶ
 τῆς πρὸς τὰς γυναῖκας εἰρήνης.
 =51.363=

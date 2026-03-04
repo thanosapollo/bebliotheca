@@ -1,17 +1,19 @@
-#+TITLE: {12 Kor 2,1-2} Τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν. εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς.
+#+TITLE: Fragmenta in epistulam ii ad Corinthios
 #+AUTHOR: Ἀρέθας Καισαρείας Καππαδοκίας
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ii ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ii-ad-corinthios--arethas-of-caesarea
 #+LANGUAGE: el
 
-* {12 Kor 2,1-2} Τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν. εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς.
+* Fragmenta in epistulam ii ad Corinthios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+{12 Kor 2,1-2} Τὸ μὴ πάλιν ἐν λύπῃ πρὸς ὑμᾶς ἐλθεῖν. εἰ γὰρ ἐγὼ λυπῶ ὑμᾶς.
 ἀντιπίπτον λύει διὰ τούτων· ἵνα γὰρ μήτις λέγῃ· εἰ βαρὺς εἶ καὶ φορτικὸς ἐπιδημῶν
 τῷ τῇ λύπῃ καταβαπτίζειν ἡμᾶς οὐδ' ὅλως παραγίνεσθαι δεῖ. φησὶν οὖν· καὶ μὴν διὰ
 τοῦτο παραγίνεσθαι δεῖ σημεῖον ποιούμενόν με τῆς πρὸς ἐμὲ ἀγάπης ὑμῶν τὸ τὴν

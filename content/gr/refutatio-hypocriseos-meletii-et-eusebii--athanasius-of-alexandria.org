@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Ἔλεγχος τῆς ὑποκρίσεως τῶν περὶ Μελέτιον, καὶ Εὐσέβιον τὸν Σαμοσατέα κατὰ τοῦ Ὁμοουσίου.
+#+TITLE: Refutatio hypocriseos Meletii et Eusebii
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Refutatio hypocriseos Meletii et Eusebii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/refutatio-hypocriseos-meletii-et-eusebii--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ Ἔλεγχος τῆς ὑποκρίσεως τῶν περὶ Μελέτιον, καὶ Εὐσέβιον τὸν Σαμοσατέα κατὰ τοῦ Ὁμοουσίου.
+* Refutatio hypocriseos Meletii et Eusebii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ
+Ἔλεγχος τῆς ὑποκρίσεως τῶν περὶ Μελέτιον, καὶ Εὐσέβιον τὸν
+Σαμοσατέα κατὰ τοῦ Ὁμοουσίου.
 Ἄνθρωπος καθ' ὁμοίωσιν Θεοῦ γέγονε, καὶ ἔστιν οὐ Θεὸς ὁ ἄνθρωπος· τὸ γὰρ ὅμοιόν
 τινι οὐκ ἔστιν αὐτὸ ἐκεῖνο, ᾧ ὁμοιοῦται. Ὡς καὶ τὸ, ὁμοία ἐστὶν ἡ βασιλεία τῶν
 οὐρανῶν σαγήνῃ καὶ σπέρματι, καὶ οὐδὲν τούτων ἐστὶν ἡ βασιλεία τῶν οὐρανῶν·

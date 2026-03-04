@@ -1,17 +1,20 @@
-#+TITLE: ΣΥΓΚΡΙΣΙΣ ΒΙΩΝ {[Βίοι.]} Κρίναις ἂν ἡμῖν, ὦ ξένε. {[Κριτής.]} κρίσις δὲ τίς; {[Β.]} βίοι μάχονται.
+#+TITLE: Comparatio vitarum
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Comparatio vitarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/comparatio-vitarum--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΣΥΓΚΡΙΣΙΣ ΒΙΩΝ {[Βίοι.]} Κρίναις ἂν ἡμῖν, ὦ ξένε. {[Κριτής.]} κρίσις δὲ τίς; {[Β.]} βίοι μάχονται.
+* Comparatio vitarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΥΓΚΡΙΣΙΣ ΒΙΩΝ
+{[Βίοι.]} Κρίναις ἂν ἡμῖν, ὦ ξένε. {[Κριτής.]} κρίσις δὲ τίς; {[Β.]} βίοι μάχονται.
 {[Κρ.]} καὶ τίνες, τίς δ' ἡ κρίσις; {[Β.]} ὁ κοσμικός τε καὶ ὅσος τοῦ πνεύματος, πότερός
 τ' ἀμείνων καὶ σοφοῖς βιώσιμος. {[Κρ.]} ὃ δύσκριτον μέν, ἀλλ' ὅμως ἀκουστέον.
 {[Κόσμος.]} Κόσμου πεφυκὼς οἶδα καὶ στέργω τάδε· τόδ' εὐσεβές· πατρῷον αἰδεῖσθαι

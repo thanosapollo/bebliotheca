@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐπιστολὴ πρὸς
+#+TITLE: Epistula ad monachos
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad monachos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-monachos--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐπιστολὴ πρὸς
+* Epistula ad monachos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐπιστολὴ πρὸς
 μοναχοὺς
 Φησὶν ὁ θεῖος ἀπόστολος· ἀδιαλείπτως προσεύχεσθε χωρὶς ὀργῆς καὶ
 διαλογισμῶν· πᾶς γὰρ λογισμὸς χωρίζων νοῦν ἀπὸ τοῦ Θεοῦ, εἰ καὶ δοκεῖ ἀγαθὸς

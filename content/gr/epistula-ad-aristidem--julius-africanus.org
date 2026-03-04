@@ -1,17 +1,19 @@
-#+TITLE: 53 ............ Οἱ μὲν οὖν ἤτοι τὴν εὐαγγελικὴν ἱστορίαν ἠγνοηκότες ἢ συνεῖναι μὴ
+#+TITLE: Epistula ad Aristidem
 #+AUTHOR: Ἰούλιος Ἀφρικανός
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Epistula ad Aristidem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-aristidem--julius-africanus
 #+LANGUAGE: el
 
-* 53 ............ Οἱ μὲν οὖν ἤτοι τὴν εὐαγγελικὴν ἱστορίαν ἠγνοηκότες ἢ συνεῖναι μὴ
+* Epistula ad Aristidem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+53 ............ Οἱ μὲν οὖν ἤτοι τὴν εὐαγγελικὴν ἱστορίαν ἠγνοηκότες ἢ συνεῖναι μὴ
 δυνηθέντες δοξολογούσῃ πλάνῃ τὴν ἀγνωσίαν ἐπύκνωσαν εἰπόντες, ὅτι δικαίως
 γέγονεν ἡ διάφορος αὕτη τῶν ὀνομάτων καταρίθμησίς τε καὶ ἐπιμιξία τῶν τε
 ἱερατικῶν ὡς οἴονται καὶ τῶν βασιλικῶν, ἵνα δειχθῇ δικαίως ὁ Χριστὸς ἱερεύς τε καὶ

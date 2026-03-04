@@ -1,17 +1,19 @@
-#+TITLE: Περὶ μετανοίας, καὶ εἰς Ἡρώδην καὶ Ἰωάννην τὸν Βαπτιστήν.
+#+TITLE: De paenitentia
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De paenitentia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-paenitentia-2--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ μετανοίας, καὶ εἰς Ἡρώδην καὶ Ἰωάννην τὸν Βαπτιστήν.
+* De paenitentia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ μετανοίας, καὶ εἰς Ἡρώδην καὶ Ἰωάννην τὸν Βαπτιστήν.
 αʹ. Φέρε δὴ, καὶ τῶν ὑμετέρων κρότων τὴν ὑμετέραν προτιμήσωμεν
 λυσιτέλειαν, καὶ μικρόν τι τὴν Ἐκκλησίαν περὶ πολιτείας ἠθικῆς ὑπομνήσαντες
 διαλεχθῶμεν ἐν ὑμῖν, ἐξ ὧν ἐλάχιστος μὲν ἀναπέμπεται τῷ λέγοντι κρότος, πλεῖστος δὲ

@@ -1,17 +1,19 @@
-#+TITLE: ΙΑʹ. Τοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου λόγος περὶ θεογνωσίας, καὶ
+#+TITLE: De cognitione dei et in sancta theophania
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De cognitione dei et in sancta theophania
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-cognitione-dei-et-in-sancta-theophania--john-chrysostom
 #+LANGUAGE: el
 
-* ΙΑʹ. Τοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου λόγος περὶ θεογνωσίας, καὶ
+* De cognitione dei et in sancta theophania
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΙΑʹ. Τοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου λόγος περὶ θεογνωσίας, καὶ
 εἰς τὰ ἅγια Θεοφάνια, καὶ εἰς τοὺς νεοφωτίστους.
 =64.43=
 Ὥσπερ οἱ τὰς ὄψεις τῶν σωμάτων βεβλαμμένας ἔχοντες χρῄζουσι τῶν

@@ -1,17 +1,19 @@
-#+TITLE: i1
+#+TITLE: Commentarii in epistulam ad Romanos
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Commentarii in epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-epistulam-ad-romanos--origen
 #+LANGUAGE: el
 
-* i1
+* Commentarii in epistulam ad Romanos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+i1
 ἀφωρισμένος εἰς εὐαγγέλιον θεοῦ. Τρίτον ἔστιν ἰδεῖν τὸ ἀφωρισμένος εἰς
 εὐαγγέλιον θεοῦ· καὶ ἐν τῇ πρὸς Γαλάτας ὁ ἀπόστολος περὶ ἑαυτοῦ τοιαῦτά φησιν·
 ὅτε δὲ εὐδόκη εν ὁ θεό , ὁ ἀφορί α με ἐκ κοιλία μητρό μου, ἀποκαλύψαι τὸν υἱὸν

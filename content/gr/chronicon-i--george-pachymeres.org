@@ -1,17 +1,21 @@
-#+TITLE: Συγγραφικαὶ ἱστορίαι(libri vi de Michaele Palaeologo) ΧΡΟΝΙΚΟΝ ΓΕΩΡΓΙΟΥ ΠΑΧΥΜΕΡΗ ΤΟΥ ΠΡΩΤΕΚ∆ΙΚΟΥ ΚΑΙ ∆ΙΚΑΙΟΦΥΛΑΚΟΣ ΚΕΦΑΛΑΙΑ ΤΟΥ ΠΡΩΤΟΥ ΛΟΓΟΥ
+#+TITLE: Chronicon i
 #+AUTHOR: Γεώργιος Παχυμέρης
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: Chronicon i
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronicon-i--george-pachymeres
 #+LANGUAGE: el
 
-* Συγγραφικαὶ ἱστορίαι(libri vi de Michaele Palaeologo) ΧΡΟΝΙΚΟΝ ΓΕΩΡΓΙΟΥ ΠΑΧΥΜΕΡΗ ΤΟΥ ΠΡΩΤΕΚ∆ΙΚΟΥ ΚΑΙ ∆ΙΚΑΙΟΦΥΛΑΚΟΣ ΚΕΦΑΛΑΙΑ ΤΟΥ ΠΡΩΤΟΥ ΛΟΓΟΥ
+* Chronicon i
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΧΡΟΝΙΚΟΝ ΓΕΩΡΓΙΟΥ ΠΑΧΥΜΕΡΗ ΤΟΥ ΠΡΩΤΕΚ∆ΙΚΟΥ ΚΑΙ
+∆ΙΚΑΙΟΦΥΛΑΚΟΣ
+ΚΕΦΑΛΑΙΑ ΤΟΥ ΠΡΩΤΟΥ ΛΟΓΟΥ
 αʹ. Προοίμιον τοῦ συγγραφέως καὶ περὶ τῆς ἀληθείας τῶν λεγομένων. βʹ.
 Παραίτησις τοῦ μὴ τὰ πρότερα ἢ κατὰ τὸν συγγραφέα λέγειν. γʹ. Ὅπως οἱ παλαιοὶ
 κατωχύρουν τὰς ἄκρας. δʹ. Ὅπως τῶν ἐν ταῖς ἄκραις ἐπεμελοῦντο ἀνδρῶν καὶ

@@ -1,17 +1,21 @@
-#+TITLE: Εἰς τὴν ἀνάστασιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ· καὶ εἰς τὰς μυροφόρους. 62.753
+#+TITLE: In resurrectionem domini
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In resurrectionem domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-resurrectionem-domini--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν ἀνάστασιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ· καὶ εἰς τὰς μυροφόρους. 62.753
+* In resurrectionem domini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν ἀνάστασιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ· καὶ εἰς τὰς
+μυροφόρους.
+=62.753=
 Σφόδρα μοι καὶ νῦν, ὡς ἀεὶ, κρατεῖ τῆς διανοίας τῆς δεσποτικῆς ἀναστάσεως
 τὰ θαύματα, καὶ τὰ φοβερὰ τῶν μυστηρίων θεάματα καταπλήττει μου τῆς ψυχῆς τὴν
 ἐνθύμησιν· ὅτι δόξαν ἐγέννησεν ἀτιμία, καὶ πάθος ἐπή γασεν ἀνθρώποις ἀπάθειαν·

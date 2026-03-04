@@ -1,17 +1,19 @@
-#+TITLE: 28.1565 Ἀγαπητῷ πάπᾳ, καὶ τῷ ὑπ' αὐτὸν κλήρῳ τοῖς τὴν Περσῶν
+#+TITLE: Epistula ad episcopum Persarum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad episcopum Persarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-episcopum-persarum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* 28.1565 Ἀγαπητῷ πάπᾳ, καὶ τῷ ὑπ' αὐτὸν κλήρῳ τοῖς τὴν Περσῶν
+* Epistula ad episcopum Persarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=28.1565= Ἀγαπητῷ πάπᾳ, καὶ τῷ ὑπ' αὐτὸν κλήρῳ τοῖς τὴν Περσῶν
 οἰκοῦσι χώραν, Ἀθανάσιος ἐν Κυρίῳ χαίρειν.
 Ἡ ἁγία θεόπνευστος Γραφὴ τὰς τῶν ἀρχαιοτέρων ἡμῖν διηγεῖται πράξεις,
 ποδηγοῦσα ἡμᾶς ἐξ αὐτῶν ἐπὶ τὰ χρήσιμα τῶν πρακτέων, βδελυττομένους πᾶν εἶδος

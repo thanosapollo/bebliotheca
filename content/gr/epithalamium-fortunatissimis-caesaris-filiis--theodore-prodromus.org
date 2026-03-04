@@ -1,17 +1,19 @@
-#+TITLE: Επιθάλαμος τοῖς τοῦ εὐτυχεστάτου καίσαρος υἱοῖς
+#+TITLE: Epithalamium fortunatissimis caesaris filiis
 #+AUTHOR: Θεόδωρος Πρόδρομος
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Epithalamium fortunatissimis caesaris filiis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epithalamium-fortunatissimis-caesaris-filiis--theodore-prodromus
 #+LANGUAGE: el
 
-* Επιθάλαμος τοῖς τοῦ εὐτυχεστάτου καίσαρος υἱοῖς
+* Epithalamium fortunatissimis caesaris filiis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Επιθάλαμος τοῖς τοῦ εὐτυχεστάτου καίσαρος υἱοῖς
 Ἐδέησε καὶ τριχῶν αἰγείων τῇ πάλαι σκηνοπηγίᾳ, καῖσαρ σοφέ. Ἄλλοι μὲν
 γὰρ ἄλλοις τῶν ὀνομάτων τοὺς ἑαυτῶν γνωριζέτωσαν καίσαρας, καὶ οὓς μὲν τοῖς
 Ἰουλίοις, οὓς δὲ τοῖς Αὐγούστοις, καὶ ἄλλους ἄλλοις ἀποσαφείτωσαν· ἐγὼ δὲ τὸν

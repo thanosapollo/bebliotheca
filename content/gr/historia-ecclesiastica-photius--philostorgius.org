@@ -1,6 +1,7 @@
-#+TITLE: ΕΚ ΤΩΝ ΕΚΚΛΗΣΙΑΣΤΙΚΩΝ ΙΣΤΟΡΙΩΝ ΦΙΛΟΣΤΟΡΓΙΟΥ ΕΠΙΤΟΜΗ ΑΠΟ ΦΩΝΗΣ ΦΩΤΙΟΥ ΠΑΤΡΙΑΡΧΟΥ
+#+TITLE: Historia ecclesiastica Photius
 #+AUTHOR: Φιλοστόργιος
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Historia ecclesiastica Photius
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

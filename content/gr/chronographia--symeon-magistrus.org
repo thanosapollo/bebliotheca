@@ -1,17 +1,19 @@
-#+TITLE: ΣΥΜΕΩΝ ΜΑΓΙΣΤΡΟΥ ΚΑΙ ΛΟΓΟΘΕΤΟΥ ΧΡΟΝΟΓΡΑΦΙΑ.
+#+TITLE: Chronographia
 #+AUTHOR: Συμεὼν Μάγιστρος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Chronographia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronographia--symeon-magistrus
 #+LANGUAGE: el
 
-* ΣΥΜΕΩΝ ΜΑΓΙΣΤΡΟΥ ΚΑΙ ΛΟΓΟΘΕΤΟΥ ΧΡΟΝΟΓΡΑΦΙΑ.
+* Chronographia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΥΜΕΩΝ ΜΑΓΙΣΤΡΟΥ ΚΑΙ ΛΟΓΟΘΕΤΟΥ ΧΡΟΝΟΓΡΑΦΙΑ.
 Κόσμου ἔτος τζʹ, τῆς θείας σαρκώσεως ἔτος ωζʹ, Ῥωμαίων βασιλεὺς Λέων Ἀρμένιος
 ὁ καὶ Χαμαιλέων, ὁ παραβάτης καὶ εἰκονομάχος, ἔτη ζʹ μῆνας εʹ. ἦν δὲ τὴν ἡλικίαν
 κοντός (διὸ καὶ Χαμαιλέων προσηγόρευται), ἐπίμεστος, εὐπρεπής, γένειον ἔχων

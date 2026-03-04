@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως
+#+TITLE: In resurrectionem domini
 #+AUTHOR: Λέων Πρεσβύτερος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: In resurrectionem domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-resurrectionem-domini--leo-presbyter
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως
+* In resurrectionem domini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως
 εἰς τὴν ἀνάστασιν τοῦ κυρίου
 Εὔκαιρον καὶ παναρμόνιον καὶ πρέπον τῷ παρόντι καιρῷ πεισθέντας ἡμᾶς τῷ
 ἱεροψάλτῃ ∆αυῒδ λέγειν ἅπερ ἀρτίως ὑπεψάλλομεν· Αὕτη ἡ ἡμέρα ἣν ἐποίησεν ὁ κύριος·

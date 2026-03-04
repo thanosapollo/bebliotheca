@@ -1,6 +1,7 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Γρηγορίου τοῦ θεολόγου ὑπόθεσις
+#+TITLE: Christus patiens
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Christus patiens
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

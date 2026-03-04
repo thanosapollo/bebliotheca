@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ΕΠΙΣΤΟΛΗΝ. 62.177 ΥΠΟΘΕΣΙΣ.
+#+TITLE: In epistulam ad Philippenses
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In epistulam ad Philippenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-epistulam-ad-philippenses--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ΕΠΙΣΤΟΛΗΝ. 62.177 ΥΠΟΘΕΣΙΣ.
+* In epistulam ad Philippenses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ
+ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ
+ΦΙΛΙΠΠΗΣΙΟΥΣ ΕΠΙΣΤΟΛΗΝ.
+=62.177= ΥΠΟΘΕΣΙΣ.
 αʹ. Οἱ Φιλιππήσιοι ἀπὸ πόλεώς εἰσι τῆς Μακεδονίας Φιλίππων, οὕτω
 καλουμένης ἀπὸ τοῦ οἰκιστοῦ πόλεως κολωνίας, καθὼς ὁ Λουκᾶς φησιν· Ἐνταῦθα ἡ
 πορφυρόπωλις ἐπέστρεψεν, εὐλαβὴς γυνὴ σφόδρα, καὶ προσεκτική· ἐνταῦθα ὁ

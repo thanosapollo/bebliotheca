@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐγκώμιον εἰς
+#+TITLE: Encomium in sanctos martyres
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Encomium in sanctos martyres
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/encomium-in-sanctos-martyres--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐγκώμιον εἰς
+* Encomium in sanctos martyres
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου ἐγκώμιον εἰς
 τοὺς ἁγίους μάρτυρας.
 Φρικτὸς ὁ τῶν μαρτύρων ἀγὼν ἀλλ' ἀθάνατος ἡ μνήμη τῶν εὐσεβῶν,
 φοβερὸς ὁ θάνατος τῶν ἁγίων ἀλλ' «ἀμάραντος ὁ στέφανος» τῶν ἀνδρείων,

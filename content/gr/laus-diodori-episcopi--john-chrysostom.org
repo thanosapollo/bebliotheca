@@ -1,17 +1,21 @@
-#+TITLE: ΕΓΚΩΜΙΟΝ ΕΙΣ ∆ΙΟ∆ΩΡΟΝ ΕΠΙΣΚΟΠΟΝ τὸν προλαβόντα καὶ ἐγκωμιάσαντα. 52.761
+#+TITLE: Laus Diodori episcopi
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Laus Diodori episcopi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/laus-diodori-episcopi--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΓΚΩΜΙΟΝ ΕΙΣ ∆ΙΟ∆ΩΡΟΝ ΕΠΙΣΚΟΠΟΝ τὸν προλαβόντα καὶ ἐγκωμιάσαντα. 52.761
+* Laus Diodori episcopi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΓΚΩΜΙΟΝ ΕΙΣ ∆ΙΟ∆ΩΡΟΝ ΕΠΙΣΚΟΠΟΝ τὸν προλαβόντα καὶ
+ἐγκωμιάσαντα.
+=52.761=
 αʹ. Ὁ σοφὸς οὗτος καὶ γενναῖος διδάσκαλος, πρώην τὴν ἀῤῥωστίαν τοῦ
 σώματος ἀποθέμενος, καὶ ἐπὶ τὸν θρόνον τοῦτον ἀναβὰς, ἐμοὶ τοῦ λόγου τῶν προοι
 μίων ἀπήρξατο, τὸν Βαπτιστὴν Ἰωάννην, καὶ φω νὴν τῆς Ἐκκλησίας, καὶ ῥάβδον

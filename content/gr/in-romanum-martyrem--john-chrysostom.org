@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΜΑΡΤΥΡΑ ΡΩΜΑΝΟΝ. Λόγος βʹ. 50.611
+#+TITLE: In Romanum martyrem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Romanum martyrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-romanum-martyrem--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΜΑΡΤΥΡΑ ΡΩΜΑΝΟΝ. Λόγος βʹ. 50.611
+* In Romanum martyrem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΜΑΡΤΥΡΑ ΡΩΜΑΝΟΝ. Λόγος βʹ.
+=50.611=
 αʹ. Παλαῖστραι μὲν σώμασιν ἀνδρείαν χαρίζονται, καὶ τέχνης ἀθλητικῆς
 ἐπιστήμας· μαρτύρων δὲ μνῆμαι ταῖς τῶν δαιμόνων τὰς ψυχὰς ἀνθοπλίζουσι
 τέχναις, καὶ πρὸς τὰς κατ' ἐκείνων παιδοτριβοῦσι λαβάς. Τὸν γὰρ ἀθλητικὸν

@@ -1,17 +1,19 @@
-#+TITLE: ΡΝΑʹ. – Θεοδωρήτου πρὸς τοὺς ἐν τῇ Εὐ φρατησίᾳ, καὶ Ὀσροηνῇ, καὶ Συρίᾳ,
+#+TITLE: Ad eos qui in Euphratesia et Osrhoena regione
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Ad eos qui in Euphratesia et Osrhoena regione
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-eos-qui-in-euphratesia-et-osrhoena-regione--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΡΝΑʹ. – Θεοδωρήτου πρὸς τοὺς ἐν τῇ Εὐ φρατησίᾳ, καὶ Ὀσροηνῇ, καὶ Συρίᾳ,
+* Ad eos qui in Euphratesia et Osrhoena regione
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΡΝΑʹ. – Θεοδωρήτου πρὸς τοὺς ἐν τῇ Εὐ φρατησίᾳ, καὶ Ὀσροηνῇ, καὶ Συρίᾳ,
 καὶ Φοι νίκῃ καὶ Κιλικίᾳ μονάζοντας.
 Ὁρῶν τὴν ἐν τῷ παρόντι καιρῷ τῆς Ἐκκλησίας κατάστασιν καὶ τὴν ἔναγχος
 ἐπαναστᾶσαν τῇ ἱερᾷ νηῒ ζάλην, καὶ τὰς σφοδρὰς καταιγίδας καὶ τῶν κυμά των τὴν

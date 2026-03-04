@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΠΟΥΛΧΕΡΙΑΝ ΠΑΡΑΜΥΘΗΤΙΚΟΣ ΛΟΓΟΣ
+#+TITLE: Oratio consolatoria in Pulcheriam
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Oratio consolatoria in Pulcheriam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-consolatoria-in-pulcheriam--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΠΟΥΛΧΕΡΙΑΝ ΠΑΡΑΜΥΘΗΤΙΚΟΣ ΛΟΓΟΣ
+* Oratio consolatoria in Pulcheriam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΠΟΥΛΧΕΡΙΑΝ ΠΑΡΑΜΥΘΗΤΙΚΟΣ
+ΛΟΓΟΣ
 Οὐκ οἶδα ὅπως τῷ λόγῳ χρήσομαι· διπλῆν τε γὰρ ὁρῶ τὴν ὑπόθεσιν καὶ
 σκυθρωπὴν καθ' ἑκάτερον, ὡς μὴ ῥᾴδιον ἔξω δακρύων τὸν λόγον ἐλθεῖν, ὁτιοῦν ἐξ
 ἀμφοτέρων ἑλόμενον. ἡ παροῦσα τοῦ ἔτους περίοδος, καθὼς ἡμῖν χθὲς τοῦτο παρὰ

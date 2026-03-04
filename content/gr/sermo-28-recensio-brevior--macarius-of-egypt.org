@@ -1,17 +1,19 @@
-#+TITLE: 161 Ἤρεσε κἀμοὶ μετὰ τοῦ προφήτου λέγειν Ἡσαΐου· ὅτι ὑπέμεινα ὥσπερ «ἡ
+#+TITLE: Sermo 28 recensio brevior
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo 28 recensio brevior
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-28-recensio-brevior--macarius-of-egypt
 #+LANGUAGE: el
 
-* 161 Ἤρεσε κἀμοὶ μετὰ τοῦ προφήτου λέγειν Ἡσαΐου· ὅτι ὑπέμεινα ὥσπερ «ἡ
+* Sermo 28 recensio brevior
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+161 Ἤρεσε κἀμοὶ μετὰ τοῦ προφήτου λέγειν Ἡσαΐου· ὅτι ὑπέμεινα ὥσπερ «ἡ
 τίκτουσα» ἕως οὗ «ξηρανῶ» αὐτοὺς καὶ ἀπολέσω. εἰ οὖν οἶδας σεαυτὸν ὅτι βρύει ἐν
 σοὶ ἡ πηγὴ τοῦ ἁγίου πνεύματος, τοῦτό ἐστι τὸ σημεῖον ὅτι ἐξηράνθησαν καὶ
 ἀπώλοντο, καθὼς εἶπεν ὁ σωτὴρ ἡμῶν, ὅτι οὐκ ἔστιν «ἡ βασιλεία» τῶν οὐρανῶν

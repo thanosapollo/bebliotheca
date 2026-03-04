@@ -1,17 +1,19 @@
-#+TITLE: 46.1109 Τί τὸ πιστεύειν ἀφέντες, τεχνολογοῦμεν τὴν πίστιν, καὶ πληροῦμεν
+#+TITLE: Sermo in illud Hic est filius meus dilectus
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo in illud Hic est filius meus dilectus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-in-illud-hic-est-filius-meus-dilectus--gregory-of-nyssa
 #+LANGUAGE: el
 
-* 46.1109 Τί τὸ πιστεύειν ἀφέντες, τεχνολογοῦμεν τὴν πίστιν, καὶ πληροῦμεν
+* Sermo in illud Hic est filius meus dilectus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=46.1109= Τί τὸ πιστεύειν ἀφέντες, τεχνολογοῦμεν τὴν πίστιν, καὶ πληροῦμεν
 τὴν ἐπιθυμίαν τοῦ κοινοῦ δυσμενοῦς; Λογισάμενος γὰρ ὁ διάβολος, ὁ κοινὸς τῆς
 ἀνθρωπότητος λυμεὼν, ὅτι γαλήνης ἐν ἡμῖν πολιτευομένης, τὰ τῆς εὐσεβείας ἀνθεῖ,
 τῆς πίστεως δὲ κρατούσης, εὐζωΐα κρατεῖ, φίλοι τε τοῦ ∆ημιουργοῦ γινόμεθα, ἵνα μὴ

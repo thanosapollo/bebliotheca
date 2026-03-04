@@ -1,6 +1,7 @@
-#+TITLE: Σελέντιον ἐκφωνηθὲν ἐπὶ τῶν ἡμερῶν τῆς βασιλίσσης κυρᾶς Θεοδώρας
+#+TITLE: Oratoria minora
 #+AUTHOR: Μιχαὴλ Ψελλός
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Oratoria minora
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

@@ -1,17 +1,19 @@
-#+TITLE: ΠΕΡΙ ΠΙΣΤΕΩΣ
+#+TITLE: Sermo 14
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo 14
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-14--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΠΕΡΙ ΠΙΣΤΕΩΣ
+* Sermo 14
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΕΡΙ ΠΙΣΤΕΩΣ
 Θεοῦ τοῦ ἀγαθοῦ χάριτι, τῷ προσερχομένῳ, ὑγιαίνουσι λόγοις τοῖς τοῦ
 κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ τῇ κατ' εὐσέβειαν διδασκαλίᾳ, λάμπει ὡς φῶς ἡ τῶν
 χριστιανῶν πίστις, ἣν διὰ βραχέων ὑμῖν παραθήσομαι· ἵνα ὑμεῖς ἡ τοῦ θεοῦ

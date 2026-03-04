@@ -1,17 +1,19 @@
-#+TITLE: Γρηγορίου ἐπισκόπου Νύσης ἐγκώμιον εἰς εὐαγγελισμὸν τῆς ὑπεραγίας
+#+TITLE: In annuntiationem
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In annuntiationem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-annuntiationem--gregory-of-nyssa
 #+LANGUAGE: el
 
-* Γρηγορίου ἐπισκόπου Νύσης ἐγκώμιον εἰς εὐαγγελισμὸν τῆς ὑπεραγίας
+* In annuntiationem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Γρηγορίου ἐπισκόπου Νύσης ἐγκώμιον εἰς εὐαγγελισμὸν τῆς ὑπεραγίας
 θεοτόκου.
 Ἀεὶ ὅταν μνησθῶ τῆς Εὔας τὴν παρακοὴν δακρύω· καὶ ὅταν ἴδω πάλιν καὶ
 κατανοήσω τὸν καρπὸν τῆς θεοτόκου Μαρίας ἀνακαινίζομαι. ∆εῦτε, λαοί, τὸν ἐκ

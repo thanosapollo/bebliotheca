@@ -1,6 +1,7 @@
-#+TITLE: Πίναξ
+#+TITLE: Cesti
 #+AUTHOR: Ἰούλιος Ἀφρικανός
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Cesti
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

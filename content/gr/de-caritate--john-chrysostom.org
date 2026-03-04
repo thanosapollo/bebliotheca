@@ -1,17 +1,20 @@
-#+TITLE: Περὶ ἀγάπης. 60.773
+#+TITLE: De caritate
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De caritate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-caritate--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ ἀγάπης. 60.773
+* De caritate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ ἀγάπης.
+=60.773=
 Λόγος μὲν οὐδεὶς περὶ ἀγάπης κατ' ἀξίαν εἰπεῖν ἱκανὸς, διὰ τὸ μὴ εἶναι αὐτὴν
 ἐπίγειον, ἀλλ' ἐπουράνιον. Οἶμαι δὲ καὶ τὴν τῶν ἀγγέλων γλῶτταν ἀπορεῖν πρὸς τὴν
 ταύτης ἀκριβεστάτην ζήτησιν, ἐπειδήπερ ἐξ αὐτῆς τῆς τοῦ Θεοῦ μεγαλονοίας

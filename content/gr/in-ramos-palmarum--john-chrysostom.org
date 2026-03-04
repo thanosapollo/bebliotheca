@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὰ Βάϊα. 59.703
+#+TITLE: In ramos palmarum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In ramos palmarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ramos-palmarum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὰ Βάϊα. 59.703
+* In ramos palmarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὰ Βάϊα.
+=59.703=
 αʹ. Ἐκ θαυμάτων ἐπὶ θαύματα τοῦ Κυρίου βαδίσωμεν, ἀδελφοὶ, καὶ
 φθάσωμεν, ὡς ἐκ δυνάμεως εἰς δύναμιν. Καθάπερ γὰρ ἐν ἁλύσει χρυσῇ κρικίοις
 ἀλληλενδέτοις συμβεβλημένῃ ἓν τοῦ ἑνὸς κατέχεται, καὶ τῶν συμβε βλημένων

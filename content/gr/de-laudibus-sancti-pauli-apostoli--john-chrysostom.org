@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως
+#+TITLE: De laudibus sancti Pauli apostoli
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De laudibus sancti Pauli apostoli
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-laudibus-sancti-pauli-apostoli--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως
+* De laudibus sancti Pauli apostoli
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως
 τοῦ Χρυσοστόμου ἐγκώμιον εἰς τὸν ἅγιον ἀπόστολον Παῦλον
 λόγος αʹ
 1.1 Οὐκ ἄν τις ἁμάρτοι λειμῶνα ἀρετῶν καὶ παράδεισον πνευματικὸν καλέσας

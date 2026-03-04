@@ -1,17 +1,19 @@
-#+TITLE: 453 Kol 1,13 Τοῦ υἱοῦ τῆς ἀγάπης, περιφραστικῶς τοῦ ἀγαπητοῦ υἱοῦ kol 1,15 Τινὲς
+#+TITLE: Fragmenta in epistulam ad Colossenses
 #+AUTHOR: Οἰκουμένιος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Colossenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-colossenses--oecumenius
 #+LANGUAGE: el
 
-* 453 Kol 1,13 Τοῦ υἱοῦ τῆς ἀγάπης, περιφραστικῶς τοῦ ἀγαπητοῦ υἱοῦ kol 1,15 Τινὲς
+* Fragmenta in epistulam ad Colossenses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+453 Kol 1,13 Τοῦ υἱοῦ τῆς ἀγάπης, περιφραστικῶς τοῦ ἀγαπητοῦ υἱοῦ kol 1,15 Τινὲς
 ἐκ τῶν εἰκόνων τῶν ἐν ἡμῖν πλανηθέντες, αἵ εἰσιν ἀπὸ σανίδων καὶ κηροῦ, οὕτως
 ἐνόμισαν καὶ περὶ τοῦ υἱοῦ τοῦ θεοῦ. ὥσπερ 454 γάρ, φασίν, αὗται εἶδος μὲν καὶ
 ὁμοίωμα σώζουσιν ἀνθρώπου, οὐ μὴν φύσιν ἢ οὐσίαν, οὕτω καὶ ὁ υἱὸς τοῦ πατρός.

@@ -1,17 +1,20 @@
-#+TITLE: Ps 7,8. 9a Παραγενομένου τοῦ κριτοῦ, φησίν, κυκλοῦσιν αὐτὸν ἔθνη πολλὰ
+#+TITLE: Fragmenta in Psalmos
 #+AUTHOR: Ἀπολινάριος Λαοδικείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in Psalmos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-psalmos--apollinaris-of-laodicea
 #+LANGUAGE: el
 
-* Ps 7,8. 9a Παραγενομένου τοῦ κριτοῦ, φησίν, κυκλοῦσιν αὐτὸν ἔθνη πολλὰ
+* Fragmenta in Psalmos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ps 7,8. 9a
+Παραγενομένου τοῦ κριτοῦ, φησίν, κυκλοῦσιν αὐτὸν ἔθνη πολλὰ
 συγκροτούμενα· τὴν ἐκκλησίαν δηλῶν καὶ διαγγέλλων φησὶν ὁ κύριος
 συναχθήσεσθαι πρὸς αὐτόν, τούτου δὲ γενομένου ἄνω καὶ πρὸς τὸ ὕψος ἐπιστρέψειν
 τὸν κριτὴν παραδόντα τὴν βασιλείαν. 2 Ps 8,1 Ληνὸν δὲ καθάπερ καὶ θερισμὸν ἐν τῶ

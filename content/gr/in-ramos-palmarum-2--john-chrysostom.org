@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὰ βαΐα. 61.715
+#+TITLE: In ramos palmarum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In ramos palmarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ramos-palmarum-2--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὰ βαΐα. 61.715
+* In ramos palmarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὰ βαΐα.
+=61.715=
 Ἤδη τῆς πνευματικῆς πανηγύρεως προλάμπει τὰ χα ρίσματα· ἤδη τῆς
 πανευφήμου ἑορτῆς προτρέχει τὰ σή μαντρα· ἤδη τοῦ ἀΰλου νυμφίου προτρέχουσι
 τὰ μηνύ ματα· ἤδη τῆς καθολικῆς ἀναστάσεως ἀῤῥαβῶνα δεξά μενος Λάζαρος τῷ

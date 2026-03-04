@@ -1,17 +1,21 @@
-#+TITLE: SUPPLEMENTUM AD LITURGIAM S. CHRYSOSTOMI. Εὐχὴ τοῦ Χρυσοστόμου πρὸς τοὺς πάσχοντας ὑπὸ δαιμόνων, καὶ ἑκάστην ἀσθένειαν. 64.1061
+#+TITLE: Precatio in obsessos
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Precatio in obsessos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/precatio-in-obsessos--john-chrysostom
 #+LANGUAGE: el
 
-* SUPPLEMENTUM AD LITURGIAM S. CHRYSOSTOMI. Εὐχὴ τοῦ Χρυσοστόμου πρὸς τοὺς πάσχοντας ὑπὸ δαιμόνων, καὶ ἑκάστην ἀσθένειαν. 64.1061
+* Precatio in obsessos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εὐχὴ τοῦ Χρυσοστόμου πρὸς τοὺς πάσχοντας ὑπὸ δαιμόνων, καὶ
+ἑκάστην ἀσθένειαν.
+=64.1061=
 Τοῦ Κυρίου δεηθῶμεν. Ὁ Θεὸς ὁ αἰώνιος, ὁ λυτρωσάμενος τὸ γένος τῶν
 ἀνθρώπων ἐκ τῆς αἰχμαλωσίας τοῦ διαβόλου, ῥῦσαι τὸν δοῦλόν σου τόνδε ἀπὸ
 πάσης ἐνεργείας πνευμάτων ἀκαθάρτων, ἐπίταξον τοῖς πονηροῖς καὶ ἀκαθάρτοις

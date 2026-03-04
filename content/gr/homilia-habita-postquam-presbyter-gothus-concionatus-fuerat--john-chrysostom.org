@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ Ηʹ. 63.499
+#+TITLE: Homilia habita postquam presbyter Gothus concionatus fuerat
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia habita postquam presbyter Gothus concionatus fuerat
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-habita-postquam-presbyter-gothus-concionatus-fuerat--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Ηʹ. 63.499
+* Homilia habita postquam presbyter Gothus concionatus fuerat
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Ηʹ.
+=63.499=
 Τοῦ αὐτοῦ ὁμιλία λεχθεῖσα ἐν τῇ ἐκκλησίᾳ τῇ ἐπὶ Παύλου, Γότθων
 ἀναγνόντων, καὶ πρεσβυτέρου Γότθου προομιλήσαντος.
 αʹ. Ἐβουλόμην παρεῖναι Ἕλληνας τήμερον, ὥστε τῶν ἀνεγνωσμένων

@@ -1,6 +1,7 @@
-#+TITLE: ΜΗΝΙ ΦΕΥΡΟΥΑΡΙΩ ˉˉΚˉϛ ΒΙΟΣ ΤΟΥ ΑΓΙΟΥ ΠΟΡΦΥΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΓΑΖΗΣ
+#+TITLE: Vita Porphyrii episcopi Gazensis
 #+AUTHOR: Μάρκος Διάκονος
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Vita Porphyrii episcopi Gazensis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

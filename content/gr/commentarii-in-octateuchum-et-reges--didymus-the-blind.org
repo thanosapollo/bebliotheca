@@ -1,17 +1,20 @@
-#+TITLE: 39.1112 Σειρὰ ἑνὸς καὶ πεντήκοντα ὑπομνηματισμῶν εἰς τὴν Ὀκτάτευχον καὶ τὰ τῶν Βασιλειῶν, ἤδη πρῶτον τύποις ἐκδοθεῖσα
+#+TITLE: Commentarii in Octateuchum et Reges
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Commentarii in Octateuchum et Reges
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-octateuchum-et-reges--didymus-the-blind
 #+LANGUAGE: el
 
-* 39.1112 Σειρὰ ἑνὸς καὶ πεντήκοντα ὑπομνηματισμῶν εἰς τὴν Ὀκτάτευχον καὶ τὰ τῶν Βασιλειῶν, ἤδη πρῶτον τύποις ἐκδοθεῖσα
+* Commentarii in Octateuchum et Reges
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=39.1112= Σειρὰ ἑνὸς καὶ πεντήκοντα ὑπομνηματισμῶν εἰς τὴν
+Ὀκτάτευχον καὶ τὰ τῶν Βασιλειῶν, ἤδη πρῶτον τύποις ἐκδοθεῖσα
 ἀξιώσει μὲν τοῦ εὐσεβεστάτου καὶ γαληνοτάτου ἡγεμόνος πάσης
 Οὐγκροβλαχίας Κυρίου Κυρίου Γρηγορίου Ἀλεξάνδρου Γκίκα· ἐπιμελείᾳ
 δὲ Νικηφόρου ἱερομονάχου τοῦ Θεοτόκη. Ἐν Λειψίᾳ τῆς Σαξονίας, ἐν τῇ

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἁγίου Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας ἀπολογία πρὸς τὸν
+#+TITLE: Apologia ad Constantium imperatorem
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Apologia ad Constantium imperatorem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/apologia-ad-constantium-imperatorem--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας ἀπολογία πρὸς τὸν
+* Apologia ad Constantium imperatorem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας ἀπολογία πρὸς τὸν
 βασιλέα Κωνστάντιον.
 1 Ἐκ πολλῶν ἐτῶν ὄντα σε Χριστιανόν, καὶ ἐκ προγόνων φιλόθεον ἐπιστάμενος,
 εὐθύμως τὰ περὶ ἐμαυτοῦ νῦν ἀπολογοῦμαι· τοῖς γὰρ τοῦ μακαρίου Παύλου λόγοις

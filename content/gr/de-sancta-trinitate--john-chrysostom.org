@@ -1,17 +1,20 @@
-#+TITLE: ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΟΜΟΟΥΣΙΟΥ ΤΡΙΑ∆ΟΣ. 48.1087
+#+TITLE: De sancta trinitate
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sancta trinitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancta-trinitate--john-chrysostom
 #+LANGUAGE: el
 
-* ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΟΜΟΟΥΣΙΟΥ ΤΡΙΑ∆ΟΣ. 48.1087
+* De sancta trinitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΕΡΙ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΟΜΟΟΥΣΙΟΥ ΤΡΙΑ∆ΟΣ.
+=48.1087=
 αʹ. Οἱ κατὰ τῆς ἁγίας καὶ ὁμοουσίου Τριάδος τὰς γλώσσας ἀκονῶντες, καὶ
 λυττῶντες, καὶ τὸ τοῦ μονογενοῦς Υἱοῦ καὶ τὸ τοῦ ἁγίου Πνεύματος ἀξίωμα
 καθαιρεῖν ἐπιχειροῦντες, ἐλέγχονται μὲν ὑπ' αὐτοῦ τοῦ ἁγίου Πνεύματος τοῦ

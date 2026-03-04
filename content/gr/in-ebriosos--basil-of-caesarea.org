@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ Ι∆ʹ. Κατὰ μεθυόντων.
+#+TITLE: In ebriosos
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In ebriosos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ebriosos--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Ι∆ʹ. Κατὰ μεθυόντων.
+* In ebriosos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Ι∆ʹ.
+Κατὰ μεθυόντων.
 Κινεῖ μέν με πρὸς τὸν λόγον τὰ ἑσπερινὰ θεά ματα· κατέχει δέ μου πάλιν τὴν
 ὁρμὴν, καὶ ἀπαμ βλύνει τὴν προθυμίαν τῶν προλαβόντων πόνων τὸ ἄκαρπον. Ἐπεὶ
 καὶ γεωργὸς, τῶν πρώτων αὐτῷ σπερμάτων μὴ ἐκφυέντων, ὀκνηρότερός ἐστι πρὸς

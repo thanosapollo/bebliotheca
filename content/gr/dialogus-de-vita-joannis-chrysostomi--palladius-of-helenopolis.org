@@ -1,6 +1,7 @@
-#+TITLE: ∆ΙΑΛΟΓΟΣ ΙΣΤΟΡΙΚΟΣ ΠΑΛΛΑ∆ΙΟΥ, ΕΠΙΣΚΟΠΟΥ ΕΛΕΝΟΥΠΟΛΕΩΣ, ΓΕΝΟΜΕΝΟΣ ΠΡΟΣ ΘΕΟ∆ΩΡΟΝ, ∆ΙΑΚΟΝΟΝ ΡΩΜΗΣ, ΠΕΡΙ ΒΙΟΥ ΚΑΙ ΠΟΛΙΤΕΙΑΣ ΤΟΥ ΜΑΚΑΡΙΟΥ ΙΩΑΝΝΟΥ, ΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ.
+#+TITLE: Dialogus de vita Joannis Chrysostomi
 #+AUTHOR: Παλλάδιος Ἑλενοπόλεως
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Dialogus de vita Joannis Chrysostomi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

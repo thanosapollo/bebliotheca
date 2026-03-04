@@ -1,17 +1,22 @@
-#+TITLE: Τοῦ ἁγίου Ἰουστίνου Φιλοσόφου καὶ Μάρτυρος πρὸς Τρύφωνα Ἰουδαῖον ∆ιάλογος. Περιπατοῦντί μοι ἕωθεν ἐν τοῖς τοῦ ξυστοῦ
+#+TITLE: Dialogus cum Tryphone
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Dialogus cum Tryphone
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/dialogus-cum-tryphone--justin-martyr
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου Ἰουστίνου Φιλοσόφου καὶ Μάρτυρος πρὸς Τρύφωνα Ἰουδαῖον ∆ιάλογος. Περιπατοῦντί μοι ἕωθεν ἐν τοῖς τοῦ ξυστοῦ
+* Dialogus cum Tryphone
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου Ἰουστίνου Φιλοσόφου
+καὶ Μάρτυρος πρὸς Τρύφωνα
+Ἰουδαῖον ∆ιάλογος.
+Περιπατοῦντί μοι ἕωθεν ἐν τοῖς τοῦ ξυστοῦ
 περιπάτοις συναντήσας τις μετὰ καὶ ἄλλων· Φιλόσοφε, χαῖρε,
 ἔφη. καὶ ἅμα εἰπὼν τοῦτο ἐπιστραφεὶς συμπεριεπάτει μοι· συ
 νεπέστρεφον δ' αὐτῷ καὶ οἱ φίλοι αὐτοῦ. κἀγὼ ἔμπαλιν προσα

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ ἐξ ὁμιλίας ῥηθείσης ἐν τῇ Κυρίνου ἐκκλησίᾳ,
+#+TITLE: Homilia habita in ecclesia Cyrini
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Homilia habita in ecclesia Cyrini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-habita-in-ecclesia-cyrini--cyril-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ ἐξ ὁμιλίας ῥηθείσης ἐν τῇ Κυρίνου ἐκκλησίᾳ,
+* Homilia habita in ecclesia Cyrini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ ἐξ ὁμιλίας ῥηθείσης ἐν τῇ Κυρίνου ἐκκλησίᾳ,
 τρισκαιδεκάτῃ τοῦ φαμενὼθ μηνὸς κατ' Αἰγυπτίους, ἐν ᾗ τὸ τοῦ Ἠσαΐου
 ῥητὸν ἑρμηνεύει τὸ φάσκον· Κατέπιεν ὁ θάνατος ἰσχύσας καὶ πάλιν
 ἀφεῖλεν ὁ θεὸς πᾶν δάκρυον ἀπὸ παντὸς προσώπου.

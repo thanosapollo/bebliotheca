@@ -1,17 +1,19 @@
-#+TITLE: Τάδε ἔνεστιν ἐν τῇδε τῇ βίβλῳ.
+#+TITLE: Expositio fidei
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Expositio fidei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/expositio-fidei--john-of-damascus
 #+LANGUAGE: el
 
-* Τάδε ἔνεστιν ἐν τῇδε τῇ βίβλῳ.
+* Expositio fidei
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τάδε ἔνεστιν ἐν τῇδε τῇ βίβλῳ.
 αʹ Ὅτι ἀκατάληπτον τὸ θεῖον καὶ ὅτι οὐ δεῖ ζητεῖν καὶ περιεργάζεσθαι τὰ μὴ
 παραδεδομένα ἡμῖν ὑπὸ τῶν ἁγίων προφητῶν καὶ ἀποστόλων καὶ εὐαγγελιστῶν βʹ
 Περὶ ῥητῶν καὶ ἀρρήτων καὶ γνωστῶν καὶ ἀγ νώστων γʹ Ἀπόδειξις, ὅτι ἔστι θεός δʹ

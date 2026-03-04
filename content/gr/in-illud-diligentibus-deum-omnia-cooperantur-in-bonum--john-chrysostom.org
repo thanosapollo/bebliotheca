@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὴν ἀποστολικὴν ῥῆσιν τὴν λέγουσαν, "Οἴδαμεν ὅτι τοῖς ἀγαπῶσι
+#+TITLE: In illud Diligentibus deum omnia cooperantur in bonum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Diligentibus deum omnia cooperantur in bonum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-diligentibus-deum-omnia-cooperantur-in-bonum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν ἀποστολικὴν ῥῆσιν τὴν λέγουσαν, "Οἴδαμεν ὅτι τοῖς ἀγαπῶσι
+* In illud Diligentibus deum omnia cooperantur in bonum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν ἀποστολικὴν ῥῆσιν τὴν λέγουσαν, "Οἴδαμεν ὅτι τοῖς ἀγαπῶσι
 τὸν Θεὸν πάντα συνεργεῖ εἰς ἀγαθὸν," καὶ περὶ ὑπομονῆς, καὶ ὅσον τῶν
 θλίψεων τὸ κέρδος.
 =51.165=

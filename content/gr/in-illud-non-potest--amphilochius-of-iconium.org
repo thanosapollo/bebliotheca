@@ -1,17 +1,19 @@
-#+TITLE: Ἀμφιλοχίου ἐπισκόπου Ἰκονίου <ἐκ τοῦ εἰς τὸ Οὐ δύναται ὁ υἱὸς ποιεῖν
+#+TITLE: In illud Non potest
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Non potest
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-non-potest--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* Ἀμφιλοχίου ἐπισκόπου Ἰκονίου <ἐκ τοῦ εἰς τὸ Οὐ δύναται ὁ υἱὸς ποιεῖν
+* In illud Non potest
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀμφιλοχίου ἐπισκόπου Ἰκονίου <ἐκ τοῦ εἰς τὸ Οὐ δύναται ὁ υἱὸς ποιεῖν
 ἀφ' ἑαυτοῦ οὐδέν>
 ... Τὸ Οὐ δύναται ὁ υἱὸς ποιεῖν ἀφ' ἑαυτοῦ οὐδέν, πῶς νοεῖτε; Τὸ γὰρ οὐ δύναται
 κατὰ δύο τρόπους ἐκλαμβάνετε· καὶ κατὰ τὴν κοινὴν χρῆσιν καὶ κατὰ τὴν θείαν

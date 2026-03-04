@@ -1,17 +1,19 @@
-#+TITLE: 332 μὴ νοήσαντες δὲ διαφορὰν 333 ἰουδαϊσμοῦ ὁρατοῦ καὶ ἰουδαϊσμοῦ νοητοῦ,
+#+TITLE: Homiliae in Leviticum
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Homiliae in Leviticum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homiliae-in-leviticum--origen
 #+LANGUAGE: el
 
-* 332 μὴ νοήσαντες δὲ διαφορὰν 333 ἰουδαϊσμοῦ ὁρατοῦ καὶ ἰουδαϊσμοῦ νοητοῦ,
+* Homiliae in Leviticum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+332 μὴ νοήσαντες δὲ διαφορὰν 333 ἰουδαϊσμοῦ ὁρατοῦ καὶ ἰουδαϊσμοῦ νοητοῦ,
 τουτέστιν «ἰουδαϊσμοῦ φανεροῦ» καὶ «ἰουδαϊσμοῦ τοῦ ἐν τῷ κρυπτῷ», οἱ ἀπὸ τῶν
 ἀθέων καὶ ἀσεβεστάτων αἱρέσεων εὐθέως διέστησαν ἀπὸ τοῦ ἰουδαϊσμοῦ καὶ τοῦ
 Θεοῦ τοῦ δόντος ταύτας τὰς γραφὰς καὶ ἀνέπλασαν ἕτερον θεὸν παρὰ τὸν δεδωκότα

@@ -1,17 +1,19 @@
-#+TITLE: ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΠΟΛΕΩΣ ΚΥΡΟΥ, ἑνὸς τῶν ἐν Χαλκηδόνι χλʹ
+#+TITLE: Quaestiones et responsiones ad orthodoxos
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Quaestiones et responsiones ad orthodoxos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quaestiones-et-responsiones-ad-orthodoxos--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΠΟΛΕΩΣ ΚΥΡΟΥ, ἑνὸς τῶν ἐν Χαλκηδόνι χλʹ
+* Quaestiones et responsiones ad orthodoxos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΠΟΛΕΩΣ ΚΥΡΟΥ, ἑνὸς τῶν ἐν Χαλκηδόνι χλʹ
 ἁγίων πατέρων, πρὸς τὰς ἐπενεχθείσας αὐτῷ ἐρωτήσεις παρά τινος τῶν
 ἐξ Αἰγύπτου ἐπισκόπων.
 Πίναξ αὐτῶν.

@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟΝ ΕΚΤΟΝ ΨΑΛΜΟΝ ΠΕΡΙ ΤΗΣ ΟΓ∆ΟΗΣ
+#+TITLE: In sextum Psalmum
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sextum Psalmum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sextum-psalmum--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟΝ ΕΚΤΟΝ ΨΑΛΜΟΝ ΠΕΡΙ ΤΗΣ ΟΓ∆ΟΗΣ
+* In sextum Psalmum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟΝ ΕΚΤΟΝ ΨΑΛΜΟΝ ΠΕΡΙ ΤΗΣ
+ΟΓ∆ΟΗΣ
 Οἱ ἐκ δυνάμεως εἰς δύναμιν πορευόμενοι κατὰ τὴν προφητικὴν εὐλογίαν καὶ
 τὰς καλὰς ἀναβάσεις ἐν ταῖς ἑαυτῶν καρδίαις διατιθέμενοι, ὅταν τινὸς ἀγαθοῦ
 νοήματος δράξωνται, χειραγωγοῦνται δι' ἐκείνου πρὸς ὑψηλότερον νόημα δι' οὗ

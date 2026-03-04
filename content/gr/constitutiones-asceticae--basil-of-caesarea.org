@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΑΙΣΑΡΕΙΑΣ ΚΑΠΠΑ∆ΟΚΙΑΣ ΑΣΚΗΤΙΚΑΙ ∆ΙΑΤΑΞΕΙΣ, ΠΡΟΣ ΤΟΥΣ ΕΝ ΚΟΙΝΟΒΙΩ ΚΑΙ ΚΑΤΑΜΟΝΑΣ ΑΣΚΟΥΝΤΑΣ. ΠΡΟΟΙΜΙΟΝ.
+#+TITLE: Constitutiones asceticae
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Constitutiones asceticae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/constitutiones-asceticae--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΑΙΣΑΡΕΙΑΣ ΚΑΠΠΑ∆ΟΚΙΑΣ ΑΣΚΗΤΙΚΑΙ ∆ΙΑΤΑΞΕΙΣ, ΠΡΟΣ ΤΟΥΣ ΕΝ ΚΟΙΝΟΒΙΩ ΚΑΙ ΚΑΤΑΜΟΝΑΣ ΑΣΚΟΥΝΤΑΣ. ΠΡΟΟΙΜΙΟΝ.
+* Constitutiones asceticae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΒΑΣΙΛΕΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΑΙΣΑΡΕΙΑΣ ΚΑΠΠΑ∆ΟΚΙΑΣ ΑΣΚΗΤΙΚΑΙ ∆ΙΑΤΑΞΕΙΣ, ΠΡΟΣ ΤΟΥΣ ΕΝ
+ΚΟΙΝΟΒΙΩ ΚΑΙ ΚΑΤΑΜΟΝΑΣ ΑΣΚΟΥΝΤΑΣ.
+ΠΡΟΟΙΜΙΟΝ.
 Τὴν κατὰ Χριστὸν φιλοσοφίαν ἐπανελόμενος, καὶ τῶν βιωτικῶν ἐπιθυμιῶν
 τε καὶ ἡδονῶν καὶ φρον τίδων ἀνώτερον ἄρας τὸ φρόνημα, καὶ τῶν σαρκι κῶν
 παθημάτων τὸν λογισμὸν ἐκ παντὸς τρόπου χωρίζειν καὶ ἀποκρίνειν ἐσπουδακὼς,

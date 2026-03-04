@@ -1,17 +1,20 @@
-#+TITLE: [ΚΛHΜEΝΤOΣ ΤΩΝ ΠEΤΡOΥ EΠI∆HΜIΩΝ ΚHΡΥΓΜAΤΩΝ EΠIΤOΜH.]
+#+TITLE: Homiliae
 #+AUTHOR: Κλήμης Ρώμης
 #+FILETAGS: :patristic:1c-ad:
+#+MIGNE_TITLE: Homiliae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homiliae--clement-of-rome
 #+LANGUAGE: el
 
-* [ΚΛHΜEΝΤOΣ ΤΩΝ ΠEΤΡOΥ EΠI∆HΜIΩΝ ΚHΡΥΓΜAΤΩΝ EΠIΤOΜH.]
+* Homiliae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+[ΚΛHΜEΝΤOΣ ΤΩΝ ΠEΤΡOΥ EΠI∆HΜIΩΝ ΚHΡΥΓΜAΤΩΝ
+EΠIΤOΜH.]
 Ἐγὼ Κλήμης, Ῥωμαίων πολίτης ὤν, καὶ τὴν πρώτην ἡλικίαν σωφρόνως ζῆσαι δεδύνημαι, τῆς ἐννοίας μου ἐκ παιδὸς ἀπασχολούσης τὴν
 ἐν ἐμοὶ ἐπιθυμίαν εἴς τε ἀθυμίας καὶ πόνους. συνῆν γάρ μοι λογισμός
 (οὐκ οἶδα πόθεν τὴν ἀρχὴν λαβών) περὶ θανάτου, πυκνὰς ποιούμενος ὑπομνήσεις ὅτι ἄρα θανὼν οὐκ εἰμὶ καὶ οὐδὲ μνήμην τις ποιήσει μού ποτε, τοῦ

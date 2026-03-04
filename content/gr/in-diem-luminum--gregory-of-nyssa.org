@@ -1,17 +1,19 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΗΜΕΡΑΝ ΤΩΝ ΦΩΤΩΝ
+#+TITLE: In diem luminum
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In diem luminum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-diem-luminum--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΗΜΕΡΑΝ ΤΩΝ ΦΩΤΩΝ
+* In diem luminum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΗΝ ΗΜΕΡΑΝ ΤΩΝ ΦΩΤΩΝ
 Νῦν γνωρίζω τὴν ἐμὴν ἀγέλην, σήμερον βλέπω σχῆμα τῆς ἐκκλησίας τὸ
 σύνηθες, ἡνίκα καὶ τῶν σαρκικῶν φροντίδων τὴν ἀσχολίαν μισήσαντες ἀκεραίῳ τῷ
 πληρώματι πρὸς τὴν θεραπείαν τοῦ θεοῦ συνεδράμετε. καὶ στενοχωρεῖ μὲν ὁ λαὸς

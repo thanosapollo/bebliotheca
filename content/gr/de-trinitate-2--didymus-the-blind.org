@@ -1,17 +1,19 @@
-#+TITLE: 39.600 ΚΕΦ. Ηʹ. Περὶ τῆς προγνώσεως καὶ αὐτεξουσιότητος τοῦ
+#+TITLE: De trinitate
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De trinitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-trinitate-2--didymus-the-blind
 #+LANGUAGE: el
 
-* 39.600 ΚΕΦ. Ηʹ. Περὶ τῆς προγνώσεως καὶ αὐτεξουσιότητος τοῦ
+* De trinitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=39.600= ΚΕΦ. Ηʹ. Περὶ τῆς προγνώσεως καὶ αὐτεξουσιότητος τοῦ
 ἁγίου Πνεύματος. Μετὰ δὴ τὴν θείαν φύσιν καὶ ἐνέργειαν τοῦ
 Πνεύματος τοῦ Θεοῦ, τρανέστατα κομιδῆ περὶ τῆς αὐτεξουσιότητος
 αὐτοῦ καὶ ἐθελουσίου διανομῆς τὰ λόγια διαλέγονται.

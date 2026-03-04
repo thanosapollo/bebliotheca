@@ -1,6 +1,7 @@
-#+TITLE: ΛΟΓΟΣ ΜΒ. Συντακτήριος, εἰς τὴν τῶν ρνʹ ἐπισκόπων παρουσίαν.
+#+TITLE: Supremum vale
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Supremum vale
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

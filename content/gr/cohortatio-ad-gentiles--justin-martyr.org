@@ -1,17 +1,22 @@
-#+TITLE: ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ ΛOΓOΣ ΠAΡAIΝEΤIΚOΣ ΠΡOΣ EΛΛHΝAΣ. Ἀρχόμενος τῆς πρὸς ὑμᾶς παραινέσεως, ὦ ἄνδρες Ἕλληνες, εὔχομαι τῷ θεῷ ἐμοὶ μὲν ὑπάρξαι τὰ δέοντα πρὸς
+#+TITLE: Cohortatio ad gentiles
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Cohortatio ad gentiles
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/cohortatio-ad-gentiles--justin-martyr
 #+LANGUAGE: el
 
-* ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ ΛOΓOΣ ΠAΡAIΝEΤIΚOΣ ΠΡOΣ EΛΛHΝAΣ. Ἀρχόμενος τῆς πρὸς ὑμᾶς παραινέσεως, ὦ ἄνδρες Ἕλληνες, εὔχομαι τῷ θεῷ ἐμοὶ μὲν ὑπάρξαι τὰ δέοντα πρὸς
+* Cohortatio ad gentiles
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ
+ΛOΓOΣ ΠAΡAIΝEΤIΚOΣ ΠΡOΣ EΛΛHΝAΣ.
+Ἀρχόμενος τῆς πρὸς ὑμᾶς παραινέσεως, ὦ ἄνδρες
+Ἕλληνες, εὔχομαι τῷ θεῷ ἐμοὶ μὲν ὑπάρξαι τὰ δέοντα πρὸς
 ὑμᾶς εἰπεῖν, ὑμᾶς δέ, τῆς προτέρας ἀφεμένους φιλονεικίας
 καὶ τῆς τῶν προγόνων πλάνης ἀπαλλαγέντας, ἑλέσθαι τὰ λυ
 σιτελοῦντα νῦν, οὐδὲν οἰομένους περὶ τοὺς προγόνους ὑμῶν

@@ -1,17 +1,19 @@
-#+TITLE: Πρόλογος τῶν εἰς Κωνσταντῖνον ἐπαίνων.
+#+TITLE: De laudibus Constantini
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De laudibus Constantini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-laudibus-constantini--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* Πρόλογος τῶν εἰς Κωνσταντῖνον ἐπαίνων.
+* De laudibus Constantini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Πρόλογος τῶν εἰς Κωνσταντῖνον ἐπαίνων.
 Pro.1 Ἀλλ' οὐκ ἐγὼ μύθους, οὐκ ἀκοῆς θήρατρα, λόγων εὐγλωττίαν πλασάμενος
 πάρειμι κηλήσων ὦτα φωνῇ Σειρήνων, οὐδὲ χρυσέοις δεπάεσσιν, ὡραίοις ἄνθεσι
 ῥημάτων φράσει κεκαλλιεπημένοις, ἡδονῆς φάρμακα τοῖς τῶνδε προπιοῦμαι φίλοις,

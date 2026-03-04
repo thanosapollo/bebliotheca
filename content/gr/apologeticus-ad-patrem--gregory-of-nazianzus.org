@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ Θʹ.
+#+TITLE: Apologeticus ad patrem
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Apologeticus ad patrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/apologeticus-ad-patrem--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ Θʹ.
+* Apologeticus ad patrem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Θʹ.
 ̓Απολογητικὸς εἰς τὸν ἑαυτοῦ πατέρα Γρηγόριον, συμπαρόντος αὐτῷ
 Βασιλείου, ἡνίκα ἐπίσκοπος ἐχειροτονήθη Σασίμων.
 Αʹ. Πάλιν ἐπ' ἐμὲ χρίσμα καὶ Πνεῦμα· καὶ πά λιν ἐγὼ πενθῶν καὶ

@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν προφήτην Ἠλίαν, Λόγος. 56.583
+#+TITLE: In Eliam prophetam
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Eliam prophetam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-eliam-prophetam--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν προφήτην Ἠλίαν, Λόγος. 56.583
+* In Eliam prophetam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν προφήτην Ἠλίαν, Λόγος.
+=56.583=
 αʹ. Πρότερον μὲν τῶν Ἰουδαίων ὁ δῆμος τῇ τῶν προφητῶν ἐκαλλωπίζετο
 κτήσει, καὶ προφητικὸν ὑπῆρχε γεώργιον· νῦν δὲ καὶ ταύτην αὐτὴν παρὰ τῆς
 Ἐκκλησίας ἀφῄρηται τὴν καύχησιν. Ἰδοὺ γὰρ τῶν προφητῶν παρ' ἡμῖν καὶ τὰ

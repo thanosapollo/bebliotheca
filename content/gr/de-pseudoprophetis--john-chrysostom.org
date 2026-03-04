@@ -1,17 +1,19 @@
-#+TITLE: Λόγος περὶ ψευδοπροφητῶν, καὶ ψευδοδιδασκάλων, καὶ ἀθέων αἱρετικῶν,
+#+TITLE: De pseudoprophetis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De pseudoprophetis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-pseudoprophetis--john-chrysostom
 #+LANGUAGE: el
 
-* Λόγος περὶ ψευδοπροφητῶν, καὶ ψευδοδιδασκάλων, καὶ ἀθέων αἱρετικῶν,
+* De pseudoprophetis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λόγος περὶ ψευδοπροφητῶν, καὶ ψευδοδιδασκάλων, καὶ ἀθέων αἱρετικῶν,
 καὶ περὶ σημείων τῆς συντελείας τοῦ αἰῶνος τούτου. Ἐῤῥήθη δὲ μέλλοντος
 αὐτοῦ ἐκδημεῖν ἀπὸ τοῦ σώματος.
 =59.553=

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου Κύπρου λόγος εἰς τὴν
+#+TITLE: Homilia in Christi resurrectionem
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in Christi resurrectionem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-christi-resurrectionem--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου Κύπρου λόγος εἰς τὴν
+* Homilia in Christi resurrectionem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου Κύπρου λόγος εἰς τὴν
 ἁγίαν τοῦ Χριστοῦ ἀνάστασιν.
 Κύριε, εὐλόγησον.
 Ὁ τῆς δικαιοσύνης τριήμερος Ἥλιος ἀνέτειλε σήμερον, καὶ πᾶσαν τὴν κτίσιν

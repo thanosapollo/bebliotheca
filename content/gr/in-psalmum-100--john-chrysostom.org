@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΟΝ Ρʹ ΨΑΛΜΟΝ. 55.629
+#+TITLE: In Psalmum 100
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Psalmum 100
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-psalmum-100--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ Ρʹ ΨΑΛΜΟΝ. 55.629
+* In Psalmum 100
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ Ρʹ ΨΑΛΜΟΝ.
+=55.629=
 αʹ. Πάλιν ἡμῖν, ἀγαπητοὶ, πνευματικῶς ᾄδειν ὁ μακάριος ∆αυῒδ ὁ προφήτης
 παρακελεύεται· πάλιν τὸ καλὸν ᾆσμα μελῳδεῖν ἡμᾶς ὁμοφρόνως παρασκευάζει·
 πάλιν τὸ πνευ ματικὸν καὶ ἐπουράνιον μέλος προβαλλόμενος, πνευ ματικοὺς ἡμᾶς

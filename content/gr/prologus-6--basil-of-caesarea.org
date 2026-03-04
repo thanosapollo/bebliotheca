@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ προστάσσοντος· ὃ λέγω ὑμῖν ἐν τῇ σκοτίᾳ,
+#+TITLE: Prologus 6
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Prologus 6
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/prologus-6--basil-of-caesarea
 #+LANGUAGE: el
 
-* Τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ προστάσσοντος· ὃ λέγω ὑμῖν ἐν τῇ σκοτίᾳ,
+* Prologus 6
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ προστάσσοντος· ὃ λέγω ὑμῖν ἐν τῇ σκοτίᾳ,
 εἴπατε ἐν τῷ φωτί· καὶ ὃ πρὸς τὸ οὖς ἠκούσατε, κηρύξατε ἐπὶ τῶν δωμάτων· καὶ τοῦ
 ἀποστόλου τῆς σιωπῆς φοβερὸν τὸ κρῖμα δεικνύντος, δι' ὧν φησι πρὸς τοὺς
 Ἐφεσίων πρεσβυτέρους· διαμαρτύρομαι ὑμῖν ἐν τῇ σήμερον ἡμέρᾳ ὅτι καθαρός εἰμι

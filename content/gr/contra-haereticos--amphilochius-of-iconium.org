@@ -1,17 +1,19 @@
-#+TITLE: ... οὐδὲ οὐράνιον φρονοῦσιν· ἀλλ' οὐδὲ ἀνθρώπινον φρόνημα ἔχουσιν, οὐδὲ
+#+TITLE: Contra haereticos
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra haereticos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-haereticos--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* ... οὐδὲ οὐράνιον φρονοῦσιν· ἀλλ' οὐδὲ ἀνθρώπινον φρόνημα ἔχουσιν, οὐδὲ
+* Contra haereticos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+... οὐδὲ οὐράνιον φρονοῦσιν· ἀλλ' οὐδὲ ἀνθρώπινον φρόνημα ἔχουσιν, οὐδὲ
 τολμῶσιν εἰς τὸ φῶς προελθεῖν ἢ φρονίμῳ ἀνθρώ πῳ διαλεχθῆναι, ἢ πόλει
 χριστιανῶν ἐπιβῆναι, καθὼς οἱ προεστῶτες τῶν ἄλλων αἱρέσεων, οἵτινες πειρῶνται
 διὰ τῆς φιλοσοφίας καὶ κενῆς ἀπάτης πλανῆσαί τινας. Καὶ γὰρ διὰ τὴν προσοῦσαν

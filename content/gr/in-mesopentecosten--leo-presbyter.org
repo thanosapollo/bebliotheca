@@ -1,17 +1,19 @@
-#+TITLE: Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὴν
+#+TITLE: In mesopentecosten
 #+AUTHOR: Λέων Πρεσβύτερος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: In mesopentecosten
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-mesopentecosten--leo-presbyter
 #+LANGUAGE: el
 
-* Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὴν
+* In mesopentecosten
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὴν
 μεσοπεντηκοστὴν καὶ εἰς τὸν ἐκ γεννητῆς τυφλὸν καὶ εἰς τὸν ἅγιον Πέτρον
 ὑπὸ Ἡρῴδου ἐν τῇ φυλακῇ ἀποκλεισθέντα
 Τοῖς φιλοῦσι τὸν κύριον ἑορτῆς οὐ λείπει καιρός· ἤδη γὰρ καὶ σήμερον ἡμῶν

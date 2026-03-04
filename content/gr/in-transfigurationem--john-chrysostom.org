@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν μεταμόρφωσιν. 61.721
+#+TITLE: In transfigurationem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In transfigurationem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-transfigurationem--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν μεταμόρφωσιν. 61.721
+* In transfigurationem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν μεταμόρφωσιν.
+=61.721=
 Ἥλιος ἀνίσχων τὰς οἰκείας ἀκτῖνας εἰς πάντα κόσμον ἐκτείνει· καὶ τοῦ
 ∆εσπότου Χριστοῦ ἡ κατὰ σάρκα γενέθλιος ἀνατολὴ τοὺς αὐτῆς μαθητὰς, ὥσπερ
 τινὰς ἀκτῖνας, εἰς τὴν οἰκουμένην ἅπασαν ἐξέπεμψε. ∆ιὰ τοῦτο καὶ σήμερον

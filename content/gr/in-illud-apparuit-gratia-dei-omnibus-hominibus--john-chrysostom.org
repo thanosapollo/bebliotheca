@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ἉΓΙΟΥ ἸΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ὁμιλία εἰς τὸ Ἐπεφάνη ἡ χάρις τοῦ Θεοῦ καὶ εἰς τὰ Θεοφάνια
+#+TITLE: In illud Apparuit gratia dei omnibus hominibus
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Apparuit gratia dei omnibus hominibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-apparuit-gratia-dei-omnibus-hominibus--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ἉΓΙΟΥ ἸΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ὁμιλία εἰς τὸ Ἐπεφάνη ἡ χάρις τοῦ Θεοῦ καὶ εἰς τὰ Θεοφάνια
+* In illud Apparuit gratia dei omnibus hominibus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ἉΓΙΟΥ ἸΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ὁμιλία εἰς τὸ Ἐπεφάνη ἡ
+χάρις τοῦ Θεοῦ καὶ εἰς τὰ Θεοφάνια
 1 Πρώην ὑμῖν περὶ σωφροσύνης διελέχθημεν καθάπερ μέμνησθε καὶ οἷον δὴ
 νόμον ἀνέγνωμεν οὕτως ἔχοντα· Πᾶς ὁ ἐμβλέψας γυναικὶ πρὸς τὸ ἐπιθυμῆσαι αὐτὴν
 ἤδη ἐμοίχευσεν αὐτὴν ἐν τῇ καρδίᾳ αὐτοῦ. Φοβερὸν τὸ ῥῆμα, καὶ γὰρ ἀναίσχυντον

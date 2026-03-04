@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ ἁγίου Κυρίλλου ἐκ τῆς πρώτης ὁμιλίας τῆς ὅτι οὐ χρὴ λέγειν
+#+TITLE: Sermo ad Alexandrinos
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Sermo ad Alexandrinos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-ad-alexandrinos--cyril-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ ἁγίου Κυρίλλου ἐκ τῆς πρώτης ὁμιλίας τῆς ὅτι οὐ χρὴ λέγειν
+* Sermo ad Alexandrinos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ ἁγίου Κυρίλλου ἐκ τῆς πρώτης ὁμιλίας τῆς ὅτι οὐ χρὴ λέγειν
 ἄνθρωπον θεοφόρον, ἀλλὰ Θεὸν ἐνανθρωπήσαντα.
 Μέγας ἦν ὄντως ὁ μακάριος Μωϋσῆς· ἤκουσε γὰρ Θεοῦ λέγοντος "Οἶδά σε
 παρὰ πάντας, καὶ χάριν εὗρες παρ' "ἐμοί·" ἀλλ' ἦν ὡς οἰκέτης ἐν οἴκῳ πιστός·

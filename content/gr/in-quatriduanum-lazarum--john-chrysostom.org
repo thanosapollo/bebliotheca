@@ -1,17 +1,21 @@
-#+TITLE: ΕΙΣ ΤΟΝ ΤΕΤΡΑΗΜΕΡΟΝ ΛΑΖΑΡΟΝ Λόγος ἔνατος. 48.779
+#+TITLE: In quatriduanum Lazarum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In quatriduanum Lazarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-quatriduanum-lazarum--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ ΤΕΤΡΑΗΜΕΡΟΝ ΛΑΖΑΡΟΝ Λόγος ἔνατος. 48.779
+* In quatriduanum Lazarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ ΤΕΤΡΑΗΜΕΡΟΝ ΛΑΖΑΡΟΝ
+Λόγος ἔνατος.
+=48.779=
 αʹ. Σήμερον ἐκ νεκρῶν ἐγειρόμενος ὁ Λάζαρος πολ λῶν καὶ διαφόρων
 σκανδάλων τὴν λύσιν ἡμῖν χαρίζεται. Καὶ γὰρ οὐκ οἶδ' ὅπως τὸ ἀνάγνωσμα τοῦτο
 καὶ τοῖς αἱρετικοῖς δέδωκε λαβὴν, καὶ τοῖς Ἰουδαίοις ἀντι λογίας ἀφορμὴν, οὐκ ἐξ

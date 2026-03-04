@@ -1,17 +1,19 @@
-#+TITLE: Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, περὶ νηστείας.
+#+TITLE: Homilia de jejunio
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Homilia de jejunio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-de-jejunio--hesychius-of-jerusalem
 #+LANGUAGE: el
 
-* Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, περὶ νηστείας.
+* Homilia de jejunio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, περὶ νηστείας.
 1 Ῥίζα καὶ θεμέλιος τῶν εὐσεβῶν ἡ κατὰ θεὸν νηστεία, ἡ μετὰ εὐλαβείας καὶ
 ἁγίων εὐχῶν καὶ ἐλεημοσυνῶν ἐπιτελουμένη. Οὐ γὰρ ἀποχὴν ἄρτου καὶ ὕδατος
 βούλεται ὁ θεός, ἀλλ' ἀποχὴν πράξεων πονηρῶν· «Οὐ γὰρ τὰ εἰσερχόμενα εἰς τὸ

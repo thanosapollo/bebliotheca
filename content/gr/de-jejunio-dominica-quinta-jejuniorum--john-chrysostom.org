@@ -1,17 +1,20 @@
-#+TITLE: Περὶ νηστείας· Κυριακῇ εʹ τῶν νηστειῶν. 62.731
+#+TITLE: De jejunio dominica quinta jejuniorum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De jejunio dominica quinta jejuniorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-jejunio-dominica-quinta-jejuniorum--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ νηστείας· Κυριακῇ εʹ τῶν νηστειῶν. 62.731
+* De jejunio dominica quinta jejuniorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ νηστείας· Κυριακῇ εʹ τῶν νηστειῶν.
+=62.731=
 Ἥκει καιρὸς, ἀδελφοὶ, πρὸς τὸ διὰ νηστείας ἡμᾶς δρέψασθαι τοὺς τῆς μετανοίας
 καρπούς. Καὶ γὰρ πρὸς τὴν τῶν καρπῶν συλλογὴν ἐπιτήδειον τὸ θέρος καὶ τὸ
 μετόπωρον, πρὸς δὲ τὸν σπόρον χειμὼν καὶ τὸ ἔαρ· πρὸς δὲ νηστείαν καὶ προσευχὴν πᾶς

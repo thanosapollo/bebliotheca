@@ -1,17 +1,19 @@
-#+TITLE: ΙΒʹ. Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου πρεσβυτέρου τοῦ ∆αμασκηνοῦ,
+#+TITLE: Laudatio sanctae Barbarae
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Laudatio sanctae Barbarae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/laudatio-sanctae-barbarae--john-of-damascus
 #+LANGUAGE: el
 
-* ΙΒʹ. Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου πρεσβυτέρου τοῦ ∆αμασκηνοῦ,
+* Laudatio sanctae Barbarae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΙΒʹ. Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου πρεσβυτέρου τοῦ ∆αμασκηνοῦ,
 ἐγκώμιον εἰς τὴν ἁγίαν καὶ ἔνδοξον τοῦ Χριστοῦ μάρτυρα Βαρβάραν.
 =96.781=
 αʹ. Ὑπέρκειται μὲν ὁμολογουμένως ἅπασαν ἐγκω =96.784= μίων σύνθεσιν, τῶν

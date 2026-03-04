@@ -1,17 +1,21 @@
-#+TITLE: ΠΕΡΙ ΤΗΣ ΤΩΝ ΜΕΛΛΟΝΤΩΝ Ἀπολαύσεως, καὶ τῆς τῶν παρόντων εὐτελείας. 51.347
+#+TITLE: De futurae vitae deliciis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De futurae vitae deliciis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-futurae-vitae-deliciis--john-chrysostom
 #+LANGUAGE: el
 
-* ΠΕΡΙ ΤΗΣ ΤΩΝ ΜΕΛΛΟΝΤΩΝ Ἀπολαύσεως, καὶ τῆς τῶν παρόντων εὐτελείας. 51.347
+* De futurae vitae deliciis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΕΡΙ ΤΗΣ ΤΩΝ ΜΕΛΛΟΝΤΩΝ Ἀπολαύσεως, καὶ τῆς τῶν παρόντων
+εὐτελείας.
+=51.347=
 αʹ. Σφοδρὸν τὸ καῦμα, καὶ βαρὺς ὁ αὐχμός· ἀλλὰ τὴν προθυμίαν ὑμῶν οὐκ
 ἐξέλυσεν, οὐδὲ τὸν πόθον τῆς ἀκροάσεως ἐμάρανε. Τοιοῦτον γὰρ ἀκροατὴς θερμὸς καὶ
 διεγηγερμένος· τῷ τῆς ἀκροάσεως ἔρωτι νευρούμενος, πάντα ῥᾳδίως ἂν ἐνέγκαι, ὥστε

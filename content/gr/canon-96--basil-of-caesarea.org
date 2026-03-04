@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΠΕΡΙ ΑΙΡΕΤΙΚΩΝ ϟϛ
+#+TITLE: Canon 96
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Canon 96
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/canon-96--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΠΕΡΙ ΑΙΡΕΤΙΚΩΝ ϟϛ
+* Canon 96
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΠΕΡΙ ΑΙΡΕΤΙΚΩΝ ϟϛ
 Ἐρώτησις. Εἰ δεῖ μετὰ αἱρετικῶν ἢ μετὰ ἑλλήνων ἢ ἰουδαίων κατὰ
 συντυχίαν εὑρεθέντα που συνεσθίειν ἢ ἀσπάζεσθαι αὐτούς.
 Ἀπόκρισις.

@@ -1,13 +1,14 @@
-#+TITLE: 52.807
+#+TITLE: In pentecosten Sermo 2
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In pentecosten Sermo 2
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-pentecosten-sermo-2--john-chrysostom
 #+LANGUAGE: el
 
-* 52.807
+* In pentecosten Sermo 2
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

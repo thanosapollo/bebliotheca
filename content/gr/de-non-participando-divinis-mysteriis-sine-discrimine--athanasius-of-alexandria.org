@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ ΠΕΡΙ ΤΟΥ ΜΗ ΚΟΙΝΩΝΕΙΝ ΑΝΕΞΕΤΑΣΤΩΣ ΤΩΝ ΘΕΙΩΝ ΜΥΣΤΗΡΙΩΝ ΤΟΥΣ ΤΑΙΣ Ι∆ΙΑΙΣ ΓΥΝΑΙΞΙ ΜΙΓΝΥΜΕΝΟΥΣ
+#+TITLE: De non participando divinis mysteriis sine discrimine
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De non participando divinis mysteriis sine discrimine
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-non-participando-divinis-mysteriis-sine-discrimine--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ ΠΕΡΙ ΤΟΥ ΜΗ ΚΟΙΝΩΝΕΙΝ ΑΝΕΞΕΤΑΣΤΩΣ ΤΩΝ ΘΕΙΩΝ ΜΥΣΤΗΡΙΩΝ ΤΟΥΣ ΤΑΙΣ Ι∆ΙΑΙΣ ΓΥΝΑΙΞΙ ΜΙΓΝΥΜΕΝΟΥΣ
+* De non participando divinis mysteriis sine discrimine
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΓΙΟΥ ΑΘΑΝΑΣΙΟΥ ΠΕΡΙ ΤΟΥ ΜΗ ΚΟΙΝΩΝΕΙΝ ΑΝΕΞΕΤΑΣΤΩΣ ΤΩΝ
+ΘΕΙΩΝ ΜΥΣΤΗΡΙΩΝ ΤΟΥΣ ΤΑΙΣ Ι∆ΙΑΙΣ ΓΥΝΑΙΞΙ ΜΙΓΝΥΜΕΝΟΥΣ
 Ε Περὶ τοῦ μὴ κοινωνεῖν ἀνεξετάστως τῶν θείων μυστηρίων τοὺς ταῖς
 ἰδίας γυναιξὶ μιγνυμένους.
 Ἐπειδή τινες μετὰ τὸ συγγενέσθαι ταῖς ἰδίαις γυναιξὶν αὐτῇ τῇ ἡμέρᾳ ἀπαρατηρήτως

@@ -1,17 +1,21 @@
-#+TITLE: ΕΥΣΕΒΙΟΥ ΤΟΥ ΠΑΜΦΙΛΟΥ ΠΡΟΣ ΤΑ ΥΠΟ ΦΙΛΟΣΤΡΑΤΟΥ ΕΙΣ ΑΠΟΛΛΩΝΙΟΝ ΤΟΝ ΤΥΑΝΕΑ ∆ΙΑ ΤΗΝ ΙΕΡΟΚΛΕΙ ΠΑΡΑΛΗΦΘΕΙΣΑΝ ΑΥΤΟΥ ΤΕ ΚΑΙ ΤΟΥ ΧΡΙΣΤΟΥ ΣΥΓΚΡΙΣΙΝ.
+#+TITLE: Contra Hieroclem
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra Hieroclem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-hieroclem--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* ΕΥΣΕΒΙΟΥ ΤΟΥ ΠΑΜΦΙΛΟΥ ΠΡΟΣ ΤΑ ΥΠΟ ΦΙΛΟΣΤΡΑΤΟΥ ΕΙΣ ΑΠΟΛΛΩΝΙΟΝ ΤΟΝ ΤΥΑΝΕΑ ∆ΙΑ ΤΗΝ ΙΕΡΟΚΛΕΙ ΠΑΡΑΛΗΦΘΕΙΣΑΝ ΑΥΤΟΥ ΤΕ ΚΑΙ ΤΟΥ ΧΡΙΣΤΟΥ ΣΥΓΚΡΙΣΙΝ.
+* Contra Hieroclem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΣΕΒΙΟΥ ΤΟΥ ΠΑΜΦΙΛΟΥ ΠΡΟΣ ΤΑ ΥΠΟ ΦΙΛΟΣΤΡΑΤΟΥ ΕΙΣ
+ΑΠΟΛΛΩΝΙΟΝ ΤΟΝ ΤΥΑΝΕΑ ∆ΙΑ ΤΗΝ ΙΕΡΟΚΛΕΙ ΠΑΡΑΛΗΦΘΕΙΣΑΝ
+ΑΥΤΟΥ ΤΕ ΚΑΙ ΤΟΥ ΧΡΙΣΤΟΥ ΣΥΓΚΡΙΣΙΝ.
 Αρ' ουν, ὦ φιλότης, κἀκεῖνά σε τοῦ συγγραφέως αξιον ἀποθαυμάζειν, ἃ τῷ ἡμετέρῳ
 σωτῆρί τε καὶ διδασκάλῳ τὸν Τυανέα συγκρίνων παρεδοξολόγει; πρὸς μὲν γὰρ τὰ
 λοιπὰ τῶν ἐν τῷ Φιλαλήθει, οὕτω γὰρ εὖ εχειν αὐτῷ τὸν καθ' ἡμῶν ἐπιγράφειν

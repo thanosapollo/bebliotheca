@@ -1,17 +1,20 @@
-#+TITLE: ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΑΣ ΠΡΑΞΕΙΣ ΤΩΝ ΑΠΟΣΤΟΛΩΝ. Ἐκ τῆς εἰς τὰς Πράξεις ὁμιλίας δʹ.
+#+TITLE: Fragmentum ex homiliis in Acta apostolorum
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmentum ex homiliis in Acta apostolorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmentum-ex-homiliis-in-acta-apostolorum--origen
 #+LANGUAGE: el
 
-* ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΑΣ ΠΡΑΞΕΙΣ ΤΩΝ ΑΠΟΣΤΟΛΩΝ. Ἐκ τῆς εἰς τὰς Πράξεις ὁμιλίας δʹ.
+* Fragmentum ex homiliis in Acta apostolorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚ ΤΩΝ ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΑΣ ΠΡΑΞΕΙΣ ΤΩΝ ΑΠΟΣΤΟΛΩΝ.
+Ἐκ τῆς εἰς τὰς Πράξεις ὁμιλίας δʹ.
 =14.829= Ἔδει πληρωθῆναι τὴν Γραφὴν, ἣν προεῖπε τὸ Πνεῦμα τὸ ἅγιον διὰ στόματος
 ∆αυῒδ περὶ Ἰούδα· =14.832= ἐν ᾧ ψαλμῷ τὰ περὶ τοῦ Ἰούδα γέγραπται. Εἴποι τις ἂν, ὅτι
 οὐ τὸ Πνεῦμα τὸ ἅγιον λαλεῖ· σαφῶς γὰρ τοῦ Σωτῆρός εἰσιν οἱ λόγοι λέγοντος· Ὁ

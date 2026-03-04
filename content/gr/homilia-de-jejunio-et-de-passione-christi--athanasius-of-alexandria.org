@@ -1,17 +1,19 @@
-#+TITLE: ... τὴν παρακοὴν ... ἀπιόντα. οὐδὲ δι' ἑα̣υ̣τὸν ἐβαπτίσθη, ἀλλὰ δ̣ι̣ὰ τὸν ῥυπωθέντα τῇ
+#+TITLE: Homilia de jejunio et de passione Christi
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia de jejunio et de passione Christi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-de-jejunio-et-de-passione-christi--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ... τὴν παρακοὴν ... ἀπιόντα. οὐδὲ δι' ἑα̣υ̣τὸν ἐβαπτίσθη, ἀλλὰ δ̣ι̣ὰ τὸν ῥυπωθέντα τῇ
+* Homilia de jejunio et de passione Christi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+... τὴν παρακοὴν ... ἀπιόντα. οὐδὲ δι' ἑα̣υ̣τὸν ἐβαπτίσθη, ἀλλὰ δ̣ι̣ὰ τὸν ῥυπωθέντα τῇ
 α῾̣μαρτίᾳ. Ἐνήστευσεν οὖν ὁ κύριος καὶ σωτὴρ ἡμῶν Ἰησοῦς ὁ χριστὸς μετὰ τὸ
 βάπτισμα. ἀλλ' ὅμως καὶ τοῦτο ἐν παρεκβάσει ζητήσωμεν. διὰ τί μὲν ἡμεῖς πρὸ τοῦ
 βαπτίσματος νηστεύομεν; ὁ δὲ δεσπότης Χριστὸς μετὰ τὸ βάπτισμα ἐνήστευσε. διὰ τί;

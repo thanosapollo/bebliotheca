@@ -1,17 +1,20 @@
-#+TITLE: ΚΛΗΜΕΝΤΟΣ ΣΤΡΩΜΑΤΕΩΣ ΠΡΟΤΡΕΠΤΙΚΟΣ ΠΡΟΣ ΕΛΛΗΝΑΣ
+#+TITLE: Protrepticus
 #+AUTHOR: Κλήμης Ἀλεξανδρείας
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Protrepticus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/protrepticus--clement-of-alexandria
 #+LANGUAGE: el
 
-* ΚΛΗΜΕΝΤΟΣ ΣΤΡΩΜΑΤΕΩΣ ΠΡΟΤΡΕΠΤΙΚΟΣ ΠΡΟΣ ΕΛΛΗΝΑΣ
+* Protrepticus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΚΛΗΜΕΝΤΟΣ ΣΤΡΩΜΑΤΕΩΣ
+ΠΡΟΤΡΕΠΤΙΚΟΣ ΠΡΟΣ ΕΛΛΗΝΑΣ
 Ἀμφίων ὁ Θηβαῖος καὶ Ἀρίων ὁ Μηθυμναῖος "ἄμφω μὲν ἤστην ᾠδικώ, μῦθος δὲ
 ἄμφω" (καὶ τὸ ᾆσμα εἰσέτι τοῦτο Ἑλλήνων ᾄδεται χορῷ), τέχνῃ τῇ μουσικῇ ὃ μὲν ἰχθὺν
 δελεάσας, ὃ δὲ Θήβας τειχίσας. Θρᾴκιος δὲ ἄλλος σοφιστὴς (ἄλλος οὗτος μῦθος

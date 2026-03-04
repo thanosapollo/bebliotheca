@@ -1,17 +1,19 @@
-#+TITLE: Πίστις τῶν ἁγίων τριακοσίων δέκα καὶ ὀκτὼ ἁγίων θεοφόρων Πατέρων
+#+TITLE: Didascalia cccxviii patrum Nicaenorum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Didascalia cccxviii patrum Nicaenorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/didascalia-cccxviii-patrum-nicaenorum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Πίστις τῶν ἁγίων τριακοσίων δέκα καὶ ὀκτὼ ἁγίων θεοφόρων Πατέρων
+* Didascalia cccxviii patrum Nicaenorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Πίστις τῶν ἁγίων τριακοσίων δέκα καὶ ὀκτὼ ἁγίων θεοφόρων Πατέρων
 τῶν ἐν Νικαίᾳ· καὶ διδασκαλία πάνυ θαυμαστὴ καὶ σωτήριος περὶ τῆς
 ἁγίας Τριάδος. –Εὐλόγησον.
 Πιστεύομεν εἰς ἕνα Θεὸν, Πατέρα παντο κράτορα, πάντων ὁρατῶν καὶ ἀοράτων

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν καὶ ὁμολογητοῦ Εὐσταθίου ἐπισκόπου
+#+TITLE: Homilia christologica in Lazarum
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia christologica in Lazarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-christologica-in-lazarum--eustathius-of-antioch
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν καὶ ὁμολογητοῦ Εὐσταθίου ἐπισκόπου
+* Homilia christologica in Lazarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν καὶ ὁμολογητοῦ Εὐσταθίου ἐπισκόπου
 Ἀντιοχείας εἰς τὸ δεῖπνον Λαζάρου καὶ εἰς Μαρίαν καὶ Μάρθαν τὰς
 ἀδελφὰς αὐτοῦ.
 1 Ἀκούσωμεν ἀγαπητοί· καὶ εἰς δεῦρο εὐαγγελίζεται τὴν Ἐκκλησίαν τοῦ θεοῦ

@@ -1,17 +1,19 @@
-#+TITLE: 452 phil 1,19 Σωτηρίαν δέ φησι τὸ ὅσον οὐδέπω μαρτύριον. phil 1,24 Καὶ κατ' ἄλλο
+#+TITLE: Fragmenta in epistulam ad Philippenses
 #+AUTHOR: Οἰκουμένιος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Philippenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-philippenses--oecumenius
 #+LANGUAGE: el
 
-* 452 phil 1,19 Σωτηρίαν δέ φησι τὸ ὅσον οὐδέπω μαρτύριον. phil 1,24 Καὶ κατ' ἄλλο
+* Fragmenta in epistulam ad Philippenses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+452 phil 1,19 Σωτηρίαν δέ φησι τὸ ὅσον οὐδέπω μαρτύριον. phil 1,24 Καὶ κατ' ἄλλο
 δὲ νοήσεις τὸ ἀναγκαιότερον· ὅτι τὸ προσάγειν Χριστῷ διὰ τῆς πίστεως πλείονας
 πλεῖον αὐτὸν ᾠκείου τῷ Χριστῷ. phil 2,2 Ἢ καὶ περὶ τοῦ δόγματος λέγει. phil 3,8
 ∆ύνῃ καὶ κατ' ἄλλο σκύβαλα νοῆσαι τὸν νόμον· τὸ γὰρ σκύβαλον κτηνώδης ἐστὶ

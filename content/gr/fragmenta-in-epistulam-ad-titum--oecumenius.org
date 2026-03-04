@@ -1,17 +1,19 @@
-#+TITLE: 461 Tit 1,12 Ἐπιμενίδου Κρητὸς μάντεως χρησμός. κέχρηται δὲ καὶ ὁ Καλλίμαχος τῇ
+#+TITLE: Fragmenta in epistulam ad Titum
 #+AUTHOR: Οἰκουμένιος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Titum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-titum--oecumenius
 #+LANGUAGE: el
 
-* 461 Tit 1,12 Ἐπιμενίδου Κρητὸς μάντεως χρησμός. κέχρηται δὲ καὶ ὁ Καλλίμαχος τῇ
+* Fragmenta in epistulam ad Titum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+461 Tit 1,12 Ἐπιμενίδου Κρητὸς μάντεως χρησμός. κέχρηται δὲ καὶ ὁ Καλλίμαχος τῇ
 χρήσει ἐν τῷ ὑπ' αὐτοῦ ῥηθέντι εἰς τὸν ∆ία ὕμνῳ. Tit 1,15 Τί δήποτε οὖν ὁ Ἰουδαίοις
 δοθεὶς νόμος εἶχεν ἀκαθάρτων παρατήρησιν; φαμέν· οὐκ ἐπειδὴ ἀκάθαρτα ἦν, οὕτως
 ἐνομοθέτησεν ὁ θεός, ἀλλὰ ταύτῃ τὴν πολλὴν τρυφὴν καὶ ἀδιαφορίαν τῶν

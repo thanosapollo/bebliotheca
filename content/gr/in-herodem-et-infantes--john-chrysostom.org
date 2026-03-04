@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν Ἡρώδην καὶ εἰς τὰ νήπια. 61.699
+#+TITLE: In Herodem et infantes
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Herodem et infantes
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-herodem-et-infantes--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν Ἡρώδην καὶ εἰς τὰ νήπια. 61.699
+* In Herodem et infantes
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν Ἡρώδην καὶ εἰς τὰ νήπια.
+=61.699=
 Ἤθελον μὲν ἀεὶ καὶ πάντοτε τὸν πνευματικὸν ἀφηγεῖσθαι λόγον, πειθόμενος
 Παύλῳ τῷ λέγοντι· Πνευματικοῖς πνευματικὰ συγκρίνοντες· μάλιστα δὲ ὅτι
 χρεώστης ἀπεφάνθην τῆς προτέρας Κυριωνύμου Κυριακῆς. Οὐκ οἶδ' ὅπως τοῦτο

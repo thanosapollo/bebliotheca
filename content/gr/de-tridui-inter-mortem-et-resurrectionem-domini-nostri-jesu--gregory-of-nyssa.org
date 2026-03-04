@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΤΗΣ ΤΡΙΗΜΕΡΟΥ ΠΡΟΘΕΣΜΙΑΣ ΤΗΣ ΑΝΑΣΤΑΣΕΩΣ ΤΟΥ ΚΥΡΙΟΥ ΗΜΩΝ ΙΗΣΟΥ ΧΡΙΣΤΟΥ
+#+TITLE: De tridui inter mortem et resurrectionem domini nostri Jesu
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De tridui inter mortem et resurrectionem domini nostri Jesu
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-tridui-inter-mortem-et-resurrectionem-domini-nostri-jesu--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΤΗΣ ΤΡΙΗΜΕΡΟΥ ΠΡΟΘΕΣΜΙΑΣ ΤΗΣ ΑΝΑΣΤΑΣΕΩΣ ΤΟΥ ΚΥΡΙΟΥ ΗΜΩΝ ΙΗΣΟΥ ΧΡΙΣΤΟΥ
+* De tridui inter mortem et resurrectionem domini nostri Jesu
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΤΗΣ ΤΡΙΗΜΕΡΟΥ ΠΡΟΘΕΣΜΙΑΣ
+ΤΗΣ ΑΝΑΣΤΑΣΕΩΣ ΤΟΥ ΚΥΡΙΟΥ ΗΜΩΝ ΙΗΣΟΥ ΧΡΙΣΤΟΥ
 Εἴ τις πατριαρχῶν εὐλογία θείῳ πνεύματι τὸ βέβαιον ἔχουσα, εἴ τι τῆς
 πνευματικῆς νομοθεσίας ἀγαθὸν δι' ἐπαγγελίας τοῖς κατορθοῦσιν ἐλπίζεται, εἴ τις
 διὰ τῶν ἱστορικῶν αἰνιγμάτων τῆς ἀληθείας προδιατύπωσις εἶναι πεπίστευται, εἴ τις

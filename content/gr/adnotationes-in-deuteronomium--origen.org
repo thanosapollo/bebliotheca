@@ -1,17 +1,20 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟ ∆ΕΥΤΕΡΟΝΟΜΙΟΝ. 17.24 ΚΕΦ. Αʹ.
+#+TITLE: Adnotationes in Deuteronomium
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Adnotationes in Deuteronomium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adnotationes-in-deuteronomium--origen
 #+LANGUAGE: el
 
-* ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟ ∆ΕΥΤΕΡΟΝΟΜΙΟΝ. 17.24 ΚΕΦ. Αʹ.
+* Adnotationes in Deuteronomium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟ ∆ΕΥΤΕΡΟΝΟΜΙΟΝ.
+=17.24= ΚΕΦ. Αʹ.
 Στίχ. λαʹ. Ὡσεὶ τροφοφορήσαι ἄνθρωπος. Ἀκύλας. Ὡσεὶ ἄραι τροφὸς τὸν υἱὸν
 ἐβάστασεν, ἡρμήνευσεν. Ὠριγένης δὲ ἐν ταῖς εἰς τὸν Ἱερεμίαν ὁμιλίαις φησί·
 «Συμπεριηνέχθη καὶ συγκατέβη ὑμῖν, τὴν ἡμετέραν ἀσθένειαν οἰκειούμενος· ὡς

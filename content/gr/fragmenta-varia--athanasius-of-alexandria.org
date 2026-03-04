@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ (Ἀθανασίου) κατὰ Οὐαλεντίνου, τὰ πολλὰ συμφώνου ὄντος
+#+TITLE: Fragmenta varia
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta varia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-varia--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ (Ἀθανασίου) κατὰ Οὐαλεντίνου, τὰ πολλὰ συμφώνου ὄντος
+* Fragmenta varia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ (Ἀθανασίου) κατὰ Οὐαλεντίνου, τὰ πολλὰ συμφώνου ὄντος
 τοῖς προδηλωθεῖσιν αἱρετικοῖς.
 Πῶς λέγετε Χριστὸν οὐρανίαν σάρκα περιβεβλῆσθαι, καὶ οὐκ ἀνθρωπίνην, καίτοι
 τοῦ Ἀποστόλου φάσκοντος· Ὁ ἁγιάζων καὶ οἱ ἁγιαζόμενοι ἐξ ἑνὸς πάντες; ∆ι' ἣν

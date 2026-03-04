@@ -1,17 +1,20 @@
-#+TITLE: Πέτρος Ἰακώβῳ τῷ κυρίῳ καὶ ἐπισκόπῳ τῆς ἁγίας ἐκκλησίας. ὑπὸ τοῦ
+#+TITLE: Contestatio
 #+AUTHOR: Κλήμης Ρώμης
 #+FILETAGS: :patristic:1c-ad:
+#+MIGNE_TITLE: Contestatio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contestatio--clement-of-rome
 #+LANGUAGE: el
 
-* Πέτρος Ἰακώβῳ τῷ κυρίῳ καὶ ἐπισκόπῳ τῆς ἁγίας ἐκκλησίας. ὑπὸ τοῦ
+* Contestatio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+[EΠIΣΤOΛH ΠEΤΡOΥ ΠΡOΣ IAΚΩΒOΝ.]
+Πέτρος Ἰακώβῳ τῷ κυρίῳ καὶ ἐπισκόπῳ τῆς ἁγίας ἐκκλησίας. ὑπὸ τοῦ
 τῶν ὅλων πατρὸς διὰ Ἰησοῦ Χριστοῦ ἐν εἰρήνῃ πάντοτε.
 Eἰδώς σε, ἀδελφέ μου, εἰς τὸ κοινῇ πᾶσιν ἡμῖν συμφέρον σπεύδοντα
 προθύμως, ἀξιῶ καὶ δέομαι τῶν ἐμῶν κηρυγμάτων ἃς ἔπεμψά σοι βίβλους μηδενὶ

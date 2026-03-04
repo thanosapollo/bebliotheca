@@ -1,17 +1,19 @@
-#+TITLE: Τοιγαροῦν ὁμολογοῦμεν τὸν μονογενῆ υἱὸν τοῦ θεοῦ θεὸν τέλειον,
+#+TITLE: Epistula ad Theodosium imperatorem
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Epistula ad Theodosium imperatorem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-theodosium-imperatorem--cyril-of-alexandria
 #+LANGUAGE: el
 
-* Τοιγαροῦν ὁμολογοῦμεν τὸν μονογενῆ υἱὸν τοῦ θεοῦ θεὸν τέλειον,
+* Epistula ad Theodosium imperatorem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοιγαροῦν ὁμολογοῦμεν τὸν μονογενῆ υἱὸν τοῦ θεοῦ θεὸν τέλειον,
 ὁμοούσιον τῷ πατρὶ κατὰ τὴν θεότητα καὶ ὁμοούσιον ἡμῖν τὸν αὐτὸν κατὰ τὴν
 ἀνθρωπότητα. ∆ύο γὰρ φύσεων ἕνωσις γέγονεν, ὅθεν ἕνα Χριστόν, ἕνα υἱόν, ἕνα
 κύριον ὁμολογοῦμεν. Καὶ εἰ δοκεῖ, δειξώμεθα εἰς παράδειγμα τὴν καθ' ἡμᾶς αὐτοὺς

@@ -1,6 +1,7 @@
-#+TITLE: Oikumenios I p. 526 A ed. Morellus zu I Kor. 11, 10.
+#+TITLE: Fragmenta
 #+AUTHOR: Κλήμης Ἀλεξανδρείας
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Fragmenta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

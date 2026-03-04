@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ ΕΓΚΩΜΙΑΣΤΙΚΗ
+#+TITLE: De sancto Meletio Antiocheno
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sancto Meletio Antiocheno
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancto-meletio-antiocheno--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΕΓΚΩΜΙΑΣΤΙΚΗ
+* De sancto Meletio Antiocheno
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΕΓΚΩΜΙΑΣΤΙΚΗ
 Εἰς τὸν ἐν ἁγίοις Πατέρα ἡμῶν Μελέτιον ἀρχιεπίσκοπον Ἀντιοχείας τῆς
 μεγάλης, καὶ εἰς τὴν σπουδὴν τῶν συνελθόντων.
 =50.515=

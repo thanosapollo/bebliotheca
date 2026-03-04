@@ -1,17 +1,19 @@
-#+TITLE: Λόγος εἰς τὴν προσκύνησιν τῆς τιμίας ἁλύσεως τοῦ ἁγίου καὶ κορυφαίου
+#+TITLE: In catenas sancti Petri
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In catenas sancti Petri
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-catenas-sancti-petri--john-chrysostom
 #+LANGUAGE: el
 
-* Λόγος εἰς τὴν προσκύνησιν τῆς τιμίας ἁλύσεως τοῦ ἁγίου καὶ κορυφαίου
+* In catenas sancti Petri
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λόγος εἰς τὴν προσκύνησιν τῆς τιμίας ἁλύσεως τοῦ ἁγίου καὶ κορυφαίου
 τῶν ἀποστόλων Πέτρου.
 1 Ὅσοι τῷ τοῦ κορυφαίου τῶν ἀποστόλων θείῳ ἔρωτι γενόμενοι κάτοχοι,
 πανηγυρίζειν αὐτῷ προτεθύμηστε· ὅσοι τοῖς αὐτοῦ πνευματικοῖς ζωγρηθέντες

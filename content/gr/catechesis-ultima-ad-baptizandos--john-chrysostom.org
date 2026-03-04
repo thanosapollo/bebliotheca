@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ πρὸς τοὺς μέλλοντας φωτίζεσθαι κατήχησις ἐσχάτη. Λόγος γʹ.
+#+TITLE: Catechesis ultima ad baptizandos
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Catechesis ultima ad baptizandos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/catechesis-ultima-ad-baptizandos--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ πρὸς τοὺς μέλλοντας φωτίζεσθαι κατήχησις ἐσχάτη. Λόγος γʹ.
+* Catechesis ultima ad baptizandos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ πρὸς τοὺς μέλλοντας φωτίζεσθαι κατήχησις ἐσχάτη. Λόγος γʹ.
 Ἐσχάτη τῆς κατηχήσεως ἡ σήμερον ἡμέρα· διὸ καὶ ὁ πάντων ἔσχατος εἰς τὴν
 ἐσχάτην ἀφῖγμαι· ἀφῖγμαι δὲ ἔσχατος ἀπαγγέλλων ὑμῖν, ὅτι μετὰ δύο ἡμέρας ὁ
 νυμφίος ἔρχεται. ἀλλὰ διανάστητε καὶ τὰς λαμπάδας ἀνάψατε καὶ φαιδρῷ τῷ φωτὶ

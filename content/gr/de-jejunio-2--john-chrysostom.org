@@ -1,17 +1,20 @@
-#+TITLE: Περὶ νηστείας 62.731
+#+TITLE: De jejunio
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De jejunio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-jejunio-2--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ νηστείας 62.731
+* De jejunio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ νηστείας
+=62.731=
 Ἱλασμῶν ὁ καιρὸς, καὶ μὴ παρίδωμεν τὸ εὔκαιρον· ἀνακλήσεως ἁμαρτημάτων ὁ
 καιρὸς, καὶ μὴ προησώμεθα τὴν χάριν, ἀλλὰ νηστεύσωμεν ἀπὸ βρωμάτων, καὶ πρότερον
 ἀπὸ ἁμαρτημάτων· πρῶτον γὰρ ἀγαθὸν ἀπαλλαγὴ κακῶν. Κακία δέ ἐστι τὸ

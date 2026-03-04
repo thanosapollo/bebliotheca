@@ -1,17 +1,19 @@
-#+TITLE: 432 1 Kor 2,8
+#+TITLE: Fragmenta in epistulam i ad Corinthios
 #+AUTHOR: Οἰκουμένιος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam i ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-i-ad-corinthios--oecumenius
 #+LANGUAGE: el
 
-* 432 1 Kor 2,8
+* Fragmenta in epistulam i ad Corinthios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Kor 2,8
 Εἰ μὲν τὸ τῶν ἀρχόντων τοῦ αἰῶνος τούτου δέξῃ ὡς πρὸς τὸν Ἡρῴδην καὶ τὸν
 Πιλᾶτον, ἁπλουστέρως νοήσεις τὸ ἑπόμενον· εἰ γάρ, φησίν, ἔγνωσαν, οὐκ ἂν τὸν
 κύριον ἐσταύρωσαν. οὐδὲ γὰρ τοσοῦτον ἐμεμήνεσαν φθόνου μὴ ὑποκειμένου. εἰ δὲ

@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΕΡΜΗΝΕΙΑ ΕΙΣ ΤΟ ΑΣΜΑ ΤΩΝ ΑΣΜΑΤΩΝ. Τῷ Θεοφιλεστάτῳ ἐπισκόπῳ Ἰωάννῃ Θεοδώρητος.
+#+TITLE: Explanatio in Canticum canticorum
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Explanatio in Canticum canticorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/explanatio-in-canticum-canticorum--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΕΡΜΗΝΕΙΑ ΕΙΣ ΤΟ ΑΣΜΑ ΤΩΝ ΑΣΜΑΤΩΝ. Τῷ Θεοφιλεστάτῳ ἐπισκόπῳ Ἰωάννῃ Θεοδώρητος.
+* Explanatio in Canticum canticorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΕΡΜΗΝΕΙΑ ΕΙΣ ΤΟ
+ΑΣΜΑ ΤΩΝ ΑΣΜΑΤΩΝ.
+Τῷ Θεοφιλεστάτῳ ἐπισκόπῳ Ἰωάννῃ Θεοδώρητος.
 Ἡ τῶν θείων λογίων ἐξήγησις δεῖται μὲν ψυχῆς κεκαθαρμένης, καὶ ῥύπου
 παντὸς ἀπηλλαγμένης· δεῖται δὲ καὶ διανοίας ἐπτερωμένης, καὶ καθορᾷν τὰ θεῖα
 δυναμένης, κατατολμώσης τῶν ἀδύτων τοῦ Πνεύματος· χρῄζει δὲ καὶ γλώττης

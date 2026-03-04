@@ -1,17 +1,19 @@
-#+TITLE: < ΕΙΣ ΤΗΝ ΓΕΝΕΣΙΝ>
+#+TITLE: In Genesim
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Genesim
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-genesim--didymus-the-blind
 #+LANGUAGE: el
 
-* < ΕΙΣ ΤΗΝ ΓΕΝΕΣΙΝ>
+* In Genesim
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+< ΕΙΣ ΤΗΝ ΓΕΝΕΣΙΝ>
 1α ι, 1. [Ἐν ἀρχῇ ἐπο]ίησεν ὁ Θεὸς τὸν οὐρανὸν καὶ τὴν γῆν. [··· ··· ···] τοῦ
 Θεοῦ εἰς ὁρατὰ καὶ ἀόρατα φέρεται, τῶν μὲν ὁρατῶν [τὰ σώματα, τ]ῶν δὲ ἀοράτων
 τὰ ἀσώματα καὶ νοητὰ δηλούντων. [··· ··· ···] μ̣άλιστα ἐν τῇ βίβλῳ [··]τ̣η

@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὴν ἀνάληψιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ· ἐλέχθη δὲ ἐν τῷ
+#+TITLE: In ascensionem domini nostri Jesu Christi
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In ascensionem domini nostri Jesu Christi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ascensionem-domini-nostri-jesu-christi--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν ἀνάληψιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ· ἐλέχθη δὲ ἐν τῷ
+* In ascensionem domini nostri Jesu Christi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν ἀνάληψιν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ· ἐλέχθη δὲ ἐν τῷ
 μαρτυρίῳ τῆς Ῥωμανησίας, ἔνθα μαρτύρων σώματα, ὑπὸ τὸ ἔδαφος
 κείμενα ἐγγὺς λειψάνων αἱρετικῶν, ἀνηνέχθησαν, καὶ ἄνω κατ' ἰδίαν
 ἐτάφησαν.

@@ -1,17 +1,19 @@
-#+TITLE: Ἀστερίου ἐπισκόπου Ἀμασείας εἰς τὸν ἅγιον τοῦ Χριστοῦ μάρτυρα
+#+TITLE: Homilia 9
 #+AUTHOR: Ἀστέριος Ἀμασείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia 9
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-9--asterius-of-amasea
 #+LANGUAGE: el
 
-* Ἀστερίου ἐπισκόπου Ἀμασείας εἰς τὸν ἅγιον τοῦ Χριστοῦ μάρτυρα
+* Homilia 9
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀστερίου ἐπισκόπου Ἀμασείας εἰς τὸν ἅγιον τοῦ Χριστοῦ μάρτυρα
 Φωκᾶν
 =9.116= Ἱερὸς μὲν καὶ θεσπεσίος ἅπας ὁ τῶν γενναίων μαρτύρων κατάλογος, πάθει τὴν
 ὑπὲρ πάθους ἀποδοὺς χάριν, αἵματι δὲ τὴν ὑπὲρ αἵματος τῷ Σωτῆρι τῶν ὅλων

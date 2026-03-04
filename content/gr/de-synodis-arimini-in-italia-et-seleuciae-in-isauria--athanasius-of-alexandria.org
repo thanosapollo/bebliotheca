@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ, ἐπιστολὴ περὶ τῶν γενομένων ἐν τῇ Ἀριμίνῳ τῆς Ἰταλίας καὶ
+#+TITLE: De synodis Arimini in Italia et Seleuciae in Isauria
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De synodis Arimini in Italia et Seleuciae in Isauria
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-synodis-arimini-in-italia-et-seleuciae-in-isauria--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ, ἐπιστολὴ περὶ τῶν γενομένων ἐν τῇ Ἀριμίνῳ τῆς Ἰταλίας καὶ
+* De synodis Arimini in Italia et Seleuciae in Isauria
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ, ἐπιστολὴ περὶ τῶν γενομένων ἐν τῇ Ἀριμίνῳ τῆς Ἰταλίας καὶ
 ἐν Σελευκείᾳ τῆς Ἰσαυρίας συνόδων
 1.1 Ἔφθασε μὲν ἴσως καὶ παρ' ὑμᾶς ἡ ἀκοὴ περὶ τῆς καὶ νῦν θρυλουμένης συνόδου·
 καὶ γὰρ βασιλέως καὶ τῶν ἐπάρχων ἐφοίτησε πανταχῆ γράμματα καλοῦντα τοὺς εἰς

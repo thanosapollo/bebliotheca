@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΠΑΡΑΙΝΕΤΙΚΟΣ ΠΡΟΣ ΣΤΑΓΕΙΡΙΟΝ ΑΣΚΗΤΗΝ ∆ΑΙΜΟΝΩΝΤΑ 47.423 ΛΟΓΟΣ ΠΡΩΤΟΣ
+#+TITLE: Ad Stagirium a daemone vexatum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ad Stagirium a daemone vexatum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-stagirium-a-daemone-vexatum--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΠΑΡΑΙΝΕΤΙΚΟΣ ΠΡΟΣ ΣΤΑΓΕΙΡΙΟΝ ΑΣΚΗΤΗΝ ∆ΑΙΜΟΝΩΝΤΑ 47.423 ΛΟΓΟΣ ΠΡΩΤΟΣ
+* Ad Stagirium a daemone vexatum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΠΑΡΑΙΝΕΤΙΚΟΣ ΠΡΟΣ ΣΤΑΓΕΙΡΙΟΝ ΑΣΚΗΤΗΝ
+∆ΑΙΜΟΝΩΝΤΑ
+=47.423= ΛΟΓΟΣ ΠΡΩΤΟΣ
 αʹ. Ἔδει μὲν ἡμᾶς, ὦ φίλτατε πάντων ἐμοὶ Σταγείριε, καὶ παρεῖναί σοι νῦν καὶ
 συνδιαταλαιπωρεῖσθαι, καὶ λό47.424 γῳ παρακαλοῦντα, καὶ ἔργῳ διακονούμενον,
 καὶ τὰ ἄλλα πάντα συλλαμβάνοντα, μέρος τι τῆς ἀθυμίας =47.425= ἐπικουφίζειν. ὅσον

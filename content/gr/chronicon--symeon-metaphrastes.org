@@ -1,18 +1,18 @@
-#+TITLE: Julii Pollucis) (redactio A + B operis sub titulo Epitome fort. sub auctore
+#+TITLE: Chronicon
 #+AUTHOR: Συμεὼν Μεταφραστής
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Chronicon
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronicon--symeon-metaphrastes
 #+LANGUAGE: el
 
-* Julii Pollucis) (redactio A + B operis sub titulo Epitome fort. sub auctore
+* Chronicon
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
-Trajano Patricio)
 ΛΕΟΝΤΟΣ ΓΡΑΜΜΑΤΙΚΟΥ ΧΡΟΝΟΓΡΑΦΙΑ ΛΕΙΠΕΙ ΤΑ ΙΞ ΑΡΧΗΣ ΤΗΣ
 ΙΣΤΟΡΙΑΣ ΤΑΥΤΗΣ.
 .... Τοίνυν ἐκ τῶν εἰρημένων ἐννοεῖν ὅτι ἠδύνατο ὁ ἄνθρωπος καὶ μετὰ τὴν

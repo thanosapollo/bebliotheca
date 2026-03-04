@@ -1,17 +1,19 @@
-#+TITLE: ΣΗΜΑΣΙΑ ΕΙΣ ΤΟΝ ΙΕΖΕΚΙΗΛ.
+#+TITLE: Significatio in Ezechielem
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Significatio in Ezechielem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/significatio-in-ezechielem--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΣΗΜΑΣΙΑ ΕΙΣ ΤΟΝ ΙΕΖΕΚΙΗΛ.
+* Significatio in Ezechielem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΗΜΑΣΙΑ ΕΙΣ ΤΟΝ ΙΕΖΕΚΙΗΛ.
 Νομίζομεν τὸν ἄνθρωπον εἶναι τὸ λογικόν· τὸν λέοντα, τὸ θυμικόν· τὸν
 μόσχον, τὸ ἐπιθυμητικόν· τὸν ἀετὸν, τὴν συνείδησιν ἐπικειμένην τοῖς λοι ποῖς, ὅ
 ἐστι πνεῦμα παρὰ Παύλου λεγόμενον τοῦ ἀνθρώπου· τὸν ἐπικαθεζόμενον, τὸν

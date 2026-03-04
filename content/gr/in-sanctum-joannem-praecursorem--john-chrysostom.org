@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΙΩΑΝΝΗΝ Τὸν Πρόδρομον. 50.801
+#+TITLE: In sanctum Joannem praecursorem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum Joannem praecursorem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-joannem-praecursorem--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΙΩΑΝΝΗΝ Τὸν Πρόδρομον. 50.801
+* In sanctum Joannem praecursorem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΙΩΑΝΝΗΝ Τὸν Πρόδρομον.
+=50.801=
 αʹ. Ἰωάννου τοῦ Βαπτιστοῦ πανήγυριν ἄγωμεν· πόθῳ στεφανώσωμεν
 τοῦτον, οὗ μείζων ἐν γεννητοῖς γυ ναικῶν οὐκ ἐγήγερται, κατὰ τὴν τοῦ ∆εσπότου
 φω νήν. Οὐδὲν γὰρ οὕτω τὸν προφήτην ἐσέμνυνεν, ὡς τὸ βαπτίσαι τὸν Κύριον.

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου ὁμιλία εἰς τὸν φαρισαῖον καὶ
+#+TITLE: De meretrice
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De meretrice
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-meretrice--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου ὁμιλία εἰς τὸν φαρισαῖον καὶ
+* De meretrice
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου ὁμιλία εἰς τὸν φαρισαῖον καὶ
 εἰς τὴν πόρνην.
 Ἐν παντὶ καιρῷ καλὴ καὶ σωτήριος ἡ μετάνοια τοῖς χρωμένοις αὐτῇ, ἐν ταύταις
 δὲ μάλιστα ταῖς τῆς νηστείας ἡμέραις ἐπωφελὴς πᾶσιν ἀνθρώποις καθίσταται, τοῖς

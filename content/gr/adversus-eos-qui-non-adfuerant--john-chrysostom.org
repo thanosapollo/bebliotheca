@@ -1,17 +1,19 @@
-#+TITLE: 63.477 Ὁμιλία παραινετικὴ λεχθεῖσα ἐν τῷ ναῷ τῆς ἁγίας Ἀναστασίας
+#+TITLE: Adversus eos qui non adfuerant
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Adversus eos qui non adfuerant
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-eos-qui-non-adfuerant--john-chrysostom
 #+LANGUAGE: el
 
-* 63.477 Ὁμιλία παραινετικὴ λεχθεῖσα ἐν τῷ ναῷ τῆς ἁγίας Ἀναστασίας
+* Adversus eos qui non adfuerant
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=63.477= Ὁμιλία παραινετικὴ λεχθεῖσα ἐν τῷ ναῷ τῆς ἁγίας Ἀναστασίας
 πρὸς τοὺς ἀπολειφθέντας· καὶ ἀπό δειξις περὶ τῶν ἀγώνων καὶ ἄθλων
 τοῦ μακαρίου καὶ δικαίου Ἰώβ.
 αʹ. Ὅσῳ ἐλάττους τῶν εἰωθότων οἱ συνελθόντες, τοσούτῳ καὶ ἡμεῖς μείζονι

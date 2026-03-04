@@ -1,17 +1,19 @@
-#+TITLE: Καισαρείωι καὶ Εὐβούλωι
+#+TITLE: Epistulae
 #+AUTHOR: Προκόπιος Γάζης
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Epistulae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistulae--procopius-of-gaza
 #+LANGUAGE: el
 
-* Καισαρείωι καὶ Εὐβούλωι
+* Epistulae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Καισαρείωι καὶ Εὐβούλωι
 Πυθαγόρας ὁ Σάμιος, ἀλλ' οὐδὲ τοῦτόν φασιν ὡς μέχρι παντὸς ἐτίμα σιγήν, ἀλλ'
 ὥριστο χρόνος αὐτοῖς μεταβολὴν ἄγων ἐπὶ λόγους, καὶ μετεβάλλοντο. ἀλλ' οὐδὲ
 παρ' ὃν ἐσιώπων χρόνον ἔδει δήπουθεν μηδὲν παρ' ἀλλήλων εἰδέναι, ἀλλὰ τὴν μὲν

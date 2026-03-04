@@ -1,17 +1,19 @@
-#+TITLE: ∆ιήγησις περὶ τοῦ ἐν Κωνσταντινουπόλει γεγονότος πολέμου κατὰ τὸ
+#+TITLE: Constantinopoli oppugnata
 #+AUTHOR: Ἰωάννης Κανανός
 #+FILETAGS: :byzantine:15c-ad:
+#+MIGNE_TITLE: Constantinopoli oppugnata
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/constantinopoli-oppugnata--john-cananus
 #+LANGUAGE: el
 
-* ∆ιήγησις περὶ τοῦ ἐν Κωνσταντινουπόλει γεγονότος πολέμου κατὰ τὸ
+* Constantinopoli oppugnata
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+∆ιήγησις περὶ τοῦ ἐν Κωνσταντινουπόλει γεγονότος πολέμου κατὰ τὸ
 ς λʹ ἔτος, ὅτε ὁ Ἀμουρὰτ Πεὶς παρέπεσε ταύτῃ μετὰ δυνάμεως βαρείας
 καὶ παρολίγον ταύτην ἐκράτει, εἰ μὴ ἡ ὑπέραγνος Μήτηρ τοῦ Κυρίου
 ταύτην ἐφύλαξε, συγγραφεῖσα παρὰ κυρίου Ἰωάννου τοῦ Κανανοῦ

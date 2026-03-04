@@ -1,17 +1,19 @@
-#+TITLE: Περὶ Νικηφόρου τοῦ βασιλέως καὶ πῶς ἀφίησιν τὰ κῶλα ἐν Βουλγαρίᾳ.
+#+TITLE: De Leone Armenio
 #+AUTHOR: Λέων Γραμματικός
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: De Leone Armenio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-leone-armenio-1--leo-grammaticus
 #+LANGUAGE: el
 
-* Περὶ Νικηφόρου τοῦ βασιλέως καὶ πῶς ἀφίησιν τὰ κῶλα ἐν Βουλγαρίᾳ.
+* De Leone Armenio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ Νικηφόρου τοῦ βασιλέως καὶ πῶς ἀφίησιν τὰ κῶλα ἐν Βουλγαρίᾳ.
 Ἐν τῷ θʹ ἔτει τῆς βασιλείας Νικηφόρου τοῦ βασιλέως, οὗτος αὐτὸς
 Νικηφόρος ὁ βασιλεὺς εἰσῆλθεν εἰς Βουλγαρίαν, βουλόμενος αὐτήν, ὡς ᾤετο,
 ἀφανίσαι, ἄρας μεθ' ἑαυτοῦ Σταυράκιον τὸν υἱὸν αὐτοῦ καὶ Μιχαὴλ τὸν γαμβρὸν

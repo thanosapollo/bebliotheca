@@ -1,17 +1,19 @@
-#+TITLE: 93.725 ΚΕΦΑΛΑΙΟΝ Αʹ.
+#+TITLE: Commentarii in Lamentationes
 #+AUTHOR: Ὀλυμπιόδωρος Διάκονος Ἀλεξανδρείας
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Commentarii in Lamentationes
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-lamentationes--olympiodorus-of-alexandria
 #+LANGUAGE: el
 
-* 93.725 ΚΕΦΑΛΑΙΟΝ Αʹ.
+* Commentarii in Lamentationes
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=93.725= ΚΕΦΑΛΑΙΟΝ Αʹ.
 "Καὶ ἐγένετο." Θρηνεῖ μὲν κατὰ τὴν ἱστορίαν ὁ προφήτης τὴν τότε τῆς Ἱερουσαλὴμ
 γενομένην αἰχμαλωσίαν, προφητικῶς δὲ καὶ ἀληθέστερον τὴν ἐπὶ Ῥωμαίων αὐτῇ
 συμβᾶσαν διὰ τὴν τοῦ Χριστοῦ παράνομον τόλμαν. Ἐκεῖ μὲν γὰρ ἐκ Βαβυλῶνος

@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΞΗΓΗΣΙΣ ΥΠΟΜΝΗΜΑΤΙΚΗ ΕΙΣ ΤΟΝ ΠΡΟΦΗΤΗΝ ΗΣΑΙΑΝ. ΒΙΒΛΙΟΝ Αʹ. ΛΟΓΟΙ ΕΞʹ. [ΠΡΟΟΙΜΙΟΝ.]
+#+TITLE: Commentarius in Isaiam prophetam
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Commentarius in Isaiam prophetam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarius-in-isaiam-prophetam--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΞΗΓΗΣΙΣ ΥΠΟΜΝΗΜΑΤΙΚΗ ΕΙΣ ΤΟΝ ΠΡΟΦΗΤΗΝ ΗΣΑΙΑΝ. ΒΙΒΛΙΟΝ Αʹ. ΛΟΓΟΙ ΕΞʹ. [ΠΡΟΟΙΜΙΟΝ.]
+* Commentarius in Isaiam prophetam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΞΗΓΗΣΙΣ ΥΠΟΜΝΗΜΑΤΙΚΗ ΕΙΣ ΤΟΝ ΠΡΟΦΗΤΗΝ
+ΗΣΑΙΑΝ. ΒΙΒΛΙΟΝ Αʹ. ΛΟΓΟΙ ΕΞʹ.
+[ΠΡΟΟΙΜΙΟΝ.]
 Ἀσυμφανὴς μὲν ἀεὶ τῶν ἁγίων προφητῶν ὁ λόγος, μεμέστωται δὲ τῶν
 κεκρυμμένων ἐννοιῶν, καὶ μυ- στηρίων ἡμῖν τῶν θείων ὠδίνει προαγόρευσιν. Τέλος γὰρ νόμου, καὶ προφητῶν ὁ Χριστὸς, καθὼς γέ- γραπται. Χρῆναι δὲ φημὶ, τοὺς
 ἐθέλοντας διατρανοῦν τὰ οὕτως ἰσχνὰ, καὶ αἰνιγματώδη τῶν θεωρημάτων πλάτη

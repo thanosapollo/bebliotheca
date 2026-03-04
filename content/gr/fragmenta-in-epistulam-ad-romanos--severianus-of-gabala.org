@@ -1,17 +1,19 @@
-#+TITLE: Ro+m 1,1 Ὡς ἀγνοοῦντος δὲ τοῦ κόσμου τὴν τοῦ Χριστοῦ θεότητα κηρύσσει ταύτην.
+#+TITLE: Fragmenta in epistulam ad Romanos
 #+AUTHOR: Σεβηριανὸς Γαβάλων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-romanos--severianus-of-gabala
 #+LANGUAGE: el
 
-* Ro+m 1,1 Ὡς ἀγνοοῦντος δὲ τοῦ κόσμου τὴν τοῦ Χριστοῦ θεότητα κηρύσσει ταύτην.
+* Fragmenta in epistulam ad Romanos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ro+m 1,1 Ὡς ἀγνοοῦντος δὲ τοῦ κόσμου τὴν τοῦ Χριστοῦ θεότητα κηρύσσει ταύτην.
 Καὶ τί δήποτε τὸ κοινὸν ἰδιοποιεῖται; ἐπειδὴ πολλοὶ μὲν καὶ θεασάμενοι τὸν κύριον
 καὶ μὴ θεασάμενοι ἐπίστευσαν, Παῦλος δὲ οὐρανόθεν καλεῖται Σαοὺλ Σαούλ, τί με
 διώκεις; πρόσεστι δὲ αὐτῷ καὶ πλέον τι παρὰ τοὺς λοιποὺς ἀποστόλους· τοὺς γὰρ

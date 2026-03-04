@@ -1,17 +1,19 @@
-#+TITLE: ̓Ωριγένους εἰς τὴν τῶν Βασιλειῶν αʹ.
+#+TITLE: De engastrimytho
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: De engastrimytho
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-engastrimytho--origen
 #+LANGUAGE: el
 
-* ̓Ωριγένους εἰς τὴν τῶν Βασιλειῶν αʹ.
+* De engastrimytho
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Ωριγένους εἰς τὴν τῶν Βασιλειῶν αʹ.
 1 Τὰ ἀναγνωσθέντα πλείονά ἐστιν, καὶ ἐπεὶ χρὴ ἐπιτεμνόμενον εἰπεῖν, δʹ εἰσὶν
 περικοπαί. ἀνεγνώσθη τὰ ἑξῆς τῶν περὶ Νάβαλ τὸν Καρμήλιον. εἶτα μετὰ τοῦτο ἡ
 ἱστορία ἡ περὶ τοῦ κεκρύφθαι τὸν ∆αβὶδ παρὰ τοῖς Ζιφαίοις καὶ διαβεβλῆσθαι αὐτὸν

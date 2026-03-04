@@ -1,17 +1,19 @@
-#+TITLE: Εἰς προδοσίαν τοῦ Ἰούδα, καὶ εἰς τὸ πάθος τοῦ Κυρίου ἡμῶν Ἰησοῦ
+#+TITLE: In proditionem Judae
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In proditionem Judae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-proditionem-judae-1--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς προδοσίαν τοῦ Ἰούδα, καὶ εἰς τὸ πάθος τοῦ Κυρίου ἡμῶν Ἰησοῦ
+* In proditionem Judae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς προδοσίαν τοῦ Ἰούδα, καὶ εἰς τὸ πάθος τοῦ Κυρίου ἡμῶν Ἰησοῦ
 Χριστοῦ. Τῇ ἁγίᾳ πέμπτῃ.
 =61.687=
 Στυγνὴν τὴν Ἐκκλησίαν ὁρῶ, σκυθρωπάζουσαν μορ φὴν τὴν τοῦ οἰκείου

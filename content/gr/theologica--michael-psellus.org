@@ -1,17 +1,19 @@
-#+TITLE: Λόγος κβʹ.
+#+TITLE: Theologica
 #+AUTHOR: Μιχαὴλ Ψελλός
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Theologica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/theologica--michael-psellus
 #+LANGUAGE: el
 
-* Λόγος κβʹ.
+* Theologica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λόγος κβʹ.
 Τοῦ αὐτοῦ εἰς τὸ "ἀκολουθήσατε αὐτῷ καὶ τῷ οἰκοδεσπότῃ εἴπατε"
 Πολλοῖς πολλάκις ἐζήτηται τὸ τοῦ «οἰκοδεσπότου» ὄνομα, ἐφ' ὃν ὁ Χριστὸς δύο
 τῶν μαθητῶν αὐτοῦ ἰέναι παρεκελεύσατο· Πέτρος ἦσαν οὗτοι καὶ Ἰωάννης. οἱ δὲ

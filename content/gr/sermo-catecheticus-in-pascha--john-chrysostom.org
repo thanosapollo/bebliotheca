@@ -1,17 +1,20 @@
-#+TITLE: Κατηχητικὸς εἰς τὸ ἅγιον πάσχα. 59.721
+#+TITLE: Sermo catecheticus in pascha
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo catecheticus in pascha
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-catecheticus-in-pascha--john-chrysostom
 #+LANGUAGE: el
 
-* Κατηχητικὸς εἰς τὸ ἅγιον πάσχα. 59.721
+* Sermo catecheticus in pascha
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Κατηχητικὸς εἰς τὸ ἅγιον πάσχα.
+=59.721=
 Εἴ τις εὐσεβὴς καὶ φιλόθεος, ἀπολαυέτω τῆς καλῆς ταύτης πανηγύρεως· εἴ τις
 δοῦλος εὐγνώμων, εἰσελθέτω χαίρων εἰς τὴν χαρὰν τοῦ Κυρίου αὐτοῦ· εἴ τις ἔκαμε
 νηστεύων, ἀπολαβέτω νῦν τὸ δηνάριον· εἴ τις ἀπὸ πρώτης ὥρας εἰργάσατο, δεχέσθω

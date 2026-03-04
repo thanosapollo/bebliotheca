@@ -1,17 +1,21 @@
-#+TITLE: ΠΡΟΚΟΠΙΟΥ ΡΗΤΟΡΟΣ ΤΟΥ ΚΑΙΣΑΡΕΩΣ ΠΕΡΙ ΤΩΝ ΤΟΥ ∆ΕΣΠΟΤΟΥ ΙΟΥΣΤΙΝΙΑΝΟΥ ΚΤΙΣΜΑΤΩΝ. ΛΟΓΟΣ Αʹ.
+#+TITLE: De aedificiis
 #+AUTHOR: Προκόπιος Καισαρείας
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: De aedificiis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-aedificiis--procopius-of-caesarea
 #+LANGUAGE: el
 
-* ΠΡΟΚΟΠΙΟΥ ΡΗΤΟΡΟΣ ΤΟΥ ΚΑΙΣΑΡΕΩΣ ΠΕΡΙ ΤΩΝ ΤΟΥ ∆ΕΣΠΟΤΟΥ ΙΟΥΣΤΙΝΙΑΝΟΥ ΚΤΙΣΜΑΤΩΝ. ΛΟΓΟΣ Αʹ.
+* De aedificiis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΚΟΠΙΟΥ ΡΗΤΟΡΟΣ ΤΟΥ ΚΑΙΣΑΡΕΩΣ ΠΕΡΙ ΤΩΝ ΤΟΥ ∆ΕΣΠΟΤΟΥ
+ΙΟΥΣΤΙΝΙΑΝΟΥ ΚΤΙΣΜΑΤΩΝ.
+ΛΟΓΟΣ Αʹ.
 1.1.1 Οὐκ ἀρετῆς ἐπίδειξιν ποιεῖσθαι ἐθέλων, οὐδὲ λόγου δυνάμει θαρσῶν, οὐδὲ
 χωρίων ἐπὶ τῇ ἐμπειρίᾳ φιλοτιμούμενος, ἐς τῆσδε τῆς ἱστορίας τὴν γραφὴν ὥρμηκα·
 ἐπεὶ οὐκ εἶχον οὐδὲν ὑφ' οὗ ἂν παρρησίας ἐς τόδε ἀγοί1.1.2 μην. ἀλλά μοι πολλάκις

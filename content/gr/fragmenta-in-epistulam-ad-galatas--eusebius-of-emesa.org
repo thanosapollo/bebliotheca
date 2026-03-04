@@ -1,6 +1,7 @@
-#+TITLE: Πατέρα νῦν καλεῖ τὸν θεόν, ἐπειδὴ βούλεται τὴν ἐκκλησίαν εἰς υἱοθεσίαν
+#+TITLE: Fragmenta in epistulam ad Galatas
 #+AUTHOR: Εὐσέβιος Ἐμέσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Galatas
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

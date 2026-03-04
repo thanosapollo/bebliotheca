@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΜΕΓΑΝ ΜΑΡΤΥΡΑ ΘΕΟ∆ΩΡΟΝ.
+#+TITLE: De sancto Theodoro
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sancto Theodoro
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancto-theodoro--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΜΕΓΑΝ ΜΑΡΤΥΡΑ ΘΕΟ∆ΩΡΟΝ.
+* De sancto Theodoro
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΜΕΓΑΝ ΜΑΡΤΥΡΑ ΘΕΟ∆ΩΡΟΝ.
 Ὑμεῖς ὁ τοῦ Χριστοῦ λαὸς, ἡ ἁγία ποίμνη, τὸ βασίλειον ἱεράτευμα, οἱ
 πανταχόθεν ἀστικοί τε καὶ χωριτικοὶ συῤῥεύσαντες δῆμοι, πόθεν λαβόντες τὸ
 σύνθημα τῆς ὁδοῦ, πρὸς τὸν ἱερὸν τοῦτον ἐδημαγωγή θητε τόπον; Τίς ὑμῖν τῆς

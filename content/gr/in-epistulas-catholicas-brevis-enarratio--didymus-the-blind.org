@@ -1,17 +1,19 @@
-#+TITLE: 1 ∆ιδύμου. Ὡς γὰρ οἱ τοῦ κόσμου ἄνθρωποι ἐν ταῖς συγγραφαῖς τῶν
+#+TITLE: In epistulas catholicas brevis enarratio
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In epistulas catholicas brevis enarratio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-epistulas-catholicas-brevis-enarratio--didymus-the-blind
 #+LANGUAGE: el
 
-* 1 ∆ιδύμου. Ὡς γὰρ οἱ τοῦ κόσμου ἄνθρωποι ἐν ταῖς συγγραφαῖς τῶν
+* In epistulas catholicas brevis enarratio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 ∆ιδύμου. Ὡς γὰρ οἱ τοῦ κόσμου ἄνθρωποι ἐν ταῖς συγγραφαῖς τῶν
 βιωτικῶν συναλλαγμάτων ἐκ τῶν περὶ αὐτοὺς ἀξιωμάτων χρηματίζειν θέλουσιν,
 οὕτω καὶ οἱ ἀπόστολοι ἐν ταῖς ἀρχαῖς τῶν συγγραμμάτων αὐτῶν δοῦλοι θεοῦ καὶ
 Χριστοῦ χρηματίζειν ἀξιοῦσιν. (Cr 2, 8–12)

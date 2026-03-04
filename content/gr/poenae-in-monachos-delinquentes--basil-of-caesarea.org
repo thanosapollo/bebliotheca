@@ -1,17 +1,19 @@
-#+TITLE: ΕΠΙΤΙΜΙΑ.
+#+TITLE: Poenae in monachos delinquentes
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Poenae in monachos delinquentes
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/poenae-in-monachos-delinquentes--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΕΠΙΤΙΜΙΑ.
+* Poenae in monachos delinquentes
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΠΙΤΙΜΙΑ.
 αʹ Εἴ τις ὑγιαίνων τῷ σώματι ἀμελοίη τῶν προσευχῶν, ἢ τῆς ἐκμαθήσεως
 τῶν ψαλμῶν, προφασι ζόμενος προφάσεις ἐν ἁμαρτίαις, οὗτος ἀφοριζέσθω, ἢ
 νηστευέτω ἑβδομάδα μίαν. βʹ Εἴ τις ἐλέγχοιτο ἐπὶ πταίσματι μετὰ ἀγάπης, καὶ μὴ

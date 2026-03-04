@@ -1,6 +1,7 @@
-#+TITLE: ΕΠΙΜΕΡΙΣΜΟΙ ΣΥΝ ΘΕΩΙ ΤΟΥ ΨΑΛΤΗΡΙΟΥ ΑΠΟ ΦΩΝΗΣ ΓΕΩΡΓΙΟΥ ΤΟΥ ΕΠΙΚΛΗΝ ΧΟΙΡΟΒΟΣΚΟΥ.
+#+TITLE: Epimerismi in Psalmos
 #+AUTHOR: Γεώργιος Χοιροβοσκός
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Epimerismi in Psalmos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

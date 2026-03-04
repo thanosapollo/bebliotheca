@@ -1,17 +1,19 @@
-#+TITLE: ὥσπερ δὲ ἐπὶ τοῦ καθ' ἡμᾶς παραδείγματος ὁ μὲν ἀόρατος καὶ ἀφανὴς ἐν ἡμῖν νοῦς,
+#+TITLE: De theophania
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De theophania
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-theophania--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* ὥσπερ δὲ ἐπὶ τοῦ καθ' ἡμᾶς παραδείγματος ὁ μὲν ἀόρατος καὶ ἀφανὴς ἐν ἡμῖν νοῦς,
+* De theophania
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ὥσπερ δὲ ἐπὶ τοῦ καθ' ἡμᾶς παραδείγματος ὁ μὲν ἀόρατος καὶ ἀφανὴς ἐν ἡμῖν νοῦς,
 ὃν ὅστις ποτὲ καὶ ὁποῖος ὢν τὴν οὐσίαν ὑπάρχει οὐδεὶς πώποτε ἀνθρώπων ἔγνω,
 βασιλεὺς δ' οἷα ἐν ἀπορρήτοις εἴσω τοῖς αὐτοῦ ταμείοις καθιδρυμένος τὰ πρακτέα
 βουλεύεται, λόγος δ' ἐξ αὐτοῦ πρόεισι μονογενής, οἷα πατρὸς ἐξ ἀδύτων μυχῶν

@@ -1,17 +1,20 @@
-#+TITLE: ΕΥΓΓΡΑΦΗ ΧΡΟΝΟΓΡΑΦΙΟΥ ΤΑ ΚΑΤΑ ΛΕΟΝΤΑ ΥΙΟΝ ΒΑΡ∆Α ΤΟΥ ΑΡΜΕΝΙΟΥ ΠΕΡΙΕΧΟΥΣΑ.
+#+TITLE: De Leone Armenio
 #+AUTHOR: Λέων Γραμματικός
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: De Leone Armenio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-leone-armenio--leo-grammaticus
 #+LANGUAGE: el
 
-* ΕΥΓΓΡΑΦΗ ΧΡΟΝΟΓΡΑΦΙΟΥ ΤΑ ΚΑΤΑ ΛΕΟΝΤΑ ΥΙΟΝ ΒΑΡ∆Α ΤΟΥ ΑΡΜΕΝΙΟΥ ΠΕΡΙΕΧΟΥΣΑ.
+* De Leone Armenio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΓΓΡΑΦΗ ΧΡΟΝΟΓΡΑΦΙΟΥ ΤΑ ΚΑΤΑ ΛΕΟΝΤΑ ΥΙΟΝ ΒΑΡ∆Α ΤΟΥ
+ΑΡΜΕΝΙΟΥ ΠΕΡΙΕΧΟΥΣΑ.
 Καὶ λοιπὸν Μιχαὴλ ὁ βασιλεὺς τῷ πρώτῳ ἔτει τὴν βασιλείας αὐτοῦ ἔστεψε
 τὸν υἱὸν αὐτοῦ Θεοφύλακτον εἰς τὰς ἑορτὰς, προελθούσης καὶ τῆς γυναικὸς αὐτοῦ
 Προκοπίας μετὰ δόξης πολλῆς καὶ παρασταθείσης ἔμπροσθεν τοῦ θυσιαστηρίου καὶ

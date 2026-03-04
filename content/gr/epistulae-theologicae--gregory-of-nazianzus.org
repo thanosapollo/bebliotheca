@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ αὐτοῦ πρὸς Κληδόνιον πρεσβύτερον ἐπιστολὴ πρώτη 101.1 Τῷ τιμιωτάτῳ καὶ θεοφιλεστάτῳ ἀδελφῷ καὶ συμπρεσβυτέρῳ
+#+TITLE: Epistulae theologicae
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistulae theologicae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistulae-theologicae--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ πρὸς Κληδόνιον πρεσβύτερον ἐπιστολὴ πρώτη 101.1 Τῷ τιμιωτάτῳ καὶ θεοφιλεστάτῳ ἀδελφῷ καὶ συμπρεσβυτέρῳ
+* Epistulae theologicae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ πρὸς Κληδόνιον πρεσβύτερον ἐπιστολὴ πρώτη
+101.1 Τῷ τιμιωτάτῳ καὶ θεοφιλεστάτῳ ἀδελφῷ καὶ συμπρεσβυτέρῳ
 Κληδονίῳ Γρηγόριος ἐν Κυρίῳ χαίρειν. 101.2 Βουλόμεθα μαθεῖν τίς ἡ καινοτομία
 περὶ τὴν Ἐκκλη σίαν, ἵν' ἐξῇ παντὶ βουλομένῳ καὶ «παραπορευομένῳ», κατὰ τὸ
 γεγραμμένον, διασπᾶν τὴν ποίμνην καλῶς ἠγμένην καὶ συλαγωγεῖν κλοπιμαίοις

@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν Ῥαχὴλ καὶ εἰς τὰ νήπια. 61.697
+#+TITLE: In Rachelem et infantes
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Rachelem et infantes
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-rachelem-et-infantes--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν Ῥαχὴλ καὶ εἰς τὰ νήπια. 61.697
+* In Rachelem et infantes
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν Ῥαχὴλ καὶ εἰς τὰ νήπια.
+=61.697=
 Ὥσπερ οἱ τοὺς ἡδίστους καρποὺς τῶν ἀκροδρύων λαμβάνοντες, ὁμοῦ τοῖς
 κλάδοις καὶ τοῖς δένδρεσι τοὺς ἐπαίνους διδόασι· τὸν αὐτὸν δὲ τρόπον καὶ ἡμεῖς, ἀγα
 πητοὶ, τοὺς καρποὺς τῶν λόγων παρὰ τοῦ προλαβόντος διδασκάλου λαβόντες, ὁμοῦ

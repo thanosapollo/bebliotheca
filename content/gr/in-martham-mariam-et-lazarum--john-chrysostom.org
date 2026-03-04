@@ -1,17 +1,20 @@
-#+TITLE: Εἰς Μάρθαν καὶ Μαρίαν καὶ Λάζαρον, καὶ Ἠλίαν τὸν προφήτην. 61.701
+#+TITLE: In Martham Mariam et Lazarum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Martham Mariam et Lazarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-martham-mariam-et-lazarum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς Μάρθαν καὶ Μαρίαν καὶ Λάζαρον, καὶ Ἠλίαν τὸν προφήτην. 61.701
+* In Martham Mariam et Lazarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς Μάρθαν καὶ Μαρίαν καὶ Λάζαρον, καὶ Ἠλίαν τὸν προφήτην.
+=61.701=
 Ὅσοι τῆς ∆εσποτικῆς ἀναστάσεως ἔρωτα φέρετε, τῆς ἀρτίως ἀναγνωσθείσης
 μαρτυρίας τὸ φιλόχριστον μύρον γνησίως ὑποδέξασθε. Ἤδη γὰρ Μαρία μυρίζει, καὶ
 ἡ Ἐκκλησία εὐωδιάζεται· ἤδη τὸ ἀλάβαστρον κενοῦται, καὶ τὸ θυσιαστήριον

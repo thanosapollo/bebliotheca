@@ -1,17 +1,20 @@
-#+TITLE: Ο ΓΝΩΣΤΙΚΟΣ Η ΠΡΟΣ ΤΟΝ ΚΑΤΑΞΙΩΘΕΝΤΑ ΓΝΩΣΕΩΣ 1 Πρακτικοὶ λόγους νοήσουσι πρακτικούς, γνωστικοὶ δὲ ὄψονται γνωστικά.
+#+TITLE: Gnosticus
 #+AUTHOR: Εὐάγριος Ποντικός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Gnosticus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/gnosticus--evagrius-ponticus
 #+LANGUAGE: el
 
-* Ο ΓΝΩΣΤΙΚΟΣ Η ΠΡΟΣ ΤΟΝ ΚΑΤΑΞΙΩΘΕΝΤΑ ΓΝΩΣΕΩΣ 1 Πρακτικοὶ λόγους νοήσουσι πρακτικούς, γνωστικοὶ δὲ ὄψονται γνωστικά.
+* Gnosticus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ο ΓΝΩΣΤΙΚΟΣ Η ΠΡΟΣ ΤΟΝ ΚΑΤΑΞΙΩΘΕΝΤΑ ΓΝΩΣΕΩΣ
+1 Πρακτικοὶ λόγους νοήσουσι πρακτικούς, γνωστικοὶ δὲ ὄψονται γνωστικά.
 2 Πρακτικὸς μέν ἐστιν ὁ τὸ παθητικὸν μέρος τῆς ψυχῆς μόνον ἀπαθὲς
 κεκτημένος.
 3 Γνωστικὸς δὲ ὁ ἁλὸς μὲν λόγον ἐπέχων τοῖς ἀκαθάρτοις, φωτὸς δὲ τοῖς

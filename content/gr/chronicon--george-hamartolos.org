@@ -1,17 +1,19 @@
-#+TITLE: ΠΡΟΛΟΓΟΣ ΧΡΟΝΙΚΗΣ ΙΣΤΟΡΙΑΣ ΓΕΩΡΓΙΟΥ ΜΟΝΑΧΟΥ.
+#+TITLE: Chronicon
 #+AUTHOR: Γεώργιος Ἁμαρτωλός
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Chronicon
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronicon--george-hamartolos
 #+LANGUAGE: el
 
-* ΠΡΟΛΟΓΟΣ ΧΡΟΝΙΚΗΣ ΙΣΤΟΡΙΑΣ ΓΕΩΡΓΙΟΥ ΜΟΝΑΧΟΥ.
+* Chronicon
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΛΟΓΟΣ ΧΡΟΝΙΚΗΣ ΙΣΤΟΡΙΑΣ ΓΕΩΡΓΙΟΥ ΜΟΝΑΧΟΥ.
 Πoλλοὶ μὲν τῶν ἔξω φιλόλογοι καὶ λογογράφοι ἱστορικοί τε καὶ ποιηταὶ καὶ
 χρονογράφοι τὰς τῶν ἀρχαίων βασιλέων καὶ δυναστῶν καὶ τὰς ἀνέκαθεν
 φιλοσόφων καὶ ῥητόρων τε καὶ τῶν ἐπ' εὐγλωττίᾳ καὶ δεινότητι λόγων καὶ

@@ -1,17 +1,19 @@
-#+TITLE: 1.1 ΠΡΟΟΙΜΙΟΝ.
+#+TITLE: Commentarii ad Homeri Odysseam i
 #+AUTHOR: Εὐστάθιος Θεσσαλονίκης
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Commentarii ad Homeri Odysseam i
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-ad-homeri-odysseam-i--eustathius-of-thessalonica
 #+LANGUAGE: el
 
-* 1.1 ΠΡΟΟΙΜΙΟΝ.
+* Commentarii ad Homeri Odysseam i
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1.1 ΠΡΟΟΙΜΙΟΝ.
 Πικροὶ τὴν Ὀδύσσειαν καθὰ καὶ τὴν Ἰλιάδα εἰλήχασι λογισταὶ, καὶ μᾶλλον ταύτην ἤ
 περ ἐκείνην διασπαράττουσι. δίδωσι δὲ λαβὰς ἐκείνοις τὸ καὶ ἐνταῦθα πολὺ τοῦ
 μυθώδους. καὶ τοῦτο διαβάλλοντες ἐκεῖνοι, συνεκβάλλουσι τῷ μύθῳ καὶ τὴν

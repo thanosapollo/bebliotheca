@@ -1,17 +1,22 @@
-#+TITLE: ΟΜΙΛΙΑ Βʹ. Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου εἰς τὴν μετάνοιαν τῶν Νινευϊτῶν. 64.424
+#+TITLE: In poenitentiam Ninivitarum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In poenitentiam Ninivitarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-poenitentiam-ninivitarum--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Βʹ. Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου εἰς τὴν μετάνοιαν τῶν Νινευϊτῶν. 64.424
+* In poenitentiam Ninivitarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Βʹ. Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου
+Κωνσταντινουπόλεως τοῦ Χρυσοστόμου εἰς τὴν μετάνοιαν τῶν
+Νινευϊτῶν.
+=64.424=
 Εὐλόγησον, Πάτερ. Καὶ τὰς προλαβούσας ἡμέρας διδασκαλίας ἀπαιτούσας
 ὁρῶν, καὶ ἐμαυτὸν διὰ τὴν ἀσθένειαν ἠναγκασμένον σιγᾷν, ἠνιώμην, καὶ
 ἐδυσχέραινον, καθάπερ τις πρόθυμος ἀθλητὴς κεκωλυμένος παρὰ τοὺς ἀγῶνας

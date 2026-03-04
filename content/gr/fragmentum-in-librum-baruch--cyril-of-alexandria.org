@@ -1,13 +1,14 @@
-#+TITLE: FRAGMENTA EX CATENIS IN LIBRUM BARUCH
+#+TITLE: Fragmentum in librum Baruch
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmentum in librum Baruch
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-librum-baruch--cyril-of-alexandria
 #+LANGUAGE: el
 
-* FRAGMENTA EX CATENIS IN LIBRUM BARUCH
+* Fragmentum in librum Baruch
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

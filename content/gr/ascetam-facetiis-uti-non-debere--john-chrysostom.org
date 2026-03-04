@@ -1,17 +1,20 @@
-#+TITLE: ΟΤΙ ΟΥ ΧΡΗ ΕΥΤΡΑΠΕΛΙΖΕΙΝ ΤΟΝ ΑΣΚΗΤΗΝ 48.1055
+#+TITLE: Ascetam facetiis uti non debere
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ascetam facetiis uti non debere
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ascetam-facetiis-uti-non-debere--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΤΙ ΟΥ ΧΡΗ ΕΥΤΡΑΠΕΛΙΖΕΙΝ ΤΟΝ ΑΣΚΗΤΗΝ 48.1055
+* Ascetam facetiis uti non debere
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΤΙ ΟΥ ΧΡΗ ΕΥΤΡΑΠΕΛΙΖΕΙΝ ΤΟΝ ΑΣΚΗΤΗΝ
+=48.1055=
 Πανάγιαι αἱ παραινέσεις τοῦ μακαρίου Παύλου, μετὰ φόβου κελεύουσαι τὴν
 ἑαυτῶν σωτηρίαν κατεργάζεσθαι. Ὁ γὰρ μὴ μετὰ φόβου καὶ πολλῆς ἐπιμελείας τὴν
 ἄσκησιν τῆς ἀρετῆς ἐργαζόμενος, πολλὰς ὑφίσταται τὰς εἰς τὸ κακὸν ἐκτροπὰς, καὶ

@@ -1,17 +1,19 @@
-#+TITLE: ΕΚ ΤΩΝ ΕΙΣ ΤΟΝ ΩΣΕΕ ΕΞΗΓΗΤΙΚΩΝ.
+#+TITLE: Fragmentum ex commentariis in Osee
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmentum ex commentariis in Osee
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmentum-ex-commentariis-in-osee--origen
 #+LANGUAGE: el
 
-* ΕΚ ΤΩΝ ΕΙΣ ΤΟΝ ΩΣΕΕ ΕΞΗΓΗΤΙΚΩΝ.
+* Fragmentum ex commentariis in Osee
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚ ΤΩΝ ΕΙΣ ΤΟΝ ΩΣΕΕ ΕΞΗΓΗΤΙΚΩΝ.
 =13.825= Ἐπειδὴ τὰ σολοικοειδῶς εἰρημένα κατὰ τὴν Γραφὴν ὅσα κατὰ τὴν λέξιν
 συγχύνει τὸν ἐντυγχάνοντα, ὡς ὑπονοεῖν οὐκ ὀρθῶς, οὐδὲ ἀκολούθως, οὐδὲ ὡς ἔχει,
 γεγράφθαι τὰ ῥητά· ὡς καὶ τολμᾷν τινας, προφάσει διορθώσεως, ἀλλοιοῦν,

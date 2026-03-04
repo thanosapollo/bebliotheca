@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τοὺς κορυφαίους τῶν ἀποστόλων Πέτρον καὶ Παῦλον, καὶ τὸ αὐτῶν
+#+TITLE: In Petrum et Paulum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Petrum et Paulum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-petrum-et-paulum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τοὺς κορυφαίους τῶν ἀποστόλων Πέτρον καὶ Παῦλον, καὶ τὸ αὐτῶν
+* In Petrum et Paulum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τοὺς κορυφαίους τῶν ἀποστόλων Πέτρον καὶ Παῦλον, καὶ τὸ αὐτῶν
 μαρτύριον ἐνδοξότατον.
 =59.491=
 αʹ. Οὐρανοῦ καὶ γῆς ἅμιλλαν ὁρῶ διὰ τὴν παροῦσαν πανήγυριν τῆς μνήμης

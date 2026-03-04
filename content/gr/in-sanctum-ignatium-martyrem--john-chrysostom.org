@@ -1,17 +1,19 @@
-#+TITLE: ΕΓΚΩΜΙΟΝ Εἰς τὸν ἅγιον ἱερομάρτυρα Ἰγνάτιον τὸν θεοφόρον
+#+TITLE: In sanctum Ignatium martyrem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum Ignatium martyrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-ignatium-martyrem--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΓΚΩΜΙΟΝ Εἰς τὸν ἅγιον ἱερομάρτυρα Ἰγνάτιον τὸν θεοφόρον
+* In sanctum Ignatium martyrem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΓΚΩΜΙΟΝ Εἰς τὸν ἅγιον ἱερομάρτυρα Ἰγνάτιον τὸν θεοφόρον
 ἀρχιεπίσκοπον γενόμενον Ἀντιοχείας τῆς μεγάλης εἰς Ῥώμην
 ἀπενεχθέντα, καὶ αὐτόθι μαρτυρήσαντα, κακεῖθεν αὖθις εἰς Ἀντιόχειαν
 κομισθέντα.

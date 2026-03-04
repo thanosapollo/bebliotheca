@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸ "καὶ ἐρεῖς πρὸς τὸν λαόν τοῦτον· τάδε λέγει κύριος ὁ θεὸς Ἰσραήλ· πᾶς ἀσκὸς
+#+TITLE: In Jeremiam
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: In Jeremiam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-jeremiam-1--origen
 #+LANGUAGE: el
 
-* Εἰς τὸ "καὶ ἐρεῖς πρὸς τὸν λαόν τοῦτον· τάδε λέγει κύριος ὁ θεὸς Ἰσραήλ· πᾶς ἀσκὸς
+* In Jeremiam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸ "καὶ ἐρεῖς πρὸς τὸν λαόν τοῦτον· τάδε λέγει κύριος ὁ θεὸς Ἰσραήλ· πᾶς ἀσκὸς
 πληρωθήσεται οἴνου" μέχρι τοῦ "καὶ κατάξουσιν οἱ ὀφθαλμοὶ ὑμῶν δάκρυα, ὅτι
 συνετρίβη τὸ ποίμνιον τοῦ κυρίου".
 Ὁμιλία ιβʹ.

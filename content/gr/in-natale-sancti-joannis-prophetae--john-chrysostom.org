@@ -1,17 +1,21 @@
-#+TITLE: Εἰς γέννησιν τοῦ ἁγίου Ἰωάννου τοῦ προφήτου, προδρόμου καὶ βαπτιστοῦ. 61.757
+#+TITLE: In natale sancti Joannis prophetae
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In natale sancti Joannis prophetae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-natale-sancti-joannis-prophetae--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς γέννησιν τοῦ ἁγίου Ἰωάννου τοῦ προφήτου, προδρόμου καὶ βαπτιστοῦ. 61.757
+* In natale sancti Joannis prophetae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς γέννησιν τοῦ ἁγίου Ἰωάννου τοῦ προφήτου, προδρόμου καὶ
+βαπτιστοῦ.
+=61.757=
 Εὔκαιρος ἡμέρα ἑορτῆς καὶ πανδήμου χαρᾶς, ἐν ᾗ ὑπεμνήσθην τοῦ Γαβριὴλ
 τὴν λειτουργίαν καὶ τοῦ Ζαχαρίου τὴν ἱερατείαν, καὶ ἐννοῶ τὸν ἀφωνίᾳ
 καταδικασθέντα τῇ ἀπιστίᾳ. Ἠκούσατε γὰρ τοῦ εὐαγγελιστοῦ Λουκᾶ, τοῦ ἀνοίξαντος

@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΟ Ἐξελοῦ με, Κύριε, ἐξ ἀνθρώπου πονηροῦ. 55.707
+#+TITLE: In Psalmum 139
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Psalmum 139
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-psalmum-139--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟ Ἐξελοῦ με, Κύριε, ἐξ ἀνθρώπου πονηροῦ. 55.707
+* In Psalmum 139
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟ Ἐξελοῦ με, Κύριε, ἐξ ἀνθρώπου πονηροῦ.
+=55.707=
 αʹ. Θαυμάζω τί δήποτε ὁ προφήτης οὐκ ηὔξατο ῥυσθῆναι ἀπὸ δαιμόνων, ἢ
 λεόντων, ἢ δρακόντων, ἀλλ' ἐξ ἀνθρώ που πονηροῦ. ∆ῆλον οὖν ὅτι χείρονές εἰσιν οἱ
 πονηροὶ ἄνθρωποι τῶν λεόντων. Οἱ μὲν γὰρ λέοντες τὸν ∆ανιὴλ ἐνετράπησαν,

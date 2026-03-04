@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΚΑΤΑ ΠΑΣΩΝ ΤΩΝ ΑΙΡΕΣΕΩΝ.
+#+TITLE: Sermo contra omnes haereses
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo contra omnes haereses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-contra-omnes-haereses--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΚΑΤΑ ΠΑΣΩΝ ΤΩΝ ΑΙΡΕΣΕΩΝ.
+* Sermo contra omnes haereses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΚΑΤΑ ΠΑΣΩΝ ΤΩΝ
+ΑΙΡΕΣΕΩΝ.
 Τὸ προκείμενον ἀπὸ τοῦ Εὐαγγελίου τοῦ κατὰ Ἰωάννην· «Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ
 Λόγος ἦν πρὸς τὸν Θεὸν, καὶ Θεὸς ἦν ὁ Λόγος. Οὗτος ἦν ἐν =28.504= ἀρχῇ πρὸς τὸν
 Θεόν. Πάντα δι' αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἓν, ὃ γέγονεν.» Ἕκα

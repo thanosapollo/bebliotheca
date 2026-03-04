@@ -1,17 +1,20 @@
-#+TITLE: ̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τοὺς ἁγίους ἀποστόλους Πέτρον καὶ Παῦλον.
+#+TITLE: In sanctos Petrum et Paulum
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: In sanctos Petrum et Paulum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctos-petrum-et-paulum--hesychius-of-jerusalem
 #+LANGUAGE: el
 
-* ̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τοὺς ἁγίους ἀποστόλους Πέτρον καὶ Παῦλον.
+* In sanctos Petrum et Paulum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τοὺς ἁγίους
+ἀποστόλους Πέτρον καὶ Παῦλον.
 1 Καλὸν μὲν τὸ ῥόδον, τῆς ἐαρινῆς ὥρας αὐτῷ προσφερούσης ὀσφραίνεσθαι,
 ἀλλ' ἐὰν τῷ κρίνῳ συμπλακῇ εἰκότως εὐωδέστερον γίνεται· μύρον γὰρ μύρῳ
 κιρνᾶται καὶ διπλῆ τῆς ἐντεῦθεν εὐω δίας ἀπόλαυσις γίνεται. Λαμπρὸς καθ' ἑαυτὸν ὁ

@@ -1,17 +1,20 @@
-#+TITLE: ΣΩΚΡΑΤΟΥΣ ΣΧΟΛΑΣΤΙΚΟΥ ΕΚΚΛΗΣΙΑΣΤΙΚΗ ΙΣΤΟΡΙΑ 1.1 Τὸ τοῦ βιβλίου προοίμιον.
+#+TITLE: Historia ecclesiastica
 #+AUTHOR: Σωκράτης Σχολαστικός
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Historia ecclesiastica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historia-ecclesiastica--socrates-scholasticus
 #+LANGUAGE: el
 
-* ΣΩΚΡΑΤΟΥΣ ΣΧΟΛΑΣΤΙΚΟΥ ΕΚΚΛΗΣΙΑΣΤΙΚΗ ΙΣΤΟΡΙΑ 1.1 Τὸ τοῦ βιβλίου προοίμιον.
+* Historia ecclesiastica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΩΚΡΑΤΟΥΣ ΣΧΟΛΑΣΤΙΚΟΥ ΕΚΚΛΗΣΙΑΣΤΙΚΗ ΙΣΤΟΡΙΑ
+1.1 Τὸ τοῦ βιβλίου προοίμιον.
 Εὐσέβιος ὁ Παμφίλου ἐν ὅλοις δέκα βιβλίοις τὴν ἐκκλησιαστικὴν ἱστορίαν
 ἐκθέμενος, κατέπαυσεν εἰς τοὺς χρόνους τοῦ βασιλέως Κωνσταντίνου, ἐν οἷς καὶ ὁ
 παρὰ τοῦ ∆ιοκλητιανοῦ κατὰ Χριστιανῶν γενόμενος διωγμὸς ἀπεπαύσατο. Γράφων

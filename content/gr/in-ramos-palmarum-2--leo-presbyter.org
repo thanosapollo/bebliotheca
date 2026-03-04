@@ -1,17 +1,19 @@
-#+TITLE: Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὰ προφωτίσματα
+#+TITLE: In ramos palmarum
 #+AUTHOR: Λέων Πρεσβύτερος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: In ramos palmarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ramos-palmarum-2--leo-presbyter
 #+LANGUAGE: el
 
-* Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὰ προφωτίσματα
+* In ramos palmarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὰ προφωτίσματα
 καὶ εἰς τὰ βαΐα καὶ εἰς τὴν ἔγερσιν τοῦ Λαζάρου
 Ἤδη τῆς δεσποτικῆς πανηγύρεως παρακύπτει τὰ χαρίσματα, ἤδη τῆς
 πανευφήμου ἑορτῆς προτρέχει τὰ σήμαντρα, ἤδη τοῦ ἀΰλου νυμφίου προλάμπει τὰ

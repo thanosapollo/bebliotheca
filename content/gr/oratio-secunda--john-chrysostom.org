@@ -1,17 +1,20 @@
-#+TITLE: ΕΥΧΗ ∆ΕΥΤΕΡΑ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ. 63.923
+#+TITLE: Oratio secunda
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Oratio secunda
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-secunda--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΥΧΗ ∆ΕΥΤΕΡΑ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ. 63.923
+* Oratio secunda
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΧΗ ∆ΕΥΤΕΡΑ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ.
+=63.923=
 Κύριε ὁ Θεός μου, ὁ μέγας καὶ φοβερὸς καὶ ἔνδοξος, ὁ πάσης ὁρωμένης καὶ
 νοουμένης κτίσεως δημιουργὸς, ὁ φυλάσσων τὴν διαθήκην σου καὶ τὸ ἕλεός σου
 τοῖς ἀγαπῶσί σε καὶ φυλάσσουσι τὰ προστάγματά σου· καὶ νῦν καὶ πάντοτε

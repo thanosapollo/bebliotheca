@@ -1,17 +1,19 @@
-#+TITLE: οἱ δὲ θεὸν προσέειπον, ὅσ' ἔπλετο, ἀφραδίῃσιν· ὣς τότε καὶ λαῷ κενεόφρονι
+#+TITLE: De testamentis et adventu Christi
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De testamentis et adventu Christi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-testamentis-et-adventu-christi--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* οἱ δὲ θεὸν προσέειπον, ὅσ' ἔπλετο, ἀφραδίῃσιν· ὣς τότε καὶ λαῷ κενεόφρονι
+* De testamentis et adventu Christi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+οἱ δὲ θεὸν προσέειπον, ὅσ' ἔπλετο, ἀφραδίῃσιν· ὣς τότε καὶ λαῷ κενεόφρονι
 πιστὸς Ἀαρών, μόσχον ὅτ' ἐξανέηκε μέσου πυρὸς ὕβριν ἐλέγχων, ἄλλος δ' ἄλλον
 ἔτευξε θεὸν νέον ἡμερίοισιν, πλάσμα νόου–τέχνη δ' ἄρ' ἐφωμάρτησεν ἀλιτρὴ καὶ
 πλοῦτος κακόχαρτος, ὁ δὲ χρόνος αἶσχος ἔπηξεν πλάσμασι καὶ θυέεσσι καὶ

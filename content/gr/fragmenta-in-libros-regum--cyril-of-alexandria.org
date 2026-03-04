@@ -1,17 +1,22 @@
-#+TITLE: ΕΚ ΤΗΣ ΕΡΜΗΝΕΙΑΣ ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΕΙΣ ΤΑΣ ΒΑΣΙΛΕΙΩΝ ΒΙΒΛΟΥΣ ΒΙΒΛΟΣ Αʹ. 69.680 Καὶ ἔλαβε Σαμουὴλ ἄρνα γαλαθηνὸν ἔνα. Κυρίλλου ἀρχιεπισκόπου
+#+TITLE: Fragmenta in libros Regum
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmenta in libros Regum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-libros-regum--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΕΚ ΤΗΣ ΕΡΜΗΝΕΙΑΣ ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΕΙΣ ΤΑΣ ΒΑΣΙΛΕΙΩΝ ΒΙΒΛΟΥΣ ΒΙΒΛΟΣ Αʹ. 69.680 Καὶ ἔλαβε Σαμουὴλ ἄρνα γαλαθηνὸν ἔνα. Κυρίλλου ἀρχιεπισκόπου
+* Fragmenta in libros Regum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚ ΤΗΣ ΕΡΜΗΝΕΙΑΣ ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΕΙΣ ΤΑΣ ΒΑΣΙΛΕΙΩΝ
+ΒΙΒΛΟΥΣ ΒΙΒΛΟΣ Αʹ.
+=69.680=
+Καὶ ἔλαβε Σαμουὴλ ἄρνα γαλαθηνὸν ἔνα. Κυρίλλου ἀρχιεπισκόπου
 Ἀλεξανδρείας. Ὁρᾷς ὅπως μεσίτην ὁμοῦ καὶ τῆς σωτηρίας πρύτανιν ἐποιεῖτο
 Χριστόν; καὶ τὸ ἐπ' αὐτῷ μυστήριον, ὅπλον οἷάπερ ἀῤῥαγὲς, ταῖς τῶν ἀλλοφύλων
 ἐφόδοις ἀντανιστὰς σέσωκε τὸν Ἰσραήλ; Ἄρνα γὰρ γαλαθηνὸν ἔθυσεν εἰς τύπον

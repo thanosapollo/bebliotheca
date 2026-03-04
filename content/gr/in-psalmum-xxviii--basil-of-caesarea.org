@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΚΗʹ ΨΑΛΜΟΝ. Προσκυνήσατε τῷ Κυρίῳ ἐν αὐλῇ ἁγίᾳ αὐτοῦ.
+#+TITLE: In Psalmum XXVIII
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Psalmum XXVIII
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-psalmum-xxviii--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΕΙΣ ΚΗʹ ΨΑΛΜΟΝ. Προσκυνήσατε τῷ Κυρίῳ ἐν αὐλῇ ἁγίᾳ αὐτοῦ.
+* In Psalmum XXVIII
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΚΗʹ ΨΑΛΜΟΝ.
+Προσκυνήσατε τῷ Κυρίῳ ἐν αὐλῇ ἁγίᾳ αὐτοῦ.
 Ἔξω τῆς ἁγίας αὐλῆς οὐ χρὴ προσκυνεῖν τῷ Κυρίῳ, ἀλλ' ἔνδον γενόμενον·
 τουτέστι, μὴ ἐκβαίνειν =30.73= τοῦ συστήματος τῆς Ἐκκλησίας, καὶ καθ' ἑαυτὸν
 κατάρχειν παρασυναγωγῆς καὶ σχισμάτων, τὸν ὀφεί λοντα ἀληθινῶς τῷ Θεῷ

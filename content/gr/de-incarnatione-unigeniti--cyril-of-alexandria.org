@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΠΕΡΙ ΤΗΣ ΕΝΑΝΘΡΩΠΗΣΕΩΣ ΤΟΥ ΜΟΝΟΓΕΝΟΥΣ καὶ
+#+TITLE: De incarnatione unigeniti
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: De incarnatione unigeniti
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

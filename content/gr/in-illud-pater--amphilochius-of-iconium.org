@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ὁσίου πατρὸς ἡμῶν Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος κατὰ
+#+TITLE: In illud Pater
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Pater
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-pater--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* Τοῦ ὁσίου πατρὸς ἡμῶν Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος κατὰ
+* In illud Pater
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ὁσίου πατρὸς ἡμῶν Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος κατὰ
 αἱρετικῶν εἰς τό· Πάτερ εἰ δυνατόν ἐστιν παρελθέτω ἀπ' ἐμοῦ τὸ
 ποτήριον τοῦτο.
 Πάλιν ὡς στρατιώτης ἔννομος τὴν πρὸς τοὺς αἱρετικοὺς ἀναδέχομαι μάχην,

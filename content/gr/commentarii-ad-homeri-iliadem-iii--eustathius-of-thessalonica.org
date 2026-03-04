@@ -1,17 +1,19 @@
-#+TITLE: 3.1 ΕΚ ΤΩΝ ΤΗΣ ΚΑΠΠΑ
+#+TITLE: Commentarii ad Homeri Iliadem iii
 #+AUTHOR: Εὐστάθιος Θεσσαλονίκης
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Commentarii ad Homeri Iliadem iii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-ad-homeri-iliadem-iii--eustathius-of-thessalonica
 #+LANGUAGE: el
 
-* 3.1 ΕΚ ΤΩΝ ΤΗΣ ΚΑΠΠΑ
+* Commentarii ad Homeri Iliadem iii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+3.1 ΕΚ ΤΩΝ ΤΗΣ ΚΑΠΠΑ
 Ὅτι τῆς κάππα ῥαψῳδίας πραγματειώδης μὲν ἐπιγραφικὴ δήλωσις αὕτη· Κάππα,
 Ῥήσου τὴν κεφαλὴν ἕλε Τυδέος υἱός, κοινὴ δὲ ἥδε· νυκτεγερσία καὶ ∆ολωνοφονία,
 καθ' ἣν δηλαδὴ ὁ ∆όλων πεφόνευται. πολλοὶ δὲ τῶν παλαιῶν καὶ ∆ολώνειαν

@@ -1,17 +1,19 @@
-#+TITLE: Ἀπόδειξις· Ὅτι μείζων πάντων τῶν ἁγίων ὁ ἅγιος Παῦλος.
+#+TITLE: In sanctum Paulum apostolum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum Paulum apostolum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-paulum-apostolum--john-chrysostom
 #+LANGUAGE: el
 
-* Ἀπόδειξις· Ὅτι μείζων πάντων τῶν ἁγίων ὁ ἅγιος Παῦλος.
+* In sanctum Paulum apostolum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀπόδειξις· Ὅτι μείζων πάντων τῶν ἁγίων ὁ ἅγιος Παῦλος.
 Ἴδετε πηλίκοις ὑμῖν, φησί, γράμμασιν ἔγραψα τῇ ἐμῇ χειρί. Ὡς γὰρ ἐν τοῖς
 πολλοῖς ἀνεπίληπτος, οὕτω καὶ ἐνταῦθα ἔγκριτος καινοτέρῳ μέλανι χρώμενος·
 οὐδὲν γὰρ αὐτῷ μέλαν οὐδὲ σκοτεινὸν παρ' αὐτῷ οὐδὲ ἀνθρώπινον· ὑπερέβη πᾶσαν

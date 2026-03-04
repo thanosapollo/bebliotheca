@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πάτρος ἡμῶν Ἀστερίου ἐπισκόπου Ἀμασείας ὁμιλία ἐκ τοῦ
+#+TITLE: Homiliae
 #+AUTHOR: Ἀστέριος Ἀμασείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homiliae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homiliae--asterius-of-amasea
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πάτρος ἡμῶν Ἀστερίου ἐπισκόπου Ἀμασείας ὁμιλία ἐκ τοῦ
+* Homiliae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πάτρος ἡμῶν Ἀστερίου ἐπισκόπου Ἀμασείας ὁμιλία ἐκ τοῦ
 κατὰ Λουκᾶν εὐαγγελίου εἰς τὸν πλούσιον καὶ εἰς τὸν Λάζαρον
 1.1.1 Οὐ τοῖς ἀποφατικοῖς καὶ δογματικοῖς μόνον θεσπίσμασιν ὁ Θεὸς ἡμῶν καὶ
 σωτὴρ παιδεύει τοὺς ἀνθρώπους, ὥστε μισεῖν κακίαν καὶ ἀγαπᾶν ἀρετήν, ἀλλὰ καὶ

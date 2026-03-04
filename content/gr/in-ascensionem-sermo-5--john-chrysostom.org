@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΗΝ ΑΝΑΛΗΨΙΝ Λόγος εʹ. 52.801
+#+TITLE: In ascensionem Sermo 5
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In ascensionem Sermo 5
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ascensionem-sermo-5--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΗΝ ΑΝΑΛΗΨΙΝ Λόγος εʹ. 52.801
+* In ascensionem Sermo 5
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΗΝ ΑΝΑΛΗΨΙΝ Λόγος εʹ.
+=52.801=
 Ἐπέστη τῆς ∆εσποτικῆς ἀναλήψεως ἡ ἡμέρα· καὶ προσοδοιπορησάντων
 πολλῶν ὃν καὶ τὴν ἡμετέραν βραχύτητα πρὸς λόγους ὁ πατὴρ προετρέψατο. Καὶ
 δίκαιον ἡμῖν κατεφαίνετο, κάλυμμα τῆς βραχυλογίας τὴν σιωπὴν ἐπιφέρεσθαι, καὶ

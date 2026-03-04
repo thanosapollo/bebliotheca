@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΑΥΜΑΤΟΥΡΓΟΥ ΛΟΓΟΣ ΕΙΣ ΤΟΥΣ ΑΓΙΟΥΣ ΠΑΝΤΑΣ Εὐλόγησον, ∆έσποτα. Ἡρεμεῖν ἐβουλόμην, καὶ μὴ δημοσιεύειν
+#+TITLE: Sermo in omnes sanctos
 #+AUTHOR: Γρηγόριος Θαυματουργός
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Sermo in omnes sanctos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-in-omnes-sanctos--gregory-thaumaturgus
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΑΥΜΑΤΟΥΡΓΟΥ ΛΟΓΟΣ ΕΙΣ ΤΟΥΣ ΑΓΙΟΥΣ ΠΑΝΤΑΣ Εὐλόγησον, ∆έσποτα. Ἡρεμεῖν ἐβουλόμην, καὶ μὴ δημοσιεύειν
+* Sermo in omnes sanctos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΑΥΜΑΤΟΥΡΓΟΥ
+ΛΟΓΟΣ ΕΙΣ ΤΟΥΣ ΑΓΙΟΥΣ ΠΑΝΤΑΣ
+Εὐλόγησον, ∆έσποτα.
+Ἡρεμεῖν ἐβουλόμην, καὶ μὴ δημοσιεύειν
 ἀγροικίζουσαν γλῶσσαν· μέγα γὰρ σιωπὴ, ὅτ' ἂν ὁ λόγος εὐτελής· καὶ θαυμαστὸν
 ἡσυχία, ἀπαιδευσίας παρούσης· φιλόσοφός τε ἄκρος διὰ σιγῆς καλύπτων ἀμαθίαν.
 Τοῦτο κἀγὼ πράττειν προῃρούμην τὸ ἀσθε =10.1200= νὲς τῆς οἰκείας ἐπιστάμενος

@@ -1,16 +1,23 @@
-#+TITLE: ⌧ \ \ \
+#+TITLE: In pentecosten
 #+AUTHOR: Λέων Πρεσβύτερος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: In pentecosten
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-pentecosten-1--leo-presbyter
 #+LANGUAGE: el
 
-* ⌧ \ \ \
+* In pentecosten
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
+
+⌧
+\
+\
+
+\
 
 \
 

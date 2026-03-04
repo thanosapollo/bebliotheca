@@ -1,17 +1,19 @@
-#+TITLE: Μελίτωνος πρὸς Ἀντωνῖνον Βιβλίδιον
+#+TITLE: Fragmenta
 #+AUTHOR: Μελίτων Σάρδεων
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Fragmenta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta--melito-of-sardis
 #+LANGUAGE: el
 
-* Μελίτωνος πρὸς Ἀντωνῖνον Βιβλίδιον
+* Fragmenta
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Μελίτωνος πρὸς Ἀντωνῖνον Βιβλίδιον
 1.1 Ἐν δὲ τῷ πρὸς τὸν αὐτοκράτορα βιβλίῳ τοιαῦτά τινα καθ' ἡμῶν ἐπ' αὐτοῦ
 γεγονέναι ἱστορεῖ. «Τὸ γὰρ οὐδεπώποτε γενόμενον, νῦν διώκεται τὸ τῶν θεοσεβῶν
 γένος καινοῖς ἐλαυνόμενον δόγμασιν κατὰ τὴν Ἀσίαν. Οἱ γὰρ ἀναιδεῖς συκοφάνται

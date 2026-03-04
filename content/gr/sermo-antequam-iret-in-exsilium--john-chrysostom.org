@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ ΠΡΟ ΤΗΣ ΕΞΟΡΙΑΣ. 52.427
+#+TITLE: Sermo antequam iret in exsilium
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo antequam iret in exsilium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-antequam-iret-in-exsilium--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ ΠΡΟ ΤΗΣ ΕΞΟΡΙΑΣ. 52.427
+* Sermo antequam iret in exsilium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΟΜΙΛΙΑ ΠΡΟ ΤΗΣ ΕΞΟΡΙΑΣ.
+=52.427=
 αʹ. Πολλὰ τὰ κύματα καὶ χαλεπὸν τὸ κλυδώνιον· ἀλλ' οὐ δεδοίκαμεν, μὴ
 καταποντισθῶμεν· ἐπὶ γὰρ τῆς πέτρας ἑστήκαμεν. Μαινέσθω ἡ θάλασσα, πέτραν
 διαλῦσαι οὐ δύναται· ἐγειρέσθω τὰ κύματα, τοῦ Ἰησοῦ τὸ πλοῖον καταποντίσαι οὐκ

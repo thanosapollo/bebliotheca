@@ -1,17 +1,20 @@
-#+TITLE: 64.1040 IN EPISTOLAM S. JACOBI. ΚΕΦΑΛΑΙΟΝ ΠΡΩΤΟΝ. Πᾶσαν χαρὰν ἡγήσασθε, ἀδελφοί μου, ὅταν πειρασμοῖς περιπέσητε ποικίλοις.
+#+TITLE: Fragmenta in epistulas catholicas
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulas catholicas
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulas-catholicas--john-chrysostom
 #+LANGUAGE: el
 
-* 64.1040 IN EPISTOLAM S. JACOBI. ΚΕΦΑΛΑΙΟΝ ΠΡΩΤΟΝ. Πᾶσαν χαρὰν ἡγήσασθε, ἀδελφοί μου, ὅταν πειρασμοῖς περιπέσητε ποικίλοις.
+* Fragmenta in epistulas catholicas
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΚΕΦΑΛΑΙΟΝ ΠΡΩΤΟΝ.
+Πᾶσαν χαρὰν ἡγήσασθε, ἀδελφοί μου, ὅταν πειρασμοῖς περιπέσητε ποικίλοις.
 ∆εσμὸς γάρ τίς ἐστιν ἡ θλίψις ἀῤῥαγὴς, ἀγάπης αὔξησις, κατανύξεως καὶ εὐλαβείας
 ὑπόθεσις. Ἄκουε γὰρ τοῦ λέγοντος, Εἰ προσέρχῃ δουλεύειν τῷ Κυρίῳ, ἑτοίμασον τὴν
 ψυχήν σου εἰς πειρασμόν. Καὶ ὁ Χριστὸς δὲ πάλιν ἔλεγεν, Ἐν τῷ κόσμῳ θλίψιν ἔχετε·

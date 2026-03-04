@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΤΙΜΟΘΕΟΝ ΕΠΙΣΤΟΛΗΝ ΠΡΩΤΗΝ. ΥΠΟΘΕΣΙΣ.
+#+TITLE: In epistulam i ad Timotheum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In epistulam i ad Timotheum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-epistulam-i-ad-timotheum--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΤΙΜΟΘΕΟΝ ΕΠΙΣΤΟΛΗΝ ΠΡΩΤΗΝ. ΥΠΟΘΕΣΙΣ.
+* In epistulam i ad Timotheum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ
+ΤΙΜΟΘΕΟΝ ΕΠΙΣΤΟΛΗΝ ΠΡΩΤΗΝ.
+ΥΠΟΘΕΣΙΣ.
 Τῶν τοῦ Ἀποστόλου μαθητῶν εἷς καὶ ὁ Τιμόθεος ἦν. Καὶ μαρτυρεῖ μὲν ὁ Λουκᾶς, ὅτι
 θαυμαστός τις νέος ἦν, μαρτυρούμενος ὑπὸ τῶν ἐν Λύστρᾳ καὶ Ἰκονίῳ ἀδελφῶν· ὃς ἅμα
 τε μαθητὴς ἐγένετο, καὶ διδάσκαλος· καὶ οὕτω σφόδρα συνετὸς ἦν, ὡς ἀκούων Παύλου

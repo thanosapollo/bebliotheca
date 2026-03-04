@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΙΕΡΟΜΑΡΤΥΡΑ ΒΑΒΥΛΑΝ 50.527
+#+TITLE: De sancto hieromartyre Babyla
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sancto hieromartyre Babyla
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-sancto-hieromartyre-babyla--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΙΕΡΟΜΑΡΤΥΡΑ ΒΑΒΥΛΑΝ 50.527
+* De sancto hieromartyre Babyla
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΙΕΡΟΜΑΡΤΥΡΑ ΒΑΒΥΛΑΝ
+=50.527=
 αʹ. Ἐγὼ μὲν ἐβουλόμην ἀποδοῦναι τὸ χρέος τήμερον, ὃ πρώην ἐνταῦθα
 γενόμενος ὑπεσχόμην ὑμῖν· ἀλλὰ =50.528= τί πάθω; Μεταξὺ φανεὶς ὁ μακάριος Βαβύλας,
 πρὸς ἑαυτὸν ἡμᾶς ἐκάλεσεν, οὐ φωνὴν ἀφεὶς, ἀλλὰ τῇ =50.529= λαμπηδόνι τῆς ὄψεως

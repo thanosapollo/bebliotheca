@@ -1,6 +1,7 @@
-#+TITLE: ΛΟΓΟΣ ΙΖʹ. Εἰς τὰ ἅγια Φῶτα.
+#+TITLE: In sancta lumina
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sancta lumina
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

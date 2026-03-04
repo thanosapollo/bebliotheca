@@ -1,17 +1,19 @@
-#+TITLE: 2.1 ΥΠΟΘΕΣΙΣ ΤΗΣ Μ. ΟΜΗΡΟΥ ΡΑΨΩΙ∆ΙΑΣ.
+#+TITLE: Commentarii ad Homeri Odysseam ii
 #+AUTHOR: Εὐστάθιος Θεσσαλονίκης
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Commentarii ad Homeri Odysseam ii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-ad-homeri-odysseam-ii--eustathius-of-thessalonica
 #+LANGUAGE: el
 
-* 2.1 ΥΠΟΘΕΣΙΣ ΤΗΣ Μ. ΟΜΗΡΟΥ ΡΑΨΩΙ∆ΙΑΣ.
+* Commentarii ad Homeri Odysseam ii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+2.1 ΥΠΟΘΕΣΙΣ ΤΗΣ Μ. ΟΜΗΡΟΥ ΡΑΨΩΙ∆ΙΑΣ.
 ∆ιηγεῖται τὴν ἐξ Ἅιδου γενομένην αὐτῷ ἐπάνοδον πρὸς Κίρκην, καὶ ὡς τὰς Σειρῆνας
 παρέπλευσε καὶ τὰς Πλαγκτὰς πέτρας, Σκύλλαν τε καὶ Χάρυβδιν, καὶ τὴν τῆς αὐτοῦ
 νεὼς καὶ τῶν ἑταίρων ἀπώλειαν, ἀνελόντων τινὰς τῶν Ἡλίου βοῶν, καὶ ὡς μόνος

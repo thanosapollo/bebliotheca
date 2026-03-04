@@ -1,17 +1,19 @@
-#+TITLE: Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος εἰς τὸν τετραήμερον Λάζαρον
+#+TITLE: In Lazarum
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Lazarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-lazarum--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος εἰς τὸν τετραήμερον Λάζαρον
+* In Lazarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος εἰς τὸν τετραήμερον Λάζαρον
 Φέρε πάλιν εἰς μέσον τὸν εὐαγγελιστὴν Ἰωάννην· καλὸν γὰρ τὴν ἀπαρχὴν
 τῆς ἀναστάσεως σκοπῆσαι. Ἤκουες γὰρ αὐτοῦ ἀρτίως λέγοντος· Πρὸ ἓξ ἡμερῶν τοῦ
 Πάσχα ἦλθεν ὁ Ἰησοῦς εἰς βηθανίαν, ὅπου ἦν Λάζαρος, ὃν ἤγειρεν ἐκ νεκρῶν. Εἶδες

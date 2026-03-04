@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΡΟΣ ΙΕΡΙΟΝ ΠΕΡΙ ΤΩΝ ΠΡΟ ΩΡΑΣ ΑΝΑΡΠΑΖΟΜΕΝΩΝ ΝΗΠΙΩΝ
+#+TITLE: De infantibus praemature abreptis
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De infantibus praemature abreptis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-infantibus-praemature-abreptis--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΡΟΣ ΙΕΡΙΟΝ ΠΕΡΙ ΤΩΝ ΠΡΟ ΩΡΑΣ ΑΝΑΡΠΑΖΟΜΕΝΩΝ ΝΗΠΙΩΝ
+* De infantibus praemature abreptis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΡΟΣ ΙΕΡΙΟΝ ΠΕΡΙ ΤΩΝ ΠΡΟ ΩΡΑΣ
+ΑΝΑΡΠΑΖΟΜΕΝΩΝ ΝΗΠΙΩΝ
 Σοὶ μέν, ὦ ἄριστε, πάντες σοφισταί τε καὶ λογογράφοι τὴν τοῦ λέγειν πάντως
 ἐπιδείξονται δύναμιν, οἷόν τινι σταδίῳ τῷ πλάτει τῶν σῶν θαυμάτων ἐνδιαθέοντες·
 καὶ γάρ πως οἶδεν μεγαλοφωνότερον ποιεῖν τὸν λόγον γενναία τις καὶ ἀμ φιλαφὴς

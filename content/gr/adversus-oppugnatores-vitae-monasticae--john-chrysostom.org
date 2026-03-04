@@ -1,17 +1,20 @@
-#+TITLE: ΠΡΟΣ ΤΟΥΣ ΠΟΛΕΜΟΥΝΤΑΣ ΤΟΙΣ ΕΠΙ ΤΟ ΜΟΝΑΖΕΙΝ ΕΝΑΓΟΥΣΙΝ 47.319
+#+TITLE: Adversus oppugnatores vitae monasticae
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Adversus oppugnatores vitae monasticae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-oppugnatores-vitae-monasticae--john-chrysostom
 #+LANGUAGE: el
 
-* ΠΡΟΣ ΤΟΥΣ ΠΟΛΕΜΟΥΝΤΑΣ ΤΟΙΣ ΕΠΙ ΤΟ ΜΟΝΑΖΕΙΝ ΕΝΑΓΟΥΣΙΝ 47.319
+* Adversus oppugnatores vitae monasticae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΣ ΤΟΥΣ ΠΟΛΕΜΟΥΝΤΑΣ ΤΟΙΣ ΕΠΙ ΤΟ ΜΟΝΑΖΕΙΝ ΕΝΑΓΟΥΣΙΝ
+=47.319=
 αʹ. Ὅτε τὸν ἐν Ἱεροσολύμοις νεὼν πολλῶν ἐτῶν χαμαὶ κείμενον ἀπὸ τῆς
 μακρᾶς ἐπανελθόντες αἰχμαλωσίας ἐγείρειν ἤθελον τῶν Ἑβραίων οἱ παῖδες, τότε δὴ
 βάρβαροί τινες καὶ ἀνήμεροι ἄνθρωποι, μήτε τὸν Θεὸν αἰδεσθέντες, ᾧ τὸν νεὼν

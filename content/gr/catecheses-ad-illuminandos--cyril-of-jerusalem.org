@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΙΕΡΟΣΟΛΥΜΩΝ ΚΑΤΗΧΗΣΙΣ αʹ ΦΩΤΙΖΟΜΕΝΩΝ, ἐν Ἱεροσολύμοις
+#+TITLE: Catecheses ad illuminandos
 #+AUTHOR: Κύριλλος Ἱεροσολύμων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Catecheses ad illuminandos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/catecheses-ad-illuminandos--cyril-of-jerusalem
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΙΕΡΟΣΟΛΥΜΩΝ ΚΑΤΗΧΗΣΙΣ αʹ ΦΩΤΙΖΟΜΕΝΩΝ, ἐν Ἱεροσολύμοις
+* Catecheses ad illuminandos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΙΕΡΟΣΟΛΥΜΩΝ ΚΑΤΗΧΗΣΙΣ αʹ ΦΩΤΙΖΟΜΕΝΩΝ, ἐν Ἱεροσολύμοις
 σχεδιασθεῖσα, ΕΙΣΑΓΩΓΙΚΗ τοῖς τῷ βαπτίσματι προσελθοῦσι. Καὶ
 ἀνάγνωσις ἐκ τοῦ Ἠσαΐου· Λούσασθε, καθαροὶ γίνεσθε· ἀφέλετε τὰς
 πονηρίας ἀπὸ τῶν ψυχῶν ὑμῶν, ἀπέναντι τῶν ὀφθαλμῶν μου, καὶ τὰ

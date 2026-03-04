@@ -1,17 +1,20 @@
-#+TITLE: EPISTOLA LIII. CYRILLI AD SANCTUM XYSTUM PAPAM. Κυρίλλου ἐκ τῆς πρὸςἸούστον [ξορρ. Ξύστον] ἐπίσκοπονῬώμης ἐπιστολῆς.
+#+TITLE: Ad Xystum episcopum Romae
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Ad Xystum episcopum Romae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-xystum-episcopum-romae--cyril-of-alexandria
 #+LANGUAGE: el
 
-* EPISTOLA LIII. CYRILLI AD SANCTUM XYSTUM PAPAM. Κυρίλλου ἐκ τῆς πρὸςἸούστον [ξορρ. Ξύστον] ἐπίσκοπονῬώμης ἐπιστολῆς.
+* Ad Xystum episcopum Romae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Κυρίλλου ἐκ τῆς πρὸςἸούστον [ξορρ. Ξύστον] ἐπίσκοπονῬώμης
+ἐπιστολῆς.
 Ἐγὼ γὰρ οὔτε ἐλέγχομαι πεφρονηκὼς ἕτερόν τι πώποτε παρὰ τὸ δοκοῦν τῇ
 ἀληθείᾳ, οὔτε παθητὴν εἴρηκά ποτε τὴν θείαν τοῦ Λόγου φύσιν. Καὶ μετὰ βραχύ·
 Οἶδα δὲ καὶ ἀπαθῆ τὴν τοῦ Θεοῦ φύσιν καὶ =77.288= ἄτρεπτον καὶ ἀναλλοίωτον, κὰν τῇ

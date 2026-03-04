@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΓΙΟΥ ΕΠΙΦΑΝΙΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΠΡΟΥ ΠΕΡΙ ΤΩΝ ΠΡΟΦΗΤΩΝ, ΠΩΣ ΕΚΟΙΜΗΘΗΣΑΝ ΚΑΙ ΠΟΥ ΚΕΙΝΤΑΙ.
+#+TITLE: De prophetarum vita et obitu
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De prophetarum vita et obitu
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-prophetarum-vita-et-obitu--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΓΙΟΥ ΕΠΙΦΑΝΙΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΠΡΟΥ ΠΕΡΙ ΤΩΝ ΠΡΟΦΗΤΩΝ, ΠΩΣ ΕΚΟΙΜΗΘΗΣΑΝ ΚΑΙ ΠΟΥ ΚΕΙΝΤΑΙ.
+* De prophetarum vita et obitu
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΓΙΟΥ ΕΠΙΦΑΝΙΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΠΡΟΥ ΠΕΡΙ ΤΩΝ ΠΡΟΦΗΤΩΝ,
+ΠΩΣ ΕΚΟΙΜΗΘΗΣΑΝ ΚΑΙ ΠΟΥ ΚΕΙΝΤΑΙ.
 αʹ. Ναθὰν ὁ προφήτης ἐγένετο ἐν ἡμέραις ∆αυὶδ ἐκ φυλῆς Θώκ. Οὗτος δὲ ἦν
 ἐκ Γαβάθ, καὶ αὐτός ἐστιν ὁ διδάξας τὸν ∆αυὶδ τὸν νόμον τοῦ κυρίου. Καὶ ἔγνω Ναθάν, ὅτι ὁ βασιλεὺς ∆αυὶδ ἐν τῇ Βηρσαβεὲ παρέβη. Καὶ σπεύδοντα ἐλθεῖν ἐκ Γαβὰθ
 εἰς Ἱερουσαλὴμ καὶ κωλῦ- σαι τὸν ∆αυὶδ ἀπὸ τῆς ἀνομίας ταύτης ἐκώλυσεν αὐτὸν ὁ

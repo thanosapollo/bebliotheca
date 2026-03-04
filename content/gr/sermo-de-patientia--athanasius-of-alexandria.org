@@ -1,17 +1,20 @@
-#+TITLE: 1 ΤΟΥ ΑΥΤΟΥ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ, ΠΕΡΙ ΥΠΟΜΟΝΗΣ.
+#+TITLE: Sermo de patientia
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo de patientia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-de-patientia--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* 1 ΤΟΥ ΑΥΤΟΥ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ, ΠΕΡΙ ΥΠΟΜΟΝΗΣ.
+* Sermo de patientia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 ΤΟΥ ΑΥΤΟΥ ΑΘΑΝΑΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ,
+ΠΕΡΙ ΥΠΟΜΟΝΗΣ.
 Ὁ ἡμέτερος διδάσκαλος Παῦλος παραγγέλλει, παραστῆσαι τὰ σώματα ὑμῶν θυσίαν
 ζῶσαν, εὐάρεστον τῷ Θεῷ. Κοινὸν μὲν τὸ παράγγελμα, μᾶλλον δὲ ἐπαγγέλλει τοῖς
 ἁγιωσύνην ἀσκοῦσιν. Ἡ παρθένος τὴν μὲν φύσιν ἐστὶν ὁμοία ταῖς ἄλλαις γυναιξὶ, τῇ

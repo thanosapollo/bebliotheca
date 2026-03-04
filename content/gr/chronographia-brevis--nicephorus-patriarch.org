@@ -1,17 +1,20 @@
-#+TITLE: Νικηφόρου πατριάρχου Κωνσταντινουπόλεως χρονογραφικὸν σύντομον.
+#+TITLE: Chronographia brevis
 #+AUTHOR: Νικηφόρος Κωνσταντινουπόλεως
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Chronographia brevis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronographia-brevis--nicephorus-patriarch
 #+LANGUAGE: el
 
-* Νικηφόρου πατριάρχου Κωνσταντινουπόλεως χρονογραφικὸν σύντομον.
+* Chronographia brevis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Νικηφόρου πατριάρχου Κωνσταντινουπόλεως χρονογραφικὸν
+σύντομον.
 Ἀδάμ, πρῶτος ἄνθρωπος, γενόμενος ἐτῶν σλʹ γεννᾷ τὸν Σὴθ καὶ ἐπέζησεν ἔτη ψʹ
 μέχρι τοῦ Μαλελεήλ· ὁμοῦ ἔζησεν ἔτη λʹ. Σὴθ γενόμενος ἐτῶν σεʹ ἐγέννησε τὸν
 Ἐνὼς καὶ ἐπέζησεν ............. ἔτη ιβʹ. Ἐνὼς γενόμενος ἐτῶν ρ ʹ ἐγέννησε τὸν Καϊνὰν

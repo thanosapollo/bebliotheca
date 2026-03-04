@@ -1,17 +1,19 @@
-#+TITLE: αʹ. Εὐσέβιος ἐν τοῖς πρὸς Μαρῖνον τοιάδε φησί· «Καὶ γὰρ ἡ τοῦ Χριστοῦ
+#+TITLE: Supplementa minora ad quaestiones ad Marinum
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Supplementa minora ad quaestiones ad Marinum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/supplementa-minora-ad-quaestiones-ad-marinum--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* αʹ. Εὐσέβιος ἐν τοῖς πρὸς Μαρῖνον τοιάδε φησί· «Καὶ γὰρ ἡ τοῦ Χριστοῦ
+* Supplementa minora ad quaestiones ad Marinum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+αʹ. Εὐσέβιος ἐν τοῖς πρὸς Μαρῖνον τοιάδε φησί· «Καὶ γὰρ ἡ τοῦ Χριστοῦ
 Ἐκκλησία δύο βίους νομοθετεῖ καὶ τρόπους· τὸν μὲν ὑπερφυῆ καὶ τῆς κοινῆς
 ἀνθρωπίνης πολιτείας ἐπέκεινα, οὐ γάμους, οὐ παιδοποιίας, οὐ περιουσίας ὕπαρξιν
 παραδεχόμενον, ἀλλ' ὅλον δι' ὅλου τῆς κοινῆς καὶ συνήθους τῶν βιωτικῶν

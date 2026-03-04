@@ -1,17 +1,19 @@
-#+TITLE: Εʹ. Ἰωάννου μοναχοῦ καὶ πρεσβυτέρου τοῦ ∆αμασκηνοῦ, λόγος εἰς τὸν
+#+TITLE: Sermo in annuntiationem Mariae
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Sermo in annuntiationem Mariae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-in-annuntiationem-mariae--john-of-damascus
 #+LANGUAGE: el
 
-* Εʹ. Ἰωάννου μοναχοῦ καὶ πρεσβυτέρου τοῦ ∆αμασκηνοῦ, λόγος εἰς τὸν
+* Sermo in annuntiationem Mariae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εʹ. Ἰωάννου μοναχοῦ καὶ πρεσβυτέρου τοῦ ∆αμασκηνοῦ, λόγος εἰς τὸν
 Εὐαγγελισμὸν τῆς ὑπεραγίας ∆εσποίνης ἡμῶν Θεοτόκου.
 =96.648=
 Νῦν ἡ τῆς βασιλίδος βασιλικὴ καὶ ὑπέρξενος ἑορτή τε καὶ πανήγυρις ὑπὲρ τὰς

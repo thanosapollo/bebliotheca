@@ -1,17 +1,19 @@
-#+TITLE: ̓Αντίγραφον ἐπιστολῆς γραφείσης Λαύσῳ πραιποσίτῳ παρὰ Παλλαδίου
+#+TITLE: Epistula ad Lausum
 #+AUTHOR: Παλλάδιος Ἑλενοπόλεως
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Lausum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-lausum--palladius-of-helenopolis
 #+LANGUAGE: el
 
-* ̓Αντίγραφον ἐπιστολῆς γραφείσης Λαύσῳ πραιποσίτῳ παρὰ Παλλαδίου
+* Epistula ad Lausum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Αντίγραφον ἐπιστολῆς γραφείσης Λαύσῳ πραιποσίτῳ παρὰ Παλλαδίου
 ἐπισκόπου
 Μακαρίζω σου τὴν προαίρεσιν· ἄξιον γὰρ ἀπὸ μακαρισμοῦ ἄρξασθαι τῆς ἐπιστολῆς·
 ὅτι πάντων εἰς τὰ μάταια κεχηνότων καὶ λίθους οἰκοδομούντων ἐξ ὧν οὐκ

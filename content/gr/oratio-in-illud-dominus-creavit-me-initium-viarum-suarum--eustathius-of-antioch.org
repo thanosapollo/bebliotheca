@@ -1,17 +1,19 @@
-#+TITLE: Ο ΛΟΓΟΣ Ο ΕΙΣ ΤΟ· ΚΥΡΙΟΣ ΕΚΤΙΣΕ ΜΕ ΑΡΧΗΝ Ο∆ΩΝ ΑΥΤΟΥ
+#+TITLE: Oratio in illud Dominus creavit me initium viarum suarum
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Oratio in illud Dominus creavit me initium viarum suarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-in-illud-dominus-creavit-me-initium-viarum-suarum--eustathius-of-antioch
 #+LANGUAGE: el
 
-* Ο ΛΟΓΟΣ Ο ΕΙΣ ΤΟ· ΚΥΡΙΟΣ ΕΚΤΙΣΕ ΜΕ ΑΡΧΗΝ Ο∆ΩΝ ΑΥΤΟΥ
+* Oratio in illud Dominus creavit me initium viarum suarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ο ΛΟΓΟΣ Ο ΕΙΣ ΤΟ· ΚΥΡΙΟΣ ΕΚΤΙΣΕ ΜΕ ΑΡΧΗΝ Ο∆ΩΝ ΑΥΤΟΥ
 18 Εἰ μὲν οὖν ἀρχὴν τῆς γεννήσεως εἴληφεν ὁ Λόγος, ἀφ' οὗ διὰ τῆς μητρῴας
 διοδεύσας γαστρὸς τὰς σωματικὰς ἐφόρεσεν ἁρμονίας, συνέστηκεν ὅτι γέγονεν ἐκ
 γυναικός. Εἰ δὲ Λόγος καὶ Θεὸς ἦν ἀνέκαθεν παρὰ τῷ Πατρὶ καὶ τὰ σύμπαντα δι'

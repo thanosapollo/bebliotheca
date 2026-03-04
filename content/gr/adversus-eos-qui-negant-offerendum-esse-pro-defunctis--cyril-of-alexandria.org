@@ -1,17 +1,19 @@
-#+TITLE: Τὰ ὅμοια δὲ τούτοις καὶ Κύριλλος ὁ σοφώτατος καὶ τῆς Ἀλεξανδρέων πόλεως
+#+TITLE: Adversus eos qui negant offerendum esse pro defunctis
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Adversus eos qui negant offerendum esse pro defunctis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-eos-qui-negant-offerendum-esse-pro-defunctis--cyril-of-alexandria
 #+LANGUAGE: el
 
-* Τὰ ὅμοια δὲ τούτοις καὶ Κύριλλος ὁ σοφώτατος καὶ τῆς Ἀλεξανδρέων πόλεως
+* Adversus eos qui negant offerendum esse pro defunctis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τὰ ὅμοια δὲ τούτοις καὶ Κύριλλος ὁ σοφώτατος καὶ τῆς Ἀλεξανδρέων πόλεως
 ἐπίσκοπος διδάσκει ἐν τῷ ἐπιγεγραμμένῳ λόγῳ αὐτοῦ Πρὸς τοὺς τολμῶντας λέγειν
 , μὴ δεῖν ὑπὲρ τῶν ἐν πίστει κεκοιμημένων προσφέρειν οὗ ἡ ἀρχή 541 Οἱ τῆς ἑαυτῶν
 διανοίας τὸν ὀφθαλμὸν ἀπευθύνοντες· φησὶ γὰρ οὕτως· Λέγομεν τοίνυν ἀνεξικάκως

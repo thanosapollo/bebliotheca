@@ -1,4 +1,4 @@
-#+TITLE: Gnomologium Epicteteum (e Stobaei libris 3-4)
+#+TITLE: Γνωμολόγιον Ἐπικτήτειον (ἐκ τῶν Στοβαίου βιβλίων γʹ-δʹ)
 #+AUTHOR: Epictetus
 #+FILETAGS: :imperial:1c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup

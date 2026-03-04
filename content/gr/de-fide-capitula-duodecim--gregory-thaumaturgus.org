@@ -1,17 +1,19 @@
-#+TITLE: ca. 14 lines lost[κα]ὶ φῶς τ̣ο̣υ῀̣ κ̣ο´̣[σμου, καθὼς γέγραπται, ἀναθεματιζέσθω.]
+#+TITLE: De fide capitula duodecim
 #+AUTHOR: Γρηγόριος Θαυματουργός
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: De fide capitula duodecim
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-fide-capitula-duodecim--gregory-thaumaturgus
 #+LANGUAGE: el
 
-* ca. 14 lines lost[κα]ὶ φῶς τ̣ο̣υ῀̣ κ̣ο´̣[σμου, καθὼς γέγραπται, ἀναθεματιζέσθω.]
+* De fide capitula duodecim
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ca. 14 lines lost[κα]ὶ φῶς τ̣ο̣υ῀̣ κ̣ο´̣[σμου, καθὼς γέγραπται, ἀναθεματιζέσθω.]
 {2[ζ]}2 ε[ἴ] τ̣ις λέγει· ἄλλ[ο]ς̣ ο῾̣ [παθὼν, καὶ ἄλλος ὁ μὴ παθὼν, καὶ μὴ ὁμολογεῖ]
 αὐτὸν τὸν ἀπ[α]θ[ῆ θεὸν λόγον καὶ ἄτρεπτον σαρκὶ ἰδίᾳ παθόντα ἀτρέπτως, καθὼς]
 γέγραπτα̣ι̣ [ἀναθεματιζέσθω.] {2η̣}2 εἴ τις λέγει· ἄλλος ὁ πρὸ αἰω´̣ν̣[ων υἱὸς τοῦ θεοῦ,

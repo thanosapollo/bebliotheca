@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΙΩΑΝΝΟΥ ΠΡΕΣΒΥΤΕΡΟΥ ΟΜΙΛΙΑ ∆ΕΥΤΕΡΑ
+#+TITLE: Adversus Manichaeos ii
 #+AUTHOR: Ἰωάννης Πρεσβύτερος
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Adversus Manichaeos ii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-manichaeos-ii--john-presbyter
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΙΩΑΝΝΟΥ ΠΡΕΣΒΥΤΕΡΟΥ ΟΜΙΛΙΑ ∆ΕΥΤΕΡΑ
+* Adversus Manichaeos ii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΙΩΑΝΝΟΥ ΠΡΕΣΒΥΤΕΡΟΥ ΟΜΙΛΙΑ ∆ΕΥΤΕΡΑ
 1. Ἤρκει μὲν οὖν ὅσα πρὸς ἔλεγχον τῆς ἀθέου πλάνης τῶν Μανιχαίων ἐν τοῖς
 προλαβοῦσι διελέχθημεν. Ἀλλ' ἵνα μή τις ἑτέραις ἀκάνθαις ἀσεβείας περιπειρόμενος
 πληγείη τὸν νοῦν, οὐκ ὀκνήσω καὶ ζητημάτων ἑτέρων ἐπιμνησθῆναι, δεικνὺς τί τέ ἐστι

@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΜΗ Βʹ. ΠΕΡΙ ΤΩΝ ΕΤΕΡΩΝ. Αʹ. Πρὸς Ἑλλήνιον περὶ τῶν μοναχῶν προτρεπτικόν.
+#+TITLE: Carmina quae spectant ad alios
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Carmina quae spectant ad alios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

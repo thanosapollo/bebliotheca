@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ αὐτοῦ ἐκ τοῦ Ζʹ τῶν ἐξηγητικῶν τόμων τῆς πρὸς Κορινθίους προτέρας ἐπιστολῆς·
+#+TITLE: Fragmentum in sancti Pauli epistulam i ad Corinthios
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmentum in sancti Pauli epistulam i ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-sancti-pauli-epistulam-i-ad-corinthios--cyril-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ ἐκ τοῦ Ζʹ τῶν ἐξηγητικῶν τόμων τῆς πρὸς Κορινθίους προτέρας ἐπιστολῆς·
+* Fragmentum in sancti Pauli epistulam i ad Corinthios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ ἐκ τοῦ Ζʹ τῶν ἐξηγητικῶν τόμων τῆς πρὸς Κορινθίους
+προτέρας ἐπιστολῆς·
 Ὄσον μὲν γὰρ ἧκεν εἰς ἰδίαν φύσιν, ὑπενήνεκται τῷ θανάτῳ καὶ τῇ φθορᾷ τὸ
 ἀνθρώπινον σῶμα. Κατασκιάζεται δὲ τῇ ἀθανασίᾳ, θεοῦ τὸ χρῆμα διαπεραίνοντος
 καθ' ὃν ἂν εἰδείη τρόπον· οὕτω πεποιῆσθαί φαμεν τὸν πρῶτον ἄνθρωπον ἐν ἀρχαῖς.

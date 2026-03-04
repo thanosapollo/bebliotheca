@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ, εἰς τὸ ἅγιον πάσχα
+#+TITLE: Homilia ii in sanctum pascha
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Homilia ii in sanctum pascha
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-ii-in-sanctum-pascha--hesychius-of-jerusalem
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ, εἰς τὸ ἅγιον πάσχα
+* Homilia ii in sanctum pascha
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ, εἰς τὸ ἅγιον πάσχα
 1 Σάλπιγξ ἡμῖν ἱερὰ καὶ βασιλικὴ τὸ πνευματικὸν τοῦτο συνεκρότησεν
 θέατρον, σάλπιγξ ἣν ἐπλήρωσεν Βηθλεὲμ καὶ ἡ Σιὼν ἐπύρωσεν, ἐν ᾗ ὁ Σταυρὸς
 σφῦρα καὶ ἄκμων ἡ Ἀνάστασις. Ἧς οὐκ οἶδα πῶς ἐξείπω τὸ κάλλος, πῶς ἐκφράσω τὸ

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Βασιλείου, ἀρχιεπισκόπου Καισαρείας
+#+TITLE: Homilia in illud Attende tibi ipsi
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in illud Attende tibi ipsi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-illud-attende-tibi-ipsi--basil-of-caesarea
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Βασιλείου, ἀρχιεπισκόπου Καισαρείας
+* Homilia in illud Attende tibi ipsi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Βασιλείου, ἀρχιεπισκόπου Καισαρείας
 Καππαδοκίας, εἰς τὸ Πρόσεχε σεαυτῷ.
 Τοῦ λόγου τὴν χρῆσιν δέδωκεν ἡμῖν ὁ κτίσας ἡμᾶς θεός, ἵνα τὰς βουλὰς τῶν
 καρδιῶν ἀλλήλοις ἀποκαλύπτωμεν, καὶ διὰ τὸ κοινωνικὸν τῆς φύσεως ἕκαστος τῷ

@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΟΡΟΙ ΚΑΤΑ ΠΛΑΤΟΣ. ΠΡΟΟΙΜΙΟΝ. Ἐπειδὴ Θεοῦ χάριτι ἐν ὀνόματι τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ
+#+TITLE: Prologus 4
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Prologus 4
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/prologus-4--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΟΡΟΙ ΚΑΤΑ ΠΛΑΤΟΣ. ΠΡΟΟΙΜΙΟΝ. Ἐπειδὴ Θεοῦ χάριτι ἐν ὀνόματι τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ
+* Prologus 4
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΟΡΟΙ ΚΑΤΑ ΠΛΑΤΟΣ.
+ΠΡΟΟΙΜΙΟΝ.
+Ἐπειδὴ Θεοῦ χάριτι ἐν ὀνόματι τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ
 συνεληλύθαμεν εἰς ταυτὸν οἱ ἕνα καὶ τὸν αὐτὸν σκοπὸν τοῦ βίου τοῦ κατ' εὐσέβειαν
 ἐνστησάμενοι· καὶ ὑμεῖς μὲν εὔδηλοί ἐστε μαθεῖν τι τῶν πρὸς σωτηρίαν
 ἐπιποθοῦντες, ἐμοὶ δὲ ἀνάγκη ἀναγγέλλειν τὰ δικαιώματα τοῦ Θεοῦ, νυκτὸς καὶ

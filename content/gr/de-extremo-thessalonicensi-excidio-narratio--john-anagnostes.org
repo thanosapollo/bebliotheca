@@ -1,6 +1,7 @@
-#+TITLE: ΙΩΑΝΝΟΥ ΑΝΑΓΝΩΣΤΟΥ ∆ιήγησις περὶ τῆς τελευταίας ἁλώσεως τῆς Θεσσαλονίκης συντεθεῖσα πρός τινα τῶν ἀξιολόγων, πολλάκις αἰτήσαντα περὶ ταύτης, ἐν ἐπιτόμῳ.
+#+TITLE: De extremo Thessalonicensi excidio narratio
 #+AUTHOR: Ἰωάννης Ἀναγνώστης
 #+FILETAGS: :byzantine:15c-ad:
+#+MIGNE_TITLE: De extremo Thessalonicensi excidio narratio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

@@ -1,17 +1,19 @@
-#+TITLE: Ro+m 1,1
+#+TITLE: Fragmenta in epistulam ad Romanos
 #+AUTHOR: Εὐσέβιος Ἐμέσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-romanos--eusebius-of-emesa
 #+LANGUAGE: el
 
-* Ro+m 1,1
+* Fragmenta in epistulam ad Romanos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ro+m 1,1
 ∆ιαποροῦσι δέ τινες μάτην, πότερον τῷ ἡγουμένῳ προσθετέον τὸ κλητὸς πρόσρημα
 ἵνα εἴη δοῦλος, κλητός, ἢ τῷ ἑπομένῳ ὡς ἀπόστολος κλητός, κατ' οὐδέτερον
 ἀπᾳδούσης τῆς ἐννοίας, ἅτε δὴ κλητῶν ὄντων ἁπάντων καὶ κοινῶς τῶν εἰς τὴν

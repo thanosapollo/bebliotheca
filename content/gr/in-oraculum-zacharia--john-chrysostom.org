@@ -1,17 +1,19 @@
-#+TITLE: Ὁμιλία εἰς τὸν χρηματισμὸν Ζαχαρίου, καὶ εἰς τὴν σύλληψιν τῆς
+#+TITLE: In oraculum Zacharia
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In oraculum Zacharia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-oraculum-zacharia--john-chrysostom
 #+LANGUAGE: el
 
-* Ὁμιλία εἰς τὸν χρηματισμὸν Ζαχαρίου, καὶ εἰς τὴν σύλληψιν τῆς
+* In oraculum Zacharia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ὁμιλία εἰς τὸν χρηματισμὸν Ζαχαρίου, καὶ εἰς τὴν σύλληψιν τῆς
 Ἐλισάβετ.
 =50.785=
 Οὐδὲν τοῖς ∆εσποτικοῖς ἀνυπότακτον ὅροις· πάντα γὰρ εἴκει καὶ δουλεύει τῷ

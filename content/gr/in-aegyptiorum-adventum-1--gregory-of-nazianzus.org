@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ Λ∆ʹ. Εἰς τοὺς Αἰγύπτου ἐπιδημήσαντας.
+#+TITLE: In Aegyptiorum adventum 1
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Aegyptiorum adventum 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-aegyptiorum-adventum-1--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ Λ∆ʹ. Εἰς τοὺς Αἰγύπτου ἐπιδημήσαντας.
+* In Aegyptiorum adventum 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Λ∆ʹ.
+Εἰς τοὺς Αἰγύπτου ἐπιδημήσαντας.
 Αʹ. Τοὺς ἀπ' Αἰγύπτου προσφθέγξομαι, δίκαιον γάρ· ἐπειδὴ καὶ προθύμως
 συνεληλύθασι, τῷ ζήλῳ τὸν φθόνον νικήσαντες, Αἰγύπτου ταύτης, ἣν πλουτίζει μὲν
 ποταμὸς ἐκ γῆς ὕων, καὶ πελαγίζων ὥρια ἵνα καὶ αὐτὸς μικρόν τι μιμήσωμαι τοὺς

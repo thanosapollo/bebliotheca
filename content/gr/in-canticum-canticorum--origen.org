@@ -1,17 +1,20 @@
-#+TITLE: ΕΚ ΤΟΥ ΕΙΣ ΤΟ ΑΣΜΑ ΜΙΚΡΟΥ ΤΟΜΟΥ Ὃν ἐν τῇ νεότητι ἔγραφεν Ὠριγένης.
+#+TITLE: In Canticum canticorum
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: In Canticum canticorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-canticum-canticorum--origen
 #+LANGUAGE: el
 
-* ΕΚ ΤΟΥ ΕΙΣ ΤΟ ΑΣΜΑ ΜΙΚΡΟΥ ΤΟΜΟΥ Ὃν ἐν τῇ νεότητι ἔγραφεν Ὠριγένης.
+* In Canticum canticorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚ ΤΟΥ ΕΙΣ ΤΟ ΑΣΜΑ ΜΙΚΡΟΥ ΤΟΜΟΥ
+Ὃν ἐν τῇ νεότητι ἔγραφεν Ὠριγένης.
 =13.36= Τῷ μὴ ἐξειληφότι τὸ ἰδίωμα τῶν προσώπων τῆς θείας Γραφῆς, τῶν τε
 λεγόντων καὶ τῶν πρὸς ἃ ὁ λόγος, πολλὴν παρέχει σύγχυσιν τὰ λεγόμενα, ζητοῦντι
 τὸ λέγον πρόσωπον, ὅ τι ποτέ ἐστι, καὶ τὸ πρὸς ὃ ὁ λόγος ὁποῖον, καὶ πότε τὸ λέγον

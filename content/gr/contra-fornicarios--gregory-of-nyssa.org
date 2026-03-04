@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟ Ο ∆Ε ΠΟΡΝΕΥΩΝ ΕΙΣ ΤΟ Ι∆ΙΟΝ ΣΩΜΑ ΑΜΑΡΤΑΝΕΙ
+#+TITLE: Contra fornicarios
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra fornicarios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-fornicarios--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟ Ο ∆Ε ΠΟΡΝΕΥΩΝ ΕΙΣ ΤΟ Ι∆ΙΟΝ ΣΩΜΑ ΑΜΑΡΤΑΝΕΙ
+* Contra fornicarios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟ Ο ∆Ε ΠΟΡΝΕΥΩΝ ΕΙΣ ΤΟ Ι∆ΙΟΝ
+ΣΩΜΑ ΑΜΑΡΤΑΝΕΙ
 Φοβερὰ τῆς ἀποστολικῆς παραγγελίας ἡ σάλπιγξ, πολλὰ μὲν καὶ ἄλλα τὸν
 τῆς εὐσεβείας μαρτυρομένη στρατόν, μάλιστα δὲ τῶν τῆς αἰσχρότητος βαράθρων
 ἐλαύνουσα, καὶ δὴ καὶ στρατιωτικὸν πρὸς τῷ τέλει παράγγελμα προστιθεῖσα.

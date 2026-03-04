@@ -1,4 +1,4 @@
-#+TITLE: ΒΙΟΣ ΚΑΙ ΠΟΛΙΤΕΙΑ ΤΟΥ ΜΑΚΑΡΙΟΥ ΣΥΜΕΩΝ ΤΟΥ ΣΤΥΛΙΤΟΥ
+#+TITLE: Vita Symeonis Stylitae - for merge
 #+AUTHOR: Ἀντώνιος Ἁγιογράφος
 #+FILETAGS: :byzantine:6c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup

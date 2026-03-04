@@ -1,17 +1,19 @@
-#+TITLE: Ζʹ. Τοῦ αὐτοῦ Λόγος, εἰς τὸ γενέσιον τῆς ὑπεραγίας ∆εσποίνης ἡμῶν
+#+TITLE: Homilia in nativitatem Mariae
 #+AUTHOR: Θεόδωρος Στουδίτης
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Homilia in nativitatem Mariae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-nativitatem-mariae--theodore-studite
 #+LANGUAGE: el
 
-* Ζʹ. Τοῦ αὐτοῦ Λόγος, εἰς τὸ γενέσιον τῆς ὑπεραγίας ∆εσποίνης ἡμῶν
+* Homilia in nativitatem Mariae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ζʹ. Τοῦ αὐτοῦ Λόγος, εἰς τὸ γενέσιον τῆς ὑπεραγίας ∆εσποίνης ἡμῶν
 Θεοτόκου.
 =96.680=
 αʹ. Λαμπρῶς πανηγυρίζει ἡ κτίσις σήμερον, καινὸν οὐρανὸν τὴν Παρθένον

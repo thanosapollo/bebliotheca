@@ -1,17 +1,19 @@
-#+TITLE: 52 Τὸν τὰς θείας γραφὰς μὴ δεχόμενον ἐξ αὐτῆς λοιπὸν τῆς τῶν πραγμάτων φύσεως
+#+TITLE: Quaestio 136 e quaestionibus ad Antiochum ducem
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quaestio 136 e quaestionibus ad Antiochum ducem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quaestio-136-e-quaestionibus-ad-antiochum-ducem--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* 52 Τὸν τὰς θείας γραφὰς μὴ δεχόμενον ἐξ αὐτῆς λοιπὸν τῆς τῶν πραγμάτων φύσεως
+* Quaestio 136 e quaestionibus ad Antiochum ducem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+52 Τὸν τὰς θείας γραφὰς μὴ δεχόμενον ἐξ αὐτῆς λοιπὸν τῆς τῶν πραγμάτων φύσεως
 περὶ θεογνωσίας πεῖσαι ὀφείλομεν. ὁρῶμεν γάρ τινας οὐσίας ἐν τῇ κτίσει οὐ κατὰ
 φύσιν, ἀλλ' ὑπὲρ φύσιν μετ' ἀλλήλων ὑπαρχούσας. οἷόν τι λέγω. φύσις ἡ τῶν
 ὑδάτων οὐσία ῥευστική ἐστιν καὶ κατωφερής. πῶς οὖν ὁρῶμεν τοὺς λεγομένους

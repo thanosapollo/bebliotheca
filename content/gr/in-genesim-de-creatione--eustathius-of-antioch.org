@@ -1,17 +1,19 @@
-#+TITLE: 85 Καὶ γὰρ ἐκ πολλῶν τρόπων ἔστι διαγνῶναι, φησὶν ὁ Πατὴρ, τούτων τῶν
+#+TITLE: In Genesim de creatione
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Genesim de creatione
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-genesim-de-creatione--eustathius-of-antioch
 #+LANGUAGE: el
 
-* 85 Καὶ γὰρ ἐκ πολλῶν τρόπων ἔστι διαγνῶναι, φησὶν ὁ Πατὴρ, τούτων τῶν
+* In Genesim de creatione
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+85 Καὶ γὰρ ἐκ πολλῶν τρόπων ἔστι διαγνῶναι, φησὶν ὁ Πατὴρ, τούτων τῶν
 ζῴων καὶ πετεινῶν τὸ διάφορόν τε καὶ ἀνόμοιον· πρῶτον διὰ τοῦ εἰπεῖν καὶ ἔπλασε
 κύριος ὁ Θεὸς ἐκ τῆς γῆς ἔτι· οὐ γὰρ εὑρίσκομεν πλάσμα Θεοῦ εἶναι εἰ μὴ τὸν
 ἄνθρωπον· πάλιν καὶ διὰ τοῦ λέγειν τὸ ἔτι, δείκνυσιν ἡ γραφὴ ἔτερά τινα ἐνταῦθα

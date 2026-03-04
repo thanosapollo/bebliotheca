@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΛΟΓΟΙ. ΛΟΓΟΣ Αʹ. Εἰς τὸ ἅγιον Πάσχα καὶ εἰς τὴν βραδυτῆτα.
+#+TITLE: In sanctum pascha et in tarditatem
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum pascha et in tarditatem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-pascha-et-in-tarditatem--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΛΟΓΟΙ. ΛΟΓΟΣ Αʹ. Εἰς τὸ ἅγιον Πάσχα καὶ εἰς τὴν βραδυτῆτα.
+* In sanctum pascha et in tarditatem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ
+ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΛΟΓΟΙ.
+ΛΟΓΟΣ Αʹ.
+Εἰς τὸ ἅγιον Πάσχα καὶ εἰς τὴν βραδυτῆτα.
 Αʹ. Ἀναστάσεως ἡμέρα, καὶ ἡ ἀρχὴ δεξιὰ, καὶ λαμπρυνθῶμεν τῇ πανηγύρει,
 καὶ ἀλλήλους περιπτυξώμεθα· εἴπωμεν, ἀδελφοὶ, καὶ τοῖς μισοῦσιν ἡμᾶς, μὴ ὅτι τοῖς
 δι' ἀγάπην τι πεποιηκόσιν, ἢ πεπονθό σι· συγχωρήσωμεν πάντα τῇ ἀναστάσει· δῶμεν

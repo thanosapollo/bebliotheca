@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΑ ΕΥΡΙΣΚΟΜΕΝΑ ΠΑΝΤΑ. ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΕΦΕΣΙΟΥΣ ΕΠΙΣΤΟΛΗΝ. ΥΠΟΘΕΣΙΣ.
+#+TITLE: In epistulam ad Ephesios
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In epistulam ad Ephesios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-epistulam-ad-ephesios--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΑ ΕΥΡΙΣΚΟΜΕΝΑ ΠΑΝΤΑ. ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΕΦΕΣΙΟΥΣ ΕΠΙΣΤΟΛΗΝ. ΥΠΟΘΕΣΙΣ.
+* In epistulam ad Ephesios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ
+ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΑ ΕΥΡΙΣΚΟΜΕΝΑ ΠΑΝΤΑ.
+ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΕΦΕΣΙΟΥΣ ΕΠΙΣΤΟΛΗΝ.
+ΥΠΟΘΕΣΙΣ.
 Ἡ Ἔφεσος ἔστι μὲν τῆς Ἀσίας μητρόπολις· ἐτελεῖτο δὲ τῇ Ἀρτέμιδι, καὶ
 μάλιστα ταύτην ἐκεῖ ἔσεβον ὡς μείζονα δῆθεν θεόν· καὶ τοσαύτῃ δεισιδαιμονίᾳ οἱ
 ταύτην τιμῶντες ἐκέχρηντο, ὡς μηδὲ τοὔνομα τοῦ τὸν ναὸν αὐτῆς ἐμπρήσαντος

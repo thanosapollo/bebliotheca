@@ -1,17 +1,19 @@
-#+TITLE: Ζεβεδαι´̣ο̣υ καὶ Σαλώμη καὶ α̣ι῾̣ γ̣υ̣ν̣αῖκες τῶν συν̣ακολουθησάντων α̣ὐτῷ ῃ ἀπὸ τῆς
+#+TITLE: Diatesseron
 #+AUTHOR: Τατιανός
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Diatesseron
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/diatesseron--tatian
 #+LANGUAGE: el
 
-* Ζεβεδαι´̣ο̣υ καὶ Σαλώμη καὶ α̣ι῾̣ γ̣υ̣ν̣αῖκες τῶν συν̣ακολουθησάντων α̣ὐτῷ ῃ ἀπὸ τῆς
+* Diatesseron
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ζεβεδαι´̣ο̣υ καὶ Σαλώμη καὶ α̣ι῾̣ γ̣υ̣ν̣αῖκες τῶν συν̣ακολουθησάντων α̣ὐτῷ ῃ ἀπὸ τῆς
 Γαλιλαία̣ς, ὁρῶσαι τὸν σταυρωθέντα. vvvv ἦν δὲ ἡ ἡμέρα Παρασκευή. ῃ Σάββατον
 ἐπέφω̣σκεν. ὀψ̣ίας δὲ γενομένης ἐπὶ τ̣ῇ Πα̣ρ̣ασκευῇ, ῃ ὅ ἐστιν Προσάββατον,
 προσῆλθεν ἄνθρωπος βουλευτη`̣ς ὑπ̣α´̣ρχων ἀπ̣ο`̣ Ἐρινμαθαίας π̣όλ̣ε̣ω̣ς τῆς ̓Ιουδαίας,

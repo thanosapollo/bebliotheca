@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις ̓Ιωάννου τοῦ Χρυσοστόμου· Εἰς τὸ ̓Επίστευσα, διὸ ἐλάλησα.
+#+TITLE: In illud Credidi propter quod locutus sum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Credidi propter quod locutus sum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-credidi-propter-quod-locutus-sum--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις ̓Ιωάννου τοῦ Χρυσοστόμου· Εἰς τὸ ̓Επίστευσα, διὸ ἐλάλησα.
+* In illud Credidi propter quod locutus sum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις ̓Ιωάννου τοῦ Χρυσοστόμου· Εἰς τὸ ̓Επίστευσα, διὸ ἐλάλησα.
 Φασί ποτε τὴν μέλισσαν κούφοις πτεροῖς δένδρεσι καὶ βοτάναις ἀνθοφόροις
 ἐφιπταμένην καὶ τὴν ἐν ταῖς τῶν ἀνθῶν ἰδέαις ἐγκειμένην νοτίδα ἀβλαβῶς
 λῃστεύουσαν τὸ γλυκύτατον κηρίον τοῦ μέλιτος τοῖς ἀνθρώποις ἐκεῖθεν πορίζεσθαι.

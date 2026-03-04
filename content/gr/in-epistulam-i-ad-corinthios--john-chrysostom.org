@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, ΥΠΟΘΕΣΙΣ ΤΗΣ ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ ΠΡΩΤΗΣ ΕΠΙΣΤΟΛΗΣ. 61.9
+#+TITLE: In epistulam i ad Corinthios
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In epistulam i ad Corinthios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-epistulam-i-ad-corinthios--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, ΥΠΟΘΕΣΙΣ ΤΗΣ ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ ΠΡΩΤΗΣ ΕΠΙΣΤΟΛΗΣ. 61.9
+* In epistulam i ad Corinthios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, ΥΠΟΘΕΣΙΣ ΤΗΣ ΠΡΟΣ
+ΚΟΡΙΝΘΙΟΥΣ ΠΡΩΤΗΣ ΕΠΙΣΤΟΛΗΣ.
+61.9
 Ἡ Κόρινθός ἐστι μὲν νῦν πόλις τῆς Ἑλλάδος ἡ πρώτη, πολλοῖς δὲ τὸ παλαιὸν
 πλεονεκτήμασι βιωτικοῖς ἐκόμα, καὶ πρὸ τῶν ἄλλων πάντων τῇ τῶν χρημάτων
 περιουσίᾳ· διὸ καί τις τῶν ἔξωθεν συγγραφέων ἀφνειὸν ἐκάλει τὸ χωρίον. Ἐν γὰρ

@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΜΑΚΑΡΙΩΤΑΤΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΕΠΙΣΤΟΛΑΙ ΒΑΣΙΛΕΙΩ ΕΠΙΣΚΟΠΩ ΙΣΑΥΡΙΑΣ.
+#+TITLE: Epistulae Collectio Patmensis
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Epistulae Collectio Patmensis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ ἐκ τῆς ὁμιλίας τῆς περὶ ἑνὸς υἱοῦ.
+#+TITLE: Fragmenta homiliae de uno filio
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmenta homiliae de uno filio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-homiliae-de-uno-filio--cyril-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ ἐκ τῆς ὁμιλίας τῆς περὶ ἑνὸς υἱοῦ.
+* Fragmenta homiliae de uno filio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ ἐκ τῆς ὁμιλίας τῆς περὶ ἑνὸς υἱοῦ.
 ΕΙ γὰρ εἷς ἐστιν ἰδικῶς Υἱὸς ὁ ἐκ τοῦ Θεοῦ Πατρὸς Λόγος, εἷς δὲ ὁμοίως ἰδικῶς
 καὶ ἕτερος παρ' αὐτὸν ὁ ἐκ σπέρματος ∆αυεὶδ, τῇ πρὸς τὸν φύσει καὶ ἀληθῶς Υἱὸν
 κοινωνίᾳ τιμώμενος, πῶς οὐχ ἅπασιν ἐναργὲς ὅτι ὁ μὲν δίδωσιν, ὁ δὲ λαμβάνει· ὁ

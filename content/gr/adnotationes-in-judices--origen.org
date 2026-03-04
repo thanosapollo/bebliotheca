@@ -1,17 +1,19 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΥΣ ΚΡΙΤΑΣ.
+#+TITLE: Adnotationes in Judices
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Adnotationes in Judices
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adnotationes-in-judices--origen
 #+LANGUAGE: el
 
-* ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΥΣ ΚΡΙΤΑΣ.
+* Adnotationes in Judices
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΥΣ ΚΡΙΤΑΣ.
 =17.37= ΚΕΦ. ΙΕʹ. Στίχ. ιθʹ. Καὶ ἔῤῥηξεν ὁ Θεὸς τὸ τραῦμα τὸ ἐν σιαγόνι, καὶ ἐξῆλθεν ἐξ
 αὐτοῦ ὕδωρ. Ἀντὶ τοῦ· Ἔῤῥηξε τῇ πληγῇ τῆς σιαγόνος τὴν γῆν, καὶ ἐξῆλθεν ὕδατα.
 ΚΕΦ. Κʹ. Στίχ. καʹ. Καὶ ἐξῆλθον υἱοὶ Βενιαμίν. Τίνος ἕνεκεν ἡττῶνται δικαίως

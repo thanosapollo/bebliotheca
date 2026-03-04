@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου ἐπιστολὴ γραφεῖσα ἀπὸ
+#+TITLE: Quod nemo laeditur nisi a se ipso
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quod nemo laeditur nisi a se ipso
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quod-nemo-laeditur-nisi-a-se-ipso--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου ἐπιστολὴ γραφεῖσα ἀπὸ
+* Quod nemo laeditur nisi a se ipso
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου
+Κωνσταντινουπόλεως τοῦ Χρυσοστόμου ἐπιστολὴ γραφεῖσα ἀπὸ
 Κουκουσοῦ τῆς Κιλικίας, ὄντος αὐτοῦ ἐν ἐξορίᾳ, ὅτι τὸν ἑαυτὸν μὴ
 ἀδικοῦντα οὐδεὶς παραβλάψαι δυνήσεται, πρὸς τὴν μακαρίαν
 Ὀλυμπιάδα καὶ πρὸς πάντας τοὺς πιστούς.

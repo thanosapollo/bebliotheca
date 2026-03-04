@@ -1,17 +1,20 @@
-#+TITLE: 28.712 ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΡΗΣΕΙΣ ΚΑΙ ΕΡΜΗΝΕΙΑΙ ΠΑΡΑΒΟΛΩΝ ΤΟΥ ΑΓΙΟΥ ΕΥΑΓΓΕΛΙΟΥ.
+#+TITLE: Quaestiones in scripturam sacram
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quaestiones in scripturam sacram
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quaestiones-in-scripturam-sacram--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* 28.712 ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΡΗΣΕΙΣ ΚΑΙ ΕΡΜΗΝΕΙΑΙ ΠΑΡΑΒΟΛΩΝ ΤΟΥ ΑΓΙΟΥ ΕΥΑΓΓΕΛΙΟΥ.
+* Quaestiones in scripturam sacram
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=28.712= ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΡΗΣΕΙΣ ΚΑΙ
+ΕΡΜΗΝΕΙΑΙ ΠΑΡΑΒΟΛΩΝ ΤΟΥ ΑΓΙΟΥ ΕΥΑΓΓΕΛΙΟΥ.
 Ἐρώτησις αʹ. «Ἀπέλθατε εἰς τὴν ἀπέναντι κώμην, καὶ εὑρήσετε ἄνθρωπον κεράμιον
 ὕδατος βαστάζοντα.» Τίς ἡ πόλις; Ἐκκλησία. Τί τὸ κεράμιον τοῦ ὕδατος; Τὸ ἅγιον
 βάπτισμα. Τίς ὁ ἄνθρωπος; Ὁ Πρόδρομος. Τί τὸ ἀνώγεον; Ἡ βασιλεία τῶν οὐρανῶν.

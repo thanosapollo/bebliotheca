@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ ΛΕʹ. Εἰς τοὺς μάρτυρας, καὶ κατὰ Ἀρειανῶν.
+#+TITLE: De martyribus et adversus Arianos
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De martyribus et adversus Arianos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-martyribus-et-adversus-arianos--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΛΕʹ. Εἰς τοὺς μάρτυρας, καὶ κατὰ Ἀρειανῶν.
+* De martyribus et adversus Arianos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΛΕʹ.
+Εἰς τοὺς μάρτυρας, καὶ κατὰ Ἀρειανῶν.
 Α. Τί τοσοῦτον ἔστιν εἰπεῖν, ὅσον τοῖς ὀφθαλμοῖς πάρεστι βλέπειν; Τίς δὲ
 λόγος τῶν φαινομένων ἀγαθῶν ἰσοστάσιος; Ἰδοὺ πρόκειται τοῖς ὀφθαλμοῖς ἡμῶν τὸ
 ἀπιστούμενον θέαμα, ὃ καὶ ἰδεῖν μὲν πολλάκις ηὐξάμεθα, κρεῖττον δὲ ἦν ἢ κατ'

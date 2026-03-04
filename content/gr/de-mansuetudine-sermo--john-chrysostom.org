@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ αὐτοῦ περὶ πραότητος. 63.549
+#+TITLE: De mansuetudine sermo
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De mansuetudine sermo
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-mansuetudine-sermo--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ περὶ πραότητος. 63.549
+* De mansuetudine sermo
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ περὶ πραότητος.
+=63.549=
 αʹ. Οἶμαι πάντας ὑμᾶς ἐπίστασθαι σαφῶς, ὅτι προσήκει τοὺς τῶν λογίων τοῦ
 Θεοῦ συνετῶς ἀκούοντας, ἦθος ἀγαθὸν καὶ τρόπων ἀρετὴν ἀσκεῖν. Τοῦτο γάρ ἐστιν ᾧ
 μάλιστα διαφέρουσιν οἱ δοῦλοι τοῦ Χριστοῦ τῶν τὴν ἀλήθειαν ἀγνοούντων, τῷ

@@ -1,17 +1,21 @@
-#+TITLE: ΒΑΡΛΑΑΜ ΚΑΙ ΙΩΑΣΑΦ ΙΣΤΟΡΙΑ ΨΥΧΩΦΕΛΗΣ ΕΚ ΤΗΣ ΕΝ∆ΟΤΕΡΑΣ ΤΩΝ ΑΙΘΙΟΠΩΝ ΧΩΡΑΣ, ΤΗΣ ΙΝ∆ΩΝ ΛΕΓΟΜΕΝΗΣ, ΠΡΟΣ ΤΗΝ ΑΓΙΑΝ ΠΟΛΙΝ ΜΕΤΕΝΕΧΘΕΙΣΑ ∆ΙΑ ΙΩΑΝΝΟΥ ΜΟΝΑΧΟΥ, ΑΝ∆ΡΟΣ ΤΙΜΙΟΥ ΚΑΙ
+#+TITLE: Vita Barlaam et Joasaph
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Vita Barlaam et Joasaph
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/vita-barlaam-et-joasaph--john-of-damascus
 #+LANGUAGE: el
 
-* ΒΑΡΛΑΑΜ ΚΑΙ ΙΩΑΣΑΦ ΙΣΤΟΡΙΑ ΨΥΧΩΦΕΛΗΣ ΕΚ ΤΗΣ ΕΝ∆ΟΤΕΡΑΣ ΤΩΝ ΑΙΘΙΟΠΩΝ ΧΩΡΑΣ, ΤΗΣ ΙΝ∆ΩΝ ΛΕΓΟΜΕΝΗΣ, ΠΡΟΣ ΤΗΝ ΑΓΙΑΝ ΠΟΛΙΝ ΜΕΤΕΝΕΧΘΕΙΣΑ ∆ΙΑ ΙΩΑΝΝΟΥ ΜΟΝΑΧΟΥ, ΑΝ∆ΡΟΣ ΤΙΜΙΟΥ ΚΑΙ
+* Vita Barlaam et Joasaph
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΒΑΡΛΑΑΜ ΚΑΙ ΙΩΑΣΑΦ ΙΣΤΟΡΙΑ ΨΥΧΩΦΕΛΗΣ ΕΚ ΤΗΣ ΕΝ∆ΟΤΕΡΑΣ ΤΩΝ
+ΑΙΘΙΟΠΩΝ ΧΩΡΑΣ, ΤΗΣ ΙΝ∆ΩΝ ΛΕΓΟΜΕΝΗΣ, ΠΡΟΣ ΤΗΝ ΑΓΙΑΝ ΠΟΛΙΝ
+ΜΕΤΕΝΕΧΘΕΙΣΑ ∆ΙΑ ΙΩΑΝΝΟΥ ΜΟΝΑΧΟΥ, ΑΝ∆ΡΟΣ ΤΙΜΙΟΥ ΚΑΙ
 ΕΝΑΡΕΤΟΥ ΜΟΝΗΣ ΤΟΥ ΑΓΙΟΥ ΣΑΒΑ· ΕΝ ΗΙ Ο ΒΙΟΣ ΒΑΡΛΑΑΜ ΚΑΙ ΙΩΑΣΑΦ
 ΤΩΝ ΑΟΙ∆ΙΜΩΝ ΚΑΙ ΜΑΚΑΡΙΩΝ.
 ΠΡΟΟΙΜΙΟΝ

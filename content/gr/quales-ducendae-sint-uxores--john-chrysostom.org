@@ -1,17 +1,20 @@
-#+TITLE: ΕΓΚΩΜΙΟΝ ΕΙΣ ΜΑΞΙΜΟΝ Καὶ περὶ τοῦ ποίας δεῖ ἄγεσθαι γυναῖκας. 51.225
+#+TITLE: Quales ducendae sint uxores
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quales ducendae sint uxores
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quales-ducendae-sint-uxores--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΓΚΩΜΙΟΝ ΕΙΣ ΜΑΞΙΜΟΝ Καὶ περὶ τοῦ ποίας δεῖ ἄγεσθαι γυναῖκας. 51.225
+* Quales ducendae sint uxores
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΓΚΩΜΙΟΝ ΕΙΣ ΜΑΞΙΜΟΝ Καὶ περὶ τοῦ ποίας δεῖ ἄγεσθαι γυναῖκας.
+=51.225=
 αʹ. Ὅτι μὲν ἀπελείφθην ὑμῶν τῇ παρελθούσῃ συνάξει, ἤλγησα· ὅτι δὲ
 πλουσιωτέρας ἀπελαύσατε τραπέζης, ἥσθην. Ὁ γὰρ μετ' ἐμοῦ τὸν ζυγὸν ἕλκων, τήν τε
 αὔλακα πρώην ἡμῖν ἀνέτεμε, καὶ τὰ σπέρματα κατέβαλε δαψιλεῖ γλώττῃ, καὶ μετὰ

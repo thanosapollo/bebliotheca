@@ -1,17 +1,19 @@
-#+TITLE: 1 λόγου τε καὶ βίου διεξοδευθεῖσα τὰς περὶ τοῦ Κυρίου καὶ Σωτῆρος ἡμῶν Ἰησοῦ
+#+TITLE: Generalis elementaria introductio
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Generalis elementaria introductio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/generalis-elementaria-introductio--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* 1 λόγου τε καὶ βίου διεξοδευθεῖσα τὰς περὶ τοῦ Κυρίου καὶ Σωτῆρος ἡμῶν Ἰησοῦ
+* Generalis elementaria introductio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 λόγου τε καὶ βίου διεξοδευθεῖσα τὰς περὶ τοῦ Κυρίου καὶ Σωτῆρος ἡμῶν Ἰησοῦ
 Χριστοῦ μαρτυρίας, δι' ἐναργῶν καὶ πιστῶν καὶ ἀληθῶν ἀποδείξεών τε καὶ
 συλλογισμῶν ἐπιστοῦτο, βραχείαις κομιδῇ ταῖς ἀπὸ τῶν παρά τε Ἰουδαίοις καὶ ἡμῖν
 πεπιστευμένων θείων γραφῶν ἐπὶ τέλει χρησαμένη μαρτυρίαις· ἐπεὶ μὴ δὲ ἄλλος

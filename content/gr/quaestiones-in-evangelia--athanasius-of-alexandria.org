@@ -1,17 +1,19 @@
-#+TITLE: 28.700 ΕΡΩΤΗΣΙΣ αʹ. «Τοῦ δὲ Ἰησοῦ Χριστοῦ ἡ γέννησις οὕτως ἦν. Μνηστευθείσης
+#+TITLE: Quaestiones in evangelia
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quaestiones in evangelia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quaestiones-in-evangelia--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* 28.700 ΕΡΩΤΗΣΙΣ αʹ. «Τοῦ δὲ Ἰησοῦ Χριστοῦ ἡ γέννησις οὕτως ἦν. Μνηστευθείσης
+* Quaestiones in evangelia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=28.700= ΕΡΩΤΗΣΙΣ αʹ. «Τοῦ δὲ Ἰησοῦ Χριστοῦ ἡ γέννησις οὕτως ἦν. Μνηστευθείσης
 γὰρ τῆς μητρὸς αὐτοῦ Μα ρίας τῷ Ἰωσήφ.» ∆ιὰ τί οὐκ εἶπε· Μνηστευθείσης τῆς
 παρθένου, ἀλλὰ «τῆς μητρὸς αὐτοῦ.» ΑΠΟΚΡΙΣΙΣ. Ὥστε εὐπαράδεκτον γενέσθαι τὸν
 λόγον, καὶ προσδοκῶντά τι τῶν συνήθων ἀκούσασθαι τὸν ἀκροατὴν, καταπλήξῃ τῇ

@@ -1,17 +1,19 @@
-#+TITLE: FRAGMENTA EX RELIQUIS S. CURILLI CONTRA JULIANUM L IBRIS QUI DESIDERANTUR. Τοῦ μακαρίου Κυρίλλου ἐκ τοῦ ιαʹ λόγου τῶν κατὰ Ἰουλιανοῦ.
+#+TITLE: Contra Julianum imperatorem
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Contra Julianum imperatorem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-julianum-imperatorem-1--cyril-of-alexandria
 #+LANGUAGE: el
 
-* FRAGMENTA EX RELIQUIS S. CURILLI CONTRA JULIANUM L IBRIS QUI DESIDERANTUR. Τοῦ μακαρίου Κυρίλλου ἐκ τοῦ ιαʹ λόγου τῶν κατὰ Ἰουλιανοῦ.
+* Contra Julianum imperatorem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ μακαρίου Κυρίλλου ἐκ τοῦ ιαʹ λόγου τῶν κατὰ Ἰουλιανοῦ.
 Ἀληθὲς εἰπεῖν ὡς ὁ κατοιόμενος καὶ καταφρονητὴς ἀνὴρ ἀλαζὼν, οὐδὲν μὴ
 περάνῃ κατὰ τὴν τοῦ προφήτου φωνήν· οἴησις γὰρ, προκοπῆς ἐκκοπὴ, κατὰ τὸν
 κοινὸν καὶ ἐν στόματι τῶν πολλῶν ὄντα λόγον. Ἐκ τοῦ αὐτοῦ λόγου. Οἴησις

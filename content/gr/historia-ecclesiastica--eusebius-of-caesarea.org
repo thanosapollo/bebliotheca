@@ -1,17 +1,21 @@
-#+TITLE: ΕΥΣΕΒΙΟΥ ΕΚΚΛΗΣΙΑΣΤΙΚΗΣ ΙΣΤΟΡΙΑΣ Α Τάδε ἡ πρώτη περιέχει βίβλος τῆς Ἐκκλησιαστικῆς ἱστορίας
+#+TITLE: Historia ecclesiastica
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Historia ecclesiastica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historia-ecclesiastica--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* ΕΥΣΕΒΙΟΥ ΕΚΚΛΗΣΙΑΣΤΙΚΗΣ ΙΣΤΟΡΙΑΣ Α Τάδε ἡ πρώτη περιέχει βίβλος τῆς Ἐκκλησιαστικῆς ἱστορίας
+* Historia ecclesiastica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΣΕΒΙΟΥ ΕΚΚΛΗΣΙΑΣΤΙΚΗΣ ΙΣΤΟΡΙΑΣ
+Α
+Τάδε ἡ πρώτη περιέχει βίβλος τῆς Ἐκκλησιαστικῆς ἱστορίας
 1.Pin.1 Α Τίς ἡ τῆς ἐπαγγελίας ὑπόθεσις. Β Ἐπιτομὴ κεφαλαιώδης περὶ τῆς κατὰ τὸν
 σωτῆρα καὶ κύριον ἡμῶν τὸν Χριστὸν τοῦ θεοῦ προυπάρξεώς τε καὶ θεολογίας. Γ Ὡς
 καὶ τὸ Ἰησοῦ ὄνομα καὶ αὐτὸ δὴ τὸ τοῦ Χριστοῦ ἔγνωστό τε ἀνέκαθεν καὶ τετίμητο

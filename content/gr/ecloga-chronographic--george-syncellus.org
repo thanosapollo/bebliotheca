@@ -1,17 +1,21 @@
-#+TITLE: ΕΚΛΟΓΗ ΧΡΟΝΟΓΡΑΦΙΑΣ ΣΥΝΤΑΓΕΙΣΑ ΥΠΟ ΓΕΩΡΓΙΟΥ ΜΟΝΑΧΟΥ ΣΥΓΚΕΛΛΟΥ ΓΕΓΟΝΟΤΟΣ ΤΑΡΑΣΙΟΥ ΠΑΤΡΙΑΡΧΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΑΠΟ Α∆ΑΜ ΜΕΧΡΙ ∆ΙΟΚΛΗΤΙΑΝΟΥ
+#+TITLE: Ecloga chronographic
 #+AUTHOR: Γεώργιος Σύγκελλος
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Ecloga chronographic
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ecloga-chronographic--george-syncellus
 #+LANGUAGE: el
 
-* ΕΚΛΟΓΗ ΧΡΟΝΟΓΡΑΦΙΑΣ ΣΥΝΤΑΓΕΙΣΑ ΥΠΟ ΓΕΩΡΓΙΟΥ ΜΟΝΑΧΟΥ ΣΥΓΚΕΛΛΟΥ ΓΕΓΟΝΟΤΟΣ ΤΑΡΑΣΙΟΥ ΠΑΤΡΙΑΡΧΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΑΠΟ Α∆ΑΜ ΜΕΧΡΙ ∆ΙΟΚΛΗΤΙΑΝΟΥ
+* Ecloga chronographic
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚΛΟΓΗ ΧΡΟΝΟΓΡΑΦΙΑΣ ΣΥΝΤΑΓΕΙΣΑ ΥΠΟ ΓΕΩΡΓΙΟΥ ΜΟΝΑΧΟΥ
+ΣΥΓΚΕΛΛΟΥ ΓΕΓΟΝΟΤΟΣ ΤΑΡΑΣΙΟΥ ΠΑΤΡΙΑΡΧΟΥ
+ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΑΠΟ Α∆ΑΜ ΜΕΧΡΙ ∆ΙΟΚΛΗΤΙΑΝΟΥ
 Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν. ἀρχὴ πάσης χρονικῆς
 κινήσεως τῆς ὑπὸ χρόνον ὁρατῆς κτίσεώς ἐστιν. ἐν ᾗ ὁ οὐρανὸς καὶ ἡ γῆ παρὰ θεοῦ
 πατρὸς διὰ υἱοῦ μονογενοῦς καὶ πνεύματος ἁγίου, τῆς ἁγίας καὶ ζωαρχικῆς

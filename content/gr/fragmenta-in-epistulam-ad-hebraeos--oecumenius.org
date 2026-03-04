@@ -1,13 +1,14 @@
-#+TITLE: 462 Hebr 1,4
+#+TITLE: Fragmenta in epistulam ad Hebraeos
 #+AUTHOR: Οἰκουμένιος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Hebraeos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-hebraeos--oecumenius
 #+LANGUAGE: el
 
-* 462 Hebr 1,4
+* Fragmenta in epistulam ad Hebraeos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

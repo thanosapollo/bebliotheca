@@ -1,17 +1,19 @@
-#+TITLE: ̓Εκ τῆς ἑρμηνείας τοῦ ιεʹ ψαλμοῦ·
+#+TITLE: Commentarius in Psalmum
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Commentarius in Psalmum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarius-in-psalmum--eustathius-of-antioch
 #+LANGUAGE: el
 
-* ̓Εκ τῆς ἑρμηνείας τοῦ ιεʹ ψαλμοῦ·
+* Commentarius in Psalmum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Εκ τῆς ἑρμηνείας τοῦ ιεʹ ψαλμοῦ·
 Ἀλλὰ μὴν ἡ τοῦ Ἰησοῦ ἑκατέρων πεῖραν ἔσχε. Γέγονε γὰρ καὶ ἐν τῷ χωρίῳ
 τῶν ἀνθρωπίνων ψυχῶν, καὶ τῆς σαρκὸς ἐκτὸς γενομένη ζῇ καὶ ὑφέστηκε. Λογικὴ
 ἄρα, καὶ ταῖς ψυχαῖς τῶν ἀνθρώπων ὁμοούσιος, ὥσπερ καὶ ἡ σὰρξ ὁμοούσιος τῇ τῶν

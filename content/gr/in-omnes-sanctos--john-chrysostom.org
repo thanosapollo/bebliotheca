@@ -1,17 +1,20 @@
-#+TITLE: Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου ἐγκώμιον εἰς τοὺς ἁγίους πάντας.
+#+TITLE: In omnes sanctos
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In omnes sanctos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-omnes-sanctos--john-chrysostom
 #+LANGUAGE: el
 
-* Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου ἐγκώμιον εἰς τοὺς ἁγίους πάντας.
+* In omnes sanctos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου
+ἐγκώμιον εἰς τοὺς ἁγίους πάντας.
 ∆εῦτε σήμερον, ἀδελφοί, τῶν ἁγίων μαρτύρων τὴν μνήμην φαιδρῶς
 πανηγυρίσωμεν. ∆εῦτε κοινωνήσωμεν αὐτῆς τῆς ἐπουρανίου χάριτος· μάρτυρες γὰρ
 τῆς ἐν παραδείσῳ προδοσίας ἀπολογία, τῆς σφαλείσης ἱλαστήρια φύσεως, τῆς

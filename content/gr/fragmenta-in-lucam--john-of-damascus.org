@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ∆αμασκηνοῦ.
+#+TITLE: Fragmenta in Lucam
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Fragmenta in Lucam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-lucam--john-of-damascus
 #+LANGUAGE: el
 
-* Τοῦ ∆αμασκηνοῦ.
+* Fragmenta in Lucam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ∆αμασκηνοῦ.
 =95.233= Καὶ ἐπὶ τοὺς ἀποστόλους τὸ Πνεῦμα κάτεισι. Θεὸς γάρ ἐστιν· ὁ δὲ Θεὸς πῦρ
 καταναλίσκον ἐστί. ∆ιὰ τοῦτο πυρὶ λέγεται βαπτίζειν ὁ Χριστὸς, ἐπειδὴ ἐν εἴδει πυρίνων
 γλωττῶν ἐπὶ τοὺς ἁγίους αὐτοῦ μαθητὰς τὴν τοῦ Χριστοῦ χάριν ἐξέχεεν, ἢ διὰ τὸ τοῦ

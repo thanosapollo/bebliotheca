@@ -1,13 +1,14 @@
-#+TITLE: FRAGMENTA HEGESIPPI, QUI POST MEDIUM SAECULUM SECUNDUM COMMENTARIOS SUOS CONSCRIPSIT. Ex Incerto Libro COMMENTARIORUM ACTUUM ECCLESIASTICORUM.
+#+TITLE: Fragmenta
 #+AUTHOR: Ἡγήσιππος
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Fragmenta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta--hegesippus
 #+LANGUAGE: el
 
-* FRAGMENTA HEGESIPPI, QUI POST MEDIUM SAECULUM SECUNDUM COMMENTARIOS SUOS CONSCRIPSIT. Ex Incerto Libro COMMENTARIORUM ACTUUM ECCLESIASTICORUM.
+* Fragmenta
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

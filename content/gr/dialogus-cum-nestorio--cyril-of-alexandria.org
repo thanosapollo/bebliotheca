@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ∆ΙΑΛΕΞΙΣ ΠΡΟΣ ΝΕΣΤΟΡΙΟΝ ΟΤΙ ΘΕΟΤΟΚΟΣ Η ΑΓΙΑ ΠΑΡΘΕΝΟΣ ΚΑΙ ΟΥ ΧΡΙΣΤΟΤΟΚΟΣ. 76.249
+#+TITLE: Dialogus cum Nestorio
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Dialogus cum Nestorio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/dialogus-cum-nestorio--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ∆ΙΑΛΕΞΙΣ ΠΡΟΣ ΝΕΣΤΟΡΙΟΝ ΟΤΙ ΘΕΟΤΟΚΟΣ Η ΑΓΙΑ ΠΑΡΘΕΝΟΣ ΚΑΙ ΟΥ ΧΡΙΣΤΟΤΟΚΟΣ. 76.249
+* Dialogus cum Nestorio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ∆ΙΑΛΕΞΙΣ ΠΡΟΣ ΝΕΣΤΟΡΙΟΝ ΟΤΙ
+ΘΕΟΤΟΚΟΣ Η ΑΓΙΑ ΠΑΡΘΕΝΟΣ ΚΑΙ ΟΥ ΧΡΙΣΤΟΤΟΚΟΣ.
+=76.249=
 {ΝΕΣΤΟΡΙΟΣ.} Οταν ἡ θεία Γραφὴ διαλέγηται γέννησιν Χριστοῦ ἐκ Μαρίας
 τῆς παρθένου [η] θάνατον, οὐδαμοῦ τεθεῖσα φαίνεται Θεοῦ, ἀλλὰ Χριστοῦ η Κυρίου
 η ̓Ιησοῦ, ἐπειδὴ τὰ τρία ταῦτα τῶν δύο φύσεων σημαντικὰ, ποτὲ μὲν ταύτης, ποτὲ δὲ

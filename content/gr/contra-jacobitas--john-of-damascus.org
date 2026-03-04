@@ -1,6 +1,7 @@
-#+TITLE: ̓Ιωάννου ταπεινοῦ μοναχοῦ ∆αμασκηνοῦ τόμος ὡς ἐκ προσώπου Πέτρου
+#+TITLE: Contra Jacobitas
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Contra Jacobitas
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

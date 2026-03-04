@@ -1,17 +1,20 @@
-#+TITLE: ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΜΑΡΤΥΡΑ ΒΑΡΛΑΑΜ 50.675
+#+TITLE: In sanctum Barlaam martyrem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum Barlaam martyrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-barlaam-martyrem--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΜΑΡΤΥΡΑ ΒΑΡΛΑΑΜ 50.675
+* In sanctum Barlaam martyrem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΜΑΡΤΥΡΑ ΒΑΡΛΑΑΜ
+=50.675=
 αʹ. Συνεκάλεσεν ἡμᾶς εἰς τὴν ἱερὰν ταύτην ἑορτὴν καὶ πανήγυριν ὁ μακάριος
 Βαρλαὰμ, οὐχ ἵνα αὐτὸν ἐπαινέσωμεν, ἀλλ' ἵνα αὐτὸν ζηλώσωμεν· οὐχ ἵνα ἀκροαταὶ
 γενώμεθα τῶν ἐγκωμίων, ἀλλ' ἵνα μιμηταὶ γενώμεθα τῶν αὐτοῦ κατορθωμάτων.

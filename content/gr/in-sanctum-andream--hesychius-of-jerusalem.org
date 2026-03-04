@@ -1,6 +1,7 @@
-#+TITLE: Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ἅγιον Ἀνδρέαν
+#+TITLE: In sanctum Andream
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: In sanctum Andream
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

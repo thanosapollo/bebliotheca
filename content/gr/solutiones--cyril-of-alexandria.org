@@ -1,17 +1,20 @@
-#+TITLE: ΠΡΩΤΟΝ ΚΕΦΑΛΑΙΟΝ ΕΠΙΛΥΣΕΩΣ ∆ογματικῶν ζητημάτων προτεθέντων τῷ ἁγιωτάτῳ Κυρίλλῳ.
+#+TITLE: Solutiones
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Solutiones
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/solutiones--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΠΡΩΤΟΝ ΚΕΦΑΛΑΙΟΝ ΕΠΙΛΥΣΕΩΣ ∆ογματικῶν ζητημάτων προτεθέντων τῷ ἁγιωτάτῳ Κυρίλλῳ.
+* Solutiones
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΩΤΟΝ ΚΕΦΑΛΑΙΟΝ ΕΠΙΛΥΣΕΩΣ ∆ογματικῶν ζητημάτων
+προτεθέντων τῷ ἁγιωτάτῳ Κυρίλλῳ.
 Εἰ ὁ ἐπὶ πάντων Θεὸς χεῖρας, πόδας, ὀφθαλμοὺς, ὦτά τε καὶ πτέρυγας ἔχειν
 ὑπὸ τῆς θείας γραφῆς ὀνομαζόμενος, οὕτω παρ' ἡμῶν ὀφείλει νοεῖσθαι, οὐκ
 ἀνθρωποειδῶς ὡς ἐπὶ σώματος τῶν μελῶν λαμβανομένων· ἀσώματος γάρ· ἀλλὰ

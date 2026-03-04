@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ ΚΕʹ. Εἰς Ἡρῶνα τὸν φιλόσοφον.
+#+TITLE: In laudem Heronis philosophi 1
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In laudem Heronis philosophi 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-laudem-heronis-philosophi-1--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΚΕʹ. Εἰς Ἡρῶνα τὸν φιλόσοφον.
+* In laudem Heronis philosophi 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΚΕʹ.
+Εἰς Ἡρῶνα τὸν φιλόσοφον.
 Αʹ. Τὸν φιλόσοφον ἐπαινέσομαι, καὶ εἰ κάμνω τῷ σώματι· φιλόσοφον γάρ·
 ἐπαινέσομαι δὲ καὶ λίαν εἰκότως. Ὁ μὲν γὰρ φιλόσοφος, ἐγὼ δὲ σοφίας θεραπευτής·
 ὥστε μοι καὶ πρὸς λόγον ὁ ἔπαινος, ἵν', εἰ μή τι ἄλλο, τοῦτό γε φιλοσοφήσω, τὸ

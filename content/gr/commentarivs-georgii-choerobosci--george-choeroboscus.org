@@ -1,17 +1,19 @@
-#+TITLE: Σχόλια σὺν θεῷ τῶν μέτρων ἀπὸ φωνῆς Γεωργίου Χοιροβοσκοῦ
+#+TITLE: COMMENTARIVS GEORGII CHOEROBOSCI
 #+AUTHOR: Γεώργιος Χοιροβοσκός
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: COMMENTARIVS GEORGII CHOEROBOSCI
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarivs-georgii-choerobosci--george-choeroboscus
 #+LANGUAGE: el
 
-* Σχόλια σὺν θεῷ τῶν μέτρων ἀπὸ φωνῆς Γεωργίου Χοιροβοσκοῦ
+* COMMENTARIVS GEORGII CHOEROBOSCI
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Σχόλια σὺν θεῷ τῶν μέτρων ἀπὸ φωνῆς Γεωργίου Χοιροβοσκοῦ
 γραμματικοῦ τοῦ Βυζαντίου τῆς οἰκουμενικῆς διδασκαλίας.
 1. Ἰστέον ὅτι 20σκοπὸν20 ἔχει ὁ μετρικὸς περὶ μέτρων διαλαβεῖν. τοῦ δὲ
 μέτρου εὑρετὴς μέν ἐστιν ὁ Ἀπόλ λων ἤγουν ἡ Πυθία ἤ, ὥς τινές φασι, Φημονόη ἡ

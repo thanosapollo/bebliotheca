@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ ΕΙΣ ΚΑΙΣΑΡΙΟΝ ΤΟΝ ΕΑΥΤΟΥ Α∆ΕΛΦΟΝ ΕΠΙΤΑΦΙΟΣ
+#+TITLE: Funebris in laudem Caesarii fratris oratio
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Funebris in laudem Caesarii fratris oratio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/funebris-in-laudem-caesarii-fratris-oratio--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ ΕΙΣ ΚΑΙΣΑΡΙΟΝ ΤΟΝ ΕΑΥΤΟΥ Α∆ΕΛΦΟΝ ΕΠΙΤΑΦΙΟΣ
+* Funebris in laudem Caesarii fratris oratio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ ΕΙΣ ΚΑΙΣΑΡΙΟΝ ΤΟΝ ΕΑΥΤΟΥ Α∆ΕΛΦΟΝ
+ΕΠΙΤΑΦΙΟΣ
 1.1 Οἴεσθέ με ἴσως, ὦ φίλοι καὶ ἀδελφοὶ καὶ πατέρες, τὸ γλυκὺ καὶ πρᾶγμα
 καὶ ὄνομα, θρήνους ἐπιβαλοῦντα τῷ ἀπελθόντι καὶ ὀδυρμούς, ὑποδέχεσθαι
 προθύμως τὸν λόγον, ἢ μακροὺς ἀποτενοῦντα καὶ κομψοὺς λόγους, οἷς οἱ πολλοὶ

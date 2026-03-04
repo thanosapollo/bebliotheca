@@ -1,17 +1,19 @@
-#+TITLE: Εὐαγρίου εἰς τὸ πιπι.
+#+TITLE: eis to pipi
 #+AUTHOR: Εὐάγριος Ποντικός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: eis to pipi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/eis-to-pipi--evagrius-ponticus
 #+LANGUAGE: el
 
-* Εὐαγρίου εἰς τὸ πιπι.
+* eis to pipi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εὐαγρίου εἰς τὸ πιπι.
 ∆ιὰ τὴν ἑβραϊκὴν ἐπὶ τοῦ κυρίου παρασημείωσιν ταῦτα λεκτέον. δέκα
 ὀνόμασι παρ' Ἑβραίοις ὀνομάζεται ὁ θεός. ὧν ἓν μὲν Ἀδωναῒ λέγεται, ὅ ἐστιν κύριος,
 ἕτερον δὲ Ἰά, ὃ αὐτὸ ἐν τῷ ἑλληνικῷ εἰς τὸ κύριος μετελήφθη. ἕτερον δέ τι παρὰ

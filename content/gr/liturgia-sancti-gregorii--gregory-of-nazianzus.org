@@ -1,17 +1,19 @@
-#+TITLE: Η ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ.
+#+TITLE: Liturgia sancti Gregorii
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Liturgia sancti Gregorii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/liturgia-sancti-gregorii--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* Η ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ.
+* Liturgia sancti Gregorii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Η ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ.
 Ὁ ἐπισκεψάμενος ἡμᾶς ἐν ἐλέει καὶ οἰκτιρμοῖς, ∆έσποτα Κύριε Ἰησοῦ Χριστὲ,
 καὶ χαρισάμενος ἡμῖν παῤῥησίαν, τοῖς ταπεινοῖς καὶ ἁμαρτωλοῖς, καὶ ἀναξίοις
 δούλοις σου, παραστῆναι τῷ ἁγίῳ σου θυσιαστηρίῳ, καὶ προσφέρειν σοι τὴν

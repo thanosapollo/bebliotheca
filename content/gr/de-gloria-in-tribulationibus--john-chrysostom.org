@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸ ἀποστολικὸν ῥητὸν τὸ λέγον, "Οὐ μόνον δὲ, ἀλλὰ καὶ καυχώμεθα ἐν
+#+TITLE: De gloria in tribulationibus
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De gloria in tribulationibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-gloria-in-tribulationibus--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸ ἀποστολικὸν ῥητὸν τὸ λέγον, "Οὐ μόνον δὲ, ἀλλὰ καὶ καυχώμεθα ἐν
+* De gloria in tribulationibus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸ ἀποστολικὸν ῥητὸν τὸ λέγον, "Οὐ μόνον δὲ, ἀλλὰ καὶ καυχώμεθα ἐν
 ταῖς θλίψεσιν, εἰδότες ὅτι ἡ θλῖψις ὑπομονὴν κατεργάζεται," καὶ τὰ ἑξῆς.
 =51.155=
 αʹ. Ἐπίπονον μὲν γηπόνῳ τὸ ζεῦξαι βόας, καὶ ἄροτρον ἑλκύσαι, καὶ αὔλακα

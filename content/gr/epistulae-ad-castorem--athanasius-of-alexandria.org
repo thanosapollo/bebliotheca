@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΜΕΓΑΛΟΥ ΑΘΑΝΑΣΙΟΥ ΠΡΟΣ ΚΑΣΤΟΡΑ ΤΟΝ ΜΑΚΑΡΙΟΤΑΤΟΝ ΠΕΡΙ ΤΩΝ ΚΑΝΟΝΙΚΩΝ ΤΩΝ ΚΟΙΝΟΒΙΩΝ ∆ΙΑΤΥΠΩΣΕΩΝ.
+#+TITLE: Epistulae ad Castorem
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistulae ad Castorem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistulae-ad-castorem--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΜΕΓΑΛΟΥ ΑΘΑΝΑΣΙΟΥ ΠΡΟΣ ΚΑΣΤΟΡΑ ΤΟΝ ΜΑΚΑΡΙΟΤΑΤΟΝ ΠΕΡΙ ΤΩΝ ΚΑΝΟΝΙΚΩΝ ΤΩΝ ΚΟΙΝΟΒΙΩΝ ∆ΙΑΤΥΠΩΣΕΩΝ.
+* Epistulae ad Castorem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΜΕΓΑΛΟΥ ΑΘΑΝΑΣΙΟΥ ΠΡΟΣ ΚΑΣΤΟΡΑ ΤΟΝ
+ΜΑΚΑΡΙΟΤΑΤΟΝ ΠΕΡΙ ΤΩΝ ΚΑΝΟΝΙΚΩΝ ΤΩΝ ΚΟΙΝΟΒΙΩΝ
+∆ΙΑΤΥΠΩΣΕΩΝ.
 Ἐπειδή μοι προσέταξας, μακαριώτατε πάτερ Κάστορ, γνωρίσαι σοι τὰς κανονικὰς
 διατυπώσεις τῶν κοινοβίων τῶν ἀνατολικῶν, καὶ μάλιστα τῶν Αἰγυπτίων, ὧν
 αὐτόπτης γέγονα· εἴξας ἐγὼ τῇ ὑμετέρᾳ κελεύσει, τοῦτον ὡς ἐν ὀλίγῳ τὸν λόγον

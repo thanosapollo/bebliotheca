@@ -1,17 +1,19 @@
-#+TITLE: Ἐπακολούθως τῇ προτεταγμένῃ πίστει ἀναθεματίζομεν τὴν τοῦ Σαβελλίου
+#+TITLE: Expositio fidei Nicaenae
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Expositio fidei Nicaenae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/expositio-fidei-nicaenae--basil-of-caesarea
 #+LANGUAGE: el
 
-* Ἐπακολούθως τῇ προτεταγμένῃ πίστει ἀναθεματίζομεν τὴν τοῦ Σαβελλίου
+* Expositio fidei Nicaenae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἐπακολούθως τῇ προτεταγμένῃ πίστει ἀναθεματίζομεν τὴν τοῦ Σαβελλίου
 πίστιν τὴν λέγουσαν, τὸν αὐτὸν εἶναι πατέρα καὶ υἱὸν καὶ ἅγιον πνεῦμα·
 σφάλλονται γάρ, ὡς ὅτι ὁ πατὴρ αὐτός ἐστιν ὁ υἱός, καὶ ὡς ὅτι ὁ υἱὸς αὐτός ἐστιν ὁ
 πατήρ, ὡσαύτως καὶ τὸ ἅγιον πνεῦμα, ὥστε εἶναι ἓν πρόσωπον, τρία δὲ ὀνόματα·

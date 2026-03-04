@@ -1,17 +1,19 @@
-#+TITLE: ΠΡΟΛΟΓΟΣ
+#+TITLE: In Isaiam
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Isaiam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-isaiam--john-chrysostom
 #+LANGUAGE: el
 
-* ΠΡΟΛΟΓΟΣ
+* In Isaiam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΛΟΓΟΣ
 π.1 Τοῦ προφήτου τούτου τὸ ἐξαίρετον μάλιστα μὲν καὶ αὐτόθεν ἔστιν ἰδεῖν,
 δείκνυσι δὲ αὐτὸ ἐντελέστερον ὁ πάντων ἀκριβέστερον τὰς ἀρετὰς αὐτοῦ εἰδὼς
 Παῦλος, ἅτε Πνεύματι τοσούτῳ φθεγγόμενος. Τὴν γὰρ ἐλευθεροστομίαν αὐτοῦ καὶ

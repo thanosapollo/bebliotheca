@@ -1,17 +1,19 @@
-#+TITLE: Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος εἰς τὸν Ζακχαῖον.
+#+TITLE: In Zacchaeum
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Zacchaeum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-zacchaeum--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος εἰς τὸν Ζακχαῖον.
+* In Zacchaeum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀμφιλοχίου ἐπισκόπου Ἰκονίου λόγος εἰς τὸν Ζακχαῖον.
 Οὐδὲν οὕτως τὴν ψυχὴν πρὸς εὐφροσύνην διανίστησιν ὡς φόβος θεοῦ καὶ
 κακῶν ἀποχὴ καὶ μετανοίας δρόμος καὶ ἐξομο λογήσεως τρόπος. Ὅθεν καὶ σήμερον
 ∆αβὶδ τοὺς τῆς ἀφέσεως τῶν ἁμαρτιῶν τυχόντας ἐμακάριζεν ἅμα μὲν τὴν

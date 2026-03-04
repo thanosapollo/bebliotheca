@@ -1,17 +1,20 @@
-#+TITLE: ΙΩΑΝΝΟΥ ∆ΙΑΚΟΝΟΥ ΤΟΥ ΑΡΓΥΡΟΠΟΥΛΟΥ ΠΡΟΛΕΓΟΜΕΝΑ ΕΙΣ ΤΑ ΤΗΣ ΡΗΤΟΡΙΚΗΣ ΠΡΟΓΥΜΝΑΣΜΑΤΑ
+#+TITLE: Prolegomena in Aphthonii progymnasmata
 #+AUTHOR: Ἰωάννης Ἀργυρόπουλος
 #+FILETAGS: :byzantine:15c-ad:
+#+MIGNE_TITLE: Prolegomena in Aphthonii progymnasmata
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/prolegomena-in-aphthonii-progymnasmata--john-argyropoulos
 #+LANGUAGE: el
 
-* ΙΩΑΝΝΟΥ ∆ΙΑΚΟΝΟΥ ΤΟΥ ΑΡΓΥΡΟΠΟΥΛΟΥ ΠΡΟΛΕΓΟΜΕΝΑ ΕΙΣ ΤΑ ΤΗΣ ΡΗΤΟΡΙΚΗΣ ΠΡΟΓΥΜΝΑΣΜΑΤΑ
+* Prolegomena in Aphthonii progymnasmata
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΙΩΑΝΝΟΥ ∆ΙΑΚΟΝΟΥ ΤΟΥ ΑΡΓΥΡΟΠΟΥΛΟΥ ΠΡΟΛΕΓΟΜΕΝΑ ΕΙΣ ΤΑ ΤΗΣ
+ΡΗΤΟΡΙΚΗΣ ΠΡΟΓΥΜΝΑΣΜΑΤΑ
 Ἐπειδήπερ ἡμῖν πρόκειται περὶ τῶν προγυμνασμάτων εἰπεῖν, ἀναγκαῖον
 διαλαβεῖν πρῶτον, τίς ὁ τούτων πατὴρ καὶ ὅθεν πρὸς τὴν τούτων προήχθη
 συγγραφήν. Ἔστι τοίνυν πατὴρ τῆς παρούσης τῶν Προγυμνασμάτων βίβλου

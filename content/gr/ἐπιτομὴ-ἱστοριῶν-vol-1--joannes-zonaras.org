@@ -1,4 +1,4 @@
-#+TITLE: Ἐπιτομὴ Ἱστοριῶν (Vol. 1)
+#+TITLE: Ἐπιτομὴ Ἱστοριῶν (Τόμος Αʹ)
 #+AUTHOR: Joannes Zonaras
 #+FILETAGS: :byzantine:12c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup

@@ -1,17 +1,19 @@
-#+TITLE: 1,6 Εἰ πᾶσα ἡ γενητὴ φύσις προσκυνεῖ τῷ Χριστῷ–διὰ γὰρ τῆς τῶν ἀγγέλων
+#+TITLE: Fragmentum in epistulam ad Hebraeos
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmentum in epistulam ad Hebraeos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-epistulam-ad-hebraeos--didymus-the-blind
 #+LANGUAGE: el
 
-* 1,6 Εἰ πᾶσα ἡ γενητὴ φύσις προσκυνεῖ τῷ Χριστῷ–διὰ γὰρ τῆς τῶν ἀγγέλων
+* Fragmentum in epistulam ad Hebraeos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1,6 Εἰ πᾶσα ἡ γενητὴ φύσις προσκυνεῖ τῷ Χριστῷ–διὰ γὰρ τῆς τῶν ἀγγέλων
 προσηγορίας τὴν ὑπέρτερον λογικὴν σημαίνει φύσιν, ὥσπερ καὶ ἐν τῷ τίνι γὰρ τῶν
 ἀγγέλων εἴρηκέν ποτε· κάθου ἐκ δεξιῶν μου; καὶ ὑπεράνω ταύτης ἐστὶν αὐτός–καὶ
 προσκυνεῖν ὁ λόγος τῶν γραφῶν κτίσματι ἀπεῖπεν, μὴ ἀναβλέψας, λέγων, εἰς τὸν

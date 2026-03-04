@@ -1,17 +1,22 @@
-#+TITLE: ΣΑΛΑΜΑΝΟΥ ΕΡΜΕΙΟΥ ΣΩΖΟΜΕΝΟΥ ΣΧΟΛΑΣΤΙΚΟΥ ΛΟΓΟΣ ΠΡΟΣ ΤΟΝ ΑΥΤΟΚΡΑΤΟΡΑ ΘΕΟ∆ΟΣΙΟΝ ΚΑΙ ΥΠΟΘΕΣΙΣ ΤΗΣ ΕΚΚΛΗΣΙΑΣΤΙΚΗΣ ΙΣΤΟΡΙΑΣ πρεφ.1.1
+#+TITLE: Historia ecclesiastica
 #+AUTHOR: Ἑρμείας Σωζομενός
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Historia ecclesiastica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historia-ecclesiastica--sozomen
 #+LANGUAGE: el
 
-* ΣΑΛΑΜΑΝΟΥ ΕΡΜΕΙΟΥ ΣΩΖΟΜΕΝΟΥ ΣΧΟΛΑΣΤΙΚΟΥ ΛΟΓΟΣ ΠΡΟΣ ΤΟΝ ΑΥΤΟΚΡΑΤΟΡΑ ΘΕΟ∆ΟΣΙΟΝ ΚΑΙ ΥΠΟΘΕΣΙΣ ΤΗΣ ΕΚΚΛΗΣΙΑΣΤΙΚΗΣ ΙΣΤΟΡΙΑΣ πρεφ.1.1
+* Historia ecclesiastica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΑΛΑΜΑΝΟΥ ΕΡΜΕΙΟΥ ΣΩΖΟΜΕΝΟΥ ΣΧΟΛΑΣΤΙΚΟΥ ΛΟΓΟΣ ΠΡΟΣ ΤΟΝ
+ΑΥΤΟΚΡΑΤΟΡΑ ΘΕΟ∆ΟΣΙΟΝ ΚΑΙ ΥΠΟΘΕΣΙΣ ΤΗΣ ΕΚΚΛΗΣΙΑΣΤΙΚΗΣ
+ΙΣΤΟΡΙΑΣ
+πρεφ.1.1
 Φασὶ τῶν πάλαι αὐτοκρατόρων ἐπιμελές τι χρῆμα γενέσθαι τοῖς μὲν
 φιλοκόσμοις ἁλουργίδα καὶ στέφανον καὶ τὰ τούτοις παραπλήσια, τοῖς δ' αὖ τὰ περὶ
 λόγους σπουδάσασι μυθώδη τινὰ ποίησιν ἢ σύγγραμμα θέλγειν δυνάμενον, τοῖς δὲ

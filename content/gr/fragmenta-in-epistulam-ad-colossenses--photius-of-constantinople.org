@@ -1,17 +1,19 @@
-#+TITLE: 631 Kol 1,17 Καὶ αὐτός ἐστι πρὸ πάντων. οὐκ εἶπεν· ἐγένετο πρὸ πάντων, ἀλλ'· ἔστι
+#+TITLE: Fragmenta in epistulam ad Colossenses
 #+AUTHOR: Φώτιος Κωνσταντινουπόλεως
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Colossenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-colossenses--photius-of-constantinople
 #+LANGUAGE: el
 
-* 631 Kol 1,17 Καὶ αὐτός ἐστι πρὸ πάντων. οὐκ εἶπεν· ἐγένετο πρὸ πάντων, ἀλλ'· ἔστι
+* Fragmenta in epistulam ad Colossenses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+631 Kol 1,17 Καὶ αὐτός ἐστι πρὸ πάντων. οὐκ εἶπεν· ἐγένετο πρὸ πάντων, ἀλλ'· ἔστι
 πρὸ πάντων, τοῦτ' ἔστιν ὃ ἂν ἐννοήσῃς, αὐτὸν προόντα καὶ προϋφεστῶτα εὑρήσεις
 ἀϊδίως συνυπάρχοντα τῷ πατρὶ καὶ τῷ πνεύματι. Kol 1, Εἰρηνοποήσας. τὸ ὑπερβατόν·
 εἰρηνοποιήσας δι' ἑαυτοῦ, τοῦτ' ἔστιν αὐτουργήσας, ἀλλ' οὐ δι' ἑτέρων ἡμῖν

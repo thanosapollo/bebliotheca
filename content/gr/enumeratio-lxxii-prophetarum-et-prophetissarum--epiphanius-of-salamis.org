@@ -1,17 +1,19 @@
-#+TITLE: ΠΕΡΙ ΤΩΝ ΟΒ ΠΡΟΦΗΤΩΝ ΚΑΙ ΠΡΟΦΗΤΙ∆ΩΝ ΕΠΙΦΑΝΙΟΥ.
+#+TITLE: Enumeratio lxxii prophetarum et prophetissarum
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Enumeratio lxxii prophetarum et prophetissarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/enumeratio-lxxii-prophetarum-et-prophetissarum--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* ΠΕΡΙ ΤΩΝ ΟΒ ΠΡΟΦΗΤΩΝ ΚΑΙ ΠΡΟΦΗΤΙ∆ΩΝ ΕΠΙΦΑΝΙΟΥ.
+* Enumeratio lxxii prophetarum et prophetissarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΕΡΙ ΤΩΝ ΟΒ ΠΡΟΦΗΤΩΝ ΚΑΙ ΠΡΟΦΗΤΙ∆ΩΝ ΕΠΙΦΑΝΙΟΥ.
 αʹ. Ἀδάμ. βʹ. Ἐνώχ. γʹ. Νῶε. δʹ. Ἀβραάμ. εʹ. Ἰσαάκ. ʹ. Ἰακώβ. ζʹ. Μωϋσής. ηʹ.
 Ἀαρών. θʹ. Ἰησοῦς. ιʹ. Ἐλδάμ. ιαʹ. Μωδάδ. ιβʹ. Ἰώβ. ιγʹ. Σαμουήλ. ιδʹ. Ναθάν. ιεʹ.
 ∆αβίδ. 2 ι ʹ. Γάδ. ιζʹ. Ἰδιθούμ. ιηʹ. Ἀσάφ. ιθʹ. Αἰμάν. κʹ. Αἰθάμ. καʹ. Σολομῶν. κβʹ.

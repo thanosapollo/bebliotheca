@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸν δίκαιον καὶ μακάριον Ἰὼβ, Λόγος αʹ.
+#+TITLE: In Job
 #+AUTHOR: Σεβηριανὸς Γαβάλων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Job
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-job--severianus-of-gabala
 #+LANGUAGE: el
 
-* Εἰς τὸν δίκαιον καὶ μακάριον Ἰὼβ, Λόγος αʹ.
+* In Job
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν δίκαιον καὶ μακάριον Ἰὼβ, Λόγος αʹ.
 αʹ. Ἧκεν ἡμῖν ἐνιαύσιος σήμερον ὁ τῆς οἰκουμένης ἀθλητής· ἧκεν ἡμῖν ὁ ξένος καὶ
 τῶν ἀγγέλων ὁμότιμος ἀγωνιστὴς, ὁ πολλὰ παρὰ τοῦ διαβόλου τυπτόμενος, καὶ
 πολλὰ παρὰ τοῦ Θεοῦ μαρτυρούμενος· ὁ πολλὰ παρὰ τοῦ διαβόλου πληττόμενος, καὶ

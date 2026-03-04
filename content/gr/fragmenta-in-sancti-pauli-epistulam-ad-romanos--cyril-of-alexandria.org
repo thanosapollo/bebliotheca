@@ -1,18 +1,18 @@
-#+TITLE: CYRILLI ARCHIEPISCOPI ALEXANDRINI FRAGMENTA QUOT SUPERSUNT IN
+#+TITLE: Fragmenta in sancti Pauli epistulam ad Romanos
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmenta in sancti Pauli epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-sancti-pauli-epistulam-ad-romanos--cyril-of-alexandria
 #+LANGUAGE: el
 
-* CYRILLI ARCHIEPISCOPI ALEXANDRINI FRAGMENTA QUOT SUPERSUNT IN
+* Fragmenta in sancti Pauli epistulam ad Romanos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
-EPISTOLAM AD ROMANOS.
 174 Περὶ τοῦ υἱοῦ αὐτοῦ, τοῦ γενομένου ἐκ σπέρματος ∆αβὶδ κατὰ 175 σάρκα.
 ΤΟΝ γεμὴν ἐκ σπέρματος ∆αυεὶδ γεγονότα, κατὰ τὴν σάρκα ὡρίσθαι φησὶν εἰς υἱὸν Θεοῦ
 ἐν δυνάμει κατὰ πνεῦμα ἁγιωσύνης ἐξ ἀναστάσεως νεκρῶν. ὡρίσμεθα μὲν γὰρ καὶ ἡμεῖς

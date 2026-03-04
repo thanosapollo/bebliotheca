@@ -1,17 +1,20 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΟ ∆ΕΥΤΕΡΟΝΟΜΙΟΝ ΕΚΛΟΓΑΙ. 12.805
+#+TITLE: Selecta in Deuteronomium
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Selecta in Deuteronomium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/selecta-in-deuteronomium--origen
 #+LANGUAGE: el
 
-* ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΟ ∆ΕΥΤΕΡΟΝΟΜΙΟΝ ΕΚΛΟΓΑΙ. 12.805
+* Selecta in Deuteronomium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΩΡΙΓΕΝΟΥΣ ΕΙΣ ΤΟ ∆ΕΥΤΕΡΟΝΟΜΙΟΝ ΕΚΛΟΓΑΙ.
+=12.805=
 Ἐλάλησε Μωϋσῆς πρὸς πάντας υἱοὺς Ἰσραὴλ κατὰ πάντα ὅσα ἐνετείλατο Κύριος
 αὐτῷ. Ἐπειδὴ ὁ μὲν Θεὸς τὴν δύναμιν ἀπεκάλυπτεν· ὁ δὲ προφή της τῇ ἑαυτοῦ
 γλώσσῃ ἐκέχρητο πρὸς παράστασιν τῶν δεδηλωμένων. Κίνησις οὖν λέγεται ἡ

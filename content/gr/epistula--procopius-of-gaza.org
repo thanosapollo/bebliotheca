@@ -1,17 +1,19 @@
-#+TITLE: Εὖ γέ σοι τῆς θαυμασίας ἐπιστολῆς· ὡς ἔαρος ἡμῖν προσέβαλε λογικοῦ, καὶ μουσικόν
+#+TITLE: Epistula
 #+AUTHOR: Προκόπιος Γάζης
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Epistula
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula--procopius-of-gaza
 #+LANGUAGE: el
 
-* Εὖ γέ σοι τῆς θαυμασίας ἐπιστολῆς· ὡς ἔαρος ἡμῖν προσέβαλε λογικοῦ, καὶ μουσικόν
+* Epistula
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εὖ γέ σοι τῆς θαυμασίας ἐπιστολῆς· ὡς ἔαρος ἡμῖν προσέβαλε λογικοῦ, καὶ μουσικόν
 τι λίαν ἀντὶ τῶν χελιδόνων ἠχεῖ. ὡς ἔνθους εἰμί τις ὑφ' ἡδονῆς, πάντα θαυμάζων,
 τὴν λέξιν, τὸν νοῦν, τὴν ἁρμονίαν, τὸν γράψαντα. καί μοι δοκῶ Λυδὸς ἐξαίφνης
 εἶναι, τὰ Λυδῶν μιμησάμενος, οἳ τῷ ∆ιονύσῳ προσκείμενοι μόνον ἔαρ ἦγον ἡνίκα δὴ

@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ Ὅτε τῆς ἐκκλησίας ἔξω εὑρεθεὶς Εὐτρόπιος ἀπεσπάσθη, καὶ περὶ
+#+TITLE: Homilia de capto Eutropio
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia de capto Eutropio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-de-capto-eutropio--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Ὅτε τῆς ἐκκλησίας ἔξω εὑρεθεὶς Εὐτρόπιος ἀπεσπάσθη, καὶ περὶ
+* Homilia de capto Eutropio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Ὅτε τῆς ἐκκλησίας ἔξω εὑρεθεὶς Εὐτρόπιος ἀπεσπάσθη, καὶ περὶ
 παραδείσου καὶ Γραφῶν, καὶ εἰς τὸ, "Παρέστη ἡ βασίλισσα ἐκ δεξιῶν σου."
 =52.395=
 αʹ. Ἡδὺς μὲν λειμὼν καὶ παράδεισος, πολὺ δὲ ἡδύτερον τῶν θείων Γραφῶν ἡ

@@ -1,17 +1,19 @@
-#+TITLE: ̓Εκ λόγου ποιοῦ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου, περὶ
+#+TITLE: Homilia in festo palmarum
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in festo palmarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-festo-palmarum-1--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* ̓Εκ λόγου ποιοῦ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου, περὶ
+* Homilia in festo palmarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Εκ λόγου ποιοῦ τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἐπιφανίου ἐπισκόπου, περὶ
 Βαΐων.
 Ὁ ὑπ' ἀγγέλων ἀσιγήτως ἀνυμνούμενος, καὶ δοξολογούμενος, κάτω ὡς
 ἄνθρωπος γονυπετεῖ τῷ Πατρὶ καὶ εὔχεται· καὶ ἄνω αὐτὸς ὑπὸ πάσης ὁρατῆς καὶ

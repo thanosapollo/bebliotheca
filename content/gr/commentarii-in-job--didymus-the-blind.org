@@ -1,6 +1,7 @@
-#+TITLE: 1 ὅπερ ἁρμόζει παντὶ προτιθεμένῳ ἐξέτασιν ποιήσασθα̣ι λόγου τινὸς τὰ εἰς
+#+TITLE: Commentarii in Job
 #+AUTHOR: Δίδυμος ὁ Τυφλός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Commentarii in Job
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

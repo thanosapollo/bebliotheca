@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΙΣ ΤΟΥΣ ΨΑΛΜΟΥΣ. ΠΡΟΟΙΜΙΟΝ. 69.717
+#+TITLE: Expositio in Psalmos
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Expositio in Psalmos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/expositio-in-psalmos--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΙΣ ΤΟΥΣ ΨΑΛΜΟΥΣ. ΠΡΟΟΙΜΙΟΝ. 69.717
+* Expositio in Psalmos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΚΥΡΙΛΛΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΙΣ ΤΟΥΣ ΨΑΛΜΟΥΣ. ΠΡΟΟΙΜΙΟΝ.
+=69.717=
 Ἱεροὶ μὲν λόγοι καὶ θείων ἄθροισις μαθημάτων, εὐκλεᾶ τοῖς εἰρηκόσιν
 περιποιοῦσι τὴν ὄνησιν· "Κρεῖσσον γὰρ σοφία λίθων πολυτελῶν, πᾶν δὲ τίμιον οὐκ
 ἄξιον αὐτῆς ἐστιν." Χρῆναι δὲ οἶμαι πονεῖν, καὶ μάλα προθύμως, ἔν γε δὴ τοῖς οὕτως

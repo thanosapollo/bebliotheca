@@ -1,17 +1,19 @@
-#+TITLE: ΕΚ ΤΩΝ ΠΡΟΦΗΤΙΚΩΝ ΕΚΛΟΓΑΙ
+#+TITLE: Eclogae propheticae
 #+AUTHOR: Κλήμης Ἀλεξανδρείας
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Eclogae propheticae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/eclogae-propheticae--clement-of-alexandria
 #+LANGUAGE: el
 
-* ΕΚ ΤΩΝ ΠΡΟΦΗΤΙΚΩΝ ΕΚΛΟΓΑΙ
+* Eclogae propheticae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚ ΤΩΝ ΠΡΟΦΗΤΙΚΩΝ ΕΚΛΟΓΑΙ
 1.1 Οἱ ἀμφὶ τὸν Σεδράχ, Μισάκ, Ἀβδεναγὼ ἐν τῇ καμίνῳ τοῦ πυρὸς ὑμνοῦντες
 τὸν θεὸν λέγουσιν· "εὐλογεῖτε, οἱ οὐρανοί, τὸν κύριον· ὑμνεῖτε καὶ ὑπερυψοῦτε
 αὐτὸν εἰς τοὺς αἰῶνας." εἶτα· "εὐλογεῖτε, ἄγγελοι, τὸν κύριον." εἶτα· "εὐλογεῖτε,

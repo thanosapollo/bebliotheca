@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν εὐαγγελισμὸν τῆς ὑπεραγίας Θεοτόκου. 60.755
+#+TITLE: In annuntiationem sanctissimae deiparae
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In annuntiationem sanctissimae deiparae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-annuntiationem-sanctissimae-deiparae--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν εὐαγγελισμὸν τῆς ὑπεραγίας Θεοτόκου. 60.755
+* In annuntiationem sanctissimae deiparae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν εὐαγγελισμὸν τῆς ὑπεραγίας Θεοτόκου.
+=60.755=
 Βασιλικῶν μυστηρίων ἑορτὴν ἑορτάσωμεν σήμερον· ἡ σύμπασα κτίσις
 ἀγάλλεται συναχθεῖσα. Οὐρανὸς δὲ ἀστέρων ἐχειραγώγει τοὺς εἰς τὴν πανήγυριν
 σπεύδοντας· γῆ διὰ τῶν ποιμένων εἰς τὴν προσκύνησιν ἔτρεχεν· Ἡσαΐας γοργῷ

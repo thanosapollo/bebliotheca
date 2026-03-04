@@ -1,17 +1,19 @@
-#+TITLE: ΕΚΦΡΑΣΙΣ ΕΙΚΟΝΟΣ ΕΝ ΤΗΙ ΠΟΛΕΙ ΤΩΝ ΓΑΖΑΙΩΝ ΚΕΙΜΕΝΗΣ
+#+TITLE: Descriptio imaginis
 #+AUTHOR: Προκόπιος Γάζης
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Descriptio imaginis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/descriptio-imaginis--procopius-of-gaza
 #+LANGUAGE: el
 
-* ΕΚΦΡΑΣΙΣ ΕΙΚΟΝΟΣ ΕΝ ΤΗΙ ΠΟΛΕΙ ΤΩΝ ΓΑΖΑΙΩΝ ΚΕΙΜΕΝΗΣ
+* Descriptio imaginis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΚΦΡΑΣΙΣ ΕΙΚΟΝΟΣ ΕΝ ΤΗΙ ΠΟΛΕΙ ΤΩΝ ΓΑΖΑΙΩΝ ΚΕΙΜΕΝΗΣ
 ΕΝ ΤΗΙ ΠΟΛΕΙ ΤΩΝ ΓΑΖΑΙΩΝ ΚΕΙΜΕΝΗΣ Ἔρως δὲ καὶ Ἔρωτος τὰ τοξεύματα
 πανταχῇ φοιτᾷ καὶ διὰ πάντων διέρχεται. καὶ οὔτε Ζεὺς ἐλεύθερος, ὅταν ἐθέλωσιν
 Ἔρωτες· ἀλλ' ὁ σεμνὸς καὶ ὕπατος καὶ ᾧ τὸ σθένος οὐκ ἐπιεικτὸν Σεμέλην τε ποθεῖ

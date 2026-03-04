@@ -1,17 +1,19 @@
-#+TITLE: ̓Επιφανίου ἐπισκόπου Κύπρων Ἐπιστολὴ πρὸς Θεοδόσιον τὸν βασιλέα.
+#+TITLE: Epistula ad Theodosium imperatorem
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Theodosium imperatorem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-theodosium-imperatorem--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* ̓Επιφανίου ἐπισκόπου Κύπρων Ἐπιστολὴ πρὸς Θεοδόσιον τὸν βασιλέα.
+* Epistula ad Theodosium imperatorem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Επιφανίου ἐπισκόπου Κύπρων Ἐπιστολὴ πρὸς Θεοδόσιον τὸν βασιλέα.
 19 τὴν εἰδωλολατρείαν ἐν τῷ κόσμῳ τῇ ἑαυτοῦ κακοτεχνίᾳ ὁ διάβολος
 ἐμηχανήσατο καὶ ἐν τῷ κόσμῳ ἔσπειρε τοῦτο καὶ ἐθεμελίωσε καὶ τοὺς ἀνθρώπους
 ἀπὸ τοῦ θεοῦ ἀπέστρεψε· νῦν δὲ πάλιν μετὰ τὰς αἱρέσεις καὶ τὰ εἴδωλα εἰς ἀρχαίαν

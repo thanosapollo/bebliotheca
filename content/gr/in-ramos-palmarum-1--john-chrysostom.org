@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ Χρυσοστόμου λόγος εἰς τὰ Βαΐα, Κύριε εὐλόγησον.
+#+TITLE: In ramos palmarum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In ramos palmarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-ramos-palmarum-1--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ Χρυσοστόμου λόγος εἰς τὰ Βαΐα, Κύριε εὐλόγησον.
+* In ramos palmarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ Χρυσοστόμου λόγος εἰς τὰ Βαΐα, Κύριε εὐλόγησον.
 Ὅτε ἤγγισεν ὁ Κύριος εἰς Ἱεροσόλυμα καὶ ἦλθεν εἰς Βηθσφαγὴν πρὸς τὸ
 Ὄρος τῶν Ἐλαιῶν, ἀπέστειλε δύο μαθητὰς λέγων· πορεύεσθε εἰς τὴν κώμην τὴν
 κατέναντι ὑμῶν καὶ εὑρήσετε ὄνον δεδεμένην καὶ πῶλον μετ' αὐτῆς· λύσαντες

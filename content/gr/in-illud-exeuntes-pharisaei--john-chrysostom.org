@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸ, "Ἐξελθόντες οἱ Φαρισαῖοι συμβούλιον ἔλαβον." 61.705
+#+TITLE: In illud Exeuntes pharisaei
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Exeuntes pharisaei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-exeuntes-pharisaei--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸ, "Ἐξελθόντες οἱ Φαρισαῖοι συμβούλιον ἔλαβον." 61.705
+* In illud Exeuntes pharisaei
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸ, "Ἐξελθόντες οἱ Φαρισαῖοι συμβούλιον ἔλαβον."
+=61.705=
 Ὅσοι τοῦ Ἠλία μαθηταὶ τυγχάνετε, τοῦ τὴν πενιχρὰν τράπεζαν τῆς χήρας μὴ
 ἐξουθενήσαντος, παρ' ἡμῖν =61.706= αὐλίσθητε. Τοιαύτη γὰρ καὶ παρ' ἡμῖν λόγων
 μετρία ἡτοίμασται τράπεζα, ἕνα ἄρτον ἔχουσα ἐπ' αὐτῆς· οὐχ =61.707= ὃν ὁ μύλος

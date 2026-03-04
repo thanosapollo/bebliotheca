@@ -1,6 +1,7 @@
-#+TITLE: EΚΘEΣIΣ ΤHΣ OΡΘHΣ ΠIΣΤEΩΣ. Ἱκανῶς τὸν κατὰ Ἰουδαίων καὶ Ἑλλήνων ἐπελθόντες
+#+TITLE: Expositio rectae fidei
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Expositio rectae fidei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

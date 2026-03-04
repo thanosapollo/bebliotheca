@@ -1,17 +1,19 @@
-#+TITLE: ̓Επεὶ δὲ ἀνακειμένῳ μοι τῷ λόγῳ, τῆς φήμης διατρεχούσης περὶ τῆς ἕξεως ἡμῶν,
+#+TITLE: Scholia in Apocalypsem
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Scholia in Apocalypsem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/scholia-in-apocalypsem--origen
 #+LANGUAGE: el
 
-* ̓Επεὶ δὲ ἀνακειμένῳ μοι τῷ λόγῳ, τῆς φήμης διατρεχούσης περὶ τῆς ἕξεως ἡμῶν,
+* Scholia in Apocalypsem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Επεὶ δὲ ἀνακειμένῳ μοι τῷ λόγῳ, τῆς φήμης διατρεχούσης περὶ τῆς ἕξεως ἡμῶν,
 προσῄεσαν ὁτὲ μὲν αἱρετικοί, ὁτὲ δὲ οἱ ἀπὸ τῶν Ἑλληνικῶν μαθημάτων καὶ μάλιστα
 τῶν ἐν φιλοσοφίᾳ, ἔδοξεν ἐξετάσαι τά τε τῶν αἱρετικῶν δόγματα καὶ τὰ ὑπὸ τῶν
 φιλοσόφων περὶ ἀληθείας λέγειν ἐπαγγελλόμενα. Τοῦτο δὲ πεποιήκαμεν

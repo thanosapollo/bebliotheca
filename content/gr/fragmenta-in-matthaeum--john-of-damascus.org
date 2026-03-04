@@ -1,6 +1,7 @@
-#+TITLE: 96.1408 «Ἐν ἐκείνῳ τῷ καιρῷ ἐπορεύθη ὁ Ἰησοῦς τοῖς Σάββασι διὰ τῶν
+#+TITLE: Fragmenta in Matthaeum
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Fragmenta in Matthaeum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

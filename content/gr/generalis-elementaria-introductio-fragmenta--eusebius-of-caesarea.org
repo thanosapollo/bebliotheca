@@ -1,17 +1,19 @@
-#+TITLE: 470 ἔλεγχος ἀνδρὸς ἤθους ἡ μετὰ τῶν τοιῶνδε συνουσία. ὅτε γὰρ φαῦλος, ἐξ
+#+TITLE: Generalis elementaria introductio Fragmenta
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Generalis elementaria introductio Fragmenta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/generalis-elementaria-introductio-fragmenta--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* 470 ἔλεγχος ἀνδρὸς ἤθους ἡ μετὰ τῶν τοιῶνδε συνουσία. ὅτε γὰρ φαῦλος, ἐξ
+* Generalis elementaria introductio Fragmenta
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+470 ἔλεγχος ἀνδρὸς ἤθους ἡ μετὰ τῶν τοιῶνδε συνουσία. ὅτε γὰρ φαῦλος, ἐξ
 ἀνάγκης τοῖς ὁμοίοις συνέσται· ὅτε αὖ πάλιν σώφρων καὶ σοφὸς, τοῖς τὰ αὐτὰ αὐτῷ
 μετιοῦσιν. 471 ὃν τρόπον ἡ τῶν ὀφθαλμῶν φύσις ἔχει μὲν ἐν ἑαυτῇ τὴν ὁρατικὴν
 δύναμιν, οὐχ ἱκανὴ δὲ καθ' ἑαυτὴν πέφυκεν πρὸς τὴν τῶν ὁρατικῶν κατάληψιν, μὴ

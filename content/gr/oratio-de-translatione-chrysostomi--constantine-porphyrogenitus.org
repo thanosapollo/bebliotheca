@@ -1,17 +1,19 @@
-#+TITLE: Κωνσταντίνου ἐν αὐτῷ τῷ Χριστῷ, τῷ αἰωνίῳ βασιλεῖ, βασιλέως, υἱοῦ Λέοντος τοῦ
+#+TITLE: Oratio de translatione Chrysostomi
 #+AUTHOR: Κωνσταντῖνος Πορφυρογέννητος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Oratio de translatione Chrysostomi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-de-translatione-chrysostomi--constantine-porphyrogenitus
 #+LANGUAGE: el
 
-* Κωνσταντίνου ἐν αὐτῷ τῷ Χριστῷ, τῷ αἰωνίῳ βασιλεῖ, βασιλέως, υἱοῦ Λέοντος τοῦ
+* Oratio de translatione Chrysostomi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Κωνσταντίνου ἐν αὐτῷ τῷ Χριστῷ, τῷ αἰωνίῳ βασιλεῖ, βασιλέως, υἱοῦ Λέοντος τοῦ
 σοφωτάτου καὶ ἀειμνήστου βασιλέως, λόγος, ἡνίκα τὸ τοῦ σοφοῦ Χρυσοστόμου
 ἱερὸν καὶ ἅγιον σκῆνος ἐκ τῆς ὑπερορίας ἀνακομισθὲν ὥσπερ τις πολύολβος καὶ
 πολυέραστος ἐναπετέθη θησαυρὸς τῇ βασιλίδι ταύτῃ καὶ ὑπερλάμπρῳ τῶν πόλεων.

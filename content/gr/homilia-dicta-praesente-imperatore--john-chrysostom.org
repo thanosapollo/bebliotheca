@@ -1,17 +1,21 @@
-#+TITLE: ΟΜΙΛΙΑ Γʹ. 63.473 Τοῦ αὐτοῦ. Τῇ ἐπιούσῃ ἡμέρᾳ, παραγενομένου τοῦ βασιλέως ἐν
+#+TITLE: Homilia dicta praesente imperatore
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia dicta praesente imperatore
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-dicta-praesente-imperatore--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Γʹ. 63.473 Τοῦ αὐτοῦ. Τῇ ἐπιούσῃ ἡμέρᾳ, παραγενομένου τοῦ βασιλέως ἐν
+* Homilia dicta praesente imperatore
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Γʹ.
+=63.473=
+Τοῦ αὐτοῦ. Τῇ ἐπιούσῃ ἡμέρᾳ, παραγενομένου τοῦ βασιλέως ἐν
 τῷ μαρτυρίῳ τοῦ ἀποστόλου καὶ μάρτυρος Θωμᾶ τοῦ διακειμένου ἐν τῇ
 ∆ρυπίᾳ, καὶ ἀναχωρήσαντος πρὸ τῆς διαλέξεως, ἐλέχθη ἡ ὁμιλία μετὰ
 τὴν ἀναχώρησιν τὴν ἐκείνου πρὸς τὸ πλῆθος.

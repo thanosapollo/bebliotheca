@@ -1,6 +1,7 @@
-#+TITLE: ΕΙΣ ΤΑΣ ΑΓΙΑΣ ΜΑΡΤΥΡΑΣ Βερνίκην καὶ Προσδόκην παρθένους, καὶ ∆ομνίναν τὴν μητέρα αὐτῶν, ὁμιλία ἐγκωμιαστική. 50.629
+#+TITLE: De sanctis Bernice et Prosdoce
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De sanctis Bernice et Prosdoce
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

@@ -1,17 +1,19 @@
-#+TITLE: ̓Εκ τοῦ συντάγματος τοῦ ἁγίου Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας,
+#+TITLE: Syntagma ad monacho
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Syntagma ad monacho
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/syntagma-ad-monacho--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ̓Εκ τοῦ συντάγματος τοῦ ἁγίου Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας,
+* Syntagma ad monacho
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̓Εκ τοῦ συντάγματος τοῦ ἁγίου Ἀθανασίου ἀρχιεπισκόπου Ἀλεξανδρείας,
 ὃ πρὸς μονάζοντας καὶ χριστιανοὺς πάντας κληρικούς τε καὶ λαϊκοὺς
 συνετέθη.
 Φυλακτέον μὴ δίλογον εἶναι, μὴ διχογνώμονα, μὴ ψεύστην, μὴ διάβολον, μὴ

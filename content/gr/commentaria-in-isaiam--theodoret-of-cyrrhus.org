@@ -1,6 +1,7 @@
-#+TITLE: ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΕΡΜΗΝΕΙΑ ΕΙΣ ΤΟΝ ΠΡΟΦΗΤΗΝ ΗΣΑΙΑΝ ΠΡΟΛΟΓΟΣ
+#+TITLE: Commentaria in Isaiam
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Commentaria in Isaiam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

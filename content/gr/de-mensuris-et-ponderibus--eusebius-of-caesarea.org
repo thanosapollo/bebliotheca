@@ -1,17 +1,19 @@
-#+TITLE: Εὐσεβίου τοῦ Παμφίλου ἐκλογὴ συντομωτέρα περὶ μέτρων καὶ σταθμῶν.
+#+TITLE: De mensuris et ponderibus
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De mensuris et ponderibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-mensuris-et-ponderibus--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* Εὐσεβίου τοῦ Παμφίλου ἐκλογὴ συντομωτέρα περὶ μέτρων καὶ σταθμῶν.
+* De mensuris et ponderibus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εὐσεβίου τοῦ Παμφίλου ἐκλογὴ συντομωτέρα περὶ μέτρων καὶ σταθμῶν.
 1 Εἰσὶ διαφοραὶ μὲν αὐτῶν πολλαὶ κατὰ διαφόρους χώρας, ἀλλ' ἑνὶ εἱρμῷ ἐν
 πληροφορίᾳ κεῖται τὰ ὑποκείμενα· ἔχει δὲ καὶ ὠφέλειαν οὐκ ὀλίγην ἡ ὑπόθεσις διὰ
 τὸ πλεῖστα ἐμφέρεσθαι ἐν ταῖς θεοπνεύστοις γραφαῖς.

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ ἀπολογητικὸς δεύτερος
+#+TITLE: Apologia contra Arianos
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Apologia contra Arianos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/apologia-contra-arianos--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ ἀπολογητικὸς δεύτερος
+* Apologia contra Arianos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ ἀπολογητικὸς δεύτερος
 1.1 Ἐγὼ μὲν ᾤμην μετὰ τὰς τοσαύτας ὑπὲρ ἡμῶν γενομένας ἀποδείξεις καταδύεσθαι
 λοιπὸν τοὺς ἐχθροὺς καὶ μᾶλλον ἐκ τούτων καταγινώσκειν ἑαυτῶν, ἐφ' οἷς καὶ τοὺς
 ἄλλους ἐσυκοφάντησαν· ἐπειδὴ δὲ οὐδ' οὕτω καταγνωσθέντες ἐρυθριῶσιν, ἀλλ' ὑπ'

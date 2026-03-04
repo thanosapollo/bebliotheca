@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ Κʹ. Περὶ δόγματος καὶ καταστάσεως ἐπισκόπων.
+#+TITLE: De dogmate et constitutione episcoporum
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De dogmate et constitutione episcoporum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-dogmate-et-constitutione-episcoporum--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ Κʹ. Περὶ δόγματος καὶ καταστάσεως ἐπισκόπων.
+* De dogmate et constitutione episcoporum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Κʹ.
+Περὶ δόγματος καὶ καταστάσεως ἐπισκόπων.
 Αʹ. Ὅταν ἴδω τὴν νῦν γλωσσαλγίαν, καὶ τοὺς αὐθημερινοὺς σοφοὺς, καὶ τοὺς
 χειροτονητοὺς θεολό γους, οἷς ἀρκεῖ τὸ θελῆσαι μόνον πρὸς τὸ εἶναι σοφοῖς· ποθῶ
 τὴν ἀνωτάτω φιλοσοφίαν, καὶ σταθμὸν ἔσχατον ἐπιζητῶ, κατὰ τὸν Ἱερεμίαν, καὶ

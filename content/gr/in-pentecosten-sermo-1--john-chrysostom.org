@@ -1,17 +1,20 @@
-#+TITLE: ΕΙΣ ΤΗΝ ΠΕΝΤΗΚΟΣΤΗΝ. Λόγος αʹ. 52.803
+#+TITLE: In pentecosten Sermo 1
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In pentecosten Sermo 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-pentecosten-sermo-1--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΗΝ ΠΕΝΤΗΚΟΣΤΗΝ. Λόγος αʹ. 52.803
+* In pentecosten Sermo 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΗΝ ΠΕΝΤΗΚΟΣΤΗΝ. Λόγος αʹ.
+=52.803=
 Οὐρανὸς ἡμῖν γέγονε σήμερον ἡ γῆ, οὐκ ἀστέρων ἐξ οὐρανοῦ εἰς γῆν
 καταβάντων, ἀλλ' ἀποστόλων ὑπὲρ τοὺς οὐρανοὺς ἀναβάντων, ἐπειδήπερ ἐξεχύθη ἡ
 χάρις τοῦ Πνεύματος. Οὐρανὸν τὴν οἰκουμένην ἐποίησεν, οὐ τὴν φύσιν μεταβαλὼν,

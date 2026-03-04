@@ -1,4 +1,4 @@
-#+TITLE: Ῥωμαϊκὴ Ἱστορία (Books 36-55)
+#+TITLE: Ῥωμαϊκὴ Ἱστορία (Βιβλία ΛΣΤʹ-ΝΕʹ)
 #+AUTHOR: Cassius Dio Cocceianus
 #+FILETAGS: :imperial:3c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup

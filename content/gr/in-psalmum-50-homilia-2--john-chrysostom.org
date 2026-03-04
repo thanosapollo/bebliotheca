@@ -1,17 +1,19 @@
-#+TITLE: 55.575 Εἰς τὰ ὑπόλοιπα τοῦ πεντηκοστοῦ ψαλμοῦ, καὶ περὶ μετανοίας. αʹ. Τὰ
+#+TITLE: In Psalmum 50 homilia 2
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Psalmum 50 homilia 2
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-psalmum-50-homilia-2--john-chrysostom
 #+LANGUAGE: el
 
-* 55.575 Εἰς τὰ ὑπόλοιπα τοῦ πεντηκοστοῦ ψαλμοῦ, καὶ περὶ μετανοίας. αʹ. Τὰ
+* In Psalmum 50 homilia 2
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=55.575= Εἰς τὰ ὑπόλοιπα τοῦ πεντηκοστοῦ ψαλμοῦ, καὶ περὶ μετανοίας. αʹ. Τὰ
 λείψανα τῆς χθεσινῆς τραπέζης ἀποδοῦναι ὑμῖν βούλομαι σήμερον· ἀλλὰ λείψανα καὶ
 τράπεζαν ἀκού σας, ἀγαπητὲ, μηδὲν αἰσθητὸν ὑποπτεύσῃς. Οὐ γὰρ κρέα κατακόπτομεν,
 ἀλλὰ νοήματα διδόαμεν πνευματικά.

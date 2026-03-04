@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΛΟΓΟΙ ΚΑΤΑ ΙΟΥ∆ΑΙΩΝ 48.843 Λόγος πρῶτος.
+#+TITLE: Adversus Judaeos
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Adversus Judaeos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-judaeos--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΛΟΓΟΙ ΚΑΤΑ ΙΟΥ∆ΑΙΩΝ 48.843 Λόγος πρῶτος.
+* Adversus Judaeos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΛΟΓΟΙ ΚΑΤΑ ΙΟΥ∆ΑΙΩΝ
+=48.843= Λόγος πρῶτος.
 αʹ. Ἐβουλόμην ὑμῖν ἀποδοῦναι τὰ λείψανα σήμερον τῆς ὑποθέσεως, περὶ ἧς
 καὶ πρώην ὑμῖν διελέχθην, καὶ δεῖξαι σαφέστερον, πῶς ἀκατάληπτός ἐστιν ὁ Θεός.
 Περὶ γὰρ τούτου τῇ παρελθούσῃ Κυριακῇ τοὺς πολλοὺς ἐκείνους καὶ μακροὺς

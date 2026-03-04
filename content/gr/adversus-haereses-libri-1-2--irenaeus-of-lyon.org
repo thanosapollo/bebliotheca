@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΕΙΡΗΝΑΙΟΥ ΕΠΙΣΚΟΠΟΥ ΛΟΥΓ∆ΟΥΝΟΥ ΕΛΕΓΧΟΥ ΚΑΙ ΑΝΑΤΡΟΠΗΣ ΤΗΣ ΨΕΥ∆ΩΝΥΜΟΥ ΓΝΩΣΕΩΣ ΒΙΒΛΙΑ ΠΕΝΤΕ.
+#+TITLE: Adversus haereses libri 1 2
 #+AUTHOR: Εἰρηναῖος Λυών
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Adversus haereses libri 1 2
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

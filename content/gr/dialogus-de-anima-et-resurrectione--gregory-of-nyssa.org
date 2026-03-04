@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΠΕΡΙ ΨΥΧΗΣ ΚΑΙ ΑΝΑΣΤΑΣΕΩΣ Ο ΛΟΓΟΣ Ο ΛΕΓΟΜΕΝΟΣ ΤΑ ΜΑΚΡΙΝΙΑ.
+#+TITLE: Dialogus de anima et resurrectione
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Dialogus de anima et resurrectione
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

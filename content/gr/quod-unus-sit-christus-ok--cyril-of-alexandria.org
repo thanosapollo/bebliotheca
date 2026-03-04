@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΟΤΙ ΕΙΣ Ο ΧΡΙΣΤΟΣ
+#+TITLE: Quod unus sit Christus ok
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Quod unus sit Christus ok
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quod-unus-sit-christus-ok--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΟΤΙ ΕΙΣ Ο ΧΡΙΣΤΟΣ
+* Quod unus sit Christus ok
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΓΙΟΥ ΚΥΡΙΛΛΟΥ ΟΤΙ ΕΙΣ Ο ΧΡΙΣΤΟΣ
 {Α} Μαθημάτων μὲν τῶν ἱερῶν κόρος ἂν γένοιτο παντελῶς οὐδεὶς τοῖς γε
 ἀληθῶς ἀρτίφροσι καὶ γνῶσιν εἰς νοῦν τὴν ζωοποιὸν συναγηγερκόσι.
 Γέγραπται γάρ· Ὅτι οὐκ ἐπ' ἄρτῳ μόνῳ ζήσεται ἄνθρωπος, ἀλλ' ἐπὶ παντὶ ῥήματι

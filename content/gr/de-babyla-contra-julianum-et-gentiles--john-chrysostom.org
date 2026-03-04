@@ -1,17 +1,21 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου λόγος εἰς τὸν μακάριον Βαβύλαν καὶ κατὰ Ἑλλήνων
+#+TITLE: De Babyla contra Julianum et gentiles
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De Babyla contra Julianum et gentiles
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-babyla-contra-julianum-et-gentiles--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου λόγος εἰς τὸν μακάριον Βαβύλαν καὶ κατὰ Ἑλλήνων
+* De Babyla contra Julianum et gentiles
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου
+Κωνσταντινουπόλεως τοῦ Χρυσοστόμου λόγος εἰς τὸν μακάριον
+Βαβύλαν καὶ κατὰ Ἑλλήνων
 1 Ὁ Κύριος ἡμῶν Ἰησοῦς ὁ Χριστὸς μέλλων πρὸς τὸ πάθος ἤδη χωρεῖν καὶ
 τὸν θάνατον ἀποθνήσκειν τὸν ζωοποιὸν αὐτῇ τῇ τελευταίᾳ νυκτί, καλέσας ἰδίᾳ τοὺς
 ἑαυτοῦ μαθητάς, ἄλλα τε διελέχθη πολλὰ καὶ παρῄνεσε καὶ μετὰ τῶν ἄλλων εἶπέ τι

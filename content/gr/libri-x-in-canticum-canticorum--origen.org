@@ -1,17 +1,19 @@
-#+TITLE: 90 Μὴ διὰ προφητῶν με μνηστευσάτω, φησίν, δι' ἑαυτοῦ δὲ ὁμιλησάτω κατ'
+#+TITLE: Libri x in Canticum canticorum
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Libri x in Canticum canticorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/libri-x-in-canticum-canticorum--origen
 #+LANGUAGE: el
 
-* 90 Μὴ διὰ προφητῶν με μνηστευσάτω, φησίν, δι' ἑαυτοῦ δὲ ὁμιλησάτω κατ'
+* Libri x in Canticum canticorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+90 Μὴ διὰ προφητῶν με μνηστευσάτω, φησίν, δι' ἑαυτοῦ δὲ ὁμιλησάτω κατ'
 αἴσθησιν πνευματικήν· (δι' ἧς ὁ Ἰωάννης φησί· «καὶ αἱ χεῖρες ἡμῶν ἐψηλάφησαν
 περὶ τοῦ λόγου τῆς ζωῆς». Ταῦτα δέ φησιν ὡς =91.30= τῶν προφητῶν εἰπόντων
 ἀκούσασα· «ἐπεθύμησεν ὁ βασιλεὺς τοῦ κάλλους σου», καὶ ἀλλαχοῦ· «ὃν τρόπον

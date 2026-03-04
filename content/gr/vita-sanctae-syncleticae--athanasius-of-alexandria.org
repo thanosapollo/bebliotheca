@@ -1,17 +1,20 @@
-#+TITLE: ΒΙΟΣ ΚΑΙ ΠΟΛΙΤΕΙΑ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΜΑΚΑ ΡΙΑΣ ΚΑΙ ∆Ι∆ΑΣΚΑΛΟΥ ΣΥΓΚΛΗΤΙΚΗΣ.
+#+TITLE: Vita sanctae Syncleticae
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Vita sanctae Syncleticae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/vita-sanctae-syncleticae--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΒΙΟΣ ΚΑΙ ΠΟΛΙΤΕΙΑ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΜΑΚΑ ΡΙΑΣ ΚΑΙ ∆Ι∆ΑΣΚΑΛΟΥ ΣΥΓΚΛΗΤΙΚΗΣ.
+* Vita sanctae Syncleticae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΒΙΟΣ ΚΑΙ ΠΟΛΙΤΕΙΑ ΤΗΣ ΑΓΙΑΣ ΚΑΙ ΜΑΚΑ ΡΙΑΣ ΚΑΙ ∆Ι∆ΑΣΚΑΛΟΥ
+ΣΥΓΚΛΗΤΙΚΗΣ.
 Ἔδει πάντας ἀνθρώπους τῶν καλῶν μὴ ἀμυήτους ὑπάρχειν. Οὕτω γὰρ ἂν
 ἐγγεγυμνασμένοι τοῖς πράγμα σιν εἰ εἶεν, τὸ ἀζήμιον εἶχον ἐν βίῳ· καὶ γοῦν τοὺς ἀκε
 ραιοτέρους τὰ πολλὰ τῶν χρηστῶν διέλαθεν. Τοῦτο δὲ πεπόνθασιν ἐκ τοῦ τὴν

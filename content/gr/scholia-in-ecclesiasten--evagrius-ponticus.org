@@ -1,17 +1,19 @@
-#+TITLE: ΣΧΟΛΙΑ ΕΙΣ ΤΟΝ ΕΚΚΛΗΣΙΑΣΤΗΝ
+#+TITLE: Scholia in Ecclesiasten
 #+AUTHOR: Εὐάγριος Ποντικός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Scholia in Ecclesiasten
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/scholia-in-ecclesiasten--evagrius-ponticus
 #+LANGUAGE: el
 
-* ΣΧΟΛΙΑ ΕΙΣ ΤΟΝ ΕΚΚΛΗΣΙΑΣΤΗΝ
+* Scholia in Ecclesiasten
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΧΟΛΙΑ ΕΙΣ ΤΟΝ ΕΚΚΛΗΣΙΑΣΤΗΝ
 Ἐκκλησία ἐστὶν ψυχῶν καθαρῶν γνῶσις ἀληθὴς αἰώνων καὶ κόσμων καὶ
 τῆς ἐν αὐτοῖς κρίσεως καὶ προνοίας. Ἐκκλησιαστὴς δέ ἐστιν ὁ ταύτης τῆς γνώσεως
 γεννήτωρ Χριστός· ἢ Ἐκκλησιαστής ἐστιν ὁ διὰ τῶν ἠθικῶν θεωρημάτων καθαίρων

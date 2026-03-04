@@ -1,17 +1,19 @@
-#+TITLE: Λειτουργία κατηχουμένων
+#+TITLE: Liturgia praesanctificatorum
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Liturgia praesanctificatorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/liturgia-praesanctificatorum--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Λειτουργία κατηχουμένων
+* Liturgia praesanctificatorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λειτουργία κατηχουμένων
 Ἐν δὲ τῷ λυχνικῷ μετὰ τὰ ἀναγνώσματα καὶ τὸ Κατευθυνθήτω καὶ τὸ Κύριε
 ἐλέησον γίνεται εὐχὴ κατηχουμένων ἐπὶ τῶν προηγιασμένων. ὁ Θεός, ὁ Θεὸς ἡμῶν,
 ὁ κτίστης καὶ δημιουργὸς τῶν ἁπάντων, ὁ πάντας θέλων σωθῆναι καὶ εἰς ἐπίγνωσιν

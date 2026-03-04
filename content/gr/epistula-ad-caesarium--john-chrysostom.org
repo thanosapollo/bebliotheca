@@ -1,17 +1,19 @@
-#+TITLE: Ἰωάννου τοῦ Χρυσοστόμου ἐκ τῆς πρὸς Καισάριον ἐπιστολῆς μετὰ τὴν
+#+TITLE: Epistula ad Caesarium
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Caesarium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-caesarium--john-chrysostom
 #+LANGUAGE: el
 
-* Ἰωάννου τοῦ Χρυσοστόμου ἐκ τῆς πρὸς Καισάριον ἐπιστολῆς μετὰ τὴν
+* Epistula ad Caesarium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἰωάννου τοῦ Χρυσοστόμου ἐκ τῆς πρὸς Καισάριον ἐπιστολῆς μετὰ τὴν
 δευτέραν αὐτοῦ ἐξορίαν
 1.1 Καὶ φήσειας πάντως ἐκ πλάνης πρὸς τὸ κρεῖττον ἐληλυθέναι καὶ χάριν
 ὁμολογεῖν τοῖς τὴν θαυμαστὴν ἐκείνην προσκομίσασι βίβλον, ἣν ἀρίστην τὰ

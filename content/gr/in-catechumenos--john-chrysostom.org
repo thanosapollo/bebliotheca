@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τοὺς κατηχουμένους. 60.739
+#+TITLE: In catechumenos
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In catechumenos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-catechumenos--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τοὺς κατηχουμένους. 60.739
+* In catechumenos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τοὺς κατηχουμένους.
+=60.739=
 Ἐν τοῖς ἔξωθεν σταδίοις πολλοὶ μὲν τοῦ δρόμου ὑπομένουσι κόπον, εἷς δὲ
 κομίζεται τῆς νίκης τὸν στέφανον· καὶ οἱ μὲν πόνοι τοῦ ἀγῶνος καὶ οἱ ἱδρῶτες
 πολλῶν, τῆς δὲ χαρᾶς τὸ βραβεῖον ἑνός. Ἐν δὲ τῷ πνευματικῷ τούτῳ τῆς ἐκκλησίας

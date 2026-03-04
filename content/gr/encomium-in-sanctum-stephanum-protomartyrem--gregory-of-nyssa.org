@@ -1,17 +1,21 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΠΡΩΤΟΜΑΡΤΥΡΑ ΣΤΕΦΑΝΟΝ Ὡς καλὴ τῶν ἀγαθῶν ἡ ἀκολουθία, ὡς γλυκεῖα ἡ τῆς εὐφροσύνης διαδοχή.
+#+TITLE: Encomium in sanctum Stephanum protomartyrem
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Encomium in sanctum Stephanum protomartyrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/encomium-in-sanctum-stephanum-protomartyrem--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΠΡΩΤΟΜΑΡΤΥΡΑ ΣΤΕΦΑΝΟΝ Ὡς καλὴ τῶν ἀγαθῶν ἡ ἀκολουθία, ὡς γλυκεῖα ἡ τῆς εὐφροσύνης διαδοχή.
+* Encomium in sanctum Stephanum protomartyrem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ
+ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΠΡΩΤΟΜΑΡΤΥΡΑ ΣΤΕΦΑΝΟΝ
+Ὡς καλὴ τῶν ἀγαθῶν ἡ ἀκολουθία, ὡς γλυκεῖα ἡ τῆς εὐφροσύνης διαδοχή.
 ἰδοὺ γὰρ ἑορτὴν ἐξ ἑορτὴν ἐξ ἑορτῆς καὶ χάριν ἀντιλαμβάνομεν χάριτος. χθὲς ἡμᾶς ὁ
 τοῦ παντὸς δεσπότης εἱστίασε, σήμερον ὁ μιμητὴς τοῦ δεσπότου. πῶς οὗτος ἢ πῶς
 ἐκεῖνος; ἐκεῖνος τὸν ἄνθρωπον ὑπὲρ ἡμῶν ἐνδυόμενος, οὗτος τὸν ἄνθρωπον ὑπὲρ

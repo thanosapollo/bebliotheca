@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου λόγος εἰς τὸ
+#+TITLE: In resurrectionem domini
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In resurrectionem domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-resurrectionem-domini-1--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου λόγος εἰς τὸ
+* In resurrectionem domini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου λόγος εἰς τὸ
 ἅγιον πάσχα
 Πάντοτε μὲν χαίρειν πάρεστιν ἐν τῇ καθ' ἡμᾶς τοῦ Χριστοῦ ἐκκλησίᾳ, πολλῷ
 δὲ μᾶλλον ἐν τῇ παρούσῃ τῆς ἡμέρας ἑορτῇ μυριοφώτῳ λαμπαδουχίᾳ, ὅτε καὶ αὐτὸς

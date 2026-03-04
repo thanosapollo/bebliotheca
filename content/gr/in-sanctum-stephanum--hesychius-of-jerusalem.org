@@ -1,17 +1,19 @@
-#+TITLE: ̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ἅγιον Στέφανον
+#+TITLE: In sanctum Stephanum
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: In sanctum Stephanum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-stephanum--hesychius-of-jerusalem
 #+LANGUAGE: el
 
-* ̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ἅγιον Στέφανον
+* In sanctum Stephanum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+̔Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ἅγιον Στέφανον
 1 Στεφάνῳ πᾶσα μὲν ἡ γῆ τελείτω τὴν πανήγυριν· πᾶσαν γὰρ ἐφεξῆς τοῖς
 λόγοις ἐγεώργησεν, καὶ νόμων ἱερῶν πανδημὶ τὴν οἰκουμένην ἐνέπλησεν. Ἔσπειρεν
 πανταχοῦ τῆς εὐσεβείας τὰ δόγματα, ὅλαις φιλοτιμεῖσθαι ταῖς ἐκκλησίαις τῷ φωτὶ

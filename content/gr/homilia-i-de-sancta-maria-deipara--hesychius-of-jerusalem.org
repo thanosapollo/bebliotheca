@@ -1,17 +1,20 @@
-#+TITLE: Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, εἰς τὴν ἁγίαν Μαρίαν τὴν θεοτόκον
+#+TITLE: Homilia i de sancta Maria deipara
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Homilia i de sancta Maria deipara
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-i-de-sancta-maria-deipara--hesychius-of-jerusalem
 #+LANGUAGE: el
 
-* Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, εἰς τὴν ἁγίαν Μαρίαν τὴν θεοτόκον
+* Homilia i de sancta Maria deipara
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ησυχίου, πρεσβυτέρου Ἱεροσολύμων, εἰς τὴν ἁγίαν Μαρίαν τὴν
+θεοτόκον
 1 Πᾶσα μὲν εὐγνώμων γλῶττα τὴν παρθένον εἰκότως καὶ θεο τόκον
 ἀσπάζεται καὶ τὸν Γαβριὴλ μιμεῖται τὸν ἄρχοντα τῶν ἀγγέλων εἰς δύναμιν. Καὶ ὁ
 μὲν αὐτῇ χαίρειν λέγει, ὁ δὲ «Κύριος ἐκ σοῦ» προσφωνεῖ, διὰ τὸν ἐξ αὐτῆς τεχθέντα

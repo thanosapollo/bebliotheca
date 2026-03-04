@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὸν μακάριον Φιλογόνιον γενόμενον ἀπὸ δικολόγου ἐπίσκοπον, καὶ
+#+TITLE: De beato Philogonio
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De beato Philogonio
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-beato-philogonio--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν μακάριον Φιλογόνιον γενόμενον ἀπὸ δικολόγου ἐπίσκοπον, καὶ
+* De beato Philogonio
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν μακάριον Φιλογόνιον γενόμενον ἀπὸ δικολόγου ἐπίσκοπον, καὶ
 ὅτι τοῦ προνοεῖν τῶν κοινῇ συμφερόντων οὐδὲν ἴσον εἰς εὐδοκίμησιν
 παρὰ τῷ Θεῷ, καὶ ὅτι τὸ ῥᾳθύμως προσιέναι τοῖς θείοις μυστηρίοις
 κόλασιν ἀφόρητον ἔχει, κἂν ἅπαξ τοῦ ἐνιαυτοῦ τοῦτο τολμήσωμεν.

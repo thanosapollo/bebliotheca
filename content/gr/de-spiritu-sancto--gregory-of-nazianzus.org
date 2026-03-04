@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ΠΕΜΠΤΟΣ ΠΕΡΙ ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ
+#+TITLE: De spiritu sancto
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De spiritu sancto
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-spiritu-sancto--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ΠΕΜΠΤΟΣ ΠΕΡΙ ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ
+* De spiritu sancto
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΘΕΟΛΟΓΙΚΟΣ ΠΕΜΠΤΟΣ ΠΕΡΙ ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ
 1 Ὁ μὲν δὴ περὶ τοῦ υἱοῦ λόγος τοιοῦτος· καὶ οὕτω διαπέφευγε τοὺς
 λιθάζοντας, διελθὼν διὰ μέσου αὐτῶν. ὁ λόγος γὰρ οὐ λιθάζεται, λιθοβολεῖ δέ, ὅταν
 ἐθέλῃ, καὶ σφενδονᾷ θηρία, λόγους κακῶς τῷ ὄρει προσβαίνοντας. τί δ' ἂν εἴποις,

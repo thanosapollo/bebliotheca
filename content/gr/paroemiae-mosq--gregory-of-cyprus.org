@@ -1,17 +1,21 @@
-#+TITLE: ΠΑΡΟΙΜΙΑΙ ΣΥΛΛΕΓΕΙΣΑΙ ΕΚ ∆ΙΑΦΟΡΩΝ ΒΙΒΛΙΩΝ ΚΑΙ ΣΥΝΤΕΘΕΙΣΑΙ ΕΝΤΑΥΘΑ ΚΑΤΑ ΣΤΟΙΧΕΙΟΝ. ΑΡΧΗ ΤΟΥ Α.
+#+TITLE: Paroemiae Mosq
 #+AUTHOR: Γρηγόριος Κύπριος
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: Paroemiae Mosq
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/paroemiae-mosq--gregory-of-cyprus
 #+LANGUAGE: el
 
-* ΠΑΡΟΙΜΙΑΙ ΣΥΛΛΕΓΕΙΣΑΙ ΕΚ ∆ΙΑΦΟΡΩΝ ΒΙΒΛΙΩΝ ΚΑΙ ΣΥΝΤΕΘΕΙΣΑΙ ΕΝΤΑΥΘΑ ΚΑΤΑ ΣΤΟΙΧΕΙΟΝ. ΑΡΧΗ ΤΟΥ Α.
+* Paroemiae Mosq
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΑΡΟΙΜΙΑΙ ΣΥΛΛΕΓΕΙΣΑΙ ΕΚ ∆ΙΑΦΟΡΩΝ ΒΙΒΛΙΩΝ ΚΑΙ ΣΥΝΤΕΘΕΙΣΑΙ
+ΕΝΤΑΥΘΑ ΚΑΤΑ ΣΤΟΙΧΕΙΟΝ.
+ΑΡΧΗ ΤΟΥ Α.
 1.1 Αὕτη ἡ μήρινθος οὐδὲν ἔσπασεν: ἀπὸ τῶν ἁλιευτῶν εἴρηται. 1.2
 Ἀφροδίσιος ὅρκος οὐκ ἐμποίνιμος: ἐπὶ τοῖς ἐρωτικοῖς ἐπιορκούμενοι οἱ θεοὶ οὐκ
 ὀργίζονται. 1.3 Ἀγορὰ Κερκώπων: ἐπὶ τῶν πονηρῶν καὶ κακοήθων. Κέρκωπες γάρ

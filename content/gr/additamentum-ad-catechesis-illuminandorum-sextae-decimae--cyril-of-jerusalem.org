@@ -1,17 +1,19 @@
-#+TITLE: 16.1 Ἀλλ' ὥσπερ θεοῦ λόγον ἀκούσαντες οὐκ ἀνυπόστατόν τι πρᾶγμα τὸν λόγον
+#+TITLE: Additamentum ad catechesis illuminandorum sextae decimae
 #+AUTHOR: Κύριλλος Ἱεροσολύμων
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Additamentum ad catechesis illuminandorum sextae decimae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/additamentum-ad-catechesis-illuminandorum-sextae-decimae--cyril-of-jerusalem
 #+LANGUAGE: el
 
-* 16.1 Ἀλλ' ὥσπερ θεοῦ λόγον ἀκούσαντες οὐκ ἀνυπόστατόν τι πρᾶγμα τὸν λόγον
+* Additamentum ad catechesis illuminandorum sextae decimae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+16.1 Ἀλλ' ὥσπερ θεοῦ λόγον ἀκούσαντες οὐκ ἀνυπόστατόν τι πρᾶγμα τὸν λόγον
 ᾠήθημεν οὔτε ἐκ μαθήσεως ἐγγινόμενον οὔτε μετὰ τὸ προενεχθῆναι διαλυόμενον,
 οὔτε ἄλλο τι πάσχοντα τοιοῦτον οἷα περὶ τὸν ἡμέτερον λόγον θεωρεῖται πάθη, ἀλλ'
 οὐσιωδῶς ὑφεστῶτα προαιρετικόν τε καὶ παντοδύναμον, οὕτως καὶ 20πνεῦμα20

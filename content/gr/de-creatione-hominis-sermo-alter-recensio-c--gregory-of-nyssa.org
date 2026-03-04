@@ -1,17 +1,19 @@
-#+TITLE: 41a Ὁ μὲν σοφὸς Σολομὼν οὐκ ἐν πειθοῖς σοφίας λόγοις ἀλλ' ἐν διδα κτοῖς
+#+TITLE: De creatione hominis sermo alter recensio C
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De creatione hominis sermo alter recensio C
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-creatione-hominis-sermo-alter-recensio-c--gregory-of-nyssa
 #+LANGUAGE: el
 
-* 41a Ὁ μὲν σοφὸς Σολομὼν οὐκ ἐν πειθοῖς σοφίας λόγοις ἀλλ' ἐν διδα κτοῖς
+* De creatione hominis sermo alter recensio C
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+41a Ὁ μὲν σοφὸς Σολομὼν οὐκ ἐν πειθοῖς σοφίας λόγοις ἀλλ' ἐν διδα κτοῖς
 πνεύματος ἁγίου σοφισθείς, ἐν τοῖς ἀρτίως ἡμῖν ἀνεγνωσμένοις ἀποσεμνύνων τὸν
 ἄνθρωπον ἐβόα λέγων· Μέγα ἄνθρωπος καὶ τίμιον ἀνὴρ ἐλεήμων. ἐγὼ δὲ ματαίως
 ἄρα κατ' ἐμαυτὸν ἐσκόπουν, ἅ τε εἶχον ἐν τῇ ἐμαυτοῦ διανοίᾳ καὶ ἃ παρὰ τῆς γραφῆς

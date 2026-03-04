@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΑΣ ΕΠΙΓΡΑΦΑΣ ΤΗΣ ΣΤΗΛΟΓΡΑΦΙΑΣ
+#+TITLE: In inscriptione titulorum
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In inscriptione titulorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-inscriptione-titulorum--eustathius-of-antioch
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΑΣ ΕΠΙΓΡΑΦΑΣ ΤΗΣ ΣΤΗΛΟΓΡΑΦΙΑΣ
+* In inscriptione titulorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΑΣ ΕΠΙΓΡΑΦΑΣ ΤΗΣ ΣΤΗΛΟΓΡΑΦΙΑΣ
 7 Φαίνεται τοίνυν ὅτι διττὰς ὑποτίθεται στηλῶν ἰδέας· οὐ γὰρ ἂν τὴν τοῦ
 Ἰακὼβ ἀποδεχόμενος εὐφήμως, ἐπετίμα τὰς τῶν ἐναντίων ὡς ἀσεβῶς ἱδρυμένας·
 ἀλλ' ἐκεῖναι μὲν εἰδωλολατρείας ἐκτυποῦσι φάσματα δαιμονιώδη κακοδόξως· ἡ δὲ

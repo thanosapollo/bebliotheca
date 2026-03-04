@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΕΤΕΡΟΝ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΣΤΕΦΑΝΟΝ ΤΟΝ ΠΡΩΤΟΜΑΡΤΥΡΑ.
+#+TITLE: Encomium in sanctum Stephanum protomartyrem ii 1
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Encomium in sanctum Stephanum protomartyrem ii 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/encomium-in-sanctum-stephanum-protomartyrem-ii-1--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΕΤΕΡΟΝ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΣΤΕΦΑΝΟΝ ΤΟΝ ΠΡΩΤΟΜΑΡΤΥΡΑ.
+* Encomium in sanctum Stephanum protomartyrem ii 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΕΤΕΡΟΝ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΝ ΑΓΙΟΝ ΣΤΕΦΑΝΟΝ ΤΟΝ
+ΠΡΩΤΟΜΑΡΤΥΡΑ.
 Ἐπεδήμησε Χριστὸς τῷ κόσμῳ εἰς σωτηρίαν, καὶ μετ' αὐτὸν ἐβλάστησαν οἱ
 καρποὶ τῆς Ἐκκλησίας. Ἔλαμψεν ὁ μάρτυς τῆς ἀληθείας, καὶ συνέλαμψαν οἱ
 μάρτυρες τῆς μεγάλης οἰκονομίας. Ἠκολούθησαν οἱ μαθηταὶ τῷ ∆ιδασκάλῳ, τοῖς

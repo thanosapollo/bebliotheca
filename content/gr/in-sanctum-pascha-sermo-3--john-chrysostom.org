@@ -1,17 +1,19 @@
-#+TITLE: 1 Τὴν μὲν ἁγιότητα τὴν Χριστοῦ τὸ θῦμα τοῦ πάσχα μετὰ τοῦ ἀμώμου
+#+TITLE: In sanctum pascha sermo 3
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum pascha sermo 3
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-pascha-sermo-3--john-chrysostom
 #+LANGUAGE: el
 
-* 1 Τὴν μὲν ἁγιότητα τὴν Χριστοῦ τὸ θῦμα τοῦ πάσχα μετὰ τοῦ ἀμώμου
+* In sanctum pascha sermo 3
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Τὴν μὲν ἁγιότητα τὴν Χριστοῦ τὸ θῦμα τοῦ πάσχα μετὰ τοῦ ἀμώμου
 ὑπεδείκνυε, τὴν δὲ ἐν τῷ πάθει Χριστοῦ σωτηρίαν ἀνθρώπων ἡ τῶν πρωτοτόκων
 σωτηρία διὰ τῆς θυσίας τοῦ πάσχα δοθεῖσα, τὸν δὲ ἁγιασμὸν ἡ βρῶσις, καὶ ταῦτα
 ἡμῖν ἤδη προείρηται· νῦν ἐκ τῶν ὑπολοίπων τῆς νομοθεσίας ἐπισκεπτέον ὅπως μὲν

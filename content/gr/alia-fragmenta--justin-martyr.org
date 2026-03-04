@@ -1,17 +1,21 @@
-#+TITLE: Καὶ ὁ θαυμασιώτατος Ἰουστῖνος ὀρθῶς ἐξεφώνησεν ἐοι κέναι τοὺς προειρημένους λῃσταῖς. Ἰουστῖνος δὲ ὁ Νεαπολίτης, ἀνὴρ οὔτε τῷ χρόνῳ πόῤῥω
+#+TITLE: Alia fragmenta
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Alia fragmenta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/alia-fragmenta--justin-martyr
 #+LANGUAGE: el
 
-* Καὶ ὁ θαυμασιώτατος Ἰουστῖνος ὀρθῶς ἐξεφώνησεν ἐοι κέναι τοὺς προειρημένους λῃσταῖς. Ἰουστῖνος δὲ ὁ Νεαπολίτης, ἀνὴρ οὔτε τῷ χρόνῳ πόῤῥω
+* Alia fragmenta
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Καὶ ὁ θαυμασιώτατος Ἰουστῖνος ὀρθῶς ἐξεφώνησεν ἐοι
+κέναι τοὺς προειρημένους λῃσταῖς.
+Ἰουστῖνος δὲ ὁ Νεαπολίτης, ἀνὴρ οὔτε τῷ χρόνῳ πόῤῥω
 ὢν τῶν ἀποστόλων οὔτε τῇ ἀρετῇ, κληρονομεῖσθαι μὲν τὸ
 ἀποθνῆσκον, κληρονομεῖν δὲ τὸ ζῶν λέγει, καὶ ἀποθνήσκειν
 μὲν σάρκα, ζῆν δὲ τὴν βασιλείαν τῶν οὐρανῶν.

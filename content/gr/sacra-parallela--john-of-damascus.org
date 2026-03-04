@@ -1,6 +1,7 @@
-#+TITLE: quae tres libros conflant) (fragmenta e cod. Vat. gr. 1236) ΠΡΟΛΟΓΟΣ ΤΩΝ ΠΑΡΑΛΛΗΛΩΝ. Κτῆμα τίμιον ἡ ἀρετὴ, Θεῷ συνάπτουσα, καὶ βασιλείας οὐρανῶν προξενοῦσα.
+#+TITLE: Sacra parallela
 #+AUTHOR: Ἰωάννης Δαμασκηνός
 #+FILETAGS: :patristic:8c-ad:
+#+MIGNE_TITLE: Sacra parallela
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

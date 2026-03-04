@@ -1,17 +1,19 @@
-#+TITLE: 96.477 Τοῦ ἁγίου Γρηγορίου ἐπισκόπου Νύσσης ἐκ τοῦ πρὸς Ξενόδωρον
+#+TITLE: Tractatus ad Xenodorum
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Tractatus ad Xenodorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/tractatus-ad-xenodorum--gregory-of-nyssa
 #+LANGUAGE: el
 
-* 96.477 Τοῦ ἁγίου Γρηγορίου ἐπισκόπου Νύσσης ἐκ τοῦ πρὸς Ξενόδωρον
+* Tractatus ad Xenodorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=96.477= Τοῦ ἁγίου Γρηγορίου ἐπισκόπου Νύσσης ἐκ τοῦ πρὸς Ξενόδωρον
 γραμματικὸν λόγου, οὗ ἡ ἀρχή· Οὐδὲν Χριστιανοῖς θεολογίας ἀληθοῦς
 σωτηριωδέστερον.
 Ἐνέργειαν γὰρ ἡμεῖς εἶναί φαμεν τὴν φυσικὴν ἑκάστης οὐσίας δύναμίν τε

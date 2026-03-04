@@ -1,17 +1,22 @@
-#+TITLE: ΕΠΙΤΟΜΗ ΤΩΝ ΚΑΤΟΡΘΩΜΑΤΩΝ ΤΩΙ ΜΑΚΑΡΙΤΗΙ ΒΑΣΙΛΕΙ ΚΑΙ ΠΟΡΦΥΡΟΓΕΝΝΗΤΩΙ ΚΥΡΙΩΙ ΙΩΑΝΝΗΙ ΤΩΙ ΚΟΜΝΗΝΩΙ. ΚΑΙ ΑΦΗΓΗΣΙΣ ΤΩΝ ΠΡΑΧΘΕΝΤΩΝ ΤΩΙ ΑΟΙ∆ΙΜΩΙ ΥΙΩΙ ΑΥΤΟΥ ΤΩΙ ΒΑΣΙΛΕΙ ΚΑΙ ΠΟΡΦΥΡΟΓΕΝΝΗΤΩΙ ΚΥΡΩΙ ΜΑΝΟΥΗΛ ΤΩΙ ΚΟΜΝΗΝΩΙ ΠΟΝΗΘΕΙΣΑ
+#+TITLE: Epitome rerum ab Joanne et Alexio Comnenis gestarum
 #+AUTHOR: Ἰωάννης Κίνναμος
 #+FILETAGS: :byzantine:12c-ad:
+#+MIGNE_TITLE: Epitome rerum ab Joanne et Alexio Comnenis gestarum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epitome-rerum-ab-joanne-et-alexio-comnenis-gestarum--john-cinnamus
 #+LANGUAGE: el
 
-* ΕΠΙΤΟΜΗ ΤΩΝ ΚΑΤΟΡΘΩΜΑΤΩΝ ΤΩΙ ΜΑΚΑΡΙΤΗΙ ΒΑΣΙΛΕΙ ΚΑΙ ΠΟΡΦΥΡΟΓΕΝΝΗΤΩΙ ΚΥΡΙΩΙ ΙΩΑΝΝΗΙ ΤΩΙ ΚΟΜΝΗΝΩΙ. ΚΑΙ ΑΦΗΓΗΣΙΣ ΤΩΝ ΠΡΑΧΘΕΝΤΩΝ ΤΩΙ ΑΟΙ∆ΙΜΩΙ ΥΙΩΙ ΑΥΤΟΥ ΤΩΙ ΒΑΣΙΛΕΙ ΚΑΙ ΠΟΡΦΥΡΟΓΕΝΝΗΤΩΙ ΚΥΡΩΙ ΜΑΝΟΥΗΛ ΤΩΙ ΚΟΜΝΗΝΩΙ ΠΟΝΗΘΕΙΣΑ
+* Epitome rerum ab Joanne et Alexio Comnenis gestarum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΠΙΤΟΜΗ ΤΩΝ ΚΑΤΟΡΘΩΜΑΤΩΝ ΤΩΙ ΜΑΚΑΡΙΤΗΙ ΒΑΣΙΛΕΙ ΚΑΙ
+ΠΟΡΦΥΡΟΓΕΝΝΗΤΩΙ ΚΥΡΙΩΙ ΙΩΑΝΝΗΙ ΤΩΙ ΚΟΜΝΗΝΩΙ. ΚΑΙ ΑΦΗΓΗΣΙΣ
+ΤΩΝ ΠΡΑΧΘΕΝΤΩΝ ΤΩΙ ΑΟΙ∆ΙΜΩΙ ΥΙΩΙ ΑΥΤΟΥ ΤΩΙ ΒΑΣΙΛΕΙ ΚΑΙ
+ΠΟΡΦΥΡΟΓΕΝΝΗΤΩΙ ΚΥΡΩΙ ΜΑΝΟΥΗΛ ΤΩΙ ΚΟΜΝΗΝΩΙ ΠΟΝΗΘΕΙΣΑ
 ΙΩΑΝΝΗΙ ΒΑΣΙΛΙΚΩΙ ΓΡΑΜΜΑΤΙΚΩΙ ΤΩΙ ΚΙΝΝΑΜΩΙ.
 ΒΙΒΛΙΟΝ Α.
 ΤΗΙ ΒΑΣΙΛΕΙ ΚΑΙ ΠΟΡΦΥΡΟΓΕΝΝΗΤΩΙ ΚΥΡΙΩΙ ΙΩΑΝΝΗΙ ΤΩΙ ΚΟΜΝΗΝΩΙ. ΚΑΙ

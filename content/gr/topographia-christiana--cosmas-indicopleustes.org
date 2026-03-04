@@ -1,17 +1,19 @@
-#+TITLE: ΠΡΟΛΟΓΟΣ
+#+TITLE: Topographia Christiana
 #+AUTHOR: Κοσμᾶς Ἰνδικοπλεύστης
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Topographia Christiana
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/topographia-christiana--cosmas-indicopleustes
 #+LANGUAGE: el
 
-* ΠΡΟΛΟΓΟΣ
+* Topographia Christiana
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΡΟΛΟΓΟΣ
 προ.1 Πρῶτον μὲν πάντων παρακαλῶ τοὺς μέλλοντας ἐντυγχάνειν τῇδε τῇ βίβλῳ,
 ἵνα μετὰ πάσης προσοχῆς καὶ ἐπιμελείας τὴν ἀνάγνωσιν ποιήσωνται, καὶ μὴ
 παρέργως αὐτὴν διαδραμεῖν, ἀλλὰ καὶ τοὺς τόπους καὶ τὰ σχήματα καὶ τὰς

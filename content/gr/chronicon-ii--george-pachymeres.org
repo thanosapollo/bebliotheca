@@ -1,17 +1,20 @@
-#+TITLE: Συγγραφικαὶ ἱστορίαι (libri vii de Andronico Palaeologo) ΓΕΩΡΓΙΟΥ ΤΟΥ ΠΑΧΥΜΕΡΗ ΑΝ∆ΡΟΝΙΚΟΣ ΠΑΛΑΙΟΛΟΓΟΣ. ΚΕΦΑΛΑΙΑ ΤΗΣ ΠΡΩΤΗΣ ΒΙΒΛΟΥ.
+#+TITLE: Chronicon ii
 #+AUTHOR: Γεώργιος Παχυμέρης
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: Chronicon ii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronicon-ii--george-pachymeres
 #+LANGUAGE: el
 
-* Συγγραφικαὶ ἱστορίαι (libri vii de Andronico Palaeologo) ΓΕΩΡΓΙΟΥ ΤΟΥ ΠΑΧΥΜΕΡΗ ΑΝ∆ΡΟΝΙΚΟΣ ΠΑΛΑΙΟΛΟΓΟΣ. ΚΕΦΑΛΑΙΑ ΤΗΣ ΠΡΩΤΗΣ ΒΙΒΛΟΥ.
+* Chronicon ii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΕΩΡΓΙΟΥ ΤΟΥ ΠΑΧΥΜΕΡΗ ΑΝ∆ΡΟΝΙΚΟΣ ΠΑΛΑΙΟΛΟΓΟΣ.
+ΚΕΦΑΛΑΙΑ ΤΗΣ ΠΡΩΤΗΣ ΒΙΒΛΟΥ.
 1. ὅπως ὁ βασιλεὺς Ἀν δρόνικος τὰ κατὰ τοὺς Τοχάρους διῴκησεν. 2. ὅπως ὁ
 βασιλεὺς περὶ τῶν κατὰ τὸν πάπαν ἀπελογεῖτο. 3. ὅπως ὁ βασιλεὺς τὸν Βέκκον ἀφίει
 καὶ τῷ Ἰωσὴφ προσετίθετο. 4. ἀναχώρησις τοῦ πατριάρχου Βέκκου εἰς τὴν τῆς

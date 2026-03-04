@@ -1,6 +1,7 @@
-#+TITLE: Χρονογραφία πονηθεῖσα τῷ πανσόφῳ μοναχῷ Μιχαὴλ τῷ ὑπερτίμῳ, ἱστοροῦσα
+#+TITLE: Chronographia
 #+AUTHOR: Μιχαὴλ Ψελλός
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Chronographia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ ΡΗΘΕΙΣΑ ΕΝ ΛΙΜΩ ΚΑΙ ΑΥΧΜΩ.
+#+TITLE: Homilia dicta tempore famis et siccitatis
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia dicta tempore famis et siccitatis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-dicta-tempore-famis-et-siccitatis--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΡΗΘΕΙΣΑ ΕΝ ΛΙΜΩ ΚΑΙ ΑΥΧΜΩ.
+* Homilia dicta tempore famis et siccitatis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΡΗΘΕΙΣΑ ΕΝ ΛΙΜΩ ΚΑΙ ΑΥΧΜΩ.
 Λέων ἐρεύξεται, καὶ τίς οὐ φοβηθήσεται; Κύ ριος ὁ Θεὸς ἐλάλησε, καὶ τίς οὐ
 προφητεύσει; Προφητικὸν ποιήσωμεν τὸ τοῦ λόγου προοίμιον, καὶ τὸν
 θεοφορούμενον Ἀμὼς συνεργὸν εἰς τὴν τῶν προ κειμένων χρείαν παραλάβωμεν, τὰ

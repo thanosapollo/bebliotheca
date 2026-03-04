@@ -1,17 +1,19 @@
-#+TITLE: Ἀμφιλοχίου ἐπισκόπου Ἰκονίου εἰς τὰ γενέθλια τοῦ μεγάλου θεοῦ καὶ
+#+TITLE: In natalitia domini
 #+AUTHOR: Ἀμφιλόχιος Ἰκονίου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In natalitia domini
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-natalitia-domini--amphilochius-of-iconium
 #+LANGUAGE: el
 
-* Ἀμφιλοχίου ἐπισκόπου Ἰκονίου εἰς τὰ γενέθλια τοῦ μεγάλου θεοῦ καὶ
+* In natalitia domini
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀμφιλοχίου ἐπισκόπου Ἰκονίου εἰς τὰ γενέθλια τοῦ μεγάλου θεοῦ καὶ
 σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ.
 Ὁ μὲν πνευματικὸς οὗτος καὶ λαμπρὸς λειμών, ὁ τῷ τῶν οὐρανίων ἀνθῶν κάλλει
 πεποικιλμένος καὶ ταῖς ἀποστολικαῖς καὶ ἀχράντοις εὐωδιάζων ἀποφοραῖς, τύπον

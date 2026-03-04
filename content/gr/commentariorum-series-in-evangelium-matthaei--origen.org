@@ -1,17 +1,19 @@
-#+TITLE: 4 τὴν οὖν πρώτην ἐρωτηθεὶς ἐπήγαγε καὶ τὴν δευτέραν, οὐδὲν αὐτῆς ἀπο δέουσαν. εἰ
+#+TITLE: Commentariorum series in evangelium Matthaei
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Commentariorum series in evangelium Matthaei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentariorum-series-in-evangelium-matthaei--origen
 #+LANGUAGE: el
 
-* 4 τὴν οὖν πρώτην ἐρωτηθεὶς ἐπήγαγε καὶ τὴν δευτέραν, οὐδὲν αὐτῆς ἀπο δέουσαν. εἰ
+* Commentariorum series in evangelium Matthaei
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+4 τὴν οὖν πρώτην ἐρωτηθεὶς ἐπήγαγε καὶ τὴν δευτέραν, οὐδὲν αὐτῆς ἀπο δέουσαν. εἰ
 δὲ ἔστι τις πρώτη ἐντολὴ καὶ ἄλλη δευτέρα, εἴη ἄν τις καὶ τρίτη καὶ ἄλλη τετάρτη
 καὶ καθεξῆς. 21 (ἀκούσαντες γὰρ) γεγραμμένου ἐν τῷ νόμῳ περὶ τῶν θείων ῥημάτων
 ὅτι «ἀφάψατε αὐτὰ ἐπὶ τῆς χειρὸς ὑμῶν, καὶ ἔσται ἀσάλευτα πρὸ ὀφθαλμῶν ὑμῶν»

@@ -1,17 +1,19 @@
-#+TITLE: Στίχοι παραινετικοὶ τοῦ Χρυσοστόμου.
+#+TITLE: Stichoi
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Stichoi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/stichoi--john-chrysostom
 #+LANGUAGE: el
 
-* Στίχοι παραινετικοὶ τοῦ Χρυσοστόμου.
+* Stichoi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Στίχοι παραινετικοὶ τοῦ Χρυσοστόμου.
 Ὅστις βούλεται τὸ φῶς ἐκεῖνο βλέψαι, Ὀφείλει ταῦτα φυλάττειν ἐν καρδίᾳ·
 Παθῶν σαρκικῶν καὶ λογισμῶν ἀχρείων, Ὅρκου τε παντὸς, θυμοῦ καὶ ταραχῆς δὲ,
 Καὶ περισπασμοῦ καὶ τῆς μνησικακίας, Καὶ τοῦ μὴ κρῖναι τὸ σύνοχον ἀνθρώπους,

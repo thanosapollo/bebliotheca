@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑ ΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΤΕΡΑΙ ΤΙΝΕΣ ΕΡΩΤΗΣΕΙΣ.
+#+TITLE: Quaestiones aliae
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Quaestiones aliae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quaestiones-aliae--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑ ΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΤΕΡΑΙ ΤΙΝΕΣ ΕΡΩΤΗΣΕΙΣ.
+* Quaestiones aliae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑ ΣΙΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΑΛΕΞΑΝ∆ΡΕΙΑΣ ΕΤΕΡΑΙ ΤΙΝΕΣ ΕΡΩΤΗΣΕΙΣ.
 Ἐρώτησις αʹ. Τί ἐστι Θεός; Ἀπόκρισις. Θεός ἐστιν οὐσία νοερὰ, ἀθεώρητός τε καὶ
 ἀνερμήνευτος. Θεός ἐστι πνεῦμα ἄϋλον, ὀφθαλμὸς ἀκοίμητος, καὶ νοῦς ἀκίνητος.
 Θεός ἐστιν οὐσία δημιουργικὴ πάντων τῶν ἀοράτων καὶ ὁρω μένων κτισμάτων.

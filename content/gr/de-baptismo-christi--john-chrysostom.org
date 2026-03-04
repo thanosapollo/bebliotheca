@@ -1,17 +1,19 @@
-#+TITLE: Πρὸς τοὺς ἀπολιμπανομένους τῶν θείων συνάξεων, καὶ εἰς τὸ ἅγιον καὶ
+#+TITLE: De baptismo Christi
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De baptismo Christi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-baptismo-christi--john-chrysostom
 #+LANGUAGE: el
 
-* Πρὸς τοὺς ἀπολιμπανομένους τῶν θείων συνάξεων, καὶ εἰς τὸ ἅγιον καὶ
+* De baptismo Christi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Πρὸς τοὺς ἀπολιμπανομένους τῶν θείων συνάξεων, καὶ εἰς τὸ ἅγιον καὶ
 σωτήριον βάπτισμα τοῦ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ, καὶ περὶ τῶν
 ἀναξίως κοινωνούντων, καὶ ὅτι οἱ ἀτέλεστον καταλιμπάνοντες τὴν θείαν
 λειτουργίαν, καὶ πρὸ τῆς τελευταίας εὐχῆς ἐξερχόμενοι, τὸν Ἰούδαν

@@ -1,17 +1,19 @@
-#+TITLE: 1 1, 1. ∆οῦλον δὲ ἑαυτὸν λέγει ἢ διὰ τὴν ἐπαινετὴν ταπεινο φροσύνην οὐκ ἐκ τοῦ
+#+TITLE: Commentarii in epistulam ad Romanos
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Commentarii in epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-epistulam-ad-romanos-1--origen
 #+LANGUAGE: el
 
-* 1 1, 1. ∆οῦλον δὲ ἑαυτὸν λέγει ἢ διὰ τὴν ἐπαινετὴν ταπεινο φροσύνην οὐκ ἐκ τοῦ
+* Commentarii in epistulam ad Romanos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 1, 1. ∆οῦλον δὲ ἑαυτὸν λέγει ἢ διὰ τὴν ἐπαινετὴν ταπεινο φροσύνην οὐκ ἐκ τοῦ
 ἔχειν τὸ πνεῦμα τὸ εἰς φόβον τὸν τῆς δουλείας ἄγον ἀλλὰ τὸ πνεῦμα τὸ εἰς
 υἱοθεσίαν ἀνάγον, ἢ καὶ κατὰ τὸν τῆς διακονίας λόγον. διὸ καὶ ἔφασκε δοῦλος
 Ἰησοῦ Χριστοῦ ἢ καὶ ὡς μορφούμενος κατὰ θεόν· παραπλησίως ἐκείνῳ ἀναλαμβάνει

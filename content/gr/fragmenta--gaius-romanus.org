@@ -1,20 +1,18 @@
-#+TITLE: CAII, QUI CIRCITER INITIA SAECULI TERTII FLORUIT, FRAGMENTA. EX
+#+TITLE: Fragmenta
 #+AUTHOR: Γάϊος Ρωμαῖος
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Fragmenta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta--gaius-romanus
 #+LANGUAGE: el
 
-* CAII, QUI CIRCITER INITIA SAECULI TERTII FLORUIT, FRAGMENTA. EX
+* Fragmenta
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
-DIALOGO, VEL DISPUTATIONE, CUM PROCLO, SIVE PROCULO,
-MONTANISTA.
-Καὶ ἐν τῷ Γαΐου δὲ inquit Eusebius lib. iii. Hist. cap. 31. οὗ μικρῷ
 πρόσθεν cap. 28. ejusd. lib. ἐμνήσθημεν διαλόγῳ, Πρόκλος πρὸς ὃν ἐποιεῖτο τὴν
 ζήτησιν, περὶ τῆς Φιλίππου καὶ τῶν θυγατέρων αὐτοῦ τελευτῆς συνᾴδων τοῖς
 ἐκτεθεῖσιν οὕτω φησίν· Μετὰ τοῦτον δὲ προφήτιδες τέσσαρες αἱ Φιλίππου

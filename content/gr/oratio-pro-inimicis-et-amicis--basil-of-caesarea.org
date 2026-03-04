@@ -1,17 +1,19 @@
-#+TITLE: ΕΥΧΗ ΕΤΕΡΑ ΤΟΥ ΑΥΤΟΥ.
+#+TITLE: Oratio pro inimicis et amicis
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Oratio pro inimicis et amicis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-pro-inimicis-et-amicis--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΕΥΧΗ ΕΤΕΡΑ ΤΟΥ ΑΥΤΟΥ.
+* Oratio pro inimicis et amicis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΧΗ ΕΤΕΡΑ ΤΟΥ ΑΥΤΟΥ.
 ̓Ανεξίκακε βασιλεῦ καὶ ἀίδιε, ὁ διὰ τὴν ἐκ ξύλου κατάκρισιν ἐπὶ ξύλου ἀρθεὶς,
 καὶ τοῖς ἀκολουθεῖν σου τοῖς ἴχνεσιν αἱρουμένοις μακροθυμίας σαυτὸν ὑπόδειγμα
 παρασχόμενος, ὃς ὑπὲρ τῶν σταυρούντων σε θεομάχων ἔντευξιν προσήγαγες τῷ

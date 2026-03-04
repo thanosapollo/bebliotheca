@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ αὐτοῦ πρὸς Ἀντίοχον ἐπιστολὴ Ἔδει μὲν τὴν ὑμετέραν εὐλάβειαν μὴ τοῖς ῥήμασι τῶν εἰρηκότων
+#+TITLE: Epistula ad Antiochum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Antiochum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-antiochum--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ πρὸς Ἀντίοχον ἐπιστολὴ Ἔδει μὲν τὴν ὑμετέραν εὐλάβειαν μὴ τοῖς ῥήμασι τῶν εἰρηκότων
+* Epistula ad Antiochum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ πρὸς Ἀντίοχον ἐπιστολὴ
+Ἔδει μὲν τὴν ὑμετέραν εὐλάβειαν μὴ τοῖς ῥήμασι τῶν εἰρηκότων
 παρατρέπεσθαι τὴν διάνοιαν, ἀλλ' ἐν τῷ πλήθει τοῦ ψεύδους μετὰ πολλῆς σκέψεως
 ἀνιχνεῦσαι τὴν ἀλήθειαν. Εἰ γὰρ ἅπαντα τὰ θρυλούμενα ἀληθῆ, κινδυνεύσειαν ἂν
 ἅπαντες. Εἰ δὲ κρίσει καὶ νόμοις ἀνιχνεύεται τὰ λανθάνοντα, κριτήριον ἂν ἔγωγε

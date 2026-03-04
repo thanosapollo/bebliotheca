@@ -1,17 +1,19 @@
-#+TITLE: 361 Κεφ. Αʹ, βʹ. Καὶ ἦν ὁ ἄνθρωπος ἐκεῖνος ἀλη θινὸς, ἄμεμπτος, δίκαιος, θεοσεβὴς,
+#+TITLE: Homiliae in Job
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Homiliae in Job
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homiliae-in-job--origen
 #+LANGUAGE: el
 
-* 361 Κεφ. Αʹ, βʹ. Καὶ ἦν ὁ ἄνθρωπος ἐκεῖνος ἀλη θινὸς, ἄμεμπτος, δίκαιος, θεοσεβὴς,
+* Homiliae in Job
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+361 Κεφ. Αʹ, βʹ. Καὶ ἦν ὁ ἄνθρωπος ἐκεῖνος ἀλη θινὸς, ἄμεμπτος, δίκαιος, θεοσεβὴς,
 ἀπεχό μενος ἀπὸ παντὸς πονηροῦ πράγματος. Οἱ γὰρ φαῦλοι ἄνθρωποι ψευδεῖς,
 ὥσπερ οἱ ζωγραφούμενοι τὸν Θεόν. Τὸν Θεὸν φοβοῦ, τὰς ἐντολὰς φύλαττε, ὅτι
 τοῦτο πᾶς ἄνθρω πος. Ἄμεμπτος, ἐπειδὴ δίκαιος. Θεοσεβὴς, 362 βίος γὰρ καλὸς τὸν

@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ μεγάλου λογοθέτου κυροῦ Γεωργίου τοῦ Ἀκροπολίτου.
+#+TITLE: Praefatio in epistulas Theodori Lascaris
 #+AUTHOR: Γεώργιος Ἀκροπολίτης
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: Praefatio in epistulas Theodori Lascaris
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/praefatio-in-epistulas-theodori-lascaris--george-acropolites
 #+LANGUAGE: el
 
-* Τοῦ μεγάλου λογοθέτου κυροῦ Γεωργίου τοῦ Ἀκροπολίτου.
+* Praefatio in epistulas Theodori Lascaris
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ μεγάλου λογοθέτου κυροῦ Γεωργίου τοῦ Ἀκροπολίτου.
 Ἂν οὐρανοῦ τὸν γῦρον ἡ δέρρις φέρῃ Καὶ γῆς τὸ κύτος ὁ στενὸς γράφῃ τύπος, Καὶ
 γνώσεως ἄβυσσον οὐ μετρουμένην Ἡ βίβλος ἥδε συμπερικλείειν φθάνει, Ἄπειρον
 ἀόριστον ἄφθονον χύσιν Σοφῶν ναμάτων ἐκ φλεβῶν τεραστίων. Ὡς ἀστέρας μὲν

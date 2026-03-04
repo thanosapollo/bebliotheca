@@ -1,17 +1,19 @@
-#+TITLE: 423 Rom 1,24
+#+TITLE: Fragmenta in epistulam ad Romanos
 #+AUTHOR: Οἰκουμένιος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-romanos--oecumenius
 #+LANGUAGE: el
 
-* 423 Rom 1,24
+* Fragmenta in epistulam ad Romanos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Rom 1,24
 Ἢ τάχα ἑαυτοὺς παρέδωκαν, ἐπειδὴ τοῦτο ἐπεθύμουν· ἐν γὰρ ταῖς ἐπιθυμίαις τῶν
 καρδιῶν αὐτῶν φησιν. rom2,5 Ὡς πρὸς τὴν ἑρμηνείαν τὸ κατὰ παρέλκεται. rom2,8
 Παρέλκεται ὁ καί. rom2,10 Ἐξέσται φησίν. rom2,29 Οἷον ὁ νοητός. rom3,4 Θεοῖς

@@ -1,6 +1,7 @@
-#+TITLE: 1 Ὅτι οὐδὲν ὄνομα μεῖζον Ἰησοῦ τῶν ἐπὶ τῆς γῆς ὀνομασθέντων γέγονεν, μαρτυρεῖ
+#+TITLE: Fragmenta
 #+AUTHOR: Μάρκελλος Ἀγκύρας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

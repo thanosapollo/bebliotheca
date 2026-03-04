@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ ΙΖʹ. Εἰς Βαρλαὰμ μάρτυρα.
+#+TITLE: In Barlaam martyrem
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Barlaam martyrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-barlaam-martyrem--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ ΙΖʹ. Εἰς Βαρλαὰμ μάρτυρα.
+* In Barlaam martyrem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ ΙΖʹ.
+Εἰς Βαρλαὰμ μάρτυρα.
 Πρότερον μὲν τῶν ἁγίων οἱ θάνατοι κοπετοῖς ἐκοσμοῦντο καὶ δάκρυσιν·
 ἔκλαυσε σφοδρῶς Ἰωσὴφ τὸν Ἰακὼβ τεθνεῶτα, ἐκόψαντο καὶ τὴν Μωϋ σέως
 τελευτὴν οὐ μικρῶς Ἰουδαῖοι· πολλοῖς καὶ τὸν Σαμουὴλ τετιμήκασι δάκρυσι· νῦν δὲ

@@ -1,17 +1,21 @@
-#+TITLE: ΟΜΙΛΙΑ Ὅτε Σατορνῖνος καὶ Αὐρηλιανὸς ἐξωρίσθησαν, καὶ Γαϊνᾶς ἐξῆλθε τῆς πόλεως· καὶ περὶ φιλαργυρίας. 52.413
+#+TITLE: Cum Saturninus et Aurelianus acti essent in exsilium
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Cum Saturninus et Aurelianus acti essent in exsilium
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/cum-saturninus-et-aurelianus-acti-essent-in-exsilium--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Ὅτε Σατορνῖνος καὶ Αὐρηλιανὸς ἐξωρίσθησαν, καὶ Γαϊνᾶς ἐξῆλθε τῆς πόλεως· καὶ περὶ φιλαργυρίας. 52.413
+* Cum Saturninus et Aurelianus acti essent in exsilium
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Ὅτε Σατορνῖνος καὶ Αὐρηλιανὸς ἐξωρίσθησαν, καὶ Γαϊνᾶς
+ἐξῆλθε τῆς πόλεως· καὶ περὶ φιλαργυρίας.
+=52.413=
 αʹ. Πολὺν ἐσίγησα χρόνον, καὶ διὰ μακροῦ πάλιν πρὸς τὴν ὑμετέραν
 ἐπανῆλθον ἀγάπην· ἀλλ' οὐ ῥᾳθυμίᾳ =52.414= τινὶ καὶ ὄκνῳ σώματος, ἀλλὰ τὰς
 ταραχὰς καταστέλλων, τὰ κύματα κοιμίζων, τὸν χειμῶνα διορθούμενος, =52.415= τοὺς

@@ -1,17 +1,19 @@
-#+TITLE: Τῇ προτέρᾳ συνάξει ἐν τῇ ἐκκλησίᾳ τῇ καινῇ συναχθεὶς μετὰ τοῦ
+#+TITLE: In illud In faciem ei restiti
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud In faciem ei restiti
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-in-faciem-ei-restiti--john-chrysostom
 #+LANGUAGE: el
 
-* Τῇ προτέρᾳ συνάξει ἐν τῇ ἐκκλησίᾳ τῇ καινῇ συναχθεὶς μετὰ τοῦ
+* In illud In faciem ei restiti
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τῇ προτέρᾳ συνάξει ἐν τῇ ἐκκλησίᾳ τῇ καινῇ συναχθεὶς μετὰ τοῦ
 ἐπισκόπου, ταύτην ἐν τῇ παλαιᾷ εἶπεν εἰς τὴν περικοπὴν τοῦ Ἀποστόλου·
 "Ὅτε δὲ ἦλθε Πέτρος εἰς Ἀντιόχειαν, κατὰ πρόσωπον αὐτῷ ἀντέστην·" καὶ
 δείκνυσιν, ὅτι οὐκ ἀντίστασις ἦν, ἀλλ' οἰκονομία τὰ γινόμενα.

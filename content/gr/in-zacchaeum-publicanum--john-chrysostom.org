@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν Ζακχαῖον τὸν τελώνην. 61.767
+#+TITLE: In Zacchaeum publicanum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Zacchaeum publicanum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-zacchaeum-publicanum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν Ζακχαῖον τὸν τελώνην. 61.767
+* In Zacchaeum publicanum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν Ζακχαῖον τὸν τελώνην.
+=61.767=
 Οἱ τῶν καλῶν ἐρῶντες, οὐδὲν ἀπέχουσι τῶν διψώντων, ὦ ἀγαπητοί. Ὅσῳ
 γὰρ οὐχ εὑρίσκουσι τὸ ζητούμενον, τοσούτῳ πρὸς τὴν δίψαν τῶν ποθουμένων
 ἐκκαίονται· καὶ νύκτωρ μὲν φαντάζονται τὰς ποθουμένας, ὡς διψῶντες, πηγάς· μεθ'

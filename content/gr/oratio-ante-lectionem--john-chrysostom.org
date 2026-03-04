@@ -1,17 +1,21 @@
-#+TITLE: ΕΥΧΗ ΙΩΑΝΝΟΥ ΤΟΥΧΡΥΣΟΣΤΟΜΟΥ Ἐν τῷ μέλλειν ἀναγινώσκειν, ἢ ἀναγινώσκοντος ἑτέρου ἀκροᾶσθαι. 63.923
+#+TITLE: Oratio ante lectionem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Oratio ante lectionem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-ante-lectionem--john-chrysostom
 #+LANGUAGE: el
 
-* ΕΥΧΗ ΙΩΑΝΝΟΥ ΤΟΥΧΡΥΣΟΣΤΟΜΟΥ Ἐν τῷ μέλλειν ἀναγινώσκειν, ἢ ἀναγινώσκοντος ἑτέρου ἀκροᾶσθαι. 63.923
+* Oratio ante lectionem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΥΧΗ ΙΩΑΝΝΟΥ ΤΟΥΧΡΥΣΟΣΤΟΜΟΥ Ἐν τῷ μέλλειν ἀναγινώσκειν, ἢ
+ἀναγινώσκοντος ἑτέρου ἀκροᾶσθαι.
+=63.923=
 Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, ἄνοιξον τὰ ὦτα καὶ τοὺς ὀφθαλμοὺς τῆς
 καρδίας μου, τοῦ ἀκούειν με τοὺς λόγους σου, καὶ συνιέναι καὶ ποιεῖν τὸ θέλημά
 σου, Κύριε, ὅτι Πἄροικος ἐγώ εἰμι ἐν τῇ γῇ. Μὴ =63.924= ἀποκρύψῃς ἀπ' ἐμοῦ τὰς

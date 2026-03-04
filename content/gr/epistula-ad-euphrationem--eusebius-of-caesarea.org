@@ -1,17 +1,19 @@
-#+TITLE: 1 Τῷ δεσπότῃ μου κατὰ πάντα χάριν ὁμολογῶ. Οὐ γὰρ συνυπάρχειν φαμὲν
+#+TITLE: Epistula ad Euphrationem
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Euphrationem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-euphrationem--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* 1 Τῷ δεσπότῃ μου κατὰ πάντα χάριν ὁμολογῶ. Οὐ γὰρ συνυπάρχειν φαμὲν
+* Epistula ad Euphrationem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Τῷ δεσπότῃ μου κατὰ πάντα χάριν ὁμολογῶ. Οὐ γὰρ συνυπάρχειν φαμὲν
 τὸν υἱὸν τῷ πατρί, προϋπάρχειν δὲ τὸν πατέρα τοῦ υἱοῦ. ἐὰν γὰρ συνυπάρχωσι, πῶς
 ἔσται ὁ πατὴρ πατὴρ καὶ ὁ υἱός; ἢ πῶς ὁ μὲν πρῶτος, ὁ δὲ δεύτερος; καὶ ὁ μὲν
 ἀγέννητος, ὁ δὲ γεννητός; δύο γὰρ ἐξ ἴσου ὁμοίως ἀλλήλοις συνυπάρχοντα ἰσότιμα

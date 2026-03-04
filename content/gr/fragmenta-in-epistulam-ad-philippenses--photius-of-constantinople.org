@@ -1,17 +1,19 @@
-#+TITLE: 621 Phil 1,5 Ἐπὶ τῇ κοινωνίᾳ. ἐπὶ τῇ εἰς τὸ εὐαγγέλιον κοινωνίᾳ ὑμῶν. τὸ δὲ ἀπὸ
+#+TITLE: Fragmenta in epistulam ad Philippenses
 #+AUTHOR: Φώτιος Κωνσταντινουπόλεως
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Philippenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-philippenses--photius-of-constantinople
 #+LANGUAGE: el
 
-* 621 Phil 1,5 Ἐπὶ τῇ κοινωνίᾳ. ἐπὶ τῇ εἰς τὸ εὐαγγέλιον κοινωνίᾳ ὑμῶν. τὸ δὲ ἀπὸ
+* Fragmenta in epistulam ad Philippenses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+621 Phil 1,5 Ἐπὶ τῇ κοινωνίᾳ. ἐπὶ τῇ εἰς τὸ εὐαγγέλιον κοινωνίᾳ ὑμῶν. τὸ δὲ ἀπὸ
 πρώτης ἡμέρας· ἢ ὅτι ἀπὸ πρώτης ἡμέρας ἀφ' οὗ ἐπιστεύσατε μέχρι τοῦ νῦν
 εὐχαριστῶ τῷ θεῷ μου ὑπὲρ πάντων ὑμῶν μετὰ χαρᾶς τὴν δέησιν ποιούμενος, ἢ ἐπὶ
 τῇ εἰς τὸ εὐαγγέλιον κοινωνίᾳ ὑμῶν τῇ ἀπὸ πρώτης ἡμέρας μέχρι τοῦ νῦν

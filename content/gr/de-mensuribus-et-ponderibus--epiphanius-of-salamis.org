@@ -1,17 +1,19 @@
-#+TITLE: Τὸ «Περὶ μέτρων καὶ σταθμῶν» ἔργον Ἐπιφανίου τοῦ Σαλαμῖνοσ
+#+TITLE: De mensuribus et ponderibus
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De mensuribus et ponderibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-mensuribus-et-ponderibus--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Τὸ «Περὶ μέτρων καὶ σταθμῶν» ἔργον Ἐπιφανίου τοῦ Σαλαμῖνοσ
+* De mensuribus et ponderibus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τὸ «Περὶ μέτρων καὶ σταθμῶν» ἔργον Ἐπιφανίου τοῦ Σαλαμῖνοσ
 Εἴ τις ἐθέλει τῶν ἐν ταῖς θείαις γραφαῖς εἰδέναι τὰ πρὸς πολυπειρίαν μέρη, λέγω
 δὴ περὶ μέτρων καὶ σταθμῶν, τούτῳ τῷ ὑπομνηστικῷ ἐντυγχάνειν μὴ κατοκνείτω. Καὶ
 πρῶτον μὲν δεῖ εἰδέναι τὸν φιλόλογον, πόσα τυγχάνει ἐν ταῖς προφητείαις μέρη. Εἰς

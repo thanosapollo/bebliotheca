@@ -1,6 +1,7 @@
-#+TITLE: Εἰς τὸν παραλυτικὸν, τὸν τὰ τριάκοντα ὀκτὼ ἔτη ἔχοντα ἐν τῇ ἀσθενείᾳ
+#+TITLE: De Christi divinitate
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De Christi divinitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

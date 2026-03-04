@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν αὐτὴν ὑπόθεσιν εʹ. 59.731
+#+TITLE: In sanctum pascha sermo 5
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum pascha sermo 5
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-pascha-sermo-5--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν αὐτὴν ὑπόθεσιν εʹ. 59.731
+* In sanctum pascha sermo 5
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν αὐτὴν ὑπόθεσιν εʹ.
+=59.731=
 αʹ. Ἐν Ἰουδαίοις οἱ τύποι, παρ' ἡμῖν δὲ ἡ ἀλήθεια. Σκιὰν γὰρ, φησὶν, ὁ νόμος
 εἶχε τῶν μελλόντων ἀγαθῶν· καὶ, Ὁ νόμος, φησὶ, διὰ Μωϋσέως ἐδόθη· ἡ χάρις
 =59.732= γὰρ καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο. Οὐδὲ γὰρ τὰ Ἰουδαίων

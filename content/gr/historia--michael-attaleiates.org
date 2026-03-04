@@ -1,6 +1,7 @@
-#+TITLE: ΛΟΓΟΣ ΠΡΟΣΦΩΝΗΤΙΚΟΣ ΕΚΦΩΝΗΘΕΙΣ ΠΑΡΑ ΜΙΧΑΗΛ ΜΑΓΙΣΤΡΟΥ ΒΕΣΤΟΥ ΚΑΙ ΚΡΙΤΟΥ ΤΟΥ ΑΤΤΑΛΕΙΑΤΟΥ ΠΡΟΣ ΤΟΝ ΒΑΣΙΛΕΑ ΤΟΝ ΒΟΤΑΝΕΙΑΤΗΝ.
+#+TITLE: Historia
 #+AUTHOR: Μιχαὴλ Ἀτταλειάτης
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Historia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

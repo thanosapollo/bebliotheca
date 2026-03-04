@@ -1,17 +1,19 @@
-#+TITLE: Πρὸς Ἰωάννην τὸν Αἰλείας ἐπίσκοπον ἐπιγεγραμμένη ἐπιστολή.
+#+TITLE: Epistula ad Joannem Hierosolymitanum
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Joannem Hierosolymitanum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-joannem-hierosolymitanum--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Πρὸς Ἰωάννην τὸν Αἰλείας ἐπίσκοπον ἐπιγεγραμμένη ἐπιστολή.
+* Epistula ad Joannem Hierosolymitanum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Πρὸς Ἰωάννην τὸν Αἰλείας ἐπίσκοπον ἐπιγεγραμμένη ἐπιστολή.
 Τῷ αἰδεσιμωτάτῳ ἀδελφῷ πάπᾳ Ἰωάννῃ Ἐπιφάνιος ἐπίσκοπος ἐν Κυρίῳ
 χαίρειν.
 Ἔδει ἡμᾶς ἀγαπητὲ μὴ τῇ οἰήσει τῶν κλήρων φέρεσθαι, ἀλλὰ ... 282 ... φησὶ

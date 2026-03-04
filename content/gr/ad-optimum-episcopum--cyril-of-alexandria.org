@@ -1,19 +1,18 @@
-#+TITLE: EPISTOLA LXXX. AD OPTIMUM EPISCOPUM. In illa verba: "Omnis qui
+#+TITLE: Ad Optimum episcopum
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Ad Optimum episcopum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-optimum-episcopum--cyril-of-alexandria
 #+LANGUAGE: el
 
-* EPISTOLA LXXX. AD OPTIMUM EPISCOPUM. In illa verba: "Omnis qui
+* Ad Optimum episcopum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
-occiderit Cain, septuplum punietur."
-=77.365=
 Καὶ ἄλλως ἡδέως ὁρῶν τοὺς ἀγαθοὺς παῖδας, διά τε τὸ ὑπὲρ τὴν ἡλικίαν τῶν
 ἠθῶν εὐσταθὲς, καὶ διὰ τὸ πρὸς τὴν σὴν εὐλάβειαν οἰκεῖον, ἀφ' οὗ τι καὶ μέγα
 προσδοκᾷν ἔστιν ἐπ' αὐτοῖς. Ἐπειδὴ μετὰ γραμμάτων σῶν εἶδον αὐτοὺς προσιόντας

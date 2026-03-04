@@ -1,17 +1,22 @@
-#+TITLE: ΣΥΓΚΡΙΣΙΣ ΒΑΣΙΛΙΚΗΣ ∆ΥΝΑΣΤΕΙΑΣ ΚΑΙ ΠΛΟΥΤΟΥ ΚΑΙ ΥΠΕΡΟΧΗΣ, ΠΡΟΣ ΜΟΝΑΧΟΝ ΣΥΖΩΝΤΑ ΤΗ ΑΛΗΘΕΣΤΑΤΗ ΚΑΙ ΚΑΤΑ ΧΡΙΣΤΟΝ ΦΙΛΟΣΟΦΙΑ. 47.387
+#+TITLE: Comparatio regis et monachi
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Comparatio regis et monachi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/comparatio-regis-et-monachi--john-chrysostom
 #+LANGUAGE: el
 
-* ΣΥΓΚΡΙΣΙΣ ΒΑΣΙΛΙΚΗΣ ∆ΥΝΑΣΤΕΙΑΣ ΚΑΙ ΠΛΟΥΤΟΥ ΚΑΙ ΥΠΕΡΟΧΗΣ, ΠΡΟΣ ΜΟΝΑΧΟΝ ΣΥΖΩΝΤΑ ΤΗ ΑΛΗΘΕΣΤΑΤΗ ΚΑΙ ΚΑΤΑ ΧΡΙΣΤΟΝ ΦΙΛΟΣΟΦΙΑ. 47.387
+* Comparatio regis et monachi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΣΥΓΚΡΙΣΙΣ ΒΑΣΙΛΙΚΗΣ ∆ΥΝΑΣΤΕΙΑΣ ΚΑΙ ΠΛΟΥΤΟΥ ΚΑΙ ΥΠΕΡΟΧΗΣ,
+ΠΡΟΣ ΜΟΝΑΧΟΝ ΣΥΖΩΝΤΑ ΤΗ ΑΛΗΘΕΣΤΑΤΗ ΚΑΙ ΚΑΤΑ ΧΡΙΣΤΟΝ
+ΦΙΛΟΣΟΦΙΑ.
+=47.387=
 αʹ. Ὁρῶν ἐγὼ τοὺς πολλοὺς τῶν ἀνθρώπων τὰ δοκοῦντα εἶναι καλὰ μᾶλλον
 ἀγαπῶντάς τε καὶ θαυμάζοντας, ἢ τὰ φύσει χρηστὰ καὶ ὡς ἀληθῶς ἀγαθὰ, ἀναγκαῖον
 εἶναι νομίζω περὶ ἑκατέρων βραχεῖς ποιήσασθαι τοὺς λόγους, καὶ παραθεῖναι νῦν

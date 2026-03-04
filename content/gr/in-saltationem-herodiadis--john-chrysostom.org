@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὴν ὄρχησιν τῆς Ἡρωδιάδος, καὶ εἰς τὴν ἀποτομὴν τῆς κεφαλῆς
+#+TITLE: In saltationem Herodiadis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In saltationem Herodiadis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-saltationem-herodiadis--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν ὄρχησιν τῆς Ἡρωδιάδος, καὶ εἰς τὴν ἀποτομὴν τῆς κεφαλῆς
+* In saltationem Herodiadis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν ὄρχησιν τῆς Ἡρωδιάδος, καὶ εἰς τὴν ἀποτομὴν τῆς κεφαλῆς
 Ἰωάννου τοῦ Προδρόμου καὶ Βαπτιστοῦ.
 =59.521=
 αʹ. Ὥσπερ τις ἀνὴρ φιλέρημος ἔν τινι τόπῳ ἀλσώδει ὑπὸ δένδρα σκιαζόμενος,

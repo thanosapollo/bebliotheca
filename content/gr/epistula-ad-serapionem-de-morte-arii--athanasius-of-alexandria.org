@@ -1,17 +1,19 @@
-#+TITLE: Ἀθανάσιος Σεραπίωνι ἀδελφῷ καὶ συλλειτουργῷ ἐν κυρίῳ χαίρειν.
+#+TITLE: Epistula ad Serapionem de morte Arii
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Serapionem de morte Arii
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-ad-serapionem-de-morte-arii--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Ἀθανάσιος Σεραπίωνι ἀδελφῷ καὶ συλλειτουργῷ ἐν κυρίῳ χαίρειν.
+* Epistula ad Serapionem de morte Arii
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἀθανάσιος Σεραπίωνι ἀδελφῷ καὶ συλλειτουργῷ ἐν κυρίῳ χαίρειν.
 1.1 Ἐνέτυχον τοῖς παρὰ τῆς σῆς εὐλαβείας γραφεῖσιν, ἐν οἷς προέτρεπες ἡμᾶς τά τε
 καθ' ἡμᾶς καὶ νῦν γενόμενα δηλῶσαί σοι καὶ περὶ τῆς ἀσεβεστάτης αἱρέσεως τῶν
 Ἀρειανῶν, 1.2 δι' ἣν καὶ ταῦτα πεπόνθαμεν, καὶ ὁποῖον ἔσχε τὸ τέλος τοῦ βίου

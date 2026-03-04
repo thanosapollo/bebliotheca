@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν Ὕψωσιν τοῦ τιμίου Σταυροῦ. 59.679
+#+TITLE: In exaltationem venerandae crucis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In exaltationem venerandae crucis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-exaltationem-venerandae-crucis--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν Ὕψωσιν τοῦ τιμίου Σταυροῦ. 59.679
+* In exaltationem venerandae crucis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν Ὕψωσιν τοῦ τιμίου Σταυροῦ.
+=59.679=
 Πᾶσα μὲν ἡ ἀπὸ τῶν χειρόνων ἐπὶ τὰ κρείττονα μεταβολὴ μεγίστην χαρὰν
 καὶ εὐφροσύνην τῷ γένει τῶν ἀνθρώπων κατεργάζεται. Πέφυκε γὰρ ἡ ἀνθρωπίνη
 φύσις, τῶν κρειττόνων ὀρεγομένη, ἀεὶ σπεύδειν ἐπὶ τὴν τῶν βελτιόνων κατάληψιν.

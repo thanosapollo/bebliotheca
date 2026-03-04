@@ -1,17 +1,19 @@
-#+TITLE: Ηʹ. Τοῦ αὐτοῦ εἰς τὸ, "Εἴ τις ἐν Χριστῷ, καινὴ κτίσις· τὰ ἀρχαῖα
+#+TITLE: In illud Si qua in Christo nova creatura
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Si qua in Christo nova creatura
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-si-qua-in-christo-nova-creatura--john-chrysostom
 #+LANGUAGE: el
 
-* Ηʹ. Τοῦ αὐτοῦ εἰς τὸ, "Εἴ τις ἐν Χριστῷ, καινὴ κτίσις· τὰ ἀρχαῖα
+* In illud Si qua in Christo nova creatura
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ηʹ. Τοῦ αὐτοῦ εἰς τὸ, "Εἴ τις ἐν Χριστῷ, καινὴ κτίσις· τὰ ἀρχαῖα
 παρῆλθον, ἰδοὺ γέγονε τὰ πάντα καινά."
 =64.25=
 Πολλὴ μὲν γηπόνῳ προθυμία καταβάλλειν τὰ σπέρματα, ἐπειδὰν τὴν

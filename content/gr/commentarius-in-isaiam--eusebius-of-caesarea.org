@@ -1,17 +1,19 @@
-#+TITLE: Τὸ πνεῦμα τῷ προφήτῃ ἐδείκνυ ποτὲ μὲν σαφῶς τὰ δηλούμενα ὡς μὴ
+#+TITLE: Commentarius in Isaiam
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Commentarius in Isaiam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarius-in-isaiam--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* Τὸ πνεῦμα τῷ προφήτῃ ἐδείκνυ ποτὲ μὲν σαφῶς τὰ δηλούμενα ὡς μὴ
+* Commentarius in Isaiam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τὸ πνεῦμα τῷ προφήτῃ ἐδείκνυ ποτὲ μὲν σαφῶς τὰ δηλούμενα ὡς μὴ
 δεῖσθαι τρόπων ἀλληγορίας ἐν τῇ τῶν φωνῶν ἑρμηνείᾳ, μόναις δὲ αὐταῖς κεχρῆσθαι
 ψιλαῖς ταῖς λέξεσιν, ποτὲ δὲ διὰ συμβόλων ἑτέρων πραγμάτων, ἐμφαντικοῖς ῥήμασί
 τε καὶ ὀνόμασιν ἑτέραν ὑποβαλλόντων διάνοιαν, ὥσπερ καὶ ἐπὶ τῶν ὀνείρων «τοῦ

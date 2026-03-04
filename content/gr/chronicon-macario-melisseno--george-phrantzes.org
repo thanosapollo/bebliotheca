@@ -1,17 +1,22 @@
-#+TITLE: ΧΡΟΝΙΚΟΝ ΤΟΥ ΓΕΩΡΓΙΟΥ ΦΡΑΝΤΖΗ ΤΟΥ ΧΡΗΜΑΤΙΣΑΝΤΟΣ ΠΡΩΤΟΒΕΣΤΙΑΡΙΤΟΥ ΚΑΙ ΜΕΤΕΠΕΙΤΑ ΜΕΓΑΛΟΥ ΛΟΓΟΘΕΤΟΥ, ∆ΙΑ ∆Ε ΤΟΥ ΘΕΙΟΥ ΚΑΙ ΑΓΓΕΛΙΚΟΥ ΣΧΗΜΑΤΟΣ ΜΕΤΟΝΟΜΑΣΘΕΝΤΟΣ ΓΡΗΓΟΡΙΟΥ ΜΟΝΑΧΟΥ
+#+TITLE: Chronicon Macario Melisseno
 #+AUTHOR: Γεώργιος Φραντζῆς
 #+FILETAGS: :byzantine:15c-ad:
+#+MIGNE_TITLE: Chronicon Macario Melisseno
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronicon-macario-melisseno--george-phrantzes
 #+LANGUAGE: el
 
-* ΧΡΟΝΙΚΟΝ ΤΟΥ ΓΕΩΡΓΙΟΥ ΦΡΑΝΤΖΗ ΤΟΥ ΧΡΗΜΑΤΙΣΑΝΤΟΣ ΠΡΩΤΟΒΕΣΤΙΑΡΙΤΟΥ ΚΑΙ ΜΕΤΕΠΕΙΤΑ ΜΕΓΑΛΟΥ ΛΟΓΟΘΕΤΟΥ, ∆ΙΑ ∆Ε ΤΟΥ ΘΕΙΟΥ ΚΑΙ ΑΓΓΕΛΙΚΟΥ ΣΧΗΜΑΤΟΣ ΜΕΤΟΝΟΜΑΣΘΕΝΤΟΣ ΓΡΗΓΟΡΙΟΥ ΜΟΝΑΧΟΥ
+* Chronicon Macario Melisseno
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΧΡΟΝΙΚΟΝ ΤΟΥ ΓΕΩΡΓΙΟΥ ΦΡΑΝΤΖΗ ΤΟΥ ΧΡΗΜΑΤΙΣΑΝΤΟΣ
+ΠΡΩΤΟΒΕΣΤΙΑΡΙΤΟΥ ΚΑΙ ΜΕΤΕΠΕΙΤΑ ΜΕΓΑΛΟΥ ΛΟΓΟΘΕΤΟΥ, ∆ΙΑ ∆Ε
+ΤΟΥ ΘΕΙΟΥ ΚΑΙ ΑΓΓΕΛΙΚΟΥ ΣΧΗΜΑΤΟΣ ΜΕΤΟΝΟΜΑΣΘΕΝΤΟΣ
+ΓΡΗΓΟΡΙΟΥ ΜΟΝΑΧΟΥ
 ΠΡΟΟΙΜΙΟΝ
 Τὸ τῆς ἱστορίας χρήσιμον καὶ πρὸ ἡμῶν οἱ πολλοὶ συγγραψάμενοι
 διωρίσαντο καὶ ἅπερ ἂν ἐκείνοις ἐπῆλθεν εἰπεῖν, ταῦτα ἂν καὶ ἡμεῖς ἐρεῖν ἔχωμεν· τὶ

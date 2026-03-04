@@ -1,17 +1,19 @@
-#+TITLE: 448 Eph 1,17 Ὁ ἐν ἁγίοις Γρηγόριος ἐν τῷ Περὶ υἱοῦ λόγῳ, ὡς νομίζω, τὰ δύο εἰς τὸν
+#+TITLE: Fragmenta in epistulam ad Ephesios
 #+AUTHOR: Οἰκουμένιος
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Ephesios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-ephesios--oecumenius
 #+LANGUAGE: el
 
-* 448 Eph 1,17 Ὁ ἐν ἁγίοις Γρηγόριος ἐν τῷ Περὶ υἱοῦ λόγῳ, ὡς νομίζω, τὰ δύο εἰς τὸν
+* Fragmenta in epistulam ad Ephesios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+448 Eph 1,17 Ὁ ἐν ἁγίοις Γρηγόριος ἐν τῷ Περὶ υἱοῦ λόγῳ, ὡς νομίζω, τὰ δύο εἰς τὸν
 Χριστὸν ἐδέξατο· πατέρα μὲν τοῦ λόγου, θεὸν δὲ τοῦ προσλήμματος, ἵνα ἐκ
 θεότητος καὶ ἀνθρωπότητος ἐν μίᾳ φύσει δείξῃ τὸν Ἐμμανουήλ. επη 1,22 Ἢ ὑπὲρ
 ἀγγέλους, φησί, καὶ ἀρχαγγέλους αὐτὸν τὸν υἱὸν ἔδωκε κεφαλήν· ἢ τὸν ὄντα ὑπὲρ

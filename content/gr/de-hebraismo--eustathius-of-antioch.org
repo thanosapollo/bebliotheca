@@ -1,17 +1,19 @@
-#+TITLE: ΠΕΡΙ ΕΒΡΑΙΣΜΟΥ
+#+TITLE: De hebraismo
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De hebraismo
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-hebraismo--eustathius-of-antioch
 #+LANGUAGE: el
 
-* ΠΕΡΙ ΕΒΡΑΙΣΜΟΥ
+* De hebraismo
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΕΡΙ ΕΒΡΑΙΣΜΟΥ
 71 Κατά τινα νομοθετικὴν ἐπίνοιαν καὶ μεταχείρησιν, εἰς πειθὼ τῶν
 προσταττομένων ὑπ' αὐτῶν καὶ τοῦ πολιτικοῦ συμφέροντος, ἐν ἑκάστῳ ψεύδει
 χρῶνται ἐν φαρμάκων εἴδει οἱ νομοθέται δῆλον.

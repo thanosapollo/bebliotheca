@@ -1,17 +1,20 @@
-#+TITLE: ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟ ΕΦ' ΟΣΟΝ ΕΝΙ ΤΟΥΤΩΝ ΕΠΟΙΗΣΑΤΕ ΕΜΟΙ ΕΠΟΙΗΣΑΤΕ
+#+TITLE: In illud Quatenus uni ex his fecistis mihi fecistis
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Quatenus uni ex his fecistis mihi fecistis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-quatenus-uni-ex-his-fecistis-mihi-fecistis--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟ ΕΦ' ΟΣΟΝ ΕΝΙ ΤΟΥΤΩΝ ΕΠΟΙΗΣΑΤΕ ΕΜΟΙ ΕΠΟΙΗΣΑΤΕ
+* In illud Quatenus uni ex his fecistis mihi fecistis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΡΗΓΟΡΙΟΥ ΕΠΙΣΚΟΠΟΥ ΝΥΣΣΗΣ ΕΙΣ ΤΟ ΕΦ' ΟΣΟΝ ΕΝΙ ΤΟΥΤΩΝ
+ΕΠΟΙΗΣΑΤΕ ΕΜΟΙ ΕΠΟΙΗΣΑΤΕ
 Ἔτι πρὸς τῷ θεάματι τῆς φοβερᾶς τοῦ βασιλέως ἐπιφανείας εἰμί, ἣν
 ὑπογράφει τὸ εὐαγγέλιον· ἔτι κατέπτηχεν ἡ ψυχὴ πρὸς τὸν φόβον τῶν εἰρημένων
 ἐνατενίζουσα ὡς καθορῶσα τρόπον τινὰ αὐτόν τε τὸν οὐράνιον βασιλέα, καθώς

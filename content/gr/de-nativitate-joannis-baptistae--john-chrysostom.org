@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως
+#+TITLE: De nativitate Joannis Baptistae
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De nativitate Joannis Baptistae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-nativitate-joannis-baptistae--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως
+* De nativitate Joannis Baptistae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου ἀρχιεπισκόπου Κωνσταντινουπόλεως
 τοῦ Χρυσοστόμου εἰς τὸ γενέθλιον τοῦ ἁγίου Ἰωάννου τοῦ προδρόμου καὶ
 βαπτιστοῦ.
 Ἀπαραίτητος σήμερον τῆς διδασκαλίας ὁ λόγος, ἔχει γὰρ Ἰωάννην τὸν

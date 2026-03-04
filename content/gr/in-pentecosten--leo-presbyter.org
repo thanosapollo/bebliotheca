@@ -1,17 +1,20 @@
-#+TITLE: Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὴν ἁγίαν πεντηκοστήν
+#+TITLE: In pentecosten
 #+AUTHOR: Λέων Πρεσβύτερος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: In pentecosten
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-pentecosten--leo-presbyter
 #+LANGUAGE: el
 
-* Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὴν ἁγίαν πεντηκοστήν
+* In pentecosten
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Λεοντίου πρεσβυτέρου Κωνσταντινουπόλεως λόγος εἰς τὴν ἁγίαν
+πεντηκοστήν
 Ὅσοι περὶ τὴν παροῦσαν ἑορταστικὴν ἀένναον χάριν ἐπείγεσθε, τῇ πηγῇ τῶν
 ἀγαθῶν Χριστῷ προσδράμωμεν. Πηγὴ περὶ ἧς ὁ προφήτης βοᾷ πρὸς τὸν πατέρα τῶν
 φώτων· Ὅτι παρὰ σοὶ πηγὴ ζωῆς, ἐν τῷ φωτί σου ὀψόμεθα φῶς· τουτέστιν ἐν τῷ σῷ

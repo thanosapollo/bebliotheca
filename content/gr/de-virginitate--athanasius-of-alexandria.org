@@ -1,17 +1,20 @@
-#+TITLE: ΑΘΑΝΑΣΙΟΥ ΤΟΥ ΜΕΓΑΛΟΥ ΠΕΡΙ ΠΑΡΘΕΝΙΑΣ ΗΤΟΙ ΠΕΡΙ ΑΣΚΗΣΕΩΣ. Ἀρχὴ λόγου σωτηρίας πρὸς τὴν παρθένον.
+#+TITLE: De virginitate
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De virginitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-virginitate--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΑΘΑΝΑΣΙΟΥ ΤΟΥ ΜΕΓΑΛΟΥ ΠΕΡΙ ΠΑΡΘΕΝΙΑΣ ΗΤΟΙ ΠΕΡΙ ΑΣΚΗΣΕΩΣ. Ἀρχὴ λόγου σωτηρίας πρὸς τὴν παρθένον.
+* De virginitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΑΘΑΝΑΣΙΟΥ ΤΟΥ ΜΕΓΑΛΟΥ ΠΕΡΙ ΠΑΡΘΕΝΙΑΣ ΗΤΟΙ ΠΕΡΙ ΑΣΚΗΣΕΩΣ.
+Ἀρχὴ λόγου σωτηρίας πρὸς τὴν παρθένον.
 1 Πρῶτον πάντων πίστευσον εἰς ἕνα θεὸν πατέρα παντοκράτορα, ὁρατῶν καὶ
 ἀοράτων ποιητήν· καὶ εἰς τὸν μονογενῆ αὐτοῦ υἱὸν Ἰησοῦν Χριστὸν, τὸν ὄντα ἐκ τῆς
 οὐσίας τοῦ πατρός, κατὰ πάντα ἰσοδύναμον τῷ πατρί, τὸν πρὸ αἰώνων ὄντα· καὶ εἰς

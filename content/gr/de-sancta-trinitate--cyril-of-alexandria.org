@@ -1,6 +1,7 @@
-#+TITLE: DE SACROSANCTA TRINITATELIBERSANCTO CYRILLO ASCRIPTUS ΚΕΦΑΛ. Αʹ.
+#+TITLE: De sancta trinitate
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: De sancta trinitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

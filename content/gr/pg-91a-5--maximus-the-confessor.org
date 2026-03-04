@@ -1,17 +1,19 @@
-#+TITLE: ΑΠΑΝΤΑ, ΜΑΞΙΜΟΥ τοῦ ΟΜΟΛΟΓΗΤΟΥ *
+#+TITLE: Scholia in librum de Divinis Nominibus
 #+AUTHOR: Μάξιμος ὁ Ὁμολογητής
 #+FILETAGS: :patristic:7c-ad:
+#+MIGNE_TITLE: PG 91A 5
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/pg-91a-5--maximus-the-confessor
 #+LANGUAGE: el
 
-* ΑΠΑΝΤΑ, ΜΑΞΙΜΟΥ τοῦ ΟΜΟΛΟΓΗΤΟΥ *
+* PG 91A 5
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΑΠΑΝΤΑ, ΜΑΞΙΜΟΥ τοῦ ΟΜΟΛΟΓΗΤΟΥ *
 7ος Τόμος - 14 S ..................................................................................................................... 1
 ... συνέχεια ... ΣΧΟΛΙΑ ΕΙΣ ΤΑ ΤΟΥ ΑΓ. ∆ΙΟΝΥΣΙΟΥ ....................................................... 1
 7ος Τόμος - 14 S

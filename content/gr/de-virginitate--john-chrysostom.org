@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΠΕΡΙ ΠΑΡΘΕΝΙΑΣ Ὅτι τῶν αἱρετικῶν ἡ παρθενία μισθὸν οὐκ ἔχει.
+#+TITLE: De virginitate
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De virginitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-virginitate--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΠΕΡΙ ΠΑΡΘΕΝΙΑΣ Ὅτι τῶν αἱρετικῶν ἡ παρθενία μισθὸν οὐκ ἔχει.
+* De virginitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΠΕΡΙ ΠΑΡΘΕΝΙΑΣ
+Ὅτι τῶν αἱρετικῶν ἡ παρθενία μισθὸν οὐκ ἔχει.
 Τὸ τῆς παρθενίας καλὸν ἀποστρέφονται μὲν Ἰουδαῖοι, καὶ θαυμαστὸν οὐδέν,
 ὅπου γε καὶ αὐτὸν τὸν ἐκ παρθένου Χριστὸν ἠτίμασαν. Θαυμάζουσι δὲ Ἕλληνες καὶ
 καταπλήττονται, ζηλοῖ δὲ μόνη ἡ ἐκκλησία τοῦ Θεοῦ. Τὰς γὰρ τῶν αἱρετικῶν οὐκ ἂν

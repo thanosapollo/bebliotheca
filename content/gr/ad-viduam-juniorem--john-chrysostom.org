@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ ΕΙΣ ΝΕΩΤΕΡΑΝ ΧΗΡΕΥΣΑΣΑΝ
+#+TITLE: Ad viduam juniorem
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Ad viduam juniorem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ad-viduam-juniorem--john-chrysostom
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΕΙΣ ΝΕΩΤΕΡΑΝ ΧΗΡΕΥΣΑΣΑΝ
+* Ad viduam juniorem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΕΙΣ ΝΕΩΤΕΡΑΝ ΧΗΡΕΥΣΑΣΑΝ
 Ὅτι μὲν χαλεπὴν ἔλαβες τὴν πληγὴν καὶ ἐν καιρίῳ τὸ πεμφθὲν καὶ ἄνωθεν
 ἐδέξω βέλος, ἅπαντες ἄν σοι συνομολογήσαιεν καὶ οὐδὲ τῶν σφόδρα
 φιλοσοφούντων οὐδεὶς ἀντερεῖ· ἐπειδὴ δὲ τοὺς πληττομένους οὐκ εἰς πένθος καὶ

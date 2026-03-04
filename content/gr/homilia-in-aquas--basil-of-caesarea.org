@@ -1,17 +1,19 @@
-#+TITLE: ΕΙΣ ΤΑ Υ∆ΑΤΑ ΚΑΙ ΕΙΣ ΤΟ ΑΓΙΟΝ ΒΑΠΤΙΣΜΑ
+#+TITLE: Homilia in aquas
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in aquas
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-aquas--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΕΙΣ ΤΑ Υ∆ΑΤΑ ΚΑΙ ΕΙΣ ΤΟ ΑΓΙΟΝ ΒΑΠΤΙΣΜΑ
+* Homilia in aquas
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΕΙΣ ΤΑ Υ∆ΑΤΑ ΚΑΙ ΕΙΣ ΤΟ ΑΓΙΟΝ ΒΑΠΤΙΣΜΑ
 Τὸν λόγον χθὲς ἐπὶ τοὺς προφήτας καὶ πατριάρχας ἀπο σχολήσας, παρ'
 ὀλίγον κατέλιπον τοῦ θεοῦ τὰ δημιουργήματα *** πάντα γὰρ τοῖς ὕδασι καὶ λούεται
 καὶ ποτίζεται καὶ καθαρίζεται. καὶ μὲν τῶν ὑδάτων ἡ φύσις μία, πολυμερῶς δὲ διὰ

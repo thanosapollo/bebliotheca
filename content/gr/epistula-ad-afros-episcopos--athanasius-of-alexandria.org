@@ -1,6 +1,7 @@
-#+TITLE: ΤΩΝ ΚΑΤ' ΑΙΓΥΠΤΟΝ ΚΑΙ ΛΙΒΥΗΝ ΕΠΙΣΚΟΠΩΝ ΕΝΕΝΗΚΟΝΤΑ ΚΑΙ ΤΟΥ ΜΑΚΑΡΙΟΥ ΑΘΑΝΑΣΙΟΥ ΚΑΤΑ ΑΡΙΑΝΩΝ ΠΡΟΣ ΤΟΥΣ ΕΝ ΤΗ ΑΦΡΙΚΗ ΤΙΜΙΩΤΑΤΟΥΣ ΕΠΙΣΚΟΠΟΥΣ
+#+TITLE: Epistula ad Afros episcopos
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistula ad Afros episcopos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

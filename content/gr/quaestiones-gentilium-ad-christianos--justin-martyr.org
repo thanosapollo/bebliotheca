@@ -1,17 +1,20 @@
-#+TITLE: ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ EΡΩΤHΣEIΣ EΛΛHΝIΚAI ΠΡOΣ ΤOΥΣ ΧΡIΣΤIAΝOΥΣ
+#+TITLE: Quaestiones gentilium ad Christianos
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Quaestiones gentilium ad Christianos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quaestiones-gentilium-ad-christianos--justin-martyr
 #+LANGUAGE: el
 
-* ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ EΡΩΤHΣEIΣ EΛΛHΝIΚAI ΠΡOΣ ΤOΥΣ ΧΡIΣΤIAΝOΥΣ
+* Quaestiones gentilium ad Christianos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ
+EΡΩΤHΣEIΣ EΛΛHΝIΚAI ΠΡOΣ ΤOΥΣ ΧΡIΣΤIAΝOΥΣ
 περὶ τοῦ ἀσωμάτου καὶ περὶ τοῦ θεοῦ καὶ περὶ
 τῆς ἀναστάσεως τῶν νεκρῶν.
 α. Πόθεν δῆλον εἰ ἔστι τι ἀσώματον, καὶ εἰ ἔστιν ἀσώ

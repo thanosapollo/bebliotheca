@@ -1,17 +1,20 @@
-#+TITLE: <ΒΑΣΙΛΕΙΩΝ Α> ΠΕΡΙ ΤΟΥ ΕΖ ΑΜΑΛΗΚ ΛΕΟΝΤΟΣ Τὴν ἐξ ἱστορίας τελέσας βίβλον ὡς
+#+TITLE: BASILIAI
 #+AUTHOR: Ἰωσὴφ Γενέσιος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: BASILIAI
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/basiliai--joseph-genesius
 #+LANGUAGE: el
 
-* <ΒΑΣΙΛΕΙΩΝ Α> ΠΕΡΙ ΤΟΥ ΕΖ ΑΜΑΛΗΚ ΛΕΟΝΤΟΣ Τὴν ἐξ ἱστορίας τελέσας βίβλον ὡς
+* BASILIAI
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+<ΒΑΣΙΛΕΙΩΝ Α>
+ΠΕΡΙ ΤΟΥ ΕΖ ΑΜΑΛΗΚ ΛΕΟΝΤΟΣ Τὴν ἐξ ἱστορίας τελέσας βίβλον ὡς
 ἐκέλευσας, αὐτοκράτορ, μελέταις καὶ καμάτοις μεγάλοις, ἐν σοὶ δῶρον
 ἔθηκα, ὅπως ἐγνωσμένον εἴη ἐκ φιλοδεσποτίας συντεθὲν ἔκ τε πόθου.
 Προοίμιον

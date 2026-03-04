@@ -1,6 +1,7 @@
-#+TITLE: 1 Mt 1, 8 Ζητεῖται τίνος ἕνεκεν τούτων οὕτως ἐμνήσθη ὁ εὐαγγελιστής. δέον
+#+TITLE: Fragmenta in Matthaeum
 #+AUTHOR: Θεόδωρος Ἀναγνώστης
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Fragmenta in Matthaeum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

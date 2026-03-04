@@ -1,17 +1,19 @@
-#+TITLE: ΚΛΗΜΕΝΤΟΣ ΛΟΓΟΣ ΤΙΣ Ο ΣΩΙΖΟΜΕΝΟΣ ΠΛΟΥΣΙΟΣ
+#+TITLE: Quis dives salvetur
 #+AUTHOR: Κλήμης Ἀλεξανδρείας
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Quis dives salvetur
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quis-dives-salvetur--clement-of-alexandria
 #+LANGUAGE: el
 
-* ΚΛΗΜΕΝΤΟΣ ΛΟΓΟΣ ΤΙΣ Ο ΣΩΙΖΟΜΕΝΟΣ ΠΛΟΥΣΙΟΣ
+* Quis dives salvetur
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΚΛΗΜΕΝΤΟΣ ΛΟΓΟΣ ΤΙΣ Ο ΣΩΙΖΟΜΕΝΟΣ ΠΛΟΥΣΙΟΣ
 1.1 Οἱ μὲν τοὺς ἐγκωμιαστικοὺς λόγους τοῖς πλουσίοις δωροφο ροῦντες οὐ
 μόνον κόλακες καὶ ἀνελεύθεροι δικαίως ἂν ἔμοιγε κρίνεσθαι δοκοῖεν, ὡς ἐπὶ πολλῷ
 προσποιούμενοι χαρίσασθαι τὰ ἀχάριστα, 1.2 ἀλλὰ καὶ ἀσεβεῖς καὶ ἐπίβουλοι·

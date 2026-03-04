@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΕΠΗ. ΒΙΒΛΟΣ Αʹ. ΕΠΗ ΘΕΟΛΟΓΙΚΑ. ΤΟΜΗ Αʹ. ΕΠΗ ∆ΟΓΜΑΤΙΚΑ.
+#+TITLE: Carmina dogmatica
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Carmina dogmatica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/carmina-dogmatica--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΕΠΗ. ΒΙΒΛΟΣ Αʹ. ΕΠΗ ΘΕΟΛΟΓΙΚΑ. ΤΟΜΗ Αʹ. ΕΠΗ ∆ΟΓΜΑΤΙΚΑ.
+* Carmina dogmatica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΓΡΗΓΟΡΙΟΥ ΤΟΥ ΘΕΟΛΟΓΟΥ
+ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ ΕΠΗ.
+ΒΙΒΛΟΣ Αʹ. ΕΠΗ ΘΕΟΛΟΓΙΚΑ.
+ΤΟΜΗ Αʹ. ΕΠΗ ∆ΟΓΜΑΤΙΚΑ.
 Αʹ. Περὶ τοῦ Πατρός.
 Οἶδα μὲν ὡς σχεδίῃσι μακρὸν πλόον ἐκπερόωμεν, Ἢ τυτθαῖς πτερύγεσσι πρὸς
 οὐρανὸν ἀστερόεντα 398 Σπεύδομεν, οἷσιν ὄρωρε νόος Θεότητ' ἀναφαίνειν, Ἣν οὐδ'

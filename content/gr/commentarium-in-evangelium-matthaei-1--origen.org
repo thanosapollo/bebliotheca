@@ -1,17 +1,19 @@
-#+TITLE: Τῶν εἰς τὸ κατὰ Ματθαῖον <εὐαγγέλιον> ἐξηγητικῶν Ὠριγένους τόμος
+#+TITLE: Commentarium in evangelium Matthaei
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Commentarium in evangelium Matthaei
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarium-in-evangelium-matthaei-1--origen
 #+LANGUAGE: el
 
-* Τῶν εἰς τὸ κατὰ Ματθαῖον <εὐαγγέλιον> ἐξηγητικῶν Ὠριγένους τόμος
+* Commentarium in evangelium Matthaei
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τῶν εἰς τὸ κατὰ Ματθαῖον <εὐαγγέλιον> ἐξηγητικῶν Ὠριγένους τόμος
 ιβʹ.
 12.1 Καὶ προσελθόντες Σαδδουκαῖοι καὶ Φαρισαῖοι, πειρά ζοντες ἐπηρώτων αὐτὸν
 σημεῖον ἐκ τοῦ οὐρανοῦ ἐπιδεῖξαι αὐτοῖς (16, 1[–4]). Οἱ πρὸς ἀλλήλους

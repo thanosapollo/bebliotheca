@@ -1,17 +1,19 @@
-#+TITLE: ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΥΣ ΚΡΙΤΑΣ.
+#+TITLE: Selecta in Judices
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Selecta in Judices
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/selecta-in-judices--origen
 #+LANGUAGE: el
 
-* ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΥΣ ΚΡΙΤΑΣ.
+* Selecta in Judices
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΩΡΙΓΕΝΟΥΣ ΕΚΛΟΓΑΙ ΕΙΣ ΤΟΥΣ ΚΡΙΤΑΣ.
 =12.949= Καὶ εὔξατο Ἰεφθάε εὐχὴν τῷ Κυρίῳ. Εἰ Πνεῦμα Κυρίου ἐπ' αὐτὸν, πῶς εὔχεται
 ἃ μὴ προσήκει; Ἐνῆν γὰρ καὶ κύνα ἀπαντῆσαι ἐπανιόντι τῷ Ἰεφθάε. Ἆρ' οὖν ἐσφάλη
 τὸ Πνεῦμα; οὐδαμῶς· ἀλλὰ τὸ μὲν Πνεῦμα βοηθεῖν παραγέγονεν, οὐχ ὑποβάλλειν

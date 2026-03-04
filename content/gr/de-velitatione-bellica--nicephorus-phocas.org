@@ -1,17 +1,19 @@
-#+TITLE: ΠΕΡΙ ΠΑΡΑ∆ΡΟΜΗΣ ΤΟΥ ΚΥΡΟΥ ΝΙΚΗΦΟΡΟΥ ΤΟΥ ΒΑΣΙΛΕΩΣ
+#+TITLE: De velitatione bellica
 #+AUTHOR: Νικηφόρος Φωκᾶς
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: De velitatione bellica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-velitatione-bellica--nicephorus-phocas
 #+LANGUAGE: el
 
-* ΠΕΡΙ ΠΑΡΑ∆ΡΟΜΗΣ ΤΟΥ ΚΥΡΟΥ ΝΙΚΗΦΟΡΟΥ ΤΟΥ ΒΑΣΙΛΕΩΣ
+* De velitatione bellica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΠΕΡΙ ΠΑΡΑ∆ΡΟΜΗΣ ΤΟΥ ΚΥΡΟΥ ΝΙΚΗΦΟΡΟΥ ΤΟΥ ΒΑΣΙΛΕΩΣ
 πιναχ.1 Περὶ βιγλῶν καὶ πόσον διάστημα ὀφείλουσιν ἀπ' ἀλλήλων μία ἑκάστη
 διίστασθαι. πιναχ.2 Περὶ τῶν καμινοβιγλίων καὶ κατασκόπων. πιναχ.3 Περὶ
 κινήσεως ἐχθρῶν καὶ τοῦ προκατασχεθῆναι τὰς δυσχωρίας. πιναχ.4 Περὶ τοῦ

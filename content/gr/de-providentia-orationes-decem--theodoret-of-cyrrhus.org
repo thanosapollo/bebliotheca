@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΠΕΡΙ ΠΡΟΝΟΙΑΣ ΛΟΓΟΙ ∆ΕΚΑ. ΛΟΓΟΣ Αʹ. Ἀπόδειξις ἀπὸ οὐρανοῦ, καὶ ἡλίου, καὶ σε λήνης, καὶ τῶν λοιπῶν ἀστέρων.
+#+TITLE: De providentia orationes decem
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: De providentia orationes decem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-providentia-orationes-decem--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΠΕΡΙ ΠΡΟΝΟΙΑΣ ΛΟΓΟΙ ∆ΕΚΑ. ΛΟΓΟΣ Αʹ. Ἀπόδειξις ἀπὸ οὐρανοῦ, καὶ ἡλίου, καὶ σε λήνης, καὶ τῶν λοιπῶν ἀστέρων.
+* De providentia orationes decem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΜΑΚΑΡΙΟΥ ΘΕΟ∆ΩΡΗΤΟΥ ΕΠΙΣΚΟΠΟΥ ΚΥΡΟΥ ΠΕΡΙ ΠΡΟΝΟΙΑΣ ΛΟΓΟΙ
+∆ΕΚΑ.
+ΛΟΓΟΣ Αʹ.
+Ἀπόδειξις ἀπὸ οὐρανοῦ, καὶ ἡλίου, καὶ σε λήνης, καὶ τῶν λοιπῶν ἀστέρων.
 Νόμος ἐστὶ τοῖς ἀνθρώποις ὑπὸ τῆς φύσεως κεί μενος, καὶ παῖδας πατέρων ἀδικουμένων
 ὑπερμα χεῖν, καὶ δεσποτῶν οἰκέτας, καὶ πόλεων πολεμουμέ νων πολίτας
 προκινδυνεύειν, καὶ ἁπαξαπλῶς τοὺς εὖ πεπονθότας εἰς δύναμιν τοὺς εὐεργέτας

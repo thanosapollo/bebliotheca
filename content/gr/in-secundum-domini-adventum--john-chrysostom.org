@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὴν δευτέραν παρουσίαν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, καὶ εἰς τὸ,
+#+TITLE: In secundum domini adventum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In secundum domini adventum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-secundum-domini-adventum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν δευτέραν παρουσίαν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, καὶ εἰς τὸ,
+* In secundum domini adventum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν δευτέραν παρουσίαν τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, καὶ εἰς τὸ,
 "Πάντες παραστησόμεθα τῷ βήματι τοῦ Χριστοῦ, καὶ ἕκαστος ὑπὲρ
 ἑαυτοῦ λόγον δώσει τῷ Θεῷ."
 =59.619=

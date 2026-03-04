@@ -1,17 +1,20 @@
-#+TITLE: ΓΕΩΡΓΙΟΥ ΜΟΝΑΧΟΥ ΒΙΟΙ ΤΩΝ ΝΕΩΝ ΒΑΣΙΛΕΩΝ. ΒΑΣΙΛΕΙΑ ΛΕΟΝΤΟΣ ΤΟΥ ΑΡΜΕΝΙΟΥ.
+#+TITLE: Chronicon
 #+AUTHOR: Γεώργιος Μοναχὸς Συνεχιστής
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Chronicon
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronicon--george-monachus-continuatus
 #+LANGUAGE: el
 
-* ΓΕΩΡΓΙΟΥ ΜΟΝΑΧΟΥ ΒΙΟΙ ΤΩΝ ΝΕΩΝ ΒΑΣΙΛΕΩΝ. ΒΑΣΙΛΕΙΑ ΛΕΟΝΤΟΣ ΤΟΥ ΑΡΜΕΝΙΟΥ.
+* Chronicon
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΕΩΡΓΙΟΥ ΜΟΝΑΧΟΥ ΒΙΟΙ ΤΩΝ ΝΕΩΝ ΒΑΣΙΛΕΩΝ.
+ΒΑΣΙΛΕΙΑ ΛΕΟΝΤΟΣ ΤΟΥ ΑΡΜΕΝΙΟΥ.
 Τῷ #22 τιʹ ἔτει τοῦ κόσμου, τῆς δὲ θείας σαρκώσεως ωιʹ, ἐβασί λευσε Λέων
 Ἀρμένιος ὁ πατρίκιος, καὶ παραβάτης ὕστερον ἀνα φανείς, ἔτη ζʹ καὶ μῆνας εʹ,
 στεφθεὶς ὑπὸ Νικηφόρου πατριάρ χου. μετὰ γὰρ δύο χρόνους ἀποστατήσας πρὸς τὴν

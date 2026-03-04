@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἁγίου Ἐπιφανίου περὶ μέτρων καὶ σταθμῶν.
+#+TITLE: De mensuribus et ponderibus Excerptum Graecum 3
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De mensuribus et ponderibus Excerptum Graecum 3
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-mensuribus-et-ponderibus-excerptum-graecum-3--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου Ἐπιφανίου περὶ μέτρων καὶ σταθμῶν.
+* De mensuribus et ponderibus Excerptum Graecum 3
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου Ἐπιφανίου περὶ μέτρων καὶ σταθμῶν.
 Κόρος σίτου μόδιοι λʹ, ὃ κέκληται χώρ. Χὼρ λέγεται ἀπὸ τοῦ τῶν βουνῶν
 ὑποθέσεως οὕτω· χωρία γὰρ καλεῖται βουνός· βουνισθέντες γὰρ οἱ λʹ μόδιοι φορτίον
 ποιοῦσι καμήλου. Θεκὲλ [γρ. Λεθὲκ] κριθῆς μόδιοι ιεʹ, ὃ καλεῖται ἔπαρμα. Κάδος

@@ -1,17 +1,19 @@
-#+TITLE: 23 ζητεῖται δὲ ποταπὸν δεῖ νοῆσαι τὸ σχῆμα τῆς κιβω τοῦ· ὅπερ νομίζω, φησίν, ὅτι
+#+TITLE: Homiliae in Genesim
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Homiliae in Genesim
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homiliae-in-genesim--origen
 #+LANGUAGE: el
 
-* 23 ζητεῖται δὲ ποταπὸν δεῖ νοῆσαι τὸ σχῆμα τῆς κιβω τοῦ· ὅπερ νομίζω, φησίν, ὅτι
+* Homiliae in Genesim
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+23 ζητεῖται δὲ ποταπὸν δεῖ νοῆσαι τὸ σχῆμα τῆς κιβω τοῦ· ὅπερ νομίζω, φησίν, ὅτι
 πυραμοειδές ἐστιν, ἀρχόμενον ἀπὸ μήκους τʹ πήχεων, ἀπὸ δὲ πλάτους νʹ καὶ ἐπὶ λʹ
 τοῦ ὕψους πήχεις ἐπι συναγόμενον, ὥστε τὴν κορυφὴν γενέσθαι μήκους καὶ πλάτους
 πῆχυν. Ἔστω δὲ τὰ μὲν κάτω αὐτῆς, ἅπερ ὠνόμασται κατάγαια, ὀροφῶν βʹ, τὰ δὲ

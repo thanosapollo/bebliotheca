@@ -1,17 +1,20 @@
-#+TITLE: Περὶ ἐλεημοσύνης. 60.707
+#+TITLE: De eleemosyna
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De eleemosyna
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-eleemosyna-4--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ ἐλεημοσύνης. 60.707
+* De eleemosyna
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ ἐλεημοσύνης.
+=60.707=
 Οἱ λειμῶνες ἔχουσι ποικίλα καὶ διάφορα ἄνθη, καὶ τὰ μὲν εἰς τέρψιν ὀφθαλμῶν,
 τὰ δὲ εἰς εὐωδίαν, τὰ δὲ εἰς ἐπιμέλειαν, ἕκαστα δὲ αὐτῶν ἁρμόττει τῷ ἀνθρώπῳ· οὕτω
 καὶ ἡ Ἐκκλησία ἔχει τῶν θείων Γραφῶν τὴν ἀνάγνωσιν, εὐαγγελικά τε καὶ ἀποστολικὰ

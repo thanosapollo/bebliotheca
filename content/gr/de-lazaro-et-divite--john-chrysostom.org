@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν Λάζαρον καὶ εἰς τὸν πλούσιον, ὁμιλία ʹ. 59.591
+#+TITLE: De Lazaro et divite
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De Lazaro et divite
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-lazaro-et-divite--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν Λάζαρον καὶ εἰς τὸν πλούσιον, ὁμιλία ʹ. 59.591
+* De Lazaro et divite
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν Λάζαρον καὶ εἰς τὸν πλούσιον, ὁμιλία ʹ.
+=59.591=
 αʹ. Μέγιστόν ἐστι διδασκαλεῖον τὸ τῆς Ἐκκλησίας στάδιον, πλουσίων
 παιδευτήριον, πενήτων καταφύγιον. Φέρε τοίνυν, ἀγαπητοὶ, ἐπειδήπερ ἐν τῷ σκάμματι
 τῆς διδασκαλίας ἑστήκαμεν, τοῖς τοῦ προλαβόντος διδάγμασιν ἐξακολουθήσαντες, τὰ

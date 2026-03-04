@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἁγίου Ἀθανασίου· ὅτι ἡ ἐν Νικαίᾳ σύνοδος ἑωρακυῖα τὴν
+#+TITLE: De decretis Nicaenae synodi
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De decretis Nicaenae synodi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-decretis-nicaenae-synodi--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου Ἀθανασίου· ὅτι ἡ ἐν Νικαίᾳ σύνοδος ἑωρακυῖα τὴν
+* De decretis Nicaenae synodi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου Ἀθανασίου· ὅτι ἡ ἐν Νικαίᾳ σύνοδος ἑωρακυῖα τὴν
 πανουργίαν τῶν περὶ Εὐσέβιον ἐξέθετο πρεπόντως καὶ εὐσεβῶς κατὰ
 τῆς ἀρειανῆς αἱρέσεως τὰ ὁρισθέντα.
 1.1 Καλῶς ἐποίησας δηλώσας μοι τὴν γενομένην παρὰ σοῦ ζήτησιν πρὸς τοὺς

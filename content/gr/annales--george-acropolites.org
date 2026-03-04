@@ -1,17 +1,19 @@
-#+TITLE: ΓΕΩΡΓΙΟΥ ΤΟΥ ΑΚΡΟΠΟΛΙΤΟΥ ΧΡΟΝΙΚΗ ΣΥΓΓΡΑΦΗ.
+#+TITLE: Annales
 #+AUTHOR: Γεώργιος Ἀκροπολίτης
 #+FILETAGS: :byzantine:13c-ad:
+#+MIGNE_TITLE: Annales
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/annales--george-acropolites
 #+LANGUAGE: el
 
-* ΓΕΩΡΓΙΟΥ ΤΟΥ ΑΚΡΟΠΟΛΙΤΟΥ ΧΡΟΝΙΚΗ ΣΥΓΓΡΑΦΗ.
+* Annales
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΓΕΩΡΓΙΟΥ ΤΟΥ ΑΚΡΟΠΟΛΙΤΟΥ ΧΡΟΝΙΚΗ ΣΥΓΓΡΑΦΗ.
 1 Τὸ τῆς ἱστορίας χρήσιμον καὶ πρὸ ἡμῶν οἱ συγ γραψάμενοι διωρίσαντο, καὶ
 ἅπερ ἂν ἐκείνοις ἐπῆλθεν εἰπεῖν, ταῦτ' ἂν καὶ ἡμεῖς ἐρεῖν ἔχωμεν· τί γὰρ ἂν καὶ
 εὕροιμεν καινότερον νόημα τοσούτων ἱστορησάντων καὶ σύμπαν καλὸν τῆς

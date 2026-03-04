@@ -1,17 +1,19 @@
-#+TITLE: ...γραφ... φι̣λωνος τοῦ παρ' ̣εβραι̣οις σοφοῦ
+#+TITLE: Chronicon paschale
 #+AUTHOR: Χρονικὸν Πασχάλιον
 #+FILETAGS: :byzantine:7c-ad:
+#+MIGNE_TITLE: Chronicon paschale
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/chronicon-paschale--chronicon-paschale
 #+LANGUAGE: el
 
-* ...γραφ... φι̣λωνος τοῦ παρ' ̣εβραι̣οις σοφοῦ
+* Chronicon paschale
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+...γραφ... φι̣λωνος τοῦ παρ' ̣εβραι̣οις σοφοῦ
 8 ἀμέμπτους ἀρχιερέας, οιας ει̣ καιι μὴ ?* σιν ἑπόμενοι, ἀλλ' ουαν γε ἐν τῇ τοῦ
 πάσχα εὐκαιριμωτάτῃ παραφυλακῇ συνεφω̣νουν, ὡς ἐν ταιις ααλλαις αὐτῶν ἑορταιις.
 καιι μεθ' εατερα, αωστε ἐπιι τὸ ἀκινδυνότερον μᾶλλον καιι εὐφημότερον ἐχρῆν

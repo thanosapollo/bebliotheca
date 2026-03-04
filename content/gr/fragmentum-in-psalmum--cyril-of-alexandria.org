@@ -1,17 +1,19 @@
-#+TITLE: Κυρίλλου. Ἕπεται δέ τις αὐτοῖς ἐσθ' ὅτε καὶ οἰκτιρμὸς ὡς μὴ ταῖς ἴσαις τοῖς
+#+TITLE: Fragmentum in Psalmum
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Fragmentum in Psalmum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmentum-in-psalmum--cyril-of-alexandria
 #+LANGUAGE: el
 
-* Κυρίλλου. Ἕπεται δέ τις αὐτοῖς ἐσθ' ὅτε καὶ οἰκτιρμὸς ὡς μὴ ταῖς ἴσαις τοῖς
+* Fragmentum in Psalmum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Κυρίλλου. Ἕπεται δέ τις αὐτοῖς ἐσθ' ὅτε καὶ οἰκτιρμὸς ὡς μὴ ταῖς ἴσαις τοῖς
 ἀσεβέσιν κολάσεσιν περιπεσεῖν. Οὐκοῦν ἀναβιώσονται μὲν καὶ οὗτοι, πλὴν οὐκ ἐν
 βουλῇ δικαίων, βουλὴν δὲ δικαίων φησίν, οἷον τὴν τάξιν καὶ τὸ ἀξίωμα. εἰ γὰρ καὶ
 εἶέν τινες τῶν ἡμαρτηκότων ἢ ἐλέους ἢ συγγνώμης ἄξιοι, οὐκ ἂν τοῖς τῶν ἁγίων

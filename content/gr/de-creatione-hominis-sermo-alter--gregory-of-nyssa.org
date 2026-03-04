@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ Β ΕΙΣ ΤΟΝ ΑΝΘΡΩΠΟΝ
+#+TITLE: De creatione hominis sermo alter
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De creatione hominis sermo alter
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-creatione-hominis-sermo-alter--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Β ΕΙΣ ΤΟΝ ΑΝΘΡΩΠΟΝ
+* De creatione hominis sermo alter
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Β
+ΕΙΣ ΤΟΝ ΑΝΘΡΩΠΟΝ
 Ὁ μὲν σοφὸς Σολομὼν οὐκ ἐν πειθοῖς σοφίας λόγοις ἀλλ' ἐν διδακτοῖς
 πνεύματος ἁγίου σοφισθείς, ἐν τοῖς ἀρτίως ἡμῖν ἀνεγνωσμένοις ἀποσεμνύνων τὸν
 ἄνθρωπον ἐβόα λέγων· Μέγα ἄνθρωπος καὶ τίμιον ἀνὴρ ἐλεήμων· ἐγὼ δὲ ματαίως

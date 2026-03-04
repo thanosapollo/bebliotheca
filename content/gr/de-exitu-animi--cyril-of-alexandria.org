@@ -1,17 +1,21 @@
-#+TITLE: ΟΜΙΛΙΑ Ι∆ʹ Περὶ ἐξόδου ψυχῆς, καὶ περὶ τῆς δευτέρας παρουσίας. 77.1072
+#+TITLE: De exitu animi
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: De exitu animi
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-exitu-animi--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Ι∆ʹ Περὶ ἐξόδου ψυχῆς, καὶ περὶ τῆς δευτέρας παρουσίας. 77.1072
+* De exitu animi
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Ι∆ʹ
+Περὶ ἐξόδου ψυχῆς, καὶ περὶ τῆς δευτέρας παρουσίας.
+=77.1072=
 Φοβοῦμαι τὸν θάνατον, ὅτι πικρός μοί ἐστι. Φοβοῦμαι τὴν γέενναν, ὅτι
 ἀτελεύτητός ἐστι. Φοβοῦμαι τὸν τάρταρον, ὅτι οὐ μετέχει θέρμης. Φοβοῦμαι τὸ
 σκότος, ὅτι οὐ μετέχει φωτός. Φοβοῦμαι τὸν σκώληκα τὸν ἰοβόλον, ὅτι ἀτελεύτητός

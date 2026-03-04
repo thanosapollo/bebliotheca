@@ -1,17 +1,19 @@
-#+TITLE: 611 Eph 1,3–13 Ὁ εὐλογήσας ἡμᾶς. εὐλόγησε διὰ τοῦ υἱοῦ, ἐξελέξατο διὰ τοῦ υἱοῦ,
+#+TITLE: Fragmenta in epistulam ad Ephesios
 #+AUTHOR: Φώτιος Κωνσταντινουπόλεως
 #+FILETAGS: :byzantine:9c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Ephesios
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-epistulam-ad-ephesios--photius-of-constantinople
 #+LANGUAGE: el
 
-* 611 Eph 1,3–13 Ὁ εὐλογήσας ἡμᾶς. εὐλόγησε διὰ τοῦ υἱοῦ, ἐξελέξατο διὰ τοῦ υἱοῦ,
+* Fragmenta in epistulam ad Ephesios
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+611 Eph 1,3–13 Ὁ εὐλογήσας ἡμᾶς. εὐλόγησε διὰ τοῦ υἱοῦ, ἐξελέξατο διὰ τοῦ υἱοῦ,
 υἱοθέτησε διὰ τοῦ υἱοῦ, ἐχαρίτωσε διὰ τοῦ υἱοῦ. πῶς δὲ διὰ τοῦ υἱοῦ; ὦ θαῦμα· διὰ
 τοῦ αἵματος αὐτοῦ, φησίν. εἶδες πλοῦτον χάριτος; μᾶλλον δὲ περισσείαν καὶ ἄφατον
 ἔλεος; οὐ μόνον δὲ ταῦτα, ἀλλὰ καὶ ἐγνώρισεν ἡμῖν τὸ μυστήριον τοῦ θελήματος

@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ Ἡσυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ἅγιον Λογγῖνον τὸν ἑκατόνταρχον.
+#+TITLE: Homilia ii in sanctum Longinum centurionem
 #+AUTHOR: Ἡσύχιος Ἱεροσολύμων
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Homilia ii in sanctum Longinum centurionem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-ii-in-sanctum-longinum-centurionem--hesychius-of-jerusalem
 #+LANGUAGE: el
 
-* Τοῦ Ἡσυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ἅγιον Λογγῖνον τὸν ἑκατόνταρχον.
+* Homilia ii in sanctum Longinum centurionem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ Ἡσυχίου, πρεσβυτέρου Ἱεροσολύμων, ἐγκώμιον εἰς τὸν ἅγιον
+Λογγῖνον τὸν ἑκατόνταρχον.
 1 Οἱ τῆς ἀθλήσεως νικηταί, οἱ οὐρανοπολῖται, οἱ τοῦ Χριστοῦ στρατιῶται, οἱ
 τῆς βασιλείας κληρονόμοι, οἱ τοῦ κόσμου πρὸς κύ ριον πρεσβευταί, οἱ τῶν χερουβὶμ
 πάρεδροι καὶ νοσούντων ἰατροί, οἱ λεπρῶν καθαρισταὶ καὶ δαιμόνων φυγαδευταί, οἱ

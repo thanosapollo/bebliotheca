@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΕΙΣ ΤΟ Εὔξασθε, καὶ ἀποδῶτε Κυρίῳ τῷ Θεῷ ἡμῶν. 55.593
+#+TITLE: In Psalmum 75
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Psalmum 75
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-psalmum-75--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΕΙΣ ΤΟ Εὔξασθε, καὶ ἀποδῶτε Κυρίῳ τῷ Θεῷ ἡμῶν. 55.593
+* In Psalmum 75
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΕΙΣ ΤΟ Εὔξασθε, καὶ ἀποδῶτε Κυρίῳ τῷ Θεῷ ἡμῶν.
+=55.593=
 Οἱ μὲν τοῦ κόσμου τούτου διδάσκαλοι πρὸς τὴν τῶν γραμμάτων γνῶσιν τοὺς
 παῖδας ἀνάγουσιν· οἱ δὲ τῆς Ἐκκλησίας διδάσκαλοι πρὸς τὴν τῶν κατορθωμάτων
 τελείωσιν τοὺς μαθητὰς ἐκδιδάσκουσι. Καὶ ἔστιν, ἀγα =55.594= πητοὶ, καταμαθεῖν

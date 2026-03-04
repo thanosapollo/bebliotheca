@@ -1,17 +1,21 @@
-#+TITLE: ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ AΝAΤΡOΠH ∆OΓΜAΤΩΝ ΤIΝΩΝ AΡIΣΤOΤEΛIΚΩΝ. Τῶν κατὰ τὴν ἀνθρωπίνην σπουδὴν εἰς θεραπείαν τοῦ
+#+TITLE: Confutatio dogmatum quorundam Aristotelicorum
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Confutatio dogmatum quorundam Aristotelicorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/confutatio-dogmatum-quorundam-aristotelicorum--justin-martyr
 #+LANGUAGE: el
 
-* ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ AΝAΤΡOΠH ∆OΓΜAΤΩΝ ΤIΝΩΝ AΡIΣΤOΤEΛIΚΩΝ. Τῶν κατὰ τὴν ἀνθρωπίνην σπουδὴν εἰς θεραπείαν τοῦ
+* Confutatio dogmatum quorundam Aristotelicorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤOΥ AΓIOΥ IOΥΣΤIΝOΥ ΦIΛOΣOΦOΥ ΚAI ΜAΡΤΥΡOΣ
+AΝAΤΡOΠH ∆OΓΜAΤΩΝ ΤIΝΩΝ AΡIΣΤOΤEΛIΚΩΝ.
+Τῶν κατὰ τὴν ἀνθρωπίνην σπουδὴν εἰς θεραπείαν τοῦ
 θεοῦ ὑπὸ τῶν ἀνθρώπων γινομένων καλῶν οὐδὲν οὕτως ἐστὶ
 δεκτὸν τῷ θεῷ, ὡς τὸ κατὰ δύναμιν σπουδάζειν βελτίους ποιεῖν
 τοὺς ἀνθρώπους. Ταύτην οὖν τὴν προθυμίαν ἐν ὑμῖν, ὦ

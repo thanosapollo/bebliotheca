@@ -1,17 +1,22 @@
-#+TITLE: Τοῦ αὐτοῦ ἁγίου Ἰουστίνον Φιλοσόφου καὶ Μάρτυρος Ἀπολογία ὑπὲρ Χριστιανῶν πρὸς τὴν Ῥωμαίων Σύγκλητον.
+#+TITLE: Apologia secunda
 #+AUTHOR: Ἰουστῖνος ὁ Μάρτυς
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Apologia secunda
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/apologia-secunda--justin-martyr
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ ἁγίου Ἰουστίνον Φιλοσόφου καὶ Μάρτυρος Ἀπολογία ὑπὲρ Χριστιανῶν πρὸς τὴν Ῥωμαίων Σύγκλητον.
+* Apologia secunda
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ ἁγίου
+Ἰουστίνον Φιλοσόφου καὶ Μάρτυρος
+Ἀπολογία ὑπὲρ Χριστιανῶν
+πρὸς τὴν Ῥωμαίων Σύγκλητον.
 Καὶ τὰ χθὲς δὲ καὶ πρώην ἐν τῇ πόλει
 ὑμῶν γενόμενα ἐπὶ Oὐρβίκου, ὦ Ῥωμαῖοι, καὶ τὰ πανταχοῦ
 ὁμοίως ὑπὸ τῶν ἡγουμένων ἀλόγως πραττόμενα ἐξηνάγκασέ με

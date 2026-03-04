@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ αὐτοῦ λόγος εἰς τὸν ἅγιον Ἰωάννην τὸν Θεολόγον. 59.609
+#+TITLE: In Joannem theologum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Joannem theologum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-joannem-theologum--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ λόγος εἰς τὸν ἅγιον Ἰωάννην τὸν Θεολόγον. 59.609
+* In Joannem theologum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ λόγος εἰς τὸν ἅγιον Ἰωάννην τὸν Θεολόγον.
+=59.609=
 αʹ. Ἰωάννης ἐν Ἐφέσῳ τῆς Ἀσίας, Ἰωάννης τῆς Ἀσίτὸ καύχημα, μᾶλλον δὲ
 τῆς οἰκουμένης ὁ στῦλος, Ἰωάννης ὁ ἀγαπητὸς τοῦ Χριστοῦ μαθητὴς, καὶ τοῦ Θεοῦ
 Λόγου σάλπιγξ, τῶν Ἐφεσίων τὸ κλέος, καὶ τῶν περάτων ὁ κήρυξ, ἡ κιθάρα τῆς

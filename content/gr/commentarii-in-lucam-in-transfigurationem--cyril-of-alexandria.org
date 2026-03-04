@@ -1,17 +1,21 @@
-#+TITLE: ΟΜΙΛΙΑ Θʹ. Εἰς τὴν μεταμόρφωσιν τοῦ Κυρίου, καὶ Θεοῦ, καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ.
+#+TITLE: Commentarii in Lucam In transfigurationem
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Commentarii in Lucam In transfigurationem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-lucam-in-transfigurationem--cyril-of-alexandria
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Θʹ. Εἰς τὴν μεταμόρφωσιν τοῦ Κυρίου, καὶ Θεοῦ, καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ.
+* Commentarii in Lucam In transfigurationem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Θʹ.
+Εἰς τὴν μεταμόρφωσιν τοῦ Κυρίου, καὶ Θεοῦ, καὶ Σωτῆρος ἡμῶν
+Ἰησοῦ Χριστοῦ.
 =77.1009= Οἱ μὲν εὖ εἰδότες ἀθλεῖν, τῶν θεωμένων ἐφήδονται κρότοις, καὶ ταῖς
 τῶν βραβείων ἐλπίσιν ἀκονῶνται πρὸς τὴν αὐτοῖς πρέπουσαν νίκην. Οἱ δέ γε τῶν
 θείων χαρισμάτων ἐπιτυχεῖν γλιχόμενοι, καὶ τῆς τοῖς ἁγίοις ηὐτρεπισμένης ἐλπίδος

@@ -1,17 +1,19 @@
-#+TITLE: Εἰς τὴν ἄρνησιν Πέτρου, καὶ εἰς τὸν σταυρὸν, καὶ πῶς ὁ Ἰωσὴφ τύπος
+#+TITLE: De negatione Petri
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De negatione Petri
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-negatione-petri--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν ἄρνησιν Πέτρου, καὶ εἰς τὸν σταυρὸν, καὶ πῶς ὁ Ἰωσὴφ τύπος
+* De negatione Petri
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν ἄρνησιν Πέτρου, καὶ εἰς τὸν σταυρὸν, καὶ πῶς ὁ Ἰωσὴφ τύπος
 ἐγένετο τοῦ Χριστοῦ, ὁμιλία.
 =59.613=
 αʹ. Ἀναγκαῖον ἐν τῷ παρόντι καιρῷ καὶ τὸ χρέος τοῦ Ἰωσὴφ ἀποτῖσαι, καὶ τὸ

@@ -1,17 +1,19 @@
-#+TITLE: ∆Ι∆ΑΣΚΑΛΙΑ ΚΑΙ ΕΛΕΓΧΟΣ ΠΡΟΣ ΤΟΥΣ ΕΧΟΝΤΑΣ ΣΥΝΕΙΣΑΚΤΟΥΣ
+#+TITLE: Contra eos qui subintroductas habent virgines
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra eos qui subintroductas habent virgines
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-eos-qui-subintroductas-habent-virgines--john-chrysostom
 #+LANGUAGE: el
 
-* ∆Ι∆ΑΣΚΑΛΙΑ ΚΑΙ ΕΛΕΓΧΟΣ ΠΡΟΣ ΤΟΥΣ ΕΧΟΝΤΑΣ ΣΥΝΕΙΣΑΚΤΟΥΣ
+* Contra eos qui subintroductas habent virgines
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+∆Ι∆ΑΣΚΑΛΙΑ ΚΑΙ ΕΛΕΓΧΟΣ ΠΡΟΣ ΤΟΥΣ ΕΧΟΝΤΑΣ ΣΥΝΕΙΣΑΚΤΟΥΣ
 Ἐπὶ μὲν τῶν προγόνων τῶν ἡμετέρων δύο τινὲς ἦσαν προφάσεις αἱ τὰς
 γυναῖκας συγκατοικίζουσαι τοῖς ἀνδράσι· μία μὲν ἡ τοῦ γάμου, ἀρχαία τε καὶ δικαία
 καὶ εὔλογος, ἅτε τὸν Θεὸν ἔχουσα νομοθέτην· «Ἀντὶ γὰρ τούτου καταλείψει, φησὶν,

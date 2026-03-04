@@ -1,17 +1,19 @@
-#+TITLE: Ο ΛΟΓΟΣ ΕΙΣ ΤΑΣ ΕΠΙΓΡΑΦΑΣ ΤΩΝ ΑΝΑΒΑΘΜΩΝ
+#+TITLE: Oratio in inscriptione psalmorum graduum
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Oratio in inscriptione psalmorum graduum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-in-inscriptione-psalmorum-graduum--eustathius-of-antioch
 #+LANGUAGE: el
 
-* Ο ΛΟΓΟΣ ΕΙΣ ΤΑΣ ΕΠΙΓΡΑΦΑΣ ΤΩΝ ΑΝΑΒΑΘΜΩΝ
+* Oratio in inscriptione psalmorum graduum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ο ΛΟΓΟΣ ΕΙΣ ΤΑΣ ΕΠΙΓΡΑΦΑΣ ΤΩΝ ΑΝΑΒΑΘΜΩΝ
 33 ∆όξαν δὲ ἐπίκτητον ὁ Πατὴρ οὐκ ἐπιδέχεται, τέλειος, ἄπειρος,
 ἀπερινόητος ὢν, ἀπροσδεὴς κάλλους καὶ παντοίας εὐπρεπείας. Ἀλλ' οὐδὲ ὁ Λόγος
 αὐτοῦ, Θεὸς ὢν ὁ γεννηθεὶς ἐξ αὐτοῦ, δι' οὗ γεγόνασιν ἄγγελοι καὶ οὐρανοὶ καὶ γῆς

@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ Ι ʹ. Εἰς τὸ, «Ἐν ἀρχῇ ἦν ὁ Λόγος».
+#+TITLE: In illud In principio erat verbum
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud In principio erat verbum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-in-principio-erat-verbum--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Ι ʹ. Εἰς τὸ, «Ἐν ἀρχῇ ἦν ὁ Λόγος».
+* In illud In principio erat verbum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Ι ʹ.
+Εἰς τὸ, «Ἐν ἀρχῇ ἦν ὁ Λόγος».
 Πᾶσα μὲν ἡ τῶν Εὐαγγελίων φωνὴ μεγαλοφυε στέρα τῶν λοιπῶν τοῦ
 Πνεύματος διδαγμάτων, καθ' ὅτι ἐν ἐκείνοις μὲν διὰ τῶν δούλων ἡμῖν ἐλάλησε τῶν
 προφητῶν, ἐν δὲ τοῖς Εὐαγγελίοις αὐτοπροσώπως διελέχθη ἡμῖν ὁ ∆εσπότης. Αὐτοῦ

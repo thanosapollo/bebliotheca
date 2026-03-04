@@ -1,17 +1,20 @@
-#+TITLE: ΤΑ ΤΟΥ ∆ΙΑΛΟΓΟΥ ΠΡΟΣΩΠΑ ΦΙΛΟΣΟΦΙΑ ΚΑΙ ΙΣΤΟΡΙΑ. ΠΡΟΛΟΓΙΖΕΙ Η ΦΙΛΟΣΟΦΙΑ
+#+TITLE: Historiae
 #+AUTHOR: Θεοφύλακτος Σιμοκάττης
 #+FILETAGS: :byzantine:7c-ad:
+#+MIGNE_TITLE: Historiae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historiae--theophylact-simocatta
 #+LANGUAGE: el
 
-* ΤΑ ΤΟΥ ∆ΙΑΛΟΓΟΥ ΠΡΟΣΩΠΑ ΦΙΛΟΣΟΦΙΑ ΚΑΙ ΙΣΤΟΡΙΑ. ΠΡΟΛΟΓΙΖΕΙ Η ΦΙΛΟΣΟΦΙΑ
+* Historiae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΑ ΤΟΥ ∆ΙΑΛΟΓΟΥ ΠΡΟΣΩΠΑ ΦΙΛΟΣΟΦΙΑ ΚΑΙ ΙΣΤΟΡΙΑ. ΠΡΟΛΟΓΙΖΕΙ Η
+ΦΙΛΟΣΟΦΙΑ
 dialog.1.1 Τί τοῦτο, θύγατερ; ἄγε δή μοι τὸ διαπόρημα τοῦτο γλιχομένῃ
 μαθεῖν διάλυσαι οἷα μίτῳ τινὶ τῇ σαφηνείᾳ οὐ μυθικὸν περαιουμένῃ λαβύρινθον.
 δυσέμβατα γάρ μοι καὶ διαλογ.1.2 δυσανάγωγα τὰ τῆς θεωρίας προαύλια.

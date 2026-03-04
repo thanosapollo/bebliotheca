@@ -1,6 +1,7 @@
-#+TITLE: Ro+m 5,13®14 Προειπὼν ὅτι ἐπὶ τῇ ἁμαρτίᾳ τοῦ Ἀδὰμ καὶ ἐπὶ τῇ ἀποφάσει τοῦ
+#+TITLE: Fragmenta in epistulam ad Romanos
 #+AUTHOR: Διόδωρος Ταρσοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in epistulam ad Romanos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

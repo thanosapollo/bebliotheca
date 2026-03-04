@@ -1,17 +1,19 @@
-#+TITLE: ΟΜΙΛΙΑ Εἰς τὸ ἀποστολικὸν ῥητὸν τὸ λέγον· Τοῦτο δὲ γινώσκετε, ὅτι ἐν
+#+TITLE: In illud Hoc scitote quod in novissimis diebus
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In illud Hoc scitote quod in novissimis diebus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-illud-hoc-scitote-quod-in-novissimis-diebus--john-chrysostom
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Εἰς τὸ ἀποστολικὸν ῥητὸν τὸ λέγον· Τοῦτο δὲ γινώσκετε, ὅτι ἐν
+* In illud Hoc scitote quod in novissimis diebus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Εἰς τὸ ἀποστολικὸν ῥητὸν τὸ λέγον· Τοῦτο δὲ γινώσκετε, ὅτι ἐν
 ἐσχάταις ἡμέραις ἔσονται καιροὶ χαλεποί.
 =56.271=
 αʹ. Ἀσθενὴς μέν εἰμι καὶ πτωχὸς, καὶ διδασκαλικῶν ἄπειρος λόγων· ἀλλ' ὅταν

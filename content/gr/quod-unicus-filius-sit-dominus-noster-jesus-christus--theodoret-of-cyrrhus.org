@@ -1,17 +1,20 @@
-#+TITLE: Οτι καὶ μετὰ τὴν ἐνανθρώπησιν εἷς Υἱὸς ὁ Κύριος ἡμῶν Ἰησοῦς Χριστός.
+#+TITLE: Quod unicus filius sit dominus noster Jesus Christus
 #+AUTHOR: Θεοδώρητος Κύρρου
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Quod unicus filius sit dominus noster Jesus Christus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/quod-unicus-filius-sit-dominus-noster-jesus-christus--theodoret-of-cyrrhus
 #+LANGUAGE: el
 
-* Οτι καὶ μετὰ τὴν ἐνανθρώπησιν εἷς Υἱὸς ὁ Κύριος ἡμῶν Ἰησοῦς Χριστός.
+* Quod unicus filius sit dominus noster Jesus Christus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Οτι καὶ μετὰ τὴν ἐνανθρώπησιν εἷς Υἱὸς ὁ Κύριος ἡμῶν Ἰησοῦς
+Χριστός.
 Οἱ τὰς καθ' ἡμῶν συκοφαντίας συντεθεικότες εἰς δύο μερίζειν ἡμᾶς φασιν
 υἱοὺς τὸν ἕνα Κύριον ἡμῶν Ἰησοῦν Χριστόν. Ἡμεῖς δὲ τοσοῦτον ἀπέχομεν τοῦ
 ταῦτα φρονεῖν, ὅτι καὶ τοὺς ταῦτα λέγειν τολ μῶντας δυσσεβείας γραφόμεθα. Ἕνα

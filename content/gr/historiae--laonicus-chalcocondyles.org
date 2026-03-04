@@ -1,17 +1,19 @@
-#+TITLE: ΛΑΟΝΙΚΟΥ ΑΠΟ∆ΕΙΞΙΣ ΙΣΤΟΡΙΩΝ Α.
+#+TITLE: Historiae
 #+AUTHOR: Λαόνικος Χαλκοκονδύλης
 #+FILETAGS: :byzantine:15c-ad:
+#+MIGNE_TITLE: Historiae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historiae--laonicus-chalcocondyles
 #+LANGUAGE: el
 
-* ΛΑΟΝΙΚΟΥ ΑΠΟ∆ΕΙΞΙΣ ΙΣΤΟΡΙΩΝ Α.
+* Historiae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΑΟΝΙΚΟΥ ΑΠΟ∆ΕΙΞΙΣ ΙΣΤΟΡΙΩΝ Α.
 Λαονίκῳ Ἀθηναίῳ τῶν κατὰ τὸν βίον οἱ ἐς ἐπὶ θέαν τε καὶ ἀκοὴν ἀφιγμένων ἐς
 ἱστορίαν ξυγγέγραπται τάδε, ὥστε δὴ χρέος τοῦτο ἐκτινύναι τῇ φύσει ἅμα οἰόμενος
 καὶ μηδὲν αὐτῶν ἀκλεῶς ἔχειν ἐς τοὺς ἐπιγιγνομένους ξυνενεχθέντων, ὡς ἐμοὶ

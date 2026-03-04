@@ -1,17 +1,20 @@
-#+TITLE: ∆ημηγορία Κωνσταντίνου βασιλέως πρὸς τοὺς τῆς ἀνατολῆς στρατηγούς.
+#+TITLE: De contionibus militaribus
 #+AUTHOR: Κωνσταντῖνος Πορφυρογέννητος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: De contionibus militaribus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-contionibus-militaribus--constantine-porphyrogenitus
 #+LANGUAGE: el
 
-* ∆ημηγορία Κωνσταντίνου βασιλέως πρὸς τοὺς τῆς ἀνατολῆς στρατηγούς.
+* De contionibus militaribus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+∆ημηγορία Κωνσταντίνου βασιλέως πρὸς τοὺς τῆς ἀνατολῆς
+στρατηγούς.
 1 Καὶ τὸ πολλάκις ὑμῖν ὁμιλεῖν χωρὶς τινὸς εὐλόγου αἰτίας ἐπιθυμητὸν καὶ
 ἐπέραστον, ὥσπερ τὸ ἀπολιμπάνεσθαι τῆς μεθ' ὑμῶν προσλαλιᾶς λυπηρὸν καὶ
 ἐπώδυνον κατ' ἐμὲ καὶ κρίσιν ἐμήν· οὐ γὰρ οὕτως ἐγὼ τοὺς ἐμοὺς στρατιώτας φιλῶ

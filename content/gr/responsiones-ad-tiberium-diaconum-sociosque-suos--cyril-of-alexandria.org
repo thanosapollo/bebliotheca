@@ -1,6 +1,7 @@
-#+TITLE: 576 Πρὸς τοὺς λέγοντας, ὅτι ὁ Υἱὸς κατὰ μὲν τὴν ἀξίαν τῆς θεότητος συνῆν
+#+TITLE: Responsiones ad Tiberium diaconum sociosque suos
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Responsiones ad Tiberium diaconum sociosque suos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

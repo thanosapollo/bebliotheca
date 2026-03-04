@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ Βʹ.
+#+TITLE: Sermones 64
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermones 64
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermones-64--macarius-of-egypt
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ Βʹ.
+* Sermones 64
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Βʹ.
 2.1.1 Τῶν ἀκουόντων τὸν λόγον τοῦ θεοῦ καὶ ποιούντων ἀγαθὸν καρπὸν σημεῖα
 ἐν αὐτοῖς ταῦτά ἐστι στεναγμός, κλαυθμός, προσοχή, σιωπή, κατήφεια, ἐπιμονή, ἡσυχία,
 κεφαλῆς κίνησις, ὀδυνηρὸς κλαυθμός, πόνος καρδίας ὑπὲρ εὐσεβείας γινόμενος. τὰ δὲ

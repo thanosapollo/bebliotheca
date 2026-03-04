@@ -1,13 +1,14 @@
-#+TITLE: 115 XXIII. Ausfu+hrliche Fassung B Nr. 19a f. 130v16“131v21 b Nr. 19a f. 135v6136r34. Vgl. Dorries S.
+#+TITLE: Sermo 23 recensio completa
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Sermo 23 recensio completa
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-23-recensio-completa--macarius-of-egypt
 #+LANGUAGE: el
 
-* 115 XXIII. Ausfu+hrliche Fassung B Nr. 19a f. 130v16“131v21 b Nr. 19a f. 135v6136r34. Vgl. Dorries S.
+* Sermo 23 recensio completa
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:

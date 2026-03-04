@@ -1,17 +1,19 @@
-#+TITLE: 14.1308 Ὁ χαρακτὴρ τῆς λέξεως τῆς πρὸς Ἑβραίους ἐπιγεγραμμένης Ἐπιστολῆς οὐκ
+#+TITLE: Ex homiliis in epistulam ad Hebraeos
 #+AUTHOR: Ὠριγένης
 #+FILETAGS: :patristic:3c-ad:
+#+MIGNE_TITLE: Ex homiliis in epistulam ad Hebraeos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/ex-homiliis-in-epistulam-ad-hebraeos--origen
 #+LANGUAGE: el
 
-* 14.1308 Ὁ χαρακτὴρ τῆς λέξεως τῆς πρὸς Ἑβραίους ἐπιγεγραμμένης Ἐπιστολῆς οὐκ
+* Ex homiliis in epistulam ad Hebraeos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=14.1308= Ὁ χαρακτὴρ τῆς λέξεως τῆς πρὸς Ἑβραίους ἐπιγεγραμμένης Ἐπιστολῆς οὐκ
 ἔχει τὸ ἐν λόγῳ ἰδιωτι =14.1309= κὸν τοῦ Ἀποστόλου, ὁμολογήσαντος ἑαυτὸν ἰδιώτην
 εἶναι τῷ λόγῳ, τουτέστι, τῇ φράσει. Ἀλλὰ ἐστὶν ἡ Ἐπιστολὴ συνθέσει τῆς λέξεως
 ἑλληνικωτέρα, πᾶς ὁ ἐπιστάμενος κρίνειν φράσεων διαφορὰς, ὁμολογήσαι ἄν· πάλιν

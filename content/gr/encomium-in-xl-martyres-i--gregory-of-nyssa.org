@@ -1,6 +1,7 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΕΓΚΩΜΙΟΝ ΕΙΣ ΤΟΥΣ ΑΓΙΟΥΣ ΤΕΣΣΑΡΑΚΟΝΤΑ ΜΑΡΤΥΡΑΣ. ΛΟΓΟΣ Αʹ.
+#+TITLE: Encomium in xl martyres i
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Encomium in xl martyres i
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

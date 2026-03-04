@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν ἅγιον πρωτομάρτυρα Στέφανον. 59.699
+#+TITLE: In sanctum Stephanum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In sanctum Stephanum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-sanctum-stephanum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν ἅγιον πρωτομάρτυρα Στέφανον. 59.699
+* In sanctum Stephanum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν ἅγιον πρωτομάρτυρα Στέφανον.
+=59.699=
 Πάντες μὲν οἱ τῶν μαρτύρων ἀγῶνες ἐπίδοξοι, καὶ θαυμάζεται πανταχοῦ τῶν
 δικαίων ἡ ἄθλησις· ἀλλ' ὅπου τὸ περίβλεπτον ἄγεται Στεφάνου τοῦ πρωτομάρτυρος
 στάδιον, ἐκεῖ καὶ ἡ ἄφωνος γλῶττα πρὸς εὐφημίαν =59.700= διεγείρεται. Τίνα γὰρ οὐ

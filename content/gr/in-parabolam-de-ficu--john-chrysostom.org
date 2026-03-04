@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν παραβολὴν περὶ συκῆς, ὁμιλία. 59.585
+#+TITLE: In parabolam de ficu
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In parabolam de ficu
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-parabolam-de-ficu--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν παραβολὴν περὶ συκῆς, ὁμιλία. 59.585
+* In parabolam de ficu
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν παραβολὴν περὶ συκῆς, ὁμιλία.
+=59.585=
 αʹ. Ὀφθαλμὸς μὲν ὁρῶν ἢ δένδρον ἀνθοφόρον, ἢ πηγὴν ὑδροτόκον, ὑπ'
 αὐτῆς τῆς θέας ἕλκεται, καὶ τὸν τῆς καρδίας νοῦν μεταστρέφει ἐκεῖ. Ὁμοίως δὲ καὶ ὁ
 ἀκούων διὰ λόγων πράξεις καὶ ἱστορίας, πρὸς ἐκείνας τὴν διάνοιαν ἀνατείνει, ὡς

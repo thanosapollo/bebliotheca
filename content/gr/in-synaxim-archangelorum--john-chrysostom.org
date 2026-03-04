@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν σύναξιν τῶν ἀρχαγγέλων. 59.755
+#+TITLE: In synaxim archangelorum
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In synaxim archangelorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-synaxim-archangelorum--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν σύναξιν τῶν ἀρχαγγέλων. 59.755
+* In synaxim archangelorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν σύναξιν τῶν ἀρχαγγέλων.
+=59.755=
 Ἀγγέλους ἐγκωμιάζειν χρή. Καὶ γὰρ αὐτοὶ τὸν ∆ημιουργὸν ὑμνοῦντες, ἵλεων
 αὐτὸν καὶ εὐμενῆ τοῖς ἀνθρώποις παρέχουσιν. Ἀγγέλους δέ φημι, τοὺς ἡμετέρους
 συμμάχους, τοὺς κατὰ τῶν ἀντικειμένων δυνάμεων ἐκστρατεύοντας, ὧν εἷς ἐστιν ὁ

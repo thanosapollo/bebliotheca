@@ -1,17 +1,19 @@
-#+TITLE: 93.773 "Ἀντίγραφον ἐπιστολῆς." Πνεύματι πληροφορηθεὶς ὁ προφήτης, ὡς
+#+TITLE: Commentarii in Jeremiae epistulam
 #+AUTHOR: Ὀλυμπιόδωρος Διάκονος Ἀλεξανδρείας
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Commentarii in Jeremiae epistulam
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-jeremiae-epistulam--olympiodorus-of-alexandria
 #+LANGUAGE: el
 
-* 93.773 "Ἀντίγραφον ἐπιστολῆς." Πνεύματι πληροφορηθεὶς ὁ προφήτης, ὡς
+* Commentarii in Jeremiae epistulam
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=93.773= "Ἀντίγραφον ἐπιστολῆς." Πνεύματι πληροφορηθεὶς ὁ προφήτης, ὡς
 μέλλουσιν αἰχμάλωτοι γίνεσθαι, κελεύεται ὑπὸ τοῦ Θεοῦ καὶ πρὸ τῆς αἰχμαλωσίας
 γράψαι τὴν ἐπιστολὴν ἵνα, ὅταν γένωνται αἰχμάλωτοι, ἔχωσιν αὐτὴν ἐφόδιον εἰς τὸ
 μὴ ἀπατηθῆναι, καὶ προσκυνῆσαι τοῖς τῶν Βαβυλωνίων εἰδώλοις. =93.776= "Ἕως

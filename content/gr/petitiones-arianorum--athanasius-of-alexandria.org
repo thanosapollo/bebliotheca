@@ -1,17 +1,19 @@
-#+TITLE: Ἐντυχία γενομένη ἐν Ἀντιοχείᾳ Ἰωβιανῷ βασιλεῖ, παρὰ Λουκίου καὶ
+#+TITLE: Petitiones Arianorum
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Petitiones Arianorum
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/petitiones-arianorum--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* Ἐντυχία γενομένη ἐν Ἀντιοχείᾳ Ἰωβιανῷ βασιλεῖ, παρὰ Λουκίου καὶ
+* Petitiones Arianorum
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Ἐντυχία γενομένη ἐν Ἀντιοχείᾳ Ἰωβιανῷ βασιλεῖ, παρὰ Λουκίου καὶ
 Βερνικιανοῦ, καὶ ἑτέρων τινῶν Ἀρειανῶν, κατὰ Ἀθανασίου ἐπισκόπου
 Ἀλεξανδρείας. Πρώτη ἐντυχία, ἣν ἐποιήσαντο, ἀπερχομένου τοῦ
 βασιλέως εἰς κάμπον ἐν τῇ Ῥωμανησίᾳ πύλῃ.

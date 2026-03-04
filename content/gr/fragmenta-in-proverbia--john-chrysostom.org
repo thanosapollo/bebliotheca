@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΕΞΗΓΗΣΕΩΣ ΕΙΣ ΤΑΣ ΠΑΡΟΙΜΙΑΣ ΣΟΛΟΜΩΝΟΣ ΤΑ ΣΩΖΟΜΕΝΑ. ΚΕΦΑΛ. Α.
+#+TITLE: Fragmenta in Proverbia
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in Proverbia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-proverbia--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΕΞΗΓΗΣΕΩΣ ΕΙΣ ΤΑΣ ΠΑΡΟΙΜΙΑΣ ΣΟΛΟΜΩΝΟΣ ΤΑ ΣΩΖΟΜΕΝΑ. ΚΕΦΑΛ. Α.
+* Fragmenta in Proverbia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ
+ΕΞΗΓΗΣΕΩΣ ΕΙΣ ΤΑΣ ΠΑΡΟΙΜΙΑΣ ΣΟΛΟΜΩΝΟΣ ΤΑ ΣΩΖΟΜΕΝΑ.
+ΚΕΦΑΛ. Α.
 Γνῶναι σοφίαν καὶ παιδείαν. [ξοδ. φ. 1 β.] Τὴν σοφίαν τοῦ Θεοῦ λαμβάνει παρ'
 αὐτοῦ καὶ παιδείαν, ἐκμανθάνων δι' αὐτῆς τὰ τοῦ λόγου μυστήρια· καὶ οἱ ἐπιγνόντες
 τὴν ἀληθῆ καὶ ἐπουράνιον σοφίαν, εὐκόλως νοήσουσι τοὺς σοφοὺς παρ' αὐτῆς

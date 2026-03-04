@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὸν Φαρισαῖον ὁμιλία. 59.589
+#+TITLE: De pharisaeo
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De pharisaeo
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-pharisaeo--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὸν Φαρισαῖον ὁμιλία. 59.589
+* De pharisaeo
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὸν Φαρισαῖον ὁμιλία.
+=59.589=
 Ὥσπερ πατὴρ φιλότεκνος προσομιλεῖν τοῖς ἑαυτοῦ φιλτάτοις ὑπὸ τῆς
 οἰκείας ἀγάπης ἑλκόμενος, καὶ ὄντων νηπίων μὴ δυναμένων ἀκούειν τελείων
 ῥημάτων διὰ τὸ νηπιῶδες τῆς ἕξεως, ὁ πατὴρ ὑπαλλάξας τὴν φωνὴν, καὶ τὸ

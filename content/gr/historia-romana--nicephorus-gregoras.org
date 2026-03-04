@@ -1,17 +1,20 @@
-#+TITLE: ΝΙΚΗΦΟΡΟΥ ΤΟΥ ΓΡΗΓΟΡΑ ΡΩΜΑΙΚΗΣ ΙΣΤΟΡΙΑΣ ΛΟΓΟΣ Α.
+#+TITLE: Historia Romana
 #+AUTHOR: Νικηφόρος Γρηγορᾶς
 #+FILETAGS: :byzantine:14c-ad:
+#+MIGNE_TITLE: Historia Romana
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/historia-romana--nicephorus-gregoras
 #+LANGUAGE: el
 
-* ΝΙΚΗΦΟΡΟΥ ΤΟΥ ΓΡΗΓΟΡΑ ΡΩΜΑΙΚΗΣ ΙΣΤΟΡΙΑΣ ΛΟΓΟΣ Α.
+* Historia Romana
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΝΙΚΗΦΟΡΟΥ ΤΟΥ ΓΡΗΓΟΡΑ ΡΩΜΑΙΚΗΣ ΙΣΤΟΡΙΑΣ
+ΛΟΓΟΣ Α.
 αʹ. Τοῖς τῶν πάλαι καὶ μέχρις ἡμῶν γενομένων τοὺς βίους διὰ τῆς ἱστορίας
 ἀθανατίζουσι πλείστοις πολλάκις αὐτὸς ἐντυγχάνων, 1.4 καὶ θείαις τισὶ προτροπαῖς
 ἀκούων ὁμολογούντων ἐς τὴν τοιαύτην κεκινῆσθαι ἐγχείρησιν, μέχρι μέν τινος

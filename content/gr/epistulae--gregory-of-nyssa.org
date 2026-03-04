@@ -1,17 +1,19 @@
-#+TITLE: Φλαβιανῷ ἐπισκόπῳ
+#+TITLE: Epistulae
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Epistulae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistulae--gregory-of-nyssa
 #+LANGUAGE: el
 
-* Φλαβιανῷ ἐπισκόπῳ
+* Epistulae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Φλαβιανῷ ἐπισκόπῳ
 1.1 Οὐκ ἐν καλοῖς, ὦ ἄνθρωπε τοῦ θεοῦ, τὰ ἡμέτερα· προϊ όντα γὰρ τὰ κακὰ
 ἐν τοῖς τὸ ἄδικόν τε καὶ ἀπροφάσιστον καθ' ἡμῶν κινήσασι μῖσος οὐκέτι διὰ
 στοχασμῶν τινων ὑπονοεῖται, ἀλλ' ἐν παρρησίᾳ σπουδάζεται, καθάπερ τι 1.2 τῶν

@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ Κ∆ʹ. Κατὰ Σαβελλιανῶν, καὶ Ἀρείου, καὶ τῶν Ἀνομοίων.
+#+TITLE: Contra Sabellianos et Arium et Anomoeos
 #+AUTHOR: Βασίλειος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Contra Sabellianos et Arium et Anomoeos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/contra-sabellianos-et-arium-et-anomoeos--basil-of-caesarea
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Κ∆ʹ. Κατὰ Σαβελλιανῶν, καὶ Ἀρείου, καὶ τῶν Ἀνομοίων.
+* Contra Sabellianos et Arium et Anomoeos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Κ∆ʹ.
+Κατὰ Σαβελλιανῶν, καὶ Ἀρείου, καὶ τῶν Ἀνομοίων.
 Μάχεται Ἰουδαϊσμὸς Ἑλληνισμῷ, καὶ ἀμφότεροι Χριστιανισμῷ, ὥσπερ
 Αἰγύπτιοι καὶ Ἀσσύριοι καὶ ἀλλήλοις ἦσαν πολέμιοι καὶ τῷ Ἰσραήλ· ὡς καὶ ἐπὶ τῆς
 κακίας εὑρίσκομεν δειλίαν καὶ θράσος καὶ ἀλλήλοις ἀντικείμενα, καὶ τῇ ἀνδρίᾳ.

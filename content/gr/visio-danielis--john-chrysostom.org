@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου λόγος ἐκ τὴν
+#+TITLE: Visio Danielis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Visio Danielis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/visio-danielis--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου λόγος ἐκ τὴν
+* Visio Danielis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου λόγος ἐκ τὴν
 ὅρασιν τοῦ ∆ανιήλ.
 Ἄκουσον, οὐρανέ, μετὰ ἀκριβᾶς, πῶς οἱ τέσσαρες βασιλεῖες μετ' ἀλλήλων
 συνήχθησαν· Αἰθίωπες, Μακεδόνες, Ἕλληνες καὶ Ῥωμαῖοι. τοῦτοί εἰσιν οἱ τέσσαροι

@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ ΕΠΙΣΤΟΛΗΝ.
+#+TITLE: In epistulam ad Colossenses
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In epistulam ad Colossenses
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-epistulam-ad-colossenses--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ ΕΠΙΣΤΟΛΗΝ.
+* In epistulam ad Colossenses
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ ΥΠΟΜΝΗΜΑ ΕΙΣ ΤΗΝ
+ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ ΕΠΙΣΤΟΛΗΝ.
 ΟΜΙΛΙΑ Αʹ. Παῦλος ἀπόστολος Ἰησοῦ Χριστοῦ διὰ θε λήματος Θεοῦ, καὶ
 Τιμόθεος ὁ ἀδελφὸς, τοῖς ἐν Κολοσσαῖς ἁγίοις καὶ πιστοῖς ἀδελφοῖς ἐν
 Χριστῷ, χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ Πα τρὸς ἡμῶν, καὶ Κυρίου Ἰησοῦ

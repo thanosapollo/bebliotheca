@@ -1,17 +1,20 @@
-#+TITLE: ΟΜΙΛΙΑ Α ΠΕΡΙ ΤΗΣ ΤΟΥ ΑΝΘΡΩΠΟΥ ΓΕΝΕΣΕΩΣ ΚΑΙ ΕΙΣ ΤΟ ΚΑΤ' ΕΙΚΟΝΑ ΚΑΙ
+#+TITLE: De creatione hominis sermo primus
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De creatione hominis sermo primus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-creatione-hominis-sermo-primus--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΟΜΙΛΙΑ Α ΠΕΡΙ ΤΗΣ ΤΟΥ ΑΝΘΡΩΠΟΥ ΓΕΝΕΣΕΩΣ ΚΑΙ ΕΙΣ ΤΟ ΚΑΤ' ΕΙΚΟΝΑ ΚΑΙ
+* De creatione hominis sermo primus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΟΜΙΛΙΑ Α
+ΠΕΡΙ ΤΗΣ ΤΟΥ ΑΝΘΡΩΠΟΥ ΓΕΝΕΣΕΩΣ ΚΑΙ ΕΙΣ ΤΟ ΚΑΤ' ΕΙΚΟΝΑ ΚΑΙ
 ΚΑΘ' ΟΜΟΙΩΣΙΝ
 Παλαιοῦ χρέους ἔκτισιν ἀποπληρώσων ἥκω, οὗ τὴν ἀπόδοσιν ἀνεβαλόμην
 οὐκ ἀγνωμοσύνῃ προαιρέσεως ἀλλ' ἀσθενείᾳ σώματος, χρέος ἀναγκαιότατον καὶ

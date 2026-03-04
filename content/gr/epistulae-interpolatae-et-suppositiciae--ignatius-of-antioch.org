@@ -1,6 +1,7 @@
-#+TITLE: ΑΙ ΑΥΤΑΙ ΕΠΙΣΤΟΛΑΙ ΕΠΙ∆ΙΩΡΘΩΜΕΝΑΙ ΠΡOΣ EΦEΣIOΥΣ.
+#+TITLE: Epistulae interpolatae et suppositiciae
 #+AUTHOR: Ἰγνάτιος Ἀντιοχείας
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Epistulae interpolatae et suppositiciae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

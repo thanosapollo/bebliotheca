@@ -1,17 +1,19 @@
-#+TITLE: 1.5 Ἀνεγνώσθη Εὐναπίου Χρονικῆς ἱστορίας τῆς μετὰ ∆έξιππον νέας
+#+TITLE: Fragmenta historica
 #+AUTHOR: Εὐνάπιος Σαρδιανός
 #+FILETAGS: :imperial:4c-ad:
+#+MIGNE_TITLE: Fragmenta historica
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-historica--eunapius-of-sardis
 #+LANGUAGE: el
 
-* 1.5 Ἀνεγνώσθη Εὐναπίου Χρονικῆς ἱστορίας τῆς μετὰ ∆έξιππον νέας
+* Fragmenta historica
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1.5 Ἀνεγνώσθη Εὐναπίου Χρονικῆς ἱστορίας τῆς μετὰ ∆έξιππον νέας
 ἐκδόσεως ἐν βιβλίοις τεσσαρεσκαίδεκα. ἄρχεται μὲν τῆς ἱστορίας ἀπὸ τῆς Κλαυδίου
 βασιλείας, ἐς ὃν ∆εξίππῳ ἡ ἱστορία καταλήγει, ἀποτελευτᾷ δὲ εἰς τὴν Ὁνωρίου καὶ
 Ἀρκαδίου τῶν Θεοδοσίου παίδων βασιλείαν, ἐκεῖνον τὸν χρόνον τέλος τῆς ἱστορίας

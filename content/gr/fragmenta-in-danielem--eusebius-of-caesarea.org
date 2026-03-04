@@ -1,17 +1,19 @@
-#+TITLE: 24.525 βʹ. Εὐσεβίου Καισαρείας ῥητοῦ προκειμένου, Φωνὴ Κυρίου
+#+TITLE: Fragmenta in Danielem
 #+AUTHOR: Εὐσέβιος Καισαρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Fragmenta in Danielem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/fragmenta-in-danielem--eusebius-of-caesarea
 #+LANGUAGE: el
 
-* 24.525 βʹ. Εὐσεβίου Καισαρείας ῥητοῦ προκειμένου, Φωνὴ Κυρίου
+* Fragmenta in Danielem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+=24.525= βʹ. Εὐσεβίου Καισαρείας ῥητοῦ προκειμένου, Φωνὴ Κυρίου
 διακόπτοντος φλόγα πυρός.
 ∆ιεκόπη μὲν ἐν τῇ Βαβυλῶνι ἡ φλὸξ τοῦ πυρὸς διακοπεῖσα τῷ προστάγματι
 τοῦ Θεοῦ· ἐδέξατο ἐν αὐτῇ ἡδίστην ἀναπνοὴν καὶ ἀναψυχὴν, ὥσπερ ἐν σκιᾷ τινι

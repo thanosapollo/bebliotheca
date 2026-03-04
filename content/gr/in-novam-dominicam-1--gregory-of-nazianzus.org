@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ Μ∆ʹ. Εἰς τὴν καινὴν Κυριακήν.
+#+TITLE: In novam Dominicam 1
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In novam Dominicam 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-novam-dominicam-1--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ Μ∆ʹ. Εἰς τὴν καινὴν Κυριακήν.
+* In novam Dominicam 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ Μ∆ʹ.
+Εἰς τὴν καινὴν Κυριακήν.
 Αʹ. Ἐγκαίνια τιμᾶσθαι, παλαιὸς νόμος, καὶ καλῶς ἔχων· μᾶλλον δὲ, τὰ νέα
 τιμᾶσθαι δι' Ἐγκαινίων· καὶ τοῦτο, οὐχ ἅπαξ, ἀλλὰ καὶ πολλάκις, ἑκά στης τοῦ
 ἐνιαυτοῦ περιτροπῆς τὴν αὐτὴν ἡμέραν ἐπαγούσης, ἵνα μὴ ἐξίτηλα τῷ χρόνῳ

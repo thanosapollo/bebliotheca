@@ -1,17 +1,20 @@
-#+TITLE: Περὶ σωτηρίας ψυχῆς. 60.735
+#+TITLE: De salute animae
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De salute animae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-salute-animae--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ σωτηρίας ψυχῆς. 60.735
+* De salute animae
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ σωτηρίας ψυχῆς.
+=60.735=
 Ἀγαπητοὶ, ὅσοι τὰ τοῦ βίου μάταια καὶ ἀπολλύμενα πράγματα κατελίπετε,
 ἀγωνίσασθε, ἵνα μὴ πάλιν ἐπ' αὐτὰ τὸν ὑμέτερον νοῦν ἐπιστρέψητε. Ὁ γὰρ πλοῦτος
 παρέρχεται, καὶ ἡ δόξα ἀπόλλυται, καὶ τὸ κάλλος μαραίνεται, καὶ πάντα

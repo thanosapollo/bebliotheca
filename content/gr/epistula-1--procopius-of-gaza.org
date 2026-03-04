@@ -1,17 +1,19 @@
-#+TITLE: Αὐτὰς ὄντως ἐπὶ τῆς γλώττης φέρεις τὰς Χάριτας, καί μοι δοκεῖς ὡς τέμενος αὐτῶν,
+#+TITLE: Epistula
 #+AUTHOR: Προκόπιος Γάζης
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Epistula
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/epistula-1--procopius-of-gaza
 #+LANGUAGE: el
 
-* Αὐτὰς ὄντως ἐπὶ τῆς γλώττης φέρεις τὰς Χάριτας, καί μοι δοκεῖς ὡς τέμενος αὐτῶν,
+* Epistula
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Αὐτὰς ὄντως ἐπὶ τῆς γλώττης φέρεις τὰς Χάριτας, καί μοι δοκεῖς ὡς τέμενος αὐτῶν,
 καὶ νεὼς ἐνταῦθά που σοι καθίδρυται καὶ θέλγει τὰς θεάς, ψυχὴ καθαρῷ πλήκτρῳ
 ποικίλως ὑπηχοῦσα τῇ γλώττῃ· ὅθεν χαίρουσι ταύτῃ μᾶλλον ἢ Νάξον ὁρῶσαι, ἣν καὶ
 νῆσον εἶναι Χαρίτων λόγος κατέχει· ἔνθα καὶ ∆ιόνυσος τῆς Ἀριάδνης ἡττήθη καὶ

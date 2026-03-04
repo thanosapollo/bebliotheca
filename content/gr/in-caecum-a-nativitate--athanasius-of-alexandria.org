@@ -1,17 +1,20 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΟΜΙΛΙΑ ΕΙΣ ΤΟΝ ΕΚ ΓΕΝΕΤΗΣ ΤΥΦΛΟΝ
+#+TITLE: In caecum a nativitate
 #+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In caecum a nativitate
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-caecum-a-nativitate--athanasius-of-alexandria
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΟΜΙΛΙΑ ΕΙΣ ΤΟΝ ΕΚ ΓΕΝΕΤΗΣ ΤΥΦΛΟΝ
+* In caecum a nativitate
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΑΘΑΝΑΣΙΟΥ ΟΜΙΛΙΑ ΕΙΣ ΤΟΝ ΕΚ
+ΓΕΝΕΤΗΣ ΤΥΦΛΟΝ
 Πολυσπούδαστόν ἐστι πᾶσιν ἀνθρώποις τὸ τῶν γονέων γλύκασμα, γνήσιον,
 ποθητὸν, παντὸς χρυσίου τιμιώτερον. Οὐκ ἔστιν ἐν τῷ παρόντι βίῳ γονεῦσιν
 ἀντισταθμιζόμενον κτῆμα. Χρυσὸς πολλάκις ἀπόλλυται· γονέων δὲ φίλτρον οὐ

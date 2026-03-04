@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ ἁγίου Κυρίλλου ἐκ τοῦ πρὸς Ἀλεξανδρέας προσφωνητικοῦ λόγου
+#+TITLE: Sermo prosphoneticus ad Alexandrinos de fide
 #+AUTHOR: Κύριλλος Ἀλεξανδρείας
 #+FILETAGS: :patristic:5c-ad:
+#+MIGNE_TITLE: Sermo prosphoneticus ad Alexandrinos de fide
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/sermo-prosphoneticus-ad-alexandrinos-de-fide--cyril-of-alexandria
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου Κυρίλλου ἐκ τοῦ πρὸς Ἀλεξανδρέας προσφωνητικοῦ λόγου
+* Sermo prosphoneticus ad Alexandrinos de fide
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου Κυρίλλου ἐκ τοῦ πρὸς Ἀλεξανδρέας προσφωνητικοῦ λόγου
 περὶ πίστεως.
 Ἐγὼ τὸ συγκεκραμμένον οὐ καταδέχομαι· ἀλλότριον γάρ ἐστι τῆς
 ἀποστολικῆς πίστεως καὶ τῆς τοῦ Θεοῦ ὀρθῆς παραδόσεως· ἡ γὰρ σύγκρασις

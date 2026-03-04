@@ -1,6 +1,7 @@
-#+TITLE: ΟΣΙΟΥ ΠΑΤΡΟΣ ΗΜΩΝ ΤΟΥ ΝΕΟΥ ΘΕΟΛΟΓΟΥ ΕΡΓΑ ΤΟΜΟΣ ΤΡΙΤΟΣ (Γ) ΥΜΝΟΙ ΕΠΙΣΤΟΛΑΙ
+#+TITLE: Epistulae
 #+AUTHOR: Συμεὼν ὁ Νέος Θεολόγος
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Epistulae
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

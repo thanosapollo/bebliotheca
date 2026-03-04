@@ -1,17 +1,19 @@
-#+TITLE: 1 Τῷ δὲ μόνῳ βεβαίῳ καὶ ἀληθεῖ διδασκάλῳ ἑπόμενος τῷ Λόγῳ Θεοῦ Ἰησοῦ Χριστῷ
+#+TITLE: Adversus haereses liber 5
 #+AUTHOR: Εἰρηναῖος Λυών
 #+FILETAGS: :patristic:2c-ad:
+#+MIGNE_TITLE: Adversus haereses liber 5
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/adversus-haereses-liber-5--irenaeus-of-lyon
 #+LANGUAGE: el
 
-* 1 Τῷ δὲ μόνῳ βεβαίῳ καὶ ἀληθεῖ διδασκάλῳ ἑπόμενος τῷ Λόγῳ Θεοῦ Ἰησοῦ Χριστῷ
+* Adversus haereses liber 5
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+1 Τῷ δὲ μόνῳ βεβαίῳ καὶ ἀληθεῖ διδασκάλῳ ἑπόμενος τῷ Λόγῳ Θεοῦ Ἰησοῦ Χριστῷ
 τῷ Κυρίῳ ἡμῶν, τῷ διὰ τὴν ὑπερβάλλουσαν αὐτοῦ ἀγάπην γεγονότι τοῦτο ὅπερ
 ἐσμέν, ἵνα ἡμᾶς εἶναι καταρτίσῃ ἐκεῖνο ὅπερ ἐστὶν αὐτός. Οὐ γὰρ ἄλλως ἡμεῖς
 μαθεῖν ἐδυνάμεθα τὰ τοῦ Θεοῦ, εἰ μὴ ὁ διδάσκαλος ἡμῶν, Λόγος ὤν, ἄνθρωπος

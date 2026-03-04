@@ -1,17 +1,20 @@
-#+TITLE: Νεμεσίου ἐπισκόπου Ἐμέσης λόγος κεφαλαίωδης περὶ φύσεως ἀνθρώπου
+#+TITLE: De natura hominis
 #+AUTHOR: Νεμέσιος Ἐμέσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De natura hominis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-natura-hominis--nemesius-of-emesa
 #+LANGUAGE: el
 
-* Νεμεσίου ἐπισκόπου Ἐμέσης λόγος κεφαλαίωδης περὶ φύσεως ἀνθρώπου
+* De natura hominis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Νεμεσίου ἐπισκόπου Ἐμέσης λόγος κεφαλαίωδης περὶ φύσεως
+ἀνθρώπου
 1 Τὸν ἄνθρωπον ἐκ ψυχῆς νοερᾶς καὶ σώματος ἄριστα κατεσκευασμένον καὶ οὕτω
 καλῶς ὡς οὐκ ἐνεδέχετο ἄλλως γενέσθαι συνεστάναι, πολλοῖς καὶ ἀγαθοῖς ἀνδράσιν
 ἔδοξεν. ἐκ τοῦ δὲ νοερὰν λέγεσθαι τὴν ψυχὴν ἀμφιβολίαν ἔχοντος πότερον

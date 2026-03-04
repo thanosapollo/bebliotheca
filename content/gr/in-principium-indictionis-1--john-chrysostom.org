@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τὴν ἀρχὴν τῆς ἰνδίκτου. 59.673
+#+TITLE: In principium indictionis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In principium indictionis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-principium-indictionis-1--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τὴν ἀρχὴν τῆς ἰνδίκτου. 59.673
+* In principium indictionis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τὴν ἀρχὴν τῆς ἰνδίκτου.
+=59.673=
 Θαυμασταὶ τῶν ὀρθοδόξων αἱ πανηγύρεις, φαιδραὶ τῶν μαρτύρων αἱ μνῆμαι,
 ἀνεπαίσχυντοι τῶν εὐσεβῶν αἱ εὐωχίαι. Οὐχ ἑορτάζομεν χρόνον τῶν ἀστάτως
 κινουμένων· οὐ σεβόμεθα ἐνιαυτὸν, τὴν τῆς ἀνθρώπων ζωῆς δαπάνην· οὐ

@@ -1,17 +1,20 @@
-#+TITLE: Εἰς τοὺς ἁγίους δώδεκα ἀποστόλους. 59.495
+#+TITLE: In duodecim apostolos
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In duodecim apostolos
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-duodecim-apostolos--john-chrysostom
 #+LANGUAGE: el
 
-* Εἰς τοὺς ἁγίους δώδεκα ἀποστόλους. 59.495
+* In duodecim apostolos
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εἰς τοὺς ἁγίους δώδεκα ἀποστόλους.
+=59.495=
 Εἰκότως καὶ τήμερον ἐπὶ φοιτήσει τοῦ ἁγίου Πνεύματος ἡ τῶν ἁλιέων αὕτη
 πεπλήρωται σαγήνη, αὐτοκελεύστως ἐν αὐτῇ τῶν λογικῶν ἰχθύων ἡμῶν
 εἰσπηδώντων. Ὁ γὰρ λόγος τοῦ Λόγου τοὺς ἀγραμμάτους σοφίσας, καὶ γλώσσαις

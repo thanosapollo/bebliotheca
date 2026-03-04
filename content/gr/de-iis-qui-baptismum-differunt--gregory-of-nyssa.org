@@ -1,17 +1,19 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΓΡΗΓΟΡΙΟΥ ΠΡΟΣ ΤΟΥΣ ΒΡΑ∆ΥΝΟΝΤΑΣ ΕΙΣ ΤΟ ΒΑΠΤΙΣΜΑ.
+#+TITLE: De iis qui baptismum differunt
 #+AUTHOR: Γρηγόριος Νύσσης
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De iis qui baptismum differunt
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-iis-qui-baptismum-differunt--gregory-of-nyssa
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΓΡΗΓΟΡΙΟΥ ΠΡΟΣ ΤΟΥΣ ΒΡΑ∆ΥΝΟΝΤΑΣ ΕΙΣ ΤΟ ΒΑΠΤΙΣΜΑ.
+* De iis qui baptismum differunt
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΓΡΗΓΟΡΙΟΥ ΠΡΟΣ ΤΟΥΣ ΒΡΑ∆ΥΝΟΝΤΑΣ ΕΙΣ ΤΟ ΒΑΠΤΙΣΜΑ.
 Οἱ τῆς οἰκουμένης ταύτης βασιλεῖς, ἡνίκα ἂν νόμους συγγράψωσι τοὺς τῶν
 ἀνθρώπων βίους καλῶς κα νονίζοντας, τοῖς ἄρχουσιν αὐτοὺς ἐγχειρίζοντες, δι'
 ἐκείνων κελεύουσι τοῖς ὑπηκόοις δημοσιεύεσθαι, ἵν' οὕτως ἀπαράβατα τὰ

@@ -1,17 +1,19 @@
-#+TITLE: ΥΠΟΘΕΣΙΣ
+#+TITLE: Commentarii in Job
 #+AUTHOR: Ὀλυμπιόδωρος Διάκονος Ἀλεξανδρείας
 #+FILETAGS: :byzantine:6c-ad:
+#+MIGNE_TITLE: Commentarii in Job
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarii-in-job--olympiodorus-of-alexandria
 #+LANGUAGE: el
 
-* ΥΠΟΘΕΣΙΣ
+* Commentarii in Job
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΥΠΟΘΕΣΙΣ
 Πολλὰ τοῖς παλαιοτέροις ἔδοξε περὶ τῆς προκειμένης συγγραφῆς· οἱ μὲν γὰρ τοῦ
 ἀνδρὸς ὑπεραπολογούμενοι λέγουσιν, ὅτι πρὸ τῆς χάριτος γεγονὼς καὶ μηδὲν
 ἐλπίζων ἔσεσθαι μετὰ τόνδε τὸν βίον, ἐπειδὴ τῆς τῶν ὁρωμένων εὐδαιμονίας

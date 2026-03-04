@@ -1,17 +1,20 @@
-#+TITLE: Εὐχὴ τοῦ ἁγίου Μακαρίου. Ὦ Θεὸς, ἱλάσθητί μοι τῷ ἁμαρτωλῷ, ὅτι οὐδὲν ἐποίησα ἀγαθὸν ἐνώπιόν σου.
+#+TITLE: Preces
 #+AUTHOR: Μακάριος Αἰγύπτου
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Preces
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/preces--macarius-of-egypt
 #+LANGUAGE: el
 
-* Εὐχὴ τοῦ ἁγίου Μακαρίου. Ὦ Θεὸς, ἱλάσθητί μοι τῷ ἁμαρτωλῷ, ὅτι οὐδὲν ἐποίησα ἀγαθὸν ἐνώπιόν σου.
+* Preces
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Εὐχὴ τοῦ ἁγίου Μακαρίου.
+Ὦ Θεὸς, ἱλάσθητί μοι τῷ ἁμαρτωλῷ, ὅτι οὐδὲν ἐποίησα ἀγαθὸν ἐνώπιόν σου.
 Ἀναρῦσαί με ἀπὸ τοῦ Πονηροῦ, καὶ ἀξίωσόν με ἀκατακρίτως ἀνοίγειν τὸ =34.448=
 στόμα μου τὸ ἀνάξιον, καὶ ἀνυμνεῖν τὸ πανάγιον ὄνομά σου τοῦ Πατρὸς καὶ τοῦ Υἱοῦ
 καὶ τοῦ ἁγίου Πνεύματος. Συγχώρησόν μοι, Κύριε, πᾶν ἄτοπον ὅρμημα τῆς καρδίας

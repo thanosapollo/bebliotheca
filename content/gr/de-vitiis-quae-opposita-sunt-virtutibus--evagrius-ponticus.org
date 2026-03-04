@@ -1,17 +1,21 @@
-#+TITLE: ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΠΡΟΣ ΤΟΝ ΑΥΤΟΝ ΠΕΡΙ ΤΑΣ ΑΝΤΙΖΥΓΟΥΣ ΤΩΝ ΑΡΕΤΩΝ ΚΑΚΙΑΣ. 79.1140 ΚΕΦΑΛ. Αʹ.
+#+TITLE: De vitiis quae opposita sunt virtutibus
 #+AUTHOR: Εὐάγριος Ποντικός
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De vitiis quae opposita sunt virtutibus
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-vitiis-quae-opposita-sunt-virtutibus--evagrius-ponticus
 #+LANGUAGE: el
 
-* ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΠΡΟΣ ΤΟΝ ΑΥΤΟΝ ΠΕΡΙ ΤΑΣ ΑΝΤΙΖΥΓΟΥΣ ΤΩΝ ΑΡΕΤΩΝ ΚΑΚΙΑΣ. 79.1140 ΚΕΦΑΛ. Αʹ.
+* De vitiis quae opposita sunt virtutibus
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΑΥΤΟΥ ΛΟΓΟΣ ΠΡΟΣ ΤΟΝ ΑΥΤΟΝ ΠΕΡΙ ΤΑΣ ΑΝΤΙΖΥΓΟΥΣ ΤΩΝ
+ΑΡΕΤΩΝ ΚΑΚΙΑΣ.
+=79.1140= ΚΕΦΑΛ. Αʹ.
 Ἀναγκαῖον ἡγοῦμαι καὶ τὰς ἀντιζύγους τῶν ἀρετῶν κακίας δι' ἐπιτόμου
 ὑποτάξαι τῇ σῇ φιλοπονίᾳ· ἕως μὲν ὧδε τὴν διάνοιαν ἀροτριάσαντες, τὰς τῶν
 λογισμῶν ἀκάνθας ἐκ τῆς σπορίμου χώρας ἀνεβάλομεν· οὐκ ἐξ ἔργων δὲ, ἃ

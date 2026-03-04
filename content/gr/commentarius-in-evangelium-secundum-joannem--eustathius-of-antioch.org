@@ -1,17 +1,19 @@
-#+TITLE: ΛΟΓΟΣ ΚΑΤΑ ΙΩΑΝΝΗΝ
+#+TITLE: Commentarius in evangelium secundum Joannem
 #+AUTHOR: Εὐστάθιος Ἀντιοχείας
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Commentarius in evangelium secundum Joannem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/commentarius-in-evangelium-secundum-joannem--eustathius-of-antioch
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΚΑΤΑ ΙΩΑΝΝΗΝ
+* Commentarius in evangelium secundum Joannem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΚΑΤΑ ΙΩΑΝΝΗΝ
 82 Ὑποτάττει καὶ μᾶλλον κυροῖ ὑπὲρ τὸ ἑαυτοῦ ὁ Χριστὸς τὸ τοῦ Πατρὸς
 θέλημα, ἐν διαφόροις τόποις· οὐχ ὅτι θέλημα ἦν ἐν αὐτῷ δεόμενον καταλύσεως οὔτε
 θεϊκὸν οὔτε μὴν τὸ τῆς αὐτοῦ ἀνθρωπήσεως (καθάπερ ἂν γὰρ τὴν φύσιν καὶ τὰ τῆς

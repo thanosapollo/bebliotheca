@@ -1,17 +1,19 @@
-#+TITLE: ..... ἀκούων ὑμῶν, ὦ ἄνδρες, τὴν ἐκ τῶν ἔργων μεγίστην εὔκλειαν, οὐκ οἶδα ποῖον
+#+TITLE: Oratio ad milites
 #+AUTHOR: Κωνσταντῖνος Πορφυρογέννητος
 #+FILETAGS: :byzantine:10c-ad:
+#+MIGNE_TITLE: Oratio ad milites
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/oratio-ad-milites--constantine-porphyrogenitus
 #+LANGUAGE: el
 
-* ..... ἀκούων ὑμῶν, ὦ ἄνδρες, τὴν ἐκ τῶν ἔργων μεγίστην εὔκλειαν, οὐκ οἶδα ποῖον
+* Oratio ad milites
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+..... ἀκούων ὑμῶν, ὦ ἄνδρες, τὴν ἐκ τῶν ἔργων μεγίστην εὔκλειαν, οὐκ οἶδα ποῖον
 ὑμῖν τὸν ἔπαινον ἐκ βασιλικῆς ἄρτι πλέξω τῆς γλώττης· οἷα γὰρ ἤκουσταί μοι περὶ
 ὑμῶν καὶ οἷα διὰ τῆς ἀναφορᾶς ἀνηγγέλη τῶν ἐμῶν πιστῶν θεραπόντων. Ἐκεῖνοι
 γάρ μοι κατεμήνυσαν ἀκριβῶς, ἐκεῖνοι τὴν ὑμῶν ἀρετὴν φιλαλήθως ἐγνώρισαν,

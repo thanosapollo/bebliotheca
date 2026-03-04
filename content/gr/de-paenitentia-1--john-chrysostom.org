@@ -1,17 +1,20 @@
-#+TITLE: Περὶ μετανοίας. 60.765
+#+TITLE: De paenitentia
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: De paenitentia
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/de-paenitentia-1--john-chrysostom
 #+LANGUAGE: el
 
-* Περὶ μετανοίας. 60.765
+* De paenitentia
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Περὶ μετανοίας.
+=60.765=
 Στεφάνῳ χρυσοκόμοις ἄνθεσι πεπλεγμένῳ τὰς τῶν φιληκόων κεφαλὰς
 δοξάσαι βουλόμενοι, ἐκ τῶν ἀκηράτων λειμώνων Χριστοῦ δακτύλοις ἄνθεα
 περικαλλῆ τρυγήσαντες, ἀγγέλους ἡμῖν συνεργεῖν Πνεύματι θείῳ προσταχθέντας

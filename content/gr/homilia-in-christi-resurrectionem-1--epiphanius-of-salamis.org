@@ -1,17 +1,20 @@
-#+TITLE: Τοῦ ἁγίου Ἐπιφανίου ἐπισκόπου Κύπρου λόγος εἰς τὴν ἁγίαν τοῦ Χριστοῦ ἀνάστασιν·
+#+TITLE: Homilia in Christi resurrectionem
 #+AUTHOR: Ἐπιφάνιος Σαλαμῖνος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Homilia in Christi resurrectionem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/homilia-in-christi-resurrectionem-1--epiphanius-of-salamis
 #+LANGUAGE: el
 
-* Τοῦ ἁγίου Ἐπιφανίου ἐπισκόπου Κύπρου λόγος εἰς τὴν ἁγίαν τοῦ Χριστοῦ ἀνάστασιν·
+* Homilia in Christi resurrectionem
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ ἁγίου Ἐπιφανίου ἐπισκόπου Κύπρου λόγος εἰς τὴν ἁγίαν τοῦ
+Χριστοῦ ἀνάστασιν·
 1 Νῦν τὸ πένθος τῶν νεκρῶν πεφυγάδευται καὶ τὸ φέγγος τῆς ἀναστάσεως
 ἐλήλυθεν. Τοῦτο γάρ ἐστιν ἀγάπης ἀπόδειξις, ὅτι ὅνπερ ὤφειλεν θάνατον ὁ
 ἄνθρωπος, τοῦτον ἔλυσεν ὁ Χριστὸς ἀποθανών, δοὺς λύτρον ψυχὴν ἀντὶ ψυχῆς καὶ

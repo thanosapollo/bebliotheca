@@ -1,17 +1,22 @@
-#+TITLE: ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, ΕΚΛΟΓΑΙ ΑΠΟ ∆ΙΑΦΟΡΩΝ ΛΟΓΩΝ. ΟΜΙΛΙΑ Αʹ. Περὶ ἀγάπης.
+#+TITLE: Eclogae ex diversis homiliis
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: Eclogae ex diversis homiliis
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/eclogae-ex-diversis-homiliis--john-chrysostom
 #+LANGUAGE: el
 
-* ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, ΕΚΛΟΓΑΙ ΑΠΟ ∆ΙΑΦΟΡΩΝ ΛΟΓΩΝ. ΟΜΙΛΙΑ Αʹ. Περὶ ἀγάπης.
+* Eclogae ex diversis homiliis
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΠΑΤΡΟΣ ΗΜΩΝ ΙΩΑΝΝΟΥ, ΑΡΧΙΕΠΙΣΚΟΠΟΥ
+ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ, ΤΟΥ ΧΡΥΣΟΣΤΟΜΟΥ, ΕΚΛΟΓΑΙ ΑΠΟ
+∆ΙΑΦΟΡΩΝ ΛΟΓΩΝ.
+ΟΜΙΛΙΑ Αʹ. Περὶ ἀγάπης.
 Βουλόμενος ὁ φιλάνθρωπος Θεὸς ἡμῶν συνδῆσαι πάντας ἀλλήλοις,
 ἀγαπητοὶ, τοιαύτην τοῖς πράγμασιν ἐνέθηκεν ἀνάγκην, ὡς ἐν τῷ τοῦ πλησίον
 συμφέροντι τὸ τοῦ ἑτέρου δεδέσθαι. Καὶ γὰρ ὁ γεωργὸς οὐ τοσοῦτον σπείρει σῖτον,

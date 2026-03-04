@@ -1,17 +1,20 @@
-#+TITLE: ΛΟΓΟΣ ΙΓʹ. Εἰς τὴν χειροτονίαν ∆οαρῶν ὁμιλία ἐκδοθεῖσα Εὐλαλίῳ ἐπισκόπῳ.
+#+TITLE: In consecratione Eulalii Doarensium episcopi 1
 #+AUTHOR: Γρηγόριος Ναζιανζοῦ
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In consecratione Eulalii Doarensium episcopi 1
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-consecratione-eulalii-doarensium-episcopi-1--gregory-of-nazianzus
 #+LANGUAGE: el
 
-* ΛΟΓΟΣ ΙΓʹ. Εἰς τὴν χειροτονίαν ∆οαρῶν ὁμιλία ἐκδοθεῖσα Εὐλαλίῳ ἐπισκόπῳ.
+* In consecratione Eulalii Doarensium episcopi 1
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+ΛΟΓΟΣ ΙΓʹ.
+Εἰς τὴν χειροτονίαν ∆οαρῶν ὁμιλία ἐκδοθεῖσα Εὐλαλίῳ ἐπισκόπῳ.
 Αʹ. ∆έξασθετὸν ἡμέτερον λόγον, ἀδελφοὶ, κἂν ἐλάχιστος ᾖ, κἂν παρὰ πολὺ
 τῆς ἀξίας λειπόμενος· πλὴν ὅμως σταθμίζειν οἶδεν ὁ ∆εσπότης Θεὸς τῇ δι καίᾳ κρίσει
 τὸν ἔλεον· δέχεται γὰρ καὶ Παύλου τὴν φυτείαν, ὡς Παύλου, καὶ Ἀπολλὼ τὴν =35.853=

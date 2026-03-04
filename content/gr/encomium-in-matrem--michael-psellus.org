@@ -1,6 +1,7 @@
-#+TITLE: 1. Τῇ μητρὶ τὸ ἐγκώμιον· ἀλλ' οὐχ ὡς τεκούσῃ τὸν λόγον καταχαρίζομαι,
+#+TITLE: Encomium in matrem
 #+AUTHOR: Μιχαὴλ Ψελλός
 #+FILETAGS: :byzantine:11c-ad:
+#+MIGNE_TITLE: Encomium in matrem
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview

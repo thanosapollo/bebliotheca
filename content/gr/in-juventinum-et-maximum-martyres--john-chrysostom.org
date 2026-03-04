@@ -1,17 +1,19 @@
-#+TITLE: Τοῦ αὐτοῦ ὁμιλία ἐγκωμιαστικὴ εἰς τοὺς ἁγίους μάρτυρας Ἰουβεντῖνον
+#+TITLE: In Juventinum et Maximum martyres
 #+AUTHOR: Ἰωάννης Χρυσόστομος
 #+FILETAGS: :patristic:4c-ad:
+#+MIGNE_TITLE: In Juventinum et Maximum martyres
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
 #+EXPORT_FILE_NAME: ../../public/gr/in-juventinum-et-maximum-martyres--john-chrysostom
 #+LANGUAGE: el
 
-* Τοῦ αὐτοῦ ὁμιλία ἐγκωμιαστικὴ εἰς τοὺς ἁγίους μάρτυρας Ἰουβεντῖνον
+* In Juventinum et Maximum martyres
 :PROPERTIES:
 :CUSTOM_ID: h1
 :END:
 
+Τοῦ αὐτοῦ ὁμιλία ἐγκωμιαστικὴ εἰς τοὺς ἁγίους μάρτυρας Ἰουβεντῖνον
 καὶ Μαξιμῖνον τοὺς μαρτυρήσαντας ἐπὶ Ἰουλιανοῦ τοῦ Ἀποστάτου.
 =50.571=
 αʹ. Ὁ μακάριος Βαβύλας πρώην ἡμᾶς ἐνταῦθα μετὰ παίδων τριῶν συνήγαγε·
