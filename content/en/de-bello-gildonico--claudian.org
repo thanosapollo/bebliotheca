@@ -1,5 +1,5 @@
-#+TITLE: Untitled
-#+AUTHOR: Unknown
+#+TITLE: The War Against Gildo
+#+AUTHOR: Claudian
 #+FILETAGS: :byzantine:4c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

@@ -1,5 +1,5 @@
-#+TITLE: Untitled
-#+AUTHOR: Unknown
+#+TITLE: Quomodo Trinitas Unus Deus Ac Non Tres Dii (De Trinitate)
+#+AUTHOR: Boethius
 #+FILETAGS: :patristic:6c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil

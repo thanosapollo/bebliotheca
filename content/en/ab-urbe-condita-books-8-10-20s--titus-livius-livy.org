@@ -1,4 +1,4 @@
-#+TITLE: Ab Urbe Condita, books 8-10 - 20s
+#+TITLE: Ab Urbe Condita, Book 20
 #+AUTHOR: Titus Livius (Livy)
 #+FILETAGS: :classical:1c-bc:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup

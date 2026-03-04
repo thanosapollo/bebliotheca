@@ -1,5 +1,5 @@
-#+TITLE: Untitled
-#+AUTHOR: Unknown
+#+TITLE: Germania
+#+AUTHOR: Cornelius Tacitus
 #+FILETAGS: :imperial:1c-ad:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
