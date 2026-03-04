@@ -2,60 +2,135 @@
 
 * Overview
 
-This directory holds external text corpora used to populate the library.
-Source repositories are tracked as git submodules, pinned to the commit
-we last imported from. The actual =.org= files they produce live in
-=content/{gr,en,la}/= and are *not* tracked in git, they are regenerated
-by the import pipeline.
+External text corpora used to populate the library.  Source repos are
+git submodules pinned to the commit we last imported from.  The =.org=
+files they produce live in =content/{gr,en,la}/= and are tracked in
+git.
+
+#+BEGIN_QUOTE
+Imports are additive: new files only, existing files are never
+overwritten.
+#+END_QUOTE
 
 * Import Pipeline
 
-All sources are imported by a single unified script:
-
 | Command              | What it does                                  |
 |----------------------+-----------------------------------------------|
-| =make import=        | Import content from all source submodules     |
-| =make update=        | Update all submodules to latest and re-import |
+| =make import=        | Import new files from all sources             |
+| =make update=        | Update submodules to latest, then re-import   |
 | =make clean-sources= | Remove all auto-generated =.org= files        |
 
-Each source produces a *manifest file* (=*-manifest.txt=), a plain list
-of file paths (one per line) for every =.org= file produced by the
-import. Manifests are tracked in git as provenance records.
+Each source produces a manifest in =log/*-manifest.txt=. Import
+filenames listed in =log/known-duplicates.txt= are skipped
+automatically to avoid overwriting hand-curated works.
 
-* Perseus Digital Library (Greek)
+* Sources
+
+** Perseus Greek
 
 - Submodule :: =canonical-greekLit/= => [[https://github.com/PerseusDL/canonical-greekLit]]
 - Converter :: =scripts/convert_perseus_xml_to_org.py=
-- Manifest :: =perseus-manifest.txt= (1311 entries)
+- Manifest :: =log/perseus-manifest.txt= (1311 entries)
 - Languages :: Greek, English
 
-* Perseus Latin Literature
+** Perseus Latin
 
 - Submodule :: =canonical-latinLit/= => [[https://github.com/PerseusDL/canonical-latinLit]]
-- Converter :: =scripts/convert_perseus_xml_to_org.py= (shared with Greek)
-- Manifest :: =latinlit-manifest.txt= (559 entries)
+- Converter :: =scripts/convert_perseus_xml_to_org.py= (shared)
+- Manifest :: =log/latinlit-manifest.txt= (559 entries)
 - Languages :: Latin, English, Greek (some texts)
 
-* Apostolic Fathers
+** Apostolic Fathers
 
-- Submodule :: =apostolic-fathers/= => [[https://codeberg.org/bebliotheca/apostolic-fathers]]
+- Submodule :: =apostolic-fathers/= => [[https://github.com/jtauber/apostolic-fathers]]
 - Converter :: =scripts/convert_apostolic_to_org.py=
-- Manifest :: =apostolic-manifest.txt= (14 entries)
+- Manifest :: =log/apostolic-manifest.txt= (14 entries)
 - Languages :: Greek
 
-The Apostolic Fathers are the earliest Christian writers outside the New
-Testament, dating from the late first to mid-second century. This
-corpus includes the epistles of Clement of Rome, Ignatius of Antioch,
-and Polycarp of Smyrna, the Didache, the Shepherd of Hermas, the
-Martyrdom of Polycarp, and the Epistle to Diognetus.
+Late 1st to mid-2nd century Christian texts. Plain =chapter.verse=
+format. Epistle of Barnabas excluded (already present from Perseus).
 
-The source texts use a plain =chapter.verse= format (one line per verse),
-with the Shepherd of Hermas using a three-level =section.chapter.verse=
-format. The Epistle of Barnabas is excluded from this import as it is
-already present in the library from the Perseus Greek corpus.
+** Patrologia Graeca (Migne)
 
-* TODO Future sources
+One-time conversion from PDFs; not reproducible from this repo.
+1539 Greek works from 135 authors, covering 141 of 161 PG volumes.
+The =.org= files in =content/gr/= are the authoritative copies.
 
-| Repository   | Format  | Content                                |
-|--------------+---------+----------------------------------------|
-| First1KGreek | TEI XML | Patristic and late antique Greek texts |
+- Directory :: =pg-migne/= (https://thanosapollo.org/pg-migne.tar.gz)
+- Source :: University of the Aegean, /Paths of Faith -- Digital Patrology/ (2006)
+- Languages :: Greek
+- Status :: 1539 works, 1544 PDFs, 135 authors, 141 of 161 volumes
+
+*** PG volume tags
+
+Each PG file has =pgNN= or =pgNN-MM= tags in =#+FILETAGS:=. The
+index page search is range-aware: =#pg50= matches =pg47-64=. Tags
+are verified against =sources/pg-migne/volumes.org= using
+=scripts/verify_pg_volumes.py=.
+
+*** TODO Missing volumes (20 of 161)
+
+| Volumes | Author(s)                                  | Notes                                 |
+|---------+--------------------------------------------+---------------------------------------|
+|   78-79 | Isidore of Pelusium, Nilus of Sinai        | Epistles, ascetic works               |
+|     107 | Emperor Leo VI the Wise                    | Homilies, juridical, military         |
+| 123-126 | Theophylact of Ohrid                       | Biblical commentaries                 |
+| 128-130 | Euthymius Zigabenus                        | Psalms, Gospel commentary, /Panoplia/ |
+| 137-138 | Theodore Balsamon                          | Canon commentaries                    |
+|     141 | John Veccus, Meliteniotes, Metochites      | Pro-union theologians                 |
+| 145-147 | Xanthopulus, Blastares, Planudes           | Church history, canonical compendium  |
+|     152 | Nicholas Cabasilas, Calecas, Cyparissiotes | /De Vita in Christo/                  |
+|     155 | Symeon of Thessalonica                     | Liturgical theology                   |
+|     157 | George Codinus, Ducas                      | /Historia Byzantina/                  |
+|     161 | Bessarion, George of Trebizond, Lascaris   | Last Byzantine scholars               |
+
+The patristic core (Apostolic Fathers through John of Damascus) is
+complete.  Gaps are in the middle and late Byzantine period (11c-15c).
+
+*** License
+
+The Aegean transcriptions are released under free-use-with-attribution
+by a publicly funded EU project (Interreg IIIA). The underlying Migne
+texts (1857-1866) are public domain.  The university's original
+hosting (=patrologia.ct.aegean.gr=) is offline; archive [[https://web.archive.org/web/20070917124937/http://patrologia.ct.aegean.gr/][here]].
+
+* TODO Future Sources
+
+Our converter handles EpiDoc/TEI XML (same as Perseus). These are
+ready to import with minor modifications:
+
+** TODO First1KGreek (selective patristic import)
+- [[https://github.com/OpenGreekAndLatin/First1KGreek]] (CC-BY-SA-4.0)
+- 312 author directories, TEI XML
+- Import *patristic authors only* to avoid overlap with Perseus classical texts
+- Has: Athanasius, Gregory of Nazianzus, Maximus the Confessor, Cyril of Alexandria
+- Missing: Chrysostom, Basil, Gregory of Nyssa, John of Damascus
+
+** TODO CSEL-dev (Latin Fathers)
+- [[https://github.com/OpenGreekAndLatin/csel-dev]] (CC-BY-SA-4.0)
+- ~6M words of CTS-compliant Latin, EpiDoc TEI XML
+- Tertullian through Bede. Major Latin Fathers well represented.
+
+** TODO Patrologia Latina-dev
+- [[https://github.com/OpenGreekAndLatin/patrologia_latina-dev]] (CC-BY-SA-4.0)
+- 85 PL volumes in EpiDoc TEI XML
+- Augustine, Jerome, Ambrose, Gregory the Great, Leo the Great
+
+** TODO Patristic Text Archive (PTA)
+- [[https://github.com/PatristicTextArchive/pta_data]] (CC per-file)
+- Born-digital critical editions from Berlin-Brandenburg Academy
+- Small but gold standard quality. Athanasius, Severian, Hesychius.
+
+** TODO English translations (ANF/NPNF)
+- [[https://www.newadvent.org/fathers/]] (public domain, Schaff 1885-1900)
+- ~3,339 texts. All major Greek and Latin Fathers in English.
+- Needs HTML-to-Org scraper (regular structure).
+- Alternative: [[https://ccel.org/fathers]] has same texts in ThML/XML.
+
+** Evaluated and rejected
+- *TLG*: Subscription-only.
+- *Digital Loeb*: Copyright-restricted.
+- *Brepols*: Subscription-only.
+- *Documenta Catholica Omnia*: =.doc= and =.pdf= files, impractical.
+- *Open Patrologia Graeca*: Raw noisy OCR, major cleanup needed.
+- *Scholarios PG Online*: Browse-only, not extractable.
