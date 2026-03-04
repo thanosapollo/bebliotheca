@@ -108,6 +108,60 @@ TEXTS: Dict[str, Dict[str, Any]] = {
 CHAPTER_ZERO_HEADING = 'Ἐπιγραφή'
 
 
+def add_custom_ids(org_text: str) -> str:
+    """Add positional hN-hN CUSTOM_IDs to every Org heading.
+
+    Mirrors thanos/org-add-custom-ids: each heading gets a hierarchical
+    ID based on its position among siblings at each depth level.
+    Replaces any existing CUSTOM_ID in PROPERTIES drawers.
+    """
+    lines = org_text.split('\n')
+    result: List[str] = []
+    counters: Dict[int, int] = {}
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+        m = re.match(r'^(\*+)\s', line)
+
+        if m:
+            depth = len(m.group(1))
+            counters[depth] = counters.get(depth, 0) + 1
+            for d in list(counters):
+                if d > depth:
+                    del counters[d]
+            custom_id = '-'.join(
+                f'h{counters[d]}' for d in sorted(counters) if d <= depth
+            )
+
+            result.append(line)
+            i += 1
+
+            # Check for existing PROPERTIES drawer
+            if i < len(lines) and lines[i].strip() == ':PROPERTIES:':
+                i += 1  # skip :PROPERTIES:
+                other_props: List[str] = []
+                while i < len(lines) and lines[i].strip() != ':END:':
+                    if ':CUSTOM_ID:' not in lines[i]:
+                        other_props.append(lines[i])
+                    i += 1
+                i += 1  # skip :END:
+                result.append(':PROPERTIES:')
+                result.append(f':CUSTOM_ID: {custom_id}')
+                result.extend(other_props)
+                result.append(':END:')
+            else:
+                # Insert new PROPERTIES drawer
+                result.append(':PROPERTIES:')
+                result.append(f':CUSTOM_ID: {custom_id}')
+                result.append(':END:')
+        else:
+            result.append(line)
+            i += 1
+
+    return '\n'.join(result)
+
+
 def parse_two_level(filepath: Path) -> Dict[int, List[Tuple[int, str]]]:
     """Parse chapter.verse formatted text into structured data.
 
@@ -178,18 +232,12 @@ def generate_org_two_level(meta: Dict[str, Any], chapters: Dict[int, List[Tuple[
         heading = CHAPTER_ZERO_HEADING if ch_num == 0 else f'Κεφάλαιον {ch_num}'
         lines.extend([
             f'* {heading}',
-            ':PROPERTIES:',
-            f':CUSTOM_ID: ch-{ch_num}',
-            ':END:',
             '',
         ])
 
         for verse_num, text in verses:
             lines.extend([
                 f'** Τμῆμα {verse_num}',
-                ':PROPERTIES:',
-                f':CUSTOM_ID: ch-{ch_num}-sec-{verse_num}',
-                ':END:',
                 text,
                 '',
             ])
@@ -214,27 +262,18 @@ def generate_org_three_level(meta: Dict[str, Any], sections: Dict[int, Dict[str,
         title = sec_data['title'] or f'Τμῆμα {sec_num}'
         lines.extend([
             f'* {title}',
-            ':PROPERTIES:',
-            f':CUSTOM_ID: sec-{sec_num}',
-            ':END:',
             '',
         ])
 
         for ch_num, verses in sec_data['chapters'].items():
             lines.extend([
                 f'** Κεφάλαιον {ch_num}',
-                ':PROPERTIES:',
-                f':CUSTOM_ID: sec-{sec_num}-ch-{ch_num}',
-                ':END:',
                 '',
             ])
 
             for verse_num, text in verses:
                 lines.extend([
                     f'*** Τμῆμα {verse_num}',
-                    ':PROPERTIES:',
-                    f':CUSTOM_ID: sec-{sec_num}-ch-{ch_num}-sec-{verse_num}',
-                    ':END:',
                     text,
                     '',
                 ])
@@ -258,6 +297,9 @@ def convert_text(
     else:
         data = parse_two_level(source_path)
         content = generate_org_two_level(meta, data)
+
+    # Post-process: add positional CUSTOM_IDs to every heading
+    content = add_custom_ids(content)
 
     output_path = output_dir / (meta['stem'] + '.org')
 

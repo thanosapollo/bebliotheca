@@ -67,6 +67,60 @@ def clean_whitespace(text: str) -> str:
     return '\n'.join(result)
 
 
+def add_custom_ids(org_text: str) -> str:
+    """Add positional hN-hN CUSTOM_IDs to every Org heading.
+
+    Mirrors thanos/org-add-custom-ids: each heading gets a hierarchical
+    ID based on its position among siblings at each depth level.
+    Replaces any existing CUSTOM_ID in PROPERTIES drawers.
+    """
+    lines = org_text.split('\n')
+    result: List[str] = []
+    counters: Dict[int, int] = {}
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+        m = re.match(r'^(\*+)\s', line)
+
+        if m:
+            depth = len(m.group(1))
+            counters[depth] = counters.get(depth, 0) + 1
+            for d in list(counters):
+                if d > depth:
+                    del counters[d]
+            custom_id = '-'.join(
+                f'h{counters[d]}' for d in sorted(counters) if d <= depth
+            )
+
+            result.append(line)
+            i += 1
+
+            # Check for existing PROPERTIES drawer
+            if i < len(lines) and lines[i].strip() == ':PROPERTIES:':
+                i += 1  # skip :PROPERTIES:
+                other_props: List[str] = []
+                while i < len(lines) and lines[i].strip() != ':END:':
+                    if ':CUSTOM_ID:' not in lines[i]:
+                        other_props.append(lines[i])
+                    i += 1
+                i += 1  # skip :END:
+                result.append(':PROPERTIES:')
+                result.append(f':CUSTOM_ID: {custom_id}')
+                result.extend(other_props)
+                result.append(':END:')
+            else:
+                # Insert new PROPERTIES drawer
+                result.append(':PROPERTIES:')
+                result.append(f':CUSTOM_ID: {custom_id}')
+                result.append(':END:')
+        else:
+            result.append(line)
+            i += 1
+
+    return '\n'.join(result)
+
+
 def get_text_content(elem: ET.Element, preserve_children: bool = False) -> str:
     """Get text content of a TEI element, optionally processing children."""
     if preserve_children:
@@ -91,7 +145,7 @@ def get_text_content(elem: ET.Element, preserve_children: bool = False) -> str:
 class TEIToOrgConverter:
     """Convert TEI XML to Org mode format."""
 
-    # Subtypes that create CUSTOM_IDs (scholarly reference levels)
+    # Subtypes that create structural heading levels
     STRUCTURAL_SUBTYPES = {
         'book': 'bk', 'Book': 'bk',
         'chapter': 'ch',
@@ -117,8 +171,8 @@ class TEIToOrgConverter:
         'subchapter': 'Subcaput',
     }
 
-    # Preamble n-values: headings for readability but no CUSTOM_ID
-    # These are intro/preface sections that often exist in only one language
+    # Preamble n-values: these intro/preface sections use extra heading depth
+    # instead of pushing to structural_path (children stay at grandparent level)
     PREAMBLE_N_VALUES = frozenset([
         'intro', 'pr', 'pref', 'praef', 'sal', 'prologue',
         'front', 'back', 'appendix', 'app', 'argument', 'arg', '0',
@@ -195,8 +249,7 @@ class TEIToOrgConverter:
         xml_text = self._resolve_entities(xml_text)
         self.root = ET.fromstring(xml_text)
         self.output: List[str] = []
-        self.structural_path: List[Tuple[str, str]] = []
-        self.speaker_counter = 0
+        self.structural_path: List[int] = []
         self.current_card: Optional[str] = None
         self.in_preamble = False
         self.language = 'en'
@@ -342,21 +395,6 @@ class TEIToOrgConverter:
         depth = len(self.structural_path) + extra
         return '*' * max(1, min(depth, 4))
 
-    def build_custom_id(self):
-        """Build CUSTOM_ID from current structural path."""
-        if not self.structural_path:
-            return 'root'
-        return '-'.join(f"{a}-{n}" for a, n in self.structural_path)
-
-    def build_speaker_id(self):
-        """Build CUSTOM_ID for speaker/label headings using card context."""
-        self.speaker_counter += 1
-        parts = [f"{a}-{n}" for a, n in self.structural_path]
-        if self.current_card is not None:
-            parts.append(f"card-{self.current_card}")
-        parts.append(f"sp-{self.speaker_counter}")
-        return '-'.join(parts) if parts else f"sp-{self.speaker_counter}"
-
     def _process_children(self, elem, result, level, in_quote, in_poetry):
         """Process an element's text and children into result list."""
         if elem.text:
@@ -389,9 +427,6 @@ class TEIToOrgConverter:
 
             # Check if this is a structural subtype that gets a CUSTOM_ID
             abbrev = self.STRUCTURAL_SUBTYPES.get(subtype)
-            # Normalize nested chapters to sections for cross-edition consistency
-            if abbrev == 'ch' and any(a == 'ch' for a, _ in self.structural_path):
-                abbrev = 'sec'
 
             if abbrev and n:
                 # Normalize n-value for cross-edition consistency
@@ -400,7 +435,7 @@ class TEIToOrgConverter:
                 is_preamble = n_normalized in self.PREAMBLE_N_VALUES
 
                 if is_preamble or self.in_preamble:
-                    # Preamble: heading for readability, no CUSTOM_ID,
+                    # Preamble: heading with extra depth level,
                     # don't push to path (children inherit grandparent context)
                     stars = self._heading_stars(extra=1)
                     labels = (self.HEADING_LABELS_GR if self.language == 'gr'
@@ -413,27 +448,23 @@ class TEIToOrgConverter:
                     self._process_children(elem, result, level, in_quote, in_poetry)
                     self.in_preamble = old_preamble
                 else:
-                    # Structural div: push to path, process children in scope, pop
-                    self.structural_path.append((abbrev, n_normalized))
-                    self.speaker_counter = 0
+                    # Structural div: push depth, process children, pop
+                    self.structural_path.append(0)
                     self.current_card = None
-                    custom_id = self.build_custom_id()
                     stars = self._heading_stars()
                     labels = (self.HEADING_LABELS_GR if self.language == 'gr'
                               else self.HEADING_LABELS_LA if self.language == 'la'
                               else self.HEADING_LABELS_EN)
                     label = labels.get(subtype, subtype.title())
-                    result.append(f"\n{stars} {label} {n}\n:PROPERTIES:\n:CUSTOM_ID: {custom_id}\n:END:\n")
+                    result.append(f"\n{stars} {label} {n}\n")
 
                     self._process_children(elem, result, level, in_quote, in_poetry)
                     self.structural_path.pop()
                 return ''.join(result)
 
             elif subtype == 'card' and n:
-                # Card div: heading for readability, no CUSTOM_ID
-                # Track card number for speaker ID generation
+                # Card div: heading, track card for depth calculation
                 self.current_card = n
-                self.speaker_counter = 0
                 stars = self._heading_stars(extra=1)
                 result.append(f"\n{stars} {n}\n")
                 self._process_children(elem, result, level, in_quote, in_poetry)
@@ -555,9 +586,8 @@ class TEIToOrgConverter:
             elif unit == 'para' or unit == 'Para':
                 result.append("\n\n")
             elif unit == 'card' and n:
-                # Track card for speaker IDs, heading without CUSTOM_ID
+                # Track card for depth calculation
                 self.current_card = n
-                self.speaker_counter = 0
                 stars = self._heading_stars(extra=1)
                 result.append(f"\n{stars} {n}\n")
 
@@ -681,6 +711,9 @@ class TEIToOrgConverter:
         # Join and clean up the output
         result = ''.join(self.output)
         result = clean_whitespace(result)
+
+        # Post-process: add positional CUSTOM_IDs to every heading
+        result = add_custom_ids(result)
 
         return result
 

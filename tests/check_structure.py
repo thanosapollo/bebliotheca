@@ -247,8 +247,12 @@ def compare_structures(a: FileStructure, b: FileStructure) -> ComparisonResult:
         and b.pattern != "none"
     )
 
-    if pattern_mismatch:
+    if pattern_mismatch and not common:
+        # Completely incompatible structures (no shared IDs)
         severity = "error"
+    elif pattern_mismatch:
+        # Different nesting depth but shared top-level IDs (edition difference)
+        severity = "warning"
     elif diff_count > 3 or not order_match:
         severity = "warning"
     else:

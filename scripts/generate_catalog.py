@@ -132,12 +132,21 @@ def group_translations(
         greek = next((t for t in translations if t['language'] in ('gr', 'el')), None)
         primary = greek or translations[0]
 
+        # Extract author slug from imported filenames (title--author-slug)
+        author_latin = ''
+        if '--' in filename:
+            slug = filename.rsplit('--', 1)[1]
+            # Convert slug to readable name: john-chrysostom => John Chrysostom
+            author_latin = slug.replace('-', ' ').title()
+
         work: Dict[str, Any] = {
             'id': filename,
             'title': primary.get('title', 'Untitled'),
             'author': primary.get('author', 'Unknown'),
             'translations': [],
         }
+        if author_latin:
+            work['author_latin'] = author_latin
 
         # Collect all unique tags across translations
         all_tags = {
