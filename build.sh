@@ -92,8 +92,9 @@ case "${1:-all}" in
     all)
         echo "==> Cleaning previous build"
         "$0" clean
-        echo "==> Generating catalog"
+        echo "==> Generating catalog + index"
         python3 scripts/generate_catalog.py
+        python3 scripts/generate_index.py --quiet
         echo "==> Exporting all content"
         count=$(find_all $ALL_DIRS | tr '\0' '\n' | wc -l)
         echo "Exporting $count files ($JOBS parallel jobs, batches of $BATCH_SIZE)"
@@ -102,6 +103,10 @@ case "${1:-all}" in
         ;;
     catalog)
         python3 scripts/generate_catalog.py
+        python3 scripts/generate_index.py --quiet
+        ;;
+    index)
+        python3 scripts/generate_index.py
         ;;
     export)
         echo "==> Incremental export (changed files only)"
@@ -186,10 +191,11 @@ case "${1:-all}" in
         ./publish.sh
         ;;
     help|-h|--help)
-        echo "Usage: $0 [all|catalog|export|gr|en|la|clean|clean-sources|copy-pdfs|report|import|update|publish|publish-update|help]"
+        echo "Usage: $0 [all|catalog|index|export|gr|en|la|clean|clean-sources|copy-pdfs|report|import|update|publish|publish-update|help]"
         echo ""
-        echo "  all            Clean + catalog + full export (default)"
-        echo "  catalog        Generate catalog.json"
+        echo "  all            Clean + catalog + index + full export (default)"
+        echo "  catalog        Generate catalog.json + index.org files"
+        echo "  index          Generate per-language index.org files"
         echo "  export         Incremental export (only changed files)"
         echo "  gr             Export Greek content only"
         echo "  en             Export English content only"
