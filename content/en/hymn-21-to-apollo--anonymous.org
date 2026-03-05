@@ -1,5 +1,6 @@
 #+TITLE: Hymn 21 To Apollo
 #+AUTHOR: Anonymous
+#+FILETAGS: :classical:7c-bc:
 #+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
 #+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
 #+startup: overview
