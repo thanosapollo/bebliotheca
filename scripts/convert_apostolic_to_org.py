@@ -23,6 +23,9 @@ import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from author_data import build_filetags
+
 # ── Text metadata ──────────────────────────────────────────────────────
 # Maps source filename to output metadata.
 # stem: output filename stem (title--author-slug)
@@ -215,18 +218,31 @@ def parse_three_level(filepath: Path) -> Dict[int, Dict[str, Any]]:
     return sections
 
 
+def _extract_slug(stem: str) -> str:
+    """Extract author slug from a 'title--author-slug' stem."""
+    if '--' in stem:
+        return stem.rsplit('--', 1)[1]
+    return stem
+
+
 def generate_org_two_level(meta: Dict[str, Any], chapters: Dict[int, List[Tuple[int, str]]]) -> str:
     """Generate Org-mode content for a two-level text."""
+    slug = _extract_slug(meta['stem'])
+    filetags = build_filetags(slug)
     lines: List[str] = [
         f'#+TITLE: {meta["title"]}',
         f'#+AUTHOR: {meta["author"]}',
+    ]
+    if filetags:
+        lines.append(f'#+FILETAGS: {filetags}')
+    lines.extend([
         '#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup',
         '#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil',
         '#+startup: overview',
         f'#+EXPORT_FILE_NAME: ../../public/gr/{meta["stem"]}',
         '#+LANGUAGE: el',
         '',
-    ]
+    ])
 
     for ch_num, verses in chapters.items():
         heading = CHAPTER_ZERO_HEADING if ch_num == 0 else f'Κεφάλαιον {ch_num}'
@@ -247,16 +263,22 @@ def generate_org_two_level(meta: Dict[str, Any], chapters: Dict[int, List[Tuple[
 
 def generate_org_three_level(meta: Dict[str, Any], sections: Dict[int, Dict[str, Any]]) -> str:
     """Generate Org-mode content for the Shepherd of Hermas (three-level)."""
+    slug = _extract_slug(meta['stem'])
+    filetags = build_filetags(slug)
     lines: List[str] = [
         f'#+TITLE: {meta["title"]}',
         f'#+AUTHOR: {meta["author"]}',
+    ]
+    if filetags:
+        lines.append(f'#+FILETAGS: {filetags}')
+    lines.extend([
         '#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup',
         '#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil',
         '#+startup: overview',
         f'#+EXPORT_FILE_NAME: ../../public/gr/{meta["stem"]}',
         '#+LANGUAGE: el',
         '',
-    ]
+    ])
 
     for sec_num, sec_data in sections.items():
         title = sec_data['title'] or f'Τμῆμα {sec_num}'

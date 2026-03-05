@@ -1,0 +1,1148 @@
+{
+  "stem_overrides": {
+    "agiagrafi": "new-testament",
+    "alcestis": "euripides",
+    "alexiada": "anna-komnene",
+    "argonautica": "apollonius-rhodius",
+    "bios-kai-gnomai": "diogenes-laertius",
+    "choniates": "niketas-choniates",
+    "compendium-chronicum": "george-cedrenus",
+    "confessiones": "augustinus",
+    "cyclops-play": "euripides",
+    "homeric-epigrams": "homer",
+    "iliad": "homer",
+    "marcus-aurelius-meditations": "marcus-aurelius",
+    "odyssey": "homer",
+    "psellos-chronographia": "michael-psellos",
+    "theocritus-epigrams": "theocritus",
+    "thucydides-history": "thucydides"
+  },
+  "authors": {
+    "achilles-tatius": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "aelian": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "aelius-aristides": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "aeneas-tacticus": {
+      "era": "imperial",
+      "century": "4c-bc"
+    },
+    "aeschines": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "aeschylus": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "agapetus-diaconus": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "agathemerus": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "agathias-scholasticus": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "alexander-monachus": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "alexander-of-lycopolis": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "ammianus-marcellinus": {
+      "era": "imperial",
+      "century": "4c-ad"
+    },
+    "ammonius-of-alexandria": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "amphilochius-of-iconium": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "anonymous": {
+      "era": "classical",
+      "century": "7c-bc"
+    },
+    "andocides": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "anna-komnena": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "anna-komnene": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "anonymous-pg": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "antiphon": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "antonius-hagiographus": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "apollinaris-of-laodicea": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "apollodorus": {
+      "era": "classical",
+      "century": "2c-bc"
+    },
+    "apollonius-rhodius": {
+      "era": "classical",
+      "century": "3c-bc"
+    },
+    "appian-of-alexandria": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "apuleius": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "aratus-solensis": {
+      "era": "classical",
+      "century": "3c-bc"
+    },
+    "aretaeus-of-cappadocia": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "arethas-of-caesarea": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "aristides-of-athens": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "ariston-of-pella": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "aristophanes": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "aristotle": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "arrian": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "asclepiodotus": {
+      "era": "imperial",
+      "century": "1c-bc"
+    },
+    "asterius-of-amasea": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "athanasius-of-alexandria": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "athenaeus": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "athenagoras": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "augustinus": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "aulus-gellius": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "ausonius-decimus-magnus": {
+      "era": "byzantine",
+      "century": "4c-ad"
+    },
+    "bacchylides": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "barlaam-of-calabria": {
+      "era": "byzantine",
+      "century": "14c-ad"
+    },
+    "barnabas": {
+      "era": "patristic",
+      "century": "1c-ad"
+    },
+    "basil-of-caesarea": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "basil-saint-bishop-of-caesarea": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "bion-of-phlossa": {
+      "era": "classical",
+      "century": "2c-bc"
+    },
+    "boethius": {
+      "era": "patristic",
+      "century": "6c-ad"
+    },
+    "c-valerius-catullus": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "callimachus": {
+      "era": "classical",
+      "century": "3c-bc"
+    },
+    "callistratus": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "cassius-dio-cocceianus": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "celsus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "chariton": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "chronicon-paschale": {
+      "era": "byzantine",
+      "century": "7c-ad"
+    },
+    "church-of-smyrna": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "claudian": {
+      "era": "byzantine",
+      "century": "4c-ad"
+    },
+    "claudius-ptolemy": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "clement-of-alexandria": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "clement-of-rome": {
+      "era": "patristic",
+      "century": "1c-ad"
+    },
+    "colluthus": {
+      "era": "imperial",
+      "century": "5c-ad"
+    },
+    "columella": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "constantine-manasses": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "constantine-porphyrogenitus": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "constitutiones-apostolorum": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "cornelius-nepos": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "cornelius-tacitus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "cosmas-indicopleustes": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "curtius-rufus-quintus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "cyril-of-alexandria": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "cyril-of-jerusalem": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "demades": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "demetrius-of-phaleron": {
+      "era": "imperial",
+      "century": "4c-bc"
+    },
+    "demosthenes": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "didymus-the-blind": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "dinarchus": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "dio-chrysostom": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "diodorus-of-tarsus": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "diodorus-siculus": {
+      "era": "imperial",
+      "century": "1c-bc"
+    },
+    "diogenes-laertius": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "dionysius-areopagita": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "dionysius-of-halicarnassus": {
+      "era": "imperial",
+      "century": "1c-bc"
+    },
+    "epictetus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "epiphanius-of-salamis": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "epistle-to-diognetus": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "euclid": {
+      "era": "classical",
+      "century": "3c-bc"
+    },
+    "eudokia-augusta": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "eunapius-of-sardis": {
+      "era": "imperial",
+      "century": "4c-ad"
+    },
+    "euripides": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "eusebius-of-caesarea": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "eusebius-of-emesa": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "eustathius-of-antioch": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "eustathius-of-thessalonica": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "evagrius-ponticus": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "flavius-josephus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "florus-lucius-annaeus": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "gaius-romanus": {
+      "era": "patristic",
+      "century": "3c-ad"
+    },
+    "galen": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "gennadius-of-constantinople": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "george-acropolites": {
+      "era": "byzantine",
+      "century": "13c-ad"
+    },
+    "george-cedrenus": {
+      "era": "byzantine",
+      "century": "11c-ad"
+    },
+    "george-choeroboscus": {
+      "era": "byzantine",
+      "century": "9c-ad"
+    },
+    "george-codinus": {
+      "era": "byzantine",
+      "century": "15c-ad"
+    },
+    "george-hamartolos": {
+      "era": "byzantine",
+      "century": "9c-ad"
+    },
+    "george-monachus-continuatus": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "george-of-pisidia": {
+      "era": "byzantine",
+      "century": "7c-ad"
+    },
+    "george-pachymeres": {
+      "era": "byzantine",
+      "century": "13c-ad"
+    },
+    "george-phrantzes": {
+      "era": "byzantine",
+      "century": "15c-ad"
+    },
+    "george-syncellus": {
+      "era": "byzantine",
+      "century": "9c-ad"
+    },
+    "georgius-peccator": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "gregory-of-cyprus": {
+      "era": "byzantine",
+      "century": "13c-ad"
+    },
+    "gregory-of-nazianzus": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "gregory-of-nyssa": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "gregory-palamas": {
+      "era": "byzantine",
+      "century": "14c-ad"
+    },
+    "gregory-thaumaturgus": {
+      "era": "patristic",
+      "century": "3c-ad"
+    },
+    "harpocration-valerius": {
+      "era": "classical",
+      "century": "2c-ad"
+    },
+    "hegesippus": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "hermas": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "hermias-philosophus": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "herodotus": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "hesiod": {
+      "era": "classical",
+      "century": "7c-bc"
+    },
+    "hesychius-of-jerusalem": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "hippocrates": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "hippolytus-of-rome": {
+      "era": "patristic",
+      "century": "3c-ad"
+    },
+    "homer": {
+      "era": "classical",
+      "century": "8c-bc"
+    },
+    "hyperides": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "ignatius-of-antioch": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "irenaeus-of-lyon": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "isaeus": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "isocrates": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "jerome-saint": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "joannes-zonaras": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "joel-chronographus": {
+      "era": "byzantine",
+      "century": "13c-ad"
+    },
+    "john-anagnostes": {
+      "era": "byzantine",
+      "century": "15c-ad"
+    },
+    "john-argyropoulos": {
+      "era": "byzantine",
+      "century": "15c-ad"
+    },
+    "john-cameniates": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "john-cananus": {
+      "era": "byzantine",
+      "century": "15c-ad"
+    },
+    "john-cantacuzenus": {
+      "era": "byzantine",
+      "century": "14c-ad"
+    },
+    "john-chrysostom": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "john-cinnamus": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "john-lydus": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "john-malalas": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "john-of-antioch": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "john-of-damascus": {
+      "era": "patristic",
+      "century": "8c-ad"
+    },
+    "john-presbyter": {
+      "era": "byzantine",
+      "century": "11c-ad"
+    },
+    "john-scylitzes": {
+      "era": "byzantine",
+      "century": "11c-ad"
+    },
+    "john-zonaras": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "joseph-genesius": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "julian-the-emperor": {
+      "era": "byzantine",
+      "century": "4c-ad"
+    },
+    "julius-africanus": {
+      "era": "patristic",
+      "century": "3c-ad"
+    },
+    "julius-caesar": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "justin-martyr": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "juvenal": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "laonicus-chalcocondyles": {
+      "era": "byzantine",
+      "century": "15c-ad"
+    },
+    "leo-grammaticus": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "leo-presbyter": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "leo-the-deacon": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "leontius-of-byzantium": {
+      "era": "patristic",
+      "century": "6c-ad"
+    },
+    "longinus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "longus": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "lucian": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "lucian-of-samosata": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "lucretius": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "lycophron": {
+      "era": "classical",
+      "century": "3c-bc"
+    },
+    "lycurgus": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "lysias": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "m-annaeus-lucanus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "m-tullius-cicero": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "macarius-of-egypt": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "marcellus-of-ancyra": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "marcus-aurelius": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "marcus-diaconus": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "martial": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "mathetes": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "maximus-the-confessor": {
+      "era": "patristic",
+      "century": "7c-ad"
+    },
+    "melito-of-sardis": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "michael-attaleiates": {
+      "era": "byzantine",
+      "century": "11c-ad"
+    },
+    "michael-glycas": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "michael-psellos": {
+      "era": "byzantine",
+      "century": "11c-ad"
+    },
+    "michael-psellus": {
+      "era": "byzantine",
+      "century": "11c-ad"
+    },
+    "minucius-felix": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "moschus": {
+      "era": "classical",
+      "century": "2c-bc"
+    },
+    "nemesius-of-emesa": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "new-testament": {
+      "era": "scripture"
+    },
+    "nicephorus-bryennius": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "nicephorus-gregoras": {
+      "era": "byzantine",
+      "century": "14c-ad"
+    },
+    "nicephorus-patriarch": {
+      "era": "byzantine",
+      "century": "9c-ad"
+    },
+    "nicephorus-phocas": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "nicetas-choniates": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "niketas-choniates": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "nonnos-of-panopolis": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "nonnus-of-panopolis": {
+      "era": "byzantine",
+      "century": "5c-ad"
+    },
+    "oecumenius": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "olympiodorus-of-alexandria": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "onasander": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "oppian": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "oppian-of-apamea": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "origen": {
+      "era": "patristic",
+      "century": "3c-ad"
+    },
+    "p-ovidius-naso": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "p-papinius-statius": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "p-vergilius-maro": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "palladius-of-helenopolis": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "papias": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "parthenius": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "paul-the-silentiary": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "pausanias": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "persius": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "peter-of-alexandria": {
+      "era": "patristic",
+      "century": "3c-ad"
+    },
+    "petronius": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "phaedrus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "phileas-of-thmuis": {
+      "era": "patristic",
+      "century": "3c-ad"
+    },
+    "philostorgius": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "philostratus-minor": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "philostratus-sophista": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "philostratus-the-athenian": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "photius-of-constantinople": {
+      "era": "byzantine",
+      "century": "9c-ad"
+    },
+    "pindar": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "plato": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "pliny-the-elder": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "pliny-the-younger": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "plutarch": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "polybius": {
+      "era": "imperial",
+      "century": "2c-bc"
+    },
+    "polycarp-of-smyrna": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "polycrates-of-ephesus": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "proclus": {
+      "era": "byzantine",
+      "century": "5c-ad"
+    },
+    "proclus-of-constantinople": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "procopius": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "procopius-of-caesarea": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "procopius-of-gaza": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "prudentius": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "pseudo-plutarch": {
+      "era": "classical",
+      "century": "2c-ad"
+    },
+    "publius-terentius-afer-terence": {
+      "era": "classical",
+      "century": "2c-bc"
+    },
+    "q-horatius-flaccus": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "q-tullius-cicero": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "quintilian": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "quintus-smyrnaeus": {
+      "era": "imperial",
+      "century": "4c-ad"
+    },
+    "sallust": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "seneca-lucius-annaeus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "seneca-the-elder": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "serapion-of-thmuis": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "severianus-of-gabala": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "sextus-propertius": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "silius-italicus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "socrates-scholasticus": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "sophocles": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "sozomen": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "strabo": {
+      "era": "imperial",
+      "century": "1c-bc"
+    },
+    "suetonius": {
+      "era": "imperial",
+      "century": "2c-ad"
+    },
+    "sulpicia": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "symeon-magistrus": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "symeon-metaphrastes": {
+      "era": "byzantine",
+      "century": "10c-ad"
+    },
+    "symeon-of-thessalonica": {
+      "era": "byzantine",
+      "century": "15c-ad"
+    },
+    "symeon-the-new-theologian": {
+      "era": "byzantine",
+      "century": "11c-ad"
+    },
+    "t-maccius-plautus": {
+      "era": "classical",
+      "century": "3c-bc"
+    },
+    "tatian": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "tertullian": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "theocritus": {
+      "era": "classical",
+      "century": "3c-bc"
+    },
+    "theodore-prodromus": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "theodore-studite": {
+      "era": "byzantine",
+      "century": "9c-ad"
+    },
+    "theodoret-of-cyrrhus": {
+      "era": "patristic",
+      "century": "5c-ad"
+    },
+    "theodorus-lector": {
+      "era": "byzantine",
+      "century": "6c-ad"
+    },
+    "theodorus-of-heraclea": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "theodosius-the-deacon": {
+      "era": "byzantine",
+      "century": "8c-ad"
+    },
+    "theophanes-kerameus": {
+      "era": "byzantine",
+      "century": "12c-ad"
+    },
+    "theophanes-the-confessor": {
+      "era": "byzantine",
+      "century": "9c-ad"
+    },
+    "theophilus-of-alexandria": {
+      "era": "patristic",
+      "century": "4c-ad"
+    },
+    "theophilus-of-antioch": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "theophilus-of-caesarea": {
+      "era": "patristic",
+      "century": "2c-ad"
+    },
+    "theophrastus": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "theophylact-simocatta": {
+      "era": "byzantine",
+      "century": "7c-ad"
+    },
+    "thucydides": {
+      "era": "classical",
+      "century": "5c-bc"
+    },
+    "tibullus": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "titus-livius-livy": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "tryphiodorus": {
+      "era": "imperial",
+      "century": "3c-ad"
+    },
+    "twelve-apostles": {
+      "era": "patristic",
+      "century": "1c-ad"
+    },
+    "unknown": {
+      "era": "imperial"
+    },
+    "valerius-flaccus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "valerius-maximus": {
+      "era": "imperial",
+      "century": "1c-ad"
+    },
+    "vitruvius-pollio": {
+      "era": "classical",
+      "century": "1c-bc"
+    },
+    "xenophon": {
+      "era": "classical",
+      "century": "4c-bc"
+    },
+    "xenophon-of-ephesus": {
+      "era": "imperial",
+      "century": "2c-ad"
+    }
+  }
+}

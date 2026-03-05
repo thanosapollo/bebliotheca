@@ -75,9 +75,6 @@ def parse_org_header(file_path: Path) -> Optional[Dict[str, Any]]:
                         export_path += '.html'
                     metadata['html_path'] = export_path
 
-                elif low.startswith('#+date:'):
-                    metadata['date'] = line.split(':', 1)[1].strip()
-
                 elif low.startswith('#+filetags:'):
                     tags_line = line.split(':', 1)[1].strip()
                     tags = [t.strip() for t in tags_line.split(':') if t.strip()]

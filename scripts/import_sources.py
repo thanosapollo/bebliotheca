@@ -219,12 +219,6 @@ def hellenize_headings() -> None:
     run(['python3', str(SCRIPTS_DIR / 'hellenize_headings.py')], cwd=ROOT_DIR)
 
 
-def tag_filetags() -> None:
-    """Run tag_filetags.py to insert FILETAGS based on author classification."""
-    log('Tagging files', indent=1)
-    run(['python3', str(SCRIPTS_DIR / 'tag_filetags.py')], cwd=ROOT_DIR)
-
-
 def tag_pg_filetags() -> None:
     """Run tag_filetags.py --pg-tags to add PG volume tags."""
     log('Adding PG volume tags', indent=1)
@@ -304,7 +298,6 @@ def import_source(name: str, source: Dict[str, Any], update: bool = False) -> No
     remove_excluded(source)
     if source['hellenize']:
         hellenize_headings()
-    tag_filetags()
     if name == 'pg-migne':
         tag_pg_filetags()
     generate_manifest(source)

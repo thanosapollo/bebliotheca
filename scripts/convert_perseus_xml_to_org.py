@@ -25,6 +25,9 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from xml.etree import ElementTree as ET
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from author_data import build_filetags
+
 # TEI namespace
 TEI_NS = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
@@ -686,6 +689,9 @@ class TEIToOrgConverter:
         # Add Org mode headers
         self.output.append(f"#+TITLE: {title}\n")
         self.output.append(f"#+AUTHOR: {author}\n")
+        filetags = build_filetags(author_slug)
+        if filetags:
+            self.output.append(f"#+FILETAGS: {filetags}\n")
         self.output.append("#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup\n")
         self.output.append("#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil\n")
         self.output.append("#+startup: overview\n")

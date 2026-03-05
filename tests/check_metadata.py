@@ -15,6 +15,9 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / 'scripts'))
+from author_data import build_filetags, resolve_slug as resolve_author_slug
+
 # Valid era tags (Constantinople's classification)
 VALID_ERA_TAGS = {'classical', 'imperial', 'patristic', 'byzantine', 'scripture'}
 
@@ -77,6 +80,11 @@ def is_valid_tag(tag: str) -> bool:
             or bool(PG_TAG_RE.match(tag)))
 
 
+def _format_tags(tags) -> str:
+    """Format a set of tags as a colon-delimited string."""
+    return ':' + ':'.join(sorted(tags)) + ':' if tags else '(none)'
+
+
 def check_file(file_path: Path, lang_dir: str) -> Tuple[List[str], List[str]]:
     """
     Validate metadata for a single .org file.
@@ -117,6 +125,24 @@ def check_file(file_path: Path, lang_dir: str) -> Tuple[List[str], List[str]]:
         invalid = [t for t in tags if not is_valid_tag(t)]
         if invalid:
             errors.append(f'{rel}: invalid FILETAG(s): {", ".join(invalid)}')
+
+        # Cross-check against authors.json
+        slug, _ = resolve_author_slug(file_path)
+        if slug:
+            expected = build_filetags(slug)
+            if expected:
+                expected_tags = set(parse_tags(expected))
+                # Only check era+century tags (ignore PG volume tags)
+                file_base_tags = {
+                    t for t in tags
+                    if t in VALID_ERA_TAGS or CENTURY_RE.match(t)
+                }
+                if file_base_tags != expected_tags:
+                    warnings.append(
+                        f'{rel}: FILETAGS mismatch vs authors.json: '
+                        f'file has {_format_tags(file_base_tags)}, '
+                        f'expected {_format_tags(expected_tags)}'
+                    )
     elif auto:
         warnings.append(f'{rel}: auto-generated file missing #+FILETAGS:')
 
