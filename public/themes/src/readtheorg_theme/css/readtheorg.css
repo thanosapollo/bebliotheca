@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
-@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+
 
 /* Self-hosted Iosevka from thanosapollo.org */
 @font-face {
@@ -190,7 +190,6 @@ body{
 #content{
     background: var(--bg-primary) !important;
     margin-left:300px;
-    /* margin:auto; */
     max-width:800px;
     min-height:100%;
     padding:1.618em 3.236em;
@@ -217,7 +216,6 @@ blockquote{
     font-style:italic;
     line-height:24px;
     margin:0px 0px 24px 0px;
-    /* margin-left:24px; */
     padding: 6px 20px;
 }
 
@@ -353,12 +351,6 @@ dl dd{
 }
 
 @media screen and (max-width: 768px){
-}
-
-@media only screen and (max-width: 480px){
-}
-
-@media screen and (max-width: 768px){
     .tablet-hide{
         display:none}
 }
@@ -366,9 +358,6 @@ dl dd{
 @media screen and (max-width: 480px){
     .mobile-hide{
         display:none}
-}
-
-@media screen and (max-width: 480px){
 }
 
 @media screen and (max-width: 768px){
@@ -451,7 +440,6 @@ code{
     margin:1px 0 24px 0}
 
 pre.src{
-    /* color:#404040; */
     display:block;
     font-family: "Noto Sans Mono", "Source Code Pro", "Courier New", monospace;
     font-size:12px;
@@ -564,18 +552,10 @@ table caption {
 }
 
 .rotate-90{
-    -webkit-transform:rotate(90deg);
-    -moz-transform:rotate(90deg);
-    -ms-transform:rotate(90deg);
-    -o-transform:rotate(90deg);
     transform:rotate(90deg);
 }
 
 .rotate-270{
-    -webkit-transform:rotate(270deg);
-    -moz-transform:rotate(270deg);
-    -ms-transform:rotate(270deg);
-    -o-transform:rotate(270deg);
     transform:rotate(270deg);
 }
 
@@ -737,64 +717,8 @@ legend{
     padding:0;
     white-space:normal}
 
-.fa:before,#content .admonition-title:before,#content h1 .headerlink:before,#content h2 .headerlink:before,#content h3 .headerlink:before,#content h4 .headerlink:before,#content h5 .headerlink:before,#content h6 .headerlink:before,#content dl dt .headerlink:before,.icon:before,.wy-dropdown .caret:before,.wy-inline-validate.wy-inline-validate-success .wy-input-context:before,.wy-inline-validate.wy-inline-validate-danger .wy-input-context:before,.wy-inline-validate.wy-inline-validate-warning .wy-input-context:before,.wy-inline-validate.wy-inline-validate-info .wy-input-context:before,.wy-alert,#content .note,#content .attention,#content .caution,#content .danger,#content .error,#content .hint,#content .important,#content .tip,#content .warning,#content .seealso,#content .admonitiontodo,.btn,input[type="text"],input[type="password"],input[type="email"],input[type="url"],input[type="date"],input[type="month"],input[type="time"],input[type="datetime"],input[type="datetime-local"],input[type="week"],input[type="number"],input[type="search"],input[type="tel"],input[type="color"],select,textarea,#table-of-contents li.on a,#table-of-contents li.current>a,.wy-side-nav-search>a,.wy-side-nav-search .wy-dropdown>a,.wy-nav-top a{
+#content .admonition-title:before,#content h1 .headerlink:before,#content h2 .headerlink:before,#content h3 .headerlink:before,#content h4 .headerlink:before,#content h5 .headerlink:before,#content h6 .headerlink:before,#content dl dt .headerlink:before,.icon:before,.wy-alert,#content .note,#content .attention,#content .caution,#content .danger,#content .error,#content .hint,#content .important,#content .tip,#content .warning,#content .seealso,#content .admonitiontodo,.btn,input[type="text"],input[type="password"],input[type="email"],input[type="url"],input[type="date"],input[type="month"],input[type="time"],input[type="datetime"],input[type="datetime-local"],input[type="week"],input[type="number"],input[type="search"],input[type="tel"],input[type="color"],select,textarea,#table-of-contents li.on a,#table-of-contents li.current>a{
     -webkit-font-smoothing:antialiased}
-
-/*!
- *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
- *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
- */@font-face{
-    font-family: FontAwesome;
-    src:url("../fonts/fontawesome-webfont.eot?v=4.1.0");
-    src:url("../fonts/fontawesome-webfont.eot?#iefix&v=4.1.0") format("embedded-opentype"),url("../fonts/fontawesome-webfont.woff?v=4.1.0") format("woff"),url("../fonts/fontawesome-webfont.ttf?v=4.1.0") format("truetype"),url("../fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular") format("svg");
-    font-weight:normal;
-    font-style:normal}
-
-.fa,#content .admonition-title,.icon{
-    display:inline-block;
-    font-family: FontAwesome;
-    font-style:normal;
-    font-weight:normal;
-    line-height:1;
-    -webkit-font-smoothing:antialiased;
-    -moz-osx-font-smoothing:grayscale}
-
-.fa-ul{
-    padding-left:0;
-    margin-left:2.14286em;
-    list-style-type:none}
-
-.fa-ul>li{
-    position:relative}
-
-.fa-li{
-    position:absolute;
-    left:-2.14286em;
-    width:2.14286em;
-    top:0.14286em;
-    text-align:center}
-
-.fa-li.fa-lg{
-    left:-1.85714em}
-
-.fa-border{
-    padding:.2em .25em .15em;
-    border:solid 0.08em #eee;
-    border-radius:.1em}
-
-.fa:before,#content .admonition-title:before{
-    display:inline-block;
-    font-style:normal;
-    font-weight:normal;
-    line-height:1;
-    text-decoration:inherit}
-
-a .fa,a #content .admonition-title,#content a .admonition-title{
-    display:inline-block;
-    text-decoration:inherit}
-
-.nav #content .admonition-title,#content .nav .admonition-title,.nav .icon{
-    display:inline}
 
 .wy-alert-title,#content .admonition-title{
     color:#fff;
@@ -896,8 +820,7 @@ a:visited{
 .parallel-control-btn,
 #parallel-close-btn,
 .parallel-pane-header a,
-#parallel-home-btn,
-.pdf-badge-readtheorg {
+#parallel-home-btn {
     text-decoration: none;
 }
 
@@ -925,7 +848,6 @@ hr{
 
 #table-of-contents header{
     height:32px;
-    display:inline-block;
     line-height:32px;
     padding:0 1.618em;
     display:block;
@@ -947,19 +869,14 @@ hr{
     background: var(--toc-active-bg)}
 
 #table-of-contents li a{
-    /* color:#404040; */
     padding:0.4045em 1.618em;
     position:relative;
-    /* background:#fcfcfc; */
     border:none;
-    /* border-bottom:solid 1px #c9c9c9; */
-    /* border-top:solid 1px #c9c9c9; */
     padding-left:1.618em -4px;
     color: var(--toc-text);
 }
 
 #table-of-contents li ul li a{
-    /* background:#c9c9c9; */
     padding:0.4045em 2.427em}
 
 #table-of-contents li ul li ul li a{
@@ -968,15 +885,10 @@ hr{
 #table-of-contents li.current ul{
     display:block}
 
-/* #table-of-contents li ul{ */
-/*     margin-bottom:0; */
-/*     display:none} */
-
 #table-of-contents .local-toc li ul{
     display:block}
 
 #table-of-contents a{
-    display:inline-block;
     line-height:18px;
     padding:0.4045em 1.618em;
     display:block;
@@ -990,11 +902,6 @@ hr{
     color: var(--toc-hover-text) !important;
     background-color: var(--accent-purple-dark);
     cursor:pointer}
-
-/* #text-table-of-contents {     */
-/*     overflow:scroll;  */
-/*     color: red;			   */
-/* } */
 
 #table-of-contents{
     position:fixed;
@@ -1951,61 +1858,6 @@ body.parallel-view-open #parallel-view-btn {
     }
 }
 
-/* PDF Badge in TOC */
-.pdf-badge-container {
-    margin-top: 20px;
-    padding: 15px 10px;
-    border-top: 2px solid #38325c;
-}
-
-.pdf-badge-readtheorg {
-    display: block;
-    width: 100%;
-    padding: 0.8em 1em;
-    background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
-    color: #ffffff;
-    font-size: 0.9em;
-    font-weight: 700;
-    letter-spacing: 0.5px;
-    text-decoration: none;
-    border: 2px solid #c0392b;
-    border-radius: 6px;
-    transition: all 0.3s ease;
-    text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-}
-
-.pdf-badge-readtheorg i {
-    margin-right: 0.5em;
-}
-
-.pdf-badge-readtheorg:hover {
-    background: linear-gradient(135deg, #c0392b 0%, #a93226 100%);
-    border-color: #a93226;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(231, 76, 60, 0.5);
-    text-decoration: none;
-    color: #ffffff;
-}
-
-.pdf-badge-readtheorg:focus {
-    outline: 2px solid #ffffff;
-    outline-offset: 2px;
-}
-
-/* Mobile adjustments */
-@media (max-width: 768px) {
-    .pdf-badge-container {
-        padding: 10px 5px;
-        margin-top: 15px;
-    }
-
-    .pdf-badge-readtheorg {
-        padding: 0.6em 0.8em;
-        font-size: 0.85em;
-    }
-}
-
 /* ============================================
    Theme Toggle
    ============================================ */
@@ -2064,5 +1916,115 @@ body.toc-hidden #theme-toggle-btn {
         top: 8px;
         right: 80px;
         z-index: 11;
+    }
+}
+
+/* ============================================
+   Reading Progress Notification
+   ============================================ */
+
+#reading-progress-notification {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10000;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border: 2px solid #BD33A4;
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(189, 51, 164, 0.3);
+    padding: 15px 20px;
+    max-width: 500px;
+    width: 90%;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+    animation: slideDown 0.4s ease;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateX(-50%) translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
+.reading-progress-notification-content {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #F4F6FF;
+}
+
+.reading-progress-notification-content .reading-progress-icon {
+    font-size: 1.8em;
+    flex-shrink: 0;
+}
+
+.reading-progress-notification-content .reading-progress-text {
+    flex-grow: 1;
+}
+
+.reading-progress-notification-content .reading-progress-text strong {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 4px;
+    color: #BD33A4;
+}
+
+.reading-progress-notification-content .reading-progress-text p {
+    margin: 4px 0;
+    font-size: 0.9em;
+    color: #F4F6FF;
+    line-height: 1.4;
+    max-height: 2.8em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.reading-progress-notification-content .reading-progress-text small {
+    font-size: 0.8em;
+    color: #999;
+}
+
+.reading-progress-notification-content .btn-dismiss {
+    padding: 6px 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1.2em;
+    background: transparent;
+    color: #999;
+    flex-shrink: 0;
+    transition: all 0.2s ease;
+}
+
+.reading-progress-notification-content .btn-dismiss:hover {
+    color: #F4F6FF;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+@media (max-width: 768px) {
+    #reading-progress-notification {
+        top: 10px;
+        padding: 12px 15px;
+        max-width: 95%;
+    }
+
+    .reading-progress-notification-content {
+        gap: 10px;
+    }
+
+    .reading-progress-notification-content .reading-progress-text p {
+        white-space: normal;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
     }
 }

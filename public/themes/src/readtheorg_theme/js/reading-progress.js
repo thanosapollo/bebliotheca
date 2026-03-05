@@ -12,7 +12,6 @@
         scrollDebounceMs: 500,
         headingSelectors: 'h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]',
         viewportThreshold: 200, // Pixels from top to consider "in view"
-        promptDisplayTime: 10000, // Show continue reading prompt for 10 seconds
     };
 
     // State
@@ -48,7 +47,6 @@
         headings = Array.from(document.querySelectorAll(CONFIG.headingSelectors));
 
         if (headings.length === 0) {
-            console.log('ReadingProgress: No headings with IDs found');
             return;
         }
 
@@ -61,7 +59,6 @@
         // Save progress before leaving page
         window.addEventListener('beforeunload', saveCurrentProgress);
 
-        console.log('ReadingProgress: Initialized for', currentPageKey);
     }
 
     /**
@@ -195,7 +192,6 @@
         const progress = getCurrentPageProgress();
 
         if (!progress) {
-            console.log('ReadingProgress: No saved progress for this page');
             return;
         }
 
@@ -204,7 +200,6 @@
         const daysSince = (Date.now() - savedDate.getTime()) / (1000 * 60 * 60 * 24);
 
         if (daysSince > 30) {
-            console.log('ReadingProgress: Saved progress too old, ignoring');
             return;
         }
 
@@ -254,9 +249,6 @@
             </div>
         `;
 
-        // Add styles
-        addNotificationStyles();
-
         // Add to page
         document.body.appendChild(notification);
 
@@ -271,60 +263,6 @@
                 removeNotification();
             }
         }, 5000);
-    }
-
-    /**
-     * Show continue reading prompt (legacy - kept for potential future use)
-     */
-    function showContinueReadingPrompt(progress) {
-        if (promptDismissed) return;
-
-        const prompt = document.createElement('div');
-        prompt.id = 'reading-progress-prompt';
-        prompt.innerHTML = `
-            <div class="reading-progress-content">
-                <span class="reading-progress-icon">📖</span>
-                <div class="reading-progress-text">
-                    <strong>Continue reading?</strong>
-                    <p>${progress.headingText}</p>
-                    <small>${formatTimestamp(progress.timestamp)} • ${progress.percentage}% complete</small>
-                </div>
-                <div class="reading-progress-actions">
-                    <button id="continue-reading-btn" class="btn-continue">Continue</button>
-                    <button id="start-over-btn" class="btn-start-over">Start Over</button>
-                    <button id="dismiss-prompt-btn" class="btn-dismiss">✕</button>
-                </div>
-            </div>
-        `;
-
-        // Add styles
-        addPromptStyles();
-
-        // Add to page
-        document.body.appendChild(prompt);
-
-        // Setup event listeners
-        document.getElementById('continue-reading-btn').addEventListener('click', () => {
-            scrollToProgress(progress);
-            removePrompt();
-        });
-
-        document.getElementById('start-over-btn').addEventListener('click', () => {
-            clearCurrentPageProgress();
-            removePrompt();
-        });
-
-        document.getElementById('dismiss-prompt-btn').addEventListener('click', () => {
-            promptDismissed = true;
-            removePrompt();
-        });
-
-        // Auto-hide after configured time
-        setTimeout(() => {
-            if (document.getElementById('reading-progress-prompt')) {
-                removePrompt();
-            }
-        }, CONFIG.promptDisplayTime);
     }
 
     /**
@@ -359,17 +297,6 @@
     }
 
     /**
-     * Remove the prompt from DOM
-     */
-    function removePrompt() {
-        const prompt = document.getElementById('reading-progress-prompt');
-        if (prompt) {
-            prompt.style.opacity = '0';
-            setTimeout(() => prompt.remove(), 300);
-        }
-    }
-
-    /**
      * Clear progress for current page
      */
     function clearCurrentPageProgress() {
@@ -400,283 +327,10 @@
         }
     }
 
-    /**
-     * Add CSS styles for the notification
-     */
-    function addNotificationStyles() {
-        if (document.getElementById('reading-progress-notification-styles')) return;
-
-        const styles = document.createElement('style');
-        styles.id = 'reading-progress-notification-styles';
-        styles.textContent = `
-            #reading-progress-notification {
-                position: fixed;
-                top: 20px;
-                left: 50%;
-                transform: translateX(-50%);
-                z-index: 10000;
-                background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-                border: 2px solid #BD33A4;
-                border-radius: 12px;
-                box-shadow: 0 8px 32px rgba(189, 51, 164, 0.3);
-                padding: 15px 20px;
-                max-width: 500px;
-                width: 90%;
-                opacity: 1;
-                transition: opacity 0.3s ease;
-                animation: slideDown 0.4s ease;
-            }
-
-            @keyframes slideDown {
-                from {
-                    opacity: 0;
-                    transform: translateX(-50%) translateY(-20px);
-                }
-                to {
-                    opacity: 1;
-                    transform: translateX(-50%) translateY(0);
-                }
-            }
-
-            .reading-progress-notification-content {
-                display: flex;
-                align-items: center;
-                gap: 15px;
-                color: #F4F6FF;
-            }
-
-            .reading-progress-notification-content .reading-progress-icon {
-                font-size: 1.8em;
-                flex-shrink: 0;
-            }
-
-            .reading-progress-notification-content .reading-progress-text {
-                flex-grow: 1;
-            }
-
-            .reading-progress-notification-content .reading-progress-text strong {
-                display: block;
-                font-size: 1em;
-                margin-bottom: 4px;
-                color: #BD33A4;
-            }
-
-            .reading-progress-notification-content .reading-progress-text p {
-                margin: 4px 0;
-                font-size: 0.9em;
-                color: #F4F6FF;
-                line-height: 1.4;
-                max-height: 2.8em;
-                overflow: hidden;
-                text-overflow: ellipsis;
-                display: -webkit-box;
-                -webkit-line-clamp: 2;
-                -webkit-box-orient: vertical;
-            }
-
-            .reading-progress-notification-content .reading-progress-text small {
-                font-size: 0.8em;
-                color: #999;
-            }
-
-            .reading-progress-notification-content .btn-dismiss {
-                padding: 6px 10px;
-                border: none;
-                border-radius: 6px;
-                cursor: pointer;
-                font-size: 1.2em;
-                background: transparent;
-                color: #999;
-                flex-shrink: 0;
-                transition: all 0.2s ease;
-            }
-
-            .reading-progress-notification-content .btn-dismiss:hover {
-                color: #F4F6FF;
-                background: rgba(255, 255, 255, 0.1);
-            }
-
-            @media (max-width: 768px) {
-                #reading-progress-notification {
-                    top: 10px;
-                    padding: 12px 15px;
-                    max-width: 95%;
-                }
-
-                .reading-progress-notification-content {
-                    gap: 10px;
-                }
-
-                .reading-progress-notification-content .reading-progress-text p {
-                    white-space: normal;
-                    display: -webkit-box;
-                    -webkit-line-clamp: 2;
-                    -webkit-box-orient: vertical;
-                }
-            }
-        `;
-
-        document.head.appendChild(styles);
-    }
-
-    /**
-     * Add CSS styles for the prompt
-     */
-    function addPromptStyles() {
-        if (document.getElementById('reading-progress-styles')) return;
-
-        const styles = document.createElement('style');
-        styles.id = 'reading-progress-styles';
-        styles.textContent = `
-            #reading-progress-prompt {
-                position: fixed;
-                top: 20px;
-                left: 50%;
-                transform: translateX(-50%);
-                z-index: 10000;
-                background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-                border: 2px solid #BD33A4;
-                border-radius: 12px;
-                box-shadow: 0 8px 32px rgba(189, 51, 164, 0.3);
-                padding: 20px;
-                max-width: 600px;
-                width: 90%;
-                opacity: 1;
-                transition: opacity 0.3s ease;
-                animation: slideDown 0.4s ease;
-            }
-
-            @keyframes slideDown {
-                from {
-                    opacity: 0;
-                    transform: translateX(-50%) translateY(-20px);
-                }
-                to {
-                    opacity: 1;
-                    transform: translateX(-50%) translateY(0);
-                }
-            }
-
-            .reading-progress-content {
-                display: flex;
-                align-items: center;
-                gap: 15px;
-                color: #F4F6FF;
-            }
-
-            .reading-progress-icon {
-                font-size: 2em;
-                flex-shrink: 0;
-            }
-
-            .reading-progress-text {
-                flex-grow: 1;
-            }
-
-            .reading-progress-text strong {
-                display: block;
-                font-size: 1.1em;
-                margin-bottom: 5px;
-                color: #BD33A4;
-            }
-
-            .reading-progress-text p {
-                margin: 5px 0;
-                font-size: 0.95em;
-                color: #F4F6FF;
-                overflow: hidden;
-                text-overflow: ellipsis;
-                white-space: nowrap;
-            }
-
-            .reading-progress-text small {
-                font-size: 0.85em;
-                color: #999;
-            }
-
-            .reading-progress-actions {
-                display: flex;
-                gap: 10px;
-                flex-shrink: 0;
-            }
-
-            .reading-progress-actions button {
-                padding: 8px 16px;
-                border: none;
-                border-radius: 6px;
-                cursor: pointer;
-                font-size: 0.9em;
-                font-weight: 500;
-                transition: all 0.2s ease;
-            }
-
-            .btn-continue {
-                background: #BD33A4;
-                color: white;
-            }
-
-            .btn-continue:hover {
-                background: #9929EA;
-                transform: translateY(-1px);
-            }
-
-            .btn-start-over {
-                background: transparent;
-                color: #F4F6FF;
-                border: 1px solid #444;
-            }
-
-            .btn-start-over:hover {
-                background: #2a2a3e;
-                border-color: #666;
-            }
-
-            .btn-dismiss {
-                background: transparent;
-                color: #999;
-                padding: 8px 12px;
-                font-size: 1.2em;
-            }
-
-            .btn-dismiss:hover {
-                color: #F4F6FF;
-                background: rgba(255, 255, 255, 0.1);
-            }
-
-            @media (max-width: 768px) {
-                #reading-progress-prompt {
-                    top: 10px;
-                    padding: 15px;
-                    max-width: 95%;
-                }
-
-                .reading-progress-content {
-                    flex-wrap: wrap;
-                    gap: 10px;
-                }
-
-                .reading-progress-actions {
-                    width: 100%;
-                    justify-content: flex-end;
-                }
-
-                .reading-progress-text p {
-                    white-space: normal;
-                    display: -webkit-box;
-                    -webkit-line-clamp: 2;
-                    -webkit-box-orient: vertical;
-                }
-            }
-        `;
-
-        document.head.appendChild(styles);
-    }
-
     // Public API (if needed)
     window.ReadingProgress = {
         clearAll: function() {
             localStorage.removeItem(CONFIG.storageKey);
-            console.log('ReadingProgress: All progress cleared');
         },
         getAllProgress: getAllProgress,
         getCurrentProgress: getCurrentPageProgress,

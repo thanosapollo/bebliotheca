@@ -199,12 +199,6 @@
 
             const progressData = JSON.parse(allProgress);
 
-            // Debug: Log all stored paths on first call
-            if (!getReadingProgress.logged) {
-                console.log('Available progress data:', Object.keys(progressData));
-                getReadingProgress.logged = true;
-            }
-
             // Find progress for any translation of this work
             // Check all possible paths with and without leading slash
             const paths = [
@@ -245,10 +239,7 @@
                 return b.percentage - a.percentage;
             });
 
-            const selected = candidates[0];
-            console.log(`Selected progress for ${workId}: ${selected.percentage}% from ${selected.path} (${selected.dateOnly})`);
-
-            return Math.round(selected.percentage);
+            return Math.round(candidates[0].percentage);
         } catch (e) {
             console.error('Error reading progress:', e);
             return 0;

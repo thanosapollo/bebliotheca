@@ -19,13 +19,11 @@
         init: function() {
             // Don't show button if we're inside an iframe
             if (window.self !== window.top) {
-                console.log('Inside iframe, not showing parallel button');
                 return;
             }
 
             // Don't show button if we're already in a parallel view
             if (window.inParallelView) {
-                console.log('Already in parallel view, not showing button');
                 return;
             }
 
@@ -178,7 +176,6 @@
 
                 $('#left-frame').attr('src', newPath);
                 $('#left-pane .open-link').attr('href', newPath);
-                console.log('Left pane changed to:', newPath);
             });
 
             // Right language selector
@@ -188,7 +185,6 @@
 
                 $('#right-frame').attr('src', newPath);
                 $('#right-pane .open-link').attr('href', newPath);
-                console.log('Right pane changed to:', newPath);
             });
 
             // Sync toggle
@@ -267,9 +263,8 @@
                         }
                     `;
                     iframeDoc.head.appendChild(style);
-                    console.log('Injected styles and synced theme/font into iframe');
                 } catch (e) {
-                    console.log('Could not inject styles:', e);
+                    // cross-origin or not loaded yet
                 }
 
                 if (loadCount === 2) {
@@ -347,7 +342,6 @@
                     var href = $(this).attr('href');
                     if (href && href.startsWith('#')) {
                         var headingId = href.substring(1);
-                        console.log('Left TOC clicked:', headingId);
                         ParallelView.scrollBothToHeading(headingId);
                     }
                 });
@@ -358,14 +352,12 @@
                     var href = $(this).attr('href');
                     if (href && href.startsWith('#')) {
                         var headingId = href.substring(1);
-                        console.log('Right TOC clicked:', headingId);
                         ParallelView.scrollBothToHeading(headingId);
                     }
                 });
 
-                console.log('TOC click handlers setup complete');
             } catch (e) {
-                console.log('Error setting up TOC handlers:', e);
+                // cross-origin or not loaded yet
             }
         },
 
@@ -390,13 +382,9 @@
                     leftDoc.documentElement.scrollTop = targetScroll;
                     leftDoc.body.scrollTop = targetScroll;
                     ParallelView.lastLeft = targetScroll;
-
-                    console.log('Scrolled left to:', headingId, targetScroll);
-                } else {
-                    console.log('Heading not found in left:', headingId);
                 }
             } catch (e) {
-                console.log('Error scrolling left:', e);
+                // cross-origin or not loaded yet
             }
 
             // Scroll right frame
@@ -411,13 +399,9 @@
                     rightDoc.documentElement.scrollTop = targetScroll;
                     rightDoc.body.scrollTop = targetScroll;
                     ParallelView.lastRight = targetScroll;
-
-                    console.log('Scrolled right to:', headingId, targetScroll);
-                } else {
-                    console.log('Heading not found in right:', headingId);
                 }
             } catch (e) {
-                console.log('Error scrolling right:', e);
+                // cross-origin or not loaded yet
             }
         },
 
@@ -489,8 +473,6 @@
             var leftWin = leftFrame.contentWindow;
             var rightWin = rightFrame.contentWindow;
 
-            console.log('Starting section-based sync...');
-
             // Section-based sync polling
             ParallelView.syncInterval = setInterval(function() {
                 if (!ParallelView.syncEnabled || ParallelView.syncing) return;
@@ -504,18 +486,16 @@
 
                     // Left scrolled
                     if (Math.abs(leftScroll - ParallelView.lastLeft) > 20) {
-                        console.log('Left scrolled to:', leftScroll);
                         ParallelView.lastLeft = leftScroll;
                         ParallelView.syncFromLeftToRight(leftWin, rightWin);
                     }
                     // Right scrolled
                     else if (Math.abs(rightScroll - ParallelView.lastRight) > 20) {
-                        console.log('Right scrolled to:', rightScroll);
                         ParallelView.lastRight = rightScroll;
                         ParallelView.syncFromRightToLeft(rightWin, leftWin);
                     }
                 } catch (e) {
-                    console.log('Sync error:', e);
+                    // cross-origin or not loaded yet
                 }
             }, 200);
         },
@@ -538,7 +518,6 @@
             var rightHeading = rightDoc.getElementById(headingId);
 
             if (!rightHeading) {
-                console.log('Heading not found in right:', headingId);
                 ParallelView.syncing = false;
                 return;
             }
@@ -585,8 +564,6 @@
             rightDoc.body.scrollTop = targetScroll;
             ParallelView.lastRight = targetScroll;
 
-            console.log('Synced to heading:', headingId, 'section %:', (percentage * 100).toFixed(1));
-
             setTimeout(function() {
                 ParallelView.syncing = false;
             }, 100);
@@ -610,7 +587,6 @@
             var leftHeading = leftDoc.getElementById(headingId);
 
             if (!leftHeading) {
-                console.log('Heading not found in left:', headingId);
                 ParallelView.syncing = false;
                 return;
             }
@@ -656,8 +632,6 @@
             leftDoc.documentElement.scrollTop = targetScroll;
             leftDoc.body.scrollTop = targetScroll;
             ParallelView.lastLeft = targetScroll;
-
-            console.log('Synced to heading:', headingId, 'section %:', (percentage * 100).toFixed(1));
 
             setTimeout(function() {
                 ParallelView.syncing = false;

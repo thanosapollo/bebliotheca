@@ -38,12 +38,6 @@ $(function() {
 
 $( document ).ready(function() {
 
-    // Shift nav in mobile when clicking the menu.
-    $(document).on('click', "[data-toggle='wy-nav-top']", function() {
-      $("[data-toggle='wy-nav-shift']").toggleClass("shift");
-      $("[data-toggle='rst-versions']").toggleClass("shift");
-    });
-
     // MOBILE ONLY: Close menu only when clicking leaf items (items with no sub-items)
     $(document).on('click', "#text-table-of-contents a", function(e) {
       // Only apply this behavior on mobile screens
@@ -75,9 +69,6 @@ $( document ).ready(function() {
       }
     });
 
-    $(document).on('click', "[data-toggle='rst-current-version']", function() {
-      $("[data-toggle='rst-versions']").toggleClass("shift-up");
-    });
     // Make tables responsive
     $("table.docutils:not(.field-list)").wrap("<div class='wy-table-responsive'></div>");
 });
@@ -91,9 +82,6 @@ $( document ).ready(function() {
                                         // ScrollSpy also requires that we use
                                         // a Bootstrap nav component.
     $('body').scrollspy({target: '#text-table-of-contents'});
-
-    // DON'T add sticky table headers (Fix issue #69?)
-    // $('table').stickyTableHeaders();
 
     // set the height of tableOfContents
     var $postamble = $('#postamble');
@@ -193,36 +181,6 @@ $( document ).ready(function() {
         }
     });
 });
-
-window.SphinxRtdTheme = (function (jquery) {
-    var stickyNav = (function () {
-        var navBar,
-            win,
-            stickyNavCssClass = 'stickynav',
-            applyStickNav = function () {
-                if (navBar.height() <= win.height()) {
-                    navBar.addClass(stickyNavCssClass);
-                } else {
-                    navBar.removeClass(stickyNavCssClass);
-                }
-            },
-            enable = function () {
-                applyStickNav();
-                win.on('resize', applyStickNav);
-            },
-            init = function () {
-                navBar = jquery('nav.wy-nav-side:first');
-                win    = jquery(window);
-            };
-        jquery(init);
-        return {
-            enable : enable
-        };
-    }());
-    return {
-        StickyNav : stickyNav
-    };
-}($));
 
 // Citation Feature
 $(document).ready(function() {
