@@ -39,6 +39,7 @@ public/
   themes/      CSS/JS themes
 scripts/       Import and conversion tools
 sources/       External corpora (git submodules)
+sources.org    Source documentation, import status, and future plans
 tests/         Validation scripts
 #+end_example
 
@@ -50,3 +51,8 @@ tests/         Validation scripts
 - Git (for submodules)
 
 See =manifests.scm= for the full Guix environment.
+
+* Contributing
+- Refer to [[file:sources.org][sources.org]] for available todos.
+- Run =make test= before submitting changes.
+- Note: Imports are additive: =make import= never overwrites existing files.
