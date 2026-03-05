@@ -96,6 +96,13 @@ a:hover {
     margin-bottom: 0;
 }
 
+.motto {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    margin-top: 0.5em;
+    letter-spacing: 0.3px;
+}
+
 /* Theme Toggle Button */
 .theme-toggle {
     position: absolute;
@@ -107,7 +114,7 @@ a:hover {
     padding: 0.5em 1em;
     border-radius: 6px;
     cursor: pointer;
-    font-size: 0.9em;
+    font-size: 100%;
     transition: all 0.2s ease;
     font-family: inherit;
 }
@@ -131,7 +138,7 @@ a:hover {
     border-left: 2px solid var(--border-color);
     padding: 0.6em 1em;
     margin: 0;
-    font-size: 0.85em;
+    /* font-size: 120%; */
     font-style: italic;
     color: var(--text-muted);
     text-align: center;
@@ -156,8 +163,8 @@ a:hover {
 
 #search-box {
     width: 100%;
-    padding: 0.75em 1em;
-    font-size: 1em;
+    padding: 0.75em 2.5em 0.75em 1em;
+    font-size: 1.05em;
     border: 1px solid var(--border-color);
     border-radius: 6px;
     background: var(--bg-secondary);
@@ -174,6 +181,28 @@ a:hover {
     outline: none;
     border-color: var(--accent-purple);
     background: var(--bg-primary);
+}
+
+/* Search Clear Button */
+.search-clear {
+    display: none;
+    position: absolute;
+    right: 0.5em;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1.3em;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    transition: color 0.2s ease;
+}
+
+.search-clear:hover {
+    color: var(--text-primary);
 }
 
 /* ========================================
@@ -243,7 +272,7 @@ a:hover {
 
 .filter-btn {
     padding: 0.5em 1em;
-    font-size: 0.85em;
+    font-size: 0.9em;
     border: 1px solid var(--border-color);
     border-radius: 6px;
     background: var(--bg-secondary);
@@ -313,23 +342,28 @@ a:hover {
 }
 
 .work-title {
-    font-size: 1.15em;
+    font-size: 1.25em;
     font-weight: 500;
     margin-bottom: 0.25em;
     color: var(--text-primary);
 }
 
 .work-translation {
-    font-size: 0.9em;
+    font-size: 0.95em;
     margin-top: 0.25em;
     color: var(--text-secondary);
     font-style: italic;
 }
 
 .work-author {
-    font-size: 0.9em;
+    font-size: 0.95em;
     color: var(--text-secondary);
     margin-top: 0.15em;
+    cursor: pointer;
+}
+
+.work-author:hover {
+    color: var(--accent-purple);
 }
 
 .progress-container {
@@ -365,12 +399,13 @@ a:hover {
 }
 
 .tag {
-    font-size: 0.75em;
+    font-size: 0.8em;
     padding: 0.25em 0.6em;
     background: var(--bg-tertiary);
     border: 1px solid var(--border-color);
     border-radius: 3px;
     color: var(--text-muted);
+    cursor: pointer;
     transition: all 0.2s ease;
 }
 
@@ -393,7 +428,7 @@ a:hover {
 
 .lang-btn {
     padding: 0.5em 1em;
-    font-size: 0.85em;
+    font-size: 0.9em;
     font-weight: 500;
     text-decoration: none;
     border: 1px solid var(--border-color);

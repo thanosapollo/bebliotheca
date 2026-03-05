@@ -425,7 +425,7 @@
             // Build tags display
             let tagsHtml = '';
             if (work.tags && work.tags.length > 0) {
-                const tagElements = work.tags.map(tag => `<span class="tag">#${escapeHtml(tag)}</span>`).join('');
+                const tagElements = work.tags.map(tag => `<span class="tag" data-tag="${escapeHtml(tag)}">#${escapeHtml(tag)}</span>`).join('');
                 tagsHtml = `<div class="work-tags">${tagElements}</div>`;
             }
 
@@ -433,7 +433,7 @@
                 <li class="work-item${recentClass}">
                     <div class="work-info">
                         ${titleHtml}
-                        <div class="work-author">${escapeHtml(work.author)}</div>
+                        <div class="work-author" data-author="${escapeHtml(work.author)}">${escapeHtml(work.author)}</div>
                         ${progressHtml}
                         ${tagsHtml}
                     </div>
@@ -453,18 +453,39 @@
         }
     }
 
+    // Show/hide the clear button based on search box content
+    function updateClearButton() {
+        const searchBox = document.getElementById('search-box');
+        const clearBtn = document.getElementById('search-clear');
+        clearBtn.style.display = searchBox.value.length > 0 ? 'block' : 'none';
+    }
+
     function initSearch() {
         const searchBox = document.getElementById('search-box');
         const dropdown = document.getElementById('search-dropdown');
+        const clearBtn = document.getElementById('search-clear');
         let debounceTimeout;
         let activeIndex = -1;
+
+        // Clear button
+        updateClearButton();
+        clearBtn.addEventListener('click', function() {
+            searchBox.value = '';
+            searchQuery = '';
+            updateClearButton();
+            dropdown.classList.remove('visible');
+            dropdown.innerHTML = '';
+            activeIndex = -1;
+            applyFilters();
+            searchBox.focus();
+        });
 
         function getMatchingSuggestions(value) {
             const val = value.trim().toLowerCase();
             if (val.startsWith('#')) {
                 const partial = val.substring(1);
                 return tagSuggestions.filter(s =>
-                    s.value.substring(1).startsWith(partial)
+                    s.value.substring(1).toLowerCase().startsWith(partial)
                 );
             }
             if (val.startsWith('lang:')) {
@@ -523,6 +544,7 @@
         }
 
         searchBox.addEventListener('input', function() {
+            updateClearButton();
             updateDropdown();
             clearTimeout(debounceTimeout);
             debounceTimeout = setTimeout(() => {
@@ -586,15 +608,38 @@
     }
 
     function initClickTracking() {
-        // Use event delegation to track clicks on language buttons
         const container = document.getElementById('works-container');
+        const searchBox = document.getElementById('search-box');
+
         container.addEventListener('click', function(e) {
+            // Track clicks on language buttons
             const langBtn = e.target.closest('.lang-btn');
             if (langBtn) {
                 const workId = langBtn.getAttribute('data-work-id');
                 if (workId) {
                     saveRecentlyViewed(workId);
                 }
+                return;
+            }
+
+            // Click on tag => search by that tag
+            const tagEl = e.target.closest('.tag');
+            if (tagEl && tagEl.dataset.tag) {
+                searchBox.value = '#' + tagEl.dataset.tag;
+                searchQuery = searchBox.value.trim();
+                updateClearButton();
+                applyFilters();
+                return;
+            }
+
+            // Click on author => search by that author
+            const authorEl = e.target.closest('.work-author');
+            if (authorEl && authorEl.dataset.author) {
+                searchBox.value = authorEl.dataset.author;
+                searchQuery = searchBox.value.trim();
+                updateClearButton();
+                applyFilters();
+                return;
             }
         });
     }
@@ -611,5 +656,7 @@
         initSearch();
         initFilters();
         initClickTracking();
+        document.getElementById('copyright').textContent =
+            '\u00A9 ' + new Date().getFullYear() + ' Bebliotheca Project';
     });
 })();

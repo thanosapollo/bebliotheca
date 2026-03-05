@@ -17,27 +17,29 @@
         </button>
         <h1 class="title">Βιβλιοθήκη</h1>
         <div class="subtitle">Library of Constantinople</div>
+        <div class="motto">Preserving the wisdom of antiquity</div>
     </div>
 
     <div class="intro">
-        <blockquote class="dev-notice">
-          <a href="https://www.gnu.org/philosophy/"> Free</a> & Open Source Project |
-	  <u><b>Under Development</u></b> |
-	  <a href="https://git.thanosapollo.org/bebliotheca">Upstream</a> |
-	  <a href="https://codeberg.org/bebliotheca/bebliotheca">Codeberg Mirror</a>
+      <blockquote class="dev-notice">
+
+        <a href="https://www.gnu.org/philosophy/"> Free</a> & Open Source Project |
+	<a href="https://git.thanosapollo.org/bebliotheca">Upstream</a> |
+	<a href="https://codeberg.org/bebliotheca/bebliotheca">Codeberg Mirror</a>
         </blockquote>
     </div>
 
     <div class="container">
         <div class="search-container">
             <input type="text" id="search-box" placeholder="Search by title, author, #tag, or lang:..." autocomplete="off">
+            <button class="search-clear" id="search-clear" aria-label="Clear search">&times;</button>
             <ul class="search-dropdown" id="search-dropdown"></ul>
         </div>
 
         <div class="filter-buttons">
             <button class="filter-btn active" data-filter="all">All Works</button>
-            <button class="filter-btn" data-filter="translated">With Translation</button>
-            <button class="filter-btn" data-filter="untranslated">No Translation</button>
+            <button class="filter-btn" data-filter="translated">With English</button>
+            <button class="filter-btn" data-filter="untranslated">Greek/Latin Only</button>
         </div>
 
         <div class="stats" id="stats">
@@ -49,10 +51,9 @@
         <ul class="works-list" id="works-container"></ul>
 
         <div class="footer">
-            Preserving the wisdom of antiquity
+            <span id="copyright"></span>
         </div>
     </div>
-
     <script src="themes/src/index_theme/js/index.js"></script>
 </body>
 </html>
