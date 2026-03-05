@@ -15,6 +15,9 @@ __pycache__
 # Keep index files
 !public/index.html
 
+# Generated per-language index files
+content/*/index.org
+
 # Log directory: all generated, not tracked
 !log/
 log/*
