@@ -159,7 +159,7 @@ $( document ).ready(function() {
     themeBtnMobile.on('click', function() { themeBtn.click(); });
 
     // add home button independently (not in TOC)
-    var homeButton = $('<a id="home-button" href="/index.html" title="Επιστροφή στην αρχική σελίδα">⌂</a>');
+    var homeButton = $('<a id="home-button" href="/index.html" title="Επιστροφή στην αρχική σελίδα" aria-label="Return to library index">⌂</a>');
     $('body').append(homeButton);
 
     // TOC toggle functionality (desktop only)
