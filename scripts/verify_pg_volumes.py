@@ -275,7 +275,8 @@ def canonical_volumes_for_author(author_key):
 
 def main():
     # Load catalog
-    catalog_path = Path('/home/thanos/Dev/web/bebliotheca/public/catalog.json')
+    root = Path(__file__).resolve().parent.parent
+    catalog_path = root / 'public' / 'catalog.json'
     with open(catalog_path) as f:
         data = json.load(f)
         catalog = data['works']

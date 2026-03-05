@@ -27,6 +27,7 @@ from xml.etree import ElementTree as ET
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from author_data import build_filetags
+from org_utils import add_custom_ids
 
 # TEI namespace
 TEI_NS = {'tei': 'http://www.tei-c.org/ns/1.0'}
@@ -67,60 +68,6 @@ def clean_whitespace(text: str) -> str:
         else:
             result.append(line)
             prev_blank = False
-    return '\n'.join(result)
-
-
-def add_custom_ids(org_text: str) -> str:
-    """Add positional hN-hN CUSTOM_IDs to every Org heading.
-
-    Mirrors thanos/org-add-custom-ids: each heading gets a hierarchical
-    ID based on its position among siblings at each depth level.
-    Replaces any existing CUSTOM_ID in PROPERTIES drawers.
-    """
-    lines = org_text.split('\n')
-    result: List[str] = []
-    counters: Dict[int, int] = {}
-    i = 0
-
-    while i < len(lines):
-        line = lines[i]
-        m = re.match(r'^(\*+)\s', line)
-
-        if m:
-            depth = len(m.group(1))
-            counters[depth] = counters.get(depth, 0) + 1
-            for d in list(counters):
-                if d > depth:
-                    del counters[d]
-            custom_id = '-'.join(
-                f'h{counters[d]}' for d in sorted(counters) if d <= depth
-            )
-
-            result.append(line)
-            i += 1
-
-            # Check for existing PROPERTIES drawer
-            if i < len(lines) and lines[i].strip() == ':PROPERTIES:':
-                i += 1  # skip :PROPERTIES:
-                other_props: List[str] = []
-                while i < len(lines) and lines[i].strip() != ':END:':
-                    if ':CUSTOM_ID:' not in lines[i]:
-                        other_props.append(lines[i])
-                    i += 1
-                i += 1  # skip :END:
-                result.append(':PROPERTIES:')
-                result.append(f':CUSTOM_ID: {custom_id}')
-                result.extend(other_props)
-                result.append(':END:')
-            else:
-                # Insert new PROPERTIES drawer
-                result.append(':PROPERTIES:')
-                result.append(f':CUSTOM_ID: {custom_id}')
-                result.append(':END:')
-        else:
-            result.append(line)
-            i += 1
-
     return '\n'.join(result)
 
 
