@@ -483,10 +483,15 @@ a:hover {
    ======================================== */
 
 .loading {
+    display: none;
     text-align: center;
     padding: 3em;
     color: var(--text-muted);
     font-size: 1em;
+}
+
+html.js .loading {
+    display: block;
 }
 
 .no-results {

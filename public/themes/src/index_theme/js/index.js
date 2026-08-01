@@ -10,6 +10,7 @@
     let filteredWorks = [];
     let searchQuery = '';
     let translationFilter = 'all'; // all, translated, untranslated
+    let catalogStatus = 'loading'; // loading | ready | error
 
     // Theme Management
     function initTheme() {
@@ -251,7 +252,9 @@
         const statsText = document.getElementById('stats-text');
         const container = document.getElementById('works-container');
 
+        catalogStatus = 'error';
         loading.classList.add('catalog-error');
+        loading.style.display = '';
         loading.innerHTML =
             '<p>' + escapeHtml(message) + '</p>' +
             '<p>Open <a href="catalog.json">catalog.json</a> or the ' +
@@ -269,6 +272,7 @@
             const data = await response.json();
             catalog = data.works || [];
             tagSuggestions = buildTagSuggestions(catalog);
+            catalogStatus = 'ready';
             applyFilters();
         } catch (error) {
             console.error('Error loading catalog:', error);
@@ -296,6 +300,10 @@
     }
 
     function applyFilters() {
+        if (catalogStatus !== 'ready') {
+            return;
+        }
+
         filteredWorks = catalog.filter(work => {
             // Apply translation filter
             if (translationFilter !== 'all') {

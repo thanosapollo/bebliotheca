@@ -54,6 +54,6 @@ help:
 	@echo "make report           Write test reports to log/"
 	@echo "make import           Import new files from sources (skips existing)"
 	@echo "make update           Update all submodules to latest and re-import"
-	@echo "make test             Run all checks (structure + language + originals + metadata)"
+	@echo "make test             Run all checks (structure + language + originals + metadata + public shell)"
 	@echo "make web              Start local web server on port 8080"
 	@echo "make help             Show this help"

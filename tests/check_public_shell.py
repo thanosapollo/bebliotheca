@@ -90,6 +90,20 @@ def main() -> None:
         fail("JS missing catalog failure recovery helper")
     if "response.ok" not in js:
         fail("JS should reject non-OK catalog responses")
+    if "loading.style.display = ''" not in js and 'loading.style.display = ""' not in js:
+        fail("showCatalogFailure must restore #loading visibility")
+    if "catalogStatus !== 'ready'" not in js:
+        fail("applyFilters must no-op until catalog is ready")
+    if "href=\"catalog.json\"" not in js and "href='catalog.json'" not in js:
+        fail("failure recovery missing catalog.json link")
+    if "git.thanosapollo.org/bebliotheca" not in js:
+        fail("failure recovery missing upstream source link")
+
+    # Predicate for Without English remains originals without English
+    if "translationFilter === 'untranslated'" not in js:
+        fail("untranslated filter branch missing")
+    if "hasEnglish" not in js or "!hasEnglish" not in js:
+        fail("untranslated predicate must still exclude English")
 
     # Ensure gitignore keeps static 404 trackable despite *.html
     gitignore = require(ROOT / ".gitignore")
