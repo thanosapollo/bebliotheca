@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Bebliotheca">
+  <rect width="32" height="32" rx="4" fill="#1a1a1a"/>
+  <path fill="none" stroke="#c9a040" stroke-width="1.5" d="M8 7.5h7.5c2.2 0 3.5 1.4 3.5 3.2v13.3c0-1.5-1.2-2.7-3.2-2.7H8z"/>
+  <path fill="none" stroke="#c9a040" stroke-width="1.5" d="M24 7.5h-7.5c-2.2 0-3.5 1.4-3.5 3.2v13.3c0-1.5 1.2-2.7 3.2-2.7H24z"/>
+  <path stroke="#7b6b9e" stroke-width="1.2" d="M16 10.5v13"/>
+</svg>

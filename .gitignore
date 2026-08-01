@@ -12,8 +12,9 @@ publish.sh
 
 __pycache__
 
-# Keep index files
+# Keep static site shell files
 !public/index.html
+!public/404.html
 
 # Generated per-language index files
 content/*/index.org

@@ -246,17 +246,35 @@
         }
     }
 
+    function showCatalogFailure(message) {
+        const loading = document.getElementById('loading');
+        const statsText = document.getElementById('stats-text');
+        const container = document.getElementById('works-container');
+
+        loading.classList.add('catalog-error');
+        loading.innerHTML =
+            '<p>' + escapeHtml(message) + '</p>' +
+            '<p>Open <a href="catalog.json">catalog.json</a> or the ' +
+            '<a href="https://git.thanosapollo.org/bebliotheca">upstream source</a>.</p>';
+        statsText.textContent = 'Catalog unavailable';
+        container.innerHTML = '';
+    }
+
     async function loadCatalog() {
         try {
             const response = await fetch('catalog.json');
+            if (!response.ok) {
+                throw new Error('HTTP ' + response.status);
+            }
             const data = await response.json();
             catalog = data.works || [];
             tagSuggestions = buildTagSuggestions(catalog);
             applyFilters();
         } catch (error) {
             console.error('Error loading catalog:', error);
-            document.getElementById('loading').textContent = 'Error loading catalog';
-            document.getElementById('stats-text').textContent = 'Failed to load works';
+            showCatalogFailure(
+                'The interactive catalog failed to load. JavaScript is available, but catalog.json could not be read.'
+            );
         }
     }
 
@@ -592,17 +610,61 @@
         });
     }
 
+    function updateFilterUI(selectedBtn, filterButtons) {
+        filterButtons.forEach(function(btn) {
+            const selected = btn === selectedBtn;
+            btn.classList.toggle('active', selected);
+            btn.setAttribute('aria-checked', selected ? 'true' : 'false');
+            btn.tabIndex = selected ? 0 : -1;
+        });
+        translationFilter = selectedBtn.getAttribute('data-filter') || 'all';
+    }
+
+    function setFilterSelection(selectedBtn, filterButtons) {
+        updateFilterUI(selectedBtn, filterButtons);
+        applyFilters();
+    }
+
     function initFilters() {
-        const filterButtons = document.querySelectorAll('.filter-btn');
-        filterButtons.forEach(btn => {
+        const filterButtons = Array.from(document.querySelectorAll('.filter-btn'));
+        if (filterButtons.length === 0) {
+            return;
+        }
+
+        // Initialize exclusive selected state from markup without rendering yet.
+        let initial = filterButtons.find(function(btn) {
+            return btn.classList.contains('active') || btn.getAttribute('aria-checked') === 'true';
+        }) || filterButtons[0];
+        updateFilterUI(initial, filterButtons);
+
+        filterButtons.forEach(function(btn) {
             btn.addEventListener('click', function() {
-                // Remove active class from all buttons
-                filterButtons.forEach(b => b.classList.remove('active'));
-                // Add active class to clicked button
-                this.classList.add('active');
-                // Update filter
-                translationFilter = this.getAttribute('data-filter');
-                applyFilters();
+                setFilterSelection(btn, filterButtons);
+            });
+
+            btn.addEventListener('keydown', function(e) {
+                const currentIndex = filterButtons.indexOf(btn);
+                let nextIndex = -1;
+
+                if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+                    nextIndex = (currentIndex + 1) % filterButtons.length;
+                } else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+                    nextIndex = (currentIndex - 1 + filterButtons.length) % filterButtons.length;
+                } else if (e.key === 'Home') {
+                    nextIndex = 0;
+                } else if (e.key === 'End') {
+                    nextIndex = filterButtons.length - 1;
+                } else if (e.key === ' ' || e.key === 'Enter') {
+                    e.preventDefault();
+                    setFilterSelection(btn, filterButtons);
+                    return;
+                }
+
+                if (nextIndex >= 0) {
+                    e.preventDefault();
+                    setFilterSelection(filterButtons[nextIndex], filterButtons);
+                    filterButtons[nextIndex].focus();
+                }
             });
         });
     }

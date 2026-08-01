@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Thanos Apollo">
     <title>Βιβλιοθήκη</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="themes/src/index_theme/css/index.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,30 +23,41 @@
 
     <div class="intro">
       <p class="dev-notice">
-        <a href="https://www.gnu.org/philosophy/"> Free</a> & Open Source Project |
-	<a href="https://git.thanosapollo.org/bebliotheca">Upstream</a> |
-	<a href="https://codeberg.org/bebliotheca/bebliotheca">Codeberg Mirror</a>
+        <a href="https://www.gnu.org/philosophy/"> Free</a> &amp; Open Source Project |
+	<a href="https://git.thanosapollo.org/bebliotheca">Upstream</a>
       </p>
     </div>
 
     <div class="container">
         <div class="search-container">
-            <input type="text" id="search-box" placeholder="Search by title, author, #tag, or lang:..." autocomplete="off">
-            <button class="search-clear" id="search-clear" aria-label="Clear search">&times;</button>
-            <ul class="search-dropdown" id="search-dropdown"></ul>
+            <label class="visually-hidden" for="search-box">Search catalog</label>
+            <input type="search" id="search-box" name="q" placeholder="Search by title, author, #tag, or lang:..." autocomplete="off" aria-label="Search catalog">
+            <button class="search-clear" id="search-clear" aria-label="Clear search" type="button">&times;</button>
+            <ul class="search-dropdown" id="search-dropdown" role="listbox" aria-label="Search suggestions"></ul>
         </div>
 
-        <div class="filter-buttons">
-            <button class="filter-btn active" data-filter="all">All Works</button>
-            <button class="filter-btn" data-filter="translated">With English</button>
-            <button class="filter-btn" data-filter="untranslated">Greek/Latin Only</button>
+        <div class="filter-buttons" role="radiogroup" aria-label="Availability filter">
+            <button type="button" class="filter-btn active" role="radio" aria-checked="true" data-filter="all">All Works</button>
+            <button type="button" class="filter-btn" role="radio" aria-checked="false" data-filter="translated">With English</button>
+            <button type="button" class="filter-btn" role="radio" aria-checked="false" data-filter="untranslated">Without English</button>
         </div>
 
         <div class="stats" id="stats">
             <span id="stats-text">Loading...</span>
         </div>
 
-        <div class="loading" id="loading">Loading the archives...</div>
+        <div class="loading" id="loading" role="status">Loading the archives...</div>
+
+        <noscript>
+            <div class="fallback-notice" role="status">
+                <p>The interactive catalog needs JavaScript. With scripts disabled, browse the raw catalog or the source tree instead.</p>
+                <p>
+                    <a href="catalog.json">catalog.json</a>
+                    ·
+                    <a href="https://git.thanosapollo.org/bebliotheca">Upstream source</a>
+                </p>
+            </div>
+        </noscript>
 
         <ul class="works-list" id="works-container"></ul>
 

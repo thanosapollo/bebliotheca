@@ -36,6 +36,7 @@ test:
 	@$(PYTHON) tests/check_language.py check
 	@$(PYTHON) tests/check_originals.py check
 	@$(PYTHON) tests/check_metadata.py check
+	@$(PYTHON) tests/check_public_shell.py
 
 web:
 	@echo "Starting web server on http://localhost:8080"
