@@ -94,16 +94,28 @@ def main() -> None:
         fail("showCatalogFailure must restore #loading visibility")
     if "catalogStatus !== 'ready'" not in js:
         fail("applyFilters must no-op until catalog is ready")
-    if "href=\"catalog.json\"" not in js and "href='catalog.json'" not in js:
+    if 'href="catalog.json"' not in js and "href='catalog.json'" not in js:
         fail("failure recovery missing catalog.json link")
     if "git.thanosapollo.org/bebliotheca" not in js:
         fail("failure recovery missing upstream source link")
+    if "classList.add('js')" not in index and 'classList.add("js")' not in index:
+        fail("index.html must mark html.js so loading/failure can display under JS")
+    if ".loading" not in css or "display: none" not in css:
+        fail("CSS must hide .loading by default for no-JS")
+    if "html.js .loading" not in css:
+        fail("CSS must show .loading under html.js")
 
     # Predicate for Without English remains originals without English
     if "translationFilter === 'untranslated'" not in js:
         fail("untranslated filter branch missing")
     if "hasEnglish" not in js or "!hasEnglish" not in js:
         fail("untranslated predicate must still exclude English")
+    if "aria-checked', selected ? 'true' : 'false'" not in js and 'aria-checked", selected ? "true" : "false"' not in js:
+        # tolerate either quote style around attribute name
+        if "setAttribute('aria-checked'" not in js and 'setAttribute("aria-checked"' not in js:
+            fail("filter UI must write exclusive aria-checked state")
+        if "selected ? 'true' : 'false'" not in js and 'selected ? "true" : "false"' not in js:
+            fail("filter UI must toggle aria-checked true/false exclusively")
 
     # Ensure gitignore keeps static 404 trackable despite *.html
     gitignore = require(ROOT / ".gitignore")
