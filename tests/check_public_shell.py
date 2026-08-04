@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import importlib.util
+import re
 import sys
 import tempfile
 from pathlib import Path
@@ -29,12 +30,112 @@ def require(path: Path) -> str:
     return path.read_text(encoding="utf-8")
 
 
+def _relative_luminance(hex_color: str) -> float:
+    raw = hex_color.lstrip("#")
+    if len(raw) != 6:
+        raise ValueError(f"expected #rrggbb, got {hex_color!r}")
+    channels = [int(raw[i : i + 2], 16) / 255.0 for i in (0, 2, 4)]
+
+    def channel(value: float) -> float:
+        return value / 12.92 if value <= 0.03928 else ((value + 0.055) / 1.055) ** 2.4
+
+    r, g, b = (channel(v) for v in channels)
+    return 0.2126 * r + 0.7152 * g + 0.0722 * b
+
+
+def contrast_ratio(foreground: str, background: str) -> float:
+    lighter = max(_relative_luminance(foreground), _relative_luminance(background))
+    darker = min(_relative_luminance(foreground), _relative_luminance(background))
+    return (lighter + 0.05) / (darker + 0.05)
+
+
+def parse_theme_vars(css: str, selector: str) -> dict[str, str]:
+    pattern = re.compile(
+        rf"{re.escape(selector)}\s*\{{([^}}]+)\}}",
+        re.MULTILINE | re.DOTALL,
+    )
+    match = pattern.search(css)
+    if match is None:
+        fail(f"theme block missing: {selector}")
+    assert match is not None
+    body = match.group(1)
+    vars_found: dict[str, str] = {}
+    for name, value in re.findall(r"(--[\w-]+)\s*:\s*(#[0-9a-fA-F]{6})\s*;", body):
+        vars_found[name] = value.lower()
+    return vars_found
+
+
+def assert_contrast(label: str, fg: str, bg: str, minimum: float) -> None:
+    ratio = contrast_ratio(fg, bg)
+    if ratio + 1e-9 < minimum:
+        fail(f"{label}: {fg} on {bg} is {ratio:.2f}:1 (< {minimum}:1)")
+
+
+def check_catalog_contrast(css: str) -> None:
+    dark = parse_theme_vars(css, ':root,\n[data-theme="dark"]')
+    light = parse_theme_vars(css, '[data-theme="light"]')
+
+    required = (
+        "--bg-primary",
+        "--bg-secondary",
+        "--bg-tertiary",
+        "--text-primary",
+        "--text-secondary",
+        "--text-muted",
+        "--accent-purple",
+        "--accent-contrast",
+        "--accent-gold",
+        "--progress-green",
+    )
+    for theme_name, theme in (("dark", dark), ("light", light)):
+        for key in required:
+            if key not in theme:
+                fail(f"{theme_name} theme missing {key}")
+
+    # Normal text AA 4.5:1 for body/muted/tags; large-title gold uses 3:1.
+    assert_contrast("dark primary text", dark["--text-primary"], dark["--bg-primary"], 4.5)
+    assert_contrast("dark secondary text", dark["--text-secondary"], dark["--bg-secondary"], 4.5)
+    assert_contrast("dark muted on tertiary (tags)", dark["--text-muted"], dark["--bg-tertiary"], 4.5)
+    assert_contrast("dark muted on primary (stats/footer)", dark["--text-muted"], dark["--bg-primary"], 4.5)
+    assert_contrast("dark selected filter", dark["--accent-contrast"], dark["--accent-purple"], 4.5)
+    assert_contrast("dark purple link", dark["--accent-purple"], dark["--bg-primary"], 4.5)
+    assert_contrast("dark gold title (large)", dark["--accent-gold"], dark["--bg-secondary"], 3.0)
+    assert_contrast("dark progress label", dark["--progress-green"], dark["--bg-tertiary"], 4.5)
+    assert_contrast("dark focus gold UI", dark["--accent-gold"], dark["--bg-primary"], 3.0)
+
+    assert_contrast("light primary text", light["--text-primary"], light["--bg-primary"], 4.5)
+    assert_contrast("light secondary text", light["--text-secondary"], light["--bg-secondary"], 4.5)
+    assert_contrast("light muted on tertiary (tags)", light["--text-muted"], light["--bg-tertiary"], 4.5)
+    assert_contrast("light muted on primary (stats/footer)", light["--text-muted"], light["--bg-primary"], 4.5)
+    assert_contrast("light selected filter", light["--accent-contrast"], light["--accent-purple"], 4.5)
+    assert_contrast("light purple link", light["--accent-purple"], light["--bg-primary"], 4.5)
+    assert_contrast("light gold title (large)", light["--accent-gold"], light["--bg-secondary"], 3.0)
+    assert_contrast("light progress label", light["--progress-green"], light["--bg-tertiary"], 4.5)
+    assert_contrast("light focus gold UI", light["--accent-gold"], light["--bg-primary"], 3.0)
+
+    for marker in (
+        "#search-box:focus-visible",
+        ".filter-btn:focus-visible",
+        ".tag:focus-visible",
+        ".work-author:focus-visible",
+        ".alphabet-nav button:focus-visible",
+        ".pagination button:focus-visible",
+        ".reset-filters:focus-visible",
+        ".theme-toggle:focus-visible",
+    ):
+        if marker not in css:
+            fail(f"catalog focus-visible missing: {marker}")
+
+
 def main() -> None:
     index = require(INDEX)
     page_404 = require(PAGE_404)
     favicon = require(FAVICON)
     css = require(CSS)
     js = require(JS)
+
+    # #19 measured contrast + focus contracts
+    check_catalog_contrast(css)
 
 
     # #1 broken Codeberg link removed

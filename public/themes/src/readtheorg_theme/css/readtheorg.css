@@ -1043,6 +1043,12 @@ hr{
     border-color: var(--toc-btn-hover-border);
 }
 
+#font-selector:focus-visible {
+    outline: 2px solid var(--accent-gold);
+    outline-offset: 2px;
+    border-color: var(--accent-gold);
+}
+
 #font-selector option {
     background: var(--toc-bg);
     color: var(--toc-text);
@@ -1112,6 +1118,18 @@ hr{
     border-color: var(--accent-gold);
     color: var(--text-primary);
     box-shadow: 0 6px 16px rgba(201, 160, 64, 0.3);
+}
+
+#home-button:focus-visible,
+#toc-hide-btn:focus-visible,
+#theme-toggle-btn:focus-visible,
+#theme-toggle-mobile:focus-visible,
+#parallel-view-btn:focus-visible,
+#parallel-close-btn:focus-visible,
+.parallel-control-btn:focus-visible,
+#font-selector-mobile:focus-visible {
+    outline: 2px solid var(--accent-gold);
+    outline-offset: 2px;
 }
 
 @media (max-width: 768px) {
@@ -1607,6 +1625,12 @@ h2.footnotes{
 .lang-selector:focus {
     outline: none;
     border-color: rgba(122, 162, 247, 0.6);
+}
+
+.lang-selector:focus-visible {
+    outline: 2px solid var(--accent-gold);
+    outline-offset: 2px;
+    border-color: var(--accent-gold);
 }
 
 #left-frame,

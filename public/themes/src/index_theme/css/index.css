@@ -30,13 +30,15 @@
     --bg-tertiary: #ebebeb;
     --text-primary: #1a1a1a;
     --text-secondary: #4a4a4a;
-    --text-muted: #707070;
+    /* #707070 on tertiary was ~4.15:1; keep AA normal text on tags/stats/footer */
+    --text-muted: #666666;
     --border-color: #d0d0d0;
     --accent-purple: #5a4b7e;
     --accent-contrast: #ffffff;
     --accent-gold: #a8862a;
     --hover-bg: #e5e5e5;
-    --progress-green: #6b8e23;
+    /* #6b8e23 on tertiary was ~3.19:1 for small progress labels */
+    --progress-green: #4a7220;
 }
 
 /* ========================================

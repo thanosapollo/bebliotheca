@@ -60,6 +60,20 @@ def main() -> None:
     if '#theme-toggle-btn .theme-toggle-icon' not in reader_css:
         fail("reader theme icon styling missing")
 
+    # #19 keyboard focus rings on reader/parallel chrome
+    for marker in (
+        "#font-selector:focus-visible",
+        ".lang-selector:focus-visible",
+        "#home-button:focus-visible",
+        "#theme-toggle-btn:focus-visible",
+        "#toc-hide-btn:focus-visible",
+        ".parallel-control-btn:focus-visible",
+        "#parallel-close-btn:focus-visible",
+        "#parallel-view-btn:focus-visible",
+    ):
+        if marker not in reader_css:
+            fail(f"reader focus-visible missing: {marker}")
+
     with tempfile.TemporaryDirectory() as tmp:
         project = Path(tmp)
         shutil.copy2(ROOT / "build.sh", project / "build.sh")
