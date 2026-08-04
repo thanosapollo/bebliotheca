@@ -204,7 +204,7 @@ def generate_static_catalog(catalog: List[Dict[str, Any]], output_path: Path) ->
 
     document = f'''<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Bebliotheca static catalog</title><link rel="stylesheet" href="themes/src/index_theme/css/index.css"></head>
+<title>Bebliotheca static catalog</title><link rel="stylesheet" href="themes/src/index_theme/css/index.css?v=19"></head>
 <body><main class="container"><h1>Bebliotheca catalog</h1>
 <p>Showing {len(items)} of {len(catalog)} works. <a href="index.html">Interactive catalog</a></p>
 <ol class="static-catalog">{''.join(items)}</ol></main></body></html>'''
