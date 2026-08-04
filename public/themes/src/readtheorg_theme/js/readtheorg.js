@@ -170,23 +170,42 @@ $( document ).ready(function() {
     fontSelect.on('change', onFontChange);
     fontSelectMobile.on('change', onFontChange);
 
+    // Restrained local SVG mark (no emoji / external icon dependency).
+    // Same sun mark as catalog index; action text carries dark/light intent.
+    var THEME_ICON =
+        '<svg class="theme-toggle-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">' +
+        '<circle cx="12" cy="12" r="4"></circle>' +
+        '<path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path>' +
+        '</svg>';
+
+    function updateThemeControl(theme, toggles) {
+        var label = theme === 'dark' ? 'Use light theme' : 'Use dark theme';
+        toggles.forEach(function(toggle) {
+            toggle.attr('aria-label', label);
+            toggle.attr('title', label);
+            if (!toggle.children('svg.theme-toggle-icon').length) {
+                toggle.html(THEME_ICON);
+            }
+        });
+    }
+
     // add theme toggle button
-    var themeBtn = $('<button id="theme-toggle-btn" title="Toggle theme" aria-label="Toggle theme"></button>');
-    themeBtn.text(savedTheme === 'dark' ? '\u2600' : '\u263E');
+    var themeBtn = $('<button type="button" id="theme-toggle-btn"></button>');
     buttonContainer.append(themeBtn);
 
     // mobile theme toggle
-    var themeBtnMobile = $('<button id="theme-toggle-mobile" title="Toggle theme" aria-label="Toggle theme"></button>');
-    themeBtnMobile.text(savedTheme === 'dark' ? '\u2600' : '\u263E');
+    var themeBtnMobile = $('<button type="button" id="theme-toggle-mobile"></button>');
     $('body').append(themeBtnMobile);
+
+    var themeToggles = [themeBtn, themeBtnMobile];
+    updateThemeControl(savedTheme, themeToggles);
 
     themeBtn.on('click', function() {
         var current = document.documentElement.getAttribute('data-theme');
         var next = current === 'dark' ? 'light' : 'dark';
         document.documentElement.setAttribute('data-theme', next);
         localStorage.setItem('theme', next);
-        themeBtn.text(next === 'dark' ? '\u2600' : '\u263E');
-        themeBtnMobile.text(next === 'dark' ? '\u2600' : '\u263E');
+        updateThemeControl(next, themeToggles);
     });
 
     themeBtnMobile.on('click', function() { themeBtn.click(); });

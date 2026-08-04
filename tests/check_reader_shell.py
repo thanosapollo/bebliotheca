@@ -48,6 +48,18 @@ def main() -> None:
     if "type: 'HEAD'" in parallel_js or 'type: "HEAD"' in parallel_js:
         fail("parallel reader still performs HEAD probes")
 
+    # #18 restrained local theme marks (no emoji / external icon sets).
+    if 'class="theme-toggle-icon"' not in reader_js or 'THEME_ICON' not in reader_js:
+        fail("reader theme control must use local restrained SVG")
+    if '\\u2600' in reader_js or '\\u263E' in reader_js or '☀️' in reader_js or '🌙' in reader_js:
+        fail("reader theme control still uses emoji marks")
+    if "Use light theme" not in reader_js or "Use dark theme" not in reader_js:
+        fail("reader theme control missing accessible action labels")
+    if 'fontawesome' in reader_js.lower() or 'cdn.jsdelivr' in reader_js.lower():
+        fail("reader must not pull external icon dependencies")
+    if '#theme-toggle-btn .theme-toggle-icon' not in reader_css:
+        fail("reader theme icon styling missing")
+
     with tempfile.TemporaryDirectory() as tmp:
         project = Path(tmp)
         shutil.copy2(ROOT / "build.sh", project / "build.sh")

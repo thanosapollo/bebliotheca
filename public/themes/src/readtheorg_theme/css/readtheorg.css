@@ -1932,15 +1932,18 @@ body.parallel-view-open #parallel-view-btn {
 
 /* Theme toggle button (desktop, in TOC sidebar) */
 #theme-toggle-btn {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     background: transparent;
     color: var(--toc-btn-color);
     border: 2px solid var(--toc-btn-border);
-    padding: 5px 10px;
+    padding: 5px 8px;
     text-decoration: none;
     font-family: "Noto Sans", "Source Sans Pro", sans-serif;
     font-weight: 600;
     font-size: 12px;
+    line-height: 1;
     border-radius: 4px;
     transition: all 0.3s ease;
     cursor: pointer;
@@ -1961,20 +1964,35 @@ body.toc-hidden #theme-toggle-btn {
 /* Theme toggle button (mobile, fixed position) */
 #theme-toggle-mobile {
     display: none;
+    align-items: center;
+    justify-content: center;
     background: transparent;
     color: var(--accent-gold);
     border: 1px solid var(--accent-gold-muted);
-    padding: 4px 8px;
+    padding: 4px 7px;
     font-family: "Noto Sans", "Source Sans Pro", sans-serif;
     font-weight: 600;
     font-size: 13px;
+    line-height: 1;
     border-radius: 4px;
     cursor: pointer;
 }
 
+#theme-toggle-btn .theme-toggle-icon,
+#theme-toggle-mobile .theme-toggle-icon {
+    width: 1.15em;
+    height: 1.15em;
+    display: block;
+    fill: none;
+    stroke: currentColor;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 1.7;
+}
+
 @media screen and (max-width: 768px) {
     #theme-toggle-mobile {
-        display: block;
+        display: inline-flex;
         position: fixed;
         top: 8px;
         right: 80px;
