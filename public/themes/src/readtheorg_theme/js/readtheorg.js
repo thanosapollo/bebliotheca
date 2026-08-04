@@ -93,9 +93,19 @@ $( document ).ready(function() {
         });
     }
 
+    // Importer suffixes appear on work/book labels (title, TOC, h2).
+    // Skip the thousands of plain section headings on multi-book works.
+    function maybeNormalizeLabel(element) {
+        var text = element.textContent || '';
+        if (!/\d+s\b/.test(text)) {
+            return;
+        }
+        normalizeElementText(element);
+    }
+
     document.title = normalizeDisplayText(document.title);
-    $('h1.title, #text-table-of-contents a, #content h2, #content h3, #content h4')
-        .each(function() { normalizeElementText(this); });
+    $('h1.title, #text-table-of-contents a, #content h2, #content h3')
+        .each(function() { maybeNormalizeLabel(this); });
 
     // Theme init: apply saved theme immediately to prevent flash
     var savedTheme = localStorage.getItem('theme') || 'dark';

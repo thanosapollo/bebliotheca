@@ -41,6 +41,8 @@ def main() -> None:
         fail("parallel pane chrome suppression missing")
     if 'normalizeDisplayText' not in reader_js or "'Book $1'" not in reader_js:
         fail("cryptic reader display-label normalization missing")
+    if 'maybeNormalizeLabel' not in reader_js or '#content h4' in reader_js:
+        fail("display-label walk must stay label-scoped (no full h4 sweep)")
     if 'bebliotheca-languages' not in export_el or 'bebliotheca-languages' not in parallel_js:
         fail("build-time reader language metadata missing")
     if "type: 'HEAD'" in parallel_js or 'type: "HEAD"' in parallel_js:
