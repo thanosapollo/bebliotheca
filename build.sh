@@ -26,7 +26,7 @@ find_all() {
     done
 }
 
-# Collect only .org files whose HTML is missing or older than source
+# Collect changed files and same-stem siblings whose language metadata changed.
 find_changed() {
     for dir in "$@"; do
         [ -d "$dir" ] || continue
@@ -37,8 +37,25 @@ find_changed() {
             [ "$stem" = "index" ] && continue
             html="$PUBLIC_DIR/$lang/$stem.html"
             if [ ! -f "$html" ] || [ "$org" -nt "$html" ]; then
-                printf '%s\0' "$org"
+                for sibling_lang in gr la en; do
+                    sibling="$CONTENT_DIR/$sibling_lang/$stem.org"
+                    [ -f "$sibling" ] && printf '%s\0' "$sibling"
+                done
             fi
+        done
+    done
+
+    # A removed source leaves an orphan HTML file and stale metadata in siblings.
+    for lang in gr la en; do
+        [ -d "$PUBLIC_DIR/$lang" ] || continue
+        for html in "$PUBLIC_DIR/$lang"/*.html; do
+            [ -f "$html" ] || continue
+            stem=$(basename "$html" .html)
+            [ -f "$CONTENT_DIR/$lang/$stem.org" ] && continue
+            for sibling_lang in gr la en; do
+                sibling="$CONTENT_DIR/$sibling_lang/$stem.org"
+                [ -f "$sibling" ] && printf '%s\0' "$sibling"
+            done
         done
     done
 }
@@ -111,7 +128,7 @@ case "${1:-all}" in
     export)
         echo "==> Incremental export (changed files only)"
         tmp=$(mktemp)
-        find_changed $ALL_DIRS > "$tmp"
+        find_changed $ALL_DIRS | sort -zu > "$tmp"
         count=$(tr '\0' '\n' < "$tmp" | wc -l)
         if [ "$count" -eq 0 ]; then
             echo "No files to export — everything up to date"

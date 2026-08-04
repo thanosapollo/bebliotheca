@@ -3,6 +3,8 @@
 
 from __future__ import annotations
 
+import os
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -46,7 +48,10 @@ def main() -> None:
 
     with tempfile.TemporaryDirectory() as tmp:
         project = Path(tmp)
-        for language in ("la", "en"):
+        shutil.copy2(ROOT / "build.sh", project / "build.sh")
+        shutil.copy2(EXPORT_EL, project / "build-export.el")
+
+        def write_source(language: str) -> None:
             source = project / "content" / language / "sample.org"
             source.parent.mkdir(parents=True)
             source.write_text(
@@ -55,23 +60,39 @@ def main() -> None:
                 "* 11s\nText.\n",
                 encoding="utf-8",
             )
-        result = subprocess.run(
-            [
-                "emacs", "--batch", "-Q", "--load", str(EXPORT_EL), "--",
-                "content/la/sample.org", "content/en/sample.org",
-            ],
-            cwd=project,
-            capture_output=True,
-            text=True,
-            check=False,
-        )
-        if result.returncode != 0:
-            fail(f"reader export failed: {result.stderr.strip()}")
+
+        def run_export() -> None:
+            result = subprocess.run(
+                ["./build.sh", "export"],
+                cwd=project,
+                env={**os.environ, "JOBS": "1", "BATCH_SIZE": "10"},
+                capture_output=True,
+                text=True,
+                check=False,
+            )
+            if result.returncode != 0:
+                fail(f"reader export failed: {result.stderr.strip()}")
+
+        write_source("la")
+        run_export()
+        latin_output = project / "public/la/sample.html"
+        if 'content="la"' not in latin_output.read_text(encoding="utf-8"):
+            fail("initial single-language metadata is wrong")
+
+        write_source("en")
+        run_export()
         for language in ("la", "en"):
             output = project / "public" / language / "sample.html"
             html = output.read_text(encoding="utf-8")
             if 'name="bebliotheca-languages" content="la,en"' not in html:
-                fail(f"language metadata missing from {language} export")
+                fail(f"added-sibling metadata missing from {language} export")
+
+        (project / "content/en/sample.org").unlink()
+        run_export()
+        if 'name="bebliotheca-languages" content="la"' not in latin_output.read_text(encoding="utf-8"):
+            fail("removed-sibling metadata remained stale")
+        if (project / "public/en/sample.html").exists():
+            fail("removed sibling left orphaned HTML")
 
     print("OK: reader shell / build metadata checks passed")
 
