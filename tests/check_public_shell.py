@@ -144,9 +144,14 @@ def main() -> None:
         "selectFacetFromState('availability'",
         "selectFacetFromState('original'",
         "buttons.find(btn => btn.dataset.filter === value) || buttons[0]",
+        "restoreStateFromURL();\n            applyFilters(false);",
+        "window.addEventListener('popstate', function() {\n            restoreStateFromURL();\n            applyFilters(false);\n        });",
+        "if (updateHistory) updateURL('push');",
     ):
         if marker not in js:
             fail(f"URL state marker missing: {marker}")
+    if "index.js?v=" not in index and "index.js?" not in index:
+        fail("index.html must load cache-busted index.js so CDN clients get URL-state JS")
     if 'const PAGE_SIZE = 50' not in js or '.slice(start, start + PAGE_SIZE)' not in js:
         fail("catalog rendering is not bounded")
     if 'class="work-title" href=' not in js:
