@@ -126,7 +126,25 @@ def main() -> None:
         fail(".gitignore missing !public/404.html exception")
 
     # #9-#12 URL state, bounded rendering, preferred titles, semantic controls.
-    for marker in ('URLSearchParams', "window.addEventListener('popstate'", 'history[mode + \'State\']'):
+    for marker in (
+        "URLSearchParams",
+        "window.addEventListener('popstate'",
+        "history[mode + 'State']",
+        "params.set('q', searchQuery)",
+        "params.set('availability', availabilityFilter)",
+        "params.set('original', originalFilter)",
+        "params.set('page', String(currentPage))",
+        "params.get('q')",
+        "params.get('availability')",
+        "params.get('original')",
+        "params.get('page')",
+        "function restoreStateFromURL()",
+        "function updateURL(mode)",
+        "Number.isInteger(page) && page > 0 ? page : 1",
+        "selectFacetFromState('availability'",
+        "selectFacetFromState('original'",
+        "buttons.find(btn => btn.dataset.filter === value) || buttons[0]",
+    ):
         if marker not in js:
             fail(f"URL state marker missing: {marker}")
     if 'const PAGE_SIZE = 50' not in js or '.slice(start, start + PAGE_SIZE)' not in js:
