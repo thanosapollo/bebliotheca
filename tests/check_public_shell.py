@@ -285,13 +285,49 @@ def main() -> None:
             {'language': 'en', 'title': 'Translation', 'html_path': 'en/sample.html'},
             {'language': 'gr', 'title': 'Πρωτότυπο', 'html_path': 'gr/sample.html'},
         ],
+    }, {
+        'title': 'Beta', 'author': 'Second',
+        'translations': [
+            {'language': 'la', 'title': 'Beta Latin', 'html_path': 'la/beta.html'},
+        ],
     }]
+    # Pad beyond the bound so the static page cannot silently dump the whole catalog.
+    for i in range(module.STATIC_CATALOG_LIMIT + 5):
+        sample.append({
+            'title': f'Pad {i:04d}',
+            'author': 'Pad',
+            'translations': [
+                {'language': 'en', 'title': f'Pad {i:04d}', 'html_path': f'en/pad-{i}.html'},
+            ],
+        })
     with tempfile.TemporaryDirectory() as tmp:
         static_path = Path(tmp) / 'catalog-static.html'
         module.generate_static_catalog(sample, static_path)
         static = require(static_path)
-        if 'gr/sample.html' not in static or 'Πρωτότυπο' not in static or '1 of 1 works' not in static:
-            fail("static catalog does not derive preferred links from catalog data")
+        if 'gr/sample.html' not in static or 'Πρωτότυπο' not in static:
+            fail("static catalog does not prefer Greek original links from catalog data")
+        if 'en/sample.html' in static:
+            fail("static catalog must not prefer English when Greek exists")
+        if f'Showing {module.STATIC_CATALOG_LIMIT} of {len(sample)} works' not in static:
+            fail("static catalog must report bounded count from same catalog source")
+        if static.count('class="static-author"') != module.STATIC_CATALOG_LIMIT:
+            fail("static catalog work rows must match STATIC_CATALOG_LIMIT")
+        if f'en/pad-{module.STATIC_CATALOG_LIMIT}.html' in static:
+            fail("static catalog silently exceeded STATIC_CATALOG_LIMIT")
+        if 'static-letter-nav' not in static or 'id="letter-Π"' not in static:
+            fail("static catalog missing letter jump navigation")
+        if f'index.css?v={module.INDEX_CSS_CACHE_BUST}' not in static:
+            fail("static catalog CSS cache-bust must follow generator constant")
+        if f'index.css?v={module.INDEX_CSS_CACHE_BUST}' not in index:
+            fail("index.html CSS cache-bust drifted from generator constant")
+        if f'index.css?v={module.INDEX_CSS_CACHE_BUST}' not in require(PAGE_404):
+            fail("404.html CSS cache-bust drifted from generator constant")
+        if '.static-catalog' not in css or '.static-letter-nav' not in css:
+            fail("index.css missing static catalog presentation rules")
+        if "static_output_path: Optional[Path] = None" not in require(CATALOG_GENERATOR):
+            fail("catalog generator must accept static_output_path")
+        if "static_output_path=args.static_output" not in require(CATALOG_GENERATOR):
+            fail("catalog CLI must always emit static catalog path")
 
     print("OK: public shell / a11y / fallback checks passed")
 

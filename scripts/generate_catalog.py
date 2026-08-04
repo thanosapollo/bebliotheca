@@ -31,6 +31,8 @@ LANG_NAMES: Dict[str, str] = {
 # Translation sort priority: Greek first, then Latin, then English
 LANG_PRIORITY: Dict[str, int] = {'gr': 0, 'la': 1, 'en': 2}
 STATIC_CATALOG_LIMIT = 250
+# Keep in lockstep with public/index.html and public/404.html cache-bust.
+INDEX_CSS_CACHE_BUST = '20'
 
 
 def normalize_display_label(label: str) -> str:
@@ -189,7 +191,9 @@ def group_translations(
 
 def generate_static_catalog(catalog: List[Dict[str, Any]], output_path: Path) -> None:
     """Write a bounded no-JavaScript catalog from grouped catalog data."""
-    items = []
+    items: List[str] = []
+    letter_nav: List[str] = []
+    seen_letters: set[str] = set()
     for work in catalog[:STATIC_CATALOG_LIMIT]:
         translations = work.get('translations', [])
         preferred = next((t for t in translations if t['language'] == 'gr'), None)
@@ -197,16 +201,34 @@ def generate_static_catalog(catalog: List[Dict[str, Any]], output_path: Path) ->
         preferred = preferred or (translations[0] if translations else None)
         if not preferred or not preferred.get('html_path'):
             continue
-        title = html.escape(preferred.get('title') or work.get('title') or 'Untitled')
+        title_raw = preferred.get('title') or work.get('title') or 'Untitled'
+        title = html.escape(title_raw)
         author = html.escape(work.get('author') or 'Unknown')
         href = html.escape(preferred['html_path'], quote=True)
-        items.append(f'<li><a href="{href}">{title}</a> <span>{author}</span></li>')
+        letter = title_raw[:1].upper() if title_raw else '#'
+        if letter not in seen_letters:
+            seen_letters.add(letter)
+            anchor = html.escape(letter, quote=True)
+            letter_nav.append(f'<a href="#letter-{anchor}">{html.escape(letter)}</a>')
+            items.append(
+                f'<li class="static-letter" id="letter-{anchor}"><span>{html.escape(letter)}</span></li>'
+            )
+        items.append(
+            f'<li><a href="{href}">{title}</a> <span class="static-author">{author}</span></li>'
+        )
 
+    nav = (
+        f'<nav class="static-letter-nav" aria-label="Jump by title letter">'
+        f'{"".join(letter_nav)}</nav>'
+        if letter_nav
+        else ''
+    )
     document = f'''<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Bebliotheca static catalog</title><link rel="stylesheet" href="themes/src/index_theme/css/index.css?v=19"></head>
-<body><main class="container"><h1>Bebliotheca catalog</h1>
-<p>Showing {len(items)} of {len(catalog)} works. <a href="index.html">Interactive catalog</a></p>
+<title>Bebliotheca static catalog</title><link rel="stylesheet" href="themes/src/index_theme/css/index.css?v={INDEX_CSS_CACHE_BUST}"></head>
+<body><main class="container static-catalog-page"><h1>Bebliotheca catalog</h1>
+<p class="static-catalog-meta">Showing {sum(1 for item in items if 'static-letter' not in item)} of {len(catalog)} works. <a href="index.html">Interactive catalog</a></p>
+{nav}
 <ol class="static-catalog">{''.join(items)}</ol></main></body></html>'''
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(document, encoding='utf-8')
