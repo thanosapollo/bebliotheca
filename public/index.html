@@ -14,22 +14,18 @@
 </head>
 <body>
     <div class="header">
-        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
-            <span class="theme-toggle-icon">☀️</span>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Use light theme" title="Use light theme">
+            <svg class="theme-toggle-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                <circle cx="12" cy="12" r="4"></circle>
+                <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path>
+            </svg>
         </button>
         <h1 class="title">Βιβλιοθήκη</h1>
         <div class="subtitle">Library of Constantinople</div>
         <div class="motto">Preserving the wisdom of antiquity</div>
     </div>
 
-    <div class="intro">
-      <p class="dev-notice">
-        <a href="https://www.gnu.org/philosophy/"> Free</a> &amp; Open Source Project |
-	<a href="https://git.thanosapollo.org/bebliotheca">Upstream</a>
-      </p>
-    </div>
-
-    <div class="container">
+    <main class="container" id="catalog">
         <div class="search-container">
             <label class="visually-hidden" for="search-box">Search catalog</label>
             <input type="search" id="search-box" name="q" placeholder="Search by title, author, #tag, or lang:..." autocomplete="off" aria-label="Search catalog">
@@ -37,35 +33,60 @@
             <ul class="search-dropdown" id="search-dropdown" role="listbox" aria-label="Search suggestions"></ul>
         </div>
 
-        <div class="filter-buttons" role="radiogroup" aria-label="Availability filter">
-            <button type="button" class="filter-btn active" role="radio" aria-checked="true" data-filter="all">All Works</button>
-            <button type="button" class="filter-btn" role="radio" aria-checked="false" data-filter="translated">With English</button>
-            <button type="button" class="filter-btn" role="radio" aria-checked="false" data-filter="untranslated">Without English</button>
-        </div>
+        <section class="facets" aria-label="Catalog filters">
+            <div class="facet-group">
+                <h2>Availability</h2>
+                <div class="filter-buttons" role="radiogroup" aria-label="Availability">
+                    <button type="button" class="filter-btn active" role="radio" aria-checked="true" data-facet="availability" data-filter="all">All</button>
+                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="availability" data-filter="with-en">English available</button>
+                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="availability" data-filter="without-en">Without English</button>
+                </div>
+            </div>
+            <div class="facet-group">
+                <h2>Original language</h2>
+                <div class="filter-buttons" role="radiogroup" aria-label="Original language">
+                    <button type="button" class="filter-btn active" role="radio" aria-checked="true" data-facet="original" data-filter="any">Any</button>
+                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="original" data-filter="has-gr">Has Greek</button>
+                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="original" data-filter="has-la">Has Latin</button>
+                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="original" data-filter="gr-only">Greek only</button>
+                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="original" data-filter="la-only">Latin only</button>
+                </div>
+            </div>
+        </section>
 
         <div class="stats" id="stats">
             <span id="stats-text">Loading...</span>
+            <button type="button" id="reset-filters" class="reset-filters" hidden>Reset search and filters</button>
         </div>
+
+        <nav class="alphabet-nav" id="alphabet-nav" aria-label="Jump by title" hidden></nav>
 
         <div class="loading" id="loading" role="status">Loading the archives...</div>
 
         <noscript>
             <div class="fallback-notice" role="status">
-                <p>The interactive catalog needs JavaScript. With scripts disabled, browse the raw catalog or the source tree instead.</p>
+                <p>The interactive catalog needs JavaScript. Browse the generated catalog instead.</p>
                 <p>
-                    <a href="catalog.json">catalog.json</a>
+                    <a href="catalog-static.html">Static catalog</a>
                     ·
-                    <a href="https://git.thanosapollo.org/bebliotheca">Upstream source</a>
+                    <a href="catalog.json">catalog.json</a>
                 </p>
             </div>
         </noscript>
 
         <ul class="works-list" id="works-container"></ul>
 
-        <div class="footer">
+        <nav class="pagination" id="pagination" aria-label="Catalog pages" hidden>
+            <button type="button" id="previous-page">Previous</button>
+            <span id="page-status"></span>
+            <button type="button" id="next-page">Next</button>
+        </nav>
+
+        <footer class="footer">
             <span id="copyright"></span>
-        </div>
-    </div>
+            <span class="footer-links"><a href="https://www.gnu.org/philosophy/">Free software</a> · <a href="https://git.thanosapollo.org/bebliotheca">Source</a></span>
+        </footer>
+    </main>
     <script src="themes/src/index_theme/js/index.js"></script>
 </body>
 </html>

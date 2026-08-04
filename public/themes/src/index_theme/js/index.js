@@ -9,19 +9,20 @@
     let catalog = [];
     let filteredWorks = [];
     let searchQuery = '';
-    let translationFilter = 'all'; // all, translated, untranslated
+    let availabilityFilter = 'all';
+    let originalFilter = 'any';
+    let currentPage = 1;
     let catalogStatus = 'loading'; // loading | ready | error
+    const PAGE_SIZE = 50;
 
     // Theme Management
     function initTheme() {
         // Default to dark mode
         const savedTheme = localStorage.getItem('theme') || 'dark';
         const themeToggle = document.getElementById('theme-toggle');
-        const themeIcon = themeToggle.querySelector('.theme-toggle-icon');
-
         // Apply theme
         document.documentElement.setAttribute('data-theme', savedTheme);
-        updateThemeIcon(savedTheme, themeIcon);
+        updateThemeControl(savedTheme, themeToggle);
 
         // Toggle theme on click
         themeToggle.addEventListener('click', function() {
@@ -30,12 +31,14 @@
 
             document.documentElement.setAttribute('data-theme', newTheme);
             localStorage.setItem('theme', newTheme);
-            updateThemeIcon(newTheme, themeIcon);
+            updateThemeControl(newTheme, themeToggle);
         });
     }
 
-    function updateThemeIcon(theme, iconElement) {
-        iconElement.textContent = theme === 'dark' ? '☀️' : '🌙';
+    function updateThemeControl(theme, toggle) {
+        const label = theme === 'dark' ? 'Use light theme' : 'Use dark theme';
+        toggle.setAttribute('aria-label', label);
+        toggle.setAttribute('title', label);
     }
 
     const langNames = {
@@ -273,7 +276,8 @@
             catalog = data.works || [];
             tagSuggestions = buildTagSuggestions(catalog);
             catalogStatus = 'ready';
-            applyFilters();
+            restoreStateFromURL();
+            applyFilters(false);
         } catch (error) {
             console.error('Error loading catalog:', error);
             showCatalogFailure(
@@ -292,37 +296,23 @@
                    .normalize('NFC');
     }
 
-    function hasGreekCharacters(text) {
-        // Check if text contains Greek characters
-        // Greek and Coptic: U+0370-U+03FF
-        // Greek Extended: U+1F00-U+1FFF
-        return /[\u0370-\u03FF\u1F00-\u1FFF]/.test(text);
-    }
-
-    function applyFilters() {
+    function applyFilters(updateHistory) {
         if (catalogStatus !== 'ready') {
             return;
         }
 
         filteredWorks = catalog.filter(work => {
-            // Apply translation filter
-            if (translationFilter !== 'all') {
-                const hasGreek = work.translations.some(t => t.language === 'gr');
-                const hasLatin = work.translations.some(t => t.language === 'la');
-                const hasEnglish = work.translations.some(t => t.language === 'en');
+            const hasGreek = work.translations.some(t => t.language === 'gr');
+            const hasLatin = work.translations.some(t => t.language === 'la');
+            const hasEnglish = work.translations.some(t => t.language === 'en');
 
-                if (translationFilter === 'translated') {
-                    // Work must have Greek OR Latin, AND must have English
-                    if (!((hasGreek || hasLatin) && hasEnglish)) {
-                        return false;
-                    }
-                } else if (translationFilter === 'untranslated') {
-                    // Work must have Greek OR Latin, but NOT have English
-                    if (!((hasGreek || hasLatin) && !hasEnglish)) {
-                        return false;
-                    }
-                }
-            }
+            const hasOriginal = hasGreek || hasLatin;
+            if (availabilityFilter === 'with-en' && (!hasOriginal || !hasEnglish)) return false;
+            if (availabilityFilter === 'without-en' && (!hasOriginal || hasEnglish)) return false;
+            if (originalFilter === 'has-gr' && !hasGreek) return false;
+            if (originalFilter === 'has-la' && !hasLatin) return false;
+            if (originalFilter === 'gr-only' && (!hasGreek || hasLatin)) return false;
+            if (originalFilter === 'la-only' && (!hasLatin || hasGreek)) return false;
 
             // Apply search filter
             if (!searchQuery) return true;
@@ -374,27 +364,18 @@
             return title.includes(query) || author.includes(query) || authorLatin.includes(query) || translationMatch || tagMatch;
         });
 
-        // Sort by Greek titles first, then by recently viewed (only when not searching)
-        if (!searchQuery) {
-            const recentlyViewed = getRecentlyViewed();
-            filteredWorks.sort((a, b) => {
-                // Check if titles have Greek characters
-                const aIsGreek = hasGreekCharacters(a.title);
-                const bIsGreek = hasGreekCharacters(b.title);
+        filteredWorks.sort((a, b) =>
+            normalizeGreek(a.title || '').localeCompare(normalizeGreek(b.title || ''))
+        );
 
-                // Greek titles first
-                if (aIsGreek && !bIsGreek) return -1;
-                if (!aIsGreek && bIsGreek) return 1;
-
-                // If both are Greek or both are not Greek, sort by recently viewed
-                const aTime = recentlyViewed[a.id] || 0;
-                const bTime = recentlyViewed[b.id] || 0;
-                return bTime - aTime; // Most recent first
-            });
-        }
+        const pageCount = Math.max(1, Math.ceil(filteredWorks.length / PAGE_SIZE));
+        currentPage = Math.min(Math.max(currentPage, 1), pageCount);
 
         renderWorks();
         updateStats();
+        renderAlphabet();
+        updatePagination();
+        if (updateHistory) updateURL('push');
     }
 
     function renderWorks() {
@@ -408,10 +389,13 @@
         }
 
         const recentlyViewed = getRecentlyViewed();
+        const start = (currentPage - 1) * PAGE_SIZE;
+        const pageWorks = filteredWorks.slice(start, start + PAGE_SIZE);
 
-        container.innerHTML = filteredWorks.map(work => {
+        container.innerHTML = pageWorks.map(work => {
             // Find original (Greek/Latin) and English translations
-            const originalTrans = work.translations.find(t => t.language === 'gr' || t.language === 'la');
+            const originalTrans = work.translations.find(t => t.language === 'gr') ||
+                work.translations.find(t => t.language === 'la') || work.translations[0];
             const englishTrans = work.translations.find(t => t.language === 'en');
 
             // Check if recently viewed
@@ -424,7 +408,8 @@
 
             // Build title display
             const originalTitle = originalTrans ? originalTrans.title : work.title;
-            let titleHtml = `<div class="work-title">${escapeHtml(originalTitle)}</div>`;
+            let titleHtml = `<a class="work-title" href="${escapeAttribute(originalTrans.html_path)}" ` +
+                `data-work-id="${escapeAttribute(work.id)}">${escapeHtml(originalTitle)}</a>`;
 
             // Add English translation title if it exists and is different
             if (englishTrans && englishTrans.title !== originalTitle) {
@@ -445,13 +430,15 @@
             // Build language buttons
             const languageButtons = work.translations.map(trans => {
                 const langLabel = langNames[trans.language] || trans.language_name;
-                return `<a href="${trans.html_path}" class="lang-btn" title="${trans.title}" data-work-id="${escapeHtml(work.id)}">${langLabel}</a>`;
+                return `<a href="${escapeAttribute(trans.html_path)}" class="lang-btn" ` +
+                    `title="${escapeAttribute(trans.title)}" data-work-id="${escapeAttribute(work.id)}">${escapeHtml(langLabel)}</a>`;
             }).join('');
 
             // Build tags display
             let tagsHtml = '';
             if (work.tags && work.tags.length > 0) {
-                const tagElements = work.tags.map(tag => `<span class="tag" data-tag="${escapeHtml(tag)}">#${escapeHtml(tag)}</span>`).join('');
+                const tagElements = work.tags.map(tag => `<button type="button" class="tag" ` +
+                    `data-tag="${escapeAttribute(tag)}">#${escapeHtml(tag)}</button>`).join('');
                 tagsHtml = `<div class="work-tags">${tagElements}</div>`;
             }
 
@@ -459,7 +446,7 @@
                 <li class="work-item${recentClass}">
                     <div class="work-info">
                         ${titleHtml}
-                        <div class="work-author" data-author="${escapeHtml(work.author)}">${escapeHtml(work.author)}</div>
+                        <button type="button" class="work-author" data-author="${escapeAttribute(work.author)}">${escapeHtml(work.author)}</button>
                         ${progressHtml}
                         ${tagsHtml}
                     </div>
@@ -472,11 +459,13 @@
     function updateStats() {
         const statsText = document.getElementById('stats-text');
         const total = filteredWorks.length;
-        if (searchQuery) {
-            statsText.textContent = `${total} work${total !== 1 ? 's' : ''} found`;
-        } else {
-            statsText.textContent = `${total} work${total !== 1 ? 's' : ''}`;
-        }
+        const active = [];
+        if (searchQuery) active.push('search “' + searchQuery + '”');
+        if (availabilityFilter !== 'all') active.push(filterLabel('availability', availabilityFilter));
+        if (originalFilter !== 'any') active.push(filterLabel('original', originalFilter));
+        statsText.textContent = `${total} work${total !== 1 ? 's' : ''}` +
+            (active.length ? ' · ' + active.join(' · ') : '');
+        document.getElementById('reset-filters').hidden = active.length === 0;
     }
 
     // Show/hide the clear button based on search box content
@@ -498,11 +487,12 @@
         clearBtn.addEventListener('click', function() {
             searchBox.value = '';
             searchQuery = '';
+            currentPage = 1;
             updateClearButton();
             dropdown.classList.remove('visible');
             dropdown.innerHTML = '';
             activeIndex = -1;
-            applyFilters();
+            applyFilters(true);
             searchBox.focus();
         });
 
@@ -532,7 +522,7 @@
             }
             var capped = suggestions.slice(0, 15);
             dropdown.innerHTML = capped.map((s, i) =>
-                `<li data-value="${escapeHtml(s.value)}" class="${i === activeIndex ? 'active' : ''}">` +
+                `<li data-value="${escapeAttribute(s.value)}" class="${i === activeIndex ? 'active' : ''}">` +
                 `<span class="suggestion-label">${escapeHtml(s.label)}</span>` +
                 `<span class="suggestion-desc">${escapeHtml(s.description)}</span>` +
                 `</li>`
@@ -543,10 +533,11 @@
         function selectSuggestion(value) {
             searchBox.value = value;
             searchQuery = value.trim();
+            currentPage = 1;
             dropdown.classList.remove('visible');
             dropdown.innerHTML = '';
             activeIndex = -1;
-            applyFilters();
+            applyFilters(true);
         }
 
         function updateDropdown() {
@@ -575,7 +566,8 @@
             clearTimeout(debounceTimeout);
             debounceTimeout = setTimeout(() => {
                 searchQuery = this.value.trim();
-                applyFilters();
+                currentPage = 1;
+                applyFilters(true);
             }, 200);
         });
 
@@ -625,54 +617,46 @@
             btn.setAttribute('aria-checked', selected ? 'true' : 'false');
             btn.tabIndex = selected ? 0 : -1;
         });
-        translationFilter = selectedBtn.getAttribute('data-filter') || 'all';
+        if (selectedBtn.dataset.facet === 'availability') {
+            availabilityFilter = selectedBtn.dataset.filter;
+        } else {
+            originalFilter = selectedBtn.dataset.filter;
+        }
     }
 
     function setFilterSelection(selectedBtn, filterButtons) {
         updateFilterUI(selectedBtn, filterButtons);
-        applyFilters();
+        currentPage = 1;
+        applyFilters(true);
     }
 
     function initFilters() {
-        const filterButtons = Array.from(document.querySelectorAll('.filter-btn'));
-        if (filterButtons.length === 0) {
-            return;
-        }
+        document.querySelectorAll('.filter-buttons').forEach(function(group) {
+            const filterButtons = Array.from(group.querySelectorAll('.filter-btn'));
+            if (filterButtons.length === 0) return;
+            const initial = filterButtons.find(btn => btn.classList.contains('active')) || filterButtons[0];
+            updateFilterUI(initial, filterButtons);
 
-        // Initialize exclusive selected state from markup without rendering yet.
-        let initial = filterButtons.find(function(btn) {
-            return btn.classList.contains('active') || btn.getAttribute('aria-checked') === 'true';
-        }) || filterButtons[0];
-        updateFilterUI(initial, filterButtons);
-
-        filterButtons.forEach(function(btn) {
-            btn.addEventListener('click', function() {
-                setFilterSelection(btn, filterButtons);
-            });
-
-            btn.addEventListener('keydown', function(e) {
-                const currentIndex = filterButtons.indexOf(btn);
-                let nextIndex = -1;
-
-                if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
-                    nextIndex = (currentIndex + 1) % filterButtons.length;
-                } else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
-                    nextIndex = (currentIndex - 1 + filterButtons.length) % filterButtons.length;
-                } else if (e.key === 'Home') {
-                    nextIndex = 0;
-                } else if (e.key === 'End') {
-                    nextIndex = filterButtons.length - 1;
-                } else if (e.key === ' ' || e.key === 'Enter') {
-                    e.preventDefault();
-                    setFilterSelection(btn, filterButtons);
-                    return;
-                }
-
-                if (nextIndex >= 0) {
-                    e.preventDefault();
-                    setFilterSelection(filterButtons[nextIndex], filterButtons);
-                    filterButtons[nextIndex].focus();
-                }
+            filterButtons.forEach(function(btn) {
+                btn.addEventListener('click', () => setFilterSelection(btn, filterButtons));
+                btn.addEventListener('keydown', function(e) {
+                    const currentIndex = filterButtons.indexOf(btn);
+                    let nextIndex = -1;
+                    if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+                        nextIndex = (currentIndex + 1) % filterButtons.length;
+                    } else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+                        nextIndex = (currentIndex - 1 + filterButtons.length) % filterButtons.length;
+                    } else if (e.key === 'Home') {
+                        nextIndex = 0;
+                    } else if (e.key === 'End') {
+                        nextIndex = filterButtons.length - 1;
+                    }
+                    if (nextIndex >= 0) {
+                        e.preventDefault();
+                        setFilterSelection(filterButtons[nextIndex], filterButtons);
+                        filterButtons[nextIndex].focus();
+                    }
+                });
             });
         });
     }
@@ -682,8 +666,8 @@
         const searchBox = document.getElementById('search-box');
 
         container.addEventListener('click', function(e) {
-            // Track clicks on language buttons
-            const langBtn = e.target.closest('.lang-btn');
+            // Track primary-title and language-link navigation.
+            const langBtn = e.target.closest('.lang-btn, .work-title');
             if (langBtn) {
                 const workId = langBtn.getAttribute('data-work-id');
                 if (workId) {
@@ -697,8 +681,9 @@
             if (tagEl && tagEl.dataset.tag) {
                 searchBox.value = '#' + tagEl.dataset.tag;
                 searchQuery = searchBox.value.trim();
+                currentPage = 1;
                 updateClearButton();
-                applyFilters();
+                applyFilters(true);
                 return;
             }
 
@@ -707,10 +692,111 @@
             if (authorEl && authorEl.dataset.author) {
                 searchBox.value = authorEl.dataset.author;
                 searchQuery = searchBox.value.trim();
+                currentPage = 1;
                 updateClearButton();
-                applyFilters();
+                applyFilters(true);
                 return;
             }
+        });
+    }
+
+    function filterLabel(facet, value) {
+        const button = document.querySelector(
+            `.filter-btn[data-facet="${facet}"][data-filter="${value}"]`
+        );
+        return button ? button.textContent : value;
+    }
+
+    function renderAlphabet() {
+        const nav = document.getElementById('alphabet-nav');
+        const firstIndexes = {};
+        filteredWorks.forEach(function(work, index) {
+            const title = normalizeGreek((work.title || '').trim());
+            const letter = title ? title.charAt(0).toLocaleUpperCase() : '#';
+            if (firstIndexes[letter] === undefined) firstIndexes[letter] = index;
+        });
+        const letters = Object.keys(firstIndexes);
+        nav.hidden = letters.length < 2;
+        nav.innerHTML = letters.map(letter =>
+            `<button type="button" data-index="${firstIndexes[letter]}">${escapeHtml(letter)}</button>`
+        ).join('');
+    }
+
+    function updatePagination() {
+        const pagination = document.getElementById('pagination');
+        const pageCount = Math.max(1, Math.ceil(filteredWorks.length / PAGE_SIZE));
+        pagination.hidden = filteredWorks.length <= PAGE_SIZE;
+        document.getElementById('previous-page').disabled = currentPage <= 1;
+        document.getElementById('next-page').disabled = currentPage >= pageCount;
+        document.getElementById('page-status').textContent = `Page ${currentPage} of ${pageCount}`;
+    }
+
+    function updateURL(mode) {
+        const params = new URLSearchParams();
+        if (searchQuery) params.set('q', searchQuery);
+        if (availabilityFilter !== 'all') params.set('availability', availabilityFilter);
+        if (originalFilter !== 'any') params.set('original', originalFilter);
+        if (currentPage > 1) params.set('page', String(currentPage));
+        const next = window.location.pathname + (params.toString() ? '?' + params.toString() : '') + window.location.hash;
+        if (next !== window.location.pathname + window.location.search + window.location.hash) {
+            window.history[mode + 'State']({}, '', next);
+        }
+    }
+
+    function selectFacetFromState(facet, value) {
+        const group = document.querySelector(`.filter-btn[data-facet="${facet}"]`).parentElement;
+        const buttons = Array.from(group.querySelectorAll('.filter-btn'));
+        const selected = buttons.find(btn => btn.dataset.filter === value) || buttons[0];
+        updateFilterUI(selected, buttons);
+    }
+
+    function restoreStateFromURL() {
+        const params = new URLSearchParams(window.location.search);
+        const page = Number.parseInt(params.get('page'), 10);
+        searchQuery = (params.get('q') || '').trim();
+        document.getElementById('search-box').value = searchQuery;
+        selectFacetFromState('availability', params.get('availability') || 'all');
+        selectFacetFromState('original', params.get('original') || 'any');
+        currentPage = Number.isInteger(page) && page > 0 ? page : 1;
+        updateClearButton();
+    }
+
+    function initCatalogNavigation() {
+        document.getElementById('previous-page').addEventListener('click', function() {
+            currentPage--;
+            applyFilters(true);
+            document.getElementById('catalog').scrollIntoView();
+        });
+        document.getElementById('next-page').addEventListener('click', function() {
+            currentPage++;
+            applyFilters(true);
+            document.getElementById('catalog').scrollIntoView();
+        });
+        document.getElementById('alphabet-nav').addEventListener('click', function(e) {
+            const button = e.target.closest('button[data-index]');
+            if (!button) return;
+            const index = Number(button.dataset.index);
+            currentPage = Math.floor(index / PAGE_SIZE) + 1;
+            applyFilters(true);
+            const item = document.querySelectorAll('.work-item')[index % PAGE_SIZE];
+            if (item) {
+                item.querySelector('.work-title').focus({ preventScroll: true });
+                item.scrollIntoView();
+            }
+        });
+        document.getElementById('reset-filters').addEventListener('click', function() {
+            searchQuery = '';
+            currentPage = 1;
+            document.getElementById('search-box').value = '';
+            selectFacetFromState('availability', 'all');
+            selectFacetFromState('original', 'any');
+            updateClearButton();
+            applyFilters(true);
+            document.getElementById('search-box').focus();
+        });
+        window.addEventListener('popstate', function() {
+            restoreStateFromURL();
+            applyFilters(false);
         });
     }
 
@@ -720,12 +806,17 @@
         return div.innerHTML;
     }
 
+    function escapeAttribute(text) {
+        return escapeHtml(text || '').replace(/"/g, '&quot;');
+    }
+
     document.addEventListener('DOMContentLoaded', function() {
         initTheme();
         loadCatalog();
         initSearch();
         initFilters();
         initClickTracking();
+        initCatalogNavigation();
         document.getElementById('copyright').textContent =
             '\u00A9 ' + new Date().getFullYear() + ' Bebliotheca Project';
     });

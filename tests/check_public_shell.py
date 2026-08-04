@@ -3,7 +3,9 @@
 
 from __future__ import annotations
 
+import importlib.util
 import sys
+import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -13,6 +15,7 @@ PAGE_404 = PUBLIC / "404.html"
 FAVICON = PUBLIC / "favicon.svg"
 CSS = PUBLIC / "themes/src/index_theme/css/index.css"
 JS = PUBLIC / "themes/src/index_theme/js/index.js"
+CATALOG_GENERATOR = ROOT / "scripts/generate_catalog.py"
 
 
 def fail(msg: str) -> None:
@@ -32,6 +35,7 @@ def main() -> None:
     favicon = require(FAVICON)
     css = require(CSS)
     js = require(JS)
+
 
     # #1 broken Codeberg link removed
     if "codeberg.org" in index.lower():
@@ -71,21 +75,22 @@ def main() -> None:
     if ".error-page" not in css:
         fail("CSS missing .error-page styles")
 
-    # #6 rename only
+    # #8 separate availability and original-language facets
     if "Greek/Latin Only" in index:
         fail("old Greek/Latin Only label still present")
     if "Without English" not in index:
         fail("Without English label missing")
-    if 'data-filter="untranslated"' not in index:
-        fail("untranslated filter data attribute missing")
-    if "translationFilter === 'untranslated'" not in js:
-        fail("untranslated predicate missing from JS")
+    for value in ('with-en', 'without-en', 'has-gr', 'has-la', 'gr-only', 'la-only'):
+        if f'data-filter="{value}"' not in index:
+            fail(f"facet value missing: {value}")
+        if value not in js:
+            fail(f"facet predicate missing: {value}")
 
     # #7 noscript + fetch failure recovery
     if "<noscript>" not in index:
         fail("index.html missing <noscript> fallback")
-    if "catalog.json" not in index:
-        fail("noscript fallback should mention catalog.json")
+    if "catalog-static.html" not in index:
+        fail("noscript fallback should link generated static catalog")
     if "showCatalogFailure" not in js:
         fail("JS missing catalog failure recovery helper")
     if "response.ok" not in js:
@@ -105,11 +110,9 @@ def main() -> None:
     if "html.js .loading" not in css:
         fail("CSS must show .loading under html.js")
 
-    # Predicate for Without English remains originals without English
-    if "translationFilter === 'untranslated'" not in js:
-        fail("untranslated filter branch missing")
-    if "hasEnglish" not in js or "!hasEnglish" not in js:
-        fail("untranslated predicate must still exclude English")
+    # Predicate labels remain exact.
+    if "availabilityFilter === 'without-en'" not in js or "hasEnglish" not in js:
+        fail("Without English predicate missing")
     if "aria-checked', selected ? 'true' : 'false'" not in js and 'aria-checked", selected ? "true" : "false"' not in js:
         # tolerate either quote style around attribute name
         if "setAttribute('aria-checked'" not in js and 'setAttribute("aria-checked"' not in js:
@@ -121,6 +124,50 @@ def main() -> None:
     gitignore = require(ROOT / ".gitignore")
     if "!public/404.html" not in gitignore:
         fail(".gitignore missing !public/404.html exception")
+
+    # #9-#12 URL state, bounded rendering, preferred titles, semantic controls.
+    for marker in ('URLSearchParams', "window.addEventListener('popstate'", 'history[mode + \'State\']'):
+        if marker not in js:
+            fail(f"URL state marker missing: {marker}")
+    if 'const PAGE_SIZE = 50' not in js or '.slice(start, start + PAGE_SIZE)' not in js:
+        fail("catalog rendering is not bounded")
+    if 'class="work-title" href=' not in js:
+        fail("preferred title link missing")
+    if '<button type="button" class="tag"' not in js or '<button type="button" class="work-author"' not in js:
+        fail("author/tag controls must be native buttons")
+    if 'id="alphabet-nav"' not in index or 'renderAlphabet' not in js:
+        fail("alphabet navigation missing")
+
+
+    # #18-#21 local icon, landmarks, recovery, static no-JS generation.
+    if '<svg class="theme-toggle-icon"' not in index or '☀️' in index or '🌙' in index:
+        fail("index theme control must use local restrained SVG")
+    if '<main ' not in index or '<footer ' not in index:
+        fail("index landmarks missing")
+    if 'id="reset-filters"' not in index or 'Reset search and filters' not in index:
+        fail("empty/active-state reset control missing")
+
+    spec = importlib.util.spec_from_file_location("generate_catalog", CATALOG_GENERATOR)
+    if spec is None or spec.loader is None:
+        fail("cannot load catalog generator")
+    assert spec is not None and spec.loader is not None
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    if module.normalize_display_label('Liber 11s · 12s') != 'Liber 11 · Book 12':
+        fail("catalog title normalization is not presentation-safe")
+    sample = [{
+        'title': 'Sample', 'author': 'Author',
+        'translations': [
+            {'language': 'en', 'title': 'Translation', 'html_path': 'en/sample.html'},
+            {'language': 'gr', 'title': 'Πρωτότυπο', 'html_path': 'gr/sample.html'},
+        ],
+    }]
+    with tempfile.TemporaryDirectory() as tmp:
+        static_path = Path(tmp) / 'catalog-static.html'
+        module.generate_static_catalog(sample, static_path)
+        static = require(static_path)
+        if 'gr/sample.html' not in static or 'Πρωτότυπο' not in static or '1 of 1 works' not in static:
+            fail("static catalog does not derive preferred links from catalog data")
 
     print("OK: public shell / a11y / fallback checks passed")
 

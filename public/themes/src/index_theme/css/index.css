@@ -14,9 +14,10 @@
     --bg-tertiary: #2d2d2d;
     --text-primary: #e8e8e8;
     --text-secondary: #b0b0b0;
-    --text-muted: #808080;
+    --text-muted: #9a9a9a;
     --border-color: #3a3a3a;
-    --accent-purple: #7b6b9e;
+    --accent-purple: #a493c8;
+    --accent-contrast: #1a1a1a;
     --accent-gold: #c9a040;
     --hover-bg: #333333;
     --progress-green: #7aa874;
@@ -32,6 +33,7 @@
     --text-muted: #707070;
     --border-color: #d0d0d0;
     --accent-purple: #5a4b7e;
+    --accent-contrast: #ffffff;
     --accent-gold: #a8862a;
     --hover-bg: #e5e5e5;
     --progress-green: #6b8e23;
@@ -125,24 +127,14 @@ a:hover {
     color: var(--text-primary);
 }
 
-.intro {
-    text-align: center;
-    margin: 1.5em auto;
-    max-width: 700px;
-    padding: 0 2em;
-}
-
-.dev-notice {
-    background: transparent;
-    border: none;
-    border-left: 2px solid var(--border-color);
-    padding: 0.6em 1em;
-    margin: 0;
-    /* font-size: 120%; */
-    font-style: italic;
-    color: var(--text-muted);
-    text-align: center;
-    border-radius: 0;
+.theme-toggle-icon {
+    width: 1.2em;
+    height: 1.2em;
+    fill: none;
+    stroke: currentColor;
+    stroke-linecap: round;
+    stroke-width: 1.7;
+    vertical-align: middle;
 }
 
 .container {
@@ -287,12 +279,27 @@ a:hover {
    Filter Buttons
    ======================================== */
 
+.facets {
+    display: flex;
+    justify-content: center;
+    gap: 1.5em;
+    flex-wrap: wrap;
+    margin: 1em auto 1.5em;
+    max-width: 900px;
+}
+
+.facet-group h2 {
+    color: var(--text-secondary);
+    font-size: 0.85em;
+    font-weight: 500;
+    margin-bottom: 0.35em;
+    text-align: center;
+}
+
 .filter-buttons {
     display: flex;
     justify-content: center;
     gap: 0.5em;
-    margin: 1em auto 1.5em;
-    max-width: 700px;
     flex-wrap: wrap;
 }
 
@@ -317,7 +324,7 @@ a:hover {
 .filter-btn.active {
     background: var(--accent-purple);
     border-color: var(--accent-purple);
-    color: #ffffff;
+    color: var(--accent-contrast);
 }
 
 .filter-btn:focus-visible {
@@ -331,6 +338,52 @@ a:hover {
     color: var(--text-muted);
     font-size: 0.9em;
     padding: 0.5em;
+}
+
+.reset-filters {
+    display: block;
+    margin: 0.5em auto 0;
+    border: 0;
+    background: transparent;
+    color: var(--accent-purple);
+    cursor: pointer;
+    font: inherit;
+    text-decoration: underline;
+}
+
+.reset-filters[hidden] {
+    display: none;
+}
+
+.alphabet-nav,
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.35em;
+    margin: 1em auto;
+}
+
+.alphabet-nav[hidden],
+.pagination[hidden] {
+    display: none;
+}
+
+.alphabet-nav button,
+.pagination button {
+    border: 1px solid var(--border-color);
+    border-radius: 3px;
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    cursor: pointer;
+    font: inherit;
+    padding: 0.3em 0.6em;
+}
+
+.pagination button:disabled {
+    color: var(--text-muted);
+    cursor: default;
 }
 
 /* ========================================
@@ -373,6 +426,7 @@ a:hover {
 }
 
 .work-title {
+    display: inline-block;
     font-size: 1.25em;
     font-weight: 500;
     margin-bottom: 0.25em;
@@ -387,10 +441,15 @@ a:hover {
 }
 
 .work-author {
+    display: block;
     font-size: 0.95em;
     color: var(--text-secondary);
     margin-top: 0.15em;
+    padding: 0;
+    border: 0;
+    background: transparent;
     cursor: pointer;
+    font-family: inherit;
 }
 
 .work-author:hover {
@@ -438,12 +497,23 @@ a:hover {
     color: var(--text-muted);
     cursor: pointer;
     transition: all 0.2s ease;
+    font-family: inherit;
 }
 
 .tag:hover {
     background: var(--hover-bg);
     color: var(--accent-purple);
     border-color: var(--accent-purple);
+}
+
+.work-title:focus-visible,
+.work-author:focus-visible,
+.tag:focus-visible,
+.reset-filters:focus-visible,
+.alphabet-nav button:focus-visible,
+.pagination button:focus-visible {
+    outline: 2px solid var(--accent-gold);
+    outline-offset: 2px;
 }
 
 /* ========================================
@@ -475,7 +545,7 @@ a:hover {
 .lang-btn:hover {
     background: var(--accent-purple);
     border-color: var(--accent-purple);
-    color: #ffffff;
+    color: var(--accent-contrast);
 }
 
 /* ========================================
@@ -550,7 +620,7 @@ html.js .loading {
 .home-link:hover {
     border-color: var(--accent-purple);
     background: var(--accent-purple);
-    color: #ffffff;
+    color: var(--accent-contrast);
 }
 
 .loading.catalog-error {
@@ -572,6 +642,14 @@ html.js .loading {
     border-top: 1px solid var(--border-color);
     color: var(--text-muted);
     font-size: 0.85em;
+}
+
+.footer span {
+    display: block;
+}
+
+.footer-links {
+    margin-top: 0.4em;
 }
 
 /* ========================================
@@ -607,5 +685,13 @@ html.js .loading {
 
     .container {
         padding: 0 1em 2em 1em;
+    }
+
+    .facets {
+        display: block;
+    }
+
+    .facet-group + .facet-group {
+        margin-top: 1em;
     }
 }

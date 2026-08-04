@@ -12,7 +12,9 @@ Usage:
 """
 
 import argparse
+import html
 import json
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -28,6 +30,13 @@ LANG_NAMES: Dict[str, str] = {
 
 # Translation sort priority: Greek first, then Latin, then English
 LANG_PRIORITY: Dict[str, int] = {'gr': 0, 'la': 1, 'en': 2}
+STATIC_CATALOG_LIMIT = 250
+
+
+def normalize_display_label(label: str) -> str:
+    """Remove importer suffixes from titles shown by catalog/readers."""
+    label = re.sub(r'\bLiber (\d+)s\b', r'Liber \1', label)
+    return re.sub(r'\b(\d+)s\b', r'Book \1', label)
 
 
 def parse_org_header(file_path: Path) -> Optional[Dict[str, Any]]:
@@ -138,7 +147,7 @@ def group_translations(
 
         work: Dict[str, Any] = {
             'id': filename,
-            'title': primary.get('title', 'Untitled'),
+            'title': normalize_display_label(primary.get('title', 'Untitled')),
             'author': primary.get('author', 'Unknown'),
             'translations': [],
         }
@@ -164,7 +173,7 @@ def group_translations(
                 'language': lang_code,
                 'language_name': trans['language_name'],
                 'html_path': trans.get('html_path', ''),
-                'title': trans.get('title', ''),
+                'title': normalize_display_label(trans.get('title', '')),
                 'author': trans.get('author', ''),
             }
             if 'tags' in trans:
@@ -178,7 +187,37 @@ def group_translations(
     return catalog
 
 
-def generate_catalog(content_path: Path, output_path: Path, quiet: bool = False) -> None:
+def generate_static_catalog(catalog: List[Dict[str, Any]], output_path: Path) -> None:
+    """Write a bounded no-JavaScript catalog from grouped catalog data."""
+    items = []
+    for work in catalog[:STATIC_CATALOG_LIMIT]:
+        translations = work.get('translations', [])
+        preferred = next((t for t in translations if t['language'] == 'gr'), None)
+        preferred = preferred or next((t for t in translations if t['language'] == 'la'), None)
+        preferred = preferred or (translations[0] if translations else None)
+        if not preferred or not preferred.get('html_path'):
+            continue
+        title = html.escape(preferred.get('title') or work.get('title') or 'Untitled')
+        author = html.escape(work.get('author') or 'Unknown')
+        href = html.escape(preferred['html_path'], quote=True)
+        items.append(f'<li><a href="{href}">{title}</a> <span>{author}</span></li>')
+
+    document = f'''<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bebliotheca static catalog</title><link rel="stylesheet" href="themes/src/index_theme/css/index.css"></head>
+<body><main class="container"><h1>Bebliotheca catalog</h1>
+<p>Showing {len(items)} of {len(catalog)} works. <a href="index.html">Interactive catalog</a></p>
+<ol class="static-catalog">{''.join(items)}</ol></main></body></html>'''
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(document, encoding='utf-8')
+
+
+def generate_catalog(
+    content_path: Path,
+    output_path: Path,
+    quiet: bool = False,
+    static_output_path: Optional[Path] = None,
+) -> None:
     """Generate catalog JSON file from content directory."""
     if not content_path.exists():
         print(f"Error: Content directory not found: {content_path}", file=sys.stderr)
@@ -217,6 +256,8 @@ def generate_catalog(content_path: Path, output_path: Path, quiet: bool = False)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
+    if static_output_path is not None:
+        generate_static_catalog(catalog, static_output_path)
 
     print(f"Generated catalog: {output_path}")
     print(f"  Unique works: {len(catalog)}")
@@ -238,6 +279,12 @@ def main() -> None:
         help='Output path (default: public/catalog.json)',
     )
     parser.add_argument(
+        '--static-output',
+        type=Path,
+        default=Path('public/catalog-static.html'),
+        help='No-JavaScript catalog path (default: public/catalog-static.html)',
+    )
+    parser.add_argument(
         '--content-dir',
         type=Path,
         default=Path('content'),
@@ -249,7 +296,12 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    generate_catalog(args.content_dir, args.output, quiet=args.quiet)
+    generate_catalog(
+        args.content_dir,
+        args.output,
+        quiet=args.quiet,
+        static_output_path=args.static_output,
+    )
 
 
 if __name__ == '__main__':

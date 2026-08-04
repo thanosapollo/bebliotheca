@@ -148,7 +148,7 @@ case "${1:-all}" in
     clean)
         find "$PUBLIC_DIR/gr" "$PUBLIC_DIR/en" "$PUBLIC_DIR/la" -name '*.html' -delete 2>/dev/null || true
         find "$PUBLIC_DIR/gr" -name '*.pdf' -delete 2>/dev/null || true
-        rm -f "$PUBLIC_DIR/catalog.json"
+        rm -f "$PUBLIC_DIR/catalog.json" "$PUBLIC_DIR/catalog-static.html"
         echo "Cleaned"
         ;;
     clean-sources)
