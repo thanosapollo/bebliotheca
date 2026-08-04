@@ -74,6 +74,29 @@ $( document ).ready(function() {
 });
 
 $( document ).ready(function() {
+    if (window.self !== window.top) {
+        $('body').addClass('parallel-pane-reader');
+    }
+
+    function normalizeDisplayText(text) {
+        return text.replace(/\bLiber (\d+)s\b/g, 'Liber $1')
+            .replace(/\b(\d+)s\b/g, 'Book $1');
+    }
+
+    function normalizeElementText(element) {
+        Array.prototype.forEach.call(element.childNodes, function(node) {
+            if (node.nodeType === Node.TEXT_NODE) {
+                node.nodeValue = normalizeDisplayText(node.nodeValue);
+            } else if (node.nodeType === Node.ELEMENT_NODE) {
+                normalizeElementText(node);
+            }
+        });
+    }
+
+    document.title = normalizeDisplayText(document.title);
+    $('h1.title, #text-table-of-contents a, #content h2, #content h3, #content h4')
+        .each(function() { normalizeElementText(this); });
+
     // Theme init: apply saved theme immediately to prevent flash
     var savedTheme = localStorage.getItem('theme') || 'dark';
     document.documentElement.setAttribute('data-theme', savedTheme);
@@ -89,11 +112,11 @@ $( document ).ready(function() {
     $tableOfContents.css({paddingBottom: $postamble.outerHeight()});
 
     // add TOC button
-    var toggleSidebar = $('<div id="toggle-sidebar"><a href="#table-of-contents"><h2>Table Of Contents</h2></a></div>');
+    var toggleSidebar = $('<div id="toggle-sidebar"><a href="#table-of-contents" aria-label="Open table of contents"><h2>Table Of Contents</h2></a></div>');
     $('#content').prepend(toggleSidebar);
 
     // add close button when sidebar showed in mobile screen
-    var closeBtn = $('<a class="close-sidebar" href="#">Close</a>');
+    var closeBtn = $('<a class="close-sidebar" href="#" aria-label="Close table of contents">Close</a>');
     var tocTitle = $('#table-of-contents').find('h2');
     tocTitle.append(closeBtn);
 
@@ -102,11 +125,11 @@ $( document ).ready(function() {
     tocTitle.after(buttonContainer);
 
     // add TOC hide button
-    var tocHideBtn = $('<button id="toc-hide-btn">◀</button>');
+    var tocHideBtn = $('<button id="toc-hide-btn" title="Collapse table of contents" aria-label="Collapse table of contents">◀</button>');
     buttonContainer.append(tocHideBtn);
 
     // add font selector
-    var fontSelect = $('<select id="font-selector"></select>');
+    var fontSelect = $('<select id="font-selector" aria-label="Reader font"></select>');
     fontSelect.append('<option value="sans">Sans-serif</option>');
     fontSelect.append('<option value="serif">Serif</option>');
     fontSelect.append('<option value="noto-serif">Noto Serif</option>');
@@ -138,12 +161,12 @@ $( document ).ready(function() {
     fontSelectMobile.on('change', onFontChange);
 
     // add theme toggle button
-    var themeBtn = $('<button id="theme-toggle-btn"></button>');
+    var themeBtn = $('<button id="theme-toggle-btn" title="Toggle theme" aria-label="Toggle theme"></button>');
     themeBtn.text(savedTheme === 'dark' ? '\u2600' : '\u263E');
     buttonContainer.append(themeBtn);
 
     // mobile theme toggle
-    var themeBtnMobile = $('<button id="theme-toggle-mobile"></button>');
+    var themeBtnMobile = $('<button id="theme-toggle-mobile" title="Toggle theme" aria-label="Toggle theme"></button>');
     themeBtnMobile.text(savedTheme === 'dark' ? '\u2600' : '\u263E');
     $('body').append(themeBtnMobile);
 
@@ -170,6 +193,8 @@ $( document ).ready(function() {
             $('body').toggleClass('toc-hidden');
             // Change icon based on state
             tocHideBtn.text(isHidden ? '◀' : '▶');
+            tocHideBtn.attr('aria-label', isHidden ? 'Collapse table of contents' : 'Expand table of contents');
+            tocHideBtn.attr('title', tocHideBtn.attr('aria-label'));
         }
     });
 

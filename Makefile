@@ -37,6 +37,7 @@ test:
 	@$(PYTHON) tests/check_originals.py check
 	@$(PYTHON) tests/check_metadata.py check
 	@$(PYTHON) tests/check_public_shell.py
+	@$(PYTHON) tests/check_reader_shell.py
 
 web:
 	@echo "Starting web server on http://localhost:8080"
@@ -54,6 +55,6 @@ help:
 	@echo "make report           Write test reports to log/"
 	@echo "make import           Import new files from sources (skips existing)"
 	@echo "make update           Update all submodules to latest and re-import"
-	@echo "make test             Run all checks (structure + language + originals + metadata + public shell)"
+	@echo "make test             Run all checks (structure + language + originals + metadata + shell tests)"
 	@echo "make web              Start local web server on port 8080"
 	@echo "make help             Show this help"

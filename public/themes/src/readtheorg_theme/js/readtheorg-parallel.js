@@ -49,55 +49,33 @@
 
             if (!currentLangName) return;
 
-            // Build list of all possible translation paths to check
-            var translationsToCheck = [];
-            for (var langName in LANGUAGES) {
-                var langCode = LANGUAGES[langName];
-                if (langCode !== currentLangCode) {
-                    var translationPath = path.replace('/' + currentLangCode + '/', '/' + langCode + '/');
-                    translationsToCheck.push({
-                        code: langCode,
-                        name: langName,
-                        path: translationPath
-                    });
-                }
-            }
-
-            if (translationsToCheck.length === 0) return;
-
-            // Check all translations in parallel and collect which ones exist
-            var availableTranslations = [];
-            var checksCompleted = 0;
-
-            translationsToCheck.forEach(function(translation) {
-                $.ajax({
-                    url: translation.path,
-                    type: 'HEAD',
-                    success: function() {
-                        availableTranslations.push(translation);
-                    },
-                    complete: function() {
-                        checksCompleted++;
-                        // When all checks are done, setup if we found at least one translation
-                        if (checksCompleted === translationsToCheck.length && availableTranslations.length > 0) {
-                            // Sort available translations to have a consistent default
-                            availableTranslations.sort(function(a, b) {
-                                return a.name.localeCompare(b.name);
-                            });
-
-                            // Use the first available translation as default
-                            var defaultTranslation = availableTranslations[0];
-                            ParallelView.setup(
-                                path,
-                                defaultTranslation.path,
-                                currentLangCode,
-                                currentLangName,
-                                availableTranslations
-                            );
-                        }
-                    }
-                });
+            var metadata = document.querySelector('meta[name="bebliotheca-languages"]');
+            if (!metadata) return;
+            var availableCodes = metadata.content.split(',').filter(function(code) {
+                return code && code !== currentLangCode;
             });
+            var availableTranslations = [];
+            availableCodes.forEach(function(code) {
+                for (var name in LANGUAGES) {
+                    if (LANGUAGES[name] === code) {
+                        availableTranslations.push({
+                            code: code,
+                            name: name,
+                            path: path.replace('/' + currentLangCode + '/', '/' + code + '/')
+                        });
+                        break;
+                    }
+                }
+            });
+            if (availableTranslations.length === 0) return;
+            var defaultTranslation = availableTranslations[0];
+            ParallelView.setup(
+                path,
+                defaultTranslation.path,
+                currentLangCode,
+                currentLangName,
+                availableTranslations
+            );
         },
 
         setup: function(currentFile, parallelFile, currentLangCode, currentLangName, availableTranslations) {
@@ -119,29 +97,29 @@
             var modal = $('<div id="parallel-modal">' +
                 '<div id="parallel-modal-header">' +
                     '<div id="parallel-modal-controls">' +
-                        '<button class="parallel-control-btn" id="sync-toggle">🔗 Sync: ON</button>' +
-                        '<a href="/index.html" id="parallel-home-btn" class="parallel-control-btn" title="Home">⌂</a>' +
+                        '<button class="parallel-control-btn" id="sync-toggle" aria-pressed="true">Sync: ON</button>' +
+                        '<a href="/index.html" id="parallel-home-btn" class="parallel-control-btn" title="Library index" aria-label="Library index">⌂</a>' +
                     '</div>' +
-                    '<button id="parallel-close-btn">×</button>' +
+                    '<button id="parallel-close-btn" title="Close parallel view" aria-label="Close parallel view">×</button>' +
                 '</div>' +
                 '<div id="parallel-content">' +
                     '<div class="parallel-pane" id="left-pane">' +
                         '<div class="parallel-pane-header">' +
-                            '<select id="left-lang-selector" class="lang-selector">' +
+                            '<select id="left-lang-selector" class="lang-selector" aria-label="Left text language">' +
                                 languageOptions +
                             '</select>' +
-                            '<a href="' + currentFile + '" target="_blank" class="open-link">Open ↗</a>' +
+                            '<a href="' + currentFile + '" target="_blank" rel="noopener" class="open-link">Open ↗</a>' +
                         '</div>' +
-                        '<iframe id="left-frame" src="' + currentFile + '"></iframe>' +
+                        '<iframe id="left-frame" title="Left parallel text" src="' + currentFile + '"></iframe>' +
                     '</div>' +
                     '<div class="parallel-pane" id="right-pane">' +
                         '<div class="parallel-pane-header">' +
-                            '<select id="right-lang-selector" class="lang-selector">' +
+                            '<select id="right-lang-selector" class="lang-selector" aria-label="Right text language">' +
                                 languageOptions +
                             '</select>' +
-                            '<a href="' + parallelFile + '" target="_blank" class="open-link">Open ↗</a>' +
+                            '<a href="' + parallelFile + '" target="_blank" rel="noopener" class="open-link">Open ↗</a>' +
                         '</div>' +
-                        '<iframe id="right-frame" src="' + parallelFile + '"></iframe>' +
+                        '<iframe id="right-frame" title="Right parallel text" src="' + parallelFile + '"></iframe>' +
                     '</div>' +
                 '</div>' +
                 '<div id="parallel-sync-indicator"></div>' +
@@ -190,7 +168,8 @@
             // Sync toggle
             $('#sync-toggle').on('click', function() {
                 ParallelView.syncEnabled = !ParallelView.syncEnabled;
-                $(this).text(ParallelView.syncEnabled ? '🔗 Sync: ON' : '🔓 Sync: OFF');
+                $(this).text(ParallelView.syncEnabled ? 'Sync: ON' : 'Sync: OFF');
+                $(this).attr('aria-pressed', ParallelView.syncEnabled ? 'true' : 'false');
             });
 
             // Escape to close
