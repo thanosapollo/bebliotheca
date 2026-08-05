@@ -722,6 +722,10 @@ html.js .loading {
 
 .footer-links {
     margin-top: 0.4em;
+    display: block;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    word-break: break-word;
 }
 
 /* ========================================

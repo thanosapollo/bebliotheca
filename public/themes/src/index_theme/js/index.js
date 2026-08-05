@@ -437,8 +437,14 @@
             // Build tags display
             let tagsHtml = '';
             if (work.tags && work.tags.length > 0) {
-                const tagElements = work.tags.map(tag => `<button type="button" class="tag" ` +
-                    `data-tag="${escapeAttribute(tag)}">#${escapeHtml(tag)}</button>`).join('');
+                const tagElements = work.tags.map(tag => {
+                    const label = '#' + tag;
+                    return `<button type="button" class="tag" ` +
+                        `data-tag="${escapeAttribute(tag)}" ` +
+                        `title="Filter by ${escapeAttribute(label)}" ` +
+                        `aria-label="Filter by ${escapeAttribute(label)}">` +
+                        `${escapeHtml(label)}</button>`;
+                }).join('');
                 tagsHtml = `<div class="work-tags">${tagElements}</div>`;
             }
 

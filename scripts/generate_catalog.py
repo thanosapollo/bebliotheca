@@ -32,7 +32,7 @@ LANG_NAMES: Dict[str, str] = {
 LANG_PRIORITY: Dict[str, int] = {'gr': 0, 'la': 1, 'en': 2}
 STATIC_CATALOG_LIMIT = 250
 # Keep in lockstep with public/index.html and public/404.html cache-bust.
-INDEX_CSS_CACHE_BUST = '20'
+INDEX_CSS_CACHE_BUST = '21'
 
 
 def normalize_display_label(label: str) -> str:

@@ -266,10 +266,22 @@ def main() -> None:
     # #18-#21 local icon, landmarks, recovery, static no-JS generation.
     if '<svg class="theme-toggle-icon"' not in index or '☀️' in index or '🌙' in index:
         fail("index theme control must use local restrained SVG")
-    if '<main ' not in index or '<footer ' not in index:
-        fail("index landmarks missing")
+    if '<header ' not in index or '<main ' not in index or '<footer ' not in index:
+        fail("index landmarks missing (header/main/footer)")
+    if 'class="intro"' in index or 'dev-notice' in index:
+        fail("source intro must stay out of catalog hierarchy")
+    if 'footer-links' not in index or 'git.thanosapollo.org/bebliotheca' not in index:
+        fail("quiet source link must live in footer")
+    if 'title="Clear search"' not in index or 'title="Use light theme"' not in index:
+        fail("icon-only controls need discoverable title tooltips")
     if 'id="reset-filters"' not in index or 'Reset search and filters' not in index:
         fail("empty/active-state reset control missing")
+    if "active.push('search" not in js or "reset-filters').hidden = active.length === 0" not in js:
+        fail("stats must expose active filter context with reset gate")
+    if 'title="Filter by ' not in js or 'aria-label="Filter by ' not in js:
+        fail("interactive tags need filter title/aria labels")
+    if 'overflow-wrap: anywhere' not in css or '.footer-links' not in css:
+        fail("footer links must wrap cleanly on narrow screens")
 
     spec = importlib.util.spec_from_file_location("generate_catalog", CATALOG_GENERATOR)
     if spec is None or spec.loader is None:
