@@ -6,7 +6,7 @@
     <meta name="author" content="Thanos Apollo">
     <title>Βιβλιοθήκη</title>
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
-    <link rel="stylesheet" href="themes/src/index_theme/css/index.css?v=21">
+    <link rel="stylesheet" href="themes/src/index_theme/css/index.css?v=21-search-first">
     <script>document.documentElement.classList.add('js');</script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,79 +14,90 @@
 </head>
 <body>
     <header class="header">
-        <button class="theme-toggle" id="theme-toggle" aria-label="Use light theme" title="Use light theme">
+        <div>
+            <h1 class="title" lang="el">Βιβλιοθήκη</h1>
+            <div class="subtitle">Library of Constantinople</div>
+        </div>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Use light theme" title="Use light theme" type="button">
             <svg class="theme-toggle-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                 <circle cx="12" cy="12" r="4"></circle>
                 <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path>
             </svg>
         </button>
-        <h1 class="title">Βιβλιοθήκη</h1>
-        <div class="subtitle">Library of Constantinople</div>
-        <div class="motto">Preserving the wisdom of antiquity</div>
     </header>
-
     <main class="container" id="catalog">
-        <div class="search-container">
-            <label class="visually-hidden" for="search-box">Search catalog</label>
-            <input type="search" id="search-box" name="q" placeholder="Search by title, author, #tag, or lang:..." autocomplete="off" aria-label="Search catalog">
-            <button class="search-clear" id="search-clear" aria-label="Clear search" title="Clear search" type="button">&times;</button>
-            <ul class="search-dropdown" id="search-dropdown" role="listbox" aria-label="Search suggestions"></ul>
-        </div>
-
-        <section class="facets" aria-label="Catalog filters">
-            <div class="facet-group">
-                <h2>Availability</h2>
-                <div class="filter-buttons" role="radiogroup" aria-label="Availability">
-                    <button type="button" class="filter-btn active" role="radio" aria-checked="true" data-facet="availability" data-filter="all">All</button>
-                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="availability" data-filter="with-en">English available</button>
-                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="availability" data-filter="without-en">Without English</button>
-                </div>
+        <section class="catalog-search" aria-label="Search catalog">
+            <label class="search-label" for="search-box">Find an author or a work</label>
+            <div class="search-container">
+                <input type="search" id="search-box" name="q" placeholder="Search titles and authors…" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="search-dropdown" aria-describedby="search-help">
+                <button class="search-clear" id="search-clear" aria-label="Clear search" title="Clear search" type="button" hidden>
+                    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m6 6 12 12M6 18 18 6"></path></svg>
+                </button>
+                <ul class="search-dropdown" id="search-dropdown" role="listbox" aria-label="Search suggestions" hidden></ul>
             </div>
-            <div class="facet-group">
-                <h2>Original language</h2>
-                <div class="filter-buttons" role="radiogroup" aria-label="Original language">
-                    <button type="button" class="filter-btn active" role="radio" aria-checked="true" data-facet="original" data-filter="any">Any</button>
-                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="original" data-filter="has-gr">Has Greek</button>
-                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="original" data-filter="has-la">Has Latin</button>
-                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="original" data-filter="gr-only">Greek only</button>
-                    <button type="button" class="filter-btn" role="radio" aria-checked="false" data-facet="original" data-filter="la-only">Latin only</button>
+            <p class="search-help" id="search-help">Search in Greek, Latin or English. Choose a language to read from the results.</p>
+            <div class="search-context" id="search-context" role="group" aria-label="Current search" hidden></div>
+            <details class="search-options" id="search-options">
+                <summary>Language &amp; collection</summary>
+                <div class="search-option-fields">
+                    <label>Reading language
+                        <select id="language-filter">
+                            <option value="">Any language</option>
+                            <option value="gr">Ἑλληνικά</option>
+                            <option value="en">English</option>
+                            <option value="la">Latin</option>
+                        </select>
+                    </label>
+                    <label>Collection
+                        <select id="collection-filter">
+                            <option value="">All collections</option>
+                            <option value="classical">Classical</option>
+                            <option value="imperial">Imperial</option>
+                            <option value="patristic">Church Fathers</option>
+                            <option value="byzantine">Byzantine</option>
+                            <option value="scripture">Scripture</option>
+                        </select>
+                    </label>
+                    <label>English translation
+                        <select id="availability-filter">
+                            <option value="all">Any availability</option>
+                            <option value="with-en">English available</option>
+                            <option value="without-en">Without English</option>
+                        </select>
+                    </label>
+                    <label>Original language
+                        <select id="original-filter">
+                            <option value="any">Any</option>
+                            <option value="has-gr">Greek</option>
+                            <option value="has-la">Latin</option>
+                        </select>
+                    </label>
                 </div>
-            </div>
+                <p class="search-help">You can also combine title or author words with <code>lang:en</code> or <code>#patristic</code>.</p>
+            </details>
         </section>
-
         <div class="stats" id="stats">
-            <span id="stats-text">Loading...</span>
+            <span id="stats-text" role="status" aria-live="polite" aria-atomic="true">Loading catalog…</span>
             <button type="button" id="reset-filters" class="reset-filters" hidden>Reset search and filters</button>
         </div>
-
-        <nav class="alphabet-nav" id="alphabet-nav" aria-label="Jump by title" hidden></nav>
-
-        <div class="loading" id="loading" role="status">Loading the archives...</div>
-
+        <div class="loading" id="loading" role="status">Loading the archives…</div>
         <noscript>
             <div class="fallback-notice" role="status">
                 <p>The interactive catalog needs JavaScript. Browse the generated catalog instead.</p>
-                <p>
-                    <a href="catalog-static.html">Static catalog</a>
-                    ·
-                    <a href="catalog.json">catalog.json</a>
-                </p>
+                <p><a href="catalog-static.html">Static catalog</a> · <a href="catalog.json">catalog.json</a></p>
             </div>
         </noscript>
-
-        <ul class="works-list" id="works-container"></ul>
-
+        <ul class="works-list" id="works-container" aria-label="Works" aria-busy="true"></ul>
         <nav class="pagination" id="pagination" aria-label="Catalog pages" hidden>
             <button type="button" id="previous-page">Previous</button>
             <span id="page-status"></span>
             <button type="button" id="next-page">Next</button>
         </nav>
-
         <footer class="footer">
             <span id="copyright"></span>
             <span class="footer-links"><a href="https://www.gnu.org/philosophy/">Free software</a> · <a href="https://git.thanosapollo.org/bebliotheca">Source</a></span>
         </footer>
     </main>
-    <script src="themes/src/index_theme/js/index.js?v=10"></script>
+    <script src="themes/src/index_theme/js/index.js?v=11-search-first"></script>
 </body>
 </html>

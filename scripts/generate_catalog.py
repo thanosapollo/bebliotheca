@@ -20,6 +20,8 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
+from author_data import get_author, resolve_slug
+
 # Language directory => display name
 LANG_NAMES: Dict[str, str] = {
     'en': 'English',
@@ -155,6 +157,9 @@ def group_translations(
         }
         if author_latin:
             work['author_latin'] = author_latin
+        author_id, _ = resolve_slug(Path(filename + '.org'))
+        if author_id and get_author(author_id) is not None:
+            work['author_id'] = author_id
 
         # Collect all unique tags across translations
         all_tags = {
@@ -186,6 +191,18 @@ def group_translations(
         work['translations'].sort(key=lambda t: LANG_PRIORITY.get(t['language'], 99))
         catalog.append(work)
 
+    # Share observed primary names only within verified canonical identities.
+    # Translation authors may contain translator names or importer annotations.
+    aliases: Dict[str, set[str]] = {}
+    for work in catalog:
+        if 'author_id' in work:
+            aliases.setdefault(work['author_id'], set()).update(
+                name for name in (work['author'], work.get('author_latin'))
+                if name and name != 'Unknown'
+            )
+    for work in catalog:
+        if 'author_id' in work:
+            work['author_aliases'] = sorted(aliases[work['author_id']])
     return catalog
 
 

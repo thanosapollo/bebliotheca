@@ -92,6 +92,15 @@ def check_catalog_contrast(css: str) -> None:
             if key not in theme:
                 fail(f"{theme_name} theme missing {key}")
 
+    highlighted = re.search(
+        r'li\[aria-selected="true"\] \.suggestion-desc\s*\{[^}]*color: var\((--[\w-]+)\)', css
+    )
+    if not highlighted or 'li:hover .suggestion-desc' not in css:
+        fail("highlighted suggestion descriptions need an explicit contrast-safe color")
+    assert highlighted is not None
+    for name, theme in (("dark", dark), ("light", light)):
+        assert_contrast(name + " highlighted suggestion", theme[highlighted[1]], theme["--hover-bg"], 4.5)
+
     # Normal text AA 4.5:1 for body/muted/tags; large-title gold uses 3:1.
     assert_contrast("dark primary text", dark["--text-primary"], dark["--bg-primary"], 4.5)
     assert_contrast("dark secondary text", dark["--text-secondary"], dark["--bg-secondary"], 4.5)
@@ -115,10 +124,9 @@ def check_catalog_contrast(css: str) -> None:
 
     for marker in (
         "#search-box:focus-visible",
-        ".filter-btn:focus-visible",
-        ".tag:focus-visible",
+        "select:focus-visible",
+        "summary:focus-visible",
         ".work-author:focus-visible",
-        ".alphabet-nav button:focus-visible",
         ".pagination button:focus-visible",
         ".reset-filters:focus-visible",
         ".theme-toggle:focus-visible",
@@ -137,6 +145,11 @@ def main() -> None:
     # #19 measured contrast + focus contracts
     check_catalog_contrast(css)
 
+
+    if 'id="search-context" role="group" aria-label="Current search"' not in index:
+        fail("search context must be a named group")
+    if 'class="language-links" role="group" aria-label="Reading languages"' not in js:
+        fail("reading language links must be a named group")
 
     # #1 broken Codeberg link removed
     if "codeberg.org" in index.lower():
@@ -158,13 +171,17 @@ def main() -> None:
     if "#search-box:focus-visible" not in css:
         fail("CSS missing #search-box:focus-visible")
 
-    # #4 exclusive filter semantics
-    if 'role="radiogroup"' not in index:
-        fail("filter group missing role=radiogroup")
-    if index.count('role="radio"') < 3:
-        fail("filter buttons missing role=radio")
-    if "aria-checked" not in js or "updateFilterUI" not in js:
-        fail("JS missing filter aria-checked updates")
+    # Search owns the catalog; narrowing is disclosed, not a permanent toolbar.
+    for marker in ('role="combobox"', 'aria-controls="search-dropdown"',
+                   'aria-autocomplete="list"', '<details ', '<summary>Language &amp; collection'):
+        if marker not in index:
+            fail(f"search-first semantic contract missing: {marker}")
+    for marker in ('role="option"', 'aria-activedescendant', 'cancelPendingSearch',
+                   "event.key === 'Tab'", 'safeReadingPath'):
+        if marker not in js:
+            fail(f"search behavior contract missing: {marker}")
+    if 'role="radio"' in index or 'alphabet-nav' in index or 'work-tags' in js:
+        fail("removed permanent catalog chrome has returned")
 
     # #5 branded 404
     if "Return to the library index" not in page_404:
@@ -181,11 +198,17 @@ def main() -> None:
         fail("old Greek/Latin Only label still present")
     if "Without English" not in index:
         fail("Without English label missing")
-    for value in ('with-en', 'without-en', 'has-gr', 'has-la', 'gr-only', 'la-only'):
-        if f'data-filter="{value}"' not in index:
+    for value in ('with-en', 'without-en', 'has-gr', 'has-la'):
+        if f'option value="{value}"' not in index:
             fail(f"facet value missing: {value}")
         if value not in js:
             fail(f"facet predicate missing: {value}")
+    for value, label in (('any', 'Any'), ('has-gr', 'Greek'), ('has-la', 'Latin')):
+        if f'<option value="{value}">{label}</option>' not in index:
+            fail(f"plain original-language choice missing: {label}")
+    for obsolete in ('Has Greek', 'Has Latin', 'Greek only', 'Latin only'):
+        if obsolete in index or obsolete in js:
+            fail(f"redundant original-language choice remains: {obsolete}")
 
     # #7 noscript + fetch failure recovery
     if "<noscript>" not in index:
@@ -214,12 +237,9 @@ def main() -> None:
     # Predicate labels remain exact.
     if "availabilityFilter === 'without-en'" not in js or "hasEnglish" not in js:
         fail("Without English predicate missing")
-    if "aria-checked', selected ? 'true' : 'false'" not in js and 'aria-checked", selected ? "true" : "false"' not in js:
-        # tolerate either quote style around attribute name
-        if "setAttribute('aria-checked'" not in js and 'setAttribute("aria-checked"' not in js:
-            fail("filter UI must write exclusive aria-checked state")
-        if "selected ? 'true' : 'false'" not in js and 'selected ? "true" : "false"' not in js:
-            fail("filter UI must toggle aria-checked true/false exclusively")
+    for control in ('language', 'collection', 'availability', 'original'):
+        if f'<select id="{control}-filter"' not in index:
+            fail(f"native narrowing control missing: {control}")
 
     # Ensure gitignore keeps static 404 trackable despite *.html
     gitignore = require(ROOT / ".gitignore")
@@ -242,9 +262,8 @@ def main() -> None:
         "function restoreStateFromURL()",
         "function updateURL(mode)",
         "Number.isInteger(page) && page > 0 ? page : 1",
-        "selectFacetFromState('availability'",
-        "selectFacetFromState('original'",
-        "buttons.find(btn => btn.dataset.filter === value) || buttons[0]",
+        "Object.hasOwn(AVAILABILITY, params.get('availability'))",
+        "Object.hasOwn(ORIGINALS, original)",
         "restoreStateFromURL();\n            applyFilters(false);",
         "window.addEventListener('popstate', function() {\n            restoreStateFromURL();\n            applyFilters(false);\n        });",
         "if (updateHistory) updateURL('push');",
@@ -255,12 +274,12 @@ def main() -> None:
         fail("index.html must load cache-busted index.js so CDN clients get URL-state JS")
     if 'const PAGE_SIZE = 50' not in js or '.slice(start, start + PAGE_SIZE)' not in js:
         fail("catalog rendering is not bounded")
-    if 'class="work-title" href=' not in js:
-        fail("preferred title link missing")
-    if '<button type="button" class="tag"' not in js or '<button type="button" class="work-author"' not in js:
-        fail("author/tag controls must be native buttons")
-    if 'id="alphabet-nav"' not in index or 'renderAlphabet' not in js:
-        fail("alphabet navigation missing")
+    if '<h2 class="work-title">' not in js or 'class="lang-btn" href=' not in js:
+        fail("work title and explicit language reading links missing")
+    if '<button type="button" class="work-author"' not in js:
+        fail("author controls must be native buttons")
+    if "type: 'work'" not in js or "params.set('work', workFilter)" not in js:
+        fail("work suggestions must select a work, not a reading language")
 
 
     # #18-#21 local icon, landmarks, recovery, static no-JS generation.
@@ -276,13 +295,12 @@ def main() -> None:
         fail("icon-only controls need discoverable title tooltips")
     if 'id="reset-filters"' not in index or 'Reset search and filters' not in index:
         fail("empty/active-state reset control missing")
-    if "active.push('search" not in js or "reset-filters').hidden = active.length === 0" not in js:
-        fail("stats must expose active filter context with reset gate")
-    if 'title="Filter by ' not in js or 'aria-label="Filter by ' not in js:
-        fail("interactive tags need filter title/aria labels")
+    if 'search-context' not in index or "$('reset-filters').hidden = !(searchQuery" not in js:
+        fail("active search context and reset gate missing")
     if 'overflow-wrap: anywhere' not in css or '.footer-links' not in css:
         fail("footer links must wrap cleanly on narrow screens")
 
+    sys.path.insert(0, str(ROOT / "scripts"))
     spec = importlib.util.spec_from_file_location("generate_catalog", CATALOG_GENERATOR)
     if spec is None or spec.loader is None:
         fail("cannot load catalog generator")
