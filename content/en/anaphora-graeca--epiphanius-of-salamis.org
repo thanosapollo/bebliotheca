@@ -1,0 +1,37 @@
+#+TITLE: Greek Anaphora
+#+AUTHOR: Ἐπιφάνιος Σαλαμῖνος hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg41-43:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/anaphora-graeca--epiphanius-of-salamis
+#+LANGUAGE: en
+
+* Greek Anaphora
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+"It is worthy and just, our God, to give thanks to you unceasingly for all your
+benefactions which you have granted us, first that you sent us from heaven your
+holy child, the co-throned of your kingdom, your co-eternal son, the God Word,
+who 299 having come at the last of the days, having taken our humanity, the Word
+having become flesh not having undergone a turning, through the Holy Spirit
+having flesh and a mind-bearing soul of a man and all the things of the man
+except sin, not as having dwelt in some man, but himself wholly the God Word,
+perfect, having been perfectly eaten, not having altered the humanity, not being
+two, but one king, one Christ, one Lord in Godhead and humanity, unmixedly and
+indivisibly confirming the divine and the human nature by the God-signs and by
+the human sufferings, being about to come upon the voluntary and famous and
+life-giving death for us, having taken bread upon his holy and undefiled hands
+and having shown it to you the God and Father, having given thanks, having
+blessed, having sanctified, he gave to his disciples the holy apostles saying:
+Take, eat, this is my body which is broken for you unto forgiveness of sins.
+Likewise after having supped, having taken a cup and mixed from two elements,
+from fruit of a vine and water, he sealed a cup of immortality and gave to his
+disciples saying: Drink from it all, this is my blood of the new covenant which
+is poured out for you and many unto forgiveness of sins." "That this bread having
+been turned may become a body of Christ, a divine body, a saving body of souls
+and bodies, and that mixed in this cup upon the same may be blood of Christ,
+blood of a new covenant, saving blood is for us, unto our partaking wholly of
+your holy mysteries in newness of the spirit and not in oldness of the letter."

@@ -1,0 +1,23 @@
+#+TITLE: Various Fragments
+#+AUTHOR: Εὐστάθιος Ἀντιοχείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg18:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta-varia--eustathius-of-antioch
+#+LANGUAGE: en
+
+* Various Fragments
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+88 Not only man, but also God, as Jeremiah the prophet also says: this is our
+God, another shall not be reckoned beside him. He found out every way of
+knowledge and gave it to Jacob his child and to Israel his beloved. After
+these things he was seen upon the earth and associated with men. And when did
+he associate with men, if not when he was born with them from a virgin and was
+an infant with them and grew with them and ate with them and drank with them
+and the rest? 90 For if prayers must be made, he says, for the catholic Church
+from the ends of the inhabited world, much more must providence also be shown
+for all of her and likewise to care for all and to be anxious for all.

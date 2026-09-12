@@ -1,0 +1,23 @@
+#+TITLE: Homily Delivered in the Church of Cyrinus
+#+AUTHOR: Κύριλλος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:5c-ad:pg68-77:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/homilia-habita-in-ecclesia-cyrini--cyril-of-alexandria
+#+LANGUAGE: en
+
+* Homily Delivered in the Church of Cyrinus
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of the same, from a homily spoken in the church of Cyrinus, on the thirteenth
+of the month Phamenoth according to the Egyptians, in which he interprets the
+saying of Isaiah that says: Death swallowed, having grown strong, and again
+God took away every tear from every face.
+For the God of all, being life and life-giving, wished man to be an
+incorruptible living being on earth, even if he is of a corruptible nature.
+But he, since he was wicked and envious, plotted against the race, set himself
+against the will of the Creator, craftily brought [man] down into
+disobedience, knowing that through it he would fall into death.

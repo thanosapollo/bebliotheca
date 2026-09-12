@@ -1,0 +1,25 @@
+#+TITLE: Sentences
+#+AUTHOR: Γρηγόριος Θαυματουργός hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg10:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/sententiae--gregory-thaumaturgus
+#+LANGUAGE: en
+
+* Sentences
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Piety must be cared for above all, which they call mother of the virtues,
+speaking rightly; for this is beginning and end of the virtues. 2 To know God
+and the cohesive and productive cause of all things, both sight is a teacher
+and the natural law; the one striking upon things seen and established, the
+other through the very things seen and ordered reasoning the leader of these.
+3 Better is open-air faith than costly piety, and three gathered in the name
+of the Lord than many denying godhead. 4 Nothing is so magnificent to God as a
+purified word and a soul perfected in the doctrines of truth. 5 The only
+unchangeable and remaining good is piety. 6 For the unattainable is not
+somehow credible because of envy; for to profane souls nothing of the
+beautiful is trustworthy.

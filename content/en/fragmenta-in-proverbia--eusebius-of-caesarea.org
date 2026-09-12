@@ -1,0 +1,20 @@
+#+TITLE: Fragments on Proverbs
+#+AUTHOR: Εὐσέβιος Καισαρείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg19-24:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta-in-proverbia--eusebius-of-caesarea
+#+LANGUAGE: en
+
+* Fragments on Proverbs
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+=24.76=.1 7. Let us fill our houses with spoils. Of Eusebius. The demons strip
+those whom they conquer, taking from them the panoply of God, that is =24.78=
+the helmet and breastplate and the sword of the Spirit; and their houses are
+the assemblies of the evildoers, which they also wish to fill with spoils,
+that is fruits which they snatch from the righteous; but how do you also call
+spoils things not taken by the law of war,

@@ -1,0 +1,48 @@
+#+TITLE: Exposition of the Nicaean Faith
+#+AUTHOR: Βασίλειος Καισαρείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg29-32:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/expositio-fidei-nicaenae--basil-of-caesarea
+#+LANGUAGE: en
+
+* Exposition of the Nicaean Faith
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Following the faith set forth we anathematize the faith of Sabellius that says
+the same is Father and Son and Holy Spirit; for they err, as that the Father
+himself is the Son, and as that the Son himself is the Father, likewise also the
+Holy Spirit, so as to be one person, and three names; for these things happen to
+be alien to the faith; for we know a Father as Father, a Son as Son, Holy Spirit
+the Spirit itself holy, one kingdom, one essence, one Godhead. Still we
+anathematize the faith of Photinus that says the Son is from Mary and here, and
+that he is not before this, but is said in the scriptures by predestination, and
+that from Mary he is only according to the Godhead; and these things we know as
+alien to the faith. For the Son always having been begotten with the Father
+existed and was with the Father, as it is written; for there was not sometime,
+when there was not a Son, but always a Father having a Son; for it is impossible
+for a Father being sometime without a Son later to be spoken a Father according
+to a turning, but always Father, always Son, as we said before; not a
+co-brother, but having been begotten he was with the Father, as has been written
+before. And these things concerning the Father and the Son.
+And concerning the Holy Spirit we believe thus: a divine spirit, a holy spirit,
+a perfect spirit, a paraclete, uncreated, having spoken in law and prophets and
+apostles, and having come down upon the Jordan. And concerning the incarnation
+from a virgin of the Son we believe thus: that he took a perfect man from the
+Theotokos Mary through the Holy Spirit, both body and soul, truly and not in
+seeming; for thus he came to perfect the man whom he took; and that he suffered,
+and that he was buried, and that he has been raised on the third day, and that
+he was taken up into heaven and sat from the right of the Father, having
+deified the man whom he took, coming to judge living and dead according to the
+taking-on from God. And if somewhere the divine scriptures say him by
+predestination as a creature, we grasp it to be filled according to flesh. And
+still we anathematize those who do not confess a resurrection of flesh and all
+heresies against this faith. And there was also anathematized in the things
+written before the godless faith of the Arians in our believing and saying:
+begotten, not made. for they say the Son of God a creature. And toward filling
+all parts of the faith we confess and say: that we believe into one church, into
+one baptism, into a resurrection of flesh, into a kingdom of heavens, into an
+eternal judgment.

@@ -1,0 +1,22 @@
+#+TITLE: Verses
+#+AUTHOR: Ἰωάννης Χρυσόστομος hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg47-64:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/stichoi--john-chrysostom
+#+LANGUAGE: en
+
+* Verses
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Admonitory verses of Chrysostom.
+Whoever wishes to see that light must keep these things in the heart: from
+fleshly passions and useless thoughts, and from every oath, and from wrath and
+turmoil, and from distraction and remembering of wrongs, and from not judging
+men at all, and to be himself rational and sound in mind, and clean of fleshly
+pollutions, to be meek, humble, quiet, confessing and a child of peace, to be
+continent of foods and drinks, and to attend to prayer without yielding, in
+all these things to have as beginning and end the sum of virtues, love.

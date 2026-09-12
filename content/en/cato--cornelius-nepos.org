@@ -1,0 +1,28 @@
+#+TITLE: Cato
+#+AUTHOR: Cornelius Nepos hermes:grok-4.6
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/cato--cornelius-nepos
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Cato edited by Albert Fleckeisen
+#+END_QUOTE
+
+* Chapter 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Marcus Cato, sprung from the municipality Tusculum, as a young man, before he gave work to honors, was versed among the Sabines, because there he had a little inheritance left by his father. From there by the exhortation of Lucius Valerius Flaccus, whom he had as colleague in the consulship and the censorship, as Marcus Perpenna the censorian was accustomed to narrate, he migrated to Rome and began to be in the forum. He earned his first campaign-pay of seventeen years. In the consulship of Quintus Fabius and Marcus Claudius he was tribune of the soldiers in Sicily. From there as he returned, he followed the camp of Gaius Claudius Nero, and his work was thought great in the battle at Sena, in which Hasdrubal, brother of Hannibal, fell. The quaestorship fell to him under the consul Publius Africanus, with whom he did not live according to the necessity of the lot: for he dissented from him through his whole life. He was made aedile of the plebs with Gaius Helvius. As praetor he obtained the province Sardinia, from which, departing as quaestor in the former time from Africa, he had brought down the poet Quintus Ennius, which we value not less than any most ample Sardinian triumph.
+
+* Chapter 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+He bore the consulship with Lucius Valerius Flaccus. By lot having obtained nearer Spain he carried a triumph from it. When he delayed there longer, Publius Scipio Africanus consul a second time, whose quaestor he had been in the former consulship, wished to drive him from the province and himself to succeed him, nor was he able to effect this through the senate, although indeed Scipio obtained the first place in the state, because then the republic was administered not by power but by right. From which thing, angry at the senate, the consulship having been completed, he remained in the city as a private man. But Cato, made censor with the same Flaccus, was set over that power severely. For he both took notice against several nobles and added many new things into an edict, by which luxury might be repressed, which even then was beginning to sprout. About eighty years, even to the last age from youth, he did not cease to take up enmities for the sake of the republic. Tried by many he not only made no detriment of reputation, but, as long as he lived, he grew by praise of virtues.
+
+In all things he was of a singular industry: for he was both a skilled farmer and a learned jurist and a great commander and a probable orator and most desirous of letters. Of which the study, although he had seized it as an older man, yet he made so much progress that it cannot easily be found either of Greek or of Italian things what was unknown to him. From youth he completed orations. As an old man he began to write histories. Of them there are seven books. The first contains the things done of the kings of the Roman people, the second and third from where each Italian city arose, for which reason he seems to have called all Origins. And in the fourth is the first Punic war, in the fifth the second. And all these things have been said by chapters. The remaining wars too he followed in a like way even to the praetorship of Servius Galba, who plundered the Lusitanians: and he did not name the leaders of these wars, but he noted the things without names. In the same he set out what in Italy and the Spains either came to be or seemed admirable: in which much industry and diligence appears, no learning.
+Of this man's life and manners we have followed more in that book which we made separately about him at the request of Titus Pomponius Atticus. Wherefore we send those studious of Cato to that volume.

@@ -1,0 +1,17 @@
+#+TITLE: Fragment
+#+AUTHOR: Μελίτων Σάρδεων hermes:grok-4.6
+#+FILETAGS: :patristic:2c-ad:pg05:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum--melito-of-sardis
+#+LANGUAGE: en
+
+* Fragment
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Hymn the Father, you saints; sing to the Mother, you virgins. We hymn, we
+exalt, O saints. Be lifted up, brides and bridegrooms, for you have found your
+bridegroom, Christ. Drink wine, brides and bridegrooms, ...

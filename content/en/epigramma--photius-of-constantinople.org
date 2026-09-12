@@ -1,0 +1,21 @@
+#+TITLE: Epigram
+#+AUTHOR: Φώτιος Κωνσταντινουπόλεως hermes:grok-4.6
+#+FILETAGS: :byzantine:9c-ad:pg101-104:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epigramma--photius-of-constantinople
+#+LANGUAGE: en
+
+* Epigram
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+OF PHOTIUS, PATRIARCH OF CONSTANTINOPLE; but others say OF LEO THE PHILOSOPHER
+Bitter love, but a chaste life, as the tale of Clitophon displays; and the
+most chaste life of Leucippe amazes all, how, beaten and shorn and dishonored,
+and what is greatest, having died three times, she endured. And if you too
+wish to be chaste, friend, do not look at the incidental spectacle of the
+writing, but first learn the course of the story; for it decks as brides those
+who desire wisely.

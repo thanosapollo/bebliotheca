@@ -1,0 +1,21 @@
+#+TITLE: Discourse on Saint Romanus
+#+AUTHOR: Γρηγόριος Νύσσης hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg44-46:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/sermo-in-sanctum-romanum--gregory-of-nyssa
+#+LANGUAGE: en
+
+* Discourse on Saint Romanus
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+=96.477= Of Nyssa, from the discourse on Saint Romanus.
+The wonder-workers of Christ do not run along a thin cord, nor, tumbling over
+naked swords, do they escape the wounds by art, but instead of a rope they run
+with unshaken step the narrow and precipice-flanked road of piety. And they
+blunt the edges of the tyrants' swords by their eagerness for wounds =96.477=,
+not making it their art not to suffer, but training themselves to conquer in
+suffering.

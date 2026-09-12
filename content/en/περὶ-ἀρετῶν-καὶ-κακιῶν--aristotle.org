@@ -1,0 +1,162 @@
+#+TITLE: On Virtues and Vices
+#+AUTHOR: Aristotle hermes:grok-4.6
+#+FILETAGS: :classical:4c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/περὶ-ἀρετῶν-καὶ-κακιῶν--aristotle
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+On Virtues and Vices edited by Immanuel Bekker
+#+END_QUOTE
+
+* Section 1249
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Things that are noble are praiseworthy, and things that are shameful are
+blameworthy. Of the noble the virtues take the lead, of the shameful the
+vices. Praiseworthy too are the causes of the virtues, what attends on the
+virtues, what comes of them, and their works; blameworthy are the opposites.
+Taking the soul as threefold after Plato, the virtue of the reasoning part is
+prudence, of the spirited part gentleness and courage, of the appetitive part
+temperance and self-control, and of the whole soul justice, liberality, and
+greatness of soul. Vice of the reasoning part is folly, of the spirited part
+irascibility and cowardice, of the appetitive part intemperance and
+incontinence, and of the whole soul injustice, illiberality, and smallness of
+soul.
+
+Prudence is a virtue of the reasoning part, that prepares what tends toward
+happiness. Gentleness is a virtue of the spirited part, by which people become
+hard to move by anger. Courage is a virtue of the spirited part, by which they
+are hard to dismay by fears about death. Temperance is a virtue of the
+appetitive part, by which they become without appetite for the enjoyments of
+base pleasures. Self-control is a virtue of the appetitive part, by which they
+hold down with reason the appetite that rushes toward base pleasures. Justice
+is a virtue of soul that distributes what is according to desert. Liberality
+is a virtue of soul that spends readily on what is noble. Greatness of soul is
+a virtue of soul by which one can bear good fortune and ill fortune, honor and
+dishonor.
+
+Folly is a vice of the reasoning part, a cause of living badly. Irascibility
+is a vice of the spirited part, by which people become easily moved to anger.
+Cowardice is a vice of the spirited part, by which they are struck with panic
+by fears, and most of all those about death. Intemperance is a vice of the
+appetitive part, by which they choose the base pleasures. As for incontinence,
+there is nothing; but you can define it thus. Incontinence is a vice of the
+appetitive part, by which they let appetite, thrusting them toward the
+enjoyments of base pleasures, be carried away by unreason. Injustice is a vice
+of soul by which people become grasping beyond desert. Illiberality is a vice
+of soul by which they reach after gain from every quarter. Smallness of soul
+is a vice of soul by which they are unable to bear good fortune and ill
+fortune, honor and dishonor.
+
+Of prudence it is to deliberate, to judge goods and evils and all things in
+life that are to be chosen or avoided, to use well all the goods one has, to
+keep company rightly, to see the right moments, to use both word and deed with
+quick wit, and to have experience of all that is useful. Memory, experience,
+and quickness of mind each either come from prudence or attend on prudence; or
+some of them are as it were joint-causes of prudence, such as experience and
+memory, and others as it were parts of it, such as good counsel and quickness
+of mind. Of gentleness it is to be able to bear accusations and slights in
+measure, not to rush quickly to punishments, and not to be easily moved to
+angers, but unbitter in character and uncontentious, having quiet and
+steadiness in the soul. Of courage it is to be hard to dismay by fears about
+death, to be of good heart in terrors, to be bold toward dangers, to choose
+rather to die well than to be saved shamefully, and to be a cause of victory.
+Further, of courage it is also to toil and to endure and to choose to play the
+man. Attending on courage are also boldness, high spirit, confidence, and
+daring, and further love of toil and endurance. Of temperance it is not to
+admire the enjoyments of bodily pleasures, to be without appetite for every
+enjoyment of shameful pleasure, to fear even a just license, and to be intent
+upon one's life alike in small things and in great. Attending on temperance
+are good order, seemliness, shame, and caution. Of self-control it is to be
+able to hold down with reason the appetite that rushes toward base enjoyments
+and pleasures, to endure, and to be patient of natural want and pain. Of
+justice it is to be distributive of what is according to desert, to preserve
+ancestral customs and the lawful usages, to preserve the written laws, to
+speak truth in what is at stake, and to keep agreements. First among justices
+is that toward the gods, then toward daimons, then toward country and parents,
+then toward the departed; among which is piety, being either a part of justice
+or attendant on it. Following justice are also holiness, truth,
+trustworthiness, and hatred of wickedness. Of liberality it is to be ready to
+give money toward praiseworthy things, and lavish in spending on what is
+needed, to be helpful in a difference, and not to take from where one ought
+not. The liberal man is also clean in dress and in dwelling, a furnisher of
+things superfluous and noble and that make for a pleasant way of life without
+profit, and a keeper of animals that have something peculiar or wonderful.
+Following liberality of character are pliancy, tractableness, humanity, and
+being compassionate, fond of friends, fond of guests, and fond of the noble.
+Of greatness of soul it is to bear well both good fortune and ill fortune,
+honor and dishonor, and to admire neither luxury nor attendance nor power nor
+victories in the games, but to have a certain depth and greatness of soul. The
+great-souled man is neither one who sets much store by living nor one who is
+fond of life. He is simple in character and noble, able to be wronged, and not
+vengeful. Following greatness of soul are simplicity and truth.
+
+Of folly it is to judge affairs badly, to deliberate badly, to keep company
+badly, to use present goods badly, and to hold false opinions about the noble
+and good things that belong to life. Attending on folly are inexperience,
+ignorance, lack of control, clumsiness, and forgetfulness. Of irascibility
+there are three kinds: quick temper, bitterness, sullenness. Of the irascible
+man it is not to be able to bear even small slights or diminutions, to be
+punitive and vengeful, and easily moved to anger even by a chance deed or
+word. Following irascibility are a character easily provoked and changeable,
+bitter speech, being pained at small things, and suffering these things
+quickly and for a short time. Of cowardice it is to be easily moved by chance
+fears, and most of all those about death and bodily maimings, and to suppose
+it better to be saved anyhow than to die well. Following cowardice are
+softness, unmanliness, lack of toil, and clinging to life. Under it there is
+also a certain caution and an uncontentious character. Of intemperance it is
+to choose the enjoyments of harmful and shameful pleasures, to suppose that
+those who are in such pleasures are happiest, to be fond of laughter, fond of
+jeering, and fond of wit, and to be unscrupulous in words and in deeds.
+Following intemperance are disorder, shamelessness, unseemliness, luxury,
+laziness, neglect, slightness, and slackness. Of incontinence it is to choose
+the enjoyments of pleasures when reason forbids, and, while supposing it
+better not to share in them, to share in them none the less, and to think one
+ought to do both the noble and the advantageous, yet to stand off from them
+because of the pleasures. Following incontinence are softness and regret and
+most of the same things that follow intemperance.
+
+Of injustice there are three kinds: impiety, greed, and insolence. Impiety is
+offense concerning gods and daimons, or also concerning the departed, and
+concerning parents and country; greed is in contracts, choosing the advantage
+contrary to desert; insolence is that by which they procure pleasures for
+themselves by bringing others into disgrace, whence Evenus says of it /
+
+which, though it gains nothing, still does wrong.
+
+/ Of injustice it is to transgress ancestral customs and the lawful usages, to
+disobey the laws and the rulers, to lie, to swear falsely, to break agreements
+and pledges. Following injustice are slander, boastfulness, pretended
+humanity, malice, and knavery. Of illiberality there are three kinds: sordid
+gain, stinginess, and niggardliness. Sordid gain is that by which they seek to
+profit from every quarter, and set gain above shame; stinginess is that by
+which they will not spend money on what is needed; niggardliness is
+that by which they do spend, but little and badly, and are harmed the more by
+not making the difference at the right time. Of illiberality it is to set most
+store by money, and to count as no disgrace whatever makes for gain, a
+hired and slavish and squalid life, alien to love of honor and to freedom.
+Following illiberality are pettiness, sullenness and smallness of soul,
+lowliness, lack of measure, ignobility, and hatred of men. Of smallness of
+soul it is to be able to bear neither honor nor dishonor nor good fortune nor
+ill fortune, but when honored to be puffed up, when having a little good
+fortune to be lifted out of oneself, to be unable to bear even the least
+dishonor, to judge a failure a great ruin and misfortune, and to wail at
+everything and take it hard. Further, the small-souled man is such as to call
+all slights insolence and dishonor, even those that come through ignorance or
+forgetfulness. Following smallness of soul are pettiness, complaining,
+despair, and lowliness.
+
+In general, of virtue it is to make the disposition about the soul excellent,
+using quiet and ordered motions, agreeing in all its parts; which is why an
+excellent disposition of soul seems also to be a pattern of a good
+constitution. Of virtue it is also to do good to those who deserve it, to love
+the good, and to be neither punitive nor vengeful, but gracious, kindly, and
+ready to pardon. Following virtue are goodness, fairness, good sense, and good
+hope. Further also such things as being fond of one's house, fond of friends,
+fond of companions, fond of guests, fond of mankind, and fond of the noble;
+all of which belong to the things that are praised. Of vice the opposites.

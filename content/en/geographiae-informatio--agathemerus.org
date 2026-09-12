@@ -1,0 +1,404 @@
+#+TITLE: Geographiae Informatio
+#+AUTHOR: Agathemerus hermes:grok-4.6
+#+FILETAGS: :imperial:3c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/geographiae-informatio--agathemerus
+#+LANGUAGE: en
+
+* Chapter 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+** Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1-h1
+:END:
+
+*** [On the Geography of the Ancients]
+:PROPERTIES:
+:CUSTOM_ID: h1-h1-h1
+:END:
+
+Anaximander the Milesian, hearer of Thales, first dared to draw the inhabited
+world on a tablet; after him Hecataeus the Milesian, a man much-traveled,
+worked it out with such exactness that the thing was marveled at; for
+Hellanicus the Lesbian, a man of much learning, handed down the history
+without a map. Then Damastes of Sigeum, having transcribed most things from
+the works of Hecataeus, wrote a periplus; next Democritus and Eudoxus and
+certain others treated circuits of the earth and peripli.
+
+** Section 2
+:PROPERTIES:
+:CUSTOM_ID: h1-h2
+:END:
+
+The ancients, then, drew the inhabited world round, and Greece lying in the
+middle, and of this Delphi; for it has the navel of the earth. But Democritus
+first, a man of much experience, perceived that the earth is oblong, having
+the length half as much again as the breadth; Dicaearchus the Peripatetic also
+agreed with him; but Eudoxus made the length double the breadth, and
+Eratosthenes more than double; Crates like a semicircle, Hipparchus
+trapezium-shaped, others tail-shaped, and Posidonius the Stoic sling-shaped
+and broad in the middle from south to north, narrow toward east and west, yet
+the parts toward the Eurus broader, [those] toward India.
+
+** Section 3
+:PROPERTIES:
+:CUSTOM_ID: h1-h3
+:END:
+
+Bounds of the continents: of Europe and Libya the Pillars of Heracles; of
+Libya and Asia the Nile, but some the isthmus from the Serbonian lake and the
+Arabian gulf; of Asia and Europe the ancients the river Phasis and the isthmus
+as far as the Caspian, but the later (the more recent) the Maeotis lake and
+the river Tanais.
+
+** Section 4
+:PROPERTIES:
+:CUSTOM_ID: h1-h4
+:END:
+
+And they were called continents (epeiroi) as being boundless (apeiroi) through
+ignorance; and Asia from being nearer (asson) to those going from Europe both
+on foot and by islands lying in a row, of which Euboea, Andros, Tenos,
+Myconos, Icaria, Samos, Mycale; and Europe was named from the breadth (euros);
+but Libya was quite unknown to the Greeks, and they were named in Phoenician
+from a notable people [Libyans, that is] lions; and Ocean from running swiftly
+(okeos) round the earth.
+
+** Section 5
+:PROPERTIES:
+:CUSTOM_ID: h1-h5
+:END:
+
+But Dicaearchus divides the earth not by waters, but by a pure straight cut
+from the Pillars through Sardinia, Sicily, the Peloponnese, (Ionia,) Caria,
+Lycia, Pamphylia, Cilicia, and Taurus in succession as far as Mount Imaus. Of
+the regions, then, he names the one northern, the other southern.
+
+* Chapter 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+** Section 6
+:PROPERTIES:
+:CUSTOM_ID: h2-h1
+:END:
+
+*** [On the Winds]
+:PROPERTIES:
+:CUSTOM_ID: h2-h1-h1
+:END:
+
+Winds blow: from the equinoctial sunrise Apeliotes, from the equinoctial
+sunset Zephyrus, from midday Notos, from the Bear Aparctias, from the summer
+tropic Caecias, and next from the equinoctial sunrise Apeliotes, and from the
+winter [sunrise] Eurus; and of the western, from the winter sunset Lips, and
+next again from the equinoctial sunset Zephyrus, from the summer sunset
+Argestes or Olympias; then Notos and Aparctias blowing opposite. So they come
+to eight.
+
+** Section 7
+:PROPERTIES:
+:CUSTOM_ID: h2-h2
+:END:
+
+But Timosthenes, who wrote the peripli, says there are twelve, adding between
+Aparctias and Caecias Boreas, between Eurus and Notos Phoenix, also called
+Euronotos, between Notos and Lips Leuconotos or Libonotos, and between
+Aparctias and Argestes Thrascias or Circius, [so named] by the neighbors. And
+peoples dwell at the extremities: toward Apeliotes the Bactrians, toward Eurus
+the Indians, toward Phoenix the Erythraean Sea and Ethiopia, toward Leuconotos
+the Garamantes beyond the Syrtes, toward Lips the western Ethiopians [the
+ones] beyond the Mauri, toward Zephyrus the Pillars and the beginnings of
+Libya and Europe, toward Argestes Iberia now Spain, toward Thrascias [the
+Celts and the neighboring lands, toward Aparctias] the Scythians beyond
+Thrace, toward Boreas Pontus, Maeotis, the Sarmatians; toward Caecias the
+Caspian Sea and the Sacae.
+
+* Chapter 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** Section 8
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+*** [Periplus of the Seas]
+:PROPERTIES:
+:CUSTOM_ID: h3-h1-h1
+:END:
+
+The Great Syrtis is of 5,000 stadia, the Little of 1,600 stadia, and the mouth
+of the Adriatic, which some call the Ionian sea, has a crossing of 700 stadia
+from the cape of Iapygia to the Ceraunian mountains of Epirus.
+
+** Section 9
+:PROPERTIES:
+:CUSTOM_ID: h3-h2
+:END:
+
+The Hellespont succeeds the Aegean, ending at Abydos and Sestos; then the
+Propontis ends at Chalcedon and Byzantium, where the straits are, from which
+the Pontus begins; then the Maeotis lake. Again from the beginning of Europe
+and Libya the Iberian is that from the Pillars to the Pyrenees mountain, the
+Ligystican that as far as the bounds of Tyrrhenia, the Sardonian that beyond
+Sardinia, turning down toward Libya, the Tyrrhenian that as far as Sicily,
+beginning from the capes of Ligystice; then the Libyan, then the Cretan and
+Sicilian and Ionian [the] also Adriatic poured out from the Sicilian sea,
+which * they call the Corinthian gulf or Alcyonis sea. The sea enclosed by
+Sunium and Scyllaeum is Saronic, then Myrtoan and Icarian, in which are also
+the Cyclades, then Carpathian and Pamphylian and Egyptian; and beyond the
+Icarian next the Aegean is poured out.
+
+** Section 10
+:PROPERTIES:
+:CUSTOM_ID: h3-h3
+:END:
+
+The coasting of Europe from the mouths of the river Tanais as far as the
+Pillars of Heracles is of 69,709 stadia; of Libya from Tingis as far as the
+Canobic mouth, of 29,252 stadia; of Asia, from Canobus as far as the river
+Tanais, the coasting with the gulfs is of 40,111 stadia. Together [the
+country] along the sea with [the] gulfs of the inhabited world about us is of
+139,072 stadia, the Maeotis lake being measured in, whose perimeter is of
+9,000 stadia. The mouth, the Cimmerian Bosporus, is of 78 stadia.
+
+** Section 11
+:PROPERTIES:
+:CUSTOM_ID: h3-h4
+:END:
+
+The Pontus is of 23,083 stadia, and the Thracian Bosporus, the straits, where
+Darius yoked the raft against the Scythians, of 6 stadia.
+
+** Section 12
+:PROPERTIES:
+:CUSTOM_ID: h3-h5
+:END:
+
+The Persian sea, being circular, drawing the mouth together at the cape of
+Carmania and Arabia, has a perimeter of two myriads of stadia. The mouth
+between Arabia and Carmania is of 400 stadia.
+
+** Section 13
+:PROPERTIES:
+:CUSTOM_ID: h3-h6
+:END:
+
+The Hyrcanian or Caspian sea, being crescent-shaped, and according to some
+also oblong, is of 22,000 stadia; of the mouth it has a crossing of 4 stadia.
+
+** Section 14
+:PROPERTIES:
+:CUSTOM_ID: h3-h7
+:END:
+
+The Arabian gulf, being narrow and oblong, begins from Heroopolis, along the
+Troglodytic as far as Ptolemais of the Hunt, 9,000 stadia in length; [and from
+there as far as the straits at Deire] a voyage of 4,700 stadia; the straits at
+Deire of 60 stadia; from there next a voyage along the Erythraean Sea as far
+as Ocean of 5,000 stadia; the rest is not sailed. The side along Arabia from
+the Aelanite recess is of 14,000 stadia. Arabia itself comes down to the
+Erythraean and is elongated for 12,000 stadia.
+
+* Chapter 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** Section 15
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+*** [On the Length and Breadth of the Inhabited World]
+:PROPERTIES:
+:CUSTOM_ID: h4-h1-h1
+:END:
+
+The length of the inhabited world from the Ganges to Gades is of 68,545
+stadia, thus: from the river Ganges as far as Myriandrus on the Issic gulf of
+41,725 stadia, thus: from the Ganges to the mouths of the river Indus 16,000
+stadia; from the Indus as far as the Caspian Gates 15,300; to the Euphrates
+10,050 stadia; to Myriandrus 375 stadia.
+
+** Section 16
+:PROPERTIES:
+:CUSTOM_ID: h4-h2
+:END:
+
+And from Myriandrus to Gades 26,820 stadia, thus: from Myriandrus to the
+Cleides of Cyprus 1,400 stadia; to Acamas the promontory 1,300 stadia; to the
+Chelidoniae through the Pamphylian sea 1,300 stadia; to Patara 800 stadia;
+(as) to Rhodes 700 stadia; to Astypalaea through the Carpathian 940 stadia; to
+Taenarum 1,450 stadia; to Pachynum of Sicily 4,600 stadia; to Lilybaeum
+through the Libyan sea 1,520 stadia; to Caralis of Sardinia through the
+Tyrrhenian sea 2,800 stadia; to Gades, sailing past the Gymnesiae islands,
+10,000 stadia; and from Gades through the Sacred promontory to the harbor of
+the Artabri 7,932 stadia. Together they come to 76,477.
+
+** Section 17
+:PROPERTIES:
+:CUSTOM_ID: h4-h3
+:END:
+
+And otherwise: from the Ganges as far as the river Euphrates 41,350; from the
+Euphrates to Mazaca of the Cappadocians 1,950 stadia; from Mazaca through
+Phrygia Paroreia and Great Phrygia [and] Caria as far as Ephesus 3,170 stadia.
+Together from the Ganges to Ephesus 47,290 stadia; and from Ephesus to Delos
+through the Aegean 1,600 stadia; to the Isthmus 1,700 stadia; from the Isthmus
+through the Corinthian gulf to Patrae 720 stadia; to Leucas 700 stadia; to
+Corcyra 700 stadia; to the Acroceraunian mountains 660 stadia; to Brundisium
+700 stadia; from Brundisium for one traveling on foot as far as Rome 2,880
+stadia; from Rome to the Alps as far as Scingomagus, which is under the Alps,
+4,152 stadia; then through Celtic land as far as the city of Illiberis [3,747
+stadia; from Illiberis] through the inns as far as Gades 6,651 stadia, and the
+crossing to Gades 60 stadia. Together from the Ganges to Gades 71,560 stadia.
+
+** Section 18
+:PROPERTIES:
+:CUSTOM_ID: h4-h4
+:END:
+
+And the breadth of the inhabited world from the Ethiopian sea to Meroe is of
+5,000 stadia; from Meroe to Alexandria of 10,000 stadia; and from Alexandria
+to the Tanais of 18,056 stadia (for the parts above the mouths of the Tanais
+toward the north are unknown), thus: from Alexandria to Lindos of Rhodes 4,500
+stadia; to the Thoanteion, for one sailing past Rhodes on the right, 400
+stadia; to Telos 260 stadia; to Lacter of Cos 320 stadia; to Drepanon of Cos
+100 stadia; to the island Arcitin 330 stadia; to Corsiae 100 stadia; to
+Ampelos of the Samians 30 stadia; to the (Aegean) Argennon through the Aegean
+500 stadia; to the Erythraean Corynaeum 25 stadia; to Phlion, a cape of Chios,
+50 stadia; to Melanea, a cape of Lesbos, 450 stadia; to Sigrium of Lesbos 500
+stadia; to the island Tenedos 450 stadia; to Sigeum 100 stadia; to the mouth
+of the Pontus 2,500 stadia; to Carambis 2,800 stadia; to the mouth of Maeotis
+2,500 stadia; to the Tanais 2,200 stadia.
+
+** Section 19
+:PROPERTIES:
+:CUSTOM_ID: h4-h5
+:END:
+
+Otherwise, from city to city: from Alexandria to Rhodes 4,670 stadia; to
+Cnidus 700 stadia; to Cos 200 stadia; to Samos 800 stadia; to Chios 750
+stadia; to Mytilene 520 stadia; to Tenedos 950 stadia; to Sigeum 100; to the
+mouth of the Pontus 2,500; to Carambis 2,800; to the mouth of Maeotis 2,500;
+to the river Tanais 2,200. Together from Alexandria as far as the Tanais
+18,690 stadia.
+
+* Chapter 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+** Section 20
+:PROPERTIES:
+:CUSTOM_ID: h5-h1
+:END:
+
+*** [Measurement of the Islands]
+:PROPERTIES:
+:CUSTOM_ID: h5-h1-h1
+:END:
+
+It remains for us to tell the perimeters of the islands about us, taking them
+from Artemidorus and Menippus and other trustworthy men. Gades has length of
+108 stadia, breadth of 16 stadia; and the strait at the Pillars of Heracles is
+narrowest at 80 stadia. In the Iberian sea the islands: Pityusa the greater
+and inhabited of 300 stadia in length, the lesser of 100 stadia. Of the
+Gymnesiae, which the Carthaginians call Baliares (for the slingers are so
+called, (the) Baliares), the greater has length of 1,200 stadia, breadth of
+400 stadia; the lesser of 300 stadia. And the Stoechades, true to their name,
+lie next in a straight line before the Massaliot cities; the greater three,
+and two small near Massalia itself. Sardinia has a shape like a footprint,
+hollow in the middle; the length 2,200. Cyrnus is near Sardinia, but of much
+meaner quality, and has less than half the length of Sardinia. The
+starting-place to Sardinia and Cyrnus is Populonium of Tyrrhenia; the crossing
+is of 2,200 stadia. Of Sicily according to Timosthenes the perimeter is of
+4,740 stadia, the shape a scalene triangle. It has a crossing from cape
+Pelorus to Italy of 11 stadia as a strait; a side of the island from Pelorus
+to Pachynum 1,360 stadia; from Pachynum to Lilybaeum 1,600 stadia; according
+to Timosthenes from Lilybaeum to Pelorias 1,700 stadia; from Lilybaeum the
+crossing to Aspis of Libya is nearly 1,600 stadia.
+
+** Section 21
+:PROPERTIES:
+:CUSTOM_ID: h5-h2
+:END:
+
+The island Cercina has length [200], breadth 70, and where it is narrowest 40
+stadia. It lies off the mainland city Thenae, which lies at the beginning of
+the Little Syrtis. Beside Cercina lies the island Cercinitis, joined by a
+bridge, length 40 stadia, and breadth 25 stadia.
+
+** Section 22
+:PROPERTIES:
+:CUSTOM_ID: h5-h3
+:END:
+
+From Cercina to the island Meninx, the Lotus-eaters' island, the crossing is
+600 stadia, as much as the mouth of the Little Syrtis is said to be. Meninx
+has length of 200 stadia, breadth of 180 stadia. And there are great tides
+about it.
+
+** Section 23
+:PROPERTIES:
+:CUSTOM_ID: h5-h4
+:END:
+
+The island Cephallenia of four cities has length of 400 stadia. There are also
+islands in the Adriatic along Illyria, of which the more notable are Issa and
+Black Corcyra and Pharos and Melite, whose perimeters I do not know.
+
+** Section 24
+:PROPERTIES:
+:CUSTOM_ID: h5-h5
+:END:
+
+The periplus of the Peloponnese, the gulfs also being measured in, is 5,627
+stadia, and without putting into the gulfs the periplus is 4,000 stadia. The
+length from Malea as far as Aegium is 1,400 stadia. It has a shape like a
+plane-tree leaf, being cut by great gulfs. It is drawn together to the Isthmus
+of the Corinthians, of 40 stadia in breadth, by the Corinthian gulf and [the]
+Saronic; [and the Saronic gulf extends] to cape Sunium on the left [and to
+cape Scyllaeum on the right], where the island Calauria, sacred to Poseidon,
+lies in front. Next is the Argolic gulf as far as cape Malea, which juts far
+out into the sea. (Then the Hermionic gulf.) Next after Malea the Laconic gulf
+as far as Taenarum on the right, which bounds on the left the Messenian gulf,
+of which Acritas is a cape on the right. Then cape Ichthys juts out, off which
+Zacynthus lies, and another, Chelonatas; and last cape Araxus facing
+Acarnania; after which the Corinthian gulf is poured out, closed by a mouth of
+7 stadia at cape Rhion, which is of the Peloponnese, and Antirrhion of Locris.
+From Taenarum to Phycus of Libya the crossing is 3,000 stadia.
+
+** Section 25
+:PROPERTIES:
+:CUSTOM_ID: h5-h6
+:END:
+
+The island Aegina is oblong, 160 stadia; it lies opposite Attica. Salamis has
+length 70 stadia; Ceos 120. Of the Cyclades the greatest is Naxos; therefore
+it is called little Sicily. On the right are the Sporades. Euboea is joined by
+a bridge to Boeotia; it stretches along Boeotia, Phocis, the Locrians, and on
+the other side for a certain way also Attica; for it is long, and therefore
+was named Macris, length of 1,700 stadia.
+
+** Section 26
+:PROPERTIES:
+:CUSTOM_ID: h5-h7
+:END:
+
+Crete at Malea draws near the Peloponnese; its perimeter is of 4,100 stadia,
+length 2,300; for it is much elongated. Cythera is between Crete and Laconia.
+Cyprus is like a hide in shape; periplus 3,420 stadia, and length 1,300. From
+Paphos to Alexandria a crossing with the north wind of 3,800 stadia. The
+perimeter of Rhodes is 1,300 stadia; of Cos 550 stadia; Samos 630 stadia.
+Icaria is long, rugged, length of 300 stadia. The perimeter of Chios is 660
+stadia, of Lesbos 1,100 stadia.

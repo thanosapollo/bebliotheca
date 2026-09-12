@@ -1,0 +1,23 @@
+#+TITLE: Fragment on the Book of Baruch
+#+AUTHOR: Κύριλλος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:5c-ad:pg68-77:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum-in-librum-baruch--cyril-of-alexandria
+#+LANGUAGE: en
+
+* Fragment on the Book of Baruch
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+That you sit unto the age. For always and in every time the created nature is
+corruptible, and of generated things the measure is in these. But Wisdom, the
+artificer and creator of all, sits, that is, has unshaken continuance in
+identity. And again: For our sitting in these signifies the unshaken and
+established character of existence, and of the continuance of the substance
+above all; but that we perish the age [signifies] being corruptible at every
+time, as far as it pertains to the account of having been made; if indeed it
+is true that everything in becoming, and brought over from not-being into
+being, is altogether and in every way subject to corruption.

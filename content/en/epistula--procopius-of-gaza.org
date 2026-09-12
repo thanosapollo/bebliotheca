@@ -1,0 +1,24 @@
+#+TITLE: Letter
+#+AUTHOR: Προκόπιος Γάζης hermes:grok-4.6
+#+FILETAGS: :byzantine:6c-ad:pg87a:pg87b:pg87c:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula--procopius-of-gaza
+#+LANGUAGE: en
+
+* Letter
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Well done to you for the wonderful letter; how it struck us as a spring of
+reason, and sounds something very musical instead of the swallows. How I am as
+one possessed by pleasure, admiring everything, the diction, the thought, the
+harmony, the writer. And I seem to myself suddenly to be a Lydian, having
+imitated the Lydians, who, devoted to Dionysus, kept spring only whenever
+Dionysus happened to be among them. But perhaps you will laugh at these
+things, as the sophistic itself blooms on them, and you might perhaps call me
+a sophist as in reproach; but I cannot help admiring the beautiful things,
+even if you are silent, my good man, we speak the opposite; but do not give me
+trouble, when I seek to present by letters the grief from silence.

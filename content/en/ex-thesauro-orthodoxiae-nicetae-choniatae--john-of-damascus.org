@@ -1,0 +1,26 @@
+#+TITLE: From the Treasury of Orthodoxy of Nicetas Choniates
+#+AUTHOR: Ἰωάννης Δαμασκηνός hermes:grok-4.6
+#+FILETAGS: :patristic:8c-ad:pg94-96:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ex-thesauro-orthodoxiae-nicetae-choniatae--john-of-damascus
+#+LANGUAGE: en
+
+* From the Treasury of Orthodoxy of Nicetas Choniates
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of the Damascene.
+=95.233=
+Does the God and Father of all will insofar as he is Father, or insofar as he
+is God? But if insofar as Father, his will will be other than that of the Son;
+for the Son is not Father. But if insofar as God, and the Son also is God and
+the Holy Spirit; therefore the will is of nature, that is natural; and you
+then, having reasoned according to this, ask: Did the God of all receive the
+blood of the Only-begotten insofar as Father, or insofar as God? But if
+insofar as Father, his power and energy will be other than that of the Son;
+for the Son is not Father. But if insofar as God, and the Son also is God and
+the Holy Spirit; therefore the same holy Trinity, insofar as God, received the
+blood of the Only-begotten, of the one of the holy Trinity.

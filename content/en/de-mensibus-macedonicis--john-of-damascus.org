@@ -1,0 +1,60 @@
+#+TITLE: On the Macedonian Months
+#+AUTHOR: Ἰωάννης Δαμασκηνός hermes:grok-4.6
+#+FILETAGS: :patristic:8c-ad:pg94-96:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-mensibus-macedonicis--john-of-damascus
+#+LANGUAGE: en
+
+* On the Macedonian Months
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of John of Damascus, on the months of the Macedonians, from the
+ecclesiastical tradition.
+For the Greeks say that there are twelve signs from stars in the
+heaven, having a contrary motion to both the sun, and to the moon,
+and to the other five planets, and that through twelve signs the
+seven pass. And the names of the seven planets are these: Sun, Moon,
+Zeus, Hermes, Ares, Aphrodite, Kronos. And they call them planets
+because they are moved with a motion contrary to the heaven. And that
+there is according to each zone of the heaven one of the seven
+planets; one in the first and higher, Kronos; and in the second,
+Zeus; in the third, Ares; and in the fourth, the Sun; and in the
+fifth, Aphrodite; and in the sixth, Hermes; and in the seventh and
+lower, the Moon. The Sun then according to each sign completes one
+month, and through the twelve months he passes through the twelve
+signs. And the names of the twelve signs are these, and the months of
+these: αʹ, Ram; in the month of March on the καʹ it receives the sun;
+βʹ, Bull; in the month of April on the κγʹ; γʹ, Twin, in May on the
+κδʹ; δʹ, Crab, in June on the κδʹ; εʹ, Lion, in July on the κεʹ; ϛʹ,
+Virgin, in August on the κεʹ. ζʹ, Balance, in September on the κεʹ;
+ηʹ, Scorpion, in October. on the κεʹ; θʹ, Archer, in November on the
+κεʹ; ιʹ, Goat-horn, in December on the κεʹ; ιαʹ, Water-pourer, in
+January on the κʹ; ιβʹ, Fishes, in February on the κʹ. And the Moon
+according to each month passes through the ιβʹ signs, being also
+lower, and traversing these more swiftly; as if you should make a
+sphere within another sphere, the inner sphere will be found smaller.
+Thus also the course of the Moon, being lower, is less, and is
+accomplished more quickly. On various months. Months according to the
+Romans. αʹ. March λαʹ; Eat sweets, drink sweets. βʹ. April λʹ; Do not
+eat radish. γʹ. May λαʹ; Do not eat foot-heads. δʹ. June λαʹ; Drink
+little water. εʹ. July λαʹ; Abstain from things of Aphrodite. ϛʹ.
+August λαʹ; Do not eat raw vegetables. ζʹ. September λʹ; Do not eat
+milk. ηʹ. October λαʹ; Abstain from eating of sour things. θʹ.
+November λʹ; Abstain from much bathing. ιʹ. December λαʹ; Do not eat
+cabbage. ιαʹ. January λαʹ; At the ιβʹ hour drink a little unmixed
+wine. ιβʹ. February κηʹ; Do not eat beet. =95.237= Months according to
+the Jews. αʹ. Nisan. βʹ. Iar; γʹ. Siouan. δʹ. Thammouz. εʹ. Ab. ϛʹ.
+Aloul. ζʹ. Thesre. ηʹ. Marsouan. θʹ. Chasleu. ιʹ. Tibeth. ιαʹ. Sabat.
+ιβʹ. Adar. Months according to the Macedonians. αʹ. Bull. βʹ. Twin;
+γʹ. Crab. δʹ. Lion. εʹ. Virgin. ϛʹ Balance. ζʹ. Scorpion. ηʹ. Archer.
+θʹ. Goat-horn. ιʹ. Water-pourer. ιαʹ. Fishes. ιβʹ. Ram. Months
+according to the Greeks. αʹ. Xanthikos. βʹ. Artemisios. γʹ. Daisios.
+δʹ. Panemos. εʹ. Loos. ϛʹ. Gorpiaios. ζʹ. Hyperberetaios. ηʹ. Dios.
+θʹ. Apellaios. ιʹ. Audynaios. ιαʹ. Peritios. ιβʹ. Dystros. Months
+according to the Egyptians. αʹ. Pharmouthi. βʹ. Pachon. γʹ. Pauni. δʹ.
+Epiphi. εʹ. Mesori. ϛʹ. Thoth. ζʹ. Phaophi. ηʹ. Athyr. θʹ. Choiak. ιʹ.
+Tybi. ιαʹ. Mecheir. ιβʹ. Phamenoth.

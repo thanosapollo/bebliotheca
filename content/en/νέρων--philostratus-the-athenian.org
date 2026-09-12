@@ -1,0 +1,196 @@
+#+TITLE: Nero
+#+AUTHOR: Philostratus the Athenian hermes:grok-4.6
+#+FILETAGS: :imperial:3c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/νέρων--philostratus-the-athenian
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Νέρων edited by Carl Ludwig Kayser
+#+END_QUOTE
+
+* work
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+* Menecrates
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+The digging of the Isthmus, Musonius, which they say you too had a hand in,
+showed a Greek mind in the tyrant.
+
+* Musonius
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+Know, Menecrates, that Nero had even better thoughts than that. For by a
+breach of twenty stades through the Isthmus he would have spared seafarers the
+circuit of the Peloponnese past Malea. That would have helped trade, the
+cities on the sea, and those inland as well; for even they find the fruit of
+their own land enough, if the coast does well.
+
+* Menecrates
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+Go through it then, Musonius. We all wish to hear, unless you mean to be busy
+with something else.
+
+* Musonius
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+I will go through it, since you wish it. I do not know how I could better
+oblige men who have come for serious study to so grim a schoolroom. Songs,
+then, had drawn Nero to Achaea, and his own fierce conviction that not even
+the Muses could strike up more sweetly. He wished also to take the crown at
+Olympia, the most athletic of the games, by singing. The Pythian games he
+thought belonged to himself more than to Apollo, for not even Apollo would set
+lyre and song against him. The Isthmus was not among the plans he had formed
+from far off; but when he met the nature of the place he fell in love with a
+grand work, thinking of the king of the Achaeans who once went against Troy,
+how he cut Euboea from Boeotia by the Euripus at Chalcis, and of Darius too,
+how the Bosporus was bridged for him against the Scythians. Perhaps even
+before these he thought of the works of Xerxes, the greatest of grand works,
+and besides he thought that by mixing all peoples with one another over a
+short crossing Greece would feast in splendour on what came from outside. For
+tyrannical natures are drunk, yet they somehow reach... even to hear this sort
+of praise. Coming forward from his tent he sang a hymn to Amphitrite and
+Poseidon, and a short song to Melicertes and Leucothea. When the governor of
+Greece held out a golden mattock to him, he rushed at the digging amid
+clapping and songs, and struck the earth three times, I think, and after
+urging those entrusted with the start to take hold of the work in earnest, he
+went up to Corinth thinking he had outdone all the labours of Heracles. The
+men from the prisons toiled at the rocky and hard ground, the army at the
+earthy and level parts. On about the seventh and fifth day after we had been
+yoked to the Isthmus, an unclear report came down from Corinth that Nero had
+changed his mind about the cutting. They said the Egyptians, surveying the
+nature of each sea, had found them not on a level, but thought the sea from
+Lechaeum higher, and feared for Aegina; for if so great a sea poured over the
+island, Aegina might be swept under. But not even Thales, the wisest and most
+given to natural inquiry, would have turned Nero from cutting the Isthmus; for
+he loved to cut it more than to sing in public. The rising of the western
+nations, and the consul who is now taking them in hand there, Vindex by name,
+have drawn Nero away from Greece and the Isthmus after his cold surveying; for
+I know the seas are level with the land and with each other. They say that
+affairs at Rome too are already slipping and giving way under him. You
+yourselves heard this yesterday from the tribune who sailed in.
+
+* Menecrates
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+And the voice, Musonius, for which he is mad for the Muses and loves Olympian
+and Pythian crowns, how does it stand with the tyrant? For of those who have
+sailed to Lemnos some wondered at it, others laughed.
+
+* Musonius
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+As for him, Menecrates, his voice is neither wonderful nor ridiculous; nature
+has tuned him blamelessly and in the middle. He speaks with a hollow, heavy
+sound by nature, since his throat is set deep, and the notes, with a throat so
+made, boom somewhat. The pitch of the notes smooths this over, since he does
+not trust himself, but the kindness of his colouring, a yielding melody, a
+neat cithara-playing, and, where the moment calls, walking, standing,
+shifting, and matching his nod to the tunes; the only shame is that a king
+should seem to perfect these things. But if he imitates his betters, what
+laughter, how much of it falls from the spectators, though countless fears
+hang over anyone who laughs at him. For he nods more than is moderate,
+gathering his breath, and stands apart on the tips of his feet, bent back like
+men on the wheel. Naturally ruddy, he grows redder still as his face burns,
+and his breath is short and not enough, I think.
+
+* Menecrates
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+And those in contest against him, how do they give way, Musonius? For they
+humour him by craft, I suppose.
+
+* Musonius
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+By craft, yes, like wrestlers who take a fall. But think, Menecrates, of the
+tragic actor, how he died at the Isthmus. There are dangers around the crafts
+too, if those who work them stretch them too far.
+
+* Menecrates
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+And what is this, Musonius? I have heard nothing of the story.
+
+* Musonius
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+Hear then a tale that is strange, but done before the eyes of Greeks. Though
+custom at the Isthmus forbids contest in comedy or tragedy, Nero thought fit
+to win as a tragic actor, and several entered this contest, but the man from
+Epirus, who had the best voice, and was in repute and wonder for it, made a
+show more brilliant than usual, pretending to love the crown and not to let it
+go until Nero gave him ten talents for the victory. Nero grew savage and was
+in a rage, for he was listening under the stage at the contest itself. When
+the Greeks shouted for the Epirote, he sent his secretary bidding the man
+yield to him. But he raised his voice still higher and contended as if among
+equals, so Nero sent in his own actors onto the platform as if they belonged
+to the business; for they had ivory tablets, two-leaved, held out like
+daggers, and standing the Epirote up against the nearby pillar they broke his
+throat, striking with the tablets edge-on.
+
+* Menecrates
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+And did he win in tragedy, Musonius, after working so foul a deed before the
+eyes of the Greeks?
+
+* Musonius
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+Child's play, this, to a young man who had killed his mother. If he killed a
+tragic actor by cutting out his voice, why wonder? He even set out to block
+the Pythian mouth from which the oracles breathed, so that not even Apollo
+should have a voice, though the Pythian had listed him with the Oresteses and
+Alcmaeons, to whom even matricide gave some claim of glory, since they avenged
+their fathers. But he, quite unable to say whom he had avenged, thought
+himself insulted by the god, though he heard milder things than the truth. But
+in the midst of our talk, what is this ship coming on? It seems to bring some
+good; for they have garlands on their heads, like a chorus of good omen, and
+someone from the prow stretches out his hand bidding us take heart and
+rejoice, and he shouts, unless I mishear, that Nero is gone.
+
+* Menecrates
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+He does shout it, Musonius, and more clearly the nearer he touches land. Well
+done, you gods.
+
+* Musonius
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+But let us not pray thanks. They say one must not, over the dead.

@@ -1,0 +1,30 @@
+#+TITLE: Fragment on the Gospel of Matthew
+#+AUTHOR: Γρηγόριος Θαυματουργός hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg10:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum-in-evangelium-matthaei--gregory-thaumaturgus
+#+LANGUAGE: en
+
+* Fragment on the Gospel of Matthew
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+=10.1189= The lamp of the body is the eye.
+If therefore your eye is simple, your whole body will be light. But if your
+eye is evil, your whole body will be dark. And if the light that is in you is
+darkness, how great is the darkness? A simple eye is unhypocritical love,
+through which, when the body is lighted, it also brings forth through the
+outer parts the same things as those thought within; and the evil eye is
+pretended love, which is also called hypocrisy; through which the whole body
+of the man is darkened. Thinking within things worthy of darkness; but through
+the outer parts bringing forth words that seem to be of light; for they are
+truly wolves, having put on skins of sheep; who wash only the outside of the
+cup and the dish, and do not know that if the inside of these is not cleansed,
+neither can the outside become clean. Therefore clearly convicting these, the
+Savior says that: If the light that is in you is darkness, how great is the
+darkness? That is: if the love that seems to you to be light is, because of
+the hypocrisy hidden in you, a work worthy of darkness, what are your obvious
+trespasses?

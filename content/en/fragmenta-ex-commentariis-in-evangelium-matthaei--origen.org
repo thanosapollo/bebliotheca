@@ -1,0 +1,27 @@
+#+TITLE: Fragments from the Commentaries on the Gospel of Matthew
+#+AUTHOR: Ὠριγένης hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg11-17:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta-ex-commentariis-in-evangelium-matthaei--origen
+#+LANGUAGE: en
+
+* Fragments from the Commentaries on the Gospel of Matthew
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+OF THE COMMENTARIES ON MATTHEW
+TOME 1
+Matt. Inscr.
+Euseb. h. e. VI,25, 4-6 Having learned as in tradition concerning the four
+gospels, which also alone are undisputed in the church of God under heaven,
+that first was written that according to Matthew, once a tax-collector, later
+an apostle of Jesus Christ, who published it for those who believed from
+Judaism, composed in Hebrew letters; and second that according to Mark, who
+made it as Peter related to him, whom he also acknowledged as a son in the
+catholic epistle through these words, saying: "She who is co-elect in Babylon
+greets you, and Mark my son"; and third that according to Luke, the gospel
+praised by Paul, which he made for those from the nations; after all that
+according to John.

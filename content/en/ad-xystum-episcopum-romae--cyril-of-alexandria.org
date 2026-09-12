@@ -1,0 +1,20 @@
+#+TITLE: To Xystus, Bishop of Rome
+#+AUTHOR: Κύριλλος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:5c-ad:pg68-77:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ad-xystum-episcopum-romae--cyril-of-alexandria
+#+LANGUAGE: en
+
+* To Xystus, Bishop of Rome
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+From Cyril, from the letter to Justus [corr. Xystus], bishop of Rome.
+For I am neither convicted of having ever thought anything other than what
+seems to the truth, nor have I ever said that the divine nature of the Word is
+passible. And a little later: And I know that the nature of God is impassible
+and =77.288= unchangeable and unalterable, even in the nature of humanity, and
+that Christ is one in both and from both.

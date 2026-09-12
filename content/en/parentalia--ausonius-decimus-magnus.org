@@ -1,0 +1,712 @@
+#+TITLE: Parentalia
+#+AUTHOR: Ausonius, Decimus Magnus hermes:grok-4.6
+#+FILETAGS: :byzantine:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/parentalia--ausonius-decimus-magnus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Parentalia edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* Section pr1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+** Preface in prose
+:PROPERTIES:
+:CUSTOM_ID: h1-h1
+:END:
+
+I know that my little verses tend to be read with distaste: they have earned
+as much. Yet subject matter often recommends some, and now and then the mere
+wording of a title may catch a reader, so that, won over by the festive
+heading, he is willing to put up with the clumsiness as well. This little work
+is neither charming in its matter nor pleasant in its name. It has a sad
+piety, in which I commemorate the deaths of those dear to me with a grieving
+affection. The title of the booklet is Parentalia. This is a day of ancient
+name, instituted as far back as Numa for the offerings due to kinsfolk: and
+the reverence of the living holds nothing more sacred than to remember the
+lost with honor.
+
+* Section pr2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+** A second preface, marked in verse
+:PROPERTIES:
+:CUSTOM_ID: h2-h1
+:END:
+
+The names of those I love, now laid away with due burial, wept first with
+tears, I will now recall in measures:
+
+bare, without ornament, and lacking the polish of speech. Funeral honor is
+enough for the rites of the dead, a dirge dutiful enough in its burial
+laments, so that you may not pass the yearly gifts in silence which Numa
+dedicates as solemn rites to kindred shades, as the rank of death or of
+kinship asks. This is enough for tombs, enough for those who lack earth: to
+call souls by voice has the force of a funeral. Laid ashes rejoice to hear
+their names spoken: monuments command this also with writing on their faces.
+Even he who lacked the urn of a sad tomb will be almost buried once his name
+is spoken thrice. But you, whoever you are, reader, who deign to recall the
+fates of my people in sad elegies, may you run through the unshaken seasons of
+your life and weep no deaths beyond what is just.
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** JULIUS AUSONIUS, FATHER
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+First among these is father Ausonius, whom to set first, though a son may
+hesitate, order commands: God's care, in that he lived out the honor of a calm
+old age and completed eleven times two Olympiads. He saw all that he wished
+turn out well: whatever he hoped for came to him as he wished, not because the
+Fates were too indulgent, but because that man's prayers were so moderate.
+
+His age matched him with the Seven Sages, whose teaching he cultivated in his
+character, so that he might live the art of the wise rather than speak it,
+though he was no stranger to an eloquent mind, gifted also to stretch out the
+lives of men by the art of healing and to lengthen the delays of fate. Hence
+this reverence remains for a life fully lived, that our age has given him this
+title: as Ausonius had no one to follow, so he has none now who imitates him.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** AEMILIA AEONIA, MOTHER
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+Next you, mother Aeonia, of mixed blood, from a Tarbellian mother and an
+Aeduan father. To you fell every virtue of an obedient wife, the fame of
+chastity and of a wool-working hand, loyalty in marriage, care in governing
+children, and a gracious gravity and a cheerful seriousness. Embracing forever
+the peaceful shades of your husband, once you warmed his bed in life; now,
+dead, warm his tomb.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+** AEMILIUS MAGNUS ARBORIUS, UNCLE
+:PROPERTIES:
+:CUSTOM_ID: h5-h1
+:END:
+
+Piety has been observed by me, father and mother named first, but Arborius
+shrinks from being called third. To mention him first would be a sin to me,
+with my father second; again, not to set him first is almost a sin. A mean
+must be used, and he must be named next before the rest, though he will be
+second to my father.
+
+You, brother of my mother and of one mind with my father, and to me what
+father and mother were, who from my nursing, boyhood, youth, and manhood
+adorned me with arts that I am glad to have learned: the learned gown of
+Palladian Toulouse preferred you to itself, Narbonese Gaul set you first; you
+adorned its tribunal with Latin speech, and the forums of the Iberians and
+those of the Nine Peoples. From here, with growing fame, you were sought
+as far as Europe, and Constantinople flourished with you as its rhetor. You,
+through a thousand measures, through a thousand oracles of speech, learned,
+eloquent, swift, and sure of memory: you, after I was given over in my first
+years and pleased you, said that I as a son was enough for you. You declared
+that I was a bright honor to you and to my fathers, and you dictated words the
+Fates should mark as mine. Therefore farewell, uncle, allotted a seat in
+Elysium: I pour these songs for you from your own Muses.
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+** CAECILIUS ARGICIUS ARBORIUS, GRANDFATHER
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+Do not desert your pious office, dutiful page: after these let us commemorate
+my mother's father, Arborius, a name drawn from an Aeduan line, embracing many
+houses in its nobility, wherever the province of Lyon is, wherever the
+powerful Aedui, and wherever Vienna lies under the Alpine ridge.
+
+But too envious a distress settled on that proud stock and its wealth; for
+grandfather and father were proscribed when Victorinus held the throne as
+leader, and the empire fell back upon the Tetrici. Then, a fugitive in the
+lands where the Adour bursts forth and the rage of the Tarbellian ocean roars,
+fearing the shafts of Fortune that had long been raging, the lot of poor
+Aemilia entangled him. Soon a thin store of money, sought with much effort,
+gave a weary man comfort, but not riches. You knew the measures of the sky and
+the stars that share the secrets of fate, pursuing the study in secret. The
+pattern of my life too was not unknown to you, which you had stored on marked
+tablets, never published; but my mother's care unpicked it, which the anxious
+care of a timid grandfather had covered. When you had led your life through
+nine times ten years, having felt the shafts of the goddess Fortune that must
+be feared, you wept a son lost through three decades, wounded: by that death
+you were robbed of light. Yet you used to say that long consolations warmed
+you, that a special honor awaited my destiny; and now, mixed in the councils
+of earlier souls, you have at last the known fates of your grandson. You feel
+that I, quaestor, that I, prefect and likewise consul, commemorate you with an
+honorary gift.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+** AEMILIA CORINTHIA MAURA, GRANDMOTHER
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+Now name Aemilia, your grandmother, pious care of a grandson, who was wife to
+the Arborius just named. A playful name was given her, because once, dark of
+skin, she was called Maura among her age-mates. But she was not dark in mind,
+which would have been brighter than a swan and whiter than untrodden snow. Not
+ready to pardon shameful pleasures, she held herself and her own to the
+plumb-line. She, when I was snatched from the cradle and from my mother's
+breast, trained me with a gentle touch under stern commands. Grant quiet ashes
+to my grandmother, you peaceful shades forever, if I speak pious words.
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** AEMILIA HILARIA, MATERNAL AUNT, CONSECRATED VIRGIN
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+And you, maternal aunt by degree of kinship, but in a mother's place to be
+commemorated by a son's pious affection, Aemilia, who in the cradle gained the
+name Hilaria, because you were cheerful and gracious after the likeness of a
+boy: you frankly presented a true young man, trying the physician's arts in
+the manner of men. Hatred of the female sex was always yours, and from that
+grew the love of dedicated virginity, which was cultivated through nine times
+seven years, and the end of life was itself the end of chastity.
+
+These last rites I render as a son, because you cherished me with warnings and
+love as a mother would.
+
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+** CL. CONTEMTUS AND JULIUS CALLIPPIO, PATERNAL UNCLES
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+And remember my paternal uncles, elegy, in song, Contemtus, whom the Rutupine
+land covers; great wealth of various fortune, sought out, perished, safe under
+no heir's name; for he was snatched in happy and still flourishing years
+across the sea, and died unknown to his brothers. Julius drew out his fate
+into a long old age, afflicted by countless losses, who, gracious, bland, and
+easy at a rich table, had us as heirs in name alone. Both pious, alike in
+face, mixing jest and earnest, they did not have an equal fortune of life.
+Though you lie apart in tombs and in honor, take this common gift: farewell.
+
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+** ATTUSIUS LUCANUS TALISIUS, FATHER-IN-LAW
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+Whoever would celebrate the nobles and the ancient senate and the bright
+lineages of Bordeaux from its rising, let him remember you and your house,
+Lucanus Talisius, who adorned your old forefathers with your character. Fair
+in the honor of your face, gracious with a calm breast, though greater still
+by an eloquent mind: through hunting and the tillage of the country and
+elegance of living you spent your whole life, despising public affairs:
+wishing to be known among the first, refusing to be first, living apart by
+your own choice. You wished me as a son-in-law in my blooming youth: this only
+was given, to wish, not also to have. The gods approve the vows, and the Fates
+fulfill what favors holy minds, what good men have willed. And now under the
+honor of a lasting tomb you feel how reverent I remain toward your daughter
+and toward you. For I, a son-in-law still unwed, now pay these pious gifts:
+for I shall never cease to be both unwed and a son-in-law.
+
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+** ATTUSIA LUCANA SABINA, WIFE
+:PROPERTIES:
+:CUSTOM_ID: h11-h1
+:END:
+
+Thus far our dirge has sung, in pious measures, those who were dear and also
+wept with a just funeral. Now grief and torment and a wound that cannot be
+handled: the death of a wife torn from me must be recalled. Noble from her
+ancestors and bright by senatorial origin, Sabina was brighter still by good
+character. I mourned you, a young man cheated in my first years, and through
+nine Olympiads I weep you, unwed. Nor may I lull to sleep a grief overgrown
+with age; for it always grows raw for me, almost fresh. Others admit the
+comforts of a painful time: for me the long day makes these wounds heavier.
+
+I twist the gray hairs cheated by a celibate life, and the more I am alone,
+the more I live in sorrow. The wound is fed because the mute house is silent
+and the bed is cold, because I share neither evils nor goods with anyone. I
+grieve if another has a good wife; I grieve, on the other hand, if a bad one:
+you are always present to me as the pattern. You come to me as a cross from
+either side: if she is bad, because you were unlike; if good, because she is
+like. I do not lament empty wealth and hollow joys, but that you were snatched
+from me, a young man, while I was a young husband. Cheerful, chaste, serious,
+renowned in birth and renowned in beauty, both the grief and the glory of
+Ausonius her husband, you who, about to complete four times seven Decembers,
+left two children, our pledges. They, by God's favor, as your vows were,
+flourish, heaped with the goods you wished, and I pray they may thrive, and
+that at last, with both surviving, my ashes may announce this to yours.
+
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+** AUSONIUS THE LITTLE, SON
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+I will not cheat you of a remembered lament, unwept, first boy called by my
+name, my son: we mourned you with funeral rites as you were practicing to free
+your murmurs into first words, and of a full nature.
+
+You were placed in your great-grandfather's lap for a common burial, so that
+you might not suffer the envy of a tomb of your own.
+
+* Section 11
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+** PASTOR, GRANDSON BY A SON
+:PROPERTIES:
+:CUSTOM_ID: h13-h1
+:END:
+
+You too, untimely boy, broke off the ripe griefs of a grandfather with a
+bitter mourning, Pastor, dear grandson, whose sure hope you would have been,
+third offspring of a western father, a name that chance had given (because a
+pipe first sounded a pastoral tune at your birth), understood too late as a
+proof of a short life: because breath flees from the reeds when they are
+blown. You die, struck by the weight of a tile thrown down, which a workman's
+hand cast from a roof. It was not a workman's hand: that hand was the sure
+hand of bloody fate, about to furnish its victim. Alas, what vows, what
+joys you break for me, Pastor! That tile, thrown, aimed at my head. O you who
+were more worthy to groan at the fates of my old age and to complain, sad, at
+my funeral!
+
+* Section 12
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+** JULIA DRYADIA, SISTER
+:PROPERTIES:
+:CUSTOM_ID: h14-h1
+:END:
+
+If there was any virtue that a wise woman would wish to be her own, sister
+Dryadia did not lack it, and she had many besides that the stronger sex and
+the nobility of men would wish to have: skilled enough to tend her life with
+cultivation and to guard her fame, skilled in good manners, teaching her own,
+to whom truth was dearer than life, and whose one care was to know God and to
+love her brother before others.
+
+She lost her husband while still young, but shunning light ways she matched
+austere old women in character and drew out a cheerful life through six
+decades, and died in the house and under the roof where her father died.
+
+* Section 13
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+** AVITIANUS, BROTHER
+:PROPERTIES:
+:CUSTOM_ID: h15-h1
+:END:
+
+Muse, grant Avitianus, my own brother,
+the gift of a funeral lament.
+He was younger than I in birth, but first in talent;
+he drank in our father's arts.
+But hostile Atropos forbade him to enjoy
+the glad flower of youth and to pass
+the bounds of the age of manhood.
+Alas, what grief for his friends!
+Alas, how great the ornaments of life, what culture of hope,
+brother, does your youth abandon,
+brother by the law of flesh and by the origin of blood,
+by love almost a son!
+
+* Section 14
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+** VAL. LATINUS EUROMIUS, SON-IN-LAW
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+O glory of a bright house, o bitter death to me, Euromius, son-in-law chosen
+from a band of young men, you die, snatched from me in the flower of first
+youth, scarcely well known as father of a rejoicing son. You, sprung from a
+stock of nobles, and outstripping even those from whom your race of bright
+nobility came, handsome of face, good in mind, eloquent, and thriving in every
+dexterity, and outstanding in loyalty.
+
+The prefect's seat, the Illyrian shore knew this with you as governor, and the
+treasury itself as client. Yet no praise was taken from you by the shortness
+of life: mature in nature, you die untimely in death.
+
+* Section 15
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+** POMPONIUS MAXIMUS, KINSMAN
+:PROPERTIES:
+:CUSTOM_ID: h17-h1
+:END:
+
+And you, a brother not by blood but in a brother's place, Maximus, my dirge
+shall sing, now dead: for you, joined as husband to my sister, leave her a
+widow, robbed of the fruit of your years. Not your house alone felt this: the
+senate of Bordeaux felt the bitter fall, wounded, ah, thriving when you were
+foremost, slipping back when you failed, and falling, at your death, upon
+Valentinus. Alas, why, Maximus, snatched from us, do you not enjoy a son who
+was the fruit and flower of grandsons? But you do enjoy him, if a divine
+portion inhabits the shades and it is given to know the joys that will one day
+be. Here even a longer fruit of the blessed is held to be this: to have
+anticipated long what you now share.
+
+* Section 16
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+** VERIA LICERIA, WIFE OF ARBORIUS, SISTER'S SON
+:PROPERTIES:
+:CUSTOM_ID: h18-h1
+:END:
+
+You too, whether daughter-in-law to me in name, or in a daughter's place,
+Veria, take the song of last honor.
+
+If her honesty, if her beauty and fame and the loyalty of an obedient wife and
+a wool-working hand were now to be praised, from far off and from the deepest
+shades the voice of her great-grandfather Eusebius would have to be summoned.
+Since he, long since stored away after a finished life, has transferred his
+part into my words, receive the funeral laments, mourned granddaughter, wife
+of my Arborius, to be commemorated, who, leaving small comforts for a huge
+grief, abandon your children, and so torment us the more. But that you may not
+lack the care of a beloved husband, you now tend a monument joined to your
+marriage-chamber. Here, where the first wedding was, there is the sad seat of
+the tomb: you can be called bride more than buried.
+
+* Section 17
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+** POMPONIUS MAXIMUS HERCULANUS, SISTER'S SON
+:PROPERTIES:
+:CUSTOM_ID: h19-h1
+:END:
+
+Nor let a dirge in a sad measure
+leave you, born of my sister,
+silent without honor,
+in whose grown nature
+there is a great store of good praise.
+But it will be more fitting to remember
+than to praise one who is dead.
+This glory of your mother and of me,
+in the time of the age of manhood,
+the envious force of fate struck down.
+Alas, Maximus, what fruit,
+eloquent and musical and keen,
+good in mind, great in talent,
+swift of foot, beautiful of body,
+clever of tongue, melodious of mouth.
+
+Take the sad gifts of your fathers,
+the beginnings of a tearful lament,
+which with funeral measure
+your sad uncle offers you.
+
+* Section 18
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+** FL. SANCTUS, HUSBAND OF PUDENTILLA, SISTER OF MY SABINA
+:PROPERTIES:
+:CUSTOM_ID: h20-h1
+:END:
+
+You who cultivate jests and gladness, who condemn sadness, and fear no one,
+and live so as not to be feared, who catch no one with snares and provoke no
+one with a lawsuit, but live a just life, both merciful and wise: honor with a
+pious mouth and with good words the peaceful shades and the last mild rites of
+Sanctus, who carried out his military service diligently, with no storm, in
+whose governorship the Rutupine land rejoiced, whose calm old age of eighty
+years changed with no worse day. Therefore pray, favoring, that as his times
+of life were, so Sanctus may spend his ease among the shades.
+
+* Section 19
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+** NAMIA PUDENTILLA, KINSWOMAN
+:PROPERTIES:
+:CUSTOM_ID: h21-h1
+:END:
+
+And you, address Pudentilla with last words, you who have care of fame and of
+honesty. She was noble, frugal, upright, cheerful, chaste, comely; she held
+the marriage of Sanctus without break. Keeping inviolate the praises of a
+chaste life, she ruled her own wealth while her husband lived at ease: not on
+that account reproaching her husband, or with clouded brow, because a woman
+alone managed the whole house.
+
+Alas, too young, but glad with son and husband still living, she went,
+enduring her last fate. Once of one mind with our Sabina, and her full sister,
+and called sister by me with an unoffending name. Even now a pious care draws
+back her peaceful shades and honors Pudentilla with the tribute of one who
+speaks.
+
+* Section 20
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+** LUCANUS TALISIUS, THEIR SON
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+Nor shall you now, Talisius, only hope of your mother, a youth, my cousin, be
+unremembered, snatched in the first years of a blooming age, yet already a
+husband, already a father in haste. You would think fate had hurried, lest a
+father so quickly made a grandfather should call this death bitter.
+
+* Section 21
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+** ATTUSIA LUCANA TALISIA AND MINUCIUS REGULUS, KINSMEN
+:PROPERTIES:
+:CUSTOM_ID: h23-h1
+:END:
+
+Slight was our acquaintance with you, Attusia, and with your husband there was
+clearly none. Yet you are the full sister of our Sabina, and you too, Regulus,
+have the name of kinsman. Therefore let us bind those allotted names so dear
+to us with the homage of a sad song, though you lie far off in the Santonian
+land: funeral honor reaches the shades.
+
+* Section 22
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+** SEVERUS CENSOR JULIANUS, FELLOW FATHER-IN-LAW
+:PROPERTIES:
+:CUSTOM_ID: h24-h1
+:END:
+
+Cease, o ancient Calpurnian names, to think Frugi a glory proper to your house
+alone, and let not Cato the Censor always alone, nor Aristides alone the Just,
+take pleasure in these titles. For whoever was wise and who cultivated truth
+and faith, let him take himself as your companion, Censor. You were grave and
+gracious, mild with justice, trained to join temperance to austerity. You,
+though I was not adopted by you nor joined by blood, wished to ally our houses
+as fellow fathers-in-law. Surely some likeness of your character in us offered
+an image of our nature; or already the turning of Fortune was spinning itself
+so that the Fates gave such good vows their weight. If you feel anything among
+the shades, this warms your mind: that what you had wished to happen, God also
+willed.
+
+* Section 23
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+** PAULINUS AND DRYADIA, CHILDREN OF PAULINUS AND MEGENTIRA, MY NIECE
+:PROPERTIES:
+:CUSTOM_ID: h25-h1
+:END:
+
+You who bore your father's name and face, Paulinus, who were the likeness of a
+lost father; because of whom the grief of a wretched mother had begun to
+recede, when your form offered your father, and restored his character, and to
+his character added that which father Paulinus lacked, eloquence: you are
+snatched in happy and growing years and trouble a mother's heart still raw.
+For we weep also a sister snatched from the seat of her marriage-chamber,
+Dryadia, alas, by a death not ripe. We weep, I first, who am the mother's
+uncle, and I love you as the offspring of children. She died among a mother's
+hands and a father's kisses; you, far off in the Spanish region, how, a tender
+and new flower, you are plucked in first age, not yet a youth girt with purple
+cheeks! The mother, now dead, had then brought forth four births, but has
+already given doubled deaths to the tombs. Let this be enough, father
+Paulinus; a division has been made: the rest of the offspring is owed to the
+mother.
+
+* Section 24
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+** PAULINUS, SISTER'S SON-IN-LAW
+:PROPERTIES:
+:CUSTOM_ID: h26-h1
+:END:
+
+Whoever loves a glad nature and even character, and who cultivates faith with
+holy piety, let him, honoring with me the shades of Paulinus, sprinkle the
+yearly cakes with a friend's tears, Paulinus, my equal in age, who gained my
+sister's daughter in marriage: thus almost a son-in-law to me. Your mother was
+of Aquitanian stock: for your father had municipal birth at Cossium of the
+Vasates.
+
+Having earned the desks of a prefect, then set over the Libyan accounts, you
+take rich rewards. For Spanish Tarraco offered you the tribunal of a
+corrector, aiming to be a client to you. You, honoring your mother-in-law as a
+mother, could not be held a mere kinsman, since you enjoyed a son's place. You
+lived faithful among friends in concord, having completed eighteen Olympiads.
+
+* Section 25
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+** AEMILIA DRYADIA, MATERNAL AUNT
+:PROPERTIES:
+:CUSTOM_ID: h27-h1
+:END:
+
+You too, Dryadia, maternal aunt,
+with weeping measures
+I, born of your sister, almost a son,
+honor with a pious mouth,
+whom envious death snatched
+from the marriage-chamber and the wedding torches;
+and funeral honor changed
+the bed for a bier.
+You were learning in me, maternal aunt,
+how to become a mother;
+hence I, a son, now bring you
+this sad office.
+
+* Section 26
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+** JULIA CATAPHRONIA, PATERNAL AUNT
+:PROPERTIES:
+:CUSTOM_ID: h28-h1
+:END:
+
+Grant also, Muse, to a paternal aunt a share in funeral laments, to
+Cataphronia, who, unwed, cultivated the love of dedicated virginity, a frugal
+old woman:
+
+and to me, as a mother would, she assigned what she could, though from a poor
+sum. Therefore, commemorated, hail; and, called in a mother's place, farewell
+in sadness.
+
+* Section 27
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+** JULIA VENERIA, PATERNAL AUNT
+:PROPERTIES:
+:CUSTOM_ID: h29-h1
+:END:
+
+And aunt Veneria died in haste:
+to her I sing short, measured songs,
+that her gentle ash may rest from labor,
+that swift-footed she may go to the silent places of Erebus.
+
+* Section 28
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+** JULIA IDALIA, COUSIN
+:PROPERTIES:
+:CUSTOM_ID: h30-h1
+:END:
+
+Idalia too was small,
+who was given the name of the Paphian
+and earned the look of Venus;
+she was born to me almost a sister,
+for she was a paternal aunt's daughter,
+whom a dirge honors with pious tribute
+in a funeral song.
+
+* Section 29
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+** AEMILIA MELANIA, SISTER
+:PROPERTIES:
+:CUSTOM_ID: h31-h1
+:END:
+
+Aemilia also, a sister scarcely known to me, receive the complaints which a
+sad elegy owes to your ash. An equal infancy joined our cradles, though you
+were older by one consul. But too envious Lachesis finished the times in haste
+and gave a bitter death to the shades. Therefore, sent ahead, farewell, and
+honor the shades of our parents, who come, one at a greater age, one at a
+lesser.
+
+* Section 30
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+** POMPONIA URBICA, FELLOW MOTHER-IN-LAW, WIFE OF JULIANUS THE CENSOR
+:PROPERTIES:
+:CUSTOM_ID: h32-h1
+:END:
+
+A woman of bright birth, and of the old manners as well, Urbica, ennobled by
+the Censor's marriage-bed; strong in inborn virtues and increased also by
+those which her husband taught, which father and mother taught: those which
+Tanaquil had, which Pythagorean Theano had, and she who died without example
+at her husband's death. And if fate had granted you to make such an exchange,
+the Censor would still be living in this time of ours; but you, not long
+tortured under a widowed age, at once followed your husband with the end you
+wished. Now we bring you yearly due rites with sad laments, I, Ausonius,
+fellow father-in-law, with son-in-law and children.

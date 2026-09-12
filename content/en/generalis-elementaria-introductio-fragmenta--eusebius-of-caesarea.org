@@ -1,0 +1,37 @@
+#+TITLE: Fragments of a General Elementary Introduction
+#+AUTHOR: Εὐσέβιος Καισαρείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg19-24:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/generalis-elementaria-introductio-fragmenta--eusebius-of-caesarea
+#+LANGUAGE: en
+
+* Fragments of a General Elementary Introduction
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+470 a proof of a man's character is the association with such-and-such. For
+when he is worthless, of necessity he will be with the like; when again
+temperate and wise, with those pursuing the same things as he. 471 In the way
+the nature of the eyes has in itself the seeing power, but is not sufficient
+by itself toward the grasping of the visible things, unless some other from
+outside lighting and co-working with the use of the eyes and with the
+contributing light toward the view of the sensibles, so also the intellectual
+and rational nature has toward the holy word of God.
+472 this nature has sown in the race of men to know the seeds both of virtue
+and of vice, and has conceded to partake of one of these by reasoning, having
+established him self-mastering and a judging leader and lord of himself; so
+that as having in himself from nature the first-places of virtue and of vice
+he would not be able, even if he should sometime fall into the very depth of
+vice, not to honor virtue, the conscience stumbling, if he should choose the
+worse. And a proof of these and a clear conviction is that no one dares to
+become an accuser of his own vice but from the contraries as the power hides
+and covers what he would secretly attempt beside the fitting. And the
+disposition itself of each, not being disposed similarly toward those
+benefiting and toward those attempting to harm him, becomes a self-taught
+teacher to each of the knowledge concerning goods and evils, the law of
+nature, forbidding some to do to others what one himself would not choose to
+suffer from others. 473 It is possible, O child, to speak well, and to be
+worthless; but acting well to be worthless is impossible.

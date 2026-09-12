@@ -1,0 +1,35 @@
+#+TITLE: Fragment
+#+AUTHOR: Ἀρίστων Πέλλης hermes:grok-4.6
+#+FILETAGS: :patristic:2c-ad:pg05:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum--ariston-of-pella
+#+LANGUAGE: en
+
+* Fragment
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+6 (The siege of the Jews under Hadrian):
+And when the things of the revolt of the Jews had again gone forward to a
+great and much, Rufus, prefect of Judea, a military alliance having been sent
+to him by the emperor, went out using their madness unsparingly, destroying
+myriads together of men and children and women, and enslaving their countries
+by the law of war. And the Jews were then led by one named Barcochebas, which
+means a star; in the other things a murderous and robber-like man, but upon
+the appellation as upon slaves, as if a luminary had come down to them from
+heaven, and pretending to shine upon those being harmed. And when the war was
+at its height in the eighteenth year of the rule of Hadrian at the city
+Biththera, which was most fortified, not standing very far from Jerusalem, and
+the siege from outside having become long, and the innovators having been
+driven by hunger and thirst into an extreme of destruction, and the cause of
+their madness having paid the worthy justice, the whole nation from that time
+is forbidden by a decree of law and ordinances of Hadrian to set foot at all
+even upon the land around Jerusalem, he having commanded that they might not
+even from a look see the paternal soil, as Ariston of Pella relates. Thus then
+the city having come into a desert of the Jewish nation and a costly
+destruction of the old inhabitants, and having been settled from a foreign
+race, the Roman city later constituted, having changed the name, unto the
+honor of the ruling Aelius Hadrian, is called Aelia.

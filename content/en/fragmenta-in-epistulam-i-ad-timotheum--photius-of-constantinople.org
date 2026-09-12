@@ -1,0 +1,28 @@
+#+TITLE: Fragments on the First Epistle to Timothy
+#+AUTHOR: Φώτιος Κωνσταντινουπόλεως hermes:grok-4.6
+#+FILETAGS: :byzantine:9c-ad:pg101-104:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta-in-epistulam-i-ad-timotheum--photius-of-constantinople
+#+LANGUAGE: en
+
+* Fragments on the First Epistle to Timothy
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+1 Tim 3:16 Instead of: he was justified spiritually and not legally; for even
+fulfilling the legal commandments, he fulfilled them not legally but
+spiritually. Or that even if to the fleshly and heavy-hearted he did not seem
+to have been justified (for they said: a glutton and a wine-drinker) yet to
+those established in the spirit of God he has been justified; for we also
+beheld his glory, glory as of an only-begotten, and so on. 1 Tim 4:3 It is not
+a scribal fault, as it seemed to some, nor an apostolic oversight, but rightly
+phrased also according to Attic custom, as "he hindered him not to do the
+unfitting things" does not mean that he urged him toward unfittingness; and
+"he turned him away not to offend friends" is not to offend friends but the
+opposite; and again "he hindered not to steal" is not that he permitted theft;
+and "he hindered to abstain from unspeakable doing" instead of he led away
+from such a practice; so also "they hindered to abstain from foods" instead of
+they hindered from the eating. And the usage is also much among those outside.

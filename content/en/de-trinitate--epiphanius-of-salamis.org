@@ -1,0 +1,18 @@
+#+TITLE: On the Trinity
+#+AUTHOR: Ἐπιφάνιος Σαλαμῖνος hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg41-43:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-trinitate--epiphanius-of-salamis
+#+LANGUAGE: en
+
+* On the Trinity
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+From Epiphanius of Cyprus, from the discourse on the Trinity.
+There is one doxology of Father and Son and Holy Spirit, and one worship; for
+when the seraphim glorify God, "holy, holy, holy," they glorify Father and Son
+and Holy Spirit.

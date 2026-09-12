@@ -1,0 +1,470 @@
+#+TITLE: Ausonius on the Twelve Caesars written by Suetonius Tranquillus
+#+AUTHOR: Ausonius, Decimus Magnus hermes:grok-4.6
+#+FILETAGS: :byzantine:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ausonii-de-xii-caesaribus-per-suetonium-tranquillum-scriptis--ausonius-decimus-magnus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Ausonius on the Twelve Caesars written by Suetonius Tranquillus edited by
+Hugh G. Evelyn-White
+#+END_QUOTE
+
+* Book 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+**
+Monostichs
+
+** AUSONIUS TO HIS SON HESPERIUS SENDS GREETING
+:PROPERTIES:
+:CUSTOM_ID: h1-h1
+:END:
+
+Receive the Caesarean chiefs, into whose reigns from the paired
+consuls Roman power long since passed,
+the twice-six; their own monostichs mark each,
+whose names, deeds, life and death Suetonius once
+carried through a full senem.
+
+** MONOSTICHS ON THE ORDER OF THE EMPERORS
+:PROPERTIES:
+:CUSTOM_ID: h1-h2
+:END:
+
+Julius Caesar first opened the royal hall
+and transferred both the name and the citadel to Augustus;
+after him his stepson Nero Claudius reigns, from whom
+the Caesar to whom the camps gave the surname of the boot.
+Claudius from here takes possession of the realm, after whom savage
+Nero,
+
+last of the sons of Aeneas; after him three, and not in three years:
+
+old Galba, trusting in vain an idle ally;
+soft Otho, degenerate through luxury in an infamous age,
+and Vitellius worthy neither of the realm nor of death as a man.
+Tenth after these and summoned by fate is Vespasian
+and Titus happy in the shortness of empire; there followed
+the brother whom his own Rome called the bald Nero.
+
+** MONOSTICHS ON THE LENGTH OF THEIR EMPIRE
+:PROPERTIES:
+:CUSTOM_ID: h1-h3
+:END:
+
+Julius, as they tell, the divine, reigns for a triennium.
+Augustus after ten lustra prolongs six years,
+and Nero Claudius adds twins to thrice seven,
+a third winter ends the raging times of Gaius.
+Claudius draws a double seven and dread Ne?-o
+as much, but of the total one consul was wanting.
+Old Galba, wanton Otho, infamous Vitellius,
+a third summer did not know you reigning in Latium,
+
+[omitted]
+
+Vespasian fills a fated decade for himself.
+While Titus rules thrice, a new laurel girds Janus:
+fifteen times, while the brother holds the savage reins.
+
+** MONOSTICHS ON THE DEATH OF EACH
+:PROPERTIES:
+:CUSTOM_ID: h1-h4
+:END:
+
+Julius Caesar perished with the senate raging,
+ripe old age added Augustus to the di vis,
+old Nero, an exile on Capri, completed a late fate,
+soft Chaerea exacted penalties from the Caesar.
+
+Claudius closed his fate with doubtful poison.
+Matricide Nero bore the force of his own sword.
+Old Galba perished, laid low by savage Otho;
+soon infamous Otho, but possessed of a famous death,
+the prodigal scepters of Vitellius who must be slain succeed.
+Praised empire, a gentle death for Vespasian.
+But Titus, love of the world, is snatched in flourishing years;
+late but just atonements destroy the heavy brother.
+
+* Section praef
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+Now both those already told and those following by lot of reign
+I will set forth, whom the series of empire holds;
+I will begin from the divine and run through all in order,
+whom I, mindful of Roman history, know.
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** JULIUS CAESAR
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+The empire, which had once been solemn for paired
+consuls, Julius Caesar obtained.
+But the right of reign was brief, borne for a single triennium:
+the savage faction of the armed toga struck him down.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** OCTAVIUS AUGUSTUS
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+Avenger and successor next, Octavius, the same
+Caesar and more noble by the name of Augustus.
+
+Long-lived power never violated by doubts
+showed that he, placed on earth, was a god.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+** TIBERIUS NERO
+:PROPERTIES:
+:CUSTOM_ID: h5-h1
+:END:
+
+Nero, having got the forename Tiberius, passed the first
+times of youth in a praised empire,
+thereafter shut in vain in the lone cave of Capri,
+which he betrays by vices, he believes hidden by places.
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+** CAESAR CALIGULA
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+After him the Caesar with the camp surname of the boot
+succeeded, fiercer than a fierce nature,
+thereafter stained with slaughters and incests, and who
+in every crime surpassed his polluted grandfather.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+** CLAUDIUS CAESAR
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+Claudius, of a mocked life in private time,
+in the reign showed a sample of his talent;
+yet having suffered a freedwoman of wives and crimes
+he was guilty not by doing, but by enduring.
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** NERO
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+He who was sixth and last heir of the race of Aeneas,
+Nero polluted and closed the Julian rites.
+As many names as piety has, so many crimes his life has also.
+Learn from Tranquillus: but it irks to remember.
+
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+** GALBA
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+Old man cheated of hope, as a private citizen seeming
+to deserve the scepters, and shown inferior in empire,
+
+your fame was better as a youth; but the juster order is
+to have pleased thereafter, to have displeased first.
+
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+** OTHO
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+About to bear scepters rival to polluted Nero,
+Otho is overwhelmed, snatched by a swift end;
+yet he will be praiseworthy in his close, who by a seemly death
+did this alone as noble, that he perished.
+
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+** VITELLIUS
+:PROPERTIES:
+:CUSTOM_ID: h11-h1
+:END:
+
+A fierce life, a foul death for you, nor worthy, Vitellius,
+to become Caesar: so the fates please themselves.
+Yet a brief shadow of empire; because the prizes of reign
+the unworthy often approaches, only the worthy holds.
+
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+** VESPASIAN
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+Attentive in seeking, convenient in moderate use,
+
+Vespasian increases and does not check his wealth,
+who once, as princeps, transferred a doubtful fame in private time,
+a thing rare for others, into better.
+
+* Section 11
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+** TITUS
+:PROPERTIES:
+:CUSTOM_ID: h13-h1
+:END:
+
+Happy in empire, happy in shortness of ruling,
+free of civil blood, love of the world.
+
+Dying you said you had one crime;
+
+but we believed none about you, nor you.
+
+* Section 12
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+** DOMITIAN
+:PROPERTIES:
+:CUSTOM_ID: h14-h1
+:END:
+
+Thus far, Flavian house, you had brought forth just lords.
+Why did the third snatch what the two had given?
+Scarcely is it worth so much to have had them, because the gifts of
+the good are brief; those things that harmed, hurt forever.
+
+* Section 13
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+** NERVA (ON THE CAESARS AFTER TRANQUILLUS TE TETRASTICHS)
+:PROPERTIES:
+:CUSTOM_ID: h15-h1
+:END:
+
+Next after the tyrant is extinguished, old Nerva
+governs the scepters, a princeps in name, a parent in mind.
+The man has no offspring; adoption imitates a child,
+whom it delights to have chosen, whom he would wish to have begotten.
+
+* Section 14
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+** TRAJAN
+:PROPERTIES:
+:CUSTOM_ID: h16-h1
+:END:
+
+Trajan enters the rule in a green age,
+first in praise of war, having the rest of his father.
+He too, lacking offspring, joins to himself by lot of choosing
+one whom you would confess good, deny as equal.
+
+* Section 15
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+** HADRIAN
+:PROPERTIES:
+:CUSTOM_ID: h17-h1
+:END:
+
+Aelius next came on, distinguished in the middle of his acts:
+a graver fame marks the beginnings and the end,
+childless he too: he who will be joined to him will give proofs
+
+how much the adopted stand out above the begotten.
+
+* Section 16
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+** ANTONINUS PIUS
+:PROPERTIES:
+:CUSTOM_ID: h18-h1
+:END:
+
+Antoninus from here takes the rule, that one by calling
+and the consuls Pius, having a name of merit,
+no son to him by fate; but by the law of his own
+he took from the fatherland one who should rule the fatherland.
+
+* Section 17
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+** M. ANTONINUS
+:PROPERTIES:
+:CUSTOM_ID: h19-h1
+:END:
+
+Thereafter the guardianship is given to Marcus, who bent
+the decrees of Plato to empire, better than father Pius.
+Dying with his own successor, but a crooked princeps,
+he harmed the fatherland in this alone, that he begot him.
+
+* Section 18
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+** COMMODUS
+:PROPERTIES:
+:CUSTOM_ID: h20-h1
+:END:
+
+Commodus follows, stained with the fights of the arena,
+a princeps waging wars with a Thracian gladiator's sword,
+at last paying penalties with a crushed throat,
+by his crimes confessing his mother's adultery.
+
+* Section 19
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+** HELVIUS PERTINAX
+:PROPERTIES:
+:CUSTOM_ID: h21-h1
+:END:
+
+Helvius, chosen by the judgment and decree of the senate,
+a princeps brought forth by decrees, not by partisanship.
+Which the ill-trusted cohort grieved, the error having been proved,
+that the curia had yielded the empire to the camps.
+
+* Section 20
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+** DIDIUS JULIANUS
+:PROPERTIES:
+:CUSTOM_ID: h22-h1
+:END:
+
+The gods well, that Didius does not rejoice in the rich
+scepter, and the prizes are quickly taken from the perjured old man.
+And you, father Severus, do not shudder at the title of a renewer:
+your force does not snatch the empire, but takes it back.
+
+* Section 21
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+** SEVERUS PERTINAX
+:PROPERTIES:
+:CUSTOM_ID: h23-h1
+:END:
+
+Unwearied Severus moves arms from the chill Hister,
+that he may take the realms from parricide Didius.
+Punic origin was his; but one who by virtue would prove
+that place does not stand in the way, when talent is strong.
+
+* Section 22
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+** BASSIANUS ANTONINUS OR CARACALLA
+:PROPERTIES:
+:CUSTOM_ID: h24-h1
+:END:
+
+Unlike the father in virtue and much more unlike him
+whose adoptive name you claim,
+guilty by a brother's death, punished by a bloody end,
+you are more Caracalla by the mockery of the people.
+
+* Section 23
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+** OPILIUS MACIUNUS
+:PROPERTIES:
+:CUSTOM_ID: h25-h1
+:END:
+
+Then the princeps's guard turns the steel taken for Caesar
+against the author by slaughter, sluggish Macrinus.
+Soon he falls with his offspring. Let him cease to beat
+perfidy with heavy complaints: what he suffers, he deserved.
+
+* Section 24
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+** ANTONINUS HELIOGABALUS
+:PROPERTIES:
+:CUSTOM_ID: h26-h1
+:END:
+
+Do you also defile the inner chambers of the Augustan seat,
+bearing false names of the Antonines,
+
+than whom never any more base nor any fouler
+
+monster sat in the Roman empire?

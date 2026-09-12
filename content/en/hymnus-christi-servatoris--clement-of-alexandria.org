@@ -1,0 +1,31 @@
+#+TITLE: Hymn of Christ the Savior
+#+AUTHOR: Κλήμης Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:2c-ad:pg08-09:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/hymnus-christi-servatoris--clement-of-alexandria
+#+LANGUAGE: en
+
+* Hymn of Christ the Savior
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+HYMN OF THE SAVIOR CHRIST OF SAINT CLEMENT
+Bit of untaught colts, wing of unwandering birds, unswerving rudder of ships,
+shepherd of royal lambs; gather your simple children to praise holily, to hymn
+without guile with harmless mouths of children Christ the leader. King of
+saints, all-subduing Word of the highest Father, president of wisdom, support
+of toils, eternal-joy, Savior Jesus of the mortal race, shepherd, ploughman,
+rudder, bit, heavenly wing of an all-holy flock, fisher of mortals of those
+being saved from the sea of wickedness, baiting pure fishes of a hostile wave
+with sweet life. Holy shepherd of rational sheep, lead, king of unharmed
+children; tracks of Christ, a heavenly way. Ever-flowing Word, measureless
+age, everlasting light, fountain of mercy, doer of virtue for those who hymn
+God with a solemn life. Christ Jesus, heavenly milk of sweet breasts of a
+bride of the graces of your wisdom, being pressed out. We little children,
+nurtured with tender mouths, filled from a rational teat with dewy spirit, let
+us sing together simple praises, true hymns to King Christ, holy wages of the
+teaching of life. Let us send simply a strong child, a chorus of peace, we the
+Christ-born, a temperate people, let us psalm together the God of peace.

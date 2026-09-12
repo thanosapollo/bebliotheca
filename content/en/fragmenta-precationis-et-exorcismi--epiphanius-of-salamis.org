@@ -1,0 +1,19 @@
+#+TITLE: Fragments of a Prayer and Exorcism
+#+AUTHOR: Ἐπιφάνιος Σαλαμῖνος hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg41-43:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta-precationis-et-exorcismi--epiphanius-of-salamis
+#+LANGUAGE: en
+
+* Fragments of a Prayer and Exorcism
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+We call upon you, God Almighty, Lord Jesus Christ, heavenly King; we call upon
+you who made heaven and earth. I adjure you, unclean spirit, by the Word of
+God who made heaven and earth. Fear him who wraps himself in light as in a
+garment; who alone has immortality and unapproachable light; to whom be glory
+and power unto the ages. Amen.

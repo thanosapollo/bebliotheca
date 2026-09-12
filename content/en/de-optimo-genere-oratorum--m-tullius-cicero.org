@@ -1,0 +1,369 @@
+#+TITLE: On the Best Kind of Orators
+#+AUTHOR: M. Tullius Cicero hermes:grok-4.6
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-optimo-genere-oratorum--m-tullius-cicero
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+De Optimo Genere Oratorum edited by A. S. Wilkins
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+It is said that there are kinds of orators, as there are of poets.
+That is otherwise, for the other class is manifold. For of poetry
+there are the tragic, the comic, the epic, the lyric, and even the
+dithyrambic, which has been treated more by the Latins; each has
+its own character, different from the rest. And so the comic is a
+fault in tragedy, and the tragic is a disgrace in comedy; and in
+the others each has its own fixed sound and a certain voice known
+to those who understand.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+But if anyone counts several kinds of orators in this way, so as
+to think some grand or grave or copious, others thin or subtle or
+brief, others set between these and as it were in the middle, he
+is saying something about men, little about the matter. For in
+the matter the question is what is best; in the man, what he is is
+stated. And so one may say both that Ennius is the greatest epic
+poet, if that is how someone sees it, and Pacuvius the greatest
+tragic poet, and Caecilius perhaps the greatest comic poet.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+I do not divide the orator by kind, for I am seeking the perfect
+one. There is, however, one kind of the perfect orator; those who
+fall short of it do not differ in kind, as Terence does from
+Accius, but they are not equals in the same kind. For the best
+orator is he who by speaking both instructs and delights and
+moves the minds of his hearers. To instruct is a duty, to delight
+a gift of honor, to move a necessity.
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+That one man does these things better than another must be
+granted; but that happens not by kind but by degree. The best,
+indeed, is one, and next to it is what is most like it. From this
+it is clear that what is most unlike the best is the worst.
+For since eloquence consists of words and of thoughts, we must
+bring it about that, speaking purely and correctly, which is to
+speak Latin, we also pursue elegance in words both proper and
+transferred: in proper words, that we choose the choicest; in
+transferred, that, following likeness, we use what is another's
+with restraint.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+Of thoughts, moreover, there are as many kinds as I said there
+are of merits. For those of instructing are sharp, those of
+delighting as it were witty, those of moving grave. But there is
+also a certain structure of words that produces two things,
+rhythm and smoothness, and thoughts have their own composition,
+and an order suited to proving the case. But of all these things,
+as of buildings, memory is as it were the foundation, delivery
+the light.
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+The man, then, in whom all these things will be at their height
+will be the most perfect orator; he in whom they are middling, a
+middling one; he in whom they are least, the worst. And all will
+be called orators, as even bad painters are called painters, and
+they will differ among themselves not in kinds but in abilities.
+And so there is no orator who would not wish to be like
+Demosthenes; but Menander did not wish to be like Homer, for the
+kind was different. That is not so among orators; or even if it
+is, so that one man, pursuing gravity, flees subtlety, and
+another wants himself keener rather than more ornate, even if
+that is in a tolerable kind, it is certainly not in the best, if
+indeed that which has every merit is the best.
+
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+I have said this more briefly than the subject asked, but for
+what we are doing there was no need to speak at greater length;
+for since there is one kind, we ask of what sort it is. It is
+such as flourished at Athens; from this the very force of the
+Attic orators is unknown, their glory known. For many have seen
+the one point, that there is nothing faulty in them; few have
+seen the other, that there is much worthy of praise. For there is
+a fault in thought if anything is absurd or foreign or not sharp
+or rather tasteless; in words, if it is unclean, if mean, if not
+fitting, if harsh, if far-fetched.
+
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+Almost all who are either counted Attic or speak in the Attic
+manner have avoided these things. But those who have been strong
+only so far should be regarded as sound and dry at least, but
+like men of the palaestra: let them be allowed to stroll in the
+covered walk, not seek a crown from the Olympic games. Those who,
+though free of every fault, are not content with what is as it
+were good health, but seek strength, muscle, blood, even a
+certain sweetness of color: let us imitate them if we can; if
+not, rather those who have uncorrupted soundness, which is proper
+to the Attics, than those whose abundance is faulty, of the sort
+Asia has produced in numbers. When we do this:
+
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+if only we attain that itself (for it is a very great thing), let
+us imitate, if we can, Lysias, and his thinness above all; for in
+many places he is grander, but because he wrote mostly private
+cases, and those themselves for others, and little cases of small
+matters, he seems rather meagre, since he himself deliberately
+filed himself down to the kinds of minute cases.
+Anyone who will do this in such a way that, if he wished to be
+richer, he could not, may indeed be counted an orator, but among
+the lesser ones; yet even a great orator must often speak in that
+manner in such a kind of cases.
+
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+So it comes about that Demosthenes can certainly speak in a low
+register, while Lysias perhaps cannot speak in a lofty one. But
+if they think it would have been proper to speak for Milo, when
+an army had been stationed in the forum and in all the temples
+around the forum, in the same way as if we were speaking of a
+private matter before a single judge, they measure the force of
+eloquence by their own ability, not by the nature of the case.
+
+* Section 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+Therefore, since the talk of some people has now grown common,
+some saying that they themselves speak in the Attic manner,
+others that none of us does, let us ignore the former; for the
+fact itself answers them well enough, when they are either not
+called in to cases or, if called in, are laughed down; for if
+they were merely laughed at, that itself would belong to the
+Attics. But those who want us to speak in the Attic manner, yet
+themselves confess they are not orators, if they have refined
+ears and intelligent judgment, are employed as even those
+ignorant of making a picture are employed to judge one, when they
+have some skill in judging;
+
+* Section 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+but if they place intelligence in fastidiousness of hearing, and
+nothing lofty and magnificent delights them, let them say they
+want something subtle and polished and scorn what is grand and
+ornate; but let them stop saying that those who speak subtly are
+the only ones who speak in the Attic manner, that is, as it were
+dryly and purely. To speak fully and ornately and copiously with
+the same purity also belongs to the Attics. What? Is it doubtful
+whether we wish our speech to be only tolerable, or even
+admirable? For we are no longer asking what it is to speak in the
+Attic manner, but what it is to speak in the best manner.
+
+* Section 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+From this it is understood that, since the most outstanding of
+the Greek orators are those who were at Athens, and of these
+Demosthenes is easily the chief, if anyone imitates him, he will
+speak both in the Attic manner and in the best manner, so that,
+since the Attics have been set before us for imitation, to speak
+well is to speak in the Attic manner.
+
+But since there was a great error as to what that kind of
+speaking was, I thought I should take on a labor useful to
+students, though not necessary for me myself.
+
+* Section 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+For I have translated from the Attics the most famous speeches of
+the two most eloquent men, opposed to each other, those of
+Aeschines and of Demosthenes; and I have not translated as an
+interpreter, but as an orator, with the same thoughts and their
+forms, as it were figures, in words suited to our usage. In these
+I did not hold it necessary to render word for word, but I kept
+the whole kind of the words and their force. For I did not think
+I ought to count them out to the reader, but as it were to weigh
+them out.
+
+* Section 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+This labor of mine will achieve this: that our people may
+understand what they should demand from those who wish to be
+Attic, and to what formula of speaking, as it were, they should
+recall them. "But Thucydides will arise; for some admire his
+eloquence." That indeed is right; but it has nothing to do with
+the orator we are seeking. For it is one thing to unfold events
+by narrating, another to accuse by arguing or to dissolve an
+accusation; one thing for a narrator to hold a hearer, another to
+stir him. "But he speaks beautifully."
+
+* Section 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+Surely not better than Plato? Yet the orator we seek must unfold
+forensic controversies in a kind of speaking suited to
+instructing, to delighting, to moving.
+Therefore if there will be anyone who professes that he will
+plead cases in the forum in the Thucydidean manner, he will be
+far even from the suspicion of that which is employed in civil
+and forensic business; but if he will praise Thucydides, let him
+add our opinion to his own.
+
+* Section 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+Indeed even Isocrates himself, whom the divine author Plato,
+almost his equal in age, had Socrates praise wonderfully in the
+Phaedrus, and whom all learned men have said is the greatest
+orator, I still do not put in this number. For his oratory is not
+employed in the battle-line nor with the sword, but as it were
+plays with wooden foils. But I, to compare the smallest things
+with the greatest, bring on the most famous pair of gladiators:
+Aeschines, like Aeserninus, as Lucilius says, not a filthy man,
+but keen and skilled
+/
+cum PacideianoPacideiano Cratander: Pacidiano GP
+he is matched here, by far the best
+since men were born.
+/
+
+For I think nothing more divine can be conceived than that
+orator.
+
+* Section 18
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+Two kinds of criticism are opposed to this labor of ours. One is
+this: "But the Greeks are better." Let it be asked of him whether
+they themselves can do anything better in Latin. The other: "Why
+should I read those rather than the Greek ones?" The same people
+read the Andria and the Synephebi, and Terence and Caecilius no
+less than Menander, and they do not accept a Latin Andromache or
+Antiope or Epigoni; yet they still read Ennius and Pacuvius and
+Accius rather than Euripides and Sophocles. What, then, is their
+fastidiousness in speeches translated from Greek, when there is
+none in verses?
+
+* Section 19
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+But let us now approach what we have undertaken, if I first set
+out what case was brought to trial. Since there was a law at
+Athens, THAT NO ONE SHOULD MAKE A DECREE OF THE PEOPLE THAT ANYONE
+BE GIVEN A CROWN IN OFFICE BEFORE HE HAD RENDERED HIS ACCOUNTS;
+and another law, THAT THOSE WHO WERE GIVEN A GIFT BY THE PEOPLE
+OUGHT TO BE GIVEN IT IN THE ASSEMBLY; THOSE BY THE SENATE, IN THE
+SENATE, Demosthenes was commissioner for repairing the walls and
+repaired them with his own money; about him, then, Ctesiphon made
+a decree, though no accounts had been rendered by him, that he be
+given a golden crown and that this gift be made in the theatre
+with the people called together, which place is not that of a
+lawful assembly, and that it be proclaimed thus, THAT HE IS GIVEN
+IT FOR HIS VIRTUE AND FOR THE GOODWILL WHICH HE HAD TOWARD THE
+ATHENIAN PEOPLE.
+
+* Section 20
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+This Ctesiphon, then, Aeschines brought to trial, because he had
+written contrary to the laws, both that a crown should be given
+when accounts had not been rendered and that it should be in the
+theatre, and because he had written false things about his virtue
+and goodwill, since Demosthenes was neither a good man nor well
+deserving of the state. The case itself is indeed far from the
+formula of our custom, but it is a great one. For it has both a
+fairly sharp interpretation of the laws on each side and a truly
+grave contest over services to the republic.
+
+* Section 21
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+And so Aeschines had a reason, since he himself had been accused
+on a capital charge by Demosthenes of having lied about his
+embassy, that, for the sake of avenging an enemy, a trial should
+be held in Ctesiphon's name about the deeds and reputation of
+Demosthenes. For he did not say so much about the accounts not
+being rendered as about this, that a wicked citizen had been
+praised as the best.
+
+* Section 22
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+This penalty Aeschines sought from Ctesiphon four years before
+the death of Philip of Macedon; but the trial was held some years
+later, when Alexander already held Asia; to that trial a
+gathering from all Greece is said to have been made. For what was
+so much to be seen or heard as the careful contention, inflamed
+by enmities, of the greatest orators in a most grave case?
+
+* Section 23
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+If I, as I hope, so express their speeches, using all their
+virtues, that is, the thoughts and their figures and the order of
+the matter, following the words so far that they not be foreign
+to our custom (and if they will not all have been translated from
+the Greek, still we have worked that they be of the same kind),
+there will be a rule by which the speeches of those who wish to
+speak in the Attic manner may be directed. But enough about us.
+For at last let us hear Aeschines himself speaking in Latin.

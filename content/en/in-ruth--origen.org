@@ -1,0 +1,21 @@
+#+TITLE: On Ruth
+#+AUTHOR: Ὠριγένης hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg11-17:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/in-ruth--origen
+#+LANGUAGE: en
+
+* On Ruth
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+RUTH.
+=12.989= And the name of the second was Ruth. Ruth bears a type of the
+nations: she who left her ancestral things and was united to the Israelite way
+of life. But it must be asked how, though the law forbids a Moabite to enter
+the assembly of God, Ruth, being a Moabitess, entered. And seeking this, use:
+"The law is not laid down for a righteous person, but for the unrighteous and
+insubordinate."

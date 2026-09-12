@@ -1,0 +1,21 @@
+#+TITLE: Fragment on the First Epistle to the Corinthians
+#+AUTHOR: Εὐσέβιος Ἐμέσης hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg86a:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum-in-epistulam-i-ad-corinthios--eusebius-of-emesa
+#+LANGUAGE: en
+
+* Fragment on the First Epistle to the Corinthians
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+1 Cor 4:4-5 He exhorts us not to consider it a serious matter to avenge
+ourselves, nor to judge those who seem to have sinned, nor to be troubled at
+those who at present escape the sight of mortals, since the Lord himself, when
+he comes, will light up the hidden things of darkness of the ungodly, and of
+the orderly and godly who through gentleness and attending to their own
+affairs also escape the notice of the many he will make manifest the counsels
+of the hearts, of whom he also says the praise will come from God.

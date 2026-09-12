@@ -1,0 +1,21 @@
+#+TITLE: Diatessaron
+#+AUTHOR: Τατιανός hermes:grok-4.6
+#+FILETAGS: :patristic:2c-ad:pg06:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/diatesseron--tatian
+#+LANGUAGE: en
+
+* Diatessaron
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of Zebedee and Salome and the women of those who had followed him from
+Galilee, seeing the crucified. And it was the day of Preparation. Sabbath was
+dawning. And when evening had come, on the Preparation, which is the
+Pre-Sabbath, there came a man who was a councillor from Arimathea, a city of
+Judea, named Joseph, good and just, being a disciple of Jesus, but hidden
+because of fear of the Jews, and he himself was waiting for the kingdom of
+God. This man was not consenting to the counsel ....

@@ -1,0 +1,285 @@
+#+TITLE: On Accents
+#+AUTHOR: Γεώργιος Χοιροβοσκός hermes:grok-4.6
+#+FILETAGS: :byzantine:9c-ad:pg86:
+#+MIGNE_TITLE: De accentibus
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-accentibus--george-choeroboscus
+#+LANGUAGE: en
+
+* On Accents
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+On accents, from Choeroboscus, Aetherius, Philoponus, and others. 1.1 Every
+monosyllabic neuter noun is circumflexed, e.g. =πᾶν=, =πῦρ=, =κῆρ=, =ἦρ=,
+=ὦς=, =φῶς=, =σταῖς=, =κρῖ=, =σκῶρ=, and their vocatives; for the vocatives
+also follow the circumflexed nominative. The monosyllabic names of the letters
+are also circumflexed, =μῦ=, =νῦ=, =ξῖ=, =πῖ=, =ῥῶ=, and the rest. Among the
+masculines, =Θρᾷξ= and =βῶξ= are circumflexed, for they are from =Θράϊξ= and
+=βόαξ=; yet common usage makes =Θρᾴξ= oxytone. Of those ending in =σ=, =λᾶς=,
+=πᾶς=, =φθοῖς=, =εἷς= are circumflexed; but the disyllable =οὐδείς= and
+=μηδείς= are oxytone. 1.2 All monosyllables in =υς= with simple =υ= are also
+circumflexed: =μῦς=, =σῦς=, =ὗς=; but their oblique cases have the =υ= short
+and are paroxytone: =σύες=, =μύες=, and the rest. These feminines are
+circumflexed: =μνᾶ=, =γῆ=, =γραῦς=, =Κῶς= the island, =βῶς= the shield; but
+=δώς= the gift and =κλείς= are oxytone; and =σῶς= and =παῖς=, whether
+masculine or feminine, are circumflexed. All the remaining monosyllables are
+oxytone: =αἴξ=, =Πάν= a proper name, =φθείρ=, =Ζεύς=, =ῥήξ=, =μήν=, =χήν=,
+=σής=, =κτείς=, =θώψ=, =Τρώς=, =φώς= the man; the participial forms are
+oxytone as well: =στάς=, =βάς=; =στάν=, =βάν=. 1.3 Those in =ας= declined by
+dropping of =σ=, or through =ντ=, are circumflexed: =βορρᾶς βορρᾶ=,
+=Θωμᾶς Θωμᾶ=, =ἀλλᾶς ἀλλᾶντος=, except =ἱμάς ἱμάντος= and
+=ἀνδριάς ἀνδριάντος=; the participles are oxytone as well: =ἱστάς ἱστάντος=,
+=βιβάς βιβάντος=. As many as are declined neither by dropping of =σ= nor
+through =ντ= are oxytone: =ἐθάς ἐθάδος=, and the feminines: =λαμπάς=, =τριάς=.
+1.4 Those in =αν= of more than one syllable are oxytone: =ὁ παιάν=,
+=ὁ Ἀλκμάν=; =ὦ παιάν=; =ὦ Ἀλκμάν=; but their genitives are properispomenon:
+=τοῦ παιᾶνος=, =τοῦ Ἀλκμᾶνος=. 1.5 All those in diphthongal =εις= are oxytone:
+=οὐδείς=, =μηδείς=, =καθείς=, and the participles: =ὁ τυφθείς=, except the
+monosyllable =εἷς=, as we also said before. 1.6 All those in =ευς= are
+oxytone: =βασιλεύς=, =Πηλεύς=; and their vocatives, dropping the =σ=, are
+circumflexed. 1.7 Those in =ης=, if they are compounded from =κλέος=, are
+circumflexed; for =Σοφοκλέης= becomes =Σοφοκλῆς=, and the like; also
+circumflexed are as many as have the genitive in =ου=: =Ἑρμῆς Ἑρμοῦ=,
+=Ἀπελλῆς Ἀπελλοῦ=; those besides these are oxytone, whether masculine or
+feminine: =ψευδής ψευδέος=, =ἀληθής ἀληθέος=, =προβλής προβλῆτος=,
+=ἀβλής ἀβλῆτος=. 1.8 All those in =ους= are circumflexed, except =πούς= and
+=ὀδούς=. 1.9 Those in =υς=, whether masculine or feminine, are oxytone:
+=τραχύς=, =βραδύς=, =ἰχθύς=, =χλαμύς=, =νηδύς=. =1.10= Those in =ων= declined
+through =ντ= are circumflexed: =Ξενοφῶν Ξενοφῶντος=, =Χαιρεφῶν Χαιρεφῶντος=,
+because such are also from contraction; but if they are declined otherwise,
+they are oxytone: =Τυφῶνος=, =ἡγεμόνος=, except =Ποσειδῶν Ποσειδῶνος=; for it
+is contracted from =Ποσειδάων=. The second futures in the participles are also
+circumflexed: =ὁ τυπῶν=, =ὁ λιβῶν=. =1.11= Those in =ως= are oxytone: =ἱδρώς=,
+=λαγώς=; the participles are oxytone as well: =ὁ πεποιηκώς=, =ὁ τετυφώς=,
+=ὁ ἑστώς=; for even if this last is contracted, it is not from acute and
+grave, but from grave and acute, and therefore it is again oxytone according
+to the rule. =1.12= No feminine or neuter noun of more than one syllable is
+circumflexed when it is uncontracted, but those that have been circumflexed
+were circumflexed from contraction: =συκία συκῆ=, =φακέα φακῆ=; likewise also
+the neuters: =ἀργύρεον ἀργυροῦν=, =χρύσεον χρυσοῦν=; those not from
+contraction are all oxytone: =ἡ Λητώ=, =ἡ λαμπάς=, =ἡ αἰδώς=, =τὸ ἑστάν=,
+=τὸ ζευγνύν=; but such feminines or neuters as come from
+
+masculines ending in =ους= are circumflexed: =ἡ ἁπλῆ=, =τὸ ἁπλοῦν=, because
+also =ἁπλοῦς=, and the like.
+
+2.τ On ethnics and Hebrew names. =2.13= Ethnic and Hebrew names are
+indeclinable and oxytone in all the cases: =ὁ Σαμψών τοῦ Σαμψών=,
+=ὁ Ἰακώβ τοῦ Ἰακώβ=, =ἡ Ἐσθήρ=, =ἡ Ἰοδήθ=, =ἡ Μαριάμ=, and the rest. =3.14=
+Participles ending in =ων= and having the accent on the ultima are
+distinguished thus: those whose genitives have a naturally long penult, their
+nominatives are circumflexed: =τοῦ τυποῦντος ὁ τυπῶν=,
+=τοῦ σπεροῦντος ὁ σπερῶν=, =τοῦ κτενοῦντος ὁ κτενῶν=; those in whose genitive
+penult =ο= is found with =ντ= are oxytone: =τοῦ λαβόντος ὁ λαβών=,
+=τοῦ εὑρόντος ὁ εὑρών=. =3.15= The participial dative plurals, all that have a
+variable vowel in the penult, are properispomenon: =τοῖς βᾶσι=, =τοῖς στᾶσι=,
+=τοῖς δεικνῦσι=, =τοῖς ζευγνῦσι=, since the dative plural wants to keep the
+same quantity in the penult as the other oblique cases, and sometimes it even
+wants to have a greater quantity, so that =ἀνδριᾶσι= and =ἱμᾶσι= are also
+properispomenon.
+
+4.τ On those that have the accent on the penult. 1 =4.16= Pure masculines in
+=ας= having the accent on the penult all have the =ας= long and are
+paroxytone, e.g. =Αἴας=, =Αἰνείας=, =Ποίας=, =κοίας=, and the like. =4.17=
+Another rule: nouns in =ας= declined through =τος= =4.17= have the =ας= long,
+except the neuters: =κρέας=, =κέρας=, and with these =γέρας= and =οὖδας=.
+=4.18= Participles in =ας= have a long ultima and are paroxytone: =ὁ ποιήσας=,
+=ὁ νείμας=; and their vocatives as well: =ὦ ποιήσας=, =ὦ νείμας=; for the rule
+says that participles and participial nouns have the same nominatives and
+vocatives. The neuters of these are properispomenon: =Τὸ ποιῆσαν=,
+=τὸ λαλῆσαν=. =4.19= Those in =ος= having =α= in the penult and the accent on
+it are paroxytone: =κάρος=, =σκάρος=, =βάδος=; =πρᾶος= alone is
+properispomenon. =4.20= Those in =ιξ= have a short ultima and are
+properispomenon: =Φοῖνιξ=, =ἧλιξ=, =ὁμῆλιξ=; along with these also =κῆρυξ=
+with simple =υ=. =4.21= Disyllabic nouns in =ιλος= are paroxytone, e.g.
+=φίλος=, =κτίλος=, =σπίλος=; likewise also those of more than two syllables:
+=ποικίλος=, =ὀργίλος=; in some, =σπῖλος= and =πῖλος= have been found
+properispomenon. =4.22= All those in =ινος= are properispomenon:
+=Κωνσταντῖνος=, =Πλωτῖνος=, =Ἰουστῖνος=; in some, =πίνος= the dirt has been
+found paroxytone. Note that common usage makes =καρκίνος= and =ἐχίνος=
+paroxytone. =4.23= All those in =ιτης= have the =ι= long: =πολίτης=,
+=ὁπλίτης=, hence their nominative plurals are properispomenon: =οἱ πολῖται=,
+=οἱ ὁπλῖται=, =οἱ Θερσῖται=; and =ἡ χρυσῖτις= earth, feminine. =4.24= Those in
+=ιος= are paroxytone: =ἐναντίος=, =νυμφίος=, except =δῖος= and =Χῖος= a man.
+=4.25= Those in =ος= not having pure =ι= in the penult and having the accent
+on it are paroxytone: =τρίτος=, =κρίκος=, and the rest, except =σῖτος=,
+=ἶσος=, =μῖμος=, =γρῖφος=; common usage makes =γρίφος= paroxytone. =4.26=
+Those of two endings in =ιν= and in =ις= have the =ι= long and are
+properispomenon in the genitive: =δελφῖνος=, =ἀκτῖνος=; but the monosyllables
+of these are oxytone in the genitive and dative, and in the other cases, where
+the penult receives the accent and
+
+the ultima is short, they are properispomenon: =ῥίν ῥινός=,
+=ῥῖνα ῥῖνε ῥῖνες ῥῖνας=; so also in the like. For this reason =εὔριν= is not
+properispomenon either, since the =ι= is long. =4.27= Those in =υξ= are
+properispomenon if they have a long penult, e.g. =δοῖδυξ=. =4.28= Those in
+=ος= not purely having =υ= in the penult and having the accent on it are
+paroxytone: =κύβος=, =λύγος=, =στύλος=, =Κύρος= a proper name, except =κῦρος=
+authority, neuter, =μῦθος=, =θῦμος=, =τῦφος=; but common usage gives the acute
+to =τύφος=. Those in =υνος= are properispomenon: =φρῦνος=, =θῦνος=.
+
+5.τ On feminines. =5.29= Feminines in =αια=, if they come from a noun,
+lengthen the =α= and are paroxytone, e.g. =δίκη δικαία=, =σελήνη σεληναία=,
+=εὐκταία= from =εὐχή=, =ἀπευκταία=, =περικεφαλαία= from =κεφαλή=, =δειλαία=
+from =δειλός=, =κεραία= from =κέρας=; along with these also =ἐλαία= and
+=νεολαία= the multitude; but if they are not derived from nouns, they have a
+short ultima and are properispomenon, e.g. =μαῖα=, =γαῖα=, =γραῖα=, =αἶα=, and
+=Μαῖα= the proper name. =5.30= Simply, as many as come from a verb have the
+=α= short and are properispomenon if the penult is long, e.g. =Μοῦσα= from
+=μῶ= "I seek", =βῆσσα= from =βῶ=, and =νῆσσα= from =νῶ=, and =ἧσσα= from
+=ἡσσῶ=; along with these also the participial forms, as themselves from a
+verb: =σχοῦσα=, =τετυφυῖα=, =πεποιηκυῖα=; with them =στᾶσα=, =βᾶσα=, and the
+like are properispomenon. =πᾶσα= also followed these. =5.31= Another rule
+says: feminines ending in =α=, if they have a variable vowel in the penult,
+lengthen it; therefore also =πᾶσα=, =στᾶσα=, =τλᾶσα=, =γνοῦσα=, =δεικνυοῦσα=
+are properispomenon; but =πρύμνα=, =πυράγρα= have an acute, and likewise those
+ending in a double consonant: =ῥίζα=, =σχίζα=, =μύξα=. =5.32= Feminines in
+=ρα= having the accent on the penult, if they have a diphthong in the penult,
+are properispomenon, e.g. =σφαῖρα=, =μοῖρα=, =στεῖρα=; but if they have a
+single vowel in the penult, they are paroxytone: =Ἥρα=, =χήρα=, =χώρα=, =ὥρα=;
+and those with a variable vowel in the penult: =λύρα=, =θύρα=, =σφύρα=. =5.33=
+Feminines in =εια= have the =α= long, even if they come from verbs in =ευω=,
+e.g. =πρεσβεία= and =δουλεία=, except if they come from masculines in =υς=
+declined through =εος=; such have the =α= short and are reasonably
+circumflexed. =5.34= Feminines in =ας= are oxytone and are declined through
+=δος=: =μονάς=, =τριάς=, =λαμπάς=; =τῆς μονάδος=, =τῆς λαμπάδος=,
+=τῆς τριάδος=. =5.35= Feminines in =ις= with a long penult are
+properispomenon: =ῥῆσις=, =λῆξις= and =θραῦσις=; but if the penult is a
+variable vowel, they have the variable short and are paroxytone: =τάσις=,
+=φράσις=, =κλίσις=, and all the rest, except =ῥῦσις=, =λῦσις=, =πρᾶξις=,
+=χᾶτις= and =πρᾶσις=; this last common usage makes paroxytone. 5.32βις still
+paroxytone also are =οὐρήθρα=, =δακτυλήθρα=. Those with the =αυ= diphthong in
+the penult are paroxytone: =σαύρα=, =λαύρα=, =αὔρα= the slave-woman; but
+=αὖρα= the finest breeze is circumflexed; along with these also =Φαίδρα= a
+proper name. 5.33βις Feminines in =ια= are paroxytone, e.g. =κοιλία=, and
+those with a diphthong in the penult, e.g. =θεία=, =χρεία=, and those from
+verbs in =ευω=, e.g. =πρεσβεύω πρεσβεία=, and the like. Feminines in =α=
+formed beside masculines keep the same quantity as their genitive; and if the
+genitive ends long, the feminine also has the =α= long and is paroxytone; but
+if the masculine genitive ends short, the feminine itself also has the =α=
+short and is properispomenon, e.g. =ὀξύς ὀξέος ὀξεῖα=,
+=γλυκύς γλυκέος γλυκεῖα=; for the masculine genitive ends short and therefore
+it too is short and properispomenon; but =θείος θείου θεία= and
+
+=ἀστεῖος ἀστείου ἀστεία= are paroxytone, because the masculine genitive ends
+in =ου=. Note that =γενναῖα= and =ἡ σπουδαῖα= and =τὰ γενναῖα= are
+properispomenon. 5.35βις Feminines in =ις= having the accent one syllable
+before and with a long penult are properispomenon: =μῆνις=, =ῥῆσις=, =καῦσις=,
+and the accusative =τὴν μῆνιν=, =τὴν ῥῆσιν=, =τὴν καῦσιν=; for the rule says:
+every accusative ending in =ν= wants to have the same accent and the same
+quantity as its own nominative, and the vocatives: =ὦ μῆνις=, =ὦ ῥῆσις=; and
+the rule: those ending in =ις= have the same nominative and vocative. Those in
+=ις= with a variable vowel in the penult are paroxytone: =τάσις=, =βάσις=,
+except =ῥῦσις=, =λῦσις=, =πρᾶξις= and =πρᾶσις=; this last common usage makes
+paroxytone. I also found =μῦσις= circumflexed in some. =5.36= =Ἡ Χίος=,
+=ἡ Κίος=, =ἡ Τίος= are paroxytone. But =Χῖος= a man is properispomenon. =5.37=
+Feminines in =ινη= lengthen the =ι=: =κλίνη=, =ὑσμίνη=, =ἡρωίνη=; and their
+nominative plurals are properispomenon: =ὑσμῖναι=, =κλῖναι=, =ἡρωῖναι=, and
+the like. =δωτίνη=; the proper names =Στρατονίκη=, =Βερονίκη=; the feminine
+nominatives of these, then, as short-ending, are circumflexed: =αἱ ὑσμῖναι=,
+=αἱ κλῖναι=, =αἱ ἡρωῖναι=. The genitives in =ινος=, namely =ἀκτῖνος=,
+=Σαλαμῖνος=, were written above among the masculines, that is among
+=δελφῖνος=, =ἑρμῖνος=; and these are circumflexed. =5.38= Oxytone words in
+=ις= declined through =δος=, being disyllabic and having =η= in the penult,
+have a long ultima and are properispomenon in the genitive, e.g.
+=κηλίς κηλῖδος=, =ψηφίς ψηφῖδος=; but as many disyllables as do not have =η=
+in the penult in the genitive are paroxytone: =ῥανίς ῥανίδος=,
+=βολίς βολίδος=; and of those of more than two syllables, as many as are
+shortened from the dative: =Αἰθίοπι Αἰθιοπίς=, and =Πέλοπι Πελοπίς=. The
+grammarians among us for the most part lengthen only those that have a
+naturally long penult and make their genitives properispomenon: =αἰγῖδος=,
+=σφραγῖδος=, =καταιγῖδος=; we said "naturally long" on account of =ἀτμίδος=,
+=βαλβίδος=. =5.39= Disyllables in =υνη= have the =υ= long, e.g. =φρύνη=,
+=αἱ φρῦναι=; hence it is properispomenon, and the like; but of those of more
+than two syllables, as many as have =σ= before the =υ= have it long: therefore
+=βριθοσῦναι= and =γηθοσῦναι=, and the like, are properispomenon; but if they
+do not have the =σ= before the =υ=, they have it shortened: =αἱ κορύναι=,
+=αἱ τορύναι=, =αἱ αἰσχύναι=, and the like are paroxytone. =5.40= Of oxytone
+words in =υς=, those declined in =δος= have the =υ= short also in the
+genitive; for this reason the =μυ= of =χλαμύδος= is short and it is
+paroxytone. =ἰσχύος=, =Ἐριννύος=, =πληθύος= are paroxytone, and the rule:
+those in =υς= having the accent on the ultima and declined with pure =ος=
+always shorten the variable vowel in the genitive, and in the other cases,
+both in monosyllables and in those of more than one syllable: =σῦς συός=,
+=οἱ σύες=; =μῦς μυός=, =οἱ μύες=; =αἱ δρύες=, =αἱ ὀσφύες=, and the like.
+
+6.τ On neuters. 1 =6.41= Disyllabic neuters in =μα= having simple =υ= in the
+penult shorten it: =χύμα=, =πλύμα=, except =κῦμα=, =θῦμα=, =φῦμα=. =6.42=
+=Γῆρας=, =οὖδας=, =οὖας=, and the like are properispomenon, and the rule:
+neuters in =ας= shorten the =α=. =6.43= Neuters in =αρ= are properispomenon:
+=ἧπαρ=, =οὖθαρ=, =εἶλαρ=, =πῖαρ=; along with these also the adverb =εἶθαρ=,
+i.e. immediately. =6.44= Disyllabic neuters in =ος= having =α= in the penult
+shorten it and are paroxytone: =χάος=, =φάος=, =νάπος=, =κράτος=, =λάχος=, and
+the like, except =πρᾶγος=; for this has the =α= long, as being from =πράσσω=.
+=6.45= All those in =ιον= are paroxytone: =παιδίον=, =θριγγίον=, =κηπίον=, and
+the like. =6.46= Those in =ον= not having pure =ι= in the penult
+
+are properispomenon: =κρῖνον=, =γρῖφον=, =ἶσον=. =6.47= Those in =ος= having
+=ι= in the penult are paroxytone: =ξίφος=, =στίφος=, except =δῖνος=, =σῖνος=,
+=πνῖγος=, =νῖκος=, =κλῖτος=, =μῖσος=, =λῖπος=, and =μῦσος= written with simple
+=υ=; but common usage makes =ῥίγος= paroxytone, even though the ancients make
+it properispomenon. =6.48= Neuters ending in =υ= shorten it, so that =πῶυ=,
+=μῶλυ=, and the like are properispomenon. =6.49= Neuters in =υλον= are
+properispomenon: =σκῦλον=, =φῦλον= the race, =σῦλον= the theft, except =ξύλον=
+and =φύλλον=. =6.50= Those in =ος= having =υ= in the penult are
+properispomenon: =μῦσος=, =κῦτος=, =σκῦτος=, =φῦκος=; but =ψύχος= and =τρύχος=
+are paroxytone. =6.51= Neuters in =αον= coming from the =αι= diphthong have
+the =α= long and are properispomenon: =τὸ κλαῖον τὸ κλᾶον=,
+=τὸ καῖον τὸ κᾶον=.
+
+7.τ On verbs. 1 =7.52= Of verbs in =ανω=, those of more than two syllables are
+shortened: =μανθάνω=, =τυγχάνω=, so that the neuters also, =τὸ μανθάνον=,
+=τὸ τυγχάνον=, and the like are paroxytone; but =ἱκᾶνον= and =κιχᾶνον=
+irregularly have the =α= long and are properispomenon; =τὸ φθάνον= and the
+remaining disyllables are paroxytone. For the rule says: if however the future
+is circumflexed, the aorist also lengthens its penult; accordingly their
+infinitives are properispomenon: =φᾶναι=, =λιπᾶναι=, and the like; along with
+these also =δρᾶναι ἀποδρᾶναι=; but =φάναι= i.e. to say is paroxytone, and
+=ἱστάναι=; for the =στα= is short, following =τιθέναι=, =διδόναι=; and indeed
+also =ζευγνύναι=, =δεικνύναι=. =7.53= =Γελάω γελάσω=, the variable vowels are
+short. Why? Whenever the present has =α=, then the future too is formed with
+short =α=: =γελάω γελάσω=, =πελάω πελάσω=; from the future, therefore, the
+aorist of such verbs is also shortened in the penult, and is paroxytone in the
+infinitives: =ἐγέλασα γελάσαι=, =ἔθλασα θλάσαι=; for the rule says: in general
+the aorist has a long penult, unless it has the short from the future. And you
+may recognize the future with a short penult from the passive perfect having
+=σ= before the last syllable: =ἡτοίμασμαι=, =οὔτασμαι=, =πέφρασμαι=,
+=γεγέλασμαι=; for the rule says: when the penult of the future is short, the
+passive perfect takes on the =σ=. =7.54= =Κρίνω κρινῶ=, the aorist =ἔκρινα=
+and the infinitive =κρῖναι=; so also =κλῖναι=, =σῖναι=; for the rule says: if
+however the future is circumflexed, the aorist also lengthens the penult.
+These are followed by =γερᾶραι= and =ἆραι=, and the like. And the imperatives
+of the first aorist also fall under the rule and are properispomenon: =κρῖνον=
+and =κλῖνον=, and =ἆρον= and such. =7.55= =φωτίσαι=, =ἁγνίσαι=, =ἁγιάσαι= are
+paroxytone, since according to the penult of the future, which is short, the
+penult of the aorist is short as well; and that the future's penult is such is
+clear from the passive perfect having =σ= before the last syllable:
+=πεφώτισμαι=, =ἥγνισμαι=, =ἡγίασμαι=. =7.56= Verbs in =ιω= of more than two
+syllables shorten the =ι=: =κυλίω=, =ἐσθίω=; =τὸ κυλίον=, =τὸ ἐσθίον=, and
+such are paroxytone; but also =κυλίσω= and =μηνίσω= have a short penult; and
+this is clear from the passive perfect taking on the =σ= according to the
+rule, so that the infinitives =κυλίσαι= and =μηνίσαι= are paroxytone. The
+disyllable =τίω= has the =ι= long, hence =τῖον= is properispomenon; and with
+it also the infinitive =τῖσαι=. =7.57= =Ὀτρύνω=, =ἀλγύνω=, and such have the
+
+variable vowel long; for their future is =ὀτρυνῶ= and =ἀλγυνῶ=. And the aorist
+therefore, having a long penult according to the rule, makes its own
+infinitive properispomenon: =ὀτρῦναι=, and such; along with these also =δῦναι=
+and =ὀξῦναι=, and =δῦνον= and =ὀξῦνον= are properispomenon. =ζευγνύναι= is
+paroxytone; for the =γνυ= is short, following, he says, =διδόναι=. =7.58=
+=Ὀρύσσω=, =ἀμύσσω= and =ὀρύξαι=, =ἀμύξαι=, and the like are paroxytone. =7.59=
+Verbs in =υω= have a long penult: =κωλύω=, =μηνύω=, =μύω=, =θύω=. The
+ancients, holding the infinitives from these long, e.g. =μηνῦσαι=, =κωλῦσαι=,
+=μῦσαι=, also make the neuters properispomenon; but the usage of the more
+recent makes all these paroxytone, except those from =θύω= and =λύω= and
+=ῥύομαι=; for those from these they make properispomenon.
+
+8.τ On variable vowels before two consonants. 1 =8.60= The variable vowels,
+when two consonants stand in front of them, have an acute in every word:
+=ἄλλος=, =ὕλλος=, =ἴλλος=, =ὕβρις=, =φύλλον=, =κάλλος=, =ἅλμα=, =τρίμμα=,
+=τὸ ἄρχον=, =τὸ τίκτον=, and the like, except =μᾶλλον=, =θᾶττον=, =ἆθλον=; for
+it is =ἄεθλον=; =ᾆσμα=, =ὗθλος=, =πῦργος=.

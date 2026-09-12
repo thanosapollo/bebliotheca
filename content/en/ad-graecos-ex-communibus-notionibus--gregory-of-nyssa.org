@@ -1,0 +1,310 @@
+#+TITLE: To the Greeks from Common Notions
+#+AUTHOR: Γρηγόριος Νύσσης hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg44-46:
+#+MIGNE_TITLE: Ad Graecos ex communibus notionibus
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ad-graecos-ex-communibus-notionibus--gregory-of-nyssa
+#+LANGUAGE: en
+
+* To the Greeks from Common Notions
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+GREGORY BISHOP OF NYSSA
+How, though saying three persons in the divinity, we do not say three gods, to
+the Greeks from the common notions
+If the name God were indicative of person, saying three persons we would of
+necessity say three gods; but if the name God is significative of essence,
+confessing one essence of the holy Trinity we reasonably dogmatize one God,
+since of one essence the one name is God. Wherefore also, consistently with
+both the essence and the name, there is one God and not three. For we do not
+say God and God and God, as we say Father and Son and Holy Spirit, since with
+the names that are significative of the persons we intertwine the conjunction
+"and" because the persons are not the same, but rather other and differing
+from one another according to the very signification of the names; but with
+the name God, which is indicative of the essence from some property belonging
+to it, we do not join the conjunction "and" so as to say God and God and God,
+since it is the same essence, of which the persons are and which the name God
+signifies; wherefore also it is the same God; and with the same, and for the
+indication of the same, the conjunction "and" is never intertwined 3,=1.20=.
+If we say Father God and Son God and Holy Spirit God, or God the Father and
+God the Son and God the Holy Spirit, we join the conjunction "and" in thought
+to the names of the persons, as for example to Father, Son, Holy Spirit, so
+that it is Father and Son and Holy Spirit, that is person and person and
+person, wherefore also three persons. But the name God is predicated
+absolutely and in the same way of each of the persons without the conjunction
+"and", so that we cannot say God and God and God, but we understand the name
+as said <second and> third in utterance because of the underlying persons, yet
+applied in the seconding and the thirding without the conjunction "and"
+because God is not other and other. For it is not inasmuch as the Father
+preserves otherness toward the Son that according to this the Father is God;
+for thus the Son would not be God; for if, because the Father is Father, for
+this reason the Father is also God, then since the Son is not Father, the Son
+is not God; but if the Son is God, it is not because he is Son. Likewise also
+the Father is not God because he is Father, but because he is such an essence,
+of which is Father and Son and through which Father is God and Son is God and
+Holy Spirit is God. And since the essence is not divided in each of the
+persons so as also to be three essences according to the persons, it is clear
+that neither will the name be divided, which signifies the essence, that is
+God, so as to be three gods. But just as the Father is essence, the Son is
+essence, the Holy Spirit is essence, and not three essences, so also the
+Father is God, the Son is God, the Holy Spirit is God, and not three gods. For
+there is one God and the same, since there is also one essence and the same,
+even if 3,=1.21= each of the persons is said both to have essence and to be
+God. For either it is necessary to say three essences of Father and Son and
+Holy Spirit, since each of the persons is essence, which is most irrational,
+since we do not even say that Peter and Paul and Barnabas are three essences;
+for of such persons the essence is one and the same; or, saying one essence,
+of which is Father and Son and Holy Spirit, although we know each of the
+persons to have essence, we justly and consistently say one God, even if we
+believe each of the persons to be God, because of the commonality of the
+essence.
+For just as, because the Father differs from both the Son and the Holy Spirit,
+we say three persons of Father and Son and Holy Spirit, so, since the Father
+does not differ from both Son and Holy Spirit according to the essence, we say
+that the essence of Father and Son and Holy Spirit is one. For if, where there
+is difference, there is a triad because of the difference, where there is
+identity, there is a monad because of the identity; and there is identity of
+the persons according to the essence; therefore there is a monad of them
+according to the essence. And if according to the essence there is a monad of
+the holy Trinity, it is clear that also according to the name God. For this is
+indicative of the essence, not presenting the what of it (clearly, since the
+what of the divine essence is unthinkable and incomprehensible), but taken
+from some property belonging 3,=1.22= to it it intimates it, just as "capable
+of neighing" and "capable of laughing," being properties of natures, when
+said, signify the natures of which they are properties. There is then a
+property of the eternal essence, of which is Father and Son and Holy Spirit,
+to oversee and contemplate and know all things, not only those that come to be
+in act, but also those taken in thought, which belongs to that essence alone,
+inasmuch as it is also cause of all things, having made all things and ruling
+over all as its own products, and administering all human affairs by some
+beneficial and ineffable reason. Taken from this, the name God, said properly,
+signifies that essence which truly rules over all as creator of all. Since
+therefore the essence, of which is Father and Son and Holy Spirit, is one, and
+the name intimating it is one (I mean, of course, God), there will be one God
+properly and consistently with the account of the essence, no account
+compelling us to say three gods, just as we do not say three essences. For if
+in the case of Peter and Paul and Barnabas we do not say three essences
+because they are of one, how much more in the case of Father and Son and Holy
+Spirit shall we justly not do this; for if the essence is not to be divided
+into three because of the persons, it is clear that neither is God, since God
+does not indicate person, but the essence. For if God indicated person, one
+and only 3,=1.23= of the persons would be called God, the one signified by
+such a name, just as also Father alone is called the Father because this name
+is indicative of person.
+But if someone should say that we call Peter and Paul and Barnabas three
+particular essences [it is clear that this is individual]; for this is more
+proper to say, let him know that when we say particular essence, that is
+individual, we wish to signify nothing other than the individual, which is
+person. Wherefore even if we should say three particular essences, that is
+individual, we say nothing other than three persons; but God does not follow
+upon persons, as has been shown. Therefore neither upon the particular, which
+is individual, essence; for individual essence said of individuals is the same
+as person. What then is to be said to this, that we call Peter and Paul and
+Barnabas three men? For if these are persons, and persons are not signified by
+the significative name of the common essence, similarly neither is the
+so-called particular or individual essence, since this is the same as person:
+for what reason do we call them three men, they being of one essence, of which
+man is indicative, if we utter this neither because of the persons nor because
+of the being called particular or individual essence? We say that we say this
+catachrestically and not properly, because of a certain custom that has
+prevailed from necessary causes, which are not observed in the case of the
+holy Trinity, so that we might do this same thing also in its case. And
+3,=1.24= these are the causes: the definition of man is not always observed in
+the same individuals or persons; for when the former die, others are
+constituted in their place, and again while the same often remain others
+besides come to be, so that the definition of the nature, that is of man, is
+observed sometimes in these, sometimes in those, and sometimes in more,
+sometimes in fewer. For this reason then, of the addition and the subtraction
+and of the dying and birth of the individuals in which the definition of man
+is observed, we are compelled to say both many men and few, the common custom
+having been driven aside by the change and alteration of the persons even
+contrary to the very account of the essence, so as to number with the persons
+in a certain way also essences. But in the case of the holy Trinity nothing of
+this sort ever happens; for the same persons and not other and other must
+always be said, remaining according to the same and in the same way, receiving
+neither any addition into a tetrad nor diminution into a dyad; (for neither is
+another person begotten or proceeds from the Father or from one of the
+persons, so that the Trinity should ever be a tetrad; nor does one of these
+three persons ever die even as in the twinkling of an eye, so that the Trinity
+should become a dyad even in thought;) and since no addition and diminution,
+change and alteration comes about in the three persons of Father and Son and
+Holy Spirit, there is nothing that knocks our mind aside toward saying,
+besides the three persons, also three gods. Again, all the persons of man
+3,=1.25= do not have their being from the same person immediately, but some
+from this one, others from that one, so that besides the caused there are also
+many and various causes. But in the case of the holy Trinity it is not so; for
+there is one person and the same, that of the Father, from whom the Son is
+begotten and the Holy Spirit proceeds. Wherefore also we properly and
+confidently say that the one cause together with his caused is one God, since
+he also coexists with them. For the persons of the divinity are divided from
+one another neither by time nor by place, not by will, not by occupation, not
+by activity, not by passion, not by any of such things as are observed in the
+case of men; except only that the Father is Father and not Son and the Son is
+Son and not Father, and likewise the Holy Spirit is neither Father nor Son.
+Wherefore no necessity knocks us aside to say that the three persons are three
+gods, as in our case we call the many persons many men because of the causes
+stated. And that it is because of the causes stated and not according to a
+necessary account that we call the many persons of man many men, would become
+clear from this: the same according to the same cannot be one and many; but
+Peter and Paul and Barnabas are confessedly according to "man" one man;
+therefore according to the same, that is according to "man," they cannot be
+many. But they are called many men, catachrestically of course and not
+properly; and what is said catachrestically is not worthy nor sufficient among
+3,=1.26= those who think well to destroy what both is and is said properly.
+Therefore one must not say, in the case of the three persons of the divine
+essence, three gods, since according to "God" there is one God and the same
+because of the identity of the essence, of which God is significative in the
+manner stated.
+But if someone should say that Scripture numbers three men, trying from a
+surplus out of our own to refute us, such a one has been shown neither a right
+nor a pious hearer of Scripture; for this one would not even have moved
+arguments against us concerning whether one must say that the three persons of
+the divine essence are three gods, perceiving especially that Scripture,
+giving Father and Son and Holy Spirit and God the Word, God not Word (that is
+God the Father), handing down God Holy Spirit as God, altogether declines to
+say three gods, considering polytheism impiety and throughout proclaiming one
+God, neither confusing the persons nor dividing the divinity, but rather
+preserving identity of divinity in the particularity of hypostases, that is of
+three persons. If then such a one were right and took account of what is just,
+perceiving these things from Scripture he would not have hastened to confirm
+his own, but would rather have inquired, asking to learn the cause why
+Scripture says three men although knowing the whole nature as one man,
+according to "Man as 3,=1.27= grass are his days," uttering the common of the
+nature in the singular; for declaring what belongs to the common of the nature
+it said it of one, because it knows the whole man as one man and not many; for
+he would have heard, asking as a lover of learning, that Scripture also, as a
+good nurse knowing men as her own infants, sometimes lisps with them, using
+certain of the names in the same way, clearly not wounding the perfect and not
+wronging those able to partake of solid food; for not defining the lisping as
+dogmas does it harm the perfect, but condescending to the infants through
+compassion and imitating their things it thus leads them up to itself,
+bringing them to the perfection of age. Yet it also defines and dogmatizes the
+perfect things according to what is fitting to itself and proper for those
+being discipled to be taught. Indeed, that in saying God has ears and eyes and
+mouth and the remaining bodily parts it does not hand down such a thing as a
+dogma, defining the divine as composite of various members, but taking such
+things by metaphor from ours in the manner stated, toward the leading-up, as I
+said, of those not able to go immediately to the incorporeal, it sets forth
+the dogmas with certain solid and most distinct expressions, saying that God
+is spirit and is present everywhere, wherever one might go, wisely educating
+these in his simplicity and uncircumscribedness 3,=1.28=. Thus also, saying
+three men because of custom, so as not to make strange what is common and in
+use among the many, it also says one because of accuracy, so as not to shake
+what is perfect and observed in the nature of things; and the one we consider
+a condescension that has come about for the useful and beneficial of the more
+infantile, and the other we define as a dogma set forth for confirmation and
+tradition of perfection.
+But some, being disputatious and aroused toward leaving nothing
+uncontroverted, in order, as I at least would say, to exercise laboriously
+both those who speak and those who hear, overlooking what has been said by us
+and taking what is not granted as if confessed, and using a paralogism, they
+construct what seems good and say that just as we say hypostasis differs in
+nothing from hypostasis inasmuch as hypostasis, that is insofar as hypostasis,
+and we do not for this reason say that all hypostases are one hypostasis; and
+again essence differs in nothing from essence inasmuch as essence, and we do
+not for this reason say that all essences are one essence, so we might say God
+differs in nothing from God inasmuch as God, and not for this reason are the
+three hypostases, of which God is predicated, one God; and again, saying man
+differs in nothing from man inasmuch as man, we do not take away that Peter
+and Paul and Barnabas are three men; for essence differs from essence not
+insofar as essence, but insofar as such-and-such an essence, and hypostasis
+from hypostasis insofar as such-and-such a hypostasis; 3,=1.29= likewise also
+man from man, inasmuch as such-and-such a man, and again God from God,
+inasmuch as such-and-such a God; and "such-and-such" or "such-and-such" is
+customarily said of two or even more. But these things, as we said, those men
+say; and we shall show that the whole is a sophism and that what has been said
+is nothing else, prevailing in no other way than by using the very things said
+and showing that one must not say such-and-such a God and such-and-such a God,
+or such-and-such a man and such-and-such; but if at all, such-and-such a
+hypostasis of God and such-and-such a hypostasis of man; for we justly say
+many hypostases of the one man and three hypostases of the one God. Now what
+is called "such-and-such" wishes to distinguish something from something
+sharing in that name to which "such-and-such" is added; for example we say
+that man is such-and-such an animal, wishing to distinguish him from the
+horse, for instance, which shares with him in the name of animal, but differs
+by the rational and the irrational. And something is distinguished from
+something either by essence or by hypostasis or by essence and hypostasis; and
+by essence man is distinguished from horse, and by hypostasis Paul from Peter,
+and by essence and hypostasis this hypostasis of man from this hypostasis of
+horse. But when the account of those differing simply according to essence and
+of those differing according to hypostasis and not according to essence has
+been made clear, the account also concerning those distinguished according to
+essence and hypostasis together will be evident. Let the account then be
+examined by us concerning these; for that those differing according to essence
+are called two or three essences, and those differing according to hypostasis
+are likewise called two and three hypostases, 3,=1.30= both they themselves
+and we confess; but we differ, in that in the case of Peter and Paul they say
+one must say <two> men, but we, not properly however and according to the
+scientific account; for we have now not even one account concerning common and
+catachrestic usage; for this has force neither toward the taking away of
+something nor toward the establishing. Let it therefore first be made clear to
+us why we say that man and horse, or horse and dog, differ inasmuch as
+such-and-such essences. Or is it evident that it is because they differ from
+one another according to the things accustomed to characterize essences, as
+for example by rational and irrational, capable of neighing, capable of
+barking, and if there is anything of this sort. For in saying such-and-such an
+essence we say nothing other than an existence sharing in life, in
+contradistinction to that which is not such, an existence naturally able to
+reason, toward distinction from one differing by irrationality, an existence
+having the capacity to neigh as characterizing, and if there is anything of
+this sort. For in place of such differences and properties, "such-and-such"
+and "of such a kind" is added to the essence or also to every genus toward
+distinction of the species under it, as for example such-and-such an essence
+instead of sensitive or insensitive, such-and-such an animal instead of
+rational or irrational. And again we say: Paul differs from Peter, inasmuch as
+there is such-and-such a hypostasis of each of them, since they differ from
+one another according to some of the things naturally able to constitute
+hypostasis and not essence, as for example by baldness, tallness, fatherhood,
+sonship, and if there is anything 3,=1.31= of this sort; for it is evident
+that species and individual are not the same, that is essence and hypostasis;
+for when someone says individual, that is hypostasis, he immediately sends the
+mind of the hearer to seek curly-haired, grey-eyed, son, father, and if
+anything similar; but when he says species, that is essence, toward knowing of
+course rational animal, mortal, receptive of intellect and knowledge,
+irrational animal, mortal, capable of neighing, and such things. And if
+essence and individual, which is hypostasis, are not the same, neither are the
+things characterizing this and that the same. And if these also are not the
+same, they cannot be joined to the same names; but some to those laid down
+according to essences or of essences, and others to those said according to
+individual. There are then three names concerning which the inquiry is:
+essence, individual, man. And to essence we join "such-and-such" toward
+distinction, as I said, of the species under it that differ from one another
+according to essence; and to hypostasis again likewise we yoke "such-and-such"
+toward division of persons that share with one another in this name, that is
+of hypostasis, and differ from one another not by the things that characterize
+essence, but by the so-called accidents. In what manner then do they wish to
+join "such-and-such" to the name man? (for from the things commonly confessed
+the disputed receive their solution.) As to the essence? Then the things under
+it will be distinguished from one another by essential difference? Which is
+not so; for Paul differs in nothing according to essence from Peter, of whom
+man is predicated. But as to the hypostasis? Then man is indicative of person
+3,=1.32= and not of essence, which is absurd to say; for man signifies the
+common of the essence and not an individual person, of Paul, for instance, or
+of Barnabas. Therefore in no way is "such-and-such" joined to man, at least
+according to the scientific account. But if common usage is at a loss for this
+and makes catachrestic use of the names of the essence for indication of
+person, this is nothing toward the accurate canon of logical science. But why
+do I run down the customary catachresis, being at a loss in such things, not
+noticing that even those scientific of accounts, often not having plenty of
+fitting words to phrase what is thought, themselves also use other
+catachrestic names toward presentation of what is said? Only let this be clear
+to us, that if we said in the case of Peter and Paul that man differs in
+nothing from man inasmuch as man, but inasmuch as such-and-such a man, and
+essence differs in nothing from essence inasmuch as essence, but inasmuch as
+such-and-such an essence, we would have been able to say this of them. But if
+it is not possible to say this, since the essence of Peter and Paul is one and
+the same, then neither that, since the name man is indicative of essence; and
+if it is not consistent to join "such-and-such" and "such-and-such" to the
+name man, then neither do we properly say two or three men. And if these
+things have been shown in the case of man, how much more in the case of the
+eternal and divine essence will it more properly fit that each of the
+hypostases not be called such-and-such a God and such-and-such, nor that the
+Father and the Son and the Holy Spirit be uttered as God and God and God, nor
+that three gods be dogmatized, even in thought. 3,=1.33= It has therefore been
+established by the account from us that is both just and consistent and most
+scientific, that we say one God, the creator of all, even if he is observed in
+three persons or hypostases of Father and Son and Holy Spirit.

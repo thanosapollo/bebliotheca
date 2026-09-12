@@ -1,0 +1,282 @@
+#+TITLE: On Poetic Tropes
+#+AUTHOR: Γεώργιος Χοιροβοσκός hermes:grok-4.6
+#+FILETAGS: :byzantine:9c-ad:pg86:
+#+MIGNE_TITLE: Peri tropwn poihtikwn
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/peri-tropwn-poihtikwn--george-choeroboscus
+#+LANGUAGE: en
+
+* On Poetic Tropes
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+OF GEORGE CHOEROBOSCUS, ON POETIC TROPES.
+
+There are twenty-seven poetic tropes of all old and new writing: allegory,
+metaphor, catachresis, metalepsis, hyperbaton, anastrophe, synecdoche,
+syllepsis, onomatopoeia, the coined, antonomasia, metonymy, antiphrasis,
+periphrasis, ellipsis, pleonasm, epanalepsis, preeminence, hyperbole, enigma,
+parable, antapodosis, personification, example, irony, schema and
+hysterologia. And they are called poetic tropes because they abound among the
+poets, going beyond common usage. {1αʹ. ALLEGORY.}1 Allegory is an expression
+saying one thing and presenting another meaning, as the saying in the divine
+Scripture, in which God says to the serpent, "Cursed are you from all the
+cattle"; for the speech is toward the serpent, but we take it analogously of
+the devil, that is, allegorically. And this is employed both for dignity and
+for reverence: for dignity, as in the matters concerning Hera, in which Zeus
+says to her, Do you not remember when you hung from on high; and from your two
+feet I let down two anvils; and about your hands I cast a golden bond? 245
+whose meaning is this, at the limit of the air both earth and water are
+joined, which he also calls anvils as heavier than the other elements, and a
+golden bond the brightness poured about the air from the solar light, with
+which the air is united. And for reverence, as "he loosed her maiden girdle,"
+instead of he corrupted her; as also in Callimachus, "and you kindled the
+fire, until it has gone forth with much flame," and again "hold back the
+raving horses from the course, lest you turn a second time, lest they smash
+the chariot at the turning-post, and you tumble headlong." These things have
+not been said in the proper sense; for his speech is neither about fire nor
+about horse-racing, but as if ashamed to say what he wished, he used allegory.
+{1βʹ. METAPHOR.}1 Metaphor is an expression transferred from one thing to
+another, or transferred from what is said in the proper sense for the sake of
+likeness or of emphasis, and it has four kinds. For it is either carried over
+from animate things to animate, or from inanimate to inanimate, or from
+inanimate to animate, or from animate to inanimate. And from animate to
+animate, as when someone calls the king a shepherd of peoples; for
+shepherding, being of animate things, has again been transferred to animate
+things, since just as the flocks are subject to the shepherds, so also those
+under the hand to the kings; for a shepherd in the proper sense is called the
+herder of sheep; both then are animate, both the king and the herder of sheep.
+And from inanimate to inanimate, as when someone, having hidden a coal of fire
+in ash, says he has preserved a seed of fire. For seed, said in the proper
+sense of the fruits that are sown, has now been taken of the heap of coals; or
+if he should say much flame has been poured upon the wood; for pouring belongs
+to 246 liquids. And from inanimate to animate, as when Odysseus says to
+Ajax, for such a tower has perished for them; for the tower, being inanimate,
+has been said of Ajax, who is animate. And "the sea saw and fled"; for seeing
+is said in the proper sense of animate things, but the sea is inanimate. And
+from animate to inanimate, as when someone calls the ridge of the mountain a
+peak or a head; for peak and head are said of animate things. And again,
+"and the spear-point darted through, raging." And again, and many in the space
+between, before they tasted fair flesh, stood in the earth, longing to glut
+themselves with flesh; for raging and longing and to glut, being animate, have
+been said of inanimate spears. Likewise also "on the peaks of a mountain," and
+"the feet of many-fountained Ida," when one ought to have said ridge and
+foothill to say. And there is also a fifth kind of metaphor, as from action
+to action, for example already perhaps that man was weaving a device in his
+heart. For weaving, said of woven fabrics, has now been transferred to the
+fashioning of counsel. {1γʹ. CATACHRESIS.}1 Catachresis is a phrase
+transferred from what was first named in the proper and etymological sense to
+the unnamed, as when we call a flat surface of bronze a pyxis; for a pyxis is
+called that which has been made from boxwood, but since those constructed from
+any other material whatsoever are unnamed, we call these too pyxides, using
+the name by catachresis. And a man-slayer in the proper sense is one who has
+slain a man, but by catachresis it is said also of a woman. And a trierarch in
+the proper sense is the commander of a trireme, 247 but by catachresis also
+that of a bireme and of a pentereme. Of this sort also is "he poured nectar as
+wine"; for pouring wine, said in the proper sense of wine, has now been said
+of nectar. Likewise also the neck of a jar and the knee of a reed and the
+belly of a ship and the tongue of a shoe and such things. And to calculate in
+the proper sense is to measure with pebbles, but by catachresis also with the
+fingers. For these things, said of those properly named, are said by
+catachresis also of the unnamed. And catachresis differs from metaphor, in
+that metaphor is said from a named thing to a named thing again, but
+catachresis from a named thing to what is wholly unnamed, as when someone
+should call one catching fish in a lake or in rivers a sea-fisher; for in the
+proper sense a sea-fisher is said of the one upon the sea, but since the one
+catching in the rivers is unnamed, we call this one too a sea-fisher, using
+the name by catachresis. {1Δʹ. METALEPSIS.}1 Metalepsis is a phrase taking
+over the homonymy from what is so in the proper sense, or making clear the
+homonym through the synonymy, as when someone should call one running swiftly
+sharp at the course, or should call the quickly-affecting humor a sharp
+humor; for sharp in the proper sense is said of the whetted sword, whence also
+"he sharpened" is employed of a knife or of some other sword. Or as in Homer,
+and from there again I sent it forth among the swift islands. For with the
+swift, the sharp is synonymous according to motion, and the sharp is
+homonymous according to shape. Of this sort also is, And Teucer using
+spareness of bows; that is, accuracy and good aim; for with spareness the
+accuracy according to giving is also synonymous, and with it the accuracy
+according to art is homonymous, that is, good aim. 248 {1εʹ. HYPERBATON.}1
+Hyperbaton is an expression going over from what precedes to what follows
+itself, as when someone, instead of saying I call upon the Lord, should say
+upon the Lord I am called. {1 ʹ. ANASTROPHE.}1 Anastrophe is an expression
+turning back from the subject to what lies before, with no part of speech
+falling between, as when someone, instead of saying until coming to us, should
+say us until coming.
+{1ζʹ. SYNECDOCHE.}1 Synecdoche is an expression making clear together through
+one thing another thought as well, as when, peace existing, instead of saying
+there is no war one should say, there are no arms now, or arms are idle now.
+Or synecdoche is an expression or phrase not uttered according to the full
+sense, but needing some thought from outside, and it has four differences: for
+either from the whole it makes clear the part, as dried oxen instead of
+shields from ox-hides, and hide is a part of the whole; and a bronze spear;
+for bronze is a part of the whole spear. Or from the part the all, as the
+white-armed goddess Hera; for it hints from the part of the hands that she is
+white as a whole. And silver-footed Thetis. Or from the material the result,
+as and he himself put on gold about his flesh; instead of a golden panoply. Or
+from the symbol the proper thing, as he gave you a scepter to be honored above
+all. Instead of kingship, of which the scepter is a symbol.
+{1ηʹ. SYLLEPSIS.}1 Syllepsis is a phrase taken from some one proper thing
+according to 249 two or even more; or a phrase drawing what was done by
+one upon another, as Boreas and Zephyrus, who blow from Thrace; for Boreas
+alone blows from Thrace, but he says sylleptically that Zephyrus also blows
+from there; and again and the two went limping, attendants of Ares, the
+war-abiding son of Tydeus and godlike Odysseus; for Diomedes alone was
+limping, having been wounded in the flat of the foot, but Odysseus had been
+struck in the side. And he says sylleptically that this one too is limping.
+{1θʹ. ONOMATOPOEIA.}1 Onomatopoeia is an expression that has come about
+according to imitation and a certain likeness of what is signified, as when
+someone names the indistinct noises voices, which are of fire, of wood, of
+stone and of the like; and as the divine Scripture says, "the clouds gave a
+voice," making clear the thunder, naming this a voice on account of the
+ringing about us from above. And a voice in the proper sense is said to be
+that which proceeds from mind, since voice is also etymologized as light of
+mind. Or onomatopoeia is an expression or part of speech coined according to
+imitation of the sounds produced or of a voice; of sounds, as the
+flashing-eyed helmet hummed as it fell to the ground. And again so his eye
+sizzled about the olive-wood stake. And of voice these, and they all held up
+their hands to Athena with a cry of ololuge; and again and I heard the lowing
+of cattle stalled in the courtyard. {1ιʹ. THE COINED.}1 The coined is an
+expression said according to a certain likeness of that from which it is said,
+as when we should say of one who has looked askance at us with 250 anger,
+so-and-so looked askance at us as a lion. {1ιαʹ. ANTONOMASIA.}1 Antonomasia is
+an expression making clear the proper name itself through epithets or tokens,
+as when of two or even more men known to us and having the same proper name,
+we should wish to make mention of one of them to one another, and we should
+not say the proper name because of the homonymy, but should name him from his
+accidents, saying perhaps the bronze-worker or the carpenter, and if he also
+has bodily afflictions, saying the lame, it may be, or the bald.
+{1ιβʹ. METONYMY.}1 Metonymy is when from the containing things we rename the
+contained, according to the divine Scripture, which says, "Be instructed, all
+you who judge the earth," instead of those in the earth; or from the
+inhabitants the inhabited places, as when we should call wantonness a Sodomite
+work; for from the wanton inhabitants at that time Sodom has the reproach
+brought upon it; or metonymy is an expression making clear the synonym through
+the homonymy, as for having pierced the inwards they held them over
+Hephaestus; for Hephaestus among the Greeks is both the daimon and the fire,
+which, inasmuch as they seem to have a certain dim difference, are homonyms;
+for they call the daimon more immaterial and more divine, but inasmuch as this
+mythical Hephaestus is in the proper sense nothing else than the fire, they
+are called synonyms. Of this sort also is then mighty Ares, sent forth, 251
+here; instead of the iron. And when the wine is called Dionysus, as wine
+persuaded me, highest of daimons. {1ιγʹ. ANTIPHRASIS.}1 Antiphrasis is an
+expression signifying the contrary through contraries, as when someone should
+call the blind much-seeing, or vinegar a little sweet, or he is white as an
+Ethiopian. {1ιδʹ. PERIPHRASIS.}1 Periphrasis is a superfluous phrase
+signifying one thing through more words, as when instead of saying by God
+someone should say by the fearful day of God. For he signified nothing more
+through these many words except God. And phrase, periphrasis, metaphrasis,
+ecphrasis, antiphrasis and symphrasis differ. For phrase is simply called the
+expression, but periphrasis the superfluous phrase, as call for me the might
+of Heracles, instead of Heracles, and metaphrasis the change of the words
+according to quantity, either of more or of fewer, taking place with
+rhetorical beauty, as the Metaphrast shows us in the metaphrases; and
+paraphrase the change of the words according to the quantity of the same, as
+sing, goddess, the wrath, paraphrasing he said, tell the anger, O Muse. And
+ecphrasis is the detailed narration, which vividly and almost bringing before
+our sight what is narrated, how it has of arrangement and of beauty, as the
+ecphrasis of the shrine of Alexandria or of certain other cities. And
+antiphrasis that signifying the contrary through contrary words, as a silver
+Ethiopian. And symphrasis the following-along of the speech or a composition
+of words, as nobilissimus supremus. 252 {1ιεʹ. ELLIPSIS.}1 Ellipsis is a
+speech not uttered according to the full sense, but granting us to understand
+what follows, as when someone mourning and lamenting should say, I beat my
+breast with both, namely hands, or as in the poet "striking with both," that
+is, hands. {1ι ʹ. PLEONASM.}1 Pleonasm is when an expression abounds
+signifying nothing more, except the same, as is opposite contrary, and before
+over-against. {1ιζʹ. EPANALEPSIS.}1 Epanalepsis is an expression taken twice
+for the sake of intensification, that is, of increase, as when someone,
+confirming to us the knowledge of a known matter, should say, I know the
+matter, I know, saying I know twice; or should say it is an evil to sin, an
+evil. {1ιηʹ. PREEMINENCE.}1 Preeminence is that which, after the common
+signification, is assigned particularly by way of superiority to the one who
+owes it, as what was said in the Gospel by the Lord, "Tell my disciples and
+Peter." For the name of Peter has been taken here by way of preeminence, since
+he was also included through Tell my disciples; for he too is one of the
+disciples. {1ιθʹ. HYPERBOLE.}1 Hyperbole is a phrase going beyond the truth
+for the sake of increase, as when someone should say of one running swiftly,
+that he runs as the wind; or hyperbole is a speech raising itself above the
+truth for the sake of emphasis or of likeness. Of emphasis, as they ran upon
+the fruit of the ears of corn and did not break them; 253 and "brighter than
+the gleam of fire," and "whiter than snow"; for they make clear the being very
+much aloft in running and the being altogether luminous and the being very
+white. And of likeness, as "like to the winds in running," and he was
+adamantine as to the body, a phoenix as to the straightness of the body, and
+if anything similar. {1κʹ. ENIGMA.}1 An enigma is a speech having in itself
+the thought dark and veiled, as the question put by Samson to the foreigners,
+in which he says, out of the eater came forth food, signifying the lion which
+he killed, and what was found in its mouth from a honeycomb of bees; and as
+that which says, not to step over a yoke, instead of just, and not to keep
+hook-clawed ones, that is, to flee robbers; not to eat the black-tail, that
+is, not to send forth a lie; for this is later darkened; not to stir the fire
+with a sword, instead of not to provoke one who is angry. And it is also
+called an enigma even from the contrary, as a man and not a man, as the eunuch
+because of not being able to beget one like himself, and a bird and not a
+bird, the bat because of being leather-winged and toothed; sitting and not
+sitting; for she was on her back; a stone and not a stone, the pumice clearly,
+because of floating upon the water; he threw and did not throw, because of
+throwing indeed, but missing. And it also comes about according to accident,
+as there are two sisters, of whom the one bears the other, and this one who
+bore her is in turn born of her; and day and night are so called. And the
+enigma differs from allegory, in that that is taken for the sake of
+exhortation or dissuasion or dignity or reverence, but this for the sake of
+unclarity alone, and in that that is much clearer than this. 254
+{1καʹ. PARABLE.}1 A parable is a phrase bringing the thought before the sight
+through like and known things, as is the Lord's parable concerning the
+prodigal, in which he shows the loving-kindness of God and the goodness of his
+own father, and how he receives those who repent. {1κβʹ. ANTAPODOSIS.}1
+Antapodosis is a further teaching of the matters laid down in the parable, as
+that we should say, in the manner of speech which the father of the prodigal
+used, in such a manner God also is fitted to men, and we should show,
+comparing the matters of the parable, the likeness. {1κγʹ. PERSONIFICATION.}1
+Personification is, as when someone attaches to inanimate things persons and
+at times also fitting words, as "the birds recount the glory of God."
+{1κδʹ. EXAMPLE.}1 An example is a speech having toward some other thing the
+force of a comparative showing, as what was said to Solomon, "Imitate the ant,
+O sluggard, and emulate his ways," exhorting us to emulate his laboriousness,
+not his nature. {1κεʹ. IRONY.}1 Irony is a diminutive speech making clear the
+contrary through the contrary. And of irony there are four kinds, mockery,
+sneering, sarcasm, urbanity. Mockery is a speech coming forth with a smile, as
+when someone, laughing, should call the one who has thrown away his shield a
+brave warrior. And sneering is a tearing-down speech taking place with a
+snorting of the nostrils, as when, reproaching one caught in an evil, we
+should say, bringing forth breath through the nostrils, you have done a fine
+255 work, O companion, and a necessary one and of a prudent man. And sarcasm
+is a speech bringing forth the truth through kind words, as when, jeering at
+one who has fallen into evils in a presumption of honor and is for this
+dishonored, we should say, you have brought yourself into great glory and
+honor, O companion. And urbanity is a speech tearing down from itself, as when
+we should say to one who understands nothing, you, O companion, are the glory
+of words. {1κ ʹ. SCHEMA.}1 Schema is a solecism having an apology, as that we
+should say, the lord John, whom God will have mercy on, is a good man.
+{1κζʹ. HYSTEROLOGIA.}1 Hysterologia is a first speech said later and for this
+reason named prothysteron, as when we should say, so-and-so was well perfected
+and lived well, instead of saying he lived well and was well perfected; for
+first one lives and later is perfected. {1[FILLING-OUT.}1 A filling-out is an
+expression taken from what is superfluous for the sake of ornament or of
+meter. Of ornament, as "and someone would speak thus"; for the "ke" is
+superfluous, and without it the meter is also preserved; and of meter, as and
+the leaders of the ships I will tell, and all the ships beforehand. For here
+the preposition pro was becoming necessary because of the meter. And again
+Pandarus, to whom Apollo himself also gave the bow. The conjunction "and" here
+too having been taken because of the meter. These conjunctions, though
+superfluous here too, were nevertheless taken in order that the meter be
+preserved. 256 {1WITTICISM.}1 What is a witticism? An urbane speech, in which
+both the speaker and the hearer are cheered. {1EPEXEGESIS.}1 Epexegesis is a
+clarification of an unclear expression or speech; of an expression, as take an
+akinakes, which is a Persian sword; of a speech, as the house is not firmly
+made one's own; I mean, that those remaining in this quickly pass on.
+{1APO KOINOU.}1 Apo koinou is an expression said once, and taken from outside,
+as going he asked the men, and especially Charidemus and Hipparchus; and Homer
+he was begging all the Achaeans, and the sons of Atreus especially. For apo
+koinou, upon those the "he asked," and upon this the "he was begging."
+{1HETEROGENES.}1 Heterogenes is a shift from gender to gender toward what is
+thought, as the things about the sea are fearful, being deserts; and the
+Theologian, "and putting in from himself a breath, which the Word knows as a
+noetic soul." {1HETEROPROSOPON.}1 Heteroprosopon is when we put forward
+another person saying what we were about to say, as all the Egyptians cry out
+our injustice; or when we ourselves speak, but address ourselves to another
+and not to the one who did the wrong, as and I, knowing someone harming his
+neighbor, said to him, that you wrong your neighbor.]

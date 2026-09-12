@@ -1,0 +1,243 @@
+#+TITLE: Notitiae episcopatuum
+#+AUTHOR: Ἐπιφάνιος Σαλαμῖνος hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg41-43:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/notitiae-episcopatuum--epiphanius-of-salamis
+#+LANGUAGE: en
+
+* Notitiae episcopatuum
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+Exposition of the first ranks of the patriarchs and of the metropolitans, by
+Epiphanius, archbishop of Cyprus.
+The patriarch of Rome
+the patriarch of Constantinople
+the patriarch of Alexandria
+the patriarch of Antioch
+the patriarch of Jerusalem
+
+Rank of the metropolitans
+1. Of the province of Cappadocia, he of Caesarea
+2. Of the province of Asia, he of Ephesus
+3. Of the province of Europe, he of Heraclea
+4. Of the province of Galatia, he of Ancyra
+5. Of the province of Hellespont, he of Cyzicus
+6. Of the province of Lydia, he of Sardis
+7. Of the province of Bithynia, he of Nicomedia
+8. Of the province of the same, he of Nicaea
+9. Of the province of the same, he of Chalcedon
+10. Of the province of Pamphylia, he of Side
+11. Of the province of Armenia II, he of Sebasteia
+12. Of the province of Helenopontus, he of Amaseia
+13. Of the province of Armenia I, he of Melitene
+14. Of the province of Cappadocia II, he of Tyana
+15. Of the province of Paphlagonia, he of Gangra
+16. Of the province of Honorias, he of Claudiopolis
+17. Of the province of Pontus, he of Neocaesarea
+18. Of the province of Galatia II, he of Pessinus
+19. Of the province of Lycia, he of Myra
+20. Of the province of Caria, he of Stauropolis
+21. Of the province of Phrygia, he of Laodicea
+22. Of the province of Phrygia Salutaris, he of Synnada
+23. Of the province of Lycaonia, he of Iconium
+24. Of the province of Pisidia, he of Antioch
+25. Of the province of Pamphylia, he of Perge
+26. Of the province of Cappadocia II, he of Mokissos
+27. Of the province of Lazica, he of Phasis
+28. Of the province of Thrace, he of Philippopolis
+29. Of the province of Europe, he of Trajanopolis
+30. Of the province of the Cyclades islands, he of Rhodes
+31. Of the province of Haemimontus, he of Hadrianopolis
+32. Of the province of the same, he of Marcianopolis
+33. Of the province of Phrygia Capatiana, he of Hierapolis
+
+Concerning the autocephalous archbishops
+
+1. Of the province of Moesia, he of Odessus
+2. Of the province of Scythia, he of Tomis
+3. Of the province of Europe, he of Bizye
+4. Of the province of Paphlagonia, he of Pompeiopolis
+5. Of the province of Asia, he of Smyrna. Of the province of Isauria, he of
+Leontopolis
+7. Of the province of Rhodope, he of Maroneia
+8. Of the province of Bithynia, he of Apamea
+9. Of the province of Rhodope, he of Maximianopolis
+10. Of the province of Galatia II, he of Germia
+11. Of the province of Europe, he of Arcadiopolis
+12. Of the province of Thrace, he of Berone
+13. Of the province of the island of Lesbos, he of Mitylene
+14. Of the province of Hellespont, he of Parium
+15. Of the province of Caria, he of Miletus
+16. Of the province of Thrace, he of Nicopolis
+17. Of the province of the Island, he of Proconnesus
+18. Of the province of Rhodope, he of Anchialos
+19. Of the province of Europe, he of Selymbria
+20. Of the province of the island of Lesbos, he of Methymna
+21. Of the province of Bithynia, he of Cius
+22. Of the province of Europe, he of Apros
+23. Of the province of Rhodope, he of Cypsela
+24. Of the province of Zichia, he of Cherson
+25. Of the province of the same, he of Bosporus
+20. Of the province of the same, he of Nicopsis
+27. Of the province of Isauria, he of Cotrada
+28. Of the province of Helenopontus, he of Euchaita
+29. Of the province of the Cyclades islands, he of Carpathos
+30. Of the province of Rhodope, he of Aenus
+31. Of the province of Europe, he of Drizipara
+32. Of the province of Haemimontus, he of Mesembria
+33. Of the province of Armenia II, he of Heracleopolis
+34. Of the province of Abasgia, he of Sebastopolis
+
+Concerning the bishops under them
+Province of Cappadocia
+The metropolis of Caesarea has under it cities, that is bishoprics, 5, namely
+that of Basilika Therma, that of Nyssa, that of Theodosiopolis of Armenia,
+that of Camuliana, that of Ciscissus
+Province of Asia, the metropolis of Ephesus has under it cities, that is
+bishoprics, 30, namely that of Hypaepa, that of Tralles, that of Magnesia on
+the Maeander, that of Elaea, that of Adramyttium, that of Assos, that of
+Gargara, that of Mastaura, that of Caloe, that of Briula, that of Pitane, that
+of Myrina, that of Phocaea, that of Aureliopolis, that of Nyssa, that of the
+Maschacomeans, that of the people of Metropolis, that of Bareta, that of
+Magnesia and Anelius, that of Anineta, that of Pergamum, that of Priene, that
+of Arcadiopolis, that of Anea Aule, that of Dios Hieron, that of Augaza, that
+of Sion, that of Colophon, that of Lebedus, that of Teos, that of Erythrae,
+that of the Clazomenians, that of Antandrus, that of Theodosiopolis of
+Perperene, that of Cyme, that of Palaeopolis
+Province of Europe of Thrace:
+The metropolis of Heraclea has under it cities, that is bishoprics, 5, namely
+that of Panium, that of Callipolis, that of Chersonesus, that of Cyla, that of
+Rhaedestus
+Province of Galatia [Thrace]: the metropolis of Ancyra has under it cities,
+that is bishoprics, 7, namely that of Tavium, that of Heliopolis, that of
+Aspona, that of Verinopolis, that of Mnizus, that of Cina, that of
+Anastasiopolis
+Province of Hellespont: the metropolis of Cyzicus has under it cities, that is
+bishoprics, 12, namely that of Germa, that of Poemanenum, that of Oce, that of
+Sasabaris, that of Hadrianutherae, that of Lampsacus, that of Abydos, that of
+Dardanus, that of Ilium, that of Troas, that of Pionia, that of Melitopolis
+Province of Lydia: the metropolis of Sardis has under it cities, that is
+bishoprics, 20, namely that of Philadelphia, that of Tripolis, that of
+Thyatira, that of Saittae, that of Aureliopolis, that of Tripolis, that of
+Gordus, that of Tralles, that of Sala, that of Silandus, that of Maeonia, that
+of Apollonos Hieron, that of Hyrcanis, that of Mostene, that of Acrasus, that
+of Apollonia, that of Attalia, that of Bagis, that of Blandus, that of
+Mesotymolus, that of Hierocaesarea, that of Daldis, that of Cerasae, that of
+Stratonicea, that of Gabala, that of Satala, that of Hermocapelia
+Province of Bithynia: the metropolis of Nicomedia has under it cities, that is
+bishoprics, 8, namely that of Prusa, that is Theopolis, that of Basilinopolis,
+that of Praenetus, that of Apollonia, that of Dascylion, that of Gallus, that
+of Neocaesarea, that of Kolasia, that is Lophoi
+Province of the same: the metropolis of Nicaea has under it cities, that is
+bishoprics, three, namely that of Modrene, that is Melitus, that of Linoe,
+that of Gordoserba
+Province of the same: the metropolis of Chalcedon.
+Province of Pamphylia: the metropolis of Side has under it cities, that is
+bishoprics, 10, namely that of Selge, that of Aspendus, that of Etenna, that
+of Orymna, that of Casae, that of Semnea, that of Carallia, that of
+Coracesium, that of Syedra, that of Mylome, that is Justinianopolis, that of
+Oumandra, that of Dalisandus, that of Isba, that of Lyrbe, that of
+Colybrassus, that of Manauga
+Province of Armenia II: the metropolis of Sebasteia has under it cities, that
+is bishoprics, 5, namely that of Sebastopolis, that of Nicopolis, that of
+Satala, that of Colonia, that of Berissa
+Province of Helenopontus: the metropolis of Amaseia has under it cities, that
+is bishoprics, namely that of Amisus, that of Sinope, that of Ibora, that of
+Andrapa, that of Zalichus, that is Leontopolis, that of Zela
+Province of Armenia: the metropolis of Melitene has under it cities, that is
+bishoprics, 5, namely that of Arca, that of Cucusus, that of Arabissus, that
+of Ariaratheia, that of Comana
+Province of Cappadocia II: the metropolis of Tyana has under it cities, that
+is bishoprics, 3, namely that of Cybistra, that of Faustinopolis, that of
+Sasima
+Province of Paphlagonia: the metropolis of Gangra has under it cities, that is
+bishoprics, 4, namely that of Amastris, that of Ionopolis, that of Dadibra,
+that of Sora
+Province of Honorias: the metropolis of Claudiopolis has under it cities, that
+is bishoprics, 5, namely that of Heraclea of Pontus, that of Prusias, that of
+Tium, that of Crateia, that of Hadrianopolis
+Province of Pontus Polemoniacus: the metropolis of Neocaesarea has under it
+cities, that is bishoprics, 4, namely that of Trapezus, that of Cerasus, that
+of Polemonium, that of Comana
+Province of Galatia II: the metropolis of Pessinus has under it cities, that
+is bishoprics, 7, namely that of Amorium, that of Claneos, that of Eudoxias,
+that of Pitanissus, that of Troknada, that of Germocoloneia, that of Palia
+Province of Lycia: the metropolis of Myra has under it cities, that is
+bishoprics, 30, namely that of Mastaura, that of Telmessus, that of Limyra,
+that of Araxas, that of Aprillae, that of Podalia, that of Orycanda, that of
+Tatloi, that of Arneae, that of Sidyma, that of Zenonopolis, that of Olympus,
+that of Tlos, that of Corydalla, that of Canus, that of Acrassus, that of
+Xanthus, that of Bubon, that is Sophianopolis, that of Marciane, that of
+Oenoanda, that of Choma, that of Phellus, that of Antiphellus, that of
+Phaselis, that of Rhodiapolis, that of Acalissus, that of Lebessus, that of
+Candyra, that of the Palaeotae, that of Eudocias, that is Justinopolis, that
+of Comba, that of Patara, that of Balbura, that of Nisa, that of Cyaneae, that
+of the Melonitae
+Province of Caria: the metropolis of Stauropolis has under it cities, that is
+bishoprics, 28, namely that of Cibyra, that of Siza, that of Heraclea Salbace,
+that of Apollonia, that of Heraclea of Lacymus, that of Tabae, that of Larba,
+that of Antioch on the Maeander, that of Tapassos, that of Harpasa, that of
+Neapolis, that of Orthosia, that of Anotetarte, that of Labanda, that of
+Stratonicea, that of Alcanda, that of Mylasa, that of Meizon, that of Iasus,
+that of Bargylia, that of Halicarnassus, that of Hylarima, that of Cnidus,
+that of Metaba, that of Myndus, that of Hieron, that of Cindramos, that of
+Ceramus
+Province of Phrygia Capatiana: the metropolis of Laodicea has under it cities,
+that is bishoprics, 17, namely that of Tiberiopolis, that of Aezani, that of
+Ancyra of Synaus, that of Peltae, that of Appia, that of Cadi, that of Icria,
+that of Eluza, that of Trajanopolis, that of Sebaste, that of Eumeneia, that
+of Temenothyrae, that of the Agathocomeans, that of Alia, that of Tripolis,
+that of Attanassus, that of Siblia
+Province of Phrygia Salutaris: the metropolis of Synnada has under it cities,
+that is bishoprics, 24, namely that of Cotyaeum, that of Dorylaeum, that of
+Nacoleia, that of Docimium, that of Midaium, that of Ipsus, that of
+Promnessus, that of Meros, that of Sibindos, that of Polybotus, that of
+Phyteia, that of Hierapolis, that of Eucarpia, that of Lysias, that of
+Augustopolis, that of Brouzos, that of Otrous, that of Lycaones, that of
+Stectorium, that of Cinnaborion, that of Cone of Demetropolis, that of
+Scordaspia, that of Nicopolis, that of Aurokla
+Province of Lycaonia: the metropolis of Iconium has under it cities, that is
+bishoprics, 14, namely that of Lystra, that of Vasada, that of Amblada, that
+of Umanada, that of Misthia, that of Laranda, that of Bareta, that of Derbe,
+that of Sanatra, that of Canus, that of Verinopolis of the Opsiciani, that of
+Galbanus, that of Lystra, that of Perta
+Province of Pisidia: the metropolis of Antioch has under it cities, that is
+bishoprics, 18, namely that of Philomelium, that of Sagalassus, that of
+Sozopolis, that of Apamea of Cenoos, that of Rhaios, that of Baris, that of
+Hadrianopolis, that of Limenae, that of Neapolis, that of Laodicea Combusta,
+that of Seleucia, that of Sidera, that of Adada, that of Zozila, that of
+Timbrias, that of Tymandus, that of Justinianopolis, that of Metropolis, that
+of Pappa
+Province of Pamphylia: the metropolis of Perge has under it cities, that is
+bishoprics, 18, namely that of Attalia, that of Eudoxias, that of Telmessus,
+that of Sindus, that of Maximianopolis, that of Lagina, that of Palaeopolis,
+that of Cremna, that of Codrula, that of Peltinessus, that of Ariassus, that
+of Pogla, that of Hadriane, that of Dicetanaura, that of Sandida, that of
+Baris, that of Sillyum, that of Perbaina
+Province of Cappadocia: the metropolis of Mokissos has under it cities, that
+is bishoprics, 4, namely that of Nazianzus, that of Colonia, that of
+Parnassus, that of Doara
+Province of Lazica: the metropolis of Phasis has under it cities, that is
+bishoprics, 4, namely that of Rhodopolis, that of the Saesini, that of Petra,
+that of the Ziganeis
+Province of Thrace: the metropolis of Philippopolis has under it cities, that
+is bishoprics, 3, namely that of Diocletianopolis, that of Sebastopolis, that
+of Diospolis
+Province of Europe: the metropolis of Trajanopolis has under it cities, that
+is bishoprics, 2, namely that of Perus, that of Anastasiopolis
+Province of the Cyclades islands: the metropolis of Rhodes has under it
+cities, that is bishoprics, 12, namely that of Samos, that of Chios, that of
+Cos, that of Naxos, that of Thera, that of Paros, that of Leros, that of
+Andros, that of Tenos, that of Melos, that of Pissyne
+Province of Haemimontus: the metropolis of Hadrianopolis has under it cities,
+that is bishoprics, 5, namely that of Mesembria, that of Sozopolis, that of
+Plotinopolis, that of Anastasiopolis, that of Tzoides
+Province of the same: the metropolis of Marcianopolis has under it cities,
+that is bishoprics, 5, namely that of Rhodostolus, that of Tramarisca, that of
+Novae, that of Zekedespa, that of Scaria
+Province of Phrygia Capatiana: the metropolis of Hierapolis has under it
+cities, that is bishoprics, 5, namely that of Meloupolis, that of
+Dionysopolis, that of Anastasiopolis, that of Attuda, that of Mosyna

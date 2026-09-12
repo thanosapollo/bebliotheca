@@ -1,0 +1,32 @@
+#+TITLE: Song on Great Saturday
+#+AUTHOR: Γεώργιος Ἀκροπολίτης hermes:grok-4.6
+#+FILETAGS: :byzantine:13c-ad:pg140:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/carmen-in-magnum-sabbatum--george-acropolites
+#+LANGUAGE: en
+
+* Song on Great Saturday
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+A sticheron sung on the holy and great Saturday; made by kyr the great
+logothete Acropolites. plagal second mode. for the epitaphios greetings.
+Joseph, having seen the sun hiding its own rays, and the veil of the temple
+torn at the death of the Savior, came to Pilate and entreated saying: "Give me
+this stranger, who from infancy as a stranger was a guest in Egypt; Give me
+this stranger, whom those of the same race, hating, scourge as a stranger;
+Give me this stranger, I am not a stranger to seeing the death of the
+stranger; Give me this stranger, who was present to entertain the poor and
+strangers. Give me this stranger, whom Judas deceitfully alienated from the
+world. Give me this stranger, whom the friend denies not to know as a
+stranger. Give me this stranger, [that I may hide him in a tomb,] because the
+stranger has not a head where to lay it. Give me this stranger, whom the
+mother as living entreats crying: Even if I am torn in the inward parts and
+wounded in the heart seeing you dead and breathless, yet I take courage to be
+magnified by your resurrection." Having prevailed upon Pilate with these
+words, the honorable one takes the body of the Savior, and having wrapped it
+honorably in linen and myrrhs he laid it in a memorial, furnishing to the
+faithful eternal life and the great mercy.

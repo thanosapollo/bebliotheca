@@ -1,0 +1,28 @@
+#+TITLE: Letter to the Emperor Theodosius
+#+AUTHOR: Κύριλλος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:5c-ad:pg68-77:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula-ad-theodosium-imperatorem--cyril-of-alexandria
+#+LANGUAGE: en
+
+* Letter to the Emperor Theodosius
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Therefore we confess the only-begotten Son of God, perfect God, of the same
+substance with the Father according to the Godhead and of the same substance
+with us, the same one, according to the humanity. For a union of two natures
+has come to be, whence we confess one Christ, one Son, one Lord. And if it
+seems good, let us show as an example the composition according to ourselves,
+according to which we are human beings. For we have been composed of soul and
+body and we see two natures, one of the body, another of the soul, but one
+human being from both according to union, and the having been composed from
+two natures does not prepare the one to be thought two human beings, but one
+human being. For if we take away that from two and different natures the one
+and only Christ is, those opposite will say: if the whole is one nature, how
+did he become man, or what flesh did he make his own? And those who say that a
+blending or confusion or mixing of the God Word with the flesh came to be,
+these the catholic and apostolic church anathematizes.

@@ -1,0 +1,871 @@
+#+TITLE: Paradoxes of the Stoics, to M. Brutus
+#+AUTHOR: M. Tullius Cicero hermes:grok-4.6
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/paradoxa-stoicorum-ad-m-brutum--m-tullius-cicero
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Paradoxa stoicorum ad M. Brutum edited by J. G. Baiter
+#+END_QUOTE
+
+* Introduction
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+I have often noticed, Brutus, that Cato, your uncle, when he was giving his
+opinion in the Senate, would take up grave topics from philosophy, remote from
+this practice of the courts and of public life, and yet by speaking would
+bring it about that they seemed plausible even to the people.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+And that is a greater thing for him than for you or for me, because we make
+more use of that philosophy which has given birth to fluency of speech,
+and in which things are said that do not differ much from popular opinion.
+Cato, however, a finished Stoic in my judgment, both holds views that are not
+much approved among the crowd, and belongs to that school which follows no
+bloom of speech and does not expand an argument: with little questions like
+pinpricks he makes his point.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+But nothing is so incredible that speaking cannot make it plausible, nothing
+so rough, so uncultivated, that it does not take on splendor by oratory and as
+it were be polished. Thinking this, I have done something even bolder than the
+man I am speaking of. For Cato, at least on greatness of soul, on
+self-command, on death, on every praise of virtue, on the immortal gods, on
+love of country, is accustomed to speak in the Stoic manner, with the
+ornaments of oratory applied. I have, in sport, cast into commonplaces those
+very things which the Stoics scarcely approve in the schools and at leisure.
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+And because they are astonishing and contrary to the opinion of all, and are
+called paradoxes even by the Stoics themselves, I wanted to try whether they
+could be brought out into the light, that is, into the Forum, and so spoken
+that they would win assent, or whether learned speech was one thing and
+popular speech another. I wrote these topics the more willingly because those
+things they call paradoxes seem to me to be especially Socratic and by far the
+truest.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+You will receive, then, this little work, finished by lamplight in these
+already shortening nights, since that gift of longer vigils has already
+appeared under your name, and you will taste the kind of exercises I have been
+used to, when I transfer to this oratorical manner of ours the things that are
+treated in the schools as theses. I do not ask you to enter this work as a
+credit: it is not such that it could be set on the citadel, like that Minerva
+of Phidias, and yet it should be plain that it came from the same workshop.
+
+* Book 1
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+** Paradox I
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+** Section 6
+:PROPERTIES:
+:CUSTOM_ID: h7-h2
+:END:
+
+That only the honorable is good.
+
+I am afraid that this speech may seem to some of you drawn from the
+disputations of Socratic men, not from my own sense. Still I will say what I
+think, and I will say it more briefly than so great a matter can be said.
+Never, by Hercules, have I counted among goods, or among things to be sought,
+those men's money, or their splendid houses, or their resources, or their
+commands, or those pleasures to which they are most bound. For I saw that,
+overflowing with these things, they still most of all desired what they
+already had in abundance. The thirst of desire is never filled or sated; and
+those who have these things are tortured not only by the craving to increase
+them, but also by the fear of losing them.
+
+** Section 7
+:PROPERTIES:
+:CUSTOM_ID: h7-h3
+:END:
+
+In this I often miss the prudence of the most self-controlled of men, our
+ancestors, who thought these weak and changeable limbs of money should be
+called by the name of goods, when by fact and by deeds they had judged far
+otherwise. Can a good be a good to a bad man, or can anyone in an abundance of
+goods himself not be good? And yet we see that all those things are of such a
+kind that the wicked have them and the upright lack them.
+
+** Section 8
+:PROPERTIES:
+:CUSTOM_ID: h7-h4
+:END:
+
+For this reason, let anyone laugh who wishes: true reason will still have more
+weight with me than the opinion of the crowd. I will never say that a man has
+lost his goods if he has lost cattle or furniture, and I will often praise
+that wise man Bias, I think, who is numbered among the Seven. When the enemy
+had taken his country, Priene, and the rest were fleeing in such a way that
+they carried off much of their property, and someone warned him to do the
+same, "I am doing so," he said; "for I carry all that is mine with me."
+
+** Section 9
+:PROPERTIES:
+:CUSTOM_ID: h7-h5
+:END:
+
+He did not even count as his own these playthings of fortune, which we even
+call goods. What, then, someone will ask, is a good? If that which is done
+rightly and honorably and with virtue is truly said to be done well, then that
+which is right and honorable and with virtue is, I think, the only good.
+
+** Section 10
+:PROPERTIES:
+:CUSTOM_ID: h7-h6
+:END:
+
+But these things can seem more tedious when they are argued more slowly. They
+have been made clear by the life and deeds of the greatest men, these things
+which seem to be argued in words more finely than is enough. For I ask you
+whether those who left us this commonwealth so splendidly founded seem to have
+had any thought of silver for greed, or of pleasant places for delight, or of
+furniture for luxury, or of banquets for pleasures. Set before your eyes each
+of the kings.
+
+** Section 11
+:PROPERTIES:
+:CUSTOM_ID: h7-h7
+:END:
+
+Do you wish to start from Romulus? Do you wish, after the free state, from
+those very men who set it free? By what steps, after all, did Romulus climb to
+heaven? By those things which these people call goods, or by his deeds and
+virtues? What? Do we think that the earthen bowls and clay urns of Numa
+Pompilius were less welcome to the immortal gods than the rich bowls of the
+Salii? I pass over the rest; for they are all equals among themselves except
+the Proud.
+
+** Section 12
+:PROPERTIES:
+:CUSTOM_ID: h7-h8
+:END:
+
+If someone should ask Brutus what he did in freeing his country, if someone
+likewise should ask the rest who shared that plan what they looked to, what
+they followed: would anyone come forward to whom pleasure, to whom riches, to
+whom, in short, anything besides the duty of a brave and great man seemed to
+have been set as an aim? What drove Gaius Mucius to the killing of Porsenna
+with no hope of his own safety? What force held Cocles alone on the bridge
+against all the enemy's troops? What sent the father Decius, what sent the
+son, with life devoted, into the armed ranks of the enemy? What did the
+self-command of Gaius Fabricius aim at, what the spare living of Manius
+Curius? What the two bulwarks of the Punic War, Gnaeus and Publius Scipio, who
+thought the coming of the Carthaginians should be blocked with their own
+bodies? What the elder Africanus? What the younger? What Cato, set between
+their ages? What countless others? (for we have examples at home in plenty):
+did they think that anything in life was to be sought for themselves except
+what seemed praiseworthy and splendid?
+
+** Section 13
+:PROPERTIES:
+:CUSTOM_ID: h7-h9
+:END:
+
+Let those mockers of this speech and this view come, then, and let them now
+judge for themselves whether they would rather be like one of those men who
+abound in marble houses gleaming with ivory and gold, in statues, in pictures,
+in chased gold and silver, in Corinthian works, or like Gaius Fabricius, who
+had none of these things and wished to have none.
+
+** Section 14
+:PROPERTIES:
+:CUSTOM_ID: h7-h10
+:END:
+
+And these things, indeed, which are shifted now this way, now that, they are
+easily brought to deny that they are among goods. That other point they hold
+tightly and defend with care, that pleasure is the highest good: which to me
+seems the voice of cattle, not of men. You, when a god, or nature, the mother,
+so to speak, of all things, has given you a mind, than which nothing is more
+excellent or more divine, will you so cast yourself down and prostrate
+yourself that you think there is no difference between you and some
+four-footed beast? Is anything a good that does not make the one who possesses
+it better?
+
+** Section 15
+:PROPERTIES:
+:CUSTOM_ID: h7-h11
+:END:
+
+For as each man most shares in the good, so he is most praiseworthy, and there
+is no good of which he who has it cannot honestly boast. What of these is in
+pleasure? Does it make a man better or more praiseworthy? Or does anyone, in
+getting pleasures, lift himself up by boasting and proclamation? And yet if
+pleasure, which is defended by the patronage of a great many, is not to be
+counted among goods, and the greater it is, the more it moves the mind from
+its seat and standing, then surely to live well and happily is nothing other
+than to live honorably and rightly.
+
+* Book 2
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** Paradox II
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+** Section 16
+:PROPERTIES:
+:CUSTOM_ID: h8-h2
+:END:
+
+That virtue is sufficient for happiness.
+
+Where virtue is, nothing is wanting for a happy life.
+
+I never thought Marcus Regulus wretched or unlucky or miserable. For it was
+not the greatness of his soul that was tortured by the Carthaginians, not his
+dignity, not his good faith, not his constancy, not any virtue, not, in short,
+the mind itself, which, with the guard of so many virtues and so great a
+company, when his body was taken, could not itself be taken. We have seen
+Gaius Marius, who in prosperity seemed to me one among fortunate men, in
+adversity one among the greatest, than which nothing can be happier for a
+mortal.
+
+** Section 17
+:PROPERTIES:
+:CUSTOM_ID: h8-h3
+:END:
+
+You do not know, you madman, you do not know what strength virtue has for men.
+You use the name of virtue only, and you do not know what the thing itself can
+do. No one can fail to be most happy who is wholly dependent on himself and
+who places all that is his in himself alone. He whose every hope and plan and
+thought hangs on fortune can have nothing certain, nothing that he can be sure
+will remain his for a single day. Terrify that man, if you find one, with
+those threats of death or exile. As for me, whatever happens in so ungrateful
+a state will have come upon me not even refusing it, let alone resisting it.
+For what have I toiled at, or what have I done, or in what have my cares and
+thoughts kept watch, if I have produced nothing of such a kind, attained
+nothing, so as to be in that state which neither the rashness of fortune nor
+the injury of enemies could shake? Do you threaten me with death,
+
+** Section 18
+:PROPERTIES:
+:CUSTOM_ID: h8-h4
+:END:
+
+that I must leave the company of men altogether, or with exile, that I must
+migrate from the wicked? Death is terrible to those for whom everything is
+extinguished with life, not to those whose praise cannot die. Exile, moreover,
+is terrible to those for whom the place of dwelling is as it were fenced
+round, not to those who hold the whole world to be one city. Miseries press
+you, all distresses press you, who think yourself happy, who think yourself
+flourishing. Desires torment you. You are tortured day and night, you for whom
+what there is is not enough and who fear that even that itself will not last.
+The conscience of your crimes goads you. Fear of courts and laws drains you.
+Wherever you have looked, your injuries meet you like Furies, and they do not
+let you sigh freely.
+
+** Section 19
+:PROPERTIES:
+:CUSTOM_ID: h8-h5
+:END:
+
+For this reason, as no one who is wicked and foolish and idle can be well off,
+so no good and wise and brave man can be miserable. Nor, indeed, can the life
+of one whose virtue and manners are to be praised itself fail to be
+praiseworthy, nor, further, is a life that is to be praised a life to be fled;
+but it would be to be fled if it were miserable. For this reason whatever is
+praiseworthy ought to seem both happy and flourishing and to be sought.
+
+* Book 3
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+** Paradox III
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+** Section 20
+:PROPERTIES:
+:CUSTOM_ID: h9-h2
+:END:
+
+That faults and right actions are equal.
+
+"It is a small thing," he says. But the fault is great. For sins are not to be
+measured by the outcomes of things, but by the vices of men. That in which one
+sins can be greater or less than another; the sinning itself, however you turn
+it, is one. Whether a steersman wrecks a ship of gold or a ship of chaff, in
+the thing there is some difference, in the steersman's ignorance none. Desire
+has slipped with an unknown woman: the pain reaches fewer than if he had been
+wanton with some well-born and noble girl; yet he has sinned no less, if
+indeed to sin is as it were to cross the lines, and when you have done that,
+the fault has been committed. How far you go once you have crossed does
+nothing to increase the fault of crossing. No one, certainly, is allowed to
+sin; and what is not allowed is held by this one point, if it is shown that it
+is not allowed. If that can never become greater or less, since the sin is in
+this, that it was not allowed, which is always one and the same, the sins that
+arise from it must be equal.
+
+** Section 21
+:PROPERTIES:
+:CUSTOM_ID: h9-h3
+:END:
+
+And if the virtues are equal among themselves, the vices too must be equal.
+And that the virtues are equal, and that a good man cannot become better, nor
+a temperate man more temperate, nor a brave man braver, nor a wise man wiser,
+can be seen most easily. Will you call a man good who has returned a deposit
+of ten pounds of gold with no witness, when he could have kept it with
+impunity, if the same man has not done the same in ten thousand? Or temperate,
+who has restrained himself in one desire and poured himself out in another?
+
+** Section 22
+:PROPERTIES:
+:CUSTOM_ID: h9-h4
+:END:
+
+Virtue is one, agreeing with reason and lasting constancy. Nothing can be
+added here to make it more virtue, nothing taken away so that the name of
+virtue is left. For if good deeds are right deeds, and nothing is righter than
+right, then certainly nothing better than good can be found either. It
+follows, then, that the vices too are equal, if indeed perversities of the
+mind are rightly called vices. And since the virtues are equal, right deeds,
+since they proceed from the virtues, ought to be equal, and likewise sins,
+since they flow from vices, must be equal.
+
+** Section 23
+:PROPERTIES:
+:CUSTOM_ID: h9-h5
+:END:
+
+"You take those points from the philosophers," he says. I was afraid you would
+say from the pimps. "Socrates used to argue in that way." Well told, by
+Hercules; for it has been handed down to memory that that man was learned and
+wise. Still I ask you, since we are contending with words, not with fists: are
+we to ask what porters and day-laborers have thought, or what the most learned
+men have thought? Especially since no view can be found not only truer but
+even more useful for the life of men. For what force more keeps men from all
+wickedness than if they have felt that there is no distinction in offenses?
+that they sin equally if they lay hands on private men and if on magistrates?
+that whatever house they have brought shame into, the stain of lust is the
+same?
+
+** Section 24
+:PROPERTIES:
+:CUSTOM_ID: h9-h6
+:END:
+
+"Is there then no difference" (for someone will say this) "between killing a
+father and killing a slave?" If you put those things bare, I could not easily
+judge of what kind they are. If to take a father's life is in itself a crime,
+the people of Saguntum, who preferred their parents to die free rather than
+live as slaves, were parricides. Therefore a parent's life can sometimes be
+taken without crime, and a slave's often cannot be taken without injustice. It
+is the cause, then, not the nature, that distinguishes; and since, whichever
+it has joined, that becomes the heavier, if it is joined to both, they must
+become equal.
+
+** Section 25
+:PROPERTIES:
+:CUSTOM_ID: h9-h7
+:END:
+
+This, however, does make a difference: that in killing a slave, if it is done
+unjustly, one sins once; in violating a father's life many sins are committed.
+He is violated who begot, he who fed, he who taught, he who placed him in a
+seat and a house and in the commonwealth. He exceeds by the number of sins and
+is therefore worthy of a greater penalty. But in life we ought to look not at
+what penalty belongs to each sin, but at how much is allowed to each. Whatever
+one ought not to do we must think a crime, whatever is not allowed, a
+wickedness. Even in the smallest things? Even so, if indeed we cannot fix a
+measure of things, we can keep a measure of minds.
+
+** Section 26
+:PROPERTIES:
+:CUSTOM_ID: h9-h8
+:END:
+
+If an actor has moved a little off the beat, or if a verse has been delivered
+one syllable too short or too long, he is hissed off, driven off. In life,
+which ought to be more measured than every gesture, more fitted than every
+verse, will you say that you have sinned in a syllable? I do not listen to a
+poet in trifles: shall I listen, in the partnership of life, to a citizen
+measuring out his sins with his fingers? If you like, let them be shorter: how
+can they seem lighter? Since whatever is sinned is sinned by a disturbance of
+reason and order, and once reason and order have been disturbed nothing can be
+added by which it could seem that one can sin more.
+
+* Book 4
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+** Paradox IV
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+** Section 27
+:PROPERTIES:
+:CUSTOM_ID: h10-h2
+:END:
+
+That every fool is mad.
+
+That all fools are mad.
+
+I do not think you a fool, as often, nor a knave, as always, but mad * * *
+
+* * * unconquered in the things needful for life * *
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+He can be. Will the mind of the wise man, fenced as with walls by greatness of
+counsel, by endurance of human things, by contempt of fortune, in short by all
+the virtues, be conquered and taken by storm, he who cannot even be driven
+from a city? For what is a city? Every gathering, even of wild and savage men?
+Every multitude even of runaways and robbers collected into one place? You
+will certainly say no. That, then, was not a city at that time, when the laws
+had no force in it, when the courts lay fallen, when ancestral custom had
+died, when the magistrates had been driven out by the sword and the name of
+the Senate was not in the state. That concourse of brigands, and a banditry
+set up in the Forum under your lead, and the remnants of the conspiracy turned
+from Catiline's furies to your crime and madness, was not a city.
+
+** Section 28
+:PROPERTIES:
+:CUSTOM_ID: h11-h1
+:END:
+
+And so I was not driven from a city, which did not exist. I was summoned into
+a city, when there was a consul in the state, who then had been none, there
+was a Senate, which then had died, there was a free agreement of the people,
+there was a recovered memory of law and equity, which are the bonds of a city.
+And see how I despised those weapons of your banditry. I always held that the
+wicked injury thrown and sent against me by you was thrown; I never thought it
+had reached me, unless perhaps, when you were tearing down walls or carrying
+criminal torches onto roofs, you thought that something of mine was falling or
+burning.
+
+** Section 29
+:PROPERTIES:
+:CUSTOM_ID: h11-h2
+:END:
+
+Nothing is mine, or anyone's, that can be taken away, that can be snatched,
+that can be lost. If you had snatched from me the divine consciousness of my
+mind, that by my cares, my watches, my counsels the republic stood, though you
+were most unwilling; if you had wiped out the immortal memory of this
+everlasting service; much more still, if you had snatched from me that mind
+from which these counsels flowed, then I would confess that I had received an
+injury. But if you neither did these things nor could do them, your injury
+gave me a glorious return, not a calamitous departure. Therefore I was always
+a citizen, and then most of all, when the Senate was commending my safety to
+foreign nations as that of an excellent citizen. You are not one even now,
+unless perhaps the same man can be both an enemy and a citizen. Or do you
+distinguish a citizen from an enemy by nature and place, not by mind and
+deeds?
+
+** Section 30
+:PROPERTIES:
+:CUSTOM_ID: h11-h3
+:END:
+
+You made a slaughter in the Forum, you held the temples with armed robbers,
+you set fire to private houses and sacred buildings. Why is Spartacus an
+enemy, if you are a citizen? And can you be a citizen, you on whose account
+the city at one time did not exist? And you call me by your name, when all
+think that at my departure the republic went into exile? Will you never, you
+most mindless of men, look around you? Will you never consider what you do,
+nor what you say? Do you not know that exile is the penalty of crimes, and
+that that journey of mine was undertaken for the most splendid things I had
+done?
+
+** Section 31
+:PROPERTIES:
+:CUSTOM_ID: h11-h4
+:END:
+
+All the criminal and impious, whose leader you profess yourself to be, whom
+the laws wish to be visited with exile, are exiles, even if they have not
+left their country. Or when all the laws order you to be an exile, will you
+not be an exile? Is he not to be called an exile who has gone armed?
+Your dagger was seized before the Senate. Who has killed a man? You have
+killed very many. Who has made a fire? The temple of the Nymphs burned down by
+your hand. Who has occupied temples? You pitched a camp in the Forum.
+
+** Section 32
+:PROPERTIES:
+:CUSTOM_ID: h11-h5
+:END:
+
+But why do I bring forward the common laws, by all of which you are an exile?
+Your closest friend carried a special bill about you, that if you had gone
+into the secret rites of the Good Goddess you should be an exile: and you are
+even accustomed to boast that you did it. How then, driven into exile by so
+many laws, do you not shudder at the name of exile? "I am at Rome," he says.
+And indeed you were in the secret place. A man will not, then, hold the right
+of a place wherever he is, if by the laws he ought not to be there.
+
+* Book 5
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+** Paradox V
+:PROPERTIES:
+:CUSTOM_ID: h12-h1
+:END:
+
+** Section 33
+:PROPERTIES:
+:CUSTOM_ID: h12-h2
+:END:
+
+That only the wise man is free and every fool a slave.
+
+That all the wise are free and all fools slaves.
+
+Let this man indeed be praised as a commander, or even be called one, or be
+thought worthy of this name. How, or whom, after all, will this man command as
+a free man, who cannot command his own desires? Let him first bridle his
+lusts, scorn pleasures, hold his anger, check his greed, drive off the other
+stains of the mind. Then let him begin to command others, when he himself has
+ceased to obey the most wicked of masters, disgrace and shame. While he obeys
+them, he is not to be counted a commander, nor even a free man at all. For
+this has been finely used by the most learned, whose authority I would not use
+if I had to hold this speech among some rustics; but since I speak among the
+most prudent, to whom these things are not unheard, why should I pretend that
+if I have put any work into these studies I have wasted it? It has been said,
+then, by the most learned men that no one is free except the wise man.
+
+** Section 34
+:PROPERTIES:
+:CUSTOM_ID: h12-h3
+:END:
+
+For what is freedom? The power of living as you wish. Who then lives as he
+wishes, except the man who lives rightly, who rejoices in duty, whose way of
+living has been considered and planned? Who does not even obey the laws
+from fear, but follows and cultivates them because he judges that to be most
+wholesome; who says nothing, does nothing, thinks nothing, in short, except
+willingly and freely; whose every counsel and every thing he does proceeds
+from himself and is referred to the same, and there is no thing that has more
+force with him than his own will and judgment; to whom even Fortune herself,
+who is said to have the greatest force, yields, if, as the wise poet said,
+"she is shaped for each man by his own character." This, then, befalls the
+wise man alone, that he does nothing unwilling, nothing in pain, nothing under
+compulsion.
+
+** Section 35
+:PROPERTIES:
+:CUSTOM_ID: h12-h4
+:END:
+
+And although this must be argued at greater length, this at least
+is both short and to be granted, that unless a man is so affected, no one is
+free. All the wicked, then, are slaves; and this is not so unexpected and
+astonishing in the fact as in the saying. For they do not say that they are
+slaves as chattels are, which have been made the property of masters by bond
+or some civil right, but if slavery is, as it is, the obedience of a broken
+and cast-down mind, lacking its own judgment, who would deny that all the
+fickle, all the greedy, all the wicked, in short, are slaves?
+
+** Section 36
+:PROPERTIES:
+:CUSTOM_ID: h12-h5
+:END:
+
+Do I count that man free, whom a woman commands? On whom she lays laws,
+prescribes, orders, forbids what she likes? Who can deny her nothing when she
+commands, who dares refuse nothing? She asks, it must be given; she calls, one
+must come; she throws him out, one must go; she threatens, one must be
+terrified. I think that man should be called not only a slave, but the vilest
+of slaves, even if he was born in the most distinguished household. And in
+equal folly are those whom statues, whom pictures, whom chased silver, whom
+Corinthian works, whom magnificent buildings delight too much. "But we are
+leaders of the state," he says. You are not even leaders of your
+fellow-slaves.
+
+** Section 37
+:PROPERTIES:
+:CUSTOM_ID: h12-h6
+:END:
+
+But as in a great household there are some slaves who are, as they think, more
+elegant, and yet slaves, as the stewards, while those who handle those things,
+who wipe, who oil, who sweep, who sprinkle, do not hold the most honorable
+place in slavery, so in the state those who have given themselves to the
+desires of those things hold almost the lowest place of slavery itself. "I
+have waged great wars," he says; "I have been set over great commands and
+provinces." Then bear a mind worthy of praise. A painting of Aetion holds you
+stupefied, or some statue of Polyclitus. I leave aside where you took it from,
+how you have it: when I see you gazing, admiring, raising shouts, I judge you
+a slave of all follies.
+
+** Section 38
+:PROPERTIES:
+:CUSTOM_ID: h12-h7
+:END:
+
+"Are those things not charming, then?" They are; for we too have trained eyes.
+But, I beg you, let those things be counted graceful so as not to be chains of
+men, but amusements of boys. For what do you think? If Lucius Mummius saw one
+of those men handling a Corinthian chamber-pot with the greatest eagerness,
+when he himself had scorned all Corinth, would he think him an excellent
+citizen or a careful steward? Let Manius Curius come back to life, or one of
+those in whose villa and house there was nothing splendid, nothing ornate,
+except themselves, and let him see someone who has used the highest favors of
+the people catching little-bearded mullets from a fishpond and handling them
+and boasting of his stock of morays: would he not judge this man so much a
+slave that he would not think him worthy even in a household of any greater
+business?
+
+** Section 39
+:PROPERTIES:
+:CUSTOM_ID: h12-h8
+:END:
+
+Or is the slavery of those in doubt, who from desire of a little store refuse
+no condition of the hardest slavery? What injustice does the hope of an
+inheritance not take on in serving? What nod of a rich childless old man does
+he not watch? He speaks to please, he does whatever has been ordered, he
+follows, he sits by, he gives gifts. What of these is of a free man?
+
+** Section 40
+:PROPERTIES:
+:CUSTOM_ID: h12-h9
+:END:
+
+What, in short, is not of a lazy slave? What of that desire which seems more
+liberal, of office, of command, of provinces: how hard a mistress it is, how
+imperious, how violent! It forced those who thought themselves most
+distinguished to serve Cethegus, a man not of the best repute, to send gifts,
+to come to his house by night, to beg, in short to supplicate. What is
+slavery, if this can be thought freedom? What? When the domination of desire
+has gone out and another master has arisen from the conscience of sins, fear,
+how wretched is that, how hard a slavery! One must serve young men a little
+too talkative. All who seem to know something are feared as masters. And the
+judge, how great a domination he has, with what fear he strikes the guilty! Or
+is not all fear slavery?
+
+** Section 41
+:PROPERTIES:
+:CUSTOM_ID: h12-h10
+:END:
+
+What force, then, has that speech of Lucius Crassus, a most eloquent man, more
+copious than wise: "Snatch us from slavery"? What is that slavery for so
+famous and so noble a man? All timidity of a weakened and low and broken mind
+is slavery. "Do not allow us to be slaves to anyone." Does he wish to be
+restored to freedom? Not at all; for what does he add? "Except to you all." He
+wishes to change his master, not to be free. "To whom we both can and ought."
+We, indeed, if we are of a high and lofty mind, built up with virtues, neither
+ought nor can. You may say that you can, since indeed you can; do not say that
+you ought, since no one ought anything except what it is shameful not to pay
+back. But so much for this. Let him see how he can be a commander, when reason
+and truth itself convict him of not even being free.
+
+* Book 6
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+** Paradox VI
+:PROPERTIES:
+:CUSTOM_ID: h13-h1
+:END:
+
+** Section 42
+:PROPERTIES:
+:CUSTOM_ID: h13-h2
+:END:
+
+That only the wise man is rich.
+
+That only the wise man is rich.
+
+What is that so insolent display in recounting your money? Are you the only
+rich man? Immortal gods! Am I not to rejoice that I have heard something and
+learned something? The only rich man? What if not even rich? What if even
+poor? For whom do we understand as rich, or in what man do we place this word?
+I think in him whose possession is so great that he is easily content for
+living in a free manner, who seeks nothing, aims at nothing, wishes nothing
+more.
+
+** Section 43
+:PROPERTIES:
+:CUSTOM_ID: h13-h3
+:END:
+
+Your mind ought to judge itself rich, not the talk of men, nor your
+possessions. He thinks nothing is wanting to him, he cares for nothing more,
+he is sated or even content with money: I grant it, he is rich. But if because
+of greed for money you think no gain shameful, when for that order of yours
+none can even be honorable; if every day you cheat, deceive, demand, bargain,
+carry off, snatch; if you strip allies, plunder the treasury; if you do not
+even wait for the wills of friends and yourself substitute them: are these the
+signs of a man who has abundance, or of a man in want?
+
+** Section 44
+:PROPERTIES:
+:CUSTOM_ID: h13-h4
+:END:
+
+It is the mind of a man that is usually called rich, not the money-chest.
+However full that may be, while I see you empty I will not think you rich. For
+from this, how much is enough for each, men measure the quantity of riches. A
+man has a daughter: there is need of money; two, of more; more daughters, of
+still more. If, as they say of Danaus, there were fifty daughters, so many
+dowries ask for great money. For to what each needs, as I said before, the
+measure of riches is fitted. How then shall I call rich a man who has not
+several daughters but countless desires, which in a short time can drain the
+greatest stores, when he himself feels that he is in want?
+
+** Section 45
+:PROPERTIES:
+:CUSTOM_ID: h13-h5
+:END:
+
+Many have heard you when you said that no one was rich except the man who
+could keep an army from his own revenues, which the Roman people, with such
+great taxes, has now for a long time scarcely been able to do. On this
+proposition, then, you will never be rich before so much is returned to you
+from your possessions that with it you can maintain six legions and great
+supports of horse and foot. You already confess, then, that you are not rich,
+you who lack so much to fill up what you long for. And so you have never borne
+that poverty of yours, or rather that need and beggary, in the dark.
+
+** Section 46
+:PROPERTIES:
+:CUSTOM_ID: h13-h6
+:END:
+
+For as we understand that those who seek a living honorably by making trades,
+by giving work, by taking public contracts, have need of gain, so whoever sees
+in your house equally associated gangs of accusers and of informers; who sees
+guilty and moneyed defendants, with you as the same agent, working at the
+corruption of a court; who sees your bargains for fees in advocacies, the
+†cuts of money in the coalitions of candidates, the sending out
+of freedmen to put provinces under debt and to plunder them; who sees the
+driving out of neighbors, the robberies in the fields, the partnerships with
+slaves, with freedmen, with clients, the vacant possessions, the proscriptions
+of the rich, the disasters of the country towns; who remembers that harvest of
+the Sullan time, the substituted wills, so many men removed; who sees, in
+short, everything for sale, edict, decree, another's vote and one's own,
+Forum, house, voice, silence: who would not think that this man confesses that
+he has need of gain? And who that has need of gain has anyone ever truly
+called rich?
+
+** Section 47
+:PROPERTIES:
+:CUSTOM_ID: h13-h7
+:END:
+
+For the fruit of riches is in plenty, and plenty is declared by satiety of
+things and abundance. And since you will never reach that, you will never be
+rich at all. And since you scorn my money, and rightly (for by the crowd's
+opinion it is moderate, by yours it is nothing, by mine it is modest), I will
+be silent about myself and speak of the thing.
+
+** Section 48
+:PROPERTIES:
+:CUSTOM_ID: h13-h8
+:END:
+
+If we had to rate and value the thing, which, after all, should we value more,
+the money of Pyrrhus, which he was offering to Fabricius, or the self-command
+of Fabricius, who refused that money? The gold of the Samnites, or the answer
+of Manius Curius? The inheritance of Lucius Paulus, or the generosity of
+Africanus, who granted his own share of that inheritance to his brother
+Quintus Maximus? These things, surely, which belong to the highest virtues,
+are to be valued more than those which belong to money. Who then, if indeed
+each man is to be held richest as he possesses what is worth most, would doubt
+that riches are in virtue? Since no possession, no mass of gold and silver, is
+to be valued more than virtue.
+
+** Section 49
+:PROPERTIES:
+:CUSTOM_ID: h13-h9
+:END:
+
+Immortal gods! Men do not understand how great a revenue thrift is. For I come
+now to the spenders, and I leave that money-maker. He takes six hundred
+thousand sesterces from his estates, I a hundred thousand from mine. For him,
+making gilded roofs in his villas and marble floors and infinitely craving
+statues, pictures, furniture, and clothing, that yield is scanty not only for
+expense but even for interest. From my thin revenue, when the expenses of
+desire have been taken off, something will even overflow. Which then is
+richer, the one who lacks or the one who has a surplus? Who is in want or who
+abounds? Whose possession, the greater it is, the more it requires to maintain
+itself, or that which supports itself by its own strength?
+
+** Section 50
+:PROPERTIES:
+:CUSTOM_ID: h13-h10
+:END:
+
+But why do I speak of myself, who by the fault of manners and of the times
+perhaps myself also wander somewhat in the error of this age? Was Manius
+Manilius, in the memory of our fathers (that we may not always talk of
+Curius and Luscinus), poor, after all? For he had a little house in the
+Carinae and a farm in the Labican district. Are we then richer, who have more?
+Would that we were! But the measure of money is bounded not by the rating of
+the census, but by living and by culture.
+
+** Section 51
+:PROPERTIES:
+:CUSTOM_ID: h13-h11
+:END:
+
+Not to be greedy is money; not to be a buyer is revenue; to be content with
+one's own things is the greatest and surest riches. For if those shrewd
+valuers of things value meadows and certain lots highly, because that kind of
+possession can least, as it were, be harmed, at what rate is virtue to be
+valued, which can neither be snatched nor stolen, is lost neither by shipwreck
+nor by fire, and is not changed by the disturbance of storms or of times!
+
+** Section 52
+:PROPERTIES:
+:CUSTOM_ID: h13-h12
+:END:
+
+Those who are endowed with it are the only rich. For they alone possess things
+both fruitful and everlasting, and they alone, which is the proper mark of
+riches, are content with their own things, think what there is is enough, aim
+at nothing, lack nothing, feel that nothing is wanting to them, seek nothing.
+The wicked and the greedy, however, since they have possessions uncertain and
+set in chance, and always aim at more, and not one of them has yet been found
+for whom what he had was enough, are to be thought not only not well supplied
+and rich, but even destitute and poor.

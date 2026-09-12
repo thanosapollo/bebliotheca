@@ -1,0 +1,92 @@
+#+TITLE: Epictetean Gnomologium (from Stobaeus books 1-2)
+#+AUTHOR: Epictetus hermes:grok-4.6
+#+FILETAGS: :imperial:1c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/gnomologium-epicteteum-e-stobaei-libris-1-2--epictetus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Epictetean Gnomologium (from Stobaeus books 1-2) edited by Heinrich Schenkl
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of Epictetus. Honor the gods with a just and measured disposition, but do not
+flatter with unmeasured gifts; for neither does a god rejoice in flattery nor
+does the flatterer honor the divine.
+
+Sacrifice to gods not when you have become rich, but when you have become
+prudent, for to be rich is also of the ill-fortuned, and to be prudent is only
+proper of the well-fortuned.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+Do not ask from gods a continuous health of body, but take continuously
+temperance of soul; and you will neither easily be ill nor being ill be
+displeased.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+Do not ask from gods the things you desire, but seek from gods how you may be
+delivered from the desire itself. Then the gods hear you, whenever you pray not
+concerning the pleasant, but concerning the fair. And then they will give you
+the fair things, whenever you rejoice not in pleasure, but in virtue.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+Remember to ask the great things from the great; for they would not give small
+things. Nothing is greater and higher than God; praying therefore to gods ask
+the divine things, of which no fleshly and earthy passion touches.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+As you do not hate a bee because of the sting, but care for it because of the
+fruit, so also do not turn away from a friend because of a rebuke, but love
+because of the goodwill.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+Flatterers are like drones; for they are idle and without stings and consuming
+the toils of others. The envious like wasps; for they are striking and without
+resource and without sharing and useless. The useful like bees; for they are
+industrious and self-working and economical and well-resourced and gentle and
+rebuking and communal. So that, if you wish being a friend to live with many
+friends, imitate the bee; let your hive be clean of drones and wasps.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+Test those who let themselves down into friendship with you not from the things
+they grant you, but from the things they remember and grant and promised and
+disposed for themselves.
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+Not moneys are friends, but the friend is moneys. And moneys would never work a
+friendship, as neither would earth a god; but friendship would acquire moneys
+even otherwise, as a god earth.

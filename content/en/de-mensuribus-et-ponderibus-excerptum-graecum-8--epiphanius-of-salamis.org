@@ -1,0 +1,36 @@
+#+TITLE: On Measures and Weights, Greek Excerpt 8
+#+AUTHOR: Ἐπιφάνιος Σαλαμῖνος hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg41-43:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-mensuribus-et-ponderibus-excerptum-graecum-8--epiphanius-of-salamis
+#+LANGUAGE: en
+
+* On Measures and Weights, Greek Excerpt 8
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+And it must be known that there are twenty-two books of the old covenant
+according to the letters of the Hebrew voice. For they have twenty-two letters,
+of which five are doubled, so that they become twenty-seven; for doubled is Kaph
+and Mem and Nun and Pe and Tsade. Wherefore also the books according to this way
+are numbered twenty-two, and are found twenty-seven because five of them are
+doubled. For Ruth is joined to Judges and is numbered among the Hebrews one book;
+the first and second of Kingdoms one book; the third and the fourth of Kingdoms
+one book; the first and the second of Chronicles one book; the first and the
+second of Ezra one book. Thus then the books are composed in four pentateuchs,
+and two others remain, so that the canonical books are thus: five legal: Genesis,
+Exodus, Leviticus, Numbers, Deuteronomy; this is the first pentateuch, which is
+also legislation. Then another pentateuch, the so-called Writings, and by some
+Hagiographa, which are thus: Joshua son of Nave, Judges with Ruth, first of
+Kingdoms with the second, one book, third of Kingdoms with the fourth, one book,
+and the two of Chronicles, one book; this is the second pentateuch. Third
+pentateuch the verse books: of Job, the psalter, Proverbs of Solomon, Ecclesiastes
+of the same, the Songs of songs of the same. Fourth pentateuch, the prophetic:
+the twelve-prophet, one book, Isaiah, Jeremiah, Ezekiel, Daniel. Then of Ezra,
+the two joined into one book, and Esther. And the Panaretos, that is the Wisdom
+of Solomon, and the Wisdom of Jesus, which the father of Sirach set out in
+Hebrew, and in Greek Jesus his grandson, son of Sirach, interpreted, are
+virtuous and fair, but they are not numbered nor were they laid in the ark.

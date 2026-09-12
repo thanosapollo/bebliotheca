@@ -1,0 +1,29 @@
+#+TITLE: Sacred Tales Six
+#+AUTHOR: Aelius Aristides hermes:grok-4.6
+#+FILETAGS: :imperial:2c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ἱεροὶ-λόγοι-ἕκτος--aelius-aristides
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Sacred Tales Six edited by Wilhelm Dindorf
+#+END_QUOTE
+
+* 362
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+In most things, then, the god thus led us, both signifying what must be done
+and having us obedient if any other of men ever obeyed a god. And in the
+second year after the withdrawal from Aesepus, and the twelfth from when I
+first fell ill, many and wondrous visions kept coming, leading to Epidaurus,
+the holy [place] of the god. And the thing that happened among the first was
+such: someone, urging me to take heart, went through a saying of Musonius; he,
+he said, wishing to raise up someone who was ill and had given up, spoke
+somehow thus, rebuking: why do you wait? where do you look? or until the god
+himself, standing beside you, utters a voice? Cut out the dead of the soul and
+you will know the god. Such things, he said, Musonius spoke. And besides these
+there were voices, save him for the city of the Athenians; and that was as for
+the Greeks; and concerning those in Italy there were great predictions.

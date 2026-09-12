@@ -1,0 +1,46 @@
+#+TITLE: Fragments
+#+AUTHOR: Seneca the Elder hermes:grok-4.6
+#+FILETAGS: :imperial:1c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta--seneca-the-elder
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Fragments edited by Adolf Gottlieb Kiessling
+#+END_QUOTE
+
+* Book 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+** remains of uncertain place
+:PROPERTIES:
+:CUSTOM_ID: h1-h1
+:END:
+
+** 1
+:PROPERTIES:
+:CUSTOM_ID: h1-h2
+:END:
+/For I remember as a young man that it was treated even in the prefaces between Pomponius and Seneca whether "gradus eliminat" ought to have been said in tragedy./
+
+** 2
+:PROPERTIES:
+:CUSTOM_ID: h1-h3
+:END:
+/But the new and especially the declaimers imagine more boldly, and not without a certain emotion, as Seneca in the controversia whose sum is that a father killed a son and a stepmother caught in adultery, the other son leading him in: "Lead, I follow: take this aged hand and press it wherever you wish" and a little later: "Look, he says, at what you long did not believe. But I do not see; night rises and a thick fog."/
+
+** 3
+:PROPERTIES:
+:CUSTOM_ID: h1-h4
+:END:
+/For to swear in general, except where it is necessary, little befits a serious man, and it was said elegantly by Seneca that this belongs not to advocates but to witnesses./
+
+** 4
+:PROPERTIES:
+:CUSTOM_ID: h1-h5
+:END:
+/And Seneca related that the poet Julius Montanus used to say that he would steal certain things from Vergil if he could also take the voice and mouth and delivery: for the same verses sounded well when he himself pronounced them, without him they were empty and mute./

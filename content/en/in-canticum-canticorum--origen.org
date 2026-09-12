@@ -1,0 +1,31 @@
+#+TITLE: On the Song of Songs
+#+AUTHOR: Ὠριγένης hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg11-17:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/in-canticum-canticorum--origen
+#+LANGUAGE: en
+
+* On the Song of Songs
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+FROM THE SMALL TOME ON THE SONG
+Which Origen wrote in his youth.
+=13.36= For one who has not grasped the peculiarity of the persons of the
+divine Scripture, both of those speaking and of those toward whom the word is,
+the things said furnish much confusion, when he seeks the speaking person,
+whatever it is, and of what sort is that toward which the word is, and when
+the speaking person stopped, the one toward whom it is often being kept, and
+another speaking toward the same, or those toward whom the word no longer
+hearing, and another having succeeded to the things said, the speaker
+remaining. And there is a time when both change, both the speaker and that
+toward which the word is; or both remaining longer, it is not clearly shown
+that they remain. And why must one seek examples of each of these, the
+prophetic [books] being altogether filled with their difference? Which is also
+no chance cause of the unclarity of the things said not being distinguished.
+And this too is a custom of Scripture, to leap quickly from the word about
+some things to that about others, and to do this unclearly and confusedly,
+especially the prophets.

@@ -1,0 +1,23 @@
+#+TITLE: From the Panecclesiastes
+#+AUTHOR: Εὐστάθιος Ἀντιοχείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg18:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ek-tou-panekklhsiastou--eustathius-of-antioch
+#+LANGUAGE: en
+
+* From the Panecclesiastes
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+From the Panecclesiastes (fragment)
+Of Saint Eustathius, bishop of Antioch, from the Panecclesiastes:
+They underwent a manifest portion of shame when, having armed their murderous
+hands, they poured forth the undefiled blood. And immediately the veil of the
+temple was divided and was cut in two because of the subjects of the
+many-faced dramas. And they were frightened, struck in their own way by the
+terrors and beholding the concourses of all kinds of thunderbolts. And they
+were clearly captured when, having killed the divine Word, they nailed him to
+a cross.

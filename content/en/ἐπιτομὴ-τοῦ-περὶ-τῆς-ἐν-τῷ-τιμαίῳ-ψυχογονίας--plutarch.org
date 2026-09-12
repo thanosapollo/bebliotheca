@@ -1,0 +1,157 @@
+#+TITLE: Epitome of On the Generation of the Soul in the Timaeus
+#+AUTHOR: Plutarch hermes:grok-4.6
+#+FILETAGS: :imperial:1c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ἐπιτομὴ-τοῦ-περὶ-τῆς-ἐν-τῷ-τιμαίῳ-ψυχογονίας--plutarch
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Ἐπιτομὴ τοῦ περὶ τῆς ἐν τῷ Τιμαίῳ ψυχογονίας edited by Grēgorios N. Vernardakēs
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+The discourse entitled On the Generation of the Soul in the Timaeus reports
+whatever Plato and the Platonists have argued with some zeal. It also brings
+in certain geometrical analogies and likenesses that, as he thinks, bear on
+the theory of the soul, and musical and arithmetical theorems as well.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+He says that matter was given shape by the soul. He grants a soul to the
+universe, and to each living creature the soul that governs it. In one respect
+he presents this soul as ungenerated, in another as subject to coming to be.
+Matter he holds everlasting, and shaped by the divine through the soul. Vice,
+he says, has come about as an offshoot of matter, so that the divine may not
+be thought the cause of evils.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+The circle of Posidonius did not set the soul far from matter. Taking the
+substance of limits to be called divisible in relation to bodies, and mixing
+this with the intelligible, they declared the soul to be the form of what is
+extended in every direction, constituted according to number that contains
+harmony. For mathematical objects, they say, have been ranked between the
+first intelligibles and the sensibles; and since the soul has from the
+intelligible its everlastingness and from the sensitive its capacity to be
+affected, it is fitting that its substance stand in the middle. For it escaped
+them too that God used the limits of bodies later, when the soul was already
+finished, for the shaping of matter, bounding and enclosing its scattered and
+unbound character by surfaces fitted together from triangles. Still more out
+of place is it to make the soul a Form. For the soul is ever-moving, the Form
+unmoved; the one is unmixed with the perceptible, the other yoked together
+with body. Besides this, God became an imitator of the Form as of a pattern,
+but of the soul he was the craftsman as of a finished work. That Plato does
+not set number as the substance of the soul, but the soul as ordered by
+number, has been said already.
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+Common to both these views is this: neither in limits nor in numbers is there
+any trace of that power by which the soul is fitted by nature to judge the
+perceptible. For intellect and the power of intellection have been put into it
+by participation in the intelligible principle; but opinions and beliefs, and
+the imaginative and the passible, come from the qualities about the body,
+which no one would think simply arise from units or lines or surfaces. And not
+only the souls of mortals have a cognitive power of the perceptible, but also,
+he says, "the soul of the cosmos, revolving upon itself, whenever it touches
+something that has a scattered substance and whenever it touches the
+indivisible, is moved through its whole self and speaks of that with which
+anything is the same and that from which it is other, in relation to what
+especially and where and how it happens, and how the things that come to be
+are each toward each and what they undergo." In these words he at the same
+time sketches the ten categories,
+and he makes it still clearer in what follows. "For true discourse," he says,
+"whenever it comes to be about the perceptible and the circle of the Other,
+going straight, reports it through the whole of its soul, opinions and beliefs
+come to be that are firm and true; but when in turn it is about the rational
+and the circle of the Same, running well, discloses them, knowledge is of
+necessity produced. And if anyone ever calls that in which these two come to
+be among the things that are by any name other than soul, he will say anything
+rather than the truth." From where, then, did the soul get this motion that
+apprehends the perceptible and forms opinion, a motion other than that
+intellective one that ends in knowledge? It is hard to say, unless we firmly
+lay down that here he is not composing soul simply, but the soul of the
+cosmos, from a substrate of the better, indivisible substance and of the
+worse, which he has called divisible about bodies: not something other than
+the opinative and imaginative motion that sympathizes with sensibles, not
+generated but existing everlastingly, like the other. For nature, having the
+intellective, also had the opinative. But the former is unmoved and unaffected
+and seated about the substance that always remains; the latter is divisible
+and wandering, inasmuch as it touches matter that is carried about and
+scattered. For the perceptible had not obtained order, but was shapeless and
+unbounded; and the power stationed about it had neither articulate opinions
+nor movements all in order, but most of them dreamlike and deranged and
+disturbing the bodily, except so far as by chance it fell in with the better.
+For it was in the middle of both and had a nature sympathetic and akin to
+both, clinging by its sensitive side to matter and by its judging side to the
+intelligibles.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+Something like this Plato also makes clear by his names. "For this account,"
+he says, "as computed by my vote, let it be granted in summary: that being and
+space and becoming were three, and three in kind, even before the heaven came
+to be." For he calls matter space, as a seat and sometimes a receptacle; being
+he calls the intelligible; and becoming, while the cosmos had not yet come to
+be, he means no other than the substance in changes and motions, ranked
+between that which stamps and that which is stamped, transmitting here the
+images from there. For these reasons, then, it was named divisible, and also
+because what perceives must be distributed along with the perceptible, and
+what imagines along with the imaginable, and must extend together with them.
+For the sensitive motion, being proper to soul, is moved toward the
+perceptible outside; but intellect itself was, on its own, stable and unmoved,
+yet once it has come to be in the soul and gained mastery it turns the soul
+toward itself and completes the circular course, which, about what always
+remains, most of all touches upon being. That is why their partnership has
+been hard to blend, mixing the divisible with the indivisible and what is
+carried every way with what is nowhere movable, and forcing the Other to come
+together into the Same. But the Other was not motion, just as the Same was not
+rest, but a principle of difference and unlikeness. For each comes down from a
+different principle: the Same from the One, the Other from the Dyad; and they
+are mixed first here about the soul, bound by numbers and ratios and harmonic
+means. The Other, arising in the Same, produces difference; the Same in the
+Other produces order, as is clear in the first powers of the soul, which are
+the judging and the motive. Motion shows itself at once about the heaven:
+otherness in sameness by the circuit of the fixed stars, sameness in otherness
+by the order of the planets. For in the former the Same prevails, and in the
+things about the earth the contrary. Judgment has two principles: intellect
+from the Same toward universals, and sense from the Other toward particulars.
+Discourse is mixed from both, becoming intellection among intelligibles and
+opinion among sensibles, using as instruments in between imaginations and
+memories, of which some produce the Other in the Same and others the Same in
+the Other. For intellection is a motion of the thinker about what remains;
+opinion is a rest of the perceiver about what is moved. Imagination is a
+weaving of opinion with sense: the Same sets it at rest in memory, while the
+Other in turn moves it in the difference of before and now, touching otherness
+and sameness together.
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+We must take the fusion that came to be about the body of the cosmos as an
+image of the analogy by which he fitted the soul together. There the extremes
+were fire and earth, whose nature is hard to blend with one another, or rather
+wholly unblendable and unable to hold together. So placing in the middle of
+them air before fire and water before earth, he first blended these with each
+other, then through them mixed and fitted those extremes both to these and to
+one another. Here again he brought together the Same and the Other, contrary
+powers and rival extremes, not through themselves, but with another substance
+in between: the indivisible before the Same, and before the Other the
+divisible, assigning each as belonging to each, then blending them further
+once those had been mixed. In this way he wove together the whole form of the
+soul, as far as it could be done, making like from different and one from
+many.

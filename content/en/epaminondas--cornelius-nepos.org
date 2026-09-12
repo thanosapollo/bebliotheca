@@ -1,0 +1,250 @@
+#+TITLE: Epaminondas
+#+AUTHOR: Cornelius Nepos hermes:grok-4.6
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epaminondas--cornelius-nepos
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Epaminondas edited by Albert Fleckeisen
+#+END_QUOTE
+
+* Caput 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Epaminondas, son of Polymnis, a Theban. Before I write of him, readers should
+be warned not to measure foreign manners by their own, or to suppose that what
+they themselves think slight was equally slight among other peoples. We know
+that among us music is thought beneath a leading man, and dancing is even
+counted a vice; yet among the Greeks all these things are welcome and held
+worthy of praise. Since I wish to draw a picture of Epaminondas's habits and
+life, I think I ought to omit nothing that helps to show them. I shall speak
+first of his family, then of the studies in which he was trained and by whom,
+then of his character and the gifts of his mind and anything else worth
+remembering, and last of his exploits, which most people set above the virtues
+of the soul.
+
+* Caput 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+He was born, then, of the father I have named, of a respectable family, but
+already left poor by his ancestors; in education, however, no Theban surpassed
+him. He learned to play the cithara and to sing to the strings from Dionysius,
+whose fame in music was no less than that of Damon or Lamprus, names that are
+widely known; he learned to play the pipes from Olympiodorus, and dancing from
+Calliphron. His teacher in philosophy was Lysis of Tarentum, a Pythagorean, to
+whom he was so devoted that as a young man he preferred that grim and austere
+old man in intimacy to all his own contemporaries, and he did not let him go
+until he had so far outstripped his fellow pupils in learning that it was easy
+to see he would likewise surpass everyone in the other arts. These things, by
+our customs, are slight and rather to be despised; but in Greece, at least in
+former times, they were a great distinction. After he became an ephebe and
+began to attend the wrestling-ground, he aimed less at bulk of strength than
+at speed, thinking the former belonged to athletes and the latter to the needs
+of war. So he trained chiefly by running and by wrestling, up to the point
+where he could still grapple and contend on his feet. In arms, however, he
+spent the greatest care.
+
+* Caput 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+To this firmness of body still more goods of mind were added. He was modest,
+prudent, serious, wise in using opportunities, skilled in war, brave of hand,
+of the greatest spirit, so careful of the truth that he would not lie even in
+jest. He was also self-controlled, mild, and wonderfully patient, bearing
+injuries not only from the people but even from friends, especially secret in
+keeping confidences, and, what is sometimes no less useful than speaking well,
+eager to listen, for he thought one learns most easily that way. So when he
+had come into a circle where public affairs were being discussed or philosophy
+talked of, he never left until the conversation had been brought to an end. He
+bore poverty so easily that from the state he took nothing but glory. In
+looking after himself he did without the resources of friends; in helping
+others he so often used their credit that one may judge he held all things in
+common with his friends. For when one of his fellow citizens had been captured
+by the enemy, or a marriageable girl could not be given in marriage because of
+poverty, he would hold a council of friends and require each to give according
+to his means. When he had made up the sum, rather than take the money himself
+he would bring the person in need to those who were contributing and have them
+count it out themselves, so that the one who received it would know how much
+he owed to each.
+
+* Caput 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+His integrity was tested by Diomedon of Cyzicus, who at the request of King
+Artaxerxes had undertaken to corrupt Epaminondas with money. He came to Thebes
+with a great weight of gold and, with five talents, won over to his will the
+young Micythus, whom Epaminondas then loved most. Micythus met Epaminondas and
+explained why Diomedon had come. Epaminondas said to Diomedon in his presence:
+"There is no need of money. If the king wants what is useful to the Thebans, I
+am ready to do it for nothing; if the opposite, he has not gold and silver
+enough. I will not take the wealth of the world in exchange for love of my
+country. That you tried me without knowing me, and thought me like yourself, I
+do not wonder, and I pardon you; but leave at once, so that you do not corrupt
+others after failing with me. And you, Micythus, give this man back the
+silver, or, if you do not do it at once, I will hand you over to the
+magistrate." When Diomedon asked to be allowed to leave in safety and to take
+out what he had brought, Epaminondas said, "That I will do, not for your sake
+but for mine, so that if the money were taken from you, no one might say that
+what I had refused when it was offered had come to me by seizure." When he
+asked where Diomedon wished to be escorted, and the man said Athens, he gave
+him a guard so that he might arrive safely. Nor did he think that enough: he
+also, through the Athenian Chabrias, of whom I have spoken above, arranged
+that he should board ship unharmed. This will be enough evidence of his
+integrity. I could bring forward a great many more, but a limit must be kept,
+since I have resolved to enclose in this one volume the lives of a number of
+excellent men, whose deeds several writers before me have set out separately
+in many thousands of verses.
+
+* Caput 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+He was also eloquent, so that no Theban equaled him in speaking, and no less
+neat in a short reply than ornate in a continuous speech. He had a detractor,
+a certain Meneclides, likewise of Thebes, and a rival in public affairs,
+practiced enough in speaking, for a Theban, that is: for that people has more
+strength than wit. Because he saw Epaminondas flourish in military matters, he
+used to urge the Thebans to prefer peace to war, so that they would not need
+that commander's services. Epaminondas said to him, "You deceive your fellow
+citizens with a word when you call them away from war: under the name of ease
+you are procuring slavery. Peace is born of war. Those who wish to enjoy it
+for long must be trained in war. So if you want to be first in Greece, you
+must use the camp, not the wrestling-ground." The same Meneclides, when he
+reproached him for having no children and never having taken a wife, and above
+all for arrogance, because he seemed to have won for himself the war-glory of
+Agamemnon, Epaminondas said, "Stop, Meneclides, reproaching me about a wife:
+there is no one whose advice I would less wish to use in that matter." (For
+Meneclides was under suspicion of adultery.) "As for thinking I rival
+Agamemnon, you are mistaken. He, with all Greece, barely took one city in ten
+years; I, with this one city of ours, in a single day, after putting the
+Lacedaemonians to flight, freed all Greece."
+
+* Caput 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+The same man, when he had come to a meeting of the Arcadians seeking that they
+make an alliance with the Thebans and Argives, and Callistratus, the Athenian
+envoy, who at that time surpassed everyone in eloquence, was asking that they
+rather follow the friendship of the Athenians, and in his speech had inveighed
+much against the Thebans and Argives and had put this among his points, that
+the Arcadians ought to notice what sort of citizens each city had produced,
+from whom they could judge the rest: that the Argives had had Orestes and
+Alcmeon, matricides, and that Oedipus had been born at Thebes, who, after
+killing his own father, had begotten children by his mother: in answering him,
+Epaminondas, when he had finished the rest, and came to those two reproaches,
+said he marveled at the stupidity of the Attic rhetorician, who had not
+noticed that those men, born innocent at home, after committing the crime and
+being driven from their country, had been received by the Athenians. But his
+eloquence shone most when he was envoy at Sparta before the battle of Leuctra.
+When the envoys of all the allies had gathered there, before a very crowded
+meeting of embassies he so exposed the tyranny of the Lacedaemonians that he
+shook their power no less by that speech than by the battle of Leuctra. For
+then he brought about what later became clear, that the Lacedaemonians were
+stripped of their allies' help.
+
+* Caput 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+That he was patient and bore the injuries of his own fellow citizens, because
+he thought it a crime to be angry with his country, these are the proofs. When
+his fellow citizens, out of envy, had refused to put him in command of the
+army, and a leader inexperienced in war had been chosen, whose blunder had
+brought things to such a pass that all feared for their safety, because they
+were shut in a narrow place and besieged by the enemy, Epaminondas's care
+began to be missed: for he was there as a private man in the ranks. When they
+asked help of him, he showed no memory of the insult and brought the army home
+safe after freeing it from the siege. Nor did he do this only once, but often.
+It was most famous, however, when he had led an army into the Peloponnese
+against the Lacedaemonians and had two colleagues, one of whom was Pelopidas,
+a brave and energetic man. When all of them had fallen into odium through the
+charges of their opponents, and for that reason their command had been taken
+from them and other generals had succeeded in their place, Epaminondas did not
+obey the people's decree, persuaded his colleagues to do the same, and carried
+on the war he had undertaken. For he saw that if he did not, the whole army
+would perish through the generals' lack of sense and ignorance of war. There
+was a law at Thebes that punished with death anyone who had held command
+longer than the law prescribed. Epaminondas, seeing that this law had been
+passed to preserve the state, would not let it be turned to the city's ruin,
+and held command four months longer than the people had ordered.
+
+* Caput 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+After they had returned home, his colleagues were accused on this charge. He
+allowed them to shift the whole case onto him and to argue that it was by his
+doing that they had not obeyed the law. When that defense had freed them from
+danger, no one thought Epaminondas would answer, because he would have nothing
+to say. But he came into court, denied none of what his opponents charged,
+confessed everything his colleagues had said, and did not refuse to undergo
+the penalty of the law, but asked only this of them, that they inscribe on his
+tomb: "Epaminondas was punished with death by the Thebans because he compelled
+them at Leuctra to defeat the Lacedaemonians, whom before he was commander no
+Boeotian had dared to look at in the line of battle, and because in one battle
+he not only drew Thebes back from destruction but also claimed all Greece for
+liberty, and brought both sides to this, that the Thebans were attacking
+Sparta and the Lacedaemonians thought it enough if they could be safe, and he
+did not stop making war until, after restoring Messene, he shut their city in
+by siege." When he had said this, laughter rose from everyone with good humor,
+and no judge dared to cast a vote against him. So he left a capital trial with
+the greatest glory.
+
+* Caput 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+At the last, as commander at Mantinea, when with his line drawn up he was
+pressing the enemy more boldly, he was recognized by the Lacedaemonians, who
+thought their country's safety lay in the destruction of this one man; they
+all made a charge at him alone and did not withdraw until, after great
+slaughter and many killed, they saw Epaminondas himself, fighting most
+bravely, struck from a distance by a spear and fall. By his fall the Boeotians
+were somewhat checked, yet they did not leave the fight until they had routed
+those who still resisted. But Epaminondas, seeing that he had received a
+mortal wound and that if he drew out the iron that had remained from the shaft
+in his body he would at once give up his life, held it in until it was
+reported that the Boeotians had won. After he heard that, he said, "I have
+lived enough: I die unconquered." Then, when the iron was drawn out, he died
+at once.
+
+* Caput 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+He never took a wife. When Pelopidas, who had a son of ill repute, reproached
+him for this and said he was serving his country badly in that matter by
+leaving no children, he said, "See that you are not serving it worse, you who
+are going to leave such a son born of yourself. Nor can I lack offspring: I
+leave the battle of Leuctra born of me, which must not only survive me but
+even be immortal." At the time when the exiles, with Pelopidas as leader,
+seized Thebes and drove the Lacedaemonian garrison from the citadel,
+Epaminondas stayed at home as long as the slaughter of citizens was going on,
+because he did not wish either to defend the wicked or to attack them, lest he
+stain his hands with the blood of his own people: for he thought every civil
+victory a funeral. The same man, after fighting with the Lacedaemonians had
+begun at the Cadmea, stood in the front rank.
+
+It will be enough said of his virtues and life if I add this one thing, which
+no one will deny: that Thebes, both before Epaminondas was born and after his
+death, was always subject to another's command, but as long as he was at the
+head of the state it was the head of all Greece. From this it can be
+understood that one man was worth more than a city.

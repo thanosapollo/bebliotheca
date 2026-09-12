@@ -1,0 +1,79 @@
+#+TITLE: Fasti
+#+AUTHOR: Ausonius, Decimus Magnus hermes:grok-4.6
+#+FILETAGS: :byzantine:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/untitled--ausonius-decimus-magnus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Untitled edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+** AUSONIUS TO HESPERIUS HIS SON, GREETING (To be appended to the Consular Book which I compiled as one from all the Consuls. To Gregory from the Prefect.)
+:PROPERTIES:
+:CUSTOM_ID: h1-h1
+:END:
+
+Lest the times of eternal Rome be unknown to you,
+drawn under kings and the commands of the fathers,
+I have arranged the fasti and the names of flying age,
+if any lie scattered through Latin history,
+let this be your fruit, receive nights watched through:
+our lamp obeys your study.
+You too, to list the coming Januses through a long span,
+as my page has arranged the past.
+You already have the father's example, that forthwith you too
+the purple may join to the Ausonian consuls.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+** CALCULATION FROM THE FOUNDING OF THE CITY TO OUR CONSULSHIP
+:PROPERTIES:
+:CUSTOM_ID: h2-h1
+:END:
+
+Join four to eleven hundred years,
+and bind eleven and one besides a three-year period.
+This will be the series of eternal Rome from its origin.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** ADDED AT THE END OF THE SAME BOOK
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+Thus far I have written the fasti; if lot will, further
+I will add; if not, you who read will add.
+You wish to know who I am? Seek the title which is fourth from the bottom:
+you will read the name of the consul Ausonius.
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** ON THE SAME
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+When, Proculus, you receive the series of years
+drawn from Quirinus the king of the eternal city,
+you will read that a thousand years and a hundred and twice nine have flowed
+up to the name of the consul Ausonius,
+it may be that, when a lustrum has piled itself on these,
+Proculus may mark a completed Olympiad.

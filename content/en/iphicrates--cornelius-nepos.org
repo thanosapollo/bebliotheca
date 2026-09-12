@@ -1,0 +1,31 @@
+#+TITLE: Iphicrates
+#+AUTHOR: Cornelius Nepos hermes:grok-4.6
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/iphicrates--cornelius-nepos
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Iphicrates edited by Albert Fleckeisen
+#+END_QUOTE
+
+* Chapter 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Iphicrates the Athenian was ennobled not so much by the greatness of things done as by military discipline. For he was such a leader that he was not only compared with the first of his own age, but not even anyone of those older by birth was put before him. And he was much versed in war, often he was set over armies, nowhere by fault did he manage the thing badly, always he conquered by counsel and so much did he prevail by it that many things in military affairs he partly brought new, partly made better. For he changed the infantry arms. When before that commander they used the greatest shields, short spears, tiny swords, he on the contrary made a pelta instead of a parma (from which afterward the infantry were called peltasts, who before were called hoplites), that they might be lighter for motions and runnings-together, he doubled the measure of the spears, he made the swords longer. The same man instituted a new kind of cuirasses and instead of linked and bronze ones he gave linen. By which deed he rendered the soldiers more unencumbered: for having taken away the weight, he cared that what equally covered the body should also be light.
+
+* Chapter 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+He waged war with the Thracians, he restored Seuthes, an ally of the Athenians, into a kingdom. At Corinth he was set over the army with such severity that never in Greece were there any forces either more exercised or more hearing the word of a leader, and he led them into that custom that, when the signal of battle had been given by the commander, without the work of a leader they stood so ordered that the individuals seemed disposed by a most skilled commander. With this army he killed a mora of the Lacedaemonians, which was most celebrated through all Greece. Again in the same war he put all their forces to flight, by which deed he obtained great glory. When Artaxerxes wished to bring war upon the Egyptian king, he sought Iphicrates from the Athenians as a leader, whom he might set over a hired army, whose number was of twelve thousand. Whom indeed he so instructed in all military discipline that, as once Fabian soldiers were called at Rome, so Iphicratenses among the Greeks were in the highest praise. The same man, having set out as aid to the Lacedaemonians, retarded the onsets of Epaminondas. For unless his arrival had approached, the Thebans would not have withdrawn from Sparta before they had destroyed it captured by fire.
+
+* Chapter 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+And he was of a great spirit and body and of a commander's form, so that by the very look he would throw admiration of himself upon anyone, but in labor too remiss and little enduring, as Theopompus has handed down to memory, but a good citizen and of great faith. Which when he declared in other things, then most of all in guarding the children of Amyntas of Macedon. For Eurydice, mother of Perdiccas and Philip, with these two boys after Amyntas died fled to Iphicrates and was defended by his resources. He lived to old age with the spirits of his own citizens calmed toward him. He pleaded a capital case once, in the Social War, together with Timotheus, and by that judgment he was acquitted. He left a son Menestheus born from a Thracian woman, daughter of king Cotys. He, when he was asked whether he made more of father or of mother, said mother. When this seemed wonderful to all, but he said I do it deservedly: for father, as much as was in him, begot me a Thracian, against that mother an Athenian.

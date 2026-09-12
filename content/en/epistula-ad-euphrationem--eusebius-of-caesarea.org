@@ -1,0 +1,39 @@
+#+TITLE: Letter to Euphration
+#+AUTHOR: Εὐσέβιος Καισαρείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg19-24:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula-ad-euphrationem--eusebius-of-caesarea
+#+LANGUAGE: en
+
+* Letter to Euphration
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+1 I confess thanks to my master in all things. For we do not say that the Son
+coexists with the Father, but that the Father preexists the Son. For if they
+coexist, how will the Father be Father and the Son? or how the one first, and
+the other second? and the one unbegotten, and the other begotten? For two
+coexisting equally similarly to one another would be thought equal in honor and
+either both, as I said, unbegotten or each begotten. But neither of these is
+true; for neither the unbegotten nor the begotten would be both. But the one
+both first and better even in order and honor leads the second, as having also
+become cause to the second both of being and of being of such a sort.
+2 Only the Son of God himself, knowing more exactly than all, knowing himself
+other than the Father and less and having gone under, very piously teaches this
+also to us saying: "the Father who sent me is greater than I".
+3 And he teaches the same one also to be the only true through the things he
+says: "that they may know you the only true God", not as God being one only, but
+as being one only true God with a most necessary addition of the true. Since the
+Son himself also is God, but not true God. For there is one and only true God
+because of not having anyone before him. And if the Son himself also is true,
+yet as an image of the true God he would also be God, since "and the Word was
+God", not however as the only true God.
+4 And surely the image and that of which it is the image are not thought one and
+the same, but two essences and two things and two powers, as also so many
+appellations.
+5 Wherefore most clearly also the divine apostle, handing down to us the
+unspeakable and mystical theology, cries and has cried "one is God", then after
+the one God he says "one mediator of God and men, a man Christ Jesus".

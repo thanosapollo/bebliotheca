@@ -1,0 +1,25 @@
+#+TITLE: Letter to an Unknown Person
+#+AUTHOR: Ὠριγένης hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg11-17:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula-ad-ignotum--origen
+#+LANGUAGE: en
+
+* Letter to an Unknown Person
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+"The holy Ambrose, genuinely dedicated to God, greets you much; who, thinking
+me to be industrious and very thirsty for the divine word, convicted me by his
+own industry and by his love toward the holy studies; whence he has so far
+surpassed me that I am in danger of giving out before his proposals. For it is
+not possible to dine except while collating, nor after dining is it permitted
+to walk about and rest the little body, but even in those times we are
+compelled to study and to make the copies exact, nor indeed is it permitted us
+to sleep the whole night for the care of the body, the study being prolonged
+far into the evening; and I pass over also the hours from dawn until the ninth
+and sometimes even the tenth hour; for all who wish to be industrious dedicate
+these times to the examination of the divine oracles and to the readings.

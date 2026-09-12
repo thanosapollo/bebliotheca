@@ -1,0 +1,164 @@
+#+TITLE: A Judgment on Euripides and George of Pisidia
+#+AUTHOR: Μιχαὴλ Ψελλός hermes:grok-4.6
+#+FILETAGS: :byzantine:11c-ad:pg122:
+#+MIGNE_TITLE: De Euripide et Georgio Piside judicium
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-euripide-et-georgio-piside-judicium--michael-psellus
+#+LANGUAGE: en
+
+* A Judgment on Euripides and George of Pisidia
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+The same man, to one who asked, "Who versified better, Euripides or
+Pisides?"
+Both are serviceable, at least for meter and for poetry: both the
+Phliasian Euripides the tragedian, and George of the Pisidians, who
+perfected the iambic meter beyond the many who [followed] him. But
+since he made the same discourse, so to speak, most nearly like, the
+distinction is hard: how the two differ from one another, and which of
+the two is fairer than the other. Yet concerning both arts, if someone
+possesses the science of meter and a noteworthy knowledge of rhythms,
+and is lofty-minded and theoretical about meters and feet, it is not
+very hard to find some difference in both and to give one the prize of
+victory over the other. And let this stand at the head of the whole
+discourse: that meters and rhythms have admitted countless variations
+across the ages. For the heroic meter no longer preserves its ancient
+magnificence, nor does it stand among the most exact meters, but it
+has been mixed with the dactylic and the spondaic, and with ithyphallic
+meters and pairings of iambs; nor does the iambic meter appear
+possessing the same pauses and the same rhythms and the same
+composition as those of former times, but it is now more theatrical
+and, as if upon the dancing-floor, has grown shameless, and it
+overleaps every base and flies over every rhythm, and now the only
+thing sought after is the darting of the meter and its iambic beat.
+Tragic poetry, however, adorned with diverse rhythms and taking varied
+meters, does not [throughout] dance its subjects out of measure, nor
+overleap them, but there are places where it also seeks well-struck
+sounds and prefers the eurhythmy of the feet and welcomes the metrical
+pairings of the speech; yet wherever it seems good to the poet, it
+changes its tone and alters the rhythm, and sometimes the rhythm is
+snatched away, and sometimes it walks upon a trisyllabic or
+tetrasyllabic metrical base. And rhetorical speech, in beauty (I mean
+in the idea), somehow rhythms the [...] more musical rhythms, but in
+the remaining ideas it especially roughens, I mean it sets the meters
+as rough, and roughens the hearing.
+Euripides, then, having perfected poetry as no one else has, unless
+someone should prefer Sophocles to him, is marvelous for his variety
+and able to imitate all things. And sometimes you will find the poet
+going dithyrambic, seeking after new things and preferring them, and
+sometimes leading the other graces and dignities, adorned with
+choriambs, and becoming manifold in his poetry; most ethical where
+character must be made solemn, and again most pathetic where the
+sufferings of those who have suffered surge beneath, since the most
+perfect head of tragic poetry is pathos. And of the two forms, speaking
+tragically and speaking comically, this is the difference: that there
+pathos is the underlying matter, but here for the most part laughter
+and graces. And since the parts of tragedy are also more numerous, not
+only as regards the stage, but also as regards the whole treatment and
+composition, the part upon the stage is one thing, [the] choral
+[another], the part from another scene is yet another, and the
+episodes are one thing, the pre-episodes another. Some things
+messengers utter, others Phrygians, a barbarian company, or captive
+women, or another chorus; and not for all are [the same] meters
+appropriate to all, but the poet must also call up a womanly song and
+imitate a barbarian character, and perfect the Greek tongue, and
+otherwise play what is fitting to the persons at hand. For these
+reasons the verses too, in these cases, are different at each point,
+and the meters are of another kind, and the rhythms are not suited to
+one another. For Sophocles, then, and indeed for Aeschylus, the
+thoughts are deeper and the construction of the speech more solemn,
+and there are not graces everywhere, nor well-struck rhythms, but most
+things are more solemn and, so to speak, most seemly.
+Aeschylus, at least, in the Prometheus hung aloft, departs a little
+from his own character, and, delighting greatly in pure iambs and in
+certain little words that fawn upon the ear, took hold of the subject
+more smoothly than it [warrants]. But in the rest of his dramatic
+subjects, especially where he imitates the Dareian characters, he is
+for the most part formidable and hard to utter, and no one would
+understand him who had not been, so to speak, initiated in the
+theophanies. But Euripides, having composed eighty dramas or even more,
+is everywhere statuesque and graceful, not only in the graces of
+speech, but even in the sufferings themselves. And often, having
+dramatized the Athenians at the fitting time, he brought them down to
+a great many tears; for they thought they saw what was spoken as if it
+were coming to pass. And where he brings in Orestes raving, having
+first, as was fitting, prefaced as much as [concerns] Tantalus, then
+coming down to the sister Electra and the women gathering from the
+neighborhood, so as to see Orestes and visit him, he does not even
+utter "with quiet foot" (Or. 136), but that man stood where he was
+standing, and they, answering Electra as she said "Be silent, make no
+noise, let there be no din" and the rest, wound a kind of chorus
+toward one another, and uttered the meters to the song, and it was no
+care to them if they had to give the word an acute accent: they sang
+otherwise. Thus everywhere his concern is for rhythmic phrasing and
+the eloquence of diction and the tunefulness of rhythm. Quite simply,
+then, he introduces the whole of music and the rhythmic movements
+themselves into his own poems, and his speeches are neither without
+intervals nor without a change of rare words. And the man has taken
+thought especially in other things: for the wise man transposes the
+meters and the diction and varies the phrasing according to his power.
+The man neither overlooks the plots nor the characters of the persons,
+although in these things the tragedies of Sophocles, more than the
+others, were worked out and labored over. But Euripides cared less for
+these, and worked more than the other at song-making, I mean that in
+words, and the use of it, and these three of the fairest sciences,
+music and rhythmics and metrics, gathering them like pipes and
+kitharas and lyres into his own subjects. And when the tongue needed
+to speak barbarously, he has imitated it so that the same man seems
+both to hellenize to the utmost and to solecize exactly; for what is
+beside the Attic tongue in barbarian words has the look of solecism.
+And there are places where he misses what is fitting, and becomes more
+a thing of rhetorical power than of the exactness of poetry. For
+instance, having brought Hecuba on against Odysseus, a noble and
+rhetorical man, he raises her against him and grants her the first
+honors; and he does exercise that man too not without charm, but he
+makes him lesser than the captive woman. And for the man the fault is
+for others a success. But the exactness of speech and the power of the
+science demand the best from all things.
+Such, then, is Euripides. But the sage from Pisidia, I think from
+lesser Antioch, is not a poet of hexameters, but having pursued one
+kind of meter, the iambic, I mean the ancient and of a single form,
+and having worked at this for the most part, he varies in no way the
+[...] persons belonging to this, nor a dramatic construction nor a
+varied [...]. But he composes the iambs very rhythmically and
+eloquently, not finely chopping the iamb into many parts, but in some
+places content with three only. And in all things his phrasing is
+unforced, as if he were not inventing either the thoughts or the
+words, but reading the things set before him. All his words are Greek,
+and, together with magnificence, well-sounding. And if he should take
+hold of a trope, whether that in play and in graces or that in
+solemnity, he so advances what he has found in the discourse and so
+fittingly sets it that he does not seem to spoil at all the other
+subject from which he started toward his own. If, then, he has named a
+disease in the discourse, he at once wheels in the whole of medicine,
+sparing neither the causes nor the things by which diseases are
+treated. And if he should hang a chain from heaven and fasten some
+powers to it, at once there are the bonds and the hangings and all
+that belongs to the height and all that belongs to the last link of
+that slack chain. And if he should gather the Hours and urge them on
+together as in a chorus, ah, the meeting of hands and the circle and
+the winding and the circuit and the epode and the strophe and the
+antistrophe and the motion. And if he should also choose to
+theatricalize the discourse and call the composition of the Hours a
+four-horse team, how much he utters about charioteers and the finest
+charioteering, how much about yokes and wheels and axle-boxes, and
+what the hubs are like for him, and the felloes of the wheels, and the
+horse-trappings and snortings. And his discourse descends even to the
+last things of the craft, and concerning things about which not even
+those who work at the craft themselves would speak. And if he should
+also set phalanxes upon one another, you would find there the whole
+cavalry and infantry array: the spearmen, the javelin-throwers, the
+archers, the enomotarch, the half-file-leader, the file-closer, the
+file-mates, the rear-rankers. And his verses leap as if from a sling,
+together with the feet, and with the meter they bring the thought to a
+swift close. If, then, you should compare the Pisidian meters and the
+rhythms with tragic poetry, I mean that of Euripides, inferior [...]
+of that man [...] diction, and looking upon blood from the earth, and
+[...] the first honors against the poet. For I do not know if anyone
+knows how to write iambs more finely than this man, just as [I do not
+know it] of writing hexameters either, except that he composed the
+heroic verses few and easily numbered.

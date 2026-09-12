@@ -1,0 +1,60 @@
+#+TITLE: Catholic Epistle
+#+AUTHOR: Ἀθανάσιος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg25-28:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula-catholica--athanasius-of-alexandria
+#+LANGUAGE: en
+
+* Catholic Epistle
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Catholic Epistle of our father among the saints Athanasius. To the brethren in
+each place who lay claim to faith and salvation, and to the orthodox bishops
+throughout Egypt, and Syria, and Cilicia, and Phoenicia, and Arabia,
+Athanasius and the fellow-bishops, greeting in the Lord. As many of you as
+perceive the impiety that is rising up against piety, both through open empty
+talk and through deceitful hypocrisies, and divisions, and unseemly tumults,
+and blows, and wounds, and murders, you ought to withdraw, as from some storm
+into a harbor, and to save yourselves, neither mixing yourselves with the
+impiety of those who reject the one and true Godhead of the Holy Trinity, and
+alienate the Son from the Father, and separate the Spirit from the Son, nor
+mixing yourselves with their confusions and bloodshed. For thus we also,
+wishing to save ourselves and those who are persuaded by us, have already for
+a long time been exposing both the open impiety of Arius and the hypocrisy of
+those who by fabricated words lead the simpler astray; and we separate
+ourselves from all their disorder, mourning over the things they do, because
+they cause the good name to be blasphemed, and wishing that both the law of
+the faith and of decent conduct be somehow preserved among us and those with
+us. To these things we also exhort you, both as many as have already taken the
+same stand, and as many as have not yet risen to this zeal. Or have you not
+even understood that through such things Christianity is being overthrown, and
+that the devil, in a deceitful guise, is warring down the Church, and sinking
+it as a ship? And if you also wish to write to us and to communicate
+concerning such things, we will receive with joy your like-mindedness and
+concurrence, brethren, and the communion of prayers, even if we are separated
+in place; making known to you that, even if for a long time already the things
+of this corruption have been prevailing, still even now the good of the
+apostolic faith remains both among most of the peoples and among most of the
+bishops; even if some hold the people by force and with other deceitful words
+=28.84=; and a multitude of bishops, some through fear of those more prominent
+in the cities, others through pretension of glory; and what they think they
+hide, and what they do not think they pretend. So that, if they have not been
+preoccupied by these passions, even if the truth is spoken in only a few
+words, they recognize that neither can a creature of God be God and Son of
+God, nor is the Holy Spirit numbered among creatures. And we have received an
+appearing of God, and not a sojourning of a creature; nor have we believed in
+a servant's presence, and we have received of a divine Spirit, through whom we
+also are deified, and are made temples of God. For these things, even when
+spoken thus briefly, are evident to every Christian, as they preserve the
+exact truth proclaimed from the beginning, remaining in which we await the
+eternal hopes. The symbol of our faith, then, is the consubstantial Trinity,
+true God, become man from Mary. And let him who does not agree be anathema.
+For these things the writing of the great synod at Nicaea also intends: that
+the Son is consubstantial with the Father; and that the Spirit is glorified
+together with the Father and the Son; that the Son of God, true God, was
+incarnate, suffered, rose, has gone up into the heavens, will come as judge of
+living and dead; to whom be the glory unto the ages of ages. Amen.

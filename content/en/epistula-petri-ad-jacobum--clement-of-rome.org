@@ -1,0 +1,49 @@
+#+TITLE: Letter of Peter to James
+#+AUTHOR: Κλήμης Ρώμης hermes:grok-4.6
+#+FILETAGS: :patristic:1c-ad:pg01-02:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula-petri-ad-jacobum--clement-of-rome
+#+LANGUAGE: en
+
+* Section among
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+come to be among us, give my books of preachings to our seventy brothers with
+the like mystery of the way of life, that they may also furnish those who wish
+to take up the part of the teaching; since if it does not come to be thus, the
+word of our truth will be divided into many opinions. And this I know not as
+being a prophet, but already seeing the beginning of the evil itself. For some
+of those from the nations have rejected the lawful preaching through me, having
+accepted a certain lawless and babbling teaching of the enemy man. And these
+things while I am still remaining some have attempted by certain various
+interpretations to reshape my words into the dissolution of the law, as if I
+myself also so think, but not preaching from boldness. Which may it be far. For
+such a thing is to act against the law of God spoken through Moses and witnessed
+by our Lord concerning its eternal remaining. Since he said thus: "The heaven
+and the earth will pass away, one iota or one tittle will not pass away from the
+law". And this he has said, "that all things may come to be". And they I do not
+know how promising my mind, the words they heard from me, attempt to interpret
+more prudently than I who said them, saying to those catechized by them that
+this is my thought, which I did not even consider.
+And if while I am still remaining they dare to lie such things, how much more
+
+* Section after
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+after me will those after me dare to do? Therefore that no such thing come to
+be, for this sake I thought it right and begged that the books of my preachings
+which I sent you be given to no one neither of the same race nor of another race
+before a trial, but if someone having been tested is found worthy, then to hand
+them down to him according to the way of Moses, according to which he handed
+down to the seventy who had taken his seat, that thus they may keep the faiths
+and everywhere hand down the canon of the truth, interpreting all things toward
+our tradition, and not themselves being dragged down by ignorance, being drawn
+into error by the guesses according to the soul, bring others into the like pit
+of destruction. And the things that seemed to me I have well signified to you,
+and what seems to you, my lord, accomplish fittingly. Be well.

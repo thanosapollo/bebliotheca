@@ -1,0 +1,95 @@
+#+TITLE: On Measures and Weights
+#+AUTHOR: Εὐσέβιος Καισαρείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg19-24:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-mensuris-et-ponderibus--eusebius-of-caesarea
+#+LANGUAGE: en
+
+* On Measures and Weights
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+A shorter selection of Eusebius of Pamphilus concerning measures and weights.
+1 There are many differences of them according to different countries, but the
+things set below lie in one sequence in full assurance; and the hypothesis also
+has not a little benefit because very many things are brought in in the
+God-inspired scriptures.
+
+2 Concerning the liquid measures.
+An alabaster 1 litra.
+The amphora of wine is a metretes of 48 xestai.
+A cab of 6 xestai.
+A xestes of 2 litrai.
+A cotyle of 1 litra.
+A tryblion 4.
+An oxybaphon 3.
+A cados of 24 xestai.
+A prochos of 12 xestai.
+A chous of 6 xestai.
+A cyathus 2.
+A mystron.
+A cochlearion 4.
+The xestes then is dissolved into 6 cochlearia.
+
+3 Still concerning the liquid measures.
+A nebel of wine of 150 xestai.
+A cados of oil of 50 xestai.
+A bath of 50 xestai.
+A colathos of 25 xestai.
+A saphitha of 22 xestai.
+A maris of 20 xestai.
+A hin the great of 18 xestai.
+And the holy of 9 xestai.
+A hydria of 10 xestai.
+A stamnos of 10 xestai.
+A campsakes of 4 xestai.
+The weight of wine of 10 litrai of oil become 9 litrai, and of honey 15 litrai.
+
+4 Concerning the dry measures.
+A cor of 30 sata, 45 modii.
+A gomer of 15 modii.
+A medimnon of 6 modii.
+A metretes of 4 modii.
+A leketh of 15 modii.
+An artabe of 4 modii; now a modius of 16 xestai.
+A metron of 7 xestai.
+A small gomer of 7 xestai.
+A choenix of 2 xestai. and 3.
+A Pontic cyprus of 2 modii.
+A saton a sesquialter of the modius, that is the half with the whole, of 24 xestai.
+A hin of 2 xestai.
+A xestes of 2 litrai.
+A drax the holding of the hand.
+And the small measures of the dry likewise to the aforementioned liquids.
+A Saite of 22 xestai.
+An aporyma of 11 xestai.
+
+5 Concerning weights.
+A talent of 60 litrai.
+A mina of 1 litra.
+A litra of 12 ounces.
+A denarius 4.
+A nummus 1.
+A stater the.
+A shekel the 4th.
+An assarion the 4th.
+A quadrans the 4th.
+A silver of 18 keratia.
+A nomisma of 18 keratia.
+A drachma of 18 keratia.
+A holke of 18 keratia.
+A gramme of 6 keratia.
+An obol of 3 keratia.
+A light obol an eightieth of the....
+A keration 20 folles.
+A thermos of 1 keration.
+A chalcous 3 folles.
+A miliarision 20.
+A bag of 45 keratia.
+6 The ounce has 2 staters, 4 shekels, 8 drachmas, 24 grammes, 48 obols, 144 keratia.
+7 The aforementioned weights were sometimes stamped of old from gold, sometimes
+from silver, and there was a time also from bronze and iron, as the times and
+the places had.

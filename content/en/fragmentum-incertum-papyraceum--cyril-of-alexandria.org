@@ -1,0 +1,27 @@
+#+TITLE: Uncertain Papyrus Fragment
+#+AUTHOR: Κύριλλος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:5c-ad:pg68-77:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum-incertum-papyraceum--cyril-of-alexandria
+#+LANGUAGE: en
+
+* Uncertain Papyrus Fragment
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+col1.1 the opinion of Apollinarius and the blasphemy of Nestorius I consider
+[...] of the incarnation [...] evil-belief I follow; believing both to be of
+equal and the same impiety, to attach a division or dyad to the Only-begotten
+Son of God according to the economy, and not to confess his ensouled and
+all-holy flesh to be human, except only without sin, but either to have had
+its existence from heaven, or to have come to be according to a turning of the
+Word [...] fantasy [...] therefore [...] having fallen [...] having said, They
+wander not knowing the scriptures, and neither admitting their communion nor
+access, I hold to the right and unadulterated faith, which the blessed and
+saving symbol in Nicaea confirmed; and [...] of the church; this is of a
+persecutor; nor have I attacked the pious; for it is simple and mindless; but
+those who disturb the church among us and the Christ-loving people according
+to it [...] I consider to have been condemned; for of natures and forms

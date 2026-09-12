@@ -1,0 +1,737 @@
+#+TITLE: Epigrams
+#+AUTHOR: Callimachus hermes:grok-4.6
+#+FILETAGS: :classical:3c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ἐπιγράμματα--callimachus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Epigrams edited by A. W. Mair
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+A stranger out of Atarneus asked Pittacus
+of Mytilene, Hyrras' son, this:
+/Old father, two marriages call me. One bride
+is my match in wealth and blood;
+the other has gone past me. Which is better?
+Come, take counsel with me: which do I lead
+to the wedding song?/
+He spoke. The old man lifted his staff,
+that weapon of age:
+/Look there. Those boys will tell you the whole word./
+They were whipping swift tops in the wide
+meeting of three roads.
+/Go in their tracks,/ he said. The stranger stood near.
+And they were crying: /Drive one that matches you./
+Hearing that, he forbore to seize the greater house.
+He took the children's omen
+
+and brought the lesser bride home, as that man did.
+So you too, as you go, take the one that matches you.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+Someone told me of your death, Heraclitus,
+and it brought me to tears. I remembered how often
+we two sank the sun in talk. And you, I suppose,
+stranger of Halicarnassus, are ash four ages gone.
+Your nightingales live on. On them Hades,
+who snatches all, will never lay a hand.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+[Thorns stand sharp all round the tomb,
+and stakes. You will hurt your feet if you come near.]
+I, Timon the man-hater, dwell here. Pass by.
+Say /wail much/, then only pass by.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+Do not bid me joy, you evil heart. Pass by.
+For me, your not laughing is as good as a greeting.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+Timon, for you are no longer: which is hateful to you,
+the dark or the light?
+/The dark. There are more of you in Hades./
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+I am a conch, Zephyritis, older than most, but now
+you hold me, Cypris, Selenaia's first offering,
+a nautilus that used to sail the open sea:
+if the winds blew, I stretched my own sail
+from the forestays; if Galene, that sleek goddess,
+then I rowed hard with my feet, so name
+and work keep company, until I fell
+beside the Iulian beaches, that I might become
+your much-looked-at plaything, Arsinoe,
+
+and no longer in sea-chambers as before
+(for I am breathless) should the damp kingfisher
+lay her egg. Grant grace to Cleinias' daughter.
+She knows how to do what is noble, and she comes
+from Aeolian Smyrna.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+I am the labor of the Samian who once took
+the divine singer into his house. I tell of Eurytus,
+all he suffered, and of blonde Ioleia. They call me
+a Homeric writing. Dear Zeus, that is no small thing
+for Creophylus.
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+A boy was crowning his stepmother's stele,
+a little stone, thinking life and temper had changed.
+It leaned from the tomb, fell, and killed the child.
+Stepchildren, flee even a stepmother's grave.
+
+* 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+Theaetetus took a clean road. If that path
+did not catch your ivy, Bacchus, the heralds
+of others will speak a name for a short hour,
+but Hellas will speak his wisdom always.
+
+* 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+A short speech, Dionysus, for a poet who does well.
+The longest word he says is /I win/.
+The man on whom you do not breathe kindly,
+if someone asks /How did it go?/, says
+/Hard is what comes./
+Let that saying belong to the man who plots
+what is not just. For me, lord, the short syllables.
+
+* 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+Here Saon son of Dicon, of Acanthus, sleeps
+a holy sleep. Do not say the good die.
+
+* 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+If you seek Timarchus in Hades, to learn
+something of the soul, or how you shall be again,
+seek the son of Pausanias, of the Ptolemais tribe.
+You will find him among the pious.
+
+* 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+The stranger was a man of few words. Even a verse
+that will not say much,
+
+/Theris son of Aristaeus, a Cretan/, is long on me.
+
+* 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+If you come to Cyzicus, it is little trouble
+to find Hippacus and Didyme. The family is not obscure.
+You will tell them a painful word, yet say this:
+that I hold their Critias here.
+
+* 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+Does Charidas rest under you? /If you mean the son
+of Arimmas of Cyrene, he is under me./
+Charidas, what is below? /Much darkness./ And the way up?
+/A lie./ And Pluto? /A story./ We are lost.
+
+/This is my true word to you. If you want the sweet one:
+a great ox in Hades goes for a Pellaean./
+
+* 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+Who knows well the spirit of tomorrow? When even you,
+Charmis, whom our eyes had yesterday,
+we buried on the next day, weeping. Diophon
+the father saw nothing more painful than that.
+
+* 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+/Timonoë./ Who are you? By the gods I would not
+have known you, if your father Timotheus' name
+were not on the stele, and Methymna, your city.
+Truly I say your husband Euthymenes, left empty,
+is in great grief.
+
+* 18
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+The daughters of Samos often look for Crethis
+of many stories, who knew how to play well,
+the sweetest fellow-worker, always talking. She sleeps
+here the sleep that is owed to all.
+
+* 19
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+Would that the swift ships had never been. Then we
+would not be mourning Sopolis, Diocleides' son.
+Now he is carried a corpse somewhere in the sea,
+and in his place we pass a name and an empty tomb.
+
+* 20
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+Lycus of Naxos did not die on land, but in the sea
+he saw ship and life go under together,
+a merchant sailing from Aegina. He is a corpse
+in the wet, and I, a tomb that holds a name
+and nothing else, cry this all-true word:
+/Sailor, do not mix with the sea
+when the Kids are setting./
+
+* 21
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+Here the father Philippus laid his twelve-year-old,
+his great hope, Nicoteles.
+
+* 22
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+At dawn we buried Melanippus, and as the sun
+went down the girl Basilo died by her own hand.
+She could not bear to live after she had set
+her brother on the fire. The house of Aristippus
+saw a twin evil,
+
+and all Cyrene bowed its head, seeing the house
+rich in children left empty.
+
+* 23
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+You who pass my tomb, know that I am both child
+and father of Callimachus of Cyrene.
+You would know both. One once led the arms
+of his country. The other sang things stronger
+than spite. No wonder: those the Muses looked on
+as children, not with a sidelong eye,
+they do not put away as friends when the hair is gray.
+
+* 24
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+A Nymph snatched Astacides the Cretan goatherd
+from the mountain, and now Astacides is holy.
+No longer under Dictaean oaks, no longer Daphnis
+shall we shepherds sing, but Astacides always.
+
+* 25
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+Saying /Farewell, Sun/, Cleombrotus of Ambracia
+leapt from a high wall into Hades,
+
+having seen no evil worthy of death, but having read
+one writing of Plato, the book on the soul.
+
+* 26
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+I, the hero, stand as door-guard for Eetion
+of Amphipolis, small on a small porch,
+with a coiled snake and only a sword. Angry
+at the man Epeius, he set even me beside him on foot.
+
+* 27
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+Callignotus swore to Ionis he would never hold
+a dearer friend than her, man or woman.
+He swore. But they tell the truth who say
+that oaths in love do not sink into the ears
+of the deathless. Now he is burned with a male fire,
+and of the poor bride, as of the Megarians,
+there is neither word nor count.
+
+* 28
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+I had a little life from small means, doing nothing
+terrible, wronging no one. Dear earth,
+if I, Micylus, praised anything wicked, may you
+not lie light, nor the other powers that hold me.
+
+* 29
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+The song is Hesiod's, and the manner. Not the poet
+at his worst: I fear the man of Soli has skimmed
+the most honeyed of the verses. Hail,
+slender speeches, Aratus' taut sleeplessness.
+
+* 30
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+I loathe the cyclic poem. I take no joy in a road
+that carries the crowd this way.
+I hate also a beloved who walks the streets, and I
+do not drink from the fountain. All public things
+turn my stomach.
+Lysanias, you are fair, yes fair: but before Echo
+can say it clearly, someone says /another has him/.
+
+* 31
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+Pour, and say again /of Diocles/. Not even Achelous
+perceives those holy ladles of his.
+The boy is fair, Achelous, too fair. If someone
+says he is not, may I alone know what is fair.
+
+* 32
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+Thessalian Cleonicus, wretch, wretch, by the sharp
+sun I did not know you. Unhappy man, where have you been?
+You have bones left, and hair, and almost nothing else.
+Does my own spirit hold you? Did you meet
+a hard fate sent by the god?
+I knew. Euxitheus snatched you, for you too came
+and looked at the fair one, you poor man, with both eyes.
+
+* 33
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+The hunter, Epicydes, searches out every hare
+on the hills, and the tracks of every deer,
+going through frost and snow. But if someone says
+/Here, this beast is already hit/, he will not take it.
+My love is of that kind. He knows how to chase
+what runs, and he flies past what lies in the middle.
+
+* 34
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+I know my hands are empty of wealth, empty, but Menippus,
+by the Graces do not tell me my own dream.
+It hurts me to hear this bitter word through everything.
+Yes, friend: of what comes from you, that is the least loving.
+
+* 35
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+Artemis, Phileratis set this image here for you.
+Receive it, lady, and keep her safe.
+
+* 36
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+To you, lion-strangler, lord boar-slayer, a man
+set me, an oak branch. /Who?/ Archinus. /Which?/
+The Cretan.
+/I take it./
+
+* 37
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+You pass the tomb of Battiades, who knew song well,
+and how to laugh in season over wine.
+
+* 38
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+Menitas of Lyctos
+dedicated these bows
+and said:
+
+/Here, I give you the horn
+and the quiver,
+Sarapis. The Hesperitae
+have the arrows./
+
+* 39
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+These gifts to Aphrodite
+Simon the street-walker dedicated:
+her own image,
+the band that loved her breasts, the torch,
+and the thyrsi she wore, poor woman.
+
+* 40
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+To Demeter of Pylae,
+for whom Acrisius of the Pelasgians
+built this temple, Timodemus of Naucratis
+and to her daughter below
+set these gifts,
+tithes of his gains. For so he vowed.
+
+* 41
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+I was once priestess of Demeter, and again of the Cabeiri,
+and afterwards, man, of Dindymene,
+
+I the old woman who am now dust, who in [the labors
+of Eleutho] stood protectress of many young women.
+Two male children were born to me, and I closed my eyes
+in a good old age in their hands. Go, and farewell.
+
+* 42
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+Half of my soul still breathes. The other half I do not know
+whether Love or Hades snatched, only that it is gone.
+Did it go again to some of the boys? I have forbidden it
+often: /Young men, do not take in the runaway./
+Let someone hunt with me. That one worthy of stones,
+luckless in love, I know is turning about somewhere there.
+
+* 43
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+If I came reveling of my own will, Archinus, blame me
+a thousand times. If I came unwilling, let the rashness go.
+
+Unmixed wine and Love compelled me. One of them
+dragged me; the other would not let the rashness go.
+I came, and I did not shout who I was, or whose son.
+I kissed the doorpost. If that is a wrong, I do wrong.
+
+* 44
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+The stranger had a wound and hid it. How painfully
+he drew breath through his chest: /Did you see?/
+When he drank the third cup, the roses shedding petals
+from the man's garlands all went to the ground.
+He is roasted, and not a little. By the gods I do not guess
+off the beat. A thief has learned a thief's tracks.
+
+* 45
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+There is something hidden, by Pan, there is something here,
+by Dionysus, fire under the ash.
+I am not bold. Do not wind yourself about me. Often
+a quiet river eats a wall from below, unnoticed.
+So now I am afraid, Menexenus, lest this silent creeper
+slip in and throw me into love.
+
+* 46
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+/You will be caught. Stop running, Menecrates,/ I said
+on the twentieth of Panemus, and of Loios on which day?
+On the tenth
+the ox came under the plough of his own will. Well done,
+my Hermes, well done, mine. We do not complain
+about the twenty days.
+
+* 47
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+What a good charm Polyphemus found for the lover.
+By Earth, the Cyclops was no fool.
+The Muses thin love down, Philippus.
+Wisdom is the all-heal of every hurt.
+This, I think, is the one good hunger has
+against trouble: it cuts out the boy-loving sickness.
+We have both, unsparing, against Love:
+/This, boy, this would I say. Clip your wings, little child;/
+/we do not fear you even so much as a leaf of orach;/
+/for both charms against the hard wound are here at home./
+
+* 48
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+Eudemus dedicated to the Samothracian gods the salt-cellar
+from which, eating plain salt, he escaped
+the great storms of his debts, saying that he,
+saved from the salt, set this here according to a vow,
+O people.
+
+* 49
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+Simos son of Miccus asked for good learning, giving me
+
+to the Muses. They, as they did with Glaucus, gave
+a great gift for a little. I lie here gaping,
+the tragic Dionysus of the boys, twice the Samian one,
+listening. And they say
+
+/the lock is holy/, my dream, to me.
+
+* 50
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+Stranger, say that I, truly a comic Pamphilus,
+am dedicated as witness of the victory
+of Agoranax of Rhodes,
+not one bitten by love, but half like a roasted
+fig and the lamps of Isis.
+
+* 51
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+The Phrygian Aeschre, good milk, among all good things
+
+Miccus tended while she lived into old age,
+and when she died he set her up for those after
+to look on, how the old woman has the thanks of her breasts.
+
+* 52
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+The Graces are four. Besides those three, one more
+has just been molded, and is still wet with myrrh.
+Blessed in all things, famed Berenice,
+without whom not even the Graces themselves are Graces.
+
+* 53
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+Theocritus, who is beautifully dark: if he hates me,
+may you hate him four times; if he loves, love him.
+Yes, by fair-haired Ganymede, heavenly Zeus,
+you too once loved. I say no more.
+
+* 54
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+Come again, Eileithyia, when Lycaenis calls,
+kind helper of labor, with an easy birth,
+so that this, queen, is for a daughter now, and later,
+in place of a son, the temple may have some other
+fragrant thing.
+
+* 55
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+
+Know, Asclepius, that you have the debt Aceson owed,
+having vowed it for his wife Demodice.
+If he should forget and you ask it again,
+the tablet says it will furnish witness.
+
+* 56
+:PROPERTIES:
+:CUSTOM_ID: h56
+:END:
+
+Callistion daughter of Critias dedicated me,
+a lamp rich with twenty wicks, to the Canopian god,
+having vowed it for her child Apellis. Looking
+on my lights you will say /Hesperus, how did you fall?/
+
+* 57
+:PROPERTIES:
+:CUSTOM_ID: h57
+:END:
+
+Euainetus who set me up (for I myself
+do not know) says I am dedicated, a bronze cock,
+to the Tyndaridae in return for his own victory.
+I trust the son of Phaedrus, son of Philoxenides.
+
+* 58
+:PROPERTIES:
+:CUSTOM_ID: h58
+:END:
+
+In Inachian Isis stands the child of Thales,
+Aeschylis, by the promise of her mother Irene.
+
+* 59
+:PROPERTIES:
+:CUSTOM_ID: h59
+:END:
+
+Who are you, shipwrecked stranger? Leontichus
+
+found a corpse here on the beach, and heaped
+this tomb over it,
+weeping for his own perishable life. He himself
+does not travel the sea in quiet, but like a shearwater.
+
+* 60
+:PROPERTIES:
+:CUSTOM_ID: h60
+:END:
+
+Blessed that, mad in other things, ancient Orestes,
+Leucareta, was not mad with this madness,
+and did not take the test of the Phocian, which proves
+the friend. But if he had put on even one play,
+he would soon have lost his companion by doing that:
+and I no longer have my many Pyladeses.
+
+* 61
+:PROPERTIES:
+:CUSTOM_ID: h61
+:END:
+
+Whoever you are who pass the tomb of Cimon of Elis,
+know, as you go by, the son of Hippaeus.
+
+* 62
+:PROPERTIES:
+:CUSTOM_ID: h62
+:END:
+
+Aenian, you too, Menecrates, were not here long.
+What brought you down, best of strangers?
+Was it that which even the Centaur? /The sleep allotted
+to me came, and wretched wine has the excuse./
+
+* 63
+:PROPERTIES:
+:CUSTOM_ID: h63
+:END:
+
+Cynthian goats, take heart. The bow of Echemma
+the Cretan lies in Ortygia beside Artemis,
+
+with which he emptied a great mountain of you. Now
+he has stopped, goats, since the goddess made a truce.
+
+* 64
+:PROPERTIES:
+:CUSTOM_ID: h64
+:END:
+
+So may you sleep, Conopion, as you make me
+sleep beside these cold porches.
+So may you sleep, most unjust, as you put your lover
+to sleep, and you met with pity not at all.
+The neighbors pity. You, not at all. Gray hair
+will soon remind you of all this.

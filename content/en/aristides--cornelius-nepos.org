@@ -1,0 +1,31 @@
+#+TITLE: Aristides
+#+AUTHOR: Cornelius Nepos hermes:grok-4.6
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/aristides--cornelius-nepos
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Aristides edited by Albert Fleckeisen
+#+END_QUOTE
+
+* Chapter 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Aristides, son of Lysimachus, an Athenian, was nearly equal in age to Themistocles and contended with him for the first place: for they detracted from one another. In these things, however, it was known by how much eloquence stood before innocence. For although Aristides so excelled in abstinence that he alone after the memory of men, of whom indeed we have heard, was called by the surname Just, yet, overthrown by Themistocles, he was punished with that potsherd by an exile of ten years. And he indeed, when he understood that the stirred multitude could not be repressed, and yielding had noticed someone writing that he should be driven from the fatherland, is said to have asked him why he did that or what Aristides had committed, why he was thought worthy of so great a penalty. To whom that man answered that he did not know Aristides, but that it did not please him that he had so eagerly labored to be called Just beyond the rest. This man did not bear through the lawful penalty of ten years. For after Xerxes came down into Greece, in about the sixth year from when he had been expelled, he was restored into the fatherland by a decree of the people.
+
+* Chapter 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+And he was present at the naval battle at Salamis, which was done before he was freed from the penalty. The same man was praetor of the Athenians at Plataea in the battle in which the army of the barbarians was routed and Mardonius was killed. Nor is there any other illustrious deed of this man in military affairs than the memory of that command, but of justice and equity and innocence there are many, first of all that it was done by his equity, when he was in the common fleet of Greece together with Pausanias by which leader Mardonius had been put to flight, that the height of maritime command was transferred from the Lacedaemonians to the Athenians: for before that time the Lacedaemonians were leaders both by sea and by land. Then however both by the intemperance of Pausanias and by the justice of Aristides it was done that almost all the cities of Greece applied themselves to the alliance of the Athenians and chose these as leaders for themselves against the barbarians.
+
+* Chapter 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+Whom, that they might more easily drive them back, if by chance they should try to renew the war, Aristides was chosen to establish how much money each city should give toward building fleets and preparing armies, and by his judgment four hundred and sixty talents were brought together yearly to Delos: for they wished that to be the common treasury. Which whole money in later time was transferred to Athens. Of what abstinence this man was, there is no surer indication than that, when he had been set over such great affairs, he died in such great poverty that he scarcely left enough for one by whom he might be carried out. By which it was done that his daughters were publicly nourished and, dowries having been given from the common treasury, were settled. And he died about in the fourth year after Themistocles had been expelled from Athens.

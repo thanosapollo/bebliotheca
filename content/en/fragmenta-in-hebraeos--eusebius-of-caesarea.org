@@ -1,0 +1,23 @@
+#+TITLE: Fragments on Hebrews
+#+AUTHOR: Εὐσέβιος Καισαρείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg19-24:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta-in-hebraeos--eusebius-of-caesarea
+#+LANGUAGE: en
+
+* Fragments on Hebrews
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+=24.605= For a divine descent upon the mountain is said to have occurred at
+the time when he was giving the law, that all might behold the energy of God;
+for this is a clear descent, yet not a local one. At any rate, though the
+things growing on the mountain were burning fiercely, the fire consumed
+nothing; and voices of trumpets were heard more vehemently, though no such
+instruments were present, nor the one who sounded, but all things happening by
+a divine arrangement. So that it is clear through these things that the
+descent was divine, and that God without any [local movement] shows his own
+majesty through all things.

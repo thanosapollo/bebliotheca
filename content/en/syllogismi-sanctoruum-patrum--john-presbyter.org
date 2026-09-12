@@ -1,0 +1,67 @@
+#+TITLE: Syllogisms of the Holy Fathers
+#+AUTHOR: Ἰωάννης Πρεσβύτερος hermes:grok-4.6
+#+FILETAGS: :byzantine:11c-ad:pg120:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/syllogismi-sanctoruum-patrum--john-presbyter
+#+LANGUAGE: en
+
+* Syllogisms of the Holy Fathers
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+1. Every evil is to be punished; but nothing that is to be punished is
+incorruptible; therefore no evil is incorruptible.
+2. Nothing corruptible is ungenerated; but evil is corruptible;
+therefore evil is not ungenerated.
+3. The divine Scriptures say that <not only the other wicked, but also>
+the devil is delivered to punishment; but everything <that> is
+delivered to punishment is changeable; and nothing changeable is
+ungenerated; therefore none of the evils is ungenerated.
+4. Nothing ungenerated is changeable; but evil is changed when overcome
+by the good; therefore evil is not ungenerated.
+5. Particular good and evil are changed; for they are not ungenerated.
+But essential good is unchangeable. But evil, which the Manichaeans
+say is essential, is changeable, if indeed they themselves also
+confess that it is to be punished.
+6. Nothing is evil according to essence, because evil is a quality; but
+no quality is an essence. Therefore evil is not an essence.
+7. All things contrary to one another are destructive; but ungenerated
+things are incorruptible; therefore contrary things are not
+ungenerated.
+8. Everyone who reasonably desires something has the desire fulfilled of
+that which he reasonably desires; but God desires to destroy
+wickedness; therefore wickedness belongs to the corruptible; and
+being of the corruptible it will vanish; and vanishing, it is not
+ungenerated.
+9. If evil is ungenerated, it belongs to it by nature to be evil; but no
+one acting according to nature sins; therefore evil does not sin;
+that which does not sin is not blameworthy; but Satan is blameworthy;
+therefore he is not ungenerated.
+10. Some say, if punishment transforms the wicked, it is good; but if
+punishment is good, and the promise of good things is contrary to
+this, and contraries cannot both be good at once, then the promise is
+evil. <But God promises this; therefore it is not evil.> And the
+promise being not of evil but of good, punishment is evil. And if
+punishment is evil, then it is not God but Satan who inflicts it; but
+he does not inflict the punishment on his own; for they are wicked as
+he himself is, and it is necessary that he too, being wicked, fall
+under the punishment. Therefore he will inflict it on the good; but
+this is impossible; therefore it is not the wicked one who inflicts
+it, but God. To these it must be said: everything inflicted by God is
+inflicted usefully, being good or productive of good or preventive of
+evil; for God, wishing to hinder the evil, inflicts this; but he
+would not have attempted to hinder the evil, if it were not possible
+for the evil to be hindered; and this being hindered cannot be by
+nature and ungenerated.
+11. Evil is found in activities; for it is evil that rational beings
+handle the things according to nature not as they ought ...
+12. The ungenerated is not desirous of any destruction, nor indeed
+destructive, but evil is desirous of destruction; therefore evil is
+not ungenerated.
+13. Of things contrary through and through there is nothing in common, so
+that of all necessity what belongs to the one does not belong to the
+other; but it belongs to the good to be ungenerated; therefore
+neither of these belongs to the evil. Therefore evil is not-being.

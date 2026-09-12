@@ -1,0 +1,257 @@
+#+TITLE: Paraphrase on Euclid
+#+AUTHOR: Βαρλαὰμ Καλαβρός hermes:grok-4.6
+#+FILETAGS: :byzantine:14c-ad:pg151:
+#+MIGNE_TITLE: Paraphrasis in Euclidis
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/paraphrasis-in-euclidis--barlaam-of-calabria
+#+LANGUAGE: en
+
+* Paraphrase on Euclid
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Arithmetical demonstration by Barlaam the monk of the things proved linearly
+in the second of the Elements. Definitions. I say that a number multiplies a
+number, when, as many as are the units in the multiplying number, so many
+times the multiplied being added together produces some number, which it also
+measures according to the units in the multiplying number. And I call this
+one, the one produced from these, a plane number. And I call a square number
+the one produced from some number multiplying itself. I call a number a part
+of a number, the less of the greater, whether it measures or does not measure
+the greater.
+1. If there are two numbers and one of them is divided into any numbers
+whatever, the plane number from the original two numbers is equal to the plane
+numbers produced from the undivided and each of the parts of the divided. Let
+there be two numbers AB, C, and let AB have been divided into 352 any numbers
+whatever, AD, DE, EB. I say that the plane number from C, AB is equal to the
+plane numbers from C, AD, C, DE, C, EB. For let that from C, AB be F, and that
+from C, AD GH, and that from C, DE HI, and that from C, EB IK. And since AB
+multiplying C produced F, therefore C measures F according to the units in AB.
+For the same reasons it also measures GH according to the units in AD, and HE
+according to the units in DE, and IK according to the units in EB. Therefore C
+measures the whole HK according to the units in AB. But it also measured F
+according to the units in AB. Therefore each of F, HK is equimultiple of C.
+And equimultiples of the same are equal to one another. Therefore F is equal
+to HK. And F is the plane number from C, AB, and HK is the one composed from C
+and each of the plane numbers AD, DE, EB. Therefore the plane number from C,
+AB is equal to the plane numbers from C and each of AD, DE, EB. If therefore
+there are two numbers and one of them is divided into any numbers whatever,
+the plane number from the original two numbers is equal to the plane numbers
+from the undivided and each of the parts of the divided; which was to be
+shown.
+2. If a number is divided into two numbers, two plane numbers, those produced
+from the whole and each of the parts, both together are equal to the square on
+the whole. For let number AB have been divided into two numbers AG, GB. I say
+that two plane numbers, both the one from AB, AG and the one from AB, BG,
+being added, are equal to the square on AB. 353 Let AB multiplying itself
+produce D, and let AG multiplying AB produce EF, and let GB also multiplying
+the same AB produce FG. Since then AG multiplying AB produced EF, therefore AB
+measures EF according to the units in AG. Again, since GB multiplying AB
+produced FG, therefore AB measures FG according to the units in GB. But it
+also measured EF according to the units in AG; therefore it measures the whole
+EG according to the units in itself. Again, since AB multiplying itself
+produced D, it therefore also measures D according to the units in itself.
+Therefore AB measures each of D, EG according to the units in itself.
+Therefore as many times as D is of AB, so many times also is EG of AB. And
+numbers that are equimultiples of the same number are equal to one another;
+therefore D is equal to EG. And D is the square on AB, and EG is composed of
+two plane numbers, those from AB BG, BA AG. Therefore the square on AB is
+equal to that composed of two plane numbers, those from AB BG, BA AG. If
+therefore a number is divided into two numbers, two plane numbers, those
+produced from the whole and each of the parts, both together are equal to the
+square on the whole; which was to be shown.
+3. If a number is divided into two numbers, the plane number from the whole
+and one of the parts is equal to the plane number from the parts together with
+the square on the aforesaid part. 354 For let number AB have been divided into
+two numbers AG, GB. I say that the plane number from AB, BG is equal both to
+the plane number from AG, GB and to the square on GB. Let AB multiply GB and
+produce D, and let AG multiply GB and produce EF, and let GB multiplying
+itself produce FG. And since AB multiplying GB produced D, therefore GB
+measures D according to the units in AB. Again, since AG multiplying GB
+produced EF, therefore GB measures EF according to the units in AG. Again,
+since GB multiplying itself produced FG, therefore GB measures FG according to
+the units in itself. But it also measured EF according to the units in AG.
+Therefore it measures the whole EG according to the units in AB. But it also
+measured D according to the units in AB. Therefore GB measures each of D, EG
+an equal number of times; and things measured an equal number of times by the
+same are equal to one another; therefore D is equal to EG. And D is the plane
+number from AB, BG, and EG is the plane number from AG, GB together with the
+square on GB. Therefore the plane number from AB, BG is equal both to the
+plane number from AG, GB and to the square on GB. If therefore a number is
+divided into two numbers taken at random, the plane number from the whole and
+one of the parts is equal both to the plane number from the parts together
+with the square on the aforesaid part; which was to be shown. 355
+4. If a number is divided into two numbers, the square on the whole is equal
+to the squares on the parts and twice the plane number from the parts. For let
+number AB have been divided into two numbers AG, GB. I say that the square on
+AB is equal both to the squares on AG, GB and to twice the plane number from
+AG, GB. For let the square on AB be D, that on AG EF, that on GB GH, and from
+AG, GB each of FG, HK. Since then AG multiplying itself produced EF, therefore
+AG measures EF according to the units in itself. Again, since GB multiplying
+GA produced FG, therefore AG measures FG according to the units in GB. But it
+also measured EF according to the units in itself. Therefore it measures the
+whole EG according to the units in AB. Therefore AB multiplying AG produced
+EG. Therefore EG is the plane number from BA, AG. Similarly we shall also show
+that GK is the plane number from AB, BG. And the square on AB is D. And if a
+number is divided into two numbers, the square on the whole is equal to two
+plane numbers from the whole and each of the parts. Therefore D is equal to
+EK. But EK is composed both of the squares on AG, GB and of twice the plane
+number from AG, GB; and D is the square on AB. Therefore the square on AB is
+equal both to the squares on AG, GB and to twice the plane number from AG, GB.
+356 If therefore a number is divided into two numbers, the square on the whole
+is equal to the squares on the parts and twice the plane number from the
+parts; which was to be shown.
+5. If an even number is divided in half, and is also divided into unequal
+numbers, the plane number from the unequal parts together with the square on
+the intermediate is equal to the square on the half. For let AB be an even
+number and let it have been divided in half into AG, GB, and unequally into
+AD, DB. I say that the square on GB is equal to the plane number from AD, DB
+together with the square on GD. For let the square on GB be E, the plane
+number from AD, DB FG, and the square on DG GH. And since the number BG has
+been divided into two numbers BD, DG, therefore the square on BG, that is E,
+is equal to the squares on BD, DG together with twice that from BD, DG. Let
+then the square on BD be KL, that on DG NX, and from BD, DG each of LM, MN;
+therefore the whole KX is equal to E. And since BD multiplying itself produced
+KL, it therefore measures it according to the units in itself. Again, since GD
+multiplying DB produced LM, therefore DB measures LM according to the units in
+GD. But it also measured KL according to the units in itself; therefore it
+measures the whole KM according to the units in GB. And GB is equal to GA.
+Therefore DB measures KM according to the units in GA. Again, since GD
+multiplying DB produced MN, therefore DB measures MN according to the units in
+DG. But it also measured KM according to the units in AG 357; therefore it
+measures the whole KN according to the units in AD. But BD also measures FG
+according to the units in AD; for this is hypothesized. Therefore FG is equal
+to KN; for equimultiples of the same are equal to one another. And GH is also
+equal to NX; for each is hypothesized as the square on GD. Therefore the whole
+KX is equal to the whole FH. And KX is also equal to E. Therefore FH also is
+equal to E. And FH is the plane number from AD, DB together with the square on
+DG, and E is the square on GB. Therefore the plane number from AD, DB together
+with the square on DG is equal to the square on GB. If therefore an even
+number is divided in half, and is also divided into unequal numbers, the plane
+number from the unequal parts together with the square on the intermediate is
+equal to the square on the half; which was to be shown.
+6. If an even number is divided in half, and some number is added to it, the
+plane number from the whole together with the added and the added, together
+with the square on the half, is equal to the square on that composed of the
+half and the added. For let even number AB have been divided in half into
+numbers AG, GB, and let some other number BD have been added to it. I say that
+the plane number from AD, DB together with the square on GB is equal to the
+square on GD. For let the square on GD be E, the plane number from AD, DB FG,
+and the square on GB GH. And since that on GD is equal to those on DB, BG
+together with twice that from DB, BG, let that on BD be KL, from DB, BG each
+of LM, MN, and that on BG NX. Therefore the whole KX is equal to the square on
+GD. And the square on GD is E; therefore KX is equal to E. And since BD
+multiplying itself has produced KL, therefore BD measures KL according to the
+units in itself. And it also measures LM according to 358 the units in BG;
+therefore DB measures the whole KM according to the units in GD. And since DB
+also measures MN according to the units in GB, and GB is equal to GA; for this
+is hypothesized; therefore DB measures the whole KN according to the units in
+AD. But DB also measures FG according to the units in AD; for FG is
+hypothesized as from AD, DB; therefore FG is equal to KN. And HG is also equal
+to NX; for each is the square on GB. Therefore the whole FH is equal to KX.
+And KX was shown equal to E; therefore FH also is equal to E. And FH is that
+from AD, DB together with the square on GB, and E is that on GD. Therefore
+that from AD, DB together with that on GB is equal to the square on GD. If
+therefore an even number is divided in half, and some number is added to it,
+the plane number from the whole together with the added and the added,
+together with the square on the half, is equal to the square on that composed
+of the half and the added; which was to be shown.
+7. If a number is divided into two numbers, the square on the whole together
+with the square on one of the parts is equal to twice the plane number from
+the whole and the said part, together with the square on the remaining part.
+For let number AB have been divided into numbers AG, GB. I say that the
+squares on BA, AG are equal to twice the plane number from BA, AG together
+with the square on BG. 359 For since the square on AB is equal to those on BG,
+GA and twice that from BG, GA, let the square on AG be added in common;
+therefore that on BA together with that on AG is equal to two squares on AG
+and one on GB together with twice that from BG, GA. And since once that from
+BA, AG is equal to once that from BG, GA together with the square on GA,
+therefore twice that from BA, AG is equal to twice that from BG, GA together
+with two squares on GA. Let the square on BG be added in common; therefore two
+squares on AG and one on GB together with twice that from BG, GA are equal to
+twice that from BA, AG together with that on GB. Therefore the square on AB
+together with the square on AG is equal to twice that from BA, AG together
+with the square on the remaining part GB. If therefore a number is divided
+into two numbers, the square on the whole together with the square on one of
+the parts is equal to twice the plane number from the whole and the said part,
+together with the square on the remaining part; which was to be shown.
+8. If a number is divided into two numbers, four times the plane number from
+the whole and one of the parts together with the square on the remaining part
+is equal to the square on the whole and the aforesaid part as on one. For let
+number AB have been divided into two numbers AG, GB. I say that four times
+that from AB, BG together with the square on AG is equal to the square on AB,
+BG as on one. For let BD be set equal to the number BG. And since that on 360
+AD is equal to the squares on AB, BD and twice the plane number from AB, BD,
+and BD is equal to BG, therefore the square on AD is equal to the squares on
+AB, BG and twice the plane number from AB, BG. And the squares on AB, BG are
+equal to twice the plane number from AB, BG and the square on AG; therefore
+the square on AD is equal to four times the plane number from AB, BG and the
+square on AG. And the square on AD is that on AB, BG as on one; for BD is
+equal to BG. Therefore the square on AB, BG as on one is equal to four times
+that from AB, BG and that on AG. If therefore a number is divided into two
+numbers, four times the plane number from the whole and one of the parts
+together with the square on the remaining part is equal to the square on the
+whole and the aforesaid part as on one. For let number AB have been divided
+into two numbers AG, GB. I say that four times that from AB, BG together with
+the square on AG is equal to the square on AB, BG as on one. For let BD be set
+equal to the number BG. And since that on 360 AD is equal to the squares on
+AB, BD and twice the plane number from AB, BD, and BD is equal to BG,
+therefore the square on AD is equal to the squares on AB, BG and twice the
+plane number from AB, BG. And the squares on AB, BG are equal to twice the
+plane number from AB, BG and the square on AG; therefore the square on AD is
+equal to four times the plane number from AB, BG and the square on AG. And the
+square on AD is that on AB, BG as on one; for BD is equal to BG. Therefore the
+square on AB, BG as on one is equal to four times that from AB, BG and that on
+AG. If therefore a number is divided into two numbers, four times the plane
+number from the whole and one of the parts together with the square on the
+remaining part is equal to the square on the whole and the aforesaid part as
+on one; which was to be shown.
+9. If a number is divided in half, and is further also divided into unequal
+numbers, the squares on the unequal numbers are double of the square on the
+half together with the square on the intermediate. For let even number AB have
+been divided in half into numbers AG, GB, and into unequal AD, DB. I say that
+the squares on AD, DB are double of the squares on AG, GD. For since even
+number AB has been divided into equals AG, GB, and into unequals AD, DB,
+therefore that from AD, DB together with that on GD is equal to the square on
+AG. 361 Therefore twice that from AD, DB together with two squares on GD is
+double of the square on AG. And since AB has been divided in half into AG, GB,
+therefore the square on AB is quadruple of the square on AG. And since twice
+that from AD, DB together with two on DG is double of that on GA, and if there
+are two numbers, the one of them quadruple of the same, and the other double,
+the quadruple is double of the double, therefore that on AB is double of twice
+that from AD, DB together with two on DG. Therefore twice that from AD, DB is
+less than half of that on AB by twice that on DG. And since twice that from
+AD, DB together with that composed of those on AD, DB is equal to that on AB,
+therefore that composed of those on AD, DB is greater than half of that on AB
+by twice that on DG. And that on AB is quadruple of that on AG; therefore that
+composed of those on AD, DB is greater than double of that on AG by twice that
+on DG. Therefore it is double of those on AG, GD. If therefore an even number
+is divided in half, and is further also divided into unequal numbers, the
+squares on the unequal numbers are double of the square on the half together
+with the square on the intermediate; which was to be shown.
+10. If an even number is divided in half, and some other number is added to
+it, the square on the whole together with the added and the square on the
+added, both together, are double of the square on the half and of the square
+on that composed of the half and the added as on one. 362 For let AB be an
+even number and let it have been divided in half into AG, GB, and let some
+other number BD have been added to it. I say that the squares on AD, DB are
+double of the squares on AG, GD. For since number AD has been divided into AB,
+BD, therefore the squares on AD, DB are equal to twice the plane number from
+AD, DB together with the square on AB. And the square on AB is equal to four
+squares on AG, GB; for AG is equal to GB. Therefore the squares on AD, DB are
+equal both to twice that from AD, DB and to four on BG, GA. And since that
+from AD, DB together with that on GB is equal to that on GD, therefore twice
+that from AD, DB together with two on GB is equal to two on GD. Therefore the
+squares on AD, DB are equal to two on GD and two on AG. Therefore they are
+double of those on AG, GD. And the square on AD is that on the whole and the
+added, and that on DB is that on the added, and that on GD is that on that
+composed of the half and the added. Therefore the square on the whole together
+with the added, together with that on the added, is double of that on the half
+together with that on that composed of the half and the added. If therefore an
+even number is divided in half, and some other number is added to it, the
+square on the whole together with the added and the square on the added, both
+together, are double of the square on the half and of the square on that
+composed of the half and the added as on one; which was to be shown.

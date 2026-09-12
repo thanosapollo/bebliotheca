@@ -1,0 +1,25 @@
+#+TITLE: Fragments on the Epistle to Titus
+#+AUTHOR: Οἰκουμένιος hermes:grok-4.6
+#+FILETAGS: :byzantine:6c-ad:pg118-119:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta-in-epistulam-ad-titum--oecumenius
+#+LANGUAGE: en
+
+* Fragments on the Epistle to Titus
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Tit 1:12 An oracle of Epimenides the Cretan seer. Callimachus also used the
+saying in the hymn to Zeus spoken by him. Tit 1:15 Why then did the law given
+to Jews have an observation of unclean things? We say: God did not so
+legislate because they were unclean, but thereby cutting off the great luxury
+and indifference of the Jews. For the clean and unclean come properly from the
+mind of those who take them, since by nature all things are clean to those who
+do not split hairs; but to such people all things are unclean; for sin alone
+is unclean. Tit 2:3 He means the deaconesses, and by "demeanor" he means the
+wraps. Tit 3:10-11 And yet elsewhere he says: lest God perhaps give them
+repentance. How then does he here command to refuse? There he speaks of those
+who have hope of correction, here of those incurably sick.

@@ -1,0 +1,27 @@
+#+TITLE: Treatise to Xenodorus
+#+AUTHOR: Γρηγόριος Νύσσης hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg44-46:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/tractatus-ad-xenodorum--gregory-of-nyssa
+#+LANGUAGE: en
+
+* Treatise to Xenodorus
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+=96.477= Of Saint Gregory, bishop of Nyssa, from the discourse to Xenodorus
+the grammarian, whose beginning is: Nothing is more saving for Christians than
+true theology.
+For we say that energy is the natural power and movement of each essence,
+without which nature neither is nor is known. For of intellectual things it is
+intellection, of sensory things sensation (according to which these both
+naturally touch things outside and fall under things outside), of winged
+things flight, of swimming things swimming, of creeping things creeping, of
+walking things walking, of plants growth. And to speak comprehensively, we
+call the significant property of each nature a natural energy; of which only
+that which is not is deprived. For that which partakes of some essence will
+altogether also partake of the power that naturally shows it. For true reason
+knows the natural energies of essences as their definitions.

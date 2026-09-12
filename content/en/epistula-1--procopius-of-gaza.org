@@ -1,0 +1,36 @@
+#+TITLE: Letter 1
+#+AUTHOR: Προκόπιος Γάζης hermes:grok-4.6
+#+FILETAGS: :byzantine:6c-ad:pg87a:pg87b:pg87c:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula-1--procopius-of-gaza
+#+LANGUAGE: en
+
+* Letter 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+You carry the Graces themselves truly upon the tongue, and you seem to me as
+their precinct, and a temple is founded here somewhere for you and charms the
+goddesses, a soul variously sounding under the tongue with a pure plectrum;
+whence they rejoice at this more than seeing Naxos, which report also holds to
+be an island of the Graces; where also Dionysus was overcome by Ariadne and
+was a housemate. But Semele's [son] has come into our word at a good time;
+who, if he were not a god, of how much accusation would he have enjoyed from
+us, having overlooked a man poor and from the very mattresses dreaming the
+taxes, but otherwise given over to Muses and Graces. He had the little plot to
+a small thing, O Dionysus, and he hung upon the hopes from there, waiting to
+take this, which he seemed to give to the vines; why did you not come on in
+bulk and show them heavy with fruit? Would that you had also gone upon the
+vats, and danced a bacchic dance, and nothing of the must had been empty;
+whence having wealth well, he would have danced from pleasure and been more
+musical. Do you wish to learn also what Dionysus says toward these things?
+that "it is not possible to be rich in words and in money together; whence,"
+he says, "I withdrew the clusters, that I might rather train his tongue; since
+also the cicadas, being fed by dew alone, have room in themselves for the
+whole Muses, and you would say hearing that they were men and have become
+cicadas". Therefore it is fitting to be content with the present, and even if
+the collectors annoy, only sing to them, and they will immediately forget the
+money.

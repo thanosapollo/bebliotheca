@@ -1,0 +1,21 @@
+#+TITLE: Fragments on John
+#+AUTHOR: Θεόφιλος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg65:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta-in-joannem--theophilus-of-alexandria
+#+LANGUAGE: en
+
+* Fragments on John
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Jn 9:3 In this the Savior himself overturned a lawless doctrine. For some
+supposed that souls that sin are sent from heaven into a body for punishment,
+and that sometimes the soul, preexisting by itself, remains before the body,
+and sometimes for the sake of its own sins is entangled with bodies, and that
+then a woman can be with child when some soul sins; abolishing such an error,
+Christ when asked said: neither this man sinned nor his parents, but that the
+works of God might be made manifest.

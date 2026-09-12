@@ -1,0 +1,26 @@
+#+TITLE: Scholia on the Apocalypse
+#+AUTHOR: Ὠριγένης hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg11-17:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/scholia-in-apocalypsem--origen
+#+LANGUAGE: en
+
+* Scholia on the Apocalypse
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Since, with the report running about concerning our training, there came to
+me, devoted to the word, sometimes heretics, sometimes those from Greek
+studies and especially those in philosophy, it seemed good to examine both the
+doctrines of the heretics and the things promised by the philosophers
+concerning truth. And we have done this imitating both Pantaenus who before us
+benefited many, who had no little preparation in those things, and Heraclas
+now sitting in the presbytery of the Alexandrians, whom I found with the
+teacher of philosophical studies, already having persisted with him five years
+before I began to hear those words; because of whom, formerly using common
+clothing, having stripped it off and taken up a philosopher's habit he keeps
+it until now and does not cease, as far as he can, studying the books of the
+Greeks.

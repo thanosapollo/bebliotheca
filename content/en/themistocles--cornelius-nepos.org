@@ -1,0 +1,275 @@
+#+TITLE: Themistocles
+#+AUTHOR: Cornelius Nepos hermes:grok-4.6
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/themistocles--cornelius-nepos
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Themistocles edited by Albert Fleckeisen
+#+END_QUOTE
+
+* Caput 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Themistocles, son of Neocles, an Athenian. The faults of his early youth
+were corrected by great virtues, so much so that no one is ranked above
+him, and few are thought his equals. But he must be treated from the
+beginning. His father Neocles was of good birth. He married a woman who
+was a citizen of Acarnania, and from her Themistocles was born. Because
+he was less approved by his parents, living too freely and neglecting
+the family property, he was disinherited by his father. That insult did
+not break him, but raised him up. For when he judged that it could not
+be wiped out without the utmost industry, he gave himself wholly to
+public affairs, serving his friends and his reputation more carefully.
+He was much engaged in private lawsuits, and often came forward in the
+assembly of the people. No greater business was done without him. He
+quickly found what was needed and easily set it out in speech, and he
+was no less ready in executing affairs than in conceiving them, because,
+as Thucydides says, he judged most truly of present things and
+conjectured most shrewdly of the future. By this it came about that in a
+short time he became famous.
+
+* Caput 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+The first step in taking up public affairs was the Corcyraean war. Made
+praetor by the people to conduct it, he made the city more warlike not
+only for the present war but for the time that followed. For when the
+public money that came in from the mines was being wasted year by year
+through the largess of the magistrates, he persuaded the people that
+with that money a fleet of a hundred ships should be built. When this
+was quickly completed, he first crushed the Corcyraeans, then, by
+hunting down the pirates, made the sea safe. In this he both enriched
+the Athenians and made them most skilled in naval war. How great a
+salvation this was to all Greece was learned in the Persian war. For
+when Xerxes was bringing war by sea and land against all Europe, he
+invaded it with such forces as no one has had either before or since:
+his fleet was of twelve hundred ships of war, followed by two thousand
+transports, and the land army was seven hundred thousand infantry and
+four hundred thousand cavalry. When the report of his coming had been
+carried into Greece, and the Athenians especially were said to be aimed
+at because of the battle of Marathon, they sent to Delphi to ask what
+they should do about their affairs. To them as they deliberated the
+Pythia answered that they should fortify themselves with wooden walls.
+When no one understood what this response meant, Themistocles persuaded
+them that Apollo's counsel was that they should carry themselves and
+their goods onto ships: for that was what the god meant by the wooden
+wall. When this plan was approved, they added as many triremes again to
+those they already had, and they carried all their movable goods, some
+to Salamis, some to Troezen. They handed the citadel over to the priests
+and a few of the older men to tend the sacred rites, and they left the
+rest of the town.
+
+* Caput 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+This plan displeased most of the states, and they preferred to fight on
+land. So chosen men were sent with Leonidas, king of the Lacedaemonians,
+to occupy Thermopylae and not allow the barbarians to advance farther.
+They could not withstand the force of the enemy, and all perished in
+that place. But the common fleet of Greece, of three hundred ships, of
+which two hundred were Athenian, first fought at Artemisium, between
+Euboea and the mainland, with the king's seamen. For Themistocles sought
+the narrows, lest they be surrounded by numbers. Although they had left
+this fight on even terms, they still did not dare to remain in the same
+place, because there was danger that if part of the enemy's ships
+rounded Euboea they would be pressed by a double peril. So they left
+Artemisium and stationed their fleet at Salamis, opposite Athens.
+
+* Caput 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+But Xerxes, after taking Thermopylae, at once approached the city, and,
+none defending it, after killing the priests whom he had found in the
+citadel, destroyed it by fire. Terrified by that blaze, the seamen, not
+daring to remain, and most urging that they should go home and defend
+themselves behind walls, Themistocles alone stood against them and said
+that united they could be a match, while if scattered they would perish,
+and he affirmed this to Eurybiades, king of the Lacedaemonians, who then
+held the supreme command. When he moved him less than he wished, at
+night he sent the most faithful of his slaves to the king, to tell him
+in Themistocles' name that his enemies were in flight: if they departed,
+he would finish the war with greater labor and in a longer time, since
+he would be forced to hunt them down one by one; if he attacked them at
+once, he would crush them all in a short time. The point of this was
+that all should be forced, against their will, to fight it out. Hearing
+this, the barbarian, believing no trick lay under it, on the next day
+fought in a place most unfavorable to himself and most convenient for
+the enemy, in a sea so narrow that the multitude of his ships could not
+be deployed. He was therefore beaten more by the counsel of Themistocles
+than by the arms of Greece.
+
+* Caput 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+Though he had fared badly, he still had such remnants of his forces that
+even then he could have crushed the enemy with them. He was driven from
+that footing a second time. For Themistocles, fearing that he would
+persist in the war, informed him that a plan was afoot to break up the
+bridge he had made on the Hellespont and shut him off from return to
+Asia, and he persuaded him of it. So by the same road on which he had
+marched in six months he returned to Asia in less than thirty days, and
+judged that he had been not conquered but saved by Themistocles. Thus by
+the prudence of one man Greece was freed, and Asia yielded to Europe.
+This is a second victory that may be compared with the trophy of
+Marathon. For in the same way at Salamis, with a small number of ships,
+the greatest fleet within the memory of men was defeated.
+
+* Caput 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+Themistocles was great in this war and no less in peace. For since the
+Athenians were using the harbor of Phalerum, which was neither large nor
+good, by his counsel the triple harbor of the Piraeus was established
+and surrounded with walls, so that it equaled the city itself in dignity
+and surpassed it in usefulness. The same man restored the walls of the
+Athenians at especial risk to himself. For the Lacedaemonians, having
+found a suitable pretext in the raids of the barbarians, by which they
+denied that any city outside the Peloponnese ought to have walls, lest
+there be fortified places which the enemy might occupy, tried to stop
+the Athenians from building. This aimed at something far other than they
+wished it to appear. For the Athenians, by the two victories of Marathon
+and Salamis, had won such glory among all nations that the
+Lacedaemonians understood there would be a contest with them for the
+leadership. Therefore they wished them to be as weak as possible. When
+they heard that walls were being built, they sent envoys to Athens to
+forbid it. While these were present the Athenians stopped and said they
+would send envoys to them about the matter. Themistocles undertook this
+embassy and at first set out alone. He instructed the rest of the
+envoys to leave only when the walls seemed built high enough for
+defense; meanwhile all, slaves and free, should work and spare no place,
+whether sacred or private or public, and gather from every side whatever
+they thought fit for fortifying. So it came about that the walls of the
+Athenians consisted of shrines and tombs.
+
+* Caput 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+When Themistocles came to Lacedaemon, he would not go to the magistrates
+and took care to draw out the time as long as possible, putting forward
+the excuse that he was waiting for his colleagues. When the
+Lacedaemonians complained that the work was going on nonetheless and
+that he was trying to deceive them in the matter, the rest of the
+envoys arrived in the meantime. When he heard from them that not much of
+the fortification remained, he went to the ephors of the Lacedaemonians,
+in whose hands was the supreme power, and argued before them that false
+reports had been brought to them: therefore it was fair that they send
+good and noble men who could be trusted to look into the matter;
+meanwhile they should keep him as a hostage. This was granted him, and
+three envoys who had held the highest offices were sent to Athens. With
+these Themistocles ordered his colleagues to set out, and he instructed
+them not to let the Lacedaemonian envoys go before he himself had been
+sent back. When he judged that these had reached Athens, he went to the
+magistrates and senate of the Lacedaemonians and declared before them
+most freely that the Athenians, by his counsel, as they might do by the
+common law of nations, had enclosed with walls their public gods and
+their ancestral household gods, so that they might more easily defend
+them from the enemy, and that they had done nothing in this that was
+useless to Greece. For their city stood as a bulwark set against the
+barbarians, and at it the king's forces had already twice been wrecked.
+The Lacedaemonians, however, were acting badly and unjustly in looking
+rather to what was useful to their own domination than to what was
+useful to all Greece. Therefore, if they wished to receive back their
+own envoys whom they had sent to Athens, they should send him back,
+since otherwise those men would never be received into their country.
+
+* Caput 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+Yet he did not escape the envy of his own citizens. For from the same
+fear by which Miltiades had been condemned, he was driven from the state
+by the votes of potsherds and withdrew to live at Argos. While he was
+living there with great dignity because of his many virtues, the
+Lacedaemonians sent envoys to Athens to accuse him in his absence of
+having made an alliance with the Persian king to crush Greece. On this
+charge he was condemned in absence. When he heard it, seeing that he was
+not safe enough at Argos, he moved to Corcyra. There, when he noticed
+that the chiefs of the island feared that because of him the
+Lacedaemonians and Athenians would declare war on them, he fled to
+Admetus, king of the Molossians, with whom he had no guest friendship.
+When he had come there and the king was at the moment away, in order
+that he might be received and protected with greater religious awe, he
+seized the king's little son and threw himself with him into a shrine
+that was worshipped with the highest ceremony. He did not leave it until
+the king, giving him his right hand, received him into his protection,
+which he kept. For when he was demanded publicly by the Athenians and
+Lacedaemonians, he did not betray the suppliant, and he advised him to
+look to his own safety: for it was hard for him to live safely in so
+near a place. So he ordered him to be conducted to Pydna and gave him a
+sufficient guard. Here he boarded a ship, unknown to all the sailors.
+When it was being carried by a very great storm to Naxos, where the
+Athenian army then was, Themistocles perceived that if he arrived there
+he must perish. Forced by this necessity, he revealed to the master of
+the ship who he was, promising much if he saved him. The man, moved by
+pity for so famous a man, held the ship at anchor day and night out at
+sea far from the island, and allowed no one to leave it. From there he
+came to Ephesus and landed Themistocles. To him Themistocles later
+returned thanks according to his deserts.
+
+* Caput 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+I know that most have written that Themistocles crossed into Asia while
+Xerxes was still reigning. But I trust Thucydides most of all, because
+he was both nearest in time of those who have left a history of those
+times and of the same city. He says that Themistocles came to Artaxerxes
+and sent a letter in these words: "I, Themistocles, have come to you, I
+who of all the Greeks brought the most evils upon your house, so long as
+it was necessary for me to war against your father and defend my
+country. I also did far more good once I myself was in safety and he
+began to be in danger. For when, after the battle at Salamis, he wished
+to return into Asia, I informed him by letter that a plan was afoot to
+break up the bridge he had made on the Hellespont and that he would be
+surrounded by the enemy: by that message he was freed from danger. Now I
+have fled to you, driven out by all Greece, seeking your friendship: if
+I obtain it, you will have me no less a good friend than he found me a
+brave enemy. I ask you to give me a year's time for those matters I wish
+to discuss with you, and when it is past to allow me to come to you."
+
+* Caput 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+The king, admiring the greatness of his spirit and wishing to win such a
+man to himself, granted the request. Themistocles gave all that time to
+the letters and speech of the Persians: in these he became so learned
+that he is said to have spoken before the king far more readily than
+those who had been born in Persia could. When he had promised the king
+many things, and that most welcome of all, that if the king were willing
+to use his counsels he would crush Greece by war, he was presented with
+great gifts by Artaxerxes, returned into Asia, and established his home
+at Magnesia. For the king had given him this city, in these words, to
+furnish him bread (from which region fifty talents came in each year),
+Lampsacus from which he might take wine, and Myus from which he might
+have his provisions. Two monuments of him have remained to our time: a
+tomb near the town in which he was buried, and a statue in the forum of
+Magnesia. About his death it has been written in many ways among most
+authors, but we approve Thucydides most of all as authority, who says
+that he died of disease at Magnesia, and does not deny that there was a
+report that he took poison of his own accord when he despaired of being
+able to perform what he had promised the king about crushing Greece.
+The same writer has handed down that his bones were buried secretly in
+Attica by his friends, since it was not allowed by the laws, because he
+had been condemned for treason.

@@ -1,0 +1,18 @@
+#+TITLE: Fragment on the Epistle to Philemon
+#+AUTHOR: Σεβηριανὸς Γαβάλων hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg65:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum-in-epistulam-ad-philemonem--severianus-of-gabala
+#+LANGUAGE: en
+
+* Fragment on the Epistle to Philemon
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Phm 1:1 In many epistles he places a foreign word as preparatory to the
+argument about to be introduced, and now, since he was about to make a request
+on behalf of Onesimus by his own dignity (and his dignity is that he has been
+bound), he shows the credibility of the appeal.

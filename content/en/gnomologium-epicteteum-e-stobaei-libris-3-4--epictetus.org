@@ -1,0 +1,623 @@
+#+TITLE: Epictetean Gnomologium (from Stobaeus books 3-4)
+#+AUTHOR: Epictetus hermes:grok-4.6
+#+FILETAGS: :imperial:1c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/gnomologium-epicteteum-e-stobaei-libris-3-4--epictetus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Epictetean Gnomologium (from Stobaeus books 3-4) edited by Heinrich Schenkl
+#+END_QUOTE
+
+* 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+A life entangled with fortune is like a torrent river; for it is turbulent and
+mixed with mud and hard to enter and tyrannical and noisy and short-lived.
+
+* 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+A soul conversing with virtue is like an ever-flowing spring; for it is pure
+and untroubled and drinkable and sweet and communal and rich and harmless and
+undying.
+
+* 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+If you wish to be good, first believe that you are bad.
+
+* 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+Better to err seldom while confessing to be temperate more often than to sin
+seldom while saying one errs often.
+
+* 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+Chastise the passions, that you may not be punished by them.
+
+* 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+Do not so much be ashamed of what comes from opinion as flee what comes from
+the truth.
+
+* 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+If you wish to be well spoken of, learn to speak well; and having learned to
+speak well, try to act well, and so you will reap being well spoken of.
+
+* 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+Examine yourself, whether you wish to be rich or to be happy. And if to be
+rich, know that it is neither a good nor altogether in your power; but if to
+be happy, that it is both a good and in your power; since the one is a timely
+loan of fortune, the other † of happiness of choice.
+
+* 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+Just as when you see a viper or an asp or a scorpion in an ivory or golden
+casket you do not love and count it blessed because of the costliness of the
+material, but because the nature is destructive you turn away and loathe it,
+so also whenever you see vice present in wealth and bulk of fortune, do not be
+struck by the brilliance of the material, but despise the counterfeit in the
+character.
+
+* 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+Wealth is not of the goods, luxury of the evils, temperance of the goods. And
+temperance calls to frugality and the acquisition of goods, but wealth to
+luxury and draws away from temperance. It is therefore hard for one who is
+rich to be temperate, or for one who is temperate to be rich.
+
+* 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+Just as, if you were sown or born in a ship, you would not hasten to be its
+helmsman,  [lost]  for neither there will the ship naturally remain with you
+nor here wealth, but reason everywhere. What then is natural and kindred to
+you, reason, considering this also your own, take care of it.
+
+* 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+If born among the Persians you would not hasten to dwell in Greece, but to
+fare well remaining there; but being born in poverty, why do you hasten to be
+rich, and not to fare well remaining there?
+
+* 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+Just as it is better to be healthy squeezed on a small pallet than to be sick
+rolling on a wide bed, so also it is better to be of good cheer contracted in
+a small estate than to be of ill cheer happening to have a large one.
+
+* 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+It is not poverty that works grief, but desire; nor does wealth release from
+fear, but reasoning. Having therefore acquired reasoning you will neither
+desire wealth nor blame poverty.
+
+* 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+Neither a horse at manger and trappings and rugs nor a bird at food and nest
+is exalted and prances, but both at swiftness, the one of feet, the other of
+wings. You too therefore do not swell greatly at food and shelter and simply
+at the external abundance, but at goodness and well-doing.
+
+* 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+Living well differs from living luxuriously; for the one comes from temperance
+and self-sufficiency and good order and seemliness and frugality, the other
+from incontinence and luxury and disorder and unseemliness; and the end of the
+one is true praise, of the other blame. If then you wish to live well, do not
+seek to be praised with luxury.
+
+* 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+Let the measure for you of all food and drink be the first filling of
+appetite, and relish and pleasure the appetite itself; and you will neither
+take more than is needed nor need cooks, and you will be content with whatever
+drink happens to be at hand.
+
+* 18
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+Make your meals not luxurious and gloomy, but bright and frugal, so that souls
+may neither be troubled because of bodily things nor, being cheated by bodily
+pleasures, grow careless, and then be harmed, the bodies being luxurious at
+once but sick later.
+
+* 19
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+Take care that it is not the food in the belly that lifts you up, but the
+cheer in the soul; since the former is cast out as refuse and the † praise
+flows away with it, but the latter, even if the soul is separated, remains
+unstained throughout.
+
+* 20
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+In feastings remember that you receive two, body and soul, and whatever you
+give to the body, this you immediately pour out, but whatever to the soul, you
+keep throughout.
+
+* 21
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+Do not mix together anger with luxury and bring it forward. Luxury, leaping
+into the body, is gone before long, but anger, having entered the soul,
+remains for the longest time. See therefore that you are not carried away by
+anger and insult the guests amid luxury, but rather with gentleness cheer them
+frugally.
+
+* 22
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+It is shameful, sweetening the swallow with the gifts of bees, to embitter
+with vice speech, the gift of the gods.
+
+* 23
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+Let it be your care in foods that those serving you are not more than those
+served; for it is absurd that many souls should slave for a few couches.
+
+* 24
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+Best, if both in the preparations working with the hands and in the meals
+being entertained you share with those serving what is present. But if such a
+thing should be difficult for the occasion, remember that not toiling you are
+served by those who toil, eating by those not eating, drinking by those not
+drinking, eating and talking by those silent, at ease by those contracted; and
+you will neither yourself, having become inflamed, suffer something absurd,
+nor having made another savage do something harsh.
+
+* 25
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+To contend and be contentious is everywhere unfitting, but especially unseemly
+in conversations over drink. For neither would a drunk man teach a sober one,
+nor again would a drunk man be persuaded by a sober one. And where the end of
+persuasion is not present, you offer yourself in vain to strain.
+
+* 26
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+The cicadas are musical, but the snails voiceless; and the snails rejoice
+being moistened, the cicadas being warmed; then dew calls forth the snails and
+they come out upon it, but the sun at its height wakes the cicadas and they
+sing upon it. Therefore if you wish to be a musical and well-attuned man,
+whenever in drinkings the soul is dewed by wine, then do not let it go forth
+and be defiled; but whenever in assemblies it is fired by reason, then bid it
+prophesy and sing the oracles of justice.
+
+* 27
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+Examine the one conversing with you in three ways, either as better or as
+worse or as equal; and if better, one must listen and obey him; if worse,
+persuade; if equal, agree; and you will never be caught in contentiousness.
+
+* 28
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+Better, yielding to the truth, to conquer opinion than, yielding to opinion,
+to be defeated by the truth.
+
+* 29
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+Seeking the truth you will not seek to win by every means, and having found
+the truth you will have not being defeated.
+
+* 30
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+Truth conquers with itself, but opinion with those outside.
+
+* 31
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+Freedom and slavery, the one a name of virtue, the other of vice, and both
+works of choice. And of things in which choice has no share, neither of these
+touches; but fortune is accustomed to be master of the body and of such things
+about the body as have no share in choice. For no one being a slave in choice
+is free.
+
+* 32
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+A bad bond of the body is fortune, of the soul vice. For he who is loosed in
+body but bound in soul is a slave; but he who is bound in body but loosed in
+soul is free.
+
+* 33
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+The bond of the body both nature looses through death and vice through money,
+but that of the soul virtue through learning and experience and practice.
+
+* 34
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+If you wish to live without disturbance and with contentment, try to have all
+who dwell with you good; and you will have them good if you educate those
+willing, and those unwilling, then having subdued them, you set free. For
+wickedness together with slavery will flee with those who have fled, and
+goodness and freedom will be left behind with those remaining with you.
+
+* 35
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+Better to live with one free man and be fearless and free than to be a slave
+with many.
+
+* 36
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+What you flee to suffer, this do not attempt to inflict; and you flee slavery,
+so beware of being served by slaves. For enduring to be served by slaves you
+yourself first seem to be a slave; for neither does virtue share with vice nor
+freedom with slavery.
+
+* 37
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+Just as the healthy man would not wish to be treated by the sick nor that
+those dwelling with him be sick, so neither would the free man endure to be
+served by slaves or that those living with him be slaves.
+
+* 38
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+If you wish to be without slaves, yourself be released from slavery; and you
+will be free if you are released from desire. For neither Aristides nor
+Epaminondas nor Lycurgus, being rich and being served by slaves, were
+proclaimed the one just, the other savior, the other a god; but because being
+poor they released Greece from slavery.
+
+* 39
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+If you wish your house to be well managed, imitate the Spartan Lycurgus. For
+in the way he did not fence the city with walls, but fortified the inhabitants
+with virtue and kept the city free throughout, so also do you not throw around
+a great court and raise high towers, but strengthen those dwelling within with
+goodwill and trust and friendship; and nothing harmful will enter it, not even
+if the whole company of vice should array itself.
+
+* 40
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+Do not surround your house with tablets and paintings, but paint it with
+temperance. For the one is a timely enchantment of another kind, of the eyes,
+the other a native and inerasable and everlasting adornment of a house.
+
+* 41
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+Instead of a herd of oxen try to have herds of friends herding in your house.
+
+* 42
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+Just as a wolf is like a dog, so also a flatterer and an adulterer and a
+parasite are like a friend. Attend therefore, lest instead of guardian dogs
+you unwittingly receive in destructive wolves.
+
+* 43
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+To be eager that the house whitened with gypsum be admired is of one without
+taste, but to make the character bright with goodness of fellowship is of one
+who loves the beautiful and at the same time loves mankind.
+
+* 44
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+If you admire the small things before the great, you will be despised; but if
+you despise the small things greatly, you will be admired.
+
+* 45
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+Nothing is smaller than love of gain and love of pleasure and boastfulness;
+nothing stronger than greatness of mind and gentleness and love of mankind and
+well-doing.
+
+* 46
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+No one who is a lover of money and of pleasure and of reputation is a lover of
+mankind, but only the lover of the beautiful.
+
+* 47
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+Just as you would not wish, sailing in a great and well-wrought and
+much-gilded ship, to be sunk, so neither choose, lodging in a house oversized
+and luxurious, to be storm-tossed.
+
+* 48
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+Just as a true balance is neither corrected by a true balance nor judged by a
+false one, so also the just judge is neither corrected by the just nor judged
+among the unjust.
+
+* 49
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+Just as the straight has no need of the straight, so neither does the just of
+the just.
+
+* 50
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+Do not judge in another court before you yourself have been judged before
+justice.
+
+* 51
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+If you wish to make judgments just, recognize none of those being judged and
+pleading, but justice itself.
+
+* 52
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+You will least stumble in judgments if you yourself continue unstumbling in
+life.
+
+* 53
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+Better, having judged justly, to be blamed unjustly by the condemned than,
+having judged unjustly, to be justly blamed by nature.
+
+* 54
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+Just as the stone that tests gold is no longer itself tested by the gold, so
+also he who has the criterion.
+
+* 55
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+
+It is shameful for the judge to be judged by others.
+
+* 56
+:PROPERTIES:
+:CUSTOM_ID: h56
+:END:
+
+Just as nothing is more straight than the straight, so neither is anything
+more just than the just.
+
+* 57
+:PROPERTIES:
+:CUSTOM_ID: h57
+:END:
+
+Just as the beacons upon the harbors, having kindled a great flame by means of
+a few sticks, work sufficient help for ships wandering over the sea, so also a
+brilliant man in a storm-tossed city, himself content with few things, greatly
+benefits the citizens.
+
+* 58
+:PROPERTIES:
+:CUSTOM_ID: h58
+:END:
+
+Just as, if you attempted to steer a ship, you would altogether learn
+thoroughly the steersman's art,  [lost]  for it will be possible for you, as
+there the whole ship, so here also to steer the whole city.
+
+* 59
+:PROPERTIES:
+:CUSTOM_ID: h59
+:END:
+
+If it is set before you to adorn the city with offerings, first dedicate to
+yourself the fairest offering of gentleness and justice and well-doing.
+
+* 60
+:PROPERTIES:
+:CUSTOM_ID: h60
+:END:
+
+You will do the greatest good to the city if you do not raise the roofs high,
+but increase the souls. For it is better that great souls dwell in small
+houses than that lowly slaves nest in great houses.
+
+* 61
+:PROPERTIES:
+:CUSTOM_ID: h61
+:END:
+
+Do not variegate the walls of the building with stones from Euboea and Sparta,
+but rather with the education from Greece adorn the breasts of the citizens
+and of those in public life. For cities are well inhabited by the judgments of
+men, but not by stones and timbers.
+
+* 62
+:PROPERTIES:
+:CUSTOM_ID: h62
+:END:
+
+Just as, if you wished to keep lions, you would not care for the costliness of
+the cages, but for the action of the animals; so, if you try to stand at the
+head of citizens, do not so much care for the costliness of the buildings as
+attend to the courage of those dwelling in them.
+
+* 63
+:PROPERTIES:
+:CUSTOM_ID: h63
+:END:
+
+Just as a good horse-breaker does not feed the good colts and let the
+hard-to-rein starve, but feeds both equally, and chastises the one more,
+forcing it to be equalized to the other; so also a caring man and one skilled
+in political power attempts to make the reasonable citizens, and those of the
+contrary sort not to be utterly destroyed, but least grudges food to both, and
+educates and more vehemently urges on the one who resists reason and the law.
+
+* 64
+:PROPERTIES:
+:CUSTOM_ID: h64
+:END:
+
+Just as neither a goose is struck with terror by a honk nor a sheep by a
+bleat, so neither let the voice of a mindless multitude frighten you.
+
+* 65
+:PROPERTIES:
+:CUSTOM_ID: h65
+:END:
+
+Just as a multitude asking indiscriminately does not shame you out of
+something of your own, so neither be turned aside by a crowd unjustly putting
+you to shame.
+
+* 66
+:PROPERTIES:
+:CUSTOM_ID: h66
+:END:
+
+What falls upon the city, this contribute in advance; and you will never be
+asked for the things that do not fall to you.
+
+* 67
+:PROPERTIES:
+:CUSTOM_ID: h67
+:END:
+
+Just as the sun does not wait for prayers and enchantments in order to rise,
+but immediately shines and is greeted by all, so neither wait you for
+clappings and noises and praises in order to do good, but willingly benefit,
+and you will be loved equally with the sun.

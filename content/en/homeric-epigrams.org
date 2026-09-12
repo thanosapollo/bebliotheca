@@ -1,0 +1,214 @@
+#+TITLE: Homeric Epigrams
+#+AUTHOR: Ὅμηρος hermes:grok-4.6
+#+FILETAGS: :classical:8c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+STARTUP: overview
+#+EXPORT_FILE_NAME: ../../public/en/homeric-epigrams
+#+LANGUAGE: en
+
+* EPIGRAM 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+=1= Have reverence for one who needs guest-gifts and a house,
+=2= you who dwell in the steep city, Cyme the fair-eyed maiden,
+=3= at the lowest foot of high-tressed Sardene,
+=4= drinking the ambrosial water of the divine river,
+=5= eddying Hermus, whom immortal Zeus begot.
+* EPIGRAM 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+=1= May my feet swiftly bear me to a city of reverent men;
+=2= for their heart is willing and their counsel is best.
+* EPIGRAM 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+=1= I am a bronze maiden, and I lie upon the tomb of Midas;
+=2= so long as water flows and tall trees flourish,
+=3= and the rising sun shines and the bright moon also,
+=4= and rivers run and the sea washes up,
+=5= remaining here upon this much-lamented tomb
+=6= I shall tell passers-by that Midas is buried here.
+* EPIGRAM 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+=1= To what a fate did father Zeus give me to become a prey,
+=2= nursing me as an infant on the knees of a reverend mother.
+=3= The city which once by the counsel of aegis-bearing Zeus
+=4= the people of Phricon, riders of wanton horses,
+=5= younger men deciding Ares of raging fire, built with towers,
+=6= Aeolian Smyrna, neighbor of the sea, shaken by the deep,
+=7= through which the bright water of sacred Meles goes;
+=8= from there the daughters of Zeus, glorious children, setting out,
+=9= wished to make famous the divine land and the city of men.
+=10= But they refused the holy voice, the fame of song,
+=11= in folly; and one of them, having suffered, shall consider this
+again,
+=12= he who with insults contrived my fate among them.
+=13= But the doom which the god granted me even at my birth
+=14= I will endure, bearing unfulfilled things with a patient heart;
+=15= nor do my dear limbs remain to stay in the sacred streets
+=16= of Cyme, they are eager, and my great heart urges me
+=17= to go to the people of foreigners, small though I am.
+* EPIGRAM 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+=1= Thestorides, of the many things unforeseen for mortals,
+=2= nothing is more inscrutable than the mind of men.
+* EPIGRAM 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+=1= Hear, Poseidon, of great strength, earth-shaker,
+=2= lord of the wide dancing-place and of tawny Helicon,
+=3= give a fair breeze and to see a harmless return
+=4= to the sailors who are escorts and commanders of the ship;
+=5= and grant that coming to the foot of high-cliffed Mimas
+=6= I may meet with reverent and holy mortals,
+=7= and that I may punish the man who, deceiving my mind,
+=8= angered Zeus of guests and the guest-table.
+* EPIGRAM 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+=1= Lady Earth, all-giving, giver of honey-hearted wealth,
+=2= how then you have been made well-soiled for some of men,
+=3= and ill-clodded and rough for those with whom you were angry.
+* EPIGRAM 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+=1= Seafaring sailors, like to hateful ruin,
+=2= like cowering shearwaters, having an unenviable life,
+=3= have reverence for the majesty of Zeus of guests who rules on high;
+=4= for terrible afterwards is the vengeance of Zeus of guests against
+whoever sins.
+* EPIGRAM 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+=1= Restored to metrical form for Barnes. You, O strangers, a contrary
+wind coming has seized;
+=2= but now receive me, and the voyage shall be yours.
+* EPIGRAM 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+=1= Another pine of yours sends forth better fruit
+=2= on the peaks of much-folded windy Ida,
+=3= where the iron of Ares for earth-dwelling mortals
+=4= shall be, when the Cebrenian men hold it.
+* EPIGRAM 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+=1= Glaucus, watcher of flocks Kuester: dear one, of mortals, MSS., I
+will put a word in your heart;
+=2= first give the dogs their dinner at the courtyard doors;
+=3= for this is better; for he first hears
+=4= a man approaching and a wild beast going to the enclosure.
+* EPIGRAM 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+=1= Hear me as I pray, Kourotrophos, and grant that this woman
+=2= refuse the love and bed of young men;
+=3= and let her take pleasure in grey-templed old men,
+=4= whose season is blunted, but whose heart is eager.
+* EPIGRAM 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+=1= Children are a man's crown, and towers of a city,
+=2= and horses in turn the ornament of a plain, and ships of the sea,
+=3= and possessions increase a house, and reverend kings
+=4= seated in the agora are an ornament for the people to behold
+Ruhnken: and for others, Sources: The Contest of Homer adds the
+verse: and a people sitting in assemblies to be looked upon.
+=5= and a house is more reverend to behold with a burning fire
+=6= on a winter's day, when the son of Cronos snows.
+* EPIGRAM 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+=1= If you will give a wage I will sing, O potters.
+=2= Come here, Athena, and hold your hand over the kiln.
+=3= And may the cups and all the dishes be well finished Pollux: be
+blackened, be blackened, Life of Homer.
+=4= and be well baked and fetch a price of honor,
+=5= many sold in the agora, many in the streets,
+=6= and much profit gained, and for us too, as I sing for them.
+=7= But if you turn to shamelessness and take up lies,
+=8= then I call together the destroyers of kilns,
+=9= Smash together with Crash and Unquenchable and Shatter
+=10= and Crudebake, who would furnish many evils to this craft;
+=11= sack the fire-blazing house, and with it let the kiln
+=12= all be thrown into confusion, while the potters wail greatly.
+=13= As a horse's jaw crunches, so may the kiln crunch,
+=14= making all the pottery inside it fine.
+=15= Come here also, daughter of the Sun, Circe of many drugs,
+=16= cast wild drugs, and harm both them and their works.
+=17= And let Chiron also lead here many Centaurs,
+=18= those who fled the hands of Heracles and those who perished,
+=19= let them strike these works badly, and let the kiln fall;
+=20= and let they themselves groaning look upon their wretched works.
+=21= And I shall rejoice seeing their ill-fated craft;
+=22= and whoever peeks over, may all his face
+=23= be burned with fire, so that all may know to do what is fitting.
+* EPIGRAM 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+=1= We have turned to the house of a man of great power,
+=2= who is greatly able, and greatly is fitting Ilgen: thunders, MSS.
+always blessed.
+=3= Open of yourselves, doors; for Wealth will enter
+=4= much, and with Wealth also blooming Cheer
+=5= and good Peace; and as many vessels as there are, may they be full,
+=6= and may the cake always crawl in a heap over the kneading-trough.
+=7= Now a barley one, fair-faced, sesame-filled
+=1= And the child's wife shall step down from the chariot for you;
+=9= and strong-footed mules shall bring her to this house;
+=10= and she herself may weave at the loom standing upon amber.
+=12= I will come, I will come yearly, like the swallow
+=12= I stand in the porch barefoot; but quickly bring
+=13= persai of Apollo Gyiatis.
+* EPIGRAM 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+=1= If you will give something; but if not, we will not stand here;
+=2= for we did not come here to dwell with you.
+* EPIGRAM 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+*** HOMER
+:PROPERTIES:
+:CUSTOM_ID: h17-h0-h1
+:END:
+
+=1= Men, hunters of the salt catch Koechly: from Arcadia, MSS., do we
+have something?
+
+*** FISHERMEN
+:PROPERTIES:
+:CUSTOM_ID: h17-h0-h2
+:END:
+
+=2= All that we caught we left behind; all that we did not catch we
+carry.
+
+*** HOMER
+:PROPERTIES:
+:CUSTOM_ID: h17-h0-h3
+:END:
+
+=3= For from the blood of such fathers you are sprung,
+=4= who neither have deep lots of land nor tend countless flocks.

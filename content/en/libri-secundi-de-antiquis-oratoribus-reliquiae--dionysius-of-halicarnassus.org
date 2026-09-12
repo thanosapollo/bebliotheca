@@ -1,0 +1,51 @@
+#+TITLE: Remains of the Second Book on the Ancient Orators
+#+AUTHOR: Dionysius of Halicarnassus hermes:grok-4.6
+#+FILETAGS: :imperial:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/libri-secundi-de-antiquis-oratoribus-reliquiae--dionysius-of-halicarnassus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Remains of the Second Book on the Ancient Orators edited by Hermann Usener
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+/The Halicarnassian says: the mouth is kept pure for Demosthenes./
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+/And he seems to have used the metaphor more tragically right at the beginning, but the same thought to have been said more politically by Demosthenes in that of the False Embassy right at the beginning, having thus: How great, O men of Athens, eagerness and instruction has come to be, and the rest./
+
+/And someone might blame the proem as tragic and excessive and more like an epilogue. scholion ibid. p. 353 r. And see how he began in an epilogue-like way from a throwing-out of advocates, as also Demosthenes./
+
+cf.  /Some think it right to blame the orator for having made a throwing-out of advocates in a contest, when it ought to have been in an epilogue./
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+/Having turned more turns than the Euripus p. 331 sch. And the colon is a jest. And the critics praise this colon saying it has been phrased soberly and not lightly./
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+/And Dionysius takes hold, because to deposit for keeping has more indication of guarding, but upon bodies the opposite happens, for they are sometimes destroyed. Therefore Aeschines used the word badly./
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+/Dionysius takes hold. For, he says, we do not wish to conquer virtue, as [we do] the antagonists./

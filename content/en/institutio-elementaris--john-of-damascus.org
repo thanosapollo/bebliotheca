@@ -1,0 +1,238 @@
+#+TITLE: Elementary Introduction
+#+AUTHOR: Ἰωάννης Δαμασκηνός hermes:grok-4.6
+#+FILETAGS: :patristic:8c-ad:pg94-96:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/institutio-elementaris--john-of-damascus
+#+LANGUAGE: en
+
+* Elementary Introduction
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+An elementary introduction to the dogmas, from the voice of John the humble
+monk, to John the most holy bishop of Laodicea.
+Preface
+In the name of the Father and of the Son and of the Holy Spirit, of the one
+Godhead in three hypostases and to be worshipped, of the consubstantial and
+life-originating Trinity, of the one God, from whom every good gift and every
+perfect endowment comes down to us from above, I open my stammering and
+slow-tongued lips, I the sinner and wretched one, trusting in him, that
+because of the humility of those who asked for the word and for the benefit of
+those who hear, the Lord of grace and the storehouse of all good things, the
+God who is over all, blessed unto the ages, will give a spirit of wisdom and a
+word in the opening of my mouth. Amen.
+1 Concerning substance and nature and form.
+Substance and nature and form, according to the holy Fathers, are the same.
+And again hypostasis and person and individual are the same. And difference
+and quality and property are the same. Our aim, then, is to speak about these
+and such things, concerning which your Holiness also deigned to ask.
+Beginning, then, we speak thus concerning substance and nature and form. There
+is a superessential substance and nature and form, the incomprehensible
+Godhead, and its hypostases and persons are Father, Son, and the all-holy
+Spirit; for each of them is a perfect hypostasis and is a perfect person.
+Further, every creature of God is a substance. But the creatures are many and
+have much difference from one another; for the angel is one creature and man
+another, and the ox is another and the dog another, heaven is another and
+earth another, and fire is another and air another and water another; and, to
+speak simply, there are many species among the creatures. Each species,
+therefore, is one nature: for example, all men are one nature, and all angels
+are one nature, and all oxen are one nature; and likewise the remaining
+creatures. And the nature of the angels is one, and that of men another, and
+that of oxen another; and likewise in the rest.
+2 Concerning hypostasis and person and individual.
+Since men are many, each man is a hypostasis: for example, Adam is a
+hypostasis, and Eve is another hypostasis, and Seth is another hypostasis.
+Likewise also in the rest. Each man is a hypostasis other than the remaining
+men, and each ox is a hypostasis, and each angel is a hypostasis. So that
+nature and form and substance is the common, which contains the consubstantial
+hypostases, while hypostasis and individual and person is the particular, that
+is, each of those contained under the same species.
+3 Concerning difference and quality and property.
+We said that there are many species and various substances, and likewise also
+under each substance and species various hypostases. Therefore both each
+substance differs from the other substance, and each hypostasis from the other
+hypostasis. That thing, then, in which substance differs from substance and
+species from species or hypostasis from hypostasis is called difference and
+quality and property: for example, man differs from the angel, because the
+angel is immortal, while man is mortal; the immortal and the mortal is a
+difference and quality and property. Again Adam differs from Seth, because
+Adam is father of Seth, while Seth is son of Adam. Fatherhood, then, and
+sonship are differences; for in these Adam and Seth differ from one another.
+And all such things are called differences and qualities and properties: for
+example, the rational and the irrational, the mortal and the immortal, the
+two-footed, the four-footed, the sensitive and the insensitive, the snub-nosed
+and the hook-nosed, the white and the black, the tall and the short, and all
+such things.
+4 Concerning essential and non-essential difference, that is, natural
+difference and accident.
+Every thing by which a species differs from another species and a substance
+from another substance is called an essential and natural and constitutive
+difference and quality and natural property and property of nature. For
+example, the angel and man differ from one another according to the immortal
+and the mortal; the immortal is an essential and natural and constitutive
+difference of the angel and a natural property. Likewise also the mortal of
+man. Again man and the ox differ from one another, because man is rational,
+while the ox is irrational. See: the rational is an essential and constitutive
+difference of man, and the irrational of the ox. Likewise also in the
+remaining species and substances and natures and forms. But every thing in
+which a hypostasis differs from a hypostasis of the same species and of the
+same substance is called a non-essential difference and quality and hypostatic
+property and characterizing property; this is the accident: for example, a man
+differs from another man, because the one is tall and the other short, the one
+white and the other black; the one is healthy and the other is ill, the one is
+a father and the other a son. These and all such things are non-essential
+differences and qualities and hypostatic and characterizing properties and
+accidents. And, to speak simply, whatever things are observed alike in all the
+hypostases under the same species, and without which it is impossible for the
+substance and the species to subsist, are called essential difference; but
+whatever things are in some of the hypostases of the same species and are not
+in others are accidents and non-essential.
+5 Concerning separable and inseparable accident.
+Of accidents some are separable, and some inseparable. Inseparable are those
+in which a hypostasis differs from another hypostasis, but does not differ
+from itself: for example, this particular man differs from another man,
+because he himself is snub-nosed while that one is hook-nosed, because the one
+is grey-eyed and the other black-eyed. But he does not differ from himself;
+for the snub-nosed is always snub-nosed and the hook-nosed is always
+hook-nosed, and it is not possible for the same man to be at one time
+snub-nosed and at another hook-nosed. And these are called inseparable
+accidents, because, once they come to be in someone, they are no longer
+separated from him. Nevertheless they are accidents; for it is possible both
+not to be snub-nosed and to be a man, and not to be hook-nosed and to be a
+man; for not every man is snub-nosed nor is every man hook-nosed, but every
+man is rational, and he who is not rational is not a man. Separable are those
+which even the same man, that is the same hypostasis, at one time has and at
+another does not have, for example being ill and being healthy, sitting and
+standing up, rejoicing and grieving, and such things.
+6 Concerning things of the same substance and of different substance.
+Of the same substance and of the same nature and of the same form and of the
+same species and of the same genus are those things which are under the same
+species and under the same substance, for example Peter, Paul, and the
+remaining particular men, and all oxen and all dogs, and likewise the rest. Of
+different substance and of different nature and of different form and of
+different species and of different genus are those that are under this species
+and that, and this substance and that, for example man and horse and ox and
+dog and such things.
+7 Concerning genus and species.
+Genus is divided into species, for example the animal is either rational or
+irrational; see: the animal is genus of the rational and of the irrational,
+while the rational and the irrational are species of the animal. Again the
+rational is divided into mortal, man, and immortal, angel. The rational is
+genus of the mortal and of the immortal, while the mortal and the immortal are
+species of the rational. In order, then, that what is said may become clearer,
+let us take up the account from above. The most generic genus is the first
+genus, which, being a genus, is not a species, because it has no other genus
+above it; and the most specific species is the last and subordinate species,
+which, being a species, is not a genus, because it has no other species
+divided from it. And between the most generic genus and the most specific
+species there are both genera and species, genera of those below, species of
+those above, which are called subaltern. For example, substance is the most
+generic genus; for it has no other genus above it, and therefore it is not a
+species either. This is divided into body and incorporeal; body is divided
+into animate and inanimate; the animate is divided into sensitive and
+insensitive; the sensitive into rational and irrational; the rational into
+mortal and immortal. The incorporeal, then, is rational and immortal; and here
+I mean by incorporeal a substance such as soul, angel, demon; each of these is
+a most specific species. And an animate sensitive body is the animal, and a
+rational mortal animal is man, who is a most specific species, and an
+irrational barking animal is the dog, who is a most specific species. Then an
+animate insensitive body is the plant. A body wholly inanimate is earth, air,
+water, fire, each of which is a most specific species. And for greater clarity
+we speak thus. Substance, which contains in a superessential way the uncreated
+Godhead, and in a cognitive and encompassing way the whole creation, is the
+most generic genus. This is either incorporeal and intellective and immortal,
+as God, angel, soul, demon, or an inanimate body, as fire, air, water, earth,
+or a vegetative body, as vine, date-palm, olive, and such things, or an
+animate sensitive body, that is an animal, as horse, dog, elephant, and such
+things, or composed of body and incorporeal soul, as man. Of these, substance,
+as first and more universal and encompassing of all, is the most generic
+genus. And of this most generic genus the species are the incorporeal, the
+inanimate body, the vegetative body, the animate and sensitive body, that is
+the animal. These are called species and subaltern genera; for they are
+species of substance as divided from it. And each of them is divided into
+other species and is encompassing and more universal than they; for the
+incorporeal substance contains God, angel, soul, demon; the inanimate body,
+earth, water, air, fire; the vegetative body, vine, olive, date-palm, and such
+things; the animate and sensitive, that is the animal, horse, ox, dog, and
+such things, and further also man, composed of incorporeal soul and body.
+A hypostasis, then, and individual and person is Father, Son, and the Holy
+Spirit; and the species that contains them is the superessential and
+incomprehensible Godhead. Further, hypostases are Michael, Gabriel, and the
+remaining particular angels; and the species that contains them is the angelic
+nature. Further, hypostases are Peter, Paul, John, and the remaining
+particular men; and the species that contains them is humanity. Again,
+hypostases are this horse and that; and the species that contains them is
+horse simply. Again, hypostases are this and that plant of the olive; and the
+species that contains them is the olive simply. One must know, then, that
+those which contain individuals only are called most specific species, for
+example the angel, man, the horse, the dog, the olive, the date-palm, and such
+things; while those which contain the most specific species only are called
+genera and subaltern species, for example the incorporeal, the body, the
+inanimate, the insensitive, the vegetative, the animate, the sensitive, the
+animal, the rational, the irrational, the mortal, the immortal, the
+two-footed, the four-footed, the creeping, the winged, and all such things,
+which contain the most specific species and are genera of them and their
+constitutive differences, but are contained by the most generic genus, which
+is substance. And the same things must be treated in another way. All things
+that came to be by one command of God are of one genus: for example, God
+commanded fishes to come to be, and many differences of fishes came to be; all
+fishes are of one genus, and each difference of fishes is a species. Again God
+commanded the waters to bring forth winged things, and many differences of
+winged things came to be; all winged things are of one genus, and each
+difference of the winged things is a species of that genus of winged things.
+Likewise also in reptiles and cattle and wild beasts and herbs and vegetables
+and trees. And there is said to be also one genus of all animals and one genus
+of all plants and one genus of things wholly inanimate and having no
+growth-power or nutritive power at all, and again one genus of the incorporeal
+and one genus of bodies; and the whole creation is also said to be one genus,
+and the differences of the creatures are many species under the genus of
+creation, and the whole substance is one genus.
+8 Concerning energy.
+Energy is an active motion of that which acts. And natural energy is an active
+motion of nature, for example the rational motion of the mind, the vital, the
+sensitive, the nutritive, the growth-giving, the generative, and motion
+according to impulse, that is the motions of the body, and the imaginative and
+the memorial, and the irascible and the concupiscible and the volitive, that
+is the appetitive, and such things. And this is of five kinds: either
+intellective, as in angels and all incorporeal substances, who think by a
+simple application; or rational, as in men composed of incorporeal soul and
+body, who think not by a simple but by a varied and discursive application; or
+vital, as in irrational animals that have sensation but neither reason nor
+think; or vegetative, as in things without sensation that have nutritive and
+growth-giving and generative power; or wholly lifeless, as in earth and
+stones, which have neither vital nor nutritive nor growth-giving power, yet
+are not without a share in certain natural energies.
+9 Concerning passion.
+Passion is a natural passive motion of the nature of that which suffers, which
+is an energy of the nature, but a passion of that about which the energy is,
+for example generation, joy, grief, anguish, distress, fear, hesitation, toil,
+sleep, pleasure, pain, anger, desire, cutting, flux and corruption, and such
+things. These and such things are natural passions and not to be blamed, not
+being in our power. Sin alone is against nature, a most evil voluntary and
+self-chosen passion of the soul, and corruption.
+10 Concerning will.
+Will is a natural rational appetite. And again, will is a natural rational and
+self-determining appetitive motion of the mind. For the irrational animals are
+not moved toward appetite in a self-determining way; for when the appetite is
+moved naturally in them, since they do not have reason as overseer, they are
+led by nature, being overcome by its appetite. Hence they rush at once to the
+act, unless they are hindered by another. Therefore they are not
+self-determining, but under another's power. But the rational nature has
+authority to yield to the natural appetite and not to yield but to overcome
+it, and nature makes this plain, being a natural desire of life and yet
+yielding to reason; for many, having overcome this by the ruling reason, have
+gone willingly to death and have deferred the appetite for food and for sleep
+and for the rest, leading nature by self-determining reason, not being led by
+it. As, then, the natural appetite is present in every sensitive nature, so
+self-determination is present in every rational nature; for every rational
+thing is self-determining, and this is what is according to the image of God.
+Will, then, is a natural, that is a rational and self-determining, appetitive
+power and motion. And the things subject to the will, which the will desires,
+are called gnomic wills; for by its own gnome the mind, being
+self-determining, rushes toward the use of these. And these are such as to eat
+or not to eat, to drink or not to drink, to journey or not to journey, to
+marry or not to marry, and such things, which are in our power, which we are
+able both to do and to do their opposites.

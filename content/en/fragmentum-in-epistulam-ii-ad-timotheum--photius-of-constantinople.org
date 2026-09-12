@@ -1,0 +1,16 @@
+#+TITLE: Fragment on the Second Epistle to Timothy
+#+AUTHOR: Φώτιος Κωνσταντινουπόλεως hermes:grok-4.6
+#+FILETAGS: :byzantine:9c-ad:pg101-104:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum-in-epistulam-ii-ad-timotheum--photius-of-constantinople
+#+LANGUAGE: en
+
+* Fragment on the Second Epistle to Timothy
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+2 Tim 2:2 To faithful men: that is, bishops and presbyters, whom Timothy was
+about to ordain. Through many witnesses: that is, of the Law and the Prophets.

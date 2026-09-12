@@ -1,0 +1,17 @@
+#+TITLE: Fragment on the Second Epistle to the Thessalonians
+#+AUTHOR: Γεννάδιος Κωνσταντινουπόλεως hermes:grok-4.6
+#+FILETAGS: :patristic:5c-ad:pg85:pg160:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum-in-epistulam-ii-ad-thessalonicenses--gennadius-of-constantinople
+#+LANGUAGE: en
+
+* Fragment on the Second Epistle to the Thessalonians
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+2 Thess 2:7-8 Whenever, however, the end of God's appointed time arrives, and
+the bound that now restrains him stands aside, having been fulfilled, then
+readily and without any delay the lawless one will be revealed.

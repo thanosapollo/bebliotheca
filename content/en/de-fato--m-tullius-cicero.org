@@ -1,0 +1,876 @@
+#+TITLE: On Fate
+#+AUTHOR: M. Tullius Cicero hermes:grok-4.6
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-fato--m-tullius-cicero
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+De Fato edited by C. F. W. Müller
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+[omitted] because it belongs to morals, which they call ethos; we usually call
+that part of philosophy the one concerned with character, but it is fitting,
+as we enlarge the Latin language, to name it moral. And the force and nature
+of propositions must be set forth, which the Greeks call axiomata; and when
+they say something of a future matter, and of what can happen or cannot, what
+force they have is an obscure question, which the philosophers call the
+question of possibles, and the whole of it is logic, which I call the method
+of discourse. But what I did in other books, those On the Nature of the Gods,
+and likewise in those I published On Divination, so that a continuous speech
+was set out on each side, by which each person might more easily approve what
+seemed to him most probable, a certain accident prevented me from doing that
+in this discussion On Fate.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+For when I was at my place at Puteoli, and our friend Hirtius, the
+consul-elect, was in the same neighborhood, a man most friendly to us and
+devoted to these studies in which we have lived from boyhood, we spent much
+time together, seeking above all those counsels that belonged to peace and to
+the harmony of the citizens. For since after Caesar's death all the causes of
+new disturbances seemed to be sought, and we thought they had to be met,
+nearly all our talk was spent in these deliberations; and we did that both
+often at other times and on a certain day freer than usual and more empty of
+interruptions, when he had come to me, first taking up those things that were
+daily with us and as it were our standing business, about peace and about
+leisure.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+When that was done, "What then?" he said. "Since you have not, I hope,
+abandoned oratorical exercises, but have certainly put philosophy before them,
+can I hear something?" "You indeed," I said, "may either hear or speak; for I
+have not deserted those oratorical studies, as you rightly judge, with which I
+even set you on fire, though I had received you already blazing, nor do the
+things I now treat diminish that faculty, but rather increase it. For the
+orator has a great partnership with this kind of philosophy which we follow;
+he borrows subtlety from the Academy and in turn gives it richness of speech
+and the ornaments of speaking. Therefore," I said, "since both studies are our
+possession, today let the choice be yours, which you prefer to enjoy." Then
+Hirtius: "Most welcome," he said, "and like all your ways; for your will has
+never refused anything to my eagerness."
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+"But since your rhetoric is known to me, and we have often heard you in it and
+shall hear you, and the Tusculan Disputations show that you have taken up this
+Academic custom of arguing against a proposed case, I want you, if it is not
+troublesome, to set up something for me to hear." "Can anything be troublesome
+to me," I said, "that will be welcome to you? But you will hear me as a Roman,
+as one entering this kind of argument timidly, as one taking up these studies
+again after a long interval." "I will hear you arguing," he said, "as I read
+what you have written. So begin. Let us sit here."
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+[omitted] of which in some, as in Antipater the poet, as in those born on the
+shortest day, as in brothers falling ill together, as in urine, as in nails,
+as in the rest of that kind, natural sympathy has force, which I do not take
+away, but there is no fatal power; in others, however, there can be certain
+chance events, as in that shipwrecked man, as in Icadius, as in Daphitas; some
+things even Posidonius (with my teacher's leave I would say it) seems to
+invent; they are indeed absurd. What then? If it was Daphitas's fate to fall
+from a horse and so perish, was it from this horse, which, though it was not a
+horse, had a borrowed name? Or was Philip warned to avoid these little
+four-horse chariots on the sword-hilt? As if he were killed by the hilt. And
+what is remarkable about that nameless shipwrecked man having slipped in a
+brook? (though for this man, at least, he writes that it was predicted he
+would perish in water); nor, by Hercules, do I see any fate of Icadius the
+pirate;
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+for he writes that nothing was predicted to him. What wonder, then, that a
+rock from the cave fell upon his legs? For I think that even if Icadius had
+not been in the cave then, that rock would still have fallen. For either
+nothing at all is by chance, or this very thing could have happened by
+fortune. I ask, then (and this will have a wide reach), if fate had no name at
+all, no nature, no force, and most things or all things happened at random, by
+chance, would they happen otherwise than they happen now? What, then, is the
+point of pressing fate, when without fate the account of all things is
+referred to nature or to fortune?
+
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+But let us dismiss Posidonius, as is fair, with good leave, and return to
+Chrysippus's snares. To him let us first answer about the sympathy of things
+itself; we will pursue the rest later. How much difference there is among the
+natures of places, we see; that some are healthy, others pestilent; that in
+some people are phlegmatic and as it were overflowing, in others dried out and
+arid; and there are many other things that differ greatly from place to place.
+At Athens the air is thin, from which the Attic people are thought even
+sharper; at Thebes it is thick, and so the Thebans are stout and strong. Yet
+that thin air will not bring it about that anyone hears Zeno or Arcesilas or
+Theophrastus, nor the thick that he seeks victory at Nemea rather than at the
+Isthmus. Separate them further.
+
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+For what can the nature of a place bring about, that we should walk in
+Pompey's portico rather than on the Campus? with you rather than with another?
+on the Ides rather than on the Kalends? As, then, the nature of a place has
+some bearing on certain things and on certain things none, so let the
+condition of the stars have force, if you like, upon certain things; it will
+certainly not have force upon all. But, they say, since there are unlikenesses
+in the natures of men, so that sweet things delight some, half-bitter things
+others, some are lustful, others angry or cruel or proud, others shrink from
+such vices: since, then, he says, nature differs so much from nature, what
+wonder is it that these unlikenesses were made from different causes?
+
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+In arguing this he does not see what the matter is about, and in what the
+cause consists. For it is not the case that, if some are more inclined to some
+things than others because of natural and antecedent causes, therefore there
+are also natural and antecedent causes of our wills and desires. For nothing
+would be in our power, if the matter stood so. As it is, we admit that whether
+we are sharp or dull, strong or weak, is not in us. But he who thinks it
+follows from this that not even our sitting or walking is a matter of will
+does not see what follows upon what. For though both the talented and the slow
+are born so by antecedent causes, and likewise the strong and the weak, it
+does not follow that their sitting and walking and doing some business is also
+determined and fixed by principal causes.
+
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+We have received Stilpo, the Megarian philosopher, as a man certainly sharp
+and approved in those times. His own intimates write that he was both given to
+drink and given to women, and they do not write this in blame but rather in
+praise; for they say that a vicious nature was so tamed and crushed by him
+through teaching that no one ever saw him drunk, no one saw in him a trace of
+lust. What? Do we not read how Zopyrus the physiognomist marked Socrates, a
+man who professed to know thoroughly men's characters and natures from the
+body, the eyes, the face, the brow? He said Socrates was stupid and dull,
+because he did not have hollows at the throat; he said those parts were
+blocked and stopped up; he added also that he was given to women, at which
+Alcibiades is said to have raised a laugh.
+
+* Section 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+But these vices can be born from natural causes; that they should be rooted
+out and utterly taken away, so that the very man who was inclined to them is
+called away from such great vices, is not placed in natural causes, but in
+will, study, training. All of which is taken away, if the force and nature of
+fate is confirmed from the account of divination.
+
+For if there is divination, from what kind of principles of the art does it
+set out? (I call principles of the art what are called theoremata in Greek.)
+For I do not believe that either the other craftsmen are employed in their
+function with no principle grasped, or that those who use divination predict
+the future so.
+
+* Section 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+Let the astrologers' principles, then, be of this kind: /If someone, for
+example, is born at the rising of the Dog-star, he will not die at sea./
+Watch, Chrysippus, lest you desert your own case, in which you have a great
+struggle with Diodorus, a powerful logician. For if that is true which is so
+connected: /If someone is born at the rising of the Dog-star, he will not die
+at sea/, this too is true: /If Fabius was born at the rising of the Dog-star,
+Fabius will not die at sea./ These things, then, fight with one another, that
+Fabius was born at the rising of the Dog-star, and that Fabius will die at
+sea; and since it is set down as certain in Fabius's case that he was born at
+the rising of the Dog-star, these also fight, that Fabius exists, and that he
+will die at sea. Therefore this too is a conjunction of incompatibles: /Both
+Fabius exists, and Fabius will die at sea/, which, as it is put, cannot even
+happen. Therefore this, /Fabius will die at sea/, is of that kind which cannot
+happen. Therefore everything that is said falsely of the future cannot happen.
+
+* Section 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+But this, Chrysippus, you by no means want, and your contest with Diodorus is
+above all about this very thing. For he says that only that can happen which
+either is true or will be true, and whatever will be, that he says must
+happen, and whatever will not be, that he denies can happen. You say that even
+things that will not be can happen, as that this gem be broken, even if that
+will never come about, and that it was not necessary that Cypselus reign at
+Corinth, although that had been issued by Apollo's oracle a thousand years
+before. But if you will approve those divine predictions, you will also hold,
+of those things that will be said falsely of the future, that they cannot
+happen; and if it should be said that Africanus will take Carthage, and if
+something is truly said of the future, and it will be so, you would say it is
+necessary; which is the whole view of Diodorus, hostile to you.
+
+* Section 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+For if this is truly connected: /If you were born at the rising of the
+Dog-star, you will not die at sea/, and the first thing in the connection,
+/You were born at the rising of the Dog-star/, is necessary (for all true
+things in the past are necessary, as Chrysippus holds, dissenting from his
+master Cleanthes, because they are immutable and past things cannot turn from
+true to false); if, then, what is first in the connection is necessary, what
+follows becomes necessary also. Although this does not seem to Chrysippus to
+hold in all cases; yet if there is a natural cause why Fabius should not die
+at sea, Fabius cannot die at sea.
+
+* Section 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+At this point Chrysippus, in a sweat, hopes the Chaldeans and the other
+diviners are mistaken, and that they will not use connections, so as to
+announce their principles thus: /If someone was born at the rising of the
+Dog-star, he will not die at sea/, but will rather speak thus: /It is not the
+case both that someone was born at the rising of the Dog-star and that he will
+die at sea./ What a joking license! Lest he himself fall into Diodorus, he
+teaches the Chaldeans how they ought to set out their principles. For I ask,
+if the Chaldeans speak so as to put negations of indefinite conjunctions
+rather than indefinite connections, why cannot doctors, why cannot geometers,
+why cannot the rest do the same? A doctor first of all will not put what he
+has seen clearly in his art thus: /If someone's veins move in this way, he has
+a fever/, but rather in this manner: /It is not the case both that someone's
+veins move in this way and that he does not have a fever./ And likewise a
+geometer will not say: /On a sphere the greatest circles bisect each other/,
+but rather in this manner: /It is not the case both that there are greatest
+circles on a sphere and that they do not bisect each other./
+
+* Section 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+What is there that cannot in that way be transferred from a connection to a
+negation of conjunctions? And indeed we can bring out the same things in other
+ways. I just said: /On a sphere the greatest circles bisect each other/; I can
+say: /If there will be greatest circles on a sphere/; I can say: /Because
+there will be greatest circles on a sphere/. There are many kinds of stating,
+and none more twisted than this, with which Chrysippus hopes the Chaldeans
+will be content for the Stoics' sake.
+
+* Section 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+Yet none of them speaks so; for it is a greater thing to learn these twists of
+speech thoroughly than the risings and settings of the signs. But let us
+return to that contention of Diodorus which they call the question of
+possibles, in which it is asked what force that has which can happen.
+Diodorus, then, holds that only that can happen which either is true or will
+be true. That topic touches this question, that nothing happens which was not
+necessary, and that whatever can happen either already is or will be, and that
+those things which are future can no more be changed from true to false than
+those which have been done; but in things done the immutability is apparent,
+in certain future things, because it is not apparent, it seems not even to be
+present, as in one who is hard pressed by a deadly disease it is true /He will
+die of this disease/, yet if this same thing is truly said of one in whom so
+great a force of disease is not apparent, it will nonetheless come about. Thus
+it comes about that no change from true to false can happen even in the
+future. For /Scipio will die/ has such force that, although it is said of the
+future, still it cannot turn into false; for it is said of a man who must die.
+
+* Section 18
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+So if it were said: /Scipio will die at night in his bedroom, overcome by
+force/, it would be said truly; for that would be said which was going to be;
+and that it was going to be ought to be understood from this, that it was
+done. Nor was /Scipio will die/ any more true than /He will die in that
+manner/, nor was it any more necessary that Scipio die than that he die in
+that manner, nor is /Scipio was killed/ any more immutable from true to false
+than /Scipio will be killed/; nor, when these things are so, is there reason
+why Epicurus should dread fate and seek help from the atoms and lead them
+aside from their path and at one time take up two things that cannot be
+untied, one, that something happens without a cause, from which it will follow
+that something comes about from nothing, which neither he himself nor any
+natural philosopher approves, the other, that when two indivisible bodies are
+carried through the void, one moves in a straight line, the other swerves.
+
+* Section 19
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+For Epicurus, granting that every proposition is either true or false, may
+still not fear that it is necessary that all things happen by fate; for it is
+not from eternal causes flowing by the necessity of nature that this is true
+which is so stated: /Carneades went down to the Academy/, nor yet without
+causes, but there is a difference between causes that have gone before by
+chance and causes that hold in themselves a natural efficiency. Thus it was
+always true /Epicurus will die when he has lived seventy-two years, in the
+archonship of Pytharatus/, and yet there were no fated causes why it should
+happen so, but, because it fell out so, it was going to fall out by a definite
+series of causes, as it did fall out.
+
+* Section 20
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+Nor do those who say that the things which will be are immutable, and that a
+true future cannot turn into false, confirm the necessity of fate, but they
+interpret the force of words. But those who introduce an everlasting series of
+causes bind the mind of man, stripped of free will, with the necessity of
+fate.
+
+But so much for this; let us look at other things. For Chrysippus concludes in
+this way: /If there is motion without a cause, not every proposition, which
+the logicians call an axioma, will be either true or false; for what will not
+have efficient causes will be neither true nor false; but every proposition is
+either true or false; therefore there is no motion without a cause. But if
+that is so, everything that happens happens by causes that have gone before;
+if that is so, all things happen by fate; it is brought about, therefore, that
+whatever happens happens by fate./
+
+* Section 21
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+Here first, if I should please to agree with Epicurus and deny that every
+proposition is either true or false, I would rather take that blow than
+approve that all things happen by fate; for that view has something to debate,
+but this one is not to be borne. And so Chrysippus strains every nerve to
+persuade us that every axioma is either true or false. For as Epicurus fears
+that if he has granted this, it must be granted that whatever happens happens
+by fate (for if either the one or the other is true from eternity, it is also
+certain, and if certain, also necessary; so he thinks both necessity and fate
+are confirmed), so Chrysippus fears that if he has not maintained that
+everything which is stated is either true or false, he will not hold that all
+things happen by fate and from eternal causes of future things.
+
+* Section 22
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+But Epicurus thinks that by the swerve of the atom the necessity of fate is
+avoided. And so a certain third motion arises besides weight and impact, when
+the atom swerves by a least interval (he calls this elachiston); which swerve
+he is forced to confess happens without a cause, if not in words, then in the
+thing itself. For the atom does not swerve struck by an atom. For how can one
+be struck by another, if the individual bodies are carried by weight
+perpendicularly in straight lines, as Epicurus holds? For it follows that if
+one is never driven off by another, they do not even meet. From which it is
+brought about that, even if there is an atom and it swerves, it swerves
+without a cause.
+
+* Section 23
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+Epicurus brought in this account for this reason, that he feared that, if the
+atom were always carried by a natural and necessary weight, nothing would be
+free in us, since the mind would be moved as it was compelled by the motion of
+the atoms. Democritus, the author of the atoms, preferred to accept that all
+things happen by necessity, rather than tear natural motions from the
+individual bodies. Carneades was sharper, who taught that the Epicureans could
+defend their case without this fictitious swerve. For when they taught that
+there can be a certain voluntary motion of the mind, that was better to defend
+than to introduce a swerve, whose cause they could not find; and if that were
+defended, they could easily resist Chrysippus. For when they had granted that
+there is no motion without a cause, they would not grant that everything that
+happens happens by antecedent causes; for there are not external and
+antecedent causes of our will.
+
+* Section 24
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+We therefore abuse the common custom of speech when we so say that someone
+wills something or is unwilling without a cause; for we so say /without a
+cause/ as to mean: without an external and antecedent cause, not without some
+cause; as, when we say a vessel is empty, we do not speak as the natural
+philosophers do, who hold that nothing is empty, but so that we say, for
+example, that the vessel is without water, without wine, without oil; so, when
+we say the mind is moved without a cause, we say it is moved without an
+antecedent and external cause, not altogether without a cause. Of the atom
+itself it can be said, when it is moved through the void by gravity and
+weight, that it is moved without a cause, because no cause comes to it from
+outside.
+
+* Section 25
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+Again, however, lest all the natural philosophers laugh at us if we say that
+anything happens without a cause, a distinction must be made, and it must be
+said thus, that this is the nature of the indivisible body itself, that it is
+moved by weight and gravity, and that this itself is the cause why it is so
+carried. In the same way, for the voluntary motions of minds no external cause
+is to be sought; for voluntary motion contains that nature in itself, that it
+is in our power and obeys us, and not without a cause; for the cause of that
+thing is nature itself.
+
+* Section 26
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+Since that is so, why is it that not every pronouncement is either true or
+false, unless we have granted that whatever happens happens by fate? Because,
+he says, those things cannot be true futures which do not have causes why they
+will be; therefore those things which are true must have causes; thus, when
+they have come about, they will have come about by fate. The business is
+finished, if either it must be granted to you that all things happen by fate,
+or that anything can happen without a cause.
+
+* Section 27
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+Can this proposition not otherwise be true: /Scipio will take Numantia/,
+unless from eternity cause linking cause will bring this about? Or could this
+have been false, if it had been said six hundred generations before? And if
+then this proposition was not true: /Scipio will take Numantia/, not even when
+that city has been overthrown is this proposition true: /Scipio took
+Numantia/. Can anything, then, have been done which it was not true would be?
+For as we call those past things true whose present fact was true at an
+earlier time, so we shall call those future things true whose present fact
+will be true at a later time.
+
+* Section 28
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+Nor, if every proposition is either true or false, does it follow at once that
+there are immutable causes, and those eternal, which prevent anything from
+falling out otherwise than it will fall out; there are fortuitous causes which
+bring it about that those things are truly said which will be said thus: /Cato
+will come into the senate/, not enclosed in the nature of things and in the
+world; and yet it is as immutable that he will come, when it is true, as that
+he has come, and fate or necessity is not for that reason to be dreaded. For
+it will be necessary to confess: /If this proposition, "Hortensius will come
+to his Tusculan estate," is not true, it follows that it is false./ They want
+neither of these; and that cannot be.
+
+Nor will that lazy argument hinder us, as it is called; for a certain argument
+is named by the philosophers the lazy argument, which if we obeyed we would do
+nothing at all in life.
+
+* Section 29
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+For they ask thus: /If it is your fate to recover from this disease, whether
+you have called a doctor or have not called one, you will recover; likewise,
+if it is your fate not to recover from this disease, whether you have called a
+doctor or have not called one, you will not recover; and one or the other is
+fate; therefore it is of no use to call a doctor./ This kind of questioning
+has been rightly named lazy and idle, because by the same reasoning all action
+will be taken out of life. One may even change it so as not to attach the name
+of fate and still hold the same view, in this way: /If from eternity this was
+true: "You will recover from that disease," whether you have called a doctor
+or have not called one, you will recover; and likewise, if from eternity this
+was false: "You will recover from that disease," whether you have called a
+doctor or have not called one, you will not recover/; then the rest. This
+argument is blamed by Chrysippus.
+
+* Section 30
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+For some things, he says, in affairs are simple, some coupled; a simple thing
+is: /Socrates will die on that day/; for this, whether he has done something
+or has not done it, the day of dying is fixed. But if it will be fated thus:
+/Oedipus will be born to Laius/, it will not be possible to say: /whether
+Laius has been with a woman or has not been/; for the thing is coupled and
+jointly fated; for so he calls it, because it is so fated both that Laius will
+lie with his wife and that he will beget Oedipus from her, so that if it had
+been said: /Milo will wrestle at Olympia/ and someone replied: /Therefore,
+whether he has had an opponent or has not had one, he will wrestle/, he would
+err; for /he will wrestle/ is coupled, because without an opponent there is no
+wrestling. All captious arguments of that kind, then, are refuted in the same
+way. /Whether you have called a doctor or have not called one, you will
+recover/ is captious; for it is as fated to call a doctor as to recover.
+These, as I have said, he calls jointly fated.
+
+* Section 31
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+Carneades did not approve this whole class and thought this argument was
+concluded too carelessly. And so he pressed in another way and used no
+quibble; his conclusion was this: /If all things happen by antecedent causes,
+all things happen bound and woven by a natural fastening; but if that is so,
+necessity brings all things about; if that is true, nothing is in our power;
+but there is something in our power; but if all things happen by fate, all
+things happen by antecedent causes; therefore not whatever happens happens by
+fate./
+
+* Section 32
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+This argument cannot be drawn tighter. For if anyone should wish to recast the
+same thing and speak thus: /If every future is from eternity true, that it
+will certainly turn out as it is going to be, all things must happen bound and
+woven by a natural fastening/, he would say nothing. For it makes a great
+difference whether a natural cause from eternity makes future things true, or
+even without a natural eternity those things that will be can be understood to
+be true. And so Carneades used to say that not even Apollo could tell future
+things except those whose causes nature so contained that they must happen.
+
+* Section 33
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+For with what in view would the god himself say that Marcellus, the one who
+was consul three times, would perish at sea? This was indeed true from
+eternity, but it did not have causes bringing it about. So he held that not
+even past things, of which no signs like traces existed, were known to Apollo;
+still less future things! For only when the efficient causes of each thing
+have been known can it at last be known what will be. Therefore Apollo could
+not have predicted about Oedipus, if no causes were set in the nature of
+things why his father must be killed by him, nor anything of that kind.
+Therefore if it is consistent for the Stoics, who say that all things happen
+by fate, to approve oracles of this kind and the rest of the things that are
+drawn from divination, but those who say that the things which will be are
+true from eternity need not say the same, see that their case is not the same
+as the Stoics'; for these are pressed more narrowly, the others' reasoning is
+loose and free.
+
+* Section 34
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+But if it should be granted that nothing can happen except by an antecedent
+cause, what is gained, if that cause is said not to be fastened from eternal
+causes? Now a cause is that which brings about that of which it is the cause,
+as a wound of death, indigestion of disease, fire of heat. And so a cause
+ought not to be understood thus, that whatever precedes each thing is a cause
+of it, but that which efficiently precedes each thing; nor that I went down to
+the Campus was a cause why I should play ball; nor was Hecuba a cause of
+destruction to the Trojans because she bore Alexander; nor Tyndareus to
+Agamemnon because he begot Clytemnestra. For in this way a traveler too, well
+dressed, will be said to have been a cause to a robber why he should be
+stripped by him.
+
+* Section 35
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+Of this kind is that of Ennius:
+
+/
+Would that in the grove of Pelion the fir beams,
+hewn by axes, had never fallen to the earth!
+/
+
+One might go even higher: /Would that no tree had ever been born on Pelion!/
+even above: /Would that there were no Mount Pelion at all!/ and likewise,
+repeating the earlier things, one may go back without end.
+
+/
+Nor had the ship from there taken the starting of its building.
+/
+
+To what end these past things? Because there follows this:
+
+/
+For never would my wandering mistress have set foot from home,
+Medea, sick at heart, wounded by savage love,
+/
+
+†not that those things brought the cause of the love.
+
+* Section 36
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+They say, however, that it makes a difference whether something is of such a
+kind that without it a thing cannot be brought about, or of such a kind that
+when it is present a thing must be brought about. None of those, then, is a
+cause, since none by its own force brings about the thing of which it is said
+to be the cause; nor is that without which something does not happen a cause,
+but that which, when it has been added, necessarily brings about that of which
+it is the cause. For when Philoctetes was not yet ulcerated by the serpent's
+bite, what cause was contained in the nature of things that he would be left
+on the island of Lemnos? Afterwards, however, there was a nearer cause, more
+closely joined to the outcome.
+
+* Section 37
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+The account of the event, then, opens the cause. But from eternity this
+proposition was true: /Philoctetes will be left on the island/, and this could
+not turn from true to false. For of two contrary things (and by contrary I
+mean here those of which one affirms something, the other denies it), of
+these, then, it is necessary, against Epicurus's will, that one be true and
+the other false, so that /Philoctetes will be wounded/ was true through all
+previous ages, /He will not be wounded/ false; unless perhaps we wish to
+follow the opinion of the Epicureans, who say that such propositions are
+neither true nor false, or, when that shames them, still say that which is
+more shameless, that the disjunctions from contraries are true, but that of
+the propositions in them neither is true.
+
+* Section 38
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+What amazing license and wretched ignorance of argument! For if something in
+speaking is neither true nor false, certainly it is not true; and what is not
+true, how can it not be false? or what is not false, how can it not be true?
+That, then, will be held which is defended by Chrysippus, that every
+proposition is either true or false; reason itself will compel both that
+certain things are true from eternity, and that they are not bound by eternal
+causes and are free from the necessity of fate.
+
+* Section 39
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+And to me, at least, it seems that, when there had been two views of the old
+philosophers, one of those who held that all things happen by fate in such a
+way that that fate brought the force of necessity, in which view were
+Democritus, Heraclitus, Empedocles, Aristotle, the other of those to whom the
+voluntary motions of minds seemed to be without any fate, Chrysippus, as an
+honorary arbitrator, wanted to strike the mean, but he applies himself rather
+to those who want the motions of minds freed from necessity; yet while he uses
+his own words he slips into such difficulties that he unwillingly confirms the
+necessity of fate.
+
+* Section 40
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+And if you please, let us see of what kind this is in assents, which I treated
+in the first discourse. For those ancients to whom all things seemed to happen
+by fate said that assents are brought about by force and necessity. Those who
+dissented from them freed assents from fate and denied that, fate being
+applied to assents, necessity could be removed from them, and they argued
+thus: /If all things happen by fate, all things happen by an antecedent cause,
+and if impulse, then also those things that follow impulse, therefore also
+assents; but if the cause of impulse is not situated in us, not even impulse
+itself is in our power; but if that is so, not even those things which are
+brought about by impulse are situated in us; therefore neither assents nor
+actions are in our power. From which it is brought about that neither praises
+are just nor blames nor honors nor punishments/. Since that is vicious, they
+think it is reasonably concluded that not whatever happens happens by fate.
+
+* Section 41
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+Chrysippus, however, since he both disapproved necessity and wanted nothing to
+happen without preceding causes, distinguishes kinds of causes, so that he
+both escapes necessity and retains fate. /For of causes/, he says, /some are
+complete and principal, others assisting and proximate. Therefore when we say
+that all things happen by fate by antecedent causes, we do not want this to be
+understood: by complete and principal causes, but by assisting antecedent and
+proximate causes/. And so he meets that argument which I concluded a little
+before thus: if all things happen by fate, that indeed follows, that all
+things happen by preceding causes, true, but not by principal and complete
+causes, but by assisting and proximate. If these themselves are not in our
+power, it does not follow that not even impulse is in our power. But this
+would follow if we said that all things happen by complete and principal
+causes, so that, since those causes were not in our power, not even impulse
+would be in our power.
+
+* Section 42
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+Therefore against those who introduce fate so as to join necessity, that
+conclusion will have force; against those who will not say that antecedent
+causes are complete or principal, it will have no force. For what it means
+that assents are said to happen by preceding causes, he thinks can easily be
+explained by him. For although assent cannot happen unless prompted by a
+presentation, yet, since that presentation has a proximate cause, not a
+principal one, it has this account, as Chrysippus wants, which we spoke of
+just now, not that it can happen with no force from outside stirring it (for
+assent must be moved by a presentation), but he reverts to his cylinder and to
+his spinning-top, which cannot begin to be moved unless pushed. But when that
+has happened, he thinks that for the rest, by their own nature, the cylinder
+rolls and the top turns.
+
+* Section 43
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+/As, then,/ he says, /he who pushed the cylinder gave it the beginning of
+motion, but did not give it rollability, so a presentation put before us will
+impress that, indeed, and as it were stamp its appearance on the mind, but our
+assent will be in our power, and that, as was said in the case of the
+cylinder, when pushed from outside, for the rest will be moved by its own
+force and nature. But if something were brought about without an antecedent
+cause, it would be false that all things happen by fate; but if it is probable
+that a cause precedes all things that happen, what can be brought forward why
+it should not be admitted that all things happen by fate? provided it is
+understood what the distinction and unlikeness of causes is./
+
+* Section 44
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+Now that Chrysippus has explained these things in this way, if those who deny
+that assents happen by fate †yet admit that they do not happen without an
+antecedent presentation, there is another account; but if they grant that
+presentations go before, and yet that assents do not happen by fate, because
+that proximate and containing cause does not move the assent, see whether they
+are not saying the same thing. For neither will Chrysippus, granting that the
+proximate and containing cause of assent is placed in the presentation, grant
+that that cause is necessary for assenting, so that if all things happen by
+fate, all things happen by antecedent and necessary causes; and likewise those
+who dissent from him, confessing that assents do not happen without
+presentations going before, will say that if all things happened by fate of
+such a kind that nothing happened except by a cause going before, it must be
+confessed that all things happen by fate; from which it is easy to understand
+that, since both, when their own view has been opened and explained, come to
+the same end, they differ in words, not in the thing.
+
+* Section 45
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+And in general, since this is the distinction, that in certain things it can
+truly be said that, when these causes have gone before, it is not in our power
+that those things should not happen of which they were causes, but in certain
+things, though causes have gone before, it is still in our power that that
+should happen otherwise, both sides approve this distinction, but one side
+holds that in those things in which, when causes have gone before, it is not
+in our power that they happen otherwise, those things happen by fate; but that
+from those things which are in our power fate is absent [omitted]
+
+* Section 46
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+This cause ought to be debated in this way, not to seek help from wandering
+atoms swerving from their path. /The atom swerves/, he says. First, why? For
+they had from Democritus another force of motion of impact, which he calls a
+blow, from you, Epicurus, of gravity and weight. What, then, is the new cause
+in nature that makes the atom swerve? Or do they draw lots among themselves
+which swerves and which does not? Or why do they swerve by a least interval,
+not by a greater? Or why do they swerve by one least, and not swerve by two or
+three?
+
+* Section 47
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+This indeed is wishing, not arguing. For you do not say that the atom, struck
+from outside, is moved from its place and swerves, nor that in that void
+through which the atom is carried there was any cause why it should not be
+carried in a straight line, nor has any change happened in the atom itself on
+account of which it should not keep the natural motion of its own weight. So
+although he had brought no cause that would produce that swerve, he still
+thinks he is saying something when he says what all minds scorn and spit out.
+
+* Section 48
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+Nor does anyone seem to me more to confirm not only fate but even necessity
+and the force of all things, and to have done away with the voluntary motions
+of the mind, than this man, who confesses that he could not oppose fate
+otherwise than by fleeing to these fictitious swerves. For even if there were
+atoms, whose existence I can in no way be brought to approve, still those
+swerves would never be explained. For if it is assigned to atoms by the
+necessity of nature that they be carried by gravity, because every weight,
+with nothing impeding, must move and be carried, that also is necessary, that
+some atoms, or, if they wish, all, swerve naturally [omitted]
+
+Fragments
+
+And so M. Cicero, in the book which he wrote on fate, when he said that that
+question was most obscure and most entangled, says that even the philosopher
+Chrysippus did not extricate himself in it, in these words: Chrysippus,
+sweating and laboring how he may explain both that all things happen by fate
+and that there is something in us, is entangled in this way.
+
+And the definition of fate according to Tullius turns its cycles, who says:
+fate is a connection of things through eternity holding one another in turn,
+which is varied by its own order and law, yet in such a way that the variety
+itself has eternity.
+
+Those Homeric verses also support this view, which Cicero turned into Latin:
+
+/
+Such are the minds of men as father Jupiter himself
+has bathed the crop-bearing lands with light.
+/
+
+Cicero says that Hippocrates, the most famous physician, left it written that
+certain brothers, when they began to be ill together and their disease grew
+worse at the same time and was relieved at the same time, he suspected were
+twins. Posidonius the Stoic, much given to astrology, used to assert they were
+born under the same constitution of the stars and conceived under the same.
+Thus what the physician believed belonged to a most similar temperament of
+health, the philosopher-astrologer referred to the force and constitution of
+the stars which had been at the time they were conceived and born.
+
+And lest a poet be a cheaper witness, receive with Cicero as voucher in what
+honor this fish was with Publius Scipio Africanus, that Numantine. These are
+Cicero's words in the dialogue On Fate: For when Scipio was at his place at
+Lavernium and Pontius with him, a sturgeon was by chance brought to Scipio,
+which is caught rather rarely, but is a fish, they say, among the foremost in
+distinction. When Scipio had invited one and another of those who had come to
+greet him, and seemed about to invite still more, Pontius said in his ear:
+"Scipio, see what you are doing; that sturgeon is a fish for few men."

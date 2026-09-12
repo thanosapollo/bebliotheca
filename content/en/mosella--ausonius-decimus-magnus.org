@@ -1,0 +1,604 @@
+#+TITLE: Mosella
+#+AUTHOR: Ausonius, Decimus Magnus hermes:grok-4.6
+#+FILETAGS: :byzantine:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/mosella--ausonius-decimus-magnus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Mosella edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* Section Preface
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+I crossed the Nahe, running in a mist,
+and marveled at Vincum, where new walls
+are joined upon the old. There Gaul once matched
+the Latin field of Cannae, and poor bands
+lie unwept upon the acres.
+
+From there I took a lonely road through woods,
+and saw no print of human tillage. I passed
+dry Dumnissus, thirsty land on every side,
+and Tabernae, watered by a ceaseless spring,
+and fields lately measured for Sarmatian settlers.
+At last I caught the first Belgic shores:
+Noviomagus, the famed camp of Constantine the god.
+
+Here the air over the fields is cleaner, and Phoebus,
+now cloudless, with a calm light unlocks
+the purple heaven. No longer, where the boughs
+are knitted in a mutual bond, do we hunt
+a shut-out sky through green gloom. The free breath
+of a clear day does not grudge those who look
+a liquid radiance and the ruddy air.
+
+All that I saw, by a winning look, drove me
+toward the face and culture of my shining home,
+Bordeaux: villa roofs raised on hanging banks,
+hills green with Bacchus, and the pleasant waters
+of the Moselle gliding below with a quiet rumor.
+
+Hail, river praised by fields and praised by farmers,
+to whom the Belgae owe walls thought worthy of empire.
+You plant your ridges with the fragrant vine,
+greenest of rivers, and you plant your grassy banks.
+You bear ships as a sea. You fall, as a river,
+toward your downward waters. You copy a lake
+in glassy depth. You can match a brook
+in hurrying course, and outdo a cold spring
+in the clearness of your drink. You alone hold
+all that a spring, a brook, a river, a lake,
+and a sea that ebbs with a two-way flow possess.
+
+You glide in quiet water. No wind so much
+as murmurs, and no hidden rock contends with you.
+No shoal forces your rapid currents to hurry.
+No mid-stream island cuts you, lest a split
+and shut-out river lose the honor of its name.
+
+A double path is yours. When you run with the current,
+swift oars may strike the stirred shallows; and when
+the tow-rope never slackens along the banks,
+the sailors stretch the mast-ropes on their necks.
+How often you yourself marvel at your own back-flow,
+and think your lawful currents go almost more slowly.
+No mud-born sedge fringes your bank, nor do you
+soak your shores with filthy slime. Dry footsteps
+go on into the first waters.
+
+Go now, and inlay smooth floors with Phrygian marble,
+stretching a marble field through paneled halls.
+I, despising what wealth and riches have given,
+will marvel at the work of nature, not the grim
+want of spendthrifts, glad in their own losses.
+Here firm sands strew the wet shores,
+and the foot's print does not keep the shape it made.
+
+Look through the glassy deep over that smooth back:
+the river keeps no secret. As fostering air
+lies open to a clear gaze, and quiet winds
+do not bar the eyes through empty space, so we,
+the sight lasting through the inmost parts, see
+what is sunk far down. The sanctuary of the hidden
+deep lies open. The shallows go gently, and the
+lapse of water shows shapes scattered in blue light:
+how the furrowed sand is crisped by a light course,
+how the grasses tremble, bent on the green bottom.
+Herbs stirred even under their native springs
+suffer the quivering waters. A pebble gleams and
+hides, and gravel sets off the green moss.
+
+So the whole shore lies open to the Caledonian Britons,
+when the tide bares green seaweeds and red corals
+and the white pearl-buds of shells, delights of men,
+and under the rich waves necklaces that imitate
+our ornaments counterfeit our dress.
+Not otherwise, under the glad shallows of the quiet Moselle,
+herb of another color uncovers mixed pebbles.
+
+Yet fishes, a slippery swarm, playing between,
+tire intent eyes by darting astray.
+I may not publish so many kinds, the sidelong
+swims, the columns coming up against the stream,
+the names and all the young of that numerous stock.
+He will not have it so, who drew the second lot
+and keeps the trident of the sea. You, Naiad
+who dwell on the river shores, tell me the choruses
+of the scale-bearing flock, and under the liquid bed
+set out the troops that float in the blue stream.
+
+The scaly chub gleams among the weedy sands,
+his too-soft flesh packed full of bones. He will
+not last six hours upon the board.
+The trout wears purple stars along his back.
+The roach will wound you with no spiny point.
+The grayling, light, flees from the eye in one
+swift glide.
+
+And you, barbel, harassed through the jaws
+of the winding Saar, where twice three mouths roar
+among rocky piles: once you have come down
+into a river of greater fame, you swim more free
+and loose. You are better in a worse age.
+Of all that breathe, old age has not gone
+unpraised in you.
+
+Nor would I pass you, salmon, ruddy
+in purple flesh. The wandering lash of your broad tail
+is brought from mid-eddy to the topmost waves,
+when a hidden pulse is betrayed on the quiet surface.
+You, scaled with an armored breast, slippery at the brow,
+will make a dish for an uncertain dinner,
+and bear unspoiled the seasons of long delay,
+marked by the spots upon your head. Your prodigal
+belly nods, and your paunch flows with a fattened abdomen.
+
+And you, burbot, taken through Illyricum
+and through the pools of the two-named Danube
+by the foam-signs of the swimmers, were carried
+into our water, lest the glad streams of the Moselle
+be cheated of so famous a nursling.
+What color has nature painted you! Dark points
+mark the back above, where a yellow iris rings it.
+A blue stain overruns the slippery back.
+You fatten stuffed to the middle of the body;
+from there the dry skin is rough even to the last
+of the tail.
+
+Nor will I be silent, perch, delight of tables,
+to be ranked among river fish with those of the sea,
+alone ready to contend with the purple mullets.
+The taste is not dull. In the solid body the parts
+do not join in slices, but are parted by bones.
+Here too is the one laughed at by a Latin first name,
+dweller of pools, a force most hostile to complaining frogs,
+the pike. He besets dark hollows of sedge and mud.
+Chosen for no uses of tables, he boils
+in smoking cookshops with a rank smell.
+
+Who does not know the green tench, comfort of
+the crowd, and the bleaks, prey for boys' hooks,
+and the shads that hiss on the hearths, the common people's meat?
+And you, between twin kinds, neither and both,
+not yet salmon, no longer trout, ambiguous
+sea-trout, cut off in an age midway between them?
+You too are to be named among the river cohorts,
+gudgeon, no larger than two palms without the thumb,
+very fat, smooth, more packed in an egg-bearing belly,
+and imitating, gudgeon, the barbel's combed beard.
+
+Now you shall be celebrated, sea-flock, great sheat-fish.
+I think you a river dolphin, your back as if
+smeared with Attic oil. So you glide great through the
+straits and scarcely unfold the train of your long body,
+caught either in short shallows or in the river's sedge.
+But when you ply tranquil courses in the stream,
+the green banks, the blue crowd of swimmers,
+the liquid waters marvel at you. The tide is spread
+in the channel and the farthest waves run forward at the edge.
+Such was once a whale in the Atlantic deep,
+when by wind or its own motion it is driven to the
+shores of earth: the shut-out sea pours over, great waters
+rise, and neighboring mountains fear they are shrinking.
+Yet here, here the gentle whale of our Moselle
+is far from destruction, an honor added to the great river.
+
+Enough of liquid paths, enough of counting
+the slippery columns of fish and all their troops.
+Let the vines lead on another show, and let
+the gifts of Bacchus draw the wandering eye,
+where a high peak over a long steep tract,
+and rock, and the sunny slope of the ridge,
+and every bend and bay, rise dressed in vines,
+a theater made by nature.
+So the kind vintage clothes the ridge of Gaurus,
+and Rhodope and Pangaea shine with their own wine-god.
+So Ismarian hill is green above the Thracian sea.
+So my own vineyards paint the yellow Garonne.
+From the crest down to the last of the slope
+the river's margin is planted with green Lyaeus.
+A folk glad of the work, and farmers in haste,
+press now on the highest peak, now on the sloping back,
+and contend with foolish shouts. Then the traveler
+treading the banks below, and the sailor gliding by,
+sing insults at the late tillers. Rock and trembling
+wood and the hollow river shout back at them.
+
+Nor does the scene delight men alone.
+Here I could believe rustic Satyrs and Naiads
+with sea-green gaze meet at the farthest banks,
+when a glad wantonness drives the goat-footed Pans
+to leap the shallows and frighten the timid sisters
+under the stream, striking the wave with an untaught lash.
+Often too, having stolen grapes from mid-hill,
+river Panope flees among her Oread friends
+from the wanton Fauns, those country powers.
+They say, when the fiery sun has stood in mid-heaven,
+that Satyrs and the glassy sisters come to one water
+and keep shared dances, when a hotter heat
+has given hours secret from the gathering of men.
+Then the Nymphs leap and play through their own straits
+and duck the Satyrs in the shallows, and those unused
+to swimming slip out through the midst of their hands,
+while they grasp at false slippery limbs, and the waves
+favor them in place of a body.
+But it is not for me to speak of these things
+as seen by anyone or known by sight. Let the secret
+be covered, and let the reverence entrusted to it
+lie hidden in its own streams.
+
+That sight is public joy, when the blue river
+answers the dark hill, and the waters seem to leaf,
+and the stream to be planted with vine-shoots.
+What color is that in the shallows, when Hesperus
+has driven on the late shadows and poured the green
+mountain over the Moselle! The whole ridges swim
+with curling motion. The absent vine-shoot trembles,
+and the vintage swells in the glassy waves.
+The deceived sailor counts green vines, floating
+in a bark canoe through the middle, where the hill's
+image mingles with the river and the stream joins
+the borders of the shadows.
+
+These shows too keep such sweet processions,
+when oar-footed skiffs contend with the mid-stream,
+take various turns, and along the green edges
+graze the young shoots on the close-cut meadows.
+See the eager masters exult on poop and prow,
+and the beardless band wandering over the river's back.
+While he watches the day go by, he sets serious
+business after play. A new grace shuts out old cares.
+Such games Liber looks down on in the Cumaean sea,
+when he walks the planted ridges of sulphurous Gaurus
+and the vineyards of steaming Vesuvius,
+when Venus, glad in Augustus's Actian triumphs,
+bade the wanton Loves play at fierce battle,
+such as Nile's fleets and Latin triremes
+waged under Apollo's citadels of Leucas,
+or as the Euboean boats on sounding Avernus
+recall the Mylaean dangers of Pompey's war:
+harmless collisions of rafts and joking fights
+of a sea-battle, such as the blue sea renews
+under a green image while Sicilian Pelorus watches.
+Not otherwise do the river's youth and the painted beaks
+of the skiffs add a sight for the wanton young men.
+When the sun has poured them with Hyperion's heat,
+it gives back sailor-shapes under the glassy flood
+and brings back the bent shadows of inverted bodies.
+As they ply agile motions right and left
+and shift the weight from oar to exchanged oar,
+the wave reports other sailors, wet likenesses.
+The sailor youth itself rejoices in its own mimicry,
+marveling that the false figures return in the river.
+
+So, when she is about to show her arranged hair
+(when first the nurse has brought to her dear charge
+a mirror's far-shining honor), the happy girl
+enjoys an unknown play and thinks she sees
+a sister's form. She gives kisses to the shining
+metal that will not be returned, or tries the fixed pins,
+or at the brow's edge tries with her fingers
+to catch and stretch the waved hair.
+Such is the sailor youth at the mockeries of shadows,
+enjoying figures that mix the true and the false.
+
+Now, where the bank supplies easy access,
+a plundering crowd searches the whole deep
+for fishes poorly defended in the inner river.
+Here one, drawing wet lines far in mid-stream,
+sweeps the deceived swarms with knotted nets.
+Here, where the river glides in a quiet column,
+another leads floating nets with cork markers.
+That one, leaning toward the waves thrown down from the rocks,
+bends the curved tips of a pliant rod
+and casts hooks dressed with deadly baits.
+When the wandering crowd of swimmers, ignorant of the
+trick, has seized them in their jaws, and too late,
+through the inmost open throat, has felt the wounds
+of hidden steel. While they struggle, a sign comes,
+and the nodding reed agrees with the curled tremor
+of the quivering line. At once the boy, with a whistling
+stroke, snatches the shaken prey sideways. The air
+takes the blow, as when a whip is cracked through the void:
+the air snaps, and the wind hisses in the stirred air.
+The wet spoil leaps upon the dry rocks
+and fears the deadly shafts of the light-bearing day.
+Each that kept its vigor under its own stream
+spends life sluggish in our air, gasping.
+Now a slow slap is shaken from a failing body.
+Now the torpid tail suffers its last tremors.
+The jaws do not close, but through the gaping mouth
+the gill, breathing out, gives back death-dealing gusts
+of drawn air. So, when breath works the smith's fires,
+a woolen valve, playing at the beechwood chambers,
+takes and holds the winds by an alternating hole.
+I have seen some, trembling at the edge of death,
+gather their spirits, then, driven aloft, hurl
+headlong their stooping bodies into the stream below,
+winning again the waters they had despaired of.
+The boy, not counting the loss, unadvised, attacks
+them from on high, and tries to catch them with a clumsy swim.
+So Glaucus of Anthedon through the Boeotian straits,
+after he had known by taste the deadly herbs of Circe
+and taken plants plucked from dying fish,
+entered the Carpathian sea as a new inhabitant.
+He, mighty with hook and net, searcher of hidden
+Nereus, used to sweep watery Tethys,
+and floated a robber among his captive bands.
+
+Such things the villas hanging from the rocks,
+their roofs looming, look down on through a long
+stretch over the blue. The river wandering in the middle
+with winding bends parts them, and palaces adorn
+either bank. Who now would marvel at the Sestian sea,
+the water of Nephele's Helle, the straits of the
+Abydene youth? Who at the sea paved from the
+Chalcedonian shore, work of a great king, where a
+channel in mid-waves forbids the lands of Europe
+and Asia to run together? Here is no grim rage of strait,
+no savage battles of raging northwest winds. Here
+you may join a commerce of speech and weave talk
+with answering stroke. The pleasant shores mix voices
+that carry greeting, voices and almost hands. Echo,
+running with the waves, reports from both sides
+the words that sound.
+
+Who can unfold the countless styles and habits
+and set out the builders' forms through each estate?
+The winged man of Gortyn would not scorn this work,
+founder of the Euboean temple, whom his father's griefs
+drove off when he tried to fashion the Icarian fall in gold;
+not Cecropian Philo, not he who, praised by the enemy,
+drew out the famous contests of the Syracusan war.
+Perhaps here the hebdomad celebrated in Marcus's
+tenth volume had the illustrious labors of men and works.
+Here the arts of famous Menecrates flourished,
+and the hand seen at Ephesus, or Ictinus on Minerva's
+citadel, whose owl, smeared with magic dye,
+draws every kind of bird and kills them by looking.
+Perhaps the founder of the Ptolemaic hall was here,
+Dinochares, for whom the pyramid itself rises in a cone
+on square peaks and consumes its own shadows,
+who once, ordered for a pact of incestuous love,
+hung Arsinoe in the air of the Pharian temple.
+For a magnetic force breathes from the vault of the roof
+and draws the girl, blown upon, by her iron-clad hair.
+These men, then, or men like them, it is fair to believe
+set the scenes of houses in the land of the Belgae,
+and built high villas as ornaments of the river.
+
+This one stands lofty by nature on a pile of rock.
+This is founded on a projecting bank.
+This withdraws and claims the captured river in a bay.
+That one, holding the hill that looms most over the river,
+takes easy views through tilled land and through rough,
+and the rich look-out enjoys its own lands.
+Even one founded with a low foot in watery meadows
+makes up the natural goods of a high mountain
+and, threatening with a lofty roof, bursts into the aether,
+showing a high tower, like the Memphite Pharos.
+This one has as its own to catch enclosed fish
+in a fenced pool among the sunny fallows of the rocks.
+This one, leaning on the highest ridges, watches the
+rivers gliding below with a gaze already growing dark.
+Why mention halls set on greening meadows,
+and roofs shining above on countless columns?
+Why those that smoke, built on the river's foundation,
+the baths, when Mulciber, drawn from his burning covert,
+rolls panted flames through the hollow coverings,
+gathering enclosed vapor with breathing heat?
+I have seen men weary from much sweat of the bath
+scorn the pools and the cold of fish-ponds,
+to enjoy living waters, then, refreshed by the river,
+beat the cold stream with a splashing swim.
+
+But if a guest came here from the Cumaean shores,
+he would believe that Euboean Baiae had given these
+places a slight copy. So great a culture and a sheen
+allures, and the delight begets no luxury.
+But what end, after all, in telling your blue waters
+and recalling the Moselle, worthy to be named
+with the sea, because countless rivers run into you
+widely through diverse mouths? Though they could keep
+their courses apart, they hasten to consume their name in you.
+For Sura, helped by the course of Promea and Nemesa,
+hastens, not unworthy, to go under your waves,
+Sura that has obliged you with intercepted streams,
+more noble mixed under your name than if
+she strove for a mouth to father Ocean that would go unknown.
+Swift Celbis, and Erubris bright with marble, hasten
+to lick you as soon as they can with servant waters.
+Celbis is famed for noble fish. That other, twisting
+millstones for grain with headlong rotation and drawing
+shrieking saws over smooth marble, hears perpetual
+uproar from either bank.
+I pass thin Lesura and slender Drahonus,
+nor do I treat the springs of Salmona as scorned.
+The ship-bearing Saar has long been calling me
+with its wave-sounding bulk, with its whole garment,
+having prolonged its long stream so that it may roll
+a weary mouth under the walls of Augusta.
+
+Nor less than this, lucky Alisontia, gliding quiet
+through rich soils, grazes fruit-bearing banks.
+A thousand others, as each one's own rush urges more,
+desire to be yours. So great is the ambition, or the
+character, in the hastening waves. But if, divine Moselle,
+Smyrna had given you its poet, or famous Mantua,
+Simois, remembered on the Trojan shores, would yield,
+nor would the Tiber dare to prefer its own honors.
+Grant pardon, grant it, powerful Rome. Let envy, I pray,
+be driven off and depart, and Nemesis unknown to the Latin tongue.
+
+This better glory fell to you, Tiber, that you
+guard the seat of empire and the household gods of Rome.
+Hail, great parent of crops and of men, Moselle.
+Famous nobles, youth trained in war,
+an eloquence that rivals the Latin tongue adorn you.
+Even nature has granted your nurslings character
+and a glad talent with a serene brow.
+Nor does Rome alone display the ancient Catos,
+nor does only one Aristides, watcher of the just and equal,
+prevail and make old Athens illustrious.
+
+But why, ranging too far with loosened reins,
+overcome by love of you, do I wear out your praises?
+Put away, Muse, the lyre; strike the last strings of the song.
+There will be a time when the honor of the subject will
+commend me, soothing cares in the studies of quiet
+leisure and cherishing old age in the sun, when I shall
+sing, man by man, the deeds of the Belgae
+and the famous glories of ancestral character.
+The Pierians will spin me soft songs with a fine thread
+and will run through webs fitted with a thin weft.
+Purple too will be given to our spindles.
+Who then will go unnamed by me? I will remember
+the quiet farmers and those skilled in laws and powerful
+in speech, a high defense for the accused, whom the
+senate-house saw as the highest nobles of the burghers
+and as their own senate, whom the famous eloquence of
+the purple-bordered school brought to the praises of
+old Quintilian, and who ruled their cities and made
+illustrious a tribunal clean of blood and innocent axes,
+or held the Italian peoples and the north-born Britons
+with the second title of prefectures,
+and who ruled Rome, the world's head, the people and the
+fathers, all but under the first name, although
+he was equal to the first. Let Fortune at last hasten
+to undo her error and, filling up the tasted rewards,
+now restore the peak of true honor
+to be claimed again by noble grandsons. But for now let
+the work begun be woven out, and with the praise of men
+deferred let us tell, through the glad stretch of greening
+fields, the fortunate river, and consecrate it into the Rhine's waves.
+
+Now, Rhine, spread your blue bays and your mantle
+green as glass, and measure out room for a new stream,
+to be piled with your brother's waters, and not prizes
+in the waves alone, but that, coming to the walls of
+the imperial city, it has watched the joined triumphs
+of son and father, the enemy driven out beyond the Neckar
+and Lupodunum and the source of the Danube, unknown
+to Latin annals.
+This laurel of a war almost finished has just come.
+From here it will bring other laurels and still others.
+Go on, you two joined, and drive the purple sea with
+a twin course, and do not fear to seem lesser, most
+beautiful Rhine. A guest has no envy. You will win
+a lasting name. Adopt your brother, safe in your fame.
+Rich in waters, rich in Nymphs, a giver to both,
+the channel will stretch a parting with twin banks
+and will open common ways through diverse mouths.
+Strength will be added, which Francia and the Chamavi
+and the Germans may fear. Then you will be held a true frontier.
+A twin name will be added to you from so great a river,
+and though you flow from one source, you will be called two-horned.
+
+These things I, Ausonius, drawing my race from Viviscan
+origin, known in the hospitality of the Belgae not through
+new treaties, a Latin name, in fatherland and home
+among the farthest of the Gauls and the high Pyrenees,
+where glad Aquitaine tempers freeborn character,
+bold, I sing with slender trust. It is lawful for me
+to have touched the sacred river with a thin libation of the Muse.
+I do not aim at praise. I ask pardon. You have many,
+kindly river, who are used to troubling the sacred waters
+of the Aonians and to drinking all Aganippe.
+But I, as far as the vein of my liquor has given itself,
+when to Bordeaux, my homeland and the nest of old age,
+Augustus, the father and the sons, my greatest care,
+send me, decorated with Ausonian fasces and curule honor,
+after the duties of finished teaching,
+I will pursue more widely the praises of the northern river.
+I will add the cities under which you glide in a silent
+channel, and walls looking out at you with ancient ramparts.
+I will add things founded as safeguards in doubtful times,
+but now not camps but granaries for the Belgae at peace.
+I will add the happy settlers on either bank
+and you, among the labors of men and oxen,
+grazing the banks and cutting the rich tilled land.
+The Loire will not set itself before you, nor the steep Aisne,
+nor the Marne, set as a border between Gauls and Belgae,
+nor the Charente itself, ebbing with the Santonian tide.
+You will yield, Dordogne, river rolled from a cold mountain,
+and Gaul will set the gold-bearing Tames behind,
+and the Tarbellian Adour, rushing madly through rocks
+that roll far into the purple sea, will yet go only
+after it has adored the divinity of its mistress Moselle.
+
+Horned Moselle, celebrated through foreign shores,
+and not only in the places where from your highest spring
+you put forth the gilded honor of a bull's brow,
+or where you draw quiet courses through winding fields,
+or where you loose your mouths under German harbors:
+if any honor will wish to breathe upon a slender muse,
+if anyone will deign to lose leisure on these arts,
+you will go into the mouths of men and be cherished
+by glad song. Springs and living lakes will know you,
+blue rivers, and the ancient groves, the glory of the villages.
+The Drôme, the Durance unsure with scattered banks,
+and the Alpine rivers will honor you, and the Rhone
+that goes through a double city and gives the Right Bank
+its name. I will commend you to blue pools and to great
+sounding rivers, to the sea-like Garonne.
+
+* Section Epilogue
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+** Letter of Symmachus to Ausonius
+:PROPERTIES:
+:CUSTOM_ID: h2-h1
+:END:
+
+** Symmachus to Ausonius
+:PROPERTIES:
+:CUSTOM_ID: h2-h2
+:END:
+
+You ask longer letters from me. That is a sign of true love toward
+us, but I, who know how poor my talent is, prefer to keep to
+Laconian brevity rather than publish the thinness of my poor
+speech in page upon page. Nor is it a wonder if the vein of our
+eloquence has grown thin, which you have not for a long time
+helped by the reading of any poem of yours or of prose volumes.
+How, then, do you demand a large loan of my speech, you who have
+credited no literary interest? Your Moselle flies through the
+hands and bosoms of many, consecrated by you in divine verses,
+but it only glides past our lips. Why, I ask, did you want me
+left out of that little book? Either I seemed to you too
+unmusical to judge, or else spiteful, not knowing how to praise.
+So you have much diminished either my talent or my character.
+And yet against your ban I barely reached the secrets of that
+work. I would like to be silent about what I feel. I would like
+to be avenged by a just silence concerning you. But admiration
+of the writings breaks the sense of the injury.
+
+I knew that river, when I long ago followed the standards of the
+eternal princes, equal to many, unequal to the greatest. You have
+unexpectedly made it greater than the Egyptian Nile by the dignity
+of famous verses, colder than the Scythian Tanais, and more famous
+than this Tiber of our people. I would not believe you at all
+telling great things of the Moselle's rise and course, if I did
+not know that you do not lie even in a poem. Where did you find
+those schools of river fish, as various in names as in colors, as
+different in size as in taste, which you have dyed with the
+pigments of that poem beyond the gifts of nature? And yet, often
+spending time at your tables, when I marveled at most other things
+then in value that were set out for eating, I never caught this
+kind of fish. When were these fish born to you in a book, that
+were not on the dishes? Do you think I am joking and playing at
+trifles? So may God make me worthy of approval, as I join this
+poem of yours to the books of Maro.
+But now I will cease, forgetful of my pain, to cling to your
+praises, lest you draw this too to your glory, that we admire you
+when offended. You may scatter your volumes and always leave me
+out. We will still enjoy your work, but by the kindness of
+others. Farewell.

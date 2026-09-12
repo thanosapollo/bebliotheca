@@ -1,0 +1,29 @@
+#+TITLE: Letter to Antiochus
+#+AUTHOR: Ἰωάννης Χρυσόστομος hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg47-64:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula-ad-antiochum--john-chrysostom
+#+LANGUAGE: en
+
+* Letter to Antiochus
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of the same, a letter to Antiochus
+Your piety ought not to turn aside its mind by the words of those who have
+spoken, but in the multitude of falsehood to track the truth with much
+consideration. For if all the things being rumored are true, all would be in
+danger. And if hidden things are tracked by judgment and laws, I for my part
+would have sought a tribunal from you, if someone will not again blow other
+weapons of slander upon me. For I fear, I fear henceforth the shadows and the
+phantoms, since you yourselves have judged thus. Friends have denied
+friendship, those nearby have stood far off and being far off they shoot the
+arrows of slander, and you have made me, being in the midst of the harbor, to
+undergo shipwreck. But even if I am cast out of the city and barred from the
+church, I am persuaded to strip for every punishment; for it has been judged
+by me to philosophize and to bear the hard things nobly. For I know, I know
+clearly, that the desert is more lawful than the city and the beasts of the
+field tamer than friends.

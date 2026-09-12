@@ -1,0 +1,382 @@
+#+TITLE: On the Peculiarities of Thucydides, to Ammaeus
+#+AUTHOR: Dionysius of Halicarnassus hermes:grok-4.6
+#+FILETAGS: :imperial:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/περὶ-τῶν-θουκιδίδου-ἰδιωμάτων-πρὸς-ἀμμαῖον--dionysius-of-halicarnassus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+On the Peculiarities of Thucydides, to Ammaeus edited by Hermann Usener
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+I for my part supposed that I had sufficiently exhibited the style of
+Thucydides, having gone through the greatest and most essential of the
+peculiarities belonging to him, in which indeed he seemed to me especially to
+differ from the orators and historians before him: first in the notes on the
+ancient orators composed to your name, and a little while ago in the treatise
+composed about Thucydides himself, addressed to Aelius Tubero, in which I have
+gone through everything that required discussion, together with the proper
+proofs, according to my ability. But since you suppose that the writings have
+been worked out less exactly, because I first set out all the features that
+belong to the style and then furnish the proofs concerning them, and you think
+that the exhibition of the peculiarities of the style will be more exact if
+beside each one of the propositions I set the words of the historian, which is
+what those who compose the arts and the introductions of speeches do, having
+chosen to leave nothing wanting I have done this too, taking the didactic form
+instead of the demonstrative.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+And so that the argument may be easy for you to follow, having first set out
+word for word whatever I happen to have said before about the historian, I
+will take up each of the propositions cursorily and furnish the proofs,
+just as you asked. What is about to be shown follows upon what was written
+about Herodotus. For Thucydides, coming after this man and the others of whom
+I made mention earlier, and having observed what virtues each of them
+possessed, having worked out a certain peculiar kind of style, neither wholly
+prose nor completely metrical, but something common and mixed
+from both, was eager to introduce it into the historical work: in the choice
+of words often taking over figurative and rare and archaic and
+foreign diction instead of that common and customary among the men of his own
+time; and in the figures, in which he most wished to differ from those before
+him, having brought in the greatest labor, now making a phrase out of a noun,
+now contracting the phrase into a noun; and now expressing the verbal element
+as a noun, and again making the noun a verb; and even reversing the uses of
+these themselves, so that the proper noun becomes appellative, and the
+appellative is spoken as a proper noun, and the passive verbs become active,
+and the active passive; and changing the natures of plurals and singulars and
+predicating these of one another, joining feminines to masculines and
+masculines to feminines and neuters to some of these, from which the natural
+sequence is led astray; and turning the cases of the nominal or participial
+forms now toward the thing signified away from the signifier, now toward the
+signifier away from the thing signified; and in the connective and
+prepositional particles, and still more in those that articulate the forces of
+the nouns, using license in the manner of a poet. And one would find very many
+of the figures in him altered by turns of person and exchanges of tenses and
+transfers of figurative expressions, and taking on the appearance of
+solecisms; and as many things as become things instead of bodies or bodies
+instead of things, and those arguments and thoughts in which the intervening
+insertions, becoming many, fetch the sequence from far off, and the crooked
+and intricate and hard to disentangle and the others akin to these. And one
+would find not a few of the theatrical figures lying in him as well, I mean
+the equal clauses and the like-sounding clauses and the word-plays and the
+antitheses, in which Gorgias of Leontini and the circle of Polus and Licymnius
+and many others of those who flourished in his time were excessive. But most
+manifest and most characteristic of him are both the attempt to signify the
+most things through the fewest words and to compose many thoughts into one,
+and the leaving the hearer still expecting to hear something, by which the
+brevity becomes unclear. And to speak in summary, there are four instruments,
+as it were, of the diction of Thucydides: the poetic quality of the words, the
+variety of the figures, the roughness of the composition, the speed of the
+signification; and its colors are the compact and the bitter and the dense and
+the austere and the weighty and the terrible and fearful, and above all these
+of his the passionate. Such then is Thucydides according to the character of
+his diction, in which he differed from the others.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+Rare, then, and archaic and hard for most to guess are "the unmixed"
+and "the calculation" and "the lookout" and "the armistice" and the things
+like these. Poetic are "the hindrance" and "the embassy" and "the outcry" and
+"the vexation" and "the claim of right" and the like.
+
+And the novelty and versatility in the figures, and the departure from
+customary use, in which we think he especially differs from the others,
+becomes apparent in these operations:
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+When he expresses one word, whether a noun or a verb, in several nouns or
+verbs, paraphrasing the same thought, he makes diction of this kind: /For
+Themistocles was a man who most firmly displayed strength of nature, and was
+in a remarkable degree more worthy than another of admiration for this./ And
+indeed in the Funeral Oration he has written: /nor again by poverty, having
+something good to do for the city, is he prevented by obscurity of rank/; for
+in these also the conciseness makes the speech of this kind, as he has set it
+in the case of the Lacedaemonian Brasidas, when fighting about Pylos he fell
+wounded from the ship: /and when he had fallen/, he says, /into the outrigger
+the shield slipped off./ For he wishes to make clear: /and when he had fallen
+outside the ship onto the projecting parts of the oar-gear/ into the sea.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+And in the places where he figures the verbal parts of the diction as nouns,
+he makes phrasing of this kind. The Corinthian in the first book says this to
+the Athenians: /These just claims then we have toward you, and this
+exhortation and this claim of gratitude of such a kind./ For "to exhort" and
+"to claim," being verbs, have become nouns, "exhortation" and "claim." Of this
+kind also are both the "not-walling-off" of Plemmyrium in the seventh book and
+the "lamentation" which he has set in the first book in a public speech. For
+"to wall off" and "to lament," being verbal, he has figured as nouns,
+"walling-off" and "lamentation."
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+And when, reversing the nature of each of these, he makes the nouns into
+verbs, he expresses the diction in this way, as in the first book he writes
+about the cause of the war: /the truest cause, though most unapparent in
+speech, I think the Athenians becoming great forced them into warring./ For he
+wishes to make clear that the Athenians, becoming great, furnished a necessity
+of the war; but instead of "necessity" and "war," which are nouns, he has made
+verbal forms, both "to force" and "to war."
+
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+And when he exchanges the forms of the verbs, the passive and the active, he
+figures the speech thus: /for neither does that hinder the treaties, nor
+this/; for the verb "hinders," being active, has been taken instead of "is
+hindered," which is passive; and what was signified by the diction was of this
+kind: /for neither is that hindered by the treaties, nor this./ And further
+the things said in the preface: /commerce not existing, nor mixing fearlessly
+with one another/; for in these also "mixing," being an active verb, occupies
+the place of "being mixed," which is passive.
+
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+And when he takes the passive instead of the active, he figures it in this
+way: /and as many of us as have already been exchanged with Athenians/; for he
+wishes to make clear: /and as many of us as have already exchanged with
+Athenians/, but he has taken "have been exchanged," which is passive, instead
+of the active "exchanged." And what follows upon this: /and those settled more
+in the interior/; for instead of the active verb "having settled" he has taken
+the passive "settled."
+
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+And in the differences of singulars and plurals, when he exchanges the order
+of each of these, he expresses singulars instead of plurals thus: /and if it
+has occurred to anyone that the Syracusan is, and he himself is not, an enemy
+to the Athenian/; for he wishes to speak of the Syracusans and the Athenians,
+but he has made each of the names singular. And in the places where he says:
+/and we shall have the enemy more terrible, his retreat not being easy for him
+again/; for he has figured the enemies in the singular, not in the plural. And
+instead of the singular he takes the plural, altering the customary phrasing
+in this way; and the passage lies in the preface of the Funeral Oration: /for
+until this point the praises spoken about others are tolerable, as far as each
+himself also thinks himself sufficient to do something of what he heard/; for
+"each" and "heard" are singular, but the things that follow upon these have
+been expressed in the plural: /but already envying the one who exceeds him
+they also disbelieve/, which are naturally said not of one but of many.
+
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+And the transpositions of masculines and feminines and neuters that have
+departed from the customary figures are of this kind, when he calls
+"disturbance" "a tumult," expressing the feminine as masculine, and
+"annoyance" "a crowd," and says of "wish" and "power" "the wishing" and "the
+being able"; as he has set it in the case of the Athenians, when they were
+sending the army to Sicily: /the Athenians were not deprived of their wishing
+by the crowdedness of the preparation,/ and in the places where he has spoken
+about the Thessalians: /so that if the Thessalians used not lordship rather
+than equal law, the native thing/; for here too he has made the feminine into
+a neuter; and what was signified by the diction was of this kind: /so that if
+the Thessalians used not lordship rather than equal law, the native custom./
+
+* Section 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+And in the places where he alters from the customary the cases of the nouns
+and of the appellatives and of the participles and of the articles joined to
+these, he figures the phrasing thus: /for the cities, having taken moderation
+and license of what was being done, went toward outright freedom, of the
+hollow good-order from the Athenians not having preferred./ For those who
+figure the phrasing in accordance with common custom would have joined the
+feminine particle to the feminine gender of the appellative, and would have
+set the accusative case of the participle instead of the genitive, in this
+way: /for the cities, having taken moderation and license of what was being
+done, went toward outright freedom, not having preferred the hollow
+good-order from the Athenians./ But those who join masculines to feminines,
+as this man has done, and take genitives instead of accusative cases, would
+be said by us to solecize. And further such things as: /and not being struck
+with panic at their number/; for it was not fitting that the diction be
+figured in the dative case, but in the accusative: /and not being struck with
+panic at the number of the enemy./ For one would not say /to fear at the
+anger from the gods/, but /the anger of the gods./
+
+* Section 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+And the phrasing that has departed from consistency in the tenses of the verbs
+is of this kind: /and yet if we should be willing to take risks with ease
+rather than with practice of toils, and not with laws the more but with habits
+of courage, it results for us both not to grow weary beforehand at the coming
+pains and, when we have come to them, not to appear less daring than those who
+are always laboring/; for here "we should be willing" is a verb indicative of
+future time, and "it results" of the present. And it would have been
+consistent if he had joined to "we should be willing" the form "it will
+result." /For the difficulty of entering the place I think ours, which while
+we remain becomes an ally; but for those who have withdrawn, though it is
+hard, it will be easy./ For "becomes" is of the present, and "will be" is
+indicative of future time. And there has also come about an inconsistent
+figure in the cases: for he has expressed both the participial noun
+"remaining" and the pronoun "of us" in the genitive case, but "for those who
+have withdrawn" in the dative; and it would have been more proper that this
+too be expressed in the same case.
+
+* Section 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+And when he makes the turn toward the signifier from the thing signified, or
+toward the thing signified from the signifier, he figures the speech thus:
+/the people of the Syracusans were in much strife toward one another/; for
+having added a singular noun, "the people," he turned the speech from this
+toward the thing signified, which is plural, the Syracusans. And again: /for
+the Leontines, when the Athenians had left Sicily after the agreement, both
+enrolled many citizens and the people intended to redistribute the land/; for
+from the plural noun "Leontines" he turned the speech toward the singular
+noun, "the people." [lost]
+
+* Section 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+And things become persons in him, just as has happened in the public
+speech of the Corinthians toward the Lacedaemonians. For the Corinthian,
+claiming that those who stand at the head of the Peloponnese should guard its
+dignity toward the cities outside, such as they received it from their
+fathers, says this: /deliberate well about these things, and try not to lead
+the Peloponnese in a lesser degree/ than /your fathers handed it down to you/;
+for he has now set "to lead" of bringing the Peloponnese forward outside,
+being leaders of it; and this could not happen to the land, but it could to
+the reputation and to the affairs that exist about it, and this is what he
+wishes to make clear.
+
+And things of this kind are made by him into things instead of bodies.
+And it is said by the envoy of the Corinthians toward the Lacedaemonians,
+comparing the things of the Athenians and of the Lacedaemonians: /they are
+innovators and sharp to conceive and to accomplish in deed whatever they
+decide; but you to preserve what exists and to decide nothing extra and in
+deed not even to arrive at what is necessary/; up to this point, then, the
+figure of the diction preserves the sequence, as being set of both as persons.
+Then the speech turns in one of the two parts, and instead of bodies a
+thing comes about concerning the Lacedaemonians, when he says: /and
+again they are daring beyond their power and risk-takers beyond their judgment
+and in dangers of good hope; but your part is to act things falling short of
+your power and not to trust even the sure things of your judgment/; for "your
+part" has been taken instead of "you," being a thing instead of a body.
+
+And in the arguments and thoughts the intervening insertions, becoming many
+and scarcely to the end
+
+* Section 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+arriving, through which the diction becomes hard to follow, are very many
+throughout the whole history; but two taken from the preface alone will
+suffice, both the one showing the weakness of the ancient affairs of Greece
+and giving the causes: /for commerce not existing, nor mixing fearlessly with
+one another either by land or through the sea, and each inhabiting their own
+only so far as to live, and not having a surplus of money, nor planting the
+land, it being unclear when someone would come against them and, they being at
+the same time unwalled, another would take it away; and thinking that they
+would prevail over the necessary food everywhere alike, they would not with
+difficulty move/ (for if he had added "they would not with difficulty move" to
+the first period and had figured it thus: /for commerce not existing, nor
+mixing fearlessly with one another either by land or by sea, and each
+inhabiting their own only so far as to live, they would not with difficulty
+move,/ he would have made the thought clearer; but by the insertion of the
+things in between, which are many, he has made it unclear and hard to follow),
+and this one about the expedition of Eurystheus against Attica: /Eurystheus
+having died in Attica at the hands of the Heraclidae, and Atreus being a
+brother of his mother, and Eurystheus having entrusted, when he was
+campaigning, both Mycenae and the rule to Atreus according to kinship; and
+that he happened to be in exile from his father because of the death of
+Chrysippus; and when Eurystheus did not return, the Mycenaeans also being
+willing through fear of the Heraclidae, and he at the same time seeming to be
+capable and having courted the multitude of the Mycenaeans and of as many as
+Eurystheus ruled, Atreus took over the kingship./
+
+* Section 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+And in the places where the construction of the arguments becomes crooked and
+intricate and hard to disentangle, it is of this kind in him; and the passage
+lies in the Funeral Oration: /and having taken the punishment of their
+opponents as more to be desired than themselves, and having judged this at the
+same time the fairest of dangers, they wished to punish the one and to aim at
+the other, committing to hope the unseen of success, but in deed thinking it
+right to trust themselves about what was already seen; and having thought it
+better to suffer in defending themselves than to save themselves by giving in,
+they fled the shame of the word, and they endured the deed with the body, and
+through the briefest moment of chance, at the height at once of glory rather
+than of fear, they were released./ Such also are the things said about
+Themistocles by the historian in the first book: /For Themistocles was a man
+who most firmly displayed strength of nature, and was in a remarkable degree
+more worthy than another of admiration for this. For by native intelligence,
+and having learned beforehand into it nothing and having learned afterward
+nothing, he was both the strongest judge of the things of the moment by the
+briefest deliberation and the best conjecturer of the things to come for the
+farthest stretch of what would happen; and what he had in hand he was able
+also to expound; and of what he was inexperienced he was not without the power
+to judge sufficiently; and he foresaw the better or the worse while it was
+still in the unseen. And to speak the whole, by power of nature and by brevity
+of study this man became the strongest at improvising what was needed./
+
+* Section 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+And the boyish figures of the antitheses and the like-sounding clauses and the
+equal clauses, in which the circle of Gorgias were especially excessive, least
+belonging to this style, which has a severe manner and stands farthest from
+the elegant, are of this kind in the historian: /for it is apparent that what
+is now called Hellas was not long ago securely inhabited./ And still further:
+/they are daring beyond their power and risk-takers beyond their judgment; but
+your part is to act things falling short of your power and not to trust even
+the sure things of your judgment, and never to think that you will be released
+from the dangers/; and in the places where he goes through the calamities that
+overtook Greece because of the factions, writing such things: /for reckless
+daring was counted courage loyal to friends; and provident delay specious
+cowardice, and the moderate a pretext of the unmanly, and the intelligence
+that went toward everything idle toward all./ One would find many such things
+said throughout his whole history, but these too are enough to have been said
+for a sample.
+
+You have, dear Ammaeus, the observations examined according to each of them
+from the common treatise, as you sought.

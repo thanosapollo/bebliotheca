@@ -1,0 +1,172 @@
+#+TITLE: To Tatian: A Discourse on the Soul, by Chapters
+#+AUTHOR: Γρηγόριος Θαυματουργός hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg10:
+#+MIGNE_TITLE: Ad Tatianum de anima per capita disputatio
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ad-tatianum-de-anima-per-capita-disputatio--gregory-thaumaturgus
+#+LANGUAGE: en
+
+* To Tatian: A Discourse on the Soul, by Chapters
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+A DISCOURSE TO TATIAN ON THE SOUL, ARRANGED BY CHAPTERS, BY OUR FATHER AMONG
+THE SAINTS GREGORY, BISHOP OF NEOCAESAREA IN PONTUS, SURNAMED THE WONDERWORKER
+
+You asked us, admirable Tatian, to send you a discourse on the soul, laid out
+with effective proofs. You wanted this done without using the testimonies of
+the Scriptures, though that is in fact, for those who want to think piously,
+true teaching, more demonstrative than any human reasoning. You said you were
+not seeking this for your own assurance. You have already been trained to hold
+to the divine Scriptures and traditions, and not to let the mind be tossed
+about by the twists of human arguments. You wanted it for the overthrow of the
+opinion of the heterodox, who cannot bear to be persuaded by the Scriptures
+and try, by a certain cleverness, to confute those unused to such arguments.
+So we were moved to obey this charge of yours readily, not hanging back as if
+we were inexperienced in this kind of argument, but taking courage from your
+goodwill toward us. For you know how to set out in public what you judge to be
+well said, and to pass over and hide what seems to fall short of what is
+needed, doing both out of the favor and friendship you have for us. Knowing
+this, I have set out upon the exposition with all confidence. I shall arrange
+the discourse in a certain order and sequence, the same that those skilled in
+these matters have used toward people who want to inquire into something
+intelligently.
+
+First of all I shall set down by what criterion =10.1140= the soul is by
+nature grasped; then, by what means it is shown to exist; next, whether it is
+a substance or an accident; then, following on these, whether it is a body or
+incorporeal; then, whether it is simple or composite; then again, whether it
+is mortal or immortal; and last, whether it is rational or irrational. For
+these are the questions that most of all tend to be asked in a discourse on
+the soul, as the most proper and able to mark its distinctive character. For
+proofs to confirm the matters we shall examine, we shall use the common
+notions whose trustworthiness the matters at hand naturally confirm. For
+brevity and usefulness, we shall for now use only those syllogisms that prove
+what the inquiry requires, so that the thoughts, becoming clear and easy to
+accept, may give us a certain readiness for answering those who resist. We
+shall begin the discourse from here.
+
+What is the criterion for apprehending the soul. 1. Everything that exists is
+either known by sense or grasped by thought. What falls under sense has sense
+itself as a sufficient proof, for at the same moment as the encounter it
+produces in us the impression of the underlying thing. What is grasped by
+thought is known not from itself but from its activities. The soul, then,
+being unknown from itself, will reasonably be known from its effects.
+
+Whether the soul exists. 2. Our body, when it moves, is moved either from
+without or from within. That it is not moved from without is clear from the
+fact that it is moved neither by being pushed nor by being pulled, as soulless
+things are. And again, when it is moved from within, it is not moved
+naturally, as fire is. For fire does not cease from moving so long as it is
+fire, whereas the body, once it has become dead, is motionless while still
+being a body. Therefore if it is moved neither from without, as soulless
+things also are, nor naturally as fire is, it is clear that it is moved by a
+soul, which also supplies it with life. If, then, the soul is shown to supply
+life to our body, the soul will also be known in itself from its activities.
+
+Whether the soul is a substance. 3. That the soul is a substance is shown as
+follows. First, because the definition of substance may reasonably be said of
+it as well. And that definition is this: substance is what is the same and one
+in number, and capable of receiving contraries in turn. That this soul,
+without departing from its own nature, receives contraries in turn is clear to
+everyone, I suppose. For justice and injustice, courage and cowardice,
+temperance and intemperance, are observed in it, being contraries. If, then,
+it is a property of substance to be capable of receiving contraries in turn,
+and the soul is shown to admit this definition, =10.1141= the soul is
+therefore a substance. Next, since the body is a substance, the soul too must
+be a substance. For it is not possible that what is given life should be a
+substance, while what gives life should be without substance, unless someone
+should claim that even the non-existent is the cause of the existent, or
+again, unless a madman should say that what has its existence in another, and
+cannot be without it, is the cause of that in which it is.
+
+Whether the soul is incorporeal. 4. That the soul is in our body was shown
+above. We must then know how it is in the body. If it lies beside it as pebble
+beside pebble, the soul will be a body, and the whole body will not be
+ensouled, for it will lie beside some part only. But if it is mixed in or
+blended, the soul would become of many parts and not simple, stripped of what
+is proper to a soul. For what is of many parts is also divisible and
+dissoluble; what is dissoluble is composite; and what is composite is extended
+in three dimensions. Body added to body makes bulk; but the soul, being in the
+body, does not make bulk, but rather gives life. Therefore the soul will not
+be a body, but incorporeal. Again, if the soul is a body, it is moved either
+from without or from within. But it is not moved from without, for it is not
+pushed or pulled, as soulless things are. Nor is it moved from within, as
+ensouled things are, for it is absurd to speak of a soul of a soul. It will
+not, then, be a body; therefore it is incorporeal. And again, if the soul is a
+body, it also has perceptible qualities, and it is nourished. But it is not
+nourished. And if it is nourished, it is not nourished bodily as the body is,
+but incorporeally, for it is nourished by reason. Therefore it does not have
+perceptible qualities. For neither justice nor courage nor any such thing is
+seen; and these are the qualities of the soul. It is not, then, a body;
+therefore it is incorporeal. Again, since all bodily substance is divided into
+ensouled and soulless, let those who say the soul is a body say whether it is
+to be called soulless or ensouled. Again, if every body has color, quantity,
+and shape, and none of these is observed in the soul, the soul is therefore
+not a body.
+
+Whether the soul is simple or composite. 5. It is shown, then, that the soul
+is simple, from the very things by which it was especially proved incorporeal.
+For if it is not a body, and every body is composite, and what is put together
+is put together from parts, then it would also be of many parts. But being
+incorporeal, it is simple, since it is also incomposite and without parts.
+
+Whether our soul is immortal. 6. I think immortality must follow upon
+simplicity. =10.1144= And hear how. Nothing that exists is destructive of
+itself, since it would not even have been put together from the beginning. For
+things that perish perish from their contraries. Therefore everything that
+perishes is dissoluble; what is dissoluble is composite; what is composite is
+of many parts; and what is put together from parts is clearly put together
+from different parts; and what is different is not the same. Therefore the
+soul, being simple and not put together from different parts, being
+incomposite and indissoluble, will for this reason be incorruptible and
+immortal. Again, everything that is moved by something else, not having the
+vital principle from itself but from the mover, lasts only so long as it is
+held together by the power at work in it. When that which is at work ceases,
+that which has its motion from it also fails. But the soul, being self-moved,
+never ceases to be. For it follows upon the self-moved that it is always in
+motion; what is
+always in motion is unceasing; what is unceasing is endless; what is endless
+is incorruptible; and what is incorruptible is immortal. If, then, the soul is
+self-moved, as was proved above, it will be incorruptible and immortal
+according to the syllogism already stated. Again, everything that is not
+destroyed by its own evil is incorruptible. Evil is contrary to the good, and
+is therefore destructive of it. For the evil of a body is nothing other than
+passion, disease, and death, just as its virtue is beauty, life, health, and
+good condition. If, then, the soul is not destroyed by its own evil, and the
+evil of a soul is cowardice, intemperance, envy, and the like, and all these
+do not take from it life and motion, it is therefore immortal.
+
+Whether our soul is rational. 7. That our soul is rational, one could show
+from many things. First, from the fact that it has discovered the arts that
+are useful for life. For no one would say that the arts have been put together
+simply and by chance, since he cannot show them idle and useless to life.
+If, then, the arts contribute to what is useful for life, and the useful is
+praiseworthy, and the praiseworthy is constructed by reason, and these are a
+discovery of the soul, our soul is therefore rational. Next, our soul is shown
+to be rational from the fact that our senses are not sufficient for the
+apprehension of things. For we are not content, for knowledge of existing
+things, with the mere encounter of sense. We do not even want to stop at them.
+For things equal in shape and similar in color, yet distinct in their
+natures, sensation, being irrational, is too weak to distinguish. If, then,
+the senses, being irrational, produce in us a false impression of existing
+things, =10.1145= we must consider whether existing things are truly
+apprehensible or not. And if they are apprehensible, there is another power,
+and a greater one besides the senses, that reaches them. And if they cannot be
+grasped, we shall not even be able to grasp what appears otherwise than it is.
+That things are apprehensible to us is clear from the fact that we use each
+fittingly toward what is useful, and again fashion them into what we want.
+Therefore if existing things have been shown to be apprehensible to us, and
+the senses, being irrational, judge falsely, it will be mind that
+distinguishes all things by reason and truly recognizes existing things. And
+mind is the rational part of the soul; therefore the soul is rational. Again,
+we do nothing without first sketching it out for ourselves. This is nothing
+other than the dignity of the soul. For knowledge of existing things does not
+come to it from without; rather it itself, as it were, arranges existing
+things by its own conceptions. For this reason it first paints the thing
+beforehand in itself, and then puts it into effect. And the dignity of the
+soul is nothing other than doing all things with reason. For in this it also
+differs from the senses. The soul has therefore been shown to be rational.

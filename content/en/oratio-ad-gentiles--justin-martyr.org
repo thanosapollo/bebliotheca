@@ -1,0 +1,124 @@
+#+TITLE: Oration to the Gentiles
+#+AUTHOR: Ἰουστῖνος ὁ Μάρτυς hermes:grok-4.6
+#+FILETAGS: :patristic:2c-ad:pg06:
+#+MIGNE_TITLE: Oratio ad gentiles
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/oratio-ad-gentiles--justin-martyr
+#+LANGUAGE: en
+
+* Oration to the Gentiles
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of Saint Justin the Philosopher and Martyr
+To the Greeks.
+Do not suppose, O men of Greece, that my separation from your customs is
+irrational or unconsidered; for I found nothing in them holy or dear to God.
+For the very compositions of your poets are memorials of frenzy and of
+incontinence. For anyone who attends upon the one who among you is foremost in
+education is the most wretched of all men. For first he says that Agamemnon,
+cooperating with his brother's incontinence, with intense frenzy and
+ungovernable desire, both consented to give his daughter for sacrifice and
+threw all Greece into turmoil, that he might ransom Helen, who had been
+carried off by a leprous shepherd. And when, the war having taken hold, they
+brought captives, Agamemnon himself was led captive by Chryseis; he raised
+enmity against the son of Thetis because of Briseis. And the son of Peleus
+himself, who bound a river, who overthrew Troy, who mastered Hector, your hero
+was a slave of Polyxena; he had been conquered by a dead Amazon; having
+stripped off the god-wrought armor, having put on a bridal robe, he became a
+victim of love-charms in the temple of Apollo. For the Ithacan son of Laertes
+trafficked virtue out of vice; and that he was without good sense, the sailing
+past the Sirens made clear, when he could not by prudence stop up his hearing.
+Telamonian Ajax, who bore the sevenfold ox-hide shield, having been defeated
+in the judgment concerning the arms against Odysseus, was taken by madness. I
+do not wish to be educated in these things; for I do not claim such virtue,
+that I should be persuaded by Homer's myths. For the whole rhapsody, beginning
+and end of both Iliad and Odyssey, is a woman.
+
+But since Hesiod after Homer wrote Works and Days, who will agree with his
+idle Theogony? For he says that Cronus, the son of Uranus, deposed his father
+from the rule and took the scepters, and, fearing to suffer the like, chose to
+devour his children; and that Zeus, stolen away and hidden by the device of
+the Curetes, bound his father in chains, and they divided, as the story goes,
+Zeus taking the aether, Poseidon the deep, and Pluteus obtaining the portion
+in Hades. But Pluteus seized Kore; and Demeter, wandering through the deserts,
+sought her child. And the fire at Eleusis raised this myth on high. Again
+Poseidon shamed Melanippe as she was drawing water, and he used a crowd of not
+a few Nereids, whose names, if we should recount them, we would wear out a
+great mass of words. Zeus then is an adulterer in many places: with Antiope as
+a satyr, and with Danae he was gold, and with Europa a bull, and he was winged
+beside Leda. For the love of Semele both convicted his own incontinence and
+Hera's jealousy. For they say he snatched the Phrygian Ganymede to be his
+cupbearer. And these things the sons of Cronus did. For your far-famed son of
+Leto, who professed the prophetic art, convicted himself of lying. He pursued
+Daphne, whom he did not catch; and as he was throwing the discus with his
+beloved Hyacinthus, he did not foretell his death. For I pass over in silence
+the mannishness of Athena and the womanishness of Dionysus and the whorishness
+of Aphrodite. Read to Zeus, O men of Greece, the law against parricides, and
+the penalty of adultery, and the shame of pederasty. Teach Athena and Artemis
+the works of women, and Dionysus those of men. What dignity does a woman
+display, arrayed in arms, or a man decking himself with cymbals and garlands
+and women's clothing and celebrating orgies with a herd of women?
+
+For the three-evening Alcides, leader of the contests, the one sung for
+courage, the son of Zeus, who slew the mighty lion and destroyed the hydra of
+many heads, who put to death the untiring wild boar, who was able to bring
+down the man-eating birds as they flew, and who brought up the three-headed
+dog from Hades, who was able to take down Augeas' strong wall of dung, who
+slew bulls and a deer whose nostrils breathed fire, who took the golden fruit
+from the stem, who slew a venomous serpent and Achelous (for what reason he
+killed him it is not lawful to say) and Busiris the slayer of strangers, and
+who leaped mountains in order to take water that, as the story goes, gave back
+an articulate voice: he who was able to do so many and such and so great
+things, like an infant, having been overwhelmed with cymbals by satyrs and
+having been defeated by a woman's love, was pleased to be struck on the
+buttocks by a laughing Lydian woman, and at last, not being able to strip off
+the shirt of Nessus, having made a pyre against himself, he took the end of
+his life. Let Hephaestus set aside his jealousy, and let him not envy if,
+being old and lame in the foot, he was hated, while Ares was loved, being
+young and in his prime. Since then, O men of Greece, your gods have been
+convicted of incontinence, and your heroes are unmanly, the dramatists'
+histories among you have shown the pollutions of Atreus and the beds of
+Thyestes and the abominations of the Pelopids, and Danaus killing from envy
+and making childless a drunken Egyptus, and the Thyestean feasts which the
+Erinyes prepared. And Procne even until now, having been given wings, wails,
+and her sister, tongue-cut, the Cecropid, has twittered. For why must one even
+speak of the goads of Oedipus, and the murder of Laius and the marriage with
+his mother, and the mutual slaughter of his brothers and children at once?
+
+And I have hated your festivals; for there are immoderate fillings there, and
+polished flutes calling forth to maddened motions, and overcurious anointings
+with unguents, and the putting on of crowns. And by so great a heap of evils
+you put an end to shame, and you fill the mind, being driven to bacchic frenzy
+by incontinence; and you are accustomed to use unholy and frenzied mixings.
+And I would say this also to you: Why are you indignant, being a Greek,
+against your child, if, imitating Zeus, he plots against you and has equally
+plundered the marriage? Why do you count this one an enemy, and worship the
+one like him? And why do you blame your wife living licentiously, while you
+have honored Aphrodite with temples? And if these things had been said by
+others, it would have seemed a bare accusation and not truth; but now your own
+poets sing these things, and the histories among you cry them out.
+
+Come then, O men of Greece, and share in incomparable wisdom, and be educated
+by the divine Word, and learn an incorruptible King, and come to know His
+heroes, who never work slaughter upon peoples. For our general himself does
+not want strength of bodies and beauty of forms, nor the pride of high birth,
+but a pure soul, walled with holiness, and the watchwords of our King, and
+divine deeds, as of a power through the Word reaching into the soul (O
+peaceful trumpet of a soul at war, O place of exile for terrible passions, O
+teaching that quenches living fire!), which does not make poets, does not
+furnish philosophers, nor formidable orators, but by educating makes mortals
+immortal, and mortal men gods, and transfers them from earth to the regions
+above Olympus. Come, be educated; become as I am, because I too was as you
+are. These things captured me, both the inspired character of the teaching and
+the power of the Word; because just as a good enchanter, having made a
+terrible serpent creep out from its hole, drives it into exile, so the Word
+drives out from the very recesses of the soul the terrible passions of sense,
+first desire, through which every terrible thing grows, enmities, strifes,
+jealousy, factions, rages, and things like these. Desire having been driven
+out, the soul becomes serene and calm. And having been loosed from the evils
+flowing around her neck, she goes away to Him who made her; for she must be
+restored to the place from which she departed.

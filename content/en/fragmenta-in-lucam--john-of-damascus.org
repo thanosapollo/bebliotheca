@@ -1,0 +1,21 @@
+#+TITLE: Fragments on Luke
+#+AUTHOR: Ἰωάννης Δαμασκηνός hermes:grok-4.6
+#+FILETAGS: :patristic:8c-ad:pg94-96:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta-in-lucam--john-of-damascus
+#+LANGUAGE: en
+
+* Fragments on Luke
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of the Damascene.
+=95.233= And the Spirit comes down upon the apostles. For he is God; and God
+is a consuming fire. For this reason Christ is said to baptize with fire,
+since in the form of fiery tongues he poured out the grace of Christ upon his
+holy disciples, or because of the punishing of the fire to come. For that too
+is a last baptism, not saving, but destroying wickedness; for wickedness and
+sin no longer have their citizenship; yet punishing without end.

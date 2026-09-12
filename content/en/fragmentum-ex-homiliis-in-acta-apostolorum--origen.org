@@ -1,0 +1,32 @@
+#+TITLE: Fragment from the Homilies on the Acts of the Apostles
+#+AUTHOR: Ὠριγένης hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg11-17:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum-ex-homiliis-in-acta-apostolorum--origen
+#+LANGUAGE: en
+
+* Fragment from the Homilies on the Acts of the Apostles
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+FROM ORIGEN'S ON THE ACTS OF THE APOSTLES.
+From the 4th homily on the Acts.
+=14.829= The Scripture had to be fulfilled, which the Holy Spirit spoke
+beforehand through the mouth of David concerning Judas; =14.832= in which
+psalm the things concerning Judas have been written. Someone might say that it
+is not the Holy Spirit that speaks; for clearly the words are of the Savior
+saying: O God, do not pass over my praise in silence; because the mouth of a
+sinner, and the mouth of a deceitful one, has been opened against me; and the
+rest until: And let another take his oversight. How then, if it is the Savior
+who says these things, does Peter say: The Scripture had to be fulfilled,
+which the Holy Spirit spoke beforehand through the mouth of David? Perhaps
+then what we are taught here is such. The Holy Spirit personifies in the
+prophets; and if it personifies God, it is not God who is speaking, but the
+Holy Spirit speaks from the person of God; and if it personifies Christ, it is
+not Christ who is speaking, but the Holy Spirit speaks from the person of
+Christ. Thus, even if it personifies the prophet, or that people, or this
+people, or whatever it personifies, it is the Holy Spirit that personifies all
+things.

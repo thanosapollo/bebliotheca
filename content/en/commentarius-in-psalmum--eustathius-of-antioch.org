@@ -1,0 +1,27 @@
+#+TITLE: Commentary on a Psalm
+#+AUTHOR: Εὐστάθιος Ἀντιοχείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg18:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/commentarius-in-psalmum--eustathius-of-antioch
+#+LANGUAGE: en
+
+* Commentary on a Psalm
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+From the interpretation of the 15th psalm:
+But indeed the [soul] of Jesus had experience of both. For it also came to be
+in the place of human souls, and having come to be outside the flesh it lives
+and subsists. It is therefore rational, and of the same substance as the souls
+of men, just as the flesh also happens to be of the same substance as the
+flesh of men, having come forth from Mary.
+
+Of Eustathius of Antioch from interpretation of the 15th psalm:
+God sent his son, become of a woman; not "become" in the plural, but "become";
+for the person is unique; I did not say a unique nature; far be it, may it not
+be; nor the same substance of flesh and Godhead, but I said one Lord Jesus
+Christ, through whom are all things, recognized in the difference of the
+natures according to all.

@@ -1,0 +1,21 @@
+#+TITLE: Fragment on Proverbs
+#+AUTHOR: Κύριλλος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:5c-ad:pg68-77:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum-in-proverbia--cyril-of-alexandria
+#+LANGUAGE: en
+
+* Fragment on Proverbs
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+FROM THE INTERPRETATION OF SAINT CYRIL ON THE PROVERBS
+The Lord created me. {Of Cyril.} "He created me," if you take it of the
+Godhead, is instead of "He appointed me"; as in, "Create in me a clean heart,
+O God." And, "That he might create the two in himself." For it is not
+substantially, that he might create those already come into being, but that he
+might appoint. He therefore appointed me as beginning of his providential and
+creative works. For he also says to David: I was appointed king by him.

@@ -1,0 +1,18 @@
+#+TITLE: Letter to Photius the Presbyter
+#+AUTHOR: Κύριλλος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:5c-ad:pg68-77:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula-ad-photium-presbyterum--cyril-of-alexandria
+#+LANGUAGE: en
+
+* Letter to Photius the Presbyter
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of the same, to Photius, presbyter of Alexandria:
+But if the two natures, being of different substance, have been mixed into one
+mixture, neither of them is preserved, but both, having been confused, have
+vanished.

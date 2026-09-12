@@ -1,0 +1,25 @@
+#+TITLE: In What Way Man is the Image of God
+#+AUTHOR: Ἰωάννης Δαμασκηνός hermes:grok-4.6
+#+FILETAGS: :patristic:8c-ad:pg94-96:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/qua-ratione-homo-imago-dei--john-of-damascus
+#+LANGUAGE: en
+
+* In What Way Man is the Image of God
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of John the monk, presbyter of Damascus, surnamed Mansur, concerning theology:
+how a human being images the Divine.
+=95.228= That man is according to the image and likeness of God, this shows
+that his intellectual and rational soul is in three properties; that is mind
+and word and spirit, as upon the divine substance, Father and Son and Holy
+Spirit. For as the Father is Father and not Son; and the Son is Son and not
+Father; and the Spirit is Holy Spirit and not Son or Father; in the same way,
+the mind is mind and not word; the word is word and not spirit; and the spirit
+is spirit and not word or mind. These therefore are neither confused by unity
+nor divided by number; for the three are one, and the one into three, of the
+same nature and of the same substance, coexisting with one another always.

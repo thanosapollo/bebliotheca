@@ -1,0 +1,91 @@
+#+TITLE: On Measures and Weights, Greek Excerpt 3
+#+AUTHOR: Ἐπιφάνιος Σαλαμῖνος hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg41-43:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-mensuribus-et-ponderibus-excerptum-graecum-3--epiphanius-of-salamis
+#+LANGUAGE: en
+
+* On Measures and Weights, Greek Excerpt 3
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of Saint Epiphanius concerning measures and weights.
+A kor of wheat is thirty modii, which is called chor. Chor is named thus from
+the setting of the hills; for a hill is called choria; for the thirty modii,
+heaped into a mound, make a camel's load. Thekel [γρ. Lethek] of barley is
+fifteen modii, which is called eparma. A kadus of oil is of fifty xestai. And
+this is of the work of the oil-press. Mnasis [γρ. Mnasís] is of ten modii of
+wheat or of barley of measures [γρ. measure]. A saton is a heaped modius, so
+as to be one modius and a fourth, and of liquid fifty xestai. A small gomor of
+twelve modii, of fifty xestai. A medimnos is five modii, so as to be four
+modii of a measure of twenty-two xestai, and another ʹ. A choenix and an oiphi
+are the same; and it is a measure of two xestai and a half and a postemorion,
+which is the measure of the two handfuls of the hand. An artabe is of
+seventy-two xestai, a complete measure. Three measures of fine flour. Each
+measure had a gomor. And the gomor is a tenth of the great measure of the
+artabe, that is seven xestai and five (a fifth). Three kana of groats. The
+kana he calls little baskets. And chondrites is a kind of wheat cut in two. A
+nebel of wine, a measure of one hundred fifty xestai, omyei thus of liquid
+three sata. A kotyle is half a xestes; from there those who sell wine or oil
+are called kotylistai. A tryblion in form is an oxybaphon, that is a
+side-dish, and it holds half of a xestes. An aporyma [γρ. Aporryma] has the
+half of the saiton. And the Saiton is of twenty-two xestai. It is in a ceramic
+form [ἴσ. of a ceramic]. Saphitha is a measure of twenty-two xestai among
+some, and among others eighteen and twenty-four. The great ein of eighteen
+xestai, and the holy one of nine. A kampsakes of water of four xestai. A
+chous, which is a chouza, the great one of eight xestai, and the holy one of
+ʹ xestai. An alabastron of myrrh. An alabastron is bissin, round-shaped,
+holding one litra, that is 132 a hemina. A siklon. The siklon is the fourth of
+the ounce, which is one nomisma and a half. Medekom he calls the kyathoi; and
+the masmaroth he calls the strainers, or [ἴσ. that is] ithmoi [γρ. ethmoi]. A
+kyathos, sometimes unto a simple cup, which is of ʹ xestai; and sometimes unto
+a triple, which is of three. And an antlentērion [γρ. antletērion] is from a
+ceramic, drawing diakara [γρ. through a long] handle. A kyathos has one ounce;
+and that of oil one ounce and a half; and that of wine one ounce and a half
+ʹ; and that of honey one ounce and a half. The great gomor and the [ἴσ. also
+the] lethek; and lethek, as it is said in the prophet Hosea [3, 2]: "I hired
+for myself a leketh [γρ. lethek] of barley." And in other copies it says: "A
+gomor of barley." So it is the same; for fifteen modii are signified." A
+drachma and three grammata. A drax of flour. A drax is the grasp of a hand.
+The great ein of eighteen xestai, and the holy one of nine xestai. A kabos of
+wheat of five xestai and a half. A metrites [γρ. metretes] of seventy-two
+xestai. {1 Concerning weights.}1 Silver pieces and the bronze ones weigh
+three grammata. Perfect silver of one hundred litrai. An argyrous and a mna
+and manesongkiai [ἀνάγν. ounces of a manes] twenty, which becomes one litra,
+eight ounces. An amphoreus of twenty-four xestai. An assarion, a weight of six
+ʹ grammata. An assarion is called of sixty lepta. A bag which is also a pholis
+[γρ. phollis], of two hundred fifty denarii, becomes three hundred twelve
+litrai and a half. A denarius weighs one litra, three ounces. A holy didrachm
+of six grammata. A kodrantes, a nummus carrying six ʹ grammata. A lepton saton
+carries three grammata. A lepton is a little weight, the fourth of an ounce,
+concerning which the Lord says [Matt. 10, 29]: "Are not two sparrows sold for
+an assarion?" And assar in Hebrew, being diminished, is so called. A
+miliarision and a golden and a half of the silver carries ten ounces. A
+nomisma of one hundred twenty-five litrai. Another nomisma of three grammata.
+Nummon [γρ. Nummus]. Numa a certain king of the Romans made it, and it was
+called after his name. An obol that is not of silver, but made from iron,
+carries three grammata. An obol of silver carries three grammata. A holke
+carries three grammata. The holy shekel, which is twelve grammata. A stater
+carries twelve grammata. A pholis and a bag [γρ. Phollis] carries two argyroi
+and a half, two hundred fifty denarii, twelve litrai and a half. I found the
+holy shekel in the Numbers [18, 16] thus: "You shall redeem, he says, the
+firstborn of five shekels according to the holy shekel, they are twenty
+obols." An oxybaphon has eight xestai. A cheme has forty-eight xestai. A
+cochliarion has seventy-two xestai. He shows the shekel of four obols. The
+obol carries three grammata. So then the holy shekel is of twelve grammata,
+and the royal of ʹ grammata. The denarius was of sixty assaria. And the
+argyrous denarii. And the argyrous was struck from the beginning as a
+nomisma, and it came from the Assyrians. And Abraham into the land of Canaan,
+he says [ἴσ. they say], has brought this type. A drachma which has three
+grammata. The hair of Absalom they weighed in this shekel at the time when he
+was shearing his head, one hundred twenty-five shekels. So then it is thirty
+ounces and 133 one, ʹ grammata; by the royal shekel they become one litra
+three grammata. The holy shekel is of four obols, of ten grammata; and the
+obol carries three grammata. And the weight they used at times to strike in
+silver pieces; and it was not of silver? but made, but from iron; so an obol;
+this was it. A mna instead of the mane; for in Hebrew the silver is called
+mane; and the Italian mna is forty; it is a stater [γρ. it is of forty
+staters], that is of twenty ounces, of one litra eight ounces.

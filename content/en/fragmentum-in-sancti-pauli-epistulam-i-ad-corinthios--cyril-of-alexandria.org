@@ -1,0 +1,25 @@
+#+TITLE: Fragment on Saint Paul's First Epistle to the Corinthians
+#+AUTHOR: Κύριλλος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :patristic:5c-ad:pg68-77:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmentum-in-sancti-pauli-epistulam-i-ad-corinthios--cyril-of-alexandria
+#+LANGUAGE: en
+
+* Fragment on Saint Paul's First Epistle to the Corinthians
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of the same from the 7th of the exegetical tomes of the former epistle to the
+Corinthians:
+For as far as it pertains to its own nature, the human body has been brought
+under death and corruption. But it is overshadowed with immortality, God
+accomplishing the matter in whatever way he would know; thus we say the first
+man was made in the beginning. But when he became accursed, having neglected
+the commandment defined for him, he stripped off incorruption and the wrapping
+of divine glory; for they knew thus that they were naked. And at the time of
+the resurrection there will be a taking-up-again of the goods in the
+beginning; for the flesh will live again, clothed with immortality and
+enriching itself with the wrapping of divine glory.

@@ -1,0 +1,49 @@
+#+TITLE: Letter to Carpianus Prefixed to the Gospel Canons
+#+AUTHOR: Εὐσέβιος Καισαρείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg19-24:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula-ad-carpianum-ad-canones-evangeliorum-praemissa--eusebius-of-caesarea
+#+LANGUAGE: en
+
+* Letter to Carpianus Prefixed to the Gospel Canons
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Eusebius to Carpianus, beloved brother in the Lord, greetings.
+Ammonius the Alexandrian, having brought in much industry and zeal as was
+fitting, has left us the gospel through four, setting beside the one
+according to Matthew the concordant pericopes of the remaining evangelists,
+so that of necessity the sequential thread of the three was destroyed so far
+as concerns the texture of the reading. But so that, with the body and
+sequence of the rest also preserved throughout, you might be able to know
+the proper places of each evangelist in which they were led by love of truth
+to speak concerning the same things, having taken starting-points from the
+work of the aforementioned man I have drawn up for you according to another
+method ten canons in number, those set out below. Of these the first
+contains numbers in which the four have said similar things, Matthew Mark
+Luke John; the second, in which the three, Matthew Mark Luke; the third, in
+which the three, Matthew Luke John; the fourth, in which the three, Matthew
+Mark John; the fifth, in which the two, Matthew Luke; the sixth, in which
+the two, Matthew Mark; the seventh, in which the two, Matthew John; the
+eighth, in which the two, Luke Mark; the ninth, in which the two, Luke John;
+the tenth, in which each of them has recorded some things peculiarly. This
+then is the subject of the canons set out below, and the clear account of
+them is as follows. Upon each of the four Gospels a certain number is
+prefixed, beginning in parts from the first, then the second and third, and
+proceeding in order throughout until the end of the books. And at each
+number a notation is prefixed in vermilion, indicating in which of the ten
+canons the number happens to be placed. For example if it is αʹ, it is clear
+that it is in the first; if βʹ, in the second; and so on as far as the ten.
+If then, having opened any one of the four Gospels you wish, you should want
+to attend to some chapter you please, and to know who have said similar
+things, and to find the proper places in each in which they were led
+concerning the same things, taking the prefixed number of the pericope you
+hold, and seeking it within in the canon which the vermilion notation has
+set underneath, you will know at once from the headings at the front of the
+canon how many and who have spoken about what you seek; and attending also
+to the numbers of the remaining Gospels that lie beside the number you hold
+in the canon, and seeking them within in the proper places of each Gospel,
+you will find them saying similar things.

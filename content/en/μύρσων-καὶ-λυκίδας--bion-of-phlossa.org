@@ -1,0 +1,69 @@
+#+TITLE: Myrson and Lycidas
+#+AUTHOR: Bion of Phlossa hermes:grok-4.6
+#+FILETAGS: :classical:2c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/μύρσων-καὶ-λυκίδας--bion-of-phlossa
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Myrson and Lycidas edited by J. M. Edmonds
+#+END_QUOTE
+
+* MYRSON
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Will you now, Lycidas, sing some sweet Sicilian song for me,
+a longing, sweet-hearted, erotic one, such as the Cyclops
+Polyphemus sang to sea-shore Galatea?
+
+* LYCIDAS
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+And to pipe is dear to me, Myrson; but what shall I sing?
+
+* MYRSON
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+The sweet love of Scyros, Lycidas, that is envied,
+the secret kisses of the son of Peleus, the secret bed,
+how the boy put on a robe, and how he faked the form
+and how among the girls of Lycomedes Deidameia,
+handling him, knew Achilles in the bridal chamber.
+
+* LYCIDAS
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+Once the cowherd seized Helen, and led her to Ida,
+a bad grief to Oenone. And Lacedaemon was angered,
+
+and gathered all the Achaean people, nor did any Greek
+neither of Mycenaeans nor of Elis nor of Laconians
+remain in his house, fleeing wretched Ares.
+And Achilles alone was hidden among the girls of Lycomedes,
+and he was taught wools instead of weapons, and with a white hand
+he had a maiden's labor, and he appeared as a girl;
+for he was made female equal to them, and so much a bloom
+purpled on snowy cheeks, and the walk
+he walked of a maiden, and he packed his hair with a veil.
+But he had a man's heart, and he had a man's love;
+and from dawn until night he sat beside Deidameia,
+and sometimes he kissed her hand, and often of her
+he lifted the fair warp, and praised the cunning threads;
+and he ate not with another age-mate, and he did all things
+hastening toward a common sleep. And he also spoke a word to her:
+/other sisters sleep with one another,/
+/but I alone, and you alone sleep, bride./
+/the two maiden age-mates, the two fair;/
+/but we sleep alone according to beds; and the wicked/
+/Nysaean deceitful one badly parts me from you./
+/for I of you .../

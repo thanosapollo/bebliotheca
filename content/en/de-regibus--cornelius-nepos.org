@@ -1,0 +1,33 @@
+#+TITLE: On Kings
+#+AUTHOR: Cornelius Nepos hermes:grok-4.6
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-regibus--cornelius-nepos
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+On Kings edited by Albert Fleckeisen
+#+END_QUOTE
+
+* Chapter 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+These were nearly the leaders of the Greek nation who seem worthy of memory, besides kings: for we have not wished to touch them, because the things done of all have been related separately. Nor yet are those very many. And Agesilaus the Lacedaemonian was king in name, not in power, as the rest of the Spartans. And of those who held a domination by command, the most excellent were, as we judge, Cyrus and Darius of the Persians, son of Hystaspes, of whom each as a private man obtained a kingdom by virtue. The former of these fell in battle among the Massagetae, Darius met the last day by old age. There are besides three of the same nation: Xerxes and two Artaxerxes, with the surnames Macrochir and Mnemon. For Xerxes it is most illustrious that with the greatest armies after the memory of men he brought war upon Greece by land and sea. But Macrochir has a special praise of a most ample and most beautiful form of body, which he adorned with an incredible virtue of war: for no Persian was stronger of hand than he. And Mnemon flourished by fame of justice. For when by a crime of his own mother he had lost a wife, he so indulged grief that piety conquered him. Of these two of the same name rendered nature's due by disease, the third was killed by iron by the prefect Artabanus.
+
+* Chapter 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+And from the nation of the Macedonians two far went before the rest by glory of things done: Philip, son of Amyntas, and Alexander the Great. Of these the one was consumed by disease at Babylon, Philip was killed at Aegae by Pausanias, when he was going to see games, beside the theatre. One Epirote, Pyrrhus, who warred with the Roman people. He, when he was attacking the town Argos in the Peloponnese, died struck by a stone. One likewise a Sicilian, Dionysius the former. For he was both strong of hand and skilled in war and, that which is not easily found in a tyrant, least lustful, not luxurious, not greedy, in short desirous of no thing except a singular and perpetual command and for that reason cruel: for while he was eager to fortify that, he spared the life of no one whom he thought an ambusher of it. This man, when he had gotten a tyranny for himself by virtue, retained it with great fortune: for he died more than sixty years old with the kingdom flourishing. Nor in so many years did he see a funeral of anyone from his own stock, although he had begotten children from three wives and many grandsons had been born to him.
+
+* Chapter 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+There were besides great kings from the friends of Alexander the Great, who after his death took commands, among them Antigonus and this man's son Demetrius, Lysimachus, Seleucus, Ptolemy. Of these Antigonus was killed in battle, when he fought against Seleucus and Lysimachus. Lysimachus was affected by a like death from Seleucus: for the alliance having been dissolved they waged war among themselves. But Demetrius, when he had given his own daughter to Seleucus in marriage and a faithful friendship could not remain among them any more for that, captured in war died in custody, a father-in-law by disease of a son-in-law. And not so much later Seleucus was killed by deceit by Ptolemy Ceraunus, whom he, expelled from the father, needing alien resources, had received from Alexandria. And Ptolemy himself, when alive he had handed over the kingdom to a son, is said to have been deprived of life by that same one.
+
+Concerning whom since we think enough has been said, it does not seem inconvenient not to pass over Hamilcar and Hannibal, whom it is agreed that by greatness of spirit and by cunning they excelled all born in Africa.

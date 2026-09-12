@@ -1,0 +1,38 @@
+#+TITLE: Paraenetic Alphabet
+#+AUTHOR: Γρηγόριος Ναζιανζοῦ hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg35-38:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/alphabeticum-paraeneticum--gregory-of-nazianzus
+#+LANGUAGE: en
+
+* Paraenetic Alphabet
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Hold God to be the beginning of all things.
+Think nothing in life to be firm.
+Honoring parents, fear God most of all.
+Teach yourself not to speak what is not lawful.
+Hasten to please God by works and by words.
+Desire the life that has no end.
+By yielding yourself to friends you will be conquering.
+Being mortal, do not think great things at all.
+Track always the doors of the wise.
+And adorn the mind more than the form.
+Open your mouth, child, to the word of God.
+Never forget his memory at any time.
+Pray to God soberly each day.
+Entertain strangers, lest you become a stranger to God.
+Bridle the soul-destroying impulses of the passions.
+Secure the body with fetters soberly.
+Bear conscience as a rod for yourself.
+Clearly give leisure in the God-inspired Scriptures.
+Comfort the griefs of the poor.
+Wish well for neighbors above yourself.
+Be eager to have friends rather than much wealth.
+For they are far more glorious than gold.
+Hate falsehood, and love the truth.
+O child, keeping these things you are saved in a godly way.

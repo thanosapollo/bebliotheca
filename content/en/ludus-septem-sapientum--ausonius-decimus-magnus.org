@@ -1,0 +1,374 @@
+#+TITLE: Play of the Seven Sages
+#+AUTHOR: Ausonius, Decimus Magnus hermes:grok-4.6
+#+FILETAGS: :byzantine:4c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ludus-septem-sapientum--ausonius-decimus-magnus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Play of the Seven Sages edited by Hugh G. Evelyn-White
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+** AUSONIUS THE CONSUL TO DREPANIUS THE PROCONSUL greeting.
+:PROPERTIES:
+:CUSTOM_ID: h1-h1
+:END:
+
+Whether you think these lines deserve pardon or deserve to be known,
+read them through, Drepanius, with a careful mind.
+I shall take your verdict calmly, whether you judge
+the poems I have given should be read, or should be hid.
+The first thing is to have earned your favor, Pacatus;
+next will come the care of my guarded honor.
+I can bear a stern reader's censure,
+and I can content myself with moderate praise.
+A horse knows how to love the sound of a patted neck,
+and knows, unshaken, how to endure a slow lash.
+What polish the critic Aristarchus and the rule of Zenodotus
+sought for Maeonian Homer!
+So set the obeli, the brands of the first poets:
+I shall count them my palms, not my faults;
+and I shall call more corrected than condemned
+whatever a learned man's file shall lay on me.
+Meanwhile, about to take on so great a judgment's weight,
+I shall wish to please; if not, to lie hid.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+** Prologue
+:PROPERTIES:
+:CUSTOM_ID: h2-h1
+:END:
+
+The Seven Sages, to whom a Ssuperior age gave that name
+and a following age did not take it away,
+come forth today onto the orchestra in Greek cloaks.
+Why do you blush, you togaed Romulus,
+because men so famous will walk onto the stage?
+This is a shame for us, not for the men of Attica as well:
+for them the theatre serves in place of a senate-house.
+Our public business has its places allotted:
+the Campus for the assemblies, as the Curia for the conscript fathers;
+the forum and the rostra the law 1 of the citizens keeps apart.
+At Athens, and throughout all Greece, there is one
+public seat for taking counsel,
+which luxury built late in our city.
+Once the aedile used to furnish a boarded stage,
+raised in a hurry, with no mass of stone.
+So Murena and Gallius: I speak of things well known.
+Afterwards men of power, not fearing the cost,
+believed their name would last forever, if once
+a pile built on a stone foundation
+should found a place for the games for all time:
+
+this huge theatre grew in wedges:
+Pompey gave it, and Balbus, and Caesar
+Octavian, competing in outlay.
+But why do I talk of this? I have not come out here
+to explain who founded the theatres, who the forum,
+who the several parts of the walls:
+but that I might go before men to be revered and praised by the gods,
+and make plain what they mean to do.
+They are used to pronouncing their own sayings,
+which each of the wise has already put first.
+You know them well enough; but if memory
+fails in ancient matters, a player will come
+as expounder of those I hold less surely.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** THE PLAYER
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+Report has it that Attic Solon wrote at Delphi
+
+γνῶθι σεαυτόν, which in Latin is: know yourself.
+Many think this belongs to Laconian Chilon.
+Spartan Chilon, they dispute whether it is yours or not,
+that which is reported next, ὄρα τέλοσ μακροῦ βίου,
+you who bid us look to the end of a long life.
+Many think Solon said this to Croesus.
+And report has it that Lesbian Pittacus said
+
+γίγνωσκε καιρόν: he bids you know the time.
+But that καιρὸσ is the timely season.
+Bias of Priene said οἱ πλεῖστοι κακοί,
+which in Latin is: most men are bad;
+but know that those he called bad are the unskilled.
+
+μελέτη τὸ πᾶν, that is Periander of Corinth's,
+who holds that practice can accomplish the whole.
+
+Cleobulus of Lindos says ἄριστον μέτρον is:
+that is, the best measure for all things.
+But Thales put forth ἐγγύα, πάρα δ' ἄτα,
+who forbids us to stand surety, because harm is the bondsman.
+This warning of ours does not please those who have lent at interest.
+I have spoken: I withdraw; Solon the lawgiver comes.
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** SOLON
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+After the Greek custom I, Solon, come forth onto the stage,
+to whom the fame of the Seven Sages gave the palm.
+But fame 1 is not the severity of judgment;
+for I do not count myself first, but one,
+because equality cannot endure rank.
+Rightly once the Delphic god advised a fool
+who asked who would be first of the sages,
+that he should set a garland of names on a smooth circle,
+lest anyone be first, or even last.
+From the middle of their ring I, Solon, come forth,
+so that what I am thought to have said to king Croesus,
+every school of men may take as said to itself.
+In Greek it is packed as ὄρα τέλοσ μακροῦ βίου,
+which grows longer if you put it in Latin:
+I bid all look to the end of life.
+Therefore avoid calling men wretched or blessed,
+because they are always in a doubtful state.
+It is so. If I can, I shall speak in few words.
+
+Whether king or tyrant of Lydia, Croesus was
+among these blessed, rich to a mad degree,
+who used to give the gods temples with golden sides.
+He summoned me. I come obedient to the word,
+that the Lydians may have use of a better king.
+He asks me to name a blessed man, if I have known any.
+I name Tellen, a citizen not obscure:
+fighting for his country that man had thrown his life in the way.
+He scorned him, seeks another; I found Aglaus:
+he had never gone beyond the bounds of his own little field.
+But he, laughing: "Where then do you put me,
+who alone am called blessed in the whole world?"
+
+I say /the end of life must first be looked to:/
+
+/then one must judge whether happiness remains./
+
+Croesus took the saying ill: I
+leave the king; he prepares war against the Persians;
+set out, beaten, bound, handed over to the king,
+he stands, already catching the likeness of his own funeral,
+where the flame was giving itself through the whole circuit,
+rolling swollen globes of heat on high.
+And almost too late Croesus with a huge cry,
+
+/O true seer,/ he says, /O Solon, Solon/
+
+with a great shout names Solon three times.
+Cyrus, moved by that voice, orders it quenched
+through the whole ring and the burning pyre pulled down:
+and in good time rain poured from the clouds
+checked the fire. Croesus is led at once to the king
+through a chosen band of soldiers:
+he is asked whom he meant by Solon
+and what cause he had for calling the name.
+Through the whole series he sets forth all things to the king.
+That man pities him and, seeing the force of fortune,
+praises Solon: thence he keeps Croesus among his friends
+
+and orders him bound with golden fetters to spend with him
+all that was left of life.
+I, by the testimony of two kings,
+was praised and approved by both.
+And what was said to one, let each take as said to himself.
+I have now finished the cause for which I came forth here.
+See, Chilon comes. Fare you well, and applaud.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+** CHILON
+:PROPERTIES:
+:CUSTOM_ID: h5-h1
+:END:
+
+My loins ache from sitting, my eyes from watching,
+while I wait for Solon to take himself off.1
+Hui, how few things, gods, the men of Attica say!
+One saying in three hundred verses
+he has at last finished, and looking back at me, he goes.
+I am Spartan Chilon, who now come forth.
+By the well known brevity we Laconians use,
+I commend our γνῶθι σεαυτόν, know yourself,
+which already stands on the Delphic column.
+That troublesome labor bears the best fruit:
+to tell what you can bear, and what you cannot;
+by night and by day to search what you do, what you have done,
+even to the likeness of a thin point.2
+All duties, shame, honor, constancy
+are in this, and any glory we have despised.
+I have spoken: farewell, and remember; I do not delay the applause.
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+** CLEOBULUS
+:PROPERTIES:
+:CUSTOM_ID: h6-h1
+:END:
+
+I am Cleobulus, citizen of a small island,
+but author of a great saying, by which I am famed:
+
+they hold that I said ἄριστον μέτρον.
+You there, nearest the orchestra,
+sitting in the fourteen rows on the neighboring steps: interpret.
+
+Is ἄριστον μέτρον the best measure?
+Speak! You have nodded? I thank you; I shall go on
+in order. Already from that place your African poet
+has said /nothing too much,/ 1
+and a certain one of ours μηδὲν ἄγαν.2 Both senses
+belong here, Italian or Dorian.
+Of speaking, of silence, of sleep, of waking that measure is,
+of benefits, of thanks, of injury,
+of study, of labors: whatever there is in all life
+asks that measure of the best pause.
+I have spoken: I withdraw; let there be measure; Thales comes.
+
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+** THALES
+:PROPERTIES:
+:CUSTOM_ID: h7-h1
+:END:
+
+I am Milesian Thales, who said that water is first
+among things to be created 3, as the bard Pindar, 4
+
+and to whom once, by Apollo's order, a golden tripod 5
+
+the fishermen gave, drawn from the sea;
+for these, at the Delian's command, had chosen me,
+because he had sent this gift to a sage.
+
+I refused, did not take it, and gave it back
+to be carried to others whom I thought earlier.
+Then through all the seven sage men
+sent and sent back they bring it again to me.
+I received it and consecrated it to Apollo;
+for if Phoebus bids a sage be chosen,
+it is fitting that not any man, but a god, be believed.
+I therefore am that man. But the cause of my coming forth
+onto the stage was the same as for the two before me:
+that I might become the champion of my saying.
+It will displease, yet not the prudent,
+whom use has taught and made skilled.
+Behold ἐγγύα, πάρα δ' ἄτα, so we say in Greek.
+In Latin: give surety, but harm is ready at your side.
+I could run through a thousand examples, to prove
+sureties and bondsmen guilty of repentance.
+But I do not wish to name anyone by name:
+let each of you say to himself and think with himself
+how many have found surety a loss and an ill.
+Yet let this grateful office remain for both.
+Part therefore applaud; part, offended, hiss me off.
+
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+** BIAS
+:PROPERTIES:
+:CUSTOM_ID: h8-h1
+:END:
+
+I am Bias of Priene. What 1 I said, oἱ πλεῖστοι κακοι,
+I take in Latin to mean: most men are bad.
+I would rather not have said it; truth begets hatred.2
+But I called bad the unskilled and the barbarians,
+who neglect right and fair dealing and sacred custom.
+For that people that rings this theatre
+is all good men. The enemy's land holds
+
+those of whom you think I spoke, the many who are bad;
+but let no judge be so bad
+that he does not already join the party of the good,
+whether he is truly good, or only eager to be called so.
+Already that hated name of "bad" has fled.
+I go. Farewell and applaud, you many who are good.1
+
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+** PITTACUS
+:PROPERTIES:
+:CUSTOM_ID: h9-h1
+:END:
+
+I am Pittacus, a Lesbian born at Mytilene,
+
+who taught the saying γίνωσκε καιρὸν.
+But that καιρόσ warns you to know the time,
+and that καιρόν is what they call the timely season.
+So too there is a Roman phrase: I have come in time.2
+That comic poet of yours also, Terence,
+affirms that timing is first of all things,
+when the slave Dromo 3 had come to Antiphila
+unhindered by none, keeping the turn of time.
+Reckon, all of you, how often offense befalls
+the man who has not watched his opportunity.
+Time warns me not to be a nuisance: applaud.
+
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+** PERIANDER
+:PROPERTIES:
+:CUSTOM_ID: h10-h1
+:END:
+
+Born of Ephyra, I, Periander, come forth here,
+
+who said μελέτη τὸ πᾶν and now I prove the saying:
+what you do rightly comes of practice.
+For he alone is effective at getting a thing done
+who first thinks through every business.
+
+Adverse things or favorable Terence the comic poet
+declares must be thought through by all. 1
+To pitch a camp, to wage war or to lay it down,
+great matters and moderate, even small ones too:
+whoever wishes to act should always think them through.
+For all are slower in new beginnings
+if thought of the thing to be done has been lacking.
+There is nothing that asks fuller care
+than to think what is to be done. After that,
+chance, not counsel, rules the thoughtless.
+But I now take myself back to my part: applaud,
+and by thinking take care of your public business.

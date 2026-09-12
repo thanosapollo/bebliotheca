@@ -1,0 +1,22 @@
+#+TITLE: Homily on "I go to my Father"
+#+AUTHOR: Κύριλλος Ἱεροσολύμων hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg33:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/homilia-in-illud-ego-vado-ad-patrem-meum--cyril-of-jerusalem
+#+LANGUAGE: en
+
+* Homily on "I go to my Father"
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of Cyril, bishop of Jerusalem, on the [text] "I go to my Father; and whatever
+you ask in my name, this I will do, that the Father may be glorified in the
+Son."
+On both the things said concerning the Godhead and concerning the humanity he
+places the "I," so that the sense of the words appears from the sequence, and
+the discernment of the natures from the difference of the things said. And
+from his discoursing in both as concerning some one, he signifies the
+conjunction of the person.

@@ -1,0 +1,30 @@
+#+TITLE: From the Homilies on the Epistle to the Hebrews
+#+AUTHOR: Ὠριγένης hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg11-17:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ex-homiliis-in-epistulam-ad-hebraeos--origen
+#+LANGUAGE: en
+
+* From the Homilies on the Epistle to the Hebrews
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+=14.1308= The character of the diction of the Epistle inscribed to the Hebrews
+does not have the unskilled quality in word of the Apostle, who confessed
+himself to be unskilled in word, that is, in phrasing. But the Epistle is more
+Greek in composition of diction, everyone who knows how to judge differences
+of phrasings would confess; and again that the thoughts of the epistle are
+wonderful, and not second to the acknowledged apostolic writings, this too
+everyone attending to the apostolic reading would agree to be true. To these
+after other things he adds saying: And I, declaring, would say that the
+thoughts are of the Apostle, but the phrasing, and the composition, of someone
+who remembered the apostolic things, and as it were wrote as scholia the
+things said by the teacher. If therefore any Church has this Epistle as
+Paul's, let it be well thought of also in this, for not in vain have the
+ancient men handed it down as Paul's. But who it was who wrote the Epistle,
+the truth God knows. And the history that has come down to us is of some
+saying that Clement who became bishop of the Romans wrote the Epistle; and of
+some that Luke who wrote the Gospel and the Acts.

@@ -1,0 +1,18 @@
+#+TITLE: Against Severus of Antioch
+#+AUTHOR: Ὀλυμπιόδωρος Διάκονος Ἀλεξανδρείας hermes:grok-4.6
+#+FILETAGS: :byzantine:6c-ad:pg93:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/contra-severum-antiochenum--olympiodorus-of-alexandria
+#+LANGUAGE: en
+
+* Against Severus of Antioch
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+=89.1189= Of Olympiodorus the great philosopher, deacon of Alexandria, from
+the second discourse against Severus, in which, having brought forward the
+citation of Saint Athanasius that speaks of the two wills in Christ, he
+proceeds somewhat as follows, saying:

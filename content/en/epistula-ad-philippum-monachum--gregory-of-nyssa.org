@@ -1,0 +1,19 @@
+#+TITLE: Letter to Philip the Monk
+#+AUTHOR: Γρηγόριος Νύσσης hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg44-46:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/epistula-ad-philippum-monachum--gregory-of-nyssa
+#+LANGUAGE: en
+
+* Letter to Philip the Monk
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of Saint Gregory, bishop of Nyssa, from the letter to Philip the monk.
+Things of the same substance possess identity; things of different substance,
+the reverse. For even if by an ineffable union the two are one, it is not by
+nature, because of the unconfused. Christ therefore, being two natures, but
+truly recognized in them, has a single person of sonship.

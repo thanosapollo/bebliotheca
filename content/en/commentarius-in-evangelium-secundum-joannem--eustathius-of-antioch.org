@@ -1,0 +1,21 @@
+#+TITLE: Commentary on the Gospel according to John
+#+AUTHOR: Εὐστάθιος Ἀντιοχείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg18:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/commentarius-in-evangelium-secundum-joannem--eustathius-of-antioch
+#+LANGUAGE: en
+
+* Commentary on the Gospel according to John
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+DISCOURSE ACCORDING TO JOHN
+Christ subordinates and rather confirms the will of the Father above his own,
+in various places; not because there was in him a will needing to be
+abolished, neither a divine one nor that of his becoming-man (for as he
+accomplished the nature, so also the things of the nature); but speaking to
+Jews who thought him opposed to the Father, he said these things economically,
+saying: I do not seek my own will but the will of the Father who sent me.

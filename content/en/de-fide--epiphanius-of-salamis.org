@@ -1,0 +1,20 @@
+#+TITLE: On the Faith
+#+AUTHOR: Ἐπιφάνιος Σαλαμῖνος hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg41-43:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-fide--epiphanius-of-salamis
+#+LANGUAGE: en
+
+* On the Faith
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+From Epiphanius of Cyprus, from the discourse on the faith.
+And in order to show that he is "mediator of God and men," having both, from
+men the flesh, from the Father the invisible substance, he speaks as God the
+divine and God-befitting things, and as man the same one speaks the human and
+man-befitting things, having in both the authority naturally and essentially,
+unconfusedly and indivisibly, in a divine manner and in a human manner.

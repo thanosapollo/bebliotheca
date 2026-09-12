@@ -1,0 +1,140 @@
+#+TITLE: Dialectics, or Philosophical Chapters
+#+AUTHOR: Ἰωάννης Δαμασκηνός hermes:grok-4.6
+#+FILETAGS: :patristic:8c-ad:pg94-96:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/dialectica-sive-capita-philosophica--john-of-damascus
+#+LANGUAGE: en
+
+* Dialectics, or Philosophical Chapters
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Another chapter.
+Genus is divided into species. The genus is above, and the species are
+below. It is impossible for the genus not to have species beneath it, and
+impossible for the species not to have a genus above them, just as it is
+impossible for a father not to have a son and impossible for a son not to
+have a father. The genus holds the rank of a father, and the species that
+of a son. When the genus is divided into species, the species must receive
+both the name and the complete definition of their genus. But the genus
+does not in every case admit the definition of the species, nor do the
+species admit one another's definition. The common name of all beings is
+being. Being is either a self-subsistent thing that needs nothing else
+for its constitution but has its being in itself, such as a body, or a
+thing that cannot be in itself but has its existence in another, such as
+color. Being is divided into substance and accident. Substance is a
+self-subsistent thing that needs nothing else for its constitution but
+has its being in itself, such as the body. Accident is a thing that
+cannot have its being in itself but has its existence in another, such as
+color. For the body is not in the color, but the color is in the body,
+nor is the body said to be of the color, but the color of the body.
+Substance does not change, but accident changes. For the body does not
+change, but the color changes. Therefore neither substance nor accident
+receives the complete definition of being, but substance receives the
+half and accident the half. For this reason being is not a genus, nor
+are substance and accident species. The most generic genus is the first
+genus, which, being a genus, is not a species, because it has no other
+genus above it.
+The most specific species is the last species, which, being a species, is
+not a genus, because it has no other species beneath it. Those between
+the most generic genus and the most specific species are called subaltern
+genera and species, because they have a genus above them and species
+beneath them. The subaltern genera and species are the constitutive and
+essential and natural differences and qualities. For these constitute
+the most specific species: the most specific species are constituted from
+the genus and from them. Those below receive all of those above them;
+those above do not in every case receive those below them. The Fathers
+called the most specific species substance and nature and form, and those
+divided from the most specific species, that is those beneath it,
+individual and hypostasis and person. The genus is one, and under one
+genus there are two species divided against each other: for example,
+substance is a genus. It is divided into two species, into body and
+incorporeal. These are called species divided against each other. The
+vainly wise of those outside call hypostasis a first, particular
+substance; the most specific species, that is nature, a second, common
+substance; and the most generic genus a third, more universal substance.
+Those who follow them are therefore forced, in the case of the Holy
+Trinity, to speak of four substances, three particular and one common.
+When in the same nature a thing and its contrary are observed, these are
+accidents: for example, in the nature of man, whiteness and blackness,
+grey-eyed and black-eyed, tall and short, sickness and health, and the
+like. But when a thing is observed, and it is impossible for its contrary
+to be observed, this is natural: for example, the rational is observed in
+man, but the irrational cannot be observed in man. The natural is called
+an essential property; the accident is called a non-essential property.
+Natural properties are called constitutive; hypostatic properties, that
+is accidents, are called characterizing properties. According to natural
+properties nature differs from nature and species from species; according
+to accidents a hypostasis differs from a hypostasis of the same species
+and of the same substance. For example, man differs from horse according
+to the rational and the irrational: this is a natural difference. Peter
+differs from Paul, in that the one is bald and the other thick-haired.
+See: baldness and hairiness are accidents. 50. Being (it is not a genus;
+substance is the first and most generic genus) is divided into substance
+and accident, into body and incorporeal, into animate and inanimate, into
+sensitive and insensitive (which is animal, zoophyte, and plant), into
+rational and irrational, into mortal and immortal (which is man), into
+Peter, Paul, John, and the rest of men. Peter and Paul and John and the
+rest of men are called hypostases and persons and individuals. And those
+between substance and man are called subaltern genera and species. And
+these are essential and natural divisions, constitutive and specifying,
+and differences and qualities: dividing of those above and constitutive
+of those below, species of those above and genera of those below, and
+specifying because they constitute the most specific species. Man is a
+most specific species. Substance is a self-subsistent thing that needs
+nothing else for its constitution. Substance is everything that is
+self-hypostatic and does not have its existence in another. The accident
+is in the substance. Substance is so called from being in the proper
+sense; accident is so called from happening, and from sometimes being and
+sometimes not being, and from its being possible in the same thing both
+for the same accident to be and not to be, but rather its contrary.
+Nature is the principle of the motion and rest of each of the beings: for
+example, the earth is moved with respect to sprouting, but is at rest
+with respect to passage from place to place, for it is not moved from
+place to place. Nature, then, is the principle and cause of its motion
+and rest, according to which it is essentially and naturally disposed to
+be moved and to be at rest. Nature is so called from being naturally
+disposed, which signifies substance. For substance is the cause of its
+motion and rest. Nature and substance are therefore the same. And it is
+called nature from being naturally disposed. Form is substance shaped
+by body, by the animate, and by the sensitive, and completing the animal,
+and again taking on the rational and the mortal, it completes the species
+of man, which most specific species is called form, as being shaped
+substance. Substance and nature and form are therefore the same. The
+individuals under the same most specific species are therefore
+consubstantial, of the same nature, of the same species, and of the same
+form. The most specific species, and the individuals under one species
+and another, are called of different substance, of different nature, of
+different species, and of different form. Those under the same genus are
+of the same genus; those under one genus and another are of different
+genera. It is impossible for one composite nature to come to be from two
+natures. The name hypostasis sometimes signifies existence simply, that
+is substance, and sometimes existence in itself and self-constituted,
+that is the individual, such as Peter, Paul. The holy Fathers called
+hypostasis and individual and person the same.
+Hypostasis is that which, from substance and accidents, exists in itself
+in a self-constituted way and differs in number. For Peter and Paul are
+not one but two. And it is called hypostasis from subsisting. "One" as
+a thing is said of the one nature, and "one" as a person of the one
+hypostasis. For example, Peter and Paul are not called one person,
+because they are one hypostasis and another, but they are called one
+thing, because they are of one nature. "Another thing" is said of
+difference of nature, and "another person" of hypostasis. For example,
+we cannot say "Peter is another thing and Paul is another thing," because
+they are one according to nature; but we say "Peter is another person and
+Paul another," because they are not one man but two. The enhypostatic
+sometimes signifies being, and sometimes the individual. Properly, the
+enhypostatic is either the most specific species, because it is not
+observed in itself but in the hypostases, or that which is composed with
+another different in substance toward the coming-to-be of some whole: for
+example, man is from soul and body. Neither the soul is called a
+hypostasis nor the body, but they are enhypostatic, because the one never
+existed before the other nor apart from the other, and that which is
+completed from both is the hypostasis of both. Hence also the flesh of
+the Lord is not called a hypostasis but enhypostatic, because it never
+existed in itself but in the hypostasis of the Word, and it had and has
+that as its hypostasis. And the anhypostatic sometimes signifies the
+non-existent, and sometimes the accident.
