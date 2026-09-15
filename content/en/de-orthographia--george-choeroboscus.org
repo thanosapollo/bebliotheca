@@ -1,0 +1,2030 @@
+#+TITLE: On Orthography
+#+AUTHOR: Γεώργιος Χοιροβοσκός hermes:grok-4.6
+#+FILETAGS: :byzantine:9c-ad:pg86:
+#+MIGNE_TITLE: De orthographia
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-orthographia--george-choeroboscus
+#+LANGUAGE: en
+
+
+* Section 19
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+after which one must toil; and dinner is said of the unmixed. 9Δεῖν9:
+Diphthong; and it means what is due; and it is written through the ει
+diphthong, since from δέον has come δεῖν the infinitive, as πλέον, πλεῖν; for
+instance, δεῖν γενέσθαι, i.e. fitting to come to be. 9Δείρω9: Through the ει
+diphthong; and it has come from the future; for δερῶ is the future, and
+because ο lies opposite to it; for instance, δορά; for those that have ο lying
+opposite have ε lying within; for instance, σπείρω, σπορά; ἀλείφω, ἀλοιφή; and
+all those through ειρω reject the writing through ι alone; for instance,
+οἰκτείρω; κείρω; so also δήρω through the ει diphthong. 9Δειρά9: That which
+means the neck, through the ει diphthong; for the Aeolians say δέῤῥα; as they
+say κείρω κέῤῥω, so also δέῤῥω. 9Δενδρήεισ9: The δρη: η from δένδρα, α having
+been turned into η; and εις is a diphthong, since δενδρήεντος is the genitive;
+for the genitives through εντος are written through the ει diphthong in the
+nominative; for instance, χαρίεντος, for χαρίεις; τιμήεντος, τιμήεις; and
+otherwise because it has the neuter δενδρῆεν, and the like. 9Δεινόσ9: ει; As
+it were the one productive of fear; and as from ἔλεος comes ἐλεεινὸς through
+the ει diphthong, so also from δέος δεινὸς, and by crasis δεινὸς through the
+ει diphthong. 9Αἰνόσ9: One must know that when this δεινὸς turns ε into α, and
+casts off the consonant at the beginning, that is δ, αἰνὸς comes to be, as
+μέχρι ἄχρι, by change of ε into α. 9Δείδια9: Which means the moonless night,
+is written through the ει diphthong in the initial syllable; for it has come
+from δεινὸς; and all those from δεινὸς are written through the ει diphthong;
+for instance, δεινομέλης; δεινολόγος; so also Δεινίας, and Δεινών; and it is a
+proper name; and νι is ι; for those through νια are written through ι.
+9Δεῖμα9: And it means fear; it is written through the ει diphthong; for as
+from ποιήσω comes ποίημα, so also 195 from the future δείσω comes δεῖμα; and
+it is written through the ει diphthong, since the future δείσω also, which
+means I fear, is written through the ει diphthong. 9Δεῖμοσ9: It is written
+through the ει diphthong; for from δέος comes δέϊμος, and by composition of ε
+and ι into the ει diphthong, δεῖμος. 9Δείξω9: Through the ει diphthong; for it
+has come from δείκω, which means I show; and ε has also appeared in the verbal
+form; for Herodotus brought it forward without ι; for he said "ἱστορίης
+ἀπόδεξις ἥδε." 9Δυεῖν9: For δοιοῖν. 9Δείκηλον9: The δει through the ει
+diphthong; and it means both the statue and the image; for as from πέμπω comes
+πεμπώβολος, and it means one of many years; and as from ἄγω comes ἄγελος and
+ἄγγελος, so also from δείκω, which means I show, comes δείκελλον, and by
+stretching ε into η δείκηλον. 9Δειμαλέοσ9: The δει is a diphthong; for as from
+τάρβος comes ταρβαλέος, so also from δεῖμα, which means fear, δειμαλέος
+written through the ει diphthong; and one must know that those through αλεος
+of more than three syllables have the accent on the penult; for instance,
+ἀργαλέος; σμερδαλέος; δειμαλέος; νηφαλέος; except four: δαιδάλεος; κοβάλεος;
+ἀτασθάλεος; αἰθάλαιος; and αἰθάλεος is spelled two ways, for it is from αἴθω;
+as also from νήφω, νηφαλέος. 9Δείλη9: Through the ει diphthong; from ἐνδεῖν
+and falling short in the ἔλλη, as it were in the heat; δέλλη then is light,
+and by crasis of ελ into the ει diphthong has come δείλη; and from this ἡ
+δείλη, τῆς δείλης, adverbially; for instance, "δείλης ἦλθον." 9Δαρεῖοσ9:
+Through the ει diphthong; for those through ειος of three syllables having the
+accent on the penult, and in the initial syllable the α
+
+is short, are written through the ει diphthong, except 196 ἀντίος; for
+instance, Καδμεῖος; Βακχεῖος; ἀνδρεῖος; so also Δαρεῖος. 9Δαρεικόσ9: Through
+the ει diphthong; and it has come from Δαρεῖος, Δαρειακὸς, and by syncope
+Δαρεικός. 9Δευρί9: The adverb is ι; which comes *** 9Δεκελεικόσ9: Through the
+ει diphthong; for it has come from Δεκέλεια. 9Δεκελειακόσ9: And by syncope
+Δεκελεικός. 9Δούρειοσ9: Through the ει diphthong; first because ε has appeared
+in δούρεος; and second because those through ειος that mean a bodily part or a
+material adjective are written through the ει diphthong; and it is also said
+δώρειος. 9Δουράτειοσ9: Through the ει diphthong; for it is from δουράτεος; and
+as a material adjective. 9Δευτέρειον9: Diphthong; from δευτερειάω. 9Δεῖσα9:
+Which means moisture; it is written through the ει diphthong; for from the
+future δεύσω has come δεῦσα, and by change of υ into ι δεῖσα; and παράδεισος
+too through the ει diphthong; for it is from δεῖσα. 9Δηϊάνειρα9: The νει
+through the ει diphthong; for all those through ειρα that are proparoxytone
+are written through the ει diphthong; for instance, σώτειρα; ὀλέτειρα;
+γενέτειρα; εὐπάτειρα; ἔθειρα; δότειρα; so then also Δηϊάνειρα; and just as the
+feminine ειρα never have ι alone in the penult, but either have it with ω; for
+instance, πρῷρα; or with α; for instance, σφαῖρα; or with ο; for instance,
+μοῖρα; or with ε; for instance, στεῖρα; ὀλέτειρα; δότειρα; πεῖρα; σπεῖρα; and
+it means the coil; so then also Δηϊάνειρα. 9Δώδεκα9: Through long ω; as it
+were δυόδεκα, υ and ο having been mixed into long ω. 9Δωρί9: The adverb
+through ι; from δεῦρο by change of ο into ι. 9Διομήδεια9: Ει diphthong; of
+necessity by the possessive account. 197 9Δολομήτισ9: The τις is ι; for it has
+come from δολῶ δολοῖς; and one must know that those of the second and third
+conjugation of the perispomena want to be written through ι; for instance,
+διετία; τριετία; ἑξαετία; ἑπταετία. 9Δεῖπνον9: What is called unmixed is so
+named; and the evening meal is δόρπος. 9Δυσώδησ9: It is written through long
+ω; and all those through ὠδης; for instance, εὐώδης; πετρώδης; δυσώδης; and
+the like. 9Δορύλλειον9: Diphthong ει; and Κοτιάειον; but Γορδίον and Δοκίμιον,
+cities of Phrygia, have ι in the penult. 9Δηλαδή9: Both through η.
+9Δορυφόροσ9: From δόρυ, the tradition. 9Δωροφοροσ9: From δῶρον, the tradition.
+9Δεεῖρα.9 9Δηλητήριον9: From δηλῶ, I harm, δηλητὴς and δηλητήριον. 9Δειλινόν9.
+9Δείλησ9. 9Δίμωρον9. 9Δομίτιοσ9: a proper name. 9Δή9: The expletive
+conjunction is η; and 9Δεῖ9 that means it is fitting is an ει diphthong, δέει
+δεῖ. 9Διώρια9 9Ἑρμίσ9: ι; and it means the foot of the bed; since Hermes wrote
+the dreams there; or from being fastened and entangled in the couch; and again
+because it has two endings it is written through ι; for instance, ἀκτὶς,
+ἀκτίν; so also ἑρμὶς, ἑρμίν. 9Ἐλευσίσ9: And it is the name of a city; it is
+written through ι as having two endings. 9Ἐρυθῖνοσ9: Name of a city, θι
+through ι; for those through ινος having the accent on the penult, not having
+ι from addition, are written through ι, and all are properispomenon; for
+instance, Σαβῖνος; Μαρτῖνος; so then also Ἐρυθῖνος. 198 9Ἐρασῖνοσ9: And it is
+a proper name, through ι; by the account of Ἐρυθῖνος; and it has come from the
+future ἐράσω. 9Ἐχῖνοσ9: Through ι; by the account of those through ινος that
+are properispomenon, and ἐχῖνος means many things; for it means the sea
+urchin, and the land one, the so-called hedgehog, and a kind of pot and
+cauldron, and a city, and a part. 9Ἐχινάσ9: Through ι; for from ἐχῖνος; and it
+is a city. 9Ἐρινύσ9: The ρι through ι; either from accomplishing curses it has
+come ἀρανὺς, and by change of α into ι Ἐρινύς; or from ἔρα has come ἐρανὺς,
+and Ἐρινὺς, as it were the one coming up from the earth; or from ἐρὶ the
+intensive and ἀνύειν has come Ἐρινὺς, as it were the one who greatly
+accomplishes; or from ἐλινύειν, which means to be at rest, has come ἐλινὺς,
+and Ἐρινὺς, as it were the one at rest by antiphrasis, that is the one not at
+rest. 9Ἐξοκεῖλα9
+
+and 9Ἐποκεῖλα9: Through short ο, for from the preposition ἐπί. 9Εἱρκτή9: and
+it means the prison, it is written through the ει diphthong; and likewise also
+Εἱρμός; for these kept the diphthong of εἵργω; and εἱρμὸς is from εἴρω, which
+means I plait. 9Εἷρπον9: Through a diphthong; from ἕρπω. 9Εἷλκον9: Through the
+ει diphthong, from ἕλκω. 9Ἑταιρία9: The ται is a diphthong; the ρι is ι; the
+tradition. 9Ἑταιρεῖοσ9: Diphthong the ρε; by the account of the possessive
+properispomena. 9Ἐπειλημμένοι9: As having taken hold of the preposition, the
+ι; οἱ ἐπειλημμένοι through the ει diphthong; the tradition. 9Ἐμίχθη9: ι.
+9Ἐρινέοσ9: ι; For it is a paronym, because the tree is contentious, and
+sprouts up against rocks and stones. 9Ἐνθαδί9: ι. 9Ἔρισμα9: ι, of the watch.
+9Ἔρεισμα9: Ει diphthong, since also ἐρείδω; for ἐρειρέδαται too was found. 199
+9Ἐξουσία9: it is ι, and from the synaloepha of the unaspirated it is found
+κατ' ἐξουσίαν, and ἐξουσίως, and ἐπεξουσίως. 9Ἐνίοτε9: ι; for either from
+ἐστὶν, and ὅτε, and ἔνιοι. 9Ἐνιπή9: The νι through ι; for it has come from
+ἐνίπτω, which is written through ι; for those from πτω reject the ει
+diphthong; for instance, νίπτω; ῥίπτω; πίπτω; except φιλαλείπτω and ἐρείπτω.
+9Ἔριθοσ9: ι; and it means the workman, and the wife of the one who works wool;
+and the masculine has come from ἔρα, which is the earth, ἔραθος, and by change
+of α into ι ἔριθος; and from ἔριον, ἔριθος; and likewise there is τολόβινθος,
+which means the yolk of the egg. 9Ἔμισα9: The city, as λάρισα; and Ἐμισαῖος,
+as Λαρισαῖος. 9Ἐριθεύσ9: Through ι, it has come from ἔριθος; and it is a kind
+of bird. 9Ἐρινεόσ9: ι; and it means the wild fig; for from ἐρίζω has come
+ἐρινὸς, and by addition of ε ἐρινεός; for the tree is contentious; for it goes
+up even onto a wall, and into every place. 9Ἐχίων9: And it is a proper name;
+through ι; for from ἔχις ἔχιος, which is a kind of snake, has come Ἐχίων, and
+by the account of Ἀμφίων through ι. 9Ἐνιπεύσ9: Through ι; and it is the name
+of a river; for it has come from ἐνιπή, which means threat; for this river too
+is wild, and is like one threatening; and ἐνιπή is through ι, for it has come
+from ἐνίπτω. 9Ἐκεῖνοσ9 and 9Ἐκείνη9: Through the ει diphthong; from a child or
+most seated. 9Ἐξίτηλοσ9: ι; from going out, the blooming; and it is said
+properly of what has been cast off. 9Ἐτεωνεύσ9: A proper name. 9Ἐυηνίνη9: The
+νι through ι; and it means the daughter of Εὔηνος; 200 for those through ινη
+that are of one gender, not becoming proper names from adjectives, are written
+through ι; except πείνη; for instance, Ὠκεανίνη; Ἀδρη-στίνη; ἀξίνη;
+Παλαιστίνη; δίνη. 9Ἐπί9: The preposition is ι; 9Ἐπεὶ9 the conjunction is a
+diphthong. 9Ἐπίσιον9: Both through ι; it means the dry things; ἐπίσιον has
+come; and others are from εἰσιέναι. 9Ἐνδῖοσ9: And it means the noonday time,
+it is written through ι; for from ἴδειν it is ἰδίειν, which is to sweat.
+9Ἐλινύω9: And it means I am at rest, it is written through ι, according to the
+rule stated in the diphthong about Βιθονια. 9Ἐρείπτω9: Through the ει
+diphthong; for it is from ἔρα, which means the earth; and one must know that
+ἐρείπτω means both active and passive; and it means I throw down and I fall.
+9Ἐπαλξίτησ9: And it means the stone that is above the battlement, it is
+written through ι, by the account of Ἀσκαλωνίτης, and because it is a paronym.
+9Εὔριποσ9: Through ι; for from ῥιπίζω; Εὔριπος has come, as it were the one
+opportunely fanned and carried on; or from εὐρύ has come εὔρυπος, and by
+change of υ into ι Εὔριπος; as ἀφροδύτη Ἀφροδίτη; and δύφρος, δίφρος; as it
+were the broad by antiphrasis, that is the one that is not broad; for the
+Euripus is a narrow sea between Euboea; which seven times a day changes its
+own motion in the sea, and is moved all contrary to the motion of the wind;
+and there Aristotle came to his end; for not having found the cause of such
+motion, he lost heart and died. 9Ἐνθαδί9: The adverb through ι; for as from
+δεῦρο comes δευρὶ, by change of ο into ι, so also from ἐνθάδε comes ἐνθαδὶ, by
+change of ε into ι. 9Ἐκεινοσί9: The σι through ι;
+
+* Section 321
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+for it is by extension; and the extensions do not come through the ει
+diphthong, but through 201 ι; so οἱονεὶ and ὡσπερεὶ, being written through the
+ει diphthong, are not by extension, but are different parts of speech; for
+οἱονεὶ is two parts of speech; οἷον, a noun, and εἰ a connective conjunction;
+and ὡσπερεὶ is three parts of speech; for ὡς is an adverb, and περ an
+expletive conjunction, and εἰ a connective conjunction. 9Εὐριπίδησ9: The ρι
+and πι through ι; for from Εὔριπος Εὐριπίδης; and again, those that come from
+those in ος through ιδης are written through ι, apart from Κύθνος, Κυθνείδης;
+and it is a proper name. 9Ἐνδίνων9: And it means the inward entrails, it is
+written through ι; for those through ινος that are proparoxytone are written
+through ι; for instance, ξύλινος; κόφινος; λίθινος; ἀνθρώπινος; so also
+ἔνδινος through ι, and from there ἐνδίνων; unless they are from a simple form
+that has the ει diphthong; for instance, from ξένος comes ξεῖνος, by addition
+of ι, and from there εὔξεινος. 9Ἑλλανικόσ9: The νι through ι; for from Ἕλλην
+Ἑλληνικὸς, and by change of η into α; and otherwise, the possessive ones in
+κος are written through ι. 9Ἐγείρω9: For it has come from the future ἐγερῶ;
+and again the Aeolians say ἐγέῤῥω. 9Ἐθείρω9: Through the ει diphthong; for the
+barytone verbs through ειρω reject the writing through ι alone; for instance,
+ἀγείρω, ἀείρω; ἱμείρω; σπείρω; κείρω; φθείρω; εἵρω; so also ἐθείρω; and θείρω
+means I tend the hair from habit, or growing upon someone from habit. 9Ἔθαιρω9
+and 9Ἑταῖροσ9: The θαι and the ται are a diphthong; for they have come from
+ἐθάρω, and ἐτάρω. 9Ἔθειρα9: And it means the hair, through the ει diphthong;
+for it has come from ἐθείρω, as it were the one growing from habit; and it is
+also led by the rule of the feminines in ρα stated in Δηϊάνειρα. 9Ἐρείκω9: And
+it means I split; through the ει diphthong; for ε has appeared in ἐρέχθω, and
+that too means I split; for the ει diphthong is among some a liquidity. 202
+9Ἐρείκη9: Which is a kind of tree easily split, through the ει diphthong, for
+it has come from ἐρείκω. 9Ἔρειξισ9: And it means the split earth; it is
+written through the ει diphthong, for from ἐρείκω, ἐρείξω, ἔρειξις. 9Ἐρείδω9:
+Through the ει diphthong; for ε has appeared in ἐρηρέδαται, and ὑπερείδομαι
+likewise through the ει diphthong. 9Ἐξώικισαν9: With the ι; and κι is ι.
+9Εἰκή9: Through the ει diphthong; for it has come from εἴκω; and εἰκὴ means at
+random. 9Εἴσω9: Through the ει diphthong; for as from ἐξ comes ἔξω, and from
+πρό πρόσω, so also from εἰς εἴσω. 9Εἶο9: And it means of him, it is written
+through the ει diphthong; for there is ἐμοῦ; σοῦ; οὖ; and these genitives
+themselves come by dialect; ἐμέο; σέο; ἔο; and since the resolved genitives
+never have both vowels long, or again short; but the one long, and the other
+short; for instance, Πριαμείδεω; Πηλείδεω; Ὠκεανοῖο; ποταμοῖο; ι was added
+poetically, and they became ἐμεῖο; σεῖο; εἶο; through the ει diphthong.
+9Εἰδώσ9: Through the ει diphthong; for from the present εἰδῶ has come εἰδὼς
+the participle; for εἰδῶ, I know, is a diphthong. 9Εἴδεται9: Ει diphthong; it
+seems, it appears. 9Εἴδομεν9: I.e. we learned; diphthong. 9Εἰσάμενοσ9: Through
+the ει diphthong; for from the verb εἰδῶ which means I liken, has come εἴσω,
+εἴσα, εἰσάμην, and εἰσάμενος the participle. 9Εὐνεῖδαι9: The νει through the
+ει diphthong; for it has come from Εὔνεος. 9Εὐνείδησ9: As from Νέλεος,
+Νελείδης, and Νελεῖδαι, so also from Εὐνείδης, Εὐνεῖδαι. 9Εἰθισμένοσ9: Ει
+diphthong; from ἐθισμένος. 9Εἶο9: The pronoun is a diphthong; for it was ἔω.
+9Εἴρων9: Diphthong; for from εἴρω which means I speak 203 it has come, as it
+were the one who cheats through words; and εἴρω has been shown to be written
+through the ει diphthong. 9Εἰνοσίφυλλον9: Through the ει diphthong; and it
+means the one that moves the leaves; for from ἔνωσις, which means motion, and
+φύλλον has come ἐνοσίφυλλον, and by addition of ι εἰνοσίφυλλον through the ει
+diphthong. 9Εἴλεον9: Through the ει diphthong; and it means the cook's table;
+
+for from ἔλεος has come ἔλεον, and by addition of ι εἴλεον through a
+diphthong. 9Εἴβω9: Through the ει diphthong; for from λείβω has come by
+casting off λ εἴβω, and from there εἴβη; and there are three verbs in βω
+written through the ει diphthong; for instance, ἀμείβω; στείβω; which is I
+walk about, and λείβω, and εἴβω, by casting off λ. 9Ἔπειξισ9: Through the ει
+diphthong; for from ἐπείγω, ἐπείξω, has come ἔπειξις; and ἐπείγω is written
+through the ει diphthong, since it has οἴγω lying opposite; for the one who
+presses, as wanting to accomplish something, presses; and again, those that
+have ο lying opposite are written through the ει diphthong; for instance,
+ἐπείγω; οἴγω; as λείπω, λέλοιπα; and κτείνω, κτόνος. 9Ἐγχείμαργοσ9: Through
+the ει diphthong; for it has come from the dative ἔγχει. 9Ἐνόεισ9: Through the
+ει diphthong; for it is an imperfect verb; and one must know that the
+imperfects in the second and third person are written through the ει
+diphthong; ἐνόεις, ἐνόει; ἐποίεις, ἐποίει; ἐκάλεις, ἐκάλει. 9Εἱμένοσ9: And it
+means clothed, it is written through the ει diphthong; for the Aeolians say
+εἱμένοι and ἀφιεμένοι; as κείρω, κέῤῥω; φθείρω, φθέρω. 9Εἰαμενή9: And it means
+the very wet place, through the ει diphthong; for from ἐρειαμένη, and by
+casting off εἰαμένη. 9Ἐργαλεῖον9: Ει diphthong; and it is properispomenon
+according to tradition. 9Εἰρωνεῖα9: Through the ει diphthong, both in the
+initial 204 syllable, and in the penult; the initial, because it has come from
+εἴρων εἴρωνος, which is written through the ει diphthong, as has been shown;
+and in the penult, because from εἰρωνεύω it is εἰρωνεῖα; as μοιχεύω, μοιχεῖα.
+9Εἰλικρινήσ9: And it means the pure, through the ει diphthong in the initial
+syllable; for from κρίνω and ἔλη, which means heat, has come εἰλικρινὴς, as it
+were the one judged in the heat; and by addition of ι has come εἰλικρινὴς
+through the ει diphthong; and λι has come thus; it was εἰλοκρινὴς, and by
+change of ο into ι has come εἰλικρινής; and κρι from κρίνω. 9Ἐπηρεια9:
+Diphthong, for Ἐπηρεάζω, and ἐπιρεασμός. 9Εἴκοσι9: Through the ει diphthong
+according to tradition; and as from εἷς has come ἔεις by addition of ε, and it
+keeps the ει diphthong, so also εἴκοσι comes by addition ἐείκοσι; and it keeps
+the ει diphthong; and one may say thus, every number within a thousand wants
+to have a letter, whether vowel or consonant, from those within the decad; for
+ἓν has ε; which is from those within the decad; and again δύο has δ from those
+within the decad; again πεντήκοντα has ε, and η, and α; which are from those
+within the decad; and ὀκτὼ seems to stand against it; for it does not have a
+letter from those within the decad; but they have in force letters from those
+within the decad; for the philosophers say that from ἄγω it is two; and ἄγω
+has two letters from those within the decad, I mean α, γ, and δ; for ὀκτὼ is
+said from leading two; for it leads two tetrads; and by such a rule τρεῖς too
+is written through the ει diphthong in order that it may have a letter from
+those within the decad; for it has ε; and if it were written through ι alone,
+it would not have a letter from those within the decad, but in composition;
+for instance, in τρισκαίδεκα; since it is found having a letter from those
+within the decad, for it has α of the conjunction καί, and δ, and ι of δέκα;
+for this reason it casts off ε that came to τρεῖς for the sake of the letter
+found from those within the decad; so that also in εἴκοσι 205 a letter from
+those within the decad might be found, for this reason it is written through
+the ει diphthong; for it has ε, which is from those within the decad; and if
+it were written through ι, it would not have a letter from those within the
+decad; indeed the Dorians, writing it through ι, turn ο in the penult into α,
+saying εἴκασι; in order that it may be found having a letter from those within
+the decad. 9Εἰλίσσω9: The ει is a diphthong; the λι is ι; as from the future
+ἐλίξω comes εἰλίσσω; the λι is ι; since the ει diphthong is never found before
+the two σσ, except κρείσσων, and the verb that has come from it
+
+κρεισσῶ. 9Εἰνάτηρ9: And it means the bride, through the ει diphthong; from
+εὐνή has come εὐνατηρ, and by change of υ into ι εἰνάτηρ. 9Εἴργω9: Diphthong;
+for from ἐέργω it comes by crasis of the two εε into the ει diphthong; and
+otherwise; because that in ἔργαθεν has appeared; or because ο lies opposite;
+for instance, ὀργή; for anger bars someone from wishing well; and those that
+have ο lying opposite have ε lying within; κτείνω, κτόνος; εἵρω, εἱρμὸς, so
+also εἴργω, ὀργή. 9Εἰκών9: Ει diphthong; for from εἴκω, I liken, has come
+εἰκών; for ο lies opposite in ἔοικα; for those that have ο lying opposite have
+ε lying within; for instance, κείρω, κουρεύς; ἀγείρω, ἀγορά; so also εἴκω,
+οἶκος; and Ἰκόνιον the city, this too being from εἰκών, is written through ι;
+and Ἰκόνιον has come from this cause; they say a lawless woman dwelt in the
+place, who ordered those who came as guests to lie with her, and after the
+union she killed them, so that her wantonness might not be known; and Perseus
+the son of Danae, coming to the places, and about to suffer the same, having
+shown the face of the Gorgon, she was turned to stone; and they say this image
+remained of stone for a long time; from which cause 206 those who dwelt in the
+city also named it Ἰκόνιον; and it is written through ι, since the initial
+syllable was found shortened in Menander. 9Εἴκω9: And it means I give way, it
+is written through the ει diphthong; for οἶκος lies opposite to it; as it
+were, into which we all withdraw; for those that have ο lying within have ε
+lying opposite; and the first aorist too was found in resolution; for
+instance, ἔερξε. 9Ἐκεῖνοσ9: Ει diphthong; for the Dorians make κῆνος, and
+τῆνος, the writing through η; for they have the custom of turning the ει
+diphthong; for instance, πλείων; μείων, μήων; and the primitive pronouns, the
+ones of one person, want to begin from a vowel; for instance, αὐτὸς, οὗτος; so
+then ἐκεῖνος too took on ε because of this rule. 9Εὐρώπεια9: Through the ει
+diphthong, by the account of those through εια that are proparoxytone; and
+Εὐρώπεια is a proper name; for the feminines through εια, upon the same
+meaning, are written through the ει diphthong; for instance, Καλλιώπεια;
+Πληστοδόκεια; so also Εὐρώπη, Εὐρώπεια, through the ει diphthong. 9Ἔμεια9:
+Through the ει diphthong, by the account of those through εια that are
+proparoxytone; and otherwise; as from ἐνεργῶ, ἐνέργεια, and ἀνθῶ, Ἄνθεια; so
+also from ἐμῶ, Ἔμεια, through the ει diphthong; and it is a place near
+Mycenae; and it is called Ἔμεια, since there Cerberus vomited when he came up
+from Hades; or since Thyestes, having eaten his children, vomited there.
+9Ἑξείδιον9: And it means the habit, the ξει through the ει diphthong; and it
+has come from ἕξις, ἑξείδιον, as from λέξις, λεξείδιον; and ὄφεως, ὄφειον,
+from the Attic genitive; that of ἕξιος, and λέξιος, and ὄφιος; all through ι.
+9Ἐγχειρίδιον9: And it means both a small book, and a sword; and it has come
+from the dative ἔγχει; and one must know that the words composed from datives
+207 of the neuters in ος come in this way in part; for if a vowel is brought
+on, or one simple consonant, the αι diphthong is kept; for instance,
+ὀρείαυλος; ὀρείχαλκος; Ὀρειγενής; Ὠρειθυῖα; by stretching ο into ω;
+ἐγχείμαργος; and it means oregano, for this cast off the ο of the dative ὄρει,
+and stretched ι; and if two consonants are brought on, or one double, it casts
+off ε; for instance, ὀρίτροφος; ὀρίδρομος; ὀριβρεμέτης; ὑψιβρεμέτης; ὑψίζυγος.
+9Ἐρέχθειον9: That of Ἐρεχθεύς, diphthong. 9Εἶδαρ9: And it means food; through
+the ει diphthong; from ἔδω, which means I eat, has come ἔδαρ, and by addition
+of ι εἶδαρ, through the ει diphthong. 9Ἐπικήδειον9: Ει diphthong the δει; for
+it is possessive from κῆδος. 9Εἶδοσ9: Ει; since οἶδα lies opposite to it; and
+it has been said before about ο lying opposite; so also εἴδω, which means I
+know; comes οἶδα, and from it εἰδῶ, εἶδος; and it means the form and the
+shape; and that which is divided from a genus; for instance, man; horse;
+olive. 9Εἰδικόν9: When it means the species;
+
+for instance, genus; species, generic, specific, through the ει diphthong; and
+when one's own house, it is written through ι. 9Εἶαρ9: Through the ει
+diphthong; for from ἔω which means I send forth, has come ἔαρ; for then the
+fruits are sent forth, and by addition of ι, εἶαρ. 9Εἶθαρ9: Which means
+immediately; it is an adverb through the ει diphthong; for from εὐθὴς has come
+εὔθαρ, and by change of υ into ι, εἶθαρ. 9Ἐνομότεια9: Ει; ἐνωμότεια ranks,
+diphthong; the tradition. 9Εἰρία9: Diphthong; for from ἐρίου has come εἰρία,
+by metaplasm. 9Εὐδεινόσ9: Ει; as ποθεινός; for εὐδεινότερος of the
+comparative. 208 9Εὐδί9: ι; the tradition. 9Εἰροπόκοσ9: Through the ει
+diphthong; for from ἔριον and πέκω, which means I card, has come ἐροπόκος, and
+by addition of ι εἰροπόκος, through the ει diphthong. 9Εὐρεῖα9: Through the ει
+diphthong; for it is found also without ι, εὐρέα; and otherwise; the feminines
+formed from the masculines in υς through εια are written through the ει
+diphthong; for instance, βραδὺς, βραδεῖα; so also ἡδὺς, ἡδεῖα, and εὐρὺς,
+εὐρεῖα. 9Εἰλαπίνη9: And it means the feast, the first through the ει
+diphthong, for the Aeolians say ἐλαπίναν. 9Εἷσ9: The noun through the ει
+diphthong; for those in εις, having a neuter in εν, are written through the ει
+diphthong; for instance, χαρίεις, χαρίεν; ἀστερόεις, ἀστερόεν; so then also
+εἷς, ἕν. 9Εἴσ9: The participle is a diphthong; because the genitive is brought
+out through εντος. 9Εἶλαρ9: And it means the guard; it is written through the
+ει diphthong, for from εἰλῶ it is I shut in; and εἰλῶ is from ἕλος; for ἕλος
+is said of the place shut in by trees, and by addition of ι εἴλω, and from it
+εἶλαρ through the ει diphthong. 9Εἰρεσία9: And it means rowing, through the ει
+diphthong; for from ἐρέτης has come ἐρεσία, and by addition of ι εἰρεσία.
+9Εἵλωτεσ9: Through the ει diphthong; for from Ἕλως, Ἕλωτος, has come Ἕλωτες;
+and by addition of ι Εἵλωτες; and Helots are those who dwell in the Messenian
+land. 9Ἐλεινόσ9: And it means the pitiable; through the ει diphthong; for as
+from δέος δεεινὸς, and by crasis of ε and the ει diphthong into the ει
+diphthong, δεινός; so also from ἔλεος comes ἐλεεινὸς, and by crasis ἐλεινός.
+9Ἑκτόρειοσ9: Through the ει diphthong; for it is found also without ι,
+Ἑκτόρεον δὲ χιτῶνα. 209 9Εἰλειθυῖα9: Through the ει diphthong, both the first
+and the second syllable; for from ἐλεύθω, which means I arrive, has come
+ἐλευθυῖα, and by addition of ι Εἰλευθυῖα, and by change of υ into ι Εἰλειθυῖα.
+9Ἐπιείκεια9: Through the ει diphthong, both in the first and in the penult;
+for it is from εἴκω, which means I give way; for the reasonable man readily
+gives way; which is written through the ει diphthong, and likewise the penult
+by the account of those through εια that are proparoxytone. 9Ἐπιτήδειοσ9: From
+ἐπιτηδὴς, ἐπιτηδέους, and from it ἐπιτήδειος. 9Εἷμα9: And it means the garment
+through the ει diphthong; for the Aeolians say ἕμμα, casting off ι, and
+doubling the consonant; as κείρω, κέῤῥω, and φθείρω, φθέῤῥω; but that ἱμάτιον
+is written through ι is clear, if indeed by composition it becomes θοιμάτιον;
+for if it were written through the ει diphthong it would have become
+θουμάτιον; for ο and ε are mixed into the ου diphthong; for instance, τὸ ἐμὸν,
+τοὐμόν. 9Εἰρήνη9: Diphthong in the initial syllable; for as from λάμπω comes
+λαμπήνη, so also from εἴρω, which means I speak, comes εἰρήνη; which is
+written through a diphthong. 9Εἴλεοσ9 and 9ὀειλύοσ9 the so-called6***.
+9Εἴκελοσ9: Through the ει diphthong; for as from ἄγω has come ἄγελος and
+ἄγγελος, so also from εἴκω, which means I liken, which is written through a
+diphthong, has come εἴκελος. 9Εἴρω9: And it means I plait, through the ει
+diphthong; for ε has appeared in ἕρμα; and ἕρμα is the obstacle; and again,
+because ὅρμος lies opposite to it; and it means the ornament about the neck,
+from stringing and plaiting the ships; and again because ο lies opposite to
+it; for instance, εἴρω, ὅρμος; and otherwise because the Aeolians say οἴρατο;
+and there is εἴρω, 210 ἐρῶ, εἶρα, ἔῤῥον
+
+the imperative; for they have the custom of turning ε; for instance, ὄνειρος,
+ὄνοιρος. 9Εἴρω9: And it means I speak, through the ει diphthong; for ε has
+appeared in the future ἐρῶ; and again, because the barytones through εἴρω
+reject the writing through ι alone. 9Εὔειλοσ9: And it means the well-aired
+place; from εἴλη, which is heat, has come εὔειλος. 9Εἰκάζω9: The ει is a
+diphthong; from εἴκω which means I liken. 9Ἐπίχειρα9: The χει is a diphthong;
+for from χείρ. 9Ἐπειόσ9: Diphthong; for the proper names through ειος that are
+oxytone of three syllables are written through the ει diphthong; for instance,
+Πηνειός; Ἀρνειός; Ἀλφειός; Σπερχειός; Ὀλμειός; Δεινειός; so also Ἐπειὸς
+through the ει diphthong. 9Ἑρμείασ9: Through the ει diphthong; for from Ἑρμέας
+it has come by addition of ι. 9Ἐρσήεισ9: Through the ει diphthong; for ε has
+appeared in the genitive ἐρσήεντος. 9Ἐρατεινόσ9: Through the ει diphthong; for
+the Dorians say ἐρατεννὸς, as ποθεινὸς, ποθεννός; and by the rule of the
+oxytone paronyms in νος. 9Εἴασκεν9: Through the ει diphthong; for there is ἐῶ,
+ἐᾶς; εἴων, εἴας, εἴα; for such forms stretch the inflectional lengthening at
+the beginning; for instance, ἔτυπτον, ἔτυπτες, ἔτυπτε; from this ἐᾶς then
+comes εἴασκε through the ει diphthong by addition of ι. 9Εἴωθα9: Through the
+ει diphthong; for ε has appeared in ἔθος and in εὔωθα; for the Aeolians say
+εὔωθα for εἴωθα; and εἴωθα has come in this way; there is a verb which means I
+accomplish something from habit, from which also ἔθνος; the middle perfect of
+this is εἶθα, and by addition of ω εἴωθα and εἴωθε. 9Εἰμί9: I exist, the first
+is a diphthong, and the second is ι; for the Aeolians say ἐμμὶ, as κείρω,
+κέῤῥω; and εἰμὶ has come thus; there is ἐῶ which means I exist; this 211
+turning ω into μι becomes ἐμί; and since those in μι have a naturally long
+penult; for instance, ἵστημι; τίθημι; δίδωμι; apart from ἐσμὶ, for it has a
+long penult by position; and again this too is forced to have a naturally long
+penult; either turning ε into η, or taking on ι; for ε in the verbs is
+magnified in two ways; either by addition of ι; for instance, ἔχω, εἶχον;
+ἕλκω, εἷλκον; or by being turned into η; for instance, ἐλαύνω, ἤλαυνον;
+ἐλέγχω, ἤλεγχον; and it ought rather to have turned ε into η, rather than take
+on ι; for those in μι do not want to have a diphthong in the penult; for
+instance, τίθημι; δίδωμι; apart from εἶμι which means I go; but since if it
+turned ε into η, it would not keep some remnant of the primitive; for
+instance, λέγω, λόγος; νέμω, νόμος; διδῶ δίδωμι; for this reason it took on ι,
+and became εἰμὶ through the ει diphthong, in order that it might keep
+something of the sound of the primitive; and why again did it not turn ε into
+η? in order that it might not fall together with ἠμὶ which means I speak;
+which has come from φημὶ ἠμί. 9Εἰμί9: I exist; Εἶμι I go; Ἠμὶ I speak, which
+has come from φημὶ by casting off φ. 9Εἶσ9: You exist; through the ει
+diphthong; for from εἰμὶ it has come by change of μι into σ. 9Εἰσί9: The first
+through the ει diphthong; for ε has appeared ἔασι. 9Εἶμι9: And it means I go;
+the first through the ει diphthong; for from εἴω it has come by change of ω
+into μι; and εἴω means I go, and ἰμὶ, that through ι, has come from ἴημι by
+syncope of η. 9Ἐπικλώσειαν9: The σει is a diphthong as optative; and κλω is
+long, from κλῶ, κλᾶς, κλᾶ. 9Εὔρειος Ποταμόσ9: Through the ει diphthong; for
+εὐρεὴς and εὐρέες. 9Εἰραφιώτησ9: Through the ει diphthong; for from ἐῤῥάφθαι
+has come ἐῤῥαφιώτης and εἰραφιώτης, ι having come on, and ρ having been cast
+off; and Dionysus is called Εἰραφιώτης. 212 because he was sewn in the thigh
+of Zeus; or from ἐρέφεσθαι, which means to be crowned, has come ἐραφιώτης, and
+by addition of ι Εἰραφιώτης; or from ἔριφος has come ἐραφιώτης, and by
+addition of ι Εἰραφιώτης; for they say Dionysus was also reared by kids.
+9Ἐμίχθη9: μι is ι according to tradition; for μέμιχα is the middle perfect,
+and if it were written through the ει diphthong it would have been μέμοιχα;
+for if ε is found in a disyllabic future, either alone, or with ι, it is
+turned into ο;
+
+for instance, πείθω, πείσω, πέποιθα; λείβω, λείψω, λέλοιφα; if then μίγω,
+μίξω, were written through the ει diphthong, the perfect would have been
+μέμοιχα; but in fact it is μέμιγα; and it is clear that μίγω and μίξω are
+through ι, and ἐμίχθη likewise. 9Ἐρεείνω9: Through the ει diphthong; for those
+through εινω of more than two syllables, not composed from a simple form
+written through ι, are written through the ει diphthong; for instance, φαείνω;
+ἀλεείνω; ἐρεείνω; except ὀρίνω; ὀδίνω; and of more than two syllables, because
+of κρίνω; κλίνω; and from simple forms written through ι, because of κρίνω and
+συγκρίνω. 9Ἐπαυτοφόρωι9: Both short; ρω long; the tradition. 9Εἴλη9: And it
+means heat, through the ει diphthong; for from ἔλη it has come by addition of
+ι. 9Εἰλῶ9: Through the ει diphthong; for ε has appeared in ἐλίσσω and
+ἐλλεδανός; and it means the bond. 9Εἶ9: Diphthong; for the Dorians say αἶ; and
+they have the custom of turning ε into α; for instance, τρέχω, τράχω; Ἄρτεμις,
+Ἄρταμις; so then also εἶ, αἶ. 9Ἐπεί9: Through the ει diphthong; for it has
+come from ει and the preposition ἐπί; one must know that ἐπεὶ when it is a
+temporal adverb; for instance, πλάγχθη ἐπεὶ Τροίης ἱερὸν πτολίεθρον, i.e. from
+the time when; and again, αὐτὰρ ἐπεὶ κόσμηθεν, 213 i.e. whenever; and when it
+is taken as causal, it is a conjunction; for instance, "ἐπεὶ ἡμέρα ἐστὶν, φῶς
+ἐστίν." 9Εἶθε9: Through the ει diphthong; for from ἔθε has come εἶθε; and
+again when the Dorians say αἶθε, and they have the custom, as has been said,
+of turning ε into α; so εἶθε, αἶθε. 9Εἶτα9: Through the ει diphthong; for as
+from δὴ comes δῆτα, so also from εἰ comes εἶτα. 9Ἔπειτα9: Through the ει
+diphthong; for from εἶτα and the preposition ἐπί comes ἔπειτα. 9Εἰκόσ9:
+Through the ει diphthong; for it has come from εἴκω, which means I liken.
+9Ἐξωκήθη9: I.e. ὠκήθη, the ω is long; for it is past. 9Εἶα9: And it is an
+exhortative adverb, and it is written through the ει diphthong; for as from
+ῥέα comes ῥεῖα, through the ει diphthong by addition of ι; so also from ἔω,
+which means I send forth, comes ἔα, and εἶα, by addition of ι. 9Ἐννέα9: Two
+νν; for from ἓν and νέα has come ἐννέα. 9Ἑκκαίδεκα9: The compound number is κ
+and not ξ; for the preposition was turned because of the following consonant.
+9Ἑβδομήκοντα9: The μη is η; and ἑξήκοντα likewise; for the numerals through
+κοντα want to have a vowel before κ; so from ἓξ has come ἑξάκις, and from
+ἑξάκις ἑξήκοντα; by Doric change of α into η; ἑβδομήκοντα through η; and
+ὀγδοήκοντα, from ἕβδομος and ὄγδοος it ought to have been ἑβδομόκοντα and
+ὀγδόοκοντα through ο; but since the numerals through κοντα do not want to have
+either ο or ε in the antepenult, of necessity we turned ο into η, and it
+became ἑβδομήκοντα and ὀγδοήκοντα; and ἐνενήκοντα likewise has come from ἐννέα
+ἐννεάκοντα, and by transposition ἐνενάκοντα; and since πεντήκοντα too and the
+rest have η in the penult; for instance, ἑξήκοντα, 214 and ἑβδομήκοντα, and
+ὀγδοήκοντα; for this reason, those having turned α into η, this too turned it,
+and it became ἐνενήκοντα. 9Ἐρυσίβη9: It is written through ι; and ἐρυσίβη is
+said of the frost that comes in bad air, and destroys the fruits. 9Ἔγγειοσ9:
+Through the ει diphthong; for those that are from γέα are written through the
+ει diphthong; for instance, ἀνώγειος; βαθύγειος; εὔγειος; μεσόγειος;
+κατώγειος; ὑπέργειος; so also ἔγγειος through the ει diphthong. 9Ἐρωιδιόσ9:
+The ρω long with the ι; and δι is ι; the tradition; and the etymologies are
+spelled two ways. 9Εῶιοσ9: Through ω, for it is possessive. 9Ἐσθίω9: I eat, ε
+unaspirated; from ἔδω, which means the same, from which also ἐδωδή. 9Ἐσθήσ9:
+The garment, and Ἔσθημα the same through ε; for from ἔω, which means I put on.
+9Αἴσθησισ9 and 9Αἰσθητήριον9: Αἰσθητὸς and Αἰσθάνομαι, and all such, through
+the αι diphthong; from αἴω, which means I blow, for distinction from I put on.
+9Ἑστία9 and 9Ἑστιάτωρ9: Through unaspirated ε. 9Ἤτις Ἀρετὴ9 and 9Εἴτις
+Ἔπαινοσ9: The first is an article; and the second i.e. if. 9Εἰδῶν· Εἰδοῖς·
+Ἐπαΐειν·
+
+Ἐλιγήσεται9. 9Ἔρις, Ἔριδος· Ἐρίφια· Εἰκασμός· Ἐργαλεῖον9 9Ἐλεγεῖον· Εὐκταῖος·
+Ἐξάπινα9. 9Εἰκαῖοσ9: And it means the vain, and εἰκή. 9Ἑρμῆσ9: The word, as
+from which also 9Ἑρμηνεῖα9. 9Εἴκω9: I liken; from which εἰκών; 9Εἴκω9 I am
+fitting; from which εἰκότως; 9Εἴκω9 I give way, from which οἶκος. 9Ἤκω9: I
+come, from which ἤκω I bring; 9Ἴκω9 I arrive. 9Εἴδω9: I see, from which is
+"εἶδον οἱ ὀφθαλμοί μου." 9Εἴδω9: I know, from which οἶδα; 9Εἰδῶ9 perispomenon,
+I know, from which "πάντες εἰδήσουσίν με ἀπὸ μικροῦ ἕως μεγάλου." 215 9Εἴδω9:
+I liken; from which εἰδόμενος; 9Ἴδω9 I know, from which ἴσω; 9Ἤδω9 I am
+gladdened, from which ἧδαρ and ἧδον. 9Ἐπιτηδήσ9: There is ἔτης, which means
+the familiar; for instance, κασιγνήτους τε ἔτας τε, from ἔθος having come
+ἐτητὴς in derivation, and ἐτηδὴς, and in composition ἐπιετηδὴς, and by casting
+off ε ἐπιτηδὴς, and ἐπιτήδειος from it; or from the verb ἥδω, which means I
+delight and gladden, ἡδὴς, and with the preposition ἐπί ἐπιηδὴς, and by
+addition of τ ἐπιτηδὴς, and ἐπιτήδειος from it. 9Ζευγίσιον9: It is written
+through ι; by the character of those through ισιον written through ε; for
+instance, χαρίσιον; προβαλίσιον; Ἀρτεμίσιον; so also ζευγίσιον; about those in
+εσσιν we learned in those of Ἀρτεμίσιον. 9Ζεῖρα9: And it means the girdle, and
+tunic, and cloak; it is written through the ει diphthong; from δεῖν, which is
+to bind, it has come, and by transposition of δ into ζ ζεῖρα. 9Ζειά9:
+Diphthong; and it is a kind of barley, or barley itself; and it is from ζέειν;
+and by addition of ι ζειὰ, that is the cause of our boiling, that is of
+living. 9Ζείδωροσ9: Through the ει diphthong; either from ζεῖ has come
+ζειόδωρος, and by syncope of ο ζείδωρος; or from ζῆν has come ζήδωρος, as it
+were the one that grants what is for living; η having been transposed into the
+ει diphthong in Boeotian fashion; or from ζέειν ζεέδωρος, by crasis of the two
+εε into the ει diphthong; ζείδωρος. 9Ζώνιον9: ι; for it is a diminutive; this
+is rather applied to women. 9Ζήτρειον9: Through the ει diphthong; and it means
+the prison of slaves, the mill-house, or the mill; for there the slaves were
+bound; for from δεῖν, to bind, and τρεῖν, which is to fear, has come ζήτρειον;
+δ having been transposed into zeta, and the ει diphthong into η; as πλείων,
+πλήων; μείων, μήων; or from ζα the intensive particle, from which ζαπλοῦτε,
+and τρεῖν, truly to fear, has come ζάτρειον, and ζήτρειον. 216 9Ζύγιον9: ι;
+for it is the diminutive of ζυγόν. 9Ζωάγρια9: The tradition. 9Ζῶισον9: ζω long
+with the ι; ο short, for it has come from the verb ζῶ. 9Ζώιδιον9: The δι is ι;
+for it is a diminutive. 9Ζεύγνυσι9 and 9Ζευγνῦσι9: And the singular is
+proparoxytone, and the plural is properispomenon; so also ῥήγυσι and ῥηγῦσι.
+9Ἡρωΐνη9: The ρω is long; the ινη through ι; for those through ινη reject the
+ει diphthong; for instance, Ἀρίνη; Παλαιστίνη; Ἀδριστίνη; Ὠκεανίνη; Αἰητίνη;
+so also ἡρωΐνη. 9Ἡμῖν9: Through ι; for the Aeolians say ἄμμι barytone and
+shortening ι; the Ionians say ἦμιν properispomenon; and the Dorians say ἀμῖν;
+so ἡμῖν too is perispomenon through long ι. 9Ἡμετέρειοσ9: And it is
+possessive, and it means that of ours, through the ει diphthong; for as from
+Ἀρίσταρχος comes Ἀριστάρχειος through the ει diphthong, so also from ἡμέτερος,
+ἡμετέρειος; and there is a rule saying: those through ρειος from those in ρος
+that have τ of the preceding syllable have ει written through the ει
+diphthong; for instance, ἀβέλτερος, ἀβελτέρειος; ἕτερος, ἑτέρειος; so also
+ἡμέτερος, ἡμετέρειος through the ει diphthong; for it has also ε in the first
+syllable. 9Ἠτίσ9: Name of a city, τις through ι; 9Ἠτεῖοσ9; and it means the
+citizen. 9Ἡρακλειώτησ9: The κλει is a diphthong, for Ἡρακλεῖα; so the
+tradition. 9Ἠθεῖοσ9:
+
+Through the ει diphthong; for from θεὸς has come θέϊος, and by contraction of
+ε and ι into the ει diphthong θεῖος, and by addition of η ἠδεῖος; as βαιὸν,
+ἠβαιόν; and it has come again from ἔθος, ἐθεῖος, and ἠθεῖος; or from ἦθος has
+come ἠθεῖος; and it means a kindly address from a younger to an older. 217
+9Ἠχήεισ9: For ἠχήεντος is the genitive, and ἠχῆεν the neuter. 9Ἡρακλείη9:
+Diphthong in the penult; for from Ἡρακλῆς comes Ἡρακλεῖος possessive through
+the ει diphthong; and then the feminine Ἡρακλεῖα through the ει diphthong; for
+instance, Ἡρακλεῖα χείρ; and from this comes Ἡρακλείης, by transposition of α
+into η. 9Ἥπεροσ9: And ἤπειρος is said of the land; and η is written from the
+privative α, for ἄπερος is said by etymology; and πει is a diphthong, because
+it has ε from the primitive sound; for it has no πέρας, being some ἄπερος and
+ἤπειρος; the Dorians say they turn the ει diphthong into η, as πλείων, πλήων;
+and it is from the privative particle α and πέρας. 9Ἡμεῖσ9: Diphthong; for the
+Dorians say ἄμες, and the Aeolians ἄμμες. 9Ἧξασ9: The one called and having
+heard, η. 9Ἠνία9: That of the reins is written through η in the initial
+syllable, for from ἀνύειν has come ἀνίον and ἠνίον; for through the reins of
+the horsemen we accomplish. 9Ἡμίσεια9: From ἥμισυς and the neuter is clear,
+for ἡμίσεα and θήλεα. 9Ἥφαιστος· Ἡμισσαῖος· Ἡράκλειοσ9: ει; for from κλέος.
+9Ἤιομεν ὡς ἐκελεύσασ9: From εἴω, I go, by change of ε into η, and it also has
+ι written beside it. 9Θίσ9: Through ι; and it means the shore and the heap;
+and it is written through ια as having two endings. 9Θέτισ9: From Θέτις,
+Θέτιδος, and Θέτιος, by casting off δ, and Θέτιδι and Θέτιι, and by crasis of
+the two ιι into one long ι, Θέτι. 9Θερσίτησ9: ι as a paronym; and it is from
+θέρω, which means I heat, a verbal noun; for he was hot and rash; or from
+Aeolian Θέρσος has come Θερσίτης. 9Θρίαι9: And it means the prophetic pebbles;
+and it is written 218 through ι from τρισσόν; and τρισσὸν is written through
+ι, since a diphthong is never found before the two σσ; for instance, ἐλίσσω;
+μελίσσω; κισσός; apart from κρείσσων, and the verb κρεισσῶ. 9Θρίναξ9: And it
+means a three-pronged working tool, and it is written through ι; for from τρι
+has come τρίναξ, and θρίναξ, by transposition of the unaspirated into the
+aspirated; and again those in αξ are written through ι; for those in αξ reject
+the ει diphthong in the penult; for instance, Φαίαξ; κλίμαξ; κόραξ; θρίδαξ;
+except μείραξ, and λείμαξ, and it means the meadow; and λείαξ said in common
+use. 9Θρινακρία9: Through ι; and it means Sicily; so as from Φρυγὸς comes
+Φρυγία, and from Φαίακος, Φαιακία, so also from θρίναξ, θρίνακος, Θρινακία,
+the tradition; being composed of three headlands it is called θρινακία, as it
+were some τρινακρία; for Sicily has three promontories; and they are these,
+Lilybaeum; Pachynum; Pelorum. 9Θρίψ9: And it means a kind of worm, it is
+written through ε; for those ending in ψ reject every diphthong; Λίψ; αἰγιλίψ;
+Κίνυψ; Κύκλωψ; Πέλωψ; so also θρὶψ through ι. 9Θριδακίνη9: The penult through
+ι, by the account of those through ινη; and it means the vegetable, which in
+common use is called θοδράκιον; and it also means a barley-cake. 9Θρία9: And
+it means the leaves of the fig, it is written through ι; for it has come from
+τρι, by transposition of τ into θ; for the leaf of the fig is in three parts.
+9Θλίβω9: ι; for the verbs ending in βω do not want to have the ει diphthong in
+the penult; except στείβω; ἀμείβω; εἴβω, that which comes from λείβω; and
+there are examples: στίλβω; βίβω; τρίβω; φέρβω; σέβω; βαβῶ and it means I
+sleep; and otherwise β in all cases does not want to have the ει diphthong
+preceding; for instance, λίβανον; λίβας; κιβωτὸς, and the like; and if
+somewhere β is found having the ει diphthong preceding, know 219 that it is in
+a verb
+
+that has ο lying opposite through the οι diphthong; for instance, ἀμείβω;
+ἀμοιβή; λοιβή; στοιβή. 9Θειλόπεδον9: And it means the place where the grapes
+are dried; the θει through the ει diphthong; for from ἔλη, which means heat,
+has come εἴλη through the ει diphthong by addition of ι; and again from εἴλη
+and πέδον, which means the low, has come εἰλόπεδον, and by addition of θ
+θειλόπεδον. 9Θεῖοσ9: From θεὸς, θέϊος, and θεῖος by contraction. 9Θεισεῖον9:
+Through the ει diphthong; for those derived from those in ευς through ειον are
+written through the ει diphthong; κουρεύς, κουρεῖον; βαφεύς, βαφεῖον; κναφεύς,
+κναφεῖον; so also Θησεύς, Θησεῖον; as of one gender, and properispomenon, and
+as neuter; of one gender is added because of βασιλεύς, βασίλειον; for this is
+not properispomenon, not of one gender, but of three genders; βασίλειος οἶκος;
+βασιλεῖα χείρ; and βασίλειον οἴκημα; and it is also said Θησίον. 9Θεῖα9: From
+θεάν, θέϊα, and θεῖα; as also θεῖος. 9Θείνω9: And it means I strike; for ε has
+appeared in the future, for θένος. 9Θαλία9: Of ease or a feast, ι; and
+adjectivally ει diphthong. 9Θεμέλιον9: ι; from θήσομαι θεμέλιον, as κειμήλιον
+ἥλιον. 9Θεῖναι9: ει diphthong; for ε has appeared in ἔθεμεν. 9Θάλεια· Θέρεια9:
+By the account of those through εια that are properispomenon; and otherwise,
+as from ἐνεργῶ, ἐνέργεια, so also from θαλῶ, θάλεια; and θερῶ, θέρεια.
+9Θερείβοτον9: For from the dative of θέρος from there has come θέρει ἔστιν,
+and βότον, which means pasture, has come θερείβοτον. 9Θιασώτησ9: ι; from
+ἐνθεάσας θεασμὸς is added. 9Θίασοσ9: ι pure; those that have either long α, or
+two σσ, are oxytone; for instance, Καρνασός; Ἁλικαρνασσός. 220 9Θωπεῖα9 for
+θωπεύω; 9Θλίψις: Θυείδιον9 diphthong the second syllable; for θύεια too of
+three syllables through the ει diphthong; the tradition. 9Θήλεια9: Those from
+those in υς. 9Θυμοβορείων9: ει diphthong; for θυμοβορέων. 9Θωρακεῖον9:
+Diphthong; for the unique ones of more than three syllables, not being of
+precincts, or according to such, as μαγειρεῖον; μορμολυκεῖον. 9Θρόνοσ9: Those
+in νος of two syllables have ο in the penult; for instance, θρόνος; κτόνος;
+φόνος; except βῶνος. 9Θεαρχίω9: ι from tradition; 9Θυρέος· Θόρυβοσ9 short;
+from θέω I run. 9Θῶραξ: Θόλοσ9 the house, and 9Θολὸν9 the disturbed. 9Θυρεός·
+Θημωνία: Θύννα9 ἡ θῦνα; 9Θηβαῖοσ9. 9Θεωρήμων9: From θεωρός; for those in ρος
+that are oxytone have ω in the penult; from this comes the verb θεωρῶ,
+θεωρήσω, τεθεώρηκα, τεθεώρημαι, θεωρήμων. 9Ἶνεσ9: Through ι as having two
+endings; for from ἲς ἶνες is the plural. 9Ἴδον9: The second aorist; for Εἴδω
+is the stem; 9Ἰδεῖν9 and 9Ἰδέα9 and 9Ἰδομενεύσ9. 9Ἶνισ9: And it means the son,
+through ι; either from ἶσον it has come, for the sons are the power of the
+fathers; or from ἰαίνειν it has come; for children gladden the fathers; or
+from ἰνοῦν, which means to suckle. 9Ἰλισόσ9: And it is the river; the λι
+through ι; since those in ος of rivers both are oxytone, and are written
+through ι; for instance, Ἀνισός; Κνιφισός; and the first through ι; for the
+disputed ones; and otherwise; those in υς do not want to have the ει diphthong
+in the penult; for instance, Ἐρινύς; πιτύς. 9Ἱλεόσ9: And it means the den and
+the lurking-place; for the derivative nouns from εἰλῶ are written through ι;
+for instance, ἰλύς; ἴλης and it means the gathering. 9Ἴλοσ9: ι; for those
+through ιλος that are barytone, not being neuter, 221 not composed from nouns
+that have the ει diphthong, reject the ει diphthong except Νεῖλος; for
+instance, Τρωΐλος; Ζωΐλος and Ἴλος through ι. 9Ἰλύον9: ι for it showed in
+ἰλύς. 9Ἰβιών9: A city in Egypt said oxytone; rather an island. 9Ἴρισ9: And it
+means both the messenger of the gods, and the bow appearing in the sky,
+through ι; since the feminine verbal barytones in ρις of two syllables have
+one vowel in the penult; χαίρω, χάρις; εἴρω, ἔρις; for properly the battle
+that comes through words; δαίω, and it means
+
+I cut, δαῖς and by change of α into η δὴς, and by addition of ρ δῆρις, so also
+from εἴρω, which means I speak, has come Ἴρις. 9Ἴβισ9: And it is a kind of
+bird, ι; for the disputed ones. 9Ἴφισ9: The same rule. 9Ἴεισ9: And it is of
+the daemon through ι; for from ἴεσθαι, which is to wander; and otherwise; the
+disputed ones. 9Ἴβυκοσ9: From Ἴβυξ; and otherwise; the disputed ones. 9Ἴρισ9:
+ι the tradition; or according to this rule; the disputed ones. 9Ἶροσ9: ι the
+tradition; or the same rule. 9Ἱστάμενοσ9: Likewise; from ἰέναι. 9Ἰλίων9: ι the
+disputed ones; and the second the rule of Ἀμφίων; and it means the
+brother-in-law. 9Ἰξίων9: Both in the ultima and in the penult the same rule;
+and as from ἄγω, ἄξω, comes ἄξιος, so also from ἴκω, ἴξω, comes ἴξιος; and ι
+and υ are never found naturally long before ξ, unless by reason of the initial
+of a past tense, as ἰξεύω, ἴξευον; for instance, φοίνιξ; κήρυξ. 9Ἱδίω9: And it
+means I sweat, through ι in the initial syllable and in the penult; the first
+because from ὕδωρ has come ὑδρῶ, and by change of υ into ι ἰδρῶ; and in the
+penult, because from ἱδρῶ has come ἱδριῶ by addition of 222 ι and casting off
+ρ, ἱδίω; and ι is naturally added in the verbs; for instance, ἐρεύθω, ἐρευθίω;
+στῶ, ἱστῶ; χρῶ, κιχρῶ; δῶ, διδῶ. 9Ἶνα9: And it is of a noun, through ι; for
+from ἲς ἰνὸς it has come. 9Ἰχανόω9: ι according to the taking away of λ from
+being held exceedingly, or it was ἰσχανόω, and upon the want of σ ι is
+stretched, as also γινώσκω, γνώσκω. 9Ἰνωπόσ9: And it is the name of a river,
+it is written through ι; for from ἲς ἰνὸς, which means power, and from ὂψ
+ὀπὸς, which means the voice, has come Ἰνωπὸς by stretching ο accordingly into
+ω. 9Ἴναχοσ9: Name of a river, it is written through ι; for from ἲς ἰνὸς, which
+means power, and χεύεσθαι has come Ἴναχος; as it were, the one that is poured
+with power. 9Ἰαπετόσ9: A proper name it is written through ι; from ἴπτω, which
+means I harm, has come ἰπετὸς, and by addition of α Ἰαπετός; and ἴπτω is
+written through ι; for the verbs in πτω do not want to have the ει diphthong
+in the penult. 9Ἰδομενεύσ9: ι from ἴδη and μένος; as it were, the one who has
+power. 9Ἱμάτιον9: It is written through ι and all those from it; for instance,
+ἱμάτιαι πόλεις; ἱματιοφόρος and ἱματιοπώλης; and it is written through ι,
+clear from its coming by contraction of ο and ι into the οι diphthong; and if
+it were written through the ει diphthong, it would have been θουμάτιον by
+crasis of ο and ε into the ου diphthong. 9Ἰσαῖος· Ἰσίδωροσ9: Both through ι,
+from Ἶσις and δῶρον. 9Ἵκω9: It is written through ι; for from ἥκω that through
+η; for instance, Ἥκω νεκρῶν κευθμῶνα, has come ἵκω by change of η into ι; and
+one must know that ἵκω through 223 ι is written poetically in the active
+forms; for instance, ἵκει; and that written through η belongs to prose-writers
+and iambographers; and in the passive voices it is written altogether through
+ι; for instance, ἀφίγμαι, ἀφίκται. 9Ἵμεροσ9: ι; for from ἵκεσθαι which means
+to be eager. 9Ἱμείρω9: ι; and it means I desire, it is written through ι in
+the beginning, as having come from ἵμερος. 9Ἴετο9: ι; for from ἵημι, which
+means I make eager, or I send; ἵημι ι; for it has ι from reduplication; for
+instance, ὦ, ιὦ, ἵημι; δῶ, διδῶ, δίδωμι. 9Ἰσχανόω9: And it means I desire, for
+often ε in the verbs, when two consonants are brought on, is turned into ι;
+for instance, τέκω, τίκτω; so also ἔχω, ἴσχω, through ι; as from φῶ comes
+φαίνω, and παμφαίνω, and from there the future παμφανῶ, so also from ἰσχῶ
+comes ἰσχαίνω, and from there the future ἰσχανῶ, σ having been cast off, and ι
+having been stretched. 9Ἰόσ9: And it means the missile, it is written through
+ι; for it has come from the venom of the snake; for they smeared the missiles
+from the venom of the snake, so that one wounded might be destroyed at once;
+or from ἰέναι it has come, for the missile travels exceedingly; and ἰέναι is
+written through ι, since it is from ἴημι; and from ισον short. 9Ἴκτεροσ9: ι,
+as νύκτερος.
+
+9Ἰοχέαιρα9: ι; the one who delights in the missile. 9Ἶποσ9: And it means the
+mouse-trap, ι; for it has come from ἴπτω, which means I harm; for those in πτω
+do not want to have a diphthong in the penult. 9Ἱμονία9: And it means the
+well-rope, into which they draw the water; through ι; for from ἱμάς, ἱμάντος
+it has come. 9Ἀνιμῶμαι9: Through ι; for from ἱμάς. 9Ἱρόσ9: And it means the
+holy, it is written through ι; for from ἱερὸς has come ἱρὸς by crasis of ι and
+ε into long ι; 224 one must know that when ε is brought on, ι prevails; for
+instance, ἱρός; and when ε is in a diphthong, then the diphthong prevails; for
+instance, οἱγίεια, οἱγεῖα. 9Ἶσοσ9 and 9Ἴσανδροσ9: From it they are written
+through ι according to tradition. 9Ἰχώρ9: And it means the putrid blood, it is
+written through ι; from ἴσχω, which means I thin, and ἰσχαίνω comes ἰσχὼρ,
+that which thins the body in dripping; and by taking away σ ἰχώρ. 9Ἰτέα9:
+Through ι; for it is from ἰέναι; for it grows quickly; according to the rule
+of ἰός. 9Ἴπτω9: And it means I press, through ι as we have shown. 9Ἱλεόμενοι9:
+Of those propitiating. 9Ἵληθι9: It is written through ι; and it has come from
+ἱλαρός, for the kindly is cheerful. 9Εἴλαθι9: For the Aeolians say ἔλλαθι.
+9Ἴω9: ἴω through ι; and there is also εἴω through the ει diphthong; and the
+singulars of εἰμί have come from εἴω, that through the ει diphthong; and the
+duals and plurals from ἴω, that written through ι; for instance, duals: ἴτον,
+ἴτον; plurals: ἴμεν, ἴτε, ἴσιν, and by addition of α ἴασιν. 9Ἴφι9: And it
+means strongly; for as from νόστος, νόστου, has come νοστόφι; so also from ἲς,
+ἰνὸς, comes ἰνόφι, and by syncope ἴφι; and ἲς is written through ι as having
+two endings; and all those of two endings are written through ι. 9Ἴψ9: Through
+ι; and it means a kind of worm; for those ending in ψ reject every diphthong;
+and it has come from ἴπτω, and it means I harm; for instance, ἲψ, ἰπός; and
+one must know that θρίψ, θριπὸς, so called; and θρίπες are the worms that eat
+the wood; and σῆτες those that eat the garments; and ἴπες those that eat the
+hides, and ἴκες those that eat the vines. 225 9Ἴγδησ9: The initial through ι,
+and the last through η. 9Ἰλύσ9: And it means the gathering, it is written
+through ι; for the derivatives from εἰλῶ, or compound nouns, not according to
+the initial part, are written through ι. 9Ἰλὺς, Ἰλέοσ9: And it means the
+lurking-place. 9Ἵλαοσ9: From ἱλαρός; for the Aeolians say ἴλλαος, and not
+ἔλλαος. 9Ἴασοσ9: ι and ἴσος; from the future ἰάσω, from which ἰάσομαι; or from
+κρίασον, ἴασος. 9Ἰάσων9: α long; from ἰῶ, the future ἰάσω has come Ἰάσων, and
+Ἰάσονος short, as α long. 9Ἰθύσ9: ι; either also ἴσον, or the rule; the
+disputed ones. 9Ἰθύνω9: From ἰθύς, ἰθύνω, and the future ἰθυνῶ. 9Ἰλαδόν9: And
+it means together, it is written through ι; from ἴλη, which means the
+gathering, it has come, which is written through ι. 9Ἰδικῶσ9: For from ἴδιον;
+and when it is εἰδικόν, we say that which is divided from the genus, to be
+written through the ει diphthong; and ἴδιον is ι, since it is also shortened.
+9Ἵγνητεσ9: ι; the genuine. 9Ἵπποσ9: ι; for before the two ππ the ει diphthong
+is not; or from flying with the feet. 9Ἰσαῦρα9: ι; the city, and Ἰσαυρία.
+9Ἰθύφαλον9: ι; and 9Ἰθυφαλία9 a metre ι; the tradition. 9Ἱέρεια9: The initial
+through ι according to tradition, and the penult through the ει diphthong; for
+the feminines formed from those in ευς through εια are written through the ει
+diphthong; for instance, βασιλεύς, βασίλεια, and ἱερεύς, ἱέρεια; and the
+Athenians of ἱερεία by stretching α, and bringing down the accents, and
+keeping the same writing; for instance, ἱερεία. 9Ἴφθιμοσ9: From ἴφθος,
+ἴφθιμος. 9Ἱππώναξ9: From ἵππος ι; and πω is long; because from ἱπποάναξ it has
+come, and by contraction Ἱππώναξ. 226 9Ἰγκροσ9: And it means the brain, it is
+written through ι; 9Ἱκεσία9. 9Ἰοειδεῖσ9: Black; ει the tradition.
+9Ἱππαρχεῖοσ9: Hermes; the χει is a diphthong; 9Ἰξίς· Ἱμειρμένη. Ἰρέοσ9:
+Slavery from captivity; 9Εἴω, Εἶμι9, I go. 9Ἰῶ9: Ἰεῖς, ἴημι, ἴεμαι, and itself
+I go. 9Ἱῶ9: Ἱεῖς, ἵεμαι, I send from which εἷναι
+
+and ἀφεῖναι. 9Ἰῶ9: Ἰᾷς, ἴημι, ἴαμαι, I heal. 9Ἐῶ9: Ἐεῖς, ἐεῖ, ἔημι, ἔεμαι,
+ἠρεήμενος, the participle, and καθήμενος. 9Ἱῶ9: Ἱεῖς, ἱεῖ, ἵημι, ἥσω, ἧκα, and
+συνῆκα, the first aorist; the plurals, ἥκαμεν, ἥκατε, ἧκαν, and συνῆκαν; "οὐκ
+ἔγνωσαν, οὐδὲ συνῆκαν." 9Κρῖοσ9: And it is the name of a Titan, it is written
+through ι; for it is from κεκρῖσθαι; and this is also properispomenon, for
+distinction from the common noun κριός; and otherwise; by the rule of the
+masculine disyllables through ιος written through ι. 9Κριόσ9: It is written
+through ι; for it is from κεκρῖσθαι according to the hairs; and it is written
+through ι by the rule of κριός; and κριὸς is the one who leads the flock.
+9Κρίβανοσ9: And it means the oven, where they baked the loaves; it is written
+through ι; for from κρῖ, which means barley, and βαῦνος, which means the oven;
+and the Dorians say κλίβανον. 9Κρῖ9: And it means barley, it is written
+through ι; and it has come from κριθὴ by apocope of the syllable θη; and it
+also means much flour; and κρῖ is perispomenon; for every neuter monosyllable
+of long ending is perispomenon. 9Κριθή9: Through ι; for those in θη do not
+want to have the ει diphthong in the penult; for instance, μέθη; ποθή; τιτθή;
+and it means the one who provides milk to newborn children; and it also means
+227 the grandmother; no neuter ends in θη except only κριθὴ and ποθὴ, and
+τιθή; κριθὴ is said from being preferred to the oaks, for the ancients ate
+roasted acorns, and again later they began to eat bread from barley; and
+otherwise; κριθὴ is said because it is separated and parted from the chaff by
+the winds; for κρινῶ is the future, and the Aeolians say κρίννω. 9Κνίσα9: And
+it means the steam, it is written through ι; so also from κνίζω, κνίσω, κνίσα;
+and κνίσα from κνισμός. 9Καυλεῖα9: Properispomenon; as φυλλεῖα is barytone
+when docked, and the Attic make it oxytone. 9Κοντουβερνάλιοσ9: the
+fellow-soldier has been said. 9Κινῶ9: Through ι; for from κινεῖν; and the
+Laconians say κινέω, and through ι. 9Κύριλλοσ9: ι; as proparoxytone, not as
+Ἀστυάγης paroxytone; for the proper names in ος that have two λλ are written
+through ι, and are proparoxytone. 9Κλίνω9: ι; for κλινῶ is the future, and the
+Aeolians say κλίννω, and not κλέννω. 9Καμαρῖνα9: Through ι; for those through
+ινα reject the writing through the ει diphthong, except πεῖνα. 9Κεραμίσ9: ι;
+for the feminines in ις of more than one syllable in common speech reject the
+ει diphthong. 9Κηκίσ9: And it means listlessness; the first through η
+according to tradition; and the second ι, as feminine. 9Κίσηρισ9: The first ι;
+the second η; and the third ι; both thus the tradition; and Herodian through
+ω; for he said that ἐπικινῆς. 9Κῖρισ9: ι the lamp; the disputed ones in the
+first. 9Κλιτόριον9: Name of a city in Arcadia it is written through ι; for
+from κλύω has come ἀκλυτόριον, and by change 228 of υ into ι κλιτόριον; as
+Ἀφροδύτη, Ἀφροδίτη; and one must know that κλιτόριον also means the woman's
+private part, whence they also say κλιτοριάζειν of living shamefully. 9Κονίω9:
+ι; from κόνις κονίω, as from δὴ to touch. 9Κυλίω9: ι; for those through ιω of
+more than one syllable that are barytone, inflected into a future, are written
+through ι. 9Κῖρισ9: And it is a kind of hawk; and among the Cyprians Adonis
+too is called Κῖρις; and among the Laconians the lamp. 9Κάρη9: And it means
+the head. 9Κιμωλία9: Both ι; and μω long; the tradition; and Cimolos is an
+island. 9Κλεῖσ9 and 9Κατακλεῖσ9: Through the ει diphthong. 9Κεράτιον9: ι; for
+it is a diminutive. 9Κοράλια9 and 9Κοράλιον9: Perhaps ἅλιον lies within; from
+the sea an ornament for girls; so the poets the first through ο; and the
+common also through ο; and the Attic through ω. 9Καλῖνοσ9: And it is the name
+of a certain Ephesian elegiac poet; for those through ινος are written through
+long ι; except Καρκίνος.
+
+9Καϊκόσ9: And it is the name of a river; for the proper names through ικος
+reject the ει diphthong; for instance, Γρηνικός; Ἑλλανικός; Ἀνδρονικός; whence
+the wind that blows from there is called Καικίας; except φιλόνεικος.
+9Κηφισόσ9: The first η; the second ι; and it is the name of a river; and it is
+written through ι, since those through ισος of rivers both are oxytone, and
+are written through ι; for instance, Ἐλισός; Κηφισός. 9Κυτίνιον9: The ι
+through ι; from Κύτινος, Κυτίνιον, as κόφινος, κοφίνιον. 9Κῦμα9: Those through
+υω of two syllables reject the ει diphthong except οἴω; for from ὀΐω by
+contraction, οἴω; for instance, κύω; θύω. 9Κύμινον9: It is written through ι;
+for those through ινον 229 that are proparoxytone reject the ει diphthong;
+unless they have the ει diphthong from addition; for instance, ξύλινον;
+κύμινον. 9Κρονίων9: From Κρονίδης, or from Κρόνος, Κρονίων. 9Κεναγγία9: For it
+will not have the ει diphthong through ἄγγος, ἄγγεος; and κεναγγῶ, κεναγγία is
+said. 9Καλιά9: Oxytone; and it is a house, through ι; from the occasion of
+καλιὸς δόμος. 9Κλίνη9: For from κλίνω, κλίνη. 9Κλίμαξ9: Those ending in αξ
+reject the ει diphthong in the penult; and it has come from κλίνω, κλίναξ, and
+κλίμαξ, by transposition of ν into μ. 9Καδμῖλοσ9: And this Hermes is so
+called, through ι; for those through ιλος that are barytone, not being neuter
+or composed from nouns that have the ει diphthong, reject the ει diphthong;
+apart from Νεῖλος; for instance, Ζωΐλος; Καδμῖλος. 9Κροκόδειλοσ9: The δει is a
+diphthong; for δειλὸς was composed and κρόκος. 9Κρῖσα9: And it is the name of
+a city, through ι; since they also say Κίῤῥα through ι, and a diphthong is
+never found before ρρ; ὑποδηματόῤῥαφος. 9Κακῖθοσ9: ι; for from κακίζω,
+κάκιστος, and from there κακῖθος; and it means the one being punished.
+9Κυνηγέσια9: The ην is η; from κυνηγία; the σι is ι; the tradition.
+9Κινησίασ9: ι; as from νόσω, νόσιας, so also from κινήσω, κινησίας. 9Κίκισ9:
+ι; for from κικὺς it has come, which means strength; and by change of υ into
+ι; the disputed ones in the first. 9Κικύω9: From κικύς; the disputed ones in
+the first syllable. 230 9Κίσ9: It means the worm; for the monosyllables in ις
+in common speech reject the ει diphthong, except κλεῖς. 9Κτείσ9: For κτενὸς is
+the genitive. 9Κιβωτόσ9: Through ι; and it ought to have been written through
+the ει diphthong, since it is said from lying there the βῶσις, or the food;
+but the tradition has ι; and it is written through ι by the account of θλίβω,
+or from κίβος, which is food. 9Κτίστη9: ι the tradition; from κιβωτός this too
+is. 9Κίων9: ι; either from κίειν, which is to go to a height, or from the
+participle ἴων by addition of κ, κίων. 9Κυλλοποδίων9: ι; likewise of ἐχίων.
+9Κωλύω9 and 9Κώλυμα9: The ω long. 9Κάμινοσ9: From remaining underneath being
+burned; ι as has been said; but it can also be from remaining underneath.
+9Κοχλίδιον9: Through ι; as from γωνία comes γωνίδιον, so also from κοχλίας,
+κοχλίδιον. 9Κινάμωμον9: ι the tradition, and μω long. 9Κοδρίδησ9: The δρι
+through ι; for those that come from those in ος through ιδης are written
+through ι; for instance, Κόδρος, Κοδρίδης; Κρόνος, Κρονίδης. 9Κειρία9: And it
+means the cord that binds the bed; and it is said in the feminine, and it is
+written through the ει diphthong; either from κείρω it has come from their
+being shorn finely; or from κέρας, which means the hairs, has come κερία, and
+by addition of ι κειρία. 9Κυνίτησ9: Those through ιτης. 9Κηρύκειον9: Through
+the ει diphthong; for there are some that come from those ending in a double
+through ειον, which are written through the ει diphthong; for instance,
+Κύκλωψ, Κυκλώπιον; φοίνιξ, φοινίκειον. 9Κύνειοσ9: ει; and it means a part of
+the body. 231 9Κερόεισ9: ει; for κεροέντος. 9Κλεινίασ9: ει diphthong the κλει;
+for from κλέος and κλεινὸς comes Κλεινίας. 9Κλειταγόρασ9 likewise. 9Κλεινιόσ9:
+Diphthong; those in ος that are oxytone have a diphthong in the penult.
+9Κλειτοφών9: ει diphthong; from κλείω, which means I glorify, has come
+κλειτὸς, and from there
+
+Κλειτοφών; κλειτὸς the renowned. 9Κλεισθένησ9: From κλέος and σθένος has come
+Κλεισθένης. 9Κλείω9: And it means I glorify; for from κλέος has come κλέω, and
+κλείω, by addition of ι. 9Κοιλία9: From κόϊλον, κοῖλον, κοιλία. 9Κουρεῖον9:
+From κουρεύς, κουρεῖον, as βαλανεύς, βαλανεῖον. 9Κρεῖον9: From κέρας has come
+κρέον, and by addition of ι κρεῖον; and it means the vessel that holds meat.
+9Καθίσαν9: From καθίζω ι. 9Κυθέρεια9: By the account of those through εια that
+are proparoxytone. 9Κρανεῖα9: And it is a kind of tree; so the fruit is said
+through the ει diphthong; for it is found also without ι, κρανέη. 9Κράτεια9:
+From κρατῶ, κράτεια, as ἀνῶ, ἄνθεια. 9Καθαρεῖον9: From καθαρεύω; 9Κνημίς·
+Κρινήσ9. 9Κυκλωπεῖον9: And it is a mountain in Libya; and it has come of the
+Cyclops. 9Κτεὶς, Κτενόσ9; and it is from κείνειν the hairs that κτείς is said.
+9Κρείουσα9: And it means reigning, through the ει diphthong; for it is found
+also without ι; for instance, κρέουσα; and it has come from κρατεῖα κρατείων,
+and the feminine κρατείουσα, and by syncope κρατοῦσα, and κρείουσα. 9Κρειῶν9:
+And it means of the meats, through the ει diphthong; 232 for from τῶν κρεάτων
+it has come by casting off τ, κρεάων, and by crasis, κρεῖον, and by addition
+of ι, κρειῶν. 9Κεῖοσ9: And it means the citizen of Ceos; for from Κέω has come
+Κέϊος, and by crasis of ε and ι into the ει diphthong, Κεῖος. 9Κρείσσων9:
+Through the ει diphthong; for it is found also without ι; for instance,
+κρέσσων; and it has come thus; as from ταχὺς comes ταχίων and θάσσων, so also
+from κρατὺς comes κρατείων and κράσσων, and by change of α into ε, and by
+addition of ι, κρείσσων. 9Κιτίον9: ι; and it is a city of Rhodes. 9Κράστισ9:
+ι; the green fodder of the cattle; as πίστις. 9Κλείω9: ει; for κλοιός lies
+opposite to it. 9Κλεῖθρα9: Through the ει diphthong; for the Ionians write
+κλῇθρα through η and ι, turning the ει diphthong; and from κλείω which means I
+shut. 9Κύπειρον9: And it is a kind of plant, since the Dorians say κύπαιρον
+through the αι diphthong; for they have the custom of turning ε into α; for
+instance, Ἄρτεμις, Ἄρταμις. 9Κείρω9: ει diphthong; the barytones through ειρω
+reject the writing through ι alone; for instance, εἴρω; κείρω. 9Κεῖται9: ει
+diphthong; for ε has appeared in κέαται. 9Κείω9: And it means I lie down,
+through the ει diphthong; for it is found also without ι; for instance, κέω.
+9Κιλικια9 and 9Κικιλια9: These according to tradition. 9Κείων9: Diphthong; it
+means burning; for ε has appeared in κέδρος. 9Κτιτηρία9: As εἰσιτηρία; and
+9Κατιτήριον9 the clod of the dead. 9Κελαδεινόσ9: ει; as oxytone; and again the
+Aeolians say κελαδεννὸς. 9Κειμήλιον9: The first through the ει diphthong; as
+from the future θήσω comes θεμέλιον, so also from the future κείσω κειμήλιον;
+and μη is η from κεῖμαι; α having been turned into η. 233 9Κλείσ9: ει
+diphthong; for many nouns the futures complete by casting off ω; for instance,
+τρώσω, τρώς; θήσω, θής; so also κλείσω, κλείς; one must know that in
+composition it is barytone; for instance κατάκλεις. 9Κλειτύσ9: And it means
+the projecting parts of the mountains, it is written through the ει diphthong;
+for from κλετός; and κλειτύς means the same; and it became κλετύς, and by
+addition of ι κλειτὺς through the ει diphthong. 9Κτείνω9: For κτενῶ is the
+future; and again the Aeolians say κτέννω, casting off ι, and doubling the
+consonant, as κείρω, κέῤῥω. 9Κώνειον9: Diphthong ει; for there are some
+proparoxytone through ειον of three syllables, which are written through the
+ει diphthong; for instance, γένειον; δάνειον; βρένθειον; and it is a kind of
+costly ointment; so then also κώνειον through the ει diphthong, and because of
+κωνεάζομαι, for ε has appeared in this. 9Κεραμεικόσ9: Through the ει diphthong
+from κεραμεὺς κεραμέως, κεραμέϊ, has come Κεραμεϊκὸς and Κεραμεικός.
+9Κήδειοσ9: The δει is a diphthong; 9Κήδομαι9; Φείδομαι the tradition.
+9Καστόρειον9: ει diphthong; as Νεστώριον, as a material adjective. 9Κτεινύω9:
+Through the ει diphthong; and through one ν according to tradition; and
+
+ἀποκτίννυται through ι, and through two νν. 9Καπετώλειον9: ει diphthong; and
+it is proparoxytone. 9Κηρύκειον9: For from a possessive κηρυκήϊον. 9Κτῖλοσ9:
+And it means the ram that leads the flock, through ι. 9Κιβώριον9 and
+9Κιβούριον9 for. 9Κολονεῖα9: Through the ει diphthong in a possessive form.
+9Καράτομοσ9: For proparoxytone the one whose head has been cut off; for
+καρατόμος the paroxytone shows the one who cuts the head. 9Καλαυρία9: It is
+the name of a city; in Apollonius 234 it is written through the ει diphthong;
+for instance, Καλαυρεῖα; and in Dionysius ι is shortened; for instance,
+Καλαυρία. 9Καπηλεῖα9 and 9Καπηλεῖον9: ει diphthong; from καπηλεύω. 9Κομψεῖα9
+and 9Κρυπτεῖα9: ει diphthong; for κομψεύω and κρυπτεύω. 9Κεκλείμενοσ9: ει
+diphthong; as "20κεκλειμένων τῶν ἐμπορειῶν"20 and "20κέκλειται20" and from
+κλίνω κέκλινται through ι. 9Κεραμικός Κόλποσ9: ι by the account of those
+through ικος. 9Κρανίον9: ι the tradition, as a diminutive. 9Καταγωγεῖον9: ει
+diphthong, the tradition. 9Καταγώγιον9: ι the tradition, and it is
+proparoxytone. 9Κῆποσ9: The κη is η; Καπητωλῖνος; 9Κολυμβήθρα9. 9Κραταιός·
+Κισήρεωσ9. 9Κώμη9: The possession is long; 9Κόμη9 the head is short. 9Κῶμοι9:
+The dances. 9Κώπη9: The oar; 9Κόπανον· Καλλονή9. 9Κρήτη9: The island;
+9Κρημνός· Κνῆμαι· Κοιλάσ9. 9Κόφινος· Κνώδαλον· Κιμωλία· Κώδιξ9. 9Κολοβός·
+Κόλαξ: Κρήνη9 of the water. 9Κλοιά9: The bonds; 9Κλωστή· Κλωνός· Κώλυμα9.
+9Κομιδή· Κώνειον· Κῶλα· Κώδιον· Κοιλίεσθαι9. 9Κορώνη· Κίναιδος· Κιγκλίσ9: And
+it means the latticed door. 9Κενοτομοῦνται φύσεισ9. 9Λιπαρεῖν9: And it means
+to entreat, from being exceedingly it is written through ι, as we shall show;
+and ρειν is a diphthong as an infinitive. 9Λίβανον9: ι; from λοίβω; for there
+is also synaloepha from ἀλείφω; and there are some nouns that come from verbs
+which do not keep the writing of the verb, for the most part; for instance,
+πείθω, πιθανός; λείβω, λίβανος. 9Λίαν9: ι; for the adverbs ending in αν do not
+want to have 235 the ει diphthong in the penult; for instance, ἄγαν; πέραν;
+ἔαν; so then also λίαν. 9Λῖροσ9: And it means the shameless, through ι; from
+looking exceedingly; for the shameless look exceedingly; and λίαν is written
+ι, as we have shown. 9Λιμβρόσ9: And it means the dark night; for those that
+have a preceding consonant, whether of two syllables, or of more than two
+syllables, reject the ει diphthong. 9Λίποσ9: It is written through ι; for the
+λι syllable is shortened. 9Λιρόφθαλμοσ9: The λι; for it is from λῖρος.
+9Λιμόσ9: It is written through ι; and it ought to have been written through
+the ει diphthong, since it is from λείπω; for famine is a want of the
+necessaries; but the tradition has ι; and because it means a want of something
+I say of the necessaries; for this reason it also took on one diphthong-sound;
+and otherwise, λιμὸς is written through ι from the occasion of λιμπάνω; for
+those through ανω if they add ν, shorten the beginning; for instance, λήθω,
+λανθάνω; μήθω, μανθάνω; πήθω, πανθάνω; λείπω, λιμπάνω; and if they do not add
+ν they keep the beginning; for instance, λήθω, λανθάνω; and λιμὸς among the
+Athenians is masculine; for instance, ὁ λιμός; and among the Dorians feminine;
+for instance, ἡ λιμός. 9Λῖμαξ9: ι the tradition. 9Λίτρα9: ι; for it is found
+in shortening among the Dorians. 9Λαγίδησ9: ι; for those that come from those
+in ος through ιδης are written through ι, apart from Κυθνείδης; for instance,
+Λαγὸς, Λαγίδης. 9Λίσ9: And it means the lion; in the masculine and in the
+feminine of the booty it is written through ι; for those in ις in common
+speech reject the ει diphthong; for instance, Πάρις; πόλις; ἀσπίς; ῥανίς.
+9Λέων9: And it has come in this way according to Horos; and there is λάω,
+which means I behold, from which ἀλαὸς, which means the blind, as it were the
+one deprived of seeing; from this λάω has 236 come λέων; for the beast is most
+sharp-sighted; for they say that the lion never sleeps; and this is
+unbelievable; for it is not possible that someone always
+
+be awake; but perhaps as the gazelle in sleeping has the eyes open, in the
+same way the lion too in sleeping has the eyes open, since the eyes being
+large the skin that lies upon the eyes is smaller, and cannot draw them out.
+9Λάρισα9: And it is the name of a city, it is written through ι; for those
+through ισα, not being from verbs that have the ει diphthong, are written
+through ι; for instance, σάρισα; it is a kind of small javelin; Πῖσα; and it
+is a city; so also Λάρισα. 9Λακινία9: The κι through ι, and the νι; the
+disputed ones; and otherwise from Λακῖνος. 9Λακῖνοσ9: ι; and it is
+properispomenon; for the nouns through ινος having the accent on the penult,
+not having ι from addition, both are properispomenon, and are written through
+ι, and have ι long; apart from Καρκίνος; for this has ι short. 9Λιμβός·
+Λιμβάνω9: Through ι according to tradition. 9Λυκῖνος· Λεοντῖνοσ9: By the rule
+of Λακῖνος. 9Λίψ9: And it means both a wind, and defeat, from λείπω, λείψω; or
+from λείβω, λείψω; and through ι; for those ending in ψ reject every
+diphthong. 9Λοχίτησ9: Those through ιτης are written through ι; and it means
+the one who lies in wait. 9Λιταργόν9: And it means the swift, it is written
+through ι; for from λίαν ἀργὸν it has come swift. 9Λαγνεῖα9: From λαγνεύω.
+9Λεικνόν9: It is spelled two ways; for it is written both through the ει
+diphthong and through, ; or from λίαν it has come by transposition of μ into ν
+λίκνον, from toiling exceedingly. 9Λακέρεια9: ει diphthong; by the rule of
+those through εια that are proparoxytone; and it is the name of a city.
+9Λάχεια9: And it means the well-dug earth; through 237 the ει diphthong, by
+the account through εια from presents that are proparoxytone; for instance,
+κρατῶ, κράτεια; λαχῶ, λάχεια; ἐνεργῶ, ἐνέργεια. 9Λειτουργεῖν9: Through the ει
+diphthong; for from serving; the λι is ι; and Λίητον is the people; from ἔργον
+then and λήϊτον has come ληιτουργεῖν, and by shortening η into ε, λεϊτουργεῖν,
+and by contraction of ε and ι into the ει diphthong, λειτουργεῖν. 9Λογεῖον9:
+And it means a kind of mixing-bowl; and it also means the place of the
+theatre, it is written through the ει diphthong; for those that come from the
+verbs in ω through ειον both are properispomenon, and are written through the
+ει diphthong; ᾄδω, ᾠδεῖον; κείρω, κουρεῖον; σκάπτω, σκαφεῖον; ἄγω, ἀγγεῖον; so
+also λέγω, λογεῖον. 9Λέκιθοσ9: And it means the yolk of the egg; the κι is
+written through ι. 9Λείοδησ9: And it is a proper name, it is written through
+the ει diphthong, for from λεῖον, which is written through the ει diphthong.
+9Λαύρειον9: And it is a place of Attica that produces a mine, it is written
+through the ει diphthong; for those through ειον of three syllables that are
+peculiar both are proparoxytone, and are written through the ει diphthong.
+9Λύκειον9: And it is a place of Thessaly, where a wolf coming upon the cattle
+of Peleus was turned to stone. 9Λάγειον9: And so the hippodrome of Alexandria
+is called from a certain Lagos; it is written through the ει diphthong, by the
+account of Λαύρειον. 9Λειόβατοσ9: From λεῖον; and it is a kind of fish.
+9Λειρία9: From λεῖον, λείϊον, and by addition of ρ λείριον. 9Λαγνεῖα9: One
+must know that λαγνεῖα is written through the ει diphthong; for those in της
+that have a verb lying opposite through ευω, the feminine is written through
+the ει diphthong; 238 for instance, ληστὴς, ληστεύω, ληστεῖα; ἱκέτης, ἱκετεύω,
+ἱκετεῖα; πολίτης, πολιτεύω, πολιτεῖα; λάγνος, λαγνεύω, λαγνεῖα. 9Λείψανον9: It
+is written through the ει diphthong; either from λείβω, λείψω it comes, for
+they poured libations over the dead; or from λείπω, λείψω; for λείφανα are the
+remnants. 9Λείχω9: Through the ει diphthong; for τραπεζολοιχός lies opposite
+to it. 9Λειχή9: Diphthong the λει; either from λείχω it has come, for they say
+that from licking the affection is raised; or from λεῖον by antiphrasis; for
+instance, that which is not smooth. 9Λιτόσ9: ι according to tradition; and
+again those through ιτος that reject the ει diphthong are written; for
+instance, σῖτος; Ἐπαφρόδιτος; so also λῖτος through ι; and λιτὸς means the
+cheap and colonist tunic. 9Λεῖοσ9: Through the ει
+
+diphthong; for ε has appeared in λεαίνω. 9Λεξείδιον9: The ξ through the ει
+diphthong; for it has come from the genitive λέξεως. 9Λιμπάνω9: ι; for from
+λείπω it has come, as λείβω λιβάς, and νείφω νιφάς. 9Λείμαξ9: And it means the
+meadow, through the ει diphthong. 9Λείαξ9: Through the ει diphthong; for from
+λεῖον has come λείαξ. 9Λιρόσ9: The shameless through ι, and it is oxytone.
+9Λίμμα9: ι from λείπω λίμμα; and there are many nouns. 9Λιθόβολοσ9: Through ι;
+and it is proparoxytone; for it means the one pelted with stones. And
+9Λιθοβόλοσ9 paroxytone the one who pelts with stones. 9Λίχνοσ9: Through ι;
+9Λιχνεῖα9; the χνει is a diphthong from λιχνεύω. 9Λιμβόσ9: ι; from going
+exceedingly; 9Λοιμική9. 9Λιμβεῖα9: From λιμβεύω. 239 9Λοιμόσ9: The
+destruction. 9Λύμη9: The harm; 9Λοιδορία· Λαιμός· Λῆροσ9 according to
+tradition. 9Λειμών9: From λείβω, λειβὼν and λειμών; as it were, where the
+smooth ones graze, that is the sheep. 9Λείπω9: Horos says that all from λείπω
+are written through the ει diphthong; for instance, λειπόνεως; λειποταξία;
+λειποτάξιον; λειποστράτειον; and Origen says they are written through ι; for
+instance, ἔλιπον in Euphorion; λιποτρόφια in Neoptolemus; ἐλλίπεες in
+Euphorion. 9Λιποκτενίασσα· Λιποναῦται· Λιποταξίου9; In Aristophanes. 9Λοίμια9:
+A proper name, and she became the wife of Demetrius of Phalerum; and it is
+also a common noun, the chasms; so Diogenianus. 9Μικρόσ9: It is written
+through ι; and such is the rule; those in κρος that have become of two
+syllables, whether proper or not proper, reject the ει diphthong; and μικρὸς
+has come from μείων, which is the less; this comes by resolution of ι, and by
+stretching ε μήϊον, and from there μηϊκρὸς, and by syncope of η μικρός; and
+the small man they are accustomed to call νᾶνος; as it were some νηᾶνος, and
+νᾶνος, the one deprived of upward. 9Μεσίτησ9: From μέσος; 9Μαργίτησ9; from
+μάργος. 9Μεμφίτησ9: From Μέμφης. 9Μεταποντῖνοσ9: Through ι. 9Μοῖρα9: The city;
+and 9Μύρα9 the ointments; and 9Μοῖρα9 the part. 9Μόλις· Μολυσμός· Μωρόσ9 and
+9Μόρος· Μῶμος· Μόδιον9. 9Μίλητοσ9: And it is the name of a city, it is written
+through ι; for the Aeolians say Μίλλατος, as ὅμιλος, ὄμιλλος; πέδιλον,
+πέδιλλον; and if it were written through the ει diphthong, they would have
+said Μέλλετος, as κέῤῥω. 9Μᾶλλον9: The adverb has α long; and those that have
+two like consonants following have the dichronous short; whence the Ionians
+say μάλιον for μᾶλλον, so as not to shorten α and the like; then in those in
+which two like consonants are brought on, they shorten the dichronous or ι;
+for instance, ἴλλος; ἴκκος; and ἴλλαος and ἴλαος; for this reason since they
+shortened the dichronous, that is ι, as has been said and it not being able of
+the two consonants brought on. 9Μίκκοσ9: Likewise; since κ was redoubled, they
+shorten ι. 9Μάσθλησ9: And it is the thong. 9Μῖμοσ9: ι; the disyllables in ος,
+having the first and the second syllable beginning from the same consonant,
+want to have one vowel in the penult; for instance, Νῖνος; Βίβλος. 9Μίμησισ9:
+The first ι, and the second through η; for from μῖμος the first, and the
+second from μίμης; or also μιμνῶ, ω having been turned into η; from μένω then
+has come μιμνῶ; for there are some verbs which add a consonant, and turn ε
+into ι, so there is μένω, and it becomes μίμνω, and from this μιμνήσκω,
+μίμνησις, and by casting off ν μίμησις. 9Μῖσοσ9: ι; as from ἀφροδύτη has come
+Ἀφροδίτη, and δύφρος, δίφρος; μύσος, μίσος. 09Νεῖκοσ9: Strife through the ει
+diphthong, from εἴκω I give way, and the privative νε has come νέεικος, and by
+crasis of ε and the ει diphthong, νεῖκος; for strife is deprived of giving
+way; for if they give way there is no strife. 9Νεῖλοσ9: Through the ει
+diphthong; for the Dorians write through η; or
+
+from νέω has come νέϊλος, and by contraction Νεῖλος; or from νέω, which means
+I flow, and ἰλύς has come νέϊλος, and Νεῖλος; for the Nile is muddy; for it
+appears new each year, and today and each year it waters all Egypt. 9Νείατον9:
+And it means the last, it is written through the ει diphthong; for as from
+μέσον comes μέσατον, in 241 the same way also from νεῶ has come νέατον, and by
+addition of ι νείατον. 9Νηλήτησ9: And it has come from the intensive particle
+νη, and ἀλητεῖν, which means to err; and it is worth asking, if then νηλήτης
+has come from ἀλιτεῖν, and ἀλιτεῖν being written through ι, how νηλήτης is
+written through η; so one may say, that ι was turned into η in Aeolian
+fashion, for thus the Aeolians pronounce ἀκτίνες and ψιμύθιον through η.
+9Νείλεωσ9: It is written through the ει diphthong; either from νέος and λεως
+has come νεόλεως, and by crasis of ε and ο into the ει diphthong νείλεως, as
+πλέον, πλεῖν; δέον, δεῖν; or as the genitive ἀβλῆτος and ἀτρῶτος are brought
+over into nominatives, and are proparoxytone, in the same way the genitive
+Νείλεως too is brought over into a nominative, and is proparoxytone; for
+instance, Νείλεως, and by Doric change of η into the ει diphthong Νείλεως; as
+οὐτῶ, οὐτήσω, οὐτεῖλαι, η having been turned into the ει diphthong. 9Νειόσ9:
+And it means the land being renewed; it is written through the ει diphthong;
+for from νεῶ has come νεὸς, and by addition of ι νειός. 9Νυμφεῖα9: ει, the
+wedding. 9Νείαρα9: And it means the last part of the belly, through the ει
+diphthong; from νέω which means I go has come νέαιρα, and by addition of ι
+νείαιρα; for into it what is eaten goes. 9Νεστόρειοσ9: Through the ει
+diphthong; for it is found also without ι; for instance, Νεστορέῃ παρὰ νηΐ.
+9Νείφω9: And it means I snow, through the ει diphthong; for there is νέφος,
+and from it comes νόφος, and by addition of γ γνόφος, from this νέφος then
+comes νέφω, and by addition of ι νείφω. 9Νιφετόσ9: And νιφὰς through ι; for
+there are some nouns. 9Νήφω9: Of having come upon I am drunk by change
+Apollonius 242 says from νείφω which means I snow, by change of the ει
+diphthong into η; for those who faint we often make sober with drops of water.
+9Νεμέσιος· Νότοσ9: The wind; 9Νῶτοσ9; the sores; 9Νωθρόσ9. 9Νόστος· Νεοσσοί·
+Ναβουθαί9. 9Ξυνοικία9: The feast the ξυνοικία. 9Ξιφίσματα9: A dance from
+ξίφος; as the dancers being armed with swords. 9Ξίρισ9: And it is an aromatic
+kind of plant, it is written through ι; for the barytones in ρις do not have
+the ει diphthong in the penult; for instance, ἔρις; Ἴρις, and it is a kind of
+bird; δῆρις; Σίρις, and it is the name of a city of Phoenicia; κίσιρις, and it
+is a kind of bird; so also ξίρις. 9Ξεῖνοσ9: It is written through a diphthong;
+for as from κενὸς comes κεινὸς, by addition of ι; for instance, κεινὴ δὲ
+τρυφάλεια ἅμ' ἕσπετο χειρὶ παχείῃ, in the same way ξένος too has come ξεῖνος;
+barytone is added because of χειρίς, χειρίδος; and it means the glove; and
+again the Aeolians say ξένος; and let no one think that ξένος has come from
+ξεῖνος; for the Aeolians never cast off ι that is from addition, and double
+the consonant; for instance, κενὸς becomes κεινὸς, and they do not say κέννος;
+but from ξένος has come ξέννος; for often also upon a short shortening they
+make doubling of the consonant; for instance, Ἔννη, and it is the name of a
+city; θεράπων, θεράπονος; so also ξένος, ξέννος. 9Ξυλοφορία9: ι the tradition.
+9Ξυλήφιον9: ι, as a diminutive, and more approved ξυλήριον and ξυλάριον.
+9Ξένιοσ9: ι, both the proper name, and the adjective. 9Ξανθικόσ9: The month ι;
+for no month of the Macedonians has the ει diphthong in the penult. 243
+9Ξυλεῖα9: ει, for ξυλεύω.
+
+9Ὀπωρινόσ9: It is written through ι; for those in νος that are oxytone taken
+of a season are all written through ι; for instance, χειμερινός; θερινός;
+ἰσημερινός; so also προϊνὸς through long ι all. 9Ὀρίγανον9: It is written
+through ι according to tradition; and it ought through the ει diphthong; for
+those composed from a dative of the neuters in ος in this way, if a vowel is
+brought on, or one simple consonant, the ει diphthong is kept; for instance,
+ὀρείαυλος; ὀρειγένης; as it were, the one born in the mountain; for the proper
+name Ὠριγένης is written through ω and ι; and if two consonants are brought
+on, ε is cast off; for instance, ἔγχει, ἐγχίκτυπος; ὄρει, ὀρειβρεμέτης; apart
+from those from κάλλος, and those from ὕψος; for instance, καλλιγύναικα;
+καλλιπάρθενον; καλλιάνασσα; ὑψίζυγος; ὑψίθρονος; these being so, ὀρίγανον
+ought to have been written through the ει diphthong, because only one simple
+consonant is brought on; for it is from the dative ὄρει and γένος, which means
+grace; for oregano delights in the mountain; or from ὁρᾶν and γάνω, which
+means I make bright; as it were, that which brightens the sight; for oregano
+makes someone see well; but it prevailed to be said through ι; and the
+grammarian Theodore that from ῥιγῶ comes ῥίγανον, and by addition of ο
+ὀρίγανον, if that which cools someone by antiphrasis for it warms someone; and
+oregano is said of three genders, masculine, feminine, neuter. 9Οἰκτίρω·
+Οἰκτείρω9: And it is written through ι, and through the ει diphthong; and each
+has a reason; for that through ι is written, because οἰκτιρμὸς is written ι;
+and again the Aeolians say οἰκτίῤῥω, and not οἰκτέῤῥω; and those who write it
+through the ει diphthong, since οἰκτερῶ is the future; for as many verbs as in
+the future have ε******* and either alone, or with ι they have it; alone: for
+instance, νέμω, νεμῶ; δέρω, δερῶ; and with another vowel; for instance, κείρω,
+κερῶ; ἐγεί 244 ρω, ἐγερῶ ἀείρω, ἀερῶ; if then we say the future οἰκτερῶ
+through ε, clearly the present is written through the ει diphthong.
+9Οἰκοδομία9: ι, from οἰκοδόμος. 9Ὄρνις, Ὄρνιθοσ9: ι, because the genitive is
+in θος. 9Ὀπιπεύω9: One must know that it is written through ι, for from ὄπτω,
+which means I behold, comes ὀπτεύω, and by doubling πτεύω, and ὀπιπεύω.
+9Ὀρίνω9: It is written through ι; for the Aeolians say ὀρίννω, and not ὀρέννω;
+since it is found inflected with the imperfects; and if it were written with
+the ει diphthong, it would not be inflected with the imperfects; for those
+through εινω of more than two syllables written through the ει diphthong are
+inflected as far as the imperfect; ἐρεείνω; φαείνω; ἀλεείνω; and one must know
+that all those of more than two syllables through εινω are written through the
+ει diphthong; except ὀρίνω; ὠδίνω; of more than two syllables is added,
+because of κρίνω and κλίνω. 9Ὀΐομαι9: From οἴομαι it has come by resolution
+ὀΐομαι. 9Ὅσιοσ9: Through ι; as Χαρίσιος; ἀφροδίσιος. 9Ὀψαρίδιον9: Through ι;
+as from οἰκία has come οἰκίδιον through ι; so also from ὀψάριον, ὀψαρίδιον, as
+γωνία, γωνίδιον. 9Ὅμιλοσ9: ι; for the Aeolians say ὄμιλλος; and again, those
+through ιλος. 9Οἰκεῖα9: One's own; ει diphthong as possessive, for of the
+house. And 9Οἰκία9 the house, κι through ι; for from οἶκος has come οἰκία.
+9Οἰκεῖοσ9: ει; for the Dorians οἰκήϊος. 9Ὄσπριον9: ι; for it is σπόριον, then
+by transposition of ο ὄσπριον. 9Ὀϊλεύσ9: And it is also said Ἰλεύς; it is
+written through ι; since those in ευς for the most part do not want to have
+the ει diphthong in the penult; for instance, Ἀχιλεύς; so also Ἰλεὺς through
+ι; except Νειλεύς, from which Νεῖλος. 245 9Ὀμιχῶ9: And it means I urinate; it
+is written through ι; for those in χω do not have the ει diphthong in the
+penult; except στείχω and λείχω; for instance, κιχῶ; αὐχῶ. 9Ὄσιρισ9: Through
+ι; by the account of Βούσιρις; as we learned in the letter Β. 9Ὀνομαστί9: ι;
+since it has also been shortened. 9Ὄνειροσ9: Those through ειρος that are
+proparoxytone are written through the ει diphthong; for instance, ὄνειρος;
+μάγειρος; and otherwise, since the Aeolians say ὄνοιρος. 9Οἰνείδησ9: Through
+the ει diphthong; for from
+
+Οἰνεύς it has come; and those that come from those in ευς through ειδης are
+written through the ει diphthong; for instance, Πηλεύς, Πηλείδης; Οἰνεύς,
+Οἰνείδης. 9Ὀπανεῖον9: As βαλανεῖον was written in the letter Β; and otherwise,
+since it is found by resolution of ι ὀπανήϊον, and by change of η into ε
+ὀπανέϊον, and ὀπανεῖον. 9Ὄνειδοσ9: ει diphthong; for from εἶδος and ὀνῶ I
+blame has come ὄνειδος; for ὄνειδος is said of the one blameworthy in form.
+9Ὀκεῖλαι9: For ὀκελεύω. 9Ὀνείατα9: And it means both foods and all things that
+benefit, it is written through the ει diphthong; since the Aeolians write it
+η; for instance, ὀνήατα; for according to custom they have the turning of the
+ει diphthong into η; and it has also come from the future ὀνήσω ὀνείατον, it
+means the beneficial, by Boeotian change of η into the ει diphthong. 9Ὀφείλω9:
+Through the ει diphthong; for ὄφελος. 9Ὀστρεῖα9: ει, for ὄστρεα. 9Ὀρεινόσ9:
+From ὄρος, ὄριος; and it is led by the rule of the oxytones in νος. 9Ὀθνεῖον9:
+ει diphthong; for ε has appeared in "ὀθνέην ὁδόν;" and it is from νόθος,
+νοθεῖος, and by transposition ὀθνεῖος. 246 9Ὀψείω9: And it means I have a
+desire to behold; for it is found also without ι; and otherwise; the
+derivatives from presents or futures through ειω of more than two syllables
+are written through the ει diphthong. 9Ὀρθοέπεια9: ει diphthong; by the
+account of those through εια that are proparoxytone. 9Ὁδεῖνα9: ει diphthong
+according to tradition; one must know that as Νεάπολις are 2 names upon one
+subject, in the same way ὁδεῖνα too are two pronouns upon one subject; and
+otherwise, also from being found by resolution δέϊνα, and by contraction of ε
+and ι ὁ δεῖνα; and otherwise for this reason ὁ δεῖνα is written through a
+diphthong; since the pronouns of one person of more than one syllable want to
+have a diphthong; for instance, ἐκεῖνος; οὗτος; αὐτός; apart from ὅδε; and
+they are called of one person, since they do not have a first and second
+person; for ἐγὼ and σὺ are not such, but something else. 9Ὀξύπεινοσ9: ει;
+9Ὀλμειόσ9; ει, as Ἀλφειός. 9Οὐδένεια9: ει diphthong, because of οὐδενὲς lying
+beside. 9Οἱονεί9: Diphthong; for it is two parts of speech, a noun and εἰ a
+conjunction, and in contraction has come οἱονεὶ the adverb. 9Ὄρειοσ9: ει, from
+the genitive ὄρεος. 9Ὄριον9: The aspirated ι; and Ὅριος Ζεύς. 9Ὁμηρεῖα9: ει,
+from ὁμηρεύω. 9Ὀξείδιον9: ει, it has been said from ὀξέος. 9Οἰκετεῖα9: ει, the
+service. 9Οὐκενι9: ι according to tradition. 9Ὄροφοσ9: Short; and in διώροφος
+it stretches that at the beginning. 9Ὤφελον9: Long; and it is an adverb
+significant of a wish, and ὄφελος. 9Ὀχύρωμα9: Short that from the beginning.
+9Ὀψέ9: Unaspirated, from it also ὀψεῖα. 9Ὀκέλλω9 and 9Ἐξώκειλα9. 9Ὀλιγωρία·
+Ὁδυπόρος· Ὁμιλία· Ὀψώνιον9, according to tradition. 247 9Ὅτω9: Without σ when
+a consonant is brought on. 9Ὀδύσαο9: I.e. you were angry from ὀδύω; whence
+Ὀδυσσεύς. 9Ὄνοσ9: ο short. 9Παλαιστίνη9: The λει is a diphthong, from the
+adverb πάλαι. 9Πολιτεῖα9: From πολίτης ι, and from λιτεύω a diphthong.
+9Πρηξῖνοσ9: And from the future πράξω has come πραξῖνος, and by change of α
+into η πρηξῖνος. 9Πανδοκεύτρια9: ι; for all those through τρια that are
+proparoxytone are written through ι alone. 9Παλλακίνος: Πέδιλα9; ι; it means
+the sandals, and by the etymology it ought to have been written through the ει
+diphthong; for πέδιλα are said from being wrapped about the feet; and why
+through ι? since the Aeolians say πέδιλλα; as ὅμιλος, ὄμιλλος; and if it were
+written through the ει diphthong they would have said πέδελλα; since there is
+a rule that says that those composed from εἰλῶ in nouns at the end, or derived
+in nouns, are written through ι; for instance, ὅμιλος; and it is from being
+wrapped together; ἰλεὸς, and it means the lurking-place; ἰλή, and it means the
+gathering; ἰλύς; Ἰλισσός; so also πέδιλον through ι; at the end is added,
+because of εἰλίπους; and in nouns, because of εἰλίσσω, and εἰλύω. 9Πίνω9: It
+is written through ι; for from πίω it has come
+by insertion of ν; and ν upon barytone verbs that have only one dichronous is
+accustomed to be inserted; for instance, δύω, δύνω; θύω, θύνω; so then also
+πίνω alone stretches ι; for instance, Νέστορα δ' οὐκ ἔλαθεν ἰαχὴ πίνοντά περ
+ἔμπης and πίνω both stretches and shortens. 9Πισιδία9: ι the tradition.
+9Πύξινον9: For πύξος. 248 9Πίσεα9: And it means the clean places, it is
+written through ι; for from the future πίσω, from which πίσεα. 9Πτισάνη9: ι,
+and πισσος from πτίσαι; for πτίσσος was as from μέλαντος, μελανός. 9Πίειρα9:
+And it means the fat, in the initial syllable it is written through ι, for it
+has come from πίω; and in the penult through the ει diphthong, by the account
+of the feminines in ρα. 9Πιμελή9: It is written through ι oxytone; and it is
+feminine gender, and it means fat; and from πίω and μέλος; πιωμέλη has come,
+and by syncope πιμελή. 9Πίδαξ9: And it means the spring; it is written through
+ι; for those ending in εξ do not want to have the ει diphthong in the penult;
+for instance, κλίμαξ; θρίδαξ; οἷδαξ; except λείαξ; and as from κλίνω has come
+κλίναξ and κλίμαξ; in the same way also from πίω has come πίαξ, and by
+addition of δ πίδαξ through ι. 9Πηγή9: From πηδῶ has come πηδή, and by
+transposition of δ into γ πηγή. 9Πίσα9: And it is the name of a city, it is
+written through ι; from πίω πίσω for it has come; as it were, the one that has
+much water; and otherwise, since the πι syllable is found shortened in Pindar.
+9Προβαλίσιοσ9: Through ι; for as from Τρικόρινθος comes Τρικορύσιος, so also
+from Προβάλιθος, Προβαλίσιος; and Προβάλιθος is written through ι; since those
+in θος do not want to have the ει diphthong in the penult; for instance,
+κάκιθος; and it means the worst; ἔριθος; and it means the workman; λέκιθος;
+and it means the yolk of the egg. 9Πίθοσ9: This rule; 9Πέρδικος.9 9Πηρίν9: And
+it means the testicle; it is written through ι, from being of two endings; for
+πηρὶς and πηρὶν, the outside of the privy parts. 249 9Παλίωξισ9: It is written
+through ι; for there is πάλιν and δίωξις; from these comes by casting off ν
+and δ παλιΐωξις, and by crasis of the two ιι into one long ι παλίωξις. 9Πιδῶ9:
+Through ι; either from πίω it has come, for we say πηδᾶν of leaping water; or
+since from πηδῶ they say by transposition of η into ι, as ἥκω and ἵκω; through
+η and ι. 9Πηδῶ9: Through η according to tradition. 9Πιδύτησ9: And it is a
+proper name, through ι; for from πιδῶ it has come. 9Πρίων9: Through ι, it is
+paroxytone; for from πρίζω it has come; and πρίονος is the genitive; for the
+dichronous is short by the account of Ἀμφίων. 9Πιδύω9: And it means I leap, it
+is written through ι; for as from ῥήσσω comes ῥηγνύω, and from πήσσω, πηγνύω,
+so also from πιδῶ comes πιδύω. 9Πίπτω9: From πτῶ πίπτω; and reasonably, since
+the reduplications want to begin from a short; and again the verbs ending in
+πτω have one vowel in the penult, except φιλαλείπτω, and ἀνερείπτω, from which
+ἀνηρείψαντο. 9Πηλείων, Πηλείωνοσ9: Those through ειων are written through the
+ει diphthong, not being comparatives they keep ω in the genitive; for
+instance, Ἀτρείων, Ἀτρείωνος; Ἀργείων, Ἀργείωνος Καδμείων, Καδμείωνος.
+9Πῖλοσ9: ι; and they say it masculine; and it means the felt cap, through ι;
+by the account of those through ιλος; and otherwise, from πιέζω πίεω has come
+πίελος, and by crasis of ι and ε into one long πῖλος; as ἱερεύς, ἱρεύς; ἱερός,
+ἱρός. 9Πιλῶ9: Through ι; for as from φίλος has come φιλῶ, so also from πῖλος,
+πιλῶ, and πιλήσω the future; in common use they say πηλώσω. 9Πίφιξ9: And it is
+a kind of bird, it is written through ι both in the beginning and in the
+penult; the first from 250 πίω it has come; for the bird delights in these
+waters; and the ultima, since those ending in ξ reject the ει diphthong; and
+still also by the rule of the disputed ones. 9Ποικῖλαι9: Through ι since the
+future is ποικιλῶ; for it is from ποικίλλω. 9Πνίγω9: ι, since the perfect is
+πέπνιγα, and not πέπνοιγα.
+
+9Πίθι9: It is written through ι; and it means drink; for from πίω has come
+πίθι by extension of the syllable θι, and it is written through ι and ε; you
+have long ι πῖθι, as ἱερεύς, ἱρεύς; ἵεραξ, ἷραξ. 9Πῖνα9: And it is the name of
+a stone, through ι; for those through ινα reject the ει diphthong, apart from
+πεῖνα of want; and πῖνα of the sea one, through ι. 9Πίηρ9: ι, for the
+barytones in ηρ want to have one vowel in the penult, except ἐξάπτηρ; and it
+is a proper name and is barytone; and when it means the swellings it is
+oxytone. 9Παρθενοπίπησ9: And it means the one who looks about at the maidens,
+it is written through ι; for those from ὁπιπέων are written through ι; for
+instance, παιδοπίπης. 9Πολύιδοσ9: And it is the proper name of a seer, it is
+written through ι; for it was found also in shortening. 9Πλημμύριον9: ι; the
+cape by Syracuse. 9Πηνελόπεια9: Through the ει diphthong; and it is a proper
+name; for those through εια that are proparoxytone upon the same meaning are
+written through the ει diphthong. 9Πησιελόπεια9: Likewise. 9Προάστειον9: ει;
+for before the town. 9Προάστιον9: The philosopher ι. 9Πιθήσω9: ι; for from the
+beginning it was πείθω through the ει diphthong; and its second future πιθῶ;
+this it takes as a present, and makes πιθῶ, πιθήσω; so also εἴρω, ἐρῶ.
+9Πηλείων9: Through the ει diphthong; for those in δης and those 251 that have
+patronymics want to have the same penult; for instance, Ἀτρείδης, Ἀτρείων.
+9Πηλούσιον9: ι the city in the neuter, πηλούσιον τι ων. 9Πελάγιοσ9: ι from
+πέλαγος; 9Πέλιοσ9. 9Προύνεικοσ9: And it means the insolent, and the men who
+stand in the marketplaces, and of those who carry and take the wages for
+these; and whether it means the insolent, or the others, it is written through
+the ει diphthong; and of the insolent, since from the preposition πρό and
+νεῖκος has come πρόνεικος, and νεῖκος is written through the ει diphthong, as
+we have learned; and if it means the others, since from the preposition πρό
+and ἐνεῖκαι in Boeotian fashion has come προένεικος, and by crasis of ο and ε
+into the ου diphthong προύνεικος, as τὸ ἐμὸν τοὐμόν. 9Πλεῖν9: Through the ει
+diphthong; for as from τύπτω, τύπτεις, τύπτει comes τύπτειν, the infinitive by
+addition of ν, so from πλέω, πλέεις, πλέειν, and by crasis πλεῖν, as ῥέειν,
+ῥεῖν. 9Πλεῖν9: And it means of the voyage, through the ει diphthong; as from
+δέον comes δεῖν, by crasis of ε and ο into the ει diphthong in Attic fashion,
+so also from πλέον, πλεῖν, in Attic fashion. 9Πείθω9: ει, for πέποιθα is the
+middle perfect. 9Πεῖνα9: Through the ει diphthong, for from πένω, and from
+this πένομαι has come πένα, and by addition of ι πεῖνα, and the verb πεινῶ.
+9Παράδεισοσ9: ει, for from the future δεύσω, which means I wet, has come
+παράδευσος, and by change of υ into ι παράδεισος; or from δεῖσα, which means
+moisture, has come παράδεισος; and δεῖσα is written through the ει diphthong.
+9Πειριθουσ9: Through the ει diphthong; for one must know it is she who says
+that Zeus. 9Παρειαί9: ει; for the Aeolians say παραυναὶ turning 252 ι into υ,
+and ε into α; and otherwise, because παρήϊα too is found by resolution of ι,
+and by stretching ε into η. 9Πειώλησ9: Through the ει diphthong; and it means
+the fornicator and the one destroyed through a fall; for from πέσος has come
+πεόλης, and by addition of ι, and by stretching ο into ω, πειώλης. 9Πεῖρα9:
+ει; since the Aeolians say πέῤῥα, casting off ι, and doubling the consonant.
+9Πλείων9: For πλέον too is found, and otherwise, by the rule of the
+comparatives. 9Πῖθεν9: ι; for it is a second aorist. 9Πλειών9: And it means
+the year, it is written through the ει diphthong; for from πλεῖον which means
+the full it has come, as it were, the full of times; and πλεῖον has been shown
+to be written through the ει diphthong; and it is oxytone, since it seems to
+be comprehensive; for the year is called πλειὼν from encompassing full; for
+those in ων that are comprehensive are oxytone. 9Πλειάσ9: It is significant of
+the year; for setting it shows the beginning of the year,
+
+and rising the end; and it is written through the ει diphthong, since it is
+found by resolution Πληϊὰς by stretching ε into η; 9Πυρόεισ9. 9Πειραιεύσ9:
+Through the ει diphthong, from περαιοῦσθαι it has come, περαιεὺς and by
+addition of ι Πειραιεύς; and ραι from πέρας, and it took on ι. 9Πλατεῖα9: From
+πλατύς. 9Πολύκλειτοσ9: ει; from κλειτός, which is written through the ει
+diphthong, for from κλέος, κλεϊτὸς, and by contraction κλειτὸς, and
+πολύκλειτος. 9Πειρήνη9: The spring; and it is a fountain in Corinth, it is
+written through the ει diphthong; for from πέρας has come ἄπερος, and by
+addition of ι ἄπειρος, and from there ἀπειρήνη; as it were, the much; and by
+casting off α Πειρήνη; or it was named from a certain Πειρήν, and for this
+reason it is written through the ει diphthong. 253 9Πείρειν9: ει; for from
+πέρας has come πέρην, and by addition of ι πείρην. 9Πενειόσ9: And it is the
+name of a river, ει; as Ἀλφειός. 9Πείρινθοσ9: And it means the square placed
+upon the wagon, ει; for from περιθέειν has come πέρινθος, and by addition of ι
+πείρινθος. 9Πλεισθένησ9: And it is a proper name, ει diphthong; for as from
+δέον has come δεῖν, by Attic crasis of ε and ο into the ει diphthong; and from
+πλέον, πλεῖν; so also from πλέον and σθένος has come πλεοσθένης, and by crasis
+Πλεισθένης. 9Πρεσβεῖα9: It is written through the ει diphthong; and it means
+the aged woman, by the account of those through εια that are proparoxytone;
+and otherwise; the feminines formed from those in ευς through εια are written
+through the ει diphthong; for instance, ταχύς, ταχεῖα, so also πρεσβύς,
+πρεσβεῖα; and this comes by syncope; and one must know that it is found in use
+very rarely. 9Πεισίστρατοσ9: Through the ει diphthong; for from πείθω, πείσω,
+Πεισίστρατος. 9Ποσειδῶν9: Through the ει diphthong; for from shaking the
+ground; from πέδον then comes πεδοσείων, and by transposition Ποσειδέων and
+Ποσειδῶν; and among the Athenians too it is written through the ει diphthong;
+and the Aeolians and the Dorians through ι. 9Πείσανδροσ9: From the future
+πείσω, and Πεισίστρατος likewise. 9Πάδειοσ9: ει diphthong the possessive.
+9Παιδίου πλοκάμοισι9: ι. 9Πέλεια9: By the account of those through εια that
+are proparoxytone; and otherwise, the Dorians write it through ι; and one must
+know that as from μαῖα comes μαιὰς μαιάδος, so also from πέλεια, πελειὰς
+πελειάδος, the same writing being kept. 9Πρυτανεῖον9: By the account of
+βαλανεῖον; and otherwise, those 254 that come from those through ευω through
+ειον are written through the ει diphthong. 9Πιθανόσ9: ι; 9Παιδεῖα9; ει; for
+παιδεύω. 9Πανδοκεῖον9: ει diphthong; for it is possessive from πανδοκεύς.
+9Προμήθεια9: ει, and it is proparoxytone; so the tradition. 9Πράσειον9: ει
+diphthong the plant. 9Προσέχεια9: ει diphthong, and it is proparoxytone from
+προσεχής. 9Πυλωρόσ9: Those in ρος that are oxytone have either ε in the
+penult, or η, or ν, or ω; for instance, φθονερός; καματηρός; ἰσχυρός; so also
+πυλωρός. 9Πραγματεῖα9: The sale ει; and 9Πραγματία9 the writing ι.
+9Πρόσσκομμα9: Two σσ; from σκώπτω, and the preposition is kept into the verbs;
+for the passive perfect shows προσσκόψεται. 9Προσήλυτοσ9: η; 9Πειροσ9; blind;
+9Περιείη9. 9Προοίμιον· Πενιχρός· Πώρωσις· Πλημμοιρῶ9. 9Πῶμα9: The covering for
+distinction. 9Πώγων· Πιλωτόν· Πήρωσισ9. 9Πύον9: The festering. 9Παλαιστίνη·
+Παλαίστρα· Πραῖδα· Παλαιόσ9. 9Πρακτέοσ9: The derivative nouns that come from
+the proper nouns in ος through εος are written through unaspirated ε; for
+instance, πρακτός, πρακτέος. 9Πυνθάνω9: From πεύθω, πυνθάνω, as λείπω,
+λιμπάνω. 9Πήλη9: Name of an island; 9Πεπυρωμένοσ9. 9Ῥήγιον9: And it is an
+ethnic, it is written through ι; and one must know that Ῥήγιον is a city near
+Sicily; and they say Ῥήγειον; since when an earthquake happened those there
+were completed having been broken of that place; and from ῥῆξις they also say
+that
+
+the strait came through the middle. 255 9Ῥηγμίσ9: The ρη is η, from ῥήσσω; and
+μις is ι, as having two endings. 9Ῥοδωνία9: ι, as Ἰωνία. 9Ῥίν9: ι, as having
+two endings. 9Ῥητίνη9: ι, as ἀξίνη. 9Ῥινή9: One must know that there is ῥινὴ
+oxytone, and ῥίνη barytone; but the oxytone means the so-called ῥινίον; and
+the barytone a kind of fish; and it is written through ι by the account of
+those through ινη. 9Ῥίγοσ9: ι; for from φρίσσω has come φρίγος, and by casting
+off φ ῥίγος; and φρίσσω is written through ι, since the ει diphthong is never
+found before the two σσ. 9Ῥῖνοσ9: And it means the skin, it is written through
+ι; either from ῥινή it has come, which is written through ι, or from ῥὶν,
+which means the edge; for the skin is an edge, and as it were the surface of
+the flesh. 9Ῥιπή9: The first through ι; and the second through η; for from
+ῥίπτω, τ having been cast off, and ω having been turned into η, ῥιπή.
+9Ῥησείδιον9: The σει through the ει diphthong; from the genitive ῥήσεως; as
+from λέξεως, λεξείδιον. 9Ῥητορεῖα9: ει, from ῥητορεύω. 9Ῥοίτειον9: ει, since
+those through ειον of three syllables having a long penult are never written
+through ι; for instance, Σίγειον; Λύκειον, and it is a place; γένειον;
+βρένθειον. 9Ῥεῖθρον9: Through the ει diphthong; for from ῥέειν comes ῥέεθρον,
+and by crasis of the two εε into the ει diphthong ῥεῖθρον; and one must know
+that the verbals ending in ον never have ρ in the last syllable being of equal
+syllables with the verb; and whether they have τ, as νίζω νίτρον, or π, as
+νίπτω, νίπτρον; τρέφω, θρέπτρον; or κ, as πλήσσω, πλῆκτρον; or λ with τ, as
+φύτο, φύτλον; and they all are barytone except λουτρόν; and those of more
+syllables have αν in the penult; 256 for instance, τύπτω, τύμπανον; δρέπω,
+δρέπανον; λείπω, λείψανον; and those in ρον with θ; for instance, θέλγιθρον;
+μέλπω, μέλπιθρον; and those in λον that have θ; for instance, ἕδω, and it
+means I sit, ἕδεθλον; and it is from ἕδος; γενῶ, from which γενήσομαι,
+γένεθλον; or having τ, as ἔχω, ἔχετλον; so then ῥέεθρον is irrational through
+ε, as μέλπιθρον; θέλγιθρον; ῥεῖθρον has suffered synaloepha from the two εε
+into the ει diphthong. 9Ῥεῖα9: Through the ει diphthong; for from ῥέω has come
+ῥέα, and by addition of ι ῥεῖα through the ει diphthong; for the easy seems to
+incline. 9Ῥείτησ9: From which βαθυῤῥείτης and εὐῤῥείτης; for from ῥέω ῥεΐτης,
+and by contraction ῥείτης 9Ῥειτόσ9: ει diphthong, or ῥῖτος ι; and ῥητοὶ are
+two rivers flowing through a gorge under the earth; where he says as near
+Eleusis; and they say that Horos writes through the ει diphthong, for oxytone
+as κλειτός; and Herodian in the Catholic says that it is written through ι,
+and is barytone; for instance, ῥῖτος; σῖτος; Τρῖτος, and it is the name of a
+river. 9Ῥίζα9: From ἴζω, ἴζα, and by addition of ρ ῥίζα; as κνίζω, κνίσω, and
+κνίσα. 9Ῥιπίδιον· Ῥοιακων ζεῦγος· Ῥοίδια9: The sandals. 9Θηρέκλειον ζεῦγος:
+Θηρίκλειον9 a kind of cup. 9Σίγειον9: The γει is a diphthong, by the rule of
+Ῥοίτειον; the σι is ι from σιγή. 9Σιγὴ9 and 9Σιγῶ9: Through ι; since it is
+from σιγή, as also from τιμὴ has come τιμῶ; and σιγὴ is written through ι,
+since, as Horos says, in composition the σι syllable was found shortened, that
+in σιωπή; and it has come from σιγή and ὄψ, the voice, σιωγή, and by casting
+off γ σιωπή; for γ having been cast off it stretched ο; and otherwise, those
+in γη do not want to have the ει diphthong in the penult; for instance, γῆ;
+κραυγή; κλαγγή; αὐγή; so then also σιγή. 9Σικελίδησ9: ι long, because of the
+successive shorts; 257 as also Πριαμίδης; and it is led by the rule of
+Κρονίδης. 9Σέριφοσ9: ι; for those in φος that are of one gender being neuter
+simple, not being Italian, want to have one vowel in the penult; for instance,
+ἔριφος; Τέλεφος; κίνιφος and it means the varied; of one gender is added,
+because of ὁ κοῦφος, ἡ κούφη, τὸ κοῦφον; and not being neuter, because of
+λαῖφος; and simple, because of φιλοῦφος, and it means the companion in
+intercourse; and Italian because of
+
+Ῥοῦφος. 9Σφραγίσ9: ι; for the oxytone feminines in ις of more than one
+syllable in common speech reject the ει diphthong; for instance, ἀσπίς; ῥανίς.
+9Σῖτοσ9: ι; for as from ἐργάζομαι comes ἐργάστης, and by casting off σ ἐργάτης
+in barytone pitch; and from οἴσω comes οἴστος, and by casting off σ οἶτος in
+barytone pitch, so also from σείω comes σειστὸς, and by casting off σ σῖτος
+through ι; and otherwise, from σίω that written through ι; and otherwise,
+because those through ιτος reject the ει diphthong; for instance, Τρίτος;
+μίτος; Ἐπαφρόδιτος. 9Σκίροσ9: Through ι of the affection; ι the tradition.
+9Σείω9: Through the ει diphthong; for as from πνέω has come πνείω through the
+ει diphthong by insertion of ι, and from πλέω πλείω, so also from σέω σείω
+through the ει diphthong. 9Σπληνίον9: From the genitive σπληνός. 9Σιδών9: Of
+the citizen when it is said in the masculine, and of the city when in the
+feminine; it is written through ι; since the feminines ending in δων want to
+have one vowel in the penult; for instance, Σαρπηδών; σηπεδών; χελιδών.
+9Σελίδιον9: ι; as ψελίς, ψελίδιον; so also σελὶς, σελίδιον. 9Σάρδισ9: ι; as
+from πόλιες and ὄφιες comes πόλις and ὄφις by crasis of ι and ε into long ι,
+so also from Σάρδιες comes Σάρδις by crasis of ι and ε into long ι. 258
+9Σησάμη9: Through η the tradition. 9Σκόλοποσ9: The penult through ο;
+Euripides. who is it that is about to obtain a stake or a ...? 9Σιγηλόσ9: The
+first through ι from σιγῶ, σιγήσω; and η from σιγῶ by change of ω into η has
+come σιγηλός. 9Σέλινον9: Through ι; for the Aeolians say σέλιννα, as ὅμιλος,
+ὄμιλλος; and otherwise; those through ινος that are proparoxytone not being
+composed from nouns that have the ει diphthong are written through ι; for
+instance, κύμινον; ἀνθρώπινον; ξύλινον. 9Σπῖρα9: And it means the garments, it
+is written through ι; since from being sown into them they are so called; but
+the tradition has ι perhaps by the account of the verbs; for there are some
+nouns that come from verbs written through the ει diphthong, and are written
+through ι; as πείθω, πιθανός; so also εἴρω, Ἴρις, and σπείρω, σπῖρον, and τὰ
+σπῖρα. 9Συρία9: ι, from Σύρος. 9Σκίπεσ9: ι; for σκὶψ is the nominative; and
+those ending in ψ reject every diphthong; and they also say σκνὶψ and πνὶψ
+through φ and through π. 9Στίβη9: ι; and it means the cold; for the feminines
+ending in η having before η one of the middles, I mean β, or γ, or δ, or one
+of the aspirates, I mean θ, or φ, or χ, or λ, or μ, or ν, or κ, or π, or τ, do
+not want to have the ει diphthong in the penult; for instance, τριβή; λοιβή;
+ἀμοιβή; στοιβή; ἐρυσίβη. 9Σινώπη9: Through ι; and νω long according to
+tradition. 9Σεμίδαλισ9: ι the second syllable, since it is also shortened; for
+σεμιδάλεως more commonly. 9Στριφνόσ9: Through ι; from στύφω has come στυφνὸς
+and στρυφνός, and by change of υ into ι στριφνός. 9Σκίπων9: And it means the
+staff; it is written through ι; for from σκιρίπτω comes σκιρίπτων, and by
+syncope of η and ρ, by casting off τ σκίπων; and otherwise, those ending in
+πτω do not want to have the ει diphthong in the penult. 259 9Σιμόσ9: It is
+written through ι; for from σίγμα comes σιγμός, and by casting off γ σιμός;
+for the nose of the snub-nosed seems to imitate σ; and σίγμα is written
+through ι; for the nouns of the letters ending in α want to have one vowel in
+the penult; for instance, ἄλφα; βῆτα; γᾶμμα; δέλτα; so then σ too wants to
+have one vowel in the penult. 9Σίνονται9: Through ι; for the Aeolians say
+σίνονται, and not σέννονται; and from σίνομαι too it is written through ι; for
+instance, ἐπισίνης. 9Σιγαλόεντα9: It is written through ι; and it means the
+embroidered; for from στίζω has come στιγαλόεντα, and by casting off τ.
+9Στῖμι9: And it means the so-called χόλλα, through ι; for the neuters ending
+in ι do not want to have the ει diphthong in the penult; for instance, μέλι;
+κιννάβαρι; σίνηπι; πίπερι; so then also στῖμι; and one must know that ἡ στῖμις
+too is said, τῆς στίμεως, τὴν στῖμιν, and the black στῖμιν
+
+eye-painter. 9Σίνηπι9: The σι is ι, by the rule of στῖμι; the νη is η, from
+saying σίναπιν; the πι is ι, as neuter. 9Στιτεῖρα9: ι and ει the tradition.
+9Στάγιρα9: And it is the name of a city, it is written through ι according to
+tradition; and Philoxenus says it is written through the ει diphthong; because
+of saying Στάγειρος and τὰ Στάγειρα; for they have the custom of saying the
+verbal neuters through ειρος, and writing through the ει diphthong; for
+instance, ὀνῶ ὄνειρον; μάσσω μάγειρος. 9Σμιλή9: It is oxytone and means the
+little knife; it is written through ι; for those ending in λη of one gender do
+not want to have the ει diphthong in the penult; for instance, σμιλή; μαριλή;
+and it means the dust; ἰλή; and it means the gathering. 9Σχῖνοσ9: ι, by the
+account of σκοπελῖνος. 260 9Σκωρῖνοσ9: As ι the penult the tradition.
+9Συνουσία9: ι the tradition; for from συνίεναι; and it is said of the
+aphrodisiac and more useful. 9Σειληνόσ9: And the old men of the Satyrs are
+called Σειλινοί; it is written through the ει diphthong; either from its linen
+being shaken it has come, or from σεσειρέναι and rejoicing σερινός, and by
+addition of ι, and transposition of ρ into λ σειλινός. 9Σφάγιον9: ι; but
+σφαγεῖον too is spelled two ways in accent and in writing. 9Σιλανόσ9: ι, from
+σίλλος. 9Σεμίραμισ9: ι; for it is a barbarian name; and the barbarian ones
+reject the ει diphthong; Δαΐδ; Βενιαμίν; so also Σεμίραμις. 9Συκοφαντία9: ι.
+9Σίσοφοσ9: ι; for the Laconians say σιὸς for θεός through ι; from σιὸς then
+and σοφὸς has come σιόσοφος and σίσοφος; as it were wise just as a god.
+9Σίφων9: ι; for from σίζω which means I produce a sound comes σίζων, and by
+change of ζ into φ σίφων. 9Σίζω9: ι; for the verbs through ιζω are written
+through ι. 9Σειρήν9: Through the ει diphthong; for from εἴρω which means I
+plait comes εἰρή, and by addition of σ Σειρήν. 9Σπεῖσαι9: Through the ει
+diphthong; for ε has appeared in σπένδω. 9Στείχω9: Through the ει diphthong;
+for στοίχω lies opposite to it; and those that have ο lying opposite have ε
+lying within; for instance, στείβω, στοιβή. 9Σειρά9: Through the ει diphthong;
+for from εἴρω which means I plait has come εἰρά, and by addition of σ σειρά;
+and the Dorians write it through η σηρά; and from this it is known to have a
+diphthong; for they turn the ει diphthong into η. 261 9Σεισάχθεισα9: And it
+means to shake off the burden, it is written through the ει diphthong; and in
+the penult, by the account of those through εια that are proparoxytone.
+9Σαμάρεια9: ει; for the genitive Σαμάρεως lies within. 9Σπειώ9: And she is one
+of the Nereids, it is written through the ει diphthong; for from σπέσος has
+come σπέσω, and by addition of ι Σπειώ; as χρέος, χρεώ, χρειώ; κλέος, κλεώ,
+Κλειώ. 9Σώτειρα9: Through the ει diphthong, by the account of the feminine
+ειρα. 9Στεῖρα9: And it means the woman who does not bear, and the mast of the
+ship; it is written through the ει diphthong; of the mast, or of the prow, or
+of the keel, because from στερεόν has come στέρω, and by addition of ι στεῖρα,
+through the ει diphthong; and of the woman who does not bear, from στέρεσθαι
+has come στέρα, and by addition of ι στεῖρα, through the ει diphthong; as it
+were the one deprived of bearing. 9Συνειδόσ9: ει; to be conscious. 9Σπείρω9:
+For σπερῶ is the future. 9Σκαφεῖον9: As ἐργαλεῖον; from σκαφεύς. 9Σείριοσ9:
+And it is a star, it is written through the ει diphthong, for from εἴρω which
+means I speak has come εἴριος, and by addition of σ Σείριος; for Sirius speaks
+and makes known to us the season of summer; or from σεσειρέναι has come
+σέριον, and by addition of ι σείριον; for Sirius makes us grin and rejoice,
+being a cause of heat. 9Σκιάδειον9: ει, it has been said because of the
+character. 9Σκείρω9: And it is the name of a robber, who was worthy of much
+destruction; for he threw those who passed upon the tortoise, which receiving
+ate them; and it is written through the ει diphthong; for from κείρω has come
+κείρων, and by addition of σ Σκείρων; and κείρω is written through the ει
+diphthong by the account of σπείρω. 9Σίαλον9: ι; from
+the aphrodisiac saliva that is gathered to the mouth. 262 9Στειριεύσ9: Through
+the ει diphthong; for from στερεόν has come στεριεύς, and by addition of ι
+Στειριεὺς through a diphthong. 9Σιμόεισ9: For Σιμόεντος. 9Συνήθεια9: ει,
+because the masculine is συνήθης, and it is also proparoxytone. 9Στύππιον9:
+From τύπτω τύππιον, and by addition of σ στύππιον. 9Σίδη9: And it is the name
+of a city; the barytones in δη do not want to have the ει diphthong in the
+penult; for instance, κνίδη; and it is an astringent plant; so also Σίδη
+through ι. 9Σελίδιον9: Through ι, as ψαλὶς ψαλίδιον. 9Σπονδεῖον9: And
+σπόνδειον μέλος through the ει diphthong. 9Στεῖρα9: Through the ει diphthong,
+as ζεια; the small stones from a collection. 9Σκαμωνεῖα9: Through long ω, and
+ει diphthong, according to tradition. 9Σωλοικία9: ι; from σώλοικος. 9Συνοδία9:
+ι; from σύνοδος. 9Σφηκεῖον9. ει; it is properispomenon. 9Σίλουροσ9: ι, the
+tradition. 9Σωματεῖον9: ει, the tradition; and Σωμάτιον also proparoxytone the
+diminutive. 9Στοιχεῖον9: ει, from στείχειν. 9Στρατεῖα9: From στρατεύω; the
+rank; 9Στρατεῖα9; ει; the expedition, and it is barytone; Στρατιά; ι; the
+multitude, and it is oxytone. 9Στρατιώτησ9: ι, from στρατιά, and ω long; the
+masculines through ωτης are written through long ω; or the penult is pure; for
+instance, στρατιώτης; κυβεριώτης; τοξιώτης. 9Σπήλαιον9: For σπηλάδιον too was
+found; and again those through αιον that are proparoxytone neuter of one
+gender of more than two syllables are written through the αι diphthong; for
+instance, σπήλαιον; σκύλαιον; ἔλαιον; τρόπαιον; and all such. 263 9Σπλάγχνον9:
+From being very near some entrails of one another, or opposite. 9Σκηνή9: Both
+η; from σχῶ, σχηνή, and σκηνή. 9Σφαῖρα9. 9Σπαρτίον9: Those that come from
+those in ος of long penult through ιον that are neuter paroxytone are all
+written through ι; for instance, σπάρτος, σπαρτίον; θηρός, θηρίον; σταυρός,
+σταυρίον. 9Συμβούλιον· Σοβῶ· Σοβαρόσ9. 9Σορόσ9: The tomb is short; Σωρὸς that
+which is heaped is long. 9Σπῖλοσ9; ι; 9Σηρικόν· Σκύψ· Σκαιότης· Σωληνάριον9.
+9Σωσίασ9: From σώσω, Σωσίας; as from κινήσω, κινησίας. 9Σηγώρ9: η according to
+tradition; and by the etymology ι; for it is interpreted small or humble, that
+is from being silent; for the humble man not being able
+
+* Section 30
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+is silent by himself. 9Τελχίν9: ι, as having two endings. 9Τίρυνσ9: ι; for
+Τίρυνθος. 9Τραχίν9: ι, as having two endings. 9Τέμμικοσ9: ι; for Τέμμιξ is the
+nominative; and those ending in ψ reject the ει diphthong. 9Τιτάν9: Through ι;
+either from τίνω which means I pay has come Τινὰν and Τιτάν, those who so act
+as to give punishment; or from στένω has come Τιτάν; as it were, those who
+stretch the hands to cut the privy parts of the father, I mean of Uranus; and
+Τιτάν is through shortened ι; and otherwise; those in αν do not have the ει
+diphthong in the penult; for instance, Ἀκμάν; Παράν; for Ἀργεῖαν, and it is
+the name of a mountain of Messenia, has the diphthong from Ἀργεῖος. 9Τῖοσ9:
+The city ι, as Κῖος. 9Τιτῶ9: And so the day is called, it is written through
+ι; for from Τιτάν, Τιτᾶνος, has come Τιτᾶνος, and from there the diminutive
+Τιτώ, as **** 264 9Τετιανόσ9: ι both; for it is more Italian in which we also
+treated of Ἐλιανός. 9Τεμενίτησ9: ι from τέμενος. 9Ταυρομενίτησ9: ι from
+Ταυρομένιον. 9Τοπίτησ9: ι likewise. 9Τυφύσ9: ι it was written; the rule in
+Ἰλύς. 9Τελεσῖνοσ9: ι, as Ἀραγαντῖνος. 9Ταυρῖνος· Τιρύσ9: Likewise of ἰλύς; and
+there also comes addition of ν Τίρυνος. 9Τρίτων9: ι, and it is the name of a
+river; those ending in ων, not being common in gender, do not want to have the
+ει diphthong in the penult; for instance, Βίτων; κίτων; common in gender is
+added, because of γείτων and ἡ γείτων; and otherwise, since it is from the
+genitive τριῶν; Τρίων and Τρίτων; for each river partakes of some three,
+earth, air, water. 9Τριτογένεια9: Through the ει diphthong in the penult, by
+the account of those through
+εια that are proparoxytone, and in the beginning through ι; either since from
+τρίτον has come Τριτογένεια; or since from τριταῖα; as it were, the one
+appearing on the third; for they say she is of the same as the moon; and the
+moon appears on the third day; and τριταῖα through a shortened third syllable.
+9Τιμή9: Through ι; for from the future τίσω, which was from the present τίνω,
+which is also found in shortening; and otherwise; since those in μη do not
+want to have the ει diphthong in the penult; for instance, σπηθαμή; τιμή;
+αἰχμή. 9Τίσανδροσ9: Through ι; for it is from the future τίσω as has been
+shown, or from the genitive τιμῆς has come Τιμήσανδρος, and by syncope
+Τίσανδρος. 9Τίμιοσ9: ι both syllables, the tradition. 9Τίμων9: Through ι, from
+τιμή. 9Τιμωρία9: Through ι; and the account is of the beginning; for the
+penult has been shortened; and the beginning through ι, since it is from
+τιμωρός; and τιμωρὸς is written through ι, 265 since from τιμὴ and ὠρῶ which
+means I guard it has come. 9Τιμωρόσ9: Likewise, or by the rule of πυλωρός.
+9Ταχίων9: ι, as βραδίων, except χειρείων and ἀρείων. 9Τιβήν9: And it is a
+tripod, it is written through ι; for from lying upon three bases has come
+τριβήν, and by casting off ρ τιβήν. 9Τάριχοσ9: And it is said both in the
+masculine and in the neuter, it is written through ι; for those through ιχος
+of more than two syllables do not want to have the ει diphthong in the penult;
+for instance, Φροίνιχος; Ἰάμβλιχος; σωτήριχος; of more than two syllables is
+added, because of τεῖχος; and τεῖχος is written through the ει diphthong and
+those from it; for instance, δίτειχος; τρίτειχος. 9Τίνυσθαι9: It is written
+through ι; from τίνω which means I pay. 9Τίνω9: And it means I pay, through ι;
+since from τίω it has come by addition of ν; and ν upon barytone verbs is
+naturally inserted upon a dichronous alone; for instance, θύω, θύνω; δύω,
+δύνω; πίω, πίνω; so then also τίω, τίνω. 9Τετρίγει9: From τρίζω. 9Τρίβω9:
+Through ι; for those in βω do not want to have the ει diphthong in the penult;
+for instance, θλίβω; λήβω; except στείβω; ἀμείβω; λείβω, and the verb that has
+come from it εἴβω; βαβῶ, and it means I sleep. 9Τελωνεῖα9: ει the tradition.
+9Τίω, Τείω9: One must know that there is τείω through the ει diphthong, and
+τίω through ι, from which τιμή comes; from τείω then, that through the ει
+diphthong, comes τεῖσις through the ει diphthong; and from τίω, that through
+ι, has come τῖσις through ι; which also prevailed. 9Τεισάμενοσ9 and
+9Τισάμενοσ9: From τείσω, that through the ει diphthong, Τεισάμενος through a
+diphthong; and from τίσω, that through ι, Τισάμενος through ι; which also
+prevailed; and they say Τισάμενος from his father, I mean 266 Orestes, having
+avenged or his mother through the murder of his own father, I mean Agamemnon.
+9Τείρεα9: And it means the stars, through the ει diphthong; either from εἴρω,
+which means I speak, has come εἴρεα, and by addition of τ τείρεα; for the
+stars show us some signs, as Aratus too makes clear; or from τείρεσθαι, which
+means to be worn out, has come τείρεα; for many from the left are worn out,
+and become star-struck, as also from thunder they become thunder-struck.
+9Ταύχειρα9: ει, since it is found also without ι in Parthenius; for that man
+said Ταυχείριος the ethnic. 9Ταυροκομεῖον9: ει, and it is properispomenon, as
+γλωσσοκομεῖον. 9Τείρεται9: And it means it is worn out, through the ει
+diphthong; for the Aeolians say τέρεται, and they have the custom of casting
+off ι with the ει diphthong, and doubling the consonant; for instance, φθείρω,
+φθέῤῥω. 9Τείρω9: Through the ει diphthong; for from ἀείρω; and from τείρω
+comes τείρομαι, and τείρεται. 9Ταμεῖον9: ει, from ταμιεύω, and ταμιείδιον the
+diminutive of ταμιεῖον; the third through ι; since also ταμίας and
+ἀργυροταμίας. 9Τεῖχοσ9: Through the ει diphthong; from τεχνῶ has come τεῦχος,
+and by change of υ into ι τεῖχος; and otherwise it is written through the ει
+diphthong, since τοῖχος lies opposite to it. 9Τοῖχοσ9: Likewise.
+
+9Τρεῖσ9: The perispomenon through the ει diphthong; and it ought to have been
+written through ι, since τριῶν is the genitive of the plurals, and τρισὶν the
+dative; and those that have ι in the penult in the genitive and dative of the
+plurals also have ι in the penult in the nominative of the plurals; for
+instance, πόλις, πολίων, πόλιες; ὄφις, ὀφίων, ὄφιες; if 267 then τριῶν and
+τρισὶν, it is clear that τρίες too through ι; and then by crasis of ι and ε
+into ι it is clear that long τρῖς through ι; as πόλιες, πόλις; μάντιες,
+μάντις; but the Technician says that in order that it may not fall together
+with the adverb τρίς, for this reason it was not written through ι, but
+through the ει diphthong; to whom one may say, that first there are many
+coincidences; for look, οὐκερῶ has three coincidences; for it means I do not
+speak, and I do not shear, and I do not love; what then is out of place if
+this too came through ι and fell together with the adverb? and otherwise,
+because the Aeolians write it through η τρῆς; having the custom of turning the
+ει diphthong into η; so one may say such a cause for which τρεῖς is written
+through the ει diphthong; every number within the letters wants to have a
+letter from those within the decad; the number one has ε, which is from those
+within the decad; again two has δ, which is from those within the decad; again
+the fourth number has ε and α, which are from those within the decad; and ὀκτώ
+seems to stand against it, for this does not have a letter from those within
+the decad; but one may say that it has in force letters from those within the
+decad; for the philosophers say that from ἄγω it is two; and ἄγω has two
+letters from those within the decad; I mean α and γ, and δ; for ὀκτώ is said
+from leading, for it leads two tetrads; these being so the number τρεῖς, since
+if it had come through ι alone, it would not have a letter from those within
+the decad; [for instance, τρις] for this reason it took on ε, and it became
+through the ει diphthong; and in composition, since they have other letters
+from those within the decad; for instance, τρισκαίδεκα, for it has α, and δ,
+and ε; for this reason it also casts off ε that came on because of the letter
+found from those within the decad; and one must know that in composition the
+number τρεῖς casts off the diphthong, and is written through ι; for instance,
+τρισκαιδέκατος with σ; and the adverb casts off σ in composition; for
+instance, τρίμινον; τρίπηχυς; τρίπους; except τρίσφυλος; and otherwise; the
+number τρεῖς 268 why in composition is it written through ι? since never do σκ
+being in combination have the ει diphthong preceding, apart from one word and
+this disputed; for instance, Ἡρακλεΐσκος, Ἡρακλεῖσκος; and these are examples:
+βασιλίσκος; μειρακίσκος; indeed there is εἴδω, εἴσω, through the ει diphthong;
+and when κ comes on, ι is resolved, and it becomes ἐΐσκω, because the ει
+diphthong cannot precede when σκ is in combination; and when combination
+comes, it casts off ε, and it becomes ἴσκω through ι; if then τρισκαιδέκατος
+has κ in combination, it cannot be written through the ει diphthong. 9Τρίσ9:
+The adverb through ι. 9Ταλαπείριοσ9: Through the ει diphthong; either from
+having pierced from afar has come ταλαπέριος, and by addition of ι
+ταλαπείριος; or from τλῆναι and πεῖρα has come ταλαπείριος; as it were, the
+one who has endured much trial, that is much-tried; and πεῖρα is written
+through the ει diphthong, as has been shown. 9Τέλειοσ9: ει diphthong; first
+because it is said also without ι; for instance, τέλεος, and τελέως the
+adverb; second because those from the neuters in ος not having α in the penult
+that come through ειος are written through the ει diphthong; ὄνειδος,
+ὀνείδειος; ἕρκος, ἕρκειος; ἦθος, ἤθειος; so also τέλος, τέλειος; except
+τέμενος, τεμένιος. 9Τείνω9: Diphthong; for τενῶ is the future. 9Ταπεινόσ9:
+Through the ει diphthong; for from ἔδαφος comes ἐδαφεινὸς through the ει
+diphthong, and by taking away α δαφεινός, and by change of δ into τ and of φ
+into π ταπεινός; or from πέδον comes πεδεινός, and by change of π into τ, and
+of ε into α comes ταπεινός; or
+from δάπεδον, δαπεδεινός, and by syncope δαπεινός, and by change of δ into τ
+ταπεινός; or from πατῶ has come πατός; as it were, the place that is trodden,
+and from there ταπεινός; or from τάπης, τάπητος has come ταπητεινός, and by
+syncope ταπεινός. 269 9Τερεῖνα9: And it means the tender; through the ει
+diphthong; for as from μάκαρ, μάκαρος; and τάλας, τάλανος; comes μάκαιρα and
+τάλαινα the feminine, by addition of ι, so also from τέρην, τέρενος, comes
+τερεῖνα the feminine, through the ει diphthong by addition of ι. 9Τίροσ9: And
+it is the name of a river, ι according to tradition. 9Τείρεται9: Through a
+diphthong; for τέῤῥεται the Aeolians and the Roman. 9Τέρρα9: The earth from
+its always being worn out by continual sowing. 9Τετράδειον9: Through a
+diphthong, and it is proparoxytone; the tradition. 9Τετράδιον9: Through ι the
+diminutive. 9Τυμβωρυχία9: ω long. 9Τριακονταέτησ9 a man oxytone; and
+Τριακονταετὴς is a time the flesh; a two-year time is from which these came to
+be. 9Ὑποδεξία9: It means to receive, it is written through ι; for those from
+those in ος not having a verb lying opposite through ευω, that come through ια
+as feminines having the accent on the penult, are written through ι; for
+instance, κακός, κακία; ὑπόδεκτος, ὑποδεξία, because of the syntax.
+9Ὑπηρεσία9: And it is a proper name, it is written through ι; for those from
+masculines that have τ that come through ια and turn τ into σ are written
+through ι; for instance, ἄλουτος, ἀλουσία; ἀθάνατος, ἀθανασία; so also
+ὑπηρετός, ὑπηρεσία. 9Ὑπερίων9: Through ι; for from the participle ἰών has come
+Ὑπερίων; and otherwise; since it turns ω into ο in the genitive; for instance,
+Ὑπερίονος; and if it were written through the ει diphthong, it would keep ω in
+the genitive; for those through ειων are written through the ει diphthong, not
+being comparatives keeping ω in the genitive; for instance, Ἀτρείων,
+Ἀτρείωνος; Καδμείων, Καδμείωνος; Ἀργείων, Ἀργείωνος; not comparatives is
+added, because of χερείων, χερείονος; ἀρείων, ἀρείονος. 270 9Ὑπερίδησ9: It is
+written through ι; for as from ἀνά a man comes ἀνθρώπιος; and from ὑπό,
+ὑπόσιος; so also from ὑπέρ, ὕπερος; according to the rule having the letter κ.
+9Ὑσμίνη9: Through ι; the rule; those through ινη of one gender, not becoming
+proper names from adjectives, reject the writing through the ει diphthong; for
+instance, Ὠκεανίνη; Εὐηνίνη; ἰατρίνη; Ἀδριστίνη; ὑσμίνη; and the like.
+9Ὑγίεια9: From ὑγιής, ὑγίεια; and the Athenians stretching α, and bringing
+down the accent, keep the same writing; and this ὑγίεια by crasis of ι and the
+ει diphthong into the ει diphthong becomes ὑγεῖα, as Ἀπολλωνίεια, Ἀπολλωνεῖα.
+9Ὑλεῖον9: ει diphthong the precinct, the tradition. 9Ὑεία9: ει diphthong; for
+it is a material adjective; and ὑεικὸν δέρμα has also been said, and γαστὴρ
+ὑεία. 9Ὑποδεῖται9: ει diphthong, i.e. is bound under and rather is bound
+under. 9Ὑπισχνοῦμαι9: Through ι, according to tradition. 9Ὑττήνιοσ9: A proper
+name. 9Ὑφειμένοσ9: ει diphthong, according to tradition. 9Ὕαινα· Ὑπαίθριοσ9:
+The παι is a diphthong; the θρι is ι, according to tradition. 9Φιλίων9: And it
+means the most dear, it is written through ι; for the comparatives through ιων
+of more than two syllables do not want to have the ει diphthong in the penult,
+except χερείων and ἀρείων. 9Φασιλίτησ9: From the name φασίλιος. 9Φιλιτάσ9:
+Both through ι according to tradition; for those in ας, whether oxytone or
+perispomenon masculine, do not want to have the ει diphthong in the penult;
+for instance, Ξηνᾶς; Μητρᾶς; Γλισᾶς; Κερκιδᾶς; Ἰστᾶς; and Φιλιτάς; masculine
+is added, because of πελειὰς feminine. 271 9Φλῖοσ9: Name of a city, it is
+written through ι; since those through ιος of two syllables masculine do not
+want to be written through the ει diphthong; Κίος, and it is
+the name of a river; βιός; δῖος; Χῖος; so also Φλίος; except μεῖος; λεῖος;
+θεῖος; Κεῖος from κέω; πλεῖος; χρεῖος the one in need; ἀρεῖος the weak;
+masculine is added, because of νειὸς ἄρουρα, and it means the ploughed land.
+9Φιλοικτίρμον9: Through ι; not as ἐναντεῖος through the ει diphthong; for it
+has been said in the rule of οἰκτίρμων. 9Φαρκίσ9: And it means the wrinkle, it
+is written through ι by the account of σφραγίς. 9Φιλονικῆσαι9 and 9Φιλόνικοσ9:
+Of the one who loves victory through ι the tradition. 9Φιλονεικία9: The νει is
+a diphthong. 9Φωλεόσ9: And it is the lurking-place of the reptiles; and it has
+been said from light having been lost. 9Φθία9: It is written through ι; for
+those through ια, whether of a city, or of a country, having the accent on the
+penult, do not want to have the ει diphthong in the penult; of a country; for
+instance, Καππαδοκία; Ἀσία; Γαλατία; Ἰταλία; Λυκία; and of a city; for
+instance, Φαρσαλία; Ἀπολλωνία; so then also Φθία; having the accent on the
+penult is added, because of Ἀλεξάνδρεια; and again Φθία is written through ι;
+since from the proper name Φθίος it has come; and Φθίος is written through ι
+according to the rule of Φλίος; and otherwise, from ἴφθιμος, ἰφθίμη, has come
+ἰφθία and Φθία; as it were, the one productive of strong men. 9Φθιῶται9:
+Through ι; for from Φθία it has come, which as has been shown is written
+through ι; and one must know that Φθιῶται were called those of Achilles; and
+Φθίοι those of Protesilaus. 9Φιλήτησ9: It is written through ι; and it means
+the thief; and the technician says; many affections, for casting off υ gives
+ε; for ὑφειλέτης in the second syllable through the 272 ει diphthong is
+written; and stretching ε into η also gives; for ὑφειλέτης has ε in the
+penult; and φιλήτης η; he who speaks and Tryphon that there are some nouns
+that suffer along with what is shown; for instance, ἡμισυκύκλιον; λείπω,
+λιμός; so also here the voice suffered what is shown; and in ὑφειλέτης it
+became φιλείτης; since it means want; for the thief makes a want; for this
+reason it also took on a want of sound, and cast off υ, and ε, and made a
+change of ε into η; and it is better to say, that as from οἰκῶ comes οἰκέτης,
+and from μάγω μαγέτης, so also from φιλῶν comes φιλέτης in a standing-out of
+ι, and by change of ε into η, φιλήτης; for the thief became φιλίτης from being
+loved by antiphrasis; as it were, the one who is hated. 9Φοίνιξ9: Through ι;
+those ending in a double do not want to have a diphthong in the penult.
+9Φίκνον9: And it is the name of a mountain, the beginning through ι, by the
+rule of the doubles; and in the second this too through ι, according to
+tradition. 9Φοινίκη9: Through ι; first because from the genitive Φοίνικος; and
+second because those through ικη reject the ει diphthong; for instance, δίκη;
+νίκη; apart from Εὐνίκη, and it is the name of one of the Nereids; and apart
+from φερείκη, and it is a kind of tree, which Herodian in the Catholic writes
+through stretched ι. 9Φρίκη9: Through ι; by the rule of φοῖνιξ; and otherwise,
+because from φρίσσω it has come; since a diphthong is never found before the
+two σσ. 9Φιμόσ9: It is written through ι; for from σφίγγω has come σφιγγμὸς
+and φιλιμός; and σφίγγω is written through ι, since the barytone verbs ending
+in ων, having two the same consonants, do not want to have the ει diphthong in
+the penult; for instance, τίλλω; πάλλω; ἀΐσσω; ἐλίσσω; so also σφίγγω;
+barytone is added, because of κρεισσῶ. 273 9Φινεύσ9: Through ι; for from ἰφθὶ
+and νοῦς it has come; as it were, the one who has a strong mind; and ἴφιος has
+been shown to be written through ι; and otherwise, those in ευς do not want to
+have the ει diphthong in the penult; for instance, Ἀχιλλεύς; Δωριεύς;
+Ἐρετριεύς; Τηριεύς; ἁλιεύς; so then also Φινεύς; except Νηλεύς. 9Φθεισήνωρ9:
+Through the ει diphthong; for there is φθείρω through the ει diphthong, and
+φθίω through ι; from which φθίσας; from φθείω then, that through the ει
+diphthong, has come φθεισήνωρ. 9Φλία9: Through ι; for from θλίβω, which has
+been shown to be written through ι, has come θλία, and by change of θ into φ
+φλιά; and φλιά is the side of the door, in which someone stands and leans.
+9Φθείσω9: Through the ει diphthong
+according to tradition. 9Φθεῖσαι9: Through the ει diphthong; for from φθείρω
+that through the ει diphthong it has come; and it is also written through ι
+from φθίω that through ι. 9Φαείνω9: Likewise of ἀλεείνω, diphthong.
+9Φείδομαι9: ει diphthong; for from fleeing to give has come φεύδομαι, and by
+change of υ into ι φείδομαι; and φιδως the verbal which means the sparing,
+prevailed to be written through ι. 9Φειδωλόσ9: Through a diphthong; for as
+from ἁμαρτῶ has come ἁμαρτωλός, so also from φείδω has come φειδωλός; as it
+were, the one who flees to give, for φευδωλός. 9Φείδυλοσ9: From φείδομαι, ει
+diphthong. 9Φείδων9: And it is a proper name, it is written through the ει
+diphthong; for as from λάμπω has come Λάμπων, so also φείδω, Φείδων. 9Φαεινός·
+Φωτεινόσ9: ει diphthong, as oxytone; and otherwise, since the Aeolians say
+φαεννὸς and φωτεννός. 9Φερεζαῖος· Φθεῖρ9: ει diphthong of the bodily
+destruction; and one must know that there are three monosyllables in ειρ
+written through the ει diphthong; φθεὶρ of the destruction of the 274 body;
+and Εἲρ, and it is the name of the river; and χείρ; and φθεὶρ from φθείρω; and
+Εἲρ from εἴρω I plait; and χεὶρ, since the Aeolians say ἢρ turning ει into η;
+and there is also Σαπείρ. 9Φθίρον9: One must know that Φθίρον ὄρος
+ἀκριτόφυλλον, the Technician writes through ι, saying from Φθὴρ of the son of
+Endymion. 9Φοιτῶ· Φωλέα9. 9Φόροσ9: The tax, and φόρος the place. 9Φείδιπποσ9:
+ει diphthong, from φείδω; from which φείδομαι. 9Φρείατα9: From φρέατα, by
+addition of ι φρείατα. 9Φιλομείδησ9: Either from μέδειν to reign by addition
+of ι; or from μειδιῶ, which means to laugh, has come φιλομείδης. 9Φθεία9: One
+must know that it is written through the ει diphthong; and it is the name of a
+city; for it was found also without ι; Φθείας παρὰ τείχεσιν. 9Φωνήεισ9:
+Through the ει diphthong; for ε has appeared in the genitive φωνήεντος.
+9Φιγαλεόσ9: The one from flight or from the deme; for Φιγάλεια is a deme of
+Arcadia. 9Φθηρά9: A city being between Laconia and Pylos of Messenia, from
+φθέρω. 9Φορβειά9: ει diphthong, as παρειά; ὀχειά; these according to
+substance; and ἀρειὰ according to a deed, and this too is written through the
+ει diphthong, and δωρειά. 9Φλωρέντως· Φλῶρος· Φιλία9: From φίλος. 9Φοινίκεια9:
+The κει is a diphthong the letters or penult or to those from the Phoenicians
+as Cadmus having brought them into Greece. 275 9Φωνοείκεια9: As it were
+φωνεικῶνες. 9Φιάλη9: Through ι; for πὶν σιάλη as νείφω, νεφέλη; from which one
+may say **αλες that is gathering because of being spread out. 9Φίτροσ9:
+Through ι; as it were, φύτρος; from the plant. 9Γλόγιοσ9: Through ι; for it is
+a character of tribrach nouns, which also want for the most part, being
+proper, to be paroxytone, and adjectives, to be proparoxytone. 9Φθίνω9:
+Through ι the tradition. 9Φιλόλογοσ9: Through ι; and all such. 9Φλυκτίσ9: ι.
+9Φθίω9: Through ι; from ἔφθιος; Φθείω through a diphthong; from which φθείσω,
+whence also φθόη. 9Χῖοσ9: And it means the citizen of Chios; it is written
+through ι; for as from Λέσβος, Λέσβιος, through ι, and from Σάμος, Σάμιος, so
+also from Χίος, Χίϊος, and by crasis of the two ω into one long Χῖος; as
+δίιος, δῖος; Θέτιι, Θέτι. 9Χίλιοι9: Through ι; and it ought through the ει
+diphthong; since the Aeolians say χέλλιοι; and they have this custom to do
+upon those written through the ει diphthong; for instance, φθείρω, φθέῤῥω; and
+if someone should say that ι too is turned into five; for instance, Πρίαμος,
+Πέῤῥαμος; τρίτος, τέρτος; so then also χίλιοι written through ι has become
+χέλλιος from it, by change of ι into υ; we say that the Aeolians are naturally
+accustomed to turn shortened ι into ε; for instance Πρίαμος, Πέῤῥαμος; τρίτος,
+τέρτος; κόπρια, κόπεῤῥα; and χίλιος has ι long how did it turn ι into ε; and
+χίλιοι is written through ι for such a cause; every number in the initial
+syllable according to the sound
+
+falling together with the name of a letter also keeps the same writing with
+it; for instance, the number εἴκοσι in the initial syllable according to the
+sound falls together with the letter ει, but also keeps the same writing with
+it; for it is brought out through ε; since then χίλιοι 276 too in the initial
+syllable falls together with the letter χι, and χι is written through ι, for
+this reason χίλιοι too is written through ι. 9Χῖ9: The name of the letter; it
+is written through ι, since every name of a letter ending in ι does not have
+it in a diphthong; for instance, ξῖ; πῖ; φῖ; ψῖ; so then even χῖ through ι
+alone without ε; for this has ι in a diphthong; and one may say this apology;
+that the names of the letters want to begin from themselves; for instance,
+ἄλφα begins from α; βῆτα from β; if then ε the name of the letter were written
+through ι, it would not begin from itself; for this reason then it is written
+through the ει diphthong, in order that it may be found beginning from ε.
+9Χρίω9: I anoint through ι. 9Χαλκίον9: A warming vessel the utensil.
+9Χαλινόσ9: Through ι; for the Aeolians say χαλλινός; and if it were written
+through the ει diphthong it would have been said χαλλενός. 9Χαρῖνοσ9: Through
+ι. 9Χαρίσσιοσ9: Through ι; 9Χρυσίτησ9; through ι. 9Χρῖμα9: And it means the
+ointment, it is written through ι; since the Aeolians say χρίμμα, and not
+χρέμμα; and one must know that as they say κρούμμα and κρούσμα, so χρῖμα and
+χρίσμα are said. 9Χιλόσ9: And it means fodder, and it is oxytone, and it is
+said in the feminine, and it is written through ι; for those through ιλος not
+being neuter, nor in a sharp raising, nor composed from nouns that have the ει
+diphthong, are written through ι; except Νεῖλος; for instance, Τροΐλος;
+Ζωΐλος. 9Χορήγιον9 and 9Χορηγόσ9: χο short from χέω; for the χορηγός gathered
+and supported the dancers and the actors. 9Χοίνιξ9: Through ι; for those
+ending in a double reject the ει diphthong. 9Χιράδεσ9: It is written through
+ι; and χιράδες are the cracks of the hands; and it ought to have been written
+through the ει diphthong, 277 since from χείρ it has come; but perhaps it cast
+off ε, as λείβω λιβάς; and it is better to say, that the voice suffered along
+with what is meant; since χεῖρας means some want; for it shows the cracks of
+the hands, and the crack has a want toward the whole; for that which has
+cracks is not whole; for this reason it also took on a want of a vowel, I mean
+of ε; and λιμός coming from λείπω did not keep the diphthong of λείπω.
+9Χίλων9: And it is a proper name it is written through ι; since it is found
+also in shortening in Callimachus; for instance, Σόλων ἐκεῖνος δὲ ὡς Χίλων
+ἀπέστειλεν; and it is a choliamb. 9Χελιδών9: It is written through ι; for the
+feminines ending in δων want to have one vowel in the penult; and χελιδών is
+said, either from shaking the lips, or from swelling the lips; or from singing
+with the lips. 9Χίμετλα9: Through ι according to tradition. 9Χόριοσ9: Through
+ι; and Χορεῖος through a diphthong; the accent upon a difference and the
+writing. 9Χείρων9: The comparative, since the Aeolians say χέῤῥων; and from
+χείρ has come χείρων; for χείρων is said from being lessened according to the
+hands. 9Χαλκεῖοσ9: ει diphthong; for it is a material adjective. 9Χλωρον9: χω
+long according to tradition, or the rule of πυλωρός. 9Χαραδριόσ9: Through ι,
+for from rejoicing in its own; for the bird is written marshy. 9Χάρεια9: ει
+diphthong, as proparoxytone. 9Χαλκοβάρεια9: ει diphthong. 9Χαλκεῖον9: ει
+diphthong; for χαλκεύω. 9Χοριόν9: Through ι the bath of the infants, from
+χορεῖν. 9Χρεῖα9: ει diphthong; for from χρέος has come χρέα, and with ι χρεῖα.
+278 9Χίτρον9: Through ι; or χιδρόν, flour from tender barley; or the green
+wheats. 9Χρεωφειλέτησ9: ει; and χρεοφειλέτης is also said. 9Χειά9: ει
+diphthong the lurking-place of the snakes; for from χῶ, which means I give
+room, has come χέα, and by addition of ι χειά. 9Χεῖρεσ9: ει diphthong; for the
+Aeolians say χέῤῥες. 9Χοιροτροφεῖον9: The penult according to tradition.
+9Χοῖροσ9: οι diphthong, from lifting a mound. 9Χεῖλοσ9: ει diphthong; for the
+Aeolians say χέλλος, as
+κείρω κέῤῥω; or from χρέω has come χέλος, and by addition of ι χεῖλος; for the
+foods are held into it. 9Χρείω9: And it means I give oracles, through the ει
+diphthong; for from χρέος has come χρέω, and by addition of ι χρείω; for to
+those who have need to learn the truth the place gives oracles. 9Χρίω9: And it
+means I anoint, it is written through ι; and perhaps for distinction from
+χρείω of giving oracles; and others say that it is written through ι, since
+those in πτω do not want to have the ει diphthong in the penult; for instance,
+νίπτω; ῥίπτω; except φιλαλείπτω; and it has come from χρίμπτω χρίω; except
+ἀνερείπτω, which means I seize, from which ἀνηρείψαντο. 9Χλαῖνα9: αι diphthong
+the cloak; one must know that χλαῖνα differs, of χλαμύς, and of χλανίς; for
+χλαῖνα is the thick and winter garment from χλαίνειν; and χλανὶς the thin in
+workmanship and delicate; and χλαμὺς the round, that is the so-called sagum.
+9Χυτρεῖα9: ει diphthong; the sherds of the pots, and already it was also
+applied to every potsherd. 9Χείμων9: ει diphthong from χέω. 9Χείμαστον9: The
+suitable garment from winter. 279 9Χείρ9: from having. 9Χηρεῖα9: From χηρεύω.
+9Χρήιζω9: With ι; for χρηΐζω. 9Χιτών9: Through ι; there are some nouns that
+come from verbs. 9Χῶσαι9: Long according to tradition; or from χῶ χώσω.
+9Χαίτη9: From κρατῶ, κράτη, and χαίτη. 9Χειρὶς, Χειρίδοσ9: It means the glove.
+9Ψιθυροί9: Through ι, according to tradition. 9Ψωφίσ9: Through ι, because of
+the ending. 9Ψάλιον9: Through ι, since it is also shortened. 9Ψέλλιον9: ι,
+because it is shortened. 9Ψηφίσ9: ι, because of the ending. 9Ψιμύθιον9: Both
+through ι. 9Ψίξ9: ι, because of the ending. 9Ψιλή9: Through ι; for it is
+brought forth from the edge of the lips, as the rough, which has been found
+from σεύεσθαι, and δα upon the gathered breath the rough. 9Ψίσαι9: Through ι
+the tradition; and it means both to feed with morsels, and to nourish shortly
+with some quality of sound. 9Ψωμίσαι9 and 9Ψωμίον9: ω and ι the tradition.
+9Ψευδίσ9: ι, because of the ending. 9Ψυχεινός: Ψείρει9 ει diphthong the
+tradition. 9Ψευδομαντεία9: ει diphthong, from μαντεύω. 9Ψῆφοσ9: The tradition.
+9Ψόγοσ9: From ψέγω; 9Ψόγειοσ9 ει diphthong, and it is proparoxytone; whence
+also a neuter from ψόγεια. 9Ψωμίσ9: ι for the ending. 9Ψιλὸσ9, and 9Ψιλὴ9, and
+9Ψίλιον9: Through ι. 9Ψωφίσ9: ι because of the ending. 9Ψύλλειον9: The plant
+ει diphthong; as πράσειον and ἐλένειον the tradition. 9Ψαίρειν9: ει diphthong
+the Attic to move and to touch; and they have used the word of the sails. 280
+9Ψαιδρόν9: αι diphthong, the bright the Cyprians. 9Ψαῖμα9: αι diphthong, the
+little; and ψαῖσμα the little-eating. 9Ψαινάθιον9: αι diphthong, the false and
+vain. 9Ψαίνυον9: αι diphthong the useless, the tradition. 9Ψαιστόν9: αι
+diphthong; and it is a kind of cake, which preparing through barley-meal, from
+ψαῖσθαι and ψώχεσθαι; whence also ψωμοὶ and ψίχες the small nourishments.
+9Ψυχραινόμενοσ9: I.e. doing cold things; the χραι is a diphthong. 9Ψηλαφῶ9:
+The ψη is η; whence I know. 9Ψιλαφῶ9: Through ι, from touching smoothly the
+cook. 9Ὠσχοφορίον9 and 9Ὠσχοφορία9: And from a perfect ο is; for it was
+ὀσχοφορῶ; and οἴσχη are the branches with the clusters. 9Ὤνιον9: Through ι, as
+from θοίνιον and ἐνθοίνιον. 9Ὠρίων9: Through ι, since Euripides also shortened
+it. 9Ὠρείτησ9: For Ὠρεός. 9Ὠκεῖα9: ει diphthong; for ὠκέα and ὠκέη. 9Ὠφέλεια9:
+ει diphthong the tradition; and the Politicus through ι, and it is
+proparoxytone; and in Sophocles also ει diphthong, and it is proparoxytone as
+προμήθεια. 9Ὡρολογεῖον9: ει diphthong; it has also been said as ἡμερολογεῖον.
+9Ὠστιεῖται9: From ὠστίζω, which shows I am pushed; as βαδιεῖται and αἰκιεῖται
+having the ει diphthong
+
+in the penult, as ὥσει and οἱονεί. 9Ὠκυτόκειον9: ει diphthong; for also
+ὠκυτοκεύς. 9Ὠδεῖον9: ει diphthong, as γράφω, γραφεῖον; πέμπω, πομπεῖον; ᾄδω,
+ᾠδεῖον. 9Ὤκειλεν9: ει diphthong, of a ship being pushed to land. 9Ὠτειλή9: For
+the Aeolians Ὠτέλλω the wounds; and the Attic say οὐλή. 9Ὠψεῖον9: They had
+optically; and ὤψεον has also been said. ἐγὼ δέ τοι καὶ πάλιν ὄψεον. 281
+9Ὠιαί9: With ι the tradition, when it is an adverb of lament. 9Ὠνηματιαῖοσ9:
+αι the tradition. 9Ὠπιδαῖοσ9: αι, and it is properispomenon; and it is of a
+people. 9Ὡραῖα9, and 9Ὡραῖοσ9, and 9Ὡραιέστατοσ9: αι diphthong all the
+tradition. 9Ὡριαίνεσθαι9: αι diphthong; from ὡραΐζεσθαι; 9Ὠσφραίνεται9.
+9Ὠχραίνεται9: αι diphthong, i.e. paleness. 9Ὠδίν9: ι, as having two endings.
+9Ὠδή9: With ι, from ᾄδω, ἀοιδὴ and ᾠδή. 9Ωἶα9: The edge of the tunic, with ι
+the tradition. 9Κωμωιδός· Μελωιδός· Ῥαψωιδόσ9: With ι from ᾠδή. 9Ὠιόν9: That
+of the bird with ι. 9Ωἶμοι9: In two ways from οἴμμοι. 9Ὦτε9: With ι, i.e.
+ὡσειτε. 9Ὠδίσ9: Through ι for the sake of the ending. 9Ὠμώσ9: The inner little
+tunic is called ὑποδύτης; and the outer ἐπενδύτης. 9Πάλιν9: A syntactic
+adverb; 9Ἀνάστα9; an adverb of exhortation; 9Ἀμέλει9; an adverb of taking
+together; i.e. for this reason. 9Τί9; an adverb of perplexity. 9Πολύ9: An
+adverb indicative of quantity. 9Ἆρα· Ἄνμοι9: Adverbs of denial; 9Οὐκοῦν9; an
+adversative conjunction; likewise also 9Λοιπόν9. 9Σχεδόν9: A comparative
+adverb, and it means nearly. 9Οἴμμοι9, and 9Ὦιμοι9, and 9Οὐαί9: Adverbs of
+lament; 9Ἅπαξ9 indicative of number. 20Χριστὲ ἀεί μοι δίδου χάριν20.

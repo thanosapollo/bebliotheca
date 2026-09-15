@@ -1,0 +1,1225 @@
+#+TITLE: Commentary of George Choeroboscus
+#+AUTHOR: Γεώργιος Χοιροβοσκός hermes:grok-4.6
+#+FILETAGS: :byzantine:9c-ad:pg86:
+#+MIGNE_TITLE: COMMENTARIVS GEORGII CHOEROBOSCI
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/commentarivs-georgii-choerobosci--george-choeroboscus
+#+LANGUAGE: en
+
+* Commentary of George Choeroboscus
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+Scholia, with God, on the metres, from the voice of George Choeroboscus,
+grammarian of Byzantium, of the oecumenical teaching.
+1. One must know that the metrician has as his "aim" to treat of metres. The
+inventor of metre is Apollo, that is the Pythia, or, as some say, Phemonoe the
+priestess of the Pythia. Metres were therefore first found at the Pythia,
+because the oracles and the responses were given in metre; then from the
+Pythia the poets came to know them. Father and origin of metres is rhythm; for
+it extends more universally, being not only in the metres but also in certain
+other things; for rhythm is also accomplished from hammers in bronze-works and
+from horses' feet and clapping of hands and the lyre and certain other things.
+178 And the critic of metres is hearing; whence also some, defining what metre
+is, say that which is composed of feet or bases, judged by the sense that is
+through hearing. Feet and bases are to be understood as the same thing in
+parallel. If then hearing is discriminative of metres, and the proper object
+of sense for hearing is the voice, it is clear that the voice adorns the
+metres. For as the voice, stretching and contracting the syllables, shapes and
+adorns the sound of good rhythm, so hearing, having received it, judges the
+voice itself and the rhythm of the metres. Whence often metres are found in
+prose speech and escape notice because of the rhythm of the prose speech (and
+conversely in metres prose speech is found and is not easily perceived),
+unless perhaps hearing, judging well, makes it evident and clear. Whence also
+in Demosthenes one can find metres: iambs continuously, as (Ol. 1.5) "for it
+is clear to the Olynthians that"; but also a heroic verse, as (On the False
+Embassy 143) "the war in Amphissa, on account of which to Elatea"; but also an
+ionic a maiore in the same (Ol. 3.4) "and when many speeches and a tumult
+arose among you"; similar [and] to (Sapph. 76 = Heph. 36, 17) [assarotera]
+"Mnasidica of the tender Gyrinno." 179 Rhythm therefore differs from metre, in
+that rhythm is in many things and in words, but metre is in the times alone.
+This Aristophanes also makes clear, even if he seems to jest in bringing on
+Socrates, that they differ; for he speaks thus (Nub. 638) "whether about
+metres or about verses or rhythms"; so that it is clear that metre is one
+thing and rhythm another. Metre is said in many ways. For metre is that which
+measures and <that which> is measured, just as also a medimnus and a choenix
+and a cubit. Metre is also said of due proportion, as the saying "every
+measure is best" shows. Metre is also said of the simple foot, whence we also
+call the verse hexameter, as having six feet. Metre is also said of the
+dipody, whence we are also accustomed to call iambs trimeters, numbering them
+by dipody. Metre is also said of the system of feet, as a verse or an iamb,
+whence we say that this rhapsody has perhaps five hundred metres, as it were
+five hundred verses. Metre is again said universally of every metrical speech
+in distinction from prose diction, as it were the poem. It is also said
+specifically of each metre, the dactylic or ionic or one of such. Metre is
+also said of the time; whence a dactyl is tetrameter, as it were of four
+times, and the heroic verse 180 is said to have 24 metres, as it were times,
+as Orpheus or the Pythia shows, speaking of the epic thus: "upright, of six
+parts, of four and twenty measures." (One must know that the metricians, that
+is the grammarians, take the times otherwise, and the rhythmicians otherwise.
+The grammarians know as a long time that which has two
+
+times, and they are not brought down to anything greater; but the rhythmicians
+say that this is longer than that, claiming that of the syllables one is of
+two and a half times, another of three, another of more; for example ˉωˉς the
+grammarians say is of two times, but the rhythmicians of two and a half, two
+of the long ˉω, and a half-time of the ˉσ; for every consonant is said to have
+a half-time.) The technician then, as we said before, has as his aim to treat
+of metres. 2. The present treatise is "useful" not to all, but to those who
+will compose books in metre, not to orators or simply to those who use prose
+speech. 3. The present treatise is "genuine" of Hephaestion, first from the
+common testimony of those who have made commentaries on it, and then also from
+his mentioning this also in his other writings; for he makes a book On the
+Poem, which is always found together with this book On Metres. 181 4. The
+present treatise is "entitled" Encheiridion, either because, just as the
+encheiridion sword is sharp and cutting, so this too is that which sharpens
+and cuts the teaching; or, which is better, from its being very small (for it
+makes an epitome of what he has said at length) and, as custom says, from
+having it in the hands; for so also Heliodorus, having himself also made an
+encheiridion on metres, says at the beginning "for those who wish to have in
+their hands the most capital points of metrical theory" and the rest. One must
+know that [this Heliodorus] first made 48 books on metres, then later
+abbreviated them into eleven, then again into three, then further into one,
+this Encheiridion. From its being small then and easily carried in the hands
+it has been entitled Encheiridion. 5. It is "divided" into two; and in the
+first he treats of "syllables", that every syllable is either short or long or
+common, and of "concurrent pronunciation", which is also called synizesis;
+then also of "feet" and of various "metres", that there is iambic, trochaic,
+dactylic, ionic, and certain such. And in the second, of the "antipathetic"
+ones, that this foot is antipathetic to that, for example the trochee is
+opposite to the iamb and the spondee to the pyrrhic, the dactyl to the
+anapaest, and certain such; then also of "asynarteta", that this 182 said
+beside that is uncomposed and asynartete, and it is clear that he brings
+forward the examples of each, examining them; then he inquires also about
+"polyschematista" and so completes it. 6. The present treatise "ought to have
+been placed first", as some say, before every metrical treatise and before the
+Iliad; for first we ought to have known what metre is and of what kind and
+from where it is taken, and thus to know the metres themselves, whether they
+are well or ill. But we say that the matter of the present treatise is the
+metrical poems of the poets; for Hephaestion regulates these and brings
+forward their usages, saying that such and such a poet used such and such a
+metre. But how, the matter itself being unknown, could we know the method? As,
+how, there being no wood, could someone learn to carpenter? Reasonably then we
+first speak the words, that is the poems that admit metre, and their
+inflection through the eight parts of speech, their syntax and punctuation,
+and later this present treatise treating of their metre. 7. This again, as
+every technical inquiry, is "brought under" the technical organon of grammar;
+for it is not, as some have wished to say, under the 183 metrical, since it
+treats of metres. For the poem itself is not in metre, so that we might say it
+is under the metrical, as the work circulating in iambs of Philemon the
+Atticist on Attic dispute in words. In which the seven headings have been
+stated. One must know that metre has been said from meiro (I divide), as from
+seio seistron and from dero dertron, <that is> the skin, as also the usage
+(Od. 11.579) "going within the dertron." One must know that among the
+metricians the oxytone syllable is greater than the barytone, for example the
+syllable ˉλˉοˉς
+
+in kalos is greater than that in philos; for a certain slowness of the time
+comes about, as is also said in the case of the rough breathing, through the
+acute. [And the circumflexed is in the middle of the two, shorter than the
+long, longer than the short.] Again the oxytone syllable, when an enclitic
+follows and sends the accent back upon that very syllable, is greater than the
+simply oxytone when no enclitic follows, for example Zeus te (Il. 9.457) and
+te chaliphronenta (Od. 23.13). 184
+Cap. I. On the short syllable.
+"A short syllable is that which has a short vowel or one shortened, not at the
+end of a word, in such a way that there are not, between this vowel and the
+[vowel] in the next syllable, consonants more than one simple, but either one
+or none." U "A short syllable is that which has a short vowel or one
+shortened, not at the end of a word, so that between it and the vowel in the
+next syllable there are not more consonants than one simple, but either one or
+none." K One must know that, as has been said before, writing an encheiridion
+and as in the manner of an introduction, he did not begin first from the
+elements, as some say, or from stating the definition of metre, or from the
+genus of the syllable, as it were the syllable in general (for in general "a
+syllable is," as Dionysius says in the Art, "properly a taking together of
+consonants with a vowel or vowels, as Kar, bous"), but from the syllable in
+species, as it were long and short and common. For the matter of metres is the
+syllable, and without this a metre would not be constituted. And he himself
+says, as all also agree, that there are three species of the syllable in
+general, I mean the 185 long and the short and the so-called common. But of
+these [that is, of each one] he states certain differences, when and how and
+in how many ways a short or long or common syllable comes about. Horos,
+better, taking every syllable into five, says there are five species only of
+syllables, two of the short, two of the long, and one of the common. For the
+short syllable, he says, is either short by nature or by position; by nature,
+when it has one of those short by nature, by position, when it has one of the
+dichrona. And the long likewise, by nature, when it has one of those long by
+nature, both vowels I mean and diphthongs, by position, when it has a
+dichronon or a short vowel lengthened through <two> consonants or one double.
+And one species of the common is the being able, though short, to be taken as
+long, or conversely the being able, though long, to be taken as short. The
+technician then treats first of the short syllable, and gives a definition of
+it that is sound and convertible with the thing defined, which is the health
+of a definition; and the definition is clear and not in need of explanation.
+He said well "is short", and not "becomes short", as we shall show 186 more
+completely in the common syllable. And he well added "not at the end of a
+word" because of the so-called common; for if it completes a part of speech,
+it falls under the account of the common, for example the syllable ˉτˉα is
+short, and yet it lies in the place of a long in the poet, where he says (Il.
+21.352) "the fair streams around"; likewise also ˉπˉρˉοˉς in (Il. 9.147)
+"toward the house of Peleus"; for we call the foot pros oi a spondee. And
+again he well added "there are not to be consonants more than one simple"
+because of the long by position; for if it happen that two consonants are
+brought upon a short or shortened vowel, whether by combination or by
+division, or one double, it becomes long by position; and what is said is
+obvious. {1On the long by nature.}1 "A long syllable is that which has a
+<long> vowel <or> one lengthened or one of the so-called diphthongs, in such a
+way that there is next a consonant, either final of that syllable itself or
+initial of the next, as thes, sos, kai; if
+
+not, they are not outright long, but common, as will be said next." U "A long
+syllable is that which has a long vowel or one lengthened or one of the
+so-called diphthongs, in such a way that there is next a consonant, either
+final of that syllable itself or initial of the next, as thes, thos. If not,
+they are not truly long but common." K 187 First he treats of the long by
+nature, and later also of that by position. He says then that long by nature
+is that which has eta or omega or one of the dichrona alpha iota upsilon; for
+these too he says make a long by nature, and also the diphthongs; and
+reasonably; for the composition of the two vowels makes one long by nature,
+whether they be long and short, or both short. And "so that there is next a
+consonant of the long, either final of it or initial of the next" he well
+added, in order to distinguish the common. For if it ends in a vowel and has
+the next beginning from a vowel, it becomes common, as "tell me, Muse, of the
+man" (Od. 1.1); for the syllable ˉμˉοˉι, being long, since it has no consonant
+following, is taken in place of a short and is named common among the
+grammarians. The same also in "he was driven about, after he had sacked Troy"
+(Od. 1.2); the same also in "of the horn from the head" (Il. 4.109); for the
+syllable ˉρˉα is long by nature, being by crasis of the two alpha alpha from
+keraa. {1On the long <by position>}1. The grammarians call long by position
+those that come about from the intertwining of consonants; and he states 188
+five modes and differences of it, which Dionysius also states, being quite
+clear. One must note that he brings forward as an example of a syllable having
+a short vowel with two consonants of the other syllable following it Hektor
+(p. 2, 15), quite fittingly; for from echo hexo it has come about, the one who
+holds and takes hold of his own city. For it is not from the preposition ek,
+so that someone might suppose the kappa to be with the epsilon and the
+syllable tor by itself. The remaining examples are obvious. {1On the common
+syllable.}1 "A common syllable comes about in three ways: either when a vowel
+follows a diphthong or a long vowel or one lengthened, as 'tell me, Muse, of
+the man, who was driven about much, after he had sacked the sacred citadel of
+Troy'" (Od. 1.1-2); "'of the horn from the head, sixteen palms'" (Il. 4.109).
+He did well not to define the common syllable. For it is not, but becomes. And
+of things that are not one must not offer definitions as of things that are.
+Lying in the middle of both it is called common. One must know that some
+define it thus: a common syllable is an ambiguous power of a syllable, which
+can be taken toward both; but it did not seem good to Hephaestion 189 to set a
+definition of it, nor of the long by position; and reasonably; since they say
+that they are not from themselves, but become long or short by position. And
+it is superfluous to give a definition of what is not; for definitions are of
+things that are by nature. There is one mode of the common syllable, even if
+he simply seems to say three modes, just as also Dionysius. For when it ends
+in a long and completes a pure part of speech and has the next beginning from
+a vowel, it becomes common. And this is altogether obvious from the examples.
+And we too use it whenever we make the amphimacer and palimbacchius foot. (3,
+10) "For such a common comes about more easily, if the syllable has been
+bounded into a part of speech, as in the examples set forth; more rarely also
+in the middle of a word; nevertheless it is found, and especially in the other
+metres; in iambic Aeschylus in Niobe"
+
+(155 n) "Istros brings forth such maidens," and in ionic a maiore of Sotades
+from Adonis this: "which of the ancient histories do you wish to hear," and in
+antispastic of Anacreon (1, 4) "or you have come now to the Lethaeus." 190 He
+says this well, that it comes about more easily when the long completes a pure
+part of speech. For a common comes about also in the middle of a word and at
+the beginning of a word, but not so "more easily" and readily. And he brings
+the examples in various metres. He says then that Aeschylus has used in the
+drama Niobe, in iambic metre, the ˉοˉι at the beginning of a word
+
+being common thus, where he says "Istros brings forth such maidens," (for he
+shortened the syllable ˉτˉοˉι in the second basis of an iamb. One must know
+that the whole usage is not thus at the end, but "Istros boasts that he rears
+such maidens, and the holy Phasis.") And Sotades in Adonis says "which of the
+ancient histories do you wish to hear." This Sotades Ptolemy Philadelphus
+killed, having been exposed and insulted by him, because Ptolemy had consorted
+with his own sister. The metre is ionic a maiore. The pure ionic a maiore
+comes about from a spondee and a pyrrhic as far as six. And there are times
+when the <first> long is resolved into two shorts, [and there are times when
+the first syllable alone] so that the figure becomes such: from two shorts and
+a long, then from two shorts the second basis and so on. And those 191 having
+such a figure are called common resolution; [the same is also upon the fifth
+basis here; for it is from a long and two shorts] for it is found common of
+the ionic a maiore and of the ionic a minore. For there being two longs and
+two shorts, if I resolve the first long into two shorts, the common resolution
+comes about. And conversely into the a minore, if the two shorts come together
+into one long [the common resolution comes about] and I resolve the second
+long of the spondee foot, the same figure is shown. And for this reason it is
+called common resolution. From where then is it clear that it is ionic a
+maiore? We say that from the second and third syzygy it is agreed, that those
+begin from a long; and the long is initial of the ionic a maiore. This metre
+then is ionic a maiore tetrameter brachycatalectic. And it is tetrameter
+brachycatalectic, since it has four tetrasyllabic feet less two syllables
+(wherefore it is also called brachycatalectic); for the first syzygy is
+pentasyllabic (for it is measured by dipody), having the first foot
+trisyllabic from the common resolution. But the fifth syllable is written
+through a diphthong, ˉλˉαˉι, and the metre seems to be lame. But we take it as
+common, ending (the syllable, not indeed the word) in a vowel and having 192
+the next beginning from a vowel, ˉωˉν, so that again a common comes about also
+in the middle of a word. (3, 19) "Or you have come now to the Lethaeus"? This
+is an antispastic metre of Anacreon (1, 4). And the antispastic is that it
+begins from a spondee and a trochee, as in "I entreat you, deer-shooter"
+(Anacr. 1, 1); the second foot is a diiamb, the last being indifferent. Here
+then the syllable ˉθˉαˉι of "Lethaeus" is common in the middle of a word,
+being taken in place of a short. (3, 20) "And in epics more rarely." He says
+that it also comes about in epics, that is heroic metres, but more rarely in
+these. Yet it also comes about in elegiacs; and that it is rare, he says, is
+clear. For Sophocles, not being able, when praising Archelaus, to put the name
+of Archelaus himself into an elegiac, because it makes an impure amphimacer
+(for the syllable ˉλˉα, being long, did not complete a part of speech, so as
+to make a common), shortened it and made it in the Attic way Archeleos.
+Likewise also Parthenius, writing to Archelaid and not wishing to make a
+common in the middle of a word in elegiacs, made an iamb instead of an elegiac
+thus: "the name of Archelaid will be unpolluted" Heph. p. 4, 7
+193 (one must know that Philoponus also did likewise into an epigram of
+Caesarea); and the unpolluted some in that very usage call dim, which
+signifies the impossible. But also in Homer (Il. 14.489) one can find a
+necessary shortening. For instead of Penelaioio he made Peneleoio (4, 8). And
+it is not possible to call it Attic; for the inflection too ought to be Attic,
+Peneleo. And Rhinthon again used the common in the middle of a word in an
+iamb, then says: "the metre is Hipponax's, not mine"; for he speaks thus "may
+Dionysus himself destroy you utterly" (4, 10), (as it were, may the same
+Dionysus destroy you utterly;) for he shortened the syllable ˉθˉεˉι of the
+last foot so as to be
+
+a choliamb. (4, 15) "And it is found in epics as in Theocritus" (11, 18)
+"looking to the sea he sang such things of the high" and in Homer (Il. 13.275)
+"I know what sort of excellence you are. Why need these things be said of you?
+and in Anacreon in elegiacs." Now he brings forward in Theocritus a common in
+a verse in the middle of a word, but we say in apology that 194 he takes the
+ˉοˉι in place of a short or simply makes a common as has come about in the
+metres aforesaid and in those that follow; for it is in Anacreon in elegiacs,
+as the technician says; and one can still find it also <in> others as in
+Sophocles in Oedipus at Colonus, where he says (1136) only they think to share
+these sufferings; for in the second foot he shortened the ˉοˉι. But also
+Aristophanes in the Knights likewise, where he says (479) "and these things
+from the Boeotians being cheesed together" and again the same (480) "how then
+is the cheese for sale among the Boeotians"; he shortened the ˉβˉοˉι in the
+fourth foot. But also Menander in the Epitrepontes "men of such age and such
+by birth" (181) shortened the ˉτˉοˉι in the fourth foot. And the same is also
+upon the diphthong ˉαˉι, as Eupolis in the Astrateutoi says (35) "if anyone of
+the Athenians wishes to enroll"; in the second foot he shortened the ˉαˉι. And
+in Hipponax upon the diphthong ˉαˉι and ˉοˉι the usage is abundant. But we the
+later must not use it; and if anyone should use it, he has an apology; for the
+diphthongs ˉαˉι and ˉοˉι are not long by nature, but, as is also shown in the
+195 On Accents, these have toward one and a half time only, the long by nature
+having two, whence also being at the end they often have the proparoxytone
+accent. (5, 10) Then the technician also brings an example upon the diphthong
+ˉυˉι; which again has an apology that it is weaker, as composed of two
+subordinate letters, upsilon and iota; whence it is never found at the end of
+a word, and reasonably that he made the common not at the end of a word but in
+the middle. And one can find the diphthong ˉοˉυ likewise making a common, as
+in Aristophanes Nub. 838 as of one dead he is washing out my life; for he
+shortened the syllable ˉλˉοˉυ in the fourth foot of an iamb. Likewise we also
+find the ˉεˉυ making a common, as in the first iamb of Hipponax, where he says
+blessed is he who hunts † having done 22a the ˉρˉεˉυ in the fourth foot he
+shortened; and again the same in the second foot the ˉεˉυ "and yet if you wish
+I will give him cheap" 22b); then again the same "he bade them pelt and stone
+Hipponax" the ˉλˉεˉυ in the fourth foot; and he says "to stone" i.e. to pelt
+with stones. One must know that the poet's usage that has the ˉοˉι, which the
+technician brings forward (5, 1. Il. 13.275), is contrary 196 to the account
+of Herodian that the ˉοˉι is never found taken in place of a short in a
+palimbacchius, but in an amphimacer, as in "looking he sang such things" (4,
+17) and the like. And Heliodorus said it was by synizesis. And a common is
+found simply in the middle of a word also in a palimbacchius, as also in
+Tyrtaeus "heroes" (17); for so he took the second foot of the verse. One must
+know that Hephaestion did not state a definition of the common syllable, for
+there is no common; wherefore he well says (3, 4) "and a common becomes" and
+not "is"; for that there is no syllable that is common is clear; for if
+someone asks us which syllable is long, we shall declare assertively ˉμˉη and
+ˉβˉω, and likewise short ˉμˉε and ˉβˉο. And again long ˉχˉθˉη and <the>
+ˉμˉοˉι; and yet the poet has used each of these in "he was driven about, after
+Troy" (Od. 1.2), and in "tell me, Muse, of the man" (Od. 1.1) as short; and
+yet they are not short, but become common. This also upon every common. One
+must know that, the technicians and metricians saying of the long by nature
+that they do not wish the long itself to end in a vowel and have the next
+beginning from a vowel, but altogether to have a consonant between 197 (for
+then it will not become long, when it is pure, but common), Heliodorus says
+that it is helped in such a way and remains long and does not become common
+
+in 8 ways. First, when a stop is brought upon that long itself, as "immortals;
+not even if someone dwells houses far off" (Od. 5.80). Second, if the long
+itself is circumflexed, as "to Asclepiades, but I did not see the eyes of the
+man" (Il. 11.614). Third, if upon the circumflexed long there is brought "and
+you have not yet said any good word nor accomplished it" (Il. 1.108); for
+eipas is circumflexed. Fourth, if an acute is brought upon it, as "where has
+gone white-armed Andromache" (Il. 6.377). Fifth, if a word with rough
+breathing follows, as "to give the glancing-eyed girl" (Il. 1.98); for
+helikopida follows with rough breathing. Sixth, when there is a collision and
+a sequence of synaloephe coming about Idaeus, these things to Hector bid you
+speak (Il. 7.284); for Idaie is the complete form. Seventh, when the
+disjunctive e † follows "or Ajax or Idomeneus or divine Odysseus" (Il. 1.145);
+he speaks of the syllable ˉαˉς; and this one must observe, that before the eta
+a consonant lies in ˉαˉς, and yet 198 as concerning a disputed and no longer
+agreed long Heliodorus speaks. Eighth, when iota follows, as "and she like a
+lead-weight rushed into the deep" (Il. 24.80). 5, 13) "And the second mode is,
+when two consonants follow in the next syllable a short or shortened vowel, of
+which the first is mute, and the second liquid, as hoplon, akron, Patrokle moi
+deile" (Il. 19.287) "and the rest." Here he wishes to examine the other two
+modes of the common; for the first we went through in the preceding lecture.
+The second mode then is thus, that a common comes about when two consonants
+follow in combination a short or shortened vowel, as it were a dichronon, of
+which the first is of the 9 mutes, the second a liquid, as it were one of the
+4 unchangeables, as hoplon, akron, Patrokle and the like. And "in combination"
+is well added; for if they are in division, they do not make a common,
+inasmuch as the interval in separating the consonants becomes greater and the
+voice is not slippery and brief so as to be able to escape notice. Then some
+inquire why the two like do not make 199 a common, I mean two semivowels or
+two mutes or two unchangeables. And we say of "the semivowels", that a
+semivowel does not at all precede a semivowel in combination, except rarely
+and in certain cases by affection sigma of lambda mu nu, as he himself says
+Masnes and Pasnes; then also Herodian in the Catholic says Daslera; (and it is
+a lake of Cyrene of the pentapolis, whence Callimachus was). For that which
+has at the end conversely lambda preceding sigma [again] of necessity hals,
+and nu Tiryns, and rho makars. And by affection masles from masthles and eslos
+from esthlos. And of "the mutes" one can say that they are weaker than the
+other letters and were found making a common rarely among themselves, pi tau
+and kappa tau, as in the poet (Od. 4.229) "Egyptian, where the grain-giving
+field bears most." And again in Hipponax in the fourth foot of an iamb
+"thinking to strike that man with the staff." And again in the same "he asks a
+half-hecte of the phallos † to peck." Then also that by the account of the
+common, as it were of a short, the 200 <kappa tau and> the pi tau is doubled
+in kektaka and peptoka, unless perhaps it has come about by syncope, as was
+shown in the On Verbs. And of "the unchangeables" one can say why the two
+liquids, being slippery, do not make a common, that perhaps reasonably. For
+the 2 liquids are not so slippery as liquid and dry, as when the liquid is
+below and the dry above. For example one can take an example upon the rind of
+a melon; that if two liquids stand both above and below and someone treads
+them, it does not slip nor fall. Likewise also if the dry of the rind is
+below, and the liquid above. But if conversely the liquid is below, and the
+dry above, and someone treads it, it readily slips and falls. So then also
+here, since the dry is above, as it were the mute, and the liquid below, as it
+were the unchangeable, reasonably the voice becomes slippery and makes the
+common. For the long escapes notice slipping and passing briefly.
+
+Besides, there are not even two liquids in combination, except only mu
+preceding nu, which one can also find as weaker often taken 201 by the account
+of the common. For first they were not doubled in the perfect as the syllable
+being short, as memnemai. Then they also make a common in the metres. And the
+metrician brings this forward in various places; (6, 3) as in Cratinus in the
+drama Panoptai (154) into a verse "to the alien-minded, forgetful, mnemonic,"
+and in Epicharmus in Megaris "well-hymned and having all music, lyre-loving
+echo." And the metre is trochaic tetrameter hypercatalectic. One must know
+that in the unequal of such a metre, I mean of the trochaic, a spondee does
+not fall, but this comes about in the even; for this reason here the ˉμˉν in
+the first basis made the common. And it is hypercatalectic, since after the
+four feet measured by dipody a syllable is in excess. And it has the fourth
+foot a choriamb, that is composed of a trochee and an iamb; and again the
+ˉφˉιˉλˉο two shorts were taken in place of one long. And there are again also
+in Callimachus (27 = Heph. p. 6, 9) "thus the guest son of Mnesarchus said";
+and we must not use it again; for they are rare and to be noted. (6, 10) "If
+however the mute is final of the former syllable, and the liquid initial of
+the second, 202 a common syllable no longer comes about, and the rest." It has
+been said about this, that if the mute does not precede the unchangeable in
+combination, they do not make a common, and the metrician brings examples. (6,
+16) "And Heliodorus says that mu following a mute makes common syllables in
+epics less than the other liquids; for this reason Cratinus also in the
+Cheirones" (fr. 235) "has made 'a pretext we Cheirones have come as precepts'
+instead of eleluthamen." U "And Heliodorus says that mu following a mute makes
+common syllables in epics less than the other liquids, because Cratinus in
+Cheirones has made 'a pretext Cheiron we have come in as precepts' instead of
+eiseluthmen' and the rest." K Here Hephaestion well blames Heliodorus saying
+that mu following a mute has been found making a common less and more rarely.
+Wherefore he says that Cratinus, in order that the ˉθˉμ in eleluthmen might
+not be found not making a common (and it is by syncope of the alpha from
+eleluthamen), threw out the mute theta in "a pretext we Cheirones have come."
+But this is false. For the usages are very many, and the technician brings
+examples; and there are also many others and especially of this very ˉθˉμ as
+in Aristophanes in Plutus (759) "having become a shoe with well-rhythmed
+problems"; 203 and in Clouds (638) "whether about metres <or about verses> or
+rhythms"; and again (647) "quickly you could learn about rhythms"; and again
+(648) "and how would the rhythms help me toward the barley-meal"; and again
+(650) "to understand of what sort of the rhythms"; and in Frogs (1365) "for I
+wish to bring him to the balance itself."
+
+And we do <not> say that Cratinus said elelumen for this reason; for it is
+also in Epicharmus, as the metrician himself sets forth (7, 10) the usage in
+Cycnus "to the houses of such a man we have come." But the usage does not lie
+thus, but "first to the houses of Cycnus we have come"; and so one must write.
+Whoever used by analogy also the second person elelute. Not then because of
+not making the ˉθˉμ common did Cratinus throw out the theta of eleluthmen,
+saying elelumen. (7, 15) "And the third mode is, when a short syllable is
+final of a word, the consonants that make the long not following, but either
+one or none." U "And the third mode is, when a short syllable of a word is
+final, none of the consonants that make the long 204 following, but either one
+or none; and the rest." K What is said is obvious, that a common comes about
+in a third mode, when a short completes a part of speech and has not two
+consonants following, but either one simple or none, since it will be found
+becoming long by position. One must know that we have not used this common
+
+ourselves, but rather the poets, as "and the cry did not escape Nestor even as
+he was drinking" (Il. 14.1) and "and it stirred the heart of warlike Ajax
+most" (Il. 14.459) and "and they shouting greatly" (Il. 14.421) and "and the
+Lycians cut him a precinct" (Il. 6.194); "and men" a spondee at the beginning
+of a verse. And this had something exceptional beside the other usages, that
+it is at the end of a foot and not at the beginning as those aforesaid. And of
+this short taken in place of a common Heliodorus states ten modes, when then
+and how it is found. For he speaks thus: such a short is found common in the
+place of a long, when iota follows, as in "and they shouting greatly" (Il.
+14.421). 205 "And the second" mode is that which comes about variously from
+the acute, when it lies upon that short syllable itself, as "and the Trojans
+shuddered when they saw the glancing snake" (Il. 12.208). For the mode of the
+acute has been divided variously, either preceding or lying upon, as has been
+shown, or also following; preceding, as "either a portent for sailors or for
+the broad host of peoples" (Il. 4.76); and following "who knew the things that
+are and that will be and that were before" (Il. 1.70). "The third" mode is
+that from the circumflex if it follows, as "while he pondered these things in
+mind and in heart" (Il. 1.193); the epsilon and the ˉωˉς are scanned into one
+long by synizesis, as we shall know at once as we proceed. Likewise also
+"going everywhere before again in the hands of women" (Il. 6.81). And if the
+circumflex precedes, as "household servants and a dear wife and an infant son"
+(Il. 6.366); and it is from the nominative oikeus, and it signifies the one of
+the house. "The fourth" mode is that from the rough breathing either lying
+upon "and great Ajax always upon Hector" (Il. 16.358), or following 206 "of
+far-shooting Apollo" (Il. 7.83. 20.295), "if as a coward" (Il. 6.443), or
+preceding "I hope it will be accomplished that we may not do thus" (Il.
+7.353). "The fifth" mode is that through the stop and pause; "and he then bade
+them pray to the gods" (Il. 6.240), likewise also "not even very mighty, since
+he is far stronger" (Il. 8.144). "The sixth" mode is that through the
+unchangeables lambda mu nu rho "and under his shining feet he bound fair
+sandals" (Il. 2.44), "the spirit from the limbs" (Il. 7.131. Od. 15.354), "but
+washing with water" (Il. 7.425), "others with hides, others with the oxen
+themselves" (Il. 7.474). And the "other four" modes, that is seventh, eighth,
+ninth, tenth, are through the 4 letters, either through delta or pi or sigma
+or tau, which are also naturally doubled, as "nor yet long" (Il. 6.139 al.),
+"O son of Peteos" (Il. 4.338), "I liken you to Artemis" 151®152 with sigma
+following, but also ending in the syllable ˉλˉοˉς "a sharp arrow" (Il. 1.51.
+4.129), 207 of tau following "and do not you fear Ares at least" (Il. 5.827);
+and they are doubled thus "and the old man feared and obeyed the word" (Il.
+1.33. 24.571), "being accustomed to eat to satiety" (Il. 5.203), "whenever
+someone after a pause" (Il. 19.201), "whichever of the two conquers and
+becomes stronger" (Il. 3.71. 92. Od. 18.46), "and under shining feet" (Il.
+2.44), "whatever for you in the halls" (Od. 4.392). And one can recapitulate
+the ten modes thus: that of iota, that of the acute, that of the circumflex,
+that of the rough breathing, that of the stop, that of the 4 unchangeables,
+that of delta, that of pi, that of sigma, that of tau. And so much about the
+common. And it is worth our being at a loss, why then we ourselves have not
+used this third mode of the common that makes the short common, but only the
+poets; (for it is rarely found into another metre.) For we too have used those
+aforesaid; (we say then, when there is a long by nature ending in a vowel and
+into a part of speech 208 and having the next beginning from a vowel, and when
+there is a long by position with two consonants following in combination, of
+which the first is mute, the second unchangeable). But we say, reasonably. For
+one must know that the long is inclusive of a short (for it is composed of two
+shorts), but the short is not of the long. And reasonably we have used a long
+in place of a short, but not conversely a short in place of a long. {1Cap. II.
+On concurrent pronunciation.}1 "Concurrent pronunciation is, wherever two
+syllables having no consonant between one another are taken in place of one."
+U "Concurrent pronunciation is, when two syllables having no consonant
+
+between one another are taken in place of one. And the modes of concurrent
+pronunciation are these. For either two longs; and the rest." K Here he wishes
+to treat of concurrent pronunciation, as it were synizesis; and one must know
+that this concurrent pronunciation differs from synaloephe; for synaloephe is
+measured otherwise and concurrent pronunciation otherwise; for synaloephe is
+measured just as it is written, as "so he spoke, and they all became hushed in
+silence" 95 et saepius); 209 for the omicron having been thrown out in "so he
+spoke" (hos ephato), it was also thrown out in the metre and is not taken as a
+syllable. But concurrent pronunciation is not measured as it is written, but
+two syllables are taken together into one in the metre, as he himself states
+countless examples; "or is it not enough that you beguile unwarlike women"
+(Il. 5.349); for the syllables e and ou are measured into one. And he states
+five modes of concurrent pronunciation itself; for either two longs become
+into one long, or a short and a long into one long, or a long and a short into
+one long, or two shorts into one short. Then at the end he states the fifth
+mode, when a short and a common are taken into one short. And Heliodorus says
+in the Introduction that three syllables also are pronounced concurrently into
+one, as this dipenthemimeral, [as it were] that which seems to be an elegiac,
+"Asteris, neither I love you nor Apelles" (Anacr. 72b). For it is not an
+elegiac, but the first part of it is dactylic, and the second iambic; for it
+has two iambic feet and a syllable; the "phileo ou" then from a short and one
+long. 210 One must know that the fourth mode, I mean that which says two
+shorts are taken into one short, he says (9, 6) is found properly in the other
+metres, but rarely in epic. As in Sotades in the Iliad "brandishing the Pelian
+ash down upon the right shoulder." And the metre is into an ithyphallic. Which
+has such a mode; the first part of it is ionic a maiore, and the last part of
+it, which we were calling ithyphallic, is measured from three trochees; thus
+by dipody "brandishing the Pelian ash" the syllable ˉα and ˉδˉα being measured
+into one short; "down upon the right shoulder" trochees. (And it was called
+ithyphallic, because they used it at the phallus-processions in the festival
+of Dionysus). Then, since he said this was rare in a verse, yet had been
+found, and that Critias was ignorant of this (Heph. p. 9, 10 sqq), that it is
+possible to take two syllables into one short, (he reasonably thought it not
+possible to put the name of Alcibiades in a verse or elegiac and for this
+reason made an iamb instead of an elegiac, 211 so as to be a verse-iamb
+instead of a verse-elegiac) and he brings the usage. And he brings forward
+that it has also been found in a verse in Corinna in the fifth (Heph. p. 9, 16
+sq. and some say in the second, but it is better in the fifth). Then also in
+the poetess Praxilla (Heph. p. 9, 19)
+Cap. III. On feet.
+"From the syllables are the feet, of which the disyllabic are 4. And the
+rest."
+Here he wishes to treat of the feet, of what kind and how many they are; and
+it is necessary for us first to know this very thing, what a foot is. A foot
+then is a combination of syllables containing arsis and thesis. And otherwise;
+a foot is a metrical relation of syllables from two to six, from which we
+recognize both the species and the magnitude of the metre. And a basis is that
+which is composed of two feet, one being taken in arsis and one in thesis. Or
+thus; a basis is <either of two feet> or of a foot and a catalexis, that is of
+one syllable 212 equalized to a foot. And the foot is recognized by the
+syllables, and the metres by the feet or the bases. And a metre is a certain
+combination of defined feet according to the natural due proportion somehow
+marked off by the
+
+parts of speech. One must know that the feet are measured from disyllabicity
+to six syllables. And one can count their quantity, as some of the technicians
+say, by doubling. For there are four simple disyllabic, that is the spondee
+and the pyrrhic, the trochee and the iamb. And these being reversed make one
+another in a cyclic figure. For the long of the trochee being transposed
+completes the iamb and conversely that of the iamb the trochee, and the longs
+of the spondee into a short the pyrrhic, and conversely the shorts of the
+pyrrhic into a long the spondee. There are then four disyllabic of the simple
+feet. Then by redoubling eight trisyllabic, as the technician says. Again by
+redoubling of the doubles tetrasyllabic 16, pentasyllabic 32, and hexasyllabic
+sixty-four, so that all together are 124. Others count otherwise, so as even
+to arrive at more. For they multiply the twelve simple, that is the 4
+disyllabic and eight trisyllabic, twelve times; twelve times twelve then
+become 144. And so those about Horos and Longinus counted.
+213 {1On the naming of the feet.}1 A "pyrrhic" then is, which some also call
+proceleusmatic, which is also a pariamus and a leader from two shorts, of two
+times. And it is called pyrrhic, because being shortest and sharpest it fitted
+especially the brief movement of the dance, which they named pyrriche, or
+because the rhythm of the foot and of the melody <and> of the dance was found
+by Pyrrhus, who is also Neoptolemus the son of Achilles, or because by
+Achilles at the pyre of Patroclus, or because of the vehement and fiery
+movement. And the same is called pariamus because it is equal to the iamb
+except for one time; for it is of two times, and the iamb of three times. And
+it was called proceleusmatic and leader because it is shortest more than every
+foot and was found before all, and all the figures and magnitudes of the feet
+follow it. A "spondee" is of two longs, of four times, as phone. And it is so
+called because it is especially taken into the rites and drink-offerings of
+the 214 gods, from which they still even now say they pipe a spondaic melody
+to the sacred things. And the "trochee" is of a long and a short, of three
+times, so called, since it has in its construction a run-through and running
+rhythm-making, because the long always runs upon the short and conversely the
+short follows the long. An "iamb" of a short and a long, <of three times> has
+been said either from Iambe the servant of Celeus, who forced Demeter in grief
+to laugh by saying something laughable, using the rhythm of this foot
+spontaneously. Or from some other Iambe, an old woman, whom Hipponax the
+iamb-maker, happening upon her washing wool by the sea, heard when he touched
+the trough on which the old woman was washing, "man, go away, you overturn the
+trough." And taking hold of what was said he so named the metre. And others
+refer this story to the choliamb, writing the end of the verse "you will
+overturn the trough." 215 Or from iambizein, which is to speak ion, that is
+<to speak words full of bitterness>; for the metre composed of this foot is
+abusive. And the trisyllabic are these: "Dactyl", which is also heroic. <Of a
+long and two shorts, of four times;> and dactyl from the Idaean Dactyls, who
+were ten in number, and being attendants of Rhea and being most musical hymned
+Zeus through the use of instruments. And otherwise; dactyl from the movement
+of the fingers that comes about on the strings. And it is called heroic
+because it fits the deeds of the heroes and the hymns of genealogy, or because
+the poets first used this toward heroic narrative. And an "anapaest", which
+some also call antidactyl, of two shorts and a long, of four times. And it was
+so called because it has itself oppositely to the heroic (for it has two
+shorts at the beginning of the stroke of the rhythm, and the third long in
+
+the thesis) and always strikes upward. "Amphimacer", which is also cretic and
+the same paeonic, of a long and a short and a long, of five 216 times. And it
+is called amphimacer, because it has the longs on either side of the short.
+And cretic, because it seems to have been found by Cretans; for they first
+made this kind of rhythm-making, completing the basis with dance. And paeonic,
+since it has been fitted to the so-called paeonic metres. And an "amphibrach",
+of a short and a long and a short, of four times. And it has been so called,
+because it encloses the long under two shorts conversely to the amphimacer;
+which some also call hyperthetic, because it has the short placed above. And a
+"bacchius" of a short and two longs, of five times. And it is so called
+because it is suited toward the <bacchic> rhythms. And some also call it
+hypobacchius. And the "palimbacchius", which is also dionysian, of two longs
+and a short, of five times and is called antibacchius, because it is disposed
+oppositely in rhythm toward the bacchius, and dionysian inasmuch as it too has
+been made toward the Dionysiac melodies. And some call it prosodiac and
+processional because in the so-called 217 prosodiac hymns and in the Dionysiac
+processions it is. "Choree" (proparoxytone, as Herodian says in the Catholic),
+which is also tribrach and brachysyllabic and trochee, of three shorts, of
+three times. Choree then, because it is often taken toward choral melodies.
+And tribrach because it is composed of three shorts [in trisyllabics]. And
+brachysyllabic as having all the syllables short. And trochee, since Sophocles
+in the Thamyras (fr. 219) says "fore-foot songs; and as many as we hear
+running, stepping, with hands, with feet." "Molossus", which is also trimacer,
+of three longs, of six times. And it is called molossus because it is greatest
+of all the simple feet and longest. And the longest they of old called
+molossian, as Sophocles "stretching near with molossian hands" (fr. 727)
+instead of large. And others because this species of rhythm-making was first
+found by Molossians. And it is called equine again because the animal is
+complete.
+Tetrasyllabic sixteen.
+"Proceleusmatic", which is also equal-numbered, of four shorts, of four times.
+218 And proceleusmatic, since it is first of the doubles, as we also called
+the pyrrhic <proceleusmatic> and leader. "Paeon" first, which is also paeonic,
+of a long and three shorts of five times. And paeonic because it is taken in
+the paean hymns; "having obtained the kindly paean of Asclepius" (Aristoph.
+Plut. 636). Paeon second, or composite, which is also curetic, of a short and
+a long and two shorts, of five times. Paeon third or twin-like or curetic or
+delphic, which is also running and numbered, of two shorts and a long and a
+short, of five times.
+
+Paeon fourth, the hyporchematic, which is also cretic, of three shorts and a
+long <of five times>; and one must understand that cretic first and fourth is
+said.
+"Ionic" a maiore or Persian, of two longs and two shorts, of six times. Ionic,
+because Ionians used it. And Persian because the Persian histories have been
+written in this metre, as in Aeschylus and certain others. Ionic a minore or
+hypocyclic, of two shorts and two longs, of six times. "Choriamb" or cyclic or
+hypobacchius or also bacchius according to a trochee, and some also called it
+219 choreiamb, of a long and two shorts and a long, of six times. "Antispast",
+which is also spondaic and bacchius according to an iamb, of a short and two
+longs and a short, of six times. "Diiamb" or parallel iamb or iambic
+same-footedness, of a short and a long and a short and a long, of six times.
+"Ditrochee" or antiparallel, which is also cretic according to Aristoxenus or
+dichoree or trochaic same-footedness, of a long and a short and a long and a
+short, of six times. "Epitrite" first <or> equine first or also Carian or also
+dochmiac, of a short
+
+and three longs, of seven times. And one must know that conversely to the
+paeon here the short goes through. Epitrite second or equine second or
+dochmiac second, which is also Carian, of a long and a short and two longs, of
+seven times. Epitrite third or equine third, which is also parodic, of two
+longs and a short and a long, of seven times. Epitrite fourth, which is also
+unique-born, of three longs and a short, of seven times. "Dispondee" or
+marching, of four longs, of eight times. And this is obvious; in which as many
+things as it was necessary about the naming of the disyllabic <and
+trisyllabic> and tetrasyllabic feet have been said; and the text, being easy
+and obvious, we pass by of the technician. 220
+Cap. IV. On the close of metres.
+"On the acatalectic. Acatalectic metres are called as many as have the last
+foot complete, as in dactylic Muse come, Calliope daughter of Zeus (Alcm. 45);
+and catalectic, as many as have the last foot diminished; and the rest."
+One must know that close and catalexis are the same. He speaks then of close
+as it were of catalexis. And close is also a generic name as it were, as has
+been said, every catalexis; and it is also specific instead of diminution. He
+says then of what kind are acatalectic metres and of what kind catalectic into
+a syllable or two syllables. Acatalectic then are, as he himself also clearly
+hands down, as many as have the last foot complete lacking nothing, as he
+states the example upon a dactylic tetrameter; for it has the four feet
+complete "Muse come, Calliope daughter of Zeus." And catalectic conversely as
+many as have the last foot incomplete, as upon an iamb he says "farewell
+bride, and farewell the bridegroom" (Sapph. 103);
+221 for it has five feet and a syllable. And if the foot at the end and
+constituting the whole metre is trisyllabic, <as> if it is dactylic, it can be
+catalectic into a syllable, that is it can lack two syllables, as he himself
+again states the example upon dactylic metre "and Batousiades" (Archil. 104);
+for it has two feet and one syllable, and being of a trimeter the one syllable
+at the end alone filled the place of the trisyllabic dactyl. And upon such
+metres that lack and are not complete, those that are less by one syllable
+only are called catalectic into a disyllable (for it ended into a disyllabic
+foot, and one syllable is lacking, in order that it be trisyllabic), and those
+less by two syllables are called catalectic into a syllable, because it ended
+into a syllable, and two syllables are lacking from outside, in order that the
+whole be trisyllabic. For this reason we are also accustomed to say into the
+epic: it is of dyadic tetraseme genus, of dactylic species, of hexameter
+magnitude by the foot, of tactical relation, of composite combination, of
+catalectic close into a disyllable, of † this caesura. Since properly the
+metre of the epic is all dactylic (for even if 222 a spondee is found in it,
+yet in power it too is a dactyl, the second long of the spondee being in place
+of two shorts and by crasis <two> shorts having come together into one long):
+since then the metre of the epic is dactylic, hexameter by one foot, it has
+five complete feet and two syllables, that is either a spondee or a trochee,
+the last being indifferent, as he himself is going to say, we well say "of
+catalectic close into a disyllable"; for it ends into two syllables, and one
+is lacking, in order that it become trisyllabic. And it is worth our working
+through all these things of the epic, being attendant and inseparable
+accidents. One must know then that it is of dyadic tetraseme genus. Since of
+the four disyllabic feet being (pyrrhic, spondee, iamb and trochee) two only
+of
+
+them are productive of metres, both the iamb and the trochee (whence also an
+iambic metre is said or trochaic, not indeed pyrrhic or spondaic, even if they
+are taken at times in certain places of the iamb and of the trochee); the iamb
+then is of dyadic triseme genus as it were of three times; for being composed
+of a short and a long it makes three times. And likewise also among the
+trisyllabic, of the eight 223 feet being, two only are productive of metres,
+the dactyl and the anapaest, whence the technician also treats of these alone,
+both of dactylic metre by itself and of anapaestic; since then the verse is
+composed from a dactyl, we are accustomed to say: "it is of dyadic <tetraseme>
+genus". For two only are generic and productive of metres, the dactyl and the
+anapaest. And tetraseme has been said as it were of four times; for being
+composed of a long and two shorts the dactyl has four times. The species
+dactylic has been understood. Again of hexameter magnitude by monody has been
+said, since the verse is not measured by dipody, as many other metres, as the
+iamb; for this having six simple feet and being measured by dipody is called
+trimeter; and the hexameter verse measured by one foot and not by dipody, as
+we said before. Again it is said of tactical relation .... On the
+brachycatalectic. (13, 18) "And brachycatalectic are called as many as from a
+dipody at the end have been diminished by a whole foot. And next." U "And
+brachycatalectic are said as many as from a dipody have been diminished by a
+whole foot at the end, as upon an iamb. And the rest." K Having spoken of
+acatalectic and catalectic metres he wishes to treat and says again of the
+brachycatalectic, 224 that brachycatalectic are as many as being measured by
+dipody lack one complete simple foot, as upon an iamb (for it is measured by
+dipody, whence it is also named trimeter), and the technician states the
+example "come again to the house of Cleesippus"; for here "sippo" lies in
+place of a whole iambic dipody.
+On the hypercatalectic. (14, 4) again hypercatalectic metres are called as
+many as besides the complete feet exceed by a syllable of the defined metre,
+as upon iambic (and it is dimeter by dipody) "I go as loosed from a peg" fr.
+lyr. adesp. for it has the syllable ˉσˉα in excess. (And what he wishes to say
+is such; I go as loosed from a peg. For he says pyssalon the passalos). And
+they can also be hypercatalectic by two syllables, when the feet are
+trisyllabic, as he states the example "this Artemis, O maidens" (Telesill. 1).
+And the metre is anapaestic of two feet, the first spondee being equivalent to
+an anapaest. (For it has often been said that the long is equivalent to two
+short syllables). For this besides the complete 225 syzygy as it were dipody
+(for he called the dipody a syzygy) exceeds by two syllables. "Another
+heading." (14, 15) "Of every metre the last syllable is indifferent, so that
+it is both short and long. And the rest." What is said is obvious, since he
+says the end of every metre is indifferent, that is whether this is long or
+short, indifferent; one must know that the short is found in place of a long
+reasonably at the end (for it is helped by the silence), but unreasonably the
+long is taken in place of a short at the end of a metre, yet so it has
+prevailed. (14, 22) "Every metre is bounded into a complete word, whence such
+things of Simonides from the epigrams are blameworthy. And the rest." Every
+metre, he says, is bounded into a complete word, and one must say "or as
+complete", just as also Heliodorus the grammarian said, because of
+"high-roofed house" (Od. 10.111 alias) and such. And it is clear that it also
+wishes to begin from a complete; whence also some advocating into "wide-voiced
+Zeus, there he would be grieved" (Il. 8.207), and in the like, that the nu is
+at the end of the first verse and is not initial of the next verse, used this
+account, that every metre wishes to complete 226 into the end of a word and
+again wishes to begin from a beginning.
+
+But those about Aristophanes the grammarian and Aristarchus, examining more
+accurately, as we came to know more accurately in the syntax of orthography,
+placed the nu upon the following verse, saying that the account holds upon
+affections. For this and the like are affections, and the canons are
+regulative of the sound, not of the affected. Yet many metres were found
+completing into a part of a word and beginning from the other part of the
+word; and the technician brings certain examples. And there are also many
+others, as in Callimachus in Epigrams XLII) "half of my soul is still the
+breathing, and half I do not know whether Eros or Hades snatched from among
+mortals"; and Menander in the Plokion (fr. 412) "a thin warp she weaves with
+another"; and especially in Sophocles OT 332 sq.) "I will pain neither myself
+nor you. Why do you examine these things in vain? for you would not learn from
+me," so that the species is called Sophoclean and episynaloephe because the
+consonant is joined on to the next iamb or verse. One must know that because
+of the impossibility Euphorion dissolved Apollodoros saying "and a certain
+Apollo doros upon the son of Leiophoon." 227
+Cap. V. On the iambic.
+"The iambic admits in the odd places, that is first, third and fifth, an iamb,
+a tribrach and a spondee, a dactyl, an anapaest, and in the even that is
+second" .... U "The iambic admits in the odd places an iamb, a tribrach and an
+anapaest, a dactyl, a spondee, and in the even an iamb, a tribrach, an
+anapaest; and this among the comic poets continuously, but among the iambic
+and tragic more rarely." K From here he begins properly to regulate the
+metres, declaring quite most clearly that in the odd places, as it were in the
+first and third and fifth foot, it admits one of these five feet, and in the
+even, that is in second and fourth, one of the three; for the even altogether
+wishes to begin from a short and admits an iamb or a tribrach the so-called
+choree or an anapaest. And this anapaest it admits continuously among comic
+poets, rarely among the iamb-makers and tragic. And he calls iamb-makers
+Simonides and Archilochus and Hipponax. One must know that there are of the
+iamb monometers, dimeters, as far as the six feet, by the foot and by dipody;
+not 228 indeed more than the six metres is found. As by the foot a monometer
+"pheu pheu" and certain such found continuously among tragic poets. Then he
+speaks of the sixth place of the iamb, that it admits either an iamb or a
+pyrrhic. "'and when it is catalectic, the penultimate iamb or rarely a
+tribrach, so that the clausula becomes either an amphibrach or a bacchius'."
+He calls clausula <the foot before the catalectic syllable and itself> the
+final syllable. This then he says, that when the metre of the iamb is
+catalectic, that is lacking a syllable, then it has the penultimate, that is
+the fifth, foot an iamb or rarely a tribrach, the two shorts being taken into
+one long according to the so-called common resolution, as has often been said
+before, and the last syllable of the sixth foot either long or short. For if
+short, the fifth foot will be found an amphibrach, as the tetrameter of
+Hipponax 90 † Heph. 16, 23 [if then the one at the end is short, in the] "if a
+maiden fair and tender might become for me." And if long, then the fifth foot
+will be found a bacchius, as it were that composed of a short and two longs,
+as the trimeter of Archilochus (fr. 116) "a furrow, and it takes down of evil
+old age" and such. 229 (17, 1) "And among the acatalectic there is also
+notable that which is called lame, which some say is a discovery of Hipponax,
+some of Ananius. And it differs from the straight, in that that has the last
+an iamb or a pyrrhic because of the indifferent, and this a spondee or
+
+a trochee. And the lame does not admit the penultimate trisyllabic;" and the
+rest. What is said about the so-called choliamb is obvious, that it has so
+prevailed as even to make a metre of its own. And they said it was of Hipponax
+according to the usage stated above p. 214, 20 of the old woman and the
+trough; "man, go away, you will overturn the trough." And this is also said to
+be of the old woman stated above. And so he completes the iambic metre, not
+having spoken here of the caesura of the iamb. But in his treatise at length
+he has also done this, clearly showing and agreeing with all that there are
+two caesurae only of the iamb, I mean penthemimeral of two and a half feet and
+hephthemimeral of three and a half.
+Cap. VI. On the trochaic.
+"The trochaic in the odd places admits a trochee, and a tribrach, and a
+dactyl; and in the 230 even these and a spondee and an anapaest. And when it
+is catalectic, it admits the penultimate especially a trochee, and there are
+times also a tribrach;" and the rest. Having spoken of the iambic now he
+wishes to treat also of its antipathetic, the trochaic. For that it is
+antipathetic is clear, since from the trochaic metre itself if you take away
+the first syllable, an iambic is found catalectic into a syllable; and
+conversely if from the iambic you throw out the first syllable, a trochaic is
+found catalectic into a syllable. One must know that some also call the
+trochee a choree, as being found in the choruses, whence also the choriambic
+metre, as we shall show, is said, that composed of a trochee and an iamb. Then
+he himself clearly teaches from where the so-called Euripidean or lekythion is
+composed. (18, 7) one must know that they called the tragic poets lekythoi,
+whence also Callimachus 98c says "whatever tragic muse lekythizing"; and
+others kompolekythoi; or because it is like "he lost a little flask"
+(Aristoph. Ran. 1233). Then he states many species of the trochaic metre,
+clearly setting forth also the examples through the usages of each. 231
+Cap. VII. On the dactylic.
+"The dactylic admits dactyls and spondees in every place except the last; and
+upon this if it be acatalectic, it will have a dactyl;" and next. U "The
+dactylic admits dactyls and spondees in every place except the last; and upon
+this if it be acatalectic, it will have a dactyl or because of the
+
+indifferent a cretic; and if catalectic, those diminished from it either by a
+syllable or by two syllables. And the one catalectic into a syllable, and the
+one catalectic into a disyllable;" and the rest. K Having treated of the
+disyllabic metres now accordingly Hephaestion passes to the trisyllabic, again
+two only being productive of metres, I mean the dactyl and the anapaest again
+opposite to this. For this reason we also said before that we are accustomed
+to say in the genera of the verse: "it is of dyadic tetraseme genus", since of
+the eight trisyllabic feet being, two only are productive of metres. Then he
+says again clearly from where the dactylic metre is composed, that is the
+epic. And this too we have often known beforehand, that all the feet of the
+verse are in power dactyls. For also the amphimacer, the so-called cretic, and
+again the palimbacchius have 232 the common equivalent to a short, whence also
+scanning the verse we are accustomed to say: "amphimacer of a long and a short
+and a common, of four times", and in the
+
+verse being treated a dactyl. And it is of four times of the common, as has
+been said, being in place of a short, not of five times; likewise also upon
+the palimbacchius. But also the spondee is in power a dactyl, the second long
+being taken in place of two shorts; whence also in the anapaestic it is taken
+again in power an anapaest, the first long being taken in place of two shorts.
+And of its last syllable he clearly teaches which is acatalectic and which
+catalectic into a syllable and a disyllable; and one must know that he does
+not bring forward an example of the acatalectic, as it were having the last
+foot a complete dactyl. And of the catalectic he brings forward examples both
+into a disyllable and again into a syllable (22, 1). "On the Aeolic": (22, 18)
+"And the so-called Aeolic have the first foot altogether one of the
+disyllabic;" and the rest. U "And the so-called Aeolic have the first foot
+altogether one of the disyllabic, either a spondee or a trochee or an iamb or
+a pyrrhic; and those in the middle all dactyls; and the last toward the close
+a dactyl 233 or a cretic because of the indifferent of the end;" and the rest.
+K Having spoken of the common dactylic he says again about certain species of
+the dactylic and first of the Aeolic certain species, clearly showing both
+their metre and the examples. Then at the end he says that there are also
+certain so-called logaoedic dactylic, of which again he states the examples
+and the metres, being clear and almost not in need of explanation. And they
+were called logaoedic, since in certain they seem equal to unmetrical as being
+upon speech without some metre because of the unrhythmical.
+Cap. VIII. On the anapaestic.
+"And the anapaestic in every place admits an anapaest and a spondee, and
+rarely also a proceleusmatic." (A proceleusmatic is that of four shorts.) U
+"The anapaestic in every place admits an anapaest and a spondee, and rarely
+also the proceleusmatic, and among the dramatists also a dactyl. And it is
+divided by syzygy, and there are of it six closes." K And having spoken of the
+dactylic he has used an analogous order treating of the antipathetic, I mean
+of the 234 anapaestic taken from two shorts and a long. Then he himself says
+clearly from where it is composed, that it has six closes or catalexes, and he
+brings forward their number and the usages. (25, 5) Then he shows that the
+tetrameter called Aristophanean was not a discovery of Aristophanes himself,
+but of some other older than Aristophanes. For Aristoxenus, he says, first
+used it, of whom Epicharmus being later makes mention. Then Epicharmus himself
+also used this metre, then Cratinus, and later than Cratinus Aristophanes. And
+since he used it continuously, it was called Aristophanean. And he brings the
+usage of Aristoxenus, that it is a tetrameter catalectic into a syllable (25,
+19) "who provides most imposture of men? the seers." (And alazonian through
+iota in Aristoxenus, needing to be a diphthong from alazoneuo, as rhetoruo
+rhetoria, kolakeuo kolakeia). (25, 22) And he says it has been called Laconian
+because Alcman being a Laconian lyric poet used it either first or rather more
+continuously. (26, 17) "And the dimeter catalectic is called 235 paroemiac
+because certain proverbs are in this metre;" and the rest. And there are
+various proverbs circulating of various people in various metres; for also in
+verses and in iambs and in elegiacs and <in> anapaests, as "the gifts of
+enemies are ungifts and not profitable" (Soph. Aj. 665 Paroem. Gr. II p. 69)
+they are so circulating also unattributed, as it were uninscribed
+
+Cap. IX. On the choriambic.
+.................... Aeolosikon a drama has come about first and second of
+Aristophanes, as also the Plutus first and second, in which he has used the
+choriambic metre as it were trochiambic; for it is composed of a trochee and
+an iamb. And we said also above (230, 12) that the trochee is said among some
+also a choree. (30, 5) "Come now, delicate Graces." And one must know that
+here ˉνˉυˉν is short as also in "hither now," or "let us wager a tripod or a
+cauldron" (Il. 23.485) 236 and again "first now let us remember Orpheus"
+(Apoll. Rhod. 1.23) and ˉνˉυˉν is enclitic. (30, 21) "And Philicus of Corcyra
+being one of the Pleiad;" and the rest. One must know that in the times of
+Ptolemy Philadelphus seven best tragic poets came about, whom they called
+Pleiad because they were brilliant in the tragic as the stars of the Pleiad.
+And they are these: Homer, not the poet (for the account is about tragic
+poets), but the son of Myro the poetess of Byzantium, and Sositheus and
+Lycophron and Alexander, Aiantades, Sosiphanes and this Philicus. Some instead
+of Aiantades and Sosiphanes rank Dionysiades and Euphronius with the Pleiad.
+And this Philicus did not first invent such a metre, but, as the metrician
+says, first made whole, as it were complete, poems of this metre. And this
+usage which he brings forward of him is not a verse, but a period; for it
+exceeds the thirty-two-seme; and that of Callimachus being pentameter does not
+exceed. And one must know that the metre never exceeds thirty-two times, since
+it falls into a period. 237
+Cap. X. On the antispastic.
+"And the antispastic has the first syzygy turning according to the former foot
+into the four figures of the disyllabic." U "The antispastic has the first
+syzygy turning according to the former foot into the four figures of the
+disyllabic, and those in the middle pure antispastic, and the last, whenever
+it is acatalectic, iambic." K He seems not to treat in order, teaching after
+the choriambic the antispastic, which is composed of a short and two longs and
+a short. For he ought after the choriambic to have treated of the ionic a
+minore. (For we said that the choriambic is of a long and two shorts and a
+long, as it were trochaic and iambic). For the first syllable of the
+choriambic being taken away begets the ionic a minore. But one must say that
+he took the antipathetic, in order rather to keep the order by the
+antipathetic lying near one another. For as a trochee to an iamb, so also to a
+dactyl <an anapaest is opposite and to a choriamb> an 238 antispast. One must
+know that the technician omitted certain things of the antispastic metre; but
+one must say, as many of the other metricians say, that it admits the first
+foot an antispast or an epitrite fourth, that is of three longs and one short,
+or a paeon second, that is of a short and a long and two shorts, or a
+ditrochee of a long and a short and a long and a short, and the middle
+antispastic and iambic, and the last when it is acatalectic iambic, and when
+catalectic ... and following the iambic syzygies. And the first foot is turned
+at times, as he says, into the four figures of the disyllabic, as it were
+pyrrhic and spondee and iamb and trochee; for altogether the first foot is
+irrational and unordered. And there are times when the first foot itself being
+a spondee is in power resolved into a dactyl, the second syllable of the
+spondee
+
+being resolved into two shorts, or from the contrary into an anapaest, the
+first syllable again being resolved; and the trochee and the iamb into a
+tribrach, the long again being resolved into two shorts; for the pyrrhic
+composed of two shorts did not have into what to be resolved. (31, 20) "And if
+the antispastic are mixed with the iambic, it has not only the first syzygy
+turning according to the former foot, but also that 239 following the iambic."
+And what he wishes to say is such; that it happens that the antispastic
+transgress not only <in> the first syzygy, but if an iambic basis is mixed
+with them, also <that> following the iambic will be transgressed contrary to
+the beginning; and when the iambic are not mixed with it, the antispast is
+pure about those next. (32, 5) "Penthemimeral, the so-called dochmiac, as he
+desires to hear the native." This is measured by the foot; for there are two
+cola, in order that it be composed of an antispast and a pyrrhic [that is of a
+long syllable resolved into two shorts]. For one must know that the dochmiac
+is composed of an antispast and a syllable, as toward the metrical character.
+The rhythmicians however, taking the whole metre as one syzygy, name it
+dochmiac for such a reason. The aforesaid rhythms, iamb paeon epitrite, are
+called straight; for they lie in equality, inasmuch as each of the numbers is
+exceeded by a unit; for either a unit is toward a dyad or a dyad toward a
+triad or a triad toward a tetrad; [that is a long time toward shorts, as in
+the 240 dactyl perhaps, a unit toward a dyad.] And in the dochmius [it is an
+epitrite and a syllable] the division is found a triad toward a pentad, no
+longer straight. This rhythm then could not be called straight, since it is
+exceeded by a dyad. It was therefore called dochmius, in which the greater of
+the inequality is judged than according to the straight. Here then he says a
+dochmius rhythm an iamb and a paeon first, that is of a short and a long and a
+long and three shorts; for some measure thus. And the syllable ˉτˉαˉι is
+reckoned into two shorts of the paeon, in order that "maiatai" be a first
+paeon. And the end of the second usage instead of a long has the end being
+resolved into two shorts and makes again paeonic. (32, 13) "The so-called
+Glyconic." And Glycon was a comic poet, of whom also a comic drama the
+Phratores is current. One must know then that some say a discovery, which one
+must not. For both heuresis and heuresis have been said, and certain Attics
+say both ways; for there is a treatise in Theophrastus On Invention; but
+through epsilon in an iamb "this is not invention, but taking away" 241 in the
+Epitrepontes (Men. 180) and heurema through eta "and you do not know what a
+discovery you have found, this" (Eurip. Med. 716); not indeed through epsilon
+heurema. (33, 2) "It is called Phalaecian." He says a Phalaecian metre, as it
+were Philicean from Philicus aforesaid. And "hail, O gold-horned babakta
+kelon" is of Cratinus. (33, 19) "And that having a second iambic is called
+Priapean." And it was called Priapean, since Euphronius the grammarian in the
+times of the Ptolemies in Alexandria wrote to Priapus in this metre; and just
+as the ithyphallic was called being suitable toward Dionysus, so also the
+Priapean. And one must know that of this Euphronius Aristarchus the grammarian
+became a hearer, not only of Aristophanes of Byzantium. (34, 21) "Race of the
+king son of Cronus, Ajax the best after Achilles" as it were of the Cronid
+king race, Ajax (instead of Aiantas), being best after Achilles. Peda instead
+of meta, as (and this is of the poet) "after the blameless son of Peleus" (Od.
+11.470 al.). 242
+Cap. XI. On the ionic a maiore
+
+
+"The ionic a maiore is composed both pure, and is composed <also> mixed toward
+the trochaic." U "The ionic a maiore is composed" and the rest. K It is
+inquired why he did not after the antispastic at once begin the a minore, but
+the a maiore. And we say that first of the tetradic kinship he took the
+choriambic, of which a syllable being taken away an ionic a minore comes
+about, from which the antispast, from which the ionic a maiore; and once after
+the choriambic having taken its antipathetic the antispastic, plausibly he
+began that which came about <from the> antispastic by taking away. One must
+know then that the ionic are accustomed to admit the trochaic, when it is
+according to sympathy, as the choriambic and antispastic the iambic. And there
+are times when it is composed even of whole trochaic, as upon this "for he had
+fleshly skin and the hide like." And it is divided from the trochaic both by
+the rhythm and by the caesura; for the trochaic is cut into penthemimeral and
+hephthemimeral, 243 and the ionic by simple feet. And when the choriambic
+takes the trochaic or the ionic the iambic, they are called according to
+antipathy. And when the choriambic at the beginning takes the trochaic, it is
+called epichoriambic, and when the ionic at the beginning admits the diiamb,
+it is epionic; and there is not epiantispastic, since the antispastic had a
+nature at times also to begin from a ditrochee because of the beginning being
+turned into the four figures of the disyllabic. And it was inquired why the
+ionic admitted the ditrochees. And we solve it thus; metrical feet are lacking
+to the ionic, for the ionic are of a spondee and a pyrrhic; and metrical feet
+are trochee iamb dactyl anapaest, which being adorned by the variety of the
+times make metres of their own; and these are called metrical and rhythmic
+feet; and the ionic metres, not having the composition of metrical feet, as we
+said before, needed the ditrochees toward constitution; and they needed these,
+since the ionic are loose, and the trochaic tense; in order then that some
+crasis come about, the trochaic came together with the ionic. And once the
+ditrochees having fallen into the ionic, the iambic dipodies came together
+with the antipathetic of the ionic, I mean with the antispastic and
+choriambic. (35, 12) "The so-called Cleomachean." And this Cleomachus was a
+boxer, and having once fallen in love with a youth he passed over into poetry.
+244 Then he brings examples of certain others, saying also from where it is
+composed, in which he brings forward this of Sappho (36, 17) "never yet having
+obtained one more unsavoury than you of the heavenly." And what he wishes to
+say is such; never anywhere at any time, Eirene, having obtained one more
+harmful than you. The first foot is a paeon second "asarote"; for the Aeolians
+shorten the alpha [of asaisin] as in "do not with distresses nor with griefs"
+(Sapph. 1, 3). And just as they say Aphrodite Aphrodita shortening the alpha,
+so also eirene eirena.
+Cap. XII. On the ionic a minore.
+"And the ionic a minore is composed both pure, and is composed also mixed
+toward the trochaic." This has been made clear as being antipathetic to the
+ionic a maiore. For that began from a spondee, and this from a pyrrhic, then a
+spondee, the pure ionic. And it is also mixed; for it also admits 245 trochaic
+dipodies. And when it admits a trochaic dipody, before the trochaic dipody is
+the pentaseme foot, that is a paeon third, I mean that composed of two shorts
+and a long and a short. And the trochaic dipody when
+
+it is placed before the ionic dipody, this trochaic dipody is found heptaseme.
+(For it is also hexaseme, if it has those two trochees themselves pure; for
+each
+
+trochee composed of a long and a short is triseme.) And it becomes heptaseme,
+lengthening the last, that is the fourth syllable, and it makes the second
+epitrite composed of a trochee and a spondee, (as has been said before, when
+this dipody does not end into the end of the metre, but has an ionic
+following,) as (39, 11) "far from me may it be to die; for not another." For
+this is an acatalectic trimeter having the first foot a paeon third the one of
+five times, then a trochaic heptaseme which is also a second epitrite, and an
+ionic a minore. And what he says next is obvious. (38, 13) "This however also
+galliambic and metroac and anaclastic ... was called." U "The metroac however
+and galliambic and anaclastic was called because the later have written many
+things to the mother of the gods in this metre;" and the rest. K One must know
+that this ionic a minore is called anaclastic and metroac and galliambic from
+246 the Galli, that is the cinaedi, iambizing and hymning Rhea in the
+marketplace; for this reason also metroac. And perhaps for this reason also
+anaclastic because of the breaking of their voice and softness. Which
+Callimachus also has used. And there is much disorder in the usage of the
+usages he brings forward and especially in the first feet.
+Cap. XIII. On the paeonic.
+And the paeonic has three species, both the cretic and the bacchiac and the
+palimbacchiac; and the rest. The metricians then did not reject the paeonic
+metre, since neither did the rhythmicians. For they call paeonic that in
+hemiolic ratio. And hemiolic is, as he says in his eleven books said at
+length, that composed of one and a half foot; as the trisyllabic feet from the
+disyllabic. And the metricians themselves say three species of the paeonic;
+that in cretic, that in bacchius, that in palimbacchius; and all are
+pentaseme. 247 And if someone should ask how the paeonic metre alone admits a
+paeon first and fourth, and not also second and third, let him know that the
+metre has not been named from the paeon feet, but because it is in hemiolic,
+and the proper foot in it is the cretic, which resolving the first makes a
+paeon fourth; (for the amphimacer resolves the first syllable and makes the
+paeon fourth of three shorts and one long;) and resolving the last [the
+amphimacer] makes a paeon first, and resolving both makes the pentabrach. And
+Heliodorus says that the caesura of the paeonic by the foot is orderly, in
+order that the pause granting time may make the bases hexaseme and
+equal-parted as the others, as "neither to Cnacalus nor to Nyrsylas" (Alcm.
+19); and of this again the first being taken away leaves that of a bacchius,
+and the second that of a palimbacchius. (41, 7) "And likewise in the Georgoi
+Aristophanes made somewhere the fourth paeon instead of the first, not keeping
+the first observation 'and in the marketplace again we shall plant a
+plane-tree well'." For he said the first paeon is composed purely of the last
+being cretic. And the fourth paeon 248 is not so purely, he says, composed.
+(41, 11) Then he says that in the Thesmophoriazusae he took cretics in the
+middle of the tetrameters. For he said before (40, 14) that some of the poets
+practise taking the so-called first paeons with the cretics. And he brings
+(40, 12) an example that of Cratinus in Trophonius above (222 K.) "hail then,
+Muse; you have come after a long time, yet you came not before coming, know
+clearly, but how." For it is mixed from a cretic and a paeon first. Likewise
+then also this, which he says here, in the Thesmophoriazusae (41, 11) "neither
+to call the Muses with winding curls nor to shout the Graces into the chorus
+of Olympia for they are here as the teacher says." (41, 17)
+
+"And Simmias practised in certain poems taking most cretics 'mother, O lady,
+hear'." One must know that Horos says that here the alpha of potnia is instead
+of a long, being a common syllable, because it completed a part of speech, as
+"and the cry did not escape Nestor" (Il. 14.1). But rather one must not call
+it long according to this, but because it has two consonants following, the
+ˉκˉλ of "hear."
+249
+(42, 7) "Go, blessed, of the thymelic" and the rest; the usage set forth is
+from the so-called Delphic, not having the name of the poet. (43, 3) "And the
+bull seems to shear;" the usage of the Bassarai of Aeschylus (23).
+Cap. XIV. On mixture according to antipathy.
+1 "And of the mixture according to antipathy we shall now set forth the
+densest; epichoriambic then the so-called Sapphic hendecasyllable;" and next U
+"And of the mixture according to antipathy we shall now set forth the densest.
+Epichoriambic then the so-called Sapphic hendecasyllable, as 'intricate-minded
+deathless Aphrodita'; and this has the first syzygy trochaic hexaseme or
+heptaseme, and the second choriambic, and the clausula of an iamb and the
+indifferent syllable;" and the rest. K Here the technician wishes to treat of
+those found among the ancients mixed, of the metres that are according to
+antipathy of one another, and he says that I bring forward the densest, that
+is the customary in usage. He says then that there is some metre the so-called
+250 epichoriambic, that is that not composed from a choriamb only, but besides
+this also composed from other feet. And he says of what kind with an example,
+that which is also called Sapphic, the hendecasyllable, as "intricate-minded
+deathless Aphrodita." For it has the first syzygy trochaic hexaseme or
+heptaseme, that is composed of two trochees being triseme, or of a trochee and
+a spondee, that is triseme and tetraseme, so that the dipody is heptaseme;
+(for one must know that the heptaseme trochaic has the spondee at the end, so
+that the last of the ditrochee is indifferent, long and short; long, when it
+is heptaseme, and short, when hexaseme. And the iambic from the contrary at
+the beginning); and these upon the first syzygy. And it has the second syzygy
+choriambic, (as it were trochiambic as we knew before [235, 15] that composed
+of a trochee and an iamb, as it were of a long and two shorts and a long),
+hexaseme. And the clausula, that is the last syzygy (for the metre is supposed
+a trimeter), it has of an iamb and a last syllable being indifferent, that is
+at one time long and at another short. (43, 16) "So that there are <in all two
+figures about> the fourth syllable." This is not toward the near, but toward
+the above, that the fourth syllable of the 251 first syzygy, that is of the
+ditrochee, is at one time short, when also hexaseme, and at another long, when
+heptaseme. As a pure figure having hexaseme is this "intricate-minded
+deathless Aphrodita." For it has the first a ditrochee and the second a
+choriamb and the last of an iamb and a syllable. (And one must know that the
+Aeolians read Aphrodita proparoxytone, shortening the alpha. And they do not
+shorten upon all, but upon proper names only. For those that are not proper
+they neither shorten nor make proparoxytone, but they say athanata
+paroxytone). And the same metre is also upon "child of Zeus, wile-weaving, I
+entreat you" (Sapph. 1, 2) and upon "do not with distresses nor with griefs
+subdue me" (Sapph. 1, 3) 43, 21) "and the other 'but come hither if ever also
+then love'; so that the canon is such; ba. ba6b6. baab. ab. a6b6" the other,
+as it were that having the trochaic heptaseme, is such "but come hither if
+ever also then love." It has
+
+for the first syzygy of a trochee and a spondee. For one must know that tyi is
+one syllable and 252 is scanned as one. But because a consonant follows or
+also it is at the end of a word it cannot be pronounced in a diphthong. (For
+we have often known that a consonant never follows after the diphthong ˉυˉι,
+and that it is not found at the end of a word.) Wherefore one must pronounce
+and punctuate the iota, but in the metre take it as unspoken and <not> with a
+diphthong. The present then has the first syzygy trochaic heptaseme, and the
+second choriambic. For the ˉκˉαˉτ is long from synaloephe from "and then love
+kat erota." And the last likewise to that aforesaid it has of an iamb and a
+syllable. One can say the same also upon (Alc. 5, 1 † Heph. 44, 6) "hail, you
+who rule Cyllene, for you my heart too [hymns] to hymn, him on the holy peaks"
+(Alc. 5, 2) and "Maia having mingled in birth with the son of Cronus" (Alc. 5,
+3) 44, 1) "so that the canon is such" he says. Take beta a long (for this the
+b shows, that there are 2 times, which complete the long), and the alpha the
+short being of one time. What is said then is obvious, that the first syllable
+is long, the second short, the third <long>, the fourth both 253 long and
+short; for he says the trochaic syzygy is heptaseme and hexaseme. The same
+also upon the second and third syzygy and one must take of all. (44, 4) "And
+it is also in Alcaeus, and it is unclear of which of the two it is a
+discovery, even if it is called Sapphic; as hail Cyllene." Unclear, he says,
+of whom it is a discovery, and unclear whether it is called Sapphic or Alcaic.
+And it is the same as that aforesaid, but it has something strange, that after
+the three metres (as it were verses of the strophe; for he calls this a
+strophe, that composed of such metres) it has a fourth following pentasyllabic
+choriambic penthemimeral, which has a choriamb and a syllable. And
+penthemimeral, because it has two simple feet and a syllable (I mean a trochee
+and an iamb) "to the all-king and lady the heart." (44, 9) "And coinciding
+with a dactylic" he says. One must add: dimeter catalectic into a disyllable.
+For it has a dactyl and two syllables of a dactyl, as has been said; "to the
+all-king, lady the heart." (44, 13) "And from an antispastic the so-called
+Pindaric hendecasyllable, which has the first antispastic, 254 and the rest
+similarly to the Sapphic." And this is quite clear. For it has the first foot,
+that is the syzygy, composed of an antispastic, (that is the opposite of the
+choriamb, an iambotrochee, composed of a short and two longs and a short,) and
+those next similarly to the aforesaid Sapphic. And he brings forward examples
+as (44, 17) "the leader of the Muses calls me to dance" and again "may you
+lead, O famous attendant, Leto." And all the rest are clear and almost not in
+need of explanation.

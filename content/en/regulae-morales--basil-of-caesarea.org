@@ -1,0 +1,2702 @@
+#+TITLE: Moral Rules
+#+AUTHOR: Βασίλειος Καισαρείας hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg29-32:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/regulae-morales--basil-of-caesarea
+#+LANGUAGE: en
+
+* Moral Rules
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+=31.692= 1. On repentance, and what the time of repentance is, and on its
+properties, and on its fruits. 2. That the zeal of those who wish to please
+God must be unmixed with every opposite, and pure. 3. On love toward God, and
+what the proof of it is. 4. What honor toward God is, and what dishonor. 5. On
+love toward one another, and its properties. =31.693= 6. That one must speak
+freely in the confession of God and of his Christ. 7. That confession of the
+Lord is not enough for salvation for those who transgress his commandments. 8.
+On faith and full assurance of the Lord's words. 9. On knowledge or ignorance
+of the things that fall to us. 10. What the end of sin is, and what of the
+commandment of God. 11. On the judgments of God, and the fear from them. 12.
+On rejection and contradiction, or obedience and keeping of the wills of God.
+13. On readiness at every time and undelayed zeal of those who are eager
+toward pleasing God. 14. On the fitting season of each of the things
+accomplished in particular. 15. That one must not, hoping in the achievements
+of others, neglect one's own. 16. On those who suppose they are helped by
+living with the good and well-pleasing, and who do not set themselves right.
+17. How one must dispose oneself toward the present time. 18. On the manner
+and disposition of those who are eager about the commandment of God. 19. On
+one who hinders and one who is hindered toward the commandment of God. 20. On
+baptism, and what the account and power of baptism is. 21. On communion of the
+body and blood of Christ, and what the account of it is. 22. How one is
+alienated from God, and through what one is made familiar to God. 23. On those
+who are overcome and into sins they hate. 24. On falsehood and truth. 25. On
+idle speech, and on the economy of serious words. 26. That one must use first
+the testimonies from the Scriptures for confirmation of what is done or said
+by us, and then also those things recognized in custom. 27. On likeness toward
+God and toward the saints according to power. 28. That one must be discerning
+about good men and the opposite. 29. On the manner in which we confirm our
+profession. =31.696= 30. On honor of things dedicated to God. 31. On use of
+things set apart for the saints. 32. On debts and repayments. 33. On those who
+cause scandal and those who are scandalized. 34. That each in his own measure
+must be set forth as a pattern of good things for others. 35. On those who
+belittle the good things. 36. On honor and disposition toward the saints. 37.
+On those who are eager in a few things according to their power. 38. How one
+must receive guests. 39. On firmness in scandals. 40. On those who teach
+otherwise. 41. On cutting off those who cause scandal, and sparing the weaker.
+42. That the Lord has come to fulfill the law. 43. On the difference of
+commandments of the law and of the Gospel. 44. That the Lord's burden is
+light, but sin is heavy. 45. On equal honor and humility. 46. On zeal for
+greater or lesser achievements. 47. On wealth and poverty, and the things that
+follow them. 48. On beneficence toward the brethren, and the work for its
+sake. 49. On one who goes to law and who avenges himself, or another also. 50.
+On peace and peacemaking. 51. What sort of person he ought to be who tries to
+correct his neighbor. 52. On grief over those who sin, and how one must meet
+them; and when to turn away from them, or when to receive them. 53. What the
+judgment is of those who remember injuries over things in which they thought
+they were wronged. 54. On judging, and on being in two minds. 55. On
+disposition and confession of the gifts of God, and thanksgiving over them.
+
+
+56. On prayer, and when, and what, and how, and for whom one must pray. 57. On
+elation over achievements. 58. On acquisition of gifts of God, and
+distribution. 59. On human honor and glory. 60. On difference of gifts of God,
+and harmony =31.697= of those who excel in them, or who are lower. 61. On the
+cheapness, as among men, of those who receive the grace of God. 62. On
+temptations, and when one must withdraw, and when stand, and how to meet the
+adversaries. 63. On cowardice and courage in circumstances. 64. On joy in the
+sufferings for Christ. 65. How one must pray even at the end itself. 66. On
+those who abandon those who contend for piety, and on those who contend with
+them. 67. On those who grieve over the dying. 68. On the difference of the
+present age and the coming one. 69. On the things jointly and in connection
+forbidden by Scripture, or approved. 70. On those entrusted with the preaching
+of the Gospel, and when, and whom, and what to teach, and how such men must
+first set themselves right; and how to speak freely in the preaching, and how
+to care for those entrusted, and with what disposition, and about which
+pursuits they must be occupied first; and how to be clean from the faults that
+for the most part follow, and to what measure to bring those taught, and how
+to lead those who oppose, and in what manner to yield to those who decline
+through fear, and how to withdraw from those who do not accept through
+stubbornness; and how to ordain some, or reject those already ordained; and
+that each of those who preside must hold himself accountable, and to those
+entrusted to him for full assurance concerning what he does and says. 71. On
+the things jointly ordered concerning those who preside. 72. How those taught
+must distinguish the spiritual teachers from those who are not such, and how
+to dispose themselves toward them, or receive the things from them. 73. On
+those in marriage. 74. On widows. 75. On slaves and masters. 76. On children
+and parents. =31.700= 77. On virgins. 78. On those who serve as soldiers. 79.
+On rulers and subjects. 80. What sort the word wants Christians to be
+altogether, and what sort those who preside.
+
+
+BEGINNING OF THE MORALS.
+RULE 1.
+That those who believe in the Lord must first repent, according to the
+preaching of John, and of our Lord Jesus Christ himself; for those who do not
+now repent are condemned worse than those condemned before the Gospel.
+Chapter 1. MATTHEW. From that time Jesus began to preach and to say: Repent;
+for the kingdom of heaven has drawn near ... Then he began to reproach the
+cities in which most of his mighty works had been done, because they did not
+repent. Woe to you, Chorazin, woe to you, Bethsaida; for if the mighty works
+that were done in you had been done in Tyre and Sidon, they would have
+repented long ago, sitting in sackcloth and ashes. But it will be more
+tolerable for Tyre and Sidon in the day of judgment than for you, and the
+rest. That the present is the time of repentance and of remission of sins; but
+in the age to come the just judgment of recompense. Chapter 2. MARK. But that
+you may know that the Son of man has authority on earth to forgive sins, he
+says: MATTHEW. Amen I say to you, whatever you bind on earth will be bound in
+heaven; and whatever you loose on earth will be loosed in heaven. Again amen I
+say to you, that if two of you agree on earth concerning any matter, whatever
+they
+
+ask, it will be done for them by my Father who is in heaven. JOHN. That the
+hour is coming in which all who are in the tombs will hear =31.701= his voice,
+and will come forth, those who have done good things, to a resurrection of
+life; but those who have practiced worthless things, to a resurrection of
+judgment. ROMANS. Or do you despise the riches of his kindness, and of his
+forbearance, and of his longsuffering, not knowing that the kindness of God
+leads you to repentance? But according to your hardness and unrepentant heart
+you store up for yourself wrath in the day of wrath and of revelation and of
+the just judgment of God, who will render to each according to his works.
+ACTS. The times of ignorance therefore God overlooked, but now he commands all
+men everywhere to repent; inasmuch as he has appointed a day in which he is
+about to judge the world. That those who repent must weep bitterly, and show
+from the heart the rest of the things that belong to repentance. Chapter 3.
+MATTHEW. And Peter remembered the word of Jesus who had said to him, that
+Before a cock crows, you will deny me three times. And going out, he wept
+bitterly. 2 COR. But he who comforts the lowly comforted us by the coming of
+Titus. And not only by his coming, but also by the comfort with which he was
+comforted over you, announcing to us your longing, your mourning, your zeal
+for me. And a little later: For behold, this very thing, that you were grieved
+according to God, how much earnestness it worked in you; but a defense, but
+indignation, but fear, but longing, but zeal, but vindication; in everything
+you commended yourselves to be pure in the matter. ACTS. And many of those who
+had believed came, confessing and announcing their deeds. And a good number of
+those who had practiced curious arts, having brought the books together,
+burned them before them. That for those who repent withdrawal from sins alone
+is not enough for salvation, but they also need fruits worthy of repentance.
+Chapter 4. MATTHEW. And seeing many of the Pharisees and Sadducees coming to
+his baptism, he said to them: Offspring of vipers, who showed you to flee from
+the coming wrath? Produce therefore fruits worthy of repentance, and do not
+think to say in yourselves: We have Abraham as father. For I say to you that
+God is able from these stones to raise up children to Abraham. And already the
+axe is laid to the root of the trees. Every tree therefore that does not
+produce good fruit is cut down and thrown into fire. That after departure from
+here there is no time for achievements, God having measured out the present
+time =31.704= in longsuffering for the working of the things toward his good
+pleasure. Chapter 5. MATTHEW. Then the kingdom of heaven will be likened to
+ten virgins, who, taking their lamps, went out to meet the bridegroom. And
+five of them were prudent, and five foolish; who, being foolish, taking their
+lamps, did not take oil with them; but the prudent took oil in their vessels
+with their lamps. And while the bridegroom delayed, they all nodded and slept.
+And in the middle of the night a cry came: Behold, the bridegroom comes, go
+out to meet him. Then all those virgins rose and trimmed their lamps. And the
+foolish said to the prudent: Give us of your oil, for our lamps are going out.
+And the prudent answered,
+saying: Lest there not be enough for us and you; go rather to those who sell,
+and buy for yourselves. And while they were going away to buy, the bridegroom
+came, and those who were ready went in with him to the wedding, and the door
+was shut. And afterward the remaining virgins also come, saying: Lord, Lord,
+open to us. And he answering said: Amen I say to you, I do not know you. LUKE.
+Struggle to enter through the narrow gate, because many, I say to you, will
+seek to enter, and
+
+will not be able. From the time the master of the house rises and shuts the
+door, and you begin to stand outside and to knock at the door, saying: Lord,
+Lord, open to us; and answering he will say to you: I do not know you, where
+you are from. 2 COR. Behold, now is an acceptable time, behold, now is a day
+of salvation, giving no occasion in anything, that the ministry may not be
+blamed, but in everything commending ourselves as ministers of God. GAL.
+Therefore then, as we have time, let us work the good toward all.
+RULE 2.
+That it is impossible for one who also mixes himself with things alien to
+piety to serve God.
+Chapter 1. MATTHEW. No one can serve two lords; for either he will hate the
+one and love the other, or he will hold to one and despise the other. You
+cannot serve God and mammon. 2 COR. Do not become unequally yoked with
+unbelievers. For what sharing is there of righteousness and lawlessness? or
+what communion of light with darkness? and what agreement of Christ with
+Belial? or what portion of a believer with an unbeliever? and what consent of
+a temple of God with idols? That one who has obeyed the Gospel must first be
+cleansed from every defilement of flesh =31.705= and spirit, that he may thus
+become acceptable to God in the achievements of holiness. Chapter 2. MATTHEW.
+Woe to you, scribes and Pharisees, hypocrites, because you cleanse the outside
+of the cup and of the dish, but inside they are full of plunder and
+incontinence. Blind Pharisee, cleanse first the inside of the cup and of the
+dish, that the outside of them also may become clean. 2 COR. Having therefore
+these promises, beloved, let us cleanse ourselves from every defilement of
+flesh and spirit, accomplishing holiness in the fear of God. That it is
+impossible for one who is attached to any of the present things, or who
+endures any of the things that even for a little draw away from a commandment
+of God, to become a disciple of the Lord. Chapter 3. MATTHEW. He who loves
+father or mother above me is not worthy of me. And he who loves son or
+daughter above me is not worthy of me. And whoever does not take his cross and
+follow after me is not worthy of me ... If anyone wishes to come after me, let
+him deny himself, and take up his cross, and follow me. For whoever wishes to
+save his soul will lose it.
+RULE 3. That the first and great commandment in the law was witnessed by the
+Lord, to love God from the whole heart; and a second, to love the neighbor as
+oneself.
+Chapter 1. MATTHEW. And Jesus said to him: You shall love the Lord your God
+from your whole heart, and from your whole soul, and from your whole strength,
+and from your whole mind. This is the first and great commandment; and a
+second like it is this: You shall love your neighbor as yourself. That the
+proof of not loving God and his Christ is not keeping his commandments; and
+the demonstration of loving is the keeping of the commandments of Christ, in
+endurance of his sufferings unto death. Chapter 2. JOHN. He who has my
+commandments and keeps =31.708= them, he is the one who loves me. He who does
+not love me does not keep my words. If you keep my commandments, you will
+remain in my love, just as I have kept the commandments of my Father and
+remain in his love. ROMANS. Who will separate us from the love of Christ?
+tribulation? or distress? or persecution? or famine? or nakedness?
+
+or danger? or sword? As it is written: That for your sake we are put to death
+all the day, we were reckoned as sheep of slaughter. But in all these things
+we more than conquer through him who loved us, and the rest.
+RULE 4. That he honors and glorifies God who works his will; and he dishonors
+him who transgresses his law.
+Chapter 1. JOHN. I glorified you on the earth; I finished the work which you
+have given me to do. MATTHEW. So let your light shine before men, that they
+may see your good works and glorify your Father who is in the heavens. PHIL.
+That you may be sincere and without offense unto the day of Christ, filled
+with fruits of righteousness that are through Jesus Christ, to the glory and
+praise of God. ROMANS. You who boast in the law, through the transgression of
+the law you dishonor God. RULE 5. That one must, being clean of all hatred
+toward all, love even the enemies; and lay down the soul for the friends, when
+need calls, having such love as God had toward us, and his Christ. Chapter 1.
+MATTHEW. You have heard that it was said to the ancients: You shall love your
+neighbor, and hate your enemy. But I say to you: Love your enemies; And a
+little later: You therefore shall be perfect, as your heavenly Father is
+perfect. JOHN. For God so loved the world that he gave his only-begotten Son.
+This is my commandment, that you love one another, as I have loved you.
+Greater love than this no one has, that one lay down his soul for his friends.
+LUKE. And you will be sons of the Most High, because he is kind upon the
+ungrateful and evil. Become therefore merciful, as your Father also is
+merciful. ROMANS. And God commends his own love toward us, that while we were
+still sinners Christ died for us. EPH. Become therefore imitators of God as
+beloved children, and walk in love, as Christ also loved =31.709= us, and gave
+himself up for us, an offering and a sacrifice to God. That the proof of the
+disciples of Christ is the love in him toward one another. Chapter 2. JOHN. In
+this all will know that you are my disciples, if you have love among one
+another. That the proof of not having the love of Christ toward the neighbor
+is to do any of the things that harm or grieve him unto a cutting off of the
+faith, even if the thing done is conceded by Scripture in its own account.
+Chapter 3. ROMANS. For if because of food your brother is grieved, you no
+longer walk according to love. Do not destroy him by your food, for whom
+Christ died. That the Christian must in every way, as far as it is in him,
+heal even the one who is grieved against him. Chapter 4. MATTHEW. If therefore
+you offer your gift at the altar, and there remember that your brother has
+something against you, leave your gift there before the altar, and go first,
+be reconciled to your brother, and then come and offer your gift. 1 COR. Being
+reviled we bless, being persecuted we endure, being blasphemed we exhort. That
+he who has the love according to Christ sometimes also grieves the one loved,
+toward what is profitable. Chapter 5. JOHN. But now I go to him who sent me,
+and none of you asks me: Where are you going? But because I have spoken these
+things to you, grief has filled your heart. But I tell you the truth: it is
+profitable for you that I go away. For if I do not go away, the Paraclete will
+not come to you. 2 COR. So that I rejoiced rather, that, even if I grieved you
+in the letter, I do not regret it, even if I did regret it. For I see that
+that letter, even if for an
+
+hour, grieved you. Now I rejoice, not that you were grieved, but that you were
+grieved unto repentance. For you were grieved according to God, that you might
+suffer loss in nothing from us.
+RULE 6. That one must speak freely without fear and without shame in the
+confession of our Lord Jesus Christ and of his words.
+=31.712= Chapter 1. MATTHEW. What I say to you in the darkness, say in the
+light; and what you heard into the ear, proclaim upon the housetops. And do
+not fear those who kill the body but are not able to kill the soul; but fear
+rather him who is able to destroy both soul and body in gehenna. Everyone
+therefore who will confess in me before men, I also will confess in him before
+my Father who is in heaven. LUKE. For whoever is ashamed of me and of my
+words, of this one the Son of man will be ashamed when he comes in his glory
+and of the Father and of the holy angels. 2 TIM. Do not therefore be ashamed
+of the testimony of our Lord, nor of me his prisoner; but suffer hardship with
+the Gospel, as a good soldier of Jesus Christ.
+RULE 7. That even if someone seems to confess the Lord and hears his words,
+but disobeys his commandments, he is condemned, even if he is conceded to come
+to be in spiritual gifts because of some economy.
+Chapter 1. MATTHEW. Not everyone who says to me, Lord, Lord, will enter into
+the kingdom of the heavens, but he who does the will of my Father who is in
+heaven. Many will say to me in that day: Lord, Lord, did we not prophesy in
+your name? and in your name cast out demons? and in your name do many mighty
+works? And then I will confess to them that I never knew you. Depart from me,
+you who work lawlessness, and the rest. LUKE. And why do you call me, Lord,
+Lord, and do not do what I say? and the rest. TITUS. They confess to know God,
+but by the works they deny him; being abominable, and disobedient, and for
+every good work unapproved.
+RULE 8. That one must not be in two minds and doubt over the things said by
+the Lord, but be fully assured that every word of God is true and possible,
+even if nature fights. For here also is the contest of faith.
+Chapter 1. MATTHEW. And in the fourth watch of the night Jesus comes toward
+them walking upon the sea. And the disciples, seeing him walking upon the sea,
+were troubled, saying: It is a phantom; and from fear =31.713= they cried out.
+And immediately Jesus spoke to them saying: Take courage, it is I, do not
+fear. And Peter answering said to him: Lord, if it is you, command me to come
+toward you upon the waters. And he said: Come. And Peter, coming down from the
+boat, walked upon the waters to come toward Jesus. And seeing the strong wind,
+he was afraid; and beginning to sink, he cried out saying: Lord, save me. And
+immediately Jesus stretching out the hand took hold of him, and says to him:
+Little-faithed one, why did you doubt? JOHN. The Jews therefore fought toward
+one another, saying: How can this man give us the flesh to eat? He therefore
+said to them: Amen amen I say to you, unless you eat the flesh of the Son of
+man and drink his blood, you do not have life in yourselves. LUKE. And the
+angel said to him: Do not fear, Zacharias,
+
+because your petition has been heard; and your wife Elizabeth will bear you a
+son. And a little later: And Zacharias said toward the angel: According to
+what shall I know this? For I am old, and my wife is advanced in her days. And
+the angel answering said to him: I am Gabriel, who stands before God; and I
+was sent to speak toward you and to announce these things as good news to you.
+And behold, you will be silent and not able to speak until the day these
+things come to be, because you did not believe my words, which will be
+fulfilled in their time. ROMANS. And not weakening in faith, he did not
+consider his own body already dead, being about a hundred years old, and the
+deadness of Sarah's womb. And toward the promise of God he did not waver in
+unbelief, but was strengthened in faith; giving glory to God, and being fully
+assured that what he has promised he is able also to do. Therefore it was also
+reckoned to him unto righteousness. That he who does not believe the Lord in
+the lesser things is clearly unbelieving much more in the greater. Chapter 2.
+JOHN. If I told you earthly things and you do not believe, how, if I tell you
+the heavenly things, will you believe? LUKE. He who is faithful in a very
+little is also faithful in much; and he who is unjust in a very little is also
+unjust in much. That one must not be established by one's own reasonings unto
+a setting aside of the things said by the Lord; but know that the words of the
+Lord are more worthy of trust than one's own full assurance. Chapter 3.
+MATTHEW. Then Jesus says to them: You all will be scandalized in me in this
+night. And Peter answering said to him: =31.716= And if all are scandalized in
+you, I will never be scandalized. Jesus said to him: Amen I say to you, in
+this night, before a cock crows, you will deny me three times ... And when
+evening came, he reclined with the twelve disciples; and as they were eating,
+he says to them: I say to you that one of you will betray me. And being
+exceedingly grieved, they began to say to him each of them: It is not I, Lord?
+ACTS. And a voice came toward him: Rising, Peter, sacrifice and eat. And Peter
+said: By no means, Lord; because I have never eaten anything common or
+unclean. And a voice again a second time toward him: What God has cleansed, do
+not you make common. 2 COR. Casting down reasonings, and every height lifted
+up against the knowledge of God, and taking captive every thought unto the
+obedience of Christ.
+RULE 9. That one must not neglect the knowledge of the things that fall to us;
+but hearing the words of the Lord with attention, understand, and do his will.
+Chapter 1. MATTHEW. And Peter answering said to him: Explain this parable to
+us. And Jesus said: Are you also still without understanding? Do you not yet
+perceive that everything that goes into the mouth proceeds into the belly and
+is cast out into the drain? but the things that go out from the mouth come out
+from the heart, and make the man common? ... Of everyone who hears the word of
+the kingdom and does not understand, the evil one comes and snatches what was
+sown in his heart. This is he who was sown beside the way. And a little later:
+And he who was sown upon the good earth, this is he who hears the word and
+understands, who indeed bears fruit and produces, one a hundred, another
+sixty, another thirty. MARK. And calling all the crowd, he said to them: Hear
+me, and understand. EPH. See therefore how you walk accurately; not as unwise,
+but as wise; buying up the time, because the days are evil. For this reason do
+not become foolish, but understanding what the will of God is. That concerning
+the things that do not fall to us one must not be a busybody. Chapter 2. JOHN.
+And after the morsel, then Satan entered into that one. Jesus says to him:
+What you do, do more quickly. And none of those reclining knew toward what
+
+he said to him. ACTS. Those therefore who had come together asked him saying:
+=31.717= Lord, is it in this time that you restore the kingdom to Israel? And
+he said toward them: It is not yours to know times or seasons, which the
+Father has set in his own authority. That it belongs to those who have zeal of
+good pleasure toward God also to ask concerning the things one must. Chapter
+3. MATTHEW. And his disciples came to him saying: Explain to us the parable of
+the tares of the field ... And behold, one coming said to him: Good teacher,
+what good thing shall I do, that I may have eternal life? LUKE. He therefore
+said to the crowds going out to be baptized by him: Offspring of vipers, who
+showed you to flee from the coming wrath? And a little later: And the crowds
+asked him saying: What shall we do? Likewise tax-collectors, likewise those
+serving as soldiers. ACTS. And hearing they were pricked in the heart, and
+said toward Peter and the rest of the apostles: What shall we do, men
+brothers? That one who is asked must take care to answer worthily. Chapter 4.
+LUKE. And behold, a certain lawyer stood up testing him, and saying: Teacher,
+having done what shall I inherit eternal life? And he said toward him: In the
+law what is written? how do you read? And he answering said: You shall love
+the Lord your God from your whole heart, and from your whole soul, and from
+your whole mind, and your neighbor as yourself. And he said toward him: You
+have answered rightly. Do this, and you will live. COL. Let your word always
+be in grace, seasoned with salt, to know how you must answer each one. That
+the judgment of those who understand and do not do is worse; and neither is
+sinning according to ignorance without danger. Chapter 5. LUKE. And that
+servant who knew the will of his lord and did not prepare, nor did toward his
+will, will be beaten with many. And he who did not know, but did things worthy
+of blows, will be beaten with few.
+RULE 10. That the end of sin is death.
+Chapter 1. JOHN. And he who disobeys the Son will not see the life, but the
+wrath of God remains upon him. =31.720= ROMANS. For when you were slaves of
+sin, you were free in regard to righteousness. What fruit therefore did you
+have then, of the things of which you are now ashamed? For the end of those
+things is death. And a little later: For the wages of sin is death ... And the
+sting of death is sin. That the end of a commandment of God is eternal life.
+Chapter 2. JOHN. Amen amen I say to you, if anyone keeps my word, he will not
+behold death unto the age. But the Father who sent me, he gave me a
+commandment, what I should say and what I should speak, and I know that his
+commandment is eternal life. ROMANS. But now, having been freed from sin and
+enslaved to God, you have your fruit unto sanctification, and the end eternal
+life.
+RULE 11. That one must not despise the judgments of God, but fear, even if
+they do not have the recompense immediately.
+Chapter 1. MATTHEW. But fear rather him who is able to destroy both soul and
+body in gehenna. LUKE. But if that servant says in his heart: My lord delays
+to come; and begins to beat the menservants and the maidservants, and to eat
+and drink and be drunken; the lord of that servant will come in a day in which
+he does not expect, and in an hour which he does not know, and will cut him in
+two, and will set his portion with the unbelievers. JOHN. See, you have become
+healthy; sin no longer, that something worse may not come to you. EPH. Let no
+one deceive you with empty words;
+
+for because of these things the wrath of God comes upon the sons of
+disobedience. That he who has been disciplined for the first sins and has been
+counted worthy of remission, if he sins again, prepares for himself a worse
+judgment of wrath than the former. Chapter 2. JOHN. See, you have become
+healthy, sin no longer, that something worse may not come to you. That, some
+having fallen under a judgment of wrath of God, the rest must be disciplined
+by fearing. Chapter 3. LUKE. And some were present at that very time,
+announcing to him concerning the Galileans whose blood Pilate mixed with their
+sacrifices. And Jesus answering said to them: Do you think that these
+Galileans became sinners beyond all =31.721= the Galileans, because they have
+suffered such things? No, I say to you; but unless you repent, you will all
+likewise perish. Or those eighteen upon whom the tower in Siloam fell and
+killed them, do you think that these became debtors beyond all the men who
+dwell in Jerusalem? No, I say to you; but unless you repent, you will all
+likewise perish. ACTS. And Ananias, hearing these words, falling, expired. And
+great fear came upon all who heard these things. 1 COR. Nor murmur, just as
+some of them murmured, and perished by the destroyer. And these things
+happened as types to them; and they were written for our admonition, upon whom
+the ends of the ages have come. That often one is even delivered over to the
+works of evil themselves for punishment because of a preexisting impiety.
+Chapter 4. ROMANS. And just as they did not approve to have God in knowledge,
+God delivered them over to an unapproved mind, to do the things that are not
+fitting. 2 THESS. Because they did not receive the love of the truth, unto
+their being saved, for this reason God sends them a working of error, unto
+their believing the lie. That a multitude of sinners does not put God to
+shame, but he who is well-pleasing to him, whether he happens to be a man or a
+woman. Chapter 5. LUKE. In truth I say to you that there were many widows in
+the days of Elijah in Israel, when the heaven was shut for three years and six
+months, as a great famine came upon all the earth, and to none of them was
+Elijah sent except to Sarepta of Sidon toward a woman, a widow. 1 COR. For I
+do not want you to be ignorant, brothers, that all our fathers were under the
+cloud, and all passed through the sea, and all were baptized into Moses in the
+cloud and in the sea, and all ate the same spiritual food, and all drank the
+same spiritual drink; for they drank from a spiritual rock that followed; and
+the rock was Christ. But God was not well pleased in the more of them; for
+they were laid low in the wilderness.
+RULE 12. That every contradiction, even if it comes from a friendly and
+reverent disposition, alienates the one who contradicts from the Lord; and
+every word of the Lord must be received with all full assurance. =31.724=
+Chapter 1. JOHN. And he began to wash the feet of the disciples, and to wipe
+them with the towel with which he was girded. He comes therefore toward Simon
+Peter, and that one says to him: Lord, do you wash my feet? Jesus answered and
+said to him: What I do you do not know now, but you will know after these
+things. Peter says to him: You shall not wash my feet unto the age. Jesus
+answered him: If I do not wash you, you do not have a portion with me. That
+one must not follow traditions of men unto a setting aside of a commandment of
+God. Chapter 2. MARK. Then the Pharisees and the scribes ask him: Why do your
+disciples not walk according to the tradition of the elders, but eat the bread
+with unwashed hands? And he answering said to them that Isaiah prophesied well
+concerning you hypocrites, as it is written:
+
+This people honors me with the lips, but their heart is far away from me. And
+in vain they worship me, teaching teachings, commandments of men. For leaving
+the commandment of God, you hold the tradition of men; and the rest. That one
+must keep without omission all the things handed down by the Lord through the
+Gospel and the apostles. Chapter 3. MATTHEW. Going, make disciples of all the
+nations, baptizing them into the name of the Father and of the Son and of the
+Holy Spirit; teaching them to keep all things, whatever I commanded you. LUKE.
+And they were both righteous before God, walking in all the commandments and
+ordinances of the Lord blameless ... He who hears you hears me; and he who
+sets you aside sets me aside. 2 THESS. Therefore then, brothers, stand, and
+hold the traditions which you were taught, whether through word or through a
+letter, as through us. That one must not approve a will of one's own beside
+the will of the Lord; but in every matter seek and do the will of God. Chapter
+4. JOHN. That I do not seek my own will, but the will of the Father who sent
+me. LUKE. And setting the knees, he prayed saying: Father, if you wish, take
+this cup away. Yet not my will, but yours be done. EPH. In which we all also
+once walked in the desires of our =31.725= flesh, doing the will of the flesh
+and of our thoughts; and we were by nature children of wrath, as also the
+rest.
+RULE 13. That one must always be sober, and ready in the zeal of the
+achievements of God, knowing the danger of delay.
+Chapter 1. LUKE. Let your loins be girded, and the lamps burning; and you like
+men waiting for their own lord, when he will return from the wedding; that
+when he comes and knocks, they may open to him immediately. Blessed are those
+servants, whom the lord coming will find watching. Amen I say to you, that he
+will gird himself, and make them recline, and coming by will serve them. And
+if he comes in the second watch, and if he comes in the third watch, and finds
+them so, blessed are those servants. And know this, that if the master of the
+house had known in what hour the thief comes, he would have watched, and would
+not have let his house be dug through. And you therefore become ready, because
+in an hour you do not think the Son of man comes, and the rest. 1 THESS. And
+concerning the times and the seasons, brothers, you have no need to be written
+to; for you yourselves know accurately that the day of the Lord so comes as a
+thief in the night. And a little later: let us watch, and be sober. That one
+must hold every time a fitting one unto the zeal of the things that please
+God. Chapter 2. JOHN. I must work the works of him who sent me, while it is
+day. PHIL. So that, my beloved, as you have always obeyed, not as in my
+presence only, but now much more in my absence, with fear and trembling work
+out your own salvation.
+RULE 14. That one must not mix things that do not belong, but know the proper
+time of each of the things done or said.
+Chapter 1. MATTHEW. Then the disciples of John come to him, saying: Why do we
+and the Pharisees fast much, but your disciples do not fast? And Jesus said to
+them: The sons of the bridechamber cannot mourn as long as the bridegroom is
+with them? But days will come, when the bridegroom is taken away from them,
+
+and then they will fast in those days; =31.728= and the rest. GAL. Therefore,
+brothers, we are not children of a maidservant, but of the free woman; in the
+freedom therefore with which Christ freed us, stand, and do not again be held
+in a yoke of slavery.
+RULE 15. That one must not, hoping in the achievements of others, neglect
+one's own.
+Chapter 1. MATTHEW. Produce therefore fruits worthy of repentance, and do not
+think to say in yourselves: We have Abraham as father.
+RULE 16. That those who live with those who please God, and do not set right
+their own mind, are helped in nothing, even if according to what appears they
+keep the likeness toward them.
+Chapter 1. MATTHEW. Then the kingdom of heaven will be likened to ten virgins,
+who, taking their lamps, went out to meet the bridegroom. And five of them
+were prudent, and the five foolish. Who, being foolish, taking their lamps,
+did not take oil with them; but the prudent took in their vessels with their
+lamps. To whom he adds a little later concerning the foolish: And afterward
+the remaining virgins come saying: Lord, Lord, open to us. And he answering
+said: I say to you, I do not know you. LUKE. I say to you: in this night two
+will be upon one bed; one will be taken, and the other will be left. Two
+grinding at the same place; one will be taken, and the other will be left. And
+answering they say to him: Where, Lord? And he said to them: Where the corpse
+is, there the eagles also will be gathered.
+RULE 17. That one must, recognizing from the properties made clear to us by
+Scripture what the present time is, dispose our own things with a view to it.
+Chapter 1. MATTHEW. And from the fig tree learn the parable. When already its
+branch becomes tender and puts forth the leaves, you know that the summer is
+near. So also you, when you see all these things, know that it is near, at the
+doors. LUKE. When you see the cloud rising from the west, immediately you say
+that A rainstorm comes; and it happens so. And when a south wind blowing, you
+say that There will be a burning heat; and it happens. =31.729= Hypocrites,
+you know how to test the face of the earth and of the heaven, but this time
+how do you not test? 1 COR. The time is shortened for the rest, that those
+also who have wives may be as not having; and those who weep as not weeping;
+and those who rejoice as not rejoicing; and those who buy, as not holding; and
+those who use the world, as not using it up; for the fashion of this world is
+passing.
+RULE 18. That one must do the commandments of God as the Lord commanded. For
+he who fails concerning the manner of the working, even if he seems to do the
+commandment, is unapproved with God.
+Chapter 1. LUKE. And he said also to him who had called him: When you make a
+breakfast or a dinner, do not call your friends, nor your brothers, nor your
+kinsmen,
+
+nor rich neighbors, lest they also invite you in return, and a recompense come
+to you. But when you make a reception, call poor, maimed, lame, blind, and you
+will be blessed, because they do not have to recompense you; for it will be
+recompensed to you in the resurrection of the just. That one must not do the
+commandment of God through pleasing toward men, or through some other passion,
+but in everything have as aim to please God, and to glorify God. Chapter 2.
+MATTHEW. Take care not to do your alms before men, toward being seen by them;
+otherwise you have no reward with your Father who is in the heavens. When
+therefore you do alms, do not trumpet before men, as the hypocrites do in the
+synagogues and in the streets, that they may be glorified by men. Amen I say
+to you, they have their reward, and the rest. 1 COR. Whether therefore you
+eat, or drink, or do anything, do all things unto the glory of God. 1 THESS.
+But as we have been approved by God to be entrusted with the Gospel, so we
+speak, not as pleasing men, but God who tests our hearts. For neither at any
+time did we come in a word of flattery, as you know, nor in a pretext of
+greed, God is witness; nor seeking glory from men, neither from you, nor from
+others. =31.732= That one must do the commandments of the Lord with conscience
+and a good disposition toward both God and men. For he who does not so do is
+condemned. Chapter 3. MATTHEW. Woe to you, scribes and Pharisees, hypocrites,
+because you cleanse the outside of the cup and of the dish, but inside they
+are full of plunder and incontinence. Blind Pharisee, cleanse first the inside
+of the cup and of the dish, that the outside of it also may become clean.
+ROMANS. He who shares, in simplicity. PHIL. Do all things without murmurings
+and reasonings. 1 TIM. And the end of the charge is love from a clean heart
+and a good conscience ... Having faith and a good conscience, which some
+thrusting away have made shipwreck concerning the faith. That from
+well-mindedness about the lesser things the judgment of recompense upon the
+greater is justified. Chapter 4. MATTHEW. Well done, good and faithful
+servant, you were faithful over few things, I will set you over many; enter
+into the joy of your lord. And a little later: For to everyone who has it will
+be given, and he will abound; but from him who does not have, even what he has
+will be taken from him. LUKE. If therefore you did not become faithful in the
+unjust mammon, who will entrust to you the true? And if you did not become
+faithful in the alien, who will give you what is yours? That one must do the
+commandments of the Lord with unsated desire, always pressing toward the more.
+Chapter 5. MATTHEW. Blessed are those who hunger and thirst for righteousness.
+PHIL. I, brothers, do not yet reckon myself to have laid hold. But one thing,
+forgetting the things behind, and stretching out to the things in front, I
+pursue according to aim toward the prize of the upward calling in Christ
+Jesus. That one must so do the commandments of God that, as far as it is in
+the one who does, all may be enlightened, and God may be glorified. Chapter 6.
+MATTHEW. You are the light of the world. A city cannot be hidden lying upon a
+mountain; nor do they light a lamp and set it under the bushel, but upon the
+lampstand, and it shines to all who are in the house. So let your light shine
+before men, that they may see your good works, and glorify your Father who is
+=31.733= in the heavens. LUKE. And no one, lighting a lamp, hides it with a
+vessel, or sets it under a bed, but sets it upon a lampstand, that those who
+enter may see the light. PHIL. That you may be sincere and without offense
+unto the day of Christ, filled with fruits of righteousness, through Jesus
+Christ unto glory and praise of God.
+
+RULE 19. That one must not hinder him who does the will of God, whether
+according to a commandment of God, or according to a reason following the
+commandment; nor indeed, when doing, endure those who prevent, even if they
+are genuine, but remain in the judgment.
+Chapter 1. MATTHEW. Then Jesus comes from Galilee upon the Jordan toward John,
+to be baptized by him. And John prevented him, saying: I have need to be
+baptized by you, and do you come toward me? And Jesus answering said toward
+him: Permit it now; for so it is fitting for us to fulfill all righteousness,
+and the rest ... From that time Jesus began to show his disciples that he must
+go away to Jerusalem, and suffer many things from the elders and chief priests
+and scribes; and be killed, and on the third day be raised. And Peter taking
+him began to rebuke him saying: Mercy to you, Lord; this shall not be to you.
+And he, turning, said to Peter: Go behind me, Satan; you are a scandal to me,
+because you do not think the things of God, but the things of men. MARK. And
+they brought children to him, that he might touch them. And the disciples
+rebuked those who brought them. And Jesus seeing was indignant, and said to
+them: Permit the children to come toward me, and do not hinder them; for of
+such is the kingdom of the heavens. ACTS. And as they remained more days, a
+certain prophet named Agabus came down from Judea. And coming toward us, and
+taking the belt of Paul, and binding his own feet and hands, he said: These
+things the Holy Spirit says: The man whose this belt is, so will the Jews bind
+in Jerusalem, and they will deliver him into hands of nations. And when we
+heard these things, we and those of the place exhorted him not to go up to
+Jerusalem. And Paul answered: What are you doing, weeping and crushing my
+heart? For I am ready not only to be bound, but also to die for the name of
+the Lord Jesus. And when he was not persuaded, we were quiet, saying: The will
+of the Lord be done. 1 THESS. Of those who both killed the Lord Jesus and
+their own prophets, and drove us out, and are not pleasing =31.736= to God,
+and are contrary to all men, hindering us from speaking to the nations, that
+they may be saved, unto filling up their sins always; and the wrath has come
+upon them unto the end. That one who does a commandment of God not from a
+healthy disposition, yet according to what appears keeping the exactness of
+the Lord's teaching, one must not hinder, because as far as the deed is
+concerned no one is harmed, and sometimes some are even helped from him; but
+one must exhort him to have a mind worthy of the achievement. Chapter 2.
+MATTHEW. When therefore you do alms, do not trumpet before yourself, as the
+hypocrites do in the synagogues and in the streets, that they may be glorified
+by men. Amen I say to you, they have their reward. But when you do alms, let
+your left not know what your right does; that your alms may be in the secret;
+and your Father, who sees in the secret, will himself repay you in the open.
+And concerning prayer likewise. MARK. And John answered him saying: Teacher,
+we saw someone casting out demons in your name, who does not follow with us,
+and we hindered him, because he does not follow us. And Jesus said: Do not
+hinder him; for there is no one who will do a mighty work upon my name and
+will be able quickly to speak evil of me. For he who is not against us is for
+us. PHIL. Some indeed even through envy and strife, and some also through good
+will, preach Christ. The ones from love, knowing that I am set for a defense
+of the Gospel; and the others announce Christ from faction, not purely,
+thinking to bring affliction upon my
+
+bonds. What then? Only that in every way, whether in pretext or in truth,
+Christ is announced, and in this I rejoice, and I will also rejoice.
+RULE 20. That those who believe in the Lord must be baptized into the name of
+the Father, and of the Son, and of the Holy Spirit.
+Chapter 1. MATTHEW. Going, make disciples of all the nations, baptizing them
+into the name of the Father, and of the Son, and of the Holy Spirit. JOHN.
+Amen amen I say to you, unless someone is born from above, he cannot see the
+kingdom of God; and again: Amen amen I say to you: Unless someone is born from
+water and Spirit, he cannot enter into the kingdom of God. What is the account
+or the power of baptism? That the one baptized be altered in mind and word and
+deed, and become, according to the power given, that which that is from which
+he was born. Chapter 2. JOHN. What has been born from the flesh =31.737= is
+flesh, and what has been born from the spirit is spirit. Do not wonder that I
+said to you: You must be born from above. The spirit blows where it wishes,
+and you hear its voice; but you do not know from where it comes and where it
+goes. So is everyone who has been born from the spirit. ROMANS. To have died
+to sin, but to live to God in Christ Jesus. As many as we were baptized into
+Christ Jesus, we were baptized into his death. We were therefore buried with
+him through baptism into the death; that, as Christ was raised from the dead
+through the glory of the Father, so we also may walk in newness of life. For
+if we have become grown together with the likeness of his death, we shall also
+be of the resurrection; knowing this, that our old man was crucified with him,
+that the body of sin may be abolished, that we may no longer be slaves to sin.
+For he who has died has been justified from sin. COL. In whom you were also
+circumcised with a circumcision not made with hands, in the putting off of the
+body of the sins of the flesh, in the circumcision of Christ, being buried
+with him in the baptism, in which you were also raised with him through the
+faith of the working of God, who raised him from the dead. GAL. For as many as
+you were baptized into Christ, you put on Christ. There is not Jew, nor Greek;
+there is not slave, nor free; there is not male and female; for you all are
+one in Christ Jesus. COL. Having put off the old man with his deeds, and
+having put on the new who is being renewed unto knowledge according to the
+image of him who created him; where there is not Greek and Jew, circumcision
+and uncircumcision, barbarian, Scythian, slave, free; but Christ is all
+things, and in all.
+RULE 21. That the partaking of the body and blood of Christ is necessary even
+toward eternal life itself.
+Chapter 1. JOHN. Amen amen I say to you: Unless you eat the flesh of the Son
+of man and drink his blood, you do not have life in yourselves. He who eats my
+flesh and drinks my blood has eternal life, and the rest. =31.740= That he is
+helped in nothing who comes to the communion without understanding of the
+account according to which the partaking of the body and blood of Christ is
+given; and he who partakes unworthily is condemned. Chapter 2. JOHN. Amen,
+amen I say to you, unless you eat the flesh of the Son of man and drink his
+blood, you do not have life in yourselves. And a little later: And Jesus
+knowing in himself that his disciples murmur concerning this, said to them:
+Does this scandalize you? If therefore
+
+you behold the Son of man going up where he was before? The flesh profits
+nothing; the spirit is what makes alive. The words which I have spoken to you
+are spirit, and are life. 1 COR. So that whoever eats this bread, or drinks
+this cup of the Lord unworthily, will be guilty of the body and of the blood
+of the Lord. But let a man test himself, and so eat from the bread and drink
+from the cup. For he who eats and drinks unworthily eats and drinks judgment
+to himself, not discerning the body of the Lord. By what account must one eat
+the body and drink the blood of the Lord, unto a remembrance of the Lord's
+obedience unto death, that those who live may no longer live to themselves,
+but to him who died for them and was raised. Chapter 3. LUKE. And taking
+bread, having given thanks he broke it, and gave it to them saying: This is my
+body, which is given for you; do this unto my remembrance. Likewise also the
+cup, after dining, saying: This cup is the New Covenant in my blood, which is
+poured out for you. 1 COR. That the Lord Jesus in the night in which he was
+delivered took bread, and having given thanks, broke it, and said: Take, eat;
+this is my body, which is broken for you; do this unto my remembrance.
+Likewise also the cup, after dining, saying: This cup is the New Covenant in
+my blood. Do this, as often as you drink, unto my remembrance. For as often as
+you eat this bread and drink this cup, you announce the death of the Lord
+until he comes. 2 COR. For the love of Christ holds us, having judged this,
+that if one died for all, then all died; and he died for all, =31.741= that
+those who live may no longer live to themselves, but to him who died for them
+and was raised, unto the many becoming one body in Christ ... 1 COR. The bread
+which we break, is it not a communion of the body of Christ? That we the many
+are one bread, one body. For we all partake from the one bread. That he who
+partakes of the holy things must hymn the Lord. Chapter 4. MATTHEW. And as
+they were eating, Jesus taking the bread, and having given thanks, broke it,
+and gave it to the disciples, and the rest. To which he adds: And having
+hymned they went out to the mount of Olives.
+RULE 22. That the working of sin alienates from the Lord, and makes one
+familiar to the devil.
+Chapter 1. JOHN. Amen, amen I say to you, that everyone who does the sin is a
+slave of the sin. You are from the father the devil, and you wish to do the
+desires of your father. ROMANS. For when you were slaves of the sin, you were
+free in regard to righteousness. That familiarity toward the Lord is not known
+in kinship according to flesh, but is accomplished in the zeal of the wills of
+God. Chapter 2. JOHN. He who is from God hears the words of God. LUKE. And it
+was announced to him, people saying: Your mother and your brothers stand
+outside, wishing to see you. And he answering said to them: My mother and my
+brothers are these who hear the word of God and do it. JOHN. You are my
+friends, if you do whatever I command you. ROMANS. For as many as are led by
+the Spirit of God, these are sons of God.
+RULE 23. That he who is unwillingly dragged by sin ought to know himself to be
+held by another preexisting sin, serving which willingly, he is then led under
+it even unto things he does not wish.
+
+Chapter 1. ROMANS. And we know that the law is spiritual; but I am fleshly,
+sold under the sin. For what I work I do not know. For I do not practice this
+which I wish; but what I hate, this I do. And if I do this which I do not
+wish, I agree with the law that it is good. But now it is no longer I who work
+it, but the sin dwelling =31.744= in me. And I know that there does not dwell
+in me, that is, in my flesh, a good thing; for to wish is present with me, but
+to work the good I do not find. For I do not do the good which I wish, but I
+practice this evil which I do not wish. And if I do this which I myself do not
+wish, it is no longer I who work it, but the sin dwelling in me.
+RULE 24. That one must not lie, but speak truth in everything.
+Chapter 1. MATTHEW. And let your word be, Yes, yes; No, no; and what is more
+than these is from the evil one. EPH. Having put away the lie, speak truth
+each with his neighbor ... COL. Do not lie toward one another.
+RULE 25. That one must not make unprofitable or contentious inquiries.
+Chapter 1. 2 TIM. Remind of these things, charging before the Lord; not to
+fight about words, unto nothing useful, for the overthrow of those who hear
+... And the foolish and uninstructed inquiries decline, knowing that they
+generate fights. That one must not utter an idle word, from which there is no
+profit. For to speak, or even to do the good itself, not toward building of
+the faith, is to grieve the Holy Spirit of God. Chapter 2. MATTHEW. And I say
+to you that every idle word which men speak, they will give an account
+concerning it in a day of judgment. EPH. Let every rotten word not go out from
+your mouth; but if any is good toward building of the faith, that it may give
+grace to those who hear, and do not grieve the Holy Spirit of God, in whom you
+were sealed unto a day of redemption.
+RULE 26. That every word or deed must be confirmed by the testimony of the
+God-inspired Scripture, unto full assurance of the good, and shame of the
+evil.
+Chapter 1. MATTHEW. And the tester coming to him said: If you are Son of God,
+say that these stones become bread. And he answering said: It is written: Man
+shall not live upon bread alone, but upon every word going out through the
+mouth of God. ACTS. And they were all filled with Holy Spirit, and began to
+speak in other tongues, as the Spirit gave them to utter ... And they were all
+beside themselves, and =31.745= were at a loss, one saying toward another:
+What would this wish to be? And others mocking said that They are filled with
+new wine. And Peter standing with the eleven lifted his voice, and uttered to
+them: Men Jews, and all who dwell in Jerusalem, let this be known to you, and
+give ear to my words. For these are not drunk, as you suppose; for it is the
+third hour of the day; but this is what was said through the prophet Joel: And
+it will be in the last days, says God, I will pour out from my Spirit upon all
+flesh, and they will prophesy, and the rest. That one must also use the things
+recognized in nature and in the custom of life unto confirmation of the things
+done or said. Chapter 2. MATTHEW. And take care from the false
+
+prophets, who come toward you in clothing of sheep, but inside are rapacious
+wolves. From their fruits you will know them. Do they gather a bunch from
+thorns, or figs from thistles? So every good tree produces good fruits; and
+the rotten tree produces evil fruits, and the rest. LUKE. And their scribes
+and the Pharisees murmured toward his disciples saying: Why do you eat and
+drink with tax-collectors and sinners? And Jesus answering said to them: Those
+who are healthy have no need of a physician, but those who are in a bad state.
+2 TIM. No one serving as a soldier is entangled with the affairs of life, that
+he may please him who enlisted him. And if someone also contends as an
+athlete, he is not crowned unless he contends lawfully.
+RULE 27. That one must not be made like to things alien to the teaching of the
+Lord; but imitate God and his saints according to the power given us by him.
+Chapter 1. MATTHEW. You know that the rulers of the nations lord it over them,
+and the great ones exercise authority over them. It will not be so among you;
+but whoever wishes to become first among you will be your servant; and whoever
+wishes to be first among you =31.748= will be your slave; just as the Son of
+man did not come to be served, but to serve, and to give his soul a ransom for
+many. ROMANS. Do not be conformed to this age, but be transformed by the
+renewal of your mind, unto your testing what the will of God is. 1 COR. Become
+imitators of me, as I also of Christ.
+RULE 28. That one must not be snatched away simply, nor without examination,
+by those who pretend the truth; but know each from the character given us by
+Scripture.
+Chapter 1. MATTHEW. And take care from the false prophets, who come toward you
+in clothing of sheep, but inside are rapacious wolves. From their fruits you
+will know them. JOHN. In this all will know that you are my disciples, if you
+have love among one another. 1 COR. Therefore I make known to you that no one
+speaking in the Spirit of God says Anathema Jesus.
+RULE 29. That each must confirm his own profession through his proper works.
+Chapter 1. JOHN. The works themselves which I do bear witness concerning me,
+that the Father sent me. If I do not do the works of my Father, do not believe
+me; but if I do, even if you do not believe me, believe my works; that you may
+know and believe that the Father is in me, and I in him. 2 COR. Giving no
+occasion in anything, that the ministry may not be blamed. But in everything
+commending ourselves as ministers of God, in much endurance, in afflictions,
+and the rest.
+RULE 30. That one must not insult the holy things by mixture of the things
+toward common need.
+
+Chapter 1. MATTHEW. And Jesus entered into the temple of God, and cast out all
+who sold and bought in the temple, and overturned the tables of the
+money-changers, and the seats of those who sold the doves; and he says to
+them: It is written: My house will be called a house of prayer; but you have
+made it a cave of robbers. 1 COR. For do you not have houses for eating and
+drinking? or do you despise the Church of God, and put to shame those who do
+not have? And if someone is hungry, let him eat at home, that you may not come
+together unto judgment. That what is named for God one must honor as holy
+until then, until the will of God is kept upon it. =31.749= Chapter 2.
+MATTHEW. Jerusalem, Jerusalem, who kills the prophets and stones those sent
+toward her, how often I wished to gather your children, in the manner a bird
+gathers her own nestlings under the wings, and you did not wish? Behold, your
+house is left to you desolate.
+RULE 31. That one must not spend upon others the things set apart for those
+dedicated to God, unless perhaps from the surplus.
+Chapter 1. MARK. And there was a woman, a Greek, a Syrophoenician by race, and
+she asked him that he cast out the demon from her daughter. And he said:
+Permit the children first to be filled; for it is not good to take the bread
+of the children and throw it to the little dogs. And she answered and said to
+him: Yes, Lord; and the little dogs under the table eat from the crumbs of the
+children. And he said to her: Because of this word of yours.
+RULE 32. That one must well-mindedly repay the things that fall to each.
+Chapter 1. LUKE. And they asked him, saying: Teacher, we know that you speak
+and teach rightly, and you do not receive a face, but teach the way of God
+upon truth; is it permitted for us to give tribute to Caesar, or not? And
+perceiving their craftiness, he said toward them: Why do you test me? Show me
+a denarius. Whose image and inscription does it have? And answering they said:
+Caesar's. And he said to them: Render therefore the things of Caesar to
+Caesar, and the things of God to God. ROMANS. Render therefore to all the
+dues, to him the tax the tax, to him the toll the toll, to him the fear the
+fear, to him the honor the honor. Owe no one anything, except to love one
+another.
+RULE 33. That one must not cause scandal.
+Chapter 1. MATTHEW. And whoever scandalizes one of these little ones who
+believe in me, it is profitable for him that a millstone of an ass be hung
+about his neck, and he be sunk in the depth of the sea; and again: Woe to that
+man =31.752= through whom the scandal comes. ROMANS. But rather judge this,
+not to set a stumbling-block for the brother, or a scandal. That everything
+set against the will of the Lord is a scandal. Chapter 2. MATTHEW. From that
+time Jesus began to show his disciples that he must go away to Jerusalem, and
+suffer many things from the elders and chief priests and scribes, and be
+killed, and on the third day rise. And Peter taking him began to rebuke him,
+saying: Mercy to you, Lord, this shall not be to you. And he, turning, said to
+Peter: Go behind me, Satan; you are a scandal to me,
+
+because you do not think the things of God, but the things of men. That one
+must decline even a deed or word conceded by Scripture, when others are built
+from the like unto sin; or are cut off from eagerness about the good things.
+Chapter 3. 1 COR. Concerning the eating therefore of the things sacrificed to
+idols we know that an idol is nothing in the world, and that there is no God
+except one. For even if there are so-called gods, whether in heaven or upon
+the earth (as there are many gods and many lords), yet for us one God, the
+Father, from whom are all things, and we unto him; and one Lord, Jesus Christ,
+through whom are all things, and we through him; but the knowledge is not in
+all. And some with the conscience of the idol until now eat as a thing
+sacrificed to an idol, and their conscience, being weak, is defiled. And food
+does not commend us to God. For neither if we eat do we abound; nor if we do
+not eat are we lacking. But see lest perhaps this authority of yours become a
+stumbling-block to those who are weak. For if someone sees you, who have
+knowledge, reclining in an idol-temple, will not his conscience, being weak,
+be built unto eating the things sacrificed to idols? and the brother who is
+weak perishes in your knowledge, for whom Christ died? And so sinning against
+the brothers, and striking their weak conscience, you sin against Christ.
+Therefore if food scandalizes my brother, I will not eat meats unto the age,
+that I may not scandalize my brother. Do we not have authority to eat and
+drink? Do we not have authority to lead about a sister wife, as also the rest
+of the apostles, and the brothers of the Lord, and Cephas? Or do I alone and
+Barnabas not have authority not to work? Who ever serves as a soldier at his
+own wages? who plants a vineyard, =31.753= and does not eat from its fruit? Or
+who shepherds a flock, and does not eat from the milk of the flock? and the
+rest. That, for the sake of not scandalizing someone, one must do even what is
+not of necessity. Chapter 4. MATTHEW. And when they came to Capernaum, those
+who take the didrachmas came to Peter, and said: Does your teacher not pay the
+didrachmas? He says: Yes. And when he entered into the house, Jesus
+anticipated him saying: What do you think, Simon? From whom do the kings of
+the earth take tolls or census? From their sons, or from the aliens? Peter
+says to him: From the aliens. Jesus says to him: Then the sons are free. But
+that we may not scandalize them, going to the sea, throw a hook, and take the
+first fish that comes up; and opening its mouth, you will find a stater;
+taking that, give it to them for me and you. That upon the wills of the Lord,
+even if some are scandalized, one must show unyielding freedom of speech.
+Chapter 5. MATTHEW. Not what goes into the mouth makes the man common, but
+what goes out from the mouth, this makes the man common. Then his disciples
+coming said to him: Do you know that the Pharisees, hearing the word, were
+scandalized? And he, answering, said: Every plant which my heavenly Father did
+not plant will be rooted out. Leave them; they are blind, guides of the blind.
+And if a blind man guides a blind man, both will fall into a pit. JOHN. Amen,
+amen I say to you: unless you eat the flesh of the Son of man and drink his
+blood, you do not have life in yourselves. And a little later: From this many
+of his disciples went away to the things behind, and no longer walked with
+him. Jesus therefore said to the twelve: Do you also wish to go away? 2 COR.
+That we are a fragrance of Christ to God, in those who are being saved, and in
+those who are perishing, to the ones a smell of death unto death, to the
+others a smell of life unto life. And who is sufficient for these things?
+
+RULE 34. That one must be set forth as a pattern of the good things for
+others, each in his own measure.
+Chapter 1. MATTHEW. Learn from me, that I am meek, and lowly in heart. 2 COR.
+For I know your eagerness, which I boast of you to the =31.756= Macedonians,
+that Achaia has been prepared from last year, and the zeal from you stirred
+the more. 1 THESS. And you became imitators of us and of the Lord, receiving
+the word in much affliction with joy of Holy Spirit; so that you became
+patterns to all who believe in Macedonia and in Achaia.
+RULE 35. That those who, seeing the fruit of the Holy Spirit in someone
+keeping everywhere the evenness of piety, and not attributing it to the Holy
+Spirit, but ascribing it to the opposite, blaspheme the Holy Spirit itself.
+Chapter 1. MATTHEW. Then there was brought to him a demon-possessed man, blind
+and mute, and he healed him, so that the mute and blind both spoke and saw.
+And all the crowds were beside themselves, and said: Is this perhaps the son
+of David? And the Pharisees, hearing, said: This man does not cast out the
+demons except in Beelzebul ruler of the demons. And Jesus knowing their
+thoughts said to them: And if I cast out the demons in the Spirit of God, then
+the kingdom of God has come upon you. To whom he adds next: For this reason I
+say to you, every sin and blasphemy will be forgiven men; but the blasphemy of
+the Spirit will not be forgiven men. And whoever says a word against the Son
+of man, it will be forgiven him; but whoever speaks against the Holy Spirit,
+it will not be forgiven him, neither in this age, nor in the coming one.
+RULE 36. That those who keep the pattern of the Lord's teaching one must
+receive with all zeal and honor unto the glory of the Lord himself; and he who
+has not heard, nor received, is condemned.
+Chapter 1. MATTHEW. He who receives you receives me; and he who receives me
+receives him who sent me. And whoever does not receive you, nor hear your
+words, going out of that house or of the city, shake off the dust of your
+feet. Amen I say to you, it will be more tolerable for the land of Sodom and
+Gomorrah in a day of judgment than for that city. JOHN. He who takes, if I
+send anyone, takes me; and he who takes me takes him who sent me. PHIL. And I
+thought it necessary to send to you Epaphroditus the brother, and
+fellow-worker, and fellow-soldier of mine, and your apostle, and minister of
+my need. =31.757= And a little later: Receive him therefore in the Lord with
+all joy, and hold such men in honor. RULE 37. That the eagerness according to
+power, even if it is in the least things, is acceptable to God, even if it is
+from women. Chapter 1. MATTHEW. And whoever gives one of these little ones
+only a cup of cold water to drink unto a name of a disciple, amen I say to
+you, he will not lose his reward. LUKE. And looking up he saw the rich
+throwing their gifts into the treasury. And he saw a certain poor widow
+throwing there two lepta, and he said: Truly I say to you, that this poor
+widow threw more than all. For all these threw into the gifts of God from
+their surplus; but she from her lack threw all the living which she had.
+MATTHEW. And when Jesus was in Bethany in the house of Simon the
+
+leper, a woman came to him having an alabaster flask of very costly ointment,
+and poured it upon his head as he reclined. And seeing, his disciples were
+indignant, saying: For what is this waste of the ointment? For this could have
+been sold for much, and given to the poor. And Jesus knowing said to them: Why
+do you cause troubles for the woman? For she has worked a good work toward me.
+ACTS. Concerning Lydia: And when she was baptized, and her house, she exhorted
+saying: If you have judged me to be faithful to the Lord, coming into my
+house, remain. And she constrained us.
+RULE 38. That the Christian must make even the reception of the brothers
+without tumult and rather simple.
+Chapter 1. JOHN. One of his disciples, Andrew the brother of Simon, says to
+him: There is one little boy here, and he has five barley loaves and two fish;
+but what are these unto so many? And Jesus said: Make the men recline. And
+there was much grass in the place. The men therefore reclined, the number
+about five thousand. And Jesus took the loaves, and having given thanks,
+distributed to those reclining. And likewise also from the fish as much as
+they wished. LUKE. And a certain woman named Martha received him into her
+house. And she had a sister called Mary, who also sitting beside the feet of
+Jesus heard his word. And Martha was distracted about much service. And
+standing by she said: Lord, do you not care that my sister left me alone to
+serve? Say =31.760= therefore to her, that she take hold with me. And Jesus
+answering said to her: Martha, Martha, you are anxious and troubled about many
+things; but of few things is there need, or of one. And Mary chose the good
+portion, which will not be taken away from her.
+RULE 39. That one must not be easily changed, but firm in the faith, and
+unchangeable from the good things in the Lord.
+Chapter 1. MATTHEW. And he who was sown upon the rocky places, this is he who
+hears the word, and immediately receives it with joy. And he does not have
+root in himself, but is for a time; and when affliction or persecution comes
+because of the word, immediately he is scandalized. 1 COR. So that, my
+brothers, become firm, unmovable, always abounding in the work of the Lord.
+GAL. I wonder that you are so quickly changing from him who called you in the
+grace of Christ unto another Gospel.
+RULE 40. That one must not endure those who teach otherwise, even if they
+fashion themselves toward deceit or exposure of the unstable.
+Chapter 1. MATTHEW. See that no one leads you astray. For many will come upon
+my name, saying that I am the Christ; and they will lead many astray. LUKE.
+Take care from the scribes who wish to walk in robes, and love greetings in
+the marketplaces, and first seats in the synagogues, and first couches at the
+dinners; who eat up the houses of the widows, and in pretext pray long. These
+will receive more judgment. GAL. But even if we, or an angel from heaven,
+preach good news to you contrary to what we preached to you as good news, let
+him
+be anathema. As we have said before, and now again I say: If anyone preaches
+good news to you contrary to what you received, let him be anathema.
+
+RULE 41. That one must cut off everything that causes scandal, even if it
+seems to be something most familiar and most necessary. =31.761=
+Chapter 1. MATTHEW. Woe to that man through whom the scandal comes; And if
+your foot or your hand scandalizes you, cut them off, and throw them from you.
+It is good for you to enter into the life lame, or maimed, rather than having
+two feet or two hands to be thrown into the eternal fire. And if your eye
+scandalizes you, take it out, and throw it from you. That one must spare those
+weaker in the faith, and lead them up through care unto the perfection; and
+spare, clearly, without overlooking a commandment of God. Chapter 2. MATTHEW.
+A crushed reed he will not break, and smoking flax he will not quench, until
+he sends forth the judgment unto victory; and in his name nations will hope.
+ROMANS. And receive him who is weak in the faith. GAL. If a man is also
+overtaken in some trespass, you who are spiritual restore such a one in a
+spirit of meekness, looking to yourself, lest you also be tested. Bear the
+burdens of one another, and so fulfill the law of Christ.
+RULE 42. That one must not think that the Lord has come for a dissolving of
+the law and the prophets, but for a fulfillment and an addition of the more
+perfect.
+Chapter 1. MATTHEW. Do not think that I came to dissolve the law, or the
+prophets; I did not come to dissolve, but to fulfill. ROMANS. Do we then
+abolish law through the faith? May it not be! but we establish law. RULE 43.
+That as law forbids the worthless deeds, so the Gospel forbids the hidden
+passions of the soul themselves. Chapter 1. MATTHEW. You have heard that it
+was said to the ancients, You shall not murder; and whoever murders will be
+liable to the judgment. But I say to you, everyone who is angry with his
+brother without cause will be liable to the judgment. ROMANS. For he is not a
+Jew who is so in the open, nor is the circumcision that is in the open in
+flesh; but he who is a Jew in the secret, and circumcision of heart in spirit,
+not in letter, whose praise is not from men, but from God. That as the law
+seeks the part, so the Gospel seeks the whole in each of the things
+accomplished. Chapter 2. LUKE. Sell all things you have, and distribute to the
+poor, and you will have treasure in heaven, and =31.764= come, follow me. COL.
+In whom you were also circumcised with a circumcision not made with hands in
+the putting off of the body of the sins of the flesh, in the circumcision of
+Christ. That it is impossible for those who do not show a righteousness
+according to the Gospel more than that in the law to be counted worthy of a
+kingdom of heavens. Chapter 3. MATTHEW. Unless your righteousness abounds more
+than that of the scribes and Pharisees, you will not enter into the kingdom of
+the heavens. PHIL. If anyone else thinks to have confidence in flesh, I more,
+circumcision on the eighth day, from the race of Israel, of the tribe of
+Benjamin, a Hebrew from Hebrews, according to law a Pharisee, according to
+zeal persecuting the Church, according to righteousness that is in law
+becoming blameless. But whatever things were gains to me, these I have counted
+loss because of Christ. But indeed I also count all things to be loss because
+of the surpassing of the knowledge of Jesus Christ our Lord, because of whom I
+suffered the loss of all things, and count them to be refuse, that I may gain
+Christ, and be found in him not having my own righteousness that is from law,
+but that through faith of Christ, the righteousness from God.
+
+RULE 44. That the yoke of Christ is kind, and his burden is light unto rest of
+those who receive it; and all things alien to the teaching according to the
+Gospel are heavy and burdensome.
+Chapter 1. MATTHEW. Come all toward me, you who labor and are burdened, and I
+will rest you. Take my yoke upon you, and learn from me, that I am meek and
+lowly in heart, and you will find rest for your souls. For my yoke is kind,
+and my burden is light.
+RULE 45. That it is impossible for those who do not imitate among one another
+the equal honor of children toward one another to be counted worthy of a
+kingdom of heavens.
+Chapter 1. MATTHEW. Amen I say to you, unless you turn and become as the
+children, you will not enter into the kingdom of the heavens. That he who
+desires to be counted worthy of greater glory in the kingdom of the heavens
+must love the lowly and last here. Chapter 2. MATTHEW. Whoever therefore will
+humble himself as this child, this one is the greater =31.765= in the kingdom
+of the heavens. But whoever wishes to become great among you will be your
+servant. MARK. And whoever wishes to become first of you will be slave of all.
+PHIL. Nothing according to faction or empty glory, but in lowliness of mind
+counting one another as surpassing themselves.
+RULE 46. That from a comparison of the sequence kept in the lesser things we
+are required to have zeal in the greater.
+Chapter 1. LUKE. Does not each of you on the Sabbath loose his ox, or his ass,
+from the manger, and leading it away water it? And this daughter of Abraham,
+whom Satan bound, behold, eighteen years, ought she not to have been loosed
+from this bond on the day of the Sabbath? And he said a parable to them,
+toward the need always to pray and not to lose heart. There was a certain
+judge in a certain city, not fearing God, and not regarding man. And there was
+a widow in that city, and she came toward him saying: Avenge me from my
+adversary. And he was not willing for a time. And after these things he said
+in himself: Even if I do not fear God, and I do not regard man, yet because
+this widow causes me trouble, I will avenge her, that she may not coming unto
+the end strike me under the eye. And the Lord said: Hear what the judge of
+injustice says; and will God not do the avenging of his elect, who cry toward
+him day and night? 2 TIM. No one serving as a soldier is entangled with the
+affairs of life, that he may please him who enlisted him. And if someone also
+contends as an athlete, he is not crowned unless he contends lawfully. That
+from a comparison of those who in the lesser things showed fear from faith,
+and zeal from a worthy desire, those who in the greater things are caught as
+despisers or negligent have a more vehement condemnation. Chapter 2. LUKE. The
+queen of the South will be raised in the judgment with the men of this
+generation, and will condemn them; because she came from the ends of the earth
+to hear the wisdom of Solomon, and behold, more than Solomon is here. MATTHEW.
+Men of Nineveh will stand up in the judgment with this generation, and will
+condemn it, because they repented at the preaching of Jonah, and behold, more
+than Jonah is here. That one must not despise the greater things, showing zeal
+in the lesser. And doing first the greater of the commands, accomplish also
+the lesser together. =31.768= Chapter 3.
+
+MATTHEW. Woe to you, scribes and Pharisees, hypocrites, because you tithe the
+mint, and the dill, and the cumin, and you left the heavier things of the law,
+the judgment, and the mercy, and the faith. These it was necessary to do, and
+those not to leave. Blind guides who strain out the gnat, but swallow the
+camel.
+RULE 47. That one must not treasure for oneself upon the earth, but in heaven;
+and what the manner of treasuring in heaven is.
+Chapter 1. MATTHEW. Do not treasure for yourselves treasures upon the earth,
+where moth and eating make unseen, and where thieves dig through and steal.
+But treasure for yourselves treasures in heaven, where neither moth nor eating
+makes unseen, and where thieves do not dig through, nor steal. LUKE. Sell your
+possessions, and give alms. Make for yourselves purses that do not grow old; a
+treasure unfailing in the heavens. LUKE. Sell all things you have, and
+distribute to the poor, and you will have treasure in heavens. 1 TIM. To be
+ready to share, to be communicable, treasuring away for themselves a good
+foundation unto the future, that they may lay hold of the life that truly is.
+RULE 48. That one must be merciful and ready to share; for those who are not
+such are accused. Chapter 1. MATTHEW. Blessed are the merciful, because they
+will be shown mercy. LUKE. To everyone who asks you, give. ROMANS. Without
+natural affection, unmerciful, who having known the ordinance of God, that
+those who practice such things are worthy of death. 1 TIM. To be ready to
+share, to be communicable. That whatever one has more than the one who lacks
+of the things necessary toward living, he is a debtor to do good to that one,
+according to a commandment of the Lord who also has given what we have.
+Chapter 2. LUKE. Let him who has two tunics share with him who does not have;
+and let him who has foods do likewise. 1 COR. For what do you have which you
+did not receive? 2 COR. Your surplus unto their lack; that their surplus also
+may come to be unto your lack, that there may come to be equality, as it is
+written: He who had much did not have more; and he who had little did not have
+less. =31.769= That one must not be rich, but be poor, according to the word
+of the Lord. Chapter 3. LUKE. Blessed are the poor, because yours is the
+kingdom of God. Woe to you the rich, because you have your comfort. 2 COR.
+Their deep poverty abounded unto the wealth of their simplicity. 1 TIM. And
+those who wish to be rich fall into a test and a snare, and many mindless and
+harmful desires, which sink men into destruction and perdition. For a root of
+all the evils is the love of money, which some reaching after have been led
+astray from the faith, and have pierced themselves with many pains. That one
+must not take thought to abound in the things toward living; nor have zeal
+concerning fullness, nor concerning costliness; but be clean of every form of
+greed and of adornment. Chapter 4. LUKE. See, and guard from all greed,
+because a man's life is not in the abounding for him from the things that
+belong to him. 1 TIM. To adorn themselves not in braids, or gold, or pearls,
+or costly clothing. Having nourishments and coverings, with these we will be
+content. That one must not be anxious for the sake of one's own need, nor hope
+upon the things prepared toward the present life, but give over one's own
+things to God. Chapter 5. MATTHEW. You cannot serve God and mammon. For this
+reason I say to you, do not be anxious for your soul what you will eat, and
+what you will drink, nor for your body what you will put on. Is not the soul
+more than the food, and the body than the clothing? Look at the birds of the
+heaven, that they do not sow, nor reap, nor
+
+gather into storehouses; and your heavenly Father feeds them. Do you not
+rather differ from them? And who of you by being anxious is able to add one
+cubit upon his stature? And concerning clothing why are you anxious? Learn the
+lilies of the field, how they grow; they do not labor, nor spin. And I say to
+you: not even Solomon in all his glory was clothed as one of these. And if God
+so clothes the grass of the field, which is today, and tomorrow is thrown into
+an oven, will he not much more you, little-faithed ones? Do not therefore be
+=31.772= anxious saying: What shall we eat, or what shall we drink, or what
+shall we put on? For all these things the nations seek. For your heavenly
+Father knows that you need all these things. But seek first the kingdom of
+God, and his righteousness, and all these things will be added to you. Do not
+therefore be anxious unto tomorrow; for tomorrow will be anxious for its own
+things; sufficient to the day is its evil. LUKE. The land of a certain rich
+man bore well, and he reasoned in himself saying: What shall I do, because I
+do not have where I will gather my fruits? And he said: This I will do; I will
+take down my storehouses, and I will build greater, and I will gather there
+all my produce and my good things; and I will say to my soul: Soul, you have
+many good things laid up unto many years; rest, eat, drink, be glad, and the
+rest. 1 TIM. Charge those who are rich in the present age not to be
+high-minded, nor to have hoped upon the uncertainty of wealth, but upon God
+who provides us all things richly unto enjoyment. That one must take thought
+and be anxious concerning the need of the brothers according to the will of
+the Lord. Chapter 6. MATTHEW. Come, you blessed of my Father, inherit the
+kingdom prepared for you from the foundation of the world; for I hungered, and
+you gave me to eat; I thirsted, and you gave me to drink; I was a stranger,
+and you gathered me; naked, and you clothed me; I was sick, and you visited
+me; I was in prison, and you came toward me. And a little later: Amen I say to
+you, inasmuch as you did it to one of these least of my brothers, you did it
+to me. JOHN. Jesus therefore lifting the eyes, and seeing that a much crowd
+comes toward him, says toward Philip: From where shall we buy loaves, that
+these may eat? and the rest. 1 COR. And concerning the collection unto the
+saints, as I ordered the Churches of Galatia, so also you do. On the first of
+Sabbaths let each of you set aside with himself, treasuring whatever he is
+prospered; that collections may not then come to be when I come. That he who
+is able, working, must share with those who have need. For he who does not
+wish to work was judged not even worthy to eat. Chapter 7. MATTHEW. The worker
+is worthy of his food. ACTS. I showed you all things, that so laboring one
+must help those who are weak, and remember the words of the Lord, that he
+himself said: It is blessed to give rather than to take. EPH. Let him who
+steals steal no longer; =31.773= but rather let him labor, working the good
+with the hands, that he may have to share with him who has need. 2 THESS. When
+we were toward you, we charged you this, that if anyone does not wish to work,
+let him not even eat.
+RULE 49. That one must not go to law even concerning the things themselves
+that are worn about the body toward necessary covering.
+Chapter 1. LUKE. To him who strikes you upon the right jaw offer also the
+other; and from him who takes your cloak do not hinder the tunic also. And to
+everyone who asks you, give; and from him who takes your things, do not demand
+them back. 1 COR. Does anyone dare, having a matter toward the other, to be
+judged before the unjust, and not before the saints? And a little later:
+Already therefore it is wholly a defeat for you, that you have judgments among
+
+yourselves. Why are you not rather wronged? why are you not rather deprived?
+But you wrong and deprive, and these things brothers. That one must not fight,
+or avenge oneself; but toward all, if possible, be at peace, according to the
+commandment of the Lord. Chapter 2. MATTHEW. You have heard that it was said:
+An eye in place of an eye, and a tooth in place of a tooth. But I say to you,
+not to resist the evil one; but whoever slaps you into the right jaw, turn to
+him also the other, and the rest. MARK. Have love among yourselves, but also
+be at peace among one another. ROMANS. Rendering to no one evil in place of
+evil, providing good things before all men. If possible, as far as it is from
+you, being at peace with all men; not avenging yourselves, beloved; but give
+place to the wrath. 2 TIM. And a slave of the Lord must not fight, but be
+gentle toward all. That one must not, even unto avenging of another who is
+wronged, ward off the one who wrongs. Chapter 3. MATTHEW. Then coming, they
+laid the hands upon Jesus, and seized him. And behold, one of those with
+Jesus, stretching out the hand, drew his sword, and striking the slave of the
+chief priest, took off his ear. =31.776= And Jesus says to him: Return your
+sword into its place; because all who take a sword will perish by a sword.
+LUKE. And he sent messengers before his face; and going they came into a
+village of Samaritans, so as to prepare for him. And they did not receive him,
+because his face was going to Jerusalem. And seeing, his disciples James and
+John said: Lord, do you wish that we say fire to come down from the heaven and
+consume them, as also Elijah did? And turning he rebuked them, and they went
+into another village.
+RULE 50. That one must bring even others together into the peace that is in
+Christ.
+Chapter 1. MATTHEW. Blessed are the peacemakers, because they will be called
+sons of God. JOHN. Peace I leave you; my peace I give you. RULE 51. That one
+must first correct oneself in whatever fault it may be, and then accuse
+another. Chapter 1. MATTHEW. And why do you see the speck that is in your
+brother's eye, but do not perceive the beam that is in your own eye? or how
+will you say to your brother: Permit me to cast out the speck from your eye;
+and behold, the beam is in your eye? Hypocrite, cast out first the beam from
+your eye, and then you will see clearly to cast out the speck from your
+brother's eye. ROMANS. Therefore you are without defense, O man, everyone who
+judges. For in that in which you judge the other, you condemn yourself; for
+you who judge practice the same things. And we know that the judgment of God
+is according to truth upon those who practice such things. And do you reckon
+this, O man, who judge those who practice such things, and do the same things,
+that you will escape the judgment of God? RULE 52. That one must not be
+indifferent over those who sin, but be grieved and mourn over them. Chapter 1.
+LUKE. And as he drew near, seeing the city, he wept over it, saying: That if
+you also had known, even in this day, the things toward your peace; but now
+they were hidden from your eyes. 1 COR. It is actually heard among you
+fornication, and such fornication as is not even named among the nations; so
+that someone has the wife of the father. And you are puffed up, and did not
+rather =31.777= mourn, that he who did this work might be taken out from your
+midst. 2 COR. Lest when I come again my God humble me toward you, and I mourn
+many of those who have sinned before and have not repented. That one must not
+keep quiet toward those who sin. Chapter 2. LUKE. And if your brother sins,
+rebuke him; and the rest. EPH. And do not share with the unfruitful works of
+the darkness, but rather even expose them. That one must receive the meeting
+toward those who sin
+
+not for the sake of anything else than to call them back unto repentance, in
+whatever manner it is possible without sin. Chapter 3. MATTHEW. And behold,
+many tax-collectors and sinners coming reclined with Jesus and his disciples.
+And the Pharisees seeing said to his disciples: Why does your teacher eat with
+the tax-collectors and sinners? And Jesus, hearing, said to them: Those who
+are strong have no need of a physician, but those who are in a bad state. And
+going, learn what it is: I wish mercy, and not sacrifice. For I did not come
+to call righteous, but sinners unto repentance. LUKE. And all the
+tax-collectors and sinners were drawing near to him to hear him. And the
+scribes and the Pharisees murmured, saying that this man receives sinners, and
+eats with them. And he said toward them this parable, saying: Which of you
+having a hundred sheep, and having lost one of them, does not leave the
+ninety-nine in the wilderness, and go after the lost, until he finds it? and
+the rest. 2 THESS. And if anyone does not obey our word through the letter,
+mark this one, and do not mix with him, that he may be ashamed. And do not
+hold him as an enemy, but admonish him as a brother. 2 COR. And if anyone has
+grieved, he has not grieved me, but in part, that I may not burden you all.
+Sufficient to such a one is this punishment which is by the more; so that on
+the contrary you rather grant grace, and comfort, lest perhaps such a one be
+swallowed by the more abundant grief. That one must turn away from those who,
+after every manner of care toward them has been fulfilled, remain in their own
+evil. Chapter 4. MATTHEW. If your brother sins against you, =31.780= go,
+expose him between you and him alone. If he hears you, you have gained your
+brother; and if he does not hear, take with you one or two, that upon the
+mouth of two or three witnesses every word may stand. And if he disobeys them,
+tell the Church; and if he also disobeys the Church, let him be to you as the
+Gentile and the tax-collector. RULE 53. That the Christian must not remember
+injuries, but from the heart forgive those who have sinned against him.
+Chapter 1. MATTHEW. If you do not forgive men their trespasses, neither will
+your heavenly Father forgive your trespasses; and if you forgive men their
+trespasses, your heavenly Father also will forgive you.
+RULE 54. That one must not judge one another over the things conceded by
+Scripture.
+Chapter 1. MATTHEW. Do not judge, that you may not be judged. For in the
+judgment with which you judge, you will be judged. LUKE. Do not judge, and you
+will not be judged; do not condemn, and you will not be condemned. ROMANS. One
+believes to eat all things, and he who is weak eats vegetables. Let him who
+eats not despise him who does not eat, and let him who does not eat not judge
+him who eats. For God received him. Who are you who judge another's household
+servant? To his own Lord he stands, or falls; and he will stand; for God is
+able to make him stand. For one judges a day beside a day, and another judges
+every day; let each be fully assured in his own mind. He who minds the day,
+minds it to the Lord; and he who does not mind the day, does not mind it to
+the Lord. And he who eats, eats to the Lord; for he gives thanks to God. And
+he who does not eat, does not eat to the Lord, and he gives thanks to God. And
+a little later: Therefore then each of us will give an account concerning
+himself to God. Let us therefore no longer judge one another. COL. Let no one
+therefore judge you in eating, or in drinking, or in a part of a feast, or of
+a new moon, or of Sabbaths, which are a shadow of the things to come. That one
+must not be in two minds over the things conceded by Scripture. Chapter 2.
+ROMANS. Blessed is he who does not judge
+
+himself in what he approves. And he who is in two minds, if he eats, is
+=31.781= condemned; because it is not from faith. And everything which is not
+from faith is sin. COL. If you died with Christ from the elements of the
+world, why as living in a world are you dogmatized? Do not touch, nor taste,
+nor handle; which are all unto corruption in the using up, according to the
+commandments and teachings of men. That one must not judge concerning the
+unclear things. Chapter 3. 1 COR. So that do not judge anything before the
+time, until the Lord comes, who will also light the hidden things of the
+darkness, and will make manifest the counsels of the hearts; and then the
+praise will come to be for each from God. That one must not judge in respect
+of persons. Chapter 4. JOHN. If a man receives circumcision on a Sabbath, that
+the law of Moses may not be loosed, why are you angry at me, because I made a
+whole man healthy on a Sabbath? Do not judge according to appearance, but
+judge the just judgment. That one must not condemn anyone, unless first having
+made accurate the things concerning him in his presence, even if those who
+accuse are many. Chapter 5. JOHN. Nicodemus says, who came toward him by
+night, being one of them: Does our law judge the man, unless it first hears
+from him, and knows what he does? ACTS. And as they spent more days there,
+Festus laid before the king the things concerning Paul, saying: There is a
+certain man left a prisoner by Felix, concerning whom, when I came to be in
+Jerusalem, the chief priests and the elders of the Jews appeared, asking a
+condemnation against him; toward whom I answered: That it is not a custom of
+Romans to grant anyone a man, before the accused has the accusers according to
+face, and receives a place of defense concerning the charge.
+RULE 55. That one must know and confess that the grace of every good thing,
+and the endurance of the sufferings themselves for Christ, is from God.
+Chapter 1. JOHN. A man cannot receive anything, unless it has been given him
+from the heaven. 1 COR. And what do you have which you did not receive?
+=31.784= EPH. For by grace you have been saved through the faith; and this not
+from you; it is the gift of God; not from works, that no one may boast. PHIL.
+And this from God, that it was granted to you for Christ, not only to believe
+in him, but also to suffer for him, having the same contest, and the rest.
+That one must not be silent about the benefits of God, but give thanks over
+them. Chapter 2. LUKE. And the man from whom the demons had gone out begged
+him to be with him. And Jesus released him, saying: Return into your house,
+and recount what things God did for you. And he went away into the whole city
+proclaiming what things Jesus did for him. LUKE. And as he entered into a
+certain village, ten leprous men met him, who stood far off. And they lifted a
+voice, saying: Jesus, master, have mercy on us. And seeing, he said to them:
+Going, show yourselves to the priests. And it came to be as they went, they
+were cleansed. And a certain one of them, seeing that he was healed, returned
+with a great voice glorifying God. And he fell upon his face upon his feet,
+giving thanks to him; and he was a Samaritan. And Jesus answering said: Were
+not the ten cleansed? And where are the nine? Were there not found who
+returned to give glory to God, except this one of another race? And he said to
+him: Rising, go; your faith has saved you. 1 COR. And by grace of God I am
+what I am. 1 TIM. Every creature of God is good, and nothing is to be thrown
+away, being received with thanksgiving.
+RULE 56. That one must continue in the prayers and the watchings.
+
+Chapter 1. MATTHEW. Ask, and it will be given you; seek, and you will find;
+knock, and it will be opened to you. For everyone who asks receives; and he
+who seeks finds; and to him who knocks it will be opened, and the rest. LUKE.
+And he said also a parable to them, toward the need always to pray, and not to
+lose heart, saying: There was a judge in a certain city, and the rest. LUKE.
+And take care for yourselves, lest your hearts be weighed down in surfeit, and
+drunkenness, and cares of life, and that day come upon you suddenly. For as a
+snare =31.785= it will come upon all who sit upon the face of all the earth.
+Watch therefore, at every time praying, that you may be counted worthy to flee
+all the things that are about to come to be, and to stand before the Son of
+man. COL. Continue in the prayer, watching in it in thanksgiving. 1 THESS.
+Always rejoice, pray without ceasing. That one must even for the things
+themselves toward the daily need of the body first give thanks to God, and so
+partake. Chapter 2. MATTHEW. And taking the five loaves, and the two fishes,
+having given thanks, he broke and gave to his disciples; and the disciples to
+the crowd. ACTS. And having said these things, and taking bread, he gave
+thanks to God before all, and breaking, began to eat. 1 TIM. Every creature of
+God is good, and nothing is to be thrown away, being received with
+thanksgiving. That one must not babble when praying, in asking perishable
+things and things unworthy of the Lord. Chapter 3. MATTHEW. And when praying,
+do not babble, as the nations. For they think that in their many words they
+will be heard. Do not therefore become like them; for your heavenly Father
+knows of what things you have need, before you ask him. LUKE. And do not you
+seek what you will eat, and what you will drink; and do not be lifted up. For
+all these things the nations of the world seek. And your Father knows that you
+need these things. How one must pray, and in what state of the soul. Chapter
+4. MATTHEW. Our Father who is in the heavens, let your name be hallowed, let
+your kingdom come, let your will be done, and the rest. MATTHEW. But seek
+first the kingdom of God, and his righteousness. MARK. When you stand praying,
+forgive if you have anything against anyone. 1 TIM. I wish therefore the men
+to pray in every place, lifting holy hands, without wrath and reasonings. That
+one must pray for one another, and for those who preside over the word of the
+truth. Chapter 5. LUKE. And the Lord said: Simon, Simon, behold, Satan
+demanded you, to sift you as the wheat; but I prayed concerning you, that your
+faith may not fail. EPH. Praying at every time in spirit, and unto this
+=31.788= watching always in all continuance and petition, concerning all the
+saints, and for me, that a word may be given in opening of my mouth in freedom
+of speech, to make known the mystery of the Gospel, for which I am an
+ambassador in a chain, that in it I may speak freely as I must speak. 2 THESS.
+For the rest pray concerning us, that the word of the Lord may run and be
+glorified in everything, as also toward you. That one must pray even for the
+enemies. Chapter 6. MATTHEW. Pray for those who insult you, and persecute you,
+that you may become sons of your Father who is in the heavens. That a man must
+not pray, or prophesy, covered, nor a woman uncovered. Chapter 7. 1 COR. And I
+wish you to know that the head of every man is Christ; and the head of a woman
+is the man; and the head of Christ is God. Every man praying or prophesying,
+having something down from the head, puts to shame his own head. And every
+woman praying, or prophesying, with the head uncovered, puts to shame her own
+head, and the rest. RULE 57. That one must not be high-minded over oneself in
+the
+
+achievements, and despise the rest. Chapter 1. LUKE. And he said toward
+certain who trusted upon themselves that they are righteous, and despised the
+rest, this parable: Two men went up into the temple to pray; the one a
+Pharisee, and the other a tax-collector. The Pharisee, standing, prayed these
+things toward himself: God, I give thanks to you, that I am not as the rest of
+men, rapacious, unjust, adulterers, or even as this tax-collector. I fast
+twice of the Sabbath; I tithe all things I acquire. And the tax-collector,
+standing far off, was not willing even to lift the eyes into the heaven; but
+he struck into his breast saying: God, be propitious to me the sinner. I say
+to you, this one went down justified into his house, rather than that one;
+because everyone who exalts himself will be humbled; and he who humbles
+himself will be exalted.
+RULE 58. That one must not think to acquire a gift of God through money or
+even through some other device.
+Chapter 1. ACTS. And Simon seeing that through the laying on of the hands of
+the apostles the Holy Spirit is given, brought them money, =31.789= saying:
+Give me also this authority, that on whom I lay the hands, he may receive Holy
+Spirit. And Peter said toward him: Your silver be with you unto perdition,
+because you thought to acquire the gift of God through money. You have no
+portion, nor lot, in this word; for your heart is not straight before God.
+Repent therefore from this your evil, and petition the Lord, if perhaps the
+device of your heart will be forgiven you. For I see you being in a gall of
+bitterness and a bond of injustice. That gifts are given by God to each
+according to the proportion of the faith toward what is profitable. Chapter 2.
+ROMANS. And having gifts, according to the grace given us, differing, whether
+prophecy according to the proportion of the faith. 1 COR. And to each is given
+the manifestation of the Spirit toward what is profitable; for to one through
+the Spirit is given a word of wisdom; and to another a word of knowledge,
+according to the same Spirit; and to another faith, in the same Spirit; and to
+another gifts of healings; to another prophecy; to another discernings of
+spirits; and to another kinds of tongues; and to another interpretation of
+tongues. That one who receives the grace of God as a gift must give as a gift,
+and not traffic it toward one's own pleasures. Chapter 3. MATTHEW. Heal those
+who are sick, cleanse lepers, cast out demons; you received as a gift, give as
+a gift. Do not acquire gold, nor silver, nor bronze into your belts. ACTS. And
+Peter said: Silver and gold I do not have; but what I have, this I give you.
+In the name of Jesus Christ the Nazarene, rise and walk. And taking hold of
+him of the right hand, he raised him. 1 THESS. For neither did we come in a
+word of flattery, as you know, nor in a pretext of greed, God is witness; nor
+seeking glory from men, neither from you, nor from others. Being able to be in
+weight, as apostles of Christ; but we became gentle in your midst. As if a
+nurse cherishes her own children, so longing for you we were well pleased to
+share with you not only the Gospel of God, but also our own souls, because you
+became beloved to us. That he who has well-mindedly received the first gift
+from God, and has worked it earnestly unto the =31.792= glory of God, is
+counted worthy of others also; and he who is not such is deprived of the
+preexisting one, and is not counted worthy of the prepared one, and is
+delivered over to punishment. Chapter 4. MATTHEW. And the disciples coming
+said to him: Why do you speak to them in parables? And he answering said to
+them: That to you it has been given to know the mysteries
+
+of the kingdom of the heavens, and to those it has not been given. For whoever
+has, it will be given him, and he will abound; and whoever does not have, even
+what he has will be taken from him. For this reason I speak to them in
+parables, because seeing they do not see, and hearing they do not hear, nor
+understand. And the prophecy of Isaiah is fulfilled for them ... For as a man
+going abroad called his own slaves, and delivered to them his possessions; and
+to one he gave five talents, to another two, to another one, to each according
+to his own power, and he went abroad immediately. And he who took the five
+talents, going, worked in them, and made another five talents. Likewise also
+he who had the two gained another two. And a little later: For to everyone who
+has it will be given; and from him who does not have even what he has will be
+taken from him. And throw the useless slave into the outer darkness; there
+will be the weeping, and the gnashing of the teeth. RULE 59. That the
+Christian must not be attached to glory from men, nor hold to exceeding honor,
+but even correct those who so honor, or who think more concerning him. Chapter
+1. MATTHEW. And behold, one coming said to him: Good teacher, having done what
+good thing shall I inherit eternal life? And he said to him: Why do you call
+me good? No one is good except one, God. JOHN. I do not take glory from men.
+And a little later: How can you believe, taking glory from one another, and
+not seeking the glory from the only God? LUKE. Woe to you Pharisees, because
+you love the first seats in the synagogues, and the greetings in the
+marketplaces. 1 THESS. For neither at any time did we come in a word of
+flattery, as you know, nor in a pretext of greed, God is witness; nor seeking
+glory from men, neither from you, nor from others. ACTS. And as it came to be
+for Peter to enter, Cornelius meeting him, falling upon his feet, =31.793=
+worshipped. And Peter raised him saying: Rise; for I myself also am a man.
+ACTS. And on an appointed day Herod, putting on a royal garment, and sitting
+upon the tribunal, made a public speech. And the people shouted: A voice of
+God, and not of a man. And immediately an angel of the Lord struck him,
+because he did not give the glory to God; and becoming worm-eaten he expired.
+RULE 60. That, the gifts of the Spirit being different, and neither one being
+able to receive all, nor all the same, each must remain soberly and thankfully
+in what has been given, and all must agree with one another in the love of
+Christ, as members in a body; so that he who is lower in the gifts, by
+comparison with him who excels him, may not despair, nor indeed he who is
+greater despise the lesser. For those who are divided and factious are worthy
+of dissolution.
+Chapter 1. MATTHEW. Every kingdom, divided against itself, is made desolate;
+and every city or house, divided against itself, will not stand. GAL. And if
+you bite and eat one another, see that you are not consumed by one another.
+JOHN. I do not ask concerning these only, but also concerning those who
+believe through their word in me; that all may be one, as you, Father, in me,
+and I in you; that these also may be one in us. ACTS. And of the multitude of
+those who believed the heart and the soul was one, and not even one said any
+of the things that belonged to him to be his own, but all things were common
+to them. ROMANS. For I say through the grace given me to everyone who is among
+you, not to think beyond what one must think, but to think unto being sober;
+to each as God has measured a measure of faith. For just as in one body we
+have many members,
+
+and all the members do not have the same practice; so we the many are one body
+in Christ, and each one members of one another; and having gifts according to
+the grace given us differing, and the rest. 1 COR. And I exhort you through
+the name of the Lord Jesus Christ, that you all say the same thing, and that
+there may not be schisms among you; but that you be fitted in the same mind,
+and in the same judgment. 1 COR. For just as the body is one, and has many
+members, and all the members of the body, being many of the one, are one body;
+so also in Christ. For also in one Spirit we all =31.796= were baptized into
+one body, whether Jews, or Greeks, whether slaves, or free, and the rest.
+PHIL. That you all think the same thing, having the same love, souls together,
+thinking the one thing, nothing according to faction, or empty glory, but in
+lowliness of mind counting one another as surpassing themselves; not each
+looking at their own things, but each also at the things of others.
+RULE 61. That one must not despise those who work together the grace of the
+Lord, looking at their cheapness. For in these God is especially well pleased.
+Chapter 1. MATTHEW. I confess to you, Father, Lord of the heaven and of the
+earth, that you hid these things from wise and understanding, and revealed
+them to infants. Yes, the Father, that so good pleasure came to be before you
+... Coming into his fatherland, he taught them in their synagogue, so that
+they were astonished, and said: From where is this wisdom to this man and the
+mighty works? Is not this the son of the carpenter? Is not his mother called
+Mariam? and his brothers James, and Joseph, and Simon, and Judas? and are not
+all his sisters toward us? From where then are all these things to this man?
+And they were scandalized in him. And Jesus said to them: A prophet is not
+without honor except in his fatherland and in his house. And he did not do
+many mighty works there because of their unbelief. 1 COR. For see your
+calling, brothers, that not many wise according to flesh, not many powerful,
+not many well-born; but God chose the foolish things of the world, that he may
+put to shame the wise; and God chose the weak things of the world, that he may
+put to shame the strong; and God chose the ignoble things of the world, and
+the despised, and the things that are not, that he may abolish the things that
+are, that all flesh may not boast before God.
+RULE 62. That those who have believed God, and have been baptized, must
+immediately be prepared toward the tests, and from their own people
+themselves, unto death. For he who has not so prepared himself, when the
+circumstance suddenly overtakes, is easily shaken.
+Chapter 1. MATTHEW. And Jesus, having been baptized, went up immediately from
+the water. And behold, the heavens were opened to him, and he saw the Spirit
+of God coming down as a dove, and coming upon him. And behold, a voice from
+the heavens saying: =31.797= This is my beloved Son, in whom I was well
+pleased. Then Jesus was led up into the wilderness by the Spirit, to be tested
+by the devil. Behold, I send you as sheep in the midst of wolves. Become
+therefore prudent, as the serpents, and simple, as the doves. And take care
+from the men. For they will deliver you into sanhedrins, and in their
+synagogues they will scourge you. And you will be led even before governors
+and kings for my sake, unto a testimony
+
+to them and to the nations. And a little later: And a brother will deliver a
+brother unto death, and a father a child; and children will rise up against
+parents, and will put them to death. And you will be hated by all because of
+my name; and he who has endured unto the end, this one will be saved ... And
+whoever does not take his cross, and follow after me, is not worthy of me.
+JOHN. These things I have spoken to you, that you may not be scandalized. They
+will make you out of the synagogue; but an hour comes, that everyone who kills
+you may think to offer service to God. And these things they will do to you,
+because they did not know the Father, nor me, and the rest. LUKE. And those
+upon the rock, who, when they hear, receive the word with joy, and these do
+not have root, who believe for a time, and in a time of tests fall away. 2
+COR. For I do not want you to be ignorant, brothers, concerning our affliction
+that came to us in Asia, that we were weighed down beyond measure, beyond
+power, so that we despaired even of living; but we ourselves had in ourselves
+the sentence of death, that we may not be trusting upon ourselves, but upon
+God who raises the dead. 2 TIM. And all who wish to live piously in Christ
+Jesus will be persecuted. That one must not throw oneself into tests before
+the time of God's concession, but even pray not to fall into a test. Chapter
+2. MATTHEW. So therefore pray: Our Father, who is in the heavens, let your
+name be hallowed, let your kingdom come. And a little later: And do not bring
+us into a test, but deliver us from the evil one. JOHN. And after these things
+Jesus walked in Galilee; for he did not wish to walk in Judea, because the
+Jews sought to kill him. And the feast of the Jews was near, the Tabernacles.
+His brothers therefore said toward him: Pass over from here, and go into
+Judea, that your disciples also may behold the works which you do. For no one
+does anything in secret, and himself seeks to be in freedom of speech. If you
+do these things, make yourself manifest to the world. For not even his
+brothers believed in him. Jesus therefore says to them: My time =31.800= is
+not yet present; but your time is always ready. The world cannot hate you; but
+it hates me, because I bear witness concerning it, that its works are evil.
+You go up to the feast; I do not yet go up to this feast, because my time has
+not yet been fulfilled. And having said these things to them, he remained in
+Galilee. And when his brothers went up, then he also went up to the feast, not
+openly, but as in secret. LUKE. And rising, pray, that you may not fall into a
+test. That one must according to time withdraw from those who plot, yet,
+having been conceded to fall into a test, ask through prayer the way out of
+being able to bear, and the will of God. Chapter 3. MATTHEW. When they
+persecute you in this city, flee into the other. And the Pharisees taking
+counsel against him, going out, that they might destroy him. And Jesus,
+knowing, withdrew from there. JOHN. From that day therefore they took counsel,
+that they might kill him. Jesus therefore no longer walked freely among the
+Jews. LUKE. And setting the knees, he prayed saying: Father, if you wish to
+take this cup away from me; yet not my will, but yours be done. 1 COR. A test
+has not taken you except a human one; and God is faithful, who will not allow
+you to be tested beyond what you are able, but will make with the test also
+the way out, of being able to bear. That the Christian in the tests, in each
+of the things brought upon him, remembering the things said in the
+God-inspired Scripture toward what is set before, must so keep himself
+unharmed, and abolish the adversaries. Chapter 4. MATTHEW. Then Jesus was led
+up into the wilderness by the Spirit, to be tested by the devil. And having
+fasted forty days, and forty nights,
+
+afterward he hungered. And the tester coming to him said: If you are Son of
+God, say that these stones become bread. And he answering said: It is written,
+that man shall not live upon bread alone, but upon every word going out
+through the mouth of God, and the rest.
+RULE 63. That the Christian must not fear, and be in agony in the
+circumstances, being lifted away from the confidence in God; but take courage,
+as of the Lord =31.801= being present, and managing the things concerning him,
+and strengthening toward all, and of the Holy Spirit teaching even unto the
+answer toward the opponents.
+Chapter 1. MATTHEW. Do not fear those who kill the body, but are not able to
+kill the soul; but fear rather him who is able to destroy both soul and body
+in gehenna. Are not two sparrows sold for an assarion? And one of them will
+not fall upon the earth without your Father. And even all the hairs of your
+head are numbered. Do not therefore fear, you differ from many sparrows. LUKE.
+And when they bring you upon the synagogues, and the rulers, and the
+authorities, do not be anxious how or what you will answer, or what you will
+say; for the Holy Spirit will teach you in that very hour what you must say.
+MARK. And there comes a great storm of wind; and the waves threw into the
+boat, so that it was already filling. And he was upon the stern sleeping upon
+the cushion. And they wake him, and say to him: Teacher, do you not care that
+we perish? And being woken he rebuked the wind, and said to the sea: Be
+silent, be muzzled. And the wind ceased, and there came a great calm. And he
+said to them: Why are you so cowardly? How do you not have faith? ACTS. And
+the chief priest rising and those with him (being the sect of the Sadducees)
+were filled with zeal; and they laid their hands upon the apostles, and set
+them in public custody. And an angel of the Lord through the
+night opened the doors of the prison, and leading them out, said: Go, and
+standing speak in the temple to the people all the words of this life. And
+hearing they entered under the dawn into the temple, and taught. 2 COR. For we
+do not want you to be ignorant, brothers, concerning our affliction that came
+to us in Asia. And a little later: Who delivered us from so great a death, and
+delivers; in whom we have hoped that he will still also deliver.
+RULE 64. That one must rejoice, suffering anything whatsoever unto death for
+the sake of the name of the Lord and of his commandments.
+Chapter 1. MATTHEW. Blessed are those who have been persecuted for the sake of
+righteousness, because theirs is the kingdom of the heavens. Blessed are you,
+when they reproach you, and persecute, and say every evil word against
+=31.804= you, lying, for my sake. Rejoice and be glad, because your reward is
+much in the heavens. LUKE. Blessed are you, when men hate you, and when they
+separate you, and reproach, and cast out your name as evil, for the sake of
+the Son of man. Rejoice in that day, and leap; for behold, your reward is much
+in the heavens. ACTS. And calling the apostles, having beaten them they
+charged them not to speak upon the name of Jesus, and they released them. They
+therefore went rejoicing from the face of the sanhedrin, because they were
+counted worthy to be dishonored for the name of the Lord. And every day in the
+temple and according to house they did not
+
+cease teaching and announcing Christ Jesus as good news. COL. Of which I Paul
+became a minister. Now I rejoice in my sufferings for you, and I fill up the
+lacks of the afflictions of Christ in my flesh for his body, which is the
+Church.
+RULE 65. That one must pray even in the departure itself the things that are
+fitting.
+Chapter 1. MATTHEW. And about the ninth hour Jesus cried out with a great
+voice, saying: Eli, Eli, lama sabachthani? that is: My God, my God, why have
+you forsaken me? And Jesus calling with a great voice said: Father, into your
+hands I set forth my spirit. And having said this, he expired. ACTS. And they
+stoned Stephen calling, and saying: Lord, do not set this sin for them. And
+having said this, he fell asleep.
+RULE 66. That one must not abandon those who contend for piety.
+Chapter 1. JOHN. Jesus answered them: Do you now believe? Behold, an hour
+comes, and now has come, that you may be scattered each into his own things,
+and leave me alone. 2 TIM. You know this, that all who are in Asia turned away
+from me, of whom are Phygelus and Hermogenes. May the Lord give mercy to the
+house of Onesiphorus; because he often refreshed me, and was not ashamed of my
+chain; but becoming in Rome, he sought me earnestly, and found me. May the
+Lord grant him to find mercy from the Lord in that day. And how many things he
+served in =31.805= Ephesus, you know better. 2 TIM. In my first defense no one
+came with me, but all left me; may it not be reckoned to them. That one must
+pray for those who are being examined in tests. Chapter 2. LUKE. Simon, Simon,
+behold, Satan demanded you, to sift you as the wheat; but I prayed concerning
+you, that your faith may not fail. ACTS. Peter therefore was kept in the
+prison. And prayer was being made earnestly by the Church toward God for him.
+RULE 67. That it is alien to those who have full assurance of the resurrection
+from the dead to be grieved over those who have fallen asleep.
+Chapter 1. LUKE. And a much multitude of the people followed him, and of
+women, who also beat themselves, and lamented him. And turning he said toward
+them: Daughters of Jerusalem, do not weep over me. 1 THESS. And concerning
+those who have fallen asleep I do not want you to be ignorant, brothers, that
+you may not be grieved as also the rest, who do not have hope. For if we
+believe that Jesus died and rose; so also God will bring with him those who
+have fallen asleep through Jesus.
+RULE 68. That one must not expect the properties of this age even after the
+resurrection, but know an angelic and without-need life in the coming age.
+Chapter 1. LUKE. Jesus answering said to them: The sons of this age marry and
+are given in marriage; but those who have been counted worthy to obtain that
+age and the resurrection from the dead neither marry, nor are given in
+marriage. For they are no longer able to die; for they are equal to angels,
+and are sons of God, being sons of the resurrection. 1 COR. But someone will
+say: How are the dead raised? and with what body
+
+do they come? Mindless one, what you sow is not made alive, unless it first
+dies. And what you sow, you do not sow the body that will come to be, but a
+naked grain, perhaps of wheat, or of some of the rest. And God gives it a
+body, as he wished. And a little later: So also the resurrection of the dead.
+It is sown in corruption, it is raised in incorruption. It is sown in
+dishonor, it is raised in glory; it is sown in weakness, it is raised in
+power; it is sown a soulish body, it is raised a spiritual body. =31.808= That
+one must not receive the coming of the Lord as local or fleshly, but expect it
+in the glory of the Father over all the inhabited world at once. Chapter 2.
+MATTHEW. Then, if anyone says to you: Behold, here is the Christ, or here, do
+not believe. For false christs and false prophets will be raised, and will
+give great signs and wonders, so as to lead astray, if possible, even the
+elect. MARK. And you see; behold, I have told you all things beforehand. But
+in those days after that affliction the sun will be darkened, and the moon
+will not give its light, and the stars of the heaven will be falling, and the
+powers that are in the heavens will be shaken. And then they will see the Son
+of man coming in clouds with much power and glory. 1 THESS. For this we say to
+you in a word of the Lord, that we who are living, who are left unto the
+coming of the Lord, will not precede those who have fallen asleep; because the
+Lord himself in a command, in a voice of an archangel, and in a trumpet of God
+will come down from heaven, and the dead in Christ will rise first. RULE 69.
+As many things as are forbidden in connection, and it also receives a sentence
+of threat. Chapter 1. MATTHEW. For from the heart come out evil reasonings,
+murders, adulteries, fornications, thefts, false testimonies, blasphemies.
+These are the things that make the man common ... Go from me, you cursed, into
+the eternal fire prepared for the devil and his angels. For I hungered, and
+you did not give me to eat; I thirsted, and you did not give me to drink; I
+was a stranger, and you did not gather me; naked, and you did not clothe me;
+sick, and in prison, and you did not visit me. LUKE. Woe to you the rich,
+because you have your comfort; woe you who have been filled, because you will
+hunger; woe to you who laugh now, because you will mourn and weep; woe when
+all men speak well of you. And take care for yourselves, lest your hearts be
+weighed down in surfeit, and drunkenness, and cares of life, and that day come
+upon you suddenly. ROMANS. And just as they did not approve to have God in
+knowledge, God delivered them over to an unapproved =31.809= mind, to do the
+things that are not fitting, filled with all injustice, fornication, greed,
+evil, and the rest. For, You shall not commit adultery, you shall not murder,
+you shall not steal, you shall not desire, and if there is any other
+commandment, and the rest. 1 COR. Do not be led astray; neither fornicators,
+nor idolaters, nor adulterers, nor soft, nor those who lie with males, nor
+greedy, nor drunkards, not revilers, not rapacious, will inherit a kingdom of
+God. 2 COR. Lest perhaps strife, jealousies, wraths, factions, slanders,
+whisperings, puffings, disorders. GAL. And the works of the flesh are
+manifest, which are adultery, fornication, uncleanness, wantonness, idolatry,
+sorcery, enmities, strife, jealousies, wraths, factions, divisions, heresies,
+envies, murders, drunkennesses, revels, and the like of these, which I tell
+you beforehand, as I also said before, that those who practice such things
+will not inherit a kingdom of God. GAL. Let us not become empty-glorious,
+challenging one another, envying one another. EPH. Let all bitterness, and
+wrath, and anger, and cry, and blasphemy be taken away from you with all evil.
+And let fornication, and all uncleanness, or greed, not even be named among
+you, as is fitting for saints; and shamefulness, or foolish talking, coarse
+jesting, the things that are not proper. COL. Put to death therefore your
+members that are upon the earth; fornication, uncleanness,
+
+passion, evil desire, and the greed, which is idolatry; because of which the
+wrath of God comes upon the sons of disobedience. And now put away also you
+all things, wrath, anger, evil, blasphemy, shameful speech from your mouth. Do
+not lie toward one another. 1 TIM. And to the lawless and unsubmissive,
+ungodly, and sinners, unholy, and profane, strikers of fathers, and strikers
+of mothers, man-slayers, fornicators, those who lie with males, man-stealers,
+liars, perjurers, and if anything else is set against the healthy teaching,
+that according to the Gospel of the glory of the blessed God, with which I was
+entrusted. 1 TIM. In later times some will fall away from the faith, attending
+to spirits of error, and teachings of demons, in hypocrisy of false-speakers,
+cauterized in their own conscience, forbidding to marry, to abstain from
+=31.812= foods, which God created unto partaking with thanksgiving for the
+faithful and those who have known the truth. 1 TIM. If anyone teaches
+otherwise, and does not come to healthy words, those of our Lord Jesus Christ,
+and the teaching according to piety, he is puffed, knowing nothing, but being
+sick about inquiries and fights of words, from which come envy, strife,
+blasphemies, evil suspicions, constant frictions of men corrupted in the mind,
+and deprived of the truth, thinking piety to be a means of gain. Stand away
+from such. 2 TIM. In last days hard times will stand. For men will be lovers
+of themselves, lovers of money, boastful, proud, blasphemers, disobedient to
+parents, ungrateful, unholy, without natural affection, implacable,
+slanderers, without self-control, untamed, not lovers of good, betrayers,
+reckless, puffed, lovers of pleasure rather than lovers of God, having a form
+of piety, but having denied its power; and turn away from these. TITUS. For we
+also were once mindless, disobedient, being led astray, serving various
+desires and pleasures, living in evil and envy, hateful, hating one another.
+As many things as are approved in connection, or also have a promise of
+blessing. Chapter 2. MATTHEW. Blessed are the poor in spirit, because theirs
+is the kingdom of the heavens. Blessed are those who mourn, because they will
+be comforted. Blessed are the meek, because they will inherit the earth.
+Blessed are those who hunger and thirst for righteousness, because they will
+be filled. Blessed are the merciful, because they will be shown mercy. Blessed
+are the clean in heart, because they will see God. Blessed are the
+peacemakers, because they will be called sons of God. Blessed are those who
+have been persecuted for the sake of righteousness, because theirs is the
+kingdom of the heavens. Blessed are you, when they reproach you, and
+persecute, and say every evil word against you, lying, for my sake. Rejoice
+and be glad, because your reward is much in the heavens. MATTHEW. Come, you
+blessed of my Father, inherit the kingdom prepared for you from the foundation
+of the world. For I hungered, and you gave me to eat; I thirsted, and you gave
+me to drink; I was a stranger, and you gathered me; naked, and you clothed me;
+I was sick, and you visited me; I was in prison, and you came toward me.
+ROMANS. Whether he who serves, in the service, whether he who teaches, in the
+teaching, he who exhorts, in the exhortation, he who shares, in simplicity; he
+who presides, in zeal, he who shows mercy, in cheerfulness, the love
+unhypocritical; abhorring the evil, clinging to the good; in brotherly love
+affectionate toward one another; in the honor going before =31.813= one
+another; in the zeal not sluggish; boiling in the spirit; serving the Lord;
+rejoicing in the hope; enduring in the affliction; continuing in the prayer;
+sharing in the needs of the saints; pursuing hospitality. Bless those who
+persecute you; bless, and do not curse. To rejoice with those who rejoice, and
+to weep with those who weep. Thinking the same thing toward one another; not
+thinking the high things, but being led along with the lowly. Do not become
+
+wise beside yourselves; rendering to no one evil in place of evil; providing
+good things before all men. If possible, as far as it is from you, being at
+peace with all men; not avenging yourselves, beloved, but give place to the
+wrath; for it is written: To me is vengeance, I will repay, says the Lord. But
+if your enemy hungers, feed him; and if he thirsts, give him to drink. Do not
+be conquered by the evil, but conquer in the good the evil. 2 COR. Giving no
+occasion in anything, that the ministry may not be blamed; but in everything
+commending ourselves, as ministers of God, in much endurance, in afflictions,
+in necessities, in distresses, in blows, in prisons, in disorders, in labors,
+in watchings, in fasts, in purity, in knowledge, in longsuffering, in
+kindness, in Holy Spirit, in unhypocritical love, in a word of truth, in power
+of God, through the weapons of righteousness, of the right and of the left,
+through glory and dishonor, through ill report and good report, as deceivers,
+and true; as unknown, and being known; as dying, and behold we live; as being
+disciplined, and not being put to death; as being grieved, but always
+rejoicing; as poor, but enriching many; as having nothing, and holding all
+things. 2 COR. For the rest, brothers, rejoice, be fitted, be exhorted, think
+the same thing, be at peace. GAL. And the fruit of the Spirit is love, joy,
+peace, longsuffering, kindness, goodness, faith, meekness, self-control,
+chastity. EPH. I therefore, the prisoner in the Lord, exhort you to walk
+worthily of the calling with which you were called, with all lowliness of mind
+and meekness, with longsuffering bearing with one another in love, being eager
+to keep the unity of the Spirit in the bond of peace. One body and one Spirit,
+as you were also called in one hope of your calling. EPH. Become therefore
+kind toward one another, tender-hearted, granting grace to yourselves, as also
+God in Christ granted grace to you. Become therefore imitators of God, as
+beloved children, and walk in love, as also Christ loved us, and gave himself
+up for us =31.816= an offering and a sacrifice to God unto a smell of
+fragrance. PHIL. If therefore there is any exhortation in Christ, if any
+consolation of love, if any communion of spirit, if any bowels and mercies,
+fill my joy, that you all think the same thing, having the same love, souls
+together, thinking the one thing, nothing according to faction, or empty
+glory. PHIL. For the rest, brothers, as many things as are true, as many as
+august, as many as just, as many as pure, as many as lovely, as many as of
+good report, if there is any virtue, and if there is any praise, reckon these
+things. Which things also you learned, and received, and heard, and saw in me,
+practice these things. COL. If therefore you were raised with Christ, seek the
+things above, where Christ is, sitting at the right of God; think the things
+above, not the things upon the earth. For you died, and your life has been
+hidden with Christ in God. Put on therefore, as elect of God, holy and
+beloved, bowels of mercies, kindness, lowliness of mind, meekness,
+longsuffering. 1 THESS. Admonish the disorderly, comfort the faint-souled,
+hold to the weak, be longsuffering toward all. See that no one renders to
+anyone evil in place of evil, but always pursue the good both toward one
+another and toward all. Always rejoice, pray without ceasing. In everything
+give thanks; for this is a will of God in Christ Jesus, unto you. Do not
+quench the Spirit, do not despise prophecies. And testing all things, hold the
+good; abstain from every form of evil. TITUS. Older men to be sober, august,
+temperate, healthy in the faith, in the love, in the endurance. Older women
+likewise, in a deportment befitting the sacred, not slanderers, not enslaved
+to much wine, teachers of good, that they may make the young women temperate,
+to be lovers of husbands, lovers of children, temperate, pure, keepers of the
+house, good, being subject to their own husbands, that the
+
+word of God may not be blasphemed. TITUS. Remind them to be subject to rulers
+and authorities, to obey, to be ready toward every good work, to blaspheme no
+one, to be unfighting, reasonable, showing all meekness toward all men. HEB.
+Let the brotherly love remain, do not forget hospitality; for through this
+some, unaware, hosted angels. Remember those in bonds, as bound with them,
+those who are ill-treated, as also yourselves being in a body. Marriage is
+honorable in all, and the bed undefiled; but God will judge fornicators and
+adulterers. Let the manner be without love of money; being content with the
+things present.
+RULE 70. That those who have been entrusted with the preaching of the Gospel
+must be appointed with petition and prayer, whether deacons, or elders,
+unaccused, and approved in the former life. =31.817=
+Chapter 1. MATTHEW. Then he says to his disciples: The harvest indeed is much,
+but the workers few. Petition therefore the Lord of the harvest, that he may
+cast out workers into the harvest. LUKE. And when it became day, he called his
+disciples, and choosing from them twelve, whom he also named apostles, Simon,
+whom he also named Peter, and Andrew his brother, and James, and John, Philip,
+and Bartholomew, and Matthew, and Thomas, James of Alphaeus, and Simon called
+Zealot, and Judas of James, and Judas Iscariot, who also became a betrayer.
+LUKE. And after these things the Lord appointed also others, seventy, and sent
+them two by two before his face, into every city and place where he himself
+was about to come. He therefore said toward them: The harvest indeed is much,
+but the workers few. Petition therefore the Lord of the harvest, that he may
+cast out workers into his harvest. ACTS. I made the first word concerning all
+things, O Theophilus, which Jesus began both to do and to teach, until the
+day, having commanded the apostles through Holy Spirit, whom he chose, he was
+taken up. ACTS. And they set two, Joseph called Barsabbas, who was surnamed
+Justus, and Matthias. And having prayed they said: You, Lord, knower of hearts
+of all, show which one you chose of these two, to take the lot of this service
+and apostleship, from which Judas went aside to go into his own place. And
+they gave their lots, and the lot fell upon Matthias, and he was voted
+together with the eleven apostles. 1 TIM. If anyone reaches after oversight,
+he desires a good work. The overseer therefore must be without taking hold, a
+man of one wife, sober, temperate, orderly, hospitable, apt to teach, not
+given to wine, not a striker, not shamefully greedy; but reasonable,
+unfighting, without love of money, presiding well over his own house, having
+children in subjection with all dignity; (and if anyone does not know how to
+preside over his own house, how will he take care of a Church of God?) not a
+newly planted one, that being puffed he may not fall into a judgment and a
+snare of the devil. And he must also have a good testimony from those outside,
+that he may not fall into reproach and a snare of the devil. Deacons likewise,
+august, not double-tongued, not attending to much wine, not shamefully greedy,
+holding the mystery of the faith in a clean conscience. And let these also
+first be tested, then let them serve, being unaccused. TITUS. For this reason
+=31.820= I left you in Crete, that you may set right the things that are
+lacking, and appoint elders according to city, as I ordered you. If anyone is
+unaccused, a man of one wife, having faithful children, not in an accusation
+of unsavedness, or unsubmissive. For the overseer must be unaccused, as a
+steward of God, not self-willed, not wrathful, not given to wine, not a
+striker, not shamefully greedy, but
+
+hospitable, a lover of good, temperate, just, holy, self-controlled, holding
+to the faithful word according to the teaching, that he may be able both to
+exhort in the healthy teaching, and to expose those who contradict. That one
+must not be easy concerning the ordinations, nor come upon them without
+looking around; for the unapproved is not without danger; and he who has been
+caught in something, make it manifest, that he himself may not share the sin,
+nor the rest stumble, but rather learn to fear. Chapter 2. 1 TIM. Lay hands
+quickly on no one, nor share alien sins. 1 TIM. Do not receive an accusation
+against an elder, except upon two or three witnesses. And expose those who sin
+before all, that the rest also may have fear. That he who has been chosen must
+not present himself from himself upon the preaching, but wait the time of the
+good pleasure of God, and begin the preaching when he is entrusted, and preach
+to those toward whom he may be sent. Chapter 3. MATTHEW. These twelve Jesus
+sent, charging them, saying: Do not go away into a way of nations, and do not
+enter into a city of Samaritans; but go rather toward the lost sheep of the
+house of Israel. MATTHEW. And behold, a Canaanite woman, coming out from those
+borders, cried to him saying: Have mercy on me, Lord, son of David; my
+daughter is badly demon-possessed; and he did not answer her a word. And his
+disciples coming asked him saying: Release her, because she cries behind us.
+And he answering said: I was not sent except unto the lost sheep of the house
+of Israel. JOHN. For I came out from God and have come; for I have not come
+from myself, but that one sent me. ACTS. Those therefore who were scattered
+from the affliction that came upon Stephen passed through as far as Phoenicia
+and Cyprus and Antioch, speaking the word to no one, except only to Jews.
+ROMANS. Paul a slave of Jesus Christ, a called apostle, set apart unto a
+Gospel =31.821= of God. ROMANS. And how will they hear without one who
+preaches? and how will they preach, unless they are sent? 1 TIM. Paul an
+apostle of Jesus Christ according to a command of God our Savior, and of
+Christ Jesus our hope. That he who has been called unto the preaching of the
+Gospel must immediately obey, and not delay. Chapter 4. LUKE. And he said
+toward another: Follow me. And he said: Lord, permit me going away first to
+bury my father. And the Lord said to him: Leave the dead to bury their own
+dead; and you, going away, announce the kingdom of God. GAL. And when God was
+well pleased, who set me apart from the womb of my mother, and called me
+through his grace, to reveal his Son in me, that I may announce him as good
+news among the nations; immediately I did not confer with flesh and blood, nor
+did I go away to Jerusalem toward those who were apostles before me; but I
+went away into Arabia, and again I returned to Damascus. That one must not
+teach otherwise. Chapter 5. JOHN. Amen amen I say to you, he who does not
+enter through the door into the court of the sheep, but goes up from
+elsewhere, that one is a thief and a robber. And he who enters through the
+door is a shepherd of the sheep. And a little later: I am the door of the
+sheep. All who came are thieves and robbers; but the sheep did not hear them.
+GAL. But even if we or an angel from heaven preach good news contrary to what
+we preached to you as good news, let him be anathema. As we have said before,
+and now again I say: If anyone preaches good news to you contrary to what you
+received, let him be anathema. 1 TIM. If anyone teaches otherwise, and does
+not come to healthy words, those of our Lord Jesus Christ, and the teaching
+according to piety, he is puffed, knowing nothing, and the rest. That one must
+teach those who have been entrusted all the things commanded by the Lord in
+the Gospel and through the apostles, and as many things as follow these.
+Chapter 6. MATTHEW. Going, make disciples of all the nations,
+
+baptizing them into the name of the Father, and of the Son, and of the Holy
+Spirit, teaching them to keep all things whatever I commanded you. ACTS. And
+as they passed through the cities, they delivered to them to keep the decrees
+that had been judged by the apostles and =31.824= elders in Jerusalem. 1 TIM.
+Teach these things, and exhort. TITUS. And you speak the things that are
+fitting to the healthy teaching. That he who has been entrusted with the word
+of the Lord's teaching, if he is silent about any of the things necessary unto
+good pleasure toward God, is guilty of the blood of those who are in danger,
+whether from the working of the things forbidden, or even from the lack of the
+things that ought to be accomplished. Chapter 7. LUKE. Woe to you lawyers,
+because you took the key of the knowledge; you yourselves did not enter, and
+you hindered those who were entering. ACTS. And when Silas and Timothy came
+down from Macedonia, Paul was held by the word, bearing witness to the Jews
+that the Christ is Jesus. And when they set themselves against him, and
+blasphemed, shaking out the garment, he said toward them: Your blood upon your
+head; I am clean; from now I will go into the nations. ACTS. Therefore I bear
+witness to you in this day, that I am clean from your blood. For I did not
+draw back from announcing to you all the counsel of God. That one must even
+upon the things not defined by a command from Scripture urge each toward the
+better. Chapter 8. MATTHEW. There are eunuchs, who were so born from a
+mother's womb; and there are eunuchs, who were made eunuchs by men; and there
+are eunuchs, who made themselves eunuchs because of the kingdom of the
+heavens. He who is able to receive it, let him receive it. 1 COR. And
+concerning the virgins I do not have a command of the Lord; but I give a
+judgment, as having been shown mercy by the Lord to be faithful. I think
+therefore this to be good because of the present necessity, that it is good
+for a man so to be. Have you been bound to a wife? do not seek a loosing. Have
+you been loosed from a wife? do not seek a wife, and the rest. That it is not
+permitted to set upon others a necessity of things which he himself has not
+accomplished. Chapter 9. LUKE. And to you lawyers woe, because you load men
+with burdens hard to bear, and you yourselves do not touch the burdens with
+one of your fingers. That he who presides over the word must be set forth as a
+pattern of every good thing for others, first accomplishing what he teaches.
+=31.825= Chapter 10. MATTHEW. Come toward me, all who labor and are burdened,
+and I will rest you. Take my yoke upon you, and learn from me, that I am meek,
+and lowly in heart. JOHN. When therefore he washed the feet of his disciples,
+and took his garments, reclining again he said to them: Do you know what I
+have done to you? You call me, the Teacher, and the Lord, and you say well,
+for I am. If therefore I washed your feet, the Lord, and the Teacher, you also
+ought to wash one another's feet. For I gave you an example, that, as I did to
+you, you also may do to one another. ACTS. I showed you all things, that so
+laboring one must help those who are weak. 1 COR. Become imitators of me, as I
+also of Christ. 1 TIM. Let no one despise your youth; but become a pattern of
+the faithful in word, in conduct, and the rest. That he who presides over the
+word must not be anxious over his own achievements, but know as a proper and
+exceptional work of the care entrusted to him the bettering of those who have
+been entrusted. Chapter 11. MATTHEW. You are the salt of the earth. And if the
+salt becomes foolish, in what will it be salted? It is strong for nothing
+still, except to be thrown out, and to be trampled by men. JOHN. All that the
+Father gives me will come toward me, and him who comes toward me I will not
+cast out. That I have come down from the heaven, not that I may do my own
+will, but the will of the Father who sent me. And this is the will of him who
+sent me, that
+everyone who beholds the Son and believes in him may have eternal life. 1
+THESS. For what is our hope, or joy, or crown of boasting? or are not even you
+before our Lord Jesus Christ in his coming? For you are our glory and the joy.
+That he who presides over the word must go about all the villages and the
+cities that have been entrusted to him. Chapter 12. MATTHEW. And Jesus went
+about all Galilee, teaching in the synagogues, and preaching the Gospel of the
+kingdom, and healing every disease and every weakness. LUKE. And he himself
+journeyed according to city and village preaching the kingdom of God, and
+announcing good news; and the twelve with him. That one must call all unto
+obedience of the =31.828= Gospel, and with all freedom of speech announce the
+word, and bear witness to the truth, even if some hinder, and persecute in
+whatever manner unto death. Chapter 13. MATTHEW. What I say to you in the
+darkness, say in the light; and what you heard toward the ear, proclaim upon
+the housetops. And do not fear those who kill the body, but are not able to
+kill the soul. MATTHEW. For the wedding is ready, but those who were called
+were not worthy. Go therefore upon the outlets of the ways, and as many as you
+find, call into the wedding. JOHN. Jesus answered him: I spoke freely to the
+world; I always taught in the synagogue and in the temple, where all the Jews
+come together, and in secret I spoke nothing. ACTS. And bringing them they
+stood in the sanhedrin, and the chief priest asked them, saying: Did we not
+charge you with a charge not to teach upon this name? And behold, you have
+filled Jerusalem with your teaching, and you wish to bring upon us the blood
+of this man. And Peter and the apostles answering said: One must obey God
+rather than men. ACTS. Except that the Holy Spirit bears witness to me
+according to city, saying that bonds and afflictions await me. But I make
+account of nothing, nor do I have my soul precious to myself, as to finish my
+course with joy, and the ministry which I received from the Lord Jesus, to
+bear witness to the Gospel of the grace of God. 1 THESS. For you yourselves
+know, brothers, our entrance toward you, that it has not become empty; but
+having suffered before and been insulted, as you know, in Philippi, we spoke
+freely in our God to speak toward you the Gospel of our God in much contest.
+That one must pray for the progress of those who have believed, and give
+thanks over it. Chapter 14. JOHN. And I do not ask concerning these only, but
+also concerning those who believe through their word in me, that all may be
+one, as you, Father, in me, and I in you, that they also may be one in us. And
+again: Father, those whom you have given me, I wish that where I am, they also
+may be with me. LUKE. In that very hour Jesus rejoiced in the spirit, and
+said: I confess to you, Father, Lord of the heaven and of the earth, that you
+hid these things from wise and understanding, =31.829= and revealed them to
+infants. Yes, the Father, that so good pleasure came to be before you. ROMANS.
+First I give thanks to my God through Jesus Christ for all of you, because
+your faith is announced in the whole world. For God is my witness, whom I
+serve in my spirit, in the Gospel of his Son, how I make mention of you
+without ceasing upon my prayers. PHIL. For God is my witness, how I long for
+you all in the bowels of Jesus Christ. And this I pray, that your love may
+still more and more abound in knowledge and all perception, unto your testing
+the things that differ, that you may be sincere and without offense unto a day
+of Christ, filled with fruits of righteousness that are through Jesus Christ
+unto glory and praise of God. That one must make known the things accomplished
+by grace of God
+
+even to others unto glory of God. Chapter 15. LUKE. And the apostles returning
+recounted to him what things they did. ACTS. And arriving and gathering the
+church, they announced what things God did with them. EPH. And that you also
+may know the things concerning me, what I do, Tychicus the beloved brother,
+and faithful minister in the Lord, will make all things known to you, whom I
+sent toward you unto this very thing, that you may know the things concerning
+us. That one must take care not only of those present, but also of those
+absent; and do all things as the need of the building may require. Chapter 16.
+JOHN. And I have other sheep, which are not from this court; those also I must
+lead; and they will hear my voice; and there will come to be one flock, one
+shepherd. 1 THESS. Therefore no longer bearing we were well pleased to be left
+in Athens alone, and we sent our brother Timothy, and a minister of God in the
+Gospel of Christ, unto establishing you and exhorting for your faith. That one
+must endure those who call upon one for a benefit. Chapter 17. MATTHEW. As he
+was saying these things, behold, a ruler coming in worshipped him, saying that
+My daughter has just now died; but coming, set your hand upon her, and she
+will live. And Jesus rising followed him. ACTS. And Lydda being near to Joppa,
+the disciples hearing that Peter is in it sent =31.832= two men toward him,
+exhorting him not to hesitate to come through as far as them. And Peter rising
+went with them. That one must establish those who receive the word of the
+truth through a visit. Chapter 18. ACTS. And after some days Paul said toward
+Barnabas: Returning then let us visit our brothers according to every city, in
+which we announced the word of the Lord, how they have it. 1 THESS. And we,
+brothers, having been orphaned from you toward a time of an hour, in face, not
+in heart, were more abundantly eager to see your face in much desire.
+Therefore we wished to come toward you, I Paul, both once and twice, and Satan
+cut us off. And a little later: Therefore no longer bearing we were well
+pleased to be left in Athens alone; and we sent Timothy our brother, and a
+minister of God in the Gospel of Christ, unto establishing you and exhorting
+for your faith, that no one be shaken in these afflictions; for you yourselves
+know that we are set unto this. That it belongs to him who loves the Lord, in
+much affection concerning those who are taught, to take care of them with all
+zeal in every manner, even if one must unto death continue in the teaching
+both in common and privately. Chapter 19. JOHN. The good shepherd lays down
+his soul for the sheep. JOHN. And when they had breakfasted, Jesus says to
+Simon Peter: Simon of Jonah, do you love me more than these? He says to him:
+Yes, Lord; you know that I love you. He says to him: Feed my lambs. He says to
+him again a second time: Simon of Jonah, do you love me? He says to him: Yes,
+Lord; you know that I love you. He says to him: Shepherd my sheep. He says to
+him the third time: Simon of Jonah, do you love me? Peter was grieved that he
+said to him the third time: Do you love me? and he said to him: Lord, you know
+all things; you know that I love you. Jesus says to him: Feed my sheep. ACTS.
+And on the one of the Sabbaths, the disciples having been gathered to break
+bread, Paul discoursed to them, being about to go out on the next day; and he
+extended the word until midnight. And a little later: And going up, and
+breaking bread, and tasting, and conversing for a sufficient time until dawn,
+he went out ... As I did not draw back from any of the profitable things from
+announcing to you, and teaching you publicly and according to houses, bearing
+witness both to Jews and to Greeks of the repentance toward God, and faith
+toward our Lord =31.833= Jesus ... Therefore watch, remembering that for three
+years night and day I did not cease with tears admonishing each one of you. 1
+THESS. For you yourselves know, brothers,
+
+our labor, and the toil; working night and day toward not burdening any of
+you, we preached the Gospel of God, and the rest. That he who presides over
+the word must be merciful and tender-hearted, and especially over those who
+have been harmed in the souls. Chapter 20. MATTHEW. And the Pharisees seeing
+said to his disciples: Why does your teacher eat with the tax-collectors and
+sinners? And Jesus hearing said: Those who are healthy have no need of a
+physician, but those who are in a bad state. And going, learn what it is: I
+wish mercy, and not sacrifice; for I did not come to call righteous, but
+sinners unto repentance. MATTHEW. And seeing the crowds, he was moved with
+bowels concerning them, because they were harassed, as sheep not having a
+shepherd. That one must even in the needs of the body be moved with bowels
+over those who have been entrusted, and take thought for them. Chapter 21.
+MATTHEW. I am moved with bowels over the crowd, because already three days
+they remain with me, and they do not have what they may eat, and I do not wish
+to release them fasting, lest they faint in the way. MARK. And a leper comes
+toward him, exhorting him, and kneeling to him, and saying to him, that If you
+wish, you are able to cleanse me. And Jesus being moved with bowels,
+stretching out his hand, touched him, and says to him: I wish, be cleansed.
+ACTS. And in these days, as the disciples multiplied, there came to be a
+murmuring of the Hellenists toward the Hebrews, because their widows were
+overlooked in the daily service. And the twelve calling the multitude of the
+disciples said: It is not pleasing, us leaving the word of God, to serve
+tables. Look out, brothers, seven men from you of good testimony, full of Holy
+Spirit and wisdom, whom we will set over this need. That he who presides over
+the word must not, being ambitious to work with his own hands in the lesser
+things, fall short of the zeal owed concerning the greater. Chapter 22. ACTS.
+And the twelve calling the multitude of the disciples said: It is not
+pleasing, us leaving the word of God, to serve tables. And a little later: And
+we will continue in the prayer and in the service of the word. =31.836= That
+one must not make a show, nor traffic the word of the teaching in flattery of
+those who hear, unto full assurance of one's own pleasures, or needs; but be
+such as speaking unto glory of God before him. Chapter 23. MATTHEW. And they
+do all their works toward being seen by men; and they broaden their
+phylacteries, and enlarge the fringes of their garments; and they love the
+first couches at the dinners, and the first seats in the synagogues, and the
+greetings in the marketplaces, and to be called by men, Rabbi, Rabbi. And do
+not you be called Rabbi; for one is your guide; and you all are brothers. And
+do not call your father upon the earth; for one is your Father, who is in the
+heavens. Nor be called guides; for one is your guide, the Christ. JOHN. My
+teaching is not mine, but of him who sent me. If anyone does his will, he will
+know concerning the teaching, whether it is from God, or I speak from myself.
+He who speaks from himself seeks his own glory; and he who seeks the glory of
+him who sent him, this one is true, and there is no injustice in him. 2 COR.
+For we are not, as the many, peddling the word of God, but as from sincerity,
+but as from God, before God we speak in Christ. 1 THESS. For our exhortation
+is not from error, nor from uncleanness, nor in deceit; but as we have been
+approved by God to be entrusted with the Gospel, so we speak; not as pleasing
+men, but God who tests our hearts. For neither at any time did we come toward
+you in a word of flattery, as you know, nor in a pretext of greed, God is
+witness, nor
+
+seeking glory from men, neither from you, nor from others, being able to be in
+weight, as apostles of Christ. That he who presides over the word must not use
+the authority unto insult against those under him; nor indeed lift himself up
+over them; but rather have the rank as an occasion of lowliness of mind toward
+them. Chapter 24. MATTHEW. Who then is the faithful and prudent slave, whom
+the lord set over his house to give them the food in season? Blessed is that
+slave, whom his lord coming will find doing so. Amen I say to you, that he
+will set him over all his possessions. And if that evil slave says in his
+heart: My lord delays to come, and begins to beat his fellow-slaves, and eats
+and drinks with those who are drunken =31.837=; the lord of that slave will
+come in a day in which he does not expect, and in an hour which he does not
+know; and he will cut him in two, and will set his portion with the
+hypocrites. There will be the weeping, and the gnashing of the teeth. JOHN.
+You call me, the Lord, and the Teacher, and you say truly; for I am. If
+therefore I washed your feet, the Lord, and the Teacher, you also ought to
+wash one another's feet. LUKE. And there came to be also a contention among
+them, as to who of them seems to be greater. And Jesus said to them: The kings
+of the nations lord it over them, and those who exercise authority over them
+are called benefactors; but you not so; but let the greater among you become
+as a younger, and he who leads, as he who serves. For who is greater, he who
+reclines or he who serves? Is it not he who reclines? And I am in your midst,
+as he who serves. ACTS. And from Miletus sending to Ephesus, he called the
+elders of the Church; and when they came to be toward him, he said to them:
+You know, from the first day from which I set foot into Asia, how I was with
+you the whole time, serving the Lord with all lowliness of mind, and many
+tears and tests, which happened to me in the plots of the Jews. 2 COR. For you
+gladly endure the mindless, being prudent. For you endure, if someone enslaves
+you, if someone eats you up, if someone takes, if someone lifts himself up, if
+someone beats you into the face. I speak according to dishonor, as that we
+were weak in this part. That one must not preach the Gospel according to
+strife, or envy, or contention toward some. Chapter 25. MATTHEW. Behold my
+child, whom I chose, my beloved, in whom my soul was well pleased. I will set
+my Spirit upon him, and he will announce judgment to the nations. He will not
+strive, nor cry out, nor will anyone hear his voice in the streets. PHIL. Some
+indeed even through envy and strife, and some also through good will, preach
+Christ; the ones from love, knowing that I am set for a defense of the Gospel;
+and the others announce Christ from faction, not purely, thinking to bring
+affliction upon my bonds. That one must not use human advantages unto the
+preaching of the Gospel, that the grace of God may not be hidden in them.
+Chapter 26. MATTHEW. I confess to you, Father, Lord of the heaven and of the
+earth, that you hid these things =31.840= from wise and understanding, and
+revealed them to infants. 1 COR. For Christ did not send me to baptize, but to
+announce good news; not in wisdom of word, that the cross of Christ may not be
+emptied. And I coming toward you, brothers, came not according to superiority
+of word, or of wisdom, announcing to you the testimony of God. For I judged to
+know nothing among you, except Jesus Christ and this one crucified. And I was
+toward you in weakness, and in much trembling; and my word, and my preaching,
+not in persuasive words of human wisdom, but in demonstration of Spirit and of
+power; that our faith may not be in wisdom of men, but in power of God. That
+one must not suppose to work the good progress of the preaching in one's own
+devices; but the whole
+
+to have trusted upon God. Chapter 27. 2 COR. And we have such confidence
+through Christ toward God, not that we are sufficient from ourselves to reckon
+anything, as from ourselves; but our sufficiency is from God, who also made us
+sufficient to become ministers of a new covenant. 2 COR. And we have this
+treasure in earthen vessels, that the excess of the power may be of God, and
+not from us. That he who has been entrusted with the preaching of the Gospel
+must not acquire anything more than the things toward the necessary need from
+it. Chapter 28. MATTHEW. Do not acquire gold, nor silver, nor bronze into your
+belts; not a bag into a way, nor two tunics, nor sandals, nor a staff; for the
+worker is worthy of his food. LUKE. Take nothing into a way, neither staffs,
+nor a bag, nor bread, nor silver, nor to have two tunics each. ACTS. Of silver
+or gold or clothing I desired none, you yourselves know. 2 TIM. No one serving
+as a soldier is entangled with the affairs of life, that he may please him who
+enlisted him. That one must not lend oneself unto the thought concerning the
+things of life to those who occupy themselves about these things according to
+attachment. Chapter 29. LUKE. And someone said to him from the crowd: Teacher,
+tell my brother to divide with me the inheritance. And he said: Man, who set
+me a judge or a divider over you? 2 TIM. No one serving as a soldier is
+entangled with the affairs of life, and the rest. =31.841= That those who
+through pleasing toward those who hear neglect the freedom of speech of the
+wills of God, enslaving themselves to those whom they wish to please, fall out
+of the lordship of the Lord. Chapter 30. JOHN. How can you believe, taking
+glory from one another, and not seeking the glory from the only God? GAL. If I
+still pleased men, I would not be a slave of Christ. That there must be set
+before him who teaches an aim, to fit all unto a perfect man, unto a measure
+of stature of the fullness of Christ, and each in his own order. Chapter 31.
+MATTHEW. You therefore shall be perfect, as your Father who is in the heavens
+is perfect. JOHN. And I do not ask concerning these only, but also concerning
+those who believe through their word in me; that all may be one, as you,
+Father, in me, and I in you, that they also may be one in us. EPH. And he
+himself gave some apostles, and some prophets, and some shepherds and teachers
+toward the fitting of the saints, unto a work of service, unto building of the
+body of Christ, until we all arrive unto the unity of the faith, and of the
+knowledge of the Son of God, unto a perfect man, unto a measure of stature of
+the fullness of Christ. That one must in forbearance and meekness discipline
+those who set themselves against, expecting their repentance, until he
+fulfills the measure of the care toward them. Chapter 32. MATTHEW. He will not
+strive, nor cry out, nor will anyone hear his voice in the streets. A crushed
+reed he will not break, and smoking flax he will not quench, until he sends
+forth the judgment unto victory. 2 TIM. And a slave of the Lord must not
+fight, but be gentle toward all, apt to teach, forbearing, in meekness
+disciplining those who set themselves against; if perhaps God may give them
+repentance unto knowledge of truth, and they may recover from the snare of the
+devil. That one must yield to those who through fear and reverence decline the
+presence of him who preaches the word, and not press contentiously. Chapter
+33. LUKE. And all the multitude of the surrounding country of the Gadarenes
+asked him to go away from them, because they were held by a great fear. And
+he, embarking into the boat, returned. =31.844= That one must also withdraw
+from those who through stubbornness do not receive the preaching of the
+Gospel, not even enduring to be benefited by them in the things toward the
+necessary need of the body. Chapter 34. MATTHEW. And whoever
+
+does not receive you, nor hear your words, going out of that house, or of the
+city, shake off the dust from your feet. LUKE. And into whatever city you
+enter, and they do not receive you, going out into its streets, say: Even the
+dust that stuck to us from your city we wipe off to you; yet know this, that
+the kingdom of God has drawn near upon you. ACTS. And when Silas and Timothy
+came down from Macedonia, Paul was held by the word, bearing witness to the
+Jews that the Christ is Jesus. And when they set themselves against him, and
+blasphemed, shaking out the garments, he said toward them: Your blood upon
+your head; I am innocent; from now I will go into the nations. That one must
+withdraw from those who disobey after every manner of care toward them has
+been fulfilled. Chapter 35. MATTHEW. Jerusalem, Jerusalem, who kills the
+prophets, and stones those sent toward her, how often I wished to gather your
+children, in the manner a bird gathers her own nestlings under her wings, and
+you did not wish! Behold, your house is left to you desolate. ACTS. To you it
+was necessary that the word of God be spoken; and since you thrust it away,
+and judge yourselves not worthy of the eternal life, behold, we turn to the
+nations. For so the Lord has commanded us: I have set you unto a light of
+nations, for you to be unto salvation as far as the last of the earth. TITUS.
+A heretical man after a first and second admonition decline, knowing that such
+a one has been turned out, and sins, being self-condemned. That toward all in
+every matter one must keep the exactness of the Lord's words, doing nothing
+according to inclination. Chapter 36. 1 TIM. I charge before God and Christ
+Jesus, and the elect angels, that you keep these things without prejudgment,
+doing nothing according to inclination. That he who presides over the word
+must, with looking around and much testing, according to an aim of good
+pleasure toward God, do and =31.845= say each thing, as being bound to be
+tested and borne witness even by those themselves who have been entrusted to
+him. Chapter 37. ACTS. You know from the first day, from which I set foot into
+Asia, how I was with you the whole time, serving the Lord with all lowliness
+of mind, and many tears and tests. And a little later: Of silver, or gold, or
+clothing I desired none. You yourselves know, that these hands served my needs
+and those who were with me. 1 THESS. You are witnesses, and God, how holily,
+and justly, and blamelessly we became toward you who believe, as you know.
+RULE 71. As many things as have been said in connection concerning overseers
+and elders.
+Chapter 1. 1 TIM. If anyone reaches after oversight, he desires a good work.
+But the overseer must be without taking hold, and the rest. 1 TIM. Do not
+strike an elder, but exhort him as a father, younger men as brothers, older
+women as mothers, younger women as sisters, in all purity. 2 TIM. And flee the
+youthful desires, and pursue righteousness, faith, love, peace with those who
+call upon the Lord from a clean heart. And the foolish and uninstructed
+inquiries decline, knowing that they generate fights. And a slave of the Lord
+must not fight, but be gentle toward all, and the rest. 2 TIM. And you have
+followed my faith, the teaching, the conduct, the purpose, the endurance, the
+persecutions, the sufferings. TITUS. For this reason I left you in Crete, that
+you may set right the things that are lacking, and appoint elders according to
+city, as I ordered you, if anyone is unaccused, and the rest. Chapter 2. On
+deacons. ACTS. And
+
+they chose Stephen a man full of faith and Holy Spirit, and Philip, and
+Prochorus, and Nicanor, and the rest, whom they set before the apostles; and
+having prayed they laid the hands upon them. 1 TIM. Deacons likewise, august,
+not double-tongued, not attending to much wine, not shamefully greedy, and the
+rest.
+RULE 72. Concerning hearers. That of the hearers those who have been
+instructed in the Scriptures must test the things said by the teachers; and
+receive the things that agree with the Scriptures, and reject the things that
+are alien; and turn away more vehemently from those who remain in such
+=31.848= teachings.
+Chapter 1. MATTHEW. Woe to that man, through whom the scandal comes. And if
+your eye scandalizes you, take it out; likewise also concerning hand and foot.
+JOHN. Amen amen I say to you: he who does not enter through the door into the
+court of the sheep, but goes up from elsewhere, that one is a thief and a
+robber. And a little later: And they will not follow an alien, but will flee
+from him, because they do not know the voice of the aliens. GAL. But even if
+we, or an angel from heaven, preach good news to you contrary to what you
+received, let him be anathema. 1 THESS. Do not despise prophecies. Test all
+things; hold the good. Abstain from every form of evil. That those who do not
+have much knowledge of the Scriptures must know the character of the saints in
+the fruits of the Spirit; and receive such, and turn away from those who are
+otherwise. Chapter 2. MATTHEW. And take care from the false prophets, who come
+toward you in clothing of sheep, but inside are rapacious wolves. From their
+fruits you will know them. PHIL. Become fellow-imitators of me, brothers, and
+look at those who so walk, as you have us as a pattern. That one must so
+endure those who cut the word of the truth rightly, as the Lord, unto the
+glory of him who sent, Jesus Christ our Lord. Chapter 3. MATTHEW. He who
+receives you receives me. JOHN. He who takes, if I send anyone, takes me.
+LUKE. He who hears you hears me. GAL. And the test that was in my flesh you
+did not despise, nor spit out, but as an angel of God you received me, as
+Christ Jesus. That those who disobey those sent from the Lord do not set the
+dishonor as far as these, but lead it up upon him who sent, and draw upon
+themselves a worse judgment than those in Sodom and Gomorrah. Chapter 4.
+MATTHEW. And whoever does not receive you, nor hear your words, going out of
+the city or of that house, shake off the dust of your feet. Amen I say to you,
+it will be more tolerable for the land of Sodom and Gomorrah in a day of
+judgment than for that city. LUKE. =31.849= He who sets you aside sets me
+aside. 1 THESS. Therefore he who sets aside does not set aside a man, but God,
+who also gave his Holy Spirit into us. That one must so receive the teaching
+of the commandments of the Lord, as procuring eternal life and a kingdom of
+heavens; and work it eagerly, even if it seems to be toilsome. Chapter 5.
+JOHN. Amen amen I say to you, that he who hears my word, and believes him who
+sent me, has eternal life, and does not come into judgment, but has passed
+over from the death into the life. ACTS. And having announced that city as
+good news and made disciples of a sufficient number, they returned to Lystra,
+and Iconium, and Antioch, establishing the souls of the disciples, exhorting
+them to remain in the faith; and that through many afflictions we must enter
+into the kingdom of the heavens. That one must so receive the exposure and the
+rebuke, as a medicine that takes away passion, and that prepares health. From
+which it is clear that
+
+those who in a passion of pleasing men pretend reasonableness, and do not
+expose those who sin, harm the whole, and plot even against the true life
+itself. Chapter 6. MATTHEW. And if a brother sins against you, go, expose him
+between you and him alone; if he hears you, you have gained your brother. 1
+COR. You having been gathered and my spirit with the power of our Lord Jesus
+Christ, to deliver such a one to Satan unto destruction of the flesh, that the
+spirit may be saved in the day of the Lord Jesus. 2 COR. That that letter,
+even if for an hour it grieved you, now I rejoice, not that you were grieved,
+but that you were grieved unto repentance. For you were grieved according to
+God, that you might suffer loss in nothing from us. For the grief according to
+God works repentance unto salvation not to be regretted. TITUS. For which
+cause expose them sharply, that they may be healthy in the faith.
+RULE 73. That a man must not be separated from a wife, or a wife from a
+husband, unless someone is caught in fornication, or is hindered unto piety.
+Chapter 1. MATTHEW. And it was said, that whoever releases =31.852= his wife,
+let him give her a bill of divorce. But I say to you, that whoever releases
+his wife, except a word of fornication, makes her commit adultery; and whoever
+marries her who has been released commits adultery. LUKE. If anyone comes
+toward me, and does not hate the father, and the mother, and the wife, and the
+children, and the brothers, and the sisters, and still even his own soul, he
+cannot be my disciple. MATTHEW. And I say to you, that whoever releases his
+wife, except upon fornication, and marries another, commits adultery; and he
+who has married her who has been released commits adultery. 1 COR. And to
+those who have married I charge, not I, but the Lord, that a wife not be
+separated from a husband; and if she also is separated, let her remain
+unmarried, or be reconciled to the husband; and that a husband not send away a
+wife. That it is not permitted for him who has released his own wife to marry
+another, nor for her who has been released from a husband to be married to
+another. Chapter 2. MATTHEW. And I say to you, that whoever releases his wife,
+except upon fornication, and marries another, commits adultery; and he who has
+married her who has been released commits adultery. That husbands must love
+their own wives, a love which Christ loved the Church, giving himself up for
+her, that he may sanctify her. Chapter 3. EPH. Husbands, love your own wives,
+as also Christ loved the Church, and gave himself up for her, that he may
+sanctify her, having cleansed her with the washing of the water in a word. And
+a little later: So husbands ought to love their own wives, as their own
+bodies, and the rest. That wives must be subject to their own husbands, as
+also the Church to Christ, doing the will of God. Chapter 4. EPH. Let the
+wives be subject to their own husbands, as to the Lord; because the man is
+head of the wife, as also Christ is head of the Church; and he himself is the
+savior of the body. But as the Church is subject to Christ, so the wives to
+their own husbands in everything. TITUS. That they may make the young women
+temperate, to be lovers of husbands, pure, keepers of the house, good, being
+subject to their own husbands, that the word of God may not be blasphemed.
+=31.853= That wives must not be adorned toward beautifying, but have all the
+zeal and care concerning the good works, and hold this to be a true and
+fitting adornment for Christian women. Chapter 5. 1 TIM. Likewise that women
+in orderly deportment with shame and temperance adorn themselves; not in
+braids, or gold, or pearls, or costly clothing, but, what is fitting for women
+who profess piety, through good works. That wives must be silent in church,
+and at home be eager in speech concerning good pleasure
+
+toward God. Chapter 6. 1 COR. Let your wives be silent in the churches; for it
+has not been permitted them to speak, but to be subject. And if they wish to
+learn something, let them ask their own husbands at home. For it is shameful
+for women to speak in church. 1 TIM. Let a woman learn in quiet in all
+subjection. And I do not permit a woman to teach, nor to have authority over a
+man, but to be in quiet. For Adam was first formed, then Eve. And Adam was not
+deceived, but the woman, being thoroughly deceived, has come to be in
+transgression. And she will be saved through the childbearing, if they remain
+in the faith, and love, and sanctification, with temperance.
+RULE 74. That the widow who uses a stronger body must live in care and zeal,
+remembering the things said by the Apostle, and those borne witness for
+Dorcas.
+Chapter 1. ACTS. And in Joppa there was a certain disciple, named Tabitha,
+which being interpreted is called Dorcas. This woman was full of good works
+and alms which she did. And a little later: And all the widows stood around
+him weeping, and showing tunics and garments as many as Dorcas made being with
+them. 1 TIM. Let a widow be enrolled, not less than sixty years, having become
+a wife of one man; borne witness in good works, if she brought up children, if
+she hosted strangers, if she washed feet of saints, if she helped those in
+affliction, if she followed after every good work. That the widow who has been
+well approved in the achievements said by the Apostle, and has arrived unto
+the order of those who are truly widows, must continue in the petitions and
+the prayers with fasts night and day. Chapter 2. LUKE. And there was Anna a
+prophetess, daughter of Phanuel, from the tribe of Asher; this woman was
+advanced in many days, having lived with a husband seven years =31.856= from
+her virginity. And this woman a widow of about eighty-four years, who did not
+stand away from the temple, serving with fasts and petitions night and day. 1
+TIM. And she who is truly a widow and left alone has hoped upon God, and
+remains with the petitions and the prayers night and day; and she who lives in
+luxury, living, has died.
+RULE 75. That slaves must obey the lords according to flesh unto glory of God
+with all good will; in whatever things a commandment of God is not loosed.
+Chapter 1. EPH. Slaves, obey the lords according to flesh with fear and
+trembling in simplicity of your heart, as to Christ; not according to
+eye-service, as men-pleasers, but as slaves of Christ, doing the will of God
+from the soul, serving with good will, as to the Lord, and not to men; knowing
+that each, whatever good he does, this he will receive from the Lord, whether
+slave, or free. 1 TIM. As many as are slaves under a yoke, let them hold their
+own masters worthy of all honor, that the name of God and the teaching may not
+be blasphemed. And those who have faithful masters, let them not despise them,
+because they are brothers, but rather let them serve, because they are
+faithful and beloved, who take hold of the benefit. TITUS. Slaves to be
+subject to their own masters, to be well-pleasing in all things, not
+contradicting, not pilfering, but showing all good faith; that they may adorn
+the teaching of our Savior God in all things. That the lords, remembering the
+true Lord, whatever they enjoy from the slaves, must also do these things to
+them according to power, in fear of God and reasonableness toward them,
+according to imitation of the Lord. Chapter 2. JOHN.
+
+Jesus knowing that the Father has given all things to him into the hands, and
+that he came out from God, and goes toward God, rises from the dinner, and
+sets his garments, and taking a towel, girded himself. Then he throws water
+into the basin, and began to wash the feet of the disciples, and to wipe them
+with the towel with which he was girded. And a little later: You call me, the
+teacher, and the Lord, and you say well; for I am. If therefore I washed your
+feet, the Lord and the teacher, you also ought to wash one another's feet. For
+I have given you an example, that, as I did to you, you also may do. EPH.
+Lords, do the same things toward them, letting go the threat; knowing that
+their Lord also, and yours, is in heavens, and there is no respect of persons
+with him. =31.857=
+RULE 76. That children must honor the parents, and obey them in all things, in
+whatever a commandment of God is not hindered.
+Chapter 1. LUKE. And toward him his mother said: Child, why have you done so
+to us? Behold, your father and I, being in pain, sought you. And a little
+later: And he went over with them, and came to Nazareth, and was subject to
+them. EPH. Children, obey your parents in the Lord; for this is just. Honor
+the father and the mother, which is a first commandment in promises, that it
+may be well with you, and you may be long-lived upon the earth. That parents
+must bring up the children in discipline and admonition of the Lord with
+meekness and longsuffering, and give no occasion, as far as it is in them, of
+wrath and grief. Chapter 2. EPH. And fathers, do not provoke your children,
+but bring them up in discipline and admonition of the Lord. COL. Fathers, do
+not provoke your children, that they may not be disheartened.
+RULE 77. That virgins must have been freed from all care of the present age,
+toward being able without distraction to give thanks to God according to both
+mind and body, upon hope of the kingdom of the heavens.
+Chapter 1. MATTHEW. There are eunuchs, who made themselves eunuchs because of
+the kingdom of the heavens. He who is able to receive it, let him receive it.
+1 COR. And I wish you to be without care. The unmarried man is anxious about
+the things of the Lord, how he will please the Lord; and he who has married is
+anxious about the things of the world, how he will please the wife. And the
+woman and the virgin have been divided. The unmarried woman is anxious about
+the things of the Lord, that she may be holy both in the body and in the
+spirit. And she who has married is anxious about the things of the world, how
+she will please the husband. And this I say toward your own profit; not that I
+may cast a noose upon you, but toward the seemly and sitting well beside the
+Lord without distraction.
+RULE 78. That it is not permitted for those who serve as soldiers to shake
+down or to slander.
+Chapter 1. LUKE. And those serving as soldiers also asked him, saying: And we,
+what shall we do? =31.860= And he said toward them: Shake down no one, nor
+slander; and be content with your wages.
+RULE 79. That the rulers must be avengers of the ordinances of God.
+Chapter 1. ROMANS. For the rulers are not a fear of the good works, but of the
+evil. And do you wish not to fear the authority? do the good; and you will
+have praise from it. For it is a minister of God to you unto the good. And if
+you do the evil, fear; for it does not wear the sword in vain. For it is a
+minister of God, an avenger unto wrath to him who practices the evil. That one
+must be subject to authorities that excel in whatever a commandment of God is
+not hindered. Chapter 2. ROMANS. Let every soul be subject to authorities that
+
+excel. For there is not an authority except under God; and the authorities
+that are have been ordered under God. So that he who sets himself against the
+authority has stood against the ordinance of God; and those who have stood
+against will receive judgment for themselves. For the rulers are not a fear of
+the good works, but of the evil, and the rest. ACTS. One must obey God rather
+than men. TITUS. Remind them to be subject to rulers and authorities, to obey,
+to be ready toward every good work.
+RULE 80. What sort the word wants Christians to be, as disciples of Christ,
+being patterned toward only the things they see in him, or hear from him.
+Chapter 1. MATTHEW. Take my yoke upon you, and learn from me. JOHN. You call
+me, the teacher, and the Lord; and you say well; for I am. If therefore I
+washed your feet, the Lord and the teacher, you also ought to wash one
+another's feet. For I have given you an example, that as I did to you, you
+also may do. As sheep of Christ hearing the voice of their own shepherd only,
+and following him. Chapter 2. JOHN. My sheep hear my voice, and I know them,
+and they follow me. And above: And they will not follow an alien, but will
+flee from him, because they do not know the voice of the aliens. =31.861= As
+branches of Christ, rooted in him, and bearing fruit in him, and doing and
+having anything whatsoever proper to him and worthy. Chapter 3. JOHN. I am the
+vine, you the branches. As members of Christ, fitted in every working of the
+commandments of the Lord, or of the gifts of the Holy Spirit, toward worth of
+the head, which is the Christ. Chapter 4. 1 COR. Do you not know that your
+bodies are members of Christ? EPH. And speaking truth in love, let us grow
+into him the all things, who is the head, Christ; from whom all the body,
+being fitted together and brought together through every joint of the supply,
+according to a working in measure of each one part, makes the growth of the
+body unto building of itself in love. As a bride of Christ keeping the pure,
+in walking by the wills of the bridegroom only. Chapter 5. JOHN. He who has
+the bride is a bridegroom. 2 COR. For I fitted you to one husband, to present
+a pure virgin to Christ. As holy temples of God, clean, and filled only with
+the things toward worship of God. Chapter 6. JOHN. If anyone loves me, he will
+keep my word, and my Father will love him; and we will come toward him, and
+will make an abode with him. 2 COR. For you are a temple of a living God. For
+the Scripture says, that I will dwell in them, and I will walk about, and I
+will be their God. As a sacrifice of God unblemished and unhurt, keeping the
+healthy in every member and part of piety. Chapter 7. ROMANS. I exhort you,
+brothers, through the mercies of God, to present your bodies a living
+sacrifice, holy, well-pleasing to God, your reasonable worship. As children of
+God, formed toward the image of God, according to the measure granted to men.
+Chapter 8. JOHN. Little children, I am still a little with you. =31.864= GAL.
+My little children, whom I again travail, until Christ is formed in you. As
+light in a world, so as themselves to be unreceptive of evil, and to enlighten
+those who draw near to them unto knowledge of the truth, toward becoming what
+one must, or exposing what they are. Chapter 9.
+
+MATTHEW. You are the light of the world. PHIL. Among whom you shine as lights
+in a world. As salt in earth, so that those who share with them may be renewed
+in the spirit toward incorruption. Chapter 10. MATTHEW. You are the salt of
+the earth. As a word of life, confirming by the dying toward the present
+things the hope of the life that truly is. Chapter 11. PHIL. Among whom you
+shine as lights in a world, holding a word of life, unto a boast for me unto a
+day of Christ. What sort the word wants those entrusted with the preaching of
+the Gospel to be; as apostles and ministers of Christ, and faithful stewards
+of mysteries of God, fulfilling without omission only the things ordered by
+the Lord in deed and word. Chapter 12. MATTHEW. Behold, I send you as sheep in
+the midst of wolves. Going, make disciples of all the nations. 1 COR. So let a
+man reckon us, as ministers of Christ, and stewards of mysteries of God; and
+for the rest, it is sought in the stewards, that someone be found faithful. As
+heralds of a kingdom of heavens upon a dissolving of him who has the power of
+the death in the sin. Chapter 13. MATTHEW. And going, preach saying: That the
+kingdom of the heavens has drawn near. 2 TIM. I charge before God and Jesus
+Christ, who is about to judge living and dead according to his appearing and
+his kingdom; preach the word of God. As a pattern or canon of piety unto
+accomplishment of the straightness in all things of those who follow the Lord,
+and exposure of the distortion of those who in whatever way disobey. Chapter
+14. PHIL. Forgetting the things behind =31.865=, and stretching out to the
+things in front, I pursue according to aim toward the prize of the upward
+calling of God in Christ Jesus. As many therefore as are perfect, let us think
+this; and if you think anything otherwise, God will also reveal this to you.
+Yet unto what we have arrived, to walk by the same canon, to think the same
+thing. 1 TIM. Become a pattern of the faithful in word, in conduct, in love,
+in faith, in purity. 2 TIM. Be eager to present yourself approved to God; a
+worker unashamed, cutting the word of the truth rightly. As an eye in a body,
+discerning of the good things and of the worthless, and directing the members
+of Christ toward the things that fall to each. Chapter 15. MATTHEW. The lamp
+of the body is the eye; if therefore your eye is simple, your whole body will
+be full of light. As shepherds of sheep of Christ, not declining even to lay
+down the soul for them in a time, for the sake of sharing with them the Gospel
+of God. Chapter 16. JOHN. The good shepherd lays down his soul for the sheep.
+ACTS. Take care therefore for yourselves and for all the flock, in which the
+Holy Spirit set you overseers, to shepherd the Church of God. As physicians,
+in much tender-heartedness according to knowledge of the Lord's teaching
+healing the passions of the souls, unto procuring of the health and
+continuance in Christ. Chapter 17. Chapter 17. MATTHEW. Those who are strong
+have no need of a physician, but those who are in a bad state. ROMANS. And we
+who are powerful ought to bear the weaknesses of the powerless. As fathers and
+nurses of their own children, in much disposition of the love in Christ being
+well pleased to share with them not only the Gospel of God, but also their own
+souls. Chapter 18. JOHN. Little children, I am still a little time with you. 1
+COR. For in Christ Jesus through the Gospel I begot you. 1 THESS. As if a
+nurse cherishes her own children, so longing for you, we are well pleased to
+share with you not only the Gospel of God, but also our own souls, because you
+became beloved to us. As fellow-workers of God, having given over themselves
+wholly toward only the works worthy of God for the Church. =31.868= Chapter
+19. 1 COR. For we are fellow-workers of God; you are a field of God, a
+building of God. As planters of branches of God, letting no alien of the vine,
+which is the Christ, remain in,
+
+
+nor indeed an unfruitful one; but bettering through all care the proper and
+fruit-bearing ones. Chapter 20. MATTHEW. I am the true vine, and my Father is
+the farmer. Every branch in me not bearing fruit, he takes it away, and every
+one that bears fruit, he cleanses it, that it may bear more fruit. 1 COR. I
+planted, Apollos watered; but God made to grow. As builders of a temple of
+God, fitting the soul of each, unto being joined to the foundation of the
+apostles and prophets. Chapter 21. 1 COR. According to the grace of God given
+me, as a wise master-builder, I have laid a foundation; and another builds
+upon it. And let each see how he builds upon it. For no one can lay another
+foundation beside the one that lies, which is Jesus Christ. EPH. Therefore
+then you are no longer strangers and sojourners, but fellow-citizens of the
+saints, and of the household of God, built upon the foundation of the apostles
+and prophets, Christ Jesus himself being a chief corner, in whom all building
+fitted together grows into a holy temple in the Lord, in whom you also are
+built together into a dwelling of God in Spirit. Chapter 22. What is proper to
+a Christian? Faith working through love. What is proper to faith? An undivided
+full assurance of the truth of the God-inspired words, shaken by no reasoning,
+neither one brought in by natural necessity, nor one fashioned toward piety.
+What is proper to a faithful one? To be disposed together in such full
+assurance with the power of the things said, and to dare to set aside nothing,
+or to add further. For if everything which is not from faith is sin, as the
+Apostle says, and the faith is from hearing, and the hearing through a word of
+God; everything outside the God-inspired Scripture, being not from faith, is
+sin. What is proper to the love toward God? To keep his commandments according
+to an aim of his glory. What is proper to the love toward the neighbor? Not to
+seek one's own things, but the things of the one loved toward what is
+profitable both for the soul and for the body. What is proper to a Christian?
+To be born from above through the baptism from water and Spirit. What is
+proper to him who has been born from water? That, as Christ died to the sin
+once for all, so he also is dead and =31.869= unmoved toward every sin,
+according to what is written, that As many as we were baptized into Christ
+Jesus, we were baptized into his death. We were therefore buried with him
+through the baptism into the death, knowing this, that our old man was
+crucified with him, that the body of sin may be abolished, that we may no
+longer be slaves to sin. What is proper to him who has been born from Spirit?
+To become that, according to the measure given, which that is from which he
+was born, as it is written, that What has been born from the flesh is flesh;
+and what has been born from the spirit is spirit. What is proper to him who
+has been born from above? To put off the old man with his deeds and the
+desires, and to put on the new who is being renewed unto knowledge according
+to the image of him who created him, according to what has been said, that As
+many as you were baptized into Christ, you put on Christ. What is proper to a
+Christian? To be cleansed from every defilement of flesh and spirit in the
+blood of Christ, and to accomplish holiness in fear of God and love of Christ,
+and not to have a spot or wrinkle, or any of such things, but to be holy and
+unblemished, and so to eat the body of Christ, and to drink the blood. For he
+who eats and drinks unworthily eats and drinks judgment to himself. What is
+proper to those who eat the bread, and drink the cup of the Lord? To keep a
+continual memory of him who died for us and was raised. What is proper to
+those who keep such a memory? No longer to live to themselves, but to him who
+died for them and was raised. What is proper to a Christian? That his
+righteousness abound in everything, more than that of the scribes and
+Pharisees, according to the measure of the teaching according to the Gospel of
+the Lord. What is proper to a
+
+Christian? To love one another, as also Christ loved us. What is proper to a
+Christian? To see the Lord before him through everything. What is proper to a
+Christian? To watch on each day and hour, and to be ready in the perfection of
+good pleasure toward God, knowing that in an hour he does not think, the Lord
+comes.

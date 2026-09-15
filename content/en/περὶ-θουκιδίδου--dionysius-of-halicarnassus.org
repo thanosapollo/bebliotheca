@@ -1,0 +1,1999 @@
+#+TITLE: On Thucydides
+#+AUTHOR: Dionysius of Halicarnassus hermes:grok-4.6
+#+FILETAGS: :imperial:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/περὶ-θουκιδίδου--dionysius-of-halicarnassus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+On Thucydides edited by Hermann Usener
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+In the notes on imitation published before, having gone through those poets
+and historians whom I supposed to be the most distinguished, Quintus Aelius
+Tubero, and having shown in brief what virtues of subject-matter and of
+diction each of them contributes, and wherein he most becomes worse than
+himself in his failures, whether because his purpose does not hunt down
+everything according to the most exact reasoning, or because his power does
+not succeed in all his works, in order that those who choose to write and to
+speak well may have fine and approved models, on which they will make their
+exercises in detail, not imitating everything that lies in those men, but
+taking their virtues and guarding against their failures; and having taken up
+the historians I also set out my views about Thucydides, wrapping them in a
+short and summary writing, not through neglect and ease, nor through scarcity
+of those who would be able to confirm the propositions, but aiming at the
+fitness of what was being written, as I also did concerning the others. For it
+was not possible to make an exact and detailed exhibition about each of the
+men, when I had chosen to gather the treatise into the smallest bulk. But when
+you wished me to compose a separate writing about Thucydides, embracing
+everything that needed discussion, putting off the treatise on Demosthenes
+which I had in hand, I both promised to do it as you preferred, and having
+fulfilled the promise I deliver it.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+But as I am about to take up the arguments in detail, I wish to say a few
+things first about myself and about the kind of the treatise: not, by Zeus,
+for your sake and those like you, who judge affairs from everything that is
+best and think no possession more honorable than the truth; but for the sake
+of the others, in whom there is much love of finding fault, whether it comes
+about through zeal for the ancients, or through contempt of those of the same
+age, or through both these passions, which are common to human nature. For I
+suspect that there will be some among those who will read the writing who will
+blame us, because we dare to declare that Thucydides, the strongest of all the
+historians, both misses at times in the purpose of his speeches and grows weak
+in his power; and this calculation came upon us, that we shall seem first and
+alone to be introducing paradoxical novelties, if we set ourselves to slander
+anything of what was written by Thucydides, not only opposing the common
+opinions which all have received from long time and hold irremovable, but also
+distrusting the private testimonies of the most distinguished philosophers and
+orators, who set that man down as the canon of historical work and the limit
+of skill in political speeches; of whom neither strong purposes. Wishing,
+then, to clear away these reproaches, which have something theatrical and
+attractive to the many, about myself I shall be content with saying only this
+much, that having guarded throughout my life until now against this
+contentious and quarrelsome and randomly barking-at-all quality, and having
+published no writing in which I accuse anyone, except one treatise which I
+composed on behalf of political philosophy against those who run it down
+unjustly, I would not have attempted now for the first time to exhibit against
+the most distinguished of the writers the malice that suits neither free
+characters nor my own habit. About the kind of the writing I had more to say,
+but I shall be content with a few things. And whether I have chosen arguments
+true and fitting to myself, both you will judge and each of the other lovers
+of letters.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+The wish of my treatise, then, is not an attack on the purpose and power of
+Thucydides, nor a reckoning of the faults, nor a cheapening, nor any other
+such work, in which I have thought the successes and the virtues worthy of no
+discussion, and fasten upon what was not said in the strongest way; but a
+certain reckoning of the character of the speeches, embracing everything that
+has happened to him both in common with others and differing from the rest. In
+which it was necessary that not the virtues only be spoken of, but also the
+vices neighboring them. For no nature of a man is sufficient of itself to be
+faultless either in speeches or in deeds, and the strongest is the one that
+hits the most and misses the least. Referring, then, what will be said to this
+hypothesis, let each man not become an accuser of my purpose, but a just
+examiner of the works belonging to the character. And that I am not the first
+who has attempted to do this, but many both long ago and in our time, having
+chosen writings not quarrelsome but contemplative of the truth, though I could
+furnish countless witnesses I shall be content with two men only, Aristotle
+and Plato. For Aristotle is not persuaded that everything has been said in the
+strongest way by his teacher Plato: among which are the things about the Idea
+and the things about the Good and the things about the Republic; and Plato
+himself wishes to show that Parmenides and Protagoras and Zeno and not a few
+of the other natural philosophers have gone wrong; and no one blames him on
+this very point, considering that the aim of philosophic contemplation is
+knowledge of the truth, from which the end of life also becomes clear. Where,
+then, no one blames those who differ about doctrines for their purpose, if
+they do not praise everything of the elders, would anyone blame those who have
+chosen to exhibit the peculiarity of styles, if they do not testify to those
+before them all the virtues, even those that are not present?
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+One part still remains for me that needs a defense, a certain invidious charge
+and one pleasing to the many, but able to be easily refuted as not sound. For
+it is not the case that if we fall short in power of Thucydides and of the
+other men, we have also lost the theoretical grasp of them. For neither are
+those who do not have the same virtues as they forbidden to judge the arts of
+Apelles and Zeuxis and Protogenes and the other famous painters, nor the works
+of Pheidias and Polycleitus and Myron those who are not craftsmen of such
+stature. For I forbear to say that in many works the layman is no worse a
+judge than the artist, of those things that are grasped through irrational
+sensation and by the affections, and that every art aims at these criteria and
+takes its beginning from them. Let this be enough of prefaces for me, so that
+I may not unawares wear out the argument on these things.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+But as I am about to begin the writing about Thucydides I wish to say a few
+things about the other historians, both the older ones and those who
+flourished in the same times as he, from which both the purpose of the man, by
+using which he differed from those before him, and his power will become
+clear. Ancient historians, then, were many and in many places before the
+Peloponnesian War; among whom are Eugeon the Samian and Deiochus the
+Proconnesian and Eudemus the Parian and Democles the Phygalean and Hecataeus
+the Milesian, and Acusilaus the Argive and Charon the Lampsacene and
+Melesagoras the Chalcedonian, and a little older than the Peloponnesian events
+and stretching as far as the lifetime of Thucydides Hellanicus the Lesbian and
+Damastes the Sigean and Xenomedes the Chian and Xanthus the Lydian and many
+others. These used a similar purpose about the choice of subjects and had
+powers not differing much from one another, some writing up the Greek
+histories, others the barbarian ones, and these themselves not joining them to
+one another, but dividing them by nations and by cities and publishing them
+apart from one another, keeping one and the same aim, as many memories as were
+preserved among the natives by nations and by cities, whether writings stored
+in sacred places or in profane ones, to bring these into the common knowledge
+of all, such as they received them, neither adding anything to them nor taking
+anything away; in which there were also certain myths believed from long time
+and certain theatrical reversals that seem to those now to have much that is
+silly; and as to diction, for the most part all who chose the same characters
+of the dialects practiced the same one, the clear and common and pure and
+concise and fitted to the facts and displaying no technical contrivance; yet a
+certain bloom and grace runs over their works, in some more, in others less,
+through which their writings still remain. But Herodotus of Halicarnassus,
+born a little before the Persian events, and stretching as far as the
+Peloponnesian ones, both brought the purpose in subject-matter to something
+greater and more splendid, having chosen to write up neither the history of
+one city nor of one nation, but to gather many and different actions from
+Europe and from Asia into the compass of one treatise (beginning, at any rate,
+from the dynasty of the Lydians he brought the history down as far as the
+Persian War, embracing in one composition all the distinguished actions of
+Greeks and barbarians that happened in the two hundred and twenty years), and
+he also added to the diction the virtues left aside by the historians before
+him.
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+Thucydides, coming after these, neither wished to settle the history upon one
+place, as the circle of Hellanicus did, nor to gather into one history the
+actions accomplished from every land by Greeks or barbarians, imitating
+Herodotus; looking down on the former as cheap and low and not able to benefit
+the readers in many things; and on the latter as greater than could fall into
+a survey of human reasoning according to the most exact of the manners; but
+having taken in hand one war, which the Athenians and the Peloponnesians
+fought against one another, he was eager to write this up; being strong in
+body and sound in mind and living through the whole of it, and not composing
+the actions from chance hearings, but of those at which he himself was
+present, from experience, and of those from which he was left out through the
+exile, inquiring from those who knew them best. First, then, in this he
+differed from the historians before him, I mean in taking a subject neither
+altogether single-membered nor divided into many and unconnected heads; next
+in attaching nothing mythical to it, nor turning the writing aside into deceit
+and bewitchment of the many, as all those before him did, relating certain
+Lamias sent up from the earth in woods and glens, and amphibious Naiads coming
+out of Tartarus and swimming through the sea, and mixed beasts, and these
+coming into company with men, and half-divine offspring from unions of mortals
+and gods, and certain other histories unbelievable for the life among us and
+seeming to have much that is mindless.
+
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+I was led to say these things not blaming those men, but even having much
+forgiveness, if they also took hold of mythical fabrications, publishing
+national and local histories; for among all men both in common by places and
+privately by cities certain memories were preserved even of such hearings, as
+I said, which children succeeding to from fathers made it their care to hand
+on to their descendants, and they thought it right that those who wished to
+bring them into the common should write them as they received them from the
+ancients. For those men, then, it was necessary to variegate the local records
+with mythical episodes. But for Thucydides, who chose one subject at which he
+himself was present, it was not fitting to mix into the narrative the
+theatrical bewitchments, nor to fit himself to the deceit of those who would
+read, which those compositions are of a nature to bring, but to the benefit,
+as he himself has shown in the preface of the history, writing word for word
+thus: /and as to hearing, the non-mythical of them appears rather joyless; but
+as many as shall wish to look at the clear of what has happened, and of what
+is going to be at some time according to the human, such and similar, it will
+be enough to judge them useful; and it is composed as a possession for always
+rather than as a prize-piece for hearing on the spot./
+
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+And it is testified for the man perhaps by all philosophers and orators, or if
+not, by most at least, that he also made the greatest provision for the truth,
+of which we wish history to be the priestess, neither adding to the facts
+anything that is not just nor taking away, nor using license in the writing,
+but keeping the purpose blameless and pure from every envy and every flattery,
+especially in the judgments about good men. For having mentioned Themistocles
+in the first book he has gone through the virtues belonging to him without
+stint, and having taken up the policies of Pericles in the second book he has
+spoken an encomium worthy of the celebrated reputation about him; and being
+compelled to speak about Demosthenes the general and Nicias son of Niceratus
+and Alcibiades son of Cleinias and other generals and orators, he has shown as
+much as was fitting for each. And I have no need to bring examples about them
+for those who have gone through his histories. These, then, one might say are
+the things in which the writer succeeds about the place of subject-matter,
+fine and worthy of imitation. And strongest of all is to tell no falsehood
+willingly nor to stain his own conscience.
+
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+But the things which he constructed more deficiently, and for which some blame
+him, are about the more technical part of the subject-matter, that which is
+called the economic, and is sought in all writings, whether one chooses
+philosophic subjects or rhetorical ones. And these are the things about the
+division and the things about the order and the things about the workings-out.
+I shall begin from the division, saying first that of the historians before
+him, who either portioned the records by places or by times easy to follow, he
+approved neither of these divisions. For neither following the places in which
+the actions were accomplished did he portion the narratives, as Herodotus and
+Hellanicus and certain other historians before him did; nor the times, as
+those who published local history chose, portioning the records either by the
+successions of the kings or by those of the priests or by the circuits of the
+Olympiads or by the magistrates shown forth for the yearly offices. But
+wishing to travel a certain new road, unbeaten by the others, following summer
+and winter seasons he portioned the history. And from this the opposite of
+what he expected has happened to him. For the division of the times has not
+become clearer but harder to follow according to the seasons. At which it is
+worth wondering how it escaped him that, many things happening at once in many
+places, the narrative, being chopped into small cuttings, will not receive
+that /far-shining light/ /and pure/, as becomes clear from the facts
+themselves. In the third book at any rate (for I shall be content with this
+alone), having begun to write the things about the Mytilenaeans, before
+filling out the whole narrative he goes off to the deeds of the
+Lacedaemonians; and not even having rounded these off he mentions the siege of
+the Plataeans; and leaving this too unfinished he mentions the Mytilenaean
+war; then from there he leads the narrative to the things about Corcyra, how
+they stasis-ed, some bringing in the Lacedaemonians, others the Athenians; and
+leaving these too half-finished he says a few things about the earlier
+expedition of the Athenians to Sicily. Then having begun to speak of the
+Athenians' sailing out against the Peloponnese and of the Lacedaemonians'
+expedition against the Dorians he goes over the things done about Leucas by
+Demosthenes the general and the war against the Aetolians; and from there he
+goes off to Naupactus. And leaving the mainland wars also unfinished he takes
+hold of Sicily again, and after this he purifies Delos and the Amphilochian
+Argos being warred upon by the Ambraciots [lost] leaves it. And what need to
+say more? For the whole book is chopped up in this way and has lost the
+continuity of the report. We wander, then, as is likely, and follow with
+difficulty what is shown, the mind being disturbed in the tearing-apart of the
+facts and not easily nor exactly bringing up the half-finished memories of
+what was heard. But the historical treatise ought to be strung together and
+undistracted, especially when it comes to be about many facts and ones hard to
+learn. And that this canon is not right nor proper to history is clear. For
+none of the later writers divided the history by summers and winters. But all
+went over to the beaten roads that are able to lead to clarity.
+
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+And some also blame his order, as having taken neither the beginning of the
+history which he ought nor having fitted to it the fitting end, saying that no
+small part of good economy is both to take a beginning than which there could
+be nothing prior, and to wrap the treatise with an end to which nothing will
+seem to be lacking; of neither of which he has made the fitting provision. And
+the writer himself has furnished them the starting point of this accusation;
+for having said first that the Peloponnesian War became the greatest of the
+wars before him both in length of time and in conjunctions of many sufferings,
+at the end of the preface he wishes first to speak the causes from which it
+took its beginning. And having set these down as two, the true one, not spoken
+to all, the growth of the city of the Athenians, and the one not true, but
+fabricated by the Lacedaemonians, the alliance sent from Athens to the
+Corcyraeans against the Corinthians, he has made the beginning of the
+narrative not from the true one and the one that seemed so to him, but from
+the other, writing word for word thus: /And the Athenians and Peloponnesians
+began it, having broken the thirty-year truces which came to be for them after
+the capture of Euboea. And why they broke them, I wrote the causes first and
+the differences, so that no one may ever seek from what so great a war was set
+up for the Greeks. For the truest pretext, and the most unclear in speech, I
+think the Athenians becoming great and furnishing fear to the Lacedaemonians
+compelled them into the war. And the causes spoken into the open were these.
+Epidamnus is a city to the right as one sails into the Ionian gulf. And
+Taulantian barbarians dwell next to it, an Illyrian nation./ And after this he
+goes through the things about Epidamnus and the things about Corcyra and the
+things about Potidaea and the meeting of the Peloponnesians at Sparta and the
+speeches spoken there against the city of the Athenians. And having stretched
+these as far as two thousand lines, then he renders the account about the
+other cause, the true one and the one that seemed so to him, beginning from
+here: /And the Lacedaemonians voted that the truces had been broken and to
+make war on the Athenians, not so much persuaded by the speeches of the allies
+as fearing the Athenians, lest they become able for something greater, seeing
+already the greater part of Greece subject to them. For the Athenians came
+upon their affairs in such a manner, in which they were increased./ To which
+he adds the deeds of the city, as many as they accomplished after the Persian
+War until the Peloponnesian, in summary and cursorily in fewer than five
+hundred lines. And having recalled that these were prior to the Corcyraean
+events and that the war took its beginning not from those but from these, he
+writes these again word for word: /And after these already, not many years
+later, the things said before come to be, both the Corcyraean and the
+Potidaean and as many as were set up as a pretext of this war. And all these
+things as many as the Greeks did toward one another and toward the barbarian
+happened in about fifty years between the withdrawal of Xerxes and the
+beginning of this war; in which the Athenians both established the empire more
+firmly and themselves went on to a great power, and the Lacedaemonians
+perceiving it neither hindered them, except for a short time, and were quiet
+the greater part of the time, being even before not quick into wars unless
+compelled, and then also being shut out by wars of their own; except that the
+power of the Athenians was clearly being raised and was laying hold of their
+alliance; and then they no longer made it bearable, but it seemed that they
+must attempt with all eagerness, and that the strength must be taken down, if
+they could, by taking up this war./
+
+* Section 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+But he ought, having begun to seek the causes of the war, first to have
+rendered the true one and the one that seemed so to himself. For nature
+demanded that the prior things lead the later, and that the true things be
+spoken before the false, and the entry of the narrative would have become far
+better if it had met with such an economy. For neither could anyone of those
+wishing to defend him say that the facts were small and not worthy of speech,
+or common and worn down by those before him, so that one ought not to make a
+beginning from these. For he himself has supposed this place, as left out by
+the ancients, worthy of history, writing in these very words thus: /And I
+wrote them and made the digression of the argument, because this space was
+left out by all before me; and they either composed the Greek things before
+the Median, or the Median things themselves. And of these, those which
+Hellanicus also took hold of in the Attic writing, he mentioned briefly and
+not exactly as to the times; and at the same time it also has a demonstration
+of the empire of the Athenians, in what manner it was set up./
+
+* Section 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+This too, then, was a sufficient proof that the narrative has not been
+economized by him according to the best manner, I mean its not having the
+beginning according to nature. And there is added to this also its not having
+ended the history at the heads at which it ought. For though the war embraced
+twenty-seven years, and he lived through all this time until its dissolution,
+he brought the history down as far as the twenty-second year, stretching the
+eighth book with the sea-fight about Cynossema, and this though he had said
+beforehand in the preface that he would embrace all the things done in this
+war; and in the fifth book again he sums up the times, from which it began and
+as far as which, having gone forward, it was dissolved, having written these
+word for word: /and for those who asserted something from oracles this alone
+happened firmly. For I always remember, both at the beginning of the war and
+until it ended, it being brought forward by many that it must last three times
+nine years. And I lived through the whole of it, perceiving with my age and
+applying my mind so that I should know something exactly; and it happened to
+me to be in exile from my own for twenty years after the generalship at
+Amphipolis, and being beside both sides of the affairs, and no less with the
+Peloponnesians through the exile, to perceive something of them more in quiet.
+I shall therefore relate the difference after the ten years and the confusion
+of the truces and the things after, how they were warred./
+
+* Section 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+And that he is also less careful about the workings-out of the heads, either
+rendering more speeches than needed to things that need fewer, or running more
+carelessly over things that need more working-out, though I could confirm it
+with many proofs I shall use a few; having begun to write both the first
+sea-fights of the Athenians and Peloponnesians about the end of the second
+book, in which against forty-seven ships of the Peloponnesians with twenty
+ships the Athenians alone [lost] having fought at sea against many times more
+of the barbarians they both destroyed some and took some with their men, not
+fewer than as many as they sent to the war. And I shall set down his diction
+too. /There happened after this also at the river Eurymedon in Pamphylia a
+land-fight and a sea-fight of the Athenians and the allies against the Medes,
+and the Athenians won both on the same day, Cimon son of Miltiades being
+general, and they took triremes of the Phoenicians and destroyed them all, two
+hundred./ And similar in him are also the things about the land battles,
+either lengthened beyond what is needed or gathered into less than the
+moderate. The things done for the Athenians about Pylos, at any rate, and the
+things about the island called Sphacteria, in which having shut the
+Lacedaemonians in they took them by siege, having begun to narrate in the
+fourth book and having narrated alongside in the middle of this war certain
+other actions, then turning again to the rendering of what follows, he has
+gone through all that happened in the battles by both sides exactly and
+powerfully, himself having rendered more than three hundred lines to the
+battles, and this though neither those who perished nor those who gave up
+their arms were many. He himself, at any rate, summing up the things about the
+battle writes word for word thus: /And there died on the island and were taken
+alive so many; four hundred and twenty hoplites in all crossed; of these two
+hundred and ninety-two were brought alive, and the others died. And of these
+the Spartiates were one hundred and twenty of the living, and of the Athenians
+not many were destroyed./
+
+* Section 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+And having mentioned the generalship of Nicias, when bringing sixty ships and
+two thousand Athenian hoplites he sailed against the Peloponnese, and having
+shut the Lacedaemonians into the forts he took by siege those in Cythera and
+the Aeginetans dwelling in Thyrea and ravaged much of the rest of the
+Peloponnese, from which bringing a multitude of captives he sailed away to
+Athens, he has spoken thus cursorily, about the affairs in Cythera: /and a
+battle having happened the Cytherians stood for a certain short time; then
+turning they fled into the upper city and later came to terms with Nicias and
+his colleagues, to leave it to the Athenians about themselves except death./
+And about the capture of the Aeginetans in Thyrea: /And in this the Athenians
+putting in and going at once with the whole army take Thyrea, and they both
+burned the city and plundered what was in it, and bringing the Aeginetans, as
+many as were not destroyed in hands, they arrived at Athens./ And great
+misfortunes having happened about both cities right at the beginning of the
+war, through which both desired peace, about the former, when the Athenians,
+their land having been cut and the city ruined in its household by plague,
+having given up every other help sent an embassy to Sparta begging to obtain
+peace, he has spoken neither the men sent nor the speeches spoken there by
+them nor those who opposed, by whom the Lacedaemonians being persuaded voted
+down the reconciliations; and somehow cheaply and carelessly as about small
+and inglorious affairs he has said these things: /And after the second
+invasion of the Peloponnesians the Athenians, as their land had been cut the
+second time and the disease pressed together with the war, were altered in
+their minds, and they held Pericles in blame as having persuaded them to make
+war and through him having fallen into the misfortunes; and they were eager to
+yield toward the Lacedaemonians, and having sent certain envoys to them they
+became unsuccessful./ And about the later one, when the Lacedaemonians, having
+set themselves to recover the three hundred taken about Pylos, sent an embassy
+to Athens, he has both spoken the speeches spoken then by the Lacedaemonian
+and gone through the causes through which the truces were not completed.
+
+* Section 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+If, then, on the embassy of the Athenians the showing that embraced the heads
+of what happened was enough, and there was no need of speeches and
+exhortations which the envoys used, the Lacedaemonians having been neither
+persuaded nor having received the truces, why in the world did he not keep the
+same purpose also on those who arrived from Sparta at Athens? For neither did
+those go away having accomplished the peace. And if these needed to be spoken
+exactly, why did he leave those aside carelessly? For it was not, surely, by
+weakness of power that he was shut out from finding and speaking out the
+speeches that were in both. And if indeed by some calculation he chose to work
+out the one embassy, I cannot conjecture on what ground he preferred the
+Laconian to the Attic, the later in times instead of the former and the
+foreign instead of his own and the one that happened on lesser evils instead
+of the one on greater.
+
+And being often compelled to write captures and razings of cities and
+enslavements and other such misfortunes, sometimes he makes the sufferings
+appear so raw and terrible and worthy of laments that he leaves no excess
+either to historians or to poets; and sometimes so low and small that not even
+a mark of terrible things falls into perception for those who read the man.
+And speaking what he has said about the city of the Plataeans and about that
+of the Mytilenaeans and about that of the Melians, I have no need to bring
+those dictions in which he has worked out their misfortunes from the peak of
+his power. But in those in which he runs over and makes the sufferings small
+with it [lost] in many places of the history, I shall mention these: /And
+about these same times the Athenians, having taken the Scionaeans by siege,
+killed those in their prime, and enslaved the children and women and gave the
+land to the Plataeans to dwell./ /And the Athenians again crossing into Euboea
+with Pericles as general subdued it all; and they settled the rest by
+agreement, but having expelled the Hestiaeans they themselves held the land./
+/And the Athenians at this same time removed the Aeginetans from Aegina,
+themselves and women and children, charging them not least with being causes
+of the war for them; and it appeared safer to hold Aegina, lying against the
+Peloponnese, by sending their own settlers./
+
+* Section 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+And one would find many other things through the whole history either having
+met with the peak of working-out and receiving neither addition nor
+subtraction, or carelessly run over and having not even the least indication
+of that skill, especially in the public speeches and in the dialogues and in
+the other orations. Taking thought of which he seems to have left the history
+unfinished, as Cratippus too, who flourished with him and gathered what was
+left aside by him, has written, saying that they had become a hindrance not
+only to the actions but also annoying to the hearers. This, at any rate, he
+says he understood in the last parts of the history and set down no oration,
+many things having happened in Ionia and many in Athens, as many as were done
+through dialogues and public speeches. If, at any rate, one should set the
+first and the eighth book against each other, both would seem to belong
+neither to the same purpose nor to the same power; for the one, embracing few
+and small facts, is full of orations, and the other, composed about many and
+great actions, is scarce of public speeches.
+
+* Section 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+And I for my part have already seemed to find this affection having happened
+to the man even in the orations themselves, so that about the same subject and
+at the same time he sets down those that ought not to have been set, and
+leaves aside those that ought to have been spoken. Such a thing he has also
+done about the city of the Mytilenaeans in the third book; for after its
+capture and the arrival of the captives whom the general Paches sent, two
+assemblies having happened in Athens, he left aside the speeches spoken in the
+former by the popular leaders as not necessary, in which the people voted both
+to kill the captives and the other Mytilenaeans of military age, and to
+enslave the women and children; and those spoken again on the next day by the
+same men, in which a certain repentance stole in upon the many, composed about
+the same subject, he took over as necessary.
+
+* Section 18
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+And the celebrated funeral speech, which he has gone through in the second
+book, by what calculation in the world does it lie in this place rather than
+not in another? For whether in the great misfortunes of the city, in which
+many and good Athenians were destroyed fighting, the customary lamentations
+over them ought to have been spoken, or upon the great successes from which
+some distinguished reputation or power came to be for the city the dead ought
+to be honored with funeral praises, in whichever book one wishes rather than
+in this it was fitting for the funeral speech to have been spoken; for in this
+those Athenians who fell in the first invasion of the Peloponnesians were
+altogether few, and not even these having done any splendid deed, as
+Thucydides himself writes; for having said first about Pericles that /he
+guarded the city and kept it through quiet as much as he could; yet he always
+sent out certain horsemen so that forerunners from the army falling into the
+fields near the city might not do harm/, he also says a short cavalry fight
+happened /in Phrygia of one troop of the Athenian horsemen and Thessalians
+with them against the horsemen of the Boeotians; in which the Thessalians and
+Athenians had not the worse, until, the hoplites having come to help the
+Boeotians, a rout of them happened, and not many of the Thessalians and
+Athenians died; yet they took them up the same day without a truce; and the
+Peloponnesians set up a trophy on the next day./ But in the fourth book those
+who contended with Demosthenes about Pylos against a force of Lacedaemonians
+both from land and from sea and won in both battles, through whom the city was
+filled with boasting, were far more and stronger than those. Why in the world,
+then, over the few horsemen who acquired neither reputation nor power for the
+city does the writer open the public burials and bring in Pericles, the most
+distinguished of the popular leaders, arranging that high tragedy; and over
+the more and stronger, through whom those who brought the war out against them
+submitted to the Athenians, who were more suitable to obtain this honor, he
+did not make the funeral speech? And that I may leave aside all the other
+battles both by land and by sea, in which many were destroyed, whom it was far
+more just to adorn with funeral praises than the patrols of Attica, horsemen
+ten or fifteen, those who died in Sicily with Nicias and Demosthenes of the
+Athenians and the allies, in the sea-fights and in the contests by land and
+last in the wretched flight, being not fewer than forty thousand and not even
+able to obtain the lawful burial, by how much more were they more suitable to
+obtain both laments and funeral adornments? But he has so neglected the men
+that he did not even say this very thing, that the city set forth mourning
+publicly and performed the customary offerings for those who died in a foreign
+land and appointed the one who would speak over them, who of the orators then
+was most sufficient to speak. For it was not likely that the Athenians would
+mourn publicly over the fifteen horsemen, and think those who fell in Sicily
+worthy of no honor, among whom, and of those from the roll the destroyed were
+more than five thousand. But the writer seems (for what I think shall be
+said), wishing to make use of the person of Pericles and to compose the
+funeral praise as spoken by that man, since the man died in the second year of
+this war and was present at none of the misfortunes that happened to the city
+after these, to have deposited the praise beyond the worth of the affair upon
+that small deed not worthy of zeal.
+
+* Section 19
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+And one would see still more the unevenness of the writer about the
+workings-out by calculating that, having left aside many and great facts, he
+stretches the preface of the history as far as five hundred lines, wishing to
+show the things done by the Greeks before this war small and not worthy to be
+compared with this. For neither was the truth so, as one can show from many
+facts, nor does the account of the art prescribe to methodize the
+amplifications thus (for it is not if something is greater than the small
+things that it is already great, but if it exceeds the great things); and the
+preface has become for him, having taken so many demonstrative workings-out of
+the proposition, a history itself by itself. And those who have composed the
+rhetorical arts prescribe to make the prefaces samples of the speeches, taking
+beforehand the very heads of what is going to be shown. Which indeed the man
+has also done at the end of the preface, being about to begin the narrative,
+in fewer than fifty lines; so that those many things, also throwing down the
+greatness of Greece, are drawn in by him not necessarily, that at the time of
+the Trojan War Greece was not yet all called by one name, and that those
+lacking food began to cross over in ships against one another and falling upon
+unfortified cities and ones dwelt by villages they plundered and made the most
+of their life from there. And what was necessary to speak about the luxury of
+the Athenians, which they used of old, that they both plaited hair-knots and
+had golden cicadas on their heads? And that the Lacedaemonians /were first
+stripped and, stripping into the open, anointed with oil along with
+exercising/? And the Corinthian shipbuilder Ameinocles who first constructed
+four triremes for the Samians, and Polycrates the tyrant of Samos who took
+Rheneia and dedicated it to Delian Apollo, and that the Phocaeans who settled
+Massalia won a sea-fight against the Carthaginians, and the other things as
+many as are like these, what occasion did they have to be spoken before the
+narrative? And if it is holy and lawful for me to say what I think,
+
+* Section 20
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+it seems to me the preface would have become strongest if he had fitted its
+last part to the proposition, leaving aside all the things in the middle, and
+had constructed it in this manner: /Thucydides an Athenian wrote up the war of
+the Peloponnesians and Athenians, how they warred against one another,
+beginning at once as it was being set up and expecting it would be both great
+and most worthy of account of those that had happened before; inferring that
+they were both at their peak into it with all preparation, and seeing the rest
+of the Greek world standing together toward each, some at once, others also
+intending. For this movement became the greatest for the Greeks and for a part
+of the barbarians, and so to speak also over the most of mankind. For the
+things before them and still older it was impossible to find clearly through
+quantity of time; and from proofs, which it falls out to trust for one looking
+as far as possible, I do not think they became great either according to the
+wars or into the other things; neither trusting more as the poets have hymned
+about them adorning toward the greater, nor as the chroniclers composed toward
+the more attractive for hearing rather than the truer, being untestable and
+most of them having won out unbelievably toward the mythical under time; and
+having thought them found from the most distinguished as being ancient
+sufficiently. And this war, although men, in whatever they war, always judge
+the present greatest, and when they have ceased wonder more at the ancient
+things, will show nonetheless, for those looking from the deeds themselves,
+that it has become greater than them. And as many things as each said in
+speech either being about to war or already being in it, it was hard to
+remember the very exactness of what was said, both for me of those I myself
+heard and for those reporting to me from somewhere else; but as each would
+have seemed to me to say most what was needed about the always present things,
+holding as near as possible to the whole mind of what was truly said, so it
+has been spoken. And the deeds of what was done in the war I did not think it
+right to write from the chance nor as it seems to me, but both those at which
+I myself was present and from the others having gone through about each as far
+as possible with exactness. And it was found laboriously, because those
+present at the deeds did not say the same things about the same, but as each
+had of goodwill or of memory toward either side. And as to hearing perhaps the
+non-mythical of them will appear rather joyless; but as many as shall wish to
+look at the clear of what has happened and of what is going to be again at
+some time according to the human, such and similar, it will be enough to judge
+them useful; and it is composed as a possession for always rather than as a
+prize-piece for hearing on the spot. And of the deeds before, the greatest
+done was the Median; and this nevertheless had its decision in two sea-fights
+and land-fights; but of this war both a great length went forward and
+sufferings happened to come to be in it for Greece such as no others in equal
+time. For neither were so many cities taken and emptied, some by barbarians,
+others by themselves fighting against one another, and there are some that
+also changed inhabitants when captured; nor so many exiles of men and
+slaughter, some according to the war itself, some through being in stasis. And
+the things before spoken of by hearing, but more rarely confirmed in deed,
+became not unbelievable, both about earthquakes, which over the most part of
+earth at once and strongest the same occupied, and eclipses of the sun, which
+happened more densely beside those remembered from the time before, and
+droughts, there are among whom great ones, and from them also famines; and
+that which harmed not least and destroyed a certain part, the pestilential
+disease; for all these together with this war set upon it at once. And the
+Athenians and Peloponnesians began it having broken the thirty-year truces
+which came to be for them after the capture of Euboea. And why they broke
+them, I wrote the causes first and the differences, so that no one may ever
+seek from what so great a war was set up for the Greeks./
+
+* Section 21
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+These, then, are the faults and the successes of the writer about the part of
+subject-matter.
+
+And the things about the diction, in which his character is especially
+manifest, I am about to speak now. And it is perhaps necessary to say first
+also about this form, into how many parts diction is of a nature to be divided
+and what virtues it has embraced; then to show in what condition Thucydides
+received it from the historians who came to be before him, and what parts he
+first of all innovated, whether toward the better or toward the worse, hiding
+nothing.
+
+* Section 22
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+That, then, all diction is divided into two first parts, both into the choice
+of words, by which the facts are shown, and into the composition of the
+smaller and greater members, and that each of these again is divided into
+other members, the choice of the elementary members (I mean the nominal and
+verbal and connective) into the proper phrasing and into the figurative, and
+the composition into the commas and the cola and the periods, and that to both
+of these (I mean both the simple and atomic words and those composed from
+these) there have happened the so-called figures, and that of the so-called
+virtues some are necessary and ought to be present in all speeches, and others
+additional and take their own strength when the first have been laid down, has
+been said by many before. So that there is no need for me to speak about them
+now, nor from what theorems and precepts each of these virtues comes to be,
+there being many; for these too have met with the most exact working-out.
+
+* Section 23
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+And which of them all the historians who came to be before Thucydides used,
+and which they took hold of for a little, taking it up from the beginning, as
+I promised, I shall go through in summary; for thus one will know more exactly
+the peculiar character of the man. What sort of diction, then, the very
+ancient, known from the names alone, practiced, I cannot conjecture, whether
+the plain and unadorned and having nothing superfluous, but the useful and
+necessary things themselves, or the processional and dignified and constructed
+and having taken on the additional ornaments. For neither are the writings of
+most preserved as far as our times, nor are those that are preserved believed
+by all as being of those men; among which are those of Cadmus the Milesian and
+Aristaeus the Proconnesian and those similar to these. And those who came to
+be before the Peloponnesian War and stretched as far as the lifetime of
+Thucydides all had for the most part similar purposes, both those who chose
+the Ionic dialect, which most flourished in those times, and those who chose
+the ancient Attic, having certain small differences beside the Ionic. For all
+these, as I said, were more eager about the proper diction than about the
+figurative, and they took this over as a seasoning, and all practiced a
+similar composition of words, the simple and unstudied, and not even in
+figuring the dictions and the thoughts did they go out far from the beaten and
+common dialect customary to all. The necessary virtues, then, the diction of
+all of them has (for it is also pure and clear and concise sufficiently, each
+keeping the peculiar character of the dialect); but the additional ones, from
+which the power of the speaker especially becomes manifest, neither all nor
+coming to the peak, but few and for a short way, I mean height and beauty of
+speech and solemn speaking and magnificence; nor indeed tension nor weight nor
+passion waking the mind nor the strong and contest-like breath, from which the
+so-called skill comes to be; except one, Herodotus. And this man both in the
+choice of words and in the composition and in the variety of the figurations
+far exceeded the others, and prepared the prose phrasing to become like the
+strongest poetry for the sake of persuasion and graces and pleasure coming to
+the peak; and the greatest and most splendid virtues outside the contest-like
+ones nothing [lost] in these he left lacking, whether not well natured toward
+them or by some calculation willingly looking down on them as not fitting for
+histories. For the man has used neither many public speeches nor contest-like
+arguments, nor does he have his strength in making the facts passionate and
+terrible.
+
+* Section 24
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+Thucydides, then, coming upon this man and the others of whom I made mention
+earlier, and having observed what virtues each of them had, was eager first to
+bring into the historical treatise a certain peculiar character overlooked by
+all; in the choice of words having chosen the figurative and rare and archaic
+and foreign diction instead of that common and customary to the men of his
+time; and in the composition of the smaller and greater members the dignified
+and austere and sturdy and well-set and roughening the ears with the clashes
+of the letters instead of the clear-sounding and soft and polished and having
+nothing clashing; and in the figurations, in which he most wished to differ
+from those before him, having brought in the greatest zeal. He continued, at
+any rate, through the twenty-seven-year time of the war from the beginning
+until the end turning the eight books, which alone he left, up and down and
+filing and chasing each one of the members of the phrasing; and now making a
+phrase out of a noun, now gathering the phrase into a noun; and now expressing
+the verbal as a noun, and again making the noun a verb, and reversing the uses
+of these themselves, so that the proper noun becomes appellative, and the
+appellative is spoken as a proper noun; and the passive verbs active, and the
+active passive; and changing the natures of plurals and singulars and
+predicating these of one another; and joining feminines to masculines and
+masculines to feminines and neuters to some of these, from which the sequence
+according to nature is led astray; and turning the cases of the nominal or
+participial forms now toward the thing signified away from the signifier, now
+toward the signifier away from the thing signified; and in the connective and
+prepositional members and still more in those that articulate the forces of
+the nouns using license in the manner of a poet. And one would find very many
+figures in him altered from the customary by turns of persons and exchanges of
+tenses and transfers of figurative notations, and taking on appearances of
+solecisms; and as many things as become facts instead of bodies or bodies
+instead of facts; and those arguments and thoughts in which the intervening
+insertions, becoming many, fetch the sequence from far off; and the crooked
+and much-entwined and hard to disentangle and the others akin to these. And
+one would find not a few of the theatrical figures lying in him as well, I
+mean the equal clauses and the like-sounding clauses and the word-plays and
+the antitheses, in which Gorgias of Leontini and the circle of Polus and
+Licymnius and many others of those who flourished in his time were excessive.
+And most manifest of him and most characteristic are both the attempt to
+signify the most facts through the fewest words and to compose many thoughts
+into one, and the leaving the hearer still expecting to hear something; by
+which the brief becomes unclear. And that I may speak in summary, there are
+four instruments, as it were, of the diction of Thucydides: the poetic of the
+words, the many-formed of the figures, the rough of the harmony, the speed of
+the significations; and its colors are both the compact and the dense, and the
+bitter and the austere, and the weighty and the skilled and the fearful, and
+above all these the passionate. Such, then, is Thucydides according to the
+character of diction, in which he differed from the others. Whenever, then,
+both his purpose and his power run out together, the successes become complete
+and daemonic; but whenever the part of power falls short, the tension not
+remaining as far as all, through the speed of the report the diction becomes
+unclear and brings on certain other unseemly blights. For the manner in which
+the foreign and coined things ought to be spoken, and as far as how far having
+gone they ought to have ceased, being fine and necessary theorems in all
+works, he does not keep through the whole history.
+
+* Section 25
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+These things having been said in summary, it is time to turn to the proofs of
+them. And I shall not make the argument separately about each form, subjoining
+to them the diction of Thucydides, but according to certain passages and
+places, taking parts both of the narrative and of the orations and setting
+beside the successes or faults of subject-matter and of diction the causes
+through which they are such; asking you again and the other lovers of letters
+who will meet with the writing to look at the wish of my subject which I have
+chosen, that it is an exhibition of character embracing everything that has
+happened to him and needs discussion, having as its aim the benefit of those
+who will wish to imitate the man.
+
+At the beginning of the preface, then, having used a proposition that the
+Peloponnesian War became the greatest of the wars before him, he writes word
+for word thus: /For the things before them and the still older it was
+impossible to find clearly through quantity of time; and from proofs, which it
+fell out for me looking as far as possible to trust, I do not think they
+became great either according to the wars or into the other things. For the
+now so-called Greece appears not of old firmly inhabited, but there being
+removals formerly and each easily leaving their own, being forced by some
+always more. For trade not existing, nor mixing fearlessly with one another
+either by land or through sea, and each dwelling their own as much as to live
+off, and not having surplus of money nor planting land enslaved in mind as
+against Lacedaemonians. Having then despised them and shouted they rushed upon
+them in a mass./ This passage ought not to have been constructed by him in
+this manner, but more commonly and more usefully, the last member having been
+added to the first, and the things through the middle having taken the place
+after these. More crooked, then, the phrasing thus figured has become, and
+more skilled, but it would have been clearer and sweeter constructed in that
+way: /And the Lacedaemonians no longer being able to rush out where they fell
+upon them, the light-armed knowing them already slower, gathering and
+shouting, rushed upon them in a mass; having taken on the daring both from the
+sight, that they were many times more, and from their no longer appearing
+similarly terrible to them having despised them, since they had not at once
+suffered things worthy of the expectation, which opinion they had when they
+first disembarked, enslaved in mind as againstLacedaemonians./
+
+* Section 26
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+And the whole circumscription being taken out, all the other things have both
+been named with the most fitted words and been embraced with the most suitable
+figurations, and it has been lacking, so to speak, in no virtue either of
+diction or of subject-matter; which I have no need to number again.
+
+And in the seventh book, narrating the last sea-fight of the Athenians and
+Syracusans, he has named and figured the things done thus: /And Demosthenes
+and Menander and Euthydemus (for these embarked as generals upon the ships of
+the Athenians) having raised from their own camp sailed at once toward the
+barrier of the harbor and the sailing-through left aside, wishing to force
+into the outside. And the Syracusans and the allies putting out beforehand
+with ships similar in number even as before both guarded along the sailing-out
+with a part of them and along the rest of the harbor in a circle, so that they
+might fall upon the Athenians from all sides at once; and the land-force at
+the same time helped them where also the ships were prevailing. And of the
+naval force for the Syracusans Sicanus and Agatharchus led, each having a wing
+of the whole, and Pythen and the Corinthians the middle. And when the other
+Athenians too were joining with the barrier, with the first rush sailing on
+they prevailed over the ships stationed against it and tried to loose the
+closings; and after this, the Syracusans and the allies bearing upon them from
+all sides, the sea-fight happened not only at the barrier but also along the
+harbor; and it was strong and such as no other of those before. For much
+eagerness from the sailors on each side toward sailing on, whenever ordered,
+came to be, and much the counter-craft of the helmsmen and contest against one
+another, and the marines took care, when ship fell upon ship, not to be left
+behind in the things from the deck of the rest of the craft, and each one in
+what he had been assigned hurried himself to appear first. And many ships
+having fallen together in a small space (for these most of all fought at sea
+in a small space; for both together fell little short of being two hundred)
+the rammings-out through there not being backings-water and sailings-through
+became few; and the collisions, as a ship happened to fall upon a ship either
+through fleeing or sailing upon another, were denser. And as long as a ship
+was being brought on, those from the decks used javelins and arrows and stones
+unsparingly upon it; and when they had joined, the marines going into hands
+tried to board one another's ships. And it happened in many places through the
+narrowness that they had rammed others, and themselves been rammed, and two
+about one and in some places even more ships had been fastened together by
+necessity; and for the helmsmen guard of some, and plot against others, not
+according to each one thing, but according to many from all sides, stood
+round, and the great crash from many ships falling together furnished both
+shock and deprivation of the hearing of what the boatswains uttered. For much
+other exhortation and shout from each side came to be for the boatswains both
+according to the craft and toward the naval rivalry; for the Athenians
+shouting to force the sailing-out, and now if ever to take hold eagerly of the
+safety into the fatherland; and for the Syracusans and allies that it was fine
+both to hinder them from fleeing through and, having won, for each to increase
+their own fatherland; and the generals besides of each, if they saw anyone
+backing water not by necessity, calling the trierarch by name asked, the
+Athenians, whether thinking the most hostile land already more their own than
+the sea acquired not through little labor they withdraw; and the Syracusans,
+whether those whom they clearly know the Athenians eager to flee through in
+every way, these they themselves fleeing flee. And the land-force of both, the
+sea-fight having been set up equally balanced, had much contest and tension of
+mind, the one from here rivaling about the already greater glory, and those
+who had come on fearing lest they do still worse than the present. For all
+things for the Athenians being laid upon the ships both the fear over the
+future was like none and through the unevenness they were compelled to have
+the view of the sea-fight from the land; for the watching being through a
+short space and not all looking at once into the same, if some saw somewhere
+their own prevailing, they would take heart and turn toward calling on gods
+not to deprive them of safety; and those looking upon the beaten used
+lamentation together with a shout and from the sight of what was being done
+enslaved their mind even more than those in the deed; and others looking off
+toward some even part of the sea-fight, through the undecided continuity of
+the contest, and with their bodies themselves nodding along fearfully equal to
+the opinion, passed the time in the hardest; for always they either fled
+through or were destroyed by a little. And there was in the army of the
+Athenians, while they fought at sea nearly equal, all together to hear,
+lamentation shout, winning being overpowered, and as many other things as in a
+great danger a great camp would be compelled to utter in many forms. And
+similar things those upon the ships also suffered with them, until at last the
+Syracusans and the allies, the sea-fight having held out for long, both routed
+the Athenians and pressing on splendidly, using much cry and mutual
+exhortation, pursued them to the land. Then the naval force, some one way some
+another, as many as were not taken out at sea, having been brought down fell
+out into the camp. And the land-force no longer differently, but from one
+impulse all, groaning and moaning, bearing what was happening hard, some went
+to help the ships, others toward the rest of the wall into guard; and others
+and the most already looked about themselves and where they would be saved.
+And there was in the moment a shock less than none of all. And they had
+suffered and done similar things themselves at Pylos; for the ships of the
+Lacedaemonians having been destroyed there were destroyed in addition also the
+men on the island who had crossed. And then for the Athenians it was unhoped
+that they would be saved by land, unless something happened contrary to
+reason. And the sea-fight having become strong and many ships and men having
+perished for both, the Syracusans and the allies having prevailed took up the
+wrecks and the dead and having sailed off toward the city set up a trophy./
+
+* Section 27
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+To me, then, these and the things similar to these appeared worthy of zeal and
+of imitation, and I was persuaded that the grandeur of speech of the man and
+the beauty of speech and the skill and the other virtues are most complete in
+these works, inferring that every soul is led by this kind of diction, and
+neither the irrational criterion of thought, by which we are of a nature to
+grasp pleasant or painful things, is alienated toward it, nor the rational,
+upon which the fine in each art is distinguished; nor would those not very
+experienced in political speeches be able to say at what word or figure they
+are displeased, nor would those very extra and looking down on the ignorance
+of the many blame the construction of this diction, but both that of the many
+and that of the few will have the same supposition; that bulk layman, at any
+rate, will not be displeased at the vulgar and crooked and hard to follow of
+the diction; and the rare craftsman not even coming to be from the chance
+training will not blame the ignoble and cheap and unconstructed. But the
+rational and the irrational criterion will be in concert, by both of which we
+think it right that all things be judged according to the arts. [lost] works
+the one, the other no longer renders fine nor complete.
+
+* Section 28
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+I at any rate do not know how I am to praise those things that seem to some to
+be great and wonderful, as many as do not even have the first and most common
+virtues, but have been won out by the overwrought and extra so as to be
+neither pleasant nor useful; of which I shall furnish a few samples, setting
+beside each at once the causes through which they have been turned round into
+the vices opposite to the virtues. In the third book, then, going through the
+raw and unholy deeds about Corcyra that happened through the stasis against
+the most powerful from the people, as long as he shows the things done in the
+common and customary manner of the dialect, he has spoken everything clearly
+and concisely and powerfully; but having begun to tragedize the common
+misfortunes of the Greeks and to alter the thought out of those in habit he
+becomes himself worse than himself by a long way. And the first things, of
+which no one would take hold as having gone wrong, are these: /And the
+Corcyraeans perceiving both the Attic ships sailing toward them and those of
+the enemies gone, taking the Messenians they led them into the city, they
+being outside before, and ordering the ships which they had manned to sail
+round into the Hyllaic harbor, while they were being brought round, if they
+took any of the enemies they killed them, and from the ships as many as they
+persuaded to embark, putting them out they destroyed them; and going to the
+Heraeum they persuaded about fifty men of the suppliants to undergo trial and
+they condemned all to death; and the many of the suppliants, as many as were
+not persuaded, as they saw what was happening, destroyed one another in the
+sanctuary, and some hanged themselves from the trees, and others did away with
+themselves as each could. And for seven days, which Eurymedon remaining with
+the sixty ships when he arrived stayed, the Corcyraeans murdered those of
+themselves who seemed to be enemies, bringing the charge against those
+dissolving the people; and some died also for the sake of private enmity, and
+others of money owed them by those who had taken it. And every form of death
+was set up, and such as is wont to happen in such a thing, nothing that did
+not happen, and still further; for even a father killed a child, and they were
+torn from the sanctuaries and killed at them, and some also, having been
+walled round in the sanctuary of Dionysus, died. So raw the stasis went
+forward, and it seemed more so, because it happened among the first; since
+later indeed, so to speak, all the Greek world was moved, there being
+differences everywhere both for the leaders of the peoples to bring in the
+Athenians and for the few the Lacedaemonians./
+
+* Section 29
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+And the things which he adds to these, crooked and hard to follow and having
+the entwinings of the figurations appearing solecistic and practiced neither
+by those who came to be in that life nor by those later, when political power
+most flourished; which I am about to speak now: /stasis-ed then the things of
+the cities, and the things lagging behind somewhere by later-learning of what
+had happened before brought on much the excess of innovating the thoughts both
+by over-crafting of the attempts and by strangeness of the punishments./ In
+these the first of the cola has been circumlocuted toward nothing necessary:
+/stasis-ed then the things of the cities/; for it was healthier to say /the
+cities stasis-ed/. And what is said upon this: /and the things lagging behind
+somewhere is hard to conjecture/; and it would have become clearer spoken
+thus: /and the cities coming later/. To which is laid: /by later-learning of
+what had happened before brought on much the excess into innovating the
+thoughts/; for he wishes to say: /and those lagging behind, inquiring later
+the things that had happened among others, took excess toward thinking
+something newer/; and apart from the entwining not even the figurations of the
+words are pleasant to the ears. To these he adds another head more proper to
+poetic, or rather dithyrambic, contrivance: /both by over-crafting of the
+attempts and by strangeness of the punishments; and they exchanged the
+accustomed valuation of names into the deeds by the justification./ For what
+he wishes to show in the hard-to-disentangle entwining is such: /they took
+much increase into thinking something newer about the crafts of the attempts
+and about the excesses of the punishments; and transferring the names
+accustomed to be spoken upon the facts they thought it right to call them
+otherwise./ And the /over-crafting/ and the /strangeness of the punishments/
+and the /accustomed valuation of names/ and the /justification exchanged into
+the deeds/ is more proper to poetic circumlocution. To which he adds these
+theatrical figures: /for unreasoning daring was thought comrade-loving
+manliness, and forethoughtful delaying seemly cowardice/; for both of these
+contain like-soundings and equal clauses, and the epithets lie for the sake of
+adornment; for the neither theatrical [lost] but necessary figure of the
+diction would have been such: /for they called the daring manliness, and the
+delaying cowardice./ And similar to these are also the things joined: /and the
+temperate the pretext of the unmanly, and the intelligent toward all idle upon
+all/; and it would have been spoken more properly thus: /and the temperate
+unmanly, and the intelligent toward all idle in all./
+
+* Section 30
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+If having gone forward as far as these he had ceased, adorning some things and
+hardening the diction in others, he would have been less annoying. But as it
+is he adds: /and safety to have plotted, a reasonable pretext of turning away.
+And the one being harsh always trusted, and the one speaking against him
+suspected./ For in these again it is unclear whom he wishes to show as the one
+being harsh and about what, and whom the one speaking against and upon what.
+/And someone having plotted/ he says /and hitting is intelligent, and having
+suspected still more terrible; and having planned beforehand so that he will
+need nothing for himself, a dissolver of the companionship and struck out of
+his wits by the opponents./ For neither does the /hitting/ indicate more what
+he wishes to show, nor can the same man be thought at once both hitting and
+having suspected, if at any rate the one who hit is spoken of the one who
+succeeded and hit upon what he hoped, and the one who suspected of the one who
+perceived beforehand the evil not yet done but still going to be. And the
+thought would have been pure and far-shining thus: /and those plotting against
+others if they succeeded, skilled; and those suspecting the plots beforehand
+if they guarded against them, still more terrible; and the one who looked
+ahead so that he would need nothing for himself, neither plot nor guard,
+seemed both to dissolve the companionships and to have been struck out of his
+wits by the opponents./
+
+* Section 31
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+And having added to these one period spoken crookedly and powerfully together
+with the clearly: /and simply the one who anticipated the one going to do some
+evil was praised, and the one who urged on the one not intending/ he will use
+again a poetic transfer: /and moreover the kindred became more alien than the
+companionable through being readier to dare without pretext./ For the
+/kindred/ and the /companionable/ lying instead of the kinship and the
+companionship have been transferred; and the /daring without pretext/ is
+unclear, whether it now lies upon the friends or upon the kinsmen. For having
+rendered a cause through which they judged the kinsmen more alien than the
+friends, he adds that they furnished daring without pretext. And the argument
+would have been clear if he had brought it out in this manner, figuring
+according to his own wish: /and moreover the companionable became more
+intimate than the kindred through being readier to dare without pretext./ And
+the things upon these have also been circumlocuted, and have been reported
+neither strongly nor clearly: /for not with benefit of the lying laws were
+such meetings, but beside the established with greed./ The mind is such: /for
+not upon the benefits according to law did the meetings of the companionships
+happen, but upon getting some advantage beside the laws./ /And oaths/ he says
+/if anywhere they happened of exchange, in the immediate, being given toward
+the resourceless for each, had strength, they having power from nowhere else/;
+in these both a hyperbaton and a circumlocution; for the /oaths of the
+exchange/ have the thing signified such: /and the oaths about friendship if
+anywhere they happened/. And the /had strength/ lying through hyperbaton
+follows the /immediate/, for he wishes to show /in the immediate they had
+strength/; and the /being given toward the resourceless for each, they having
+power from nowhere else/ would have been clearer brought out thus: /through
+having no other power being given according to the resourceless for each/. And
+the consistent of the thought would have been such: /and the oaths about
+friendship if anywhere they happened, being given by lack of other trust for
+each, had strength on the spot./
+
+* Section 32
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+And more crooked than these are also the things he sets after these: /and in
+the happening-by the one who anticipated to dare if he saw unfenced, more
+pleasantly through the trust took vengeance than from the open; and he both
+calculated the safe, and that prevailing by deceit he took on in addition a
+contest of intelligence;/ the /happening-by/, then, lies instead of the /on
+the spot/, and the /unfenced/ instead of the /unguarded/, and the /more
+pleasantly to take vengeance through the trust rather than from the open/ has
+been circumlocuted darkly, and some member is lacking for the thought to be
+filled out. And one can conjecture that he wishes to say this: /and if
+somewhere an occasion happened by for someone and he learned the enemy
+unguarded, he took vengeance more pleasantly, because he set upon one who
+trusted rather than one who was on guard; and he took on in addition a
+reputation of intelligence, both calculating the safe and that through the
+deceit he prevailed over him./ /And more easily the many being evil-doers/ he
+says /have been called clever than ignorant good, and at the one they are
+ashamed, and at the other they exult/; for these have been spoken crookedly
+and briefly, and have the thing signified lying in the unclear. For it is hard
+to learn whom in the world he thinks the ignorant and good; for if they are
+set against the evil-doers, those who are not evil would not be ignorant; and
+if he sets the ignorant upon the mindless and foolish, on what ground in the
+world does he call these good? /And at the one they are ashamed/ who? For it
+is unclear whether both or the ignorant. /And at the other they exult/ and
+here too unclear, who; for if he sets it upon both, it has no mind; for
+neither do the good exult at the evil-doers nor are the evil-doers ashamed at
+the ignorant.
+
+* Section 33
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+This character of the unclear and entwined diction, in which there is more of
+the annoyance that darkens the thought than of the charming, is stretched as
+far as a hundred lines. And I shall set down also what follows, adding no
+longer any diction of my own: /And of all of them the cause was rule through
+greed and love of honor, and from them, they being set also into rivalry, the
+eagerness. For those who stood forth in the cities, each with a seemly name,
+the one of political equality of the multitude and the other by preference of
+temperate aristocracy, making the common things in speech a care made them
+prizes; and contending in every manner to prevail over one another they both
+dared the most terrible things and went through the punishments still greater,
+not adding as far as the just and the advantageous for the city, but limiting
+them into what always had pleasure for each somewhere; and either with an
+unjust vote of condemnation or by hand acquiring the prevailing they were
+ready to fill out the immediate rivalry. So that neither observed piety, but
+with seemliness of speech those for whom it fell out to accomplish something
+invidiously were better spoken of; and the middle of the citizens were
+destroyed by both, either because they did not contend out or because by envy
+of prevailing. Thus every form of bad-character was set up through the staseis
+for the Greek world; and the simple, of which the noble has the most share,
+being laughed at disappeared; and the being arrayed against one another in
+mind distrustfully carried it for long. For there was neither firm speech that
+would dissolve nor fearful oath. And all being stronger by calculation toward
+the unhoped of the firm looked ahead more not to suffer than they were able to
+trust. And those poorer in mind for the most part prevailed. For through
+fearing both their own deficient and the intelligence of the opponents, lest
+they be lesser in speeches and from the many-turned of their mind they
+anticipate being plotted against beforehand, they went boldly toward the
+deeds; and those despising, even if they perceived beforehand, and that in
+deed they needed to take nothing which is possible by mind, unfenced they were
+more destroyed./ Though still able from many examples to make it clear that he
+is stronger in the narratives when he remains in the customary and common
+character of the dialect, and worse when he turns the dialect out of the
+customary toward the foreign words and forced figures, some of which furnish
+an opinion of solecisms, I shall be content with these, so that the writing
+may not go forward for me beyond what is needed.
+
+* Section 34
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+And since I also promised to make clear my views about his public speeches, in
+which some think the peak of the writer's power to be, dividing this
+contemplation too in two, into the part of subject-matter and into the
+diction, I shall make the argument separately about each, beginning from the
+subject-matter. In which the first share belongs to the finding of the
+arguments and thoughts, and the second to the use of what has been found; the
+former having its strength more in nature, and this latter in art. Of these
+the one that has more of the natural than of the technical and needs less
+teaching is a certain wonderful thing in the writer; for he brings as from a
+rich spring a boundless quantity of thoughts and arguments extra and foreign
+and paradoxical. And the one that has more of the technical and makes the
+other appear more splendid is more lacking than needed upon many. Those, then,
+who have wondered at him beyond the moderate, as differing in nothing from the
+god-inspired, seem to have had this affection through the multitude of the
+arguments. Whom if one teaches, setting the argument beside each fact, that
+these were not suitable to be spoken at this time and by these persons, and
+these not upon these facts nor as far as this, they are displeased, suffering
+something similar to those overpowered by some sight or other with a love not
+far from madness. For those men think all the virtues, as many as come to be
+about seemly forms, to belong to those that have enslaved them, and they have
+put forward as envious and sycophants those who attempt to reproach, if some
+blemish belongs about them; and these, stunned in thought by this one virtue,
+testify to the writer all things even those that are not present; for what
+each wishes to be about what is loved and wondered at by himself, these he
+thinks. But as many as keep the thought unbribed and refer the examination of
+the speeches to the right canons, whether having partaken of some natural
+judgment or also through teaching having constructed the criteria strong,
+neither praise all equally nor are displeased at all, but assign to the
+successes the fitting testimony, and if some part has been missed in them,
+they do not praise.
+
+* Section 35
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+I at any rate, setting down canons upon all my own theorems, neither before
+shrank from bringing my views into the open nor now shall I turn away.
+Granting, then, the first, as I also said at the beginning, the well-aimed of
+the writer about the finding, and thinking that if anyone has supposed
+otherwise, whether through rivalry or through insensibility, he goes wrong, I
+no longer grant the other, the technical of him about the economies, except
+upon very few public speeches. And I see also the deficiencies about the
+diction, about which I have already spoken before, having happened most and
+greatest to these forms; for both the rare and foreign and coined dictions
+surface especially in these, and the much-entwined and crooked and forced
+figures are most about these. And whether I have known the likely things, both
+you will judge and each of the others being led to the examination of the
+works. And the setting beside of them will be according to the same, they
+being set against those that seem to me to be best of those neither succeeding
+according to the economies nor unblamed according to the phrasing.
+
+* Section 36
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+In the second book, then, having begun to write the march of the
+Lacedaemonians and the allies upon Plataea, he sets down, the king of the
+Lacedaemonians Archidamus being about to ravage the land, envoys having
+arrived from the Plataeans toward him, and he renders speeches such as it was
+likely had been spoken by both, fitting to the persons and proper to the facts
+and neither falling short of the moderate nor exceeding, and he has adorned
+them with diction pure and clear and concise and having the other virtues; and
+he has rendered the harmony so in-tune as to be set beside the sweetest at
+once: /And of the following summer the Peloponnesians and the allies did not
+invade into Attica, but they campaigned against Plataea; and Archidamus son of
+Zeuxidamus, king of the Lacedaemonians, led; and having seated the army he was
+about to ravage the land. And the Plataeans at once sending envoys toward him
+spoke such things: Archidamus and Lacedaemonians, you do things neither just
+nor worthy either of you or of the fathers of whom you are, campaigning into
+the land of the Plataeans. For Pausanias son of Cleombrotus, a Lacedaemonian,
+having freed Greece from the Medes with the Greeks who were willing to take up
+the danger and the battle which happened beside us, having sacrificed in the
+marketplace of the Plataeans sacred things to Zeus the Liberator and having
+called together all the allies, gave back to the Plataeans to dwell their own
+land and city holding them autonomous, and that no one ever campaign unjustly
+against them nor upon slavery; and if not, that the allies present help
+according to power. These things your fathers gave us for the sake of virtue
+and eagerness that happened in those dangers. And you do the opposite of
+those; for with the Thebans, our most hated, you have come upon our slavery.
+And making witnesses the gods who then became of the oaths and your ancestral
+ones and our native ones we say to you not to wrong the Plataean land nor to
+transgress the oaths, but to allow them to dwell autonomous, as Pausanias
+judged just. Such things the Plataeans speaking, Archidamus answers such: You
+speak just things, men of Plataea, if you do things similar to the speeches.
+For just as Pausanias handed over to you, both be autonomous yourselves and
+help to free the others, as many as having shared in the dangers then both
+swore with you and are now under the Athenians; and so great a preparation and
+war has come to be for the sake of them and of the freeing of the others. Of
+which most of all sharing yourselves too remain in the oaths. And if not, what
+we already before challenged, keep quiet dwelling your own; and be with
+neither, and receive both as friends, but neither upon war. And these will
+suffice for us. So much Archidamus spoke. And the envoys of the Plataeans
+having heard these things went into the city; and having communicated the
+things spoken to the multitude they answered him that it was impossible for
+them to do what he challenged, without the Athenians; for their children and
+women were beside those. And they feared also about the whole city, lest when
+those had withdrawn the Athenians coming not permit them, or the Thebans, as
+being bound by oath according to the receiving both, again try to seize their
+city. And he encouraging them toward these said: And you hand over city and
+houses to us the Lacedaemonians, and show the boundaries of land, and your
+trees and if anything else is able to come into number; and yourselves move
+away wherever you wish, until the war is; and when it has passed, we shall
+give back to you whatever we receive; and until this we shall hold it as a
+deposit for you, working it and bringing a rent, which is going to be
+sufficient for you. And they having heard went again into the city, and having
+deliberated with the multitude they said that they wish first to communicate
+to the Athenians what he challenges, and if they persuade them, to do these
+things. And until this they ordered him to make a truce with them and not to
+ravage the land. And he made a truce of days in which it was likely they would
+be brought, and he did not cut the land. And the Plataean envoys going to the
+Athenians and having deliberated with them came again announcing to those in
+the city such things: Neither in the time before, men of Plataea, from which
+we became allies, do the Athenians say they have given you up in anything when
+wronged, nor now will they overlook it, but will help according to power; and
+they enjoin you by the oaths which the fathers swore to make no innovation
+about the alliance. Such things the envoys announcing, the Plataeans
+deliberated not to betray the Athenians, but to hold out even seeing the land
+being cut, if it must be, and suffering anything else that may fall out; and
+that no one still go out, but from the wall to answer that it is impossible
+for them to do what the Lacedaemonians challenge. And when they answered, from
+there first Archidamus the king was set into calling to witness both gods and
+heroes of the natives, speaking thus: Gods as many as hold the Plataean land,
+and heroes, be joint-knowers that neither at the beginning unjustly, these
+having left the sworn compact first, did we come upon this land, in which our
+fathers having vowed to you prevailed over the Medes and you furnished it
+kindly for the Greeks to contend in, nor now if we do something shall we do
+injustice; for having challenged many and likely things we do not obtain. And
+be forgiving of the injustice being punished for those who began first, and of
+obtaining vengeance for those who bring it on lawfully. So much having called
+on the gods he set the army into war./
+
+* Section 37
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+Let us examine, then, beside this dialogue that is so fine and extra another
+dialogue of his, which those who wonder at this character praise most. He sets
+down, then, the Athenians having sent an army against the Melians, colonists
+of the Lacedaemonians, before beginning the war, the general of the Athenians
+and the counselors of the Melians coming together into speeches about
+dissolving the war; and at the beginning from his own person he shows the
+things said by each, and having kept this figure, the narrative one, upon one
+answer, he personifies the dialogue after these and dramatizes it. And the
+Athenian begins speaking these things: /since the speeches are not becoming
+toward the multitude, so that the peoples may not, having heard in a
+continuous speech attractive and untested things once, be deceived by us (for
+we know that this is what our leading toward the few thinks,) you who sit in
+front will still do more safely. And do not you either in a short space but
+toward what does not seem to be spoken suitably taking it up at once judge;
+and first, if it pleases as we speak, say./ And the sitting-together of the
+Melians answered: /the fairness of teaching one another in quiet is not
+blamed; but the things of the war already present and not going to be you show
+differing of it./ This last, if anyone thinks it right to bring among the
+figures, would he not be too soon in calling all the solecisms, as many as
+happen contrary to the numbers and contrary to the cases, figures? For having
+set forth /the fairness of teaching in quiet is not blamed,/ then having
+joined to the singular and brought out according to the nominative case /but
+the things of the war already present and not going to be/ he yokes to these a
+singular and figured according to the genitive case, whether one wishes to
+call it a demonstrative article or a pronoun, the /of it/; and this neither
+being fitted to the feminine and singular and nominal keeps the sequence, nor
+to the plural and neuter and figured according to the accusative case. And the
+argument would have been consistent figured thus: /the fairness of teaching
+one another in quiet is not blamed, but the things of the war already present
+and not going to be appear differing of it./ To these he adds an argument
+thought not out of place, but interpreted not easily to follow: /If then
+calculating suspicions of the things going to be or you have come together
+something else, or from the present and what you see having deliberated about
+safety for the city, we cease; and if uponthis, we would speak./
+
+* Section 38
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+And after this, having turned the dialogue of the narrative upon the dramatic,
+he makes the Athenian answering these things: /It is likely and forgivable,
+those set in such a thing, to turn upon many both speaking and seeming./ Then
+having set down a well-figured proposition /yet the meeting is already present
+also about safety, and let the argument, in the manner in which you challenge,
+if it seems, come to be/ he has first spoken an argument neither worthy of the
+city of the Athenians nor fitting to be spoken upon such facts /We then
+neither ourselves with fine names, as either justly having dissolved the Mede
+we rule, or being wronged we now go through, shall furnish an unbelievable
+length of speeches;/ and this is of one agreeing the campaign against those
+doing no wrong, since he wishes to hold the argument about neither of these;
+to which he adds /nor do we think it right that you either that being
+colonists of the Lacedaemonians you did not campaign with them or that you
+have done us no injustice, speaking, think you will persuade, but to
+accomplish the possible things from which each of us truly thinks./ And this
+is: /you truly thinking that you are wronged, bear the necessity and yield;
+and we not being ignorant that we wrong you, shall prevail over your weakness
+by force; for these are possible for each./ Then wishing to render the cause
+of this he says in addition: /that just things in the human argument are
+judged from equal necessity, and possible things the foremost do and the weak
+yield./
+
+* Section 39
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+For these things it was fitting for barbarian kings to speak toward Greeks;
+but for Athenians toward the Greeks whom they freed from the Medes it was not
+proper to have been spoken, that the just things are for equals toward one
+another, and the violent for the strong toward the weak. And the Melians
+having answered few things toward these, that it would be well for the
+Athenians to provide for the just, lest they too at some time having slipped
+under others come into power and suffer the same things under the stronger, he
+makes the Athenian answering /And we of our empire, even if it be stopped, are
+not disheartened at the end/, and rendering a cause of this, that even if the
+Lacedaemonians dissolve their empire, they will have forgiveness, themselves
+also doing many such things. And I shall set down his diction too: /For not
+those who rule others, as also the Lacedaemonians, these are terrible to the
+conquered./ And this is similar to saying that among tyrants tyrants are not
+hated. To which he adds /and about this let it be left for us to be
+endangered,/ which scarcely one of the pirates or robbers would have said /I
+turn toward none of the punishment after these, having gratified desires in
+the present./ Then, few of the exchanges in between having happened and the
+Melians coming down into a fair choice /so as for us keeping quiet to be
+friends instead of enemies, and allies of neither, would you not receive it?/
+he makes the Athenian answering /For your enmity does not harm us so much as
+the friendship being a sample of weakness, and the hatred of power, being
+shown to the subjects/, an evil argument and reported crookedly; and if one
+wishes to look at the thought of it, it is such, that /loving us you will make
+us appear weak toward the others, and hating strong; for we do not seek to
+rule by goodwill of the subjects, but by fear./
+
+* Section 40
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+Having added to these other exchanges again overwrought and bitter, he sets
+the Melians speaking that enemies bear common fortunes and /to yield at once
+is unhoped, but with the thing being done there is still hope also to stand
+upright./ Toward these he makes the Athenian answering things more crooked
+than labyrinths about hope coming to be for men upon evil, writing word for
+word thus: /And hope being a consolation of danger, those using it from
+surplus even if it harms has not taken them down; but for those who throw upon
+all that they have (for it is expensive by nature) it is known at once when
+they have slipped, and in what one will guard against it when it has been
+recognized, it does not leave off. Which you being weak and upon one look do
+not wish to suffer nor to be made like the many, for whom, it being still
+possible to be saved humanly, whenever the clear hopes leave them being
+pressed, they are set upon the unclear, both divination and oracles and as
+many such things as with hopes do outrage./ These I do not know how anyone
+would praise as having been spoken fittingly for generals of Athenians, that
+the hope from the gods does outrage to men and that there is benefit neither
+of oracles nor of divination for those who have chosen the pious and just
+life. For if anything else, this too is among the first encomia of the city of
+the Athenians, to follow the gods about every affair and in every time and to
+complete nothing without divination and oracles. And the Melians saying that
+with the help from the gods they have also trusted the Lacedaemonians, whom if
+through nothing else, at least through the shame they will help them and will
+not overlook kinsmen being destroyed, he brings in the Athenian answering
+still more self-willed: /Of the goodwill toward the divine, then, we too do
+not think we shall be left behind; for nothing outside of the human, and of
+the indignation into the divine and of the wishes toward themselves, do we
+judge or do. For we think both the divine by opinion and the human clearly
+through all from nature necessarily, wherever it prevails, to rule/; the mind
+of these is hard to conjecture even for those who seem to be very experienced
+of the man, and it is locked into some such end, that all know the divine by
+opinion, and they judge the just things toward one another by the common law
+of nature; and this is to rule of whomsoever one is able to prevail. These too
+are consistent with the first and neither for Athenians nor for Greeks fitting
+to have been spoken.
+
+* Section 41
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+Though still able to furnish many thoughts having the intelligent as evil, so
+that the argument may not become more than the moderate for me, I shall take
+over in addition the last addition only, which the Athenian spoke departing
+from the meeting: /but of you the strong things being hoped are delayed, and
+the present things short toward already having been arrayed against to
+prevail. Much unreason/ he says /of thought you furnish, if not having moved
+us away you will know something else of these more temperate./ To which he
+adds /For you will not, surely, turn upon the shame that most destroys men in
+shameful and foreseen dangers. For in many still looking ahead into what they
+are being borne the so-called shame of an attractive name drew on the powers,
+they having been worsted by the word, in deed seeing them fall into incurable
+misfortunes./
+
+That of these speeches neither the writer himself had a share, having been
+present then at the meeting, nor did he hear from the Athenians or Melians who
+arranged them, from what he himself writes about himself in the book before
+this, it is easy to learn, that after the generalship at Amphipolis having
+been driven out of the fatherland he spent all the remaining time of the war
+in Thrace. It remains then to look whether he has fabricated the dialogue as
+proper to the facts and fitting to the persons who came together into the
+meeting /holding as near as possible to the whole mind of what was truly
+said/, as he himself has said beforehand in the preface of the history. Were,
+then, just as the speeches about freedom were intimate and proper for the
+Melians, calling the Athenians not to enslave a Greek city doing nothing wrong
+against them, so also for the generals of the Athenians were those about the
+just things fitting, allowing neither to examine nor to speak, but introducing
+the law of force and greed and declaring these to be just for the weak, as
+many as seem good to the stronger? For I do not think it proper for the
+leaders sent from the most well-lawed city upon the cities outside to say
+these things, nor would I think it right that the Melians, small-citied and
+having shown forth no distinguished deed, make more provision of the fine than
+of the safe and be ready to bear all the terrible things, so that they may be
+compelled to do nothing unseemly, and that the Athenians who chose to leave
+both the land and the city in the Persian War, so that they might not submit
+to any shameful command, accuse those who choose the same things as mindless.
+And I think that even if some others attempted to say these things with
+Athenians present, those who tamed the common life would have borne it
+heavily. I then through these causes do not praise this dialogue, setting the
+other against it. For in that one Archidamus the Lacedaemonian both challenges
+the Plataeans with just things and has used diction pure and clear and having
+no tortured figure nor inconsistent; in this one the most prudent of the
+Greeks bring the most shameful arguments, and they embrace them with most
+unpleasant diction; unless perhaps the writer, bearing a grudge against the
+city through the condemnation, scattered these reproaches upon it, from which
+all were going to hate it. For what those who stand forth of the cities and
+are trusted with such powers seem to think and to speak toward the cities on
+behalf of their own fatherland, these all suppose to be common of the city
+that sends them. And about the dialogues enough.
+
+* Section 42
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+And of the public speeches I have wondered at the one spoken in the first book
+at Athens by Pericles about not yielding to the Lacedaemonians, the one having
+this beginning: /Of the mind, men of Athens, I always hold the same, not to
+yield to the Peloponnesians/ as both interpreted daemonically in the arguments
+and annoying the ears neither according to the composition of the members nor
+according to the alteration of the inconsistent and forced figurations, and
+having embraced all the virtues as many as come to be about public speeches;
+and those spoken by Nicias the general at Athens on behalf of the expedition
+to Sicily; and the letter sent by him to the Athenians, in which he needs
+another alliance and a successor, being ill in body from disease; and the
+exhortation of the soldiers which he made before the last sea-fight; and the
+consoling speech, when he was about to lead the army away by land, having lost
+all the triremes; and if there are any other such public speeches pure and
+clear and suitable for the true contests. And above all those borne in the
+seven books I have wondered at the defense of the Plataeans for nothing so
+much as its not having been tortured nor over-studied, but having been adorned
+with a certain true and natural color. For the arguments are full of passion
+and the diction does not turn the ears away; for the composition is
+well-speaking and the figures proper to the facts. These, then, are the works
+of Thucydides to be zealous for, and from these I set it down for those
+writing history to take the imitations.
+
+* Section 43
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+But the defense of Pericles in the second book, which he arranged on behalf of
+himself when the Athenians were growing harsh, because he persuaded them to
+take up the war, I do not praise as a whole; nor the public speeches about the
+city of the Mytilenaeans, which Cleon and Diodotus arranged, those in the
+third book; nor that of Hermocrates the Syracusan toward the Camarinaeans; nor
+that of Euphemus the envoy of the Athenians, the one opposite to this, nor
+those similar to these; for there is no necessity to number all those
+constructed into the same character of dialect. And so that no one may think I
+speak assertions without proof, though able to furnish many trusts I shall be
+content with two public speeches, so that the argument may not become long,
+the defense of Pericles and the accusation of Hermocrates toward the
+Camarinaeans against the city of the Athenians.
+
+* Section 44
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+Pericles, then, says these things: /And for me expecting them the things of
+your anger have come to be toward me (for I perceive the causes,) and I
+gathered an assembly for the sake of this, so that I may remind and blame, if
+you are harsh toward me not rightly or you yield to the misfortunes./ These
+were proper for Thucydides writing about the man in a historical figure, but
+for Pericles defending himself toward an irritated crowd they were not
+suitable to have been spoken, and these at the beginnings of the defense,
+before softening the angers of those reasonably burdened at the misfortunes
+with certain other speeches, the strongest land having been cut by the
+Lacedaemonians, and much crowd having perished in the plague, and the war
+having furnished the cause of these evils, which being persuaded by that man
+they took on. And this figure was not the most fitting to the thought, the
+blaming one, but the entreating one; for it is not proper for those speaking
+publicly to irritate the angers of the crowds but to soothe them. To these he
+adds a thought true and reported terribly, yet not useful for the present
+time: /For I think/ he says /a city being set right more as a whole benefits
+the private men than succeeding according to each of the citizens, and being
+slipped as a mass. For a man being borne well as to himself, the fatherland
+being destroyed, is destroyed together no less, and being unfortunate in a
+fortunate one is saved far more./ For if some of the citizens were harmed
+privately, and the common succeeded, he said these well; but since they were
+in the. last misfortunes, all of them, no longer well. For neither did the
+hope about the future, that these terrible things will come to be toward good
+for the city, have something firm; for the future is unclear for a man and the
+fortunes turn the minds about what will be toward the present things.
+
+* Section 45
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+To these he adds a still more vulgar thought and one least fitting to the
+present time: /And yet you are angry at me being such a man, who I think am
+less than no one both to know what is needed and to interpret these, and
+city-loving and stronger than money./ For it is wonderful if Pericles, the
+greatest of the orators then, was ignorant of this, which no one of those
+having a moderate mind would have been ignorant of, that everywhere those who
+praise their own virtues not measuredly appear burdensome to the hearers, and
+especially in the contests toward the courts and the assemblies, in which at
+any rate the danger for them is not about honors but about punishments; for
+then they are not only burdensome to others, but also unfortunate for
+themselves, calling out the envy from the many; and when one has the same men
+as both judges and accusers, he needs countless tears and laments toward this
+very thing first, to be heard with goodwill. And the popular leader is not
+content with these but both works them out further and paraphrases the things
+spoken: /For the one who knew/ he says /and did not teach clearly is in the
+equal even if he did not think it, and the one having both, but ill-minded to
+the city, would not speak something similarly intimately; and this too being
+present, but being conquered by money, he would sell the whole things of this
+one./ I do not know who would agree that, just as these were true, so they
+were also proper to be spoken by Pericles among Athenians irritated toward
+them. And yet the finding of the strongest arguments and thoughts was not
+itself by itself worthy of zeal, unless they were also proper to the facts and
+to the persons and to the times and to all the other things; but as I also
+said at the beginning, the writer showing forth his own mind which he had
+about the virtue of Pericles seems to have spoken these things out of place.
+And he ought himself to declare whatever he wishes about the man, but to
+render to the one in danger the low and entreating speeches of the anger; for
+this was fitting for the writer wishing to imitate the truth.
+
+* Section 46
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+And annoying too are those boyish adornments of the diction and the
+much-entwined figures of the arguments: /And to go to close quarters with the
+enemies and to defend not with pride only, but also with contempt. For pride
+comes to be even from fortunate ignorance also in some coward; but contempt,
+whoever also trusts by mind to exceed the opponents; which belongs to us. And
+the daring from similar fortune the intelligence from the over-proud furnishes
+more fortified; and it trusts less in hope, whose strength is in the
+resourceless; and by mind from the things present, whose forethought is
+firmer./ For the /prides/ are rather frigid and more proper to the purpose of
+Gorgias, and the explanation of the words of both is sophistic and tasteless;
+and the daring which /from similar fortune the intelligence from the
+over-proud furnishes more fortified/ has the showing more unclear than the
+dark things of Heraclitus, and the /strength of hope in the resourceless/ and
+the /firmer forethought of mind from the things present/ have been
+circumlocuted more poetically; for he wishes to say that one must trust the
+mind more, which we take from the present things, than the hopes, whose
+strength is in the future.
+
+* Section 47
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+And I have already thought of that too, that consoling the anger that had
+taken hold of them at the present misfortunes, of which the most happened to
+them both contrary to reason and unexpected, and calling them to withstand the
+misfortunes nobly, not making the valuation of the city disappear, and having
+ceased to feel pain at the private things to take hold of the safety of the
+common, and after this having gone through that holding the empire by sea
+firmly they will be dissolved neither by the king nor by the Lacedaemonians
+nor by any other nation of men (of which the trust was not the present but the
+future, and not having the firm in the forethought but in the hopes), then
+having forgotten these he thinks it right not to trust the hope, whose
+strength is in the resourceless. For these are opposite to one another, if at
+any rate that which pained had the perception already present, and the showing
+of the benefit was still absent.
+
+But just as I do not praise these either according to the part of
+subject-matter or according to the diction, so I have wondered at those as
+thought exactly and interpreted extra and composed pleasantly: /For for those
+for whom a choice has come to be, succeeding in the other things, it is much
+mindlessness to make war; but if it was necessary either yielding at once to
+obey the neighbors or having been endangered to prevail, the one who fled the
+danger is more blameable than the one who withstood; and I am the same and do
+not stand out, but you change, since it fell out for you to be persuaded while
+unharmed, and to repent when being evil-treated./ And still those: /For that
+which is sudden and unexpected and happening with the most contrary-to-reason
+enslaves pride; yet those dwelling a great city and having been reared in
+characters matching it must also be willing to withstand the misfortunes and
+not to make the valuation disappear; for in the equal men think it just both
+to blame, of the reputation that belongs, whoever falls short by softness, and
+to hate, of that which does not belong, the one reaching by boldness./ And
+still these that wake the souls of the Athenians toward the ancestral pride:
+/And it is likely that you help the city in that which is honored from ruling,
+in which you exult above all, and not flee the labors, or not pursue the
+honors either; nor think you are contending about one thing only, slavery
+instead of freedom, but also about deprivation of empire and danger of those
+you became hated in the empire. From which it is no longer possible for you
+even to stand out, if someone even in the present, fearing this, plays the
+brave man in inaction. For you already hold it as a tyranny, which to take
+seems to be unjust, and to let go dangerous/, and the things similar to these,
+as many as have the alterations of the words and of the figures moderate and
+neither overwrought nor hard to follow.
+
+* Section 48
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+And from the public speech of Hermocrates I am able to praise these successes
+of the writer: /But not, then, the city of the Athenians being easy to accuse
+have we now come to show forth among those who know how many wrongs it does;
+but much more we shall accuse ourselves, that having examples of the Greeks
+there, how they were enslaved not helping themselves, and now the same
+sophisms present against us, both settlements of kindred Leontines and aids of
+Egestaean allies, we do not wish, having gathered, more eagerly to show them
+that these are not Ionians nor Hellespontines and islanders, who changing a
+master either Mede or some one always are enslaved, but free Dorians from the
+autonomous Peloponnese dwelling Sicily. Or do we wait until each are taken by
+cities, knowing that in this way only we are capturable?/ For these, being
+spoken in the clear and pure manner of the dialect, have taken on in addition
+also the speed and the beauty and the tension and the magnificence and the
+skill, and are full of contest-like passion; which one would use both in a
+court and in assemblies, and conversing with friends. And still besides these
+those: /And if someone envies or even fears (for he suffers both these the
+greater things,) and through them wishes Syracuse to be evil-treated, so that
+we may be chastened, but to prevail for the sake of his own safety, he hopes a
+wish of no human power. For it is not possible at once for the same man to
+become similarly steward of both the desire and the fortune/, and the things
+lying at the end of the speech: /We beg then and call to witness, if we shall
+not persuade, that we are plotted against by Ionians always enemies, and are
+betrayed by you Dorians of Dorians; and if the Athenians subdue us, they will
+prevail by your minds, and they will be honored with their own name, and of
+the victory they will take no other prize than the one who furnished the
+victory./ These then and the things similar to these I think fine and worthy
+of zeal. And those I do not know how I would praise: /For now into Sicily with
+a pretext, which you learn, but with a thought which we all suspect. And they
+seem to me not to wish to settle the Leontines, but rather to expel us./ For
+the word-play is frigid and not striking passion, but study. And still these
+entwined figures having many coils: /And not about freedom then neither did
+these of the Greeks nor the Greeks of their own stand against the Mede, but
+about this, some of enslavement to themselves but not to that one, others upon
+a change of master not more unintelligent, but more evil-intelligent./ And
+still the saturated of the transfer both from the plural into the singular and
+from the argument about persons into the person of the speaker: /And if it has
+stood beside someone that the Syracusan is, and himself not, an enemy to the
+Athenian, and he thinks it terrible to be endangered on behalf of mine at any
+rate, let him consider not about mine more, but in the equal also about his
+own at once fighting in mine, and by so much also more safely, by how much not
+with me destroyed beforehand, but having me as ally and not deserted he will
+contend; and the Athenian not to have punished the enmity of the Syracusan./
+For these are both boyish and overwrought and more unclear than the so-called
+riddles. And those still besides these: /And if he should miss by mind, having
+lamented at his own evils he would perhaps sometime wish again to envy my
+goods; but it is impossible for one who has given them up and has not been
+willing to take on in addition the same dangers not about the names, but about
+the deeds./ To which he adds an epiphonema not even proper to a boy: /For in
+speech one would save our power, and in deed his own safety./
+
+* Section 49
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+And there are also other things in this public speech worthy of blame, about
+which I have no need to say the more; and I think I have also through these
+made the proposition clear, that of the diction of Thucydides the strongest is
+that which has gone out moderately from the customary and keeps the first and
+necessary virtues, and worse that which takes much turning-out from the common
+words and figures into the foreign and forced and inconsistent, through which
+not even any of the other virtues show forth their own power. For neither in
+the assemblies is this kind of phrasing useful, in which the cities come
+together about to deliberate on behalf of peace and war and introduction of
+laws and order of constitutions and the other common and great things, nor in
+the courts, where about death and exile and dishonor and bonds and taking-away
+of money the arguments are spoken toward those who have taken up the power on
+behalf of these ( [lost] which pain the political crowd not being in habit of
+such hearings,) nor in the private conversations, in which we converse about
+the things of life with citizens or friends or kinsmen, relating something of
+what has happened to ourselves or deliberating about some of the necessary
+things, or admonishing or calling or rejoicing with the goods or grieving with
+the evils; for I forbear to say that not even the mothers and the fathers of
+those conversing thus would bear it through the unpleasantness, but as hearing
+a foreign-nation tongue they would need those who would interpret. These are
+the things of which I was persuaded about the writer, spoken with all truth
+according to my power.
+
+* Section 50
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+And it is necessary also to examine in few words the things said on behalf of
+him by some, so that I may not seem to have left anything aside. That, then,
+this character is suitable neither for the political contests nor for the
+private conversations, all will agree who have not been corrupted in thought
+but have the sensations in that according to nature. And certain not
+inglorious sophists attempt to say that for those prepared toward the crowd
+meetings and speaking the just things this character is not suitable, but for
+those publishing historical treatises, which need both magnificence and solemn
+speaking and striking, it is proper most of all to practice this phrasing, the
+rare and archaic and figurative and altered from the figures in habit toward
+the foreign and extra. For not for marketplace men nor for those on stools or
+handicraftsmen nor for the others who have not shared in a free training are
+these writings constructed, but for men who through the cycle of studies have
+come upon rhetoric and philosophy, to whom none of these will appear foreign.
+And already some have attempted to say that the writer did not aiming at those
+who would be after himself write the histories thus, but at those of his own
+time, for whom the dialect was [lost] useful this character neither for the
+deliberative nor for the forensic contests, in which both those assembling and
+those judging, not such as Thucydides supposed, come together.
+
+* Section 51
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+Toward those, then, who think it belongs to the well-educated alone to read
+and to understand the dialect of Thucydides I have these things to say, that
+they take away from the common life the necessary and useful of the affair
+(for nothing would become more necessary nor more many-benefiting), making it
+thus of altogether few men, as in cities oligarchically ruled or tyrannized;
+for they are easily numbered who are such as to conjecture all the things of
+Thucydides, and not even these without a grammatical explanation some of them.
+And toward those who refer the dialect of Thucydides upon the ancient life as
+being customary to the men then, a short and clear argument is enough for me,
+that of many orators and philosophers who came to be at Athens in the
+Peloponnesian War none of them has used this dialect, neither the orators of
+the circle of Andocides and Antiphon and Lysias nor the Socratics of the
+circle of Critias and Antisthenes and Xenophon. From all these, then, it is
+clear that the man first studied this interpretation, in order that he might
+differ from the other writers. Whenever, then, he uses it measuredly and
+moderately, he is wonderful and comparable to no one nor to another; but
+whenever to satiety and tastelessly, neither distinguishing the times nor
+seeing the quantity, he is blameable. And I would not think it right that the
+historical treatise be dry and unadorned and private-person-like, but having
+something also poetic; nor altogether poetic, but having gone out for a little
+from that in habit; for satiety is painful even of the very pleasant things,
+and due measure is useful everywhere.
+
+* Section 52
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+One argument still remains for me, that about the orators and writers who
+imitated the man, being necessary, as any other also, for the completion of
+the subject, but furnishing us a certain shrinking and much caution, lest we
+furnish some starting point of slander to those accustomed to sycophant
+everything, alien to the fairness which we have used both about the speeches
+and about the characters; to whom we shall perhaps seem a certain envious and
+malicious affair, if we bring forward those who have not used the imitation
+well and furnish their writings, upon which those men thought greatest and
+through which they both acquired great riches and were thought worthy of
+splendid reputation. And so that no such suspicion may come to be against us,
+we shall leave aside blaming certain ones and mentioning the things they
+missed; and having added still small things about those who succeeded in the
+imitation we shall stop the argument of it. Of ancient writers, then, as far
+as I too know, no imitator of Thucydides came to be according to these at
+least, according to which he seems especially to differ from the others,
+according to the rare and archaic and poetic and foreign diction, and
+according to the hyperbatic and much-entwined thoughts wishing to signify many
+facts from a cutting-off and taking the renderings from far, and still besides
+these according to the clumsy figurations wandered from the pairing according
+to nature and not even having a place in all poetry, from which the unclarity
+that outrages all the fine things and furnishes darkness to the virtues came
+into the speeches.
+
+* Section 53
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+And of orators Demosthenes alone, just as of the others as many as seemed to
+do something great and splendid in speeches, so also became a zealot of
+Thucydides according to many things and added to the political speeches,
+taking from that man, virtues which neither Antiphon nor Lysias nor Isocrates,
+who were first of the orators then, had, I mean the speeds and the
+contractions and the tensions and the bitter and the compact and the skill
+that wakes the passions; and the rare-worded of the diction and foreign and
+poetic, not thinking them suitable for the true contests, he left aside, and
+he did not even love of the figures that which has wandered from the sequence
+according to nature and that which appears solecistic, but he remained in the
+customary, adorning the phrasing with the changes and the variety and with
+bringing out no thought simply unfigured. And the much-entwined thoughts both
+showing many in few and fetching the sequence from far and bringing the
+arguments from the paradoxical he both was zealous for and added to the public
+and the forensic speeches, less upon the private, and more abundantly upon the
+public contests.
+
+* Section 54
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+And I shall set down examples from both, few of many and sufficient for those
+who have read the man. There is, then, a certain public speech of his having
+the subject about the war toward the king, and calling the Athenians not to
+take it up readily, as neither their own power being a match toward that of
+the king belonging, nor the allied going to take hold of the dangers
+trustworthily and firmly; and he calls them, having prepared their own power,
+to be manifest to the Greeks that they will submit to the danger on behalf of
+the freedom of all, if anyone comes against them; and before preparing he does
+not allow them to send off to the Greeks the envoys who will call them upon
+the war, as they will not listen. Having taken this thought he has constructed
+and figured it thus: /And then, if perhaps you do what we now think, no one
+surely of all the Greeks thinks so great upon himself, who seeing a thousand
+horsemen, and as many hoplites as one wishes, and three hundred ships, will
+not come and beg, thinking he would be saved most safely with these; therefore
+from calling already there is the needing and even if you do not hit to have
+missed, and from holding with the having prepared your own, that they needing
+save and knowing well that all will come it is./ These have been altered from
+the political report customary to the many, and are stronger than according to
+the private person; yet they have not been darkened nor become unclear so as
+to need explanation. And having begun to speak on behalf of the preparation he
+adds these: /And first of the preparation, men of Athens, and greatest, is
+that you be so disposed in your minds, as each willingly going to do eagerly
+whatever is needed. For you see, men of Athens, that as many things as you
+ever wished and after these each himself thought the doing belonged to
+himself, nothing ever fled you; and as many as you wished, but after these
+looked off toward one another, as himself not going to do, and the neighbor
+going to do what is needed, nothing ever came to be for you./ For here too the
+thought has been entwined in a much-entwined way, and has been spoken having
+gone out from the commonness into the unaccustomed phrasing, but the extra of
+them is kept in the clear. And in the greatest of the public speeches against
+Philip he has constructed even the beginning at once thus: /Of many speeches,
+men of Athens, coming to be almost according to each assembly, about which
+Philip from which he made the peace wrongs not only you, but also the others;
+and of all I know that they would say at least, if they do not even do this,
+both to speak and to do, so that that man will cease from the insolence and
+will give justice, I see all the affairs led under into this and given up, so
+that I fear it may be slanderous to say, but true; even if all those coming
+forward wished to speak and you to vote from which the affairs were going to
+have as cheaply as possible, I would not think they could be disposed worse
+than now./ And similar to these are also those: /Then do you think, if they
+did him no evil, they would perhaps guard not to suffer, that these he chooses
+to deceive rather than forcing by speaking beforehand, and that he will make
+war on you from a speaking-beforehand, and these while you willingly are
+deceived?/
+
+And in the strongest of the forensic, the speech written about the crown,
+having mentioned the skill of Philip, by which he had out-generaled the
+cities, he has figured the thought thus: /And I no longer add that of the
+cruelty, which it is possible to see in those of whom Philip was set up master
+once for all, it fell out for others to make trial, and of the humaneness,
+which that man wrapping the rest of the affairs pretended toward you, you
+doing well carried off the fruits./ And in those in which he declares those
+betraying the affairs to Philip causes of all the evils that happened to the
+Greeks, he writes word for word thus: /And yet by Heracles and all gods, if it
+were needed to look upon truth or, having taken out of the middle the lying
+against and speaking something through enmity, who truly were those upon whose
+head all would reasonably and justly set the cause of what has come to be, you
+would find those similar to this man beside each of the cities, not those like
+me; who when the affairs of Philip were weak and altogether small, we often
+speaking beforehand and calling and teaching the best things, for the sake of
+their own shameful gain gave up the things commonly advantageous, deceiving
+and destroying the citizens belonging to each, until they made them slaves./
+
+* Section 55
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+
+I could bring countless examples from the speeches of Demosthenes, both the
+public and the forensic, which have been constructed along the character of
+Thucydides that has the alteration in the common and customary dialect. But so
+that the argument may not become longer than needed for me, being content with
+these as sufficient to confirm the proposition I would not shrink from setting
+down for those who practice the political speeches, at least those who still
+keep the judgments undistorted, having used Demosthenes as counselor, whom we
+are persuaded has become the strongest of all orators, to imitate these
+constructions, in which both the brevity and the skill and the strength and
+the tension and the magnificence and the virtues akin to these are clear to
+all men; and those riddle-like and hard to learn and needing grammatical
+explanations and having much of the tortured and the appearing-solecistic in
+the figurations neither to wonder at nor to imitate. And that I may speak in
+summary, that both are equally to be zealous for, both the things not clearly
+spoken by the writer and those that have taken on in addition with the other
+virtues the clarity, has no account; but it is necessary to agree that the
+more complete are stronger than the more unfinished and, of the more unclear,
+those at least more manifest. Why then having learned do we praise all the
+dialect of the writer and force ourselves to say that Thucydides wrote these
+things for the men of his own time, they being customary and known to all, and
+he had no account of us who would be later, and we throw out of the courts and
+the assemblies all the diction of Thucydides as useless, but we do not agree
+that the narrative part of it except very few things is wonderful and well
+placed for all the uses, and that the public-speaking part is not all suitable
+for imitation, but as much of it as is easy for all men to know, and not
+possible for all to construct?
+
+I had sweeter things than these to write for you about Thucydides, best
+Quintus Aelius Tubero, yet not truer.

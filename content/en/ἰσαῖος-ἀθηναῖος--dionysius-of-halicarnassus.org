@@ -1,0 +1,644 @@
+#+TITLE: Isaeus the Athenian
+#+AUTHOR: Dionysius of Halicarnassus hermes:grok-4.6
+#+FILETAGS: :imperial:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ἰσαῖος-ἀθηναῖος--dionysius-of-halicarnassus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Isaeus the Athenian edited by Hermann Usener
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Isaeus, who was teacher of Demosthenes and became especially famous for this,
+was by race an Athenian, as some relate, but as others write, a Chalcidian. He
+flourished after the Peloponnesian War, as I infer from his speeches, and
+extended as far as the dominance of Philip. I am not able to state an exact
+time of the orator's birth and death, nor indeed anything about the man's
+life, what sort of man he was, nor anything about his choice of public
+affairs, whether he chose any office or a political career at all, nor
+anything at all about such matters, because I have met with no such history.
+For not even Hermippus, who catalogued the pupils of Isocrates and was
+accurate in other things, has said anything about this orator beyond these two
+points, that he heard Isocrates and that he taught Demosthenes. And he
+associated with the best of the philosophers.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+It remains, then, to speak about his choice and power and what style he used.
+He was a practitioner of one kind of speeches, the forensic, and he was
+especially eager about this. He emulated the style of Lysias for the most
+part, and unless someone were very experienced in the men and had noteworthy
+practice with both, he would not easily distinguish many of the speeches, to
+which of the orators they belong, but would be misled by the titles, which are
+not so accurate, as is shown to me through a single writing. Yet the likeness
+of style is not indistinguishable, but has certain differences neither small
+nor few, both in expression and in the subject matter, about which it would be
+timely to speak, as we have supposed. And since in diction he is more like
+Lysias, making the beginning from this I will state the likenesses and the
+differences which he has toward that one.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+Pure and precise and clear, both proper and vivid and concise, and besides
+this persuasive and fitting to the subjects, compact and forensic, the diction
+of Isaeus is no less than that of Lysias, and in these things one would not
+distinguish it. But it would seem to differ from that one in these: for the
+one is more simple and ethical, and is composed more naturally and figured
+more simply, and is furnished with much pleasure and charm. But that of Isaeus
+would seem to be more technical and more precise than that of Lysias, and the
+composition somewhat more elaborate and divided by varied figures, and by as
+much as it falls short of that charm, by so much it excels in the force of
+construction, and it is truly a kind of spring of the power of Demosthenes.
+One would distinguish the diction in this way, then, but in the subject matter
+he will find some such differences. In Lysias he will not see much artifice
+either in the divisions of the matters or in the arrangement of the enthymemes
+or in the working-out of them; for the man is simple. But in Isaeus he will
+find these things already becoming more precise and more technical. For he
+uses approaches and preliminary preparations and more technical divisions, and
+he places each where it gives use, and he carries the working-out of the
+arguments to a great length, and he varies the speeches with changes of
+agonistic and pathetic figures. And toward the opponent he plays the knave,
+and he outgenerals the judges, and he tries from every side to help the
+matters for which the speech is.
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+And that the difference of the men may become more evident, I will use an
+image from some of the things seen. There are certain ancient paintings,
+worked in colors simply and having no variety in the mixtures, but precise in
+the lines and having much charm in these. And those after them are less
+well-lined, but more worked out, varied with shadow and light and having their
+strength in the multitude of mixtures. To the more ancient of these Lysias is
+like in simplicity and charm, and Isaeus to those that have been labored and
+are more technical. And there was about him among those then a reputation of
+wizardry and deceit, as a man clever at crafting speeches toward the worse,
+and he was slandered to this. And this is shown by one of the ancient orators
+in the accusation of Demosthenes, Pytheas, as it seems to me. For having said
+that all wickedness and vice from men dwells in Demosthenes, he adds in this
+part as a kind of slander, that he has fed on the whole of Isaeus and the arts
+of that man's speeches. And by Zeus this slander was not off the mark for
+each. At least to me the speeches of Isaeus and of Demosthenes, even if they
+are composed about true and just hypotheses, seem suspect because of the much
+artifice, while those of Isocrates and Lysias are most of all just and true,
+even if the matters in them are not such, because they show nothing knavish in
+the construction, but are free and simple.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+These seemed to me to be the things that differ, from which one would be able
+without difficulty to distinguish the speeches of Lysias and of Isaeus. And if
+I have supposed rightly, it will be possible for whoever wishes to examine,
+making the test upon the examples themselves. I will begin from the
+observations about diction. There is a certain speech of Isaeus for Eumathes,
+a metic among those banking at Athens, whom, being led into slavery by the
+heir of the man who had freed him, one of the citizens takes away and makes
+the defense concerning him. And the prooemium of the speech is of this sort:
+/Gentlemen of the jury, I was formerly useful to this Eumathes justly, and
+now, if there is anything in my power, I will try to join in saving him with
+you. But hear a little from me, that none of you may suppose that I approached
+the affairs of Eumathes from rashness or some other injustice. For when I was
+trierarch in the archonship of Cephisodotus and a report was brought to my
+household that I had died in the sea-fight, I having a deposit with this
+Eumathes, Eumathes sent for my household and friends and showed the money
+which I had with him, and he gave back all rightly and justly. In return for
+which, having been saved, I both used him still more and, when he was setting
+up the bank, I supplied him with silver. And after this, when Dionysius was
+leading him, I took him out into freedom, knowing that he had been released in
+the court by Epigenes. But about these things I will hold back./
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+There is also in Lysias one making the defense for a foreigner who is
+defendant in a suit about an estate. Callimachus titles this speech
+/Concerning Pherenicus for the estate of Androcleides/, and it was contested
+many years earlier than the other. In which the one making the speeches about
+the foreigner first shows the cause, just as the one taking the metic out into
+freedom. And the prooemium of the speech is this: /It seems to me necessary,
+gentlemen of the jury, to speak first to you about my friendship and that of
+Pherenicus, that none of you may wonder that, having never spoken before for
+any of you, I now speak for this man. For to me, gentlemen of the jury,
+Cephisodotus the father of this man was a guest-friend, and when we were in
+exile I lodged in Thebes with him, both I and any other of the Athenians who
+wished, and having suffered many good things both privately and publicly from
+him we returned to our own. When therefore these men met with the same
+fortunes and arrived at Athens as exiles, thinking that I owed them the
+greatest gratitude I received them so familiarly that none of those entering
+would know, unless someone knew beforehand, which of us owned the house.
+Pherenicus also knows, gentlemen of the jury, that many are more clever at
+speaking than I and more experienced in such matters, but nevertheless he
+thinks my familiarity the most trustworthy. It therefore seems to me shameful,
+when this man bids and begs me to help him in what is just, to look on while
+he is deprived, so far as I am able, of the things given by Androcleides./
+
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+How then do these prooemia differ from one another? In Lysias the opening is
+pleasant and for no other reason more than that it has been spoken somehow
+naturally and simply: /It seems to me necessary, gentlemen of the jury, to
+speak first to you about my friendship and that of Pherenicus./ And what is
+added to this appears still more unconstructed, and what has been said as a
+private man might be able to speak: /that none of you may wonder that, having
+never spoken before for any of you, I now speak for this man./ But in Isaeus
+what seems to be simple has been constructed and it has not escaped notice
+that it is rhetorical: /I was formerly useful to this Eumathes justly, and
+now, if there is anything in my power, I will try to join in saving him./ For
+they are loftier and less simple than those, and still more the things that
+follow: /But hear a little from me, that none of you may suppose that I
+approached the affairs of Eumathes from rashness or some other injustice./ For
+the rashness and the injustice and the approaching the affairs of Eumathes are
+more like things made than things growing of themselves. And again in Lysias
+the pretext is spoken without artifice: /For to me, gentlemen of the jury,
+Cephisodotus the father of this man was a guest-friend, and when we were in
+exile I lodged in Thebes with him, both I and any other of the Athenians who
+wished./ And the things after this are added pleasantly and in a defining way:
+/and having suffered many good things both privately and publicly from him we
+returned to our own./ But in Isaeus it has been phrased more elaborately and
+is not far from the construction of Demosthenes: /For when I was trierarch in
+the archonship of Cephisodotus and a report was brought to my household that I
+had died in the sea-fight, I having a deposit with this Eumathes./ For the "a
+report having been brought" and the "that I had died" and the "I having a
+deposit" I at least would not say have been spoken simply. For spoken in that
+way they would be more unmade: /For when I was trierarch and it was reported
+to those here that I had died, this Eumathes having my deposit./
+
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+And the remaining parts of the prooemia too one would find spoken more simply
+in the one, more rhetorically in the other. And again in another contest
+Isaeus, having composed a defense for a certain guardian being judged by his
+own nephew, has used such a beginning: /I would have wished, gentlemen of the
+jury, that Hagnotheus were not so excessively shameful toward money as to plot
+against what belongs to others and to bring such suits, but that being my
+nephew and master of the paternal property, not small but sufficient even to
+perform liturgies, which was handed over to him by us, he would take care of
+this and not desire mine; so that he would have seemed better to all, saving
+it and making it more, and would have presented himself a more useful citizen
+to you. But since he has destroyed it and sold it and shamefully and badly
+ruined it, as I would not have wished, and trusting in clubs and preparations
+of speeches has come against mine, it is necessary, as it seems, to think it a
+misfortune that he is such while being a kinsman, and to defend against the
+things he has charged and the slanders outside the matter with which he has
+attacked me, as eagerly as we are able toward you./ And Lysias, having written
+a speech for a man accused of bad guardianship by the brothers of his own
+wife, has used such a prooemium: /It is not enough, gentlemen of the jury, for
+guardians, as many troubles as they have through the guardianship, but even
+while they save the properties of their friends many are vexatiously
+prosecuted by the orphans. Which has now happened to me also. For I, gentlemen
+of the jury, having been left guardian of the money of Hippocrates and having
+administered the property rightly and justly and having handed over to the
+sons, when they passed scrutiny, the money of which I was left guardian, am
+now vexatiously prosecuted by them unjustly./
+
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+I think few words are needed, that this has been spoken simply and pleasantly
+and shows a character not fabricated but natural. For: /It is not enough,
+gentlemen of the jury, for guardians, as many troubles as they have through
+the guardianship/ no one would say belongs to an orator, but to any private
+man who has come into an unjust contest. But all would say that that of Isaeus
+has been made rhetorically and has been more solemnly beautified in speech,
+for: /I would have wished, gentlemen of the jury, that Hagnotheus were not so
+excessively shameful toward money as to plot against what belongs to others./
+And still more in Lysias it has been spoken very charmingly and simply: /For
+I, gentlemen of the jury, having been left guardian of the money of
+Hippocrates and having administered the property rightly and justly and having
+handed over to the sons, when they passed scrutiny, the money./ But the other
+more distinctly and not as a private man would have composed it: /but that
+being my nephew and master of the paternal property, not small but sufficient
+even to perform liturgies, which was handed over to him by us, he would take
+care of this./ And I will still mention one kind, from which the difference of
+the men will be most evident.
+
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+Each supposes a private man and one who avoids business and young, forced
+contrary to his own choice and nature to speak in court, Lysias in the speech
+against Archebiades in this manner: /As soon as Archebiades brought this suit
+against me, gentlemen of the jury, I went to him saying that I was young and
+inexperienced in affairs and had no need to enter a court. I therefore ask you
+not to think my age a windfall, but taking my friends and your own to recount
+about the debt, from where it has come. And if you seem to those men to speak
+the truth, you will need no trouble, but taking your own you will go away. And
+you are just to omit nothing, but to say all, since I am younger than the
+contract, so that having heard about things we do not know we may deliberate
+about what you say; if somehow it becomes clear whether you are unjustly
+aiming at mine or justly seeking to recover your own. Though I challenged him
+in these things he never yet was willing to come together nor to make a speech
+about the things he charged nor to submit to arbitration, until you
+established the law about the arbitrators./ And Isaeus, in a dispute about a
+plot of land occupied by the demesmen to whom the land was mortgaged, brings
+him in using this beginning: /I would have wished most of all, gentlemen of
+the jury, not to be wronged by even one of the citizens, and if not, to meet
+with such opponents toward whom I would have cared nothing in differing. But
+now the most painful of all things has happened to me. For I am wronged by the
+demesmen, whom it is not easy to look on while they rob, and it is unpleasant
+to be at enmity, with whom there is necessity both to sacrifice together and
+to make common associations. It is hard, then, to contest against many; for
+their number contributes a great part toward their seeming to speak the truth;
+nevertheless, because of trusting the facts, though many and difficult things
+fall upon me, I did not think I ought to shrink from trying through you to
+obtain what is just. I therefore beg you to have pardon, if being younger I
+have dared to speak in court; for because of those who wrong me I am forced
+contrary to my own manner to do some such thing. And I will try to tell you
+from the beginning, as I am able, in the fewest words about the matter./
+
+* Section 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+Who then would not agree that the young and private and business-avoiding man
+of Lysias is a kind of archetype of the truth, differing from that in nothing
+at all, but the other a kind of copy and not escaping notice that it has been
+fabricated by rhetorical art? For both the words and the thoughts show in that
+one the self-grown, but in this one the constructed. The one at least has used
+a beginning, that he was young and inexperienced in affairs and had no need to
+enter a court. And he adds very ethically: /I therefore ask you not to think
+my age a windfall./ And what is after this he says as it was natural both to
+happen and to be spoken: that he thought they should go to the common friends
+as arbitrators /and if you seem to those men to speak the truth, you will need
+no trouble, but taking your own you will go away./ And having gone through the
+rest in a good character he finally adds: /Though I challenged him in these
+things he never was willing to come together./ But Isaeus places this part,
+the /having been forced contrary to his own judgment to speak in court while
+being young/, at the end of the prooemium. And he begins from a thought not
+paltry, by Zeus, nor private, saying that it is more grievous to be at enmity
+with such people, with whom there is necessity to share in the most honored
+things. Then he acquits himself of something that is going to pain him, namely
+that the demesmen being many contest against him. And he composes the words
+not paltrily, by Zeus, nor as a private man would: /For I am wronged by the
+demesmen/, he says, /whom it is not easy to look on while they rob, and it is
+unpleasant to be at enmity, with whom there is necessity both to sacrifice
+together and to make common associations./ For the unpleasant enmity and the
+common associations are composed more technically rather than more simply, and
+still the /though many and difficult things fall upon me, I did not think I
+ought to shrink from trying through you to obtain what is just./ For least of
+all would a private man speak thus: /I did not think I ought to shrink/ nor
+yet the /to try through you to obtain what is just/, but somehow more in that
+way: /with so many difficult things falling upon me I have been forced to take
+refuge with you, in order that I may obtain what is just through you./
+
+* Section 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+I think then that even from these things the difference of the men is not
+unclear. Nevertheless it will be more evident also from the things about to be
+said, and most of all from the demonstrative and pathetic speeches, in which
+Lysias is somewhat simpler both in the composition of the words and in the
+commonness of the figures, but this man more varied. For one looking would
+find many things in him [lost] as in this: /From where ought the things said
+to be believed, by the gods? Not from the witnesses? I think so. And from
+where the witnesses? Not from the tortures? Likely so. And from where ought
+the speeches of these men to be disbelieved? Not from their fleeing the tests?
+A great necessity. I therefore appear as one pursuing these things and
+bringing the matters to tortures, but this man as one setting them upon
+slanders and speeches, which anyone wishing to have the advantage would do.
+And he ought, if he had any just thought and was not seeking to cheat your
+judgments, not by Zeus to do these things, but to come to the accounting with
+witnesses and to examine each of the things in the speech in this manner,
+inquiring of me: how many eisphorai do you reckon? So many; brought in
+according to how much silver? According to so much and so much; according to
+what decrees? These; who have received these? These men; and witnessing these
+things to examine the decrees, the number of the eisphorai, the things brought
+in, those who received them, and if they were eute , to trust the account, and
+if not, now to produce witnesses, if anything of what I calculated for them
+was false./
+
+* Section 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+These are disconnected and from questioning. Which Lysias has used least, but
+Demosthenes, who took the starting-points from this man, more unsparingly, for
+example: /Do you not then speak of pay? someone will say. Yes, and at once the
+same organization of all, men of Athens, so that each, receiving his share of
+the common things, may provide whatever the city needs. It is possible to keep
+quiet; remaining at home you are better, freed from doing something shameful
+by necessity through want. Something such happens, as also the present things;
+being himself a soldier from these same receipts, as is just, on behalf of the
+fatherland. There is someone of us outside the age; as much as this man now
+receiving without order does not help, these things receiving in equal order,
+overseeing and administering all that ought to be done. And wholly, neither
+taking away nor adding except some little, having removed the disorder, I
+brought the city into order, having made the same order of receiving, of
+campaigning, of judging, of doing this, whatever each has according to age and
+of which there is occasion./ And those things according to compression and
+ventured by being composed briefly and crookedly and from the unexpected, and
+not recognized by all nor readily: /And this man, the most cruel of all men,
+when they do not provide witnesses to give, before whom they say they have
+given back to us, pretends to trust those men more, that they have given back
+to us, than us, that we have not received. And yet it is clear to all, as it
+seems, who also robbed this man's father when he was in possession of his
+rights, that they would not have given back to us willingly, and being so we
+would not have been able to exact it./ For this is also the figure which
+Demosthenes has often used: /Do you then think that those who would have been
+able to do him no harm, and would themselves perhaps have guarded against
+suffering, he chooses rather to deceive than to force by foretelling, but to
+make war on you from a proclamation?/ And still such things: /For he to whom,
+the things that existed outside the mortgaged properties had been spent on
+liturgies, and to whom borrowing no one would still have given anything more
+upon them, it being fitting for me having paid the rents to have them without
+dispute, these men having brought so great a suit and claiming they are their
+own prevented me from making the repair from them./ And why must one lengthen
+by setting out more? For one would find many of Isaeus both in composition and
+in the figures changed from the diction of Lysias, but like the force of
+Demosthenes.
+
+* Section 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+And having said also about the subject matter that he is more clever than
+Lysias at managing both whole speeches and their parts, and doing nothing
+outside the art which Demosthenes afterward used much, I wish also to furnish
+the proofs for these things. And the speech will be summary and as toward
+those who have read the man; for it is not possible to set examples of all.
+For instance, the narrations he sometimes places unprepared and concise and
+anticipating none of the demonstrative things in the fitting place, as he does
+in the speech against Medon and in that against Hagnotheus and in the dispute
+against the demesmen about the plot of land and in many others. And sometimes
+having divided them by heads and setting the proofs beside each of them he
+both lengthens more and goes out of the form of narration, using what is
+expedient. Of this form are both the defense against Hermon about the surety
+and the dispute against Eucleides about the redemption of the plot of land and
+the appeal for Euphiletus against the deme of the Erchieis. For in these
+speeches, the narrations being longer, he does not place them all at once, but
+dividing them by parts he both brings in the witnesses at each head and
+furnishes the other proofs, fearing, at least so far as it seems to me, lest
+the speech become hard to follow through the multitude of heads and go to sea,
+and lest the proofs, all gathered into one place, being many and about many
+matters, confuse the clarity. Therefore after the narrations thus managed he
+no longer confirms the preceding demonstrations with many speeches, nor is he
+like the young writers of arts, but he thinks he ought to destroy the proofs
+of the opponents.
+
+* Section 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+And sometimes he prepares certain matters before the narrations in advance and
+anticipates the things that he thinks will make them more trustworthy or more
+useful in some other way, as he is found to have done in the suit against
+Aristogeiton and Archippus, in which someone disputing an estate, being
+brother of the deceased, challenges the one who has the hidden money to a
+production of visible property, and the one holding the estate enters a
+special plea against the summons, saying that the money has been given to him
+according to a will. And there being a double dispute, one about whether the
+will has come to be or not, and the other, the will already being disputed,
+who ought to hold the estate, first having given the speech about the laws and
+having proved in this part that the estate under litigation ought not to be
+held before a trial, he thus comes to the narration, through which he proves
+that the will has not even come to be from the deceased. And not even this
+narration does he place having somehow simply compressed it and without
+construction, but this too, being longer, he divides with certain cuttings and
+at each kind he brings up witnesses and reads challenges and furnishes
+contracts and uses all the proofs and signs and the tests from probabilities.
+And I would be able to furnish many other narrations also, managed toward the
+expedient by the orator with preliminary preparations, preparations,
+divisions, exchanges of places, transfers of matters, by the heads having been
+reversed, by the things done not having been spoken according to the times, by
+their not all nor at once being said as it was natural for them to have been
+done nor as a private man would speak, by countless other such ways. But I
+have neither sufficient time to speak about all, setting out at once on each
+the art, as I would have wished, nor does the speech toward those who know the
+matters have its trust in the multitude of examples, but for such people even
+the brief showing is enough.
+
+* Section 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+And I will speak also summarily about this form, what opinion I have and in
+what I think Isaeus differs from Lysias. One reading the narrations of Lysias
+would suppose nothing to be spoken according to art or knavery, but as nature
+and truth bring it, being ignorant of this very thing of the art, that to
+imitate nature was its greatest work. But upon the narrations of Isaeus he
+would suffer the opposite, to suppose nothing spoken self-grown and without
+trouble, not even if some things that happened by chance have been said, but
+all from construction and engineered toward deceit or some other knavery. And
+he would trust the one even when speaking false things, but to the other, not
+even if he speaks truth, would he attend without suspicion. And in the
+demonstrative parts Isaeus would seem to differ from Lysias both by speaking
+not according to some enthymeme but according to an epicheireme and by
+amplifying not briefly but at length, not simply but precisely, and making the
+matters more terrible and making the passions more noble. For in these things
+he is no less evident as having given the starting-points to the art of
+Demosthenes, and not pursuing the simplicity of Lysias, as it is possible to
+infer from many speeches, or rather from all those written by him. And if it
+is necessary also to use examples, lest we seem to speak things unproved, I
+will do this too, taking in hand the speech for Euphiletus, in which one of
+those voted out summons the deme of the Erchieis into court as being driven
+from the citizenship unjustly. For a certain law was written by the Athenians
+that there be an examination of the citizens by demes, and that the one voted
+out by the demesmen not share in the citizenship, but that those unjustly
+voted out have an appeal to the court, having summoned the demesmen, and if
+they are convicted the second time, they be sold and the money be public.
+According to this law Euphiletus, having summoned the Erchieis as having voted
+against him unjustly, arranges this contest. The matters have been stated
+precisely beforehand and have been confirmed through the witnesses, and the
+things by which he wishes to make the testimonies firm are these, as I have
+the opinion, all precisely worked out. And let whoever wishes judge whether I
+have recognized the fitting things about them:
+
+* Section 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+/That, then, gentlemen of the jury, this Euphiletus is our brother, you have
+heard not only us but also all the kinsmen testifying. And consider first our
+father, for the sake of what he would lie and introduce this man as his son
+not being so. For you will find all who do such things either having no
+legitimate children or being forced through poverty to introduce foreign men,
+in order that they may be helped somewhat from them through their having
+become Athenians. Neither of these belongs to our father. For we two sons are
+legitimate to him; so that he would not have introduced this man through want
+of children. Nor indeed needing nourishment and abundance from this man. For
+he has a sufficient livelihood and besides this it has been testified to you
+that he has reared this man from childhood and trained him and introduced him
+into the phratry members; and these are not small expenses. So that it is not
+likely, gentlemen of the jury, that our father, being helped in nothing, would
+attempt so unjust a deed. Nor indeed would any man suppose me so completely
+mindless as to testify false things for this man, in order that I may divide
+the paternal things among more. For I would not even have the power afterward
+to dispute that this man is not a brother. For none of you would endure
+hearing my voice, if now, putting myself under penalty, I testify that he is
+our brother, and afterward I should appear contradicting these things. Not
+only us, then, gentlemen of the jury, is it likely to have testified the
+truth, but also the other kinsmen. For consider first that those who have our
+sisters would never have testified false things about this man. For this man's
+mother had become a stepmother to our sisters. And stepmothers and the
+daughters of a former wife are somehow accustomed for the most part to differ
+with one another. So that if this man were from some other man to the
+stepmother and not from our father, our sisters would never, gentlemen of the
+jury, have allowed their own husbands to testify. And indeed neither would the
+uncle, being on our mother's side, and belonging in no way to this man, surely
+have been willing, gentlemen of the jury, to testify a false testimony for
+this man's mother, through which a clear harm comes to us, if being a
+foreigner we introduce this man as a brother to ourselves. Still then,
+gentlemen of the jury, besides these things, how would any of you convict of
+false testimony this Demaratus and Hegemon and Nicostratus? Who first will
+never appear to have practiced anything shameful, and then being kinsmen to us
+and knowing us all have testified to this Euphiletus each his own kinship. So
+that I would gladly even ask of the most solemn of those contesting against
+us, whether he could show himself an Athenian from anywhere else than from
+these things, from which we also show Euphiletus. For I do not think he would
+say anything else than that the mother is a citizen and a wedded wife and the
+father a citizen; and that he speaks these things truly he would furnish for
+himself the kinsmen as witnesses; then, gentlemen of the jury, if these men
+were in danger, they would have thought it right that you trust their own
+household testifying rather than the accusers. But now, when we furnish all
+these things, will they think it right that you obey their own speeches rather
+than the father of Euphiletus and me and the brother and the phratry members
+and all our kinship? And indeed these men, risking nothing for anyone, do
+these things for the sake of private enmity, but we testify putting ourselves
+all under penalty. And besides the testimonies, gentlemen of the jury, first
+the mother of Euphiletus, whom these men agree is a citizen, wished to swear
+an oath before the arbitrator at Delphinium, that this Euphiletus is truly
+from herself and from our father. And yet whom was it more fitting than that
+woman herself to know this? Then, gentlemen of the jury, our father, whom it
+is likely after this man's mother to know his own son best, this man both then
+and now wishes to swear that this Euphiletus is truly his son from a citizen
+and wedded wife. Besides these things then, gentlemen of the jury, I happened
+to be thirteen years old, as I also said before, when this man was born, and I
+am ready to swear that this Euphiletus is truly my brother of the same father.
+So that, gentlemen of the jury, you would justly also think our oaths more
+trustworthy than the speeches of these men. For we, knowing precisely, are
+willing to swear about him, but these men say these things having heard them
+from those at variance with this man or themselves fabricating. And besides
+these things, gentlemen of the jury, we furnish the kinsmen as witnesses both
+before the arbitrators and before you, whom it is not right to disbelieve, but
+these men, when Euphiletus brought the former suit against the common body of
+the demesmen and against the then demarch, who has now died, though the
+arbitrator had the arbitration for two years were not able to find any
+testimony that this man is of some other father than ours. And to the
+arbitrators these were the greatest signs that these men were lying, and both
+of them gave judgment against them. And take for me the testimony of the
+former arbitration. -- Testimony. -- That they then lost the arbitration,
+then, you have heard. And I think it right, gentlemen of the jury, just as
+these men would have said this to be a great sign that he is not of
+Hegesippus, if the arbitrators had given judgment against them, so now such a
+witness for us that we speak the truth, since they themselves were judged to
+wrong this man, being an Athenian and having been first enrolled with
+authority, by later striking him out. That therefore this Euphiletus is our
+brother and your citizen and was unjustly outraged by those who combined in
+the deme, I think you have heard sufficiently, gentlemen of the jury./
+
+* Section 18
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+This is the character of the speeches of Isaeus and these the things that
+differ from the manner of Lysias. And nothing prevents, having also taken them
+summarily through the shortest showing, from saying the most evident things,
+that Lysias seems to me to pursue the truth more, but Isaeus the art, and the
+one to aim at the charming, the other at the forceful. And if someone should
+look aside at these things as small and paltry, he would no longer become a
+sufficient judge of them. For the likenesses will confuse his judgment, so as
+not to distinguish the proper character of each. And about these things, what
+opinion I have has been shown by me.
+
+* Section 19
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+And I wish now also to give the account about the other orators, that no one
+may think that through ignorance I have left them out, being eminent and
+thought worthy of a name not moderate, or that by flight from the labor,
+choosing the easiest of the works, I have let go the examination about them.
+For I neither was ignorant of those whom all know, nor would I have hesitated
+to write about them, if the writing was going to bring out something useful.
+But considering that no one became better than Isocrates at the poetic
+construction and this so-called elevated and processional thing, I left out
+willingly those whom I knew to succeed less in these forms, seeing Gorgias of
+Leontini falling out of the mean and becoming childish in many places, and
+Alcidamas his hearer being thicker in diction and emptier, and Theodorus of
+Byzantium some ancient one and neither precise in the arts nor having given a
+sufficient examination in the agonistic speeches, and Anaximenes of Lampsacus
+wishing to be a kind of square in all the forms of speeches (for he has
+written histories and has left compositions about the poet and has brought out
+arts, and he has also touched deliberative and forensic contests), yet not
+complete in any of these forms but weak and unpersuasive in all, as I observe.
+I therefore thought I ought not, Isocrates excelling all these in all things,
+to make any account about those, nor yet about any of those who lived with
+Isocrates and imitated the character of that man's expression, I mean
+Theodectes and Theopompus and Naucrates and Ephorus and Philiscus and
+Cephisodorus and many others. For neither are those men fit to be judged
+against the power of Isocrates. Having thought that man the most distinguished
+of those adorned according to this manner, I no longer
+
+* Section 20
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+thought it right to speak at length about the others and to spend the time on
+nothing necessary. And of those who choose the precise speeches and practice
+toward agonistic rhetoric, of whom were Antiphon of Rhamnus and Thrasymachus
+of Chalcedon and Polycrates the Athenian and Critias who ruled among the
+Thirty and Zoilus who left the compositions against Homer and some others
+such, thinking no one to have become either more precise or more charming than
+Lysias; Antiphon at least has only the austere and ancient, and he is not a
+contestant of either deliberative or forensic speeches, and Polycrates is
+empty in the true ones, and frigid and vulgar in the epideictic, and without
+charm in those that need charm, and Thrasymachus is pure and fine and clever
+both at finding and at speaking compactly and extraordinarily what he wishes,
+but he is wholly in the technical-writing and epideictic, and he has not left
+forensic or deliberative speeches, and one would be able to say the same
+things also about Critias and about Zoilus except insofar as in the characters
+Zes of expression they differ from one another; of these men, I say, and of
+those near to these, thinking Lysias to differ and to excel, copying him as an
+archetype, I made that man the canon of this choice of speeches. And if
+someone should ask me for the sake of what I added the third, Isaeus, being an
+emulator of Lysias, I would say to him this cause, that he seems to me to have
+furnished the seeds and the beginnings of the force of Demosthenes, which
+there is no one who does not think to have become the most complete of all.
+For these causes, then, I took up these men only. And if I thought it right to
+write about all, the speech would have fallen out for me into emptinesses and
+besides having nothing or not much useful would have been lengthened into a
+writing somehow endless and not commensurate. And about these things enough.
+And I will make another beginning of the speech, speaking about Demosthenes
+and Hyperides and as third Aeschines. For the most complete rhetoric and the
+power of agonistic speeches seem to be in these men.

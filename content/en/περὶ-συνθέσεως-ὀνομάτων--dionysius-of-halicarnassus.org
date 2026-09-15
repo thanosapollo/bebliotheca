@@ -1,0 +1,2423 @@
+#+TITLE: On the Composition of Words
+#+AUTHOR: Dionysius of Halicarnassus hermes:grok-4.6
+#+FILETAGS: :imperial:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/περὶ-συνθέσεως-ὀνομάτων--dionysius-of-halicarnassus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+On the Composition of Words edited by Hermann Usener
+#+END_QUOTE
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+/This gift I too give you, dear child/, as Helen in Homer says when
+entertaining Telemachus, on this first birthday from which you have come into
+a man's age, the sweetest and most honored of festivals for me; except that I
+send you neither a work of my hands, as she says giving the robe to the youth,
+nor something fit only for the season of marriage and a grace well placed for
+a wife, but a poem and offspring of my education and of my soul, and for you
+the same thing both a possession and an instrument useful toward all the needs
+in life that come about through speeches, the most necessary of all
+instruments, if I too happen to think what is needed, alike for all who
+practice political speeches, in whatever age and condition they happen to be;
+but most of all for you youths and those newly taking hold of the study, Rufus
+Metilius, son of a good father and to me the most honored of friends.
+
+For there being a twofold practice concerning nearly all speeches, that
+concerning thoughts and that concerning words, of which the one would seem
+rather to touch the pragmatic place, and the other the lexical, and all who
+aim at speaking well being eager equally about both these theories of speech,
+the science that leads us to the affairs and the prudence in them is slow and
+hard for the young, or rather impossible to fall into the age of the unbearded
+and of youths; for the grasp of these things is more proper to an intelligence
+already in its prime and an age seasoned with grey hairs, growing together
+with much history of speeches and deeds, and with much experience and
+misfortune of sufferings both one's own and others'; but the love of beauty
+about diction is by nature also to bloom together with young ages. For every
+soul of a youth is fluttered about the adornment of expression, taking some
+irrational and as it were enthusiastic impulses toward this; for whom there is
+need of a very great and intelligent first oversight and leading, if they are
+going to speak not every /word that may come upon an untimely tongue/ nor join
+at random the things that happen to meet one another, but both use a selection
+of words that are at once pure and noble and adorn these with a composition
+that has the pleasant mixed with the solemn. Into this part, then, which the
+young must practice first, /I contribute to you a song toward love/, the
+treatise on the composition of words, which has come to the mind of few of
+those of the ancients who wrote rhetorical or dialectical arts, and has been
+worked out by none exactly or sufficiently up to the present, as I am
+persuaded. And if leisure is born for me, I will also bring out for you
+another writing on the selection of words, so that you may have the lexical
+place worked out completely. That treatise, then, expect again next year at
+the same seasons, the gods keeping us unharmed and without disease, if indeed
+it is ever fated for us to obtain this firmly; but now receive the treatise
+which the divine has led to my mind.
+
+And the heads of it which I set before myself to show are these, what the
+nature of composition is and what force it has, and at what things it aims and
+how it hits them, and what its most generic differences are and what the
+character of each is and which of them I am persuaded is strongest, and still
+besides these, what that poetic and well tongued and honey sweet thing in the
+ears is, which is by nature attendant on the composition of prose diction, and
+of a poetic construction imitating unpoetic speech and succeeding strongly in
+the imitation, well what the power of each of them is and through what
+practice each would come to be. Such then are some things, to take them in
+outline, about which I am going to speak. And the treatise begins from here.
+
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+Composition is, as the name itself also makes clear, a certain placing of the
+parts of speech beside one another, which some also call elements of diction.
+And Theodectes and Aristotle and those who philosophized in those times
+brought these as far as three, making nouns and verbs and conjunctions first
+parts of diction. And those who came after them, and especially the leaders of
+the Stoic school, advanced them as far as four, separating the articles from
+the conjunctions. Then those later, dividing the appellatives from the
+nominals, declared the first parts to be five. And others, unyoking the
+pronouns also from the nouns, made this a sixth element. And some, dividing
+the adverbs also from the verbs and the prepositions from the conjunctions and
+the participles from the appellatives, and some bringing in also some other
+cuts, made the first parts of diction many; about which the account would not
+be small. Except that the weaving and placing beside of the first parts,
+whether they are three or four or however many they ever are, makes the
+so-called cola, then the harmony of these fills out the so-called periods, and
+these complete the whole speech. The works of composition, then, are both to
+place the words beside one another fittingly and to give the cola the harmony
+that belongs to them and to divide the speech well by periods.
+
+And being a second portion of the theorems about the lexical place, at least
+according to the order (for the selection of words leads and preexists this by
+nature), it has pleasure and persuasion and power in speeches not a little
+stronger than that. And let no one think it paradoxical, if, there being many
+and great theorems about selection, about which there was much speech among
+philosophers and political men, composition, having second place in order and
+having obtained speeches not even nearly equal to that, has such force and
+power as to surpass all the works of that and to prevail, considering that
+also in the other arts, as many as taking different materials make the end
+collected from these, as building and carpentry and embroidery and as many as
+are of like kind with these, the composing powers are second in order to the
+selecting ones, but first in power; so that if the same thing has also
+happened to speech, it must not be thought strange. And nothing prevents also
+furnishing proofs of what is set forth, lest we seem to take from the ready
+things among speeches that have dispute.
+
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+Every diction, then, by which we signify thoughts is either in meter or
+without meter; of which each, when it has obtained a beautiful harmony, is
+able to make both the meter and the speech beautiful, but when thrown without
+attention and as it happens it also destroys along with itself even the useful
+thing in the thought. Many at any rate, both poets and prose writers,
+philosophers and orators, having selected with care dictions very beautiful
+and fitting to the subjects, but having given them a random and unmusical
+harmony, enjoyed nothing useful from that labor. And others, having taken
+contemptible and low words, but having composed them pleasantly and with
+surplus, put much charm around the speech. And composition would seem to have
+suffered something almost analogous toward selection, which words suffer
+toward thoughts. For as there is no benefit of a useful thought, if someone
+will not give it the adornment of beautiful naming, so here too it is no
+advantage to find diction that is pure and fair-speaking, if someone will not
+also put around it the fitting adornment of harmony.
+
+And that I may not seem to speak an undemonstrated assertion, from the things
+by which I was persuaded that composition is a stronger and more complete
+exercise than selection, I will try to show in deed, taking in hand a few
+first-fruits of metrical and of prose speeches. And let Homer be taken of
+poets, and Herodotus of prose writers; for it is enough from these to
+conjecture also about the others. There is then in Homer Odysseus lodging with
+the swineherd, about to breakfast at the morning hour, as was the custom for
+the ancients; then Telemachus appearing to them from the journey abroad to the
+Peloponnese; some small affairs of life interpreted exceedingly well. And
+where the virtue of the interpretation is, the poems themselves set beside
+will show;
+/
+Then in the huts Odysseus and the noble swineherd
+were making ready breakfast at dawn, having kindled a fire,
+and they sent out the herdsmen with the swine gathered together.
+And the dogs of barking fate fawned around Telemachus
+and did not bark as he came on. And noble Odysseus noticed
+the dogs fawning, and the stamp of feet came under;
+and at once he spoke to Eumaeus being near:
+Eumaeus, surely some companion will come here to you
+or also some other acquaintance, since the dogs are not barking,
+but they fawn around; and I hear a thud of feet under.
+Not yet was the whole word said, when his dear son
+stood in the doorway. And the swineherd started up amazed;
+and from his hands the vessels fell, with which he was laboring
+mixing the dark wine. And he ran opposite his lord;
+and he kissed him on the head and both fair eyes
+and both hands; and a swelling tear fell from him. / 
+that these things draw and charm the ears and have a portion inferior to none
+of the poems that are very sweetest, all I well know would testify. And where
+their persuasion is and why they are such, whether through the selection of
+the words or through the composition? No one would say through the selection,
+as I am persuaded; for the whole diction has been woven through the cheapest
+and lowest words, which even a farmer and a seaman and a handicraftsman and
+everyone who makes no care of speaking well would take from the ready and use.
+If at any rate the meter is dissolved, these same things will appear paltry
+and unenviable; for there are in them neither some noble metaphors nor
+substitutions nor catachreses nor any other tropical dialect, nor indeed some
+ancient glosses nor foreign or invented words. What then is left but to charge
+the composition with the beauty of the interpretation? And such things in the
+poet are countless, as I well know that all know; and for me speaking for the
+sake of reminder it is enough that these alone have been said.
+
+Come then, let us already pass over also to prose dialect and let us examine
+whether that passion has happened to it too, so that from small and paltry
+affairs and words composed well great pleasures and graces come to be. There
+is then in Herodotus a certain king of the Lydians, whom that man calls
+Candaules, and says he is called Myrsilus by Greeks, being in love with his
+own wife, then thinking it right that one of his companions see the woman
+naked, and the other fighting off not to be forced, and when he was not
+persuading, both submitting and looking at her: an affair not only not solemn
+or fit to be spoken beautifully, but even childish and dangerous and nearer to
+the shameful than to the beautiful; but it has been said very cleverly, and it
+has become better to be heard being told than to be seen happening. And that
+no one may suppose the dialect to be the cause of the pleasure for the
+diction, changing its character into the Attic tongue and having elaborated
+nothing else I will thus bring out the dialogue.
+
+/Gyges, for I do not think you are persuaded by me speaking about the form of
+the woman; for ears happen to be more untrustworthy for humans than eyes; make
+it so that you look at her naked. And he crying out said: master, what
+unhealthy speech are you speaking, bidding me look at my own mistress naked?
+And together with a tunic being stripped a woman is stripped also of her
+shame. And long ago the beautiful things have been found out for humans, from
+which one must learn; among which this one is, that each look at his own. And
+I am persuaded that she is the most beautiful of all women, and I ask you not
+to ask unlawful things. He then speaking these things was fighting off ...,
+and the other answered with these: take heart Gyges, and do not fear either
+me, as if I say this speech making trial of you, or my wife, lest some harm
+come to you from her. For I will contrive a beginning thus, so that she will
+not even learn that she has been seen by you. For having led you into the room
+in which we sleep, I will set you behind the opening door; and after I have
+gone in my wife also will be present to bed. And a chair lies near the
+entrance; on this she will put the garments one by one as she strips, and with
+much quiet it will be present for you to look. And when she goes from the
+chair to the bed and you come at her back, let it be your care from there that
+she not see you going away through the doors. He then, as he was not able to
+escape, was ready to do these things/ .
+
+One would not have even here to say that the dignity and the solemnity of the
+words has made the phrasing well formed; for they are unstudied and
+unselected, such symbols as nature has set for the affairs; for it was perhaps
+not even fitting to use other stronger ones. And there is surely some
+necessity, whenever the thoughts are brought out in the most proper and
+nearest words, that they be no more solemn than those are. And that there is
+nothing solemn or surplus in them, whoever wishes will know, changing nothing
+except the harmony. And many such things are also in this man, from which one
+might infer that the persuasion of the interpretation was not in the beauty of
+the words, but in the coupling. And about these things these are enough.
+
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+And that someone may perceive much more how much strength the composing power
+has both in poems and in speeches, I will take some dictions that seem to be
+well, whose harmonies I will change and will make both the meters and the
+speeches appear of another kind. And let these first be taken from the Homeric
+things;
+/
+but she held as a true woman spinning for hire the balances,
+who holding the weight and the wool draws it up around
+equalizing, that she may win unseemly wage for her children. / 
+This meter is a complete six-foot heroic, walking according to a dactyl foot.
+And I, having moved the composition of these words, will make the same verses
+tetrameters instead of hexameters, and prosodiac instead of heroic, in this
+manner;
+/
+but she held as a woman spinning for hire true balances,
+who some wool around and holding the weight draws up
+equalizing, that unseemly wage for children she might win. / 
+Such are the priapeia, and by some called ithyphallia, these;
+/
+I am not uninitiated, O celebrants of the new Dionysus ...
+and I too have come initiated from a good deed. / 
+Again taking other Homeric verses, having neither added anything to them nor
+taken away, but having changed the composition only, I will give back another
+kind, the so-called Ionic tetrameter;
+/
+so he lay stretched before the horses and the chariot,
+bellowing, clutching bloody dust.
+so he lay stretched before the horses and the chariot,
+clutching bloody dust, bellowing. / 
+Such are these Sotadean things;
+/
+then they lay corpses on the topmost pyres
+on foreign earth, having left orphan walls
+of holy Hellas and the recess of the ancestral hearth,
+and lovely youth and the fair face of the sun. / 
+And I could still show many forms of meters and different ones falling into
+the heroic verse, and show that the same thing has happened also to the other
+meters and rhythms almost all, so that while the selection of the words
+remains the same, and the composition alone has fallen over, both the meters
+are re-rhythmed and with them the figures, the colors, the characters, the
+passions, the whole dignity of the poems change over; but I will be forced to
+touch more theorems, some of which are known to very few. And upon many things
+and not least upon such it would be well to bring in these Euripidean things;
+/
+do not
+touch slender myths, soul;
+why do you think surplus things? unless you are going
+to be solemn among likes. /
+These things, then, I think I will let go for the present. And that prose
+diction too can suffer the same thing as the metrical, the words remaining,
+but the composition being changed, it is present for whoever wishes to
+examine. And I will take from the diction of Herodotus the beginning of the
+history, since it is also known to the many, having changed only the character
+of the dialect. /Croesus was a Lydian by race, and a child of Alyattes, and
+tyrant of the nations within the river Halys; which flowing from the south
+between Syrians and Paphlagonians issues toward the north wind into the sea
+called Euxine/ . I change the harmony of this diction, and the mold will no
+longer be narrative for me nor historical, but rather upright and agonistic:
+/Croesus was a son of Alyattes, and Lydian by race, and tyrant of the nations
+within the river Halys; which flowing from the south between Syrians and
+Paphlagonians issues into the sea called Euxine toward the north wind./ This
+character would seem not to be far from these of Thucydides: /Epidamnus is a
+city on the right as one sails into the Ionian gulf; and Taulantian barbarians
+dwell by it, an Illyrian nation./ And again having changed the same diction I
+will give it another form in this manner: /Of Alyattes a son was Croesus, and
+Lydian by race, and of the nations within the river Halys tyrant; which
+flowing from the south between Syrians and Paphlagonians issues toward the
+north wind into the sea called Euxine/ . Hegesias-like is this figure of
+composition, petty-clever, ignoble, soft; for that man was priest of these
+trifles, writing such things: /from a good festival we lead another good./ /I
+am from Magnesia the great, a Sipylean./ /for Dionysus did not spit a small
+thing into the water of Thebans; for it is sweet, but it makes one mad./
+
+Let there be enough of examples. For I think I have made sufficiently clear
+what was set before me, that composition has greater force than selection. And
+it seems to me one would not miss the mark likening it to Homeric Athena; for
+that goddess made Odysseus, being the same, appear at another time of another
+kind, at one time small and wrinkled and ugly
+/
+like a wretched beggar and an old man, / 
+and at another time having touched him again with the same wand
+/
+she made him greater to look on and thicker to be seen,
+and down from the head
+she sent woolly hair like the hyacinth flower. / 
+And this, taking the same words, at one time makes the thoughts appear
+formless and low and beggarly, and at another time high and rich and stout and
+beautiful. And this was almost that by which a poet differs most from a poet
+and an orator from an orator, composing the words cleverly. Among the ancients
+then almost all there was much practice of it, and by this both their meters
+and their songs and their speeches are beautiful; but among those later no
+longer except few; and later in time it was neglected altogether and no one
+thought it must be necessary nor contribute anything to the beauty of
+speeches; therefore they left such compositions as no one endures to go
+through as far as the coronis, I mean Phylarchus and Duris and Polybius and
+Psaon and Demetrius of Callatis and Hieronymus and Antigonus and Heracleides
+and Hegesianax and countless others; of all of whom if I should wish to say
+the names, /the time of the day will fail me/. And why must one wonder at
+these, when even those who profess philosophy and bring out the dialectical
+arts are so wretched about the composition of words that one is ashamed even
+to speak? And it is enough to use as a proof of the speech Chrysippus the
+Stoic (for they would not go further); for of this man no one either made the
+dialectical arts more exact or brought out speeches composed in a worse
+harmony, at least of those thought worthy of a name and reputation. And yet
+some of them pretended to be eager also about this part as being necessary to
+speech and even wrote some arts about the arrangement of the parts of speech;
+but all wandered very far from the truth and did not even see in a dream what
+it is that makes composition pleasant and beautiful. I at least, when I knew
+that this subject was being arranged, sought whether anything had been said
+about it by those before and especially by the philosophers from the Stoa,
+knowing that the men make no small care of the lexical place; for one must
+bear witness of the true things to them. And seeing nowhere anything said by
+anyone, at least of those thought worthy of a name, neither greater nor lesser
+into the treatise which I have chosen, but the compositions which Chrysippus
+has left, two having the title /On the Arrangement of the Parts of Speech/,
+not having a rhetorical theory but a dialectical one, as those who have read
+the books know, about the arrangement of propositions true and false and
+possible and impossible and contingent and changing-over and ambiguous and
+some other such things, contributing neither any benefit nor use to political
+speeches toward at least pleasure and beauty of interpretation, which
+composition must aim at; from this treatise I stood off, and I was examining,
+having come to be by myself, whether I could find some natural starting-point,
+since this seems to be the strongest beginning of every affair and of every
+inquiry. And having touched some theorems and thinking the affair was going
+for me by a road, when I learned that this road was leading me somewhere else,
+not where I was traveling and it was necessary to go, I stood off. And nothing
+will perhaps prevent touching that theory also and saying the causes through
+which I left it, in order that no one may think I passed it by through
+ignorance but by choice.
+
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+It seemed to me then that we must, following nature most of all, fit the parts
+of speech as that wishes. For example I thought it right to range nouns before
+verbs (for the one shows the substance, and the other the accident, and the
+substance is prior by nature to the accidents), as these Homeric things have
+it;
+/
+Tell me, Muse, of the man of many turns / 
+and
+/
+Sing, goddess, the wrath / 
+and
+/
+And the sun sprang up leaving / 
+and the things near to these; for in these the nouns lead, and the verbs
+follow. The account was persuasive, but it did not seem to me to be true. At
+any rate one might furnish other examples lying in the same poet arranged
+oppositely than these have been arranged, but no less beautiful and
+persuasive. Such as these are;
+/
+Hear me, child of aegis-bearing Zeus, Unwearied / 
+and
+/
+Tell me now, Muses having Olympian houses ...
+remember your father, Achilles like to the gods. / 
+For in these the verbs lead, and the nouns are ranged under; and no one would
+blame this arrangement as unpleasant. Still besides these I thought it better
+to put verbs before adverbs, since that which does or suffers is prior by
+nature to the things sitting with them, I mean manner and place and time and
+the like, which we call adverbs, using these examples;
+/
+and he struck turning about, and of them an unseemly groan arose ...
+and he fell backward, and gasped out his soul ...
+and he leaned the other way, and the cup fell from his hand. / 
+For in all these the adverbs have been ranged later together with the verbs.
+And this too is persuasive like the first, but not true as that is not either.
+For these things have been said oppositely in the same poet;
+/
+and they fly in clusters upon spring flowers ...
+today a man into the light birth-laboring Eileithyia
+will bring forth. / 
+Have the poems then become at all worse when the verbs have been ranged under
+the adverbs? No one would say. Still I thought I must also watch this not as a
+side-work, that the things prior in times and in order be taken prior; such as
+these are;
+/
+they first drew back and slaughtered and flayed / 
+and
+/
+the bow twanged, and the string cried greatly, and the arrow leaped / 
+and
+/
+then the queen threw a ball toward a handmaid;
+she missed the handmaid, and threw it into a deep eddy. / 
+Yes by Zeus, someone would say, if there were not also many other poems not so
+arranged no less beautiful than these;
+
+And having raised himself he struck with a cleft of oak, which he left
+splitting, for surely the raising up is prior to the striking. And still
+/
+he drove standing near, and the axe cut off the tendons
+of the neck, / 
+for surely it belonged first to the one about to send the axe into the tendons
+of the bull to stand near him. Still besides these I thought it right to put
+the nominals before the epithets, and the appellatives before the nominals,
+and the pronouns before the appellatives, and in the verbs to watch that the
+upright lead the inflected and the indicative the infinitives, and many other
+such things. And experience shook all these and showed them worth nothing. For
+at one time from these and things like them the composition became pleasant
+and beautiful, and at another time from things not such but opposite. For
+these causes then I stood off from such a theory. And I mentioned them also
+now not as worthy of seriousness, and I set beside the dialectical arts not as
+necessary, but in order that no one thinking them to have something useful for
+the present theory may make much of knowing them, hunted by the titles of the
+treatises having some likeness and by the reputation of those who arranged
+them.
+
+I will go back then to the hypothesis from the beginning from which I went out
+into these things, that there was much forethought among the ancients both
+poets and prose writers, philosophers and orators, of this form, and they
+thought they must join neither the words to the words nor the cola to the cola
+nor the periods to one another at random, but there was some art among them
+and theorems using which they composed well. And what these theorems were, I
+will try to teach, as I am able, as many as power came to be for me to find
+out together, not saying all but the most necessary themselves.
+
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+It seems to me that there are three works of the composing science; one, to
+see what fitted with what is by nature going to take a beautiful and pleasant
+coupling; another, to know of the things about to be fitted toward one another
+how each, being figured, would make the harmony appear stronger; and third, if
+anything of the things taken needs restyling, I mean subtraction and addition
+and alteration, both to know and to work it out fittingly toward the coming
+use. And what each of these can do, I will say more clearly using some images
+of the craftsman arts which all know, I mean building and shipbuilding and the
+like; for the builder, whenever he has provided the material from which he is
+going to construct the house, stones and woods and tile and all the rest,
+already composes the work from these, working these three things, with what
+stone and wood and brick one must fit what stone or wood or brick, then how
+each of the things being fitted and on what side to seat it, and third, if
+anything is ill-seated, to strike it off and cut around and make this very
+thing well-seated; and the shipbuilder works these same things. The like
+things then I say those also must do who are going to compose well the parts
+of speech, first examining what noun or verb or some one of the other parts,
+arranged with what, will lie fittingly and how well or better (for not all
+things placed with all are by nature to dispose the ears similarly); then
+distinguishing how the noun or the verb or whatever else of the others, being
+figured, will be seated more gracefully and more becomingly toward the
+subjects; and I mean, upon nouns, whether being taken in the singular or in
+the plural they will take a stronger coupling, and whether being brought out
+according to the upright case or according to some of the oblique, and if some
+are by nature to become feminines from masculines or masculines from feminines
+or neuters from these, how it would be figured better, and all such things;
+and upon verbs, which will be stronger being taken, the upright or the supine,
+and according to what moods being brought out, which some call verbal cases,
+it will take the strongest seat, and indicating what differences of times, and
+if some other things are by nature to attend the verbs (and these same things
+must be watched also upon the other parts of speech, that I may not speak
+according to each one); and upon these, to distinguish the things taken, if
+some noun or verb needs restyling, how it would become more in-harmony and
+better-seated; this element is more abundant in poetry, and rarer in prose
+speeches; except that it does come to be also in these as far as it may be
+allowed; for the one saying /into this here contest/ has added some letter to
+the pronoun aiming at the composition; for it was complete to say /into this
+contest/; and again the one saying /having looked down on Neoptolemus the
+actor/ has increased the word by the preposition, for /having seen/ was
+enough; and the one writing /that I have come for the sake of no private
+enmity/ has lessened the parts of speech by the elisions and has struck off
+some of the letters; and the one saying /he made/ instead of he made without
+the n and saying /he wrote/ instead of he wrote and /I will take away/ instead
+of I will be taken away and all such things, and the one saying /he
+place-loved/ for he loved-the-place and /it will have been loosed/ for it will
+be loosed and things of that sort restyles the dictions, in order that they
+may become more beautiful and more fit to be fitted for him.
+
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+One theory then of the composing science is this about the first parts
+themselves and elements of diction; and another, as I also said at the
+beginning, is that about the so-called cola, needing both a more varied
+treatise and a greater, about which I will try at once to speak as I have
+judgment. For one must also fit these toward one another so as to appear akin
+and dear and figure them as strongest as may be allowed and prepare them
+beforehand, if anywhere something should be needed, by lessening and surplus
+and if the cola receive some other restyling; and each of these experience
+itself teaches; for often this colon put before this or put upon this shows
+some good-mouthing and solemnity, but having taken some other coupling it
+appears graceless and unsolemn. And what I say will be clearer, if someone
+should see it upon an example. There is then some diction in Thucydides in the
+demegory of the Plataeans composed very gracefully and full of passion, this:
+/and you, O Lacedaemonians, the only hope, we fear lest you be not firm./ Come
+then, let someone, having loosed this coupling, re-fit the cola thus: /and
+you, O Lacedaemonians, we fear lest you be not firm, the only hope./ Does the
+same grace still remain with the cola fitted in this manner, or the same
+passion? No one would say. And what if this diction of Demosthenes /the taking
+then the things given, agreeing that it is lawful, the giving back grace for
+these he writes as against the laws/; if someone having loosed and changed the
+cola should bring it out in this manner: /agreeing then that it is lawful to
+take the things given, you write as against the laws the giving back grace for
+these/ , will it be similarly forensic and round? I at least do not think so.
+
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+The theory about the fitting of the cola then is such, and of what sort is
+that about the figuring? There is not one manner of the bringing-out of all
+the thoughts, but some we speak as declaring, and some as inquiring, and some
+as praying, and some as commanding, and some as being at a loss, and some as
+hypothesizing, and some figuring in some other way, following which we also
+try to figure the diction. And there are surely many figurings also of diction
+as also of thought, which it is not possible to take round by heads, and
+perhaps they are even infinite; about which both the speech is much and the
+theory deep. The same colon then cannot do the same thing figured thus or
+thus. And I will speak upon an example: if Demosthenes had brought out this
+diction in this manner /having said these things I wrote, and having written I
+was ambassador, and having been ambassador I persuaded the Thebans/ , would it
+have been composed so gracefully as it is now composed? /I did not say these
+things, but not write; nor did I write, but not go as ambassador; nor did I go
+as ambassador, but not persuade the Thebans/ . And the speech would be much
+for me, if I should wish to speak about all the figurings as many as the cola
+admit. And it is enough for the sake of introduction that so many have been
+said.
+
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+But that some of the cola also receive restylings, at one time taking
+additions not necessary as toward the thought, and at another time
+subtractions making the meaning incomplete, which poets and prose writers make
+for the sake of nothing else than of the harmony, in order that it may become
+pleasant and beautiful, I think needs very nearly little speech. For who would
+not agree that this diction which Demosthenes has said is surplus by an
+addition not necessary for the sake of the harmony? /for the one doing and
+preparing these things by which I would be taken, this man is at war with me,
+even if he does not yet throw or shoot./ For here shooting is not added for
+the sake of the necessary, but in order that the last colon, /even if he does
+not yet throw/, being rougher than needed and not pleasant to hear, may become
+more graceful by this addition. And still that Platonic period, which the man
+writes in the funeral speech, who would not say has been plastered on with a
+filling of diction not necessary? /for of deeds well done, by a speech well
+said, memory and adornment comes to be for those who acted from those who
+heard./ For here /from those who heard/ is said toward nothing necessary, but
+in order that the last colon /for those who acted/ may become equal-sided and
+rival to those before it. And what of this said in Aeschines, /you call upon
+yourself, you call upon the laws, you call upon the democracy/ , a three-colon
+among those very much praised, does it not hold to the same form? For what it
+was possible to take round in one colon in this manner /you call upon yourself
+and the laws and the democracy/ , this has been divided into three, the same
+diction having been placed often not for the sake of the necessary, but of
+making the harmony sweeter and besides passion for the speech. This then is
+the manner of the addition which comes to the cola; and of the subtraction
+what? Whenever something of the necessary things about to be said is going to
+pain and annoy the hearing, but having been taken away makes the harmony more
+graceful; such as these Sophoclean things are in the meters;
+I both close my eyes and look and rise
+/
+guarding others more myself than I am guarded; / 
+for here the second verse is composed of two cola not whole; for the diction
+would have been complete brought out thus /guarding others more myself than
+being guarded by others/ , but the meter would have been wronged and would not
+have had the grace it now has. And in prose speeches such things: /and I, that
+it is of the unjust to take away from all the exemption while accusing some, I
+will let go./ For here too each of the first two cola has been lessened; and
+they would have been self-complete, if someone had brought them out thus: /and
+I, that it is of the unjust, while accusing some as not fit to have the
+exemption, to take it away from all even those who obtained it justly, I will
+let go./ But it did not seem good to Demosthenes to make more forethought of
+the exactness of the cola than of the good rhythm.
+
+And let the same things have been said by me also about the so-called periods;
+for one must also fit these, both those leading and those following,
+fittingly, whenever it is proper to bring out the speech in periods; for the
+periodic is not useful everywhere. And this theorem itself is proper to the
+composing science, when one must use periods and up to how much and when not.
+
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+These things having been defined by me it would be following to say what are
+the things at which the one wishing to compose the diction well must aim and
+through what theorems one would hit what he wishes. And these two seem to me
+to be the most generic, which those composing both meters and speeches must
+desire, both the pleasure and the beautiful; for the hearing seeks after both
+these, suffering something like to sight; for that too, seeing molds and
+paintings and carvings and as many works as are of human hands, whenever it
+finds both the pleasant being in them and the beautiful, is satisfied and
+longs for nothing still. And let no one think it paradoxical if I make two
+ends and separate the beautiful from the pleasure, nor think it strange if I
+think some diction is composed pleasantly, but not beautifully, or
+beautifully, but not also pleasantly; for the truth bears such a thing and I
+claim nothing new; the diction at least of Thucydides and of Antiphon of
+Rhamnus is composed beautifully, by Zeus, if any others also are, and one
+would not have to blame them according to this, but not very pleasantly; and
+that of the Cnidian prose writer Ctesias and that of the Socratic Xenophon
+pleasantly as much as possible, but not beautifully as far as it ought; and I
+speak more commonly, but not once for all, since also among those some things
+have been fitted pleasantly and among these beautifully. And the composition
+of Herodotus has both these, for it is both pleasant and beautiful.
+
+* Section 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+And from which I think pleasant and beautiful diction will come to be, these
+four are the most proper and the strongest, melody and rhythm and change and
+the becoming that attends these three. And I range under pleasure both bloom
+and grace and good-mouthing and sweetness and the persuasive and all such
+things, and under the beautiful both magnificence and weight and
+solemn-speaking and dignity and the antique bloom and the things like to
+these. For these seem to me to be most proper and as it were heads of the
+others in each. At which then all who write in seriousness meter or song or
+the so-called prose diction aim, these are and I do not know if there is some
+other beside these; and those who have taken first place in some one of these
+and in both are many and good men; and to bring examples of each of them at
+present is not allowed, in order that I may not wear out the speech about
+these; and at the same time if something is proper to be said about some of
+them and there will be need somewhere of testimonies, there will be another
+more fitting time for them, whenever I sketch the characters of the harmonies.
+And now it is enough that these have been said about them. And I will go back
+again to the divisions which I made of both the pleasant composition and the
+beautiful, in order that the speech may also go for me according to a road, as
+they say.
+
+I said then that the hearing is pleased first by the melodies, then by the
+rhythms, third by the changes, and in all these by the becoming. And that I
+speak true things, I will furnish experience itself as witness, which it is
+not possible to slander, agreeing with the common passions; for who is there
+who is not led and bewitched by this melody, and by some other suffers nothing
+such, and is made akin by these rhythms, and is annoyed by these? And already
+I at least even in the most crowded theaters, which a crowd of every kind and
+unmusical fills, thought I learned that there is some natural kinship of all
+of us toward good melody and good rhythm, having seen a good citharist very
+well reputed shouted down by the multitude, because he struck one string out
+of symphony and destroyed the melody, and a piper using the instruments from
+the topmost habit suffering this same thing, because having blown spongily or
+not having pressed the mouth he piped a twitter or the so-called
+out-of-melody. And yet if someone should bid the layman himself to do some of
+these things which he charged the artists as having been missed, taking the
+instruments, he would not be able. Why then? Because this is of a science, of
+which we have not all taken part, and that is a passion which nature has given
+back to all. And I saw the same thing happening also upon the rhythms, all at
+once being vexed and displeased, when someone made a striking or a movement or
+a form in unsymmetrical times and made the rhythms disappear. And it is not
+that the things in-melody and well-rhythmed are leading of pleasure and we are
+all charmed by them, but the changes and the becoming do not have the same
+bloom and grace nor are they heard through similarly by all; but those too
+charm us all very much when they succeed and lead into much annoyance when
+they miss; for who would not agree, and I infer, that also of the instrumental
+muse and of that in song and of that in dance, when grace hits well in all,
+but has not made timely changes or has wandered from the becoming, the satiety
+is heavy, and the thing not fitting the subjects appears unpleasant. And I
+have not used an image alien to the affair. For the science of political
+speeches too was some music, differing from that in song and instruments in
+the quantity, not in the quality; for in this too the dictions have both
+melody and rhythm and change and becoming, so that also upon this the hearing
+is delighted by the melodies, and is led by the rhythms, and welcomes the
+changes, and longs in all for the akin, and the difference is according to the
+more and the less.
+
+The melody of dialect then is measured by one interval, the so-called fifth as
+nearest, and it is neither stretched beyond the three tones and a semitone
+toward the sharp nor let down more than this space toward the heavy. Not all
+diction, however, that is ranged according to one part of speech is spoken
+upon the same tension, but one upon the acute, and one upon the grave, and one
+upon both. And of those having both tensions some have the grave destroyed
+together with the acute according to one syllable, which we call circumflexed;
+and some keep each upon itself its own nature, separately in one and another.
+And for the disyllables there is no space through the middle of heaviness and
+acuteness; and for the polysyllables, of whatever size they ever are, the one
+having the acute tone is in among the many other graves. And the instrumental
+and songful muse uses more intervals, not the fifth only, but beginning from
+the octave it also sings the fifth and the fourth and the third and the tone
+and the semitone, and as some think, even the diesis perceptibly; and it
+thinks it right to range the dictions under the melodies and not the melodies
+under the dictions, as is clear from many other things and most of all from
+the songs of Euripides, which he has made Electra say in Orestes toward the
+chorus;
+be silent be silent, the white trace of a boot
+/
+set, do not make a noise;
+go away yonder, away from me from the bed. / 
+For in these /be silent be silent white/ is sung upon one sound, although each
+of the three dictions has both grave tensions and acute. And /of a boot/ has
+the third syllable same-toned with the middle, it being impossible for one
+word to take two acutes. And of /set/ the first becomes graver, and the two
+after it both acute-toned and same-voiced. And of /make a noise/ the
+circumflex has disappeared; for the two syllables are spoken on one tension.
+And /go away/ does not take the acute prosody of the middle syllable, but the
+tension of the third has gone over upon the fourth syllable. And the same
+thing happens also about the rhythms. For prose diction forces the times of
+neither any noun nor verb nor changes them, but such as it has received the
+syllables by nature, both the long and the short, such it keeps; but music and
+rhythmics change them, lessening and increasing beside, so that they often go
+over into the opposites; for they do not straighten the times by the
+syllables, but the syllables by the times.
+
+The difference having been shown by which music differs from the logical it
+would remain also to say those things, that the melody of the voice, and I
+mean not of the songful but of the bare, if it disposes the hearing
+pleasantly, would be called well-melodied, but not in-melody; and the symmetry
+in the times of the parts keeping the songlike figure well-rhythmed, but not
+in-rhythm; and wherein these differ from one another I will say at the proper
+time. And now I will try to give back the following things, how political
+diction would come to be, beside the composition itself, sweetening the
+hearing according to the melodies of the sounds and according to the
+symmetries of the rhythms and according to the varieties of the changes and
+according to the becoming for the subjects, since I hypothesized these as the
+heads.
+
+* Section 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+Not all the parts of diction are by nature to dispose the hearing similarly,
+just as not all visibles the seeing sense nor all tastables the tasting nor
+the things moving each the other senses; but some sounds also sweeten it and
+embitter it, and roughen it and smooth it, and make many other passions about
+it. And the cause is both the nature of the letters from which the voice has
+been composed, having many and different powers, and the weaving of the
+syllables figured in every way. Such power then the parts of diction having,
+since it is not possible to change the nature of each, it remains to hide by
+the mixing and blending and placing-beside the strangeness attending some of
+them, mixing smooth with rough and soft with hard and well-voiced with
+ill-voiced and easy-to-utter with hard-to-utter and long with short, and
+composing the rest in the same manner timely and neither taking many
+few-syllabled in a row (for the hearing is struck) nor more many-syllabled
+than enough, nor indeed same-toned beside same-toned nor same-timed beside
+same-timed. And one must also take over the cases of the nominals quickly (for
+being lengthened outside the moderate they very much stand against the ears)
+and continually dissolve the likeness both of many nouns placed in a row and
+of verbs and of the other parts, guarding against satiety, and not remain
+always upon the same figures but change often and not bring in the same
+tropes, but vary, nor indeed begin often from the same nor end into the same,
+stretching beyond the time of each.
+
+And let no one think that I command these things once for all as going to be
+causes of pleasure through everything or the opposites of annoyance; I am not
+so mindless; for I know that pleasure often comes to be from both, at one time
+from the like-kinded, and at another time from the unlike-kinded; but in all I
+think one must hunt the timely; for this is the strongest measure of pleasure
+and unpleasantness. And of the timely neither any orator nor philosopher has
+defined an art up to this at least, nor did Gorgias of Leontini, who first
+attempted to write about it, write anything even worthy of speech; nor does
+the affair have a nature to fall into some universal and in-art taking-round,
+nor is the timely huntable by science at all but by opinion. And this some,
+having exercised it upon many things and often, find it better than the
+others, and some, having left it unexercised, more rarely and as it were from
+chance.
+
+And that I may speak also about the others, I think the one about to dispose
+the hearing pleasantly must watch these things in the composition: either to
+fit together with one another the well-melodied and well-rhythmed and
+well-voiced words, by which the sense is both sweetened and softened out and
+as a whole disposed fittingly, or to weave in and weave together with those
+able to bewitch it the things not having such a nature, so that by the grace
+of those the unpleasantness of these is overshadowed; such a thing as the
+prudent generals do according to the arrangements of the armies; for they too
+hide the weak with the strong, and nothing of the force becomes unused for
+them. And I say one must rest the sameness by bringing in timely changes; for
+change is a pleasant instrument of every work. And last, which is also
+strongest of all, to give back to the subjects an akin and becoming harmony.
+And I think one must be put out of countenance by neither any noun nor verb,
+whatever has even been worn, that is going to be said not with shame; for I
+say no part of speech by which some body or affair is signified will be so low
+or filthy or having some other difficulty that it will have no fitting place
+in speeches. And I exhort, trusting the composition, to bring them out very
+manfully and having taken heart, using both Homer as an example, in whom even
+the cheapest of the words lie, and Demosthenes and Herodotus and the others,
+of whom I will make mention a little later according to whatever may fit about
+each. Let these things have been said by me about the pleasant composition,
+few from many theorems, but enough to be heads.
+
+* Section 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+So. And if someone should ask me how a beautiful harmony would come to be and
+from what theorems, I would say not otherwise, by Zeus, nor from some others
+than from those from which the pleasant; for the same things are productive of
+both, a noble melody, a dignified rhythm, a magnificent change, the becoming
+attending all these. For as some diction becomes pleasant, so then some noble,
+and as some rhythm polished, so also some other solemn, and as changing has
+grace, so also tension; and if the becoming will not have the most part of the
+beautiful, it would scarcely have it of anything else. From all these then I
+say the beautiful in harmony of diction must be practiced from the same things
+from which also the pleasant. And the cause here too is both the nature of the
+letters and the power of the syllables, from which the words are woven; about
+which it would be time to speak, as I promised.
+
+* Section 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+Beginnings then of the human and articulate voice, no longer receiving
+division, are what we call elements and letters; letters because they are
+signified by some lines, and elements because every voice takes its generation
+from these first and makes its dissolution into these last. Of the elements
+and letters then there is not one nature of all, but a first difference of
+them, as Aristoxenus the musician declares, according to which some complete
+voices, and some noises; voices the so-called vowels, and noises all the rest.
+And a second according to which of the not-vowels some are by nature to
+complete some noises of whatever kind by themselves, indicative of a hiss or a
+sibilant or a moan or some other such sounds; and some are without share of
+all voice and noise and not such as to be sounded by themselves; wherefore
+some have called these voiceless, and the others half-voiced. And some, having
+divided the first and elemental powers of the voice in three, called vowels as
+many as both are voiced by themselves and with others and are self-complete;
+and half-voiced as many as with vowels are brought out better than themselves,
+but by themselves worse and not self-completely; and voiceless as many as have
+neither the complete nor the half-complete voices by themselves, but are
+voiced out with others.
+
+And what their number is, it is not easy to say exactly, since the affair has
+furnished much difficulty also to those before us; for some thought the
+elements of the voice were thirteen in all, and the rest had been constructed
+from these; and some even more than the twenty-four which we now use. The
+theory about these then is more proper to grammar and metrics, and if someone
+wishes, also to philosophy; and it is enough for us, having hypothesized the
+beginnings of the voice to be neither fewer than 24 nor more, to say the
+things attending them, having made the beginning from the vowels.
+
+These then are seven in number, two short, both e and o, and two long, both
+eta and omega, and three two-timed, both a and i and y, for these are both
+stretched and contracted; and some call them two-timed, as I said, and some
+changeable. And all these are voiced with the windpipe sounding together with
+the breath and the mouth having been figured simply and the tongue working
+nothing but being at rest. Except that the long and of the two-timed those
+spoken long take a stretched and continuous pipe of the breath, and the short
+or those spoken shortly are brought out from a cutting-off and with one blow
+of breath and the windpipe having been moved for a short. Of these then the
+strongest and completing the sweetest voice are both the long and of the
+two-timed as many as are lengthened according to the bringing-out, because
+they are sounded for much time and do not cut off the tension of the breath;
+and worse the short or those spoken shortly, because they are small-voiced and
+are scarce of the sound. And of the long themselves again the best-voiced is
+a, whenever it is stretched; for it is spoken with the mouth being opened to
+the most and the breath being carried up toward the palate. And second eta,
+because it plants the sound down about the base of the tongue and not up, and
+with the mouth being opened moderately. And third omega; for the mouth is
+rounded in it and the lips are drawn around and the breath makes the blow
+about the tip of the mouth. And still less than this y; for with a noteworthy
+contraction coming to be about the lips themselves the sound is choked and
+falls out narrow. And last of all i; for the striking of the breath comes to
+be about the teeth with the mouth being opened little and the lips not
+brightening the sound. And of the short neither is well formed, but o is less
+ill-formed than e; for it opens the mouth better than the other and takes the
+blow more about the windpipe.
+
+This then is the nature of vowel letters; and of half-voiced such: there being
+eight of them in number five are simple, both l and m and n and r and s; and
+double three, both z and x and ps. And they call them double either because
+they are composite, z through s and d, and x through k and s, and ps through p
+and s, taking a private voice destroyed together with one another, or because
+each occupies the place of two letters being taken along in the syllables. Of
+these then the double are stronger than the simple, since they are greater
+than the others and seem to approach the complete more; and the simple lesser
+because the sound is gathered into shorter places. And each of them is voiced
+in some such manner: l with the tongue standing toward the palate and the
+windpipe sounding together; and m with the mouth pressed by the lips, and the
+breath being divided through the nostrils; and n with the tongue shutting off
+the carrying of the breath and transferring the sound upon the nostrils; and r
+with the tip of the tongue fanning off the breath and standing up toward the
+palate near the teeth; and s with the tongue being brought up toward the
+palate as a whole, and the breath being carried through the middle of them and
+thrusting out about the teeth the thin and narrow whistle. And the remaining
+three half-voiced take the mixed noise from one of the half-voiced, s, and
+three voiceless, both d and k and p.
+
+These are figurings of half-voiced letters. And they cannot all move the
+hearing similarly; for l sweetens it and is sweetest of the half-voiced, and r
+roughens it and is noblest of those of like kind; and those sounded together
+through the nostrils, both m and n, dispose it somehow in the middle,
+completing hornlike sounds. And s is graceless and unpleasant and having
+become surplus pains very much; for the whistling seems to touch a beastlike
+and irrational voice rather than a logical one; some of the ancients at any
+rate used it rarely and guardedly, and there are some who even made whole
+songs without sigma; and Pindar also makes this clear in the things in which
+he says;
+/
+formerly both the stretched-out song crept for the dithyramb
+and the san counterfeit for humans. / 
+And of the other three letters which are called double, z sweetens the hearing
+more than the others; for x gives back the whistling through k and ps through
+p, both being smooth, but this is aspirated quietly with the breath and is
+noblest of those of like kind. And about the half-voiced let so many things
+be.
+
+And of the so-called voiceless, being nine, three are smooth, and three rough,
+and three between these; smooth k and p and t, rough th and ph and ch, and
+common to both b and g and d. And each of them is voiced in this manner: three
+from the tips of the lips, whenever, the mouth having been pressed, then the
+breath being thrown forward from the windpipe looses its bond. And of them p
+is smooth, and ph rough, and b middle of both; for it is smoother than the
+one, and rougher than the other. This is one coupling of three voiceless
+letters spoken with like figure, but differing by smoothness and roughness.
+And three others are spoken with the tongue being planted against the mouth at
+the tip according to the raised teeth, then being fanned off by the breath and
+giving it the way out down about the teeth; and these differ by roughness and
+smoothness; for of them t is smooth, and th rough, and d middle and common.
+This is a second coupling of three voiceless letters. And the remaining three
+of the voiceless are spoken with the tongue standing up toward the palate near
+the pharynx and the windpipe sounding under with the breath, these too
+differing from one another in nothing in the figure, except that k is spoken
+smoothly, and ch roughly, and g moderately and between both. Of these the
+strongest are as many as are spoken with much breath, and second as many as
+moderately, and worst as many as smoothly; for these have their own power
+only, and the rough also the addition of the breath, so as to be somewhere
+near more complete than those.
+
+* Section 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+From the letters then, being so many and having such powers, the so-called
+syllables come to be. And of these long are as many as have been composed from
+the long vowels or from the two-timed whenever they are brought out long, and
+as many as end into a long or a letter spoken long or into some of the
+half-voiced and voiceless; and short as many as have been composed from a
+short vowel or one taken shortly, and as many as end into these. And there is
+not one nature of length and shortness of syllables, but some are even longer
+than the long and shorter than the short. And this will be clear upon the
+examples.
+
+It is agreed then that a syllable is short which a short vowel letter o makes,
+as hodos is said. Let someone add to this one of the half-voiced letters, r,
+and let it become Rhodos; the syllable still remains short, except not
+similarly but it will have some tiny variation beside the former. Let one
+still add to this one of the voiceless letters, t, and let it become tropos;
+this will be greater than the former syllables and still remains short. Let a
+third letter still be added to the same syllable, s, and let it become
+strophos; this will become longer than the shortest by three audible
+additions, remaining still short. These then are four differences of a short
+syllable, having the irrational sense as measure of the variation. And the
+same account also upon the long. For the syllable coming to be from eta, being
+long by nature, having been increased by additions of four letters, three
+being put before and one being put under, according to which splen is said,
+would surely be said to be greater than that former one-lettered one; and
+being lessened again according to each one of the letters added it would have
+the variations toward the less audible. And what the cause is that neither the
+long go out of their own nature being lengthened as far as 5 letters nor the
+short being contracted into one from many letters fall out of the shortness,
+but those too are contemplated in a double ratio of the short and these in a
+half of the long, it is not necessary to examine at present. For it is enough
+that as much as fitted the present hypothesis has been said, that a short
+syllable also differs from a short and a long from a long and not every short
+and every long has the same power either in bare speeches or in poems or songs
+constructed through meters or rhythms.
+
+This then is a first theorem of the passions in the syllables, and another of
+this sort: the letters having many differences not only about the lengths and
+the shortnesses but also about the sounds, about which I have spoken a little
+before, there is every necessity that the syllables composed from these or
+woven through these also keep together both the private power of each and the
+common of all, which comes to be through the blending and placing-beside of
+them; from which both soft voices come to be and hard and smooth and rough,
+both sweetening the hearing and embittering it, and contracting it and pouring
+it out, and constructing every other natural disposition; and these are
+countless in number as many as they are.
+
+These things then the most graceful of poets and prose writers having learned
+construct some words themselves, weaving them fittingly with one another, and
+they artfully vary the letters and the syllables akin to whatever passions
+they may wish to set beside, as Homer often does, upon the windward beaches
+wishing to show out the unceasing sound by the stretching-beside of the
+syllables
+/
+the shores shout as the sea belches out; / 
+and upon the blinded Cyclops both the greatness of the pain and the slow
+search through the hands of the door of the cave
+/
+and the Cyclops groaning and laboring in pains,
+groping with his hands; / 
+and somewhere else wishing to show much and earnest entreaty
+/
+not even if far-working Apollo should suffer very many things,
+rolling forward and forward of father Zeus aegis-bearing. / 
+It is possible to find countless such things in him showing length of time or
+greatness of body or excess of passion or stillness of standing or some of the
+like by nothing so other than the constructions of the syllables; and others
+worked oppositely to these into shortness and speed and haste and the things
+of like kind with these, as these have it
+/
+sobbing she spoke among the slave women / 
+and
+/
+and the charioteers were struck out, when they saw unwearied fire. / 
+For upon the one the cutting-together of the breath is shown and the disorder
+of the voice, and upon the others the standing-out of the thought and the
+unexpectedness of the terror; and each of these the lessening of the syllables
+and of the letters makes.
+
+* Section 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+And the poets and speech-writers themselves then construct, looking toward an
+instrument, words akin and indicative of the subjects, as I said; and many
+they also take from those before as those constructed them, as many as are
+imitative of the affairs; as these have it
+/
+for a great wave roared toward the dry of the mainland.
+and he himself screaming flew on the blasts of the wind.
+it roars greatly on the beach, and the sea crashes.
+he watched the hiss of arrows and the thud of javelins. / 
+And a great beginning and teacher of these is nature which makes us imitative
+and setters of the words, by which the affairs are shown according to some
+reasonable likenesses also moving of the thought; by which we have been taught
+to say both bellowings of bulls and neighings of horses and snortings of goats
+and roar of fire and crash of winds and whistling of ropes and countless other
+things like to these, some indications of voice, and some of form, and some of
+work, and some of passion, and some of movement, and some of rest, and some of
+some other instrument whatever; about which many things have been said by
+those before us, and the strongest as to the first who brought in the account
+about etymology, Plato the Socratic, in many other places and most of all in
+the Cratylus.
+
+What then is the head of this speech for me? That beside the weavings of the
+letters the power of the syllables comes to be varied, and beside the
+composition of the syllables the nature of the words of every kind, and beside
+the harmonies of the words the speech many-formed; so that there is much
+necessity that diction be beautiful in which there are beautiful words, and
+that syllables and beautiful letters be causes of beauty of words, and that
+pleasant dialect come to be from the things sweetening the hearing according
+to the similar of words and syllables and letters, and that the differences
+according to part in these, according to which both the characters and the
+passions and the dispositions and the works of the persons and the things
+sitting with these are shown, come to be such from the first construction of
+the letters.
+
+And I will use few examples of this speech for the sake of clearness; for the
+others being many you will find contributing them upon yourself. Homer then,
+the most many-voiced of all poets, whenever he wishes to exhibit bloom of a
+well-formed sight and beauty leading of pleasure, will use both the strongest
+of the vowels and the softest of the half-voiced, and he will not thicken the
+syllables with the voiceless nor cut together the sounds placing the
+hard-to-utter beside one another, but he will make some gentle harmony of the
+letters and flowing without pain through the hearing, as these have it
+/
+and wise Penelope went from the chamber
+like to Artemis or golden Aphrodite.
+in Delos once such beside the altar of Apollo
+I noticed a young shoot of a palm coming up.
+and I saw very beautiful Chloris, whom once Neleus
+married for her beauty, when he gave countless bride-gifts. / 
+And whenever he brings in a pitiable or fearful or arrogant sight, he will set
+not the strongest of the vowels but the worst-sounding, and of the noise-like
+or voiceless he will take the hardest to utter and will thicken the syllables
+with these, such as these are
+/
+and terrible he appeared to them, damaged with brine.
+and upon it a Gorgon grim-faced was crowned
+looking terribly, and around both Terror and Fear. / 
+And wishing to imitate in the diction a flowing-together of rivers into one
+place and a crash of waters being mixed he will not work smooth syllables but
+strong and resistant
+/
+as when winter-flowing rivers flowing down from mountains
+throw together mighty water into a meeting-glen. / 
+And bringing in someone being forced against an opposite stream of a river
+with his arms and some things holding against, and some being carried under,
+he will make both cuttings-back of syllables and delays of times and
+brace-against of letters
+/
+and terribly around Achilles the stirred wave stood,
+and the stream pushed falling on the shield, nor with his feet
+could he plant himself. / 
+And exhibiting a noise of humans being dashed about rocks and a pitiable fate
+he will spend time upon the most unpleasant and worst-voiced letters, nowhere
+smoothing the construction nor sweetening it;
+/
+and having snatched two together like puppies against the earth
+he struck; and the brain flowed to the ground, and wet the earth. / 
+It would be much work to speak, if I should wish to bring examples of all
+things which someone would demand according to this place; so having been
+satisfied with the things said I will pass over to the next. I say then that
+the one wishing to work beautiful diction in composing the voices must gather
+into the same as many words as have taken round fair-speaking or magnificence
+or solemnity. And some things about these have been said also by Theophrastus
+the philosopher more commonly in the things about diction, where he defines,
+for the sake of example, what words are beautiful by nature, of which being
+composed he thinks the phrasing will become beautiful and magnificent, and
+again others small and low, from which he says neither a useful poem will be
+nor a speech. And by Zeus these things have not been said off the mark by the
+man. If then it should be allowed that all the parts of diction by which the
+affair is going to be shown be well-voiced and fair-speaking, it is a work of
+madness to seek the worse; but if this should be impossible, as it is upon
+many, one must try by the weaving and mixing and placing-beside to make
+disappear the nature of the worse, which Homer is accustomed to do upon many.
+For if someone should ask any one of poets or orators what solemnity or
+fair-speaking these words have which lie for the Boeotian cities, Hyria and
+Mycalessus and Graea and Eteonus and Scolus and Thisbe and Onchestus and
+Eutresis and the others in a row of which the poet has made mention, no one
+would have to say even any at all; but so beautifully has that man woven them
+together and divided them with well-voiced fillings that they appear most
+magnificent of all words;
+/
+of the Boeotians Peneleos and Leitus led
+and Arcesilaus and Prothoenor and Clonius,
+who dwelt Hyria and rocky Aulis
+and Schoenus and Scolus and many-ridged Eteonus,
+Thespeia and Graea and broad-danced Mycalessus,
+who dwelt about Harma and Eilesium and Erythrae,
+who held Eleon and Hyle and Peteon,
+Ocalee and Medeon the well-built city. / 
+Speaking among those who know I do not think there is need of more examples.
+For the whole catalogue is such for him and many others, in which having been
+forced to take words not beautiful by nature he adorns them with other
+beautiful ones and looses their difficulty by the good form of these. And
+about these things enough.
+
+* Section 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+And since I also said that the rhythms have no small portion of the dignified
+and magnificent composition, in order that no one may think I speak at random
+rhythms and meters proper to a theory of music bringing them into a dialect
+neither rhythmical nor in meter, I will give back also the account about
+these. And it has itself thus:
+
+Every noun and verb and other part of diction, whatever is not monosyllabic,
+is spoken in some rhythm; and I call the same thing a foot and a rhythm.
+Differences then of disyllabic diction are three. For it will be either from
+both short or from both long or from the one short and the other long. And of
+this third rhythm the manner is double: one beginning from a short and ending
+into a long, and one from a long and ending into a short. The short-syllabled
+then is called both leader and pyrrhic, and it is neither magnificent nor
+solemn; and its figure is of this sort
+/
+and you speak according to a foot newly poured songs. /
+And the one having both syllables long has been called spondee, and it has
+great dignity and much solemnity; and an example of it is this
+/
+which then shall I rush, this
+or that, that or this? /
+And the one composed from a short and a long, if it takes the leading short,
+is called iambus, and it is not ignoble; and if it begins from the long,
+trochee, and it is softer than the other and more ignoble; and an example of
+the former is of this sort
+/
+it is present at leisure, child of Menoetius. /
+and of the other
+/
+heart, heart, stirred by helpless cares. /
+differences then of disyllabic parts of diction and / rhythms and figures so
+many; and of trisyllabic others more than the things said and having a more
+varied theory. For the one composed from all short, and called by some choree
+tribrach foot, of which an example is of this sort
+/
+Bromius, spear-bearing, Enyalian, war-noisy, /
+is both low and unsolemn and ignoble, and nothing noble would come to be from
+it. And the one from all long, and the metricians call it molossus, is both
+high and dignified and has stepped through to much; and an example of it is of
+this sort
+/
+O most beautiful saviors of Zeus and Leda. /
+And the one from a long and two short having taken the long in the middle has
+been named amphibrach, and it is not very much of the well-figured rhythms but
+has been broken through and has much the female and the unpleasant, such as
+these are
+/
+Iacchus triumphant, you chorus-leader of these. /
+And the one taking the two short beforehand is called anapaest, and it has
+much solemnity; and where one must put some greatness around the affairs or
+passion, it is fit to be taken along; the figure of this is of this sort
+/
+it is heavy for me to have a head-covering of the head. /
+And the one beginning from the long, and ending into the short, is called
+dactyl, and it is very solemn and most noteworthy into the beauty of the
+interpretation, and the heroic meter at least is adorned from this for the
+most part; and an example of it is this
+/
+carrying me from Ilios a wind brought me to the Cicones. /
+The rhythmicians however say that the long of this foot is shorter than the
+complete, and not having to say by how much, they call it irrational. There is
+another having a rhythm answering this, which beginning from the short ends
+upon the irrational; this having separated from the anapaests they call
+cyclic, bringing an example of it of this sort
+/
+the high-gated city has been poured down upon the earth. /
+About which there would be another speech; except that both at least of the
+very beautiful are the rhythms. One kind of trisyllabic rhythms still remains,
+which has been composed from two long and a short, and it makes three figures;
+for the short coming to be in the middle, and the long at the ends, it is both
+called cretic and is not ignoble. And a sample of it is such
+/
+and they were pressed with floating wagons bronze-beaked. /
+And if the two long occupy the beginning, and the short the end, such as these
+are
+/
+for you Phoebus and the Muses sharing altars, /
+the figure is very manlike and fit for solemn-speaking. And the same will
+happen even if the short is put before the long; for this rhythm too has
+dignity and greatness; and an example of it is this
+/
+what shore, what wood shall I run? where shall I go? /
+For both these feet names lie by the metricians, bacchius for the former, and
+hypobacchius for the other. These twelve rhythms and feet are the first
+measuring out all diction both in meter and without meter, from which both
+verses and cola come to be; for the other feet and rhythms are all composite
+from these. And a simple rhythm or foot will be neither less than two
+syllables nor greater than three. And about these I do not know what more one
+must say.
+
+* Section 18
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+And the things for the sake of which I was now led to say these beforehand
+(for it was not otherwise set before me to touch theorems of metricians and
+rhythmicians, but for the sake of the necessary), these are, that through the
+noble and dignified and having greatness rhythms composition becomes dignified
+and noble and magnificent, and through the ignoble and low some without
+greatness and unsolemn, whether each of these rhythms is taken by itself, or
+they are woven with one another according to the like-couplings. Clear. If
+then there will be power to compose the diction from all strongest rhythms, it
+would have it for us according to prayer; but if it should be necessary to mix
+the worse with the stronger, as happens upon many (for the words lie for the
+affairs as it happened), one must manage them artfully and steal the necessity
+by the grace of the composition, especially as we have much license; for no
+rhythm is driven out of diction without meter, as from that in meter.
+
+And it remains to set beside testimonies of the things I have said, in order
+that the speech may also take persuasion for me. And they will be few about
+many. Come then, who would not agree that this diction of Thucydides in the
+funeral speech has been composed both with dignity and magnificently: /the
+many of those who have already spoken here praise the one who added this
+speech to the law, as it is beautiful for it to be spoken over those buried
+from the wars/ . What then is it that has made this composition magnificent?
+That the cola have been composed from such rhythms. For three leading feet of
+the first colon are spondees, and the fourth anapaest, and the one after this
+again a spondee, then a cretic, all dignified. And the first colon is solemn
+through these; and the next this /they praise the one who added this speech to
+the law/ has two hypobacchii as the first feet, and a cretic the third, then
+again two hypobacchii and a syllable by which the colon is completed; so that
+reasonably this too is solemn, composed from the noblest and most beautiful
+rhythms. And the third colon then /as it is beautiful for it to be spoken over
+those buried from the wars/ begins from the cretic foot, and takes second the
+anapaest and third a spondee and fourth again an anapaest, then two dactyls
+next, and two spondees the last, then a catalexis. This too then has become
+noble through the feet. And most things in Thucydides are such, or rather few
+are those not having themselves thus, so that reasonably he seems to be high
+and fair-speaking as bringing on noble rhythms.
+
+And this Platonic diction, with what else would someone say it has been
+adorned so as to be dignified and beautiful, if not by being composed through
+the most beautiful and most noteworthy rhythms? For it is of the very clear
+and cried-around, which the man has used according to the beginning of the
+funeral speech: /in deed these have for us the things belonging to themselves;
+having obtained which they travel the fated journey/ . In these there are two
+cola which fill out the period, and the rhythms dividing these are these: a
+bacchius the first; for I at least would not think it right to rhythm this
+colon as iambic, considering that not running-over and swift but delayed and
+slow times belong to be given back to those being pitied; and a spondee the
+second; and the next a dactyl, the crasis being divided; then the one after
+this a spondee; and the next rather a cretic than an anapaest; then, as my
+opinion, a spondee; and the last a hypobacchius, and if someone wishes, an
+anapaest; then a catalexis. Of these rhythms none is low or ignoble. And of
+the next colon this /having obtained which they travel the fated journey/ two
+first feet are cretics, and spondees the two after these; after which again a
+cretic, then last a hypobacchius. There is necessity then that the speech
+composed from all beautiful rhythms be beautiful. Countless such things it is
+possible to find also in Plato. For the man is most divine at seeing together
+good melody and good rhythm, and if he had been so clever at selecting the
+words as surplus at composing, even now he would either have driven past
+Demosthenes for the sake of beauty of interpretation, or have made it
+disputable. But now in the selection he sometimes misses, and most of all in
+the things in which he may pursue the high and surplus and well-constructed
+phrasing, about which it is shown more clearly by me elsewhere. But he
+composes the words both pleasantly and beautifully, by Zeus, and one would not
+have to blame him according to this part.
+
+I will still set beside the diction of one, to whom I give back the prizes of
+cleverness in speeches. For Demosthenes is some limit both of selection of
+words and of beauty of composition. In the speech about the crown then there
+are three cola which fill out the first period, and those measuring these out
+are these rhythms: /first, O men of Athens, I pray to all the gods and all the
+goddesses/ . And a bacchius rhythm begins the colon, then a spondee follows,
+then both an anapaest and after this another spondee, then next three cretics,
+and a spondee the last. And of the second colon this /how much goodwill having
+I continue both for the city and for all you/ the first foot is a
+hypobacchius, then a bacchius, and if someone wishes, a dactyl; then a cretic;
+after which there are two composite feet the so-called paeans; which a
+molossus or bacchius follows, for it is allowed to divide it either way; and
+last a spondee. And of the third colon this /that so much be present for me
+from you into this here contest/ two hypobacchii begin, and a cretic follows,
+to which a spondee has been joined; then again a bacchius or cretic, and last
+again a cretic, then a catalexis. What then prevented there being a beautiful
+harmony of diction, in which there is neither a pyrrhic foot nor an iambic nor
+an amphibrach nor any of the chorees or trochees? And I do not say this, that
+each of those men has never used also the more ignoble rhythms (for he has
+used them), but they have hidden them well and woven them together, having
+divided the worse with the stronger.
+
+And those for whom there did not come to be forethought of this part, some
+brought out writings low, and some broken down, and some having some other
+shame and formlessness. Of whom first and middle and last is the Magnesian
+sophist Hegesias; about whom by Zeus and all the other gods I do not know what
+one must say, whether there was so much lack of sense and thickness about him
+that he did not see together who are ignoble or noble rhythms, or so much
+god-harm and destruction of the wits that knowing the stronger he then chose
+the worse, which I am even more persuaded; for of ignorance it is also to
+succeed in many places, and of forethought never. At any rate in so many
+writings as the man has left, one would not find one page composed luckily. He
+seems then to have supposed these stronger than those and to make them with
+seriousness, into which having fallen through necessity someone in an offhand
+speech would put through shame a man having spirit. And I will set also
+diction of this man from the history, in order that it may become clear to you
+from the setting-against, how much dignity the noble in rhythms has, and how
+much shame the ignoble. And the affair which the sophist takes is of this
+sort. Alexander besieging Gaza, some place of Syria very secure, both becomes
+wounded according to the assault and takes the place in time. And being
+carried by anger he both slaughters all those caught in it, having turned over
+to the Macedonians to kill the one they met, and having taken their leader
+prisoner, a man in dignity both of fortune and of form, having bid him bind
+him living from a chariot-board and drive the horses at full force, he
+destroys him in the sight of all. Of these things one would not have to say
+more terrible sufferings nor more fearful to sight; how then the sophist has
+interpreted these, it is worth seeing, whether solemnly and highly or lowly
+and ridiculously.
+
+/And the king having the taxis was leading before. And somehow it had been
+planned for the best of the enemy to meet him as he came on; for this had been
+known, that if they prevailed over one they would throw out together also the
+multitude. This hope then ran together into daring, so that Alexander never
+ran a risk before thus. For a man of the enemy having been bent together onto
+his knees seemed to Alexander to do this for the sake of supplication. And
+having admitted him near he turns aside a little as he brought the sword upon
+the flaps of the breastplate, so that the blow became not most timely. But him
+he himself destroyed striking upon the head with the knife, and fresh anger
+filled the others. So then the desperation of the daring stood each out of
+pity, of those who saw, and of those who heard, so that six thousand of the
+barbarians were cut down under that trumpet. Batis himself however Leonnatus
+and Philotas brought up living. And seeing him very fleshy and great and
+grim-faced (for he was black and the color), having hated him for the things
+he had planned and the form he bid them, having passed a bronze bit through
+the feet, drag him in a circle naked. And being pressed by evils about many
+roughnesses he cried. And this itself was, what I say, that which gathered
+humans. For the toil stretched on, and he shouted barbarian, beseeching a
+master; and the solecism made one laugh. And the fat and the bulk of the flesh
+showed another stout Babylonian animal. The crowd then mocked, committing a
+soldierly outrage, an ugly-looking and in manner clumsy enemy/ .
+
+Are these then like those Homeric things, in which Achilles is maltreating
+Hector after the end? And yet that passion at least is less; for the outrage
+is into an unfeeling body; but nevertheless it is worth seeing by how much the
+poet has differed from the sophist;
+/
+he spoke, and devised unseemly works for noble Hector;
+behind both feet he pierced the tendons
+from the ankle to the heel, and fastened oxhide straps,
+and bound him from the chariot; and let the head be dragged.
+and having gone up into the chariot and having lifted the famous arms
+he whipped them to drive; and they not unwilling flew.
+and of him being dragged there was a dust-cloud; and around the hair
+dark was filled, and the head all in the dust
+lay formerly graceful; and then Zeus to enemies
+gave him to be maltreated in his own fatherland.
+so his head was all in dust; and his mother
+tore her hair, and threw off the shining veil
+far; and she wailed very greatly seeing her child.
+and the dear father groaned pitiably, and around the people
+were held in wailing and groaning through the city.
+and it was most like, as if all
+beetling Ilios were being smoldered with fire from the top. /
+Thus it belonged for a noble body and terrible sufferings to be spoken by men
+having spirit and mind. But as the Magnesian has said, it would be spoken by
+women or broken men and not even by these with seriousness, but upon mockery
+and laughter. What then was the cause of the nobility of those poems, and of
+the lowness of these twaddlings? The difference of the rhythms most of all,
+even if not alone. For in those there is no unsolemn or unapproved verse, and
+here no period which will not pain.
+
+Having spoken then also about the rhythms how much power they have, I will
+pass over to the remaining things.
+
+* Section 19
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+And my third theorem of the things making a beautiful harmony was change. And
+I mean not that from the stronger upon the worse (for that is very silly) nor
+indeed that from the worse upon the stronger, but the variety in the
+like-formed. For even all the beautiful things have satiety, as also the
+pleasant, being in the sameness; but being varied by the changes they always
+remain new. For those writing the meters and the songs then it is not allowed
+to change all things, or not for all nor as far as they wish. For example for
+the epic poets it is not allowed to change meter, but there is necessity that
+all the verses be hexameters; nor indeed rhythm, but they will use those
+beginning from a long syllable and not even all of these. And for those
+writing the songs it is not possible to change the melody of the strophes and
+antistrophes, but whether they hypothesize enharmonic or chromatic or diatonic
+melodies, in all the strophes and antistrophes one must keep the same
+leadings; nor indeed the rhythms containing the whole strophes and the
+antistrophes, but these too must remain the same; and about the so-called
+epodes it is allowed to move both these, both the melody and the rhythm. And
+the cola from which a period has been composed have been given to them upon
+much license to divide variously, putting around them at another time other
+sizes and figures, until they complete the strophe; then again one must make
+the same meters and cola. The ancient song-makers then, and I mean both
+Alcaeus and Sappho, made small strophes, so that in few cola they did not
+bring in many changes, and they used epodes very few; but those about
+Stesichorus and Pindar, having worked the periods greater, distributed them
+into many meters and cola for the sake of nothing else than love of change.
+And the dithyramb-makers even changed the modes, making both Dorian and
+Phrygian and Lydian in the same song, and they exchanged the melodies, at one
+time making them enharmonic, and at another time chromatic, and at another
+time diatonic, and they continued using much license in the rhythms, at least
+those according to Philoxenus and Timotheus and Telestes, since among the
+ancients the dithyramb too was ordered.
+
+And prose diction has all freedom and license to vary the composition with the
+changes, however it wishes. And diction is strongest of all, which would have
+most rests and harmonious changes, whenever this is said in a period, and this
+outside a period and this period is woven from more cola, and this from fewer,
+and of the cola themselves the one is shorter, and the other longer and the
+one more self-working the other slower, and the other more exact, and rhythms
+at another time others and figures of every kind and tensions of voice the
+so-called prosodies different, stealing the satiety by the variety. And in
+such things that too has some grace which has been so composed as not to seem
+to have been composed. And I think there is not need of many speeches into
+this part; for that change is both sweetest and most beautiful in speeches, I
+am persuaded all know. And I make an example of it all the diction of
+Herodotus, and all that of Plato, and all that of Demosthenes; for it is
+impossible to find others than these who have used more episodes and more
+timely varieties and more many-formed figures; and I mean the one as in the
+figure of history, and the one as in the grace of dialogues, and the one as in
+the use of agonistic speeches. But the choice of Isocrates and of those known
+to that man was not like these, but although these men composed many things
+pleasantly and magnificently they are not very lucky about the changes and the
+variety; but there is among them some one circle of period, a like-formed
+order of figures, the same watching of weaving of vowels, many other such
+things striking the hearing. I do not then accept that choice according to
+this part. And perhaps many other graces bloomed upon Isocrates himself hiding
+this formlessness, but among those after that man from the fewer of the other
+successes this miss becomes more conspicuous.
+
+* Section 20
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+There is still left for me some speech, that about the becoming. For the
+becoming must also be present for all the other instruments, and if any other
+work misses this part, even if not of the whole, it misses at least of the
+strongest. About this whole form then this is not the time to look over; for
+some deep theory of it needing many speeches. And as many things as stretch
+toward this part about which I happen to be making the speech, if not also all
+nor the most, as many at least as are allowed, let them be said.
+
+It being agreed then by all that the becoming is that which fits the
+underlying persons and affairs, as there would be some selection of the words,
+one becoming for the subjects and one unbecoming, so surely also composition.
+And one must take truth as an example of this. And what I say is such: we do
+not use like composition being angry and rejoicing, nor wailing and fearing,
+nor being in some other passion or evil, as whenever we consider that nothing
+at all is disturbing us or grieving us beside. For the sake of a sample I have
+said these few about many. There are countless others as many as someone would
+have to say wishing to count out all the forms of the becoming; and one which
+I have most ready and most common to say about it, this I will say. The same
+humans being in the same constitution of the soul, whenever they report
+affairs at which they happen to have been present, do not use like composition
+about all but become imitative of the things being reported also in composing
+the words, practicing nothing but being led to this naturally. Watching these
+things then the good poet and orator must be imitative of the affairs about
+which he may bring out the speeches, not only according to the selection of
+the words but also according to the composition. Which the most divine Homer
+is accustomed to do although having one meter as also few rhythms, but
+nevertheless always making something new in them and working artfully, so that
+it differs nothing for us to see the affairs happening or being said. And I
+will say a few, with which someone would be able to use as examples of many.
+Odysseus then reporting to the Phaeacians his own wandering and the descent
+into Hades, having spoken the sights of the evils there, gives them back. In
+these he also narrates the sufferings about Sisyphus, for whom they say the
+underground gods have made a limit of the release from the terrible things,
+whenever he rolls a stone up over some hill; and this is impossible, the stone
+falling down again whenever it comes to the top. How then he will show these
+imitatively according to the composition itself of the words, it is worth
+seeing;
+/
+and indeed I saw Sisyphus having strong pains,
+lifting a monstrous stone with both;
+he then bracing with hands and feet
+pushed the stone up toward the hill; /
+here it is the composition that shows each of the things happening, the weight
+of the stone, the toilsome movement from the earth, the one bracing with his
+limbs, the one going up toward the hill, the rock being pushed up with
+difficulty; no one would say otherwise. And beside what has each of these come
+to be? Not by Zeus at random nor from the automatic. First in the two verses
+in which he rolls the stone up, besides two verbs the remaining parts of the
+diction are all either disyllabic or monosyllabic; then by the half the long
+syllables are more than the short in each of the verses; then all the
+harmonies of the words have stepped through sizable steppings and stand apart
+very perceptibly, either the vowel letters colliding or the half-voiced and
+voiceless being joined; and all is composed with dactyl and spondee rhythms,
+the longest and having most stepping. What then can each of these do? The
+monosyllabic and disyllabic dictions, leaving many times between one another,
+imitated the time-taking of the work; and the long syllables having some
+plantings and sittings-in the resistance and the heavy and the
+with-difficulty; and the gap between the words and the placing-beside of the
+roughening letters the intervals of the activity and the holdings and the
+greatness of the toil; and the rhythms contemplated in length the stretching
+of the limbs and the dragging-through of the one rolling and the bracing of
+the stone. And that these are not works of nature acting automatically but of
+art trying to imitate the things happening, the things said next after these
+show. For the stone turning back again from the peak and rolling down he has
+not interpreted in the same manner, but having sped and twisted the
+composition; for having said beforehand in the same figure
+/
+but when it was about
+to throw over the top /
+he puts this on
+/
+then a mighty force turned it back;
+again then to the ground the shameless stone rolled. /
+Does not the composition of the words roll together with the weight of the
+stone, or rather has the speed of the report outrun the carrying of the stone?
+It seems so to me. And what is the cause here again? For these too were worth
+seeing: the verse showing the down-carrying of the stone has no monosyllabic
+diction, and only two disyllabic. This then also first does not stand the
+times apart but speeds them; then there being seventeen syllables in the verse
+ten are short syllables, and seven long and these not even complete; there is
+necessity then that the phrasing be dragged down and contracted, being drawn
+by the shortness of the syllables. Still besides these no word has taken a
+noteworthy standing-apart from a word; for neither vowel to vowel nor
+half-voiced to half-voiced or voiceless, which are by nature to roughen and
+stand the harmonies apart, is anything lying beside. There does not then come
+to be a perceptible standing-apart, the dictions not having been hung apart,
+but they slip together with one another and are carried down together and in
+some manner one comes to be from all through the exactness of the harmonies.
+And what is most worth wondering at of the others, no rhythm of the long which
+have a nature to fall into heroic meter, neither spondee nor bacchius, has
+been mixed into the verse, except upon the end; and all the others are
+dactyls, and these having the irrationals mixed beside, so that some do not
+differ much from trochees. There is nothing then acting against the phrasing
+being well-running and round and flowing down, compacted from such rhythms.
+
+Many such things someone would have to show said in Homer; and it seems to me
+that these too suffice, in order that it may be born for me to speak also
+about the others. At which then those about to make pleasant and beautiful
+composition both in poetry and in speeches without meter must aim, these
+according to my opinion are at least the most proper and strongest. And as
+many as it was not possible, being both less than these and dimmer and through
+multitude hard to take round in one writing, these I will hypothesize besides
+in the daily exercises and I will use testimonies of many and good poets and
+prose writers and orators. And now the remaining things of those I promised
+and no less necessary to have been said, these still having added to the
+speech I will stop: what differences of composition there are and what the
+character of each is for the most part, both to mention those who took first
+place in them and to furnish samples of each, and whenever these take an end
+for me, then also to distinguish those things puzzled among the many, what it
+is that makes prose diction appear like a poem remaining in the figure of
+speech, and poetic phrasing similar to prose speech keeping the poetic
+solemnity; for almost those who have discoursed or made poems most strongly
+have these goods in the diction. One must try then also about these to say the
+things I think. And I will begin from the first.
+
+* Section 21
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+I set it down that there are very many specific differences of composition and
+able neither to come into a seeing-together nor into exact reckoning, and I
+think a private character attends each of us, as of sight, so also of
+composition of words, using painting as no paltry example; for as in that, all
+who paint the animals taking the same drugs make the mixtures nothing like one
+another, in the same manner in poetic dialect and in all the other we all
+using the same words do not compose them similarly. Its generic differences
+however I am persuaded are these three only, to which whoever wishes will set
+the akin names, whenever he hears both their characters and their differences.
+I however, not having to address them with proper names as unnamed, call them
+with metaphorical names, the one austere, and the one polished or flowery, and
+the third well-blended; which how I would say it comes to be at all, I at
+least am at a loss and /my mind is in two to speak exactness/ , whether
+according to deprivation of the extremes of each or according to mixing; for
+it is not easy to guess the clear. Perhaps then it may be better to say that
+according to both slackening and stretching of the last limits those through
+the middle come to be, being very many; for not as in music the middle stands
+equally off from the nete and the hypate, in the same manner also in speeches
+the middle character has stood equally off from each of the extremes, but it
+is of the things contemplated in breadth as both a herd and a heap and many
+others. But this is not the time fitting this theory; and one must speak, as I
+hypothesized, also about the characters not all as many as I would have to say
+(for I would need very long speeches), but the most apparent themselves.
+
+* Section 22
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+Of the austere harmony then the character is of this sort: it wishes the words
+to be planted securely and to take strong standings, so that each word is seen
+from conspicuousness, and the parts stand off from one another noteworthy
+distances, being fenced by perceptible times; and it differs nothing to it to
+use in many places rough and resistant joinings, such as come to be of stones
+composed by picking in buildings, the bases not right-angled and not polished
+together, but some idle and offhand; and it loves to be lengthened for the
+most part with great words that have stepped through into breadth; for to be
+gathered into short syllables is hostile to it, except if sometime necessity
+should force.
+
+In the words then it tries to pursue these things and clings to these; and in
+the cola it practices these similarly and the dignified and magnificent
+rhythms, and it wishes the cola neither to be equal-sided to one another nor
+like-ending nor enslaved to necessity, but following and noble and bright and
+free, and it wishes them themselves to be like to nature rather than to art,
+and to be spoken according to passion rather than according to character. And
+to compose periods completing the thought for themselves it does not even wish
+for the most part; and if sometime it should be carried down upon this
+automatically, it wishes to show the unpracticed and simple, using neither
+some additions of words, in order that the circle may be filled out, helping
+the thought nothing, nor having seriousness that their bases may become some
+theatrical or polished, nor measuring them very much that they may be
+self-sufficient for the breath of the speaker, nor having any other such
+practice of working. Still these too are private of such a harmony: it is
+counterpoised about the cases, varied about the figurings, few-conjunctioned,
+article-less, in many things disdainful of sequence, least flowery,
+great-minded, each-itself, unpetty, having the archaism and the antique bloom
+as beauty.
+
+Of this harmony many became zealots both according to poetry and history and
+political speeches, and differing from the others in epic poetry both
+Antimachus of Colophon and Empedocles the natural philosopher, and in
+song-making Pindar, and in tragedy Aeschylus, and in history Thucydides, and
+in political speeches Antiphon. Here the hypothesis demanded to furnish many
+examples of each of the things said, and perhaps the speech would have become
+not unpleasant to many, being varied through as with spring flowers; but the
+composition was going to appear over-measure and scholastic rather than
+preceptive; nor indeed was it fitting to leave the things said unexamined, as
+indeed clear and not needing testimony; and one must somehow take the moderate
+of both and neither surplus the time nor leave short of the persuasion. This
+then I will try to do, taking few samples from the most apparent men. Of poets
+then Pindar will suffice being taken along, and of prose writers Thucydides;
+for these are strongest makers of the austere harmony. And let Pindar begin,
+and of this man some dithyramb of which the beginning is;
+/
+come into a chorus, Olympians
+and send both famous grace, gods,
+who also the much-trodden incense navel of the city
+in holy Athens
+you go to and the all-wrought well-famed agora,
+to obtain violet-bound crowns and spring-plucked songs;
+and from Zeus with splendor look at me
+having traveled a second of songs
+upon the ivy-giving god,
+whom we mortals call Bromius and loud-shouting,
+offspring of highest fathers we sing him
+and of Cadmeian women I came.
+and clear signs of completions do not escape,
+whenever the chamber of Hours clothed in crimson having been opened
+nectar plants bring on fragrant spring;
+then it is thrown, then upon immortal dry land lovely
+tufts of violets and roses are mixed with hair
+and voices of songs sound with pipes
+and choruses sound Semele of the twisting headband. /
+That these things are strong and stout and dignified and have much the austere
+and roughen without pain and embitter moderately the ears and have been
+delayed in the times and have stepped through to much in the harmonies and do
+not exhibit this theatrical and polished beauty but that archaic and austere,
+all I well know would testify who have a moderate sense about speeches. And by
+what practice having been constructed they have become such (for not without
+some art and some account, using automatism and chance they have taken this
+character), I will try to show.
+
+The first colon for him is composed from four parts of diction, a verb and a
+conjunction and two appellatives; the verb then and the conjunction blended by
+crasis have made the harmony not unpleasant; but the appellative being
+composed with the conjunction has roughened the fitting noteworthy; for /into
+a chorus/ is both resistant and not well-spoken, the conjunction ending into a
+half-voiced element n, and the appellative taking the beginning from one of
+the voiceless, ch; and these elements are unmixable by nature and unglueable;
+for n is not by nature to be put before ch according to one syllable, so that
+becoming limits of syllables they do not join the sound, but there is
+necessity that some silence come to be in the middle of both defining the
+powers of each of the letters. The first colon then is thus roughened by the
+composition. And take me to say cola not those with which Aristophanes or some
+other of the metricians arranged the odes, but those with which nature thinks
+it right to divide the speech and the children of orators divide the periods.
+
+And the colon lying beside this, /and send both famous grace, gods/, has
+stepped from the former a noteworthy stepping and has taken round in itself
+many resistant harmonies. For one of the vowels, e, begins it and lies beside
+another vowel, i; for the one before it ended into this. And these too are not
+elided with one another nor is i put before e according to one syllable; and
+some silence comes to be between both, bracing each of the parts and giving
+them a secure base. And in the composition according to part of the colon,
+upon the conjunctions /and send/ from which the colon begins, or if one must
+call the leading of them a preposition, the appellative part lying upon it,
+/famous/, has made the composition resistant and rough; according to what?
+because the first syllable of /famous/ wishes to be short, but it is longer
+than the short, composed from a voiceless and a half-voiced and a vowel. And
+the not purely short of it and at the same time the hard-to-utter in the
+blending of the letters makes both a delay and a cutting-in of the harmony. If
+at any rate someone should take away the k from the syllable and should make
+/and send lyton/, both the slow and the rough of the harmony will be loosed.
+Again the verbal /send/ lying upon the appellative /famous/ does not have a
+sounding-together nor well-blendable sound, but there is necessity that the n
+be planted and, the mouth having been pressed enough, then the p become
+audible; for p is not subordinable to n. And the cause of this is the figuring
+of the mouth bringing out each of the letters neither according to the same
+place nor in the same manner; for of n the sound comes to be about the palate
+and the tongue standing up against the teeth at the tips and the breath being
+divided through the nostrils, and of p with the mouth having shut and the
+tongue cooperating nothing and the breath taking the noise gathered according
+to the opening of the lips, as has also been said by me before; and in the
+mouth taking over another figuring from another neither akin nor similar some
+time is taken round in the middle, with which the smooth and well-spoken of
+the harmony stands apart. And at the same time the leading syllable of /send/
+does not have a soft sound but under-roughens the hearing, both beginning from
+a voiceless and ending into a half-voiced. And /gods/ lying beside /grace/
+cuts back the sound and makes a noteworthy bracing of the parts, the one
+ending into a half-voiced n, and the other having a voiceless leading, th; and
+the half-voiced are by nature to be put before none of the voiceless.
+
+Upon these a third colon is brought, this: /much-trodden who also the navel of
+the city incense in holy Athens you go to/ . Here /incense/ lying beside
+/navel/ ending into n, beginning from th, gives back a like resistance to the
+former, and /in holy/ being yoked to /incense/ ending into a vowel a, taking
+the beginning from a vowel e, has torn the sound by the time between, not
+being little. Those follow these: /and all-wrought well-famed agora/; here too
+the coupling is rough and resistant; for a voiceless is joined to a
+half-voiced, t to n, and the time between the appellative /all-wrought/ and
+the crasis joined to it has stepped a noteworthy stepping; for both are long,
+and the syllable eliding the two, composed from a voiceless and two vowels, is
+greater by no little than the moderate; if at any rate someone should take
+away the t from it and should make /all-wrought well-famed agora/, coming into
+the just measure it will make the harmony most well-spoken.
+
+Like to these are also those /to obtain of violet-bound/ . For two half-voiced
+lie beside one another, n and l, not having a natural coupling by being
+brought out neither according to the same places nor according to like
+figurings of the mouth. And the things said upon these are both lengthened in
+the syllables and have stood apart in the harmonies to much /of crowns and of
+spring-plucked/; for here too long syllables collide overtopping the just
+measure, both the ending of the part /of crowns/ taking round a vowel letter
+long by nature with two half-voiced and the one joined to this being
+lengthened by three letters, a voiceless and a vowel spoken long and a
+half-voiced; there has then come to be both a bracing by the lengths of the
+syllables and a resistance by the placing-beside of the letters, t not having
+a sounding-together sound with n, which I have also said before. And there
+also lies beside /of songs/ ending into n, beginning from the voiceless d,
+/and from Zeus/ and beside /with splendor/ ending into i, /look at me having
+traveled of songs/ beginning from i. Many such things someone would find
+examining the whole ode.
+
+And that it may also be born for me to speak about the remaining things, let
+there be enough of Pindar, and let diction of Thucydides be taken, this from
+the proem;
+/
+Thucydides an Athenian wrote together the war of the Peloponnesians and
+Athenians as they warred toward one another, having begun at once as it was
+being set down and having hoped it would be both great and most noteworthy of
+those that had come to be before, inferring that they were both at their peak
+into it with all preparation, and seeing the rest of the Greek gathering
+together toward each, the one at once, and the other also intending. For this
+movement became greatest indeed for the Greeks and for some part of the
+barbarians, and so to speak also upon most of humans. For the things before
+them and the still older it was impossible to find clearly through multitude
+of time; and from proofs, which it happens for me examining to the longest to
+trust, I do not think great things came to be either according to the wars or
+into the others. For the now called Hellas appears not long ago securely
+inhabited, but there being both migrations formerly and each easily leaving
+their own being forced by some always more. For trade not being nor mixing
+fearlessly with one another either according to land or through sea, and each
+dwelling their own as much as to live off and not having surplus of money nor
+planting earth, it being unclear whenever someone coming on and they being
+also unfortified another will take away, and thinking they would prevail
+everywhere not with difficulty over the necessary food according to day they
+were made to stand up. /
+That this diction does not have smooth nor exactly polished-together harmonies
+nor is well-spoken and soft and slipping unnoticed through the hearing but
+shows much the resistant and rough and astringent, and that it touches not
+even according to little a panegyric or theatrical grace, but exhibits some
+archaic and self-willed beauty, as toward all the well-educated knowing
+similarly I need to say nothing, especially as the prose writer himself at
+least has agreed, that the writing is less delightful into hearing, /but it
+has been composed as a possession for always rather than a contest-piece into
+hearing for the moment/ . And what the theorems are using which this man has
+made the harmony harsh and austere, I will signify through few; for it will be
+easy that small things be samples of great for those not going over with
+difficulty upon the theory of the like and the following.
+
+For example at the beginning the verb /wrote together/ being fitted to the
+appellative /Athenian/ stands the harmony apart noteworthy; for s is not put
+before x according to a bringing-out together that comes to be in one
+syllable; and the s must have been taken by silence then the x become audible.
+And this passion works roughness and resistance. Then the cuttings-together of
+the sounds coming to be after this, of both n and p and t and p and k lying
+beside one another four times in a row, scratch the hearing very well and
+shake the harmonies noteworthy, whenever he says /the war of the
+Peloponnesians and Athenians/; for of these parts of the diction there is
+nothing that must not both be taken by silence and be pressed first by the
+mouth about the last letter, in order that that joined to it may take its own
+power distinct and pure. Still besides these the placing-beside of the vowels
+that came to be according to the last of this colon in the /and Athenians/ has
+struck through the continuous of the harmony and has stood it apart, having
+taken a very perceptible time between; for the voices of both i and a are
+unblended and cut off the sound; and the well-spoken the continuous and the
+smoothed-together sounds make.
+
+And again in the second period the leading colon this /having begun at once as
+it was being set down/ the man having fitted moderately so that it would
+appear both most well-voiced and soft, again roughens off the one after this
+and tears it with the loosenings of the harmonies; /and having hoped it would
+be both great and most noteworthy of those that had come to be before/, for
+three times in a row not through long vowels lie beside one another working
+collisions and cuttings-back and not allowing the hearing to take an
+appearance of one continuous colon; and the period ending for him into /of
+those that had come to be before/ does not have the base well-lined and round,
+but appears some without-peak and without-turn, as being a part of the second
+but not an end of the first.
+
+And the third period has suffered the same thing; for of that too the base is
+unoutlined and unseated, having as last part /and the other also intending/,
+itself also taking round many resistances both of vowels toward vowels and of
+half-voiced toward half-voiced and voiceless, which the things not sounding
+together by nature work as roughnesses. And that I may speak having taken
+together, there being some twelve periods which I set beside, if someone
+should divide them symmetrically toward the breath, and of cola being taken
+round in these not fewer than thirty, the ones composed well-spoken and
+polished together in the harmonies one would not find six or seven cola in
+all, and joinings of vowels in the twelve periods nearly thirty, and
+settings-beside of half-voiced and voiceless resistant and bitter and hard to
+utter, from which both the cuttings-back and the many sittings-in have come to
+be for the diction, so many in multitude that nearly according to each part of
+it there is some of such things. And much also is the unsymmetry of the cola
+toward one another and the unevenness of the periods and the newness of the
+figures and the disdainful of the sequence and the others as many as I
+reckoned being characteristic of the unpetty and austere harmony. For to go
+through all again upon the examples and to spend the time into these I do not
+think necessary.
+
+* Section 23
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+And the polished and flowery composition, which I set second in the order, has
+a character of this sort: it does not seek that each one word be seen from
+conspicuousness nor that all have stepped in a broad and secure seat nor that
+the times between them be long, nor altogether is this slow and steady dear to
+it, but it wishes the naming to have been moved and the others to be carried
+according to the other words and to be borne taking the interconnection as a
+base like the things flowing and never being still; and it thinks it right
+that the parts have been elided with one another and woven together as
+completing as far as power an appearance of one diction. And this the
+exactnesses of the harmonies do, taking round no perceptible time between the
+words; and it is like in part to well-woven webs or paintings having the light
+things destroyed together with the shady. And it wishes all the words to be
+well-voiced and smooth and soft and maiden-faced, and it is somewhere hostile
+to rough and resistant syllables; and it has all the bold and
+endangered-beside through caution.
+
+And it wishes not only the words to have been fitted fittingly to the words
+and polished together, but also the cola to have been woven well with the cola
+and all to end into a period, defining both a length of colon, which will be
+neither shorter nor greater than the moderate, and a measure of period, of
+which a complete breath of a man will master; and it would not endure to work
+diction without period or a period without cola or an unsymmetrical colon. And
+it uses rhythms not the greatest but the middle and shorter; and it wishes the
+ends of the periods to be well-rhythmed and to have stepped as from a level,
+doing the opposites in the fittings of these than in those of the words; for
+those it elides, and these it stands apart and wishes them to be apparent as
+from a look-around. And it loves to use figures not the more archaic-becoming
+nor as many as some solemnity or weight or tension is present for, but the
+delicate and flattering for the most part, in which there is much the
+deceptive and theatrical. And that I may speak also more commonly, it has the
+opposite figure of the former according to the greatest and most proper, about
+which I need to say nothing again.
+
+And it would be following also to count down those who took first place in
+this. Of epic poets then it seems to me at least that Hesiod has worked out
+this character most beautifully, and of song-makers Sappho and after her both
+Anacreon and Simonides, and of tragedy-makers Euripides alone, and of prose
+writers no one exactly, but more than the many both Ephorus and Theopompus,
+and of orators Isocrates. And I will set examples also of this harmony, having
+taken in hand of poets Sappho, and of orators Isocrates. And I will begin from
+the song-maker.
+/
+Rich-throned immortal Aphrodite,
+child of Zeus wile-weaving, I entreat you,
+do not tame me with pains nor with griefs,
+lady, the heart;
+but come here, if ever also at another time
+hearing my voice from afar
+you listened, and leaving the house of the father,
+you came golden
+having yoked a chariot. And fair swift
+sparrows led you, around the black earth
+whirling thick wings from heaven through the middle.
+and at once they arrived; and you, O blessed,
+smiling with immortal face
+asked what now I have suffered and why
+again I call,
+and what I most wish to become
+in my mad heart; whom again shall I persuade
+to lead into your friendship? who, O
+Sappho, wrongs you?
+for if she flees, quickly she will pursue;
+and if she does not receive gifts, she will even give;
+and if she does not love, quickly she will love
+even not wishing.
+come to me also now, and loose from hard
+cares, and as many things as for me to complete
+the heart longs, complete, and you yourself
+be an ally. /
+The well-speaking and the grace of this diction have come to be in the
+continuity and smoothness of the harmonies; for the words lie beside one
+another and have been woven together according to some akinnesses and natural
+couplings of the letters; for the vowels are joined to the voiceless and
+half-voiced through nearly the whole ode, as many as are by nature to be put
+before and put under one another being brought out together according to one
+syllable; and collisions of half-voiced toward half-voiced or voiceless and of
+voiceless and vowels toward one another that shake the sounds are very few in
+it; I at least examining the whole ode find five or six perhaps in so many
+nouns and verbs and the other parts weavings of half-voiced and voiceless
+letters of those not by nature to be blended with one another and not even
+these roughening the well-speaking to much, and placings-beside of vowels
+those coming to be in the cola themselves still fewer than so many, and those
+joining the cola to one another more than these by some little. Reasonably
+then the diction has become some well-flowing and soft, the harmony of the
+words waving off the sound in nothing.
+
+And I would also have spoken the remaining private things of this composition
+and would have shown upon the examples that they are such as I say, if the
+speech were not going to become long and going to furnish some opinion of
+tautology. For it will be allowed for you and every other according to each
+one of the things counted out by me according to the setting-forth of the
+character both to pick them out and to examine them upon the examples
+according to much good time and leisure; but it is not allowed for me to do
+this but it is enough only to show sufficiently what I wish to those who will
+be able to follow along.
+
+I will still set beside diction of one man constructed into the same
+character, Isocrates the orator, whom I think most of all of those who have
+used prose diction exacts this harmony. And the diction is this from the
+Areopagiticus;
+/
+I think many of you wonder what thought I ever had making the approach about
+safety, as if either the city were in dangers or the affairs stood unsafely
+for it, but not possessing more than two hundred triremes, and leading peace
+about the land and ruling the things according to sea, and still having allies
+many the ready to help us if there should be some need, and many more those
+paying the contributions and doing the thing commanded. These being present
+someone would say it was reasonable for us to take heart as being far from the
+dangers, and for our enemies it belonged to fear and to counsel about safety.
+You then I know using this reckoning both despise my approach and hope to
+occupy all Hellas with this power; but I happen to fear through these very
+things. For I see the cities that think they fare best counseling worst, and
+those taking heart most being set down into most danger. And the cause of
+these things is that of the goods and of the evils nothing itself according to
+itself comes to be beside for humans, but folly has been arranged together and
+follows along with the wealths and the powers and with this lack of
+discipline, and with the lacks and the lownesses both temperance and much
+moderation. So that it is hard to distinguish which of these portions someone
+would pray to leave behind for his own children; for he would see from the one
+seeming paltrier the actions advancing upon the better for the most part, and
+from the one appearing stronger being accustomed to fall over upon the worse.
+/
+That these things have been both elided and colored together, and that not
+each one word has stepped in a conspicuous and broad seat nor is fenced by
+long times between and has stepped through from one another, but they appear
+being both in movement and carrying and continuous flow, and the harmonies
+joining the diction are gentle and soft and forward, the irrational passion of
+the hearing testifies upon. And that not some other things than those said
+beforehand by me about this leading of the speeches are causes of these, it is
+easy to see. For one would not find any resistance of vowels at least in the
+numbers which I set beside, and I think not even in the whole speech, except
+if something has escaped me; and of half-voiced and voiceless few and not very
+apparent nor continuous. These then have become causes of the well-speaking
+for the diction and the symmetry of the cola toward one another, and the
+circle of the periods having something round and well-lined and stewarded to
+the top with the symmetries. And above all these the figurings having much the
+youthful; for they are antithetic and like-ending and equal-sided and those
+near to these, from which the panegyric dialect is completed. I do not think
+it necessary to lengthen also going through the remaining things; for enough
+has been said also about this composition as much at least as fitted.
+
+* Section 24
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+And the third and middle of the two said harmonies, which I call well-blended
+by scarcity of a proper and stronger name, has no private figure, but has been
+blended as from those moderately and is some selection of the strongest in
+each. This seems to me to be fit to bear the first prizes, since it is some
+mean (and virtue is a mean both of lives and of works and of arts, as it seems
+both to Aristotle and to the others as many as philosophize according to that
+choice), and it is seen, as I also said before, not according to a completing
+but in breadth, and it has many specific differences; and those who have used
+it have not all practiced the same things nor similarly, but some these more,
+and some those, and they stretched and slackened the same things otherwise
+others, and all became worthy of speech according to all the forms of
+speeches. Peak then of all and mark,
+/
+from which all rivers and all sea
+and all springs, /
+Homer would justly be said. For every place for him, of whatever someone may
+touch, has been varied through to the top with both the austere and the
+polished harmonies. And of the others as many as practiced the same mean,
+later than Homer by far they would appear being examined beside that man, but
+if someone should contemplate them by themselves, worth seeing, of song-makers
+both Stesichorus and Alcaeus, and of tragedy-makers Sophocles, and of prose
+writers Herodotus, and of orators Demosthenes, and of philosophers according
+to my opinion both Democritus and Plato and Aristotle; for it is impossible to
+find others than these blending the speeches better. And about the characters
+these are enough. For I do not think I must bring examples of these, they
+being very apparent and needing speech nothing.
+
+And if it seems to someone that these are worthy both of much toil and of
+great working, it seems also very rightly according to Demosthenes; but if he
+should reckon the praises following them when they succeed and the fruit from
+them as sweet, he will think the toils good-sufferings. And the chorus of
+Epicureans, for whom nothing of these is a care, I beg off; for the /writing
+not being of toil/ , as Epicurus himself says, /for those not aiming at the
+criterion that often falls over/ was an antidote of much idleness and
+clumsiness.
+
+* Section 25
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+These things then having an end for me, I think you still long to hear those,
+how diction without meter becomes like a beautiful poem or song, and how a
+poem or song near to beautiful prose diction. And I will begin first from the
+bare diction, having taken in hand one of the men whom I think among those
+most of all has molded out the poetic phrasing, wishing more, but not having
+enough time for all. Come then who would not agree that the speeches of
+Demosthenes are like the strongest poems and songs, and most of all both the
+demegories against Philip and the forensic contests the public? Of which from
+one it will suffice to take this proem;
+/
+let no one of you, O men of Athens, think that I have come either for the sake
+of no private enmity to accuse this Aristocrates here, or seeing some small
+and paltry miss so readily to lead myself forward upon this into hatred; but
+if indeed I reckon and examine rightly, about you having the Chersonese
+securely and not being cheated out of it again, about this is all my
+seriousness. /
+
+One must try then also about these to say the things I think. These things
+then already are like mysteries and are not such as to be brought out into
+many, so that I would not be burdensome, if I should call /those for whom it
+is lawful/ to come upon the rites of the speech, and should say /to set doors/
+upon the ears for the /uninitiated/ . For some take the most serious things
+into laughter through inexperience, and perhaps they suffer nothing strange.
+What then I wish to say is of this sort.
+
+Every diction composed without meter cannot take on a poetic muse or songlike
+grace at least according to the composition itself; since the selection of the
+words also can some great thing, and there is some poetic naming of gloss-like
+and foreign and tropical and invented, by which poetry is sweetened, mixed in
+to satiety in diction without meter, which many others do and not least Plato;
+I do not then speak about the selection, but let the examination about these
+be let go according to the present. Let the theory be about the composition
+itself of that exhibiting the poetic graces in the common and worn and least
+poetic words. What then I said, bare diction cannot become like that in meter
+and in melody, if it does not contain some meters and rhythms arranged in
+unnoticed. It does not however belong for it to seem in-meter nor in-rhythm
+(for thus it will be a poem and a song and will go out simply of its own
+character), but it is enough for it to appear well-rhythmed and well-metered
+only; for thus it would be poetic, but not a poem at least, and in-melody, but
+not a song.
+
+And what the difference of these is, it is very easy to see. That taking round
+like meters and keeping ordered rhythms and being completed according to verse
+or period or strophe through the same figures and then again using the same
+rhythms and meters upon the next verses or periods or strophes and doing this
+as far as much is in-rhythm and in-meter, and names lie for such diction meter
+and song; and that taking round wandering meters and unordered rhythms and
+showing neither sequence of them nor like-coupling nor antistrophe is
+well-rhythmed, since it has been varied through with some rhythms, but not
+in-rhythm, since not with the same nor according to the same. Such then I say
+every diction without meter is, which shows the poetic and songlike; which I
+say Demosthenes also has used. And that these things are true and I innovate
+nothing, one might take the persuasion also from the testimony of Aristotle;
+for it has been said by the philosopher both the other things about political
+diction in the third book of the rhetorical arts of what sort it belonged for
+it to be, and indeed also about the good-rhythm from which such would come to
+be; in which he names the most fitting rhythms and wherein each of them
+appears useful, and he sets beside some dictions with which he tries to
+confirm the speech. And apart from the testimony of Aristotle, that it is
+necessary that some rhythms be taken round in prose diction, if the poetic
+beauty is going to bloom upon it, one will know from experience itself.
+
+For example the speech against Aristocrates of which I made mention also a
+little before begins from a comic tetrameter verse composed from anapaest
+rhythms, and it is left by a foot of the complete, beside which it has also
+escaped notice; /let no one of you, O men of Athens, think me/; for if this
+meter should take on a foot either according to beginnings or through the
+middle or upon the end, it will be a complete anapaestic tetrameter, which
+some call Aristophanean;
+/
+let no one of you, O men of Athens, think me to be present, /
+equal to the
+/
+I will say then the ancient education how it was disposed. /
+Perhaps someone will say toward these things, that this came to be not from
+practice but from the automatic; for nature improvises many meters. Let this
+be true. But also the colon joined to this, if someone should dissolve its
+second crasis which has made it unmarked joining it upon the third colon, will
+be a completed elegiac pentameter this
+/
+neither for the sake of no private enmity /
+like to these
+/
+maidens having lifted light traces of feet. /
+And let us still suppose this too according to the same automatism has come to
+be without judgment. But one colon between being composed speech-like, /to
+have come to accuse this Aristocrates here/, the colon woven with this again
+has been composed from two meters; /nor seeing some small and paltry miss, so
+readily upon this/; for if someone should take the last three feet and the
+catalexis of this Sapphic wedding-song
+/
+for there was not another child, O bridegroom, such ever /
+and of the comic tetrameter, called Aristophanean, this
+/
+when I saying the just things flourished and temperance
+was thought /
+and should join in this manner
+/
+for there was not another child, O bridegroom, such ever
+and temperance was thought; /
+it will differ nothing from /nor seeing some small and paltry miss, so readily
+upon this/ . And the following is equal to an iambic trimeter having taken
+away the last foot /to lead myself forward into hatred/; for it will be
+complete having taken on a foot and becoming such
+/
+to lead myself forward into some hatred. /
+Shall we still overlook these too as not from practice but having come to be
+by automatism? What then does the colon next to this wish again? For this too
+is a straight iambic trimeter
+/
+but if indeed I reckon rightly, /
+the conjunction /if indeed/ taking the former syllable long. And what indeed
+the /and I examine/ having fallen in through the middle, by which the meter
+having been overshadowed has disappeared? And the colon taken along upon this
+is composed from anapaest rhythms and leads forward as far as eight feet
+keeping the same figure
+/
+about you having the Chersonese securely and not
+being cheated, /
+like to this in Euripides
+/
+king of the much-clodded land
+Cisseus, the plain gleams with fire. /
+And the part of the same colon lying after this again this /to be deprived of
+it again/ is an iambic trimeter left by a foot and a half; and it would have
+become complete thus
+/
+to be deprived of it again in turn. /
+Shall we still say these are offhand and unpracticed, being so varied and
+many? I at least do not think it right; for it is possible to find the things
+next after these similar, full of many and every-kind meters and rhythms.
+
+But in order that someone may not suppose that this speech alone has been
+constructed thus for him, I will again touch another of that seeming to have
+been interpreted most divinely, that on behalf of Ctesiphon, which I declare
+strongest of all speeches; and I see then in this too after the addressing of
+the Athenians at once the cretic rhythm, or if someone wishes to call it a
+paean (for it will differ nothing) that composed from five times, not offhand
+by Zeus but as practiced as possible being woven through the whole of this
+colon
+/
+I pray to all the gods and all the goddesses. /
+Is not that rhythm too such
+/
+in Cretan rhythms shall we sing a child? /
+It seems so to me at least; for besides the last foot the others at least are
+altogether equal. Let this too be, if someone wishes, offhand; but also the
+colon joined to this is a straight iambic, needing a syllable of the complete,
+in order that here too the meter may become unmarked, since with one syllable
+at least added it will be complete
+/
+how much goodwill having I at least continue . /
+And then that paean or that five-timed cretic will come, a rhythm in these
+next /for the city and all you that so much be present for me from you into
+this here contest/ . For this is like, except that it has two feet broken down
+in beginnings, at least according to all the others to that in Bacchylides
+/
+it is not a work of sitting nor of delay, but of gold-aegis
+Itania
+one must having come beside a well-wrought temple show something delicate. /
+
+I suspect some running-down toward these things of humans inexperienced of the
+circular education, and practicing the marketplace part of rhetoric without
+both road and art, toward whom it is necessary to defend, lest we seem to have
+let the contest go empty. They will say then these things: was Demosthenes
+then so wretched, that when he wrote the speeches, setting meters and rhythms
+beside as the modelers, he tried to fit the cola to these types turning the
+words up and down and watching the lengths and the times and the cases of the
+nouns and the moods of the verbs and busying himself with all the things
+attending the parts of speech? He would indeed be silly, such a man giving
+himself into so much stage-gear and twaddle. These things then and those near
+to these, them making comedy and mocking, someone would not with difficulty
+beat off having said these things: first that it was nothing strange, if the
+man thought worthy of so much reputation as none of those named before upon
+cleverness of speeches, arranging eternal works and giving himself accountable
+to the envy and time that examines all, wished to take along nothing at random
+neither an affair nor a word, but to have much forethought of both of these,
+both of the management in the thoughts and of the good form about the words,
+especially as the humans then brought out speeches like not to written but to
+carved and chased things, and I mean of the sophists Isocrates and Plato; the
+one at least arranged the panegyric speech, as those writing the least time
+declare, in ten years, and Plato combing and curling and weaving in every
+manner his own dialogues did not cease having become eighty years; for surely
+to all lovers of speeches the things historically told about the man's love of
+toil are known, both the others and indeed also those about the tablet, which
+they say was found when he died having the beginning of the Republic variously
+changed, this /I went down yesterday into Piraeus with Glaucon the son of
+Ariston/ . What then was strange, if also for Demosthenes there came to be
+care both of good voice and of good melody and of placing nothing at random
+and unexamined neither a word nor a thought? For it seems to me to belong much
+more to a man constructing political speeches as eternal memorials of his own
+power to slight none of the least things, than for children of painters and
+chasers exhibiting luck of hands and toils in perishable material to wear out
+the exactness of the art about the little veins and the down and the bloom and
+such small-accounts. And using these speeches it seems to me someone would
+claim nothing outside the reasonable and still having said those things, that
+being a youth and newly taking hold of the study it was not unreasonable for
+him to look around all things, as many as were possible to fall into human
+practice; but when the time-taking exercise having taken much force made some
+types in the thought of everything practiced and seals, from the easiest and
+from the habit he already does them. Such a thing happens also in the other
+arts, of which some activity or making is the end; for example those knowing
+to the top both to play the cithara and to pluck and to pipe, whenever they
+hear an unaccustomed striking, not having worked many things number it out at
+once upon the instruments together with thought; but learning they take up the
+powers of the sounds with both much time and toil, and not at once were their
+hands in a habit of doing the things commanded, but late sometime and when the
+much exercise set down the custom for them into force of nature, then they
+became hitters of the works. And why must one speak about the others? For what
+we all know is enough also to cut through all their twaddle. And what is this?
+Whenever we are educated in the letters, first we learn out their names, then
+the types and the powers, then thus the syllables and the passions in these,
+and after this already the dictions and the things attending them, both
+stretchings I mean and contractions and prosodies and the things near to
+these; and whenever we take the science of these, then we begin both to write
+and to read, according to syllable and slowly at first; and whenever
+noteworthy time having come forward makes strong types of them in our souls,
+then from the easiest we do them and whatever book someone may give we go
+through with unstumbling habit and unbelievable speed. Such then one must
+suppose happens also about the composition of the words and about the
+well-speaking of the cola among the athletes of the work. And that those
+inexperienced of this or unexercised of any work whatever wonder and distrust,
+if something comes to be masterfully by another through art, is not
+unreasonable. Toward those then accustomed to mock the precepts of the arts
+let these things have been said.
+
+* Section 26
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+And about the in-melody and in-meter composition that has much likeness toward
+prose diction I have some such things to say, that a first cause here too in
+the same manner as upon the unmetered poetic is the fitting of the words
+themselves, and second the composition of the cola, and third the symmetry of
+the periods. The one wishing then to succeed in this part must both turn the
+parts of diction many-formedly and fit them together and make the cola in
+intervals symmetrically, not completing together with the verses but cutting
+through the meter, and make them both unequal and unlike, and often also
+gather them into commas shorter than cola, and work the periods neither
+equal-sized nor like-figured, at least those lying beside one another; for the
+wandered about the rhythms and the meters appears nearest to speeches. For
+those constructing the epics and the iambics and the other like-formed meters
+it is not allowed to divide the poems with many meters or rhythms, but there
+is necessity always to remain upon the same figure; and for the song-makers it
+is allowed to throw many meters and rhythms into one period; so that those
+composing the single-meters, whenever they dissolve the verses dividing them
+with the cola at another time otherwise, pour out and make disappear the
+exactness of the meter, and whenever they make the periods varied in both size
+and figure, they throw us into forgetfulness of the meter; and the song-makers
+working the strophes many-metered and making the divisions unlike and unequal,
+the cola each time again being both unequal and unlike one another, and
+through both these not allowing us to take a grasp of a like-formed rhythm,
+construct much the likeness toward speeches in the songs, and it is present
+even with tropical and foreign and gloss-like and the other poetic words
+remaining in the poems that they appear no less near to speech.
+
+And let no one suppose me to be ignorant that the so-called speech-like seems
+to be some vice of a poem, nor let him condemn me of this ignorance, as if I
+range some vice among virtues of poems or speeches; and how I think it right
+to divide also in these the serious from those worth nothing, having heard let
+him learn. I knowing the speeches, the one being the private, I mean this
+babbler and twaddler, and the political, in which there is much the
+constructed and in-art, whatever of the poems I find like to the twaddler and
+babbler, I set down as worthy of laughter, and whatever like to the
+constructed and in-art, I think happens to be fit for zeal and seriousness. If
+then each of the speeches happened of a different address, it would have been
+following also to call each of the poems which are like to these with
+different names; but since both the serious and the one worth nothing are
+similarly called speech, someone would not miss thinking the poems like to the
+beautiful speech beautiful, and those like to the wretched wicked, being
+disturbed by the like-form of the speech nothing. For the likeness of the
+naming ranged according to different affairs will prevent nothing seeing the
+nature of each.
+
+Having spoken then also about these, having set for you few examples of the
+things said I will close the speech right here. From epic poetry then these
+suffice;
+/
+but he went from the harbor upon a rough path; /
+this then is one colon. And another
+/
+along a woody place /
+both less than the former and cutting the verse in two. And a third this
+/
+through the heights /
+a little comma less than a colon. And a fourth
+/
+where to him Athena
+showed the noble swineherd /
+composed from two half-verses and nothing like to the former. Then the last
+/
+who most of his livelihood
+cared of the household whom noble Odysseus acquired /
+making the third verse complete, but having taken away the exactness of the
+fourth by the addition. Then again
+/
+and him then in the forecourt he found sitting /
+this too not running out together with the verse.
+/
+there for him a court
+high had been built /
+this too unequal to the former. And then the next thought without period being
+said in cola and commas; for having put on
+/
+in a place looked around, /
+he will bring on again
+/
+both beautiful and great /
+a little comma shorter than a colon, then
+/
+running around /
+a noun having some thought by itself. Then next he will construct the others
+in the same manner; for why must one lengthen?
+
+And from iambic poetry these in Euripides
+/
+O fatherland earth which Pelops bounds,
+hail, /
+the first colon as far as this.
+/
+who also the winter-hard rock of Arcadians
+you tread /
+the second as far as this.
+/
+from where I pray my race. /
+This third. The former greater than a verse, and this less.
+/
+For Auge child of Aleus bore me to the Tirynthian
+secretly for Heracles; /
+after this
+/
+the mountain knows together
+Parthenium, /
+neither of them being measured together with a verse. Then again another both
+less than a verse and greater than a verse
+/
+where Eileithyia loosed
+my mother of birth-labors /
+and the things next after these near.
+
+And from the songlike these Simonidean things; and they have been written
+according to divisions not of cola which Aristophanes or some other
+constructed but of those which prose speech demands. Attend then to the song
+and read according to divisions, and know well that the rhythm of the ode will
+escape you and you will not have to contribute either strophe or antistrophe
+or epode, but one speech strung will appear to you. And it is Danae being
+carried through the sea bewailing her own fortunes;
+/
+when in a well-wrought chest
+both a wind blowing carried her
+and the lake having been moved,
+she shuddered with fear not with unwet cheeks
+and around Perseus she threw a dear hand
+and said: O child,
+what toil I have, and you do not care;
+and in a suckling manner you slumber
+in the joyless bronze-bolted timber without light of night
+and having been sent in dark gloom.
+and the deep brine over your hair
+of a wave going by you do not heed
+nor the sound of a wind, in purple
+cloak lying toward the breast a fair face.
+and if the terrible were terrible to you,
+you would also hold a thin ear under my words.
+I bid: sleep, baby,
+and let the sea sleep, let the measureless evil sleep.
+and let some change of counsel appear,
+father Zeus, from you;
+whatever daring word I pray
+apart from justice, forgive me. /
+
+Such are the meters and songs like to the beautiful speeches, coming to be
+through these causes which I said beforehand to you.
+
+This you will have as our gift, O Rufus, /worth many others/ , if you should
+wish both to have it continually in the hands as also some other of the very
+useful and to exercise yourself together with the daily exercises. For the
+precepts of the arts are not self-sufficient to make those wishing it clever
+contestants without both practice and exercise; but it lies upon those wishing
+to toil and suffer badly whether the precepts would be serious and worthy of
+speech or paltry and unused.

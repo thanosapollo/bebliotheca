@@ -1,0 +1,1024 @@
+#+TITLE: Gymnasticus
+#+AUTHOR: Philostratus the Athenian hermes:grok-4.6
+#+FILETAGS: :imperial:3c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/γυμναστικός--philostratus-the-athenian
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Γυμναστικός edited by Carl Ludwig Kayser
+#+END_QUOTE
+
+* Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Let us count as wisdom such things as philosophizing and speaking with art,
+taking up poetry and music and geometry, and, by Zeus, as much astronomy as is
+not superfluous. Wisdom also is the ordering of an army, and still such things
+as all of medicine, and painting, and sculptors, and the forms of statues, and
+hollowed stone, and hollowed iron. As for the banausic crafts, let them be
+granted an art by which some tool or vessel will be finished correctly, but
+let wisdom be reserved for those I named alone. I except the helmsman from the
+banausic, since he understands stars and winds and lays hold of what is
+unseen. Why I have said this will be shown. As for gymnastics, let us call it
+a wisdom no less than any art, so as to be composed into notes for those who
+wish to train. For the gymnastics of old produced Milons and Hippostheneses,
+Poulydamases and Promachoi and Glaucus son of Demylus, and the athletes still
+before these, Peleus of course and Theseus and Heracles himself. That of our
+fathers knew lesser men, yet admirable and worth remembering. The one now
+established has so changed the condition of athletes that most people even
+resent those who love training.
+* Section 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+It seems to me I should teach the causes why these things have declined,
+contribute to trainers and to those being trained whatever I know, and plead
+for nature, which is hearing itself ill spoken of, since the athletes of now
+fall far short of those of old. For she still feeds lions no worse, and the
+same holds for dogs and horses and bulls; and as for what of hers belongs to
+trees, vines are still alike, and the gifts of the fig, and gold and silver
+and stones have not altered at all, but as she herself ordained she grows all
+things like those of former times. As for athletes, whatever virtues once
+belonged to them, nature has not been carried away from those, for she still
+brings forth the high-spirited, the well-formed, the quick-witted, and these
+are of nature; but training that is not sound, and practice that is not
+vigorous, have taken from nature her own strength. How this came about I will
+show later. First let us examine the origins of running and boxing and
+wrestling and such things, and from what each began and from whom. The Eleans'
+evidence will be set beside us everywhere, for such things must be told from
+the most exact sources.
+* Section 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+Of all contest, then, these are the light events: the stade, the dolichos, the
+hoplites, the diaulos, the jump, the javelin. The heavier are the pancratium,
+wrestling, boxers, the discus. The pentathlon was fitted from both: for
+wrestling and throwing the discus are heavy, while javelin, jumping, and
+running are light. Before Jason and Peleus the jump was crowned on its own and
+the discus on its own, and the javelin was enough for victory in the times
+when the Argo sailed. Telamon was strongest at the discus, Lynceus at the
+javelin, and the sons of Boreas ran and jumped; Peleus was second in these,
+but he beat all in wrestling. So when they competed at Lemnos, they say Jason,
+to favor Peleus, joined the five, and Peleus gathered the victory in this way,
+and was thought the most warlike of his time both for the excellence he used
+in battles and for his practice of the five, which is so warlike that one even
+throws the javelin among the prizes.
+* Section 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+The origin of the dolichos was this. Running heralds from Arcadia used to go
+about Greece as messengers of war, and they were forbidden to ride, but had to
+do the running themselves. So always covering in a short part of the day as
+many stades as the dolichos made the running heralds long-distance runners and
+trained them for war.
+* Section 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+The stade was invented thus. When the Eleans had sacrificed as they
+customarily do, the offerings lay on the altar, but fire was not yet set to
+them. The runners stood a stade from the altar, and before it a priest stood
+with a torch as judge, and the winner, having set fire to the offerings, went
+away an Olympic victor.
+* Section 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+When the Eleans had sacrificed, the theoroi of all the Greeks also had to
+sacrifice, and so that their approach might not be idle, the runners ran a
+stade from the altar, as if summoning the Greek world, and turned back to the
+same place as if announcing that Greece would arrive rejoicing. So much for
+the diaulos.
+* Section 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+The races of the hoplites are various, and most of all those at Nemea, which
+they name both armed and horse-races, and they are dedicated to the seven
+around Tydeus. The Olympic hoplite race, as the Eleans say, was instituted for
+this reason. The Eleans joined war with the Dymaeans so undeclared that not
+even the Olympic games were a truce, and when the Eleans were winning on the
+very day of the contests a hoplite from the battle is said to have run into
+the stadium bringing good news of the victory. This is plausible, and I hear
+the same from the Delphians, when they warred against some of the Phocian
+cities, and from the Argives, when they were worn by continuous war against
+the Lacedaemonians, and from the Corinthians, when they warred both in the
+Peloponnese itself and beyond the bounds of the Isthmus. To me other things
+seem true of the hoplite. For I say he was established from a warlike cause,
+but that he enters the contests for the sake of the beginning of war, the
+shield declaring that the truce has ended and that arms are needed. And if you
+listen to the herald not carelessly, you see that at the close of all he
+proclaims that the steward of the games is to cease the contest, and that the
+trumpet is to signal the things of Enyalius, calling the young men to arms.
+This proclamation also orders them to take up the oil and carry it out of the
+way, not as men about to anoint themselves, but as men who have ceased from
+anointing.
+* Section 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+The best hoplite race was thought to be that in Boeotia at Plataea, both for
+the length of the course and for the armor being down to the feet and covering
+the athlete as if he were fighting, and because it is set upon a splendid
+deed, the Median one, and because the Greeks established these things against
+barbarians, and moreover because of the law laid on those who will compete, as
+Plataea has established it. For one already crowned among them, if he competed
+again, had to set sureties for his body, since death was appointed for the
+loser.
+* Section 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+Boxing is a Laconian invention and once came to the Bebrycian barbarians, and
+Polydeuces used it best, whence the poets sang of him from these things. The
+ancient Lacedaemonians boxed for this reason: the Lacedaemonians had no
+helmets, nor did they think fighting under them native, but a shield served as
+helmet for the man who carried it with skill. So that they might guard against
+blows to the face, and endure when struck, they practiced boxing and trained
+their faces to withstand in this way. Later they gave up boxing and the
+pancratium alike, thinking it shameful to compete in those things in which, if
+one man gives up, Sparta is slandered as not stout-hearted.
+* Section 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+Ancient boxing was armed in this way. The four fingers were set into a
+wrapping, and they overhung the wrapping as much as, if they were closed,
+would make a fist, and they were held by a cord which they had thrown as a
+stay from the forearm. Now it has changed again, for they tan hides of the
+fattest oxen and make a boxing thong that is sharp and projects, and the thumb
+does not join the fingers in striking, for the sake of measure in the wounds,
+so that the whole hand may not fight. Hence they exclude thongs from swine
+from the stadia, thinking the blows from them painful and hard to heal.
+* Section 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+That wrestling and the pancratium were invented as useful for war is shown
+first by the deed at Marathon, fought out by the Athenians so as to seem near
+to wrestling, this being added to the deed, and second by that at Thermopylae,
+when the Lacedaemonians, their swords and spears broken, did much with bare
+hands. Of all that is in contest the pancratium is preferred by some, though
+composed of incomplete wrestling and incomplete boxing; it is preferred among
+others, whereas the Eleans at least have judged wrestling strong and grievous
+in the poets' sense, not only for the intertwining of holds, which need a
+supple and easy body, but also because one competes three times in the
+preliminary, since so many falls are required. At any rate, though they think
+it terrible to crown pancratium and boxing and wrestling without dust, they do
+not drive the wrestler away, since the law says such a victory is granted only
+to the rounded and toilsome wrestling, and the reason why the law so commands
+is clear to me at least. For though competing at Olympia is terrible, training
+seems still harder. The light athletes train thus: the dolichos-runner some
+eight or ten stades, the pentathlete some one of the three, the runners the
+diaulos or the stade or both. What is terrible in such things? Nothing. For
+the manner of the exercises is the same, whether the Eleans train them or
+others. The heavier athlete is trained by the Eleans in the season of the year
+when the sun most burns the mud in hollow Arcadia, and he endures dust hotter
+than Ethiopian sand, and he holds out beginning from midday. And of these,
+toilsome as they are, the wrestlers are the most laborious. For the boxer,
+when the time of the stadium comes, will be wounded and wound and will close
+on the shins, but in training he will show a shadow of the contest; and the
+pancratiast will compete in every way that belongs to the pancratium, but he
+trains now one and now another; wrestling is the same in the preliminary and
+the same in the contest, for each offers a trial of whatever it knows and
+whatever it can. It is reasonably called rounded, for even the upright of
+wrestling is rounded, whence the Eleans crown the most gymnastic thing even
+from training alone.
+* Section 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+They say these did not all enter the contests together, but one after another
+as gymnastics discovered and perfected each. For of old the Olympics, down to
+the thirteenth Olympiad, were of the stade only, and among them Eleans won
+three, seven Messenians, a Corinthian, a Dymaean, a Cleonaean, each a
+different Olympiad, and no one the same man twice. At the fourteenth the
+diaulos began, and the victory in it belonged to Hypenus of Elis. At the next
+after that there was a dolichos contest and Acanthus the Spartiate won. Men's
+pentathlon and men's wrestling were practiced at the eighteenth Olympiad;
+Eurybatus of Lousoi won wrestling, and Lampis the Laconian the five. Some
+write Eurybatus also as a Spartiate. The twenty-third Olympiad already called
+a man as boxer, and Onomastus of Smyrna was strongest; boxing, he won,
+inscribing Smyrna with a fine deed. For of all Ionian cities and Lydians and
+those along the Hellespont and Phrygia, and whatever nations of men there are
+in Asia, Smyrna surpassed them all together and was first to obtain an Olympic
+crown. And this athlete wrote boxing laws, which the Eleans used for the
+boxer's wisdom, and the Arcadians were not angry that a man coming from
+luxurious Ionia wrote contest laws for them. At the thirty-third Olympiad the
+pancratium was instituted, not yet having been set, and Lygdamis of Syracuse
+won. So great was this Sicilian that his foot was a cubit long; at any rate
+the stadium is said to have been measured by as many of his own feet as cubits
+are counted to the stadium.
+* Section 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+They say boys' pentathlon also entered there at the thirty-eighth, when
+Eutelidas the Lacedaemonian won, and that this form was never again contested
+by a boy at Olympia. The winner of the boys' stade at the forty-sixth Olympiad
+(for then it was first instituted) was a beautiful boy, Polymestor of Miletus,
+who by the rush of his feet outran a hare. Boys' boxing some say began at the
+forty-first Olympiad, and Philetas of Sybaris won, others at the sixtieth,
+Crius from the island of Ceos. Damaretus at the sixty-fifth is said to have
+been first to win the hoplite, being, I think, of Heraea. At the hundred and
+forty-fifth Olympiad they enrolled a boy pancratiast, I do not know from what
+they were so late in noticing him when he was already in repute among others;
+for it began late among the Olympiads, when Egypt was already being crowned,
+and that victory too was an Egyptian's: Naucratis at any rate was proclaimed
+when the Egyptian Phaedimus won. These things would not, I think, have entered
+contests one by one in this way, nor would they ever have been taken seriously
+by Eleans and all Greeks, if gymnastics had not been advancing and training
+them. For the victories of the athletes themselves are credited to the
+trainers no less than to the athletes.
+* Section 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+What then should one know about gymnastics? What else than to count it a
+wisdom composed of medicine and of the trainer's craft, being more complete
+than the one and a part of the other? How much it has of both I will show. The
+kinds of holds, as many as there are, the paidotribes will show, proposing
+times and rushes and measures and how one may either guard or, when the other
+guards, prevail; and the gymnast too will teach these even if the athlete does
+not yet know them. But there are places where one must handle wrestling well,
+or the pancratium, or escape or knock aside some advantage the opponents have,
+none of which would come into the gymnast's mind if he did not also know the
+paidotribes' things. In this the arts are equal; but to purge humors and take
+away excesses and smooth what has grown hard and fatten something or change it
+or warm it belongs to gymnastics in wisdom. For those things the paidotribes
+will either not know, or if he knows something he will use it badly on the
+boys, torturing the freedom of unmixed blood. Gymnastics is so much more
+complete than the aforesaid science; toward medicine it stands thus. Diseases
+we name catarrhs and dropsies and consumptions, and whatever sacred diseases
+there are, doctors stop by pouring something on or washing off or plastering,
+but gymnastics checks such things by regimens and massage. But one who has
+broken something or been wounded or whose light in the eyes has been clouded,
+or who has slipped some joint, must be taken to a doctor, since gymnastics is
+nothing toward such things.
+* Section 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+I think I have sufficiently shown how much gymnastics is toward each science,
+and I think I see this in it too: no one man could take up all of medicine,
+but one understands fractures, another those with fever, another those with
+eye disease, another consumptives, all of them soundly, and though it is a
+great thing to work out even some small part of it correctly, the medical men
+say they know it all. But no one would profess gymnastics all at once, for he
+who knows the running events will not know those of wrestlers and
+pancratiasts, and he who trains the heavier will touch the rest of the science
+unskillfully.
+* Section 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+This is the share of wisdom in the art. Its origin is that man was born able
+to wrestle and box and run upright. For not one of such things would come to
+be if that through which it comes to be did not already exist, and just as the
+origin of bronze-working is iron and bronze, and of farming earth and what
+comes from earth, and of seafaring that there is a sea, so let us count
+gymnastics too as most kindred and congenital to man. And a story is sung that
+gymnastics did not yet exist, but Prometheus did, and Prometheus first
+trained, and Hermes in turn trained others, and admired him for the invention,
+and the first palaestra was Hermes', and the men molded of clay by Prometheus
+would then be these who trained in the clay in which they were, whom people
+thought Prometheus molded, since gymnastics made their bodies fit and well
+composed.
+* Section 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+At Pytho and the Isthmus and wherever on earth contests were instituted, the
+trainer, wearing a cloak, anoints the athlete and no one will strip him
+against his will; but at Olympia he stands naked, as some think, the Eleans
+testing the trainer in the season of the year, whether he knows how to endure
+and be burned; but as the Eleans say, Pherenice of Rhodes was daughter of
+Diagoras the boxer, and Pherenice's character was so strong that to the Eleans
+she seemed at first a man. At any rate she went about under a cloak at Olympia
+and trained her own son Peisirodus. He too was a boxer, skilled of hand and no
+less than his grandfather. When they understood the deceit, they shrank from
+killing Pherenice, remembering Diagoras and Diagoras' sons (for Pherenice's
+house were all Olympic victors), but a law was written that the trainer be
+stripped and that not even he go untested among them.
+* Section 18
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+The trainer also carries a strigil there for this reason perhaps: at Olympia
+the athlete must be dusted in the palaestra and sunned. So that they may not
+ruin their condition, the strigil reminds the athlete of oil and says he must
+apply it so freely that after anointing he can even scrape it off. Some say a
+trainer at Olympia killed the athlete with a sharpened strigil when he would
+not hold out for the victory, and I concede the story, for it is better
+believed than disbelieved. Let the strigil then be a sword against the
+worthless among athletes, and let the trainer at Olympia have something beyond
+the Hellanodikes.
+* Section 19
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+The Lacedaemonians also wanted the trainers to know tactics, counting even the
+contests themselves a practice of war, and one need not wonder, since even
+dancing, the more idle of things in peace, the Lacedaemonians referred wholly
+to war, dancing in a manner by which one will guard against a missile or send
+it forth or be lifted from the ground and use the shield handily.
+* Section 20
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+Whatever trainers contributed to athletes, whether by some encouragement or
+rebuke or threat or device, these things are many and more than speech, but
+let the more notable be told. Glaucus of Carystus the boxer, then, when he was
+not trusted at Olympia against his opponent, Tisias the trainer led to victory
+by bidding him strike the one from the plough; this was the drive of the right
+hand against the opponent. For Glaucus had that hand so strong that once in
+Euboea he straightened a bent ploughshare by striking it with his right as
+with a hammer.
+* Section 21
+:PROPERTIES:
+:CUSTOM_ID: h21
+:END:
+
+Arrichion the pancratiast, already winning two Olympiads, and fighting a third
+Olympiad after those for the crown and already giving up, Eryxias the trainer
+set into a love of death by shouting from outside that it is a fine shroud not
+to give up at Olympia.
+* Section 22
+:PROPERTIES:
+:CUSTOM_ID: h22
+:END:
+
+Promachus of Pellene: the trainer understood he was in love, and when the
+Olympics were near, "Promachus," he said, "you seem to me to be in love." When
+he saw him blush, "I did not ask this to expose you," he said, "but to help
+you in the love. For I would even speak to the girl for you." And having
+spoken nothing he came to the athlete bringing a speech not true, but worth
+most to the lover: "She does not think you unworthy," he said, "to be among
+her beloved if you win at Olympia." And Promachus, breathing again from what
+he heard, not only won but even beat Poulydamas of Scotoussa after the lions
+that Poulydamas had taken beside Ochus the Persian.
+* Section 23
+:PROPERTIES:
+:CUSTOM_ID: h23
+:END:
+
+Of Mandrogenes of Magnesia I myself heard the endurance he had used in his
+prime for the pancratium, as he credited it to the trainer. For he said his
+father was dead, and the house was upon a mother both strong and beyond a
+woman, to whom the trainer wrote a letter of this kind: "If you hear your son
+is dead, believe; if defeated, disbelieve." He said that admiring this letter
+he showed every stoutness of heart, so that neither the trainer would lie nor
+the mother be lied to.
+* Section 24
+:PROPERTIES:
+:CUSTOM_ID: h24
+:END:
+
+Attalus the Egyptian won at Plataea for a second contest when the trainer
+strengthened him, there being a law among them that the man defeated after a
+victory die publicly and be judged selected before he set sureties for his
+body. When no one would guarantee so great a thing the trainer put himself
+under the law and strengthened the athlete to a second victory. For those
+intending to take hold of a greater deed it is, I think, of good hope not to
+be distrusted.
+* Section 25
+:PROPERTIES:
+:CUSTOM_ID: h25
+:END:
+
+Since a crowd of such things is flowing in as we mix new with old, let us
+examine the trainer himself, of what sort he should be and how much he should
+know when he stands over the athlete. Let the trainer be neither a chatterer
+nor untrained in tongue, so that the energy of the art is not dissolved by
+chatter, nor what is done without speech appear too rustic, and let him have
+surveyed all physiognomy. I command this for this reason. A boy athlete some
+Hellanodikes or Amphictyon judges from such things as these: whether he has a
+tribe and a fatherland, whether a father and a family, whether he is of free
+people and not a bastard, and on all, whether he is young and not beyond a
+boy. But whether continent or incontinent, whether a drunkard, whether a
+glutton, whether bold or cowardly, they neither know, nor if they knew do the
+laws speak to them about such things; but the trainer must know these
+thoroughly, being a judge of nature. Let him know all the ethics in the eyes,
+by which the sluggish among men are shown, and the intense, and ironists, and
+those less enduring, and the incontinent. For black-eyed men have one
+character, another those of bright and grey and bloodshot eyes, another of
+yellow and speckled, of protruding and hollow, for nature marked seasons by
+stars, but characters by eyes. And the proportion of the parts of the body, as
+in statue-making, must be examined thus: the ankle must agree with the wrist,
+the forearm with the shin, and the upper arm be matched with the thigh and the
+buttock with the shoulder, the back be viewed against the belly, and the chest
+stand out similarly to what is under the hip, and the head, being the figure
+of the whole, stand in due measure to all these.
+* Section 26
+:PROPERTIES:
+:CUSTOM_ID: h26
+:END:
+
+With these things said by me thus, let us not think training follows upon
+them, but rather setting the trainee apart and putting nature to the test, how
+it is composed and toward what. For where should huntsmen and horsemen have so
+much account of dogs and horses as not to use the same for every form and
+every quarry, but some dogs for this and some for that, and of horses make
+some hunting partners, some racers, some chariot-drivers, and not even these
+simply, but as each is fit for a side or a trace of the chariot, yet men be
+unjudged, whom one must lead to Olympia or Pytho for proclamations that even
+Heracles loved? I command him then to have surveyed the proportion of all I
+named, and besides proportion also the characters of the humors.
+* Section 27
+:PROPERTIES:
+:CUSTOM_ID: h27
+:END:
+
+And yet there is something older than this, which even Lycurgus the Spartiate
+thought good. Standing by Lacedaemon as athletes of war he says, "let the
+girls train and practice running in public, for the sake of good offspring of
+course and of bearing better children through the body's being strong. For
+when she comes to a husband she will not shrink from carrying water, nor from
+grinding, because she has been trained from youth, and if she is yoked also to
+a young man who trains with her, she will give back better children, tall and
+strong and healthy." And Lacedaemon became so great in war because their
+marriage matters were done thus.
+* Section 28
+:PROPERTIES:
+:CUSTOM_ID: h28
+:END:
+
+Since then it is proper to begin from a human's birth, let the trainer go to
+the boy athlete, looking first from the parents, whether they were joined
+young and well-bred and free of diseases, as many as rest on the sinews and
+the seats of the eyes, and go out into ears or viscera, for these diseases
+somehow lodge along with nature, and while they are children they have slipped
+in unseen, but they break out when the blood takes a change in the turns of
+age. The seed of the young, if both also come together well-bred, contributes
+strength and vigor to an athlete and unmixed blood and power of bones and pure
+humors and even stature, and I would still say they bring bloom as well. Let
+them not be unknown if they are not present at the boy's judging, if we are to
+test the sowing soundly. For the argument will fall into simple-mindedness if
+we put off the athlete already standing at the stadium and longing for the
+wild olive and the laurel to the father and the mother, perhaps even dead when
+he was an infant. The decisive moment must go forward, at which looking at the
+athlete naked we shall not seem even to have been ignorant of how his
+ancestors stand for him. The thought is hard and not altogether easy, yet not
+far from the art. I therefore hand it over for knowledge.
+* Section 29
+:PROPERTIES:
+:CUSTOM_ID: h29
+:END:
+
+What kind the noble and youthful sowing will send up I have shown. That from
+those past their prime must be tested thus. Their skin is thin, the clavicles
+cup-like, the veins raised as in those who have toiled, and their hip is
+bloodless and the muscular parts weak. When they train there are more tests:
+they are sluggish and their blood is raw from coldness, and the sweats lie on
+the surface rather than rising from the convex and hollow parts, and these do
+not bloom upon the labors unless we draw off the sweats. Some are not even fit
+for ease, but need pauses, and they are spent even by labors beyond what they
+have done. I disqualify these from all that is in contest (for this does not
+confirm a man), and most of all from pancratium and boxing, for those not even
+strong in the skin are easy to take with blows and wounds. Yet they must be
+trained, or rather flattered by the trainer, since they need this both when
+toiling and when training. If the sowing appears past its prime on one of the
+two sides, the defects will be similar, but less evident. Diseased conditions
+the blood will convict, for it must appear somehow turbid and sunk under the
+bile. And such blood, even if it ever becomes breathing under a trainer,
+changes again and is clouded, for what is not well born turns out hard.
+* Section 30
+:PROPERTIES:
+:CUSTOM_ID: h30
+:END:
+
+A protruding throat also shows something, and wings of the shoulders, and a
+neck that is raised and slipping too much where the clavicles meet. Moreover
+those with the ribs closed and those opened beyond measure mark much of the
+diseased. For in the former the viscera must be squeezed and they cannot bring
+the breath out freely, nor take it in during labors, and they are caught by
+continuous spoiling of food; in the latter the viscera are heavy and hanging,
+so that the breath from them is also dull and supine in impulse, and food will
+be distributed less to these, going more to the belly than to nourishment of
+the body. So much about the birth of those who will compete; the one suited to
+each of the contests must be examined thus.
+* Section 31
+:PROPERTIES:
+:CUSTOM_ID: h31
+:END:
+
+Let the one who will compete in the five be heavier than the light athletes
+and lighter than the heavy, tall, well-built, upright, without excess in the
+muscular parts and not cramped. Let him have the legs rather long than
+proportionate, and the loins supple and easy, both for the turns of the
+javelin or also the discus and for the jump. For he will jump with less pain
+and will break nothing of the body if, letting the hip down, he plants it in
+the stance. He must also be long of hand and tall in the fingers, for he will
+throw the discus much better if through the size of the fingers the rim of the
+discus is sent from a more hollow hand, and he will move the javelin more
+easily if the fingers, not being small, touch the thong above.
+* Section 32
+:PROPERTIES:
+:CUSTOM_ID: h32
+:END:
+
+He who will best run the dolichos should have shoulders and neck strengthened
+similarly to a pentathlete, but have the legs thin and light, like the runners
+of the stade. For those move their legs with their hands toward the sharp run,
+as if winged by the hands, but dolichos-runners do this about the turn, and
+the rest of the time they almost as it were stride, holding the hands in a
+guard, whence they need stronger shoulders.
+* Section 33
+:PROPERTIES:
+:CUSTOM_ID: h33
+:END:
+
+No one any longer distinguishes the hoplite and the stade competitor and the
+diaulos from the times when Leonidas of Rhodes won this triad for four
+Olympiads, but those who compete in these one by one and those who do all
+together must still be distinguished. Let a long side convey the hoplite
+racer, and a well-fed shoulder and a snub kneecap, so that the shield may be
+carried well when these support it. Stade-runners, the lightest of things in
+contest, are strongest even when proportionate, but better than these are
+those not over-tall, but a little taller than the proportionate, for excess of
+length misses stability, like plants that have grown too high. Let them be
+composed well-built, for the beginning of running well is standing well. Their
+harmony is this: the legs equal-balanced with the shoulders, the thorax less
+than proportionate and with good viscera, a light kneecap, a straight shin,
+hands beyond the account, and let their muscular part also be proportionate,
+for excess muscles are bonds of speed. Diaulos competitors should be built
+stronger than those of the stade, but lighter than the hoplite racers. Those
+who compete in the three races should be drawn up from the best, composed of
+the advantages these have each one. And let no one count this among the
+impossible, for even in our time such runners have existed.
+* Section 34
+:PROPERTIES:
+:CUSTOM_ID: h34
+:END:
+
+Let the boxer be long of hand and well-forearmed and not swollen in the upper
+arm above, and in the shoulders, and well-crested and high-necked. Of the
+wrists of the forearms the thick are heavier for striking, the less thick are
+supple and strike with ease. Let a well-built hip also support him, for the
+guard of the hands hangs the body if it is not carried on a firm hip.
+Thick-shinned men I judge worthy of none of the things in contest, and of
+boxing least; for they are sluggish even at closing on the opponents' shins
+and easy for the one who comes on. Let him then have a straight shin and the
+thighs reasonably parted and standing off, for the boxer's figure is more
+ready to rush if the thighs do not meet, and the best belly is the drawn-in,
+for such men are light and good in breath. Yet there is some benefit even from
+the belly to the boxer, for such a belly keeps off blows to the face by
+thrusting forward against the striker's drive.
+* Section 35
+:PROPERTIES:
+:CUSTOM_ID: h35
+:END:
+
+Let us go to those who will wrestle. The wrestler according to reason should
+be tall rather than proportionate, but fitted as the proportionate are,
+neither high-necked nor with the neck yoked to the shoulders, for this is
+indeed natural, but it is more like one cramped than trained, at least to one
+who understands even the statues of Heracles, by how much the freer and not
+thick-necked are more pleasant and more godlike. But let the neck be raised,
+as in a fine horse that understands itself, and let the base of the throat
+come down to each clavicle, and let the gathering shoulder-heads, the heads of
+the shoulders, standing up, contribute size to the one who will wrestle and
+nobility of form and strength and better wrestling. For such shoulders, even
+when the neck is bent and wrenched by wrestling, are good guardians, bracing
+the head from the arms. A well-marked upper arm is an advantage in wrestling.
+I call well-marked an upper arm of this kind, whose broad veins, beginning
+from neck and throat, one on each side mounting the shoulder, go down to the
+two hands, showing on upper arms and forearms. Those in whom they are on the
+surface and more visible than measure gain no strength from them and these
+veins are unpleasant to see, like varicose veins; but in whom they happen to
+be deep and undulating underneath, they warm for these the fair-weather blood
+of the hands and make the upper arm of those past prime grow young again, and
+of the young they make it appear eager and in promise of wrestling. Chests are
+better that project and stand out, for the viscera sit in them as in a solid
+and well-shaped little house, noble, strong, healthy, high-spirited in due
+season; and graceful among chests also are those moderately standing out but
+hardened with lines, for these are strong and easy to bear and lesser for
+wrestling than the projecting, but more wrestler-like than the rest. Small
+chests and sunken, in whom they happen, I judge worthy neither of stripping
+nor of training, for they are caught with bad stomachs and not good viscera
+and narrow in breath. Let the belly be drawn in toward the lower abdomen, for
+the belly is not a useful load to the wrestler, but let it ride not on empty
+groins, but let there be some well-fed quality in those too. For such groins
+are able to bind whatever wrestling hands over, and when bound they will pain
+more than they are pained. Backs that are straight are graceful, but those
+somewhat rounded are more gymnastic, since they also fit better the carriage
+of the blade, which is rounded and leaning forward. Let not a hollow spine
+judge them, for this will fail of marrow and the vertebrae there would be bent
+and forced by the holds and something might slip inward; but let these things
+be suspected rather than be. The hip, as an axle set into the upper and lower
+limbs, must be supple and well-turning and versatile. Length of it works this,
+and, by Zeus, fleshiness more than the account. What is under the hip should
+be neither too lean nor again excessive, for the one is weak, the other
+untrained, but let it stand out strongly and fittingly for the one who will
+wrestle. A well-curved rib that also raises the chest makes men able both to
+wrestle and to be wrestled. For such men, even when under their opponents, are
+hard to take and not easy for those under them. Narrow buttocks are weak, the
+wider idle, the well-manageable able for all. A well-built thigh turned
+outward with bloom is strong and holds all well, and more if the shin nowhere
+leans as it is carried, but the thigh rides straight on the kneecap. Legs not
+straight from the ankles but oblique and nodding inward throw the body, as
+unstraight bases throw the seated of columns.
+* Section 36
+:PROPERTIES:
+:CUSTOM_ID: h36
+:END:
+
+Such is the wrestler, and such a one will also pancratize the lower pancratium
+and will fight at arm's length no less. More complete among pancratiasts are
+those composed more wrestler-like than the boxers, but more boxer-like than
+those who will wrestle. Noble among athletes also are those large in a small
+frame. Let us count these as those lesser in size than the square and
+proportionate, but with the body articulated in a large-looking way and more
+extraordinary than the length, and more if they do not seem hardened, but also
+show something of good flesh. Wrestling proclaims them more, for they are
+well-turning and many-turning and violent and light and quick and of even
+tension, and they escape many of the impossible and hard-to-wrestle things by
+bracing on the head as on a base; but they are not good champions of
+pancratium and boxing, lying under the striker and lifting themselves from the
+ground ridiculously whenever they themselves strike. Let us take as a model of
+those large in a small frame the images of the wrestler Maron, whom Cilicia
+once bore. Of these one must also reject the long-chested: for these too are
+able to escape the hard-to-guard things of wrestling, but useless at throwing
+because they sit upon the legs.
+* Section 37
+:PROPERTIES:
+:CUSTOM_ID: h37
+:END:
+
+Lion-like and eagle-like and split-like and thong-like and those they surname
+bears: such are kinds of athletes. The lion-like are good-chested and
+good-handed, but lesser behind; the eagle-like are like these in figure, but
+empty in the groins, as of eagles those that stand upright. Both show men
+daring and violent and concentrated, yet more disheartened at their failures,
+and one need not wonder when one considers the characters of lions and eagles.
+* Section 38
+:PROPERTIES:
+:CUSTOM_ID: h38
+:END:
+
+The split-like and thong-like are both tall and long in the legs and
+over-handed, and they differ from one another in small and greater things. For
+the one appear compact and well-lined and much-split, whence I think their
+surname also comes, the others are loose and more relaxed, and supple at once
+in the turns like leather straps. Of them the former are more aggressive in
+the clinches, the thong-like more holding-together and chaining.
+* Section 39
+:PROPERTIES:
+:CUSTOM_ID: h39
+:END:
+
+Kinds of enduring athletes: the bilious, the muscular, hollow in the belly,
+with the face sprung up. But also the running and large-chested resemble an
+eagle, the phlegmatic a lion, for the overly bilious are indistinct, such as
+even through the readiness of nature also to shift madly.
+* Section 40
+:PROPERTIES:
+:CUSTOM_ID: h40
+:END:
+
+Those likened to bears are round and supple and well-fleshed and less
+articulated and encompassing rather than upright, hard to wrestle and slipping
+away, chaining stoutly, and breath will tear them, as it does bears in runs.
+* Section 41
+:PROPERTIES:
+:CUSTOM_ID: h41
+:END:
+
+The equal-handed, whom they name ambidextrous, being a rare find of nature,
+are unbroken in strength and hard to guard and unwearied. For this the
+equal-rightness of the body itself gives them, being stronger than the sound.
+I say this from where I know it. Mus the Egyptian, as I heard from the older
+men, was not a large youth, but he wrestled beyond his art. When he fell ill
+the right parts declined and the left increased, and when he had given up
+competing a dream came to him to take heart at the disease, for he would be
+stronger with the maimed than with the unimpaired and unwounded. And the
+vision was true: for weaving the hard-to-guard holds with the damaged parts he
+was difficult to his opponents and he gained from the disease that he was
+strong in what had been ruined. This is wonderful, but let it be said not as
+happening, but as having happened, and let it be thought rather of a god
+showing something great to men.
+* Section 42
+:PROPERTIES:
+:CUSTOM_ID: h42
+:END:
+
+About proportion of body and whether this kind is better or that kind, there
+are perhaps even acceptable counter-arguments among those who have not
+examined these things with reason; but about temperaments, as many as there
+are, it has neither yet been contradicted, nor could it be contradicted, that
+the best of temperaments is the hot and moist, for it is composed like the
+costly of statues from unmixed and pure material. They are free of clay and
+mud and excess humors, on which the stream of phlegm and of bile floats up,
+good at toiling what must be labored, good eaters, seldom ill, and recovering
+quickly from diseases, easy to lead and easy to rein for training in various
+ways through the good fortune of the best temperament. The bilious among
+athletes are hot but dry in temperament and barren to those who train, as hot
+sands to those who sow. Yet they are strong by the readiness of their mind,
+for they have a surplus of this. The mixing of the hot condition according to
+the body by coldness. These must be trained intensely, being goaded, but the
+bilious at a walk and breathing between, for the one need a spur, the others a
+rein. One must gather the one with dust, and splash the others with oil.
+* Section 43
+:PROPERTIES:
+:CUSTOM_ID: h43
+:END:
+
+Let this be said by me about temperament from present gymnastics, since the
+ancient did not even know temperament, but trained strength alone. The men of
+old trained, some carrying loads not easy to bear, some racing against horses
+and hares for speed, some straightening and bending iron driven to thickness,
+some yoked with strong draught oxen, some breaking bulls' necks, some even
+lions. These were the Polymestors and Glauci and Amesinai and Poulydamas of
+Scotoussa. Tisandrus the boxer from Naxos, swimming about the headlands of the
+island, his hands escorted him far into the sea, being escorted and training
+and being trained. Rivers and springs washed them and they practiced sleeping
+on the ground, some stretched on hides, some having reaped beds from meadows.
+Their food was barley-cakes and of breads the uncooked and unleavened, and of
+meats the beef and bull and goat fed these, and deer, and wild olives and
+phylia-olives anointed them with oil, whence they trained healthy and grew old
+late, and some competed eight Olympiads, some nine, and they were good as
+hoplites. They fought over walls, not falling even there, but thought worthy
+of prizes of valor and trophies, and making warlike things a practice of
+gymnastic, and gymnastic of warlike deeds.
+* Section 44
+:PROPERTIES:
+:CUSTOM_ID: h44
+:END:
+
+When these things changed and they became unwarlike from fighting men, idle
+from active, relaxed from hardened, and Sicilian gourmandise prevailed, the
+stadia were unstrung, and much more when flattery was enrolled in gymnastics.
+Medicine flattered first, standing by as counselor, a good art, but too soft
+to touch athletes still, and teaching idleness besides and sitting before
+training stuffed like Libyan or Egyptian loads, bringing in cooks and chefs
+who season, by whom they are made gluttonous and hollow in the belly, feasting
+them on poppy breads and undigested ones, filling them with the most lawless
+eating of fish, and physiologizing the fish from the tribes of the sea, that
+those from muds are fat, those from rocks tender, the pelagic fleshy, holes
+feed thin ones, seaweed faded ones, and still leading pork of meats with
+marvel-talk: for it bids one count the swineherds by the sea as bad because of
+the sea garlic, of which shores are full and dunes are full, and to guard also
+those near rivers because of the eating of crabs, and to force-feed only those
+from cornel and acorn.
+* Section 45
+:PROPERTIES:
+:CUSTOM_ID: h45
+:END:
+
+Such luxury is sharp also toward the impulse of sexual things, and it began
+for athletes even the lawlessness over money and the selling and buying of
+victories. For some even sell their own glory, I think because they need many
+things, others buy winning without toil because they live softly. And for one
+who strips a silver or gold dedication or destroys it the laws show anger as
+being liable to temple-robbery, but a crown of Apollo or Poseidon, for which
+even the gods themselves competed greatly, there is impunity to sell, impunity
+to buy, except so far as for the Eleans the wild olive remains inviolate
+according to the ancient repute, but the other contests have been maimed. Let
+one of many be said by me, in which all: a boy won wrestling at the Isthmia
+having agreed three thousand with one of the opponents for the victory. So
+coming the next day to the gymnasium the one demanded the money, the other
+said he did not owe it, for he had won against an unwilling man. When he
+accomplished nothing, they refer it to an oath, and coming into the sanctuary
+of the Isthmian he swore publicly, and this before the eyes of Greece, the one
+who had sold the victory, that he had indeed sold the god's contest, for three
+thousand had been agreed to him, and he swore this with a clear voice, fearing
+something might be unclear. What would not happen in Ionia, what would not at
+Olympia, upon such a shame of contest? For the more true it is, not even
+without witnesses, the more unholy and more notorious. I do not acquit the
+trainers and athletes of this corruption, for they come with money to the
+training, and lending to the athletes at greater interest than that at which
+merchants sailing the sea borrow, they turn not at all to the athletes' glory,
+but become their counselors of selling and buying, looking to their own
+profit. And let this be said by me against those who huckster, for they
+somehow huckster the athletes' virtues, arranging their own good.
+* Section 46
+:PROPERTIES:
+:CUSTOM_ID: h46
+:END:
+
+They err in this too: stripping a boy athlete they train him as already a man,
+bidding him overload the belly beforehand and walk between training and belch,
+by which like those who educate badly they take from the boy the youthful
+skip, training idleness and delays and to be sluggish and more timid than
+their own prime. One ought to train relaxation, as the palaestra does. By
+relaxation I mean that from the legs, as much as from softening, and that from
+the hands, as much as from rubbing, and let the boy clap along, since their
+exercises are more high-spirited. This form trained Helix the Phoenician not
+among boys only but even when he came to men, and he became more wonderful
+than speech among all I know who practice this ease.
+* Section 47
+:PROPERTIES:
+:CUSTOM_ID: h47
+:END:
+
+One must not attend even to the trainers' tetrads, by which all in gymnastics
+has been ruined. Let us count the tetrad a cycle of four days doing a
+different thing each. For one prepares the athlete, one intensifies, one
+relaxes, one holds the mean. The preparing exercise is intense for a short
+time and a quick movement waking the athlete and setting him sharp for the
+coming labor; the intensifying is an inexorable test of the strength stored in
+the condition; the day of relaxation is movement recovering the prime with
+reason; the mean of the days teaches to escape the opponent, and when fleeing
+not to let go. And training all such a form harmonically and cycling these
+tetrads thus they take from the science the understanding of the naked
+athlete, and whatever foods pain, and wine hurts, and the condition from
+sexual things and from dreaming harms, and anxieties and fatigues and more
+other things, some voluntary, some involuntary. How shall we heal this man by
+tetrading and allotting?
+* Section 48
+:PROPERTIES:
+:CUSTOM_ID: h48
+:END:
+
+Those who have overeaten a heavy brow will show, and hollow breathing, and the
+cups of the clavicles standing up, and the side flanks indicating some bulk;
+those under wine a superfluous belly will interpret, and merrier blood, and
+moisture, one of the flank, one of the kneecap; those coming from sexual
+things training will convict more, for they have given way in strength and are
+narrow in breath and timid in impulses and fade under the labors and are easy
+to take in such things, and when stripped a hollow clavicle would show and a
+bloodless hip and a rib scoring underneath and coldness of blood, which if we
+should lay hold of, there would be no crown-bearing contest. Thin are their
+under-eyes, thin the leaping of the heart, thin the vapors of sweats, thin the
+sleeps that straighten the food, and casts of the eyes wandering and signaling
+as of those who seem to be loved.
+* Section 49
+:PROPERTIES:
+:CUSTOM_ID: h49
+:END:
+
+Those who dream are a purging of the surplus good condition, yet they are seen
+somewhat pale and dewy and lesser in strength, but well-fed from sleeping and
+unaccountable in the hip and sufficient in breath, and being in the place of
+those who have sexual activity they are not the same, but the one sort purge
+the condition, the others melt it. Of fatigues a good witness is the outer
+covering of the body seeming thinner than itself, and a vein swelling, and a
+downcast arm, and the muscular parts hardened.
+* Section 50
+:PROPERTIES:
+:CUSTOM_ID: h50
+:END:
+
+Those who have overeaten, whether they happen to be competitors of light or of
+heavier events, must be handled with massages toward the lower parts, so that
+the excesses may be led off from the more vital, and pentathletes must be
+trained in some of the light things, runners not straining but leisurely and
+taking a larger stride, boxers should fight at the hands light and airy.
+Wrestling and pancratium, these too upright. But they must roll. Let them
+roll, but lying on more than lying under and nowhere tumbling over, so they
+may not maim the body with some incurable wound. And let the trainer handle
+light and heavy alike with massages through moderate oil, especially of the
+lower parts, and let him wipe this off.
+* Section 51
+:PROPERTIES:
+:CUSTOM_ID: h51
+:END:
+
+Wine that has been in excess in athletes' bodies, so that everything is full
+of much sweat, should be called out through moderate exercises. For one must
+neither train such men further nor let them go, for it is better to channel
+off the corrupted moisture so that the blood may not be harmed by it. And let
+the trainer wipe and scrape, using moderate mud, so that the outlets of the
+sweat may not be blocked.
+* Section 52
+:PROPERTIES:
+:CUSTOM_ID: h52
+:END:
+
+Those from sexual things it is better not to train, for men who have exchanged
+shameful pleasure for crowns and heralds, where are they men? But if they
+should be trained, let them be trained for admonition, being tested in
+strength and breath, for these the pleasures of sexual things most cut down.
+The condition of those who dream is sexual things too, but involuntary, as I
+said. They must be trained with care and the strength fed up more, since it
+clearly fails, and the sweats must be dried out, since they are excessive in
+these. Let the exercises be more yielding, but led on to length, so that they
+may train the breath. They need moderate oil thickened with dust, for this
+drug both holds the body together and moderately relaxes.
+* Section 53
+:PROPERTIES:
+:CUSTOM_ID: h53
+:END:
+
+Athletes in anxiety should be treated also in their minds with speech that
+both encourages them and settles them, and they should be trained in the place
+of the sleepless and those not good eaters. The harmonic exercise is well for
+these, for frightened minds are more eager to learn what it is proper to guard
+against. Of fatigues the spontaneous are beginnings of diseases, and it is
+enough to relax moderately and as I said those who have toiled in mud and
+palaestra, and the next day to train further in mud with a small
+intensification those who have toiled in dust, for the sudden relaxation after
+the dust is a bad doctor of fatigues, for it does not treat the strength but
+hangs it off. Such then would be the wiser gymnastics even when intensifying
+the athlete.
+* Section 54
+:PROPERTIES:
+:CUSTOM_ID: h54
+:END:
+
+A test of the tetrads, which I declined, is also the error over Gerenus the
+wrestler, whose tomb is at Athens on the right of the road to Eleusis. He
+happened to have won at Olympia, and on the third day from that, drinking his
+own victory and feasting some of his acquaintances, having used unaccustomed
+gourmandise he was carried off from sleep. So coming the next day to the
+gymnasium he confessed to the trainer that he was raw and poorly off in some
+way, but the other grew fierce and heard with anger and was harsh as to one
+letting go and breaking the tetrads, until he killed the athlete in the very
+training by ignorance, not understanding when he spoke beforehand what one
+ought to know and when he was silent. When tetrads are of this kind and so
+untrained under an uneducated trainer, sufferings not moderate come about. For
+to miss such an athlete, how is it not heavy for the stadia? And those who
+embrace the tetrads, what will they do with them when they come to Olympia?
+Among whom there is dust of the kind I have said, and prescribed exercises,
+and the Hellanodikes trains not by the proclamation but all things improvised
+to the moment, a whip hanging over the trainer too if he should do anything
+beside what they command. And they command things not to be declined, so that
+for those who decline these it is ready to be barred from the Olympics. So
+much about the tetrads. [lost]
+
+Following these we shall show gymnastic wisdom and strengthen the athletes and
+the stadia will grow young again under training well. [lost]
+* Section 55
+:PROPERTIES:
+:CUSTOM_ID: h55
+:END:
+
+The jumping-weight is an invention of pentathletes, and it was invented for
+the jump, from which it is also named, for the laws, counting the leap harder
+than things in contest, both stir the jumper with the aulos and lighten him
+with the jumping-weight, for it is a safe escort of the hands and leads the
+step firm and well-marked to the earth. How much this is worth the laws show:
+for they do not allow the leap to be measured if it does not have the
+footprint rightly. The long jumping-weights train shoulders and hands, the
+spherical also fingers. They should be taken up by light and heavy alike for
+all exercises except the resting one.
+* Section 56
+:PROPERTIES:
+:CUSTOM_ID: h56
+:END:
+
+Of dust the muddy is able to wash off and give proportion to those with
+excess, the potsherd-like is fit to open and bring to sweat what is closed,
+the asphalt-like to warm underneath what has been chilled, and black and
+yellow dust are both earthy and good at softening and feeding up, and yellow
+dust also makes them glossy and more pleasant to see, as there is about a
+noble and trained body. One must scatter the dust with a moist wrist and with
+the fingers apart, sprinkling rather than dusting on, so that the fine powder
+may fall on the athlete.
+* Section 57
+:PROPERTIES:
+:CUSTOM_ID: h57
+:END:
+
+Let a punching-bag be hung for boxers too, but much more for those who go to
+the pancratium. And let the boxing one be light, since only the boxers' hands
+are trained by a bag, but that of the pancratiasts heavier and larger, so that
+they may train the stance standing against the bag's onset, and train
+shoulders and fingers striking against something opponent-like. Let the head
+dash in and let the athlete undergo all the upright forms of the pancratium.
+* Section 58
+:PROPERTIES:
+:CUSTOM_ID: h58
+:END:
+
+Some take the sun ignorantly, doing it in all the sun and all of them, those
+with science and reason neither always nor as many as it is better for. For
+the northern of the suns and the windless are clean and fair-sunned, inasmuch
+as they throw from white aether, the southern and storm-clouded are moist and
+over-burning, such as to enervate those training rather than warm them. I have
+said the fair-sunned of the days; the phlegmatic should be sunned more, so
+that they may be dried of the excess, but one must lead the bilious away from
+this, so that fire may not be poured on fire. And let those past prime be
+sunned lying idle and facing the sun like things being roasted, the vigorous
+active and training all, as the Eleans customarily do. As for steaming and
+dry-anointing, since it belongs to the more rustic gymnastics, let us leave it
+to the Lacedaemonians, whose exercises resemble neither pancratium nor boxing.
+The Lacedaemonians themselves say they do not train this form for the sake of
+contest either, but of endurance alone, which is the part of those being
+whipped, since it is their law to be torn at the altar.

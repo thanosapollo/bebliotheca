@@ -1,0 +1,797 @@
+#+TITLE: Philosophical Fragments
+#+AUTHOR: Ἰωάννης Δαμασκηνός hermes:grok-4.6
+#+FILETAGS: :patristic:8c-ad:pg94-96:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/fragmenta-philosophica--john-of-damascus
+#+LANGUAGE: en
+
+* Philosophical Fragments
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+PHILOSOPHICAL
+On voice
+Since our aim is to treat of every philosophical voice simply, and we must
+first know about which voices philosophy is concerned, making the beginning of
+the discourse from voice itself we say that voice is either meaningless or
+significant. And the meaningless is that which signifies nothing, while the
+significant is that which signifies something. Then again the meaningless
+voice is either inarticulate or articulate. Inarticulate, then, is that which
+cannot be written, while articulate is that which can be written. There is,
+then, a voice both meaningless and inarticulate, as the noise or the crash
+that comes from a stone perhaps or wood, for it is neither written nor
+signifies anything; but meaningless and articulate, as goat-stag, skindapsos;
+for these are written, but signify nothing, for neither a goat-stag nor a
+skindapsos ever came to be nor is. Concerning the meaningless voice, then,
+both the inarticulate and the articulate, philosophy has no account. The
+significant voice again is either inarticulate or articulate. An inarticulate
+significant voice, then, is as the barking of dogs; for this signifies the
+dog, because it is a dog's voice, and it also signifies someone's presence.
+But it is inarticulate, because it is not written. Therefore philosophy has no
+account of this either. But the significant and articulate is either
+particular or universal; particular as Peter, Paul, universal as man.
+Therefore philosophy has no account of the particular either, but of the
+significant and articulate and universal, that is, common and said of many.
+And this again is either essential or non-essential. Essential, then, is that
+which makes clear the substance, that is, the nature of things. Non-essential
+is that which makes clear the accidents, as: man is a rational mortal animal.
+All these are essential. For if you take away any of these from man, he will
+not be a man. For if you say that he is not an animal, he is no longer a man.
+And if you say "he is not rational", he is not a man. Likewise also, if you
+say "he is not mortal", he is not a man; for every man is both an animal and
+rational and mortal. For this reason, then, they are called essential, because
+they complete the nature of man and it is impossible for man to be constituted
+apart from them. Likewise also in the case of each thing those that constitute
+its nature are called essential, while non-essential are the accidents, which
+it is possible both to be in the man and not to be, as the white; for even if
+someone is not white, he has not lost being a man. Likewise also the black and
+such things. The essential voice, then, either makes clear the what-it-is or
+the what-sort-it-is, as when asked "what is man" we say "animal", then when
+asked "what sort of animal" we say "rational mortal". The essential voice,
+then, that makes clear the what-sort-it-is is called difference. And that
+which makes clear the what-it-is either signifies many species and makes the
+genus, as substance (for substance signifies both man and horse and ox; for
+each of them is both said to be and is a substance, but is another species) or
+makes clear many that differ from one another in number, but in species not at
+all, and makes the species; as man signifies many, that is all particular men,
+who differ from one another in number (for Peter is one and Paul another and
+they are not one but two) but they do not differ in species; for all are both
+said to be and are men. The more particular, then, as Peter, is individual and
+person and hypostasis, which signifies the someone. For when asked "who is
+this", we say
+
+"Peter", which also subsists by itself. And that which contains all the
+individuals is called species, and is more universal than the individual,
+because it contains many individuals, as man. For it contains both Peter and
+Paul and all particular men, which is called nature and form and substance
+according to the Fathers. And that which contains many species is called
+genus, as animal; for it contains man, ox, horse and is more universal than
+the species. And the Fathers called the species and the genus nature and form
+and substance. And the non-essential voice either belongs to one species or to
+many. And if it belongs to one species, it is called a property, as the
+capable-of-laughter, for the capable-of-laughter belongs to man alone, and the
+capable-of-neighing to the horse. But if it belongs to many species, it makes
+the accident, as the white; for this belongs both to man and to horse and to
+dog and to other species, which are many and various in species. And these are
+the five voices, under which every philosophical voice is brought. These,
+then, we must know, what each signifies and in what they share with one
+another and in what they differ. And they are these: genus, species,
+difference, property, accident. Genus is that which is predicated of several
+that differ in species in the what-it-is, species that which is predicated of
+several that differ in number in the what-it-is, difference that which is
+predicated of several that differ in species in the what-sort-it-is and is
+taken in the definition as essential. One must know that this is called
+essential and natural and constitutive and divisive and specific and most
+proper difference and quality. And property is that which belongs to one
+species and to it alone and to the whole species and always. And accident is
+that which is predicated of several that differ in species in the
+what-sort-it-is and is not taken, but is able both to belong to something and
+not to belong. And this is also called non-essential difference and quality;
+concerning which we shall learn more accurately with God in what follows, in
+which the practice is. An individual is that which, from substance and
+accidents, subsists by itself, separated in number from those of the same
+species, making clear not the something, but the someone. 2 On the ten most
+generic genera, which they name categories One must know that of things said
+some are said simply and without combination, as substance, accident and such
+things, and some with combination, as a horse runs, as Socrates philosophizes.
+And our aim here is to discuss simple expressions through the medium of simple
+concepts that make clear simple things. And each of the things said simply is,
+itself by itself, in no affirmation, much less in a negation. But by the
+combination of these with one another affirmation and negation come to be; for
+affirmation is composed of at least two expressions, as "Plato walks". And
+negation comes to be by addition of the negative particle, that is "Plato does
+not walk". And the combination either comes to be according to force, as "I
+live"; for it has the force of two expressions; for the one who says "I live"
+makes clear "I live," and the one who says "you live" makes clear "you live";
+or according to voice, as "a man walks". And of things said simply and without
+combination, one signifies substance, as man, horse; one quantity, as two,
+three, two-cubit, three-cubit; one relatives, as father, son; one quality, as
+white, black; one where, as in a temple, in the marketplace; one when, as last
+year, yesterday, today; one being-situated, as standing, sitting; one having,
+as being-armed, being-shod; one doing, as burning, cutting; one
+being-affected, as being-burned, being-cut. These ten, then, are called
+categories as from agoreuo, that is, I say; for they are expressions
+predicated of simple things, and these making them clear through simple
+concepts: 1. substance, 2. quantity, 3. relatives, 4. quality, 5. where, 6.
+when, 7.
+
+
+being-situated, 8. having, 9. doing, 10. being-affected. Substance is divided
+into body and incorporeal, body into animate and inanimate, the animate some
+into sensitive and insensitive, others into animal, zoophyte and plant; for
+animal is nothing other than an animate sensitive substance. Again animal is
+divided into rational and irrational, the rational into mortal and immortal,
+the mortal into man, horse, dog and such things. Substance, then, is the most
+generic genus because it has no other genus before it predicated of it
+synonymously; and we said "synonymously" because of being. For being is before
+it and is more universal than it; for being signifies not only substance but
+also accident. And being is divided into substance and accident, since all
+things are under being; for non-being is none of all things. But even if being
+is before substance, still it is not a genus of it; for being is not
+predicated of substance synonymously. And synonymous predication is when the
+subject receives both the name and the definition of the predicate, that is,
+of the one above. And substance receives the name of being, but cannot receive
+its definition. Substance, then, is the most generic genus, while man and
+horse and such things are most specific species because they are not cut into
+other species; for even if man is cut into male and female, these are not
+species; for they are consubstantial. And it is impossible for species to be
+consubstantial with species. And those between the most specific species, that
+is man, and the most generic genus, that is substance, are called both genera
+and subaltern species, species of those before them, that is those above, and
+genera of those after them, that is those below, as body is a species of
+substance but a genus of the animate, the animate a species of body but a
+genus of animal, animal a species of the animate but a genus of the rational,
+the rational a species of animal but a genus of the mortal, the mortal a
+species of the rational but a genus of man. And man is called both a species
+of the mortal and of the individuals under it; again it is called a species
+and no longer a genus. And substance is called a genus only, and no longer
+also a species. For this reason, then, substance is called most generic genus
+and man most specific species. And every genus that has no other genus before
+it is called most generic, and every species that has no other species under
+it and is not a genus is most specific. Everything, then, immediately before
+the individuals, that is nearest, is a species only and no longer also a
+genus. 3 On quantity Quantity is a heap of units and not a division but rather
+a joining. And of the quantitative, one is continuous, one discrete. Discrete,
+then, is that whose parts do not join to some common limit, as two palms; and
+continuous is that whose parts join to some common limit, as one three-cubit
+piece of wood. Under the discrete quantitative, then, are brought number and
+speech; number as two, three and such things; for the parts of two, which are
+one and one, do not have a common limit joining them. And speech measured by
+syllables is also brought under the discrete quantitative; for the syllables
+do not have a common limit joining them. And under the continuous are brought
+line and surface and body and place and time. And line and surface and body
+and place and time are brought under the continuous quantitative; for the
+parts of each of them join to some common limit, those of a line to a point,
+those of a surface to a line, those of a body to a surface. For a point is
+without quantity. And the line has one dimension; for it is length without
+breadth. And the surface has two dimensions, length and breadth. And the body
+has three dimensions, length <and> breadth and depth. And place
+
+
+is a limit of that which contains, inasmuch as a limit the contained is
+contained, as the air contains the body. The end, then, of the air that
+contains the body is called the place of the body, and not the whole air, so
+that place is a surface of the air that contains the body and is thus brought
+under the continuous quantitative as a surface. And the parts of place join to
+a line as of a surface. And the parts of time join to the now; for the now,
+being without quantity, is a limit of the past and a beginning of the future.
+And one must know that a surface is the outer part of the body, from
+appearing. This, then, is either equal and even and smooth and is called
+plane, or curved and unequal and uneven and is called simply surface. And one
+must know that body and surface and line are under one and together, while
+time and place are about them. Place especially belongs to the quantitative;
+one is positional, one non-positional. The positional, then, makes clear
+being-situated somewhere and the parts remaining for one another; and it also
+has a certain continuity and mutual holding toward one another. And
+non-positional are those that are not such but have the contrary. Under the
+positional, then, are brought line, surface, body, place; for the parts of
+each of them remain and are situated somewhere and have continuity toward one
+another, the parts of the line in the surface, of the surface in the body, of
+the body in the place, of the place in the body as of a surface. And
+non-positional are number, speech, time; number and speech, because their
+parts neither have continuity nor are situated somewhere nor do their parts
+remain. And the parts of time, even if they have continuity, still neither
+remain nor are situated somewhere. And number is twofold, one in the numbers,
+one in the numbered things, as a pint; one the measuring one, the bronze, and
+one the measured, as either wine or some other such thing. The numbering,
+then, is not positional, but the numbered is positional. And every
+quantitative is both a measure and measurable. One must know that quantity is
+the measure itself and the number that measures and that numbers. But speech
+and time and place, body and surface and line are not quantity but
+quantitatives as subjects of quantity and measured and numbered, likewise also
+the numbered number, that is the wine and such things. And some are subjects
+of continuous quantity as being numbered continuously, others of discrete as
+being measured and numbered discretely; wherefore they are also called
+quantitatives and not quantity. And these seven are called quantitatives
+properly, but by accident we call quantitatives the things observed in them,
+as action, motion, the white and such things; as, if the action and the motion
+come to be in much time, we say much action and much motion, but if in little,
+little; likewise also, if there should be whiteness in a large body, we say
+much white, but if in a small, little. And Aristotle also brings motion by
+itself under the quantitative. And inclination is also brought under the
+quantitative because the most is observed in it. The property of the
+quantitative is the equal and the unequal; and lightness and heaviness are
+under the qualitative. 4 On relatives Relatives are said to be such things as
+are said to be of others, the very things they are, or in some other way
+whatever toward another, that is, such as are said to be of others or toward
+another, either toward a genitive or toward another case; for this is what "in
+some other way whatever" signifies, that is, according to whichever case; for
+relatives are said not only toward a genitive, but there are times also toward
+the same case, whether genitive or dative, both the giving-back and the
+giving-back-in-return, as the double is double of a half and the half is half
+of a double toward a genitive, and toward a dative the like is like to the
+like, or the giving-back toward a genitive and the giving-back-in-return
+toward a dative, the giving-back as knowledge is knowledge of a knowable, and
+giving-back-in-return; the
+
+
+knowable is knowable by knowledge; or toward a nominative, as the mountain
+great toward small and much toward little; for no one says "great of small" or
+"little of much". And of relatives some are named with the same name, as the
+friend is friend of a friend and the like is like to the like and such things,
+and some otherwise. And of these some according to excess and defect, under
+which are referred the species of the multiple, as the greater is greater than
+a lesser, some according to the judging and the judged, as knowledge is
+knowledge of a knowable, habit is habit of a thing-had, perception is
+perception of a perceptible, likewise also disposition and position and
+reclining and sitting and standing; for of these the genus is position. And
+under whichever category the genus is, under this the species of the genus are
+also brought. But sitting and lying and having-stood, as paronyms and
+infinitives, are not brought under relatives; for they are not position. And
+some according to power and impotence, power as the heating and the
+being-heated, and impotence that according to privation of the power, when we
+say that sight has an impotence to see the starless sphere. And some according
+to the cause and the caused, as a father is father of a son. And some
+according to the reference toward the genus, as we say that grammar is under
+relatives not insofar as it is grammar but insofar as it is knowledge; for
+knowledge is the genus of grammar, and knowledge is knowledge of a knowable.
+Likewise also reclining and sitting and standing, for of these the genus is
+position, and virtue because of habit; for virtue is a habit. 5 On the
+qualitative and quality Quality is that according to which certain ones are
+named qualitative, or quality is that according to which those that
+participate in it are said paronymously; for from prudence the one who has
+prudence is called prudent and the one who participates in heat is called hot.
+And one must know that the qualitative is more universal than quality; for the
+qualitative signifies both the quality and that which participates in it,
+while quality does not signify that which participates in it. Likewise also in
+the case of the quantitative and quantity. And quality is among the things
+said in many ways, not as homonymous but as synonymous. For the name dog, said
+homonymously, is not a common genus of the land and sea and starry, but
+quality, being a genus, is predicated synonymously of the species under it;
+for its species receive both its name and its definition. And of qualities
+some belong to animate bodies, as sciences and virtues, diseases and healths,
+and are called habits and dispositions, and some to both animate and
+inanimate, as heat, cold, shape, figure, power and impotence. And of these
+some are in potency, some in act; and if in potency, they make power and
+impotence; and if in act, they have either gone through in depth, as heat
+through the whole of fire and whiteness through the whole of milk and of snow,
+and make the third species, affection and affective quality, or on the surface
+and make the fourth species, figure and shape. 6 On the difference of union
+Union comes to be according to various modes; for it comes to be either
+according to blending, as in the case of various flours being blended and
+mixed, or according to glueing, as in the case of bronze and lead, or
+according to fitting, as in the case of stones or woods, or according to
+confusion, as in the case of things that melt and of the metallic, as in the
+case of wax and pitch and as in the case of gold and silver, or according to
+mixture, as in the case of liquids, wine perhaps and water or wine and honey.
+For the union according to composition is the interpenetration of the parts
+into one another without disappearance, as it is in the case of soul and body,
+which union some have called mixture or growing-together; for the things that
+are together have such a nature as both to be united to those that can
+
+
+receive them, as things co-destroyed, and being united to remain unconfused
+and incorrupt and unaltered, as things that lie beside. The soul, then, is not
+in a body, but the body is in the soul. And one must know that some of the
+Fathers did not accept the name of mixture in the case of the mystery
+according to Christ, but all accepted the union according to composition.
+There is also the union according to juxtaposition; and it resembles that
+according to fitting. Again a union is called personal, when someone, putting
+on the person of another, makes the words on his behalf in his place, and a
+relative union as of a friend toward a friend. And Nestorius also invents
+other unions according to dignity I mean and sameness of will and equal honor
+and good pleasure and homonymy. 7 On division Division is a first cutting of
+the thing, as animal is divided into rational and irrational. Superdivision is
+the second cutting of the same thing, as animal is divided into mortal and
+immortal. Subdivision is the cutting of the limb, as, animal having been
+divided into rational and irrational, the rational is divided into mortal and
+immortal. But division and superdivision do not come to be in all cases, but
+when not all are contained under the first division, as, animal being divided
+into rational and irrational, there are found also among the rational
+herbivorous, that is eating herb, and among the irrational likewise
+carnivorous. We therefore of necessity make a superdivision, that is a second
+cutting of the same animal, saying: Animal is divided into herbivorous and
+carnivorous. And there are 8 divisive modes: either as genus into species, as
+when you divide animal into rational and irrational; or as species into
+individuals, as man into Peter and Paul and the remaining particular men; or
+as a whole into parts, and this in two ways, either into homoeomerous or into
+anhomoeomerous. And homoeomerous is when the segments admit both the name of
+the whole and of one another and the definition, as flesh is divided into many
+fleshes, and each part of the flesh is called flesh and admits the definition
+of flesh. And anhomoeomerous is the reverse, when what has been cut admits
+neither the name nor the definition either of the whole or of one another, as
+if you should divide Socrates into hands and feet and head; for neither is the
+foot cut from Socrates called Socrates nor does it admit the definition of
+Socrates. Or as a homonymous voice into various significations; and this again
+in two ways; for it either signifies some whole or a part. And a whole, as the
+voice dog; for it is applied to the whole of a land dog and a starry and a
+sea, which are some whole and not a part of an animal. And as a part, when the
+name of tongue is applied both to the tip of the shoe and of the pipe and of
+the tasting part of animals, which are parts and not wholes. Or as substance
+into accidents, as when I say: Of men some are white and some black. Or as
+accident into substances, as when I say: Of whites some are animate and some
+inanimate. Or as accident into accidents, as when I say: Of colds some are
+white and some black. Or as things from one and toward one. From one, as from
+medicine a medical book, a medical drug; for from one, medicine, they were
+named medical. And toward one, as a healthful drug, a healthful food; for they
+look toward one, health. And of things from one some are said from some cause,
+as the image of the man is said from a true cause, the man, and some as things
+named from something, as a medical book and such things. And one must know
+that in no one mode of division is the by-nature prior and posterior observed
+in the segments, nor the more and the less, except in the from-one and
+toward-one and that from which the naming is. And what the by-nature prior is,
+you will find by seeking in the teaching concerning the prior; for our soul
+has two
+
+
+powers. 8 <On philosophy> There are six definitions of philosophy. Philosophy
+is knowledge of beings, insofar as they are beings, that is, of their nature,
+and knowledge of both divine and human things and practice of death, and of
+death the chosen as they say, but I say also of the natural, likeness to God
+according to what is possible for man. And we are likened to God according to
+the just and the holy; the just, then, is that which distributes the equal,
+that is neither to do injustice nor to suffer injustice, and the holy is that
+which is above the just, that is the good, that is rather to suffer injustice
+than to do injustice. Art of arts and science of sciences; for philosophy is a
+beginning of every art. Friendship of wisdom; and true wisdom is God; the
+love, then, toward God, this is the true philosophy. And philosophy is divided
+into theoretical and practical; the theoretical into theological,
+mathematical, physiological; the mathematical into arithmetic, music,
+geometric, astronomical; and the practical into ethical, economic, political.
+Theoretical, then, is to contemplate both the incorporeal and the immaterial,
+that is concerning God, who is primarily and properly immaterial; then also
+concerning angels and demons and souls, which themselves also are called
+immaterial so far as toward the body, even if toward the properly immaterial,
+that is the divine, they are material, which is the theological. And to
+contemplate also the nature of material things, that is of animals and plants
+and stones and such things, which is the physiological. And to contemplate
+also the intermediates of these, which are sometimes contemplated in matter,
+sometimes outside matter, and are intermediates of the immaterial and the
+material, which is the mathematical. For number by itself is immaterial, but
+is also contemplated in matter, that is in wheat; for we say "ten measures of
+wheat"; likewise also the rest. And the practical adorns character and teaches
+how one must live as a citizen; and if it educates one man, it is called
+ethical, and if a whole house, it is called economic, and if also a complete
+city, it is called political. 9 <Various definitions> A dogma is an inquiry of
+true piety, an unerring and unlying discernment or in words a deliverance from
+error. A catholic dogma is a judgment set forth to all without force and a
+contradiction of another and an overturning of the worse. A definition is a
+concise account making clear the whole underlying substance of the thing. A
+definition is an account, beyond which the thing, whose it is, is not
+permitted to go forth from itself, because it is known in it and it alone. A
+definition is a making-clear of a thing through an account, without which
+neither what it is nor that it is is known. A definition is a concise account
+making clear the nature of the underlying thing. A horos is, as far as
+the chance thing comes and there is brought to an end. A description is a
+concise account making clear accidents, that is that which from both accidents
+and properties makes clear the subject. And definition differs from horos, in
+that definition is more particular, while horos is more universal; for horos
+signifies both the definition and the boundary-mark and that of which there is
+a limit. Horos is also said of that into which the proposition is analyzed;
+while the definition makes clear only the concise account that makes clear the
+nature of the underlying thing. And description differs from definition, in
+that definition is taken from essential things, while description from
+non-essential, that is accidents, and the descriptive definition from both
+essential and non-essential. And the health of a definition is to convert, and
+the vice not to convert. Definable is that which is subject to the definition,
+that is the thing defined, indefinable is only the uncreated
+
+
+(for every creature is defined by the creator), hard-to-define that which
+appears in transformation and not according to substance, which it is, as in
+the case of angels and demons and the soul. The definition of definitions is
+that which defines all things, but itself is defined by none. Union is a
+running-together of various things. On the difference of logos. Logos is that
+which is always essentially co-present with the Father. Logos is the immanent,
+that which is spoken in the heart. Logos is a messenger of a thought and
+without hypostasis. One, then, is essential and enhypostatic, one immanent,
+one uttered. Only-begotten is he of whom neither before nor after another has
+been begotten. Composition is an interpenetration of the parts through the
+whole into one another. Composition is to make from one and another into one,
+either dividedly or confusedly or thus and thus. Composition is that which is
+constituted from various things and does not know the property of each.
+Division is that which has come to be privately and part by part and in no way
+toward another. Division is that which has made the single-formed into
+many-formed by fencing off. Division is the first cutting of the thing, and
+subdivision the cutting of one of the cut limbs, and superdivision the second
+cutting of the same thing; as animal is divided into rational and irrational;
+behold a division; the rational into mortal and immortal; behold a
+subdivision; again animal is divided into carnivorous and herbivorous; behold
+a superdivision. Divisible is that which is divided, indivisible is that which
+is not divided. 10 <On the five voices> Genus is that which is predicated of
+several that differ in species in the what-it-is. And genus also signifies the
+fatherland, as when we say that Peter is a Galilean by genus. And it also
+signifies the beginning of the coming-to-be of certain ones, as when we say
+that those from Israel are Israelites by genus. Genus is the thing
+contemplated by itself. Species is applied according to two significations;
+for both the shape is called species, as "first a form worthy of tyranny".
+Species is also called that which is divided from the genus, as when we call
+man a species of animal. Species is that which is ranked under the genus. And
+again species is that of which the genus is predicated in the what-it-is. And
+again species is that which is predicated of several that differ in number in
+the what-it-is. And this definition is of the most specific species. Most
+generic genus is the first genus, which, being a genus, is not a species, that
+is that which has no other genus above it, from which it is cut, as substance.
+Most specific species is the last species, which, being a species, is not a
+genus because it has no other species beneath it, but being immediately above
+the individuals as being divided into them, whose definition is: That which is
+predicated of several that differ in number in the what-it-is. And those
+between the most generic genus and the most specific species are called both
+genera and subaltern species. Difference is said in three ways, both commonly
+and properly and most properly. Difference is that called common difference,
+the separable accident, because it is commonly observed in the whole species,
+as when so-and-so differs from so-and-so according to being-healthy and
+being-ill, according to being-moved and being-at-rest, according to sitting
+and standing. Difference is that called proper difference, the inseparable
+accident, because it is not present to the whole species but to some, as when
+so-and-so differs from so-and-so according to the snub or grey-eyed or bald.
+Difference is that called most properly among the philosophers, which is also
+an essential difference, by which the species exceeds the genus. And again
+difference is that which is predicated of several that differ in species in
+the what-sort-it-is.
+
+
+Difference likewise is that which is of a nature to separate those under the
+same genus essentially. Difference in the same way is that by which each
+differs essentially. Difference is that which makes another species and that
+which is taken in the definition. Difference is an account according to which
+the otherness of the significations toward one another is of a nature to be
+preserved. And identity is an unvaryingness, according to which the account of
+the signified has acquired the wholly unique, no mode of difference being
+known. And one must know that identity is taken according to three modes. For
+there is the same in genus, as when we say that man and the horse are the
+same, inasmuch as both are animals. There is also the same in species, as when
+we say that Peter and John are the same in species, inasmuch as both are men.
+Again there is the same in number, as when we say that Peter is the same as
+himself. And difference also is taken in three ways. For there is difference
+in genus and difference in species and again in number. Property is that which
+fits one nature and converts toward the definable, as the capable-of-laughter
+of man and the capable-of-neighing of the horse. The account among the
+philosophers is of this, of that which belongs to all and to it alone and
+always, as they call a property supervenient-on-substance. Property is that
+which belongs to all and to the species alone and always. A peculiarity is
+that which is known properly, in that in which it is, and alone, and in
+another not. A peculiarity again is the significant of every substance, both
+figure and thing. A peculiarity is that which signifies the existence of this,
+whose it is. Accident is that which comes to be and passes away without the
+destruction of the subject. Accident is that which it is possible for the same
+both to belong and not to belong. Accident is that which, existing in
+something not as a part, is impossible to be apart from that in which it is.
+Accident is both the separable, as heat, cold, whiteness, and the inseparable,
+as hookedness in a nose and grey-eyedness in an eye. Generic is that which
+contains the genus in itself. Specific is that which contains the species in
+itself. Specific is the substance, that is the nature. Containing is that
+which gathers and fills up the particulars in itself. 11 <On substance and
+form and nature> Substance is that which subsists through the whole and needs
+no other for being. Substance is the existence of each. Substance is the
+common nature of beings, according to which both the individuals and the
+species share with one another, being referred under one and the same
+definition of substance. And substance is a self-subsistent thing that has
+hypostasis. Substance is everything that subsists according to its own
+existence and does not have its being in another. Substance is primarily and
+properly everything that is self-hypostatic and does not have its being in
+another. Substance is properly said of being itself, that which needs no other
+for existence. Substance is a common and indefinite name predicated with equal
+honor of all the hypostases under it. Substance is that which exists not in
+one only but in many and various in number and is not observed more in one and
+less in another. Substance is that which is said of the underlying hypostases
+and is observed in all of them equally and with equal honor. Substance is that
+which is the same and one in number receptive of contraries by turns; this
+definition those outside have for the most part set down of the particular
+substance so called among them. Substance is that which is predicated of many
+that differ in number in the what-it-is and is co-present with all and equally
+imparts its own name and thing. Form is called and taken this seen species of
+the body. But form was taken properly as substance by the Fathers, as also by
+the apostle; for it is unlawful in the case of the invisible God and impious
+to call the form a species, that is a figure. Form is that which is
+contemplated according to its own contemplation and has no need of another for
+its making-clear. Form is that which is by itself and does not need a sharing
+of another
+
+
+for being. Nature is a beginning of motion and rest. And we often call nature
+the having-been-natured-thus and not in every way the substance itself. And
+again it is customary to call nature, for the most part, the substance, and
+especially for our teachers. Nature truly is this, in which the being of the
+substance is taken. Nature according to the outside philosophers is a certain
+power that has sunk into the matter, a beginning of rest and motion. Nature is
+the truth of things. Nature and substance and form is the quality of beings
+that is. Unsubstantial is the uncreated and non-existent through all.
+Particular substance is an articulate and insignificant account. Essential is
+that which, being present, preserves, and being absent, destroys, as in the
+case of the rational. And non-essential is that which neither being present
+preserves nor being absent destroys, as in the case of the white. The
+philosophers call the inseparable accidents supervenient-on-substance. An
+individual is that which is composed of peculiarities, the collection of which
+would never be seen upon another. A person is that which, through its own
+activities and peculiarities, furnishes us a manifestation of those of the
+same nature that is quite clear and circumscribed. 12 <On hypostasis and the
+enhypostatic and the anhypostatic> Hypostasis is a running-together of the
+characterizing peculiarities, distinguishing the individual and the proper,
+that is the someone-man, from the common. Hypostasis is a running-together of
+the peculiarities about each. Hypostasis is that which, through the
+characterizing peculiarities, presents and describes in the someone-thing the
+common and uncircumscribed of the nature. Hypostasis is a substance with
+peculiarities differing in number from those of the same genus. Enhypostatic
+is that which in no way subsists by itself but is contemplated in others, as a
+species in the individuals under it, or that which is composed with another
+different according to substance into the coming-to-be of some whole. We call
+hypostasis that which subsists by itself and is not co-contemplated with any
+other, which some also call an individual; and this would be a collection of
+accidents, which, all contemplated together, are present to no other except
+the one to which they are present. Enhypostatic is that which is in truth and
+is contemplated in existence. Anhypostatic is not the non-being but that which
+has not come to be, as the darkness. Anhypostatic is everything that has not
+come to be from God but stands in the absence of the better, as it were the
+darkness or disease or sin or death. Consubstantial is that which is in no way
+and without omission lacking of the other. According to hypostasis is a thing
+that subsists from various natures. According to hypostasis is that from two
+things, but in one person. Union according to hypostasis is the nature that
+runs toward another in a hypostasis. <Mixture is> a juxtaposition of bodies,
+an interchange of qualities. Mixture is a yoking of bodies that mix against
+one another the qualities in them. Mixture is a running-together of substances
+foreign to one another and an interchange of the qualities about them. 13
+<Still on the same> According to nature is that which is commonly seen in the
+genus as constitutive of the substance. Single-formed is the substance seen in
+its species alone and not in transformation. Single-formed is that which can
+be seen in a single mode. Single-formed is the substance without all change
+and transformation. By itself is that which is present to something primarily
+and according to substance and not according to accident, as the rational; for
+this is present essentially to man. Homogeneous are those under the same
+genus. Homospecific are those under the same species. Homohypostatic are those
+that have one and the same hypostasis. Heterogeneous are those
+
+
+that differ according to genus and are not consubstantial. Heterospecific are
+those that differ according to species, that is according to substance.
+Consubstantial are those that participate in the same substance. Heteroousian
+are those that differ according to substance. Heterohypostatic are those that
+are divided according to hypostasis. Homophyletic are the consubstantial,
+heterophyletic are the heteroousian. Homogeneous and homophyletic and
+homospecific and consubstantial are the same; heterogeneous and heterophyletic
+and heterospecific and heteroousian are not the same. 14 <On homonyms and
+heteronyms and such things> Homonyms are those of which the name only is
+common, but the account of the substance according to the name is other, that
+is those that have the same name, but the thing signified from the name is
+other and other, as John the Baptist and John the apostle, both having one
+name "John", but the thing signified from the name other and other; for the
+one is Baptist and the other apostle, and the one son of Zachariah and the
+other of Zebedee. And synonyms are those of which both the name is common and
+the account of the substance according to the name is the same, that is those
+that have the same name and the thing signified from the name, that is the
+definition of this common name itself, as animal both man and the horse; for
+both share in animal and in the definition, for each of them is called animal
+and admits the same definition of animal, for it is an animate sensitive
+substance. Polynyms are many names said of one thing, as aor, sword, knife,
+spathe; for all these names make clear the same and have one definition, for
+their definition is two-edged iron. And heteronyms are those that share
+neither in the name nor in the definition, of which both the name and the
+account of the substance is other. If, then, they have one subject, they are
+called heteronyms, as ascent and descent; for they have one subject, the
+ladder. And others are those of which both the name and the account of the
+substance is other, and they do not have one subject, as substance and
+accident. And paronyms are those that have the appellation from something, as
+just from justice. 15 <On the common and the subject> Common is either that
+which is contemplated in many or that which is predicated from many. And
+common is said in four ways: either that which is divisible into the parts, as
+the land being allotted, or that which is taken indivisibly in common use but
+not at the same time, as one slave or one horse of two masters, or that which
+is made proper in a pre-occupation, but is referred back to the common, as a
+place in a theatre or that in a bath, or that which is put forward indivisibly
+into a common and the same concept, as the voice of the herald was taken here
+according to this mode; the logos is the <voice> that through itself makes
+known concerning the whole, whose it is. The subject is said of the substance
+itself. And of a subject is said when the universals are predicated of the
+particulars, and in a subject as the accidents in the substances, as the white
+in a swan. The subject is twofold: one toward existence, one toward
+predication. And toward existence they say that substance underlies the
+accidents, and toward predication the particulars underlie the universals. In
+a subject is that which, existing in something not as a part, is impossible to
+be apart from that in which it is, as color in a body; for color is not a part
+of the substance of the body, but color cannot be outside the body. Universal
+is that which signifies many, as man; for it signifies all men, who are many.
+And particular is that which has been divided from the universal and is
+subject to it, as Peter, Paul and each one of the men. Synonymous predication
+is when both
+
+
+the name and the definition of the predicate the subject receives. By itself
+is that which is present to something primarily and according to substance. 16
+<On the categories of habit and of power> Quantity is a limit of number, that
+is a composition of units. Number is defined as a heap of units or a flood of
+units, but not a division of units. Quality is that which shows in itself the
+difference from the others. Habit is the activity according to nature of each
+and completeness, as in the case of the soul temperance, courage, prudence,
+justice, and in the case of the body the completeness of the limbs and the
+proportionate and health. And the missing of these very things and the failure
+and, wholly, the taking-away is called privation. Habit is a certain lasting
+quality; and I call the activity the offspring of this. Habit is a certain
+quality hard to move and hard to change, while the disposition that is
+distinguished against habit is easy to change and easy to move. Habit, then,
+is called in one mode the activity of the held and of the holder, as of the
+weapon and of the armed and of a garment and of the one being clothed. And
+second the adventitious activities that are lasting, whether they be natural
+or psychic, natural as heat in bodies being heated, and psychic as science.
+According to a third mode, that which it does not yet have, but has a fitness
+to receive, which was the first signification of "in potency". And according
+to a fourth mode the natural quality, that is the natural habit, as the heat
+of fire and the sight of the sleeper and the cold of snow. And the fifth the
+final activity, as seeing and heat; according to the fourth signification,
+then, Aristotle took the opposition of the opposed as according to privation
+and habit, that is of the power, whether the productive or the passive. And
+disposition is the such-and-such quality of each according to accident. And
+power is said one according to fitness, one according to habit; according to
+fitness, as when we say that the child is a grammarian in potency, inasmuch as
+he has a fitness toward becoming a grammarian; and according to habit, as when
+we say that the grammarian at rest is a grammarian in potency, inasmuch as,
+even if he does not use the art, he knows it. Power again is said according to
+habit, as when we say that the child is seminal, inasmuch as he is of a nature
+to be seminal and is in potency, even if not yet in act because of the time;
+likewise also the grain of wheat is an ear in potency according to habit, for
+it has a natural power to become an ear. Power is also said of strength. Power
+is also said of the army, that is the expeditions. Relatives are those for
+which being is the same as to be relatively somehow. Relatives are these, for
+which being is the same as to be said toward another. And relatives are said
+to be such as are of others, the very things they are; and at the same time
+they also convert toward one another. Relatives are those for which being is
+the same as to have somewhere relatively. And some have interpreted the
+description more clearly, that these are relatives, for which being is the
+same as to be somehow toward another. Where is a making-clear of place, as in
+Rome, in Alexandria. When is a making-clear of time, as last year, today,
+tomorrow. Being-situated is that which has a position somehow toward another,
+as the body that is situated somehow toward such-and-such a position or toward
+reclining or sitting. Having is a substance about a substance, as a ring about
+the finger and a garment about the body. Doing is to have in itself the cause
+of the activity. Being-affected is to have in itself and in another the cause
+of being-affected. Doing is said in the case of the productive arts, carpentry
+I mean and such things; but acting, in the case of those of which the end,
+that is the result, does not remain, as in the case of flute-playing and
+dancing; and contemplating is said in the case of astronomizing, geometrizing,
+thinking and such
+
+
+is said. Impassible is that which is without all matter and can in no way be
+thought, which it is, by this. Impassible is that which is without affection
+and above all touch. Impassible is that which has no need of another and
+always remaining likewise upon itself. Affection is an alteration of this
+something, of what it was, whether for good or also otherwise. Affectible is
+that which can be altered into this, which it was not before. 17 <On the prior
+and the together and motion> Prior is said of one than another in five ways.
+Prior properly is that which is prior in time, as we say older or more elder.
+Prior by nature is that which co-destroys and is not co-destroyed, and is
+co-introduced but does not co-introduce, wherefore the simples have precedence
+of the composites and the universals of the particulars. And prior is also
+that according to order. Prior is also that according to power, that is
+according to worth. Prior likewise is also the cause and the caused; and one
+must understand cause as that which accomplishes, and caused as that which is
+accomplished. Together are said those that co-exist with one another and are
+not prior one than another, whether in time or by nature or by cause or by
+order or by power, that is worth. And together are also said those that are
+divided against each other, that is the two limbs from the same division, as
+of animal the one rational the other irrational. Motion is an entelechy of
+that in potency, inasmuch as it is such, as the bronze is a statue in potency;
+for the bronze can receive the form of the statue. An entelechy, then, of the
+bronze that is a statue in potency is the being-dissolved, the being-shaped,
+the being-scraped, which are motions. In as many categories, then, as there is
+the "in potency", reasonably in these motion will be contemplated; both in
+substance and in the quantitative and in the qualitative and in the where
+category, in substance coming-to-be and destruction, in the quantitative
+increase and diminution, in the qualitative alteration, and in the where that
+which is borne in a circle and that which is moved in a straight line, and the
+former is called revolution, and the latter simply motion in a straight line.
+And some are seven motions in the where category, that is the local and
+transitional motions: the down, the up, the within, the without, the right,
+the left, the circling. 18 <On assertion and syllogism> Conception the Fathers
+and the true account have declared to be twofold; for one is as it were a
+thinking-upon and a considering-upon, which unfolds and clarifies the rough
+and inarticulate contemplation and knowledge of things, so that what seemed to
+sense to be simple is shown by the busy work of the mind to be many-parted and
+various. And the other happens to be a fiction of thought according to a
+combination of sense and imagination, composing from beings the things that in
+no way are and opining them to be; and such is the myth-fashioning of the
+hippocentaurs and sirens; for taking the parts of wholes and composing from
+parts some other thing, according to much license and ease, it fashioned in
+the thought and in the accounts the things in no way contemplated in
+hypostasis and substance, then also being shaped in the materials it made
+idols. A beginning is a cause of all things that have come to be.
+Without-beginning is that from which all things have been generated, but
+itself ungenerated. An end is the hitting of the aim; an end according to
+Aristotle is that for the sake of which the others, but itself for the sake of
+none, or thus: An end is that for which one does the others, but itself
+through none. Simple voice, name, verb, dictum, term; these five differ from
+one another according to the subject in nothing, but the difference is only
+according to the relation, as man as simply significant of something is called
+a simple voice, as a subject is called a name, as holding the rank of a
+predicate is called a verb, as a part of a proposition is called a dictum, as
+a part of a syllogism is called a term. An assertion is an account signifying
+what belongs to something or does not belong, as "Socrates <does not> walk"
+makes clear that walking does not belong to Socrates. This assertion is
+divided into affirmation and negation. An assertion is an account in which
+
+
+there is being-true or being-false, as "Socrates is a man"; for see, it is
+true; or "Socrates is not a man"; for see, it is false. Affirmation is an
+account signifying what belongs to something, as "Socrates walks". Affirmation
+again is an account asserting something of something. Negation is an account
+signifying what <does not> belong to something, as "Socrates does not walk".
+Contradiction is a fight of two propositions that divide the true and the
+false upon every matter and upon every time, as "every man is just", "not
+every man is just"; of these in every way the one is true and the other false.
+A proposition is an account asserting something from something, which is a
+negation, or something of something, which is an affirmation. A term is that
+into which the proposition is analyzed, as a proposition is "Socrates walks";
+this proposition is analyzed into "Socrates" and into "walks". Each of them,
+then, as a part of a proposition is a term. A syllogism is an account in
+which, certain things having been set down, something other than the things
+laid down follows of necessity through the things laid down; and I said
+"having been set down" instead of "having been agreed", and "through the
+things laid down" I say, that is that through the propositions set forth the
+conclusion comes to be, not needing from outside some other constitution or
+term. A lemma is that which has been taken as agreed toward the construction
+of something. And one must know that these five according to hypostasis have
+differed from one another in nothing, as assertion, proposition, problem,
+objection, conclusion; for when I simply assert that the soul is immortal, it
+is called an assertion. And when it is taken as a part of a syllogism, then it
+is a proposition to say "the soul is immortal". And when someone objects to
+the proposition, seeking: From where is it clear that the soul is immortal?
+then such a thing is named an objection. And when again we propose for
+inquiry: Is the soul perhaps immortal? it is called a problem. And when it is
+inferred from a proposition, it is called a conclusion, as: The soul is
+ever-moving, the ever-moving is immortal, then from these propositions:
+Therefore the soul is immortal; that is the conclusion. A problem is a theorem
+stretching toward choice and flight toward contemplation and knowledge. A
+question is an interrogation requiring an extended answer. One must know that
+the interrogative account differs from the questioning, in that to the
+interrogative a swift answer follows, that is through a little, but to the
+questioning a long and through much answer follows, that is through many
+accounts. An objection is that which from the first starting-line, that is
+from the prefaces, overturns the account. And a counter-stand is that which
+accepts the account as true, but shows that it in no way harms toward the
+matter at hand, as when we wish to show. A heresy is an untrue opinion
+concerning faith. A heresy is an opinion of several men agreeing with one
+another but disagreeing with others. And a common concept is that which is
+agreed by all, as that God is. And a thesis is a paradoxical supposition of
+one of those known in philosophy, that is a strange concept, as the account of
+Parmenides, that he said being is one, and as that of Heraclitus, that all
+things are moved. 19 On the four dialectical methods One must know that there
+are four dialectical methods, that is logical: 1. the divisive, which divides
+the genus into species through the medium of the differences; 2. the
+definitive, which from the genus and the differences divided, as the divisive
+defines the subject; 3. the analytic, which analyzes the more composite into
+the simpler, that is the body into the humors, the humors into the fruits, the
+fruits into the four elements, the four elements into matter and form; 4. the
+demonstrative, which through some middle shows the matter at hand; as it is
+set before me to show that the soul is immortal; I take some middle, the
+ever-moving, and I syllogize thus: The soul is ever-moving; the
+
+
+ever-moving is immortal; the soul therefore is immortal. And one must know
+that the syllogisms belong to the demonstrative. And one must know that the
+analytic is a certain threefold; for there is a physical as aforesaid; and
+there is also a logical analysis, when we analyze the syllogism set forth into
+its own figure; and there is a mathematical, when we take the thing sought as
+agreed and arrive at something agreed, from which the matter at hand is
+hunted. As let the thing sought be, whether the soul is immortal. This thing
+sought I take as agreed and I say: Since the soul is immortal, there are
+recompenses of bad and good actions; and if there are recompenses, there are
+the courts of justice under the earth; and if there are the courts of justice
+under the earth, there is that which is judged and that which judges; and if
+there is that which is judged and that which judges, there is a provider and
+providence, which is agreed among all. From here then according to composition
+I say: Since there is providence and a judge, there are the courts of justice
+under the earth; and if these are, there are recompenses; and if there are
+recompenses, there is that which is judged; and if there is that which is
+judged, the soul therefore is immortal.

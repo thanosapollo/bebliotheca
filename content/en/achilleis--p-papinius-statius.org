@@ -1,0 +1,960 @@
+#+TITLE: Achilleid
+#+AUTHOR: P. Papinius Statius hermes:grok-4.6
+#+FILETAGS: :imperial:1c-ad:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/achilleis--p-papinius-statius
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Achilleis edited by John Henry Mozley
+#+END_QUOTE
+
+* Book 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Tell, goddess, of the great-souled son of Aeacus, the offspring feared by the
+Thunderer and forbidden to succeed to his father's heaven, though the hero's
+deeds are much renowned in Maeonian song, yet more remains: be willing that we
+go through the whole hero (such is our love), and bring him forth hiding on
+Scyros with the Dulichian trumpet, and not halt at Hector dragged, but lead
+the young man through all of Troy.
+Only, if we have drained the old spring with a worthy draught, give me new
+fountains, Phoebus, and bind my hair with a second spray: for I do not strike
+the Aonian grove as a stranger, nor do my temples now swell with their first
+fillets. The Dircaean field knows it, and Thebes numbers me among the ancient
+names of her fathers, together with her own Amphion.
+But you, whom Italian valor and Greek alike marvel at as far first, for whom
+the twin laurels of poets and of captains flourish in rivalry (long has the
+one grieved to be outdone), grant pardon and suffer me to sweat a little while
+in this anxious dust. We undertake you with long preparation not yet
+confident, and great Achilles is a prelude for you.
+
+The Dardan shepherd had loosed his fleet from the Oebalian shore, having
+blandly ravaged unsuspecting Amyclae, and bearing the full forewarnings of his
+mother's dream he was tracing again the guilty path, where Helle, now a Nereid
+hidden in the sea, commands the hated waves: when Thetis beneath the glassy
+flood started in fear at the oars of Ida (alas, never vain the omens of
+parents!).
+Without delay, a crowd of her sisters accompanying her, she sprang from her
+watery chambers. The meeting shores of Phrixus seethe, and the narrow sea does
+not unfold room for the ladies.
+
+When first she rose into the air, the sea shaken apart: 'This seeks me,' she
+says, 'this fleet threatens me with ruin. I recognize the warnings and Proteus
+who spoke true. See, Bellona brings Priam a new daughter-in-law, with torches
+raised from the stern. Already I see the Ionian and the Aegean pressed by a
+thousand keels; nor is it enough that the whole region of the Greek-born
+conspires with the swollen sons of Atreus: already by sea and land my Achilles
+will be sought, and he himself will wish to follow. Why else did we commit his
+cradle, when he was small, to Pelion and the cave of a grim master? There,
+unless I am wrong, the reckless boy plays at the battles of the Lapiths and
+already measures himself by his father's spear.'
+'O grief, O fears late in a mother's heart! Could I not, unhappy, when first
+the Rhoetean timbers fell upon our flood, raise the great sea and pursue the
+incestuous pirate's sails with a deep storm, and bring all my sisters against
+him? Even now, but it is late; already the injury of the stolen woman is
+complete. Still I will go, and embracing the gods of the sea and the right
+hand of favoring Jove, which is left, I will, a pitiable suppliant, beg
+through the years of Tethys and of my aged father for one winter.'
+She spoke, and in that moment she sees the great king. He was coming from
+Ocean as his guest, glad from the feast and his face steeped in sea nectar:
+hence storms and winds are silent, and in a quiet song the armor-bearing
+Tritons go, and the craggy sea-beasts and Tyrrhene herds wheel round him and
+within, having saluted their king. He himself stands high upon the calm waves
+and with his triple spear bids his yoked team go. They gather a foaming course
+from their breasts; behind they swim and blot the tracks of their feet with
+their tails.
+
+Then Thetis: 'O father and ruler of the great deep, do you see to what
+wretched uses you have thrown the sea open? The crimes of the lands go with
+safe sails, from the time the Pagasaean ship of Jason broke the laws of the
+strait and its withdrawn majesty with plunder. See, another crime by theft,
+carrying a guest's spoils, the rash arbiter of unjust Ida sails. Alas, what
+groans he will give to earth and heaven, what groans to me! So we pay for the
+joys of the Phrygian palm. These are the ways of Venus; this is the gift of a
+grateful foster-child?'
+'These ships at least (do they bring back demigods and our Theseus?) if any
+honor still belongs to the waves, overwhelm, or give me the sea! There is no
+cruelty in it: let it be right for me to have feared for my son. Grant me to
+drive away grief, and do not let it please you that of so many waters I
+inhabit one shore and the rocks of an Ilian tomb.'
+
+She was pleading, her cheeks torn and her breast bare, and she stood in the
+way of the sea-green horses; but the ruler of the waters invites her into his
+chariot and soothes her with friendly words: 'Do not seek, Thetis, in vain to
+sink the Dardan fleet. The fates forbid it. A fixed order has pleased the
+gods, that Europe and Asia mingle bloody hands, and Jupiter has proclaimed the
+decrees of war and years grim with slaughter. What a son you will see there in
+the Sigean dust, what funerals of Phrygian mothers you will look upon as
+victor, when your Aeacides now floods the Teucrian fields with warm blood, now
+forbids the thickened rivers to go forth, and slows his chariot with Hector's
+corpse, and with his hand will drive against our walls, works in vain! Cease
+now to complain of Peleus and a lesser marriage: you will believe you have
+borne a son to Jove; nor will you grieve unavenged, and you shall use the
+kindred straits. I will grant you to raise the waves when the Danaans return
+and Caphereus puts forth his night signals, and we alike will hunt dreaded
+Ulysses.'
+
+He had spoken. She, her face cast down at the heavy refusal, who was already
+preparing to stir the strait and war against the Ilian ships, devising other
+plans in her mind, sadly turns her arms toward the Haemonian lands. Three
+times she tried with her hand, three times she thrust back the liquid sea with
+her steps, and the Thessalian shallows strike her snow-white soles.
+The mountains rejoice and open the folds of their bridal caves, and Sperchios
+runs wide to meet the goddess and circles her steps with sweet water. She
+takes no joy in the places, but works over the plans begun in her breast, and,
+cunning, with piety as her teacher, she seeks aged Chiron.
+The steep house bores through the mountain and hangs Pelion in a long arch.
+Part was hollowed by hand, part its own age had broken; yet the signs of the
+gods' couches are shown, and the place each consecrated by reclining and by
+his genius. But within, the Centaur's deep stalls lie open, not like those of
+his unspeakable brothers. Here are spears that have known no human blood, no
+ashes lopped in wedding wars, no mixing-bowls smashed against kindred enemies,
+but innocent quivers and the empty hides of wild beasts. These too while he
+was green; for then his one labor, unarmed, was to know the health-giving
+herbs for doubtful living things, or to show the old heroes to his pupil on
+the lyre.
+
+And then, waiting on the first threshold for him who would return from the
+hunt, he hastens the feast and brightens the house with a broad fire: when the
+Nereid was seen rising far off from the shore. He bursts from the woods (joy
+gives strength) and the old one's familiar hoof rang on the unaccustomed
+plain. Then, blandishing with his right hand and stooping to his lowest
+shoulders, he leads her into his poor roof and points out the cave.
+Already Thetis surveys everything with silent gaze, and not enduring delay:
+'Where is my pledge, Chiron, tell,' she says, 'or why does the boy now spend
+any time without you? Not without cause is a mother's restless sleep and the
+black signs of the gods, and great fears: would that they were false! For now
+I see swords hostile to my womb, now my hands livid with beating, now savage
+beasts going at my breasts; often I myself (unspeakable!) carry my son down to
+empty Tartarus and again to plunge him in the Stygian springs.'
+'The Carpathian seer bids me abolish these fears by the order of a magic rite,
+and to purify the boy in secret waters under a completed axis, where the
+farthest shores of Ocean are and father Pontus grows warm with the sliding
+stars. There, dreadful expiations to unknown gods, and gifts, but it is long
+to count all, and I am forbidden; rather, hand him over!' So the mother
+invented: for he would not have given him, if she had dared to confess to the
+old man the soft dress and the shameful coverings.
+
+Then he himself replies: 'Lead him, best of mothers, I pray, lead him, and
+bend the gods with humble prayer. For your vows surpass measure, and much envy
+must be appeased. I do not add fear, but I will confess the truth: some great
+thing (nor do my father's omens fail me) his hastening force prepares, and it
+overtakes his slender years. Once he used even to bear threats and eagerly
+hear commands, and not go far from our cave: now Ossa does not hold him, nor
+huge Pelion, nor the snows of Thessaly. The Centaurs themselves often complain
+to me of houses plundered and herds dragged off before their eyes, and that
+they themselves are put to flight from fields and rivers: they prepare ambush
+and war, and they threaten, swollen with pride. Once indeed, when the
+Thessalian pine carried the Argive kings this way, I saw the young Alcides and
+Theseus, but I am silent.'
+A cold pallor transfixes the Nereid. He was at hand, greater with much sweat
+and dust, and yet among arms and hurried labors still sweet to see: a purple
+fire swims on his snow-white face, and his hair shines more pleasing than
+tawny gold. Not yet is his first age changed by new down, and quiet torches
+are in his eyes, and much of his mother is in his face: such as hunter Apollo
+when he returns from Lycia and exchanges the plectrum for savage quivers.
+By chance he is at hand and glad (O how much joy adds to beauty!): he had
+struck with iron a pregnant lioness under Pholoe's crag and had left her in
+the empty cave, but he brings the cubs and incites their claws. Yet when his
+mother was seen on the faithful threshold he throws them aside and binds her,
+caught up, with greedy arms, already heavy in the embrace and already equal to
+his mother in height.
+
+Patroclus follows, already then bound by great love, and stretches himself as
+a rival to such deeds, equal in pursuits and in the measure of age, but far
+behind in strength, and yet destined to see Pergamum with equal fate.
+At once he goes down with a swift leap to the nearest river and renews his
+smoking cheeks and hair in the springs: as Castor enters the shallows of
+Eurotas on a panting horse and wakes the weary radiance of his own star.
+The old man marvels and attends him, now stroking his breast, now his strong
+shoulders. Her own joys choke the mother. Then Chiron asks them to pour the
+feast and the gifts of Bacchus, and weaving various delights for the
+astonished woman he brings out at last the lyre and moves the strings that
+soothe cares, and lightly gives the boy the chords tried by his thumb. He
+sings gladly the huge seeds of praise: how many commands of his swollen
+stepmother the son of Amphitryon overcame, with what raw caestus Pollux
+overwhelmed the Bebrycian, with how great a grip the son of Aegeus broke the
+Minoan arms of the bull, and last the mother's marriage-bed and Pelion
+burdened with gods. Here anxious Thetis smiled with a conquered face.
+Night draws them into sleep. The huge Centaur sinks on the rock, and
+blandishing Achilles twines himself on his shoulders, though his faithful
+parent is there, and prefers the accustomed breast.
+
+But Thetis, standing through the night on the wave-sounding rocks, turns over
+this way and that with divided mind what hiding-place she wants for her son,
+in what lands she means to conceal him. Thrace is nearest, but too much given
+to the pursuits of Mars. Nor does the hard race of the Macedonians please her,
+nor the sons of Cecrops, who would give goads of glory, nor Sestos and the
+bays of Abydos, too convenient for keels. She is pleased to go through the
+high Cyclades. Here are despised Myconos and low Seriphos, and Lemnos unjust
+to men, and Delos, host to the nations. Lately, sent to follow Aegaeon
+loosening his hard bonds and to count the hundred chains of the god, she had
+heard from the unwarlike hall of Lycomedes the gatherings of maidens and the
+shores ringing with play. This pleases her; this land is safest for a fearful
+mother.
+As a bird, already busy with near birth and already afraid, considers on what
+leaf she may hang her empty home, here she looks out for winds, here in
+anxiety she thinks of snakes, here of men: at last the shade pleases her in
+her doubt, and she has scarcely stood on the new branches and at once the tree
+is loved.
+Another care remains to the plan and wearies the sad goddess: whether she
+herself, having embraced her son in her bosom, should carry him through the
+waves, or on great Triton, or call the flying winds, or Thaumantis's daughter,
+who is accustomed to feed on the sea. Then she draws from the straits and
+bridles with sharp murex a yoked pair of dolphins, whom greatest Tethys had
+nursed for her in the Atlantic flood under a sounding valley of the sea (to
+none through Neptune's shallows is there so great honor of sea-green beauty
+and power of swimming, nor more of a human heart). She bids them halt at the
+full shore, lest the contagion of the naked earth harm them.
+She herself then carries Achilles, relaxed in all his breast with the sleep
+that belongs to boys, from the rocks of the Haemonian cave to the calm waters
+and the shores bidden to be silent. Cynthia shows the way and flashes with her
+whole orb. Chiron follows the goddess and, secure of the sea, asks for a swift
+return, and hides his wet eyes, and from his horse reared up looks after them,
+snatched away suddenly and now already hiding, where the white signs of flight
+foam a little and the track dies in the liquid sea. Already sad Pholoe,
+already cloudy Othrys groan for him who will not otherwise return to
+Thessalian Tempe, and Spercheos thinner in his waters, and the mute cave of
+the learned old man. The Fauns seek the boyish songs, and the Nymphs weep the
+marriage long hoped for.
+
+Already day presses the stars, and from the low sea Titan unrolls his dewy
+horses, and the sea lifted by the chariot from the great aether falls. But the
+mother, having long measured the waves, was holding the Scyrian shallows, and
+the dolphins, weary, had come out from their mistress's yoke: when the boy's
+shaken rest and opening eyes felt the day poured in. He is stunned in the
+first air: what places, what waters, where is Pelion? He sees all things
+turned and unknown, and he hesitates to recognize his mother.
+She seizes him by the hand and addresses the frightened boy blandly: 'If a
+just lot had brought me the marriage it was giving, dear boy, I would hold
+you, a great star, embraced in the ethereal regions, and as one who had borne
+for the great heaven I would fear nothing from the lowly Fates and earthly
+destinies. Now, son, your birth is unequal, and the way of death is closed
+only from your mother's side. Nay, even the times to be feared draw near, and
+dangers brought to the last turning-posts. Let us yield; submit a little your
+manly spirit, and deign to wear my dress.'
+'If the Tirynthian bore hard Lydian wool in his hand and soft spears, if it
+befits Bacchus to sweep his steps with a gilded robe, if Jupiter put on a
+maiden's limbs, and doubtful sexes did not break great Caeneus: allow me, I
+pray, by this means to go out from the threats and the malignant cloud. Soon I
+will give you back again the fields, again the Centaur's haunts. By this glory
+and the coming joys of youth, if for your sake I have known the lands and a
+lowly husband, if I armed you, born, in the stern stream of Styx (and would it
+had been all of you!), take for a little while these safe coverings that will
+harm the spirit not at all. Why do you draw back your face, or what are your
+eyes preparing? Are you ashamed to grow mild in this dress? By you, dear boy,
+by the kindred seas I swear: Chiron will not know this.'
+So she handles his shaggy breast, soothing in vain. His father stands against
+her as she asks, and his huge nurse, and the raw beginnings of a great nature:
+as if one should try to submit to first reins a horse swollen with the fire of
+unbridled youth. He, long rejoicing in fields and rivers and proud honor, does
+not offer his neck to the yoke nor his rough mouth to the bits, and chafes, a
+captive, to enter a master's commands, and marvels to learn other courses.
+
+What god conferred frauds and cunning on the astonished parent? What mind drew
+down unteachable Achilles? By chance Scyros was celebrating a day of honors
+for Pallas of the shore. And the sisters born of gentle Lycomedes, on the
+sacred morning, had gone out from their father's walls (a rare license) to
+give the riches of spring and to bind the goddess's stern hair with leaf and
+sprinkle her spear with flowers. All had outstanding grace of form, all the
+same dress, and, the tender bound of shame already fulfilled, a virginity ripe
+for the bed and swelling years.
+But as much as the beauty of the sea, added, overwhelms the green Nymphs, or
+as much as Diana leaves the Naiads behind in her shoulders, so much does
+Deidamia shine, queen of the fair chorus, and stands in her sisters' way. In
+her the purple is kindled on a rosy face, and there is greater light in her
+gems and gold more winning; and her form is equal even to the goddess herself,
+if she should lay aside the snakes of her breast and her face be calmed with
+the helmet removed.
+When he saw her leading the allied ranks far off, the fierce boy, his breast
+profaned by no motion, stiffened, and drank a new fire into his bones from
+without. Nor is the love he has drunk hidden, but the torch shaken in his
+marrow returns to his face and features, and tints the light of his cheeks,
+and wanders over him, struck with a thin sweat. As when the Massagetae darken
+milky cups with purple blood, or ivory is stained with dye: so the sudden
+flame is plain by various marks (he pales and blushes). He would go and of his
+own will, wild, scatter the stranger rites, careless of the crowd and
+forgetful of his age, did not shame and reverence for his mother at his side
+hold him.
+As a father of the herd, once, and a leader to be, whose horns are not yet
+completed in a full circle, when he sees a heifer, partner of the pasture, of
+snowy brightness, his spirits catch fire, and first love foams through his
+mouth; the herdsmen look on, glad, and stand in the way.
+The mother, already aware, seizes the moment: 'Is it a burden, son, to feign
+the dances among these and to weave your arms in play? What of this kind was
+there under cold Ossa and the ridges of Pelion? O if it should befall me to
+join my cares and carry another Achilles in my bosom!' He is soothed and
+blushes with pleasure, and casts wanton glances aside, and with a lighter hand
+pushes back the clothes. The mother sees him doubtful and willing to be
+compelled, and throws the folds upon him.
+Then she softens his stiff neck and lowers his heavy shoulders and loosens his
+strong arms, and tames his uncombed hair in a sure order, and transfers her
+own necklace to the beloved neck; and checking his steps with a pictured hem
+she teaches him gait and motion and shame in speech. As wax that will live
+under an artist's thumb takes forms and follows fire and hand: such was the
+image of the goddess changing her son. Nor did she struggle long; for much
+grace remains to him, though valor is unwilling, and his doubtful sex, hiding
+by a thin difference, deceives those who look.
+
+They go forward, and bland Thetis, warning again and wearying him again: 'So
+then you will bear your step, so your face and hands, son, and you will
+imitate your companions with feigned ways, lest the ruler not admit you,
+suspect, to his soft court, and the lies of the theft begun perish.' She
+speaks, and with touch brought near she does not stand off from arranging him.
+So when Hecate, wearied in maiden Therapnae, returns to her father and
+brother, her mother clings as companion to her as she goes, and herself veils
+her shoulders and bared arms; herself sets the bow and quivers and draws down
+the hiding dress, and is eager to compose the scattered hair.
+
+At once she approaches the king, and there, the altars witnessing: 'This
+sister of our Achilles, ruler,' she says, 'we hand to you (do you not see how
+grim she is in the cheeks, and to be matched with her brother?).
+High-spirited, she was seeking to bear arms and a bow on her shoulders and to
+drive off marriage in Amazon fashion. But I have cares enough for the male
+stock. Let this one bear baskets and the rites; you break her, unteachable, by
+ruling, and hold her by her sex until the marriageable age and shame to be
+loosed. And do not grant her to practice wanton games of the palaestra or to
+wander in the haunts of the woods; rear her within and shut her among girls
+like herself. Remember especially to keep her from shore and harbor. You have
+just seen the sails of the Phrygians: already keels sent across the sea have
+learned to cheat mutual rights.'
+The father assents to her words, and by a parent's nature receives the hidden
+son of Aeacus (who would stand against the frauds of the gods?). Of his own
+will he even venerates her with a suppliant right hand and, chosen, gives
+thanks. Nor does the crowd of pious Scyrian girls cease to fix with too much
+gaze the face of the new maiden, how much she stands out in neck and hair, how
+much she spreads in shoulders and breast. Then they urge her to join the
+dances and come to the chaste rites; they yield place and rejoice to touch
+her.
+As Idalian birds, when they break the soft clouds, long gathered in sky and
+home, if a bird has joined wings and come as a guest from a different tract,
+all at first marvel and shrink: soon they fly nearer and nearer, and in the
+air itself they have gradually made her their own, and glad they circle her
+with favoring beat and lead her to the high nests.
+The mother departs, having delayed much on the threshold, while she repeats
+her warnings and plants secret murmurs in his ears and gives last words with a
+silent face. Then, received by the strait, her neck bent far back, she swims
+away and addresses the shores with winning vows: 'Land dear to me, to whom we
+have committed the pledges of a great care and a huge deposit by timid
+cunning, be happy and be silent, I pray, in the manner Crete was silent for
+Rhea. Long honor and eternal temples will gird you, nor will you be outdone in
+fame by unstable Delos; sacred to winds and straits, and among the shoal
+Cyclades, where Aegean storms break the rocks, a quiet house of Nereids and an
+island for sailors to swear by: only do not admit Danaan keels, do not, I
+pray! Here let there be only revel-bands and nothing useful for wars (teach
+fame to tell this), and while Dorian arms are prepared and Mars rages between
+the two worlds, I yield indeed: let Achilles be a maiden of pious Lycomedes.'
+
+Meanwhile avenging Europe, kindled by the sweet furies of arms and the
+suppliant complaint of kings, stirs her deserved griefs. For that son of
+Atreus canvasses the more, whose wife is at home, and he sharpens the Ilian
+crime in the telling: the offspring of heaven captured without Mars, without
+arms, the foster-child of powerful Sparta; laws, faith, the gods above
+trampled by one rape. This the Phrygian treaty? These the dealings of the twin
+lands? What awaits the peoples, when so great an injury has come down upon the
+first leaders?
+Every race and age comes together: not only those are roused whom the Isthmian
+barriers shut with a wall of two seas, or whom the boss of wave-sounding Malea
+circles, but far off those whom the path of Phrixus forbids Europe and Asia to
+be joined, and the peoples whom in order the wave of the upper sea binds on
+the Abydenian shore.
+Love of war seethes and raises the shaken cities. Temese tames bronze, the
+Euboean shore is shaken with dockyards, Mycenae rings with countless anvils,
+Pisa renews chariots, Nemea gives the hides of beasts, Cirrha strives to pack
+arrow-bearing quivers, Lerna to clothe heavy shields with slaughtered
+bullocks. The Aetolian and the rough Acarnanian give infantry for war, Argos
+drives squadrons, the pastures of rich Arcadia are emptied, Epirus bridles her
+swift nurslings, Phocis and the Aonian shades grow thin of javelins, Pylos and
+Messene stretch the engines of walls. No ground is exempt. Arms long laid
+aside by fathers are torn from high doorposts, and the gifts of the gods melt
+in the flame: Mars carries off gold snatched from the gods above.
+Nowhere are the old shades: Othrys is lesser and steep Taygetus sinks; the
+mountains, stripped, have seen the bronze. Already every grove swims: oaks are
+felled for the fleet, the lesser wood for oars. Iron is wearied for countless
+uses, to bind beaks, to guard arms, to bridle war-horses, to join scaly tunics
+with a thousand chains, to smoke with blood and drink deep wounds, to drive
+deaths with conspiring poison. They thin the wet stones by rubbing and add
+anger to sluggish points. There is no measure in bending bows or pouring
+slings or hardening stakes or raising helmets with crests.
+Among these motions Thessaly alone groans at her dull quiet and accuses the
+fates with twin complaints, that Peleus is too old and Achilles not yet ripe.
+Already the Lord of War, hurling men and horses madly onto the benches, had
+drained the lands of Pelops and the Greek world. The harbors seethe and the
+pools covered with keels, and the fleet, moved out, raises its own storms and
+its own waves; already the sea itself fails the sterns, and the canvas
+consumes all the winds.
+
+Hecatean Aulis first gathers the Danaan ships, Aulis climbing the Euboean sea
+from exposed rocks and the ledge of a long ridge, shores much loved by the
+mountain-wandering goddess, and beside her Caphereus lifting his head barked
+at by the sea. When he saw the Pelasgian ships crossing, three times from the
+mountain, three times from the waves he thundered and gave forewarnings of a
+savage night.
+There the gathering of arms fatal to Troy, there huge war is sworn, until the
+yearly sun should finish all his turning-posts. Then first Greece looked upon
+her own strength; then the scattered and dissonant mass comes together into a
+body and a face and is arranged under one king. So a curved hunting-net shuts
+hidden beasts and gradually narrows them with the toils brought near. They
+fear fire and sound and leave the spread wilderness and marvel that their
+mountain shrinks, until they have fallen from every side into a narrow valley;
+and in turn the herds are stunned and grow tame with shared fear: at once the
+shaggy boar, at once the bear and the wolf are penned, and the hind has
+scorned the captured lions.
+But although the twin sons of Atreus alike take up their wars, and Tydides and
+Sthenelus press with greedy valor their father's fame, and Antilochus does not
+think of his years, and Ajax flashes with a shield of seven ox-kings and a
+circle equal to walls, and watchful Ulysses contends in counsels and in arms:
+the whole host of the war burns for absent Achilles. They love the name of
+Achilles, and against Hector Achilles alone is demanded. Him alone they speak
+as fatal to the Teucrians and to Priam. For who else has grown in the
+Haemonian valleys, crawling over the dug snow? Whose raw beginnings and tender
+years has the Centaur undertaken and shaped? Who is nearer by the line of his
+father's heaven, or what other son has a Nereid borne secretly through the
+Stygian streams and fenced his fair limbs with iron?
+These things the Greek cohorts repeat and hand on in the camps; the crowd of
+leaders yields and not sadly confesses to be outdone. So when the pale
+heaven-dwellers were gathering into the Phlegraean camp, and already Gradivus
+was rising into his Odrysian spear, and Tritonia was lifting her Libyan
+snakes, and the Delian was bending his huge bow with his hand, panting Nature
+stood in fear, looking only to the Thunderer: when would he call storms and
+thunder from the clouds, how many bolts would he demand of fire-bearing Aetna?
+
+And there, while the kings, walled by the mixed crowd of their own, consult
+the seasons of sea and of war, Protesilaus, chiding the seer Calchas with a
+great uproar (for in him the desire to fight is outstanding, and already then
+the glory of first death was given), says: 'O too forgetful of Phoebus and of
+your own tripods, son of Thestor, when will you more justly move a mouth
+possessed by the god, or why do you not open the secrets of the Fates 3? Do
+you see how all are stunned and roar at the unknown son of Aeacus? The
+Calydonian hero is cheap in the crowd, and Ajax born of great Telamon, and
+Ajax the second, and we too: but Mars and Troy seized will prove it.'
+'Him, the leaders neglected (shame, alas!), all love as a warlike divinity.
+Speak quickly, or why are garlands on your hair and much honor? In what shores
+is he hidden, or in what land do you bid him be sought? For rumor says he
+dwells neither in Chiron's cave nor in the hall of his father Peleus. Come,
+burst in upon the gods and harass the hiding fates, and drain, if ever, most
+greedily the laurel-bearing fires! We have remitted to you the dreadful arms
+and savage swords; never shall a helmet violate these unwarlike fillets: but
+you will be happy and more excellent than every number of leaders, if through
+you you secure great Achilles for the Danaans.'
+
+Already the son of Thestor carries his eyes around with a trembling motion,
+and by first pallor confesses the entering god; soon twisting his cheeks with
+fire and blood he sees neither comrades nor camp, but blind and absent now he
+catches in the aether the great gatherings of those above, now he addresses
+prophetic birds, now the hard threads of the sisters, now in anxiety he
+consults the incense-bearing altars and snatches the peak of the flames and
+feeds on the sacred murk. His hair starts out and the fillet labors on stiff
+locks, neither is his neck in place nor his step in order. At last, trembling,
+he looses his mouth, weary with long bellowings, and a voice has struggled out
+against the opposing fury:
+'Whither do you snatch the huge pupil of great Chiron with womanish tricks,
+Nereid? Send him here: why do you take him away? I will not suffer it: he is
+mine, mine. You are a goddess of the deep, and Phoebus drives me. In what
+hiding-places do you try to conceal the overthrower of Asia? I see you through
+the high Cyclades, astonished, seeking shores in a shameful theft. We are
+undone: the knowing land of Lycomedes has pleased her. O crime! See, flowing
+clothes come upon his breast. Tear them, boy, tear them, and do not yield to a
+fearful parent. Woe is me, he is snatched and goes! What shameless maiden is
+this far off?'
+Here, his step wavering, he stood, and with the strength of the fury lost he
+fell trembling before the very altars. Then the Calydonian hero seizes the
+hesitating Ithacan: 'That labor calls us: nor would I refuse to go as
+companion, if your care should draw me, though he be pressed in the sounding
+caves of averted Tethys and in the lap of watery Nereus. You will find him;
+only, far-seeing, stretch a watchful mind with cunning and raise a fertile
+breast. In doubtful cases no seer would dare to see the fates before me.'
+Glad Ulysses adds: 'So may the almighty god confirm it, so may that paternal
+virgin nod to you! But slippery hope delays me: it is a great thing indeed to
+lead armed Achilles into the camps; but if the fates deny it, how foul and sad
+to return! Still I will not leave the vows of the Danaans untried. And even
+now either the Peleian hero will be here with me, or the truth lies hidden
+deep and Calchas is without Apollo.'
+The Danaans shout, and Agamemnon goads the willing. The gatherings loosen and
+the ranks, released with glad murmur, depart: as when night is already near
+birds are brought back from pasture, or mild Hybla sees her troops return into
+the caves, heavy with new honey. Without delay the Ithacan canvas already asks
+the right-hand breezes, and the youth sat glad at the oars.
+
+But far off Deidamia alone had already known the son of Aeacus, hidden under
+the image of a false sex, as a man by a hiding theft; yet conscious of a
+covered fault she fears all things and thinks her silent sisters perceive. For
+when hard Achilles stood in the maiden flock and his mother, departing, had
+loosed his raw shame, at once he chose a companion, though the whole crowd
+comes together upon him, and blandly he moves new snares against her fearing
+no such thing. Her he follows and presses, shameless; her he takes up again
+and again with his eyes. Now he clings too much to the side of her who does
+not avoid him; now with light garlands, now with baskets slipped of their own
+will, now he strikes her with a sparing thyrsus; now he shows the sweet
+strings of the known lyre and the thin measures and the songs of Chiron, and
+leads her hand and breaks her fingers on the sounding cithara; now he seizes
+the mouth of her as she sings and binds her in embraces and praises her
+through a thousand kisses.
+She learns gladly on what peak Pelion is, and who the son of Aeacus is, and
+she is stunned at the boy's name and deeds heard without cease, and she sings
+of Achilles present. She herself also shows him how to put forth his strong
+limbs more modestly and to thin the raw wools with a worn thumb, and she
+remakes the distaffs and the lost tasks with a hard hand; and she marvels at
+the sound of his voice and the weight of him holding, and that he flees his
+companions, that he carries himself with too much light, and that he is
+untimely breathless in his words. Already now preparing to open the tricks he
+flees with maiden lightness and forbids him to confess. So under mother Rhea
+the young ruler of Olympus gave insidious kisses to his unsuspecting sister,
+still a brother, until reverence for the blood between them yielded and the
+sister started in fear at loves turned.
+At last the timid Nereid's cunning was uncovered. A grove stood lofty for the
+rites of Agenor's Bacchus, and a wood admitted to the sky. In its shade the
+pious mothers had been accustomed to renew the alternate trieteric feast, and
+to carry a torn flock and beams torn from the earth, and to furnish the god
+with welcome furies. The law is that males go far off. The revered leader
+repeats the precepts, and the cave is proclaimed inaccessible to men; nor is
+it enough: a fearful priestess stands at the given bound and explores the
+approaches, lest any violator wander in the womanish troop. Silent Achilles
+laughed to himself.
+Him, leading the standards of the maiden band and loosing his great arms with
+a difficult motion (and the sex equally becomes him, and his mother's lies),
+the companions marvel at, and no longer is Deidamia the fairest of her crowd,
+and, brought so near the proud son of Aeacus, she is outdone as much as she
+herself presses her sisters.
+But when he sent down the fawnskin from his smooth neck and gathered the
+wandering folds with ivy and bound high his yellow temples with purple fillets
+and shook the wreathed missile with a heavy right hand, the crowd stands in
+astonished fear, and, the rites left, they are pleased to go round him and to
+lift their downcast faces. Such is Euhius when he has relaxed face and spirit
+at Thebes and has sated his breast with ancestral luxury: he lifts the
+garlands from his hair and the mitre and arms the green thyrsus and, stronger,
+visits the hostile Indians.
+
+The Moon was climbing the summit of mid-heaven on her rosy yoke, when sleep
+more inert on all its wings flows down upon the lands and embraces the mute
+world. The choruses have sat, and the bronze, a little exercised by the beat,
+is silent, when Achilles, alone from the tender troop, says this to himself:
+'How long will you bear the inventions of a fearful parent, and first lose the
+unwarlike prison's flower of spirit? Are Mars's weapons not allowed to your
+right hand, nor to drive frightened beasts, where are the Haemonian plain and
+rivers? Do you seek my swims, Sperchios, and the hair I promised? Or is there
+no honor for a deserter pupil? Am I already said to be snatched far to the
+Stygian shades, and does bereft Chiron beat my funeral?'
+'You now, Patroclus, direct weapons in your hand, you my bow, and you mount
+the yoked team reared for me: but I already know how to spread my arms with
+vine-wreathed thyrsi and to thin the distaff (it shames me and wearies me to
+confess this!). Nay even, captured, you dissemble night and day the fire of a
+beloved maiden and a torch of equal age. How long will you press the wounds
+burning the breast, and not even by love (shame, alas!) prove yourself a
+male?'
+
+So he speaks; and glad that in the dense shade of night the silences lie
+timely numb for his thefts, he takes his vows by force and with his whole
+breast he brings true embraces. The whole chorus of the stars saw from on
+high, and the horns of the tender Moon blushed. She indeed filled grove and
+mountain with a cry: but the companions of Bacchus, the cloud of slumber
+shaken off, think the signals have been given for the dances. A known crash is
+raised from every side, and Achilles was again shaking the thyrsi. Yet first
+he soothed the doubtful girl with friendly words:
+'I am he (why do you tremble?), whom the sea-blue mother, born almost to Jove,
+sent to be reared in Thessalian woods and snows. Nor would I have undergone
+these clothes or the shameful coverings, had you not been seen first on the
+shore. I yielded for your sake; for you I bear the wool in my hand, for you
+the soft drums. Why do you weep, added as a daughter-in-law to the great sea?
+Why do you groan, you who will bear huge grandsons for heaven? But your
+father: Scyros will lie cut out by fire and iron, and these walls, turned,
+will go into swollen storms, before you pay for my marriage with a savage
+death. We will not so obey a mother in all things.'
+
+The princess was stunned, terrified by so great prodigies, though the faith
+had long been suspected, and she shuddered at him close and at the
+much-changed face of him confessing. What should she do? Should she herself
+bear her own mishap to her parent and press at once herself and the young man,
+who might perhaps drink bitter punishments? And still there remained in her
+heart that love long deceived. Sick, she is silent and already presses a
+common crime. She is pleased to add one nurse as partner to the thefts, who,
+conquered by the prayers of both, nodded. She by silent cunning hid the stolen
+shame and the rising womb and the months sick under the weight, until Lucina,
+the revealer, brought the appointed times with full turning-posts and loosed
+the birth.
+
+And already the Laertian ship was going through the Aegean bends, and the
+breezes 4 were changing countless Cyclades: already Paros and Olearos lie
+hidden; already high Lemnos is grazed and Bacchic Naxos shrinks from the
+stern, Samos growing before the eyes; already Delos darkens the sea. There
+from the high stern they pour cups and pray for the faith of the response and
+for Calchas true.
+The Archer heard and drove Zephyr from the peak of Cynthus and gave omens to
+the doubtful with a full sail. The ship goes secure on the sea: for the high
+commands of the Thunderer were keeping Thetis from turning the sure laws of
+the fates, sick with tears and fearing many things, because she might not root
+up the sea and follow with all winds and straits Ulysses, already then hated.
+Phoebus was already breaking his rays, prone on low Olympus, and was promising
+the penetrable shore of Ocean to his panting horses, when rocky Scyros raised
+herself. Upon her the Laertian leader sent out all the sheets from the stern
+and bids his comrades take up the sea again and supply the falling Zephyrs
+with oars. They draw near, and more and more Scyros was undoubted, and
+Tritonia guardian above the calm shore. Having gone out, the Aetolian and the
+Ithacan venerate the power of the friendly goddess.
+Then the far-seeing hero, lest they terrify the host walls by a sudden
+gathering, bids his men remain on the ship; he himself with faithful Diomedes
+seeks the heights. But already Abas, watcher of the shore citadel, had gone
+before and had reported to the king that unknown sails, yet Greek, were coming
+up to the lands. They go forward, like twin wolves joined by a pact under a
+winter night: though their own hunger and their cubs' strike them, they wholly
+dissemble rage and threats and go low, lest the care of dogs announce enemies
+and warn the trembling masters to watch.
+
+So the heroes go slow and wear with alternating talk the open field that lies
+between the harbor and the high city. First keen Tydides seizes the word: 'By
+what method do we now prepare to search out the truth? For I have long turned
+it under a doubtful breast, why you have bought unwarlike thyrsi and bronze in
+the midst of cities, and Bacchic hides and mitres, and have brought here
+fawnskins sprinkled with various gold. With these will you arm Achilles, heavy
+to Priam and the Phrygians?'
+The Ithacan, smiling at him, his face a little relaxed: 'These, if only he is
+hiding by fraud in the maiden hall of Lycomedes, will of their own will lead
+the son of Peleus into battle, confessed. You, remember to bring all quickly
+from the ship when the time shall be, and to join to these gifts a shield that
+is fair with signs and roughest with gold; this spear will be enough. Let good
+Agyrtes be with you with the trumpet, and let him bring a hidden horn for
+silent uses.'
+
+He had spoken, and on the very threshold of the gates he sees the king and,
+having first spoken peace with the olive shown: 'Great rumor, I think, of the
+fierce war that now shakes Europe and Asia has long since come to your ears,
+gentlest of kings. If by chance the names of the leaders have been borne
+hither, I am here, among those with whom avenging Atreides goes: this man,
+whom great-hearted Tydeus begot better than so great a stock, is for you; I am
+Ulysses, captain of the Ithacans. The cause of the journey (for why should I
+fear to confess all to you, since I am a Greek and the one most renowned for
+known faith 3) is to explore the approaches and the hated shores of Troy, and
+what they prepare.'
+He cuts him off in mid-speech: 'May Fortune have nodded, I pray, and may the
+gods on the right favor these things! Now honor my roof with hospitality and
+my pious hearth.' At once he leads them within the threshold. Without delay
+the serving crowd already furnishes tables and couches. Meanwhile Ulysses
+surveys with his gaze and searches the house, if there be any traces of a
+great maiden or a doubtful face suspected by its figure; and he wanders in the
+spreading porticoes and approaches all the household gods, as if he marveled:
+as that hunter, holding the undoubted lair of his prey, reads the fields with
+a mute Molossian, until he sees the enemy stretched in sleep under the leaves
+and the teeth laid on the turf.
+Rumor has long been roaring in the secret hall, the house faithful to the
+maidens, that Pelasgian leaders have come and a Greek ship and comrades
+received. The others fear with reason; but the son of Peleus scarcely hides
+new joys and, greedy, desires to have seen the new heroes and arms even such
+as he is. And already the halls seethe with royal noise and they recline on
+pictured gold, when the father bids his daughters go and the chaste companions
+of his daughters. They come in, such as Amazons on the Maeotian bank, when
+they have plundered Scythian homes and captured Getic walls, feast with arms
+laid aside.
+Then indeed intent Ulysses balances faces and breasts with his gaze, but night
+and the lights brought in deceive him, and at once the measure of those lying
+hid. Yet still he fixes the one with face raised and wandering eyes, keeping
+no signs of maiden shame, and with a sidelong light he points him out to his
+companion. And unless Deidamia, embracing him, had warned him, headlong, with
+a winning bosom, and had always held his bared breast and put-forth hands and
+shoulders in the dress, and had forbidden him too often to come forward from
+the couches and demand wine, and had replaced the golden hairband on his brow,
+Achilles would even then have been open to the Argive leaders.
+When hunger was appeased by the feast twice and three times replaced, the king
+first addresses them and urges the Achaeans with the bowls: 'I envy your
+undertakings, I confess, renowned glories of the Argive race. Would that a
+stronger age were mine as well, which I had when I thoroughly tamed the
+Dolopes when they attacked the Scyrian shores and broke them on the shallows,
+which signs of triumph, the keels, you have seen on the high front of the
+walls! At least if there were offspring fit to send to war: now you yourselves
+see my strength and my dear pledges. When will this crowd give me new
+grandsons?'
+He had spoken, and cunning Ulysses, the moment seized: 'You desire what is not
+to be scorned; for who would not burn to see countless peoples and various
+leaders and the ranks of kings? All the strength and glory of powerful Europe
+at once has of its own will sworn to deserved swords. Fields and cities are
+empty, we have spoiled the high mountains, every strait is covered with a long
+shade of sails; fathers hand over arms, youth snatches them beyond recall.
+Never otherwise has so great a store of fame been given to the brave, or valor
+been exercised on a greater field.'
+He looks at him intent and drinking these things with a watchful ear, while
+the others fear and turn lowered eyes, and he repeats: 'Whoever is proud in
+ancestors and race, whoever is powerful with horse and javelin, who prevails
+with the bow, all honor is there, there great names contend. Scarcely do
+fearful mothers or maiden ranks hang back. Ah, much damned to barren years and
+hated by the gods is he, if this new glory passes him idle!' He would have
+gone from the coverlets, had not far-seeing Deidamia, a sign given, urged all
+her sisters and left the tables, embracing him; but he clings, looking back at
+the Ithacan, and goes out last from the gathering.
+He indeed relaxes a little from the speech begun, yet adding a few things:
+'But you remain tranquil in deep peace and prepare marriages for your dear
+daughters, whom chance has given you equal to the starry faces of goddesses,
+as reverence sometimes silently touches me! That grace and that look of beauty
+mixed with the manly.' The father meets him: 'What if you should see them
+bearing Bacchic rites, or around Pallas's altars? And we will give it, if by
+chance a new south wind delays.' They take it up greedily, and hope is added
+to silent vows. The rest of Lycomedes's palace, cares laid down, is silent
+under tranquil peace, but the night is long for the sagacious Ithacan, and he
+desires the light and finds sleep heavy.
+
+Scarcely was the day risen, and already Tydides, accompanied by Agyrtes, was
+at hand and was bringing the promised gifts. No less the Scyrian girls, gone
+out from the chamber, were going to show the dances and the promised rites to
+the revered guests. The princess shines before the others, and the son of
+Peleus as companion: as under the crags of Sicilian Aetna, among the Naiads of
+Enna, Diana and fierce Pallas and the betrothed of the Elysian tyrant were
+shining.
+And already they move their steps, and the Ismenian boxwood has given signals
+to the revel-bands; four times they beat Rhea's bronze, four times the
+inspired hides with the hand, and four times they have gathered various
+returns. Then they alike lift the thyrsi and alike put them down and multiply
+the step, now in the act in which the Curetes go, and in which the pious
+Samothracians, now turned opposite in Amazon comb, now in the circle in which
+the Delian rouses the Laconian women and whirls them, beating, in her own
+Amyclae.
+Then indeed, then especially Achilles is plain, and he does not care to keep
+the turns or to join arms; then he scorns the soft steps, then the dress, more
+than usual, and he breaks the choruses and throws many things into disorder.
+So Thebes, already sad, was watching Pentheus refusing the thyrsi and the
+drums received from his mother.
+The praised troop is loosed and they seek again their father's threshold,
+where in the seats of the mid hall Tydides had long since placed gifts that
+would break maiden gazes, a sign of hospitality and a price of labor, and he
+urges them to choose, nor does the gentlest king forbid it. Alas, too simple
+and raw, who does not know the cunning gifts and the tricks of the Greeks and
+shifting Ulysses!
+Here others, whom idle sex and nature lead, try either the smooth thyrsi or
+the answering drums, or bind their temples with double fillets. They see the
+arms and think them given to their great parent. But the fierce son of Aeacus,
+when close at hand he catches sight of the shining orb, engraved with battles
+(and by chance it was red with savage stains of wars), leaning on the spear,
+he roared and twisted his cheeks, and the hair rose from the abandoned brow.
+Nowhere the parent's commands, nowhere the hidden love, and in his whole
+breast is Troy.
+As a lion, when snatched from his mother's udder he has taken manners and has
+learned to have his mane combed and to fear man, and to be seized into no
+angers except when bidden, if once iron has flashed with opposing light, the
+faith is forsworn and the tamer is an enemy: upon him is his first hunger, and
+he is ashamed to have served a timid master. But when he came nearer and a
+rival light gave back his face and he saw himself such in the like gold, he
+shuddered and blushed at once.
+Then keen Ulysses, brought to his side, in a lowered voice: 'Why do you
+hesitate?' he says. 'We know. You are the pupil of half-beast Chiron, you the
+grandson of heaven and of the sea; you the Dorian fleet, you your Greece
+awaits with standards raised, and Pergamum itself already nods to you with
+doubtful walls. Come, break delays: let faithless Ida grow pale, and let it
+please your father to hear these things, and let cunning Thetis be ashamed to
+have so feared for you.'
+Already he was loosening his breast from the dress, when Agyrtes, so bidden,
+sounded loud on the trumpet. They flee, the gifts scattered from every side,
+and they implore their father and believe battles have been stirred. His
+clothes fell untouched from his breast; already the shield and the shorter
+spear are consumed by his hand (wondrous faith!), and he seemed to overtop the
+Ithacan and the Aetolian leader in the shoulders. So much do the sudden arms
+and the Martian heat confound the household gods with a dreadful light. Huge
+in his step, as if at once demanding Hector, he stands in the middle of the
+trembling house, and the Peleian maiden is sought.
+But in another part Deidamia was beating the uncovered tricks, whose great
+laments and known voices when first he received in his breast, he stuck, and
+his valor was broken by a hidden heat. He lowers the shield and, turned to the
+king's eyes, astonished at the deeds and fearing the unexpected prodigies,
+just as he was, he addresses Lycomedes in naked arms:
+'Me to you, dear father (dismiss doubtful fear!), kindly Thetis gave. So great
+a glory was awaiting you long since; you send to the Danaans Achilles, sought,
+more welcome to me even than a great parent, if it is right to have said it,
+and than sweet Chiron. But turn your heart here a little, willing, and as a
+good man receive these words: Peleus as father-in-law and guest Thetis join
+you to their son, and they allege their own gods from either blood. They
+demand one from the maiden troop of your daughters. Do you give her? Or do we
+seem to you a low race and degenerate? You do not refuse; therefore join hands
+and conceive a compact, and pardon your own. Deidamia is already known to me
+by a silent theft; for what could stand against these arms, by what could she,
+possessed, drive back our strength 1? Bid me atone for those things; I lay
+down the arms and give them back to the Pelasgians and I remain. Why do you
+roar sad? Why do you change your eyes? Already you are a father-in-law.'
+He laid the son before his feet and adds: 'And already a grandfather. How
+often will the ruthless sword be repeated! We are a crowd.' Then the Danaans
+also through the rites and the faith of hospitality, and bland Ulysses, press
+him with prayers. He, although the discovered injury of a dear daughter and
+Thetis's commands move him, and so great a deposit of the goddess seems to be
+betrayed, yet fears to go against so many fates and to delay the Argive wars.
+Suppose he should wish: Achilles would have scorned even his mother there. Nor
+yet would he have refused to join himself to such a son-in-law. He is
+conquered. Deidamia, ashamed, brings her step from secret darkness, nor does
+she, out of her mind, at once believe in pardon, and she appeases her father
+with Achilles set against him.
+
+One is sent to Haemonia, to fill Peleus with the great deeds and to demand a
+fleet and comrades for battle. The Scyrian ruler also draws down twin alders
+for his son-in-law and excuses his strength to the Achaeans. Then the day was
+consumed in feasts, and at last the compact was uncovered, and knowing night
+joins the undaunted lovers.
+Before her eyes she thinks of new wars and Xanthus and Ida and the Argive
+ships and the very waves, and she fears the dawn. Poured on the dear neck of
+her new husband she now looses tears and seizes his limbs. 'Shall I see you
+again and lay myself on this breast, son of Aeacus? And will you deign again
+to own your offspring? Or, swollen, bringing back Teucrian homes and captured
+Pergamum, will you be unwilling to remember a maiden hiding-place? What should
+I pray, alas, or fear first? Or what should I, anxious, command, I who
+scarcely have room to weep? A single night has just given you to me and envied
+you! These the times for our chamber? Is this a free wedding?'
+'O sweet thefts and tricks, O fear! Permitted Achilles is snatched from me,
+wretched. Go (for I would not dare to call back so great preparations), go
+cautious, and remember that Thetis did not fear in vain. Go happy, and return
+ours! I ask too shamelessly. Already the fair Trojan women will hope for you
+with tears and beating, and will wish to give their necks to your chains and
+to pay for their country with the bed, or Tyndaris herself will please, too
+much praised by an unchaste rape. But I myself will be told to the
+serving-women as the tale of a first boyish fault, or I shall lie hidden,
+dissembled.'
+'Nay come, lead me as companion; why should I not bear the Martian standards
+with you? You have borne thyrsi in your hand and Bacchic rites with me, which
+unhappy Troy will not believe. Yet this one, whom you leave me as a sad
+comfort, this one at least hold under your heart, and grant to me as I pray
+this only, that a barbarian wife bear nothing to you, that no captive give
+Thetis unworthy grandsons.'
+Achilles himself, not unmoved, soothes her speaking such things and swears
+faith and pledges what he has sworn with weeping, and, returned, he promises
+huge serving-women and captured Ilium and gifts of Phrygian treasure. The
+windy storms were snatching the words, void.
+
+* Book 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+Day, brought forth from Ocean, has stripped the world wrapped in dripping
+darkness, and the father of flashing light was still lifting a torch dull from
+neighboring night and not yet shaken dry of the sea. And already all look out
+on the son of Aeacus, his breast bared of the purple cloak and distinguished
+by the very arms which he had first seized (for the breeze calls and the
+kindred seas persuade), and they fear to remember nothing of the young man and
+the leader. So he has returned, changed in all his look, as if he had never
+suffered the Scyrian shores and were boarding the ships from the cave of
+Pelion.
+Then according to custom (for so Ulysses was advising) he makes offerings to
+the gods and to the seas and to the south winds, and under the wave itself he
+venerates with a bull the sea-green king and grandfather Nereus; his mother is
+appeased with a filleted heifer. Here, casting the swollen entrails on the
+foaming salt, he speaks: 'We have obeyed, mother, though you were bidding 1
+things hardly to be borne, we have obeyed too much. Sought, I go to the Trojan
+wars and the Argive ships.' So he began, and he leaped into the alder and is
+snatched far from the neighboring lands, the south wind whistling deep; and
+already steep Scyros begins to draw clouds and to recede on the long sea.
+
+Far off from the highest tower his wife was hanging, accompanied by her
+sisters' tears, holding the entrusted child who has the name Pyrrhus, and with
+her eyes fixed on the canvas she herself was going on the strait, and now she
+alone was seeing the stern. He too turns his sidelong face toward the beloved
+walls and thinks of the widowed house and the groans of her left: a hidden
+heat is born again under his heart and valor gives place.
+The Laertian hero feels him grieving and, having approached to turn him with
+calm words: 'Do you,' he says, 'destined destroyer of great Troy, whom the
+Danaan fleets, whom the oracles of the gods demand, and War awaits erect on a
+gate unbarred, did a cunning mother violate you with a womanish dress and
+commit so great thefts to those hiding-places and hope for faith? O too
+anxious, too much a mother! Or would this valor have lain numb in silent
+shade, which at the mere heard clang of the trumpet has fled Thetis and
+companions and the fires it had suppressed? Nor is it our doing that you come
+to arms and follow those who pray: you would have come.'
+He spoke, and the Aeacian hero seizes him with such words: 'It is long to set
+out the idle causes and a mother's crime; this sword will excuse Scyros and
+the unseemly dress, crimes of the fates. You rather, while the strait is
+gentle and the canvas enjoys the zephyr, tell what first beginnings of so
+great a war there are for the Danaans. It pleases me from this to take just
+angers at once.'
+Here the Ithacan, the beginning sought a little farther back: 'It is told that
+on Hector's Ida, if we believe such things, a shepherd chosen to loose a
+contest of beauty held the anxious goddesses, and saw with a friendly light
+neither the grim face of Minerva nor the partner of the ethereal ruler, but
+too much Dione alone. And indeed that quarrel arose under your caves in a
+council of those above, while Pelion sweetly marries Peleus, and already then
+promising our arms. Anger shakes the conquered; the judge seeks deadly prizes:
+easy Amyclae are shown to the ravisher.'
+'He cuts the Phrygian groves, the inner shrine of the turret-bearing mother,
+and bids the pine, forbidden to fall to the ground, come down, and, carried
+down to the Achaean lands by the strait, he spoils the chambers of his host,
+the son of Atreus (shame, alas, and pity of powerful Europe!), and proud with
+Helen he sails and carries captured Argos down to Pergamum. Then, the rumor
+given through the cities everywhere, from every side, unsummoned, each for
+himself and of our own will we gather as avengers. For who would endure that
+marriage pacts be broken by unlawful tricks and wedlock be dragged by an easy
+rape, as a flock or a herd or cheap heaps of harvest? This loss would move
+even the strong.'
+'Imperious Agenor did not bear the snares of the gods and the sacred lowings,
+and he sought Europa, carried by a great divinity, and scorned the Thunderer
+as a son-in-law. Aeetes did not bear his child snatched from the Scythian
+shore, and with iron and a fleet he followed the half-god kings and the ship
+that would go to the stars. Shall we bear a Phrygian half-man fluttering
+around Argolic harbors and shores with an unchaste ship? Are arms and horses
+so nowhere, and the straits pathless to Greeks? What if now someone should go
+to snatch Deidamia from her father's shores and tear her, astonished and
+crying the name of great Achilles, from a widowed seat?'
+His hand returned to the hilt, and at once a huge blush drove his face:
+Ulysses was silent, content.
+The son of Oeneus takes it up: 'Nay, O most worthy offspring of heaven, tell
+your companions, much favoring, your rites and the elements of your first
+nature, and, strong youth soon being added, what seeds of praise Chiron was
+accustomed to open to you, and the approaches of valor, by what arts to
+increase the limbs, by what the spirit. Let it be a prize to have sought
+Scyros deep through long waves and to have shown arms first to these arms.'
+
+Whom would it irk to speak his own deeds? Yet he begins modestly, a little
+doubtful and nearer to one compelled: 'I am said even in tender years and
+still crawling, when the old Thessalian received me on the hard mountain, to
+have taken in no foods according to custom nor to have sated hunger at kind
+breasts, but to have torn the dense entrails of lions and the marrow of a
+half-living she-wolf. This was my first Ceres, these the gifts of glad
+Bacchus; so that father used to give.'
+'Soon he was teaching me to go with him through pathless haunts, drawing me
+with a greater step, and to smile at beasts when seen, and not to tremble at
+rocks broken by rushing waves nor at the silences of a vast wood. Already then
+arms in the hand, already then quivers on the neck, and a hastened love of
+iron, and skin hardened by much sun and frost; nor limbs slack on a tender
+bed, but a rock common with the huge master.'
+'Raw life had scarcely turned for me twice six circles of years, when already
+he was compelling me to outrun flying stags and Lapith horses and to follow
+weapons sent ahead in the course. Often Chiron himself, while age was swift,
+would drive me on the fields at a headlong step, let out at full speed on all
+of them, and when I was exhausted with wandering pace through the grass he
+would praise me, rejoicing, and lift me onto his own back. Often too at the
+first torpor of the river he would bid me go above and not break the ice with
+a light sole.'
+'This was a boyish glory. Why now should I tell you the battles of the woods
+and the glades already empty of savage murmur? Never did he suffer me to hunt
+unwarlike does through the pathless places of Ossa, or to lay low timid lynxes
+with the spear, but to trouble grim bears in their lairs and lightning boars,
+and wherever there was a greatest tigress or a cave of a pregnant lioness
+withdrawn on the ridges. He himself, sitting in the vast cave, would wait for
+the deeds, if I should return sprinkled with black blood; nor did he admit me
+to kisses before, unless the weapons had been inspected.'
+'And already, with neighboring youth, I was fitting myself for sword-bearing
+tumults, nor did any image of wild Mars pass me by. I learned with what
+rotation the Paeonians whirl arms, with what the Macedonians brandish their
+own pikes, with what whirl the Sarmatian his pole, and the Getan his sickle,
+and the Gelonian stretch his bow, and the Balearic wielder of the bent thong
+with what hanging twist he would poise the wounds he drew, and mark the
+enclosed air with his own circle.'
+'I could scarcely remember all the deeds, even if we did them well. Now he
+teaches me to join huge ditches with a leap, now to seize the head of an airy
+mountain as I climb, with what step one flees over the flats, and in images of
+battle to catch millstones sent on a shielded boss, and to wander through
+burning huts, and as a footsoldier to halt flying four-horse teams.'
+'I remember Sperchios was going most swift, fed by constant rains and melted
+snows, and was carrying living beams and rocks: when he bids me, sent in where
+the onset of the wave was more savage, stand against it and drive back the
+swollen floods, which he himself could scarcely have borne, his step so often
+opposing. I was standing indeed, but the stirred river was carrying me back,
+and the fog of a broad flight. Fierce he, leaning from above, would threaten
+and urge shame with words. I did not go off except when bidden. So lofty glory
+was driving me, nor were the hard labors so under such a witness.'
+'For to hide Oebalian discs far into the clouds, and to knot a liquid
+wrestling, and to scatter the caestus, was play and rest to me; nor was there
+greater sweat in those things than when I would shake sounding strings with
+Apollo's plectrum and marvel at the old honors of men. Nay he even taught
+thoroughly the juices and the grasses that help diseases, by what medicine too
+much blood may stand, what makes sleeps, what closes gaping wounds, what
+plague must be checked with iron, what would yield to herbs, and he planted
+under my breast the warnings of sacred justice, by which he was accustomed to
+give reverend laws to the peoples of Pelion and to pacify his own
+double-formed kind.'
+'Thus far, comrades, the elements of my years I both remember and it pleases
+me to remember. My mother knows the rest.'

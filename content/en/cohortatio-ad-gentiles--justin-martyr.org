@@ -1,0 +1,2385 @@
+#+TITLE: Exhortation to the Gentiles
+#+AUTHOR: Ἰουστῖνος ὁ Μάρτυς hermes:grok-4.6
+#+FILETAGS: :patristic:2c-ad:pg06:
+#+MIGNE_TITLE: Cohortatio ad gentiles
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/cohortatio-ad-gentiles--justin-martyr
+#+LANGUAGE: en
+
+* Exhortation to the Gentiles
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Of Saint Justin the Philosopher and Martyr
+Hortatory Discourse to the Greeks.
+
+As I begin the exhortation to you, O men of Greece, I pray God that I may have
+what I ought to say to you, and that you, having laid aside your former love
+of contention and having been delivered from the error of your ancestors, may
+now choose what is profitable, thinking that no offense will be committed by
+you against your ancestors if what is opposite to the things that formerly
+seemed to them not well should now appear useful among you. For accurate
+examination of things often shows that what seemed to be well is of another
+sort, having tested the truth by a more exact trial. Since, then, the
+discourse concerning true religion lies before us, than which nothing, I
+think, is counted more honorable by those who have chosen to live without
+danger, because of the judgment that is to be after the end of this life,
+which not only our ancestors according to God proclaim, prophets and
+lawgivers, but also those among you who have been thought to be wise, not
+poets only but also philosophers, who profess among you to know the true and
+divine knowledge, it seemed to me well first to examine the teachers of
+religion, both ours and yours, who they were and how many and in what times
+they lived, in order that those who formerly received from their ancestors the
+falsely named religion may now at least, perceiving it, be delivered from that
+old error, and that we may clearly and openly show ourselves following the
+religion of the ancestors according to God.
+
+Whom, then, O men of Greece, do you say are the teachers of your religion? The
+poets? But it will not help you to say this to men who know the things of the
+poets. For they know the most ridiculous theogony about the gods that is told
+by them, as we can learn from Homer, the foremost among you and first of the
+poets. For he says first that the generation of the gods had its beginning
+from water. For he has written thus:
+
+Ocean, origin of the gods, and mother Tethys.
+
+Then it is necessary also to remind you of what he says about the one
+considered among them the first god, whom he often names father of men and of
+gods. For he said:
+
+Zeus, who has been made dispenser of war for men.
+
+He says, then, that he was not only dispenser of war to the army, but also
+cause of perjury to the Trojans through his own daughter; Homer introduces
+this one in love and complaining bitterly and wailing and plotted against by
+the other gods, and at one time saying over his own son:
+
+Woe is me, when Fate for me that Sarpedon, dearest of men,
+Be vanquished by Patroclus son of Menoetius!
+
+and at another time for Hector:
+
+Ah me, I see with my eyes a man dear to me driven about the wall;
+And my heart wails.
+
+And what he says also about the other gods against the plot upon Zeus, they
+know who meet with these verses:
+
+When the other Olympians wished to bind him,
+Hera and Poseidon and Pallas Athena.
+
+And if the blessed gods had not feared him whom they call Briareus, Zeus would
+have been bound by them. And as many things as Homer says about the erotic
+incontinence of Zeus, it is necessary to remind you through the very words he
+has spoken. For he said that he spoke thus to Hera:
+
+For never yet did desire of goddess or of woman
+Thus overpower my heart in my breast, pouring around it,
+Not when I loved the wife of Ixion,
+Nor when I loved Danae of the fair ankles, daughter of Acrisius,
+Nor when I loved the daughter of far-famed Phoenix,
+Nor when I loved Semele, nor Alcmene in Thebes,
+Nor when I loved Demeter the fair-haired queen,
+Nor when I loved glorious Leto, nor you yourself.
+
+And what one can learn also about the other gods from Homer's poetry, and how
+many things they have suffered at the hands of men, it is fitting to remind
+you now. For he says that Ares and Aphrodite were wounded by Diomedes, and he
+recounts the sufferings of many other gods as well. For thus we can learn from
+Dione consoling her daughter. For she said to her:
+
+Endure, my child, and bear up, though you are distressed.
+For many of us who have Olympian homes have endured
+From men, laying hard pains upon one another.
+Ares endured, when Otus and strong Ephialtes,
+Sons of Aloeus, bound him in a strong bond;
+And he was bound in a bronze jar thirteen months.
+Hera endured, when the strong son of Amphitryon
+Struck her in the right breast with a three-barbed arrow;
+Then incurable pain would have taken her.
+And huge Hades among them endured a swift arrow,
+When the same man, son of aegis-bearing Zeus,
+Struck him in Pylos among the dead and gave him to pains.
+But he went to the house of Zeus and long Olympus,
+Grieving at heart, pierced with pains; and the arrow
+Was driven in his sturdy shoulder, and it distressed his spirit.
+
+And if it is also fitting to remind you of the battle of the remaining gods
+opposite one another, your own poet will remind you, saying:
+
+So great a crash arose of gods coming together in strife.
+For against lord Poseidon
+Stood Phoebus Apollo, having winged arrows,
+And against Enyalios the goddess grey-eyed Athena.
+And against Hera stood the noisy one of the golden distaff,
+
+Artemis the arrow-pourer, sister of the far-shooter.
+And against Leto stood strong helper Hermes.
+
+These and such things Homer taught you about gods, and not Homer only but also
+Hesiod. So that, if you believe your foremost poets, who also gave the
+genealogies of your gods, it is necessary for you either to think them to be
+such, or not to believe them to be gods at all.
+
+And if you decline to cite the poets, because you say it is permitted them to
+invent myths and to go through many things far from the truth about gods in
+mythical fashion, whom else do you suppose you have as teachers of your
+religion, or how do you say they have learned it? For it is impossible that
+those who have not first learned from those who know should know matters so
+great and divine. You will of course say the sages and philosophers; for to
+these, as to a fortified wall, you are accustomed to flee whenever anyone
+reports to you the opinions of the poets about gods. Therefore, since it is
+fitting to begin from the ancient and first, beginning from there I will set
+out the opinion of each, being much more ridiculous than the theology of the
+poets. For Thales of Miletus, who first began natural philosophy, declared
+water to be the principle of all things that are; for from water, he says, all
+things are, and into water all things are resolved. And Anaximander after him,
+starting from the same Miletus, said the infinite was the principle of all
+things; for from this all things come to be and into this all things perish.
+Third, Anaximenes, he too being from Miletus, says air is the principle of the
+all; for from this all things come to be and into this all things are
+resolved, he says. Heraclitus of Metapontum says fire is the principle of all
+things; for from fire all things come to be and into fire all things end.
+Anaxagoras of Clazomenae says the homoeomeries are the principles of all
+things. Archelaus the Athenian, son of Apollodorus, says infinite air and the
+density and rarity about it are the principle of all things. All these, having
+their successions from Thales, pursued the philosophy called by them natural.
+
+Then next from another starting-point Pythagoras the Samian, son of
+Mnesarchus, calls numbers and the proportions and the harmonies in them
+principles, and the elements composed from both, and moreover the monad and
+the indefinite dyad. Epicurus the Athenian, son of Neocles, says the
+principles of the things that are are bodies perceptible by reason, without
+share of void, unbegotten, imperishable, able neither to be broken nor to take
+formation from parts nor to be altered, and for this reason perceptible by
+reason. Empedocles of Acragas, son of Meton, four elements, fire air water
+earth, and two ruling powers, friendship and strife, of which the one is
+unifying, the other dividing. You see, then, the disorder of those thought
+among you to have been wise, whom you say have become your teach
+
+ers of religion, some of them having declared water to be the principle of all
+things, others air, others fire, others some other of the things already
+named, and all of them using certain persuasive arguments for the construction
+of the things that seemed to them not well, and attempting to show their own
+dogma more honorable. These things have been said by them. How then is it
+safe, O men of Greece, for those who wish to be saved to think they can learn
+the true religion from these, who were not even able to persuade themselves
+not to be at faction with one another nor to appear opposed to one another's
+opinion?
+
+But perhaps those who are unwilling to stand off from that ancient and old
+error say they have received the account concerning religion not from those
+already named, but from the philosophers thought among them to be most
+renowned and most complete in virtue, Plato and Aristotle; for these, they
+say, have learned the perfect and true religion. But I would first gladly ask
+those who say this from whom they say these men, having learned, know; for it
+is impossible that those who have not learned matters so great and divine from
+some who know should either themselves know or be able to teach others
+rightly. And second I think one must also examine the opinions of these; for
+we shall know whether each of these also will appear to say the opposite of
+the other. And if we find even these not agreeing with one another, I think it
+is easy to know their ignorance clearly as well. For Plato, as if he had come
+down from above and had accurately seen all things in the heavens, says the
+highest God is in the fiery substance. But Aristotle, in the discourse to
+Alexander the Macedonian setting out a certain brief definition of his own
+philosophy, clearly and openly overthrows Plato's opinion, saying God is not
+in the fiery substance; but inventing some fifth aetherial and unchangeable
+body, he says he is in this. He has written at any rate thus: Not as some of
+those who err concerning the divine say that God is in the fiery substance.
+Then, as if not satisfied with the blasphemy against Plato, he also calls as
+witness for the demonstration of the things said by him about the aetherial
+body Homer, who was thrown out of the republic by him as a liar and as being
+an imitator third from the images of the truth, as he himself said. For he has
+written: Thus at any rate Homer also said:
+
+And Zeus obtained the wide heaven in aether and clouds;
+
+wishing to show his own opinion trustworthy from Homer's testimony, not
+knowing that if he should use Homer as a witness for the demonstration that he
+himself speaks truly, many of the things that seemed to him will appear not
+true. For Thales of Miletus, who first among them began philosophy, taking the
+occasion from him will reject his first opinions about principles. For
+Aristotle himself having said that God and matter are principles
+
+of all things, Thales, the oldest of all those among them, says water is the
+principle of the things that are; for from water, he says, all things are, and
+into water all things are resolved. And he conjectures first from the fact
+that the seed of all animals, being a principle, is moist; and second that all
+plants are nourished by moisture and bear fruit, and being without share of
+moisture they dry up. Then, as if not satisfied with the things he
+conjectures, he also cites Homer as trustworthy, speaking thus:
+
+Ocean, who has been made origin for all.
+
+How then will Thales not reasonably say to him: For what cause, O Aristotle,
+when you wish to overthrow Plato's opinions, do you attend to Homer as
+speaking truly, but when you have declared an opinion opposite to ours you
+think Homer does not speak truly?
+
+That, then, the sages so greatly wondered at among you do not even in the
+other things appear to agree, it is easy to know also from these things. For
+while Plato says there are three principles of the all, God and matter and
+form (God the maker of all, matter that which underlies the first generation
+of the things that come to be and furnishes him the occasion of the
+craftsmanship, and form the pattern of each of the things that come to be),
+Aristotle nowhere mentions form as a principle, but says there are two
+principles, God and matter. And again, while Plato says that both the first
+God and the ideas are in the first unwandering sphere of the highest heaven,
+Aristotle says that after the first God there are not the ideas but certain
+intelligible gods. Thus, then, they differ with one another about the things
+in the heavens. So that it is fitting to know that those who were not even
+able to know the things here among us, but even differed with one another
+about these, will not appear trustworthy when they narrate about the things in
+the heavens. That, then, not even the account concerning the human soul here
+will agree for them is clear from the things said about it by each of them.
+For Plato says it is three-parted, and says that one part of it is rational,
+one spirited, and one appetitive; but Aristotle says the soul is not more
+common, in which the perishable parts also are included, but the rational
+only. And Plato has cried out saying, Every soul is immortal; but Aristotle,
+naming it actuality, would have it not immortal but mortal. And the one says
+it is ever-moving; but Aristotle says it is unmoved, preceding all motion.
+
+But in these things they are convicted of thinking contrary to one another.
+And if anyone should wish to look accurately at the things according to them,
+they have not even chosen to remain in their own opinions. Plato at any rate
+sometimes says there are three principles of the all, God and matter and form,
+and sometimes four; for he also adds the universal soul. And again, having
+first said matter is unbegotten, later he says it is generated; and having
+first given form its own rank as a principle, and having declared it to be
+given substance in itself,
+
+later he says this very thing is in the thoughts. Moreover, having first
+declared that everything that has come to be is perishable, later he says some
+of the things that come to be can be indissoluble and imperishable. What,
+then, is the cause that those thought among you to have been wise are at
+faction not only with one another but also with themselves? Clearly, their
+unwillingness to learn from those who know, but thinking themselves able by
+their own human cleverness to know clearly the things in the heavens, although
+they were not even able to know the things on the earth. At any rate some of
+the philosophers among you say the human soul is in us, others around us; for
+not even in this have they chosen to agree with one another, but, as if they
+had divided ignorance in different ways, they have chosen to contend about the
+soul also and to be at faction with one another. For some of them say the soul
+is fire, others air, others mind, others motion, others exhalation, and
+certain others a power flowing from the stars, others a moving number, others
+generating water. And altogether a disordered and discordant opinion has
+prevailed among them, appearing worthy of praise in one thing only to those
+able to judge rightly, that they have chosen to convict one another as
+wandering and not speaking the truth.
+
+Therefore, since it is possible to learn nothing true about religion from your
+teachers, who have furnished you a sufficient demonstration of their own
+ignorance through their faction with one another, I think it follows to go up
+to our ancestors, who both anticipated by much the times of the teachers among
+you and taught us nothing from their own imagination, nor differed with one
+another nor tried to overturn one another's things, but without love of
+contention and without faction received the knowledge from God and teach this
+to us. For neither by nature nor by human thought is it possible for men to
+know things so great and divine, but by the gift that then came down from
+above upon the holy men, who had no need of the art of words nor of saying
+anything eristically and contentiously, but to present themselves pure to the
+energy of the divine Spirit, in order that the divine plectrum itself, coming
+down from heaven, using the righteous men as an instrument of some harp or
+lyre, might reveal to us the knowledge of things divine and heavenly. For this
+reason, then, as if from one mouth and one tongue they taught us both about
+God and about the creation of the world and about the formation of man and
+about the immortality of the human soul and the judgment that is to be after
+this life and about all things that it is necessary for us to know,
+consistently and in agreement with one another, and this though they furnished
+us the divine teaching in different places and times.
+
+I will begin, then, from the first prophet and lawgiver among us, Moses, first
+setting out the times in which he lived, with all testimony trustworthy among
+you,
+
+for I try to demonstrate these things not only from the divine histories among
+us, which you are not yet willing to believe because of the old error of your
+ancestors, but from your own histories that have nothing to do with our
+worship, in order that you may know that of all those among you, whether sages
+or poets or historians or philosophers or lawgivers, by far the oldest was
+Moses, the first teacher of our religion, as the histories of the Greeks show
+us. For in the times of Ogyges and Inachus, whom some among you have supposed
+even to have been earth-born, they mention Moses as leader and ruler of the
+race of the Jews. For thus Polemon mentions him in the first of the Hellenic
+histories, and Apion son of Posidonius in the book against the Jews and in the
+fourth of the histories, saying that in the time of Inachus king of Argos,
+when Amosis was king of the Egyptians, the Jews revolted, of whom Moses was
+leader. And Ptolemy of Mendes, writing the history of the Egyptians, agrees
+with all these. And those who write the history of the Athenians, Hellanicus
+and Philochorus who wrote the Atthides, and Castor and Thallus and Alexander
+Polyhistor, and moreover the most wise Philo and Josephus, who wrote the
+history of the Jews, mention Moses as a very ancient and old ruler of the
+Jews. Josephus at any rate, wishing to signify the ancient and old of the
+history even by the title of the books, beginning the history has written
+thus: Of Flavius Josephus, of the Jewish Archaeology; naming the oldness of
+the history Archaeology. And the most renowned of the historians among you,
+Diodorus, who epitomized the Libraries, having gone around Asia and Europe in
+thirty whole years, as he himself has written, for much accuracy, and having
+become an eyewitness of most things, has written forty whole books of his own
+history; who in the first book, having said he learned from the priests in
+Egypt that Moses was an ancient and first lawgiver, has written about him in
+these very words: For after the ancient constitution of life in Egypt, which
+is fabled to have come to be in the time of gods and heroes, they say Moses
+first persuaded the multitudes to use written laws, a man remembered as great
+in soul and most sufficient in life. Then having gone on a little, and wishing
+to mention the ancient lawgivers, he mentions Moses first. For he spoke in
+these very words thus: Among the Jews, Moses the one called god, whether
+judging it to be a marvelous and wholly divine thought that was going to
+benefit a multitude of men, or having taken it that the crowd would rather
+obey looking to the superiority and power of those said to have found the
+laws. And they say a second lawgiver of the Egyptians was Sauchis, a man
+excelling in understanding. And third they say king Sesonchosis not only
+accomplished the most distinguished warlike deeds
+
+of those in Egypt, but also established the warlike nation by legislations.
+And fourth they say king Bocchoris became a lawgiver, a certain wise man
+excelling in shrewdness. And after him king Amasis is said to have come to the
+laws, whom they relate to have arranged the things concerning the nomarchs and
+the things concerning the whole administration of Egypt. And sixth it is said
+that Darius, the father of Xerxes, set himself over the laws of the Egyptians.
+
+These things, O men of Greece, those outside our religion have written,
+relating the history concerning the antiquity of Moses, and having said they
+learned all these things from Egyptian priests, among whom Moses was not only
+born, but was also thought worthy to share in all the education of the
+Egyptians, because he was adopted by a king's daughter into the place of a
+son, and for the aforesaid reason was thought worthy of much attention, as the
+wisest of the historians relate, who chose to record his life and deeds and
+the dignity of his race, Philo and Josephus. For these, writing the history of
+the deeds of the Jews, say Moses was born from the race of the Chaldeans; and
+that when his ancestors migrated from Phoenicia to Egypt because of famine,
+the man was born there, whom God purposed to honor because of exceeding
+virtue, and thought worthy to become ruler and general and lawgiver of his own
+race, when he judged it right that the multitude of the Hebrews return from
+Egypt to their own land. To this man first God also furnished the divine and
+prophetic gift that then came down from above upon the holy men, and prepared
+him to become the first teacher of our religion, then after him the remaining
+prophets, who also themselves obtained the same gift as he and taught us the
+same things about the same matters. These we say have become teachers of our
+worship, having taught us nothing from their own human mind, but from the gift
+given them from above by God.
+
+But you, since because of the former error of your fathers you do not think it
+necessary to be persuaded by these, whom do you say have become trustworthy
+teachers of religion for you? For it is impossible, as I have often said, that
+those who have not first learned matters so great and divine from those who
+know should either themselves know or be able to teach others rightly.
+Therefore, since from what has been said the affairs of your philosophers have
+been sufficiently convicted, appearing full of all ignorance and deceit,
+leaving off the philosophers altogether hereafter, as formerly the poets, you
+will turn to the deceit of the oracles; for thus I have heard some speaking.
+Therefore I think it follows now in due season to say to you the things I
+formerly heard from you speaking about them. For when someone, as you
+yourselves say, asked the oracle among you what men
+
+happened ever to have been religious, you say the oracle spoke thus:
+
+Only Chaldeans obtained wisdom, and Hebrews too,
+Worshipping purely the self-begotten lord God.
+
+Therefore, since you think you can learn the truth from your oracles, meeting
+with the histories and the things written about the life of Moses by those
+outside our worship, and knowing that Moses and the remaining prophets started
+from the race of the Chaldeans and Hebrews, do not think anything paradoxical
+has come to be, if God purposed to honor with this great gift the man who was
+from a race of religious people and had lived worthily of the religion of his
+ancestors, and to show him first of all the prophets.
+
+And I think it necessary also to consider the times in which the philosophers
+among you lived, in order that you may know that the time that brought these
+to you is very new and short; for thus it will be possible for you also easily
+to know the antiquity of Moses. And that I may not seem, going through the
+times, to drag on, using more demonstrations, I think it sufficient to show
+even from these. For Socrates was teacher of Plato, and Plato of Aristotle.
+And these flourished in the times of Philip and Alexander of Macedon, in which
+also the orators of the Athenians, as the speeches written by Demosthenes
+against Philip also show us clearly. And that Aristotle also was with
+Alexander in the time of the kingship, those who have written the history of
+Alexander's deeds sufficiently show. From every side, then, it is easy to know
+that Moses' history happens to be by far the most ancient of all the histories
+outside. And besides, it is fitting that you not be ignorant of this either,
+that nothing accurate has been related in history by Greeks before the
+Olympiads, nor is there any old writing signifying a deed of Greeks or
+barbarians. But only the history of the first prophet Moses already existed,
+which Moses wrote from divine inspiration in the letters of the Hebrews. For
+those of the Greeks did not yet exist, as the teachers of letters themselves
+also show, saying Cadmus first brought them from Phoenicia and gave them to
+Greeks. And the first of the philosophers among you, Plato, testifies that
+they were found later. For he has written in the Timaeus that Solon, the
+wisest of the wise, returning from Egypt, said to Critias the things he had
+heard an Egyptian priest, not very old, saying to him: O Solon, Solon, you
+Greeks are always children, and there is no old Greek. Then again: You are
+young, he said, in your souls, all of you; for you have in them no old opinion
+nor anything old by long time. But it has escaped you because through many
+generations they end mute in letters. It is fitting, then, to know that every
+history happens to have been written in the later-found letters of the Greeks,
+and if anyone should wish to mention ancient poets or lawgivers or historians
+or philo
+
+sophers or orators, he will find these have written their own compositions in
+the letters of the Greeks.
+
+And if anyone should say that the writing of Moses and of the other prophets
+was also written in the letters of the Greeks, let him know, meeting with the
+histories outside, that Ptolemy the king of Egypt, having constructed a
+library in Alexandria and having gathered books from every side and filled it,
+then having learned that ancient histories written in the letters of the
+Hebrews happen to be preserved accurately, wishing to know the things written,
+ordered seventy wise men, who knew both the Greek and the Hebrew dialect, to
+interpret the books for them, having sent for them from Jerusalem. And in
+order that being outside all disturbance they might interpret more quickly, he
+ordered that not in the city itself, but seven stades off where the Pharos
+happens to have been built, small cottages equal in number to the interpreters
+should come to be, so that each by himself privately might complete the
+interpretation, having ordered the servants set over them that they should
+obtain all attendance, but be kept from conversation with one another, in
+order that the accuracy of the interpretation might be able to be known also
+through their agreement. And when he knew that the seventy men had used not
+only the same mind but also the same words, and had not missed the agreement
+with one another even as far as one word, but had written the same things also
+about the same matters, being struck with amazement he also judged them worthy
+of honor as men dear to God, and with many gifts ordered them to return to
+their own fatherland, and having deified the books, as was likely, he
+dedicated them there. These things we do not report to you as myths, O men of
+Greece, nor as invented histories; but we ourselves having been in Alexandria
+and having seen the traces of the cottages on Pharos still preserved, and
+having heard from those there who had received them as ancestral things,
+report these things, which you can also learn from others, and especially from
+the wise and approved men who have written the history of these things, Philo
+and Josephus, and many others. And if anyone of those accustomed to contradict
+readily should say that these books belong not to us but to Jews, because they
+are still even now preserved in their synagogues, and should say we vainly
+claim to have learned religion from these, let him know from the very things
+written in the books that the teaching from these belongs not to them but to
+us. And that the books belonging to our religion are still even now preserved
+among Jews has come to be a work of divine providence on our behalf; for in
+order that we may not, producing them from the church, furnish a pretext of
+fraud to those who wish to blaspheme us, we think it right that these be
+produced from the synagogue of the Jews, in order that from the very books
+still preserved among them, as the just things written for teaching by the
+holy men belong to us,
+
+it may appear clearly and openly.
+
+You must, then, O men of Greece, looking forward to the things that are to be
+and looking to the judgment proclaimed by all, not only by the religious but
+also by those outside, not attend to the unexamined error of your ancestors,
+nor think that if they themselves, having slipped, handed something down to
+you, this is true, but, looking to the danger of so terrible a failure, seek
+and search accurately also the things said by your own teachers, as you
+yourselves say. For even they themselves, by the divine providence for men,
+were forced even unwillingly to speak many things on our behalf, and
+especially those who were in Egypt and were benefited from the religion of
+Moses and of his ancestors. For I think it does not escape some of you, having
+met at any rate somewhere with the history of Diodorus and those of the rest
+who have written the history of these things, that Orpheus and Homer and
+Solon, who wrote the laws for the Athenians, and Pythagoras and Plato and
+certain others, having been in Egypt and having been benefited from the
+history of Moses, later declared things opposite to what had formerly seemed
+to them not well about gods.
+
+Orpheus at any rate, who became, as one might say, the first teacher of your
+polytheism, it is necessary to remind you what things he later proclaims
+speaking to his son Musaeus and the remaining genuine hearers about one and
+only God. And he spoke thus:
+
+I will speak to those for whom it is lawful; and shut the doors, profane,
+All alike. But you hear, offspring of light-bringing Moon,
+Musaeus! For I will declare true things; and let not the things that formerly
+Appeared in your breast rob you of the dear life.
+And looking to the divine Word attend upon this,
+Directing the intelligent hollow of the heart, and well step upon
+The path, and look only at the lord of the world.
+One he is, self-begotten; all things have been made offspring of the one;
+And among them he himself goes about, and no one of mortals
+Sees him, but he himself is seen of all.
+And this one gives evil to mortals out of good
+And chilling war and tearful pains.
+And there is no other apart from the great king.
+And I do not see him; for a cloud has been set around.
+For all mortals have mortal pupils in their eyes,
+And they are weak to see Zeus who rules all.
+For this one has been set in the bronze heaven
+On a golden throne, and with his feet he has stepped on the earth
+And his right hand to the limit of ocean
+He has stretched from every side; for around tremble the long mountains
+And rivers and the depth of the grey bright sea.
+
+And again somewhere else he speaks thus:
+
+One Zeus, one Hades, one Sun, one Dionysus,
+One God in all. Why do I tell you these things apart?
+
+And in the Oaths also thus:
+
+I adjure you by heaven, wise work of the great God,
+I adjure you by the voice of the Father, which he first uttered,
+When he established the whole world by his own counsels.
+
+What does he mean by saying
+
+I adjure you by the voice of the Father, which he first uttered?
+
+Voice here he names the Word of God, through whom heaven and earth and the
+whole creation came to be, as the divine prophecies of the holy men teach us,
+to which he himself also in part attending in Egypt knew that by the Word of
+God the whole creation came to be. Therefore also after saying:
+
+I adjure you by the voice of the Father, which he first uttered,
+
+he immediately joins on, saying:
+
+When he established the whole world by his own counsels.
+
+Here he names the Word voice because of the poetic metre. And that this is so
+is clear from the fact that a little before, the metre permitting him, he
+names it Word. For he said:
+
+And looking to the divine Word attend upon this.
+
+And what the ancient and very old Sibyl also, of whom Plato and Aristophanes
+and many others make mention as a prophetess, happens to teach you through
+oracles about one and only God, it is necessary to remind. And she speaks
+thus:
+
+And there is one God only, exceeding great, unbegotten,
+Almighty, invisible, himself seeing all things,
+But he himself is not seen by all mortal flesh.
+
+Then somewhere else thus:
+
+And we have wandered from the paths of the immortal,
+And with foolish heart we honor works made by hands,
+Idols and carved images of perished men.
+
+And again somewhere else thus:
+
+Blessed will those men be on the earth
+As many as will love the great God, blessing
+Before eating and drinking, trusting in pieties;
+Who will deny all temples when they see them
+And altars, vain establishments of deaf stones,
+Defiled with bloods of living things and with sacrifices
+Of four-footed beasts, and they will look to the great glory of one God.
+
+These things, then, the Sibyl.
+
+And the poet Homer, using the license of poetry and emulating the opinion of
+Orpheus at the beginning about polytheism, mentions more gods in mythical
+fashion, in order that he may not seem to be out of tune with Orpheus' poetry,
+which he purposed so to emulate that even through the first verse of the
+poetry he signified the relation toward him. For Orpheus having said
+
+Sing, goddess, the wrath of Demeter of the splendid fruit
+
+at the beginning of the poetry, he himself has written
+
+Sing, goddess, the wrath of Achilles son of Peleus,
+
+having chosen, as it seems to me, even at the beginning to fall out of
+
+the metre according to the poetry, in order that he may not seem not to have
+mentioned first the name of the gods. And a little later he also clearly and
+openly sets out his own opinion about one and only God, in one place saying
+through Phoenix to Achilles:
+
+Not even if God himself should undertake for me
+To scrape off old age and set me young in youth,
+
+signifying by the pronoun the God who really is; and in another place through
+Odysseus to the multitude of the Greeks speaking thus:
+
+The rule of many is not good; let there be one ruler.
+
+And that the rule of many is not good, but on the contrary an evil, he
+purposed to show by deed, recounting their wars because of the multitude and
+battles and factions and plots against one another. For monarchy happens to be
+without battle. These things, then, the poet Homer.
+
+And if we must also add testimonies from the stage about one God, hear also
+Sophocles speaking thus:
+
+There is one in truths, there is one God,
+Who has made heaven and the long earth,
+And the bright swell of the sea and the forces of winds.
+But we many mortals, wandering in heart,
+Have set up a consolation of woes,
+Images of gods from stones and woods,
+Or types of gold-wrought or ivory;
+And making sacrifices to these and fair festivals,
+We think thus to be pious.
+
+These things, then, Sophocles.
+
+And Pythagoras son of Mnesarchus, who set out the dogmas of his own philosophy
+mystically through symbols, as those who have written his life show, himself
+also appears thinking things about one God worthy of the sojourn into Egypt.
+For saying the monad is principle of all things and that this is cause of all
+good things, through allegory he teaches that there is one and only God. And
+that this is so is clear from the things in which he said the monad and one
+differ much from one another; for he says the monad is in the intelligibles,
+and the one in the numbers. And if you also desire to know a clearer
+demonstration of Pythagoras' opinion about one God, hear also his own opinion.
+For he spoke thus: God is one, and he himself is not, as some suppose, outside
+the ordering, but in himself whole in the whole circle, overseeing all
+generations, being a blending of all the ages and worker of his own powers and
+works, principle of all, light-bringer in heaven and father of all, mind and
+animation of the wholes, movement of all circles. Thus, then, Pythagoras.
+
+And Plato, having accepted, as it seems, the teaching of Moses and of the
+other prophets about one and only God, which he came to know when he was in
+Egypt, but fearing because of the things that happened to Socrates lest he
+also prepare some Anytus or
+
+Meletus to come to be against himself, accusing him among the Athenians and
+saying: Plato does injustice and is a busybody, not thinking the gods whom the
+city thinks; in fear of the hemlock he exercises a certain varied and figured
+discourse about gods, constructing by the argument both that there are gods
+for those who wish and that there are not for those to whom the opposite
+seems, as it will be easy to know from the very things said by him. For having
+first declared that everything that has come to be is mortal, later he says
+gods have come to be. If, then, he would have God and matter to be principle
+of all things, it is clear that there is every necessity to say the gods have
+come to be from matter. And if from matter, from which he also said evil has
+started, what sort one ought to think the gods that came to be from matter
+are, he has left to those who think well to consider. For this reason he also
+said matter is unbegotten, in order that he may not seem to say God is maker
+of evil. And about the gods crafted by God he appears to have said these
+things: Gods of gods, of whom I am craftsman. But about the God who really is
+he appears to have the right opinion. For having heard in Egypt that God said
+to Moses I am the one who is, when he was about to send him to the Hebrews, he
+knew that God did not speak to him a proper name of himself.
+
+For no name can be used as a proper name of God. For names lie for the showing
+and distinguishing of the underlying things, many and different as they are;
+but for God neither did one who sets a name exist beforehand, nor did he
+himself think it necessary to name himself, being one and only, as he himself
+testifies through his own prophets, saying: I am God first and I after these
+things, and besides me there is no other God. For this reason, then, as I also
+said before, God sending Moses to the Hebrews does not even mention any name,
+but through a certain participle he mystically teaches that he himself is one
+and only God. For I, he says, am the one who is, contrasting himself clearly,
+the one who is, with those who are not, in order that those formerly deceived
+may know that they attended not to those who are but to those who are not.
+Since, then, God knew that the first men remembered the old deceit of the
+ancestors, which the man-hating demon wished to deceive them with, saying to
+them If you should be persuaded by me to pass by the commandment of God, you
+will be as gods, naming gods those who are not, in order that men, thinking
+both that there are also other gods and that they themselves could become
+gods, might believe, for this reason he said to Moses I am the one who is, in
+order that through the participle of being he might teach the difference of
+the God who is and of those who are not. Men, then, having been persuaded by
+the deceiving demon and having dared to disobey God, went out of paradise,
+remembering the name of gods, but no longer being taught by God that there are
+not other gods; for it was not just still to teach those who did not keep the
+first commandment, which it was easy to keep, but to bring upon them just
+punishment. Having been thrown out of paradise, then, and thinking they had
+been thrown out
+
+because of the disobedience alone, not knowing that they were also persuaded
+that gods who are not are, they handed down the name of gods also to the men
+who came to be from them after these things. This, then, is the first false
+fancy about gods, having had its beginning from the father of the lie. God,
+then, knowing the untrue opinion of polytheism troubling the soul of men like
+some disease, wishing to take it away and overturn it, first appearing to
+Moses said to him: I am the one who is. For it was necessary, I think, that
+the one who was going to be ruler and general of the race of the Hebrews
+should first of all know the God who is. Therefore appearing first to this
+one, as it was possible for God to appear to a man, he said to him: I am the
+one who is. Then, being about to send him to the Hebrews, he orders him to say
+the same things to them also: The one who is has sent me to you.
+
+These things, then, Plato having learned in Egypt, and being very pleased with
+the things said about one God, thought it not safe among the Athenians to
+mention the name of Moses, because he teaches one and only God, fearing the
+Areopagus, but the thing well said by him he set out not as having learned
+from that one, but as his own opinion, in his elaborate discourse Timaeus, in
+which he also attempts to speak of God, the same thing that Moses also wrote
+about God. For he said: There is, then, according to my opinion, first to be
+divided, what that which always is, having no generation, and what that which
+always comes to be, but never is. Does this, O men of Greece, not seem to
+those able to understand to be one and the same, differing only by the
+article? For Moses said the one who is, and Plato that which is. And each of
+the things said appears to belong to the God who always is; for he himself
+alone is the one who always is, having no generation. What, then, is the other
+that is contrasted with the one who always is, about which he himself said:
+And what that which always comes to be, but never is, it is fitting to
+consider accurately. For we shall find him clearly and openly saying that the
+unbegotten is eternal, but that the generated or crafted (as he himself said
+it had been said about the same: Gods of gods, of whom I am craftsman) come to
+be and perish. For thus he himself says this: There is, then, according to my
+opinion, first to be divided, what that which always is, having no generation,
+and what that which comes to be, but never is. The one, then, is graspable by
+thought with reason, always being according to the same, but the other again
+is opinable by opinion with irrational perception, coming to be and perishing,
+but never being. These words proclaim to those able to understand rightly the
+taking away and destruction of the gods that have come to be. And I think it
+necessary to attend the mind also to this, that Plato names him not maker but
+craftsman of gods, although there is much difference in these according to
+Plato's own opinion; for the maker, needing nothing else, makes the thing made
+from his own power and authority, but the craftsman, having taken the power of
+the craftsmanship from matter,
+
+constructs the thing that comes to be.
+
+But perhaps some, unwilling to stand off from the dogmas of polytheism, will
+say that the craftsman himself said these things to the crafted gods: Since
+you have come to be, you are not immortal nor wholly indissoluble, yet you
+will not be dissolved nor obtain a share of death, having obtained my will, a
+still greater and stronger bond. Here Plato, fearing those who embrace
+polytheism, introduces the craftsman according to him saying things contrary
+to himself. For having said that he had formerly said everything that has come
+to be is perishable, now he introduces him saying the opposite, not knowing
+that it is in no way possible thus to escape the charge of false-speaking; for
+either having formerly said everything that has come to be is perishable he
+speaks falsely, or now announcing the opposite of the things formerly said
+about them. For if there is every necessity that the generated be perishable
+according to his former definition, how is it allowed that what is of
+necessity impossible become possible? So that Plato seems in vain to grant
+impossibles to the craftsman according to him, announcing that those who once,
+because they have come to be from matter, became perishable and dissoluble
+will again through him be imperishable and indissoluble. For the power of
+matter, being unbegotten and of equal time and of the same age as the
+craftsman according to his opinion, is likely to stand against his will; for
+to the one who has not made there is no authority toward what has not come to
+be, so that it is not even possible for it to be forced, being free of all
+outside necessity. For this reason, then, Plato himself also looking to these
+things has written thus: And it is not possible even for a god to be said to
+force.
+
+How, then, does Plato throw Homer out of his own republic, since in the
+embassy to Achilles he has made Phoenix say to Achilles:
+
+And even the gods themselves are turnable,
+
+although Homer said these things not about the king and according to Plato
+craftsman of the gods, but about certain gods, of the many thought among
+Greeks to be, as we can learn also from Plato himself, saying gods of gods?
+For Homer refers the authority and the power of all things to the one and
+first God through that golden chain, and he said the remaining gods are so far
+from that one's divinity that he thinks it right to name them even with men.
+At any rate he introduces Odysseus saying against Hector to Achilles:
+
+He rages terribly, trusting in Zeus, and he honors not at all
+Men nor gods.
+
+Here Homer seems to me at any rate, himself also having learned in Egypt like
+Plato about one God, clearly and openly to show this, that the one who has
+trusted in the God who is neglects those who are not. For thus the poet also
+somewhere else, through another word of equal force, has used the pronoun, the
+same as the participle said by Plato, announcing the God who is, about whom
+Plato said: What that which always is, having no
+
+generation. For it does not seem to me to have been said simply, the thing
+said by Phoenix:
+
+Not even if God himself should undertake for me
+To scrape off old age and set me young in youth.
+
+For the pronoun himself signifies the God who really is. For thus also the
+oracle said to you about the Chaldeans and Hebrews signifies; for when someone
+inquired what religious men ever happened to have come to be, you say he spoke
+thus:
+
+Only Chaldeans obtained wisdom, and Hebrews too,
+Worshipping God himself, the self-begotten lord.
+
+How, then, does Plato blame Homer for saying the gods are turnable, although
+Homer said this because of the useful, as is clear from the very things said?
+For it is proper to those who think it right to obtain philanthropy through
+prayer and sacrifices to cease and to change their mind about the things in
+which they sinned; for those who think the divine is unturning have in no way
+chosen to stand off from sins, thinking they will have no benefit from
+repentance. How, then, having condemned the poet Homer for having said
+
+And even the gods themselves are turnable,
+
+does the philosopher Plato himself introduce the craftsman of the gods so
+easily turned, as sometimes to say gods are mortal, sometimes that the same
+are immortal? And not only about them, but also about matter, from which the
+crafted gods also, as he himself says, have of necessity come to be, he
+sometimes says it is unbegotten, sometimes generated, not knowing that he is
+convicted falling into the very things for which he blames Homer, saying the
+craftsman of the gods is so easily turned, although Homer has said the
+opposite about him. For he said that he spoke thus about himself:
+
+For not mine is it to be taken back nor deceitful
+Nor unfulfilled, whatever I nod with my head.
+
+But these things Plato willingly, as it seems, fearing those who embrace
+polytheism, appears to go through as strange about gods. And as many things as
+he has learned from Moses and the prophets about one God he thinks he must
+say, these he has chosen to say mystically, signifying his own opinion to
+those who wish to be religious. For being pleased with what was said by God to
+Moses I am the one who is, and having received with much contemplation the
+brief saying said through the participle, he knew that God, wishing to signify
+his eternity to Moses, said I am the one who is, the syllable being showing
+not one time but the three, the past and the present and the future. For thus
+Plato also mentions the being of the extra time, saying But never being. For
+never has been said not of the past, as some think, but of the future time.
+For this has been accurately treated also among those outside. For this
+reason, then, as if wishing to interpret to those who do not know what was
+said mystically about the eternity of God through
+
+the participle, Plato has written in these very words thus: God indeed, as
+also the old account, having beginning and end and middles of all things. Here
+Plato clearly and openly names the old account the law of Moses, fearing
+because of fear of the hemlock to mention the name of Moses; for he knew the
+teaching of the man was hostile to Greeks; and through the oldness of the
+account he signifies Moses clearly. And that the law of Moses is old and first
+has been sufficiently demonstrated to us also from the histories of Diodorus
+and the rest in the preceding; for Diodorus says he became first of all
+lawgivers, the letters belonging to the Greeks not yet even having been found,
+using which they have written their own histories.
+
+And let no one wonder if Plato, having been persuaded by Moses about the
+eternity of God, has written thus. For you will find him mystically after the
+God who really is also referring the true knowledge about the things that are
+to the prophets. For thus in the Timaeus discoursing about certain principles
+he has written: And the principle of fire and of the other bodies we lay down,
+going according to the likely account with necessity; but the principles still
+of these God knows from above, and whichever of men is dear to him. And what
+other men does he think are friends of God, if not Moses and the remaining
+prophets? Having met with their prophecies and having learned from them the
+account about judgment, in the first discourse of the Republic he thus
+proclaims beforehand, saying: Whenever someone is near thinking he will die,
+fear and care enter him about things that did not enter before. For the so-
+called myths about those in Hades, that the one who did injustice here must
+give justice there, being laughed at until then, then indeed turn his soul
+lest they be true, and he himself either by the weakness of old age or also as
+being nearer those there sees them more. At any rate he becomes full of
+suspicion and dread, and already reckons and considers whether he did anyone
+injustice. The one, then, finding many injustices of himself in life and from
+sleep, like children, often waking, fears and lives with bad hope; but to the
+one conscious of no injustice to himself sweet hope is always present and a
+good nurse of old age, as Pindar also says. For charmingly indeed, O Socrates,
+that one said this, that whoever should go through life holily and justly,
+
+Sweet hope that nurses old age attends his heart, cherishing it,
+Hope, which most of all steers the much-turning mind of mortals.
+
+And these things he has written in the first discourse of the Republic.
+
+And in the tenth he clearly and openly, the things he has learned from the
+prophets about judgment, these not as having learned from them, because of
+fear toward Greeks, but as having heard from someone, as it seemed good to him
+to invent, slain in war and about to be buried on the twelfth day and lying on
+the pyre,
+
+having come to life again and narrating the things there, has written in these
+very words thus: For he said he was present when one was asked by another
+where the great Aridaeus was. And this Aridaeus had become tyrant in a certain
+city of Pamphylia, having killed an old father and an elder brother, and
+having worked many other unholy things, as was said. He said at any rate that
+the one asked said: He has not come, he said, nor would he come here. For we
+indeed also beheld this of the terrible sights. When we were near the mouth,
+being about to go up and having suffered all the other things, we suddenly saw
+him and others, almost the most of them tyrants; and there were also certain
+private persons of those who had sinned greatly; whom, thinking they would
+already go up, the mouth did not receive, but bellowed whenever anyone of
+those so incurably in wickedness, if he had not sufficiently given justice,
+attempted to go up. There wild men, fiery to look at, standing by and
+perceiving the sound, took some and led them, and Aridaeus and others, having
+bound hands and feet and head, having thrown them down and flayed them, they
+dragged beside the road outside, carding them on thorns, and signifying to
+those present for what things and that they were being led to fall into
+Tartarus. Then of many and all sorts of fears, he said, that had come to be
+for them, this surpassed, if the sound should not come to be for each when he
+went up, so that each most gladly went up when it was silent. And the justices
+and punishments were some such, and again the benefits corresponding to these.
+Here Plato seems to me to have learned from the prophets not only the account
+about judgment, but also that about the resurrection disbelieved among Greeks.
+For to have said that the soul is judged with a body shows nothing other than
+that he believed the account about the resurrection. Since how did Aridaeus
+and the rest, having left the body that has head and hands and feet and skin
+above earth, undergo such punishment in Hades? For they will not surely say
+the soul has head and hands and feet and skin. But Plato, having met in Egypt
+with the testimonies of the prophets, and having accepted the teaching about
+the resurrection of the body, teaches that the soul is judged with the body.
+
+And not Plato only, but also Homer, himself likewise having learned in Egypt,
+said Tityus is likewise punished. For thus in the necromancy Odysseus narrates
+to Alcinous, saying:
+
+And I saw Tityus, glorious son of Earth,
+Lying on the ground; and he lay over nine acres,
+And two vultures sitting on either side tore his liver.
+
+For liver shows not the soul but the body has it. In the same way he has also
+written that Sisyphus and Tantalus undergo the punishment with a body. And
+that Homer was in Egypt and transferred many of the things he learned there
+into his own
+
+poetry, Diodorus, the most renowned of the historians, sufficiently teaches
+us. For he said that he, having been in Egypt, learned that the drug
+
+Banishing grief, and without bile, causing forgetfulness of all evils,
+
+Helen, having received from Polydamna the wife of Thon, brought to Sparta; and
+Homer said Helen, using that drug, stopped the lament that came to be in the
+presence of Telemachus at Menelaus'. And he named Aphrodite golden from the
+history in Egypt; for he also knew a precinct of golden Aphrodite spoken of in
+Egypt and a plain named of golden Aphrodite. And for the sake of what has
+mention of these things come to be now? In order that we may show the poet
+transferred many things also from the divine history of the prophets into his
+own poetry; and first the beginning said by Moses of the making of the world.
+For thus Moses has written: In the beginning God made the heaven and the
+earth, then sun and moon and stars. For having learned these things in Egypt,
+and being pleased with the things written by him in the generation of the
+world, he prepared Hephaestus to construct on the shield of Achilles as it
+were a certain image of the making of the world. For thus he has written:
+
+On it he made earth, on it heaven, on it sea,
+And unwearied sun and the moon at the full,
+And on it all the stars with which heaven is crowned.
+
+And he has made the garden of Alcinous preserve an image of paradise, showing
+it through the image ever-blooming and full of fruits. For thus he has
+written:
+
+There tall trees had grown, flourishing,
+Pears and pomegranates and apple trees of splendid fruit
+And sweet fig trees and flourishing olives.
+Of these the fruit never perishes nor fails
+In winter nor in summer, year-long, but always the breeze
+Of Zephyrus blowing brings some to birth, and ripens others.
+Pear upon pear grows old, apple upon apple,
+And grape upon grape, fig upon fig.
+And there his many-fruited vineyard is rooted;
+Of it one part of the drying-ground in a level place
+Is dried by the sun, and others they harvest,
+And others they tread; and in front are unripe grapes,
+Casting flower, and others are growing dark.
+
+Do these words not show a clear and open imitation of the things said by the
+first prophet Moses about paradise? And if anyone should also wish to look to
+the making of the tower, through which the men of that time thought they could
+construct for themselves the ascent into heaven, he will find this also a
+sufficient imitation through allegory done by the poet through Otus and
+Ephialtes. For thus the poet also said about them:
+
+Who even threatened the immortals on Olympus
+
+To set up a battle of much-rushing war;
+They were eager to set Ossa on Olympus, and on Ossa
+Pelion of shaking leaves, that heaven might be climbable.
+
+And likewise also about the enemy of humanity brought down from the heavens,
+whom the divine writings call devil, having obtained this appellation from his
+first slander against man; and if anyone should wish to consider accurately,
+he would find the poet nowhere mentioning the name of the devil, but having
+made the naming from his worst deed; for the poet, naming him Ate, says he was
+taken down from heaven by the god according to them, as if accurately
+remembering the words said by the prophet Isaiah about him. Thus he has
+written in his own poetry:
+
+And immediately he seized Ate by the head of shining hair,
+Angry in his mind, and he swore a strong oath
+That never to Olympus and starry heaven
+Would Ate come again, who deceives all.
+So speaking he threw her from starry heaven,
+Whirling her with his hand; and quickly she came to the works of men.
+
+And Plato also, saying that after God and matter form is a third principle,
+appears having taken the occasion from no other place but from Moses, having
+learned the name of form from the words of Moses, but not having then been
+taught by those who know that it is possible clearly to know nothing of the
+things said by Moses outside mystic contemplation. For Moses has written as
+God having said to him about the tent thus: And you shall make for me
+according to all things, as many as I show you on the mountain, the pattern of
+the tent. And again: And you shall set up the tent according to the pattern of
+all its vessels, and thus you shall make. And again a little later thus: See,
+you shall make according to the type that has been shown you on the mountain.
+Plato, then, meeting with these and not receiving the written words with the
+fitting contemplation, thought some separate form pre-existed the perceptible,
+which he also often names pattern of the things that have come to be, since
+the writing of Moses signifies thus about the tent: According to the form that
+was shown you on the mountain, thus you shall make it.
+
+And likewise also about the earth and the heaven and man he appears to have
+slipped; for he thinks there are ideas of these too. For since Moses has
+written thus: In the beginning God made the heaven and the earth, then
+immediately joins on saying: And the earth was invisible and unfurnished, he
+thought that this earth about which he said And the earth was was the pre-
+existing earth that was spoken of, since Moses said: And the earth was
+invisible and unfurnished; and this about which he says God made the heaven
+and the earth he thought he said this perceptible one that came to be by God
+according to a pre-existing form. And likewise
+
+also about the heaven that came to be; the heaven that has been made, which he
+also named firmament, this is the perceptible that came to be, and there is
+another intelligible, about which the prophet said: The heaven of heaven is
+the Lord's, and the earth he gave to the sons of men. And about man likewise;
+first Moses mentions the name of man, then after the many of the created
+things he has made mention about the formation of man, saying thus: And God
+made man, dust from the earth. He thought at any rate that the man first named
+pre-existed the one that came to be, and that the one formed from the earth
+later came to be according to the pre-existing form. And that man has been
+formed from earth, Homer also, having learned from the old and divine history
+that says You are earth and to earth you will go away, names the lifeless body
+of Hector dumb earth. For he said somewhere against Achilles dragging the body
+of Hector after death:
+
+For you outrage dumb earth in your rage.
+
+And again somewhere else Menelaus saying to those who did not readily receive
+Hector's challenge about the single combat:
+
+But may you all become water and earth!
+
+through exceeding anger resolving them into the ancient formation from earth.
+These things Homer and Plato, having learned from the ancient histories in
+Egypt, have written in their own discourses.
+
+Since from where else having learned does Plato say Zeus drives a winged
+chariot in heaven, if not having met with the histories of the prophets? For
+he knew from the words of the prophet about the Cherubim said thus: And the
+glory of the Lord went out from the house and mounted upon Cherubim, and the
+Cherubim took up their wings, and the wheels next to them, and the glory of
+the Lord God of Israel was upon them from above. Starting from here the loud-
+voiced Plato shouts with much boldness, saying: The great Zeus indeed in
+heaven driving a winged chariot. Since from where else having learned has he
+written these things, if not from Moses and the prophets? And from where
+having taken the occasion did he also say God is in the fiery substance? Not
+from the third of the history of the Kingdoms, where it is written: The Lord
+was not in the wind; and after the wind an earthquake, the Lord was not in the
+earthquake; and after the earthquake fire, the Lord was not in the fire; and
+after the fire a voice of a thin breeze? But those things it is necessary for
+the religious to understand according to a higher sense with much
+contemplation; but Plato, not attending to the words with the fitting
+contemplation, said God is in the fiery substance.
+
+And if anyone should also wish to consider accurately about the gift coming
+down from above from God upon the holy men, which the sacred prophets name
+holy spirit, he would find this also proclaimed by Plato in the discourse to
+Meno under another
+
+name; for fearing to name the gift of God holy spirit, in order that he may
+not seem, following the teaching of the prophets, to be an enemy of Greeks, he
+confesses that it itself comes down from above from God, yet he thought it
+right to name it not holy spirit but virtue. For thus to Meno in the discourse
+about recollection, having first sought many things about virtue, whether
+virtue is teachable or not teachable but attainable by practice, or neither
+attainable by practice nor learnable but coming to men by nature or in some
+other way, later he declares in these very words thus: And if now we in all
+this discourse both sought and spoke well, virtue would be neither by nature
+nor teachable, but coming by divine portion without mind to those to whom it
+comes. These things, I think, Plato having clearly learned from the prophets
+about the holy spirit appears transferring into the name of virtue; for
+likewise as the sacred prophets say the one and the same spirit is divided
+into seven spirits, so also he himself, naming one and the same virtue, says
+this is divided into four virtues, nowhere wishing to mention the holy spirit,
+but through a certain allegory clearly announcing the things said by the
+prophets about the holy spirit. For thus toward the end of the discourse he
+said to Meno: From this reasoning, then, O Meno, virtue appears to us to come
+by divine portion to those to whom it comes; and we shall know this clearly
+from him, in what sort of way virtue comes to men, when we first attempt to
+seek it itself by itself, what virtue ever is. You see how he names the gift
+coming down from above virtue only; and he still thinks it worthy of seeking
+whether it is fitting to name it virtue or something else, fearing to name it
+openly holy spirit, in order that he may not seem to follow the teaching of
+the prophets.
+
+And from where having learned did Plato know that time has come to be with
+heaven? For thus he has written: Time, then, has come to be with heaven, in
+order that having come to be together they may also be dissolved together, if
+ever a dissolving of them comes to be. Has he not learned this also from the
+divine history of Moses? For he knew that the generation of time took the
+beginning of its constitution from days and months and years. As, then, the
+first day, which came to be with heaven, having furnished the beginning of all
+time (for thus Moses has written: In the beginning God made the heaven and the
+earth; then immediately he joins on saying: And there came to be day one, as
+signifying all time from a part), Plato names the day time, in order that he
+may not seem, mentioning day, as following the words of Moses in every way, to
+be accused among the Athenians. And from where having fancied also about a
+dissolving of heaven has he written thus? Has he not learned this also from
+the sacred prophets and thought it had been said by them thus?
+
+And if anyone should also examine the account about the images, from where
+starting the first who constructed your gods
+
+decided that they have forms of men, he will find they learned this also from
+the divine history. For the history of Moses saying from the person of God:
+Let us make man according to our image and likeness, as if it had been said
+thus that men are like God according to form, they began thus to construct
+their gods, thinking to craft the like from the like. For the sake of what was
+I led to mention these things now, O men of Greece? In order that you may know
+that it is not possible to learn the true religion from these who were not
+even able to write anything of their own in the things for which they were
+wondered at by those outside, but have announced in their own compositions
+through a certain allegory the things said by Moses and the remaining
+prophets.
+
+The time, then, has now come, O men of Greece, you having been persuaded from
+the histories outside that Moses and the remaining prophets have become by far
+the oldest of all those thought among you to have been wise, to stand off from
+the old error of your ancestors, and to meet with the divine histories of the
+prophets and to know from them the true religion, not announcing to you arts
+of words, nor speaking persuasively and for belief (for this is proper to
+those who wish to steal the truth), but using simply the names and words that
+come to hand, and announcing to you these things which the holy spirit that
+came down upon them has chosen to teach through them those who wish to learn
+the true religion. Therefore having thrust aside all shame and old error of
+men and the imaginary noise of the masses, through which you also think you
+have all enjoyment, hold to the things profitable for you. For there will be
+no offense from you even concerning your ancestors, if you now wish to turn to
+the opposite of the error from those, whom it is likely now in Hades,
+repenting a repentance after the season, to wail; to whom if it were possible
+from there to show you the things that have happened to them after the end of
+this life, you would know from how many evils they chose to deliver you. But
+now since it is not possible in the present either for you to learn from those
+or indeed from those here who profess to philosophize this falsely named
+philosophy, it will follow for you hereafter, having thrust aside the error of
+your ancestors, to meet with the prophecies of the sacred men, not asking from
+them distinction of phrasing (for the affairs of our religion are not in words
+but in deeds), and to learn from them the things that will be causes of
+eternal life for you. For those who vainly insult the name of philosophy are
+convicted of knowing nothing, as they themselves also are forced even
+unwillingly to confess, through the things in which they not only are at
+faction with one another, but also set out their own opinions now in one way,
+now in another.
+
+And if the finding of the true is said among them to be a certain definition
+of philosophy, how are those who have not obtained the true knowledge worthy
+of the name of philosophy? For if the wisest of the wise
+
+among you, Socrates, to whom also your oracle, as you yourselves say,
+testifies, saying:
+
+Of all men Socrates is wisest,
+
+confesses he knows nothing, how did those after him profess even to know the
+things in the heavens? For Socrates said he himself had been called wise for
+this, that of the remaining men pretending to know the things they do not know
+he himself did not shrink from confessing he knew nothing. For he said thus: I
+seem then to be wiser than him in this small thing, that the things I do not
+know I do not even think I know. And let no one think Socrates, speaking
+ironically, pretends ignorance, since he is often accustomed to do this in the
+dialogues; for the last saying of the apology, which he said going off to the
+prison, shows him confessing the ignorance with seriousness and truth. For he
+said thus: But already it is the hour to go away, for me to die, and for you
+to live. And which of us go to the better thing is unclear to all except to
+God. But Socrates, having sent forth this last voice in the Areopagus, set out
+to the prison, referring the knowledge of the things unclear among us to God
+alone, but those after him, not even able to know the things on earth, profess
+to know the things in the heavens as having seen them. Aristotle at any rate,
+as having seen the things in the heavens more accurately than Plato, does not
+say as Plato that God is in the fiery substance (thus he himself also said),
+but declared that he is in the aetherial fifth element. And thinking himself
+worthy to be believed about these things because of distinction of phrasing,
+not even being able to know the nature of the Euripus that is in Chalcis,
+being grieved through much ill-repute and shame he departed from life. Let no
+one, then, of those who think well think the fluency of these prior to his own
+salvation, but according to that old history, having fenced the ears with wax,
+let him flee the sweet harm that troubles from their Sirens; for the men
+already named, holding forth fluency as some bait, have chosen to lead many
+away from the right religion, imitating the one who dared to teach the first
+men polytheism. I think it right that you not be persuaded by these, but meet
+with the prophecies of the sacred men. And if any hesitation or old
+superstition of your ancestors still prevents you from meeting with the
+prophecies of the holy men, through which it is possible for you to learn that
+there is one and only God, which is the first mark of the true religion, be
+persuaded at any rate by Orpheus, who first taught you polytheism, but later
+chose to sing a profitable and necessary palinode, having said the things I
+wrote a little before, and be persuaded also by the rest who have written the
+same things about one God. For it has come to be a work of divine providence
+on your behalf that even unwillingly these testify that the things said by the
+prophets about one God are true, in order that the account of polytheism being
+set aside by all may furnish you an occasion of the true knowledge.
+
+And it will be easy for you to learn the right religion in part from the old
+Sibyl, teaching you from a certain powerful inspiration through oracles these
+things which seem to be near the teaching of the prophets. And they say she
+started from Babylon, being daughter of Berossus who wrote the Chaldean
+history, and having crossed I know not how into the parts of Campania she
+declared the oracles there in a city so called Cumae, standing six signs
+distant from Baiae, where the hot things of Campania happen to be. And we,
+having been in the city, also beheld a certain place, in which we knew a very
+great basilica hewn from one stone, a very great thing and worthy of all
+wonder, where those who had received them as ancestral things from their own
+ancestors said she announced the oracles. And in the middle of the basilica
+they showed us three basins hewn from the same stone, of which, being filled
+with water, they said she washed in them, and taking a robe she walked into
+the innermost house of the basilica hewn from the same stone, and sitting in
+the middle of the house upon a high platform and throne thus declared the
+oracles. And of this Sibyl as a prophetess many other of the writers also make
+mention, and Plato in the Phaedrus. And it seems to me Plato, having met with
+her oracles, deifies the prophetesses; for he saw the things long ago said
+beforehand by her being fulfilled in deeds. And for this reason having
+wondered, in the discourse to Meno praising the prophetesses in these very
+words he has written thus: Rightly then we would call them divine, whom we now
+indeed call prophetesses; not least we would say these both are divine and are
+inspired, being breathed upon and possessed from God, whenever they succeed in
+saying many and great things, knowing nothing of the things they say; clearly
+and openly looking to the oracles of the Sibyl. For she did not, as the poets
+even after writing the poems, have authority to correct and polish especially
+because of the accuracy of the metres, but in the time of the inspiration she
+fulfilled the things of the prophecy, and when the inspiration ceased the
+memory of the things said also ceased. This, then, is the cause that not all
+the metres of the verses of the Sibyl are preserved. For we ourselves, having
+been in the city, have learned from the guides, who both showed us the places
+in which she prophesied and a certain bronze jar, in which they said her
+remains were preserved. And they said along with all they narrated also this,
+as having heard from the ancestors, that those who took down the oracles then,
+being outside education, missed the accuracy of the metres in many places; and
+they said this was the cause of the unmetrical character of some verses, the
+prophetess because of the ceasing of the possession and of the inspiration not
+remembering the things said, and the scribes through lack of education having
+fallen out of the accuracy of the metres. For this reason, then, Plato
+
+looking to the oracles of the Sibyl is clearly to have said this about the
+prophetesses. For he spoke thus: Whenever they succeed in saying many and
+great things, knowing nothing of the things they say.
+
+Nevertheless, since, O men of Greece, the affairs of the true religion are not
+in poetic metres nor in the education well-reputed among you, leaving off
+hereafter the accuracy of metres and words, attending without love of
+contention to the things said by her, know of how many good things she will be
+cause for you, clearly and openly proclaiming beforehand the arrival of our
+savior Jesus Christ; who, being Word of God uncontained in power, having taken
+up the man formed according to the image of God and likeness, reminded us of
+the religion of our ancient ancestors, which the men who came to be from them,
+having left it by teaching of an envious demon, turned to the worship of those
+who are not gods. And if any hesitation of faith about the formation of man
+troubles you, be persuaded by these to whom you still think it necessary to
+attend, and know that the oracle among you, having been asked by someone to
+give out a hymn of the almighty God, spoke thus in the middle of the hymn:
+
+Who first having formed of mortals, and having called him Adam.
+
+And this hymn happens to be preserved among many of whom we know for
+conviction of those who are unwilling to be persuaded by the truth testified
+by all. If, then, O men of Greece, you do not think the false fancy about the
+gods who are not more honorable than your own salvation, be persuaded, as I
+said, by the most ancient and very old Sibyl, whose books happen to be
+preserved in all the inhabited world, teaching you from a certain powerful
+inspiration through oracles about the so-called gods as not being, and clearly
+and openly proclaiming beforehand about the presence of our savior Jesus
+Christ that was going to be and about all the things that were going to come
+to be by him; for the knowledge of these things will be a necessary
+preparatory exercise for you of the prophecy of the sacred men. And if anyone
+should think he has learned the account about God from the oldest named
+philosophers among them, let him hear Ammon and Hermes; Ammon in the
+discourses about him naming God all-hidden, and Hermes clearly and openly
+saying: To think God is hard, and to speak is impossible, even for him for
+whom it is possible to think. From every side, then, it is fitting to know
+that it is in no way possible otherwise to learn about God or about the right
+religion than from the prophets alone, who teach you through the divine
+inspiration.
+
+Of Tatian to the Greeks.
+
+Do not be disposed altogether in a love of enmity toward the barbarians, O men
+of Greece, nor begrudge their dogmas. For what practice among you did not get
+its constitution from barbarians? For the most approved of the Telmessians
+found out the divination through dreams, Carians the foreknowledge through the
+stars, flights of birds Phrygians and the most ancient of the Isaurians,
+Cyprians sacrifice-divination, to astronomize Babylonians, to do magic
+Persians, to geometrize Egyptians, the education through letters Phoenicians.
+Therefore cease calling the imitations discoveries. For Orpheus taught you to
+practice poetry and to sing, and the same also to be initiated; Tuscans to
+mold, to compose histories the records of the times among the Egyptians. And
+from Marsyas and Olympus you carried off the art of the flute; and Phrygians
+the both; the harmony through the pipe rustics constituted. Tyrrhenians the
+trumpet, Cyclopes to work bronze, and to compose letters the woman who once
+led the Persians, as Hellanicus says; and Atossa was her name. Throw down,
+therefore, this conceit, and do not put forward seemliness of words, you who
+being praised by yourselves have obtained advocates at home. And the one who
+has mind must wait for the testimony from others, and agree even in the
+utterance of the word. But now it has come about for you alone not even to
+speak with one voice in conversations. For the speech of Dorians is not the
+same as those from Attica, and Aeolians do not sound like Ionians; and there
+being so much faction among those among whom it ought not, I am at a loss whom
+I must call Greek. For even the most out-of-place thing, you have honored
+interpretations not akin to you, and sometimes abusing barbarian voices you
+have made your dialect a mixture. For this reason we have bid farewell to the
+wisdom among you, even if someone was very solemn in it. For according to the
+comic poet these things are leftover grapes and chatterings, museums of
+swallows, spoilers of art, and those who go after this gasp and send forth a
+voice of crows. For you constituted rhetoric for injustice and sycophancy,
+selling for pay the self-authority of your words and often presenting what is
+now just as again not good; and poetry, in order that you may compose battles
+of gods and loves and corruption of soul.
+
+For what solemn thing have you brought forth philosophizing? And who of those
+very serious has stood outside of boastfulness? Diogenes, being solemn in
+self-sufficiency by the boast of a jar, having been seized by a passion
+through raw-eating of octopus, has died of ileus through incontinence.
+Aristippus walking about in purple lived dissolutely with a show of
+trustworthiness. Plato philosophizing was sold by Dionysius because of
+gluttony. And Aristotle, having set a limit to providence ignorantly and
+having circumscribed happiness in the things in which he was pleased, very
+uneducatedly flattered Alexander the mad youth, who very Aristotel
+
+ically shut up his own friend because he was unwilling to do obeisance to him
+and carried him about like a bear or a leopard. He was very much persuaded, at
+any rate, by the dogmas of the teacher, displaying courage and virtue in
+drinking-bouts and piercing his own and very dearest with the spear and again
+weeping and starving himself on a pretext of grief, in order that he may not
+be hated by his own. And I would laugh also at those who until now abuse his
+dogmas, who saying the things after the moon are unprovided-for, being nearer
+the earth than the moon and lower than her course, provide for the unprovided-
+for; and among whom there is not beauty, not wealth, not strength of body, not
+good birth, among these according to Aristotle there is not the happy. And let
+such philosophize.
+
+For I would not accept Heraclitus saying I taught myself, because of being
+self-taught and proud, nor would I praise him for hiding the poetry in the
+temple of Artemis, in order that later the giving-out of it might come to be
+mysteriously. For those who care about these things say Euripides the
+tragedian, going down and reading, handed over the Heraclitean darkness to the
+serious little by little through memory. The death of this one, then,
+convicted his ignorance; for having been seized by dropsy and practicing
+medicine as philosophy, and having plastered himself with cow-dung, the dung
+having hardened and having worked contractions of the whole body, he died in
+spasm. For Zeno, declaring through the conflagration that the same rise again
+upon the same, I mean Anytus and Meletus upon accusing, and Busiris upon
+killing strangers and Heracles again upon laboring, is to be declined; who in
+the account according to the conflagration introduces the wicked more than the
+just, Socrates one and Heracles and certain others such, few and not many
+having come to be. For the bad will be found very more than the good, and God
+will be shown according to him a maker of evils, occupying himself in sewers
+and worms and doers of unspeakable things. For the boastfulness of Empedocles
+the blowings of fire according to Sicily showed, that not being a god he lied
+in this which he said he was. I laugh also at the old-wives' talk of
+Pherecydes and the inheritance of Pythagoras about the dogma and of Plato,
+even if some are unwilling, the imitation about these. For who would bear
+witness to the dog-marriage of Crates, and not rather, having declined the
+conceited tongue-madness of those like him, turn to seeking what is serious
+according to truth? Therefore let not the panegyrics of the blame-lovers and
+not philosophers drag you aside, who dogmatize things contrary to themselves,
+and each has cried out according to what came. And there are also many
+collisions among them; for one hates the other, and they hold opposite
+opinions to themselves through boast
+
+fulness, choosing places *** the foremost. And it was necessary not even to
+flatter the leaders by a prejudice of kingship, but to wait until the magnates
+come to them.
+
+For why, men of Greece, do you wish as in a boxing-match to clash the
+constitutions against us? And if I do not wish to use the customs of certain
+people, for whose sake am I hated as most defiled? The king orders to pay
+tributes, I am ready to furnish. The master to be a slave and to serve, I know
+the slavery. For the man is to be honored humanly, but God alone is to be
+feared, who is not visible to human eyes, not graspable by art. Ordered to
+deny this one alone I will not be persuaded, but I will rather die, in order
+that I may not be shown a liar and ungrateful. The God according to us does
+not have constitution in time, being alone without beginning and himself being
+beginning of the wholes. God is spirit, not going through through the matter,
+but constructor of material spirits and of the figures in it, both invisible
+and intangible, himself having become father of sensibles and visibles. This
+one we know through his making, and we grasp the invisible of his power by the
+things made. I do not wish to worship the craftsmanship that has come to be by
+him for our sake. Sun and moon have come to be through us; then how shall I
+worship my servants? And how shall I declare woods and stones gods? For the
+spirit that goes through the matter, being less than the more divine spirit,
+and as being like a soul, is not to be honored equally with the perfect God.
+But neither is the unnameable God to be bribed; for the one without need of
+all is not to be slandered by us as in need. And I will set out our things
+more openly.
+
+God was in the beginning, and the beginning we have received as power of word.
+For the master of the wholes, himself being the substance of the all,
+according to the making not yet having come to be was alone; but inasmuch as
+all power of visibles and invisibles he himself was substance with himself, he
+himself and the Word, who was in him, substantiated all things with himself
+through rational power. And by will of his simplicity Word springs forth; and
+the Word, not having gone according to a void, becomes first-born work of the
+Father. This one we know as the beginning of the world. And he has come to be
+according to a partition, not according to a cutting-off; for what has been
+cut off has been separated from the first, but what has been partitioned,
+having taken on the division of an economy, has not made the one from whom it
+has been taken in need. For as from one torch many fires are kindled, and the
+light of the first torch is not lessened through the lighting of the many
+torches, so also the Word having gone forth from the power of the Father has
+not made the one who begot him without word. For I myself also speak, and you
+hear; and I do not, I suppose, through the transfer of the word become empty
+of the word as the one conversing, but putting forth my own voice I have
+chosen to
+
+order the unordered matter in you, and just as the Word having been begotten
+in the beginning generated in turn the making according to us for himself,
+having crafted the matter, so also I having been begotten again according to
+the imitation of the Word and having made the grasp of the true, I re-rhythm
+the confusion of the kindred matter. For neither is the matter without
+beginning as also God, nor because of the without-beginning is it itself of
+equal power with God, but generated and not having come to be by another, but
+having been put forth only by the craftsman of all.
+
+And for this reason we have also believed there will be a resurrection of
+bodies after the completion of the wholes, not as the Stoics dogmatize of the
+same things always coming to be and passing away according to certain periods
+of cycles for no useful thing, but once our ages having been limited, the
+constitution will be to the complete through men alone for the sake of
+judgment. And Minos and Rhadamanthys do not judge us, of whom before the end
+no soul, as they mythologize, was judged, but the maker God himself becomes
+examiner. For even if you think us altogether babblers and seed-pickers, it is
+no care to us, since we have believed this word. For as not being before I
+came to be I did not know who I was, but existed only in substance of the
+fleshly matter, and having come to be I who was not long ago have believed the
+being through the generation; in the same way the one who has come to be and
+through death no longer being and again no longer being seen I will be again,
+just as not having come to be long ago then having been begotten. And if fire
+should make my little flesh vanish, the world has contained the matter
+evaporated; and if I should be spent in rivers or in seas or torn by beasts, I
+am stored in treasuries of a rich master. And the poor and godless one does
+not know the things stored, but God who is king, when he wishes, will restore
+the substance visible to him alone toward the ancient.
+
+For the heavenly Word, having become spirit from the Spirit and word from
+rational power, according to the imitation of the Father who begot him made
+man an image of the immortality, in order that, as the incorruption is with
+God, in the same way man, having shared a portion of God, may have also the
+immortal. The Word, then, before the construction of men becomes craftsman of
+angels, and each form of the making has come to be self-authoritative, not
+having the nature of the good, which *** except only with God, but being
+completed by men by the freedom of choice, in order that the worthless may
+justly be punished, having become wicked through himself, and the just for the
+sake of the brave deeds may be praised worthily, according to the self-
+authority not having transgressed the will of God. And the things about the
+angels and men have this way; and the power of the Word having with itself the
+foreknowing *** what is going to turn out
+
+not according to fate but by the self-authoritative judgment of those who
+choose, used to tell beforehand the outcomes of the things going to be, and
+became a hinderer of wickedness through prohibitions, and an encomiast of the
+remaining good things. And when men and angels followed along with one being
+more prudent than the rest because of being first-born and showed as god the
+one rising up against the law of God, then the power of the Word declined both
+the one who began the madness and those who followed along with this one from
+the way of life with him. And the one who had come to be according to the
+image of God, the more powerful spirit having been separated from him, becomes
+mortal; and through the transgression and the ignorance the first-born is
+shown a demon, and those who imitated this one, and the appearances of this
+one have turned out a camp of demons, and through the self-authority they were
+given over to their own silliness.
+
+And men become a hypothesis of the apostasy for them. For having shown them a
+diagram of star-placing, as those who play with dice, they introduced fate
+very unjust. For both the one judging and the one judged have come to be
+according to fate, and those who murder and those who are murdered and those
+who are rich and those who are poor are offspring of the same fate, and every
+generation as in a theater furnished delight to these, among whom, as Homer
+says,
+
+And unquenchable laughter arose among the blessed gods.
+
+For those who look at the single-fighters and one being eager for the other
+[gap] and the one marrying and corrupting children and committing adultery,
+both
+laughing and being angry, both fleeing and being wounded, how will he not be
+thought to be mortal? For through the things by which they have shown
+themselves to men of what sort they have been born, through these they urged
+the hearers to the like. And do not the demons themselves with Zeus who leads
+them fall under fate, being mastered by the same passions as also men? And
+otherwise how are these to be honored among whom there is much opposition of
+dogmas? For Rhea, whom those from the Phrygian mountains call Cybele, has
+legislated cuttings of private parts because of her beloved Attis; but
+Aphrodite is pleased with plaitings of marriage. Artemis is a magician, Apollo
+heals. And after the beheading of the Gorgon, the beloved of Poseidon, from
+whom the horse Pegasus and Chrysaor sprang up, Athena and Asclepius divided
+the drops of the bloods; and he from them saved, and she from the like gore
+became man-killing, the war-maker. This one, it seems to me, the Athenians,
+not wishing to slander, attach also the one coming to be from the mixing of
+Hephaestus to Earth, in order that it may not be thought that as Atalanta
+through Meleager, so also Athena through Hephaestus has been deprived of
+manliness. For the lame in both, as is likely, crafting pins and bent coils,
+
+deceived with girl-ornaments the motherless and orphan child. Poseidon sails,
+Ares is pleased with wars, Apollo is a lyre-player, Dionysus tyrannizes
+Thebans, Cronus kills tyrants. Zeus even comes together with a daughter, and
+the daughter conceives from him. Eleusis will now testify to me, and the
+mystic serpent, and Orpheus saying shut the doors upon the profane. Aidoneus
+snatches Kore, and his deeds have become mysteries; Demeter weeps for her
+daughter, and some are deceived because of the Athenians. In the precinct of
+the son of Leto someone called a navel is called; and the navel is a tomb of
+Dionysus. I praise you now, O Daphne; having conquered the incontinence of
+Apollo you convicted his prophetic art, because not having foreknown the
+things about you he did not benefit from his own art. Let the far-shooter tell
+me now how Zephyrus used up Hyacinthus. Zephyrus has conquered him; and the
+tragedian saying breeze most honored vehicle of gods, having been conquered by
+a short breeze he lost the beloved.
+
+Such are these demons who defined fate. And their element-placing was the
+making-alive. For the creeping things on the earth and the swimming things in
+the waters and the four-footed on the mountains, with whom they made their way
+of life having become thrown out of the way of life in heaven, these they
+thought worthy of the heavenly honor, in order both that they themselves may
+be thought to spend time in heaven and that they may show the irrational
+constitution on earth rational through the star-placing. So that the
+passionate and the laborious and the self-controlled and the incontinent and
+the one being poor and the one being rich is of those who legislated the
+generation. For the writing of the zodiac circle is a making of gods, and the
+one that prevailed, as they say, the light of one of them awards against the
+more, and the one now conquered is accustomed to prevail again later; and the
+seven planets please them *** as those playing at pebbles. But we are both
+above fate and instead of wandering demons have learned one unwandering
+master, and not being led according to fate we have declined the legislators
+of this. Tell me before God: Triptolemus sowed the wheats, and after the grief
+Demeter benefits the Athenians; and why, her daughter not having perished, did
+she not become benefactress of men? The dog of Erigone is shown in heaven and
+the scorpion the helper of Artemis and Chiron the Centaur and the half-cut
+Argo and the bear of Callisto; then how before these came to be about the
+aforesaid orders was the heaven unordered? And to whom will it not seem
+laughable the Deltoton star-placed according to some because of Sicily, but
+according to some as a first-type element of the additional name of Zeus? For
+why have not also Sardinia and Cyprus been honored in heaven? And for whose
+sake have not also of the brothers of Zeus, who divided the
+
+kingships, *** been star-placed by a figure-working of letters? And how is
+Cronus who was bound and became thrown out of the kingship established as
+steward of fate? And how does the one no longer being king give kingships?
+Throw down, therefore, the nonsense, and do not, because of hating us, act
+unlawfully unjustly.
+
+A metamorphosis has been mythologized for men; and among you the gods also are
+metamorphosed. Rhea becomes a tree, and Zeus a serpent because of Persephone,
+and poplars the sisters of Phaethon, and Leto a cheap animal, because of whom
+Delos is now called Ortygia. A god, tell me, becomes a swan and takes on the
+form of an eagle and is solemn in the pederasty because of the cup-bearing of
+Ganymede? Why should I worship gods who take gifts and are angry if they do
+not receive? Let these have fate; I do not wish to worship the planets. Who is
+the lock of Berenice? And where were her stars before the aforesaid died? And
+how has the dead Antinous, a fair youth, been established in the moon? Who is
+the one who brought him up, unless someone, as for the kings, for pay through
+perjury, mocking God, having said he has gone up into heaven, has been
+believed, and having theologized in the like way has been thought worthy of
+honor and gift? Why have you robbed my God? And why do you dishonor his
+making? You sacrifice a sheep, and you also worship the same; there is a bull
+in heaven, and you slaughter the image of it. A wicked animal the one On his
+Knees squeezes out; and the eagle that ate Prometheus the man-maker has been
+honored. Fair is the swan, because he was an adulterer; and fair also the
+Dioscuri of alternate days, the snatchers of the daughters of Leucippus.
+Better is Helen, having left Menelaus of the tawny head, and having followed
+the mitre-wearing and much-golden Paris. Just and temperate also the one who
+transferred the woman who had gone to prostitution into Elysian plains. But
+not even the daughter of Tyndareus has been made immortal, and wisely
+Euripides introduced the taking-away of the aforesaid woman by Orestes.
+
+How, then, shall I accept a generation according to fate, seeing such stewards
+of it? I do not wish to be king, I do not want to be rich, I have declined the
+generalship, I have hated prostitution, I do not practice sailing because of
+greed, I do not contend to have crowns, I have been delivered from glory-
+madness, I despise death, I become above every sort of disease, grief does not
+spend my soul. If I am a slave, I endure the slavery; and if I am free, I am
+not solemn in the good birth. I see the sun the same of all, and one death
+according to all through pleasure and defect. The rich sows, and the poor
+shares in the same sowing; the richest die and those who beg have the same
+circumscription of life. Those who are rich need more, and through
+trustworthiness
+
+with the glory they become; but a poor man and the most moderate, aiming at
+the things according to himself, comes through more easily. Why do you stay
+awake according to fate because of love of money? And why according to fate,
+often reaching, do you often die? Die to the world, declining the madness in
+it; live to God through the grasp of him, declining the old generation. We did
+not come to be toward dying, but we die through ourselves. The self-authority
+destroyed us; we who were free have become slaves, we were sold through the
+sin. Nothing worthless has been made by God, we showed the wickedness; and
+those who showed it are able again to decline it.
+
+We know differences of two spirits, of which the one is called soul, and the
+other greater than the soul, and image and likeness of God; and both existed
+among the first men, in order that they may be in one respect material, and in
+another above the matter. And it is thus. It is possible to see all the
+construction of the world and the whole making having come to be from matter,
+and the matter itself having been put forth by God, in order that one part of
+it may be thought without passage and unfigured before taking a distinction,
+and the other ordered and well-arranged after the division in it. There is,
+then, in it the heaven from matter and the stars in it; and the earth also and
+everything made alive from it has the like constitution, so that there is a
+common generation of all. And these being thus, there are certain differences
+of the things from matter, so that one thing is more beautiful, and another
+also itself beautiful, except being lessened by something better. For as the
+constitution of the body is of one economy, and about it is the cause of
+having come to be, and these being thus there are certain differences of glory
+in it, and one thing is an eye, another an ear, another an ordering of hairs
+and an economy of inwards and a compacting of marrows and bones and sinews,
+and the one being different from the other according to economy is a harmony
+of agreement; similarly also the world according to the power of the one who
+made it, having obtained some things more bright, some unlike these, by will
+of the spirit that crafted it has shared in material. And the things according
+to each it is possible to understand for the one who does not vain-gloriously
+reject the most divine interpretations, which having been proven through
+writing according to time have made those who attend to them very dear to God.
+Nevertheless even the demons, whom you so name, having taken a compacting from
+matter and having obtained the spirit from it have become unsparing and
+greedy, some of them having turned to the cleaner, others having chosen the
+lesser of the matter and constituting themselves according to the like to it.
+And these, men of Greece, you worship, having come to be from matter, but
+found far from the good order. For the aforesaid, having turned by their own
+silliness toward being vain-glorious and having thrown off the reins, were
+eager to become robbers
+
+of divinity; and the master of the wholes allowed them to revel until the
+world, having taken an end, is dissolved, and the judge is present, and all
+men, being sent forth through the rising-up of the demons from the knowledge
+of the perfect God, may receive a more perfect testimony through the contests
+in a day of judgment. There is, then, spirit in light-bringers, spirit in
+angels, spirit in plants and waters, spirit in men, spirit in animals; and
+being one and the same it has obtained differences in itself. And we saying
+these things not from tongue nor from the likelies nor from thoughts and
+sophistic composition, but using words of a more divine utterance, which those
+who wish, hasten to learn; and you who do not reject the Scythian Anacharsis,
+now also do not think it unworthy to be educated among those who follow
+barbarian legislation. Use our dogmas even as the foreknowing according to the
+Babylonians; hear us speaking even as an oak prophesying. And the things
+already said are counter-sophisms of deranged demons, but the things of our
+education are above the cosmic grasp.
+
+The soul, men of Greece, is not immortal by itself, but mortal; but it is able
+also not to die. For it dies and is dissolved with the body not knowing the
+truth, and it rises later at the completion of the world with the body,
+receiving death through punishment in immortality; and again it does not die,
+even if it is dissolved for a time, having made the recognition of God. For by
+itself it is darkness, and there is nothing bright in it, and this then is
+what has been said: the darkness does not grasp the light. For the soul itself
+did not save the spirit, but was saved by it; and the light grasped the
+darkness, in which Word is the light of God, and darkness the unknowing soul.
+For this reason dwelling alone it inclines down toward the matter, dying
+together with the flesh, but having obtained a yoking of the divine spirit it
+is not without help, but it goes up to the places to which the spirit leads
+it; for of the one the dwelling is above, and of the other the generation is
+from below. The spirit, then, came to be from the beginning dwelling-together
+with the soul; but the spirit has left this one not wishing to follow it. And
+the soul, as having obtained a spark of its power and through the separation
+not being able to see the complete things clearly, seeking God according to
+wandering typed many gods, following the demons who counter-sophisticate. And
+the spirit of God is not with all, but dwelling with certain who constitute
+themselves justly and being entwined with the soul it announced through
+proclamations-beforehand to the remaining souls the hidden;
+
+and those persuaded by the wisdom drew to themselves the kindred spirit, and
+those not persuaded and declining the servant of the God who suffered appeared
+fighters against God rather than religious.
+
+Such also are you, O Greeks, fluent in words, but having a strange judgment,
+and you practiced the rule of many rather than the monarchy, thinking to
+follow the demons as strong. For as the one who robs, being inhuman, is
+accustomed through daring to prevail over the like, so also the demons, having
+run aground into much wickedness, have deceived the isolated souls among you
+through ignorances and fancies. Who die not easily, for they are without share
+of flesh; but living they practice deeds of death, themselves also dying as
+often as they educate those who follow them in the sins, so that what is extra
+for them in the now, not dying like men, this whenever they are going to be
+punished is bitter for them *** they will not share in eternal life instead of
+death, taking a share in immortal. And as we, for whom dying turns out easy
+now, later receive either the immortal with enjoyment or the painful with
+immortality, so also the demons, abusing the now life toward offending through
+all and dying through the living, will later have the same immortality like
+that of the time in which they lived, according to the constitution like men
+who according to judgment practiced the things which they have legislated for
+them in the time in which they lived. And perhaps for those who follow them
+the forms of the sin bloom less because of not living for a long time, but for
+the aforesaid demons the offending has turned out greater because of the
+unlimited of the lifetime.
+
+And it is necessary hereafter that we seek this which having we have lost, and
+yoke the soul to the holy spirit and work the yoking according to God. The
+soul of men, then, is many-parted and not one-parted. For it is composite, so
+that it is apparent through a body; for neither would it itself ever appear
+without a body nor does the flesh rise without soul. For man is not, as the
+crow-voiced dogmatize, a rational animal receptive of mind and knowledge; for
+according to them the irrational also will be shown receptive of mind and
+knowledge; but man alone is image and likeness of God, and I say man not the
+one doing things like the animals, but the one who has gone far from the
+humanity toward God himself. And about this we have composed more accurately
+in the On Animals, but the thing now holding must be said, of what sort the
+image and likeness according to God is. The incomparable is nothing other than
+the being itself, and the compared is nothing other than the similar.
+Fleshless, then, is the perfect God, but man is flesh; and bond of the flesh
+is soul, and holding of the soul is the flesh. And such a form of the
+constitution, if it should be as a temple, God wishes to dwell in it through
+the ambassador
+
+spirit; and such not being the tent, man exceeds the beasts according to the
+articulated voice only, and the remaining things are of the same way of life
+as those, not being a likeness of God. And all demons have not obtained little
+flesh, but their compacting is spiritual as of fire and air. At any rate only
+to those guarded by spirit of God are even the bodies of the demons easy to
+see together, but to the rest in no way, I mean to the psychic. For the lesser
+does not have strength to make a grasp of the better. For this reason, at any
+rate, the substance of the demons does not have a place of repentance. For
+they are radiances of the matter and of wickedness, and matter wished to have
+authority over the soul; and according to the self-authority some have handed
+down laws of death to men; but the men after the throwing-away of the
+immortality have conquered death by the death through faith, and through
+repentance a calling has been given them according to the word that said:
+since they were lessened a little beside angels. And it is possible for every
+one who has been conquered to conquer again, declining the constitution of the
+death; and what this is will be easy to see together for men who wish the
+immortal.
+
+And the demons who order men are not the souls of men. For how would they
+become active even after dying apart, unless the man living should become
+mindless and powerless, and having become dead should thereafter be believed
+to take a share of a more active power? But neither is this so, as we
+demonstrated in other places, and it is hard to think the immortal, being
+hindered by the parts of the body, becomes more prudent whenever it migrates
+from it. For demons, reveling in men by their own bad character, by varied and
+lied dramaturgies turn aside their judgments that have inclined down, in order
+that they may be unable to be raised toward the journey in the heavens. But
+neither have the things in the world escaped us, and the divine of the one
+that immortalizes the souls *** having come to you will be easy to grasp for
+you.
+
+And the demons are seen even by the psychic, sometimes showing themselves to
+those men, in order both that they may be thought to be someones or also may
+harm some as enemies, being bad friends in judgment, or may furnish the
+occasions of the worship toward them to those like them. For if it were
+possible for them, they would altogether have dragged down even the heaven
+together with the remaining making; but now they do this in no way; for they
+are unable; but with the matter below they war toward the matter like them.
+And if anyone should wish to conquer these, let him decline the matter; for
+having been armed with a breastplate of heavenly spirit he will be able to
+save all that is contained by it. There are, then, both diseases and factions
+of the matter in us; but demons themselves, whenever they happen, assign the
+
+causes of these to themselves, coming upon whenever toil takes hold. And there
+is a time when they themselves also by a storm of their own silliness shake
+the condition of the body; who, being struck by a word of power of God, go
+away fearing, and the one who is ill is healed.
+
+For about the sympathies and antipathies according to Democritus what even do
+we have to say except this, that according to the common word the man from
+Abdera is an Abdera-talker? And as the one who was cause of the appellation to
+the city, being a friend, as they say, of Heracles, was eaten by the horses of
+Diomedes, in the same way also the one who boasts the magician Ostanes will in
+a day of completion be given over to a feeding of eternal fire. And you also,
+if you do not cease from the laughter, will enjoy the same punishments as also
+the sorcerers. Therefore, O Greeks, hear me crying as from the height, and do
+not, mocking, transfer your unreasonableness upon the herald of the truth. A
+passion is not something destroyed through antipathy, nor is the madman healed
+by hangings of little hides. There are visitations of demons; and the one who
+is ill and the one who says he loves and the one who hates and the one who
+wishes to defend himself take these as helpers. And the manner of their device
+is this. For as the characters of the letters and the lines from them are not
+by themselves able to signify the thing composed, but men have crafted for
+themselves signs of the thoughts, knowing according to their qualitative
+composition how also the order of the letters has been legislated to have,
+similarly also the varieties of roots and takings-along of sinews and bones
+are not themselves by themselves some active things, but it is an element-
+placing of the wickedness of the demons, who toward the things for which they
+have defined each of them to have strength, whenever they see the service
+through them taken along by men, taking it that the men are serving themselves
+they work. And how would it be good to serve adulteries? And how also serious
+to help toward hating some who come by? Or how is it beautiful to attach to
+matter the help toward the mad and not to God? For by an art of the religion
+they turn men aside, preparing them to be persuaded by herbs and roots; and
+God, if he had constructed these toward doing the things men wish, would have
+been a craftsman of wicked affairs, since he himself crafted everything that
+is well somehow, but the unsparingness of the demons used the things in the
+world toward doing evil, and of these is the form of the wickedness and not of
+the perfect God. For how would I, living, be least wicked, and when I am dead
+a remnant, the thing in me doing nothing of me, that which is not even moved
+nor even perceiving, work something perceptible? And how will the one who has
+died by a most pitiable death be able to serve toward punishment of someone?
+This
+
+for if it should be so, much more from himself he will defend against his own
+enemy; for being able to help also others he will much more be established an
+avenger of himself.
+
+And pharmacy and every form in it is of the same devising. For if someone is
+healed by the matter, believing it, he himself will rather be healed attending
+to power of God. For as the harmful things are material compositions, in the
+same way also the healing things are of the same substance. And if we decline
+the more worthless matter, often also through an entanglement upon another of
+some of the evils some practice to heal and they will abuse even the evils
+toward the good. And as the one who dined with the one who robs, even if he
+himself is not a robber, nevertheless because of having been feasted together
+takes a share of punishment, in the same way also the one who is not bad but
+having been mixed with the worthless having used it together toward the
+thought-to-be beautiful will be punished by the God who judges this one
+because of the communion toward him. For why does the one who believes an
+economy of matter not wish to believe God? And for whose sake do you not come
+to the more powerful master, but rather heal yourself as the dog through herb,
+and the deer through a viper, and the pig through the crabs in rivers, and the
+lion through the apes? And why do you make gods of the things in the world?
+And why healing the neighbor are you called a benefactor? Follow along with
+power of word; the demons do not heal, but by art they take men captive; and
+the most wonderful Justin rightly cried out that the aforesaid are like
+robbers. For as it is custom for those to take some alive, then restore the
+same for pay to their own, so also the thought-to-be gods, visiting the limbs
+of certain people, then through dreams working the glory toward themselves and
+having ordered such to go forth publicly of all seeing, whenever they enjoy
+the encomia, flying away from those who are ill, circumscribing the disease
+which they worked, restore the men to the ancient.
+
+And you, not having the grasp of these things, are educated from us who know,
+[gap] saying to despise death and to practice the self-sufficiency. For the
+philosophers among you are so far from the practice that some take from the
+king of the Romans six hundred gold pieces yearly for nothing useful except
+that they may not even have the beard hanging down as a gift. Crescens, at any
+rate, who nested in the great city, surpassed all in pederasty, and was very
+attached to love of money. And the one who despises death so himself feared
+death that he even worked to throw Justin around, as also me, with death as an
+evil, because proclaiming the truth he convicted the philosophers as greedy
+and deceivers. And whom would it have been necessary for the philosopher to
+pursue if not only
+
+you? Therefore if you say one must not fear death, sharing our dogmas do not
+die because of the human glory-madness, as Anaxarchus, but become despisers of
+the death for the sake of the knowledge of God. For the construction of the
+world is beautiful, but the constitution in it is worthless; and as at a
+panegyric it is possible to see those who do not know God being theater-made.
+For what is divination? And why have you been deceived by it? It is a servant
+of the greeds in the world. You wish to war and you take Apollo as counselor
+of the murders; you wish to snatch a girl and you choose the demonic to
+contend with you; you are ill through yourself and, as Agamemnon ten
+counselors, you wish gods to be with yourself. Someone drinking water is mad
+and through frankincenses becomes out of mind, and you say such a one
+prophesies. Apollo was a foreknower and teacher of those who inquire; upon
+Daphne he lied himself. An oak, tell me, prophesies and again birds proclaim
+beforehand, and you are less than the animals and plants? It is beautiful then
+for you to become a prophetic wood and to take the flight of those that go
+through air. The one who makes you a lover of money, this one also prophesies
+to you about being rich; the one who raises factions and battles also
+proclaims beforehand about the victory in war. If you are above the passions,
+you will despise all the things in the world. Do not utterly hate us being
+such, but having declined the demons follow along with the only God. All
+things have come to be by him and without him not even one. And if there is a
+harmful thing in the things that grow, this has come upon because of our being
+in sin. I have to show the economy of these; you hear, and the one who
+believes will recognize.
+
+And if you are healed by drugs (I permit you according to pardon), you must
+attach the testimony to God. For the world still drags us down, and through
+weakness I seek the matter. For a winging of the soul is the perfect spirit,
+which having thrown off through the sin it crouched as a nestling and became
+earth-fallen, and having gone from the heavenly being-together it desired a
+sharing of the lesser. For the demons were migrated, and the first-formed were
+banished; and the ones were thrown down from heaven, and the others from earth
+but not from this, but from a better ordering than the one here. And it is
+necessary hereafter that we, having desired the ancient, decline everything
+that becomes in the way. For the heaven is not unlimited, O man, but limited
+and in a boundary; and the things above this, the better ages not having a
+change of seasons, through which varied diseases are established, but having
+shared in all good-mixture, have a remaining day and a light unapproachable
+for the men from here. Those, then, who worked out the geographies, as far as
+it was possible for a man, made the recording of the places; but the things be
+
+yond not having to say because of the impossibility of the seeing they blamed
+ebbings and of seas the one leek-green, the other muddy, and of places the one
+the fiery, the other the cold and frozen-through. But we have learned the
+things unknown by us through prophets, who together with the soul having been
+persuaded that the heavenly spirit as an over-garment of the mortality will
+obtain the immortality, told beforehand as many things as the remaining souls
+did not know. And it is possible for every one who is naked to obtain the
+over-ornament and to run back toward the ancient kinship.
+
+For we are not foolish, men of Greece, nor do we report nonsense, announcing
+that God has come to be in a form of man. You who revile us, compare your
+myths to our narrations. Deiphobus, as they say, was Athena because of Hector,
+and for the sake of Admetus unshorn Phoebus shepherded the oxen of trailing
+feet, and the wife of Zeus arrives as an old woman to Semele. And practicing
+such things how do you laugh us down? Your Asclepius has died, and the one who
+deflowered the fifty virgins at Thespiae in one night, having given himself
+over to a feeding of fire, is gone. Prometheus having been fastened to
+Caucasus underwent punishment for the sake of the benefaction toward men. Zeus
+according to you is envious and hides *** the dream, wishing men to perish.
+Therefore having looked to your own *** memorials accept us even as
+mythologizing similarly. And we are not mindless, but your things are babble.
+If you should say a generation of gods, you will also declare them mortal. For
+why does Hera not now conceive? Has she grown old, or does she lack the one
+who will announce to you? Be persuaded by me now, O men of Greece, and do not
+allegorize either your myths or your gods; for even if you attempt to do this,
+the divinity according to you has been taken away both by us and by you. For
+either the demons among you being such as they are also said, they are
+worthless in manner, or being transferred toward the more physical they are
+not such as they are also said. And to worship the substance of the elements I
+would neither be persuaded nor would I persuade the neighbor. And Metrodorus
+of Lampsacus in the On Homer has discoursed very simply, transferring all
+things into allegory. For he says neither Hera nor Athena nor Zeus is this
+which those who established the enclosures and precincts for them think, but
+substances of nature and orderings of elements. And Hector also and Achilles
+clearly and Agamemnon and all simply Greeks and barbarians with Helen and
+Paris being of the same nature you will say have been introduced for the sake
+of an economy, none of the aforesaid being men. And we put these things
+forward as upon a hypothesis; for it is not even holy to compare our grasp
+about God with those who roll in matter and mire.
+
+For of what sort are even your teachings? Who would not mock your public
+panegyrics, which being accomplished on a pretext of wicked demons turn men
+around into ill-repute? I often saw someone, and having seen I wondered, and
+after the wondering I despised how inside he is another, and outside he lies
+what he is not, the one being very delicate and being bent in every way and
+this flashing with the eyes, and this also twisting the two hands and being
+demon-possessed through a clay face and becoming now as Aphrodite, now as
+Apollo, one accuser of all the gods, an epitome of superstition, a slanderer
+of heroic deeds, an actor of murders, a recorder of adultery, a treasury of
+madness, a teacher of the lewd, an occasion of those being condemned, and such
+a one being praised by all. But I declined him lying all things, both the
+godlessness and the practices and the man. But you are led captive by these
+and you revile those who do not share your businesses. I do not wish to gape
+of many teeth, and I do not wish to be disposed together with the one nodding
+and being moved contrary to nature. What wonderful thing not found among you
+is accomplished? For they play the flute and speak the shameful things, and
+they are moved with motions which they ought not, and your daughters and your
+boys look at those who sophisticate on the stage how one must commit adultery.
+Beautiful among you are the auditoria, proclaiming all the things which are
+wickedly worked in night and delighting the hearers with utterances of
+shameful words. And beautiful also are your poets, false-speakers and through
+figures deceiving those who hear.
+
+I saw men weighed down by the body-exercise and carrying a load of the meats
+in themselves, for whom prizes and crowns are set forth, the agonothetes
+calling them not upon manly virtue, but in a love of contention of insolence
+and faction, and the one who is more a striker being crowned. And these are
+the lesser of the evils; and the greater who would not shrink from speaking
+out? Some having taken up idleness through their own unsparingness sell
+themselves to be murdered; and the one who hungers sells himself, and the one
+who is rich buys those who will murder. And those who testify sit for these,
+and the boxers fight in single combat about nothing, and the one who will help
+does not go down. Are such things well accomplished by you? For the camp of
+those who murder the one who is foremost among you gathers, professing to
+nourish robbers, and those who rob go forth from him, and all come together to
+the seeing, becoming judges this of wickedness of an agonothete, this also of
+the single-fighters themselves. And the one who did not happen upon the murder
+is grieved, because he was not judged to become a spectator of wicked and
+defiled works. You sacrifice animals because of the meat-eating and you buy
+men, furnishing them to the soul because of the man-slaughter,
+
+nourishing it with most godless pourings-out of blood. The one who robs, then,
+murders for the sake of taking, and the one who is rich buys single-fighters
+for the sake of murdering.
+
+What does the one mad according to Euripides contribute to me toward benefit,
+announcing also the mother-killing of Alcmaeon, to whom not even his own
+figure is present, but he gapes great and carries around a sword and having
+cried out is inflamed and wears an inhuman robe? Let the mythologies of
+Hegesias also go, and Menander the verse-maker of that one's tongue. Why
+should I also be astonished at the Pythian flute-player? And why should I also
+be busy according to Aristoxenus about Antigenides the Theban? We yield to you
+the things not beneficial; and you either be persuaded by your dogmas or
+according to the like yield us from your things.
+
+What great and wonderful thing do the philosophers among you work? For they
+neglect one of the two shoulders and having put on much hair they grow a
+beard, carrying around nails of beasts and saying they need nothing, but
+according to Proteus needing a leather-worker because of the pouch, and a
+weaver because of the cloak and because of the wood a wood-cutter, and because
+of the gluttony those who are rich and a cook. O man who emulates the dog, you
+do not know God and you have gone over to the imitation of irrational things;
+and the one who has cried out publicly with a show of trustworthiness becomes
+an avenger of yourself, and if you do not receive, you revile, and
+philosophizing becomes for you an art of providing. You follow the dogmas of
+Plato, and the one who sophisticates according to Epicurus stands against you
+loudly; and again you wish to be according to Aristotle, and someone according
+to Democritus reviles you. Pythagoras says he has become Euphorbus and is heir
+of the dogma of Pherecydes; but Aristotle slanders the immortality of the
+soul. And having factious successions of the dogmas you fight discordantly
+toward those who agree with themselves. Someone says the perfect God is body,
+but I incorporeal; the world indissoluble, but I being dissolved; a
+conflagration turns out according to times, but I once for all; judges are
+Minos and Rhadamanthys, but I God himself; that the soul alone is
+immortalized, but I also the little flesh with it.
+
+How do we harm you, O men of Greece? And why have you hated those who follow
+along with a word of God as most defiled? Among us there is not man-eating;
+you the educated have become false witnesses; but among you Pelops becomes a
+dinner of the gods even if a beloved of Poseidon, and Cronus spends the sons,
+and Zeus swallows Metis.
+
+Cease triumphalizing alien words and as the jackdaw not being adorned with
+your own feathers. If each city takes away its own speech from you, your
+sophisms will be unable. Seeking who God is, what the things in you are, you
+do not know; and gaping into heaven you fall down precipices. The settings-up
+of your books are like labyrinths,
+
+and those who read like the jar of the Danaids. Why do you divide the time for
+me, saying one part of it is past, another present, another future? For how
+can the future pass, if the present is? And as those who sail, the ship being
+carried, think through ignorance that the mountains run, so also you do not
+know that you run by, and the age stands, until the one who made it should
+wish it to be. For why am I accused saying my things, and you hasten to
+dissolve all that is mine? For have you not come to be according to the like
+way with us, having shared in the same administration of the world? Why do you
+claim wisdom is among you alone, not having another sun nor visitations of
+stars and a more different generation and a death chosen beside the other men?
+The grammarians have become a beginning of your babble, and you who divide the
+wisdom have been cut off from the wisdom according to truth, and you assigned
+the names of the parts to men; and God you do not know, and warring with
+yourselves you take one another down. And for this reason you are all nothing,
+appropriating the words, and discoursing as a blind man with a deaf. Why do
+you hold carpenter's tools not knowing how to carpenter? Why do you take up
+words, standing far from the works? Being puffed through glory, and in the
+misfortunes being humbled, you abuse the figures contrary to reason; for
+publicly you parade, and you hide the words upon the corners. Having
+recognized you such we have left you and we no longer touch your things, but
+we follow along with a word of God. For why, O man, do you furnish the war of
+the letters? And why as in a boxing-match do you clash their utterances
+through the lisp of the Athenians, when you ought to speak more naturally? For
+if you Atticize not being an Athenian, tell me the cause of not Dorizing; how
+does the one seem to you more barbarian, and the other more cheerful toward
+conversation?
+
+And if you hold to the education of those, why do you fight with me choosing
+opinions of dogmas which I wish? For how is it not out of place not to punish
+the robber because of the additional-accused name before learning the true
+upon accuracy, but to have hated us unexamined by a prejudice of reviling?
+Diagoras was an Athenian, but you have punished this one for dancing out the
+mysteries among the Athenians, and meeting with his Phrygian words you have
+hated us. Having obtained the memoirs of Leo you are displeased toward the
+convictions from us; and having the opinions of Apion about the gods according
+to Egypt among yourselves you proclaim us as most godless. A tomb of Olympian
+Zeus according to you is shown even if someone says the Cretans lie. The
+assembly of the many gods is nothing; and even if Epicurus who despises them
+bears a torch, I honor the rulers nothing more than God; the
+
+grasp which I have about the wholes, this I do not hide. Why do you counsel me
+to lie the constitution? And why saying to despise death do you announce to
+flee it through art? I do not have a heart of a deer; but the practices of
+your words come to be according to the measureless-speaking Thersites. How
+shall I be persuaded by the one who says the sun is a lump of metal and the
+moon earth? For such things are a contest of words and not an ordering of
+truth. Or how is it not silly to be persuaded by the books of Herodorus about
+the account according to Heracles, proclaiming earth above and that from it a
+lion came down that was murdered by Heracles? And what would an Attic speech
+benefit, and a heap of philosophers and persuasivenesses of syllogisms and
+measures of earth and positions of stars and courses of sun? For to be
+occupied about such a seeking is a work of one who legislates the dogmas for
+himself.
+
+For this reason I also condemned the legislation among you. For there ought to
+be one and common constitution of all; but now
+
+as many as are races of cities, so many also are the settings of the laws, so
+that the things shameful among some are serious among some. At any rate Greeks
+think it is to be fled to come together with a mother, but such a practice is
+most beautiful among the magi of the Persians; and pederasty is pursued by
+barbarians, but has been thought worthy of privilege by Romans, who try to
+gather herds of boys as of grazing horses.
+
+These things, then, having seen, and moreover having shared in mysteries and
+having tested the worships among all as being constituted through womanish men
+and androgynes, and having found among Romans Zeus Latiaris according to them
+being pleased with gores of men and with the bloods from the man-killings, and
+Artemis not far from the great city having taken up the form of the same
+deeds, and another demon elsewhere working risings-up of evil-doing, having
+come to be by myself I sought in what way I am able to find out the true. And
+as I was thinking around the serious things it happened that I met with
+certain barbarian writings, older as toward the dogmas of the Greeks, and more
+divine as toward the error of those; and it happened that I was persuaded by
+these both through the unconceited of the words and the unstudied of those who
+spoke and the easy-to-grasp of the making of the all and the foreknowing of
+the things going to be and the extraordinary of the commands and the monarchic
+of the wholes. And my soul having become God-taught I understood that the ones
+have a manner of condemnation, and the others that it looses the slavery in
+the world and pulls us away from many rulers and countless tyrants, and gives
+us not what we did not receive, but what having received we were prevented by
+the error from having.
+
+Having made the grasp of these things, then, I wish as the infant of the babes
+[gap] to strip off. For we know the constitution of the wickedness like that
+of
+the smallest seeds, inasmuch as this having been strengthened through a small
+occasion,
+
+will again also be dissolved, we being persuaded by a word of God and not
+scattering ourselves. For through a certain hidden treasure it prevailed over
+our things, which digging we were filled with dust, and we furnished this the
+occasion of being constituted. For everyone who accepts his own possession has
+mastered the authority of the more precious wealth. These things, then, let
+have been said toward those who are our own; but toward you the Greeks what
+else than not to be reviled by the better, nor, if they should be called
+barbarians, to take this as the occasion of the mockery? For the cause of all
+not being able to hear one another's dialect, if you wish, you will be able to
+find; for to those who wish to examine our things I will make the narration
+easy and ungrudging.
+
+And now I think it belongs to me to set beside that our philosophy is older
+than the practices among Greeks; and Moses and Homer will lie as limits for
+us. For each of them being most old, and the one being oldest of poets and
+historians, and the other beginner of all barbarian wisdom, let them now also
+be taken along by us into comparison; for we shall find the things among us
+not only of the education of Greeks, but still also higher than the finding of
+the letters. And I will not take along the witnesses at home, but I will
+rather use Greeks as helpers. For the one is without judgment, because it is
+not even acceptable by us, but it would be wonderful whenever it is
+demonstrated, when fencing against you through your own weapons I take the
+convictions from you without suspicion. For about the poetry of Homer and his
+race and the time in which he flourished the oldest inquired, Theagenes of
+Rhegium who came to be in the time of Cambyses and Stesimbrotus of Thasos and
+Antimachus of Colophon and Herodotus of Halicarnassus and Dionysius of
+Olynthus, and after those Ephorus of Cyme and Philochorus the Athenian and
+Megaclides and Chamaeleon the Peripatetics; then grammarians Zenodotus
+Aristophanes Callistratus Crates Eratosthenes Aristarchus Apollodorus. And of
+these those about Crates say he flourished before the descent of the
+Heraclidae, after the Trojan things within the eighty years; and those about
+Eratosthenes after the hundredth year of the taking of Ilium; and those about
+Aristarchus according to the Ionian colony, which is after one hundred forty
+years of the Iliadic things; and Philochorus after the Ionian colony, in the
+archonship of Archippus at Athens, one hundred eighty years later than the
+Iliadic things; and those about Apollodorus one hundred years after the Ionian
+colony, which would be two hundred forty years later than the Iliadic things.
+And some said he came to be before the Olympiads, that is four hundred years
+after the taking of Ilium. And others led the time down, saying Homer came to
+be with Archilochus; and
+
+Archilochus flourished about the twenty-third Olympiad, in the time of Gyges
+the Lydian, five hundred years later than the Iliadic things. And about the
+times of the aforesaid poet, I mean Homer, and the faction of those who spoke
+the things about him and the disagreement, let it have been said by us
+sufficiently as upon headings for those able to examine accurately. For it is
+possible for everyone to declare even the opinions about the words false; for
+among whom the recording of the times is unconnected, among these not even the
+things of the history can speak truly. For what is the cause of the error in
+the writing, if not the composing of the things that are not true?
+
+And among us the desire of vain-glory is not, and we do not abuse varieties of
+dogmas. For having been separated from the public and earthly word and being
+persuaded by commands of God and following a law of a father of incorruption,
+we decline everything that lies in human opinion, and not only those who are
+rich philosophize, but also the poor enjoy the teaching as a gift; for the
+things from God overleap the exchange of the gift in the world. And we so
+receive all who wish to hear, even if they are old women or youths, and every
+age simply among us obtains honor; and the things of wantonness have been
+separated far. And we speaking do not lie; and the things of your remaining
+about the unbelief it is beautiful if it should take a circumscription; but if
+not, let our things be confirmed by a judgment of God, and you laugh, as also
+going to weep. For how is it not out of place that Nestor according to you,
+slowly cutting off the side-traces of the horses because of the slack and
+sluggish of the age, being wondered at trying to war equally with the young,
+but those among us wrestling with old age and working the things about God are
+laughed at? And who would not laugh at you saying Amazons and Semiramis and
+certain others have come to be warlike, but reviling the virgins among us?
+Achilles was a youth and is believed to be very noble; and Neoptolemus
+younger, but he was strong; Philoctetes weak, but the demonic needed him
+against Troy. Of what sort was Thersites? But he was a general; and if the
+measureless-speaking had not been present to him through the ignorance, he
+would not have been slandered as pointed-headed and thin-haired. All who wish
+philosophize *** among us who do not test the seen nor judge those who come to
+us from figure; for we have reckoned that the strong of the judgment can be
+among all even if they are weak in bodies. And your things are full of envy
+and much stupidity.
+
+For this reason I was eager from the things thought honorable among you to set
+beside that our things are temperate, and your customs have much madness. You
+who say we babble among women and youths and virgins and old men and who mock
+because we are not with you, hear of the
+
+affairs among Greeks the nonsense. For the practices of the customs among you
+babble more through much glory and are unseemly through the women's quarters.
+For Lysippus bronzed Praxilla who said nothing useful through the poems, and
+Menestratus Learchis, and Silanion Sappho the companion, Naucydes Erinna the
+Lesbian, Boiscus Myrtis, Cephisodotus Myro of Byzantium, Gomphus Praxagorida
+and Amphistratus Clito. For why should I speak about Anyte and Telesilla and
+Nossis? For of the one Euthycrates and Cephisodotus, of the other Niceratus,
+of the other Aristodotus are the craftsmen; of Mnesarchis of Ephesus
+Euthycrates, of Corinna Silanion, of Thaliarchis of Argos Euthycrates. And I
+was eager to say these, in order that you may not think something foreign is
+practiced even among us, and having compared the practices under sight you may
+not mock the women who philosophize among us. And Sappho is a whorish little
+woman mad with love, and she sings her own wantonness; but all those among us
+are temperate, and about the distaffs the virgins speak the utterances
+according to God more seriously than the girl among you. For this reason be
+ashamed, you being found disciples of the little women, but mocking those who
+constitute themselves with us together with the assembly with them. For what
+solemn thing did Glaucippe introduce to you, who bore a monstrous little child
+as her image shows, Niceratus son of Euctemon an Athenian by race having
+bronzed it? For if she conceived an elephant, what is the cause that Glaucippe
+enjoyed public honor? Praxiteles and Herodotus have made Phryne the companion
+for you, and Euthycrates bronzed Panteuchis conceiving from a corrupter.
+Dinomenes through his own art prepared Besantis the queen of the Paeonians to
+be remembered, because she conceived a black little child. I have also
+condemned Pythagoras who established Europa upon the bull, and you, who have
+honored the accuser of Zeus through that one's art. I laugh also at the
+knowledge of Micon who made a calf, and upon it Victory, because having
+snatched the daughter of Agenor he carried off a prize of adultery and
+incontinence. Why did Herodotus of Olynthus construct Glycera the companion
+and Argeia the harp-girl? Bryaxis set up Pasiphae, whose wantonness having
+remembered you have all but chosen that the women now also be such. There was
+a certain wise Melanippe; for this reason Lysistratus crafted this one; but
+you have not believed there are wise women among us.
+
+Very solemn, at any rate, is also the tyrant Phalaris, who feasting on the
+children at the breast is shown until now through the construction of
+Polystratus of Ambracia as some wonderful man; and the men of Acragas feared
+to look at his aforesaid face because of the man-eating, but those who care
+about education boast that they behold him through an image. For how is it not
+hard that brother-killing has been honored among you, who seeing the figures
+of Poly
+
+neices and Eteocles and not having sunk them with Pythagoras who made them
+destroy together the memorials of the wickedness? Why because of Periclymenus
+do you think a little woman, who conceived thirty children, as wonderful and a
+work to consider? For it was beautiful to loathe her who carried off the
+first-fruits of much incontinence, being likened to the sow according to the
+Romans, which itself also because of the like has been thought worthy of a
+more mystic service, as they say. And Ares committed adultery with Aphrodite,
+and Andron has constructed Harmony from them for you. And Sophron, having
+handed down nonsense and babble through compositions, is more renowned for the
+sake of the bronze-working which is until now; and not only the mythologies
+but also the plastic according to Aristodemus showed the false-speaker Aesop
+ever-remembered. Then how are you not ashamed, having so many poetesses not
+upon something useful, and countless prostitutes and wicked men, but
+slandering the solemnity of the women among us? Why is it serious for me to
+learn that Euanthe bore in a Peripatos and to gape toward the art of
+Callistratus? And to attend the eyes to Neaera toward the things of Calliades?
+For she was a companion. Lais prostituted, and the fornicator made her a
+memorial of the prostitution. Why are you not ashamed of the prostitution of
+Hephaestion even if Philon makes him very artfully? And for whose sake through
+Leochares have you honored Ganymede the androgyne as having some serious
+possession, and what Praxiteles crafted, a little woman being braceleted? And
+it was necessary, having declined every such form, to seek what is serious
+according to truth and not, claiming the unspeakable thoughts of Philaenis nor
+of Elephantis, to loathe our constitution.
+
+These things, then, I set out not having learned from another, but having
+visited much land and this sophisticating your things, and this having met
+with many arts and thoughts, and last having spent time in the city of the
+Romans and having learned accurately the varieties of statues brought up from
+you to them. For I do not, as is custom for the many, try to strengthen my
+things by alien opinions, but of all of which I myself make the grasp, of
+these I also wish to compose the recording. Therefore having said farewell
+both to the great-boast of the Romans and to the cold-talk of the Athenians
+[gap] unconnected dogmas, I claimed the barbarian philosophy according to us;
+which in what way it is older than the practices among you, having begun to
+write, but through the urgency of the interpretation having postponed, now
+when it is the time to speak about the dogmas according to it, *** I will try.
+For do not be displeased at our education nor work an opposition full of
+babble and buffoonery against us, saying: Tatian innovates the dogmas of the
+barbarians above the Greeks and above the unlimited multitude of those who
+philosophized.
+
+For what is hard that men who have appeared ignorant are now convicted by a
+man of like passions? And what even is out of place according to your own
+sophist always growing old, being taught all things?
+
+Except let Homer be not only later than the Iliadic things, but let him be
+supposed according to that very time of the war, and still also to have
+campaigned with those about Agamemnon. And, if anyone wishes, even before the
+finding of the elements came to be. For the aforesaid Moses will appear older
+than the Iliadic taking itself by very many years, and of the founding of
+Ilium and of Tros and Dardanus very much more ancient. And for the sake of
+demonstration I will use as witnesses Chaldeans Phoenicians Egyptians. And why
+should I say more? For the one who professes to persuade must make the
+narrations about the affairs toward the hearers more brief; or *** Berossus a
+Babylonian man, priest of Bel among them, having come to be in the time of
+Alexander, having arranged the history of the Chaldeans in three books for
+Antiochus the third after him and having set out the things about the kings,
+narrates of one of them a name Nebuchadnezzar, who campaigned upon Phoenicians
+and Jews; which things we know through the prophets according to us have been
+proclaimed, having come to be much lower than the age of Moses, but seventy
+years before the leadership of the Persians. And Berossus is a most sufficient
+man; and a proof of this, Juba writing On the Assyrians says he learned the
+history from Berossus; and there are two books of his On the Assyrians.
+
+And after the Chaldeans the things of the Phoenicians are thus. There have
+come to be among them three men, Theodotus Hypsicrates Mochus; the books of
+these Laetus arranged into Greek voice, who also worked out the lives of the
+philosophers upon accuracy. In the histories, then, of the aforesaid it is
+shown in the time of which of the kings a snatching of Europa came to be and
+an arrival of Menelaus into Phoenicia and the things about Cheiramus, who
+having given his own daughter toward marriage to Solomon the king of the Jews
+also gifted material of all sorts of woods into the construction of the
+temple. And Menander of Pergamum also made the recording about the same. And
+the time of Cheiramus already somewhere draws near the Iliadic things; and
+Solomon who was in the time of Cheiramus is much lower than the age of Moses.
+
+And of Egyptians there are accurate recordings of times, and an interpreter of
+the letters according to them is Ptolemy, not the king, but a priest of
+Mendes. This one, setting out the deeds of the kings, says the journey of Jews
+from Egypt into the places they wished came to be in the time of Amosis king
+of Egypt, Moses leading. And he says thus: And Amosis came to be in the time
+of Inachus a king. And after this Apion the grammarian, a most approved man,
+in the fourth of the Aegyptiaca (and there are five writings of his) says many
+other things also, and also that Amosis razed Avaria, having come to be in the
+time of the Argive Inachus, as in the Times the Mendesian Ptole
+
+my recorded. And the time from Inachus until the taking of Ilium fills twenty
+generations, and the things of the demonstration have this way.
+
+These have come to be kings of the Argives: Inachus Phoroneus Apis Argeius
+Criasus Phorbas Triopas Crotopus Sthenelaus Danaus Lynceus Abas Proetus
+Acrisius Perseus Sthenelaus Eurystheus Atreus Thyestes Agamemnon, in the
+eighteenth year of whose kingship Ilium was taken. And the one who has mind
+must understand with all accuracy that according to the tradition of the
+Greeks there was not even any recording of history among them. For Cadmus who
+handed over the elements to the aforesaid came upon Boeotia after many
+generations. And after Inachus in the time of Phoroneus scarcely a
+circumscription of the beastlike and nomad life came to be, and the men were
+re-ordered. Therefore if Moses has appeared having come to be in the time of
+Inachus, he is older than the Iliadic things by four hundred years. And this
+is demonstrated being thus both from the succession of the Attic kings and
+Macedonian and Ptolemaic, and still also Antiochene; from which if after
+Inachus the more distinguished deeds among Greeks were both recorded and are
+known, it is clear that also after Moses. For in the time of Phoroneus after
+Inachus Ogyges is remembered among Athenians, in whose time the first flood;
+and in the time of Phorbas Actaeus, from whom Attica is Actaea; and in the
+time of Triopas Prometheus and Epimetheus and Atlas and the two-natured
+Cecrops and Io; and in the time of Crotopus the burning in the time of
+Phaethon and the raining in the time of Deucalion; and in the time of
+Sthenelaus both the kingship of Amphictyon and the presence of Danaus into
+Peloponnesus and the founding of Dardania by Dardanus and the bringing-up of
+Europa from Phoenicia into Crete; and in the time of Lynceus the snatching of
+Kore and the establishment of the precinct in Eleusis and the farming of
+Triptolemus and the presence of Cadmus into Thebes and the kingship of Minos;
+and in the time of Proetus the war of Eumolpus toward Athenians; and in the
+time of Acrisius the crossing of Pelops from Phrygia and the arrival of Ion
+into Athens and the second Cecrops and the deeds of Perseus and Dionysus and
+Musaeus a disciple of Orpheus; and in the time of the kingship of Agamemnon
+Ilium was taken.
+
+Therefore Moses has appeared from the things already said older than heroes
+cities demons. And one must believe the one who is senior according to the age
+rather than the Greeks who drew from a spring not according to recognition his
+dogmas. For the sophists according to them, having used much over-busyness,
+tried to counterfeit as many things as they knew from those according to Moses
+and those who philosophize like him, first in order that they may be thought
+to say something of their own, second in order that as many things as they did
+not understand, covering by a certain plastered rhetoric, they may award the
+truth as mythology.
+
+About the constitution according to us, then, and the history according to
+
+our laws, as many things as the learned among the Greeks have said and how
+many and who are those who mentioned, will be shown in the Toward those who
+have declared the things about God.
+
+And the thing now holding, one must hasten with all accuracy to make clear
+that Moses is older not of Homer only, but still also of the writers before
+him, Linus Philammon Thamyris Amphion Orpheus Musaeus Demodocus Phemius Sibyl
+Epimenides of Crete, who arrived into Sparta, and Aristaeus of Proconnesus who
+wrote the Arimaspea, and Asbolus the Centaur and Bacis and Drymon and Euclus
+of Cyprus and Horus of Samos and Pronapides of Athens. For Linus is a teacher
+of Heracles, and Heracles has appeared older than the Trojan things by one
+generation; and this is apparent from his child Tlepolemus who campaigned upon
+Ilium. And Orpheus came to be according to the same time as Heracles, and
+otherwise they say the things brought upon him have been composed by
+Onomacritus the Athenian who came to be in the time of the rule of the
+Pisistratidae about the fiftieth Olympiad. And Musaeus is a disciple of
+Orpheus. And Amphion, going before the Iliadic things by two generations,
+prevents us from composing more toward those who love learning. And Demodocus
+and Phemius came to be according to the Trojan war itself; for the one spent
+time among the suitors, and the other among the Phaeacians. And Thamyris also
+and Philammon are not much more ancient than these.
+
+About the working according to each of the learned, then, and of times and of
+their recording, as I think, very much *** we have recorded for you with all
+accuracy; and in order that we may also fill up what is still lacking until
+now, I will still also make the demonstration about those thought wise. For
+Minos, who was thought to excel all wisdom and sharpness and legislation, came
+to be in the time of Lynceus who was king after Danaus, in the eleventh
+generation after Inachus. And Lycurgus, having been born much after the taking
+of Ilium, legislates for Lacedaemonians one hundred years before the
+Olympiads. And Draco is found having come to be about the thirty-ninth
+Olympiad, Solon about the 40th, Pythagoras about the 62nd. And we demonstrated
+the Olympiads having come to be later than the Iliadic things by four hundred
+seven years. And these things having been demonstrated thus, we will still
+also record through brief things about the age of the seven sages. For Thales
+the oldest of the aforesaid having come to be about the fiftieth Olympiad, the
+things about those after him have also almost been said by us briefly.
+
+These things, O men of Greece, I Tatian who philosophize according to
+barbarians composed for you, having been born in the land of the Assyrians,
+and having been educated first in your things, and second in the things which
+I now profess to proclaim. And knowing hereafter who
+
+God is and what the making according to him, I present myself ready to you
+toward the examination of the dogmas, the constitution according to God
+remaining for me undeniable.

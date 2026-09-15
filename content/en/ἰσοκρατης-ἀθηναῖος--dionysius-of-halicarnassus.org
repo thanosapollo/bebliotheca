@@ -1,0 +1,737 @@
+#+TITLE: Isocrates the Athenian
+#+AUTHOR: Dionysius of Halicarnassus hermes:grok-4.6
+#+FILETAGS: :imperial:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/ἰσοκρατης-ἀθηναῖος--dionysius-of-halicarnassus
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Isocrates the Athenian edited by Hermann Usener
+#+END_QUOTE
+
+* Chapter 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+Isocrates the Athenian was born in the eighty-sixth Olympiad, when Lysimachus
+was archon at Athens, in the fifth year before the Peloponnesian War,
+twenty-two years younger than Lysias, and he was the son of Theodorus, one of
+the moderate citizens, who owned slave flute-makers and had his livelihood
+from this work. Having met with a seemly upbringing and having been educated
+no worse than any of the Athenians, as soon as he became a man he desired
+philosophy. Having become a hearer of Prodicus of Ceos and Gorgias of Leontini
+and Tisias of Syracuse, who then had the greatest name among the Greeks for
+wisdom, and as some relate also of Theramenes the orator, whom the Thirty
+killed as seeming to be on the people's side, he was eager to act and speak in
+public affairs, but when nature opposed him, having taken away the first and
+most sovereign things of the orator, both daring and magnitude of voice,
+without which it was not possible to speak in a crowd, he stood off from this
+choice; but desiring glory and to be first among the Greeks in wisdom, as he
+himself has said, he took refuge in writing what he thought, not making his
+choice about small things nor about private contracts nor about the things for
+which some others of the sophists of that time, but about Hellenic and royal
+and political affairs, from which he supposed that both the cities would be
+better governed and private men would have increase toward virtue. For these
+things he writes about himself in the Panathenaic speech. And having received
+the practice of speeches mixed up by the sophists around Gorgias and
+Protagoras, he first went from the eristic and physical to the political, and
+he continued being eager about that science itself from which, as he himself
+says, deliberating and speaking and doing what is advantageous comes to those
+who have learned. And having become the most distinguished of those who
+flourished at the same time and having educated the strongest of the young
+both at Athens and in the rest of Greece, of whom some became best in forensic
+speeches, and some excelled in taking part in the city and doing public
+business, and others wrote the common actions of Greeks and barbarians, and
+having made his own school an image of the city of the Athenians according to
+the colonies of the speeches, having acquired as much wealth as none of those
+who made money from philosophy, he ended his life in the archonship of
+Chaeronides a few days after the battle at Chaeronea, having lived a hundred
+years lacking two, having used the judgment to end his own life together with
+the good things of the city, it being still unclear how Philip would use his
+fortune after taking the rule of the Greeks. These then are the things related
+about him in summary.
+
+* Chapter 2
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+The diction which he has used has some such character. It is pure no less than
+that of Lysias and puts no word at random, and it is precise in the dialect
+that is among the very common and most customary. For this too has fled the
+tastelessness of archaic and marked words, and in figurative expression it
+differs a little from that of Lysias and is mixed in due measure, and it has
+the clear similar to that one and the vivid, and it is ethical and persuasive
+and fitting. But it is not compact, as that one is, and hammered together and
+well suited to forensic contests, but it is rather supine and poured out
+richly, nor indeed so concise, but both long-legged and slower than the mean.
+For what cause it suffers this, I will say after a little. Nor does it display
+the natural and simple and agonistic composition, as that of Lysias does, but
+one made rather toward pompous solemnity and varied and in some places more
+seemly than that one and in some more overwrought. For this man pursues
+elegance from every side and aims at speaking smoothly rather than simply, and
+he avoids the parallel placements of vowels as loosening the harmonies of the
+sounds and spoiling the smoothness of the tones, and he tries to enclose the
+thoughts in a period and a circle that is very rhythm-like and not far from
+poetic metre, and he is more proper to reading than to use. Therefore his
+speeches bear the displays at the festivals and the viewing from the hand, but
+they do not endure the contests in assemblies and lawcourts. The cause of this
+is that much of the pathetic must be in those; and a period admits this least.
+And the assonances and equalities and the antitheses and all the ornament of
+such figures is abundant in him and often hurts the rest of the construction
+by striking against the ears.
+
+* Chapter 3
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+And in general, there being three things, as Theophrastus says, from which the
+great and solemn and extraordinary in diction comes, both the selection of
+words and the harmony from these and the figures that enclose them, he selects
+very well and puts the strongest of the words, but he fits them
+overelaborately, straining the musical euphony, and he figures vulgarly and
+for the most part becomes frigid either by taking from far off or by the
+figures not being fitting to the subjects because of not mastering the mean.
+These things however also make his diction longer often, I mean both fitting
+all the thoughts into periods and enclosing the periods in the same types of
+figures and pursuing good rhythm from every side. For not all things admit
+either the same length or a similar figure or equal rhythm. So that it is
+necessary to use fillers of words that help nothing and to lengthen the speech
+beyond the useful. I say this not as if he does these things throughout (I am
+not so mad; for he also sometimes composes the words simply and looses the
+period nobly and flees the overwrought and vulgar figures, and most of all in
+the deliberative and forensic speeches), but as being for the most part a
+slave to the rhythm and to the circle of the period and placing the beauty of
+the delivery in the extraordinary I have spoken more commonly about him.
+According to these things then I say that the diction of Isocrates falls short
+of that of Lysias and still according to the charm. And yet Isocrates is
+flowery, if anyone else is, and leading the hearers by pleasure, but he does
+not have the same charm as that one. And he falls short of him in this
+excellence by as much as bodies assembled by added ornaments fall short of
+those beautiful by nature. For the diction of Lysias is born to have the
+graceful, but that of Isocrates wishes it. In these excellences then he is
+behind Lysias, at least according to my judgment. But he is ahead in those
+about to be said: he is higher than that one in interpretation and far more
+magnificent and more dignified. For wonderful and great is the height of the
+construction of Isocrates, proper to a heroic rather than a human nature. It
+seems to me then that one would not be off the mark who likened the rhetoric
+of Isocrates to the art of Polycleitus and Phidias according to the solemn and
+the grand in craft and the dignified, and that of Lysias to that of Calamis
+and Callimachus for the sake of the fineness and the charm. For just as of
+those some are more successful than the others in the lesser and human works,
+and some are more dexterous in the greater and more divine, so also of the
+orators the one is wiser in the small, and the other more extraordinary in the
+great, perhaps being even by nature some high-minded man, and if not, at any
+rate by choice pursuing the solemn and the wonderful. These then about the
+diction of the orator.
+
+* Chapter 4
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+The theorems in the subject-matter place are some similar to those of Lysias,
+some stronger. The invention of the enthymemes that fit each subject is
+abundant and dense and falling short of that one in nothing. And judgment
+likewise coming from great intelligence. But arrangement and divisions of the
+matters and the working-out according to argument and the interrupting of
+sameness by private changes and foreign episodes and all the other goods that
+there are about the practical economy are far greater in Isocrates and
+stronger, and most of all the choice of the speeches about which he was eager,
+and the beauty of the hypotheses in which he made his studies. From which he
+would make those who give him their mind not only clever at speaking but also
+serious in character, useful to house and city and all Greece. For the
+strongest teachings toward virtue are to be found in the speeches of
+Isocrates. And I at least say that those who are going to acquire not some
+part of political power but the whole of it ought to have this orator through
+the hand. And if anyone practices the true philosophy, not loving only the
+theoretical of it but also the practical, and not choosing those things from
+which he himself will have a painless life, but those from which he will help
+many, I would exhort him to imitate the choice of that orator.
+
+* Chapter 5
+:PROPERTIES:
+:CUSTOM_ID: h5
+:END:
+
+Who would not become a lover of the city and a lover of the people, or who
+would not practice political nobility, having read his Panegyric? In which
+going through the virtues of the ancients he says that those who freed Greece
+from the barbarians were not only clever in war but also noble in character
+and ambitious and temperate, who at least cared more for the common than for
+the private, and desired the things of others less than the impossible, and
+judged happiness not toward silver but toward good repute, thinking they would
+leave to their children a great wealth and an unenvied honor among the masses;
+and they held a seemly death better than an inglorious life, and they looked
+not how the laws would be well and precisely for them, but how the moderation
+of daily practices would go out from none of the ancestral things; and so they
+had their relations toward one another ambitiously and politically, that they
+even made their factions toward one another over which of them would do more
+good things for the city, not over which, having destroyed the others, would
+themselves rule the rest. And using the same eagerness also toward Greece they
+won over the cities by serving them and they held them by persuading with
+benefactions rather than by forcing with arms, using words more trustworthy
+than now oaths, and thinking it right to abide by the treaties rather than by
+necessities, and thinking it right to judge such things about their inferiors
+as they would have thought it right for their superiors to think about
+themselves, and so prepared in their minds as having their own cities
+privately, but inhabiting Greece as a common fatherland.
+
+* Chapter 6
+:PROPERTIES:
+:CUSTOM_ID: h6
+:END:
+
+And who that is a man of greatness and leading some power would not love the
+things written by him to Philip the Macedonian? In which he thinks it right
+that a man who is a general and master of such great authority should
+reconcile the cities that differ but not dash them against one another, and
+should make Greece great from small, having looked down on ambition about
+small things and should attempt such works from which, if he succeeds, he will
+be the most distinguished of all leaders, and if he fails he will at least
+acquire the goodwill from the Greeks; of which those who obtain it are far
+more to be envied than those who have subdued great cities and many lands. And
+further he exhorts him to imitate the choice of Heracles and of the other
+leaders who campaigned with the Greeks against the barbarians, and he says
+that those who differ from others ought to choose the actions that have
+greatness, and to accomplish them with virtue, considering that we have a
+mortal body, but become immortal through virtue, and we are vexed at those who
+are insatiably disposed toward some other of the goods, but we praise those
+acquiring honor greater than what they have, and that of the other things
+about which there are human eagernesses, wealth and rule and dominion, it
+often happens that enemies become masters, but of virtue and of the goodwill
+among the masses the household of each inherit. For there is much necessity
+that the dynasts who read these things be filled with greater spirit and
+desire virtue more.
+
+* Chapter 7
+:PROPERTIES:
+:CUSTOM_ID: h7
+:END:
+
+And who would more turn toward justice and piety both each man privately and
+the cities whole in common than the speech On the Peace? For in this he
+persuades the Athenians not to desire the things of others, but to be content
+with what is present, and to spare the small cities as if they were
+possessions, and to try to hold the allies  [lost]  both by benefactions, but
+not by necessities nor by violences. And to imitate of the ancestors not those
+who lived before the Decelean affairs, who all but destroyed the city, but
+those before the Persian, who continued practicing nobility. And he shows that
+it is not the many triremes nor the Greeks ruled with force that make the city
+great, but the just choices and helping those who are wronged. And he calls
+them to make the goodwill of the Greeks their own for the city, thinking it
+the greatest portion toward happiness, and to be warlike in preparations and
+practices, but peaceful by doing injustice to no one in nothing, teaching that
+toward wealth nor toward glory nor wholly toward happiness would nothing
+contribute so great a power as virtue and the parts of this; and blaming those
+who have not supposed these things, who held injustice profitable and
+advantageous toward daily life, but justice unprofitable and more helpful to
+others than to those who have it. For of these I do not know if anyone could
+speak speeches either better or truer or more fitting to philosophy.
+
+* Chapter 8
+:PROPERTIES:
+:CUSTOM_ID: h8
+:END:
+
+And who having read the Areopagitic speech would not become more orderly, or
+who would not wonder at the attempt of the orator? Who dared to converse about
+constitution with the Athenians, thinking it right to change the democracy
+then established as greatly harming the city, about which none of the
+demagogues attempted to speak, seeing it had gone forward into such great
+disorder that not even the magistrates still ruled the private men, but each
+both doing and saying whatever became according to his pleasure, and untimely
+frankness being thought by all a democratic liberty, and to recover the
+constitution established by Solon and Cleisthenes. Going through the choice
+and the characters of which he says that the men of that time held it more
+terrible to speak against their elders than  [lost]  and they thought
+democracy not licentiousness but temperance. And they placed the free not
+in despising the magistrates but in doing the things commanded, and they
+granted authority
+to none of the licentious, but assigned the offices to the best, supposing
+that the others would be such as those who administer the city are. And
+instead of repairing their private substances from the public they expended
+their private riches into the common. And besides these the fathers took more
+care of their sons when they had become men than they used to when they were
+children, considering that the common is helped not from that education but
+more from this temperance. And they supposed good practices better than
+precise legislation, looking not how they would restrain those who err by
+punishments, but how they would prepare each to practice nothing worthy of a
+penalty, and thinking that the fatherland ought to live in great liberty, but
+that it should be permitted to private men to do nothing that the laws forbid.
+And to endure the terrible things and not be struck out of their wits by
+disasters.
+
+* Chapter 9
+:PROPERTIES:
+:CUSTOM_ID: h9
+:END:
+
+And who would more persuade both city and men than the orator in many other
+places, but most of all in the speech written to the Lacedaemonians, which is
+entitled Archidamus, and has taken as its hypothesis that about not giving up
+Messene to the Boeotians nor doing what is commanded by the enemies? For the
+Lacedaemonians had fared ill both in the battle at Leuctra and in many others
+after that, and the affairs of the Thebans were blooming and had gone forward
+into greatness of empire, but those of Sparta had become low and unworthy of
+the ancient hegemony. At last then, in order that the city might obtain peace,
+it was deliberating whether it must stand off from Messenia, the Boeotians
+putting this necessity upon it. Seeing it then about to do things unworthy of
+the ancestors he composed this speech for Archidamus, who was young and not
+yet king, but had many hopes of obtaining this honor. In which he goes through
+first that the Lacedaemonians acquired Messene justly, both the children of
+Cresphontes having handed it over when they were thrown out of the rule, and
+the god having commanded them to receive it and to avenge those who were
+wronged, and besides these the war having confirmed the possession, and time
+having made it held and firm. And he teaches that they will furnish the city
+as a base and a refuge not to Messenians who no longer exist but to slaves and
+helots. And he goes through the dangers of the ancestors, which they endured
+for the sake of the hegemony, and he reminds them of the glory existing about
+them among the Greeks, and he exhorts them not to fall together with the
+fortunes nor to despair of the changes, considering that many already having
+greater power than the Thebans were mastered by the weaker, and many shut up
+into a siege and suffering more terrible things than the Lacedaemonians
+destroyed those who campaigned against them. And he makes an example of the
+city of the Athenians, which having become uprooted from much happiness
+underwent the last dangers, in order that it might not do what was commanded
+to the barbarians. And he exhorts them also to endure upon the present things
+and to be of good courage about the future, knowing that cities set such
+disasters right by a good constitution and by experiences of wars, in which
+Sparta excelled the other cities. And he thinks that it is not those who are
+faring badly who ought to desire peace, for whom there is hope from innovation
+of changing the affairs toward the better, but those who are fortunate; for in
+the absence of danger is the guard of the present goods. And having gone
+through many other things besides these, as many splendid deeds as were done
+both in common and privately by the most distinguished of them in the wars,
+and of how much shame they will do things worthy, and that they will also be
+slandered among the Greeks, and having calculated also that from every side
+some help will be for them if they make the contest, both from gods and from
+allies and from all men to whom the power of the Thebans growing is invidious,
+and having shown the disorder and confusion holding the cities while Boeotians
+are stewards of Greece, at the end, even if none of these things is going to
+happen and no other hope of safety is left, he bids them leave the city,
+teaching them that they must send children and women and the rest of the crowd
+both to Sicily and Italy and the other friendly places, and themselves, having
+occupied a place which is strongest and most suitable toward the war, plunder
+the enemies both by land and by sea. For no power will think it right to come
+to close quarters with men strongest of the Greeks in war, and disposed
+desperately toward living, and having a just anger and a seemly pretext of
+necessity. For these things I at least would say that he advises not for
+Lacedaemonians only but also for the other Greeks and for all men, far better
+than all philosophers, who make the end of life virtue and the noble.
+
+* Chapter 10
+:PROPERTIES:
+:CUSTOM_ID: h10
+:END:
+
+And although I have many other speeches of his to go through, written to
+cities and dynasts and private men, of which some call the masses toward
+concord and temperance, and some lead the dynasts toward moderation and lawful
+rule, and some make the lives of private men orderly, suggesting what each
+must do, fearing that the speech be lengthened for me beyond what is needed, I
+will let these go, and for the sake of the things said before becoming more
+easy to follow for me, and for the sake of the difference by which he differs
+from Lysias, having gathered their excellences into a shorter speech I will
+pass over to the examples.
+
+* Chapter 11
+:PROPERTIES:
+:CUSTOM_ID: h11
+:END:
+
+First then I said that an excellence of speeches is the pure interpretation,
+in which I found no difference in either. Next the precision of the dialect
+then customary; and this too I saw similar in both. After these I reckoned
+that both have used the proper and customary and common words, but the diction
+of Isocrates, having taken on something of the figurative construction, went
+forward as far as not to hurt. I declared that both master clearness and
+vividness, but in bringing out the thoughts concisely I thought Lysias
+succeeded more. In the amplifications I thought Isocrates succeeded better. In
+twisting the thoughts together and bringing them out compactly as suited to
+true contests I accepted Lysias. In the character-drawings I found both
+dexterous, but of the charm and the pleasure I awarded the first prizes to
+Lysias without dispute. I saw the magnificent in Isocrates. Of the persuasive
+and the fitting I thought neither fell short. In the composition of the words
+I judged Lysias simpler, and Isocrates more overwrought, and the one a more
+persuasive likeness of truth, and the other a stronger athlete of
+construction.
+
+* Chapter 12
+:PROPERTIES:
+:CUSTOM_ID: h12
+:END:
+
+These things I said about the diction of each. And making the examination of
+the subject matter, I found the invention wonderful in both and still the
+judgment. But in the arrangement of the enthymemes and the divisions of the
+arguments and the working-out according to each kind and all the other
+theorems in the subject-matter place I thought Isocrates far ahead of Lysias,
+and according to the splendor of the hypotheses and the philosophic of the
+choice to differ more than a man from a boy, as Plato has said, and if one
+must speak the truth, even from all the other orators who have stood over this
+learning philosophically. The circular of the leading of the periods, however,
+and the boyish of the figurings of the diction I did not approve. For the
+thought is often a slave to the rhythm of the diction and the true falls short
+of the clever. And the strongest practice in political and agonistic dialect
+is that most like what is according to nature. And nature wishes the diction
+to follow the thoughts, not the thoughts the diction. And for a counsellor
+speaking about war and peace and for a private man running the danger about
+his life before judges I do not know what help these clever and theatrical and
+boyish things could furnish, or rather I know that they would even become
+causes of harm. For all jesting that happens in earnest and in evils is an
+untimely thing and most hostile to pity.
+
+* Chapter 13
+:PROPERTIES:
+:CUSTOM_ID: h13
+:END:
+
+And this is not my speech first, by Zeus, since many even of the ancients had
+this opinion about him. For Philonicus the dialectician, while praising the
+rest of the construction of the man's diction, blames the emptiness of it and
+the vulgar, and he says he is like a painter adorning all the paintings with
+the same clothes and the same figures; /all at any rate found his speeches
+having used the same manners of diction, so that in many things, working out
+the particulars technically, he appeared altogether unfitting in the wholes
+because of not speaking in a way proper to the characters that underlie/. And
+Hieronymus the philosopher says that one could read his speeches well, but
+could not altogether harangue raising both the voice and the tone and speak in
+this construction with the fitting delivery. For the greatest and most moving
+of the crowds has been omitted, the pathetic and the living; for he is a slave
+to smoothness throughout, and he has thrown away the mixed and varied with
+tension and slackening and that which is divided by pathetic excesses. And in
+general he says that having sunk into the voice of a reading-boy he can bear
+neither tone nor passion nor delivery. And these things and things near to
+these have been said by many others as well, about whom I need write nothing.
+For from the diction of Isocrates itself when it is set out both the rhythm of
+the periods pursuing the smooth from every side and the boyish of the figures
+worn out about the antitheses and equalities and assonances will be clear. And
+I do not blame the kind of the figures (for many both historians and orators
+used them, wishing to flower the diction), but the excess.
+
+* Chapter 14
+:PROPERTIES:
+:CUSTOM_ID: h14
+:END:
+
+For by not happening in due time nor in season  [lost]  I say they strike
+against the ears. At any rate in the Panegyric, the celebrated speech, he is
+abundant in such things; /I think them causes of most goods and worthy of
+greatest praises/; for here not only is clause equal to clause, but also the
+words to the words, most to greatest, goods to praises, causes to worthy. And
+again: /nor did they enjoy them as private, and neglect them as another's/;
+for the second clause is equal to the clause and of the words enjoy is
+antithetical to neglect, and private to another's. To which he adds: /but they
+cared for them as their own, and held off as one must from things that belong
+in no way./ For again here too cared is opposed to held off, and their own to
+things that belong in no way. And these are not yet enough, but in the period
+after these he again turns /both he himself would be most well reputed/
+against the following /and would leave great glory to his children/, and /nor
+did they emulate the boldnesses of one another/ against what is joined to it
+/nor did they practice their own daring/. And not even having left a little he
+adds to these: /but they thought it more terrible to be spoken of badly by the
+citizens than to die well for the fatherland./ So then a second time badly is
+the reverse of well, and to die is equal to to be spoken of. If he were
+moderate up to here, he would be bearable, but he will not let go. At any rate
+again in the period after it he puts: /that for the good among men there
+will be no need of many writings but of few tokens, and they will be of
+one mind both about the common and about the private./ So then writings
+and tokens are equal
+and many and few and common and private are antitheses. Then as if he had said
+no such thing he floods with equalities in a mass, adding these: /and they
+administered the things of the others serving but not outraging the Greeks and
+thinking they must be generals of them but not tyrants of them and desiring
+more to be called leaders than masters and saviours but not to be named
+ruiners, winning over the cities by doing well but not subduing them by force,
+using words more trustworthy than now oaths, and thinking it right to abide by
+the treaties as by necessities./ And why must one lengthen by going through
+the particulars? For nearly the whole speech has been made clever by him with
+such figures. The speeches written at the end of his life, however, are less
+boyish, as having received, I suppose, complete intelligence from time. And
+about these things these are enough. And it would be time both to take hold of
+the examples and to show by these what the strength of the orator is. It is
+impossible then to make clear in a little all the kinds of problems and all
+the forms of speeches, but one public speech taken up and one speech from the
+
+* Chapter 15
+:PROPERTIES:
+:CUSTOM_ID: h15
+:END:
+
+forensic is enough. Let the deliberative speech then be that in which he calls
+the Athenians to dissolve the war called the Social, which the Chians and
+Rhodians and their allies were waging against them, and to cease grasping and
+desiring empire by land and by sea; teaching that justice is not only stronger
+than injustice but also more useful. The supine then and the delayed of the
+leading and of the periods, the jesting, is in these too, but the theatrical
+of the figures has been taken up sparingly. These things then the readers must
+overlook and not think worthy of zeal, as I also said at the beginning, but
+they must give their mind very much to the rest. And the speech begins from
+here:
+
+* Chapter 16
+:PROPERTIES:
+:CUSTOM_ID: h16
+:END:
+
+/All who come forward here are accustomed to claim that those things are
+greatest and most worthy of zeal for the city about which they themselves are
+going to counsel. Nevertheless if it was fitting to preface such things even
+about some other affairs, it seems to me to be proper also about the things
+now present to make the beginning from here. For we have come to sit in
+assembly about both war and peace, which have the greatest power in the life
+of men and about which those who have deliberated rightly must fare better
+than the others. Such then is the magnitude of the things about which we have
+come together. But I see you not making the hearing of the speakers on equal
+terms, but giving your mind to some, and of others not even enduring the
+voice. And you do nothing wonderful. For in the rest of time too you have been
+accustomed to throw out all the others except those who speak along with your
+desires. Whom one would also justly blame, because, knowing that many and
+great houses have been uprooted by those who flatter, and hating in private
+affairs those who have this art, in the common you are not similarly disposed
+toward them, but while accusing those who admit and enjoy such men you
+yourselves appear to trust these more than the other citizens. And indeed you
+have made the orators study and philosophize not the things that will benefit
+the city, but how they will speak speeches that please you; toward which even
+now the mass of them has flowed. For it was clear to all that you will be more
+pleased by those who call you to the war than by those who counsel about the
+peace. For the ones put in an expectation that we will recover the possessions
+in the cities and will take up again the power which we happened to have
+before, but the others hold out nothing such, but that one must keep quiet and
+not desire great things against the just, but be content with what is present,
+which is the hardest of all things for most men. For we are so hung from hopes
+and so insatiably disposed toward the seeming advantages, that not even those
+who have acquired the greatest riches are willing to remain upon these, but
+always reaching after the more they run risks about what they have. Wherefore
+it is worth fearing that we too now become liable to these follies. For some
+seem to me to have started toward the war too much, as if not chance men had
+counselled but they had heard from the gods that we will succeed in all things
+and will easily master the enemies. But those who have mind must not
+deliberate about the things they know (for that is superfluous), but do as
+they have decided, and about the things they would deliberate, they must not
+think they know what will happen, but as using opinion, and as whatever may
+chance being about to happen, so they must think about them. Of which you
+happen to do neither, but you are disposed as turbulently as possible. For you
+have come together as needing to choose the best from all the things said, but
+as if already knowing clearly what must be done you are not willing to hear
+except those who harangue toward pleasure. And yet it was proper, if you
+wished to seek what benefits the city, to give your mind more to those who
+oppose your judgments than to those who gratify, knowing that of those who
+come forward here those who say what you wish can easily deceive; for what is
+said toward favor overshadows the seeing of the best. But from those who
+counsel not toward pleasure you would suffer nothing such. For there is no way
+they could change your mind unless they make the advantageous clear. And
+besides these how could men be able to judge well about the things that have
+happened or to deliberate about the future, if they did not examine the
+speeches of those who oppose beside one another, and themselves furnish
+themselves as common hearers to both? And I wonder at the older men, if they
+no longer remember, and at the younger, if they have heard from no one, that
+through those who advise holding on to the peace we have never yet suffered
+any evil, but through those who choose to make war easily we have already
+fallen into many and great disasters. Of which we make no mention, but we are
+ready, doing nothing forward for ourselves, to man triremes and to make
+contributions of money and to go to help and to make war, as if we happened to
+be running risks in another's city. And the cause of these things is that,
+though it is proper for you to be eager about the common likewise as about the
+private, you do not have the same judgment about them, but when you deliberate
+about the private you seek counsellors who think better than you yourselves,
+but when you sit in assembly about the city you distrust and envy such men,
+and you praise the most wicked of those who come forward to the platform and
+you think more democratic those who are drunk than those who are sober and
+those who have no mind than those who think well and those who distribute the
+things of the city than those who perform liturgies for you from their private
+substance. So that it is worth wondering if anyone hopes that the city using
+such counsellors will increase toward the better. And I know that it is uphill
+to oppose your thoughts and that, democracy being, there is no frankness
+except here for the most mindless and those who care nothing for you, and in
+the theatres for the comic poets. Which is also the most terrible of all
+things, that to those who carry out to the other Greeks the faults of the city
+you have as much thanks as not even to those who do well, but toward those who
+rebuke and admonish you you are so disposed harshly, as toward those who are
+working some evil on the city. Nevertheless even with these things being I
+would not stand off from what I thought. For I have come forward not to
+gratify you nor to court a vote but to declare what I happen to know, first
+about the things which the prytanis puts forward, then about the other affairs
+of the city. For there will be no use of the things now decided about the
+peace, if we do not deliberate rightly about the rest. I say then that one
+must make the peace not only with Chians and Rhodians and Byzantines and Coans
+but with all men, and use not these treaties which some have now written, but
+those which came about toward the King and the Lacedaemonians, and which
+command that the Greeks be autonomous and the garrisons to go out from the
+cities of others and each to have their own. For we shall find none more just
+than these nor more beneficial to the city./
+
+* Chapter 17
+:PROPERTIES:
+:CUSTOM_ID: h17
+:END:
+
+Having prefaced these things and having so disposed the hearers fittingly
+toward the speech to come, and having set out a most beautiful encomium of
+justice and having blamed the established affairs, he adds to these the
+comparison of the men of that time toward the ancestors: /And I prefaced these
+things for this reason, that about the rest I am going to make the speeches
+toward you holding nothing back but altogether without restraint. For who
+coming from elsewhere and not corrupted together with us, but suddenly
+standing over the things that are happening, would not think us mad and out of
+our minds, who are ambitious over the deeds of the ancestors and think it
+right to praise the city from the things then done, but do none of the same
+things as those, but everything opposite? For they continued making war
+against the barbarians on behalf of the Greeks, but we, having uprooted from
+there those who were getting their life from Asia, led them against the
+Greeks. And those, freeing the Greek cities and helping them, were thought
+worthy of the hegemony, but we, enslaving and doing the opposite to those
+then, are indignant if we shall not have the same honor as those, who have
+been left behind so far both in deeds and in thoughts from those born at that
+time, as much as some on the one hand over the      we care; for having
+heard one thing you will know also about the others; that though the
+penalty of death is laid on if anyone is caught bribing, we elect as
+generals those who do this
+most openly and we set over the greatest of the affairs the one who has been
+able to corrupt the most of the citizens. And being eager about the
+constitution no less than about the safety of the whole city and knowing that
+the democracy in quiet and in safeties grows and remains, but in wars has
+already been dissolved twice, toward those who desire peace we are
+ill-disposed as toward men who are oligarchic, but those who love the war we
+think well-disposed as caring for the democracy. And being most experienced of
+speeches and affairs we are so unreasoning that about the same things on the
+same day we do not judge the same, but what we accuse before we go up to the
+assembly, these things having come together we vote, and after leaving not
+much time, when we go away, we again blame the things voted. And pretending to
+be the most temperate of the Greeks, we use such counsellors as there is no
+one who would not despise, and we set these same men masters of all the common
+things, to whom no one would entrust anything of the private./
+
+* Chapter 18
+:PROPERTIES:
+:CUSTOM_ID: h18
+:END:
+
+Such then is the man in the deliberative speeches. And in the forensic he is
+in the other things very precise and true and having come nearest to the
+character of Lysias, but in the composition of the words having that
+smoothness and seemliness, less than in the other speeches, yet having it at
+least. And let no one suppose me ignorant either that Aphareus, who became
+stepson and adopted son to Isocrates, in the speech against Megacleides about
+the Exchange defines that no hypothesis into a lawcourt was written by the
+father, or that Aristotle says that very many bundles of Isocratean forensic
+speeches are carried about by the booksellers. For I know these things said by
+those men, and I neither obey Aristotle wishing to soil the man nor do I join
+with Aphareus fabricating a seemly speech for this reason at least. But
+thinking the Athenian Cephisodorus sufficient confirmer of the truth, who both
+lived with Isocrates and became a most genuine hearer and made the very
+wonderful apology for him in the writings against Aristotle, I believe that
+some speeches were written by the man for lawcourts, not however many, and I
+use as an example from them one (for more is not possible), the so-called
+Trapezitic, which he wrote for some foreigner of his pupils against Pasion the
+banker. And the speech is this:
+
+* Chapter 19
+:PROPERTIES:
+:CUSTOM_ID: h19
+:END:
+
+/The contest is great for me, gentlemen of the jury; for I run a risk not only
+about much money, but also about not seeming to desire the things of others
+unjustly; which I make of most account; for sufficient substance will be left
+for me even if I am deprived of these. But if I should seem to have claimed so
+much money with nothing belonging, I would be slandered for the whole of life.
+And it is, gentlemen of the jury, the hardest of all things to meet with such
+adversaries. For the contracts toward those at the banks happen without
+witnesses, and those who are wronged must run risks toward such men as have
+acquired many friends and handle much money and seem trustworthy through their
+art. Nevertheless even with these things being I think I will make it clear to
+all that I am robbed of so much money by Pasion. And from the beginning I will
+relate to you, as I am able, the things that have been done. For I, gentlemen
+of the jury, have as father Sopaeus, whom all who sail to the Pontus know as
+so intimate toward Satyrus that he rules much land and takes care of all that
+man's power. And inquiring both about this city and about the rest of Greece
+he desired to go abroad. And my father, having filled two ships with grain and
+having given money, sent me out at once for trade and for viewing. And
+Pythodorus the Phoenician having introduced Pasion to me I used this man's
+bank. And later in time, a slander having come about toward Satyrus, that both
+my father was plotting against the rule and I was associating with the exiles,
+he seizes my father, and he sends word to those from the Pontus sojourning
+here to take the money from me and to bid me myself sail in, and if I do none
+of these things, to demand me from you. And being in so many evils, gentlemen
+of the jury, I tell Pasion my own disasters. For I was so intimate toward him
+that I trusted this man most not only about the money but also about the other
+things. And I thought that if I gave up all the money I would run a risk, if
+that man suffered anything, of being deprived both of the things here and of
+those there and becoming in want of all, but if, agreeing that it was when
+Satyrus sent word, I did not hand it over, I would set myself and my father
+into the greatest slanders toward Satyrus. So as we deliberated it seemed best
+to hand over the visible of the money, but about the things lying with this
+man not only to deny, but also to appear owing both to this man and to others
+at interest and to do all things from which those men were most going to be
+persuaded that I had no money. Then then, gentlemen of the jury, I thought
+Pasion was counselling all these things through goodwill. But when I had
+managed these things toward those around Satyrus, I knew him plotting against
+my things. For when I wished to recover my own and to sail to Byzantium, this
+man, thinking a most beautiful occasion had fallen beside him (for the money
+lying with him was much and worth shamelessness, and I had in the hearing of
+many become a denier of possessing nothing and it was clear to all that I was
+being asked for money and was agreeing that I owed to others); and besides
+these, gentlemen of the jury, thinking that if I attempted to remain here I
+would be given up by the city to Satyrus, but if I turned somewhere else
+nothing of my speeches would concern him, but if I sailed into the Pontus I
+would die with my father; calculating these things he was intending to rob me
+of the money and toward me he pretended to be at a loss in the present and not
+to be able to give it back. But when I, wishing to know the affair, send
+Philomelus to him and Menexenus to demand it, he denies toward them that he
+has nothing of mine. And with so many evils having fallen upon me from every
+side what judgment do you think I had? I for whom it was, if I was silent, to
+have been robbed of the money by this man, but if I spoke, to recover these
+things no more, and to set myself and my father into the greatest slander
+toward Satyrus. So I thought it strongest to keep quiet. After these things,
+gentlemen of the jury, men arrive announcing to me that my father has been let
+go and that Satyrus so regrets all the things done that he has given him the
+greatest pledges and has made the rule still greater than he had before and
+has taken my sister as wife for his own son. And Pasion, having learned these
+things and knowing that I will now act openly about my own, makes the boy
+disappear, who knew about the money. And when I, having come forward, sought
+him, thinking this man would become the clearest proof about the things I
+claimed, he speaks a most terrible speech, that I and Menexenus, having
+corrupted and persuaded the one sitting at the bank, took six talents of
+silver from him. And in order that no proof nor torture might come about
+concerning them, he claimed that we, having made the boy disappear,
+counterclaim against him and demand this one, whom we ourselves made
+disappear. And saying these things and being indignant and weeping he dragged
+me to the polemarch, asking for sureties, and he did not let me go before I
+set sureties of six talents for him. And come up as witnesses of these
+things./ That these things differ in the whole kind from the epideictic and
+deliberative according to the character of the diction, there is no one who
+would not agree. Not however has it gone out of the Isocratean manner
+altogether, but it preserves some tiny bit of the construction and
+
+* Chapter 20
+:PROPERTIES:
+:CUSTOM_ID: h20
+:END:
+
+of that solemn-speaking the enthymemes are more poetic rather than more true.
+As when he says: /And I thought that if I gave up the money I would run a
+risk./ For the unmade and simple is such: /And I thought that if I did not
+hand over the money I would run a risk./ Still that: /And besides these,
+gentlemen of the jury, thinking that if I attempted to remain here I would be
+given up by the city to Saurus, but if I turned somewhere else nothing of my
+speeches would concern him, but if I sailed into the Pontus I would die with
+my father./ For the period is lengthened and  [lost]  beyond the forensic
+manner and the composition has something of the poetic and the figure of
+the diction has been taken from the epideictic equalities and assonances.
+So then both
+attempted and turned and sailed in lying in one place and of the clauses being
+three the length being equal are proofs of the construction of Isocrates. And
+the things added to these: /he was intending to rob me of the money and toward
+me he pretended to be at a loss and not to have/ are assonant and near to one
+another. And besides these, what he adds after a little: /so that he has given
+him the greatest pledges and has made the rule still greater than he had
+before and has taken my sister as wife for his own son./ For here again given
+and made and taken is assonant and the rule and the sister. And one could say
+other things besides these as well, from which the character of the orator
+will be clear, but it is perhaps necessary to aim at the time.

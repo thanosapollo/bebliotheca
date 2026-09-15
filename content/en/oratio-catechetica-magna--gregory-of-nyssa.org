@@ -1,0 +1,2124 @@
+#+TITLE: Great Catechetical Oration
+#+AUTHOR: Γρηγόριος Νύσσης hermes:grok-4.6
+#+FILETAGS: :patristic:4c-ad:pg44-46:
+#+MIGNE_TITLE: Oratio catechetica magna
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/oratio-catechetica-magna--gregory-of-nyssa
+#+LANGUAGE: en
+
+* Great Catechetical Oration
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+CATECHETICAL DISCOURSE. Prologue. The discourse of catechesis is necessary for
+those who preside over the mystery of piety, so that the church may be
+multiplied by the addition of those being saved, when the faithful word
+according to teaching is brought to the hearing of the unbelievers. Yet the
+same manner of teaching will not fit all who come to the word, but it is
+proper to adapt the catechesis also according to the differences of the
+religions, looking toward the same aim of the word, but not using the
+constructions in the same way in each case. For the one who judaizes is
+preoccupied with other assumptions, and the one who lives with Hellenism with
+others, and the Anomoean and the Manichaean and those according to Marcion and
+Valentinus and Basilides and the rest of the catalogue of those wandering
+according to the heresies, each preoccupied with their own assumptions, make
+necessary the fight toward their suspicions; for according to the form of the
+disease the manner of the therapy also must be adapted. You will not heal with
+the same things the polytheism of the Greek and the unbelief of the Jew
+concerning the only-begotten God, nor from the same things will you overturn
+for those led astray according to the heresies the deceived myth-makings about
+the doctrines; for not through the same things by which one would set
+Sabellius right will one also benefit the Anomoean, nor does the fight toward
+the Manichaean also profit the Jew, but one must, as has been said, look
+toward the preconceptions of men and make the discourse according to the error
+lying in each, putting forward certain reasonable beginnings and premises in
+each discussion, so that through the things confessed on both sides the truth
+may be unveiled according to sequence. Therefore when the discussion is toward
+one of those who hellenize, it would be well to make this the beginning of the
+discourse. Whether he has supposed the divine to be, or whether he is carried
+with the dogma of the atheists? If then he should say it is not, he will be
+led from the things technically and wisely administered according to the world
+to confess through these that there is some power shown forth in them and
+lying above the whole; but if he should not doubt that it is, yet be carried
+in his suspicions into a multitude of gods, let us use such a sequence toward
+him. Whether he holds the divine to be perfect or deficient? And when he, as
+is likely, bears witness of perfection to the divine nature, let us demand of
+him the perfect through all the things contemplated in deity, so that the
+divine may not be viewed as mixed from opposites, from deficient and perfect.
+But whether according to power, or according to the conception of the good, or
+according to the wise and the incorruptible and the everlasting and whatever
+other thought fitting to God happens to be attached to the contemplation, he
+will reasonably agree according to the sequence of this that perfection is
+viewed about the divine nature in everything. And this being granted it would
+no longer be hard to bring round the scattering of the mind into a multitude
+of gods toward the confession of one deity. For if he should grant that the
+perfect in everything is confessed about the subject, and should say that
+there are many perfect things characterized through the same things, there is
+every necessity, in the case of things distinguished by no variation but
+viewed in the same things, either to show the peculiar or, if the thought
+grasps nothing peculiarly in those in which the distinguishing is not, not to
+suspect the distinction. For if he should find the difference neither by the
+more and the less, because the account of perfection does not admit
+diminution, nor that according to the worse and
+
+
+the more honorable; for that of which the appellation of the worse is not
+absent would no longer have a supposition of deity; nor according to the
+ancient and the recent; for what is not always is outside the supposition
+about the divine; but one and the same is the account of deity, no peculiarity
+being reasonably found in anything, there is every necessity that the
+wandering imagination about the multitude of gods be squeezed together toward
+the confession of one deity. For if the good and the just, the wise and the
+powerful, should be said in the same way, and incorruptibility and
+everlastingness and every pious thought should be confessed in the same
+manner, every difference according to every account being taken away, the
+multitude of gods is of necessity taken away together from the dogma, the
+identity through all things bringing the faith round to the one.
+
+1 But since the account of piety also knows how to see a certain distinction
+of hypostases in the unity of the nature, so that by the fight toward the
+Greeks the discourse may not be carried down for us toward Judaism, it is
+proper again by a certain technical distinction to set right the error about
+this also. For not even by those outside our dogma has the divine been
+supposed to be without reason; and this, being confessed by them, will
+sufficiently articulate our account. For he who confesses that God is not
+without reason will altogether agree that the one who is not without reason
+has a Word. But indeed the human word also is said homonymously. Therefore if
+he should say that he suspects the Word of God also according to likeness of
+the things among us, he will in this way be transferred toward the higher
+supposition. For there is every necessity to believe the Word to be
+corresponding to the nature, as also all the other things. For some power and
+life and wisdom also is seen about the human; but no one from the homonymy
+would suspect such a life or power or wisdom also in the case of God, but
+toward the measure of our nature the impressions of such names also are
+brought down together. For since our nature is corruptible and weak, for this
+reason the life is short-lived, the power without subsistence, the word
+without compactness. But in the case of the nature that lies above, everything
+said about it is raised together with the greatness of what is contemplated.
+Therefore even if Word of God is said, he will not be thought to have his
+hypostasis also in the impulse of the one who speaks, passing over into the
+non-existent according to likeness of ours; but as our nature, being
+perishable, has also a perishable word, so the incorruptible and ever-standing
+nature has an everlasting and subsisting Word. If then this should be
+confessed according to sequence, that the Word of God subsists everlastingly,
+there is every necessity to confess that the hypostasis of the Word is in
+life. For it is not pious to think that the Word subsists without soul after
+the likeness of stones. But if he subsists, being some intelligent and
+bodiless thing, he lives altogether; but if he is separated from living, he is
+not altogether in hypostasis either. But indeed it has been shown to be
+impious that the Word of God is without hypostasis. Therefore it has been
+shown together according to sequence that this Word is viewed in life. And the
+nature of the Word being believed, as is likely, to be simple and showing in
+itself no doubleness and composition, no longer would anyone view the Word in
+life according to participation of life; for such a supposition would not be
+outside composition, to say that the one is in the other; but there is every
+necessity, simplicity being confessed, to think the Word to be life itself,
+not a participation of life. If then the Word who is life lives, he also has
+altogether a power of choice; for none of the living is without choice. And it
+is pious to reckon according to sequence that this choice is also powerful.
+For if one should not confess the powerful, he will altogether construct the
+powerless. But indeed the powerless is far from the supposition about the
+divine. For none of the things that are unfitting is viewed about the divine
+nature, and there is every necessity to confess the power of the Word to be as
+great as the purpose also is, so that some mixture of opposites and a
+running-together may not be viewed about the simple, powerlessness and power
+being viewed in the same purpose, if he should
+
+
+be able in some respect, but be in a powerless state toward something; and
+that the choice of the Word, being able in all things, has its inclination
+toward none of the evils; for the impulse toward vice is alien to the divine
+nature; but that whatever is good, this it also wills, and willing it is
+altogether also able, and being able it is not without activity, but brings
+every purpose of good into activity. And the world is good, and all the things
+in it viewed wisely and technically. Are all things then works of the Word who
+lives and subsists, because he is Word of God, and who chooses, because he
+lives; and who is able in whatever he may choose, and who chooses the good and
+the wise altogether, and whatever belongs to the better signification? Since
+then the world is confessed to be some good, and it has been shown through
+what has been said that the world is a work of the Word, of the one who both
+chooses the good and is able, and this Word is other besides the one whose
+Word he is; for this also is in a certain way among the things said
+relatively, since the father of the Word must altogether be understood
+together with the Word; for there would not be a word, if he were not word of
+someone; if then the mind of the hearers distinguishes by the relative of the
+signification both the Word himself and the one from whom he is, our mystery
+would no longer be in danger of being carried together, while fighting with
+the Hellenic assumptions, with those who honor the things of the Jews; but it
+will equally escape the absurdity of both, confessing both the living Word of
+God, both active and productive, which the Jew does not accept, and that he
+does not differ according to nature, both the Word himself and the one from
+whom he is. For as in our case we say the word is from the mind, being neither
+wholly the same as the mind, nor altogether other; for by being from that it
+is some other and is not that; but by bringing the mind itself into the
+manifest it would no longer be suspected as some other besides that, but being
+one according to nature it is other in the subject; so also the Word of God,
+by subsisting by himself, is divided toward that one from whom he has the
+hypostasis; but by showing in himself these things which are observed about
+God, he is the same according to nature as that one who is found through the
+same marks; for whether goodness, or power, or wisdom, or being everlasting,
+or being incapable of vice and death and corruption, or being perfect in
+everything, or whatever such thing at all one should make a sign of the grasp
+of the Father, through the same signs he will find also the Word who subsists
+from him.
+
+2 And as we came to know the Word from the things among us by way of ascent
+upon the nature that lies above, according to the same manner we shall also be
+led to the thought about the Spirit, viewing in the nature among us certain
+shadows and imitations of the unspeakable power. But in our case the spirit is
+the drawing of air, of an alien thing being of necessity drawn in and poured
+forth toward the constitution of the body, which at the time of the utterance
+of the word becomes voice, making manifest in itself the power of the word.
+But in the case of the divine nature it has been thought pious that there is a
+Spirit of God, just as it was also granted that there is a Word of God,
+because the Word of God must not be more deficient than our word, if, while
+this is viewed with spirit, that one should be believed to be without spirit.
+Yet it is not fitting to God to think that some alien thing according to
+likeness of our spirit flows upon God from outside and that the Spirit comes
+to be in him; but as, having heard Word of God, we did not think the Word some
+thing without hypostasis, nor coming to be from learning, nor appearing
+through voice, nor being dissolved after being brought forth, nor suffering
+any other such thing as the passions that are viewed about our word, but
+subsisting essentially, both choosing and active and all-powerful; so also,
+having learned Spirit of God, the one who accompanies the Word and makes
+manifest his activity, we do not think a breath of panting; for the greatness
+of the divine power would be brought down toward lowliness, if according to
+likeness of ours the
+
+
+Spirit in him also should be suspected; but a substantial power, itself viewed
+upon itself in a peculiar hypostasis, neither able to be separated from God in
+whom it is, or from the Word of God whom it accompanies; nor being poured out
+toward the non-existent, but being according to hypostasis after the likeness
+of the Word of God, choosing, self-moved, active, always choosing the good and
+having the power concurrent with the will toward every purpose.
+
+3 So that the one who accurately looks through the depths of the mystery
+receives in the soul according to the secret some moderate comprehension of
+the teaching according to the knowledge of God, yet is not able to make clear
+by word this inexpressible depth of the mystery; how the same is both
+numerable and escapes the numbering, and is seen dividedly and is grasped in a
+monad, and is distinguished by hypostasis and is not bounded off by the
+subject. For the Spirit is some other by hypostasis, and the Word is another,
+and that one again is other, whose both the Word is and the Spirit; but when
+you have thought the distinguished in these, again the unity of the nature
+does not admit the partition, so that neither the might of the monarchy is
+split, being cut into different deities, nor the account agrees with the
+Jewish dogma, but the truth goes through the middle of the two assumptions,
+both taking down each of the heresies and receiving from each what is useful.
+For the dogma of the Jew is taken down by both the acceptance of the Word and
+the faith of the Spirit; and the polytheist error of those who hellenize is
+made to vanish, the unity according to nature striking out the plural
+imagination. And again from the Jewish assumption let the unity of the nature
+remain; and from Hellenism the distinction according to the hypostases alone,
+the impious suspicion having been healed from each side correspondingly; for
+the number of the Trinity is as it were a therapy of those who wander about
+the one, and the account of unity of those who have been scattered into a
+multitude.
+
+4 But if the Jew should speak against these things, the discourse toward him
+will no longer become equally difficult for us. For from the teachings native
+to him will be the manifestation of the truth. For that there is a Word of God
+and a Spirit of God, powers subsisting essentially, both productive of the
+things that have come to be and encompassing of the things that are, is shown
+more clearly from the God-inspired scriptures. And it is enough, having
+mentioned one testimony, to leave to the more ambitious the finding of the
+more. By the Word of the Lord, he says, the heavens were made firm, and by the
+Spirit of his mouth all their power. By what word and by what spirit? For
+neither is the Word a saying, nor the Spirit a pant. For the divine also would
+be made human according to likeness of our nature, if they should dogmatize
+that the maker of the whole uses such a word and such a spirit. And what power
+so great from sayings and panting, as to suffice toward the constitution of
+heavens and of the powers in them? For if like to
+
+our saying both the Word of God is, and the Spirit to the spirit, the power
+from like things is altogether like; and as much strength as ours has, so much
+also the Word of God has. But indeed the sayings among us and the spirit that
+goes through together with the sayings are both without activity and without
+hypostasis. Those who bring the divine down toward the likeness of the word
+among us will altogether construct those also as without effect and without
+hypostasis. But if, as David says, the heavens were made firm by the Word of
+the Lord and their powers had their constitution in the Spirit of God, then
+the mystery of the truth stands together, instructing us to say Word in
+essence and Spirit in hypostasis.
+
+5 But that there is a Word of God and a Spirit, perhaps the Greek through the
+common thoughts and the Jew through the scriptural ones will not speak
+against; but the economy according to man of the Word of God each of them will
+equally reject as both unconvincing and unfitting to be said about God.
+Therefore from another beginning we shall also lead those who speak against
+toward the faith about
+
+
+this. Do they believe that all things have come to be by Word and wisdom from
+the one who constituted the whole, or do they also stand hard to persuade
+toward this assumption? But if they should not grant that Word and wisdom lead
+the constitution of the things that are, they will set unreason and lack of
+art over the beginning of the whole. But if this is both absurd and impious,
+it is altogether confessed that they will confess that Word and wisdom govern
+the things that are. But indeed in what has gone before it has been shown that
+the Word of God is not this very thing, a saying, or a habit of some knowledge
+or wisdom, but some power subsisting according to essence, both choosing every
+good and having in strength everything according to choice; and the world
+being good, that the power that both chooses and produces the goods is the
+cause. But if the hypostasis of the whole world hangs from the power of the
+Word, as the sequence has shown, there is every necessity not to think some
+other cause of the constitution of the parts of the world either, but the Word
+himself, through whom all things had the passage into coming to be. And
+whether one should wish to name this Word, or wisdom, or power, or God, or
+some other of the high and honorable things, we shall not differ. For whatever
+saying or name is found indicative of the subject, one is the thing signified
+through the voices, the everlasting power of God, the productive of the things
+that are, the inventive of the things that are not, the holding-together of
+the things that have come to be, the foreseeing of the things that will be.
+This God Word then, the wisdom, the power, has been shown according to
+sequence to be maker of the human nature, not led by some necessity toward the
+construction of man, but by excess of love having created the coming-to-be of
+such a living being. For it was necessary that neither the light be unseen,
+nor the glory without witness, nor the goodness without enjoyment, nor all the
+other things, as many as are observed about the divine nature, lie idle, there
+not being the one who both participates and enjoys. If then man comes into
+coming-to-be upon these things, upon this, that he become a participant of the
+divine goods, he is of necessity constructed such as to be fitted toward the
+participation of the goods. For just as the eye through the brightness lying
+in it by nature comes into communion of the light, drawing the kindred through
+the inborn power, so it was necessary that something kindred toward the divine
+be mixed into the human nature, so that through the corresponding it might
+have the desire toward its own. For even in the nature of the irrational
+things, as many as have obtained the watery and the aerial life, each has been
+constructed correspondingly to the form of the life, so that through the
+qualitative formation of the body the air is proper and of the same tribe to
+the one, and the water to the other. So then also man, having come to be upon
+the enjoyment of the divine goods, needed to have something kindred in the
+nature toward what is participated. For this reason he was also adorned with
+life and word and wisdom and all the goods fitting to God, so that through
+each of these he might have the desire toward his own. Since then one of the
+goods about the divine nature is also everlastingness, it was altogether
+necessary that the construction of our nature be not disinherited of this
+either, but have in itself the immortal, so that through the power lying in it
+it might both recognize what lies above and be in desire of the divine
+everlastingness. These things the account of the cosmogony indicated by a
+comprehensive voice through one saying, saying that man has come to be
+according to the image of God; for in the likeness according to the image is
+the numbering of all the things that characterize the divine, and as many
+things as Moses goes through more historically about these, setting doctrines
+before us in the form of a narrative, hold to the same teaching. For that
+paradise and the peculiarity of the fruits, whose eating gives not a filling
+of the belly, but knowledge and everlastingness of life to those who taste,
+all these things sing together with what has been contemplated beforehand
+about man, that our nature was at the beginning both good and in goods. But
+perhaps the one who looks toward the present things speaks against what has
+been said and thinks to refute the account as not being true, by man being
+seen not in those things now,
+
+
+but in almost all the contrary ones. For where is the godlike of the soul? And
+where the impassibility of the body? Where the everlasting of the life?
+Short-lived, passionate, perishable, fitted toward every form of sufferings
+both according to body and soul, saying these and such things and running down
+the nature, he will think to overturn the account given about man. But so that
+the account may nowhere be turned aside from the sequence, we shall also take
+up these things in few words. That the human life is now in absurdities is not
+a sufficient refutation that man never came to be in goods; for since man is a
+work of God, of the one who through goodness brought this living being into
+coming-to-be, no one would reasonably suspect that he, of whom the cause of
+constitution is goodness, came to be in evils from the one who made him; but
+there is another cause both of these things being about us now and of being
+emptied of the more honorable. And the beginning again also toward this
+account for us is not outside the agreement of those who speak against. For he
+who made man upon participation of his own goods and constructed in the nature
+the starting-points of all the beautiful things, so that through each the
+appetite might be carried correspondingly toward the like, would not have
+deprived him of the most beautiful and most honorable of the goods, I mean the
+grace according to being without a master and self-governing. For if some
+necessity stood over the human life, the image would have been falsified in
+that part, having been made alien by the unlike toward the archetype; for how
+would the nature that is yoked under certain necessities and is enslaved be
+named image of the nature that reigns? Therefore that which has been likened
+through all things toward the divine needed altogether to have in the nature
+the self-ruling and without a master, so that the participation of the goods
+might be a prize of virtue. From where then, you will say, did the one honored
+through all things with the most beautiful things exchange the worse for the
+goods? Clear also is the account about this. No coming-to-be of evil had its
+beginning from the divine will; for vice would have been outside blame,
+writing God as its own maker and father; but the evil is somehow inborn from
+within, being constituted with the choice then, whenever there comes to be a
+withdrawal of the soul from the beautiful. For just as seeing is an activity
+of nature, and maiming is a deprivation of the natural activity, so also
+virtue stands opposite toward vice. For it is not possible to think a
+coming-to-be of vice otherwise than as absence of virtue. For as when the
+light has been taken away the gloom has followed, and when it is present it is
+not, so, as long as the good is present in the nature, vice is some
+non-existent thing by itself; and the withdrawal of the better becomes a
+coming-to-be of the opposite. Since then this is the peculiarity of
+self-governance, to choose according to authority what is according to one's
+wish, God is not for you the cause of the present evils, having constructed
+the nature for you both without a master and unfettered, but the ill-counsel
+that chose the worse instead of the better.
+
+6 And perhaps you seek also the cause of the missing according to the counsel;
+for to this the sequence carries the account. Therefore again some beginning
+will be found for us according to the reasonable, which will also make clear
+this inquiry. We have received such an account from the fathers; and the
+account is not a mythical narrative, but bringing the trustworthy from our
+nature itself. A double comprehension is in the things that are, the
+contemplation being divided into the intelligible and the sensible. And
+nothing besides these would be grasped in the nature of the things that are
+being carried outside this division. And these have been divided toward one
+another by much the middle, so that neither the sensible is in the marks of
+the intelligibles, nor that one in the sensibles, but each is characterized
+from the opposites. For the intelligible nature is some bodiless thing and
+untouchable and formless; but the sensible, according to the name itself, is
+within the comprehension through the sense-organs. But as in the sensible
+world itself, there being much opposition of the elements toward one another,
+a certain harmony has been thought of through the
+
+
+opposites, fitted by the wisdom that stands over the whole, and thus there
+comes to be a symphony of the whole creation toward itself, the natural
+opposition nowhere dissolving the sequence of the breathing-together;
+according to the same manner there also comes to be according to divine wisdom
+some mixture and blending of the sensible toward the intelligible, so that all
+things may participate the beautiful equally and nothing of the things that
+are may be without a share of the nature of the better. For this reason the
+place corresponding to the intelligible nature is the fine and easily moved
+essence, having in the supercosmic lot much kinship toward the intelligible by
+the peculiar of the nature, but by a better providence there comes to be some
+co-blending of the intelligible toward the sensible creation, so that nothing
+of the creation may be rejected, as the apostle says, nor disinherited of the
+divine communion. For this sake the mixture according to man from both
+intelligible and sensible is shown forth by the divine nature, as the account
+of the cosmogony teaches; for God, he says, taking dust from the earth formed
+man and through his own inbreathing planted the life in the formed thing, so
+that the earthly might be raised together with the divine and one grace
+according to equal honor might go through all the creation, the nature below
+being mixed together toward the supercosmic. Since then the intelligible
+creation having pre-subsisted, and a certain activity toward the constitution
+of the whole having been assigned to each of the angelic powers by the
+authority that stands over all things, there was also a certain power ordered
+both to hold together and to rule the place around the earth, having been
+empowered toward this very thing by the power that administers the whole; then
+the earthly formed thing was constructed, an image of the power above; and
+this living being is man; and in him was the godlike beauty of the
+intelligible nature, mixed together by some unspeakable power; the one who
+obtained the economy around the earth makes it a terrible thing and not
+bearable, if from the nature under his hand some essence should be shown forth
+likened toward the exceeding dignity. And how the one created upon no evil by
+the one who constituted the whole in goodness flowed down upon the passion of
+envy, to go through with accuracy is not of the present treatise, but it would
+be possible even through a little to set the account beside those more easily
+persuaded. For the opposition of virtue and vice is not viewed as of two
+certain things appearing according to hypostasis; but as the not-being is
+divided against the being and it is not possible to say according to
+hypostasis that the not-being is opposed toward the being, but we say that
+non-existence is divided against existence, according to the same manner vice
+also stands opposite to the account of virtue, not being some thing by itself,
+but being thought by the absence of the better; and as we say that maiming is
+divided against seeing, maiming not being by itself in the nature, but a
+deprivation of a habit that was there before, so we say that vice also is
+viewed in the deprivation of the good, as some shadow happening upon the
+withdrawal of the ray. Since then the uncreated nature is incapable of the
+movement according to turning and change and alteration, but everything that
+has come to subsist through creation has a kinship toward alteration, because
+the hypostasis of creation itself also began from alteration, the not-being
+having been transferred into being by divine power; and the power mentioned
+was also created, choosing what seemed good by a self-governing movement;
+since he shut his eye toward the good and the ungrudging, as the one in the
+sun who puts his sight under the eyelids sees darkness, so that one also, by
+the very not willing to think the good, thought the opposite to the good. And
+this is envy. And it is confessed that the beginning of every thing is cause
+of the things that happen after it according to sequence, as to health the
+being in good condition, the working, the living according to pleasure; and to
+disease the being weak, the being without activity, the having life in
+unpleasantness. So also all the other things follow their own beginnings
+according to sequence. As then impassibility becomes a beginning and
+underlying of the life according to virtue, so the
+
+
+inclination toward vice that came to be through envy became a way of all the
+evils shown forth after it. For when once the one who by the turning-away from
+goodness generated envy in himself had the inclination toward the evil, as a
+stone broken off from a mountain-ridge is driven together by its own weight
+toward the steep, so that one also, having been torn from the connaturality
+toward the good and having grown heavy toward vice, was carried off, being
+pushed together of himself as by some weight toward the last bound of
+wickedness, and having made the thinking power, which he had from the one who
+created him for cooperation of the participation of the better, a co-worker
+toward the finding of the things thought according to vice, he goes around the
+man resourcefully through deceit, having persuaded him to become of himself
+both murderer and self-slayer. For when man, having been empowered through the
+divine blessing, was high in dignity; for he was ordered to reign over the
+earth and all the things upon it; and beautiful in form; for he had become an
+image of the archetypal beauty; and impassible in nature; for he was an
+imitation of the impassible; and full of boldness, luxuriating in the divine
+manifestation itself face to face; and these things were kindlings of the
+passion according to envy for the opposing one; and he was not able to work
+what was according to his mind by some strength and force of power; for the
+power of the blessing of God was stronger than his force; for this reason he
+contrives to make him stand away from the power that was strengthening him, so
+that he might become easy to catch for him toward the plot. And as in the case
+of a lamp, when the fire has laid hold of the wick, if someone unable to
+quench the flame by blowing should mix water with the oil, by this device he
+will dim the flame, so the opposing one, having mixed vice into the choice of
+man through deceit, made a certain quenching and dimming of the blessing,
+which failing, of necessity the opposite comes in instead. And death stands
+opposite to life, and weakness to power, and the curse to the blessing, and
+shame to the boldness, and to all the goods the things thought according to
+the opposite. For this reason the human is now in the present evils, that
+beginning having furnished the starting-points of such an end.
+
+7 And let no one ask whether God, having foreknown the human misfortune that
+would happen to him from the ill-counsel, came into creating man, for whom
+perhaps not to come to be was more profitable than to be in evils. For these
+things those who have been dragged aside through deceit to the Manichaean
+dogmas put forward for the constitution of their own error, as through this
+showing the creator of the human nature to be wicked. For if God is ignorant
+of none of the things that are, and man is in evils, the account of the
+goodness of God would no longer be preserved, if he brought man toward life
+who was going to live in evils. For if the activity according to the good is
+altogether of a good nature, this painful and perishable life, he says, would
+no longer be brought up to the creating of the good, but one must think
+another cause of such a life, whose nature has an inclination toward
+wickedness. For all these things and such things seem to those who have
+received in depth, as some fast dye, the heretical deceit to have a certain
+strength through the surface persuasiveness; but to those more clear-seeing of
+the truth they are clearly observed as being rotten and having a ready showing
+of the deceit. And it seems to me to be well to set the apostle in these
+things as advocate of the accusation against them. For in the account toward
+the Corinthians he divides both the fleshly and the spiritual states of the
+souls, showing, I think, through the things said, that it is not proper to
+judge the beautiful or the evil through sense, but having stood the mind away
+from the things appearing according to the body, to distinguish the nature
+itself upon itself of the beautiful and of the opposite. For the spiritual, he
+says, judges all things. This I think to have been the cause of the
+myth-making of these dogmas having come to be in those who bring such things
+forward, that
+
+
+defining the good toward the pleasant of bodily enjoyment, because the nature
+of the body, being composite and flowing toward dissolution, is of necessity
+subject to passions and infirmities, and some painful sensation somehow
+follows such sufferings, they think the making of man to be a work of a wicked
+god. As if their thought had looked toward the higher, and having settled the
+mind away from the disposition about pleasures they had looked without passion
+upon the nature of the things that are, they would not have thought any other
+evil to be besides wickedness. And every wickedness is characterized in the
+deprivation of the good, not being by itself, nor viewed according to
+hypostasis; for no evil lies outside choice upon itself, but by the good not
+being it is so named. And the not-being does not subsist, and of what does not
+subsist the creator of the things that subsist is not creator. Therefore God
+is outside the cause of the evils, being the maker of the things that are, not
+of the things that are not; the one who created the seeing, not the maiming;
+the one who showed forth virtue, not the deprivation of it; the one who set
+the prize of the goods as a prize of choice for those who live according to
+virtue, not having yoked the human nature by some violent necessity toward
+what seemed good to himself, drawing it unwillingly toward the beautiful as
+some soulless vessel. But if, when the light from a clear sky is shining round
+purely, someone should willingly put the seeing under the eyelids, the sun is
+outside the cause of the one not seeing.
+
+8 But the one who looks toward the dissolution of the body is altogether
+indignant, and makes it a hard thing that our life is dissolved by death, and
+says this to be the last of the evils, that our life is quenched by deadness.
+Therefore let him inspect through this gloomy thing the excess of the divine
+benefaction; for perhaps rather through these things he would be led to marvel
+at the grace of the care of God about man. Living is choiceworthy to those who
+share the life because of the enjoyment of the things according to their wish.
+As if someone should live through in pains, by much for such a one not being
+is judged more honorable than being painfully. Therefore let us examine
+whether the supplier of life looks toward some other thing, and not how we may
+live in the most beautiful things. For when by the self-governing movement we
+drew upon ourselves the communion of the evil, having mixed the evil into the
+nature through a certain pleasure as some poison seasoned with honey, and for
+this reason having fallen from the blessedness thought according to the
+impassible, we were transformed toward vice, for this sake man as some earthen
+vessel is again resolved into earth, so that, the filth now enclosed in him
+having been separated, he may be formed again into the shape from the
+beginning through the resurrection. And such a dogma Moses sets out for us
+more historically and through riddles. Yet even the riddles have the teaching
+clear. For when, he says, the first humans came to be in the things forbidden
+and were stripped of that blessedness, the Lord puts coats of skin upon the
+first-formed; it does not seem to me that he carries the thought of the
+account toward such skins; for of what animals slaughtered and flayed is the
+covering thought for them? But, since every skin separated from the living
+being is dead, I think altogether that the power toward being made dead, which
+was exceptional of the irrational nature, the one who heals our vice put upon
+men after these things by providence, not as remaining forever; for the coat
+is of the things put upon us from outside, furnishing its own use to the body
+for a time, not grown together with the nature. Therefore from the nature of
+the irrational things deadness was economically put around the nature created
+into immortality, covering what is outside it, not what is inside, taking hold
+of the sensible part of man, but not attaching to the divine image itself. And
+the sensible is dissolved, not made to vanish. For vanishing is the
+passing-over into the not-being; but dissolution is the diffusion again into
+the elements of the world, from which it had the constitution. And what has
+come to be in these has not perished, even if
+
+
+it escapes the grasp of our sense. And the cause of the dissolution is clear
+through the example spoken to us. For since sense has a kinship toward the
+thick and earthly, and the intelligent nature is better and higher than the
+movements according to sense, for this reason, the judgment about the
+beautiful having been missed in the testing of the senses, and the missing of
+the beautiful having worked the hypostasis of the opposite habit, the part of
+us that was made useless by the acceptance of the opposite is dissolved. And
+the account of the example is such. Let it be granted that some vessel has
+been constituted from clay, and that this has become full from some plot of
+melted lead, and that the lead poured in has set and remains unpourable, and
+that the one who possesses it claims the vessel, and having the knowledge of
+pottery he crushes the potsherd with the lead; then thus again according to
+the former shape he forms the vessel again toward his own use, having become
+empty of the matter mixed in. So then also the former of our vessel, vice
+having been mixed into the sensing part, I mean that according to the body,
+having dissolved the matter that received the evil, having formed it again
+unmixed of the opposite through the resurrection, will re-element the vessel
+toward the beauty from the beginning. And since there comes to be a certain
+binding-together and communion of the sufferings according to sin both for the
+soul and for the body, and there is a certain analogy of the bodily death
+toward the psychic death; for as in flesh we name being separated from the
+sensible life death, so also in the case of the soul we name the separation
+from the true life death; since then there is one communion of the evil, as
+has been said before, viewed both in soul and body; for through both the
+wicked proceeds into activity; for this reason the death of the dissolution
+from the putting-on of the dead skins does not touch the soul. For how would
+what is not composed be dissolved? And since there is need that the stains
+grown in from sins be taken out of that also through a certain therapy, for
+this sake in the present life the drug of virtue was added toward healing of
+such wounds. But if it should remain unhealed, the therapy has been stored in
+the life after these things. But as there are certain differences of the
+sufferings according to the body, of which some more easily, and some more
+hardly, admit the therapy, upon which both cuttings and cauteries and bitter
+drinkings of drugs are taken toward the taking-away of the passion that has
+settled in the body, such a thing also the judgment after these things
+announces toward therapy of the infirmities of the soul, which to the more
+slack is a threat and a setting-right of gloomy things, so that by fear of the
+repayment of the painful things we may be made temperate toward the flight of
+vice; but to the more understanding it is believed to be a healing and therapy
+from God who brings his own formed thing back toward the grace from the
+beginning. For as those who scrape off by cutting or burning the nails and the
+warts that have come upon the body against nature do not bring a painless
+healing to the one being benefited, yet they do not bring the cutting upon
+harm of the one who endures, so also as many earthy remainders as are hardened
+upon our souls that have been made flesh through the communion of the
+passions, in the time of the judgment are both cut and scraped off by that
+unspeakable wisdom and power of the one who, as the gospel says, heals the
+evil. For those who are healthy, he says, have no need of a physician, but
+those who are in a bad state. And because much connaturality of the soul
+toward the evil has come to be, as the cutting of a wart stings the surface;
+for what has grown against nature in the nature attaches to the subject
+through a certain sympathy, and there comes to be some unreasonable
+co-blending of the alien toward what is ours, so that the sense is pained and
+bitten being separated from what is against nature; so also, the soul being
+made thin and melted in the rebukes for the sin, as somewhere the prophecy
+says, because of the kinship toward the evil that has come to be in depth
+there follow of necessity certain unspeakable
+
+
+and inexpressible pains, whose narration has the unspeakable equally with the
+nature of the goods hoped for. For neither these nor those are brought under
+the power of words or the guess of thought. Therefore one looking off toward
+the end of the wisdom of the one who administers the whole would no longer
+reasonably name the creator of men cause of evils from smallness of soul,
+either saying that he is ignorant of what will be, or that knowing and having
+made he is not outside the impulse toward the wicked. For he both knew what
+would be and did not hinder the impulse toward what comes to be; for that the
+human would be turned aside from the good, the one who holds all things round
+in the knowing power and sees the next equally with the past did not not know.
+But as he saw the turning-aside, so he also thought again his calling-back
+toward the good. What then was better, not to bring our nature into
+coming-to-be at all, since he foresaw that the one who would come to be would
+miss the beautiful, or having brought him and him having become sick, to call
+him back again through repentance toward the grace from the beginning? And to
+name God maker of evils because of the bodily pains, which of necessity happen
+upon the flowing of the nature, or not even to think him creator of man at
+all, so that he may not be suspected as cause also of the things that pain us,
+this is of the last smallness of soul of those who distinguish the beautiful
+and the evil by sense, who do not know that that alone is good to the nature
+which sense does not touch, and that alone is evil the alienation of the true
+good. And to judge the beautiful and the not beautiful by toils and pleasures
+is peculiar of the irrational nature, upon which the comprehension of the
+truly beautiful has no place because they do not participate mind and thought.
+But that man is a work of God, having come to be both beautiful and upon most
+beautiful things, is clear not only from what has been said, but also from
+countless others, whose multitude we shall pass by because of the lack of
+measure. And having named God maker of man we have not forgotten the things
+distinguished by us in the prologue toward the Greeks, in which it was shown
+that the Word of God, being some essential and hypostatic thing, is himself
+both God and Word, having enclosed every productive power, or rather being
+power itself and having the impulse toward every good and working whatever he
+may will by having the power concurrent with the will, whose both will and
+work is the life of the things that are, from whom also man was brought into
+living, having been adorned in a godlike way with all the most beautiful
+things. And since only that is unalterable according to nature which does not
+have the coming-to-be through creation, but as many things as have come to
+subsist from the uncreated nature from the not-being, having begun at once
+from turning of being, always proceed through alteration, if they should act
+according to nature, the alteration coming to be for them toward the better
+forever, but if they should be turned aside from the straight, the movement
+toward the opposite receiving them; since then among these was also man, for
+whom the turnable of the nature slipped toward the opposite, and once the
+withdrawal from the goods according to sequence bringing in instead every form
+of evils, so that by the turning-away from life death was brought in instead,
+and by the deprivation of the light the darkness came on, and by the absence
+of virtue vice was brought in instead, and to every form of the goods the
+catalogue of the opposites was numbered against, the one who by ill-counsel
+had fallen into these and such things; for it was not even possible for the
+one who had turned away from prudence to be in prudence and for the one who
+had withdrawn from wisdom to counsel something wise; through whom did he need
+to be called back again toward the grace from the beginning? To whom did the
+setting-upright of the fallen belong, the calling-back of the lost, the
+leading-by-the-hand of the one who had wandered? To whom else than altogether
+to the Lord of the nature? For to the one who from the beginning had given the
+life alone was it possible and fitting at once also to call back what had been
+lost. Which we hear from the mystery of the truth, learning that God made man
+at the beginning and has saved him who had fallen through.
+
+
+9 But up to these things perhaps the one who looks toward the sequence will
+agree with the account, because none of the things said seems to be outside
+the thought fitting to God; but toward the things next he will not be in the
+same way, through which especially the mystery of the truth is made firm;
+human coming-to-be and the growth from infant toward perfection, and eating
+and drinking, and toil, and sleep, and grief, and tear, and slander and a
+law-court, and a cross, and death, and the placing in a tomb; for these
+things, being taken together with the mystery, somehow blunt the faith of the
+more small-souled, so that they do not even receive together the next of the
+things said because of the things said before. For they do not admit the
+fitting-to-God of the resurrection from the dead because of the unfitting
+about the death. But I think one must first, having stood the reasoning a
+little away from the fleshly thickness, think the beautiful itself upon itself
+and what is not such, by what marks each of these is grasped. For I think none
+of those who have reasoned will speak against, that one thing alone of all
+according to nature is shameful, the passion according to vice, and what is
+outside vice is alien to every shame; and that in which no shameful thing has
+been mixed is altogether grasped in the portion of the beautiful, and the
+truly beautiful is unmixed of the opposite. And everything that is viewed in
+the place of the beautiful is fitting to God. Either then let them show birth
+to be vice, the rearing, the growth, the advance of the nature toward the
+perfect, the trial of death, the return from death; or if they agree that the
+things said are outside vice, they will of necessity confess that what is
+alien to vice is nothing shameful. And the thing freed of every shamefulness
+and vice being altogether shown forth as beautiful, how are they not pitiable
+for unreason who dogmatize that the beautiful is not fitting upon God?
+
+10 But the human nature, he says, is small and easily circumscribed, and the
+deity is infinite, and how would the infinite be enclosed by the atom? And who
+says this, that by the circumscription of the flesh as by some vessel the
+infinity of the deity was enclosed? For not even in the case of our life is
+the intelligent nature shut within the bounds of the flesh. But the bulk of
+the body is circumscribed by its own parts, and the soul by the movements of
+thought is spread out according to authority over all the creation, both going
+up as far as heavens, and boarding the abysses, and in the breadth of the
+inhabited world
+
+going about, and slipping in toward the under-earth through busyness, and
+often even comes into thought of the heavenly wonders, being in no way weighed
+down by the trailing of the body. And if a soul of man, mixed together with
+the body according to the necessity of the nature, comes to be everywhere
+according to authority, what necessity is there to say that the deity is
+fenced in by the nature of the flesh and not, through the examples that have
+room for us, to take some fitting guess about the divine economy? For as the
+fire upon the torch is seen having laid hold of the underlying matter, and the
+account distinguishes both the fire upon the matter and the matter that
+kindles the fire, but in work it is not possible, having cut these from one
+another, to show the flame upon itself unyoked from the matter, but the
+both-together become one, so also in this case; and let no one take together
+the destructive of the fire with the example, but having received only as much
+as is seemly in the image, let him refuse what is unfitting; in the same
+manner then, as we see both the flame hung from the underlying and not shut up
+in the matter, what hinders, having thought some union and approach of divine
+nature toward the human, from preserving the thought fitting to God even in
+the approach, believing the divine to be outside every circumscription, even
+if it is in a man?
+
+11 And if you seek how deity is mixed down toward the human, it is time for
+you before this to seek what the connaturality of the soul toward the flesh
+is. And if the manner of your own soul is unknown, according to which it is
+united to the body, do not think that that also must altogether come within
+your grasp; but as here we have also believed the
+
+
+soul to be some other besides the body from the flesh, having been left alone
+of the soul, becoming both dead and without activity, and we do not come to
+know the manner of the union, so there also we confess that the divine nature
+differs toward the more magnificent from the mortal and perishable, but we do
+not have room to see together the manner of the blending of the divine toward
+the man. But that God has come to be in nature of man we do not doubt through
+the wonders that are related, but the how, as greater than according to an
+approach of reasonings, we decline to search through. For not even, believing
+all the bodily and intelligible creation to have come to subsist from the
+bodiless and uncreated nature, do we examine together with the faith about
+these things the from-where or the how. But accepting that it has come to be,
+we leave the manner of the constitution of the whole unbusied, as being
+altogether unspeakable and uninterpretable.
+
+12 And let the one who seeks the proofs of God having been manifested in flesh
+look toward the activities. For not even of God being at all would anyone have
+another proof, except the witness through the activities themselves. As then,
+looking off into the whole, and inspecting the administrations according to
+the world and the benefactions worked from God according to our life, we grasp
+that some power lies above, productive of the things that come to be and
+preservative of the things that are, so also in the case of the God manifested
+to us through flesh we have made the wonders according to the activities a
+sufficient proof of the manifestation of the deity, having thought all things
+in the works that have been related, through which the divine nature is
+characterized. Of God is the making men live, of God the preserving the things
+that are through providence, of God the granting food and drink to those who
+have obtained the life through flesh, of God the benefiting the one in need,
+of God the bringing the nature that has been turned aside from weakness back
+again through health toward itself, of God the standing over all the creation
+in like manner, earth, sea, air, and the places above the air, of God the
+having the power sufficient toward all things and before all things the being
+better than death and corruption. If then the history about him was deficient
+of some of these and such things, reasonably those outside the faith would
+strike out our mystery; but if through the things by which God is thought, all
+things are observed in the narrations about him, what is the thing that
+hinders the faith?
+
+13 But, he says, both birth and death is peculiar of the fleshly nature. I say
+so too. But the before the birth and the after the death escapes the
+commonness of our nature. For looking toward each of the bounds of the human
+life, we know both from where we begin and into what we end. For man, having
+begun to be from passion, is completed together with passion. But there
+neither did the birth begin from passion, nor did the death end into passion;
+for neither did pleasure lead the birth, nor did corruption receive the death.
+You disbelieve the wonder? I rejoice at your unbelief; for you altogether
+confess, through the things by which you hold what is said to be above faith,
+that the wonders are above the nature. Let this very thing then be for you a
+proof of the deity of the one who appeared, that the preaching does not go
+forward through the things according to nature. For if the narrations about
+Christ were within the bounds of the nature, where is the divine? But if the
+account oversteps the nature, in the things in which you disbelieve, in these
+is the proof that the one preached is God. For a man is born from pairing and
+after death comes to be in corruption. If the preaching held these things, you
+would not altogether have thought him to be God who is witnessed in the
+peculiarities of our nature. But since you hear that he has come to be, and
+that he has gone out from the commonness of our nature both by the manner of
+the coming-to-be and by the incapability of the alteration into corruption, it
+would be well according to sequence to use the unbelief upon the other, toward
+not thinking him a man, one of those shown in the nature. For there is every
+necessity that the one who does not believe such a one to be a man be led into
+the faith about him being God. For the one who related him to have been born
+
+
+also narrated together the having been born from a virgin. If then through the
+things said it is trustworthy that he has been born, through these same things
+altogether the having been born thus is not unconvincing either. For the one
+who said the birth also added the from virginity; and the one who mentioned
+the death also bore witness of the resurrection to the death. If then from the
+things you hear you grant both to have died and to have been born, from the
+same things you will altogether also grant that both his birth and the death
+are outside passion. But indeed these things are greater than the nature.
+Therefore that one also is not altogether within the nature who is shown to
+have come to be in the things above the nature.
+
+14 What then is the cause, he says, of the divine having come down toward this
+lowliness, so that the faith is ambiguous, if God, the uncontainable and
+incomprehensible and unutterable thing, what is above every glory and every
+greatness, is mixed down with the defilement of the human nature, so that even
+his high activities are made cheap together by the admixture toward the low.
+
+15 We are not at a loss also toward this of an answer fitting to God. Do you
+seek the cause of God coming to be in men? If you take away the benefactions
+that come to be from God from the life, from what things you will come to know
+the divine you would not be able to say. For from the things by which we are
+well treated, from these we come to know the benefactor; for looking toward
+the things that come to be, through these we reckon the nature of the one who
+works. If then love of man is a peculiar mark of the divine nature, you have
+the account you sought, you have the cause of the presence of God in men. For
+our nature having grown weak needed the one who heals, the man in the fall
+needed the one who sets upright, the one who had missed the life needed the
+one who makes live, the one who had slipped away from the participation of the
+good needed the one who brings back toward the good, the one shut in the
+darkness needed the presence of the light, the captive sought the ransomer,
+the prisoner the fellow-combatant, the one held by the yoke of slavery the
+liberator. Are these things small and unworthy to put God to shame toward
+coming down for inspection of the human nature, humanity being so pitiably and
+wretchedly disposed? But it was possible, he says, both for man to be
+benefited and for God to remain through in impassibility. For the one who
+constituted the whole by the will and made the not-being subsist in the
+impulse of the will alone, why did he not also, having pulled man away from
+the opposing power through some authentic and divine authority, bring him
+toward the state from the beginning, if this was dear to him; but he goes
+round long circuits, putting on nature of body, and going through into the
+life through birth, and going through every age in sequence, then tasting
+death, and thus through the resurrection of his own body accomplishing the
+aim, as if it were not possible for him, remaining upon the height of the
+divine glory, to save man through a command, and to let such circuits be?
+
+Therefore there is necessity that the truth also stand against such
+oppositions from us, so that the faith may be hindered through none of those
+who seek the account of the mystery examinatively. First then, which has
+already been examined moderately also in what has gone before, let us inspect
+what stands opposite to virtue according to the opposite. As darkness to light
+and death to life, so vice to virtue, it is clear, and nothing other besides
+this. For as, many things being viewed in the creation, nothing else has the
+opposition toward the light or the life, not stone, not wood, not water, not
+man, not any other of the things that are, except properly the things thought
+according to the opposite, such as darkness and death; so also in the case of
+virtue one would not say some creation to be thought according to the opposite
+to it, except the thought according to vice. Therefore if our account were
+advocating that the divine has come to be in vice, the one speaking against
+would have a time to run down our faith, as dogmatizing things both unfitting
+and unseemly about the divine nature; for it was not lawful to say that wisdom
+itself and goodness and
+
+
+incorruptibility, and whatever high thought and name there is, has fallen over
+toward the opposite. If then God is the true virtue, and some nature is not
+divided against virtue, but vice, and God does not come to be in vice, but in
+nature of man, and only the passion according to vice is unfitting and
+shameful, in which God has neither come to be, nor has nature to come to be,
+why are they ashamed at the confession that God has touched human nature, no
+opposition toward the account of virtue being viewed in the construction of
+man? For neither the rational, nor the thinking, nor the receptive of
+knowledge, nor any other such thing, which is peculiar of the human essence,
+has been opposed to the account of virtue.
+
+16 But this very turning of our body, he says, is a passion. And the one who
+has come to be in this comes to be in passion; and the divine is impassible.
+Therefore the assumption about God is alien, if they determine that the one
+impassible according to nature come into communion of passion. But toward
+these things again we shall use the same account, that passion is said the one
+thing properly, and the other from misuse. That then which touches choice and
+turns from virtue toward vice is truly passion, but as much as is viewed
+going-through in the nature proceeding according to its own sequence, this
+would more properly be named a work rather than a passion, such as the birth,
+the growth, the remaining of the subject through the inflowing and outflowing
+of the nourishment, the running-together of the elements about the body, the
+dissolution again of what has been put together and the passing-over toward
+the kindred. Of what then does our mystery say the divine has touched? Of the
+passion said properly, which is vice, or of the movement according to nature?
+For if the account were insisting that the divine has come to be in the things
+forbidden, one ought to flee the absurdity of the dogma, as going through
+nothing sound about the divine nature; but if it says that he has touched our
+nature, whose both the first coming-to-be and hypostasis had the beginning
+from him, where does the preaching miss the thought fitting to God, no
+passionate disposition in the assumptions about God entering together with the
+faith? For we do not even say that the physician comes to be in passion, when
+he heals the one who comes to be in passion; but even if he attaches to the
+infirmity, the healer remains through outside passion. If the coming-to-be
+itself by itself is not a passion, one would not name the life a passion
+either, but the passion according to pleasure leads the human coming-to-be,
+and the impulse of those living toward vice, this is an infirmity of our
+nature; but indeed the mystery says that he is clean of both; if then the
+coming-to-be has been made alien of pleasure, and the life of vice, what
+passion remains, of which the mystery of piety says that God has had a share?
+And if one should name the unyoking of the body and the soul a passion, much
+earlier would he be just to name the running-together of both thus. For if the
+separation of the things joined is a passion, the joining of the things
+standing apart would also be a passion; for there is a certain movement both
+in the putting-together of the things standing apart and in the distinguishing
+of the things interwoven or united. What then the last movement is named, this
+it is proper that the preceding also be called. But if the first movement,
+which we name coming-to-be, is not a passion, neither would the second
+movement, which we name death, be said according to sequence to be a passion,
+according to which the running-together of the body and the soul is
+distinguished. And we say that God has come to be in each movement of our
+nature, through which both the soul runs together toward the body, and the
+body is distinguished from the soul; and having been mixed down toward each of
+these, I mean toward both the sensible and the intelligent of the human
+compound, through that unspeakable and inexpressible co-blending he
+administered this, that of the things once united, I mean soul and body, the
+union should also remain through forever. For our nature having been moved
+through its own sequence even in him toward distinction of the body and the
+soul, he joined again the things distinguished, as by some glue, by the
+
+
+divine power I mean, fitting together what had been split toward the
+unbreakable union. And this is the resurrection, the return of the things
+yoked together after the dissolution into an undissolved union, growing
+together with one another, so that the first grace about the human may be
+called back, and we may come back again upon the everlasting life, the vice
+mixed into the nature having flowed out through our dissolution, as happens
+upon the wet, when the vessel around it has been crushed, being scattered and
+made to vanish, there being nothing that covers round. And as the beginning of
+death, having come to be in one, went through together with all the human
+nature, according to the same manner also the beginning of the resurrection
+through one stretches upon all the humanity. For the one who joined again the
+soul taken up by himself to his own body through the power of himself that was
+mixed into each of these at the first constitution thus by some more generic
+account mixed the intelligent essence together with the sensible, the
+beginning succeeding according to sequence upon the end. For in the man taken
+up by him, the soul having come back again after the dissolution toward the
+body, as from some beginning the union of what was distinguished passes over
+equally by the power into all the human nature. And this is the mystery of the
+economy of God about the death and of the resurrection from the dead, not to
+hinder the soul from being dissolved from the body by death according to the
+necessary sequence of the nature, but to bring them back again into one
+another through the resurrection, so that he himself may become a boundary of
+both, of both death and life, having stopped in himself the nature being
+divided by death, and himself having become a beginning of the union of the
+things divided.
+
+17 But someone will say that the opposition brought against us has not yet
+been dissolved, but rather that what is brought forward to us by the
+unbelievers is made stronger from the things said. For if there is so great a
+power in him, as great as the account has shown, so that both a taking-down of
+death and an entrance of life is upon him, why does he not do what is
+according to his mind by will alone, but works our salvation from a circuit,
+both being born and being reared, and saving the man by the trial of death, it
+being possible neither to come to be in these things and to save us round? And
+toward such an account it would have been enough toward the well-minded to say
+so much, that those who are sick do not legislate to the physicians the manner
+of the care, nor dispute with the benefactors about the form of the therapy,
+why the one healing attached to the part that is in pain and thought of this
+certain thing toward the dissolution of the evil, another being needed, but
+looking toward the end of the benefaction they received the well-doing in
+thanksgiving. But since, as the prophecy says, the multitude of the kindness
+of God has the benefit hidden and is not yet clearly observed through the
+present life; for every speaking-against of the unbelievers would have been
+taken away, if what is expected were in the eyes; but now it waits for the
+ages that come on, so that in them the things now seen through faith alone may
+be unveiled; it would be necessary by certain reasonings according to what has
+room to find out also the dissolution of the things sought, agreeing with what
+has gone before.
+
+18 And yet perhaps it is superfluous, having believed that God has come to
+sojourn in the life, to slander the presence as not having come to be in some
+wisdom and account for the better. For to those who do not fight overmuch
+against the truth it is no small proof of the divine sojourning, that which
+has been made manifest even before the coming life in the present life, I mean
+the witness through the things themselves. For who does not know how the
+deceit of the demons had been filled according to every part of the inhabited
+world, having overpowered the life of men through the idol-madness; how this
+was lawful to all the nations according to the world, to serve the demons
+through the idols in the living-sacrifices and the pollutions upon the altars?
+But from when, as the apostle says, the saving grace of God appeared to all
+men, having sojourned through the human nature, all things
+
+
+passed over like smoke into the not-being, so that the madnesses of the
+oracles and of the divinations ceased, and the yearly processions and the
+pollutions through bloods in the hecatombs were taken away, and among many of
+the nations altars and gateways and precincts and images and as many other
+things as were practiced by the servants of the demons for deceit of
+themselves and of those who meet them vanished altogether, so that in many of
+the places it is not even remembered if these things ever came to be, and
+there were raised instead according to all the inhabited world upon the name
+of Christ both temples and altars and the solemn and bloodless priesthood and
+the high philosophy, being set right by work rather than by word, and the
+looking-down of the bodily life and the contempt of death, which those who
+were being forced by the tyrants to stand away from the faith showed forth
+clearly, having received as nothing the outrages of the body and the vote upon
+death, which they would not have endured, it is clear, if they did not have
+the clear and undoubted proof of the divine sojourning. And this same thing is
+also a sufficient sign to say toward the Jews of the one disbelieved by them
+being present. For up to the theophany of Christ the palaces in Jerusalem were
+bright among them, that temple of two names, the sacrifices thought lawful
+through the year, all as many things as have been distinguished by the law
+through riddles for those who know how to hear mystically, up to then
+according to the worship of piety thought from the beginning for them were
+unhindered. But when they saw the one expected, whom they had been taught
+beforehand through the prophets and the law, and they made that superstition,
+already having missed, more honorable than the faith into the one who
+appeared, which having taken badly they were guarding the sayings of the law,
+being enslaved to custom rather than to thought, they neither received the
+grace that had appeared, and the solemn things of the worship among them are
+left in bare narrations, the temple no longer being known even from traces,
+and that bright city having been left in ruins, and nothing of the things
+thought lawful according to the ancient remaining for the Jews, but even the
+place itself venerable to them in Jerusalem having become untrodden by command
+of those who hold power.
+
+19 But nevertheless, since neither to those who hellenize nor to those who
+stand over the Jewish dogmas do these things seem to be made proofs of a
+divine presence, it would be well to take up the account privately about the
+things brought back against us, for what sake the divine nature is woven
+together toward ours, saving the human through itself, not working what is
+according to purpose through a command. What beginning then would there be for
+us, leading the account by the hand in sequence toward the aim lying before?
+What other than to go through the pious assumptions about God upon headings?
+
+20 Therefore it is confessed by all that one must believe the divine not only
+to be powerful, but also just and good and wise and everything that carries
+the thought toward the better. It is sequential then upon the present economy
+not to wish the one of the things fitting to God to appear in the things that
+have come to be, and the other not to be present; for wholly none of these
+high names by itself, unyoked from the others, is virtue alone; neither is the
+good truly good, not being ranked with the just and the wise and the powerful;
+for the unjust or unwise or powerless good is not; nor is the power separated
+from the just and the wise viewed in virtue; for such a form of power is
+beastlike and tyrannical. Likewise also the remaining things, if the wise
+should be carried outside the just, or the just, if it should not be viewed
+with the powerful and the good, one would more properly name such things vice;
+for how would one number the deficient of the better among goods? But if all
+things ought to run together in the opinions about God, let us inspect whether
+the economy according to man is left behind of any
+
+
+of the assumptions fitting to God. We seek altogether upon God the signs of
+the goodness. And what witness of the good would become more manifest than his
+being changed toward the one who deserted toward the opposite, the nature firm
+in the good and unalterable not being disposed together with the
+easily-changed of the human choice? For he would not have come into saving us,
+as David says, if goodness were not putting such a purpose in. But the good of
+the purpose would have benefited nothing, if wisdom were not making the love
+of man active. For also upon those who are disposed in infirmity perhaps many
+are those who wish the one lying not to be in evils, but only those bring the
+good choice over the sick to an end, in whom some technical power works toward
+the healing of the one who is sick. Therefore wisdom must altogether be yoked
+together with the goodness. How then in the things that have come to be is the
+wise viewed together with the good? Because the good according to purpose is
+not to be seen bare. For how would the purpose appear, not being made manifest
+through the things that come to be? And the things that have been done, going
+forward in some sequence and order through what follows, show forth the wise
+and technical of the economy of God. And since, as has been said in what has
+gone before, the wise yoked together with the just altogether becomes virtue,
+and if it should be separated, it would not be good by itself alone, it would
+be well also upon the account of the economy according to man to think the two
+with one another, I mean the wise and the just.
+
+21 What then is the justice? We remember altogether of the things
+distinguished according to sequence in the first of the account, that man was
+constructed an imitation of the divine nature, preserving the likeness toward
+the divine both by the remaining of the goods and by the self-governing of the
+choice, being of a turnable nature of necessity; for it was not possible that
+the one who had the beginning of being from alteration not be turnable
+altogether; for the passage from the not-being into being is some alteration,
+non-existence being transferred into essence according to divine power, and
+otherwise also the turning being of necessity viewed in man, since man was an
+imitation of the divine nature; and what imitates, if it should not happen to
+be in some otherness, would altogether be the same as that to which it has
+been likened. In this then the otherness of the one who has come to be
+according to image toward the archetype being, in this, that the one is
+unturnable by nature, and the other is not so, but came to subsist through
+alteration according to the account given, and being altered does not
+altogether remain in being; and alteration is some movement into another from
+that in which it is, going forward forever; and two are the forms of such
+movement; the one always coming to be toward the good, in which the advance
+has no standing, because no bound of what is gone through is grasped; and the
+other toward the opposite, whose hypostasis is in the not subsisting; for the
+opposition of the good, as has been said in the things before, has some such
+mind according to the distinction, as we say that the being is divided against
+the not-being and existence against non-existence; since then according to the
+turnable and alterable impulse and movement it is not possible for the nature
+to remain unmoved upon itself, but the choice altogether goes upon something,
+the desire toward the beautiful drawing it by nature into movement; and the
+beautiful is one thing truly according to nature, and the other is not such,
+but flowered with some imagination of beautiful; and the criterion of these is
+the mind, seated within us from inside, in which it is risked either to hit
+the really beautiful, or having been turned aside from it through some deceit
+according to the appearing to slip away upon the opposite, such a thing as the
+myth from outside says the dog suffered, having looked in the water toward the
+shadow of what she was carrying through the mouth, to let go the true food,
+and having gaped round the image of the food to come to be in hunger; since
+then the mind, having been cheated of the desire toward the really good, was
+carried aside toward the not-being, having been persuaded through deceit of
+the counselor and finder of vice that the opposite to the beautiful is
+beautiful; for the deceit would not have worked, if as a bait upon the hook of
+vice the
+
+
+imagination of the beautiful had not been molded round; man then having come
+to be in this misfortune willingly, having yoked himself through pleasure to
+the enemy of the life, seek for me all at once all the things fitting to the
+divine assumptions, the good, the wise, the just, the powerful, the
+incorruptible, and whatever belongs to the signification of the better.
+Therefore as good he takes pity of the one who has fallen through, as wise he
+is not ignorant of the manner of the calling-back. And of wisdom would be also
+the judgment of the just; for no one would attach unwisdom to the true
+justice.
+
+22 What then in these things is the just? Not to use some tyrannical
+authenticity against the one holding us, nor by the excess of the power,
+having pulled him away from the one who rules, to leave some starting-point of
+justification to the one who enslaved the man through pleasure. For as those
+who have sold their own freedom for money are slaves of those who bought them,
+having become sellers of themselves, and neither to them nor to any other over
+them is it possible to cry out the freedom, even if those who deserted toward
+this misfortune are of good father; but if someone caring for the one sold
+should use force against the one who bought, he will seem to be unjust, taking
+out tyrannically the one acquired by law; but if he should wish again to buy
+such a one out, there is no law that hinders; according to the same manner, we
+having sold ourselves out willingly, it was necessary that by the one who
+through goodness takes us out again into freedom not the tyrannical but the
+just manner of the calling-back be thought of. And this is to make it upon the
+one who rules to take whatever ransom he may wish instead of the one being
+held.
+
+23 What then was it likely that the one who rules would rather choose to take?
+It is possible through sequence to take some guess of his desire, if the
+things clear should become for us proofs of the things sought. He then who
+according to the account given beforehand at the beginning of the writing, by
+envy toward the one prospering shut his eye toward the good, and generated the
+gloom of vice in himself, and having sickened with love of rule as beginning
+of the inclination toward the worse and underlying and as it were mother of
+the remaining vice, for what would he have exchanged the one being held, if
+not clearly for the higher and greater exchange, so that he might rather feed
+his own passion according to conceit, exchanging the greater of the lesser?
+But indeed in the things related from the age, he had not known in anyone such
+a thing as he was observing about the one then appearing, an unpairing
+pregnancy, and an uncorrupted birth, and a nursing from virginity, and voices
+from above from the invisibles bearing witness upon the supernatural of the
+dignity, and a correction of the infirmities of the nature, some unlabored and
+bare, coming to be from him in a saying alone and an impulse of the will, and
+the return of the dead upon the life, and the drawing-up of the condemned, and
+the fear against the demons, and the authority of the passions according to
+the air, and the journey through sea, not of the deep dividing upon each and
+laying bare the bottom for those going by according to the wonder-working upon
+Moses, but of the surface of the water being made land-like under the
+stepping, and supporting the track through some safe resistance, and the
+looking-down of food as long as he should wish, and the abundant feastings in
+a desert of those being well-feasted in many thousands, for whom neither did
+heaven rain the manna, nor did the earth according to its own nature filling
+the need by making grain, but from the unspeakable treasuries of the divine
+power the generosity went forward, ready bread being farmed in the hands of
+those serving and becoming more through the satiety of those eating, and the
+relish through the fishes, not of sea contributing to them toward the need,
+but of the one who also sowed the race of the fishes in the sea. And how would
+one go through each of the gospel wonders? Seeing this power then, the enemy
+saw in that one more of the
+
+
+one being held the thing lying before in the exchange. For this sake he
+chooses him to become a ransom of those shut in the prison of death. But
+indeed it was impossible for him to look toward the bare imagination of God,
+not having viewed some portion of flesh in him, which he had already mastered
+through the sin. For this reason the deity is covered round with the flesh, so
+that, looking toward what is native and kindred to him, he may not be scared
+at the approach of the exceeding power; and having thought the power that
+shines through the wonders gently upon the greater, he may think what appeared
+to be more desirable than fearful. You see how the good has been yoked
+together with the just and the wise has not been separated from these. For to
+think of making the divine power containable through the covering of the body,
+so that the economy over us may not be hindered by the fear of the divine
+manifestation, has the proof of all at once, of the good, of the wise, of the
+just. For the choosing to save is a witness of the goodness; and the making
+the ransoming of the one being held transactional shows the just; and the
+making by device the uncontainable containable to the enemy has the proof of
+the highest wisdom.
+
+24 But it is likely that the one attending to the sequence of the things said
+seeks where the powerful of the deity, where the incorruptibility of the
+divine power is seen in the things said. In order then that these also may
+become clear, let us look through the next of the mystery, in which especially
+the power is shown mixed together with the love of man. First then that the
+all-powerful nature was able also to come down toward the low of the humanity
+has a greater proof of the power than the
+
+great and supernatural of the wonders. For that some great and high thing be
+worked out by the divine power is somehow according to nature and sequential.
+And it would not bring some strangeness to the hearing to say that all the
+creation in the world and everything that is grasped outside the things
+appearing was constituted in the power of God, the will itself of him having
+been made essence toward what seemed good. But the descent toward the low is
+some excess of the power, being hindered in nothing in the things against
+nature. For as it is peculiar of the essence of fire to be carried upon the
+up, and no one would hold what is worked naturally upon the flame to be worthy
+of wonder; but if he should see the flame flowing upon the down after the
+likeness of the heavy bodies, he makes such a thing in wonder, how the fire
+both remains being fire and in the manner of the movement goes out from the
+nature, being carried upon the down; so also the divine and exceeding power is
+not shown so much by magnitudes of heavens and rays of lights and the ordering
+of the whole and the continual economy of the things that are as by the
+condescension upon the weak of our nature, how the high, having come to be in
+the low, is both observed in the low and does not come down from the height,
+how deity having been woven together with human nature both becomes this and
+is that. For since, as has been said in the things before, the opposing power
+did not have nature to mix with the unmixed presence of God and to endure his
+bare appearing, so that the exchange over us might become easy to take for the
+one seeking, the divine was hidden in the veil of our nature, so that
+according to the greedy of the fishes the hook of the deity might be drawn
+down together with the bait of the flesh, and thus, the life having been
+housed into the death and the light having appeared to the darkness, what is
+thought according to the opposite to the light and to the life might vanish;
+for darkness does not have nature either to remain through in presence of
+light, or death to be when life is working. Therefore having taken up the
+sequence of the mystery upon headings let us make the apology complete toward
+those who accuse the divine economy, for what sake the deity works the human
+salvation through itself. For the divine must through all things be in the
+fitting assumptions and not the one thing be thought highly upon it, and the
+other of the
+
+
+dignity fitting to God be thrown out; but every high and pious thought must
+altogether be believed upon God, and the one be joined through sequence to the
+other. The good then has been shown, the wise, the just, the powerful, the
+incapable of corruption, all being shown forth by the account of the economy
+according to us. The goodness is grasped in the having chosen to save the
+lost, the wisdom and the justice have been shown forth in the manner of our
+salvation, the power in his having come to be in likeness of man and in shape
+according to the low of our nature and having been hoped to be able to be held
+by death according to likeness of men, and having come to be, having worked
+what is proper to himself and according to nature. And proper to light is the
+vanishing of the darkness, and to life the taking-down of the death. Since
+then having been carried aside from the straight road we were turned from the
+according-to-the-beginning of the life and were carried down into the death,
+what outside the likely do we learn from the mystery, if the purity attaches
+to those polluted from sin, and the life of the dead and the leading of those
+who have wandered, so that both the pollution may be cleaned, and the
+wandering may be healed, and the dead may come back into the life?
+
+25 And that the deity came to be in our nature would reasonably bring no
+strangeness to those who do not think the things that are overmuch
+small-souledly. For who is so infant in soul as, looking into the whole, not
+to believe the divine to be in all, both putting it on and encompassing and
+sitting in? For the things that are hang from the being, and it is not
+possible for something to be that does not have the being in the being. If
+then all things are in him and that is in all, why are they ashamed at the
+economy of the mystery that teaches God to have come to be in man, who even
+now is believed not to be outside the man? For even if the manner of the
+presence of God in us is not this same as that, yet the being in us both now
+and then has been confessed equally. Now then he is mixed in us as holding the
+nature together in being; but then he was mixed toward what is ours, so that
+what is ours by the admixture toward the divine may become divine, having been
+taken out of the death and having come to be outside the tyranny of the
+opposing one; for that return of his from the death becomes a beginning for
+the mortal race of the return into the immortal life.
+
+26 But perhaps someone in the examination of the justice and of the wisdom
+viewed according to this economy is led toward thinking that some deceit has
+been thought of as such a method over us by God; for the God, not with the
+deity bare, but covered by the human nature, having been unknown by the enemy,
+coming to be within the one who rules is a deceit in a certain way and a
+fallacy, since it is peculiar of those who deceive to turn the hopes of those
+plotted against toward another and to work another besides what was hoped. But
+the one who looks toward the truth will agree that this also of all things
+most is of both the justice and the wisdom. For it is of a just one to
+distribute to each according to worth, and of a wise one neither to turn aside
+the just, nor to separate the good aim of the love of man from the judgment
+according to the just, but to join both to one another resourcefully, by the
+justice giving back according to worth, and by the goodness not standing out
+of the aim of the love of man. Let us inspect then whether these two are not
+viewed in the things that have come to be. For the giving-back according to
+worth, through which the deceiver is deceived in return, shows the just, and
+the aim of what comes to be becomes a witness of the goodness of the one who
+works. For it is peculiar of justice to distribute to each those things of
+which someone laid down beforehand the beginnings and the causes, as the earth
+according to the kinds of the seeds that have been thrown down also gives back
+the fruits; and of wisdom, in the manner of the giving-back of the like
+things, not to fall out of the better. For as both the one who plots and the
+one who
+
+
+heals the one plotted against mix the drug similarly with the food; but the
+one the poison, and the other the antidote of the poison, and the manner of
+the therapy did not damage the aim of the benefaction; for even if from both a
+mixing of drug comes to be in food, yet looking off toward the aim we praise
+the one, and we are hard toward the other; so also here according to the
+account of the just the deceiver takes back those things whose seeds he threw
+down through his own choice; for he also is deceived by the putting-forward of
+the man, the one who deceived the man beforehand by the bait of the pleasure;
+but the aim of the things that come to be has the variation upon the better.
+For the one worked the deceit upon corruption of the nature, and the just at
+once and good and wise used the device of the deceit upon salvation of the one
+corrupted, not only benefiting the lost through these things, but also the one
+himself who worked the destruction against us. For from the death approaching
+the life, and the darkness the light, and the corruption the incorruptibility,
+there comes to be a vanishing of the worse and a passing-over into the
+not-being, and a benefit of the one being cleaned from these. For just as, a
+more dishonored matter having been mixed down with the gold, the healers of
+the gold, having consumed by the spending through the fire the alien and
+rejectable, bring the more honorable matter back again toward the brightness
+according to nature; yet the distinction does not come to be without toil, the
+fire in time making the bastard vanish by the consuming power, yet it is a
+therapy of the gold that that which lies upon it for ruin of the beauty be
+melted out; according to the same manner, death and corruption and darkness
+and whatever offspring of vice having grown round the finder of the evil, the
+approach of the divine power, having worked like fire a vanishing of what is
+against nature, benefits the nature by the cleaning, even if the distinction
+is toilsome. Therefore not even by the opposing one himself would it be
+doubted that what has come to be is not just and saving, if he should come
+into sensation of the benefaction. For now as those who are cut and burned
+upon therapy are hard toward those who heal, being stung by the pain of the
+cutting, but if the being healthy should come on through these and the pain of
+the burning should pass, they will know thanks to those who worked the therapy
+upon them; according to the same manner, the evil having been taken out of the
+nature by the long circuits, of what has now been mixed down with it and grown
+together, whenever the restoration into the ancient of those now lying in vice
+comes to be, the thanksgiving from all the creation will be of one voice, both
+of those punished in the cleaning and of those who did not even at the
+beginning need cleaning. These things and such things the great mystery of the
+divine becoming-man hands down. For through the things by which he was mixed
+with the humanity, having come to be through all the peculiarities of the
+nature, both of coming-to-be and of rearing and of growth, and having gone
+through as far as the trial of the death, he has worked all the things said
+before, both freeing the man from the vice and healing the finder of the vice
+himself. For a healing of infirmity is the cleaning of the disease, even if it
+is toilsome.
+
+27 And it is altogether sequential that the one being mixed up toward our
+nature receive the co-blending toward us through all the peculiarities of it.
+For as those who wash out the dirt of the garments do not leave some of the
+pollutions and scrape off others, but from beginning as far as end they clean
+out of the stains all the weave, so that the garment may become of equal honor
+to itself through the whole, having been made bright equally from the washing;
+so, the human life having been polluted by the sin both in beginning and in
+ending and in all the things through the middle, it was necessary that the
+washing-out power come to be through all, and not heal the one thing by the
+cleanser, and overlook the other unhealed. For this sake, our life being taken
+hold of from each side by two bounds, I mean that according to the beginning
+and the end, the correcting power of the nature is found at each bound, both
+having touched the beginning and having stretched
+
+
+itself as far as the end and having taken hold of all the things through the
+middle of these. And there being one passage into the life for all men, from
+where did the one coming in toward us need to be housed into the life? From
+heaven, perhaps says the one who spits upon as both shameful and inglorious
+the form of the human coming-to-be. But the human was not in heaven, nor was
+some disease of vice endemic in the supercosmic life. And the one being mixed
+down with the man was making the co-blending with the aim of the benefit.
+Where then the evil was not, nor was the human life being lived, how does one
+seek from there the man to have been woven round for God, or rather not a man,
+but some image and likeness of a man? And what would have become of the
+correction of our nature, if, the earthly living being having grown sick, some
+other of the heavenly things received the divine admixture? For it is not
+possible for the one who is sick to be healed, if the part that is in pain has
+not received the healing peculiarly. If then the one who is sick was upon
+earth, and the divine power did not touch the one who is sick, looking toward
+what is fitting to itself, the occupation of the divine power about the things
+that have no communion with us at all was useless to the man. For the
+unfitting upon the deity is equal, if it is even lawful at all to think some
+other unfitting besides vice. Yet for the one who judges the divine greatness
+small-souledly in this, in the not receiving the communion of the
+peculiarities of our nature, it in no way more consoles the inglorious that
+the divine was shaped together with a heavenly body or with an earthly. For
+from the highest and unapproachable according to the height of the nature all
+the creation has stood away equally upon the down, and the whole has gone
+under it with equal honor. For what is wholly unapproachable is not
+approachable to some one, and unapproachable to another, but has stood above
+all the things that are equally. Neither then is the earth farther from the
+dignity, nor the heaven nearer, nor do the things dwelling in each of the
+elements differ at all from one another in this part, so that the ones touch
+the unapproachable nature, and the others are separated, or thus we would
+suspect the power that rules the whole not to go through all things equally,
+but to be more in some, more deficient in others, and by the difference toward
+the less and the more and the rather and the less the divine will appear
+sequential as composite, not agreeing with itself toward itself, if it should
+be suspected to be far from us by the account of the nature, and neighboring
+to some other and becoming easy to take from the near. But the true account
+upon the high dignity looks neither down through comparison, nor up; for all
+things have gone under equally the power that stands over the whole, so that,
+if they should think the earthly nature unworthy of the weaving-together
+toward the divine, not even would some other be found having the worthy. But
+if all things equally fall short of the dignity, one thing is fitting to God,
+to benefit the one in need. Where then the disease was, confessing the healing
+power to have gone there, what have we believed outside the assumption fitting
+to God?
+
+28 But they make comedy of our nature, and they chatter the manner of the
+birth, and they think through these things to make the mystery ridiculous, as
+being unfitting for God through such an entrance to touch the communion of the
+human life. But already about this it has been said also in the accounts
+before, that only the evil is shameful by its own nature and whatever has a
+kinship toward vice. And the sequence of the nature, having been ordered by
+divine will and law, is far from the slander according to vice, or thus the
+accusation of the nature would go back upon the creator, if something about it
+should be slandered as both shameful and unfitting. If then the divine has
+been separated from vice alone, and nature is not vice, and the mystery says
+God to have come to be in man, not in vice, and the entrance of the man upon
+the life is one, through which what is born is brought upon the life, what
+other manner do they legislate for God of the passage into the life, who judge
+it reasonable that the nature having grown weak in vice be inspected by the
+divine power, but toward the manner of the inspection
+
+
+are displeased, not knowing that all the construction of the body has equal
+honor toward itself, and nothing in this of the things contributing toward the
+constitution of the life is slandered as some dishonored or wicked thing? For
+all the arrangement of the organic members has been ordered together toward
+one aim. And the aim is that the human remain through in the life. The
+remaining then of the organs holds together the present life of men, others
+having been portioned toward another activity, through which both the sensing
+and the working power is administered; and the generative have the providence
+of what will be, bringing in through themselves the succession to the nature
+instead. If then you should look toward the needful, of which of the things
+thought to be honorable would those be second? And of which would they not
+reasonably be judged more honorable? For not by eye and hearing and tongue, or
+some other of the sense-organs, is our race led through toward the continual;
+for these, as has been said, are of the present enjoyment; but in those the
+immortality is preserved for the humanity, so that death always working
+against us is in a certain way without effect and unfinished, the nature
+always bringing itself in instead toward what is lacking through those who
+come on. What unfitting then does our mystery hold, if through these things
+God was mixed with the human life, through which the nature fights toward the
+death?
+
+29 But having passed over from this they attempt again through other things to
+speak evil of the account and they say, if what has come to be is beautiful
+and fitting to God, why did he put off the benefaction? And why, vice being at
+the beginnings, did he not cut under its advance upon the more? And toward
+this the account from us is short, that the putting-off toward our benefaction
+came to be by wisdom and by providence of what is profitable to the nature.
+For also upon the bodily diseases, whenever some corrupted humor creeps under
+the pores, before all that lies in against nature has been unveiled upon the
+surface, it is not treated with the drugs that thicken the body by those who
+methodically treat the passions technically, but they wait for all that lurks
+within to come to be outside, and thus they bring the healing to the passion
+bare. Since then once the disease of vice settled upon the nature of the
+humanity, the healer of the whole waited for no form of wickedness to be left
+hidden in the nature. For this reason he does not bring the therapy to the man
+immediately after the envy and the brother-killing of Cain; for not yet had
+the vice of those corrupted upon Noah shone out, nor had the hard disease of
+the Sodomitic lawlessness been unveiled, nor the god-fighting of the
+Egyptians, nor the arrogance of the Assyrians, nor the blood-pollution of the
+Jews against the holy ones of God, nor the lawless child-killing of Herod, nor
+all the other things as many as are remembered and as many as outside the
+history were practiced in the generations next, the root of the evil sprouting
+in many ways in the choices of men. Since then the vice reached toward the
+topmost measure, and no longer was any form of wickedness unventured among
+men, so that the therapy might go forward through all the infirmity, for this
+sake he heals the disease not beginning, but having been perfected.
+
+30 But if someone thinks to refute our account, that even after the therapy
+has been brought the human life is still offended through the sins, let him be
+led toward the truth by some example of the known things. For as upon the
+snake, if it should take the mortal blow according to the head, the trailing
+behind is not immediately made dead together with the head, but the one has
+died, and the tail is still ensouled with its own rage and has not been
+deprived of the living movement, so it is possible to see the vice also,
+having been struck in the mortal place, yet still troubling the life in the
+remainders of itself. But having left even the speaking evil of the account of
+the mystery about these things, they make it in accusation that the faith does
+not go through all men. And why then, they say, did the grace not come upon
+
+
+all, but of some having added themselves to the word it is no small remaining
+part, either of God not having wished to distribute the benefaction to all
+ungrudgingly, or of not having been able altogether? Of which neither is clean
+of the blame. For neither is it proper for the good to be unwilled for God,
+nor powerless. If then the faith is some good, why, they say, did the grace
+not come upon all? If then these things were also constructed by us in the
+account, that the faith is allotted to men from the divine will, some being
+called, and the remaining being without a share of the calling, such an
+accusation would have had a time to be brought forward against the mystery;
+but if the calling is of equal honor upon all, distinguishing neither dignity,
+nor age, nor the differences according to the nations; for this reason at the
+first beginning of the preaching those who serve the word became at once of
+the same tongue with all the nations from divine inbreathing, so that no one
+might be without a share of the teaching of the goods; how then would one
+still reasonably accuse God of the word not having overpowered all? For the
+one who has the authority of the whole, through excess of the honor toward the
+man, left also something to be under our authority, of which each alone is
+lord. And this is the choice, some unenslaved and self-governing thing, lying
+in the freedom of the thought. Therefore such an accusation would more justly
+be transferred upon those who have not been led to the faith, not upon the one
+who has called toward agreement. For not even upon Peter at the beginning
+having preached the word in a many-manned assembly of the Jews, three thousand
+having received the faith at once, did those who disobeyed, being more than
+those who had believed, blame the apostle upon the things in which they were
+not persuaded. For it was not likely, the grace having been set forward in
+common, that the one who stood away willingly accuse not himself but another
+of the ill-lot.
+
+31 But they are not at a loss even toward such things of the contentious
+speaking-against. For they say that God, if he had wished, was able even to
+draw those who stand contrary by force toward the receiving of the preaching.
+Where then in these things is the self-governing? And where the virtue? And
+where the praise of those who set right? For it is of soulless things alone or
+of irrational things to be brought round by an alien will toward what seems
+good. And the rational and intelligent nature, if it should put away what is
+according to authority, has also destroyed together the grace of the
+intelligent. For toward what will it use the thought, the authority of
+choosing some of the things according to mind lying upon another? And if the
+choice should remain without effect, the virtue has of necessity vanished,
+having been fettered by the unmovedness of the choice; and virtue not being,
+the life has been dishonored, the praise of those who set right has been taken
+away, the sin is without danger, the difference according to the life is
+without judgment. For who would still reasonably either slander the
+unrestrained or praise the temperate? This answer being according to the ready
+for each, that none of the things according to mind is upon us, but that by a
+better power the human choices are brought round toward what seems good to the
+one who rules. Therefore it is not of the goodness of God, the accusation that
+the faith has not come to be in all, but of the disposition of those who
+receive the preaching.
+
+32 What is still brought forward besides these by those who speak against?
+That especially the exceeding nature ought not even at all to come into a
+trial of death, but even without this, by the excess of the power, it would
+have been able with ease to work what seemed good. And if this also needed
+altogether to come to be according to some unspeakable account, yet not to be
+outraged by the dishonored manner of the death. For what, he says, would
+become more dishonored than the death through a cross? What then do we say
+also toward these things? That the coming-to-be works the death as necessary.
+For the one who had once known to have a share of the humanity needed to come
+to be through all the peculiarities of the nature. If then, the human life
+being taken hold of by two bounds, having come to be in the one he did not
+touch the next, the purpose would have remained half-finished, of the other of
+the
+
+
+peculiarities of our nature not having touched. And perhaps someone having
+learned the mystery through accuracy would more reasonably say that the death
+has not happened through the coming-to-be, but the reverse, that the
+coming-to-be was taken on for the sake of the death; for the one who always
+is, not needing to live, puts on the bodily coming-to-be, but calling us back
+upon the life from the death. Since then there was need of the return again
+from the death of our whole nature, as stretching a hand to the one lying, for
+this reason having bent upon our fall, he approached the death so much as to
+touch the deadness and to give a beginning to the nature of the resurrection
+by his own body, having raised the whole man together by the power. For since
+not from elsewhere, but from our lump was the God-receiving man, the one
+raised together with the deity through the resurrection, as upon the body
+according to us the activity of the one of the sense-organs brings the
+co-sensation toward all that is united to the part, so, all the nature being
+as some one living being, the resurrection of the part goes through upon the
+all, being given out together from the part upon the whole according to the
+continuous and united of the nature. What then outside the likely do we learn
+in the mystery, if the one standing bends toward the fallen upon the
+setting-upright of the one lying? And if the cross also holds some other
+deeper account, those acquainted with the hidden things would know. What then
+has come to us from tradition is such. Since all things according to the
+higher and more divine account have both been said and have come to be in the
+gospel, and there is not anything that is not such, in which some mixture of
+the divine toward the human is not altogether shown, the voice or the action
+being led through humanly, and what is thought according to the hidden showing
+the divine, it would be sequential also in this part not to see the one and
+overlook the other, but in the death to observe the human, and in the manner
+to busy oneself about the more divine. For since it is peculiar of the deity
+to come through all things and to be stretched together with the nature of the
+things that are according to every part; for something would not remain
+through in being, not remaining in the being; and what primarily and first is
+is the divine nature, which the remaining of the things that are of necessity
+forces one to believe to be in all the things that are; this we are taught
+through the cross, the shape according to it being divided four ways, so that
+from the middle, according to which it is joined toward itself, four
+projections are numbered, that the one stretched upon this in the time of the
+economy according to the death is the one who both binds the whole toward
+himself and fits it together, gathering through himself the different natures
+of the things that are toward one breathing-together and harmony; for in the
+things that are either something is thought up, or down, or the thought passes
+toward the bounds according to the side. If then you should reckon the
+constitution of the heavenly or of the under-earth or of the things according
+to each bound of the whole, everywhere the deity meets your reasoning
+beforehand, alone being viewed according to every part in the things that are
+and holding all things together in being. Whether then this nature ought to be
+named deity or word or power or wisdom or some other of the high things more
+able also to show what lies above, our account differs about no voice or name
+or type of sayings. Since then all the creation looks toward him, and is about
+him, and through that one becomes connatural toward itself, the things above
+growing together with the things below and the things on the sides toward one
+another through that one, it was necessary that we not only through hearing be
+led by the hand toward the comprehension of the deity, but that the sight also
+become a teacher of the higher thoughts, from where also the great Paul having
+started initiates the people in Ephesus, putting in them through the teaching
+a power toward knowing what is the depth and the height, both the breadth and
+the length. For he names each projection of the cross by its own saying,
+height the exceeding, and depth the underlying, and breadth and length the
+side extensions. And more clearly elsewhere he makes such a thought toward the
+Philippians, I think, to whom he says that In the name of Jesus Christ
+
+
+every knee will bend of heavenly and earthly and under-earth. Here he takes
+hold of the middle beam by one appellation, having named all the
+through-the-middle of the heavenly and under-earth earthly. This we have
+learned about the cross, the mystery. And the things from this the account
+holds such according to sequence, as to be confessed even by the unbelievers
+that nothing is alien to the assumption fitting to God. For the not remaining
+in the death, and the making the blows that came to be through the iron
+against the body no hindrance toward being, and appearing according to
+authority after the resurrection to the disciples, being present to them when
+he should wish both unseen and coming to be in the middle, needing no entrance
+through the doors, and strengthening the disciples by the breathing-upon of
+the Spirit, and promising also to be with them, and being walled off by no
+middle, and by the appearing going up toward the heaven, and by the thought
+being everywhere, and as many such things as the history holds, need no
+alliance from the reasonings toward being both divine and of the high and
+exceeding power. About which I think there is no need to go through each, the
+account itself showing what is above the nature. But since some part of the
+mystic teachings is also the economy according to the washing, which whether
+one should wish to name baptism or illumination or regeneration, we differ
+nothing toward the naming, it would be well to go through also about this in
+brief.
+
+33 For when they hear from us such a thing, that, the mortal passing over
+toward the life, it was sequential, the first coming-to-be leading upon the
+mortal life, that another coming-to-be be found out, neither beginning from
+corruption, nor ending into corruption, but leading the one born into an
+immortal life, so that, as from a mortal coming-to-be what was born of
+necessity came to subsist mortal, so from that which does not receive
+corruption what is born may become better than the corruption from the death;
+when then they hear these and such things and are taught beforehand the
+manner, that a prayer toward God and an invocation of heavenly grace and water
+and faith are the things through which the mystery of the regeneration is
+fulfilled, they stand hard to persuade, looking toward what appears, as the
+thing worked bodily not agreeing with the promise. For how, they say, does a
+prayer and an invocation of divine power coming to be upon the water become a
+beginner of life for those initiated? Toward whom, if they should not stand
+overmuch contrary, a simple account is enough to lead toward the agreement of
+the dogma. For we shall ask in return, the manner of the coming-to-be
+according to flesh being clear to all, how that which is thrown down as a
+starting-point of the constitution of the living being becomes a man. But
+indeed there is no account upon that which finds out the persuasive by some
+reasoning. For what in common does a definition of man have, being compared
+toward the quality viewed in that? Man is some rational and thinking thing,
+receptive of mind and knowledge; but that is viewed in some wet quality, and
+the thought grasps nothing more of what is seen according to sense. What
+answer then it is likely will come to be for us from those asked, how it is
+trustworthy that a man is constituted from that, this we also, having been
+asked about the regeneration that comes to be through the water, shall answer.
+For there it is ready for each of those asked to say that by divine power that
+becomes a man, which not being present that is unmoved and without activity.
+If then there it is not the underlying that makes the man, but the divine
+power changes what appears toward nature of man, it would be of the last
+unthankfulness, bearing witness there of so great a power to God, to think the
+divine to be without tone in this part toward the fulfillment of the will.
+What in common, they say, to water and to life? And what in common, we shall
+say toward them, to wetness and to image of God? But nothing there is the
+paradoxical, if, God willing, the wet passes over toward the most honorable
+living being. The equal also upon this
+
+
+we say, that there is nothing wonderful if presence of divine power changes
+toward incorruptibility what has come to be in the corruptible nature.
+
+34 But they seek a proof of the divine being present, being called upon
+sanctification of the things that come to be. And let the one who seeks this
+read again the things examined behind. For the construction that the power
+that appeared to us through flesh is truly divine becomes an advocacy of the
+present account. For, it having been shown that the one manifested in flesh is
+God, having shown his own nature through the wonders that come to be, it was
+shown together that he is present to the things that come to be at every time
+of invocation. For as of each of the things that are there is some peculiarity
+that makes the nature known, so peculiar of the divine nature is the truth.
+But indeed he has promised always to be present to those who invoke, and to be
+in the middle of those who believe, and to remain in all and to be with each.
+We would no longer then need another proof toward the divine being present to
+the things that come to be, having believed him to be God through the wonders
+themselves, and knowing it to be peculiar of the deity to have it unmixed
+toward the false, and in the unlying of the
+
+promise not doubting that what has been promised is present. And that the
+calling through the prayer leads the divine economy is some excess of the
+proof that what is being worked is completed according to God. For if upon the
+other form of the making of man the impulses of those who generate, even if
+the divine is not invoked by them through prayer, by the power of God, as has
+been said in the things before, form the one being born, which having been
+separated the zeal is without effect and unprofitable, how much more in the
+spiritual manner of the coming-to-be, both God having promised to be present
+to the things that come to be and having put in the power from himself to the
+work, as we have believed, and our choice having the impulse toward what is
+being zealed, if the alliance through the prayer should be taken together
+fittingly, will what is being zealed be more complete? For as those who pray
+to God that the sun shine upon them blunt in nothing what comes to be
+altogether, nor would someone say the zeal of those praying to be useless, if
+they beseech God about what will altogether be, so those who have been
+persuaded according to the unlying promise of the one who promised that the
+grace is altogether present to those being regenerated through this mystic
+economy either make some addition of the grace, or do not turn away what is.
+For the being with altogether has been believed because the one who promised
+is God; and the witness of the deity is through the wonders. So that through
+all things the divine being present has no doubt.
+
+35 And the descent into the water and the coming to be in it thrice of the man
+holds another mystery. For since the manner of our salvation has not become so
+much active from the instruction according to the teaching as through the very
+things which the one who underwent the communion toward the man did, having
+worked the life in work, so that through the flesh taken up by him and made
+god together all the kindred to it and of the same tribe may be saved
+together, it was necessary that some manner be thought of, in which there was
+both a kinship and a likeness in the things that come to be from the one
+following toward the one leading. One must then see in what things the one who
+led our life was viewed, so that, as the apostle says, according to the
+beginner of our salvation the imitation may be set right for those who follow.
+For as by those trained in the tactical things those who are trained through
+the things they see toward the well-rhythmed and armed movement are led up
+toward the hoplite experience, and the one who does not do what is shown
+beforehand remains without a share of such experience, according to the same
+manner it is altogether of necessity for those for whom the zeal toward the
+good is equal to follow similarly through imitation the one who leads toward
+our salvation, bringing into work what was shown beforehand by him. For it is
+not possible to arrive at the equal end, not having gone through the like
+things. For as those who
+
+
+are at a loss to go through the wanderings of the labyrinths, if they should
+happen upon someone who has them by experience, following behind go through
+the various and deceiving turnings-back of the houses, not going through if
+they should not follow according to track the one going before, so think for
+me also the labyrinth of this life to be ungoable-through for the human
+nature, if one should not take hold of the same road through which the one who
+came to be in it stood outside of what encompasses. And I say labyrinth
+tropically the unexitible prison of the death, by which the wretched race of
+man was held round. What then did we behold about the beginner of our
+salvation? A three-day deadness and life again. Therefore some such likeness
+must be thought of also in us. What then is the device through which also in
+us the imitation of what has come to be from that one is fulfilled? Everything
+that has been made dead has some proper and according-to-nature place, the
+earth, in which it both is laid and is hidden down. And earth and water have
+much kinship toward one another, being alone of the elements both heavy and
+downward-borne, and remaining in one another and being held through one
+another. Since then the death of the one who leads our life came to be
+under-earth according to the common nature, the imitation of the death that
+comes to be from us is formed in the neighboring element. And as that man from
+above, having taken up the deadness, after the under-earth placing ran up
+again upon the life on the third day, so everyone joined according to the
+nature of the body to that one, looking toward the same setting-right, I mean
+the end according to the life, having poured the water instead of earth and
+having gone under the element in three circuits, imitated the three-day grace
+of the resurrection. And such a thing has been said also in what has gone
+before, that death has been brought upon the human nature by economy from the
+divine providence, so that, the vice having flowed out in the dissolution of
+the body and of the soul, again through the resurrection the man may be
+re-elemented sound and impassible and unmixed and alien to all the admixture
+according to vice. But upon the one who leads our salvation the economy
+according to the death had the perfect, having been fulfilled completely
+according to its own aim. For the things united were stood apart through the
+death and the things distinguished were gathered again, so that, the nature
+having been cleaned in the dissolution of the connatural things, I mean of
+soul and of body, the return of the things separated might again come to be
+clean of the alien admixture; but upon those who follow the one who leads the
+nature does not have room for the accurate imitation through wholes, but
+having received now as much as it is able, it stores what is lacking for the
+time after these things. What then is it that it imitates? To make the
+vanishing of the vice mixed in, in the image of the deadness that comes to be
+through the water, not indeed a vanishing perfectly, but some cutting-through
+of the continuity of the evil, two things running together toward the
+taking-away of the vice, both the repentance of the one who has offended and
+the imitation of the death, through which the man is somehow loosed from the
+connaturality toward the evil, going by the repentance into both hate and
+alienation of the vice, and by the death working the vanishing of the evil.
+But if it were possible for the one imitating to come to be in the death
+perfect, what comes to be would not even be an imitation, but a sameness, and
+the evil would have vanished from our nature into the all-complete, so that,
+as the apostle says, he might die once for all to the sin. But since, as has
+been said, we imitate as much of the exceeding power as the poverty of our
+nature has room, having poured the water thrice and having gone up again from
+the water, we play the saving burial and resurrection that came to be in three
+days in the time, having taken this according to thought, that, as the water
+is in authority for us, both to come to be in it and to come up from it again,
+according to the same manner it was upon the authority of the one who has the
+lordship of the whole, as we in the water, so that one going down in the
+death, to return again upon his own blessedness. If then someone should look
+toward the likely and should judge the things that come to be according to the
+power in each, he will find no
+
+
+difference in the things that come to be, each working out the things
+according to power according to the measure of the nature. For as the water is
+for a man toward touching without danger, if he should wish, by infinitely
+more the death lies before the divine power according to ease, both to come to
+be in it and not to be turned toward passion.
+
+For this reason then it is necessary for us to practice beforehand in the
+water the grace of the resurrection, so that we may know that it is equal for
+us toward ease both to be baptized with water and to come up again from the
+death. But as in the things that come to be according to the life some things
+are more beginning-like of some, without which what comes to be would not be
+set right, and yet, if the beginning should be judged toward the end, the
+beginning of the thing will seem to be instead of nothing being compared to
+the end; for what is equal, a man and that which is thrown down toward the
+constitution of the living being? Yet nevertheless, if that should not be,
+this would not come to be either; so also that according to the great
+resurrection, being greater by nature, has the beginnings and the causes from
+here; for it is not possible for that to come to be, if this should not lead
+beforehand. And I say not to be able, without the regeneration according to
+the washing, for the man to come to be in resurrection, not looking toward the
+re-forming and re-elementing of our compound; for toward this the nature must
+altogether go, being pushed together by proper necessities according to the
+economy of the one who ordered, whether it should take on the grace from the
+washing, or remain without a share of such initiation; but the restoration
+upon the blessed and divine and separated from all gloom. For not as many as
+receive through resurrection the return upon being again come back toward the
+same life, but much is the middle of both those who have been cleaned and
+those who still need the cleanser. For upon those for whom in this life the
+cleaning through the washing led beforehand, the withdrawal will be toward the
+kindred to these; and to the pure the impassible has been made proper, and in
+the impassibility the being blessed is not doubted. And for those upon whom
+the passions have been hardened and nothing of cleanser of the stain has been
+brought, not mystic water, not invocation of divine power, not the correction
+from repentance, there is every necessity that these also come to be in the
+corresponding. And corresponding to the adulterated gold is the
+melting-furnace, so that, the vice mixed into them having been melted away,
+long ages later the nature may be saved pure to God. Since then there is some
+dirt-cleaning power in the fire and in the water, those who have washed off
+the dirt of the vice through the mystic water do not need the other form of
+the cleansers; and those uninitiated of this cleaning are of necessity cleaned
+by the fire.
+
+36 For both the common account and the teaching of the scriptures show that it
+is not possible for the one who has not purely washed off all the stains from
+vice to come to be within the divine chorus. This is what, being small by
+itself, becomes both a beginning and an underlying of great goods. And I say
+small by the ease of the setting-right. For what toil is present to the thing,
+to believe God to be everywhere, and being in all, to be present also to those
+who invoke his living power, and being present to do what is proper? And
+peculiar of the divine activity is the salvation of those in need. And this
+becomes active through the cleaning in water. And the one cleaned will be in
+participation of the purity, and the truly pure is the deity. You see how
+small what is according to the beginning is and easy to set right, faith and
+water, the one lying within our choice, and the other native to the human
+life. But the good that grows up from these, how great and of what kind, as to
+have the kinship toward the divine itself.
+
+37 But since the human is double, mixed together with both soul and body,
+through both there is necessity for those being saved to touch the one who
+leads toward the life. Therefore the soul, having been blended toward him
+through faith, has the starting-points
+
+
+of the salvation from here; for the union toward the life has the communion of
+the life; but the body comes to be in participation and blending of the one
+who saves in another manner. For as those who have taken poison through a plot
+quenched the corrupting power with another drug, and it is necessary that
+according to likeness of the destructive the antidote also come to be within
+the human inward parts, so that through those the power of the one helping may
+be portioned upon all the body, so having tasted of the one who dissolves our
+nature we again of necessity also needed the one who gathers what has been
+dissolved, so that such an antidote having come to be in us may push away the
+harm of the poison put in beforehand in the body through its own
+counter-passion. What then is this? Nothing other than that body which was
+shown both better than the death and began our life. For just as a little
+leaven, as the apostle says, likens the whole lump toward itself, so the body
+made immortal by God, having come to be in ours, changes and transfers the
+whole toward itself. For as, the corrupting having been mixed toward the
+healthy, all that has been blended has been made useless together, so also the
+immortal body, having come to be in the one who took it up, changed the all
+also toward its own nature. But indeed it is not possible otherwise for
+something to come to be within the body, not being mixed down with the inward
+parts through eating and drinking. Therefore of necessity according to the
+manner possible to the nature the life-making power must be received by the
+body. And only that God-receiving body having received this grace, and it
+having been shown not to be possible otherwise for our body to come to be in
+immortality, not coming to be in participation of the incorruptibility through
+the communion toward the immortal, it is proper to inspect how it became
+possible for that one body, being portioned to so many myriads of the faithful
+according to all the inhabited world forever, to become whole of each through
+the part and itself to remain whole upon itself. Therefore so that the faith
+looking toward the sequential may have no doubt about the thought lying
+before, it is proper that the account be a little occupied aside into the
+physiology of the body. For who does not know that the nature of our body
+itself by itself does not have life in some proper hypostasis, but through the
+power that flows upon it both holds itself together and remains in being, by
+unceasing movement both drawing toward itself what is lacking and pushing away
+what is in excess? And as some wineskin being full of some wet, if what lies
+in should go out under according to the bottom, would not guard the shape
+about its own bulk, another not coming in from above toward what is being
+emptied, so that the one seeing the bulky encompass of this vessel may know
+that it is not proper of what appears, but that what flows in, coming to be in
+it, shapes what encompasses the bulk; so also the construction of our body has
+nothing proper known to us toward its own constitution, but remains in being
+through the power that is brought in. And this power both is and is called
+food. And it is not the same to all the bodies that are fed, but some
+corresponding has been allotted to each by the one who administers the nature.
+For some of the living beings are fed root-digging, for others the grass is
+nourishing, and of some the food is fleshes, but for man according to the
+leading bread. And toward the remaining and preservation of the wet a drink
+comes to be not this water alone, but often being made pleasant with wine,
+toward the alliance of the hot that is in us. Therefore the one who looks
+toward these looks in power toward the bulk of our body; for those things
+having come to be in me become blood and body, the food being transferred
+correspondingly through the altering power toward the form of the body. These
+things having been distinguished for us in this manner, one must bring the
+thought back again toward the things lying before. For it was being sought how
+that one body of Christ makes live all the nature of men, in as many as the
+faith is, being portioned toward all and itself not
+
+
+being diminished. Perhaps then we come to be near the likely account. For if
+the hypostasis of every body
+
+comes from the food, and this is eating and drinking, and in the eating is
+bread, and in the drinking the water made pleasant with the wine, and the Word
+of God, as has been distinguished in the first things, the one who is both God
+and Word, was blended together with the human nature and, having come to be in
+the body that is ours, did not innovate some other constitution for the
+nature, but through the customary and corresponding gave the remaining to the
+body according to himself, holding the hypostasis round by eating and
+drinking, and the eating was bread; as then in our case, as has already been
+said many times, the one who has seen the bread in a certain way sees the
+human body, because in this that coming to be becomes this, so there also the
+God-receiving body, having received the food of the bread, was in a certain
+account the same as that, the food, as has been said, being transferred toward
+the nature of the body; for what is peculiar of all was confessed also upon
+that flesh, that that body also was held through by bread, and the body by the
+indwelling of the Word of God was changed toward the divine dignity. Well then
+also now we believe the bread being sanctified by the Word of God to be
+changed into body of the Word of God. For that body also was bread in power,
+and it was sanctified by the tabernacling of the Word who tabernacled in the
+flesh. Therefore from where the bread that was changed in that body passed
+over into divine power, through the same the equal also now comes to be. For
+there the grace of the Word made holy the body whose constitution was from the
+bread, and in a certain way it also was bread; and here likewise the bread, as
+the apostle says, is sanctified through word of God and intercession, not
+going forward through eating into becoming the body of the Word, but being
+changed immediately toward the body through the Word, as has been said by the
+Word that This is my body. And all flesh being fed also through the wet; for
+without the pairing toward this the earthly in us would not remain through in
+living; as through the solid and resisting food we under-support the solid of
+the body, in the same manner we also make the addition to the wet from the
+nature of the same kind, which having come to be in us through the altering
+power is made into blood, and especially if it should take the power through
+the wine toward the change into the hot. Since then that God-receiving flesh
+also received this part toward the constitution of itself, and the God who was
+manifested mixed himself for this reason with the perishable nature, so that
+by the communion of the deity the human may be made god together, for this
+sake he sows himself into all who have believed the economy of the grace
+through the flesh, whose constitution is from both wine and bread, being mixed
+down with the bodies of those who have believed, so that by the union toward
+the immortal the man also may become a participant of the incorruptibility.
+And these things he gives by the power of the blessing, having re-elemented
+the nature of the things appearing toward that.
+
+38 I think nothing of the things sought about the mystery is lacking to what
+has been said, except the account according to the faith, which we shall set
+out through a little also upon the present treatise. And for those who seek
+the more perfect account we have already set it out beforehand in other
+labors, having unfolded the account in accuracy through the zeal possible to
+us, in which we both were woven together agonistically toward those opposite
+and by ourselves inspected about the inquiries brought to us. And to the
+present account we thought it well to say so much about the faith as the voice
+of the gospel holds, that the one being born according to the spiritual
+regeneration know from whom he is born and of what kind a living being he
+becomes; for this form of the coming-to-be alone has it according to
+authority, whatever it may choose, to become this.
+
+39 For the remaining of the things being born come to subsist by the impulse
+of those who generate them, but the spiritual birth hangs from the authority
+of the one being born. Since then in this is the danger, in the not missing
+what is profitable, the choice lying before according to authority for
+everyone, I say it is well that the one rushing toward his own coming-to-be
+
+
+know beforehand by the reasoning who will profit him as father and from whom
+it is better for his nature to be constituted; for it has been said that such
+a birth chooses the generators according to authority. The things that are
+then having been portioned two ways into the created and the uncreated, and
+the uncreated nature having acquired in itself the unturnable and
+untransferable, and the creation being altered toward turning, the one who
+according to reasoning chooses what is profitable, of whom will he rather
+choose to become a child, of that viewed in turning, or of that which has
+acquired the nature unmoved and firm and always having itself in the same way
+in the good? Since then in the gospel the three persons and names have been
+handed down, through which the coming-to-be comes to be for those who believe,
+and the one being born in the Trinity is born equally from Father and Son and
+Holy Spirit; for thus the gospel says about the Spirit that What has been born
+from the Spirit is spirit, and Paul generates in Christ, and The Father is
+father of all; here let the thought of the hearer be sober for me, lest it
+make itself offspring of the unstanding nature, it being possible to make the
+unturnable and unalterable beginner of its own life. For according to the
+disposition of the heart of the one coming to the economy what comes to be
+also has the power, so that the one confessing the Holy Trinity uncreated
+enters into the unturnable and unalterable life, and the one who sees the
+created nature in the Trinity through the deceived assumption, then being
+baptized in it, is again born into the turnable and alterable life; for of
+necessity what is born is also of the same kind as the nature of those who
+generate. What then would be more profitable, to enter into the unturnable
+life or again to be waved in the unstanding and alterable life? Since then it
+is clear to everyone who even in some way participates thought, that the
+standing is by much more honorable than the not standing, and the perfect than
+the deficient, and the not needing than the needing, and than the one going up
+through advance the one that does not have into what it may go forward, but
+remaining always upon the perfection of the good, it would be of necessity for
+the one who has mind to choose one from both altogether, either to believe the
+Holy Trinity to be of the uncreated nature and thus through the spiritual
+coming-to-be to make it beginner of his own life, or, if he should think the
+Son or the Holy Spirit to be outside the nature of the first and true and good
+God, I mean that of the Father, not to take together the faith into these in
+the time of the coming-to-be, lest he escape notice making himself belong to
+the deficient nature and needing the one who makes good and in a certain way
+again leading himself into the same-kind, having stood the faith away from the
+exceeding nature. For the one who has yoked himself to some of the created
+things has escaped notice having the hope of the salvation into that and not
+into the divine. For all the creation, by the coming forward equally from the
+not-being into being, has a kinship toward itself; and as upon the
+construction of the bodies all the members have it connaturally toward
+themselves, even if some happen to have gone under, and others to have stood
+above, so the created nature has been united toward itself according to the
+account of the creation and the difference according to the exceeding and the
+lacking in us in no way stands it apart from the connaturality toward itself;
+for of those of whom equally non-existence is thought beforehand, even if in
+the other things there is the different, we find no variation of the nature
+according to this part. If then man is created, and he should think the Spirit
+also and the only-begotten God to be created, he would be vain in hope of the
+transfer upon the better, returning toward himself. For what comes to be is
+like to the assumptions of Nicodemus, who having learned from the Lord about
+the needing to be born from above, because he did not yet have room for the
+account of the mystery, was dragged down in his reasonings upon the maternal
+bosom. So that if he should lead himself away not toward the uncreated nature,
+but toward the kindred and fellow-slave creation, he is of the from-below, not
+of the
+
+
+from-above coming-to-be. And the gospel says the coming-to-be of those being
+saved to be from above.
+
+40 But it does not seem to me that up to the things said the catechesis has
+the teaching sufficient. For one must, I think, also inspect what is after
+this, which many of those who come to the grace of the baptism overlook,
+leading themselves aside through deceit, and being born by the seeming only,
+not by the being. For the change of our life that comes to be through the
+regeneration would not be a change, if we should remain through in what we
+are. For the one who is in the same things I do not know how it is possible to
+think to have become some other, upon whom none of the marks has been changed.
+For that the saving coming-to-be is taken on upon a renewal and change of our
+nature is clear to everyone. But indeed the humanity itself by itself does not
+admit a change from the baptism, neither the rational nor the thinking nor the
+receptive of knowledge nor any other of the things that characterize
+peculiarly the human nature comes to be in a change. For the change would be
+toward the worse, if some of these proper things of the nature should be
+exchanged. If then the from-above coming-to-be becomes some re-elementing of
+the man, and these do not admit the change, one must inspect of what having
+been changed the grace of the regeneration is complete. It is clear that, the
+wicked marks of our nature having been wiped out, the transfer toward the
+better comes to be.
+
+Therefore if, as the prophet says, having been washed with this mystic washing
+we should become pure in the choices, having washed off the wickednesses of
+the souls, we have become better and have been changed toward the better. But
+if the washing should be brought upon the body, and the soul should not wash
+off the passionate stains, but the life after the initiation should agree with
+the uninitiated life, even if it is bold to say, I shall say and I shall not
+turn away, that upon these the water is water, the gift of the Holy Spirit
+having appeared nowhere to what comes to be, whenever not only the shame
+according to the rage outrages the divine form or the passion according to
+greed and the unrestrained and unseemly thought and conceit and envy and
+arrogance, but also the gains from injustice remain for him and the woman
+acquired by him from adultery serves his pleasures even after this. If these
+and such things similarly both before and after these things are about the
+life of the one baptized, what has been changed I am not able to see, seeing
+the same one whom I also saw before. The one wronged, the one slandered, the
+one pushed away from his own, see no change of the one washed upon themselves.
+They have not heard also from this one the voice of Zacchaeus that If I have
+slandered anyone of anything, I give back fourfold. What they were saying
+before the baptism, the same things they go through about him also now, they
+name him from the same names greedy, desirous of the things of others,
+luxuriating from human misfortunes. Let the one then who is in the same
+things, then chattering to himself through the baptism the change toward the
+better, hear the voice of Paul that If someone thinks to be some thing, being
+nothing, he deceives his own mind. For what you have not become, you are not.
+As many as received him, the gospel says about those regenerated, he gave them
+authority to become children of God. The one who has become a child of someone
+is altogether of the same kind as the one who generated. If then you have
+received God and have become a child of God, show through the choice also the
+God who is in you, show in yourself the one who generated. From the things by
+which we come to know God, through those it is proper that the kinship of the
+one who has become a son of God toward God be shown. That one opens the hand
+and fills every living being with good pleasure, he oversteps lawlessnesses,
+he repents upon vices; the Lord is kind to all, not bringing rage according to
+each day; the Lord God is straight, and there is no injustice in him, and as
+many such things as we are taught scatteredly from the scripture. If you are
+in these, you have truly become a child of God; but if you remain upon the
+marks of the vice, you chatter the from-above coming-to-be to yourself in
+vain. The prophecy will say toward you that You are a son of man, not a son of
+the highest; you love vanity, you seek
+
+
+falsehood. You have not known how a man is made wonderful, that it is not
+otherwise, if he should not become holy. It would be necessary to add to these
+also what is left, that neither are the goods lying before in promises to
+those who have lived well such as to come into a sketch of word. For how the
+things which neither eye saw, nor ear heard, nor went up upon heart of man?
+Nor indeed does the painful life of those who have offended have equal honor
+toward some of the things that pain the sense here. But even if some of the
+punishments there should be named with the names known here, it has the
+variation not in a little. For hearing fire you have been taught to think some
+other besides this from there being attached to that fire something which is
+not in this; for the one is not quenched, and of this many quenchers have been
+found from experience, and much is the difference of what is quenched toward
+what does not receive quenching. Therefore it is some other, and is not this.
+Again someone having heard worm, let him not by the homonymy be carried off in
+thought toward this earthly beast; for the addition of being unending suggests
+thinking some other nature besides the one known. Since then these things lie
+before in the hope of the life after these things, growing up correspondingly
+from the choice of each according to the just judgment of God to the life, it
+would be of those being temperate not to look toward the present but toward
+what is after this, and to throw down the starting-points of the unspeakable
+blessedness in this little and seasonal life and to be made alien of the trial
+of the evils through a good choice, now according to the life, and after these
+things according to the everlasting repayment.

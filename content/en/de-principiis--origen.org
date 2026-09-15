@@ -1,0 +1,1327 @@
+#+TITLE: On First Principles
+#+AUTHOR: Ὠριγένης hermes:grok-4.6
+#+FILETAGS: :patristic:3c-ad:pg11-17:
+#+MIGNE_TITLE: De principiis
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/de-principiis--origen
+#+LANGUAGE: en
+
+* On First Principles
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+On free will, and the solution and interpretation of the scriptural sayings
+that seem to abolish it
+3.1.1 Since in the ecclesiastical preaching there is contained the word
+concerning the just judgment of God, which also, being believed to be true,
+summons those who hear it to live well and in every way to flee sin, clearly
+as they agree that the things worthy of praise and blame are in our power,
+come, let us also treat a few things privately concerning free will, a problem
+most necessary as far as possible. And in order that we may understand what
+free will is, we must unfold its conception, so that when this has been made
+clear the thing sought may be accurately set forth. 3.1.2 Of things that are
+moved, some have the cause of the movement in themselves, and others are moved
+only from outside. Now those that are moved only from outside are portable
+things, such as woods and stones and all matter held together by habit alone.
+Let there be excepted from the account for now the speaking of movement as the
+flux of bodies, since there is no need of this for the present purpose. And
+animals and plants and, in a word, whatever is held together by nature and
+soul have in themselves the cause of being moved; from among which they say
+the metals also are, and besides these fire also is self-moved, and perhaps
+the springs too. And of those that have in themselves the cause of being
+moved, some they say are moved out of themselves, and some from themselves:
+the soulless out of themselves, and the ensouled from themselves. And the
+ensouled are moved from themselves when an impression arises that calls forth
+impulse. And again in some of the animals impressions arise that call forth
+impulse, a phantastic nature moving the impulse in an ordered way, as in the
+spider an impression of weaving arises and impulse follows toward weaving, its
+phantastic nature calling it forth in an ordered way to this, and nothing else
+after its phantastic nature being trusted in the animal, and in the bee toward
+molding wax. 3.1.3 The rational animal, however, also has reason in addition
+to the phantastic nature, which judges the impressions and rejects some and
+accepts others, in order that the animal may be led according to them. Hence
+since in the nature of reason there are starting-points for contemplating the
+noble and the shameful, following which, having contemplated the noble and the
+shameful, we choose the noble and turn away from the shameful, we are
+praiseworthy when we give ourselves over to the practice of the noble, and
+blameworthy in the contrary case. Yet it must not be unknown that the greater
+part of the nature ordered toward all things is in some measure in the
+animals, to a greater or to a lesser degree; so that the work in hunting dogs
+and in war-horses is somewhere near, so to speak, to the rational. Now to have
+this or that of the things from outside fall upon us, moving in us such or
+such an impression, is admittedly not among the things in our power; but to
+judge to use what has happened in this way or otherwise is the work of nothing
+other than the reason in us, either working us from the starting-points toward
+the impulses that call us to the noble and the fitting, or turning us toward
+the contrary. 3.1.4 And if someone should say that the thing from outside is
+of such a kind that it is impossible to look against it when it has become
+such, let this one attend to his own passions and movements, whether there
+does not come to be a good-pleasure and assent and inclination of the ruling
+part toward this or that through these persuasions. For it is not, for
+example, the woman, appearing to the one who has judged to be continent and to
+hold himself back from mixings, and calling him forth to do something against
+his purpose, that becomes a self-sufficient cause of setting aside the
+purpose; for having altogether given good-pleasure to the tickling and to the
+smoothness of the pleasure, not having wished to look against it nor to ratify
+what had been judged, he practices the unrestrained thing. But someone else,
+conversely, the same things having happened to the one who has taken up more
+learning and has trained; for the ticklings and the provocations happen, but
+reason, inasmuch as it has been strengthened to a greater degree and nourished
+by practice and confirmed by the doctrines toward the noble, or has come to be
+near to being confirmed, beats back the provocations and slackens the desire.
+3.1.5 And to blame the things from outside, when these things happen to us
+thus, and to release ourselves from accusation, having declared ourselves like
+woods and stones dragged by the things from outside that moved them, is not
+true nor fair-minded, and such a word is of one who wishes to counterfeit the
+conception of free will. For if we should ask him what free will was, he would
+say that it was if nothing of the things from outside met me, when I had
+proposed this or that, calling me forth toward the contrary. And again to
+blame the bare constitution is against what is evident, since an educating
+word takes the most unrestrained and the wildest, if they should follow the
+exhortation, and changes them; so that the exhortation and the change toward
+the better have come to be by far, the most unrestrained often becoming better
+than those who formerly did not seem by nature to be such, and the wildest
+changing toward so much gentleness that those who have never yet become wild
+in this way seem wild by comparison with this one who has changed toward the
+gentle. And we see others most stable and most solemn, from a distortion
+toward worse ways of life, being struck out of the solemn and the stable, so
+as to change them into unrestraint, often beginning the unrestraint in the
+middle of life and falling into disorder after the naturally unstable part of
+youth has passed. Therefore the word shows that the things from outside are
+not in our power, but to use them thus or in the contrary way, having taken
+reason as judge and examiner of how one must meet these or those of the things
+from outside, is our work. 3.1.6 And that to live well is our work, and that
+God asks this of us as being not his nor coming from some other, or, as some
+think, from fate, but as our work, the prophet Micah will bear witness saying:
+"has it been announced to you, O human, what is good? or what does the Lord
+seek from you but to do judgment and to love mercy and to be ready to walk
+with the Lord your God?" and Moses: "I have set before your face the way of
+life and the way of death; choose the good and walk in it" and Isaiah: "if you
+are willing and listen to me, you will eat the good things of the earth; but
+if you are not willing and do not listen to me, a sword will eat you; for the
+mouth of the Lord has spoken these things" and in the Psalms: "if my people
+had heard me, and Israel if it had walked in my ways, I would have humbled
+their enemies in nothing, and I would have laid my hand on those who afflict
+them", as if the "to hear" and "to walk in the ways" of God were in the
+people's power. And the savior too, saying "but I say to you not to resist the
+wicked" and "that whoever is angry with his brother will be liable to the
+judgment" and "whoever looks at a woman toward desiring has already
+committed adultery in his heart", and if he gives any other commandment, he
+speaks as if it is in our power to keep the things commanded, and reasonably
+we will be "liable to the judgment" if we should transgress them. Hence he
+also says "everyone who hears these words of mine and does them will be
+likened to a prudent man, who built his house upon the rock" and the rest,
+"but the one who hears and does not do is like a foolish man, who built his
+house upon the sand" and the rest. And saying also "to those on the right:
+come to me, you blessed of my father" and the rest, "for I hungered and you
+gave me to eat, I thirsted and you gave me to drink" he very clearly gives the
+promises as to those who are causes of being praised, and from the contrary to
+the others as blameworthy compared with them he says "go, you cursed, into the
+eternal fire". And let us see how Paul too discourses with us as
+free and as being ourselves causes of destruction or salvation: "or do you
+despise the wealth of his kindness and of his forbearance and of his
+long-suffering, not knowing that the kind thing of God leads you to
+repentance? But according to your hardness and unrepentant heart you store up
+for yourself wrath in a day of wrath and of revelation and of just judgment of
+God, who will render to each according to his works: to those who by endurance
+of good work seek glory and honor and incorruption, eternal life, but to those
+from faction, who disobey the truth but obey injustice, wrath and anger,
+affliction and distress upon every soul of a human who works the evil, of Jew
+first and of Greek; but glory and honor and peace to everyone who works the
+good, to Jew first and to Greek". There are then countless things in the
+scriptures that present free will very clearly. 3.1.7 But since certain
+sayings from the old and the new drag around toward the contrary, that is,
+that it is not in our power to keep the commandments and be saved and to
+transgress them and be destroyed, come, setting out from these too in part,
+let us look at their solutions, so that from the things we set out someone,
+having selected for himself according to the like all the things that seem to
+abolish free will, may examine the things concerning their solution. And
+indeed the things concerning Pharaoh have moved many, about whom God, giving
+an oracle, says: "and I will harden the heart of Pharaoh" several times. For
+if he is hardened by God and through being hardened he sins, he is not himself
+cause of the sin to himself; and if this, Pharaoh is not free either. And
+someone will say that from the like those who are destroyed are not free nor
+will they be destroyed from themselves. And the thing said in Ezekiel, "I will
+take out their stony hearts and I will put in fleshy ones, so that they may
+walk in my orders and keep my just requirements", might move someone as if God
+gives the "to walk in the commandments and to keep the just requirements" in
+having taken away the thing that hinders, the "stony heart", and having put in
+the better, the "fleshy". And let us see also the thing from the gospel, what
+the savior answers to those who asked "why he speaks in parables to the many":
+"in order that", he says, "seeing they may not see, and hearing they may hear
+and not understand; lest they turn, and it be forgiven them". And still also
+in Paul the "it is not of the one who wills nor of the one who runs, but of
+God who has mercy", and in other places: "and the willing and the working are
+from God", and in other places: "so then he has mercy on whom he wills, and
+whom he wills he hardens. You will say to me then: why does he still find
+fault? For who has resisted his will?" [and "the persuasion is from the one
+who calls" and not from us,] "yes indeed, O human, who are you, who answer
+back to God? [and again:] will the thing molded say to the one who molded it:
+why did you make me thus? or does the potter not have authority over the clay
+to make from the same lump one vessel unto honor and one unto dishonor?" For
+these things by themselves are sufficient to throw the many into confusion, as
+if the human is not free, but God saves and destroys whomsoever he himself
+wishes. 3.1.8 Let us begin then from the things said concerning Pharaoh as
+being hardened by God, in order that he might not send out the people; with
+which there will be examined together also the apostolic saying: "so then he
+has mercy on whom he wills, and whom he wills he hardens". And since some of
+the heterodox use these, themselves too almost abolishing free will through
+introducing natures that are destroyed, incapable of being saved, and others
+that are saved, having no power toward being destroyed, and they say that
+Pharaoh, being of a nature that is destroyed, is for this reason hardened by
+God, who has mercy on the spiritual but hardens the earthy, come, let us see
+whatever it is they also say. For we will ask them whether Pharaoh was of an
+earthy nature. And to those who answer we will say that the one of earthy
+nature altogether disobeys God; and if he disobeys, what need is there for his
+heart to be hardened, and this not once but several times? unless perhaps
+since it was possible for him to be persuaded, and he would altogether have
+been persuaded, inasmuch as he was not earthy, being put to shame by the
+wonders and signs, and God needs him for displaying the mighty works upon the
+salvation of the many while he disobeys to a greater degree, for this reason
+he hardens his heart. And these things will be said first toward them for the
+overturning of what they suppose, that Pharaoh would be of a nature that is
+destroyed. And the same must be said toward them also concerning the thing
+said in the apostle. For whom does God harden? those who are being destroyed?
+as about to suffer what, if they were not hardened? or clearly about to be
+saved by their not being of a nature that is destroyed? And whom does he also
+have mercy on? is it those who will be saved? and how is there need of a
+second mercy for them, once they have been constituted as about to be saved
+and altogether about to be blessed through the nature? unless perhaps, since
+they admit destruction if they should not be mercied, they are mercied, in
+order that they may not receive what they admit, the being destroyed, but may
+come to be in the place of those who are saved. And these things toward those.
+3.1.9 And one must raise a difficulty toward those who think they have
+understood the "he hardened", what in the world they say God hardens a heart
+by working, and with what purpose he does this. For let them keep also a
+conception of God, according to the sound as of one just and good, but if they
+do not wish, let it be conceded to them for the present, of one just; and let
+them present how the good and just, or the just only, appears justly hardening
+a heart of the one who is destroyed through being hardened, and how the just
+becomes cause of destruction and of disobedience of those who are punished by
+him through being hardened and disobeying him. And why does he even find fault
+with him saying: "but you do not wish to send out my people. Behold I strike
+all the firstborn in Egypt and your firstborn", and all the other things that
+have been recorded as God saying through Moses to Pharaoh? For it is necessary
+that the one who believes that the scriptures are true and that God is just,
+if he is fair-minded, contend how in such expressions he may be clearly
+understood as just. For if someone, having signed off, stood with uncovered
+head toward the creator's being wicked, other words would be needed toward
+him. 3.=1.10= But since they say they are disposed concerning him as
+concerning one just, and we as concerning one good and just together, let us
+consider how the good and just would harden the heart of Pharaoh. See then
+whether through some example, which the apostle used in the letter to the
+Hebrews, we can present how by one working God "has mercy on one and hardens
+another", not proposing to harden, but through a kind purpose, which the being
+hardened follows because of the underlying of vice, of the evil beside
+themselves, being said to harden the one who is hardened. "For earth", he
+says, "that has drunk the rain that comes upon it <often> and brings forth
+herb fit for those for whom it is also farmed, partakes of blessing from God;
+but bringing forth thorns and thistles, it is rejected and near a curse, whose
+end is unto burning". Therefore the working according to the rain is one; and
+while the working according to the rain is one, the farmed earth bears fruit,
+and the neglected and fallow bears thorns. And it would seem ill-sounding to
+say that the one who rains: I made the fruits and the thorns in the earth, but
+if it is also ill-sounding, yet it is true; for if rain had not come to be,
+neither fruits nor thorns would have come to be, but when this has flowed in
+seasonably and in measure both have come to be. "Bringing forth" at any rate
+"thorns and thistles, the earth that has drunk the rain that comes upon it
+often is rejected and near a curse". Therefore the good of the rain has come
+also upon the worse earth, but the underlying, being neglected and unfarmed,
+sprouted thorns and thistles. Thus then also the wonders that come to be by
+God are as it were rain; and the different purposes are as it were the farmed
+earth and the neglected, being one by nature as earth <...> 3.=1.11= And just
+as if the sun also, sending forth a voice, said that I melt and I dry, the
+being melted and the being dried being contraries, it would not be saying a
+falsehood
+in view of the underlying, the wax being melted from the one heat, and the
+clay being dried; thus the one working that comes to be through Moses
+convicted the hardness of Pharaoh through his vice, but persuasion of the
+"mixed" Egyptians, who set out together with the Hebrews. And the having been
+recorded little by little as if the heart of Pharaoh was being softened,
+saying: "but you will not stretch far, for you will go a journey of three
+days, and you leave your women", and all the other things he said, yielding
+little by little toward the wonders, makes clear that the signs were working
+something even upon him, yet it was not accomplishing the whole. And these
+things would not even have come to be, if the "I will harden the heart of
+Pharaoh" as understood by the many were being worked by him, clearly by God.
+And it is not out of place to comfort such things also from custom, the kind
+masters often saying to the household slaves who are being worn down through
+the kindness and long-suffering: I made you wicked, and: I have become cause
+to you of such great sins. For one must hear the character and the force of
+what is said, and not slander through not hearing down the will of the word.
+Paul at any rate, having examined these things clearly, says to the one who
+sins: "or do you despise the wealth of his kindness and of his forbearance and
+of his long-suffering, not knowing that the kind thing of God leads you to
+repentance? But according to your hardness and unrepentant heart you store up
+for yourself wrath in a day of wrath and of revelation and of just judgment of
+God". For the things the apostle says to the one who sins, let them be said to
+Pharaoh, and these would be understood as altogether fitting when announced to
+him, "according to his hardness and unrepentant heart storing up wrath for
+himself", the hardness not having been convicted thus nor having become
+manifest, if the signs had not come to be, or had come to be, but not so many
+and so great. 3.=1.12= But since such accounts are hard to persuade and are
+thought to be forced, let us see also from a prophetic word what those say who
+have experienced much kindness of God and †not† lived well, but after these
+things have sinned. "Why did you lead us astray, Lord, from your way? For what
+did you harden our heart, so as not to fear your name? Turn back for the sake
+of your slaves, for the sake of the tribes of your inheritance, in order that
+we may inherit a little of your holy mountain"; and in Jeremiah: "you deceived
+me, Lord, and I was deceived, you were strong and you prevailed". For the "for
+what did you harden our heart, so as not to fear your name?" said by those who
+call upon being mercied, being said in such a character is of this sort: for
+what did you spare us so far, not visiting us upon the sins, but leaving us
+until our failings come to a greatness? And he abandons the many unpunished,
+both in order that the characters of each may be examined from what is in our
+power, and in order that the better may become manifest from the testing that
+has come to be, and the rest, not having escaped notice of God ("for he knows
+all things before their generation") but of the rational beings and of
+themselves, may later obtain a way of healing, not having known the
+beneficence if they had not condemned themselves; which profits each, in order
+that he may perceive his own particularity and the grace of God. And the one
+who does not perceive his own weakness and the divine grace, even if he is
+benefited, not having experienced himself nor having condemned himself, will
+think that the thing supplied to him from the heavenly grace is his own feat
+of manhood. And this, having produced conceit and inflation, will be a cause
+of downfall; which we think has come to be also around the devil, having
+granted to himself the advantages he had when he was blameless. "For everyone
+who exalts himself will be humbled, as everyone who humbles himself will be
+exalted". And consider that for this reason the divine things "have been
+hidden from wise and understanding", "in order that", as the apostle says,
+"all flesh may not boast before God"; "and they have been unveiled to
+infants", to those who after infancy have come to the better things and
+remember that they have come to so much
+blessedness not so much from their own cause as from the ineffable
+beneficence. 3.=1.13= Therefore the one who is abandoned is abandoned by
+divine judgment, and God is long-suffering upon some of those who sin not
+unreasonably, but as it being profitable to them, as toward the immortality of
+the soul and the unbounded age, that they not be co-worked quickly unto
+salvation, but be brought to it more slowly after having experienced many
+evils. For just as physicians also, being able to heal someone more quickly,
+when they suspect that there is a hidden poison around the bodies, work the
+contrary to healing, doing this through wishing to heal more securely,
+thinking it better to hold someone for much time in the being inflamed and
+being ill for the sake of his recovering health more firmly than to seem to
+make him strong more quickly, and later for it to come up again and for the
+quicker healing to become temporary; in the same way God too, knowing the
+hidden things of the heart and knowing beforehand the things that will be,
+through long-suffering permits, perhaps even through the things that happen
+from outside drawing out the evil in secret, for the sake of cleansing the one
+who through neglect has made room for the seeds of sin, in order that someone,
+having vomited them when they have come to the surface, even if he has come to
+be in evils to a greater degree, may later be able, having obtained a
+cleansing after the vice, to be reconstituted. For God manages the souls not
+as toward, say, the fifty-year span of the life here, but as toward the
+endless age; for he has made the intelligent nature incorruptible and akin to
+himself, and the rational soul is not shut out from the healing as in the life
+here. 3.=1.14= Come, let us use also such an image from the gospel. There is a
+rock having little and surface earth, into which if the seeds fall they flower
+quickly, but having flowered, since "it has no root", "when the sun has risen
+they are scorched and dried". And this rock is a human soul hardened through
+neglect and turned to stone through vice; for a "stony heart" has been created
+by God for no one, but it becomes such from wickedness. Therefore just as if
+someone should accuse the farmer for not having thrown the seeds more quickly
+upon the rocky earth, seeing some other rocky earth that has received the
+seeds and is flowering, the farmer would answer that I will sow this earth
+later, having put on the things that can hold the things that will be sown,
+the slower and more secure being about to be better for this earth than the
+one that has received more quickly and more on the surface, we would be
+persuaded as by the farmer speaking reasonably and as having done
+scientifically; thus also the great farmer of all nature postpones the
+well-doing that would have been thought quicker, in order that it may not
+become on the surface. But it is likely that someone would bring against us
+toward these things: but why does "some of the seeds fall upon" a soul that
+has the earth from the surface, being as it were a "rock"?
+being as it were a "rock", a soul? And toward this too it must be said that it
+is better for this one who has wished the better things more rashly and has
+not traveled upon them by a road to obtain what he has wished, in order that
+having condemned herself upon this she may be long-suffering later to receive
+the farming according to nature over much time. For the souls are unbounded
+for us, as one might say, and unbounded are their characters, and as many as
+possible are the movements and the purposes and the attempts and the impulses;
+of which there is one steward only, the best, and knowing the seasons and the
+fitting helps and the leadings and the ways, the God and father of the wholes,
+who knows how he leads even Pharaoh through so many things and through
+drowning. At which the management of Pharaoh does not end, for it was not
+dissolved when he was drowned; "for in the hand of God are both we and our
+words and all prudence and knowledge of works". And these things moderately
+unto a defense concerning the "heart of Pharaoh has been hardened" and
+concerning the: "he has mercy on whom he wills, and whom he wills he hardens".
+3.=1.15= And let us see also the thing from Ezekiel saying: "I will take out
+the stony hearts from them and I will put in fleshy ones, so that they may
+walk in my just requirements and keep my orders". For if when God wills he
+"takes out the
+stony hearts" and puts in "fleshy" ones, so that "his orders may be kept" and
+the commandments be observed, it is not in our power to put away vice. For the
+"stony hearts to be taken out" is nothing other than that the vice, according
+to which someone is hardened, be taken around from the one from whom God
+wills; and the coming to be of a "fleshy" heart, in order that someone may
+"walk in the orders" of God and "keep" his commandments, what else is it than
+to become yielding and not resistant toward the truth and practical of the
+virtues? And if God announces that he does these things, and before he takes
+away "the stony hearts" we do not put them away, it is clear that it is not in
+our power to put away vice; and if we do not practice something in order that
+the "fleshy heart" may come to be in us, but it is a work of God, living
+according to virtue will not be our work, but altogether divine grace. These
+things the one who abolishes what is in our power from the bare sayings will
+say. But we will answer that one must hear these things thus, saying that,
+just as the one who is in ignorance and lack of education, perceiving his own
+evils either from exhortation of the teacher or otherwise from himself, gives
+himself over to the one he thinks can lead him by the hand toward education
+and virtue, and when this one gives himself over the educator announces that
+he will take out the lack of education and will put in education, not as if
+there is nothing toward being educated and fleeing the lack of education upon
+the one who has brought himself to be healed, but as announcing that he will
+make better the one who wishes; thus the divine word announces that it will
+take out the vice of those who approach, which it named "stony heart", not of
+those not wishing, but of those who have presented themselves to the physician
+of those who are ill; just as in the gospels those who are ill are found
+coming to the savior and asking to obtain healing and being healed. And it is,
+for example, the "the blind to look up" a work according to the having asked,
+having believed they can be healed, of those who have suffered, but according
+to the restoration of the seeing of our savior. Thus then the word of God
+announces that it will produce knowledge in those who approach, "having taken
+out the stony" and hard "heart", which is the vice, for the sake of someone's
+"walking" in the divine commandments and "keeping" the divine "orders".
+3.=1.16= After these things there was the thing from the gospel, when the
+savior said "for this reason he speaks in parables to those outside, in order
+that seeing they may not see, and hearing they may not understand; lest they
+turn, and it be forgiven them". And the one from the contrary will say: if
+altogether having heard the clearer things these certain ones turn, and they
+turn thus, so as to become worthy of forgiveness of sins, and it is not in
+their power to hear the clearer words, but in the teacher's, and for this
+reason he does not announce more clearly to them, "lest they see and
+understand", it is not in their power to be saved; and if this, we are not
+free concerning salvation and destruction. Now a persuasive defense toward
+these things would have been, if the "lest they turn, and it be forgiven them"
+were not added, that the savior did not wish those who will not be noble and
+good to understand the more mystical things and for this reason "he spoke to
+them in parables". But now, the "lest they turn, and it be forgiven them"
+lying there, the defense is more difficult. First then the place must be noted
+toward the heterodox, who hunt such sayings from the old covenant, where there
+appears, as they themselves daring say, cruelty of the creator or a purpose
+that is defensive and retributive of the worse things, or whatever they wish
+to name such a thing, only in order that they may say there is not goodness in
+the one who created; but they do not encounter the new in like manner nor
+fairly, but they send past the things near to those they think are blameworthy
+from the old. For clearly even according to the gospel the savior is shown, as
+they themselves claim upon the former things, not speaking clearly for this
+reason, in order that the humans may not turn, and having turned become worthy
+of forgiveness of sins; which by itself is of no less than the
+such things accused from the old. And if they seek a defense concerning the
+gospel, it must be said toward them, if they do not do blameworthily in
+standing dissimilarly upon like problems, and according to the new not
+stumbling but seeking a defense, but according to the old concerning the
+things near, when it is necessary to defend similarly to those from the new,
+accusing. From which we will bring them together through the likenesses to
+thinking that all are letters of one God. Come then, let us also furnish a
+defense toward the present as far as possible. 3.=1.17= We were saying also
+when examining concerning Pharaoh that sometimes to be healed more quickly
+does not come to be toward the good for those who are healed, if having fallen
+by themselves into hard things they should be easily released from those into
+which they have fallen; for despising the evil as easily healed, not guarding
+a second time against falling into it, they will be in it. Therefore upon such
+God the eternal, the knower of hidden things, who "knows all things before
+their generation", according to his kindness postpones the quicker help toward
+them and, so to speak, helping them he does not help, this being profitable to
+them. It is likely then that "those outside" also, about whom the word is,
+having been seen by the savior according to the present as not going to be
+firm in the turning, if they should hear the things said more distinctly, have
+been managed by the lord not to hear the deeper things more clearly; lest
+having turned more quickly and been healed in obtaining forgiveness, having
+despised the wounds of vice as easy and easily healed, they fall into them
+again and more quickly. And perhaps also paying justice for the former sins,
+which they committed against virtue having left it, they had not yet filled
+out the fitting time, by being left from the divine oversight, having been
+filled to a greater degree with their own evils which they sowed, later to be
+called unto a firmer repentance, not going to fall quickly into the things
+they had formerly fallen into, having insulted the dignity of the noble things
+and having given themselves over to the worse. Those then who are called
+"outside", clearly by comparison with those "inside", not being altogether far
+from those inside, those inside hearing clearly, hear unclearly because it is
+said to them "in parables"; yet they hear. But others of those outside, those
+called Tyrians, although it was known beforehand that "long ago sitting in
+sackcloth and ashes they would have repented", the savior having come near
+their borders, do not even hear the things of those outside, as is likely,
+being farther from the worth of those outside, in order that in another season
+after it has become "more tolerable" for them compared with those who did not
+receive the word, upon whom he also mentioned the Tyrians, having heard more
+seasonably they may repent more firmly. And see whether we, besides the
+examining, are not rather struggling to keep the pious altogether concerning
+"God and his christ", trying from every side to defend, as in so great and
+such things, concerning the varied providence of God, who provides for an
+immortal soul. If at any rate someone should inquire concerning those who are
+reproached that seeing wonders and hearing divine words they are not
+benefited, Tyrians who would have repented if such things had come to be and
+been said among them, and should inquire saying why in the world the savior
+preached to such unto their harm, in order that the sin be reckoned heavier to
+them; it must be said toward him that the one who observes the dispositions of
+all of those who accuse his providence, as if through it they have not
+believed, it not having granted to see what it granted to others to behold,
+and not having managed to hear these things, which others having heard have
+been benefited, wishing to convict the defense as not being reasonable, gives
+these things which those who blame his administration asked; in order that
+after receiving, having been convicted no less as most impious by not having
+given themselves even thus to being benefited, they may cease from such
+boldness, and having been freed according to this very thing they may learn
+that God, benefiting some, sometimes also delays, not granting to see and to
+hear
+such things, upon which when seen and heard the sin of those who have not
+believed after so great and such things is convicted as heavier and harder.
+3.=1.18= And let us see also concerning the "so then it is not of the one who
+wills nor of the one who runs, but of God who has mercy". For those who take
+hold say: if "not of the one who wills nor of the one who runs, but of God who
+has mercy", the being saved is not from what is in our power, but from a
+constitution that has come to be from the one who constituted such, or from a
+purpose of the one who has mercy when he wishes. From whom this must be asked:
+is the willing the noble things noble or base? and is the running of one who
+wishes to obtain the end in hastening upon the noble things praiseworthy or
+blameworthy? For if they will say blameworthy, they will answer against what
+is evident, and of the holy ones willing and running and clearly in this <not>
+doing a blameworthy thing; or if they will say that the willing the noble
+things and the running upon the noble things is noble, we will ask how the
+nature that is destroyed wills the better things; for it is as if a wicked
+tree bears good fruits, if indeed the willing the better things is noble. And
+third they will say that the willing the noble things and the running upon the
+noble things is of the intermediates, and neither fine nor base. And toward
+this it must be said that if the willing the noble things and the running upon
+the noble things is intermediate, the contrary to it also is intermediate,
+that is the willing the evil things and the running upon the evil things. But
+the willing the evil things and running upon the evil things is not
+intermediate; therefore the willing the noble things and running upon the
+noble things is not intermediate. 3.=1.19= Such a defense then I think we can
+furnish toward the "so then it is not of the one who wills nor of the one who
+runs, but of God who has mercy". Solomon says in the book of the Psalms (for
+his is the song of the steps, from which we will set out the sayings): "if the
+Lord does not build a house, in vain have the builders labored at it; if the
+Lord does not guard a city, in vain has the guard kept awake", not turning us
+away from building nor teaching not to keep awake unto guarding the city in
+our soul, but presenting that the things built without God and the things not
+obtaining the guard from him are built in vain and are kept without issue, the
+Lord reasonably being going to be inscribed of the building of God and the
+master of the wholes being ruler of the guard of the city. Therefore just as
+if we should say: this building is not a work of the one who builds but of
+God, and the this city's having suffered nothing from enemies is not a success
+of the one who guarded but "of the God over all", we would not fail, it being
+understood that something has also come to be according to the human, but the
+feat of manhood being referred thankfully to God "the perfecter"; thus since
+the human willing is not sufficient toward obtaining the end, nor the running
+of those who are as it were athletes toward taking hold of "the prize of the
+upward calling of God in Christ Jesus" (for these things are accomplished with
+God standing by), the "not of the one who wills nor of the one who runs, but
+of God who has mercy" is well said. As if also upon farming, which has also
+been written, it were said: "I planted, Apollos watered, but God increased; so
+that neither the one who plants is anything nor the one who waters, but God
+who increases", and we would not piously say that the fruits' having become
+"full" is a work of the farmer or a work of the one who watered, but a work of
+God; thus also our perfection does not come to be with our having practiced
+nothing, yet it is not completed from us, but God works the much of it. And in
+order that this that is said may be believed more evidently, we will take the
+example from the steersman's art. For toward the blowing of the winds and the
+good mixture of the airs and the brightness of the stars, co-working toward
+the salvation of those who sail, of what small number would the steersman's
+art be said to have of the restoration unto the harbor? not even the steersmen
+themselves through caution often daring to confess the having saved the ship,
+but referring the whole to God, not because they have worked nothing, but
+because that from providence is exceedingly many times more than that from the
+art. And upon our
+salvation at any rate that from God is exceedingly many times more than that
+from what is in our power. Therefore I think the "not of the one who wills nor
+of the one who runs, but of God who has mercy" is said. For if, as those
+suppose, one must take the "not of the one who wills nor of the one who runs,
+but of God who has mercy", the commandments are superfluous, and in vain Paul
+himself accuses some as having fallen and accepts some as having succeeded and
+legislates for the churches; and we give ourselves over in vain unto the
+"willing" the better things, †and not also† "running". But Paul does not in
+vain counsel these things and blame these and accept these, nor do we in vain
+give ourselves over to the willing the better things and to the hastening upon
+the things that differ. Therefore those have not taken the things according to
+the place well. 3.=1.20= In addition to these there was "the willing and the
+working are from God". And some say: if the willing is from God and the
+working is from God, even if we will badly and even if we work badly, these
+things have existed for us from God; and if this, we are not free. And again,
+willing better things and working the things that differ, since the willing
+and the working are from God, we have not done the things that differ, but we
+seemed to, and God granted these things; so that according to this too we are
+not free. And toward this too it must be said that the saying of the apostle
+does not say that the willing the evil things is from God or that the willing
+the good things is from God, and likewise the working the better and the
+worse, but the willing in general and the working in general. For as we have
+from God the being animals and the being humans, so also the willing in
+general, as if I were saying also the being moved in general. And just as,
+having, by being animals, the being moved and, say, moving these limbs, hands
+or feet, we would not reasonably say we have from God this specific thing,
+either the being moved toward striking or killing or taking away the things of
+others, but we received the generic, the being moved, from God, and we use the
+being moved upon the worse or upon the better; thus we have received the
+working, insofar as we are animals, from God and we received the willing from
+the creator, and we use the willing either upon the finest things or upon the
+contraries, and likewise also the working. 3.=1.21= Still toward our not being
+free the apostolic saying will seem to drag around, where bringing against
+himself he says: "so then he has mercy on whom he wills, and whom he wills he
+hardens. You will say to me then: why does he still find fault? For who has
+resisted his will? Yes indeed, O
+human, who are you who answer back to God? will the thing molded say to the
+one who molded it: why did you make me thus? or does the potter not have
+authority over the clay to make from the same lump one vessel unto honor and
+one unto dishonor?" For someone will say: if as "the potter from the same lump
+makes some vessels unto honor and some unto dishonor", thus God some unto
+salvation and some unto destruction, the being saved or being destroyed does
+not come to be from us, nor are we free. And it must be said toward the one
+who uses these things thus, whether he can think concerning the apostle as
+saying things that fight himself? And I do not think that anyone will dare to
+say this. If then the apostle does not utter things contrary to himself, how
+according to the one who has taken it thus does he reasonably accuse, blaming
+the one who has fornicated in Corinth or those who have fallen "and have not
+repented upon the wantonness and unrestraint which they practiced"? And how
+does he bless as having done well those whom he praises, as the house of
+Onesiphorus, saying: "may the Lord give mercy to the house of Onesiphorus,
+because he often refreshed me and was not ashamed of my chain, but having come
+to be in Rome he sought me earnestly and found me; may the Lord grant him to
+find mercy from the Lord in that day"? It is not according to the same apostle
+to blame as worthy of blame the one who has sinned and to accept as
+praiseworthy the one who has done well, and again to say as if nothing is in
+our power that it is from the cause of the creator that "one vessel is unto
+honor and one unto dishonor". And how is the "we all must be presented before
+the judgment seat of Christ, in order that each may receive the things through
+the body, toward what he practiced, whether good or base" sound, those who
+have done the base things having come to this practice through having been
+created "vessels of dishonor", and those who have lived according to virtue
+having done the noble thing by having been constituted from the beginning for
+this and having become "vessels of honor"? And still how is it not fighting
+with the, as they suppose from the sayings we set out, being an honored or
+dishonored vessel from the cause of the creator, the thing said elsewhere: "in
+a great house there are not only gold and silver vessels but also wooden and
+earthen, and some unto honor and some unto dishonor. If then someone cleanses
+himself out, he will be a vessel unto honor, sanctified and well-useful to the
+master, prepared unto every good work"? For if the one who has cleansed
+himself out becomes "a vessel unto honor", and the one who has overlooked
+himself uncleaned "a vessel unto dishonor", as far as these expressions the
+creator is in no way cause. For the creator makes "vessels of honor and
+vessels of dishonor" not from the beginning according to the foreknowledge,
+since he does not according to it pre-condemn or pre-justify, but "vessels of
+honor those who have cleansed themselves out" and "vessels of dishonor" those
+who have overlooked themselves uncleaned; so that from older causes of the
+constitution "of the vessels unto honor and unto dishonor" the one comes to be
+unto honor and the one unto dishonor. 3.=1.22= And if once we admit that there
+are some older causes of the "vessel of honor" and of the "vessel of
+dishonor", what is out of place, having gone up into the place concerning
+soul, <to think> that older causes of Jacob's having been loved and Esau's
+having been hated have come to be unto Jacob before the embodiment and unto
+Esau before coming to be into the belly of Rebecca? And at the same time it is
+clearly shown that as far as the underlying nature, just as one "clay"
+underlies the potter, from which "lump" there come to be "vessels unto honor
+and unto dishonor", so of one nature of every soul underlying God and, so to
+speak, there being one "lump" of the rational substances, some older causes
+have made "these to be unto honor and these unto dishonor". And if the saying
+of the apostle that says: "yes indeed, O human, who are you who answer back to
+God?" rebukes, perhaps it teaches that the one who has frankness toward God
+and is faithful and has lived well would not hear: "who are you who answer
+back to God?" of which sort Moses was; "for Moses was speaking, and God
+answered him with a voice"; and as God answers toward Moses, thus the holy one
+also answers toward God. But the one who has not acquired this frankness,
+clearly either having lost it or inquiring about these things not according to
+love of learning but according to love of strife and for this reason saying:
+"why does he still find fault? For who has resisted his will?" this one would
+be worthy of the rebuke that says: "yes indeed, O human, who are you who
+answer back to God?" 3.=1.23= And toward those who introduce the natures and
+use the saying these things must be said. If they save the coming to be "from
+one lump" of those who are destroyed and those who are saved, and the creator
+of those who are saved being creator also of those who are destroyed, and if
+the one who makes is good not only of spiritual but also of earthy (for this
+follows for them), it is possible however that someone who has become now a
+vessel of honor from some former successes, and not having done like things
+nor things following for the vessel of honor, become in another age a vessel
+of dishonor; as again it is possible that one who has become a vessel of
+dishonor here through <causes> older than this life, having been corrected in
+the "new creation" become "a vessel of honor sanctified and well-useful to the
+master, prepared unto every good work". And perhaps those who are now
+Israelites, not having lived worthily of the good birth, will fall out of the
+race, changing as it were from vessels of honor into a vessel of dishonor; and
+many of those who are now Egyptians and Idumaeans, having approached Israel,
+whenever they bear fruit to a greater degree, "will enter into the assembly of
+the Lord", no longer having been reckoned to be Egyptians and Idumaeans but
+going to be Israelites; so that according to this through the purposes some
+from worse things
+progress toward better, and others fall down from better toward worse, and
+others are kept in the noble things or go up again from noble toward better,
+and others again remain beside the evil things or from evils, the vice being
+poured, become worse. <...> 3.=1.24= And since in one place the apostle does
+not pretend what is upon God unto becoming "a vessel unto honor or unto
+dishonor", but refers the whole upon us saying: "if then someone cleanses
+himself out, he will be a vessel unto honor, sanctified and well-useful to the
+master, prepared unto every good work", and in another place he does not
+pretend what is in our power, but seems to refer the whole upon God saying:
+"the potter has authority over the clay to make from the same lump one vessel
+unto honor and one unto dishonor", and the things said by him are not
+contrarieties, both must be brought together and one complete word from both
+must be given: neither is what is in our power without the knowledge of God,
+nor does the knowledge of God compel us to progress, if we ourselves also do
+not bring something in together upon the good, nor of what is in our power
+without the knowledge of God and the use according to worth of what is in our
+power that makes someone come to be unto honor or unto dishonor, nor of what
+is upon God alone constituting someone unto honor or unto dishonor, if it does
+not have as matter of difference our purpose, inclining upon the better or
+upon the worse. And let these things have been constituted for us sufficiently
+concerning free will.
+4.1.τ Concerning the God-inspired of the divine scripture
+4.1.1 Since <then> examining concerning so great matters, not being content
+with the common conceptions and the evidence of the things seen, we take on
+besides into the demonstration that appears to us of the things said the
+witnesses from the writings believed by us to be divine, both of the so-called
+old covenant and of the so-called new, and we try by word to strengthen our
+faith, and we have not yet discussed concerning the scriptures as divine:
+come, let us treat a few things concerning these too as in an epitome, setting
+out the things that move us as concerning divine letters unto this. And first
+at least of using from the letters themselves and the sayings shown in them,
+concerning Moses and Jesus Christ, the lawgiver of the Hebrews and the
+introducer of the saving doctrines according to Christianity, these things
+must be treated. For of as many lawgivers as possible having come to be among
+Greeks and barbarians, and of teachers announcing doctrines that promise the
+truth, we have historically found no lawgiver able to produce zeal in the
+remaining nations concerning receiving his words; and of those who promise to
+philosophize concerning truth having brought in much preparation with the
+seeming logical demonstration, no one has been able to produce the truth
+thought by him in different nations, or in noteworthy multitudes of one
+nation. And yet the lawgivers would have wished to strengthen the laws that
+appeared to be noble if possible among all the race of humans, and the
+teachers that the truth they imagined be spread everywhere of the inhabited
+world. But as not being able to call those from the other dialects and the
+many nations unto the keeping of the laws and the reception of the lessons,
+they did not even attempt to do this from the beginning, having considered not
+unwisely concerning such a thing's being impossible for them. But all Greece
+and barbarian land according to our inhabited world has countless zealots, who
+have left the ancestral laws and the gods that are thought, of the keeping of
+the laws of Moses and of the discipleship of the words of Jesus Christ; and
+yet those who add themselves to the law of Moses are hated by those who bow to
+the images, and those who have received the word of Jesus Christ are in danger
+even unto death in addition to being hated. 4.1.2 And if we attend how in very
+few years, those who confess Christianity being plotted against, and some
+being killed through this, and others losing their possessions, the word has
+been able, and yet
+not even with the teachers being numerous, "to be preached everywhere of the
+inhabited world", so that "Greeks and barbarians, wise and unintelligent" have
+added themselves to the piety through Jesus, we will not hesitate to say that
+the matter is greater than according to a human, with all authority and
+persuasion of the one who taught concerning the word of Jesus going to be
+strengthened; so that one would reasonably think his voices oracles, such as
+that "you will be led before kings and governors for my sake, unto a witness
+to them and to the nations" and "many will say to me in that day: Lord, Lord,
+did we not eat in your name and drink in your name and cast out demons in your
+name? and I will say to them: depart from me, you who work lawlessness, I
+never knew you". For to have said these things, uttering in vain, so that they
+not become true, was perhaps likely; but when the things said with so much
+authority have come out, it shows that God having truly become human has
+handed over saving doctrines to humans. 4.1.3 And what need is there to say
+also that it was prophesied [the Christ] then that "the rulers from Judah" who
+are said "and leaders from his thighs will fail, when he comes for whom it is
+laid up", clearly the kingdom, "and the expectation of the nations sojourns"?
+For clearly from the history it is evident and from the things seen today,
+that from the times of Jesus Jews have no longer been named kings, all the
+Jewish matters in which they were proud, I mean both those according to the
+temple and the altar and the worship performed and the garments of the high
+priest, having been dissolved. For the prophecy that says has been fulfilled:
+"the sons of Israel will sit many days there being no king nor there being a
+ruler, there being no sacrifice nor there being an altar nor priesthood nor
+lights". And we use these sayings toward those who in being afflicted from the
+things said in Genesis by Jacob toward Judah claim that the ethnarch, being
+from the race of Judah, rules the people, those from his seed not going to
+fail, until the sojourn of Christ which they imagine. For if "the sons of
+Israel will sit many days there being no king nor there being a ruler, there
+being no sacrifice nor altar nor priesthood nor lights", and from when the
+temple was razed, there is no sacrifice nor altar nor priesthood, it is clear
+that "a ruler has failed from Judah and a leader from his thighs". And since
+the prophecy says: "a ruler will not fail from Judah nor a leader from his
+thighs, until the things laid up for him come", it is clear that "he has come
+for whom the things laid up, the expectation of the nations". And this is
+clear from the multitude of the nations that have believed through Christ into
+God. 4.1.4 And in the song of Deuteronomy too it is shown prophetically the
+election of the unintelligent nations that will be through the sins of the
+former people, having come to be through no other than Jesus. "For they", he
+says, "made me jealous upon not God, they angered me in their idols; and I
+will make them jealous upon not a nation, and upon an unintelligent nation I
+will anger them". And it is possible to grasp very clearly in what way those
+who are said "to have made God jealous" the Hebrews "upon the not God" and "to
+have angered him in their idols" "were angered" unto jealousy "upon the not a
+nation", the "unintelligent nation", which God "chose" through the sojourn of
+Christ Jesus and of his disciples. "We see" then "our calling, that not many
+wise according to flesh, not many powerful, not many well-born; but God chose
+the foolish things of the world, in order that he may shame the wise, and God
+chose the unborn and the things that have been set at nought and the things
+that are not, in order that he may abolish those things that formerly were,
+and that" "Israel according to flesh" (called by the apostle "flesh") "may not
+boast" "before God". 4.1.5 And what need is there to say concerning the
+prophecies in Psalms concerning Christ, of a certain song inscribed "for the
+beloved", whose "tongue" is said to be "a reed of a scribe writing swiftly.
+Beautiful in beauty beside the sons of humans", since
+"grace was poured on his lips"? For a proof of the "grace poured on his lips"
+is that, little time of his teaching having passed (for he taught somewhere a
+year and a few months), the inhabited world has been filled with his teaching
+and with the piety through him. For "righteousness has risen in his days and a
+multitude of peace" remaining until the consummation, which has been named "a
+taking away of moon"; "and he remains lording from sea unto sea and from
+rivers unto the ends of the inhabited world". And "a sign has been given to
+the house of David"; for "the virgin" [bore and] "had in belly and bore a son,
+and his name Emmanuel", which is "God with us". It has been fulfilled, as the
+same prophet says: "God with us; know, nations, and be defeated, having been
+strong be defeated". For we from the nations have been defeated and have been
+conquered, having been captured by the grace of his word. But also a place of
+his generation has been said beforehand in Micah; "for and you", he says,
+"Bethlehem, land of Judah, you are in no way least among the leaders of Judah;
+for from you will come out a leader, who will shepherd my people Israel". And
+the seventy weeks were fulfilled until Christ as leader according to Daniel.
+And he came according to Job "who subdued the great sea-monster" and "has
+given authority" to his genuine disciples "to tread upon snakes and scorpions
+and upon all the power of the enemy, being wronged in nothing by them". And
+let someone attend also to the sojourn everywhere of the apostles sent by
+Jesus unto announcing the gospel, and he will see both the daring not
+according to a human and the success divine. And if we examine how humans
+hearing new lessons and foreign words received the men, having been conquered
+in wishing to plot against them by some divine power overseeing them, we will
+not disbelieve if they have also done wonders, "God bearing additional witness
+to their words also through signs and wonders and various powers". 4.1.6 And
+demonstrating as in an epitome concerning the divinity of Jesus 4.1.6 and
+using the prophetic words concerning him, we demonstrate together that the
+scriptures that prophesy concerning him are God-inspired, and the letters that
+announce his sojourn and teaching have been said with all power and authority
+and have for this reason prevailed of the election from the nations. And it
+must be said that the in-God of the prophetic words and the spiritual of the
+law of Moses shone when Jesus sojourned. For to present clear examples
+concerning the old scriptures' being God-inspired before the sojourn of Christ
+was not altogether possible; but the sojourn of Jesus brought into the open
+the law and the prophets, which could be suspected as not divine, as having
+been recorded by heavenly grace. And the one who encounters the prophetic
+words with care and attention, having suffered from the reading itself a trace
+of enthusiasm, through the things he suffers will be persuaded that the words
+believed by us to be of God are not compositions of humans. And the light that
+exists in the law of Moses, hidden away in a "veil", shone together with the
+sojourn of Jesus, "the veil having been taken around" and the "good things"
+coming little by little into knowledge, of which the letter "had a shadow".
+4.1.7 And it would be much now to collect the most ancient prophecies
+concerning each of the things that will be, in order that the one who doubts,
+having been struck through them as in-God, having put away all double-soul and
+distraction, may give himself over with whole soul to the words of God. And if
+the above-human of the thoughts does not seem to fall upon the unknowledgeable
+according to each of the letters, it is no wonder; for also upon the works of
+the providence that touches the whole world, some appear most evident, insofar
+as they are works of providence, and others are so hidden that they seem to
+furnish room of unbelief concerning God who administers the wholes with
+unspeakable art and power. For the artistic word concerning the one who
+provides is not so clear in the things upon earth as in
+sun and moon and stars; and not so evident in the things according to human
+accidents as in the souls and the bodies of the animals, the toward what and
+for the sake of what being found very much by those who care for these things
+concerning the impulses and the impressions and natures of the animals and the
+constitutions of the bodies. But just as providence is not bankrupted through
+the things not known among those at least who have once received it well, thus
+neither is the divinity of the scripture stretching into all of it, through
+our weakness's not being able according to each expression to be present to
+the hidden brightness of the doctrines lying away in cheap and contemptible
+expression. "For we have treasure in earthen vessels, in order that the excess
+of the power of God may shine, and it may not" be thought to be "from us" the
+humans. For if the well-worn roads of the demonstrations among humans, lying
+away in the books, had prevailed over the humans, our "faith" would reasonably
+have been supposed "in wisdom of humans" and not "in power of God"; but now it
+is clear to the one who has lifted the eyes that "the word and the preaching"
+among the many has been able "not in persuasive words of wisdom, but in
+demonstration of spirit and power". Therefore, a heavenly or even
+above-heavenly power striking us unto reverencing the one who created us only,
+let us try, "having left the word of the beginning of Christ", that is of the
+"element-teaching", "to be borne upon the perfection", in order that the
+wisdom spoken to the perfect may be spoken also to us. For the one who has
+acquired this announces that he "speaks wisdom among the perfect", being other
+beside the "wisdom of this age and the wisdom of the rulers of this age that
+is being abolished"; and this wisdom will be stamped in us clearly "according
+to a revelation of a mystery having been silenced for eternal times, but now
+having been manifested both through prophetic scriptures and through the
+appearing of our lord and savior Jesus Christ; to whom the glory unto all the
+ages. Amen".
+4.2.τ How the divine scripture must be read and understood
+4.2.1 After having said as in a run-through concerning the divine scriptures'
+being God-inspired it is necessary to go through the manner of the reading and
+understanding of them, most sins having come to be beside the road of how one
+must go over the holy readings not having been found by the many. For both the
+hard-hearted and private persons of those from circumcision have not believed
+into our savior, thinking they follow the expression of the prophecies
+concerning him, and not seeing him sense-wise "having preached forgiveness to
+captives" nor having built what they think is truly "a city of God" nor
+"having destroyed chariot from Ephraim and horse from Jerusalem", nor "having
+eaten butter and honey, and before knowing him or choosing evil things having
+chosen the good"; and still thinking that a "wolf", the four-footed animal, is
+prophesied as going to "feed with a lamb and a leopard rest with a kid and a
+calf and a bull and a lion will be fed together being led by a small child and
+a cow and a bear will graze together, their children being reared together
+with one another, and a lion will eat straw as an ox", having seen none of
+these things come to be sense-wise in the sojourn of the Christ believed by
+us, they did not receive our lord Jesus, but they crucified him as having
+announced himself Christ beside what was needed. And those from the heresies,
+reading the "fire has been kindled from my anger" and "I am a jealous God,
+rendering sins of fathers upon children upon a third and fourth generation"
+and "I have regretted having anointed Saul unto king" and "I am a God making
+peace and creating evil things", and in other places the "there is no evil in
+a city, which the Lord did not make", and still also the "evils came down from
+the Lord upon gates of Jerusalem", and "an evil spirit from God choked Saul",
+and as many countless things near to these, have not dared to disbelieve the
+scriptures as of God, but believing them to be of the creator, whom Jews
+serve,
+they supposed, as the creator being imperfect and not good, that the savior
+has sojourned announcing a more perfect God, whom they say is not the creator,
+being moved differently concerning this; and once having stood away from the
+creator, who is the only ungenerated God, they have given themselves over to
+fabrications, making myths for themselves of hypotheses, according to which
+they think the things seen have come to be, and some other things not seen,
+which their soul has made into idols. But indeed also the more simple of those
+who boast to be from the church have supposed no one greater than the creator,
+doing this soundly; but they suppose such things concerning him as not even
+concerning the most cruel and most unjust human. 4.2.2 And the cause of
+false-doctrines and impieties or private words concerning God to all those
+mentioned before seems to be no other than the scripture not having been
+understood according to the spiritual things, but having been taken as toward
+the bare letter. Therefore to those who are persuaded that the holy books are
+not compositions of humans, but have been recorded from inspiration of the
+holy spirit by will of the father of the wholes through Jesus Christ and have
+come to us, the appearing roads must be pointed out, as they hold to the canon
+of the heavenly church of Jesus Christ according to succession of the
+apostles. And that there are certain mystical managements, shown through the
+divine scriptures, all even the most simple of those who approach the word
+have believed; but what these are, the fair-minded and uninflated confess they
+do not know. If at any rate someone should raise a difficulty concerning the
+daughter-mixing of Lot and the two women of Abraham and two sisters married to
+Jacob and two slave-girls who have borne children from him, they will say
+nothing other than that these happen to be mysteries not understood by us. But
+also whenever the constitution of the tent is read, being persuaded that the
+things written are types they seek that to which they will be able to fit each
+of the things said according to the tent; as far as being persuaded that the
+tent is a type of something not failing, but as far as fitting the word of
+that of which the tent is a type to this or that worthily of the scripture,
+sometimes falling away; and they declare every narrative thought to announce
+concerning marriages or child-makings or wars or whatever histories would be
+received among the many to be types; but in of what things, in part through
+the habit not altogether well-composed, in part through rashness, sometimes
+even if someone happens to be well-composed and unrash, through the finding of
+the matters being excessively most hard for humans, the word concerning each
+of these is not altogether made clear. 4.2.3 And what need is there to say
+concerning the prophecies, which we all know have been filled with "riddles"
+and "dark words"? And even if we arrive at the gospels, the accurate mind of
+those too, inasmuch as it is a mind of Christ, needs the grace that was given
+to the one who has said: "but we have a mind of Christ, in order that we may
+know the things granted to us by God; which we also speak, not in words taught
+of human wisdom, but in things taught of spirit". And who, having read the
+things unveiled to John, would not be struck by the hiding of the unspeakable
+mysteries even appearing to the one who does not understand the things
+written? And the letters of the apostles, to whom of those who know how to
+test words would they seem to be clear and easily understood, as many
+countless things there too as through a hole furnishing a brief starting-point
+of greatest and most thoughts? Therefore these things being thus and as many
+countless failing, it is not without danger in the reading to declare easily
+that one understands the things that need "the key of knowledge", which the
+savior says is beside "the lawyers"; and let those who do not wish the truth
+to happen beside those before the sojourn of Christ announce how "the key of
+knowledge" is said by our lord Jesus Christ to happen beside those, who, as
+they themselves say, do not have books containing the unspeakable things of
+the knowledge and complete mysteries. For the expression is thus: "woe to you
+lawyers, because you took the key of knowledge; you yourselves
+did not enter, and you hindered those who are entering". 4.2.4 The road then
+that appears to us of how one must encounter the scriptures and take their
+mind is such, being tracked from the oracles themselves. Beside Solomon in the
+Proverbs we find some such thing being ordered concerning the divine doctrines
+that have been written: "and you, write them threefold in counsel and
+knowledge, to answer words of truth to those who put them forward to you".
+Therefore one must write threefold into one's own soul the thoughts of the
+holy letters; in order that the simpler be built from the as it were flesh of
+the scripture, we naming thus the ready interpretation, and the one who has
+gone up to a quantity from the as it were soul of it, and the perfect and like
+those said beside the apostle: "but we speak wisdom among the perfect, but
+wisdom not of this age nor of the rulers of this age who are being abolished,
+but we speak God's wisdom in a mystery, the hidden, which God pre-defined
+before the ages unto our glory", from "the spiritual law", "containing a
+shadow of the good things that will be". For just as the human has been
+composed from body and soul and spirit, in the same way also the scripture
+managed by God to be given unto salvation of humans. For this reason we also
+interpret thus the thing in the book despised by some, the Shepherd,
+concerning Hermas's being ordered "to write two books", and after these things
+himself "to announce to the elders of the church" the things he has learned
+from the spirit. And the expression is this: "you will write two books, and
+you will give one to Clement and one to Grapte. And Grapte will admonish the
+widows and the orphans, and Clement will send into the cities outside, and you
+will announce to the elders of the church". For Grapte, who "admonishes the
+widows and the orphans", is the bare letter itself, admonishing the children
+the souls and not yet able to inscribe God as father and for this reason
+called "orphans", and admonishing also those who no longer use the lawless
+bridegroom, but "are widowed" by their not yet having become worthy of the
+<heavenly> "bridegroom". And Clement, who already stands out of the letter, is
+said to send the things said "into the cities outside", as if we should say
+the souls that happen outside the bodily and the below thoughts. And no longer
+through letters, but through living words the disciple of the spirit himself
+is ordered "to announce to the elders of the whole church of God" who have
+been made grey by prudence. 4.2.5 But since there are some scriptures that
+have the bodily in no way, as we will show in what follows, there is where one
+must seek as it were only the soul and the spirit of the scripture. And
+perhaps for this reason the "water-jars for cleansing of the Jews" that are
+said "to lie", as we read in the gospel according to John, "hold two or three
+measures each"; the word riddling concerning those "Jews in secret" beside the
+apostle, as then these are cleansed through the word of the scriptures, in one
+place holding "two measures", the soul-ish, so to speak, and the spiritual
+word, and in another place "three", since some have toward the things said
+before also the bodily able to build. And there are reasonably "six
+water-jars" for those being cleansed in a world that has come to be in six
+days, a perfect number. 4.2.6 From the first interpretation then and
+benefiting according to this, that it is possible to have profit, the
+multitudes of those who have believed genuinely and more simply bear witness;
+and of the interpretation as if being referred unto soul an example is the
+thing lying beside Paul in the first to the Corinthians. "For it has been
+written:" he says "you will not muzzle an ox that threshes". Then interpreting
+this law he adds: "does God care for the oxen? or does he say it altogether
+through us? For it was written through us, that the one who plows ought to
+plow upon hope and the one who threshes upon hope of partaking". And most
+interpretations being carried around that fit the multitudes and build those
+not able to hear higher things have somehow the same
+character. And a spiritual interpretation to the one able to demonstrate of
+what "heavenly things as example and shadow" the Jews "according to flesh"
+"served", and of what "good things that will be the law has a shadow". And in
+a word upon all things according to the apostolic promise one must seek
+"wisdom in a mystery, the hidden, which God pre-defined before the ages unto
+glory of the just, which none of the rulers of this age knew". And the same
+apostle says somewhere, having used certain sayings from Exodus and Numbers,
+that "these things happened to them typically, but they were written through
+us, unto whom the ends of the ages have arrived". And he gives starting-points
+of of what things those were types, saying: "for they drank from a spiritual
+rock that followed, and the rock was the Christ". And outlining the things
+concerning the tent also in another letter he used the: "you will make all
+things according to the type that was shown to you in the mountain". But
+indeed also in the letter to the Galatians, as if reproaching those who think
+they read the law and do not understand it, judging those not to understand,
+as many as do not think there is allegory in the things written: "tell me" he
+says "you who wish to be under law, do you not hear the law? For it has been
+written that Abraham had two sons, one from the slave-girl and one from the
+free. But the one from the slave-girl has been generated according to flesh,
+and the one from the free through the promise; which things are being
+allegorized; for these are two covenants" and the rest. For one must observe
+each of the things said by him, that he says: "you who wish to be under law",
+not "you who are under the law", and: "do you not hear the law?" the "to hear"
+being judged in the understanding and knowing. And in the letter to the
+Colossians too, cutting short through brief things the will of all the
+legislation, he says: "let no one then judge you either in
+food or in drink or in part of a feast or new moon or sabbaths, which are a
+shadow of the things that will be". And still also in that to the Hebrews
+discussing concerning those from circumcision he writes: "who serve as example
+and shadow of the heavenly things". But it is likely that through these things
+those who once receive the apostle as a divine man would not doubt concerning
+the five books inscribed of Moses; but concerning the remaining history they
+would wish to learn whether that too "happened typically". And one must
+observe from that to the Romans the: "I left to myself seven thousand men, who
+did not bend knee to Baal", lying in the third of Kingdoms, that Paul has
+taken it instead of the Israelites "according to election", by not only the
+nations having been benefited from the sojourn of Christ but also some of
+those from the divine race. 4.2.7 These things being thus the appearing
+characters of the understanding of the scriptures must be sketched for us. And
+first at least this must be pointed out, that the aim for the spirit that
+lights by providence of God through the "word in beginning toward God" the
+servants of the truth, prophets and apostles, was precedingly the one
+concerning the unspeakable mysteries of the matters according to humans (and I
+now say humans the souls that use bodies), in order that the one able to be
+taught, having "searched" and given himself over "to the depths" of the mind
+of the expressions, may become a partner of all the doctrines of his counsel.
+And into the things concerning the souls, not able otherwise to obtain the
+perfection without the rich and wise truth concerning God, the things
+concerning God have necessarily been arranged as preceding, and of his
+only-begotten; of what nature he is, and in what manner he happens to be son
+of God, and what are the causes of his having come down as far as human flesh
+and having taken up human altogether, and what also is the working of this,
+and unto whom and when it comes to be. And necessarily as concerning kindred
+also of the other rational beings, both more divine and having fallen out of
+the blessedness, and of the causes of their falling out, it was needed that
+they be taken up into the words of the divine teaching, and concerning the
+difference of the souls, and from where these differences have come, and what
+the world is and why it came to subsist, and still from where the vice so much
+and
+so great is upon earth, and if not only upon earth but also elsewhere, it is
+necessary that we learn. 4.2.8 These things then and the things near having
+been set before the spirit that lights the souls of the holy servants of the
+truth, a second aim was, through those not able to bear the toil for the sake
+of finding such great things, to hide the word concerning the things said
+before in expressions showing a narrative containing an announcement
+concerning the sense-wise created things and creation of human and of those
+who have come to be from the first according to succession as far as many, and
+other histories announcing practices of just ones and sins that have come to
+be sometimes of these same as of humans and wickednesses and unrestraint and
+greed of lawless and impious. And most paradoxically, through a history
+concerning wars and those who have conquered and those who have been conquered
+some of the unspeakable things are made clear to those able to test these. And
+still more wonderfully, through written legislation the laws of the truth are
+prophesied, with a power truly fitting wisdom of God, all these things having
+been recorded in a sequence. For it was also set before to make the garment of
+the spiritual things, I mean the bodily of the scriptures, in many things not
+unprofitable and able to make the many better, as they have room.
+4.2.9 But since, if through wholes the useful of the legislation appeared
+clearly from itself and the following and polished of the history, we would
+have disbelieved that some other thing beside the ready can be understood in
+the scriptures, the word of God managed that certain as it were "scandals" and
+"stumbling-blocks" and "impossibles" be arranged through the middle in the law
+and the history, in order that we, not being altogether dragged by the
+expression that has the leading unmixed, either, as learning nothing worthy of
+God, stand away completely from the doctrines, or not being moved from the
+letter learn nothing more divine. And one must know this too, that the
+preceding aim happening to announce the sequence in the spiritual things that
+have come to be and are to be practiced, where the word found things that have
+come to be according to the history able to fit these mystical things, it used
+them hiding from the many the deeper mind; and where in the narrative of the
+following concerning the intelligible things the practice of these or those
+that had been recorded before did not follow through the more mystical things,
+the scripture wove together with the history the thing that has not come to
+be, in one place not even possible to come to be, in another place possible to
+come to be, yet not having come to be, and sometimes few expressions have been
+thrown in according to the body not being made true, and sometimes more. And
+the analogous must be taken also upon the legislation, in which it is possible
+to find often also the useful from itself, fitting toward the seasons of the
+legislation; and sometimes a useful word does not appear. And at another time
+even impossibles are legislated through the more skilled and more inquiring,
+in order that giving themselves over to the testing of the examination of the
+things written they may take a noteworthy persuasion concerning the need to
+seek a mind worthy of God unto such things. And not only concerning the things
+before the presence did the spirit manage these things, but also inasmuch as
+being the same and from the one God, it has done the like also upon the
+gospels and upon the apostles, these too not having altogether unmixed the
+history of the things woven on according to the bodily that have not come to
+be, nor the legislation and the commandments altogether showing the reasonable
+from there.
+What is the word of the unclarity in the divine scripture and of the
+impossible or unreasonable according to the letter in some things
+4.3.1 Who at any rate having a mind will think that "a first and second and
+third day, both evening and morning" have come to be without sun and moon and
+stars? and the as it were first also without heaven? And who is so silly as to
+think that in the manner of a human
+farmer God has "planted a paradise in Eden according to east", and has made in
+it a "tree of life" visible and sense-wise, so that tasting the fruit through
+the bodily teeth one takes up the living; and again that someone partakes of
+"noble and wicked" beside having chewed the thing taken from this tree? And if
+also "God" is said "to walk in the paradise in the afternoon" and "Adam to
+hide under the tree", I do not think anyone will doubt concerning their
+showing tropically through a seeming history and not having come to be bodily
+certain mysteries. But also "Cain going out from the face of God" clearly
+appears to those who have attended to move the one who encounters to seek,
+<what> "face of God" is and the someone's "going out" from him. And what need
+is there to say more, of those not altogether blunt being able to gather as
+many countless such things, having been recorded as having come to be, but not
+having come to be according to the expression? But also the gospels have been
+filled with the same form of words, the devil bringing Jesus up "unto a high
+mountain", in order that from there he may "show him the kingdoms of the whole
+world and their glory". For who of those who do not read such things as a
+side-work would not condemn those who think that by the eye of the flesh,
+which needed height for the sake of the things below and underlying being able
+to be observed, the kingdom of Persians and Scythians and Indians and
+Parthians has been seen, and how those who rule are glorified among humans?
+And near to these it is possible for the one who is accurate to keep countless
+other things from the gospels for the sake of agreeing that other things that
+have not happened are woven together with the histories that have come to be
+according to the letter. 4.3.2 And if we come also upon the legislation of
+Moses, many of the laws, as far as being kept according to themselves, show
+the unreasonable, and others the impossible. The unreasonable, vultures being
+forbidden to be eaten, no one even in the greatest famines having been forced
+by the lack to arrive at this animal; and "eight-day children uncircumcised
+being ordered to be destroyed from their race", it being needed, if at all
+something concerning these ought to have been legislated according to the
+letter, that their fathers be ordered to be killed or those among whom they
+are reared; but now the scripture says: "every male uncircumcised, who will
+not be circumcised on the eighth day, will be destroyed from his race". And if
+you also wish to see impossibles being legislated, let us examine that a
+goat-stag happens to be of the animals impossible to subsist, which Moses
+orders us to bring forward as clean; and a griffin has never been historically
+found to have come under hand of a human, which the lawgiver forbids to be
+eaten. But also the much-spoken sabbath, to the one who is accurate the: "you
+will sit each into your houses; let none of you go out from his place on the
+seventh day" is impossible to be guarded according to the expression, no
+animal being able to sit through the whole of the day and to be unmoved from
+the sitting. Therefore some things those from circumcision and as many as wish
+nothing more than the expression to be shown do not even seek from the
+beginning, as the things concerning goat-stag and griffin and vulture, and
+unto some they talk nonsense finding words, bringing cold traditions, as also
+concerning the sabbath, claiming that the place of each is two thousand
+cubits, and others, of whom is Dositheus the Samaritan, condemning such an
+interpretation think that upon the figure in which someone is overtaken on the
+day of the sabbath he remains until evening. But also the "not to lift a
+burden on the day of the sabbath" is impossible; therefore the teachers of the
+Jews have come into endless-speaking, claiming that a "burden" is this sort of
+sandal, yet not also that sort, and the sandal that has nails, yet not also
+the unnailed, and the thing carried thus upon the shoulder, yet not also upon
+the two shoulders. 4.3.3 And if having come also upon the gospel we should
+seek the like, what would be more unreasonable than the: "greet no one
+according to the road", which the simple think the savior commands to the
+apostles?
+But also a "right cheek being struck" as said is most unconvincing, every one
+who strikes, unless perhaps he happens to have suffered something beside
+nature, striking with the right hand the left cheek. And it is impossible to
+take from the gospel "a right eye that scandalizes"; for in order that we
+grant that it is possible for someone from the seeing to be "scandalized",
+how, of the two eyes seeing, is the cause to be referred upon the right? And
+who, having condemned himself in the having seen "a woman toward desiring",
+referring the cause upon only the "right eye", would reasonably "throw this
+away"? But also the apostle legislates saying: "was someone called
+circumcised? let him not draw over". First the one who wishes will see that he
+says these things beside the discourse set before him; for how legislating
+concerning marriage and holiness will he not seem to have thrown these in
+vainly? And second who will say that the one who, if possible, through the
+unseemliness thought among the many upon having been circumcised, gives
+himself over to the drawing over, does injustice? 4.3.4 And all these things
+have been said by us for the sake of showing that an aim for the divine power
+that grants us the holy scriptures is not to take only the things presented by
+the expression, these sometimes as far as the letter happening to be not true
+but also unreasonable and impossible, and that certain things have been woven
+onto the history that has come to be and the legislation useful according to
+the letter. And in order that someone may not suppose us to say this upon all,
+that no history has come to be, since some has not come to be, and no
+legislation is to be kept according to the letter, since some according to the
+expression happens to be unreasonable or impossible, or that the things
+written concerning the savior according to the sense-wise are not made true,
+or that no legislation of his and commandment is to be guarded; it must be
+said that it is clearly presented to us concerning certain things that the of
+the history is true, as that Abraham was buried in the double cave in Hebron
+and Isaac and Jacob and one wife of each of these, and that Shechem has been
+given as a portion to Joseph, and Jerusalem is metropolis of Judea, in which a
+temple of God had been built by Solomon, and countless others. For the things
+made true according to the history are far more than the bare spiritual things
+that have been woven on. And again who would not say that the commandment that
+says: "honor the father and the mother, in order that it may become well for
+you", happens to be useful without any referring-up and to be kept, even the
+apostle Paul having used it in the very expression? And what need is there to
+say concerning the: "you will not murder, you will not commit adultery, you
+will not steal, you will not bear false witness"? And again in the gospel
+there are commandments written that are not sought, whether one must keep them
+according to the expression or not, as the one that claims: "but I say to you,
+whoever is angry with his brother" and the rest, and: "but I say to you not to
+swear at all". And beside the apostle the letter is to be kept: "admonish the
+disorderly, comfort the small-souled, hold to the weak, be long-suffering
+toward all", even if among the more ambitious each of them can save, with the
+commandment according to the letter not being set aside, "depths of wisdom of
+God". 4.3.5 The accurate one however upon certain things will be dragged
+around, not being able without much testing to declare whether this history
+that is thought has come to be according to the expression or not, and whether
+the letter of this legislation is to be kept or not. For this reason the one
+who encounters, keeping accurately the order of the savior that says: "search
+the scriptures", must test carefully where the according to the expression is
+true and where impossible, and as much power as he has track from the like
+voices the mind of the scripture scattered everywhere of the according to the
+expression impossible. Since then, as will be clear to those who encounter,
+the sequence as toward the letter is impossible, but the preceding is not
+impossible but also true, one must be ambitious to grasp the whole mind,
+stringing the word concerning the things impossible according to the
+expression intelligibly to those not only not impossible but also true
+according to the history, being allegorized together with those that as far as
+the expression have not come to be. For we are disposed concerning all the
+divine scripture, that
+all has the spiritual, but not all the bodily; for in many places the bodily
+is convicted as being impossible. Therefore much attention must be brought in
+together by the one who encounters piously the divine books as divine letters,
+of which the character of the understanding appears to us such: 4.3.6 The
+words announce that God has chosen a certain nation upon earth, which they
+call by more names. For this whole nation is called Israel, and it is also
+said Jacob. And when it was divided according to the times of Jeroboam son of
+Nebat, the tribes said under this, ten, were named Israel, and the remaining
+two and the Levitical, being ruled by those from the seed of David, Judah. And
+the whole place, which those from the nation inhabited, having been given to
+them from God, is called Judea, whose metropolis is Jerusalem, metropolis
+clearly of more cities, whose names lie in many places also elsewhere
+scatteredly, but have been listed under one in Joshua the of Nun. These things
+being thus, the apostle, lifting our thinking, says somewhere: "see Israel
+according to flesh", as there being some Israel according to spirit. And
+elsewhere he says: "for not the children of the flesh, these are children of
+God", "nor are all those from Israel these Israel". But neither "is the one in
+the manifest a Jew, nor the circumcision in the manifest in flesh; but the Jew
+in the secret, and circumcision of heart in spirit, not in letter". For if the
+judgment of the Jew is taken from the secret, it must be understood that, just
+as there is a race of bodily Jews, so there is a certain nation of the "Jews
+in secret", the soul having acquired this good birth according to certain
+unspeakable words. But also many prophecies prophesy concerning Israel and
+Judah, narrating the things that will be to them. And surely the so many
+promises written to these, happening as far as the expression low and
+presenting no elevation and dignity of a promise of God, do they not need a
+mystical referring-up? And if the promises are intelligible, being announced
+through sense-wise things, those also to whom the promises are are not bodily.
+4.3.7 And in order that we may not linger upon the word concerning the "Jew in
+secret" and concerning the Israelite "inner human", these too being sufficient
+for those not without a sting, we return upon the present and say that Jacob
+is father of the twelve patriarchs, and those of the people-rulers, and still
+those of the Israelites next. Do then the bodily Israelites have the
+referring-up upon the people-rulers, and the people-rulers toward the
+patriarchs, and the patriarchs toward Jacob and those still above; but the
+intelligible Israelites, of whom the bodily were a type, are they not from
+people-groups, the people-groups having come from tribes, and the tribes from
+some one, having not such a bodily generation but the better, that one too
+having been generated from Isaac, and that one too having come down from
+Abraham, all being referred up upon Adam, whom the apostle says is the Christ?
+For every beginning of fatherhoods of those as toward the God of the wholes
+below began from Christ who after the God and father of the wholes is thus
+father of every soul, as Adam is father of all the humans. And if Eve too has
+been hit upon by Paul as being referred up unto the church, it is no wonder,
+Cain having been generated from Eve and all those next having the referring-up
+upon Eve, that they happen to be fallings-out of the church, all having been
+generated from the church by a preceding word. 4.3.8 And if the things said by
+us concerning Israel and its tribes and people-groups are striking, whenever
+the savior claims: "I was not sent if not unto the lost sheep of the house of
+Israel", we do not take these as the Ebionites poor in thought, named from the
+poverty of the thought (for "ebion" is named the poor among Hebrews), so as to
+suppose that Christ has sojourned precedingly upon the fleshy Israelites. For
+"not the children of the flesh, these are children of God". Again the apostle
+teaches some such things concerning Jerusalem, that "the Jerusalem above is
+free, who is mother
+of us". And in another letter: "but you have approached Zion mountain and city
+of living God, heavenly Jerusalem, and myriads of angels, a festal assembly
+and church of firstborns recorded in heavens". If then Israel is in a race of
+souls, and there is a certain city Jerusalem in heaven, it follows that the
+cities of Israel use as metropolis the Jerusalem in heavens and
+correspondingly the whole Judea. As many things therefore as are prophesied
+concerning Jerusalem and said concerning it, if we hear †of God as of God† and
+of one uttering wisdom, one must understand the scriptures to announce
+concerning the heavenly city and all the place that contains the cities of the
+holy land. For perhaps the savior, referring us up upon those cities, gives to
+those who have been well-approved in having managed the minas well oversight
+of "ten" or "five cities". 4.3.9 If then the prophecies concerning Judea and
+concerning Jerusalem and Israel and Judah and Jacob, we not taking these
+flesh-wise, suggest some such mysteries, it would be following that the
+prophecies concerning Egypt and Egyptians and Babylon and Babylonians and Tyre
+and Tyrians and Sidon and Sidonians or the remaining nations also prophesy not
+only concerning these bodily Egyptians and Babylonians and Tyrians and
+Sidonians. For if there are intelligible Israelites, it follows that there are
+also intelligible Egyptians and Babylonians. For the things said in Ezekiel
+concerning Pharaoh king of Egypt are not altogether fitting to be said
+<concerning> some human who has ruled or will rule Egypt, as will be evident
+to those who observe. Likewise the things concerning the ruler of Tyre cannot
+be understood concerning some human who will rule Tyre. And the things said in
+many places concerning Nebuchadnezzar and especially in Isaiah it is not
+possible to take concerning that human; for neither "did he fall out of
+heaven", nor was he "light-bringer", nor did Nebuchadnezzar the human "rise
+early" upon the earth. Nor indeed will anyone having a mind take the things
+said in Ezekiel concerning Egypt, as "going to be made desert for forty
+years", so that "a foot of a human" not be found there, and as going to be
+warred against sometime to so much, so that through all of it the blood come
+to be as far as the knees, concerning the Egypt that lies beside the
+Ethiopians who have been blackened in the bodies by sun. <...> 4.=3.10= And
+perhaps just as those who die from here according to the common death are
+managed from the things practiced here, if they should be judged worthy of the
+place called "hades", to happen of different places according to the analogy
+of the sins; thus those from there, so to speak, dying come down into this
+hades, being judged worthy of the different dwellings, better or worse, of the
+whole around-earth place, and beside these or those fathers; so that sometimes
+an Israelite can fall into Scythians, and an Egyptian come down into Judea.
+Yet the savior came to gather "the lost sheep of the house of Israel"; and
+many from Israel not having yielded to his teaching those from the nations
+also are called. <......> 4.=3.11= <...> And these things have been hidden, as
+we think, in the histories. For also "the kingdom of the heavens is like a
+treasure hidden in the field, which the one who found hid and from his joy
+goes and sells all things as many as he has and buys that field". And let us
+attend whether the seen of the scripture and the surface of it and ready is
+not the whole "field" happening full of plants of every kind, and the things
+lying away in it and not seen by all but as if buried under the plants that
+are seen "the hidden treasures of the wisdom and of the knowledge", which the
+spirit through Isaiah calls "dark and unseen and hidden", needing, in order
+that they be found, God who alone is able "to crush the bronze gates" that
+hide them and "to break the iron bars" that lie upon "the doors", in order
+that there be found all the things in Genesis concerning the different true
+races of soul and as it were seeds, happening somewhere near
+Israel or far, and the "descent into Egypt of the seventy souls", how they may
+become there "as the stars of the heaven in multitude". But since not all
+those from them are "light of the world" ("for not all those from Israel these
+are Israel"), there come to be from the seventy "also as sand beside the lip
+of the sea, the unnumbered".

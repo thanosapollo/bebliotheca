@@ -1,0 +1,1041 @@
+#+TITLE: Academica
+#+AUTHOR: M. Tullius Cicero hermes:grok-4.6
+#+FILETAGS: :classical:1c-bc:
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/academica--m-tullius-cicero
+#+LANGUAGE: en
+
+#+BEGIN_QUOTE
+Academica edited by O. Plasberg
+#+END_QUOTE
+
+* Book 1
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+** BOOK ONE
+:PROPERTIES:
+:CUSTOM_ID: h1-h1
+:END:
+
+** Section 1
+:PROPERTIES:
+:CUSTOM_ID: h1-h2
+:END:
+
+When I was recently at my place at Cumae, and our friend Atticus was with me,
+word was brought to us from M. Varro that he had arrived from Rome the evening
+before and that, if he had not been tired from the journey, he would have come
+to us at once. When we heard this, we thought no delay should be put in the
+way of seeing a man joined to us both by the same studies and by long-standing
+friendship; so we set out at once to go to him. And when we were a little way
+from his villa, we saw him coming toward us; and having embraced him, as is
+the way of friends (for after a sufficiently long interval * * * ), we led him
+back to his villa.
+
+** Section 2
+:PROPERTIES:
+:CUSTOM_ID: h1-h3
+:END:
+
+Here first a few things, and those while we asked whether there was perhaps
+anything new from Rome.
+
+Then Atticus said, "Leave aside those things which we can neither ask about
+nor hear without distress, I beg you, and ask rather whether he himself has
+anything new. For Varro's Muses have been silent longer than they used to, and
+yet I think he is not idle but is hiding what he writes."
+
+"Not at all," he said; "for I think it is the mark of an intemperate man to
+write what he would wish to be concealed; but I have a great work in hand, and
+have had it for a long time; and for this very man" (he meant me) "I have
+begun certain things, which are indeed of some size and are being polished by
+me more carefully."
+
+** Section 3
+:PROPERTIES:
+:CUSTOM_ID: h1-h4
+:END:
+
+And I said, "Those things, Varro, though I have long been waiting for them, I
+still do not dare to demand;
+
+for I have heard from our friend Libo, whose eagerness you know (for we can
+hide nothing of that kind from him), that you are not interrupting them but
+treating them more carefully and never putting them out of your hands. But
+this other thing never entered my mind to ask of you before this time. But
+now, after I have begun to commit to writing those subjects which I learned
+together with you and to set forth in Latin letters that old philosophy which
+arose from Socrates, I ask why it is that, though you write so much, you pass
+over this kind, especially since you yourself excel in it and that study and
+that whole matter far surpass the rest of studies and arts."
+
+** Section 4
+:PROPERTIES:
+:CUSTOM_ID: h1-h5
+:END:
+
+Then he:
+
+"You ask a matter I have often deliberated and much agitated. So I will answer
+without hesitation, but I will say what is ready to me, because, as I have
+said, I have thought much and long on this very point. For when I saw
+philosophy most carefully set forth in Greek letters, I judged that if any of
+our people were held by zeal for it, if they were trained in Greek learning,
+they would rather read Greek than ours; but if they shrank from the arts and
+disciplines of the Greeks, they would not even care for these things, which
+cannot be understood without Greek learning. So I did not want to write things
+which the unlearned could not understand and the learned would not care to
+read.
+
+** Section 5
+:PROPERTIES:
+:CUSTOM_ID: h1-h6
+:END:
+
+You see the same yourself; for you have learned that we cannot be like
+Amafinius or Rabirius, who with no art applied discuss things set before our
+eyes in common speech, define nothing, divide nothing, conclude nothing by apt
+questioning, and in short think there is no art either of speaking or of
+arguing; but we, obeying the precepts of the dialecticians and of the orators
+too, since our people think each faculty is a virtue, as if they were laws,
+are forced to use new words as well, which the learned, as I said, will prefer
+to seek from the Greeks, and the unlearned will not accept even from us,
+
+so that all the labor is undertaken in vain.
+
+** Section 6
+:PROPERTIES:
+:CUSTOM_ID: h1-h7
+:END:
+
+Now as for physics, if I approved Epicurus, that is, if I approved Democritus,
+I could write as plainly as Amafinius. For what is the great task, when you
+have taken away the efficient causes of things, to speak of the chance
+collision of little bodies (for so he names atoms)? You know our physics;
+since they are held together from an efficient force and from that matter
+which the efficient force shapes and forms, geometry too must be applied; and
+in what words will anyone be able to set that forth, or whom will he be able
+to bring to understand it? These very matters of life and character and of
+things to be sought and avoided they treat simply, for they think the good of
+a beast and of a man is the same; but among our people you are not unaware
+what subtlety there is, and how great.
+
+** Section 7
+:PROPERTIES:
+:CUSTOM_ID: h1-h8
+:END:
+
+For if you follow Zeno, it is a great thing to make anyone understand what
+that true and simple good is which cannot be separated from honor (and
+Epicurus denies that he can even suspect what kind of good that is, without
+pleasures that move the senses); but if we pursue the Old Academy, which, as
+you know, we approve, how keenly that will have to be explained by us, how
+shrewdly, how obscurely even we must argue against the Stoics. The whole of
+that study of philosophy, then, I take upon myself, both for constancy of
+life, as far as I can, and for the delight of the mind, and I think, as it is
+in Plato, that no greater or better gift has been given by the gods to man;
+
+** Section 8
+:PROPERTIES:
+:CUSTOM_ID: h1-h9
+:END:
+
+but I send my friends in whom there is zeal to Greece, that is, I bid them go
+to the Greeks, that they may drink from the fountains rather than chase after
+rivulets. But those things which no one had yet taught, and from which
+students could not know them, I have, as far as I could (for I do not greatly
+admire my own work), made known to our people; for they could not be sought
+from the Greeks, and after the death of our L. Aelius not even from Latin
+writers. And yet in those old works of ours, which, imitating Menippus, not
+translating him, we sprinkled with a certain cheerfulness, much was mixed in
+from the heart of philosophy, much said in the dialectical manner, so that the
+less learned might understand more easily, invited to reading by a certain
+pleasantness; in panegyrics, in these very prefaces of the Antiquities, we
+wished to write in the manner of philosophy, if only we have succeeded."
+
+** Section 9
+:PROPERTIES:
+:CUSTOM_ID: h1-h10
+:END:
+
+Then I said, "Those things are so, Varro.
+
+For we, wandering and straying in our own city like foreigners, your books
+have as it were led home, so that we could at last recognize who and where we
+were. You have opened the age of the fatherland, you the descriptions of
+times, you the laws of rites, you of priests, you domestic and military
+discipline, you the names, kinds, offices, causes of sites, regions, places,
+of all things divine and human; you have brought most light both to our poets
+and to Latin letters and words altogether, and you yourself have made a varied
+and elegant poem in almost every meter, and you have begun philosophy in many
+places, enough to urge,
+
+too little to teach.
+
+** Section 10
+:PROPERTIES:
+:CUSTOM_ID: h1-h11
+:END:
+
+You do indeed bring a probable reason: either those who are learned will
+prefer to read Greek, or those who do not know those things will not even read
+these. But you do not quite convince me of it; on the contrary, both those who
+will not be able to read those will read these, and those who will be able to
+read Greek will not despise their own. For what reason is there why men
+trained in Greek letters should read Latin poets and not read philosophers? Or
+is it because Ennius, Pacuvius, Accius, and many others delight, who have
+expressed not the words but the force of the Greek poets? How much more will
+philosophers delight, if as those imitated Aeschylus, Sophocles, Euripides, so
+these imitate Plato, Aristotle, Theophrastus. Orators at least I see praised
+if any of our people have imitated Hyperides or Demosthenes.
+
+** Section 11
+:PROPERTIES:
+:CUSTOM_ID: h1-h12
+:END:
+
+But I, Varro (for I will speak as the matter is), while ambition, while
+honors, while cases, while not only care of the republic but a certain
+management of it as well, held me entangled and bound by many duties, I kept
+these things shut in my mind and, so that they should not grow stale, I
+renewed them when I could by reading; but now, both struck by the heaviest
+wound of fortune and freed from the administration of the republic, I seek
+from philosophy a medicine for grief and I judge this the most honorable
+delight of leisure. For either this is most fitted to this time of life, or
+this is especially consistent with whatever we have done worthy of praise, or
+nothing is more useful even for educating our citizens, or if these things are
+not so, I see nothing else that we can do.
+
+** Section 12
+:PROPERTIES:
+:CUSTOM_ID: h1-h13
+:END:
+
+Our Brutus, indeed, outstanding in every kind of praise, so pursues philosophy
+in Latin letters that you would not miss Greek on the same subjects; and he
+follows the same view as you, for he heard Aristus at Athens for some time,
+whose brother Antiochus you heard. Therefore, I beg you, give yourself also to
+this kind of letters."
+
+** Section 13
+:PROPERTIES:
+:CUSTOM_ID: h1-h14
+:END:
+
+Then he:
+
+"That I will consider, and not without you. But about you yourself, what is
+it," he said, "that I hear?"
+
+"About what matter?" I said.
+
+"That the Old Academy has been left by you," he said, "and that the New is
+being treated."
+
+"Why then," I said, "should it have been more allowed to our friend Antiochus
+to migrate into the old house from the new, than to us into the new from the
+old? For surely the most recent things are the most corrected and amended. And
+yet Antiochus's teacher Philo, a great man as you yourself judge, denied in
+his books, as we also used to hear from him in person, that there are two
+Academies, and he refuted the error of those who thought so."
+
+"It is as you say," he said; "but I do not think you are unaware of what
+Antiochus has written against Philo's views."
+
+** Section 14
+:PROPERTIES:
+:CUSTOM_ID: h1-h15
+:END:
+
+"On the contrary, both those things and the whole Old Academy, from which I
+have been away so long, I would like to be renewed by you, if it is not
+troublesome," and at the same time I said, "let us sit down, if it seems
+good."
+
+"That indeed," he said, "by all means, for I am rather weak. But let us see
+whether it pleases Atticus that I do the same thing I see you want."
+
+"For my part," he said; "for what would I rather than recall what I heard long
+ago from Antiochus and at the same time see whether those things can be said
+well enough in Latin?"
+
+When this had been said, we all sat down in view of one another.
+
+** Section 15
+:PROPERTIES:
+:CUSTOM_ID: h1-h16
+:END:
+
+Then Varro began thus:
+
+"Socrates, it seems to me, as is agreed among all, first called philosophy
+away from hidden things and from those wrapped in nature itself, in which all
+philosophers before him had been occupied, and brought it to common life, so
+that he inquired about virtues and vices and altogether about good things and
+bad, and thought heavenly things either far from our knowledge or, even if
+they were known as fully as possible, still of no use for living well.
+
+** Section 16
+:PROPERTIES:
+:CUSTOM_ID: h1-h17
+:END:
+
+He, in almost all the conversations which have been written out variously and
+copiously by those who heard him, argues in such a way that he himself affirms
+nothing, refutes others, says he knows nothing except this very thing, and
+that he is superior to the rest because they think they know what they do not
+know, while he himself knows this one thing, that he knows nothing, and for
+that reason he thinks he was called by Apollo the wisest of all, because this
+was the one wisdom of man, not to think he knows what he does not know. And
+since he said this constantly and remained in that view, all his speech was
+spent only in praising virtue and in exhorting men to the pursuit of virtue,
+as can be understood from the books of the Socratics and especially of Plato.
+
+** Section 17
+:PROPERTIES:
+:CUSTOM_ID: h1-h18
+:END:
+
+But from the authority of Plato, who was varied and many-sided and copious,
+one and agreeing form of philosophy was established under two names, of the
+Academics and of the Peripatetics, who, agreeing in things, differed in names.
+For when Plato had left Speusippus, his sister's son, as heir, as it were, of
+his philosophy, and two men of outstanding zeal and learning, Xenocrates of
+Chalcedon and Aristotle of Stagira, those who were with Aristotle were called
+Peripatetics, because they argued while walking in the Lyceum, but the others,
+because by Plato's institution they were accustomed to have gatherings and
+conversations in the Academy, which is the other gymnasium, took their name
+from the word for the place. But both, filled with Plato's richness, composed
+a certain definite formula of teaching, and that indeed full and packed, and
+they left that Socratic custom of arguing doubtfully
+
+about all things and with no affirmation applied. So there came to be, what
+Socrates least approved, a certain art of philosophy and an order of things
+and a description of a system.
+
+** Section 18
+:PROPERTIES:
+:CUSTOM_ID: h1-h19
+:END:
+
+And this was at first, as I said, one under two names; for there was no
+difference between the Peripatetics and that Old Academy. Aristotle excelled,
+as it seems to me at least, by a certain abundance of talent, but the source
+was the same for both, and the same division of things to be sought and
+avoided.
+
+But what am I doing," he said, "or am I in my right mind, teaching you these
+things? For even if it is not 'a sow teaching Minerva,' as they say, still
+whoever teaches Minerva does it ineptly."
+
+Then Atticus said, "Do go on, Varro; for I greatly love our things and our
+people, and those things delight me when they are said in Latin and in that
+manner of yours."
+
+"What do you think of me," I said, "who have now professed that I will present
+philosophy to our people."
+
+** Section 19
+:PROPERTIES:
+:CUSTOM_ID: h1-h20
+:END:
+
+"Let us go on then," he said, "since it pleases.
+
+The method of philosophizing received from Plato, then, was already threefold:
+one about life and character, another about nature and hidden things, a third
+about arguing and judging what is true, what false, what right in speech or
+crooked, what consistent, what contradictory.
+
+And first they sought that part of living well from nature and said that
+nature must be obeyed, and that in no other thing than in nature was that
+highest good to be sought to which all things should be referred, and they
+established that the last of things to be sought and the end of goods was to
+have obtained all things from nature, both in mind and in body and in life. Of
+the body they placed some things in the whole, others in the parts: health,
+strength, beauty in the whole; in the parts, however, senses unimpaired and
+some excellence of the several parts, as speed in the feet, force in the
+hands, clearness in the voice, and in the tongue also a distinct impression of
+sounds;
+
+** Section 20
+:PROPERTIES:
+:CUSTOM_ID: h1-h21
+:END:
+
+of the mind, those things which were fitted to grasp virtue by native gifts,
+and these were divided by them into nature and character. To nature they gave
+quickness at learning and memory, both of which were proper to the mind and to
+talent; but of character they thought there were pursuits and as it were
+habit, which they formed partly by constant exercise, partly by reason, and
+among these was philosophy itself; in which what is begun and not completed is
+called a certain progress toward virtue, but what is completed is virtue, as
+it were the perfection of nature and, of all the things they place in minds,
+the one best thing.
+
+** Section 21
+:PROPERTIES:
+:CUSTOM_ID: h1-h22
+:END:
+
+These, then, of minds; but of life (for that was the third) they said those
+things were attached which were of use for the practice of virtue. Now virtue
+is seen in the goods of the mind and of the body and in certain things which
+are attached not so much to nature as to the happy life. For they thought a
+man was as it were a certain part of the state and of the whole human race,
+and that he was joined with men by a certain human society. And of the highest
+and natural good they treat thus; but the rest they think belong to increasing
+or holding it,
+
+as wealth, as power, as glory, as favor. So a threefold account of goods is
+introduced by them,
+
+** Section 22
+:PROPERTIES:
+:CUSTOM_ID: h1-h23
+:END:
+
+and these are those three kinds which most people think the Peripatetics speak
+of. That indeed is not false; for this is their division; but it is unwise if
+they think that those who were then called Academics were other than the
+Peripatetics. This account is common, and to both this seemed the end of
+goods: to obtain the things that are first in nature and that are to be sought
+for themselves, either all or the greatest; and the greatest are those that
+turn upon the mind itself and upon virtue itself. So all that ancient
+philosophy held that the happy life is placed in virtue alone, and yet not the
+happiest unless there were also joined the things of the body and the rest
+that were said above as fitted for the use of virtue.
+
+** Section 23
+:PROPERTIES:
+:CUSTOM_ID: h1-h24
+:END:
+
+From this description there was found also a beginning of doing something in
+life and of duty itself, which consisted in the preservation of oneself and in
+the appetite for those things which nature prescribed. From this arose flight
+from idleness and contempt of pleasures, from which the undertaking of many
+great labors and pains for the sake of the right and honorable and of those
+things which were consistent with the prescription of nature; whence both
+friendship arose and justice and equity, and these were preferred to pleasures
+and to many conveniences of life. This, then, was among them the institution
+of character and the form and description of that part which I placed first.
+
+** Section 24
+:PROPERTIES:
+:CUSTOM_ID: h1-h25
+:END:
+
+About nature (for that followed) they spoke so as to divide it into two
+things, so that one was efficient, the other as it were offering itself to
+this, and from it something was produced. In that which produced they thought
+there was force, in that which was produced only a certain matter; yet in each
+both: for matter itself could not hold together if it were contained by no
+force, nor force without some matter; for there is nothing that is not
+compelled to be somewhere. But what comes from both they already named body
+and as it were a certain quality; for you will surely grant that in unusual
+matters, as the Greeks themselves do, from whom these things have long been
+treated, we may sometimes use unheard-of words."
+
+** Section 25
+:PROPERTIES:
+:CUSTOM_ID: h1-h26
+:END:
+
+"We indeed," said Atticus; "why, you may even use Greek when you like, if
+Latin perhaps fails you."
+
+"You do well indeed; but I will strive to speak Latin, except in words of this
+kind, so that I may call philosophy or rhetoric or physics or dialectic, which
+custom already uses as Latin, as it does many others. I have therefore named
+qualities what the Greeks call poiotetas, which word itself among the Greeks
+is not a word of the crowd but of philosophers, and that in many cases; but of
+the dialecticians there are no public words, they use their own. And that
+indeed is common to almost all arts; for either new names must be made for new
+things or they must be transferred from others. And if the Greeks do this, who
+have been engaged in these matters for so many ages already, how much more
+must it be granted to us, who are now first attempting to treat them."
+
+** Section 26
+:PROPERTIES:
+:CUSTOM_ID: h1-h27
+:END:
+
+"You indeed," I said, "Varro, seem to me likely to deserve well of your
+citizens, if you increase them not only with abundance of things, as you have
+done, but also of words."
+
+"We will dare then," he said, "to use new words with you as authority, if it
+is necessary. Of these qualities, then, some are primary, others arisen from
+these. The primary are of one kind and simple; those arisen from these are
+various and as it were many-shaped. So air (for we use this too as Latin) and
+fire and water and earth are first; but from these have arisen the forms of
+living things and of those things which are born from the earth. Therefore
+those are called beginnings and, to translate from the Greek, elements; of
+which air and fire have the force of moving and producing, the remaining parts
+of receiving and as it were of suffering, I mean water and earth. A fifth
+kind, from which the stars and minds would be, Aristotle thought was something
+unique and unlike those four I named above.
+
+** Section 27
+:PROPERTIES:
+:CUSTOM_ID: h1-h28
+:END:
+
+But they think there is subjected to all things, without any form and lacking
+all that quality (for let us by treating it make this word more usual and more
+worn), a certain matter, from which all things have been shaped and produced,
+which as a whole can receive all things and be changed in all ways and in
+every part and therefore even perish, not into nothing but into its parts,
+which can be cut and divided infinitely, since there is nothing at all in the
+nature of things so small that it cannot be divided. And all things that are
+moved are moved through intervals, which intervals likewise can be divided
+infinitely.
+
+** Section 28
+:PROPERTIES:
+:CUSTOM_ID: h1-h29
+:END:
+
+And when that force which we have said is quality is so moved, and when it is
+so turned this way and that, they think that matter itself is wholly changed
+through and through and that those things are produced which they call
+qualified things; from which, in all nature cohering and continued with all
+its parts, one world has been produced, outside of which there is no part of
+matter and no body. And they think that all things which are in it are parts
+of the world, which are held by a sentient nature, in which there is perfect
+reason, which is the same everlasting (for there is nothing stronger by which
+it might perish);
+
+** Section 29
+:PROPERTIES:
+:CUSTOM_ID: h1-h30
+:END:
+
+and this force they say is the soul of the world, and that it is the same as
+perfect mind and wisdom, which they call god, and as it were a certain
+prudence of all things that are subject to it, looking after heavenly things
+most of all, then on earth those that belong to men; which they sometimes call
+the same necessity, because nothing can be otherwise than as it has been
+established by it, sometimes
+
+* * * as it were
+:PROPERTIES:
+:CUSTOM_ID: h2
+:END:
+
+a fated and unchangeable continuation of everlasting order, and sometimes the
+same fortune, because it produces many things unforeseen and unexpected for us
+on account of the obscurity and ignorance of causes.
+
+** Section 30
+:PROPERTIES:
+:CUSTOM_ID: h2-h1
+:END:
+
+The third part of philosophy, then, which consisted in reason and in arguing,
+was treated thus by both. Although it arose from the senses, yet the judgment
+of truth was not in the senses. They wished the mind to be the judge of
+things, and thought it alone fit to be trusted, because it alone discerned
+that which always was simple and of one kind and such as it was (this they
+called idea, already so named by Plato; we can rightly say form).
+
+** Section 31
+:PROPERTIES:
+:CUSTOM_ID: h2-h2
+:END:
+
+But they thought all the senses were dull and slow and in no way perceived
+those things which seemed subject to the senses,
+
+because they were either so small that they could not fall under sense, or so
+mobile and agitated that nothing was ever one and constant, not even the same,
+because all things were continually slipping and flowing. So they called this
+whole part of things the opinable;
+
+** Section 32
+:PROPERTIES:
+:CUSTOM_ID: h2-h3
+:END:
+
+but they thought knowledge was nowhere except in the notions and reasonings of
+the mind. For this reason they approved definitions of things and applied
+these to all that was being discussed; explanation of words was also approved,
+that is, why each thing was so named, which they called etymologia; afterward
+they used certain arguments and as it were marks of things as guides to prove
+and to conclude what they wished to explain. In this the whole discipline of
+dialectic was handed down, that is, of speech concluded by reason; to this, as
+from the other side, was applied the oratorical force of speaking, the
+explainer of continuous speech fitted to persuading.
+
+** Section 33
+:PROPERTIES:
+:CUSTOM_ID: h2-h4
+:END:
+
+This was their first form, handed down from Plato; whose dispersions, as I
+have received them, I will set forth if you wish."
+
+"We indeed wish it," I said, "that I may answer for Atticus too."
+
+"And you answer rightly," he said; "for the authority of the Peripatetics and
+of the Old Academy is being excellently explained."
+
+"Aristotle, then, first undermined the forms I spoke of a little earlier,
+which Plato had wonderfully embraced, so as to say that there was something
+divine in them. Theophrastus, however, a man both sweet in speech and so
+disposed in character that he carries before him a certain honesty and candor,
+even more violently in a way broke the authority of the old system; for he
+stripped virtue of its dignity and made it weak, because he denied that living
+happily was placed in it alone.
+
+** Section 34
+:PROPERTIES:
+:CUSTOM_ID: h2-h5
+:END:
+
+For Strato, his hearer, though he was of keen talent, must nevertheless be
+wholly set aside from that school; who, having left the most necessary part of
+philosophy, which is placed in virtue and in character, and having given
+himself wholly to the investigation of nature, in that very thing differed
+most from his own people. But Speusippus and Xenocrates, who first took up
+Plato's method and authority, and after them Polemo and Crates, and with them
+Crantor, gathered in the Academy, diligently guarded what they had received
+from their predecessors. Already Zeno and Arcesilas had heard Polemo
+constantly.
+
+** Section 35
+:PROPERTIES:
+:CUSTOM_ID: h2-h6
+:END:
+
+But Zeno, since he was older than Arcesilas and argued very subtly and was
+moved very keenly, tried to correct the system. That correction too, if it
+seems good, I will explain, as Antiochus used to."
+
+"It seems good to me," I said, "and you see Pomponius signifying the same."
+
+"Zeno, then, was by no means one who, like Theophrastus, would cut the sinews
+of virtue, but on the contrary one who placed all things that belonged to the
+happy life in virtue alone and counted nothing else among goods, and called
+that honorable which was a certain simple and sole and one good.
+
+** Section 36
+:PROPERTIES:
+:CUSTOM_ID: h2-h7
+:END:
+
+But the rest, though they were neither goods nor evils, he said some were
+according to nature, others contrary to nature; and between these themselves
+he counted others interposed and intermediate. Those that were according to
+nature he taught were to be taken and to be thought worthy of a certain value,
+and the contrary the contrary; but he left neither in the intermediates, in
+which he placed nothing of any weight at all.
+
+** Section 37
+:PROPERTIES:
+:CUSTOM_ID: h2-h8
+:END:
+
+But of those that were to be taken, some were to be valued more, others less.
+Those of more value he called preferred, and those of less, rejected. And as
+he had changed these things not so much in matters as in words,
+
+so between right action and sin he placed certain intermediates, duty and
+contrary to duty, placing right actions alone among good actions, and wrong,
+that is sins, among bad; but duties observed and omitted he thought
+intermediates, as I have said.
+
+** Section 38
+:PROPERTIES:
+:CUSTOM_ID: h2-h9
+:END:
+
+And whereas the earlier thinkers said that not all virtue was in reason but
+that certain virtues were completed as it were by nature or by habit, he
+placed all in reason. And whereas they thought those kinds of virtues I named
+above could be separated, he argued that this could in no way be done, and
+that not only the use of virtue, as the earlier thinkers said, but the habit
+itself was excellent in itself, and yet that virtue was present to no one
+without his always using it. And whereas they did not take disturbance of mind
+away from man and said that by nature one both grieves and desires and fears
+and is carried away by joy, but they contracted these and drew them into a
+narrow space, he wished the wise man to be free of all these as of diseases.
+
+** Section 39
+:PROPERTIES:
+:CUSTOM_ID: h2-h10
+:END:
+
+And whereas the ancients said those disturbances were natural and without
+reason and placed desire in one part of the mind, reason in another, he did
+not agree even with these; for he thought disturbances were voluntary and were
+taken up by a judgment of opinion, and he thought the mother of all
+disturbances was a certain immoderate intemperance. This, more or less, about
+character.
+
+About natures he thought thus: first, that he did not apply to those four
+beginnings of things this fifth nature, from which the earlier thinkers
+thought the senses and the mind were produced; for he established that fire
+was that very nature which generated each thing, and mind and the senses. He
+differed from the same men also because he thought in no way that anything
+could be produced by that which was without body,
+
+of which kind Xenocrates and the earlier thinkers had said even the soul was,
+and that neither what produced something nor what was produced could be not a
+body.
+
+** Section 40
+:PROPERTIES:
+:CUSTOM_ID: h2-h11
+:END:
+
+But he changed most in that third part of philosophy. In which first he said
+certain new things about the senses themselves, which he thought were joined
+from a certain as it were impulse offered from without, which he called
+phantasia, we may call presentation, and let us wear this word, for it will
+have to be used rather often in the rest of the talk; but to these things
+which have been presented and as it were received by the senses he adds the
+assent of minds, which he wishes to be placed in us and voluntary.
+
+** Section 41
+:PROPERTIES:
+:CUSTOM_ID: h2-h12
+:END:
+
+He did not attach credit to all presentations but only to those which had a
+certain proper declaration of the things that were seen; and that
+presentation, when it was discerned by itself, he called comprehensible; will
+you bear these words?" ATT. "We indeed," he said; "for in what other way would
+you say katalempton?"
+
+"But when it had already been received and approved, he called it
+comprehension, like those things which are grasped by the hand; from which he
+had also drawn this name, though no one before had used that word in such a
+matter, and he used very many new words (for he said new things). What had
+been grasped by sense he called sense itself, and if it was so grasped that it
+could not be torn away by reason, knowledge, but if otherwise, he named it
+ignorance; from which there also arose opinion, which was weak and shared with
+the false and the unknown.
+
+** Section 42
+:PROPERTIES:
+:CUSTOM_ID: h2-h13
+:END:
+
+But between knowledge and ignorance he placed that comprehension I have spoken
+of, and he counted it neither among right things nor among wrong, but said
+that it alone was to be trusted. From this he also gave credit to the senses,
+because, as I said above, comprehension made by the senses seemed to him both
+true and faithful, not because it grasped all that was in the thing, but
+because it left nothing that could fall into it, and because nature had given
+as it were a norm of knowledge and a beginning of itself from which afterward
+notions of things were impressed in minds; from which not only beginnings but
+certain wider ways of finding reason are discovered. But error and rashness
+and ignorance and opining and suspicion and, under one name, all things that
+were alien to firm and constant assent he removed from virtue and wisdom.
+
+And in these things, more or less, consisted all Zeno's change and
+disagreement from the earlier thinkers."
+
+** Section 43
+:PROPERTIES:
+:CUSTOM_ID: h2-h14
+:END:
+
+When he had said this, I said, "Briefly indeed and not at all obscurely has
+the system both of the Old Academy and of the Stoics been set forth by you,
+Varro. And I think it is of these, as our friend Antiochus held, that it
+should be thought a correction of the Old Academy rather than some new
+school."
+
+Then Varro said, "It is your part now, you who desert the system of the
+ancients and approve what was made new by Arcesilas, to teach what the split
+was and for what cause it was made, so that we may see whether that secession
+is just enough."
+
+** Section 44
+:PROPERTIES:
+:CUSTOM_ID: h2-h15
+:END:
+
+Then I said, "Arcesilas, as we have received it, set up his whole contest with
+Zeno, not from obstinacy or from a desire of winning, as it seems to me at
+least, but from the obscurity of those things which had led Socrates to a
+confession of ignorance, and even, as already before Socrates, Democritus,
+Anaxagoras, Empedocles, almost all the ancients, who said that nothing can be
+known, nothing perceived, nothing understood, that the senses are narrow, the
+minds weak, the courses of life short, and, as Democritus said, that truth is
+sunk in the deep, that all things are held by opinions and institutions, that
+nothing is left to truth, and next that all things are surrounded with
+darkness.
+
+** Section 45
+:PROPERTIES:
+:CUSTOM_ID: h2-h16
+:END:
+
+So Arcesilas denied that there was anything that could be known, not even that
+very thing which Socrates had left himself, that he knew that he knew nothing;
+thus he thought all things lay hidden in secret and that there was nothing
+that could be discerned or understood; for which reasons no one ought either
+to profess or to affirm or to approve by assent, and always to check and to
+keep rashness from every slip, which was then conspicuous when either a false
+or an unknown thing was approved, and that nothing was more shameful than for
+assent and approval to run ahead of cognition and perception. He did what was
+consistent with this method, so that arguing against the views of all he drew
+most people from their own, so that when in the same matter equal weights of
+arguments were found on contrary sides, assent might more easily be withheld
+from either side.
+
+** Section 46
+:PROPERTIES:
+:CUSTOM_ID: h2-h17
+:END:
+
+They call this the New Academy, which seems to me old, if indeed we count
+Plato from that old one, in whose books nothing is affirmed and much is argued
+on either side,
+
+there is inquiry about all things, nothing certain is said; but still let that
+which you have set forth be named the old, this the new. Which, carried on as
+far as Carneades, who was fourth from Arcesilas, remained in the same method
+of Arcesilas. Carneades, however, ignorant of no part of philosophy and, as I
+learned from those who had heard him and especially from the Epicurean Zeno,
+who though he differed from him very much yet admired him alone beyond the
+rest, was of a certain incredible faculty and
+
+[omitted] but why is Mnesarchus angry, why does Antipater fence with Carneades
+in so many volumes? *
+
+* Book 2
+:PROPERTIES:
+:CUSTOM_ID: h3
+:END:
+
+** BOOK TWO
+:PROPERTIES:
+:CUSTOM_ID: h3-h1
+:END:
+
+"And yet if we believed that, we would not need plumb-lines, nor squares, nor
+rules."
+
+Non. p. 162 s. (plumb-lines and squares)
+
+"Can you say what the outlines of the moon are, whose horns, both when it is
+waxing and when it is waning, seem now duller, now sharper."
+
+Non. p. 121 s. (dull)
+
+"What seems so level as the sea, from which the poets also call that aequor."
+
+Non. p. 65 (aequor)
+
+"In water we see an oar whole as if broken."
+
+Serv. ecl. 2, 27 no thing deceives as an image does; for both in a mirror it
+shows all things reversed, and in ... we see, which Cicero also teaches more
+fully in the Tusculans. cf. index s.v. remus
+
+"What of the sea, is it not dark blue? But when its wave is struck by oars, it
+grows purple, and indeed we see the color of the water as it were dyed and
+stained."
+
+Non. p. 162 (grows purple); Non. p. 395 (dry)
+
+"one thing to the grown, another to children, another to the healthy, another
+to the sick, another to the sober, another to the drunken"
+
+"For if ever we have plunged ourselves like those who dive, we discern either
+nothing above or only very dimly."
+
+Non. p. 474 (dive)
+
+"to whom even an alabaster full of perfume seems rotten"
+
+Non. p. 545 (alabaster); variants: putre esse LAABA; putrer (-ret Paris. 7666)
+esse CA; putere Pius; putris esse Gerlach; puter esse Ha.
+
+"that nothing can be perceived by man, and that nothing remains for the wise
+man except the most diligent inquiry into truth, because if he had assented to
+uncertain things, even if they perhaps were true, he could not be freed from
+error, which is the greatest fault of the wise man."
+
+Aug. c. Acad. 1, 3, 7 (Licentius) it pleased our Cicero that he is happy who
+investigates the truth even if he cannot arrive at the finding of it. who does
+not know that he strongly affirmed nothing, etc.
+
+"which, when it seemed to him to agree most with the likeness of the true"
+
+Non. p. 43 (concinnare thus); lib. II L. lib. I BA
+
+"the probable or the truth-like ..., which can invite us to action without
+assent; but I say without assent so that we do not opine that what we do is
+true or think that we know it, and yet we act.... all such things seem to me
+those which I thought should be named probable or truth-like; which if you
+wish to call by another name, I do not object; for it is enough for me that
+you have already well understood what I mean, that is, on what things I put
+these names; for it becomes the wise man to be not a craftsman of words but an
+inquirer into things."
+
+Aug. c. Acad. 2, 11, 26 (Augustine himself) the Academics call probable or
+truth-like that which ... and yet we act. 'Such things,' says the Academic,
+'seem to me ... the wise man.' What do you think, I said, that Cicero, whose
+words these are, was so poor in the Latin language that he put names less
+fitted to the things he meant? ibid. 10, 24 (Alypius) let us see first, I beg,
+lest through this question we fall into a controversy about a word, which,
+with you yourself suggesting it and by that Tullian authority, we have often
+confessed to be most shameful. cf. ibid. 7, 16. 11, 25
+
+"to break avarice, to put aside crimes, to set forth one's life for the young
+to imitate"
+
+Non. p. 104 (set forth)
+
+"for those who have fallen in love with honors too late are scarcely admitted
+to them and cannot be sufficiently commended to the multitude."
+
+Non. p. 69 (fall in love with)
+
+"that to the Academic wise man second place is given by all of the other sects
+who think themselves wise, since each must claim first place for himself; from
+which it can probably be concluded that he is rightly first in his own
+judgment who is second in the judgment of all the rest. For take, for example,
+that a Stoic wise man is present; for against them especially the talent of
+the Academics has blazed. Therefore if Zeno or Chrysippus is asked who the
+wise man is, he will answer that it is the one he himself has described;
+against him Epicurus or some other of the adversaries will deny it and will
+contend that his own most skilled hunter of pleasures is the wise man. Then to
+quarrel. Zeno shouts and that whole Porch is in uproar, that man was born for
+nothing else than honor, that it draws minds to itself by its own splendor
+with no advantage at all set outside and as it were alluring as a wage, and
+that that pleasure of Epicurus is common only to cattle among themselves, into
+whose company it is unholy to thrust both man and the wise man. Against him
+the other, having called from the little gardens to his aid as it were a crowd
+of Liber, drunkards seeking whom they may tear with uncombed nails and rough
+mouth as they revel, pressing the name of pleasure, sweetness, quiet, with the
+people as witness, insists fiercely that no one can seem able to be happy
+unless by it. If an Academic runs into their brawl, he will hear both sides
+dragging him to their parts, but if he has yielded to those or to these, he
+will be cried down by those he has deserted as mad, unskilled, and rash. So
+when he has carefully put his ear both this way and that, asked what seems to
+him, he will say that he doubts. Ask now the Stoic who is better, Epicurus who
+cries that the other is raving, or the Academic who declares that he must
+still deliberate on so great a matter: no one doubts that the Academic will be
+preferred. Turn again to the other and ask whom he loves more, Zeno by whom he
+is called a beast, or Arcesilas from whom he hears 'you perhaps say what is
+true, but I will inquire more carefully': is it not plain that to Epicurus
+that whole Porch seems mad, and the Academics, compared with them, modest and
+cautious men?"
+
+Aug. c. Acad. 3, 7, 15 (Augustine himself) there is in Cicero's books which he
+wrote in patronage of this cause a certain passage, seasoned as it seems to me
+with wonderful urbanity, but to some even strengthened with force. It is quite
+hard that what is said there should not move anyone: to the Academic ...... to
+Epicurus? So almost equally about all the sects Cicero most copiously offers
+readers a most pleasant spectacle, as it were showing that there is none of
+them who, when he has given himself first place, which is necessary, does not
+say he gives second to the one he has seen not fighting but doubting. In this
+I will oppose nothing and will take no glory from them. Let Cicero here seem,
+to whom it pleases, not to have joked, but to have wished to follow and gather
+certain empty and windy things, because it would be foreign to the lightness
+of those little Greeks themselves. In the words themselves many things are not
+Tullian. Reid assigned it to Book II.
+
+"that it was the custom of the Academics to hide their own view, and not to be
+accustomed to open it to anyone except those who had lived with them all the
+way to old age."
+
+Aug. c. Acad. 3, 20, 43 but whoever thinks the Academics held this (that truth
+cannot be found by man), let him hear Cicero himself. For he says that it was
+their custom ... to have been accustomed. Reid assigned it to Book II, Krische
+186 (60) to III.
+
+* Book 3
+:PROPERTIES:
+:CUSTOM_ID: h4
+:END:
+
+** BOOK THREE
+:PROPERTIES:
+:CUSTOM_ID: h4-h1
+:END:
+
+**
+PREFACE
+
+Cic. Att. 16, 6, 4, 8 days before the Kalends of September, year 710/44, from
+Vibo. Now learn my negligence. I sent you the book On Glory. But in it the
+preface is the same as in the third Academic. That happened because I have a
+volume of prefaces; from it I am used to choose when I have begun some
+composition. So already at the Tusculanum, since I had not remembered that I
+had used up that preface, I threw it into that book which I sent you. But when
+I was reading the Academics on the ship, I recognized my error. What follows
+as far as p. 25, 7 seems to belong to the preface, which Krische 186 (60)
+assigned to Varro's disputation in III.
+
+"in so great a variety of living things the desire of knowledge and science
+was implanted in man alone"
+
+Non. p. 123 (was implanted)
+
+"But if it were allowed, as those who had gone astray on a journey, so those
+who had followed a bypath of life to correct the error by repentance, the
+amendment of rashness would be easier."
+
+Lact. inst. 6, 24, 1 nor yet let anyone fail ..., if ... he has slipped onto
+the road of injustice; for he can be led back and freed, if he repent of what
+has been done. 2 Which Cicero did not think could happen, whose words in the
+third Academic are these: 'But if ... rashness'
+
+"to fence always, to fight it out among the criminal and the bold, who would
+not say is both most wretched and most foolish?"
+
+Non. p. 65 (to fence)
+
+"let there be some power, let him claim himself into freedom"
+
+Non. p. 419 (to claim)
+
+"but to me we seem not only blind to wisdom but dull and blunted even toward
+those things which seem to be discerned in some part"
+
+Lact. inst. 3, 14, 15 rebuking M. Tullius: come then, what have you learned,
+or in what sect have you caught the truth? In the Academy, of course, which
+you have followed, which you have approved. But this teaches nothing except
+that you may know that you know nothing. Your books therefore convict you how
+nothing can be learned from philosophy for life. These are your words: 'but to
+me ... blunted'. Sigonius assigned it to the Academica, Krische 183 (57) to
+Book II, Plasberg to III.
+
+"that he had had a discussion with M. Varro"
+
+"a man easily the keenest of all and without any doubt the most learned"
+
+Aug. civ. 6, 2 finally Tullius himself also bears this man (M. Varro) such
+witness that in the Academic books he says that the discussion which is
+carried on there he had had with M. Varro, 'a man,' he says, 'of all ... the
+most learned'. He does not say the most eloquent, but 'easily the keenest of
+all,' and in those books, that is the Academics, where he contends that all
+things are to be doubted, he added 'without any doubt the most learned'.
+
+"fixed"
+
+Diom. GK. 1, 377 figor is declined ambiguously among the ancients in the
+perfect tense; for we find fictus and fixus: Varro to Cicero in the third
+'fixum' and Cicero in the third of the Academica 'malcho in opera adfixa' and
+Vergil (Aen. 4, 15) 'if it were not fixed in my mind'. Keil, assigning those
+words malcho in opera adfixa to another writer and setting a lacuna before
+them, refers the testimony to p. 40, 30.
+
+These words without a writer's name, preserved in Non. p. 433 (sense): for
+first it is manifest both that we have sense when there is excitement, or
+sense, Roth conjectured to be Cicero's, Plasberg of the Academica.
+
+The remaining fragments of books III and IV will each be subscribed in their
+place to the Lucullus.

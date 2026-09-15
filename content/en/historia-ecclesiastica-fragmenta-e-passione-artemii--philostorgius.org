@@ -1,0 +1,630 @@
+#+TITLE: Ecclesiastical History, Fragments from the Passion of Artemius
+#+AUTHOR: Φιλοστόργιος hermes:grok-4.6
+#+FILETAGS: :patristic:5c-ad:pg65:
+#+MIGNE_TITLE: Historia ecclesiastica Fragmenta e passione Artemii
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/historia-ecclesiastica-fragmenta-e-passione-artemii--philostorgius
+#+LANGUAGE: en
+
+* Ecclesiastical History, Fragments from the Passion of Artemius
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+1.6a
+
+on l. 1-7 Artemii Passio 45 Artemius' speech to Julian:
+
+He (Constantine) turned toward Christ, when He called him from heaven, at the
+time when he fought the bitter and most grievous battle against Maxentius,
+showing him the sign of the cross at midday, flashing with rays above the sun,
+and by letters formed in starlike Roman characters signifying to him the
+victory of the war. For we ourselves saw the sign, being present at the war,
+and we read the letters; but the whole army also beheld it, and many witnesses
+of this are found in your army, if indeed you should wish to ask.
+
+This drawn from Euseb. V. C. I 28 by the hagiographer.
+
+2.4β Artemii Passio 43 Julian's speech:
+
+For Constantine, as you yourself also know, being found easy to deceive among
+men, both ignorant and foolish, made innovation in religion, and having set
+aside the laws of the Romans, turned aside to Christianity, terrified by his
+unholy deeds, and because the gods drove him off as accursed and unworthy of
+their religion, being filled with kindred blood. For he killed his brothers
+who had done nothing improper, and his wife Fausta, and his own son Priscus,
+who was a good and excellent man. The gods therefore, abhorring these unholy
+works, drove him off and led him far away and far astray from their sacred and
+most holy religion, and they made his accursed and utterly polluted seed and
+his whole race vanish from among men.
+
+Ibid. 45 Artemius' reply: But because you mocked the blessed Constantine, who
+was above all emperors, and his race, calling him an enemy to your gods and
+mad and full of murder, and filled with kindred blood, these things I will
+plead for him in his defense: that rather your father Constantius and his
+brothers began the wrong, mixing a deadly poison for him and procuring a
+destructive death, having suffered nothing unjust from him. But he killed his
+wife Fausta quite justly, as one who imitated the Phaedra of old and slandered
+his son Priscus as being disposed erotically toward her and attempting
+something by force, just as that woman did Theseus' Hippolytus; and indeed
+according to the laws of nature as a father he punished the son. Later
+however, having learned the truth, he killed her as well, having judged upon
+her a judgment most just of all.
+
+2.16α on l. 1 / p. 27 Artemii Passio 7: The Christ-loving emperor Constantine
+then, having come to the thirty-first year of his reign and entering upon the
+second, when he learned that the Persians were preparing for war against him,
+setting out from his own city reached as far as Nicomedia of the Bithynians;
+and there he ended his life by a plot of his own brothers, who poured deadly
+poison into him, a comet-star, as they say, having foretold his death.
+Constantine had these brothers on his father's side: Dalmatius, Anaballianus,
+and Constantius; for he alone was born to his father Constantius from Helena
+while he was still a private citizen, but from Theodora, the daughter of
+Maximian surnamed Herculius, other sons were born to him, both the
+aforementioned Dalmatius and Anaballianus and Constantius; whom Constantine
+also honored as Caesars and nobilissimi. Of these Constantius, from the wife
+joined to him, begets both Gallus and Julian who was surnamed the Apostate
+because he denied Christ and turned aside to the Hellenic religion.
+
+Ibid. 41 Julian's speech You know ... that the empire is more fitting for our
+family; for my father Constantius was born from Theodora, daughter of
+Maximian, to my grandfather Constantius; but Constantine was born to him from
+Helena, a certain base woman differing in nothing from the streetwalkers, and
+this when he had not yet become Caesar but was still in the station of a
+private citizen. Constantine therefore by boldness of mind seized the empire
+and unjustly killed my father and both his brothers.
+
+3.1α Artemii Passio 8: When the great Constantine had just died, the rule of
+the Romans was divided into three rules, his sons Constantine, Constantius,
+and Constans sharing them. And to the first, Constantine, the upper Gauls and
+the lands beyond the Alps and the British islands and as far as the western
+Ocean were given as his lot; but to Constans as the youngest the lower Gauls,
+that is the Italies and Rome itself. But Constantius, the second of
+Constantine's sons, who was then engaged in the affairs of the East, fighting
+against the Persians, takes as his portion the East; and Byzantium, renamed
+Constantinople and made New Rome, he makes his imperial seat, and as many as
+were subject to the Romans from Illyricum as far as the Propontis, and Syria
+and Palestine and Mesopotamia and Egypt and all the islands, he makes
+tributary to his empire and government.
+
+Ibid. 9: When therefore, as has been said, there were three emperors and each
+of them was reigning over his own portion, the first of them, Constantine,
+departing from his own share and coming upon the inheritance of the last
+brother, that one having gone away to Rome, attempted to accomplish something
+unjust against his brother. And he slandered him in his absence, saying that
+the affairs had not been well distributed, and that he had appropriated the
+greater part of the rule belonging to himself. But the generals and guards of
+the country whom Constans had appointed said they could not change anything
+small or great without that man's judgment and counsel; for it was unholy. But
+he strips for war and moves arms against one who had done no wrong.
+Constantine therefore falls fighting in the war, and desiring the share of
+others, he lost in addition even what he seemed to hold securely.
+
+§ 10 His people then turn to Constans, and the whole rule of the West comes
+under that man who had made no effort concerning it, God having judged these
+things, who said: "Do not move the landmarks of your fathers, nor lay hold of
+your neighbor's furrow." For he who works evil against his neighbor brings
+destruction upon himself, drawing God's judgment upon himself. Constans
+therefore reigns over the whole western empire, joining the two inheritances
+into one and establishing both parts as one rule.
+
+3.2α Artemii Passio 17: But he who writes the history says such things
+concerning Constantius and the martyr (namely Artemius): for it is said
+concerning Constantius that he was not only earnest and beloved in the things
+toward God, even if he inclined toward the Arian heresy, driven by the impious
+and most godless Eusebius, bishop of Nicomedia; since in other respects he was
+moderate and taking thought especially for seemliness and holding fast to
+temperance to the highest degree, both in diet and in the rest of his manner,
+and he showed very great zeal toward the churches, ambitious to surpass his
+own father by far in eagerness concerning these things. And he built the
+greatest church in his father's city near the senate, beginning the work from
+below and from the foundations. And honoring his father's tomb, he built there
+a greatest temple as a place of worship; and bringing the apostle Andrew from
+Achaia, as I said before, he transferred him there; and indeed he also
+transferred Luke the evangelist from the same Achaia and Timothy from Ephesus
+in Ionia.
+
+3.22α-26a Artemii Passio 10 immediately after στησάμενος above, p. 30, 28: Not
+much time in between and Constans, having turned aside into revels and
+drunkenness and strange courses of loves, was playing at dice with the whole
+empire carelessly, dancing away the greatness of the imperial office; he is
+therefore plotted against also himself by a certain one of the generals,
+Magnentius, and together with the empire he loses his life as well. When this
+man had fallen, Magnentius holds the rule, with whom Nepotianus and Vetranio
+joined in the tyranny.
+
+§ 11 Constantius, having learned these things from his sister's letters,
+setting out from the East and coming to the West, joins battle with both and
+conquers by force, Vetranio having turned to him; when also the sign of the
+cross, appearing very great and terribly, so as to outshine the light of day
+by the astonishing brilliance, was seen over Jerusalem about the third hour of
+the day especially, the feast called Pentecost being at hand, stretching from
+the place called the Skull as far as the Mount of Olives, whence the Savior
+made his ascension. Constantius therefore holds the whole empire, being left
+alone of the sons of the great Constantine.
+
+§ 12 Looking then at the greatness of the rule and growing dizzy, as being a
+man and not having one of his family to shield with him (for no child had been
+born to him, nor had any of his brothers been left), and fearing lest some
+tyrant again rise up against him, rising against his empire, he considers
+taking one of his kinsmen as co-heir and defender of the empire. Which indeed
+he also did, setting Gallus, the brother of Julian, forward as Caesar. Gallus
+was his cousin on the father's side; for Constantius, the father of Gallus and
+Julian, was brother of Constantine the Great. Appointing this man then at
+Sirmium, he also yokes to him as wife his own sister Constantia, for the sake
+of faith and security, and he gives him officials whom he himself appointed
+(for it was not permitted to that man, being Caesar), sending Thalassius as
+praetorian prefect, and Montius over the imperial affairs, whom they are
+pleased to name quaestors, having also made him patrician.
+
+3.28α Artemii Passio 12 immediately after αὐτὸν ποιησάμενος above, p. 52, 33:
+But Gallus, being then sent by Constantius, held the affairs in the East; whom
+the Persians immediately, having learned of it, feared, having heard that he
+was young and hot for deeds, and they no longer made the expedition against
+the Romans. And he was in Antioch of Syria, but Constantius was settling
+affairs in the West. And then especially the Roman empire was purely at peace,
+being guarded by both. And these things happened in this manner.
+
+§ 13 But Gallus, having put on the purple of Caesar and already beginning to
+mount the first steps of empire, did not remain in the same mind and faith
+which he had made toward Constantius, but he was heavy and ungovernable and
+inexorable in anger; for having seized upon untimely pride and uneven counsel
+he overstepped the bounds and despised the covenants which he had made with
+Constantius, laying hold of affairs in a more imperial manner and issuing
+commands with much boldness and arrogance. For the officials whom Constantius
+had sent with him, being umpires of imperial and civil affairs, both the
+praetorian prefect Domitianus (for Thalassius had died) and Montius who was
+over the quaestorship, because they would not obey and serve his unreasonable
+and ungovernable impulses, having commanded the soldiers to bind ropes to
+their feet, he ordered them to be dragged through the marketplace and killed
+both, men who had distinguished themselves in offices and were found above all
+gain and taking; whom the bishop of the city, wrapping them, buried, having
+respected the unsurpassable quality of their virtue.
+
+4.1α Artemii Passio 14 immediately after ἀνυπέρβλητον above, p. 55, 16: But
+Constantius, as soon as he learned what had happened, made Gallus summoned to
+himself. But he, knowing on the one hand that he was not being called for
+good, but considering again that if he should not wish to obey, it was
+necessary to make war, taking up arms against Constantius immediately, chooses
+rather the things of peace. And having sent his wife ahead to Constantius to
+mollify him, he himself also went as a volunteer toward the danger. Constantia
+therefore set out first, eager to meet her brother beforehand and to win his
+respect on behalf of her husband, that he not plan anything irreparable
+against him. But using much eagerness about the journey, she fell into illness
+while traveling in between and, having entered Bithynia, died at a certain
+station of it called Gallicanus. But Gallus, making this too, which happened
+contrary to his expectation, a great misfortune, nevertheless went forward,
+not departing from what had been decided. But when he arrived among the
+Noricans, at a city of theirs called Poetovio, there a general Barbatio is
+sent down from Milan, Constantius being there at that time; who strips Gallus
+of the purple and, having changed him into a private citizen, set him as an
+exile on a certain island of Dalmatia.
+
+§ 15 When Gallus had been taken away to the island, those who had arranged the
+whole against him, and it was especially Eusebius the eunuch who held the
+honor of praepositus and those with him, persuade Constantius to put Gallus
+out of the way as quickly as possible. And he, being persuaded, sends those
+who would kill him. And already as these were arriving, Constantius again was
+turned to pity, and he sends quickly another letter recalling Gallus from the
+suffering. But Eusebius and those with him persuade the magistrianus who had
+been sent not to present himself showing the letter before he should learn
+that Gallus had been killed. These things happened, and Gallus had died.
+
+4.2α Artemii Passio 15 immediately after ἐτεθνήκει above, p. 58, 26: But
+Constantius, having feared concerning affairs lest he not be able alone to be
+master of the whole empire, and besides the Gauls being raised most sharply,
+whenever they were eager, toward tyrannies, both through strength of body and
+lightness of minds, already regretted having removed Gallus, and having
+reasoned that the kindred is far safer than the foreign and alien for
+partnership in the empire, having sent for Julian the brother of Gallus from
+Ionia, he proclaimed him Caesar at Milan; and having given him his own sister
+Helen in marriage and having made pledges toward him, he sent this man out to
+the Gauls to be guardian of the empire there.
+
+4.3α ibid. continuation He himself, having arrived among the Illyrians, was
+spending time at Sirmium.
+
+§ 16 And having heard that the barbarians beyond the Ister were about to
+campaign against the Roman empire, setting out from Sirmium, he crossed to the
+Ister. And having spent no little time at the very bank, when the barbarian
+companies were quiet, he marched again toward Thrace.
+
+6.5α Artemii Passio 19: But Constantius, setting out from Constantinople, made
+the road toward Syria; and having reached the great city Antioch, he encamps
+there, preparing for the war against the Persians. And when he had spent time
+in the city and was equipping the army, letters came to him making known
+Julian's revolt. For Julian, as has been shown by me also before, when I was
+making the account concerning these things, having been proclaimed Caesar by
+Constantius for the guarding of the western lands in the Gauls, not enduring
+himself to remain longer in the station of Caesar, both puts on the diadem and
+lays hold of the greater empire. And when he had taken hold of affairs, he no
+longer thought anything small nor judged that he ought to delay; but wishing
+for the time being to make all Europe subject to himself, as much as obeys the
+Romans,
+
+on l. 18 ff. Artemii Passio 41 Julian's speech: And ... Constantius ... has
+murdered my brother Gallus ... and us ourselves, if we had not been saved by
+the providence of the gods, he wished to do the same. But the gods prevented
+it, having signaled salvation to me in person; in whom having taken courage I
+denied Christianity and turned aside to the Hellenic life, knowing well that
+the most ancient life of the Greeks and Romans, having used good customs and
+laws, addresses as gods those who have their credit from the deeds.
+
+having arrayed himself with the army he went through the Germans toward the
+Ister and, having taken the farther bank, he marched through the districts of
+that land, escaping the notice of both prefects, both the one of the Italies
+called Taurus and the one of the Illyrians, Florentius. And when he came among
+the Paeonians, having crossed the river to the other side, immediately he had
+all the Illyrian land under himself and the Italies and all the nations as far
+as the western Ocean, as many as were of the Roman dominion.
+
+§ 20 But Constantius, having learned these things through the letters, was
+disturbed, as was indeed likely, and having feared especially concerning
+Constantinople lest, which that man also intended, he should anticipate making
+it subject to himself, he therefore hastened as far as possible to occupy it
+first. And while the army was being collected for him, having been scattered
+among the cities of the East, and was about to be equipped as for so great a
+journey, he signals to the bishops to arrive at Nicaea before him as quickly
+as possible; for he was planning to convene a second synod in it, being urged
+on by the impious Arians against the homoousion. But when, having passed
+through Cilicia, he arrived at the so-called springs of Mopsus, a certain
+illness suddenly fell upon him and he was no longer able to go forward. And
+when he perceived that he was already in a bad way and would not live, he
+sends for Euzoius the bishop of Antioch with all speed and entrusts him to
+baptize him. And having been baptized and having lived a little longer, he
+leaves life there, having reigned in all forty years, the half with his
+father, and the remaining alone.
+
+6.6a-7a ibid. continuation The army, having lamented him and having performed
+the customary rites over him, placed him in a coffin, having prepared the
+corpse with the usual things for preservation. And having placed him in a
+carriage, they were conveying him to Constantinople, each following him with
+their own arms and arranged in the same order in which they happened to be
+posted under their commanders even while he was alive.
+
+§ 21 These then were holding Constantinople, bringing the corpse; and Julian
+accompanied them, having arrived from the Illyrians and already holding the
+whole empire securely, no one having dared to oppose him after Constantius'
+death. And as the corpse was being conveyed to the church of the apostles,
+where they were going to lay him near his father, he himself led the bier,
+having taken the diadem from his head. And when they had buried him, already
+departing to the palace, he put the diadem on again and was master of affairs,
+having already girt himself with the whole empire of the Romans alone. When
+therefore Constantius was out of the way, he vented the boiling of his anger
+upon those who remained and especially those who had furnished by envy the
+cause of Gallus' destruction. And immediately he takes off Eusebius the
+praepositus from his head, because he appeared from the beginning, from his
+own slanders, to have mixed the whole murder for Gallus; and Paul the
+Spaniard, who belonged among the emperor's notaries, he delivers to fire, as
+having embittered Gallus very greatly. These two then, having sent them across
+to Chalcedon, he subjects each there to his own justice; and he also destroyed
+Gaudentius, general of Africa, and certain others, as many as had committed
+some outrage against him.
+
+§ 22 But these he punished through letters.
+
+7.1α Artemii Passio 48: For Julian, long in labor in his soul with Hellenism
+from the associations that happened to him in Ionia with the philosophers
+around Maximus, as long as both his brother survived and after him
+Constantius, he dared to uncover nothing because of fear from them; but when
+these were gone from among men, and he himself was already master of affairs,
+then indeed, having stripped himself in the open, he burst all at once with
+all eagerness into Hellenism.
+
+Ibid. 22: For Julian, as has been shown, having girt himself with the empire
+of the Romans, was especially eager to restore Hellenism. Sending letters
+everywhere therefore he commanded that their precincts and altars be set up
+with much zeal and eagerness.
+
+Artemii Passio 35 Artemius' speech to Julian: Know therefore that the strength
+and power of Christ is invincible and unconquered; and altogether you yourself
+too have been fully assured of this from the oracles which Oribasius the
+physician and quaestor has just brought you from Apollo at Delphi. And I will
+read the oracle to you, even if you do not wish. For it runs thus: Tell the
+emperor: the cunning-wrought hall has fallen to the ground. Phoebus no longer
+has his hut, nor the prophetic laurel, nor a speaking spring; the talking
+water too has been quenched.
+
+7.3a on l. 1 / p. 79, 7 Artemii Passio 57 immediately after ἐλίκμησαν below,
+p. 80, 35: But the statue of the Savior in the city Paneas, magnificently
+constructed by the woman with the issue of blood, whom Christ healed, and set
+up in a notable place of the city, which after a time, when it had become
+known from the plant growing there of the miracle, the Christians took up and
+set in the diaconicon of the church, this the Hellenes, having pulled down and
+having bound ropes from the feet, dragged through the marketplace, until being
+broken off little by little it disappeared, only the head being left and
+snatched by someone while the Hellenes were in uproar, speaking blasphemous
+and most offensive words against our Lord Jesus Christ, which no one of men
+has ever heard.
+
+7.4a Artemii Passio 57 immediately after
+
+below, p. 94, 19: For in Sebaste, which of old was Samaria, but now having
+been founded by Herod and surnamed Sebaste, having brought out the bones of
+the prophet Elisha and of John the Baptist from the tombs and having mixed
+them with bones of unclean beasts they burned them and winnowed the dust into
+the air.
+
+Here 3a † above p. 78, 30-79, 18 inserted; follows ‹ 58 But he himself, the
+most lawless and of all impious the most impious Julian, hearing these things,
+was exulting and rejoicing and, priding himself upon these things, commanded
+etc. † below p. 95, 14 ff. on l. 14 Among other things Philostorgius had
+probably here? see Gregory below l. 34 f. mentioned the famous school law, see
+Julian Epist. 42, as all the church historians; see Artemii Passio 31 Julian's
+speech: You see ... this man (namely the martyr) ... how much idle talk he has
+improvised from the Hellenic learning against our religion? By Helios most
+dear to me, the gold-rayed and universal, I will no longer endure that the
+most godless race of the Christians be educated in the learning of the Greeks.
+For behold, this dog too, having partaken of the sacred education of letters,
+even if not on a straight and even path, nevertheless poured out a great and
+unpleasant foolishness of history against those sacred and philosophical men.
+
+on l. 2 ff. Artemii Passio 22 immediately after προθυμίας above, p. 76, 19:
+And as many revenues as the great Constantine assigned to the churches, and
+his son Constantius, having taken these away (namely Julian) he dedicated them
+to the temples of the demons, having set up in place of bishops and presbyters
+and deacons temple-servants and sacristans and sprinklers and sacrificers and
+basket-bearers and as many titles as the Hellenic idle talk applies; these
+things then and very many others the impious Julian was accomplishing
+throughout Constantinople.
+
+§ 23 And after these things, having a brother of his mother named Julian, who
+had denied the religion of Christianity for his sake and was displaying much
+eagerness on behalf of Hellenism, he sent him out as governor of the East,
+whom they call comes, having commanded him to maltreat and destroy the affairs
+of the churches, but everywhere and through every form to increase and raise
+up Hellenism. And he, having arrived in Antioch, tried to appear greater than
+what had been commanded in his deeds. And indeed he further takes away from
+all the churches all the treasures that continued in silver and gold and silk
+weavings, and he also shuts the churches so that no one might enter them for
+the sake of prayer, having put bars and bolts upon the gateways; and these
+things the governor of the East was doing throughout the city of Antiochus.
+
+§ 24 But the emperor Julian still spent some time throughout Constantinople,
+having strengthened the things in it toward what he thought especially to
+benefit the empire, and considering and working how Hellenism might be raised
+by him toward the more magnificent. Setting out therefore from Constantinople
+with the whole army he made the road toward Syria. Having passed through all
+Phrygia then and having arrived at its last city, the so-called Iconium, he
+turned aside, leaving Isauria; and having crossed over the so-called Taurus he
+came to the cities of Cilicia, and having approached the station at Issus, he
+encamps there, having imitated Alexander from Macedonia; for there that man
+too at Issus joined the war against Darius the king of the Persians and,
+having conquered him, made the place notable. From there having crossed the
+Issic gulf he came to the city Tarsus, and from there to Antioch, fighting in
+spirit against the Christians and threatening to wipe out their name entirely.
+
+7.8a Artemii Passio 49 end He himself (namely Julian) set out for Daphne, the
+most beautiful dwelling-place of Antioch.
+
+Ibid. 51: But Julian set out for Daphne the suburb, as we said before,
+preparing sacrifices for Apollo and expecting to receive oracles from him. And
+Daphne is a suburb of Antioch, lying upon its higher districts, shaded with
+groves of every kind; for the place is most abundant in trees and most
+abundant in fruit, where of all other trees of every kind and indeed of
+cypresses an extraordinary quantity has been planted, incomparable for beauty
+and height and size, and streams of drinkable waters run everywhere, very
+great springs welling up there, from which the city too among few of cities
+seems to be most well-watered. And indeed with splendid buildings of lodgings
+and baths and the other constructions both for use and for adornment the place
+has been equipped very expensively. Here there were temples and statues of
+other demons as well, but especially that of Apollo was there from ancient
+times being worshipped. For there also the Hellenic myth fashioned the passion
+that happened concerning the virgin Daphne, whose name indeed the place still
+especially seems to bear.
+
+§ 52 And the statue of Apollo was of such construction: the body had been put
+together for him from vine-wood by a most wondrous art, fitted toward the
+appearance of a single natural growth, and the robe lying about him, being
+clothed entirely in gold, together with the parts of the body that were left
+bare and ungolden, joined in some unspeakable beauty; and standing, he had the
+lyre in his hands, imitating some leader of the Muses, and the hair and the
+crown of laurel bloomed mixed with the gold, so that much grace was about to
+flash forth for those who would behold; and two great hyacinth stones filled
+out for him the form of the eyes, in memory of the Amyclaean boy Hyacinthus.
+And always the beauty and size of the stones added the greatest adornment to
+the statue, the craftsmen having stretched them excessively toward its
+dignity, in order that it might happen that as many as possible be deceived
+concerning it, being baited by the exceeding beauty of the appearing form into
+worshipping it. Which indeed Julian himself also had suffered; at any rate he
+brought more worship to it than to all the other statues together, sacrificing
+whole hecatombs to it from each kind.
+
+§ 53 But when, though he was doing and working everything so that the statue
+might give oracles, there was nothing more, but a deep silence held both this
+and all the rest of the statues there, then, thinking that what was lacking
+was from the sorcery which the Hellenes call sacred rite, having sent for a
+certain Eusebius who had acquired the greatest fame among the Hellenes for
+being able to do these things, he commanded this man to show the statue as
+inspired as possible and active, sparing nothing of what he might think it
+still needed for this. But when he, having set in motion all his devices and
+with nothing left that he might still devise, had fallen silent in the same
+natural manner, speaking no more than before, then already being asked by
+Julian also why it was especially silent, and this when all the things
+customary among them had been completed upon it, he said that Babylas was most
+responsible for the silence of this and the rest of the statues, lying in
+Daphne, as the gods abhorred his corpse and for this reason not enduring to
+visit their seated images; for he did not wish to speak the truest cause, not
+having been altogether unaware of it, that it was clearly a stronger power
+that had bound the activities of the demons, and besides the demon himself who
+was playing the part of Apollo having said clearly and expressly, as it is
+told, that he could not answer because of Babylas.
+
+Artemii Passio continuation ‹ 54 For this Babylas is said to have become
+bishop of Antioch; and when the emperor Numerian wished to enter the church of
+the Christians at a certain feast, standing before the doors he prevented him
+from entering from here on Artemii Passio † Suidas saying that as far as was
+in his power he would not overlook a wolf coming in upon the flock. And that
+the other was immediately checked from the entrance, either suspecting a
+rising of the crowd, or also having otherwise changed his mind; taking the
+bishop's opposition hard, however, when he had departed to the palace, both to
+have him stand before him and first to charge the daring of the prevention,
+then however to command him to sacrifice to the demons, if he should wish to
+escape the penalty upon the charge. And that the other made defense against
+the accusation and put off the challenge; the one, having said that it
+belonged to himself being a shepherd to be eager in all things on behalf of
+the flock, the other, that he would not choose, having stood away from the God
+who truly is, to sacrifice to falsely named destroying demons. Then the one,
+when he saw he was not being persuaded, commanded them, having bound him in
+chains and fetters, to lead him to death, to take off his head; but the other,
+when he was being led to die, taking these up sang these sayings of the psalm:
+"Return, my soul, to your rest, because the Lord has dealt kindly with you."
+
+Art. P. ‹ 55 † Suidas continuation And they say also that three children,
+brothers in race, quite young, being brought up under him, were seized
+themselves also by the emperor and, as they themselves too were unwilling to
+sacrifice, though every kind of compulsion was being applied to them, the
+emperor commanded that they too be taken off at the head; whom, when they had
+come to the place set forth, Babylas, having set them before himself, brought
+them first to the sword, lest any of them, having feared, shrink back from
+death. And as they were being cut off, having uttered this voice: "Behold I
+and the children whom God has given me," then he himself also stretched out
+his neck to the sword, having commanded those who would gather up his body to
+bury the chains and the fetters with him, "in order that these may be for me,"
+he says, "an adornment as I lie." And now with him, as they say, these happen
+to lie.
+
+from here on Artemii Passio alone This Babylas Julian, when he heard from
+Eusebius that he was a hindrance to the statues' not giving oracles,
+immediately commanded to transfer him, tomb and all (and it is made of a great
+stone), from Daphne, for those to whom this matters, far off somewhere else
+from them, wherever they wish, having moved him. Straightway therefore the
+crowd of the city, having poured out as upon a great cause and surrounding it,
+were dragging the tomb; but it, as being dragged not so much by men as a
+stronger power moving it, outstripped the eagerness of those leading,
+following. On the same day at any rate, having conveyed it more than fifty
+stades, they set it down in the so-called cemetery. And it is a house before
+the city that has received many bodies of ancient men and of some indeed
+witnessed for piety; then therefore they brought the tomb in there.
+
+§ 56 But Julian was preparing a multitude of victims and offerings, as on the
+next day he would go up with them to Daphne, now at least hoping altogether,
+if not of the others, at least of Apollo to obtain him answering; for upon
+this was all the hope of his eagerness and the strain, as such a thing
+mattered more to him than to another, both according to the mantic art and
+because the place Daphne had been dedicated to him, thinking that he, in his
+own place at least, would reasonably have more power than any of the other
+demons. But Eusebius and the so-called priests and the multitude of the
+sacristans, awaiting the emperor, were in great agony, and they were keeping
+vigil about the statue, working everything so that when he arrived he might
+obtain it speaking, as no other pretext for delay was still left to it. But
+when it was far in the night, fire having been brought down suddenly from
+heaven struck the temple, and at once having seized it from every side it
+burns it with the statue itself and the offerings themselves. And as all were
+being burned together and the fire was being raised to a great height, there
+was immediately a great cry about the temple and an uproar like none; and
+indeed though many were eager to help, there was no one who would be able to
+withstand the fire; but some were running to the city to report to Julian the
+governor of the East, and the rest of the crowd stood under astonishment,
+becoming spectators of the unexpected quality of the disaster that had
+overtaken them. But the fire was touching none of the other things, though so
+great and so abundant a wood had grown there, except that, having fallen most
+alone, it burned the temple with what was in it, so that the statue and all
+that was in offerings was utterly made to vanish, and small foundations of the
+buildings were left as memorials of the passion, which even now are still
+shown more clearly as the proof of the God-sent fire.
+
+§ 57 But Julian, having heard what had happened, is filled with anger and,
+taking it hard if the Christians were going to mock at what had occurred,
+immediately commands to drive them out of the great church and to make this
+altogether inaccessible to them, having shut it as securely as possible, and
+to confiscate all the treasures. And he also gave the Hellenes license so that
+they might enter into the churches of the Christians and do as many things as
+they wish. When these things then had been commanded by the tyrant and impious
+Julian, which of the greatest evils was not accomplished? And which of the
+most offensive things was not said, of those speaking with unbridled tongue
+the unspeakable things against the faith of the Christians and blaspheming our
+Lord and God Jesus Christ in all the cities? For in etc.
+
+† above 4a p. 80, 30 ff. 7.9a Artemii Passio 58: But he himself ... Julian see
+above p. 80, 35 ff. ... commanded also that the temple of the Jews in
+Jerusalem be set up; and having cast the Christians out of the city he gave it
+to the Jews to dwell in, having sent a certain Alypius that the temple be
+rebuilt with zeal.
+
+Ibid. 68: And since we have said above that the apostate Julian sent to
+Jerusalem to rebuild the temple of the Jews, which Vespasian and Titus his son
+both destroyed together with the city and burned, just as the Master Christ
+had said beforehand concerning it to his God-speaking disciples, that "there
+shall not remain a stone upon a stone which shall not be thrown down"; the
+lawless one therefore, wishing to show the words of Christ false, was
+especially eager to build the temple, having commanded that all the expense of
+the building be made from the public affairs and monies. When therefore the
+God-killing Jews had run together and with much joy had begun the work, and
+were digging out the trench of the foundations with silver mattocks and hoes
+and were about to lay the foundations, a most violent storm having come on
+filled in again what had been emptied. And as lightnings and thunders were
+being sent down continuously throughout that whole night, an earthquake
+occurred as day was already approaching, so that many even remaining in the
+open air expired; and fire having been brought out from the foundations being
+dug burned all who were found there. And it happened that cities also fell,
+those about Nicopolis and Neapolis and Eleutheropolis and Gaza and many
+others; and a stoa of Aelia, that is Jerusalem, the one beside the synagogue
+of the Jews, having been brought down killed many of those mentioned, and fire
+having broken out obscurely burned very many of the Jews. And there was also
+darkness throughout those places, and continual earthquakes working many
+destructions in many cities.
+
+7.15a Artemii Passio 69 immediately after πόλεσιν above, p. 96, 34: But
+Julian, setting out from Antioch with the whole army, was journeying toward
+the Persian land; and having reached the city Ctesiphon he seemed, having
+accomplished some great work, to pass over to other better things. But the
+utterly polluted one escaped his own notice being deceived; for having
+acquired a diabolic love of idol-madness and having hoped through his godless
+gods both to have the empire long-lasting and to become a new Alexander, and
+also to prevail over the Persians and to wipe out entirely the race and name
+of the Christians, he fell from his proud mind. For having met an old Persian
+and having been deceived by him, so as to take over the palaces of the
+Persians and all their wealth without labor, he cast him upon the Carmanian
+desert into pathless places and pits and into desert and waterless places with
+the whole army; and having pressed them with thirst and hunger and having
+killed all the cavalry, the Persian confessed that he had willingly led them
+astray, in order that they might be destroyed by him and he might not behold
+his own fatherland being plundered by the most hateful. This man therefore,
+having immediately cut him up limb from limb, they sent to death; and
+immediately also after such great misery they fall unwillingly upon the army
+of the Persians and, an engagement having occurred, Julian himself, running
+this way and that and issuing commands, falls upon a spear, as some say, of a
+soldier; but as others, of a Saracen of those with the Persians; but as the
+true and our account of the Christians, of the Master Christ having arrayed
+himself against him. For a bow having been suddenly stretched from the air and
+sending a missile upon him as upon a mark and having rushed through the flanks
+clean through wounded him in the hypochondria. And having groaned a heavy and
+ill-sounding groan he seemed to see our Lord Jesus Christ standing before him
+and laughing at him. And he, filled with darkness and madness, having received
+his own blood in his hand and having sprinkled it into the air, coming to his
+last breath, cried out saying: "You have conquered, Christ; be filled,
+Galilean." And thus, having met the terrible and most hateful death, he ended
+his life, having greatly reviled his own gods.
+
+8.1a Artemii Passio 70 immediately after λοιδορησάμενος above, p. 103, 22: And
+when the apostate had fallen in the space between the two camps, Jovian is
+proclaimed emperor by the army. And having made peaceful treaties with the
+Persian, having handed over Nisibis to the Persians without the inhabitants,
+he went out from there. For the army was being destroyed by famine and plague.
+
+8.6a Artemii Passio 70 immediately after διεφθείρετο above, p. 104, 27: And
+when he (namely Jovian) had come upon the land of the Romans, he was added to
+the heresy of the Anomoeans, that is of the Eunomians.
+
+8.8a ibid. continuation And when he had reached the Galatian province, there
+at Dadastana, in a certain place so called, he suddenly ends his life. And the
+people remain without an emperor forty days, until having come to Nicaea they
+proclaimed Valentinian. And Valentinian proclaims his own brother emperor on
+the fifth day before the kalends of March, after thirty-two days of his own
+reign. The bishops of the pure and right faith therefore, having met
+Valentinian, asked that a synod take place. And he answered them that "to me
+God has given to rule the affairs of the world, but to you those of the
+churches. I therefore have nothing in this matter; where therefore it seems
+good to you, having come together, make the synod." These things then he said
+while still having the right mind and not yet corrupted. And the bishops,
+having gathered at Lampsacus (and it is a city of the Hellespont),
+recapitulate the right doctrines of the faith; and having set beside them the
+faith of Lucian the martyr, they anathematized the unlike; and having
+subscribed the faith previously set forth by the holy fathers at Nicaea, they
+sent it around to all the churches. And not long after, the emperor Valens
+having been brought under the heresy of the unlike, the bishops began again to
+be driven and exiled, Eudoxius with Aetius and Eunomius and the rest of the
+heretics, who hold the unlike, taking the lead.

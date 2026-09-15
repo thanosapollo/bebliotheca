@@ -1,0 +1,2349 @@
+#+TITLE: Lives of the Sophists
+#+AUTHOR: Εὐνάπιος Σαρδιανός hermes:grok-4.6
+#+FILETAGS: :imperial:4c-ad:pg113:
+#+MIGNE_TITLE: Vitae sophistarum
+#+SETUPFILE: ../../public/themes/org/theme-readtheorg-local.setup
+#+OPTIONS: ^:t num:nil html-style:nil date:nil html-postamble:nil
+#+startup: overview
+#+EXPORT_FILE_NAME: ../../public/en/vitae-sophistarum--eunapius-of-sardis
+#+LANGUAGE: en
+
+* Lives of the Sophists
+:PROPERTIES:
+:CUSTOM_ID: h1
+:END:
+
+OF EUNAPIUS, LIVES OF PHILOSOPHERS AND SOPHISTS
+Xenophon the philosopher, a man unique among all philosophers in having
+adorned philosophy in both words and deeds (as to words, he is in writings and
+writes of ethical virtue, and in actions he was most excellent, and he also
+begat gen 1.1.2 erals by his examples; at any rate Alexander the Great would
+not have become great, if not for Xenophon) also says that one ought to record
+the by-works of serious men. But for me the discourse does not bring the
+writing to the by-works of the serious, but to the works. For if the play of
+virtue is worth speaking of, the thing pursued in earnest would altogether be
+im 1.1.3 pious if left in silence. And the discourse will converse with those
+who wish to meet with it, neither with certainty about all things (for it was
+not possible to collect all things accurately), nor separating from one
+another the best philosophers and orators, 1.1.4 but setting beside each man
+his pursuit. And that he who is being written of by the discourse was best to
+the highest degree, the writer of these things leaves 1.1.5 to whoever wishes
+to judge these things from the signs laid down (for that is what he wishes).
+And he has met accurately with commentaries, through which, either missing the
+truth, he would refer the error to others, like some good pupil who has
+happened upon bad teachers, or would have the truth of his criticisms and have
+those who lead him worthy of wonder, and his own work at least would be pure
+and blameless, hav 1.1.6 ing followed those whom it was proper to follow. And
+since there were few, or altogether some very few, who wrote about these
+things, that one may say this only, neither will the things written by those
+before escape those who meet with them, nor the things from hearsay that come
+down to this time, but to both will be assigned what is fitting, of the things
+written nothing being moved, and the things from hearsay that are shaken and
+changing by time being fixed and made firm by writing toward the settled and
+more lasting.
+Porphyry and Sotion collected the philosophic history and the lives of the
+philosopher men. But Porphyry (so it happened) ended at Plato and 2.1.2 his
+times; and Sotion appears even to have come down, although Porphyry was
+younger. And since the crop of philosopher men and sophists in the interval
+became indescribable in the greatness and the variety of virtue, Philostratus
+of Lemnos brushed over in passing, with grace, the lives of the best
+<sophists>, but of philosophers no one accurately 2.1.3 wrote; among whom were
+Ammonius from Egypt, who was teacher of Plu tarch the most divine, and
+Plutarch himself, the Aphrodite and lyre of all philosophy, and Euphrates from
+Egypt, and Dio from Bithynia whom they nicknamed Chrysostom, and Apollonius
+from Tyana, no longer a philosopher; 2.1.4 but he was something between gods
+and a human. For having emulated the Pythagorean philosophy, he displayed in
+it much that was more divine and effective. But as to this man Philostratus of
+Lemnos completed it, having entitled the 2.1.5 books Life of Apollonius,
+though he ought to have called it A Sojourn of a god among humans. And
+Carneades was in these times, and not obscure among those in cynicism, if one
+ought to make any account of cynicism also, among whom were Musonius, and
+Demetrius and Menippus, and some others more besides; and these were the more
+distinguished. 2.1.6 And of these it was not possible to find clear and
+accurate lives, inasmuch as no one had written them, so far at least as we
+know; but their writings were and are sufficient lives, so full of education
+and contemplation both toward ethical virtue and as much as rose up and looked
+toward 2.1.7 the nature of the things that are, having scattered the ignorance
+of those able
+to follow, as some mist. Immediately then the divine Plutarch writes both his
+own life scattered in the books and that of his teacher, and that Ammonius
+died at Athens, not having entitled it a Life. And yet the finest of his
+writings are the so-called Parallel 2.1.8 Lives of the men best according to
+works and actions; but he sowed his own and his teacher's into each of the
+books, so that, if someone should look sharply about these things, [and]
+tracking according to what falls in and appears, and should collect the
+particulars temperately, he would be able to know most of the 2.1.9 things
+they lived. And Lucian from Samosata, a man serious toward being laughed at,
+wrote a life of Demonax the philosopher in those times, having been serious
+throughout in that book and in a very few others.
+2.2.1 And these things at least I set down for memory, seeing this, 2.2.2 that
+some things perhaps escaped us, and some did not escape. And although I was
+taking much care and zeal for that, to take some continuous history marked
+off into accuracy of the philosophic and rhetorical life of the best men, and
+then not attaining the desire, I suffered something the same as those who
+2.2.3 love madly and with burning. For they, seeing the beloved herself and
+the beauty that is chilled around in what appears, bend down, being weak 2.2.4
+ened for seeing what they seek, and being shone around; but if they see her
+sandal or a lock or an earring, taking heart from those things, they send
+forth the soul also to the sight and melt down toward the spectacle, enduring
+2.2.5 and being content to see the symbols of the beauty rather than the
+beauty. And I too set out toward this writing, †as many things as either by
+hearsay, or by reading, or by inquiry of the humans of my own time not to pass
+by in silence and envi ously†, but, having worshipped the forecourts and gates
+of truth as far as was possible, to hand them over to those after these things
+who either wish to hear or are able to follow toward the finest. 2.2.6 Time,
+then, had a certain interruption and rupture because of the common disasters;
+and a third crop of men came about (for the second after that of Plato has
+been proclaimed manifest to all that it was †in the times of Claudius and
+Nero†; for the wretched and yearly ones one ought not to write (these were
+those around Galba, Vitellius, 2.2.7 Otho; and Vespasian after these and Titus
+and as many as ruled after these), that we may not seem to be zealous for
+this; except, for one running over and speaking in brief, the race of the best
+2.2.8 philosophers stretched even to Severus). But it is a fortunate thing for
+the emperors according to the composition, that what is outstanding in virtue
+is numbered with what is according to fortune. And let not even one be
+indignant, if we too record the times thus; from those points from which it
+was possible to infer jointly or to take the fitting beginning, from these we
+shall step into the discourse.
+<PLOTINUS>.
+Plotinus was a philosopher from Egypt. Writing now the "from Egypt," I will
+also add the fatherland. 3.1.2 They name this Lyco; and yet the divine
+philosopher Porphyry did not record this, saying both that he had become his
+pupil, and that he had studied with him all his life or the 3.1.3 greater
+part. Of this Plotinus the altars are hot now, and the books are not only in
+the hands of the educated above the Platonic discourses, but even the great
+crowd, if it over 3.1.4 hears anything of doctrines, is bent toward them.
+Porphyry brought out his whole life, so that it was not possible for anyone to
+contribute more; but he also appears to have interpreted many of his books.
+3.1.5 And of Porphyry himself
+no one wrote a life, so far at least as [into] us to know; but for one
+collecting from the signs given according to the reading such were the things
+about him.
+<PORPHYRY>.
+For Porphyry Tyre was fatherland, the first city of the ancient Phoenicians,
+and his fathers too were not undistinguished. 4.1.2 And having obtained the
+fitting education, he both ran up so far and advanced, that (he was a hearer
+of Longinus) he also 4.1.3 adorned the teacher within a little time. And
+Longinus at that time was a certain living library and a walking museum, and
+he had been appointed to judge the ancients, just as before him some many
+others, and Dio 4.1.4 nysius from Caria most conspicuous of all. And Porphyry
+was called Malchus at first according to the city of the Syrians (and this is
+able to mean king); and Longinus named him Porphyry, turning the appellation
+aside to the royal badge of the clothing. With that man, then, he was educated
+in the highest education, having arrived at the peak of all grammar, just as
+that man, and of rhetoric; except that he did not 4.1.5 incline upon that, but
+was moulding every form of philosophy. For Longinus was by far the best of the
+men of that time in all things, and a great multitude of his books is current,
+and what is current is wondered at. And if anyone condemned any of the
+ancients, not the opinion that had been held prevailed first but the judgment
+of Longinus altogether 4.1.6 prevailed. And having been led thus in the first
+education and being looked at by all, having desired to see the greatest Rome,
+in order that he might occupy the city through wisdom, as soon as he arrived
+into it and came into association with the greatest Plotinus, he forgot all
+the others, and added 4.1.7 himself, bringing himself, to that man. And
+filling himself insatiably of the education and of those fountain-like and
+divinized discourses, he sufficed for a certain time for the hearing, as he
+himself says, then being conquered by the greatness of the discourses, he
+hated both the body and being a human, and having sailed across to Sicily the
+strait Charybdis, where Odysseus is said to have sailed up, he endured neither
+to see a city, nor to hear a voice of humans (so far had he put away their
+being pained and being pleased), but having stretched himself toward Lilybaeum
+(and this is of the three headlands of Sicily the one stretching and looking
+toward Libya), he lay groaning and starving himself out, both not 4.1.8
+admitting food, and avoiding the tread of humans. Nor did the great Plotinus
+have a blind watch upon these things, but following at his heels <and
+tracking> or seeking the fled young man, he hits upon him lying, and he was
+well supplied with discourses toward him that were calling back the soul that
+was just about to fly through from the body, and he strengthened the body
+toward a holding 4.1.9 of the soul. And the one was breathing and was getting
+up, and the other deposited the discourses that had been spoken into a book of
+the things written. And while the philosophers were covering the secret things
+with unclarity, just as the poets with the myths, Porphyry, having praised the
+drug of clarity and having tas 4.=1.10= ted it through experience, having
+written a commentary brought it into light. He himself then returned upon
+Rome, and held to the zeal about discourses so that he even went forward into
+the public according to display; and Porphyry's fame every marketplace, and
+every crowd, referred to Plotinus. For Plotinus, by the heavenly quality of
+the soul and by the oblique and riddling quality of the discourses, seemed
+4.=1.11= heavy and hard to hear; but Porphyry, like some Hermetic chain and
+one nodding toward humans, through varied education announced all things into
+the well-known and the pure. He himself then says (and being young perhaps he
+wrote these things, as 4.=1.12= it seems), that he hit upon an oracle, none of
+the public ones; and in the book itself he records,
+and after these things he treat s of many other things, how one ought to make
+the care of these. And he says also that he chased and cast out a certain
+daimonic nature from a certain bath; the locals called this one Causatha.
+4.2.1 Fellow-students then, as he himself records, there were some most
+powerful, Origen and Amerius and Aquilinus, andwritings of them at least are
+preserved, but a discourse of them not even one; for there is much that is
+graceless, even if the doctrines hold well, 4.2.2 and it runs over the
+discourses. But Porphyry at least praises the men for the cleverness, himself
+running up through all grace, and alone displaying and proclaiming the
+teacher, and having left aside no form of education. It is possible then to be
+at a loss by oneself and to wonder, what is more of the things he was zealous
+for; whether the things stretching toward rhetorical matter, or the things
+bearing toward grammatical accuracy, or as many as hang from numbers, or as
+many as incline toward geometry, or as many as tend toward music. 4.2.3 And
+the things toward philosophy, not even the things about discourses are
+graspable, nor is the ethical reachable by discourse; and let the physical and
+theurgic be left to rites and mysteries; so mixed toward 4.2.4 every virtue
+has
+the man himself become some thing. And the beauty of his discourses, if one
+more than *the doctrines 4.2.5 more looking into them or the power of the
+discourse. And he appears to have consorted with marriages, and a book is
+current toward Marcella at least who became his wife, whom he says he led,
+even though she was mother of five children, not in order that he might make
+children from her, but in order that those who had been born might obtain
+education; for from a friend 4.2.6 of his the children already existed for
+the woman. And he appears to have arrived into deep old age; at any rate he
+left behind many theories contrary to the books already treated before, about
+which it is not possible to opine any other thing, than that going forward he
+opined other things. And in Rome he is said †to have been allotted† life.
+4.3.1 In these times there were also of the rhetoricians those standing at the
+head at Athens, Paul and Andromachus from Syria. And it happened to infer the
+times toward Gallienus and Claudius, and Tacitus and Aurelian and Probus, in
+whose time was also Dexippus who composed the chronicle history, a man full of
+all education and of logical power.
+IAMBLICHUS.
+After these there comes on as most named the philosopher Iamblichus, who was
+also by race distinguished and of the luxurious and of the fortunate; and
+Chalcis was fatherland for him; the city is according to the so-called Coele.
+5.1.2 This man, having associated with Anatolius who was borne as second of
+those according to Porphyry, advanced much and flourished to the peak of
+philosophy; then after Anatolius having added himself to Porphyry, there is
+not anything in which he even differed from Porphyry, except 5.1.3 as much as
+according to the composition and power of the discourse. For neither have the
+things said been dipped into his Aphrodite and grace, nor do they have a
+certain whiteness and beautify themselves with the pure; nor yet do they
+happen to be altogether unclear, nor faulty according to the diction, but, as
+Plato used to say about Xenocrates, 5.1.4 he has not sacrificed to the
+Hermetic
+Graces. Therefore he does not hold the hearer and bewitch him toward the
+reading, but he seems to turn away and wear out the hearing. And having
+practiced justice, he obtained so great a good-hearing of gods, that those
+associating were a multitude, and from everywhere those desiring education
+used to come; and among them the finest was hard to judge. 5.1.5 For Sopater
+was the one from Syria, a man most clever both to speak and to write, and
+Aedesius and Eustathius from Cappadocia, and from Hellas Theodore and
+Euphrasius, those outstanding according to virtue, and others a multitude, not
+much left behind according to the power in discourses, so that it was
+wonderful that he sufficed for all; 5.1.6 for he was toward all
+ungrudging. Few things then apart from the companions and associates he used
+to do by himself, reverencing the divine; and most things he was with the
+companions, being easy and ancient in the way of life, and by the association
+beside drink sweetening those pre 5.1.7 sent and filling them as with nectar.
+And they, being unceasing and insatiable of the enjoyment, used to annoy him
+continually, and having set forward at least those worthy of speech, they used
+to say toward him: "Why then alone, O most divine teacher, do you do some
+thing by yourself, not sharing the more per 5.1.8 fect wisdom with us? And yet
+a report is brought out toward us by your slaves, that praying to the gods you
+are lifted from the earth more than ten cubits, as it is guessed; and your
+body and the clothing change into some gold-like beauty, and when you cease
+from the prayer the body becomes [and] like that before praying, and having
+come down upon the earth you make the as 5.1.9 sociation toward us." Not very
+much intending to laugh, Iamblichus laughed upon these 5.=1.10= discourses.
+But having said toward them, that "the one who deceived us was not without
+grace, but these things are not so; and for the rest nothing will have been
+done apart from you" he displayed 5.=1.11= such things; and they came to the
+one writing these things from the teacher Chrysanthius from Sardis. And that
+man was a pupil of Aedesius, and Aedesius among the first of Iamblichus, and
+5.=1.12= of those who had said these things toward him. He used to say then
+that these great displays of his divinity had come about. The sun was being
+borne toward the bounds of the Lion, when it rises together with the so-called
+Dog, and it was a season of sacrifices; and it had been prepared in 5.=1.13=
+one of his suburbs. And when all things held well, <and> they were returning
+upon the city, going forward on foot and at leisure (for there was also
+discourse for them about gods fitting for the sacrifice), Iamblichus, applying
+the mind while conversing in the middle, as if cut off in the voice, and
+having fixed the eyes unmoving into the earth for a certain time, both looked
+up toward the companions, and shouted out toward them: "Let us go 5.=1.14= by
+another road; for a dead man has recently been carried past from here." He
+then, having said these things, walked another and whichever appeared more
+pure, and some returned with him, as many as thought it worthy of shame to
+leave the teacher behind; but the more and more contentious of the companions,
+among whom Aedesius also was, remained there, carrying the matter toward
+wonder-working, and tracking the test 5.=1.15= like dogs. And after a little
+those who had buried the one who had died came back; and they did not even
+thus stand off, but they asked if they had gone past this road; and they said
+"it was necessary," for they said they did not have another. 5.2.1 And they
+used to bear witness to something still more divine than this, that <the
+multitude of the associates> used often to annoy him, saying this was a small
+thing and perhaps somewhere an advantage of smelling, and that they wished to
+take a trial of another greater thing; and he used to say toward them "but
+this at least is not upon me, but when 5.2.2 there is a season." And after a
+certain time it seemed good to them toward Gadara; and they are hot baths of
+Syria, second at least after the Roman ones at Baiae, and to those there are
+not others to be compared; and they go to Gadara according to the season of
+the year. He happened to be bathing, and they were also bathing with him, and
+they were pressing about the same things. And Iamblichus, smiling, "but it is
+not pious," he said, "for these things to be dis 5.2.3 played, but for your
+sake it will have been done." <And> of the hot springs two, the smaller ones,
+but more graceful than the others, he ordered the associates to inquire from
+the locals how they had been named from of old. And they, having completed the
+thing or dered, "but there is not even a pretext;" they said, "but this one is
+called Eros, and for the one lying beside Anter 5.2.4 os is the name." And he
+immediately having touched the water (and he happened to be sitting upon the
+base according to the overflow), and having spoken certain brief things,
+called out from the spring from be 5.2.5 low a child. The child was white and
+moderately well-sized, and
+gold-like hairs shone around his back and his breast, and he wholly seemed
+both
+bathing and having been bathed. And when the companions were struck, "to the
+next," he said 5.2.6 "spring let us go," and he led going away, and he was
+thoughtful. Then having done the same things there too, he called out another
+Eros like the former in all things, except that the hairs had been poured down
+both blacker and sun-like. And both the children at least used to twine around
+him, and as if having grown upon some genuine father they clung. And he gave
+those back to their own lots, and, 5.2.7 while the companions were
+reverencing, he went out having bathed. After this the multitude of the
+associates sought nothing, but from the samples that had appeared, as if they
+were being drawn by an unbreakable rein, they believed all things. And more
+paradoxical and more monstrous things also used to be told, but I recorded
+none of these, thinking it a certain slippery and god-hated matter to bring
+into a settled and fixed composition a hearing that has been corrupted and
+5.2.8 is flowing. But even these things I write fearing that they are
+hearsay, except as many as I follow men who, disbelieving the others, were
+bent together toward the perception of what appeared. And no one 5.2.9 of his
+companions wrote, so far at least as we know; and I said this moderately,
+Aedesius having said that neither he himself had written, nor had any other
+dared. 5.3.1 In the times of Iamblichus there was also the most dialectical
+Alypius, who happened to have a most small body, and the body overstepped a
+pygmy least, and even the ap 5.3.2 pearing body was in danger of being soul
+and mind; so the perishable did not advance into greatness, having been spent
+into the more god-like. As then the great Plato says that the divine bodies
+have it the reverse, being laid in the souls, so one might say that that man
+too had stepped into the soul and was being held together and mastered 5.3.3
+as by someone stronger. Alypius then had many zealots, but the education was
+as far as association only, and not even one brought forward a book; so that
+they used to run off very gladly toward Iamblichus, as from a spring bubbling
+over, not remaining by itself, in order to fill themselves and drink. And
+according to the fame of both growing up they also at some time either met
+with one another or encountered like stars, and a theatre sat around 5.3.4
+them such as to guess of a great museum. And Iamblichus having endured rather
+to be asked than to ask, Alypius contrary to all suspicion having let go every
+philosophic question, and having become of the theatre, "tell me,
+philosopher,"
+he said toward him "the rich man is either unjust or heir of an unjust man,
+yes or no? for of these there is nothing in the middle." And he, having hated
+the blow of the discourse, "but this at least is not," he said, "O more
+wonderful of all men, the manner of our dialectic, if someone has something
+excessive according to the externals, but if something is in surplus according
+to the virtue proper to a philosopher and fit 5.3.5 ting." Having said these
+things he withdrew, and, when he had stood up, the gathering was not. And
+having gone away and become by himself, and having wondered at the sharpness,
+he both often met with him privately, and so over-wondered the man for the
+accuracy 5.3.6 and intelligence, that even when he had gone away he composed a
+life. And the one writing these things met with the things written; and the
+things written were being blackened by the composition, and a deep cloud was
+running over them, not at all through unclarity of the things said, but it had
+as teacher a certain long discourse of Alypius, and of dia 5.3.7 lectics
+having
+discourses there was not memory attached. And the book used to tell of
+journeys abroad into Rome, to which neither a cause was attached, nor did the
+greatness of the soul appear together. But that many followed having been
+struck at the man is indicated beside; but what he said 5.3.8 or did worth
+speaking of, does not appear; but the wonderful Iamblichus seems to have
+suffered the same as the painters, who writing those in bloom, whenever they
+wish to grant something from themselves into the writing, destroy the whole
+form of the likeness, so as both to have missed 5.3.9 of the model and of the
+beauty. Thus that man too, having chosen beforehand to praise because of the
+truth, indicates the greatness of the punishments and misfortunes according to
+himself in the law-courts, but causes upon these or pretexts, neither having
+been born to narrate politically, nor having chosen beforehand, he confused
+the whole character of the life, scarcely leaving this for those who look
+sharply to grasp, that he wondered at the man, and especially his endurance
+beside the terrible things and the being unstruck, and 5.=3.10= the sharpness
+in the discourses and †he was preparing a cut†. And this man was from
+Alexandria. And the things toward Alypius are these. And he died at least in
+Alexandria an old man, and Iamblichus upon him, having let go many roots and
+springs of philosophy. The one writing these things was fortunate of this
+crop. For others of the associates mentioned were separated elsewhere into all
+the Roman dominion; and Aedesius occupied Mysian Pergamon.
+AEDESIUS.
+And Aedesius from Cappadocia receives the school and association of Iamblichus
+toward the companions. And he was of those well born to the peak, but much
+wealth was not present for the race, and his father at least, having sent him
+out upon money-making education from Cappadocia upon Hellas, then waiting as
+about to find a treasure upon the child, whenever, when he had come back, he
+perceived him philosophizing, drove him from the house as 6.1.2 useless. And
+driving him out "for what," he said, "does wisdom benefit?" And he, having
+turned back, "not small things, father," he said, "to reverence a father even
+when driving one out." And the father, having heard this, 6.1.3 both called
+the child up, and wondered at the character. And having given himself wholly
+he dedicated him, bringing him, toward the education still left. And he,
+having sent the child forward, was well-spirited, and rejoiced around, as
+having become father of a god rather than of a human. 6.1.4 And he, having run
+past all the others, as many as of those then were more famous and of whom he
+happened to have heard, and having collected the wisdom by trial, toward the
+most glorious Iamblichus he stretched and accomplished not a long road from
+Cappadocia into Syria. And when he both saw the man and heard him speak ing,
+he hung from the discourses, and was not filled of the hearing; until at last
+he became Aedesius* and little falling short of Iamblichus, except as many
+things at least as bear toward the divinizing of Iamblichus 6.1.5. For of
+these we were able to record nothing, because on the one hand Aedesius himself
+perhaps hid it because of the times (for Constantine was ruling, both
+overturning the most manifest of the temples and raising up the dwellings of
+the Christians), and on the other the things perhaps even of the associates
+the best was inclined toward a certain mystic silence and hierophantic
+keeping of speech and had been bent 6.1.6 together. At any rate the one
+writing these things, having become from a child a hearer of Chrysanthius,
+scarcely into the twentieth year was thought worthy of the more true things,
+so great a matter of the philosophy of Iamblichus was stretched through toward
+us and stretched together with the time. 6.2.1 And when Iamblichus had left
+behind the human, others were scattered elsewhere, and there was no one
+outside fame and unknown. And Sopater the more clever of all, through both
+height of nature and greatness of soul, not bearing to associate with the
+other humans, ran sharp upon the imperial courts, as about to tyrannize the
+pretext and crop of Constantine and trans 6.2.2 fer it by the discourse. And
+he arrived at least to such a point of wisdom and power, that the emperor both
+had been captured under him, and had him as assessor in public, seating him
+into the right place, which even to hear 6.2.3 and to see is unbelievable. And
+those sharing in power, being burst by envy toward an empire just now
+relearning to philosophize, watched for the season of the Cercopes (not only
+Heracles sleeping, but also the irrational Fortune being awake) and they both
+made secret gatherings, and there is not according to what 6.2.4 part of the
+ill-starred
+plot they neglected. Just as then when upon the ancient and great Socrates of
+all the Athenians (even if they were a people) no one would have dared an
+accusation and a writing, whom at least all Athenians thought to happen to be
+a walking statue of wisdom, if not drunkenness and madness and the being let
+loose of the feast of the Dionysia and of the all-night festival, under
+laughter and slighting and the easy and slippery passions invented upon
+humans, Aristophanes first, having brought in the laughter upon corrupted
+souls and having moved the dances under the stage, then persuaded a theatre,
+upon so great a wisdom mocking leaps of fleas, and drawing forms and figures
+of clouds and the other things as many as comedy is accustomed to talk 6.2.5
+nonsense for a moving of laughter. And when they saw the theatre having
+inclined toward the pleasure, certain ones took hold of an accusation, and
+they dared the impious writing into that man, and a whole people was
+unfortunate upon a man's 6.2.6 murder. For it is possible for one calculating
+from the times to grasp that, when Socrates had gone away by force, nothing
+still brilliant was done for the Athenians, but both the city gave way, and
+through the city all the things of Hellas were destroyed together; 6.2.7 so
+also then it was possible to see together the plot according to Sopater. For
+Constantinople, the ancient Byzantium, according to the ancient times
+furnished the grain-convoy to the Athenians, and the cargo from there was
+excessive; 6.2.8 but in the seasons according to us, neither the multitude of
+the merchant-ships from Egypt, nor the multitude of grain being brought
+together from all Asia, and Syria and Phoenicia and the other nations,
+according to a carrying-off of tribute, is able to fill and satiate the
+drunken people, whom Constantine, having bereaved the other cities of humans,
+transferred into Byzantium, and toward the clappings in the theatres of humans
+bubbling over with hangover he composed for himself, having loved the
+encomiums of stumbling humans and memory of a name, of those scarcely under
+6.2.9 simplicity speaking the name; and it has also happened by the position
+of Byzantium that it does not even fit for a sailing of the ships being
+carried down, if a south wind does not blow down unmixed and unblended. And
+then indeed when the thing often happening according to the nature of the
+seasons had happened, both the people, having been relaxed by famine, came
+together into the theatre, and there was scarcity of the drunken praise, and
+6.=2.10= faint-heartedness held the emperor. And those who had long been
+envious, thinking they had found a finest season, "but Sopater at least," they
+said, "the one being honored beside you, has bound down the winds through
+excess of wisdom, which even you yourself praise, and through which 6.=2.11=
+he
+still sits in the imperial thrones." And Constantine, having heard these
+things and having been persuaded together, orders the man to be cut down, and
+these things came about through those who were envious quicker 6.=2.12= than
+it was being said. And the cause of all the evils was Ablabius, prefect of the
+imperial court, but being outshone under Sopater he was being strangled. And
+for me, as has been said before, recording lives of educated men into all
+education, the things being saved into my hearing, it is nothing different
+even if I should run over certain brief things of those who have sinned into
+them. 6.3.1 For Ablabius who had worked the murder the race was most
+inglorious, and the things from fathers more low than the moderate and paltry.
+And such a discourse is saved over him, and no one spoke against the things
+said. One of those from Egypt who had been stretched about the so-called
+learning, having gone forward into the city (and Egyptians are sufficient even
+in public with slight 6.3.2 ing to be unseemly on journeys abroad; and it is
+likely that they are also educated thus from home), having gone forward
+nevertheless, he pushes into the more expensive of the taverns, and he said he
+was dry, having accomplished a long road, and that he was about to be choked
+at once by thirst, and he or 6.3.3 dered to pour in the wine sweet and
+seasoned, and the silver was set forward. And the woman standing at the head
+of the tavern, seeing the gain, prepared herself toward the service, and was
+running about. She
+happened to be sufficient also to midwife women upon being in childbed. <And>
+when she had set forward a cup for the Egyptian and was pouring down the
+seasoned wine, someone running up from neighbors "but there is danger for
+you," she said speaking toward the ear, "upon the birth-pangs for your friend
+and kinswoman," for so it held, "if you should not come 6.3.4 quicker." And
+she, having heard these things, and having left the Egyptian, before throwing
+on the hot water, gaping, and having released that woman from the birth-pangs,
+and having completed at least as many things as come about upon childbeds, was
+present at once, having thoroughly cleaned the 6.3.5 hands, toward the
+stranger. And when she overtook him being indignant and boiling around with
+the spirit, the woman announced the cause of the slowness. And when the
+excellent Egyptian heard and saw toward the hour, he thirsted more sharply to
+speak out what had come upon from the gods than to tend the 6.3.6 affection of
+the body, and having spoken great: "but go away at least, O woman; tell the
+one who has given birth that she has all but given birth to a king." And
+having made this clear, he both filled himself ungrudgingly of the cup, and
+6.3.7 left the name who he was for the woman to know. And the one born was
+Ablabius, and he became so great a plaything of Fortune innovating into all
+things, that thus he was able to do more than the one ruling, so that he even
+killed Sopater, having brought on a cause more simple than the Socratic, as
+<using> the one then ruling as a disorderly 6.3.8 people. Constantine then
+even honoring Ablabius was being punished, and how at least he died has been
+written in the things about that man. And Constantine left behind for Ablabius
+the child Constantius, who had been co-emperor with him, and who succeeded to
+the rule of the father with Constantine and Constans the brothers. And in the
+things according to the most divine 6.3.9 Julian these things have been said
+more accurately. And Constantius, having succeeded to the empire and having
+been allotted as many things at least as he was allotted, and these were the
+things coming down from the Illyrians into the east, immediately looses
+Ablabius from the rule, and composed another comrade-group about 6.=3.10=
+himself. And Ablabius, having long prepared the places about Bithynia, having
+imperial refuges and easinesses, spent time in ungrudging things, while all
+6.=3.11= humans wondered that he does not wish to be emperor. And Constantius,
+having sent out from nearby from the city of the father certain not few
+sword-bearers upon him, ordered the first ones to give back letters. And those
+handing the letters both reverenced him, as Romans think it to reverence an
+emperor; and he, having received the letters very pompously and having been
+released from all fear, both demanded the purple from those who had come,
+already becoming heavier, and it was ter 6.=3.12= rible to those being seen.
+And they said toward him, that they themselves brought the letters, but before
+the doors were those who had been 6.=3.13= entrusted with these things. And he
+called those, thinking great and being lifted in the judgment; and those who
+had been allowed to come in were both a multitude and all sword-bearers, and
+instead of the purple they brought upon him "the purple death," having cut him
+down butcher-wise, as some animal among those in the feasts. And these things
+the in all things fortunate Ablabius paid as justice to Sopater. 6.4.1 These
+things then having gone thus and Providence not letting go the human, Aedesius
+the most glorious of those left around was left behind. And having fled upon a
+certain divination through a prayer in which he believed most (and this was
+through a dream), the god stood upon toward the prayer, and gave an oracle in
+hexameter 6.4.2 tone these things; and he, having just uncovered the eyelids
+and being still around-afraid, remembered the mind of the things said, but the
+supernatural and heaven-long of the verses fled around him and slipped
+through. He then both calls the child, wishing to wipe off the sight and the
+face with the water, and the ser vant said toward him, "but the left hand at
+least from outside 6.4.3 is full of letters." And he saw and thought together
+that the matter was divine, and having reverenced the
+his own hand and the things written, he found the oracle written upon the hand
+6.4.4. And it is this:
+Upon the threads of two Fates threads lie
+for the sake of your life. If you should love citadels
+and again cities of men, even for you fame will be undying,
+herding the god-like impulse of young men.
+But if again you should herd a pasture of sheep and still of bulls,
+then indeed hope yourself to be companions even with the blessed
+immortals. And the flax has nodded for you thus.
+6.4.5 And the oracle had these things; and he, following, as one ought to
+follow, was being pressed together toward the better road, and he both looked
+around for some little place and stretched himself toward a life of some
+goatherd; but those needing discourses or education because of the fame poured
+down beforehand did not escape him, but tracking him they had stood around,
+like dogs howling about the forecourts, and threatening to tear him apart, if
+he should turn so great and such a wisdom upon the mountains and the cliffs
+and the trees, as if he had not even become a human 6.4.6 nor knew the human.
+And having been forced out by such discourses and works into the common
+association, he gave himself, bringing himself, to the worse of the roads, and
+he left Cappadocia, having handed over to Eustathius to take care of those
+there (and according to 6.4.7 race they had not stood off). And he himself,
+having crossed into Asia, while all Asia stretched out hands to him, was
+settled in old Pergamon, and toward him both Hellenes used to come and those
+near the land, and the glory touched the stars.
+6.5.1 And about Eustathius it is even impious to leave aside the things
+bearing toward truth; for it was agreed together by all that this man was seen
+and was most beautiful, and most clever to come into a trial of discourses,
+and the wheedling upon the tongue and the lips seemed not outside of
+enchantment. And the honeyed and tame bloomed upon the things said and was
+poured out together so much, that those who had heard the voice and the
+discourses, having handed themselves over, just as those who have tasted of
+the lotus, 6.5.2 hung from the voice and the discourses. So far at least some
+much he was not away from the musical Sirens, that the emperor <called him
+over>, even though being held by the books of the Christians, since an uproar
+held him, and a certain necessity lay upon from the king of the Persians, and
+already having worked around Antioch and shooting it together, who at least
+having occupied the height lying over the theatre unexpectedly and suddenly,
+shot together and destroyed the great multitude of those watch 6.5.3 ing. And
+these things nevertheless holding, so 6.5.3 all were taken and enchanted, as
+not to shrink from throwing a certain Hellene human into the ears of the
+emperor; and yet formerly those ruling were accustomed to elect those praised
+according to the army upon the embassies, either camp-rulers or as many as
+after those 6.5.4 had been taken out toward ruling; then even with necessity
+tyrannizing, the most prudent of all was looked around for and agreed together
+to be Eustathius. He was both called over from the emperor, then, and was
+present at once, and such a certain Aphrodite was upon the lips, that those
+who had advised that the embassy be sent through Eustathius both obtained
+greater dignities beside the emperor, and the emperor in 6.5.5 clined toward
+their goodwill. Certain of these then even as volunteers set out together with
+him upon the embassy, wishing to take a greater trial, whether the human had
+the same charm even toward the bar 6.5.6 barians. And when they arrived into
+the land of the Persians, even though Sapor was a certain tyrannical and wild
+one toward those going in, and he truly was, [and] it was being announced,
+nevertheless when an approach for Eustathius according to the common embassy
+came about toward the king, he wondered at both the disdain in the eyes and
+the honeyed quality, even though having devised many things into a striking
+6.5.7 of the man. And when he heard the voice of him conversing tamely and
+without pain, and of the things running over decently and
+easily of demonstrations, he orders him to go out, and he went out having
+taken together a tyrant by discourse; and he immediately called him in upon a
+table through the chamberlains, and, when he had hearkened toward this (for he
+seemed to have been well born toward a turning of virtue), 6.5.8 he met him
+upon the feast. And he became table-companion, and he mastered so much by the
+discourse, that the king of the Persians lacked some little both to change the
+upright tiara and to loose the purple-bordered and gem-set ornaments, and to
+change into the cloak of Eustathius; so great a running-down of fortune and of
+the ornaments about a body he made, and into so much of ill-starredness he
+brought up those who love 6.5.9 bodies. But this at least those of the magi
+who happened to be there prevented, saying the man was completely a sorcerer,
+and having persuaded the king together to answer to the emperor 6.=5.10= of
+the Romans: why then, being fortunate of such men, do they then send those
+differing nothing from slaves who are rich? And the things according to the
+embassy were all over hopes. 6.6.1 About this man at least even such a thing
+also fell together into my history, that all Hellas prayed to see him 6.6.2
+and asked the gods for the sojourn; and the divinations at least for those
+clever about these things fell together toward this. And when they missed
+wholly, for he did not sojourn, the Hellenes send an embassy beside him,
+having chosen beforehand those at the peak upon wisdom according to the
+embassy. And mind was for them to converse toward 6.6.3 the great Eustathius:
+why then upon these signs did the work not meet? And he, having heard, and
+reviewing and distinguishing the named upon those and much-hymned, tested, and
+asked together both the greatness and the color and the figure of the signs,
+then having smiled customarily toward them, when he heard the things that
+were (for a falsehood stands not only outside a divine chorus, but also of
+discourse), "but these things at least," he said, "did not divine this my
+sojourn." 6.6.4 And somewhere he even spoke something beside the human
+according to my judgment at least; for he answered that "the signs that
+appeared were smaller and slower than my fine things." 6.6.5 Thus the so great
+Eustathius lived with Sosipatra, who showed her own man through excess of
+wisdom a certain cheap 6.6.6 and small one. And about this woman it is fitting
+to speak even through longer things in catalogues of wise men, so great a fame
+of the woman went out. And she was from the Asia about Ephesus, as much land
+as the river Cayster going upon and flowing through gives the name from itself
+to the plain. And she was of fathers and of a race both fortunate and blessed;
+and being still a infant child, she made all things more blessed, so 6.6.7
+great a something of beauty and of shame shone down upon the age. And she was
+completing into a five-year time; and in this two certain old men (both had
+passed the prime, and the other was more aged) having deep wallets, and having
+skins fitted upon the backs, push together toward a certain place of the
+parents of Sosipatra, and they persuade together the steward (and it was easy
+for them to do this) to trust them with care of 6.6.8 vines. And when the
+fruit met beside the hope (and the master was present and the child Sosipatra
+was present together), the wonder was boundless and bore 6.6.9 toward a
+suspicion of a certain divinizing; and the master of the place made them
+table-companions and thought them worthy of much care, blaming those farming
+the place together, that 6.=6.10= they did not do the same things. And the old
+men, having obtained Hellenic hospitality and a table, and having been bitten
+and captured by the excessively beautiful and alluring of the child Sosipatra,
+"but we at least," they said, "have the other hidden and secret things toward
+ourselves, and of this praised †goodwill† there is laughter, and a certain
+plaything with slighting of the 6.=6.11= advantages beside us. And if you wish
+something of this table and of the guest-gifts to be given to you beside us
+not in moneys nor in mortal and corrupted graces, but as much as over you
+also is and your life, a gift heaven-long and reaching the stars, leave this
+Sosipatra beside us as more true nurses and fathers, and into the fifth year
+at least fear neither disease about the girl, 6.=6.12= nor death, but be quiet
+and firm. And let it be a care for you not to tread the place until the fifth
+year, as the solar cycles turn around, arrives. And wealth will grow for you
+of itself from the place and will bloom up, and the daughter will not be
+according to a woman and a human only, but even you yourself will take up
+something more about the girl. If then you have a good spirit, receive the
+things said with supine hands; 6.=6.13= but if you stir up certain suspicions,
+nothing has been said to us." Toward these things, having bitten the tongue
+and having crouched, the father both puts the child in hand and hands her
+over, and, having called over the steward, "furnish," he said toward him, "as
+many things as the old 6.=6.14= men wish, and busy about nothing." He said
+these things; and dawn did not yet show, <and> he went out as if fleeing both
+the daughter and the place. 6.7.1 And they, having taken the child (whether
+they were heroes, or daimons, or some more divine race), with what mysteries
+they completed her not even one knew, and toward what they 6.7.2 divinized the
+girl was unapparent even to those very much wishing to know. And the time
+already came on, and all the other things ran together about revenues of the
+place, and the father of the child was present into the field, and he neither
+recognized the greatness of the child, and the beauty appeared itself of
+another sort; and the father she almost 6.7.3 even did not know. And he even
+reverenced her, so he thought he saw some other. And when both the teachers
+were present and the table was set forward, they said: "ask what 6.7.4 you
+wish the maiden." And she took up: "but ask at least, father, what has been
+done for you according to the road." And when he permitted to speak (and
+through good fortune he was being borne upon a four-wheeled vehicle; and many
+affections happen upon such vehicles), she announced all things thus, both
+voices and threats and 6.7.5 fears, as if herself charioteering together; and
+the father went forward into so much of wonder, that he did not wonder, but
+was struck down, and he had been persuaded that the girl was a god. And having
+fallen toward the men, he supplicated them to say who they were; and they
+scarcely and slowly (and it seemed perhaps thus even to a god) indicated
+beside that they were not uninitiated of the so-called Chaldaic wisdom, and
+this through a rid 6.7.6 dle and nodding down. And when the father of
+Sosipatra, having fallen toward the knees, supplicated, calling them to be
+masters of the place, and to have the girl under themselves and to initiate
+into the more perfect, they, having nodded that they will do thus, no longer
+spoke; and he as if having a certain promise or oracle, took heart by himself,
+and was at a loss toward the matter 6.7.7; and he over-praised Homer at least
+according to soul, as having hymned this as some supernatural and daimonic
+matter: and gods, like to foreign strangers, becoming all sorts, turn about
+the cities. For he himself thought he had met 6.7.8 with stranger men, but
+gods. And he, being filled of the matter, was held by sleep, and they, having
+withdrawn from the dinner and having taken the girl, both handed over to her
+very kindly and with shared zeal the equipment of the clothing in which she
+had been completed, and having added certain other instruments and the casket
+of Sosipatra, having ordered her to seal it down and having thrown 6.7.9 in
+certain little books. And she over-rejoiced at the men not less than the
+father. And when dawn showed and doors were opened, and humans went toward
+works, those too went out together with the others according to the custom.
+The girl ran beside the father bringing good news, and one of the attendants
+carried the 6.=7.10= casket; and he, having asked both wealth which he had
+into what happened, and from the stewards as much as was necessary of it,
+called over the men; and they appeared nowhere. And he said toward Sosipatra:
+"what then is this 6.=7.11=
+, O child?" And she, having held a little, "but now at least," she said, "I
+see together what was said. For as they put these things in my hands weep
+ing, look, they said, O child; for we, having been borne upon the western
+ocean, will return at once." This convicted most manifestly that those who
+appeared were daimons. 6.8.1 And they, going away, went wherever and went
+away; and the father, having taken the girl divinized and being inspired
+temperately, both conceded that she live as she wishes, and busied around none
+of the things according to her, except as many as at least he was displeased
+toward 6.8.2 her silence. And she, going forward into a measure of prime,
+having obtained neither other teachers, both had through mouth the books of
+the poets and of philosophers and of orators, and as many things at least as
+for those who have toiled and been distressed scarcely were present even to
+know dimly, these she spoke with slighting, running over easily and without
+pain into the clear. 6.8.3 It seemed good to her then even to come together
+with a man. And it was indisputable that from all men Eustathius alone was
+worthy of the marriage. And she, having said toward Eustathius and those
+present: "but hear <you,> Eustathius, and let those present bear witness
+together. I will bear three children under you, and all will <not> miss the
+seeming human good, but toward the 6.8.4 divine [not even] one. And you will
+leave me beforehand, having been allotted a fine and fitting lot, and I
+perhaps a better. For for you the dance is about the moon, and you will no
+longer serve and philosophize the fifth, for thus your image says to me, but
+you will even go past the place under the moon with 6.8.5 a good and
+well-reined bearing; and I even wished to say the things according to myself,"
+then having been silent upon the discourse a certain brief time, "but my," she
+spoke out, "god prevents me." 6.8.6 Having said these things, for the Fates
+nodded thus, she both came together with Eustathius, and the things said
+differed nothing from the unmoved oracles, for all things came about and
+turned out just as having come about. 6.9.1 And it would be necessary to
+history toward the things that have come about these things: Sosipatra, after
+the withdrawal of Eustathius, having returned toward her own possessions,
+spent time about Asia and old Pergamon; and the great Aedesius 6.9.2 loved her
+tending, and educated the children. And Sosipatra sat opposite to him at least
+philosophizing according to her own house, and, after the association of
+Aedesius, going to her, there is not anyone who <did not> love around and
+wonder together at the accuracy of Aedesius in discourses, but the inspiration
+of the woman he reverenced and worshipped. 6.9.3 Philometor then, being a
+certain cousin of her, having been worsted by both the beauty and the
+discourses, arrived into love, even knowing the woman more divine; but love
+forced together and overpowered. And he was much about these things, and the
+woman perceived together of the attempt; and toward Maximus, and this man was
+borne among the first of the association of Aedesius, and had not even been
+sep 6.9.4 arated from kinship; "but learn down at least, O Maximus, in order
+that I may not have matters, what the affection about me is." And when he took
+up: "for what is the affection?" "If Philometor is present," she said toward
+him, "Philometor at least is, and 6.9.5 he differs from the many of you not
+even one thing; but if I see him withdrawing, my heart inside is bitten and is
+turned somehow toward the going out. But that you may contend about me and
+display something god-loved," she added. And Maximus went out having heard
+such things, being over-swollen, as if already associating with the gods, that
+6.9.6 he had been entrusted such things by so great a woman. And Philometor
+pressed upon the things set forward, and Maximus pressed against, having
+learned down through sacrificial wisdom with what he has used, having loosed
+the lesser by a more violent and more powerful. And Maximus, having completed
+these things, ran beside Sosipatra, and thought it worthy to watch beside very
+accurately, whether she will 6.9.7 suffer the same for the rest; and she said
+she no longer suffered, and she announced at least the prayer to Maximus and
+the whole action, and she added at least the hour, as if being present
+together, according to which these things
+he was doing, and she uncovered the signs that appeared. And when he had
+fallen upon the earth gaping, and agreeing that Sosipatra was a goddess
+outright, "stand up," she says, "O child; the gods love you, if you look
+toward
+those and do not incline upon 6.9.8 the earthly and mortal moneys." And he,
+having heard these things, went out having become more boastful, and having
+been tried securely of the divinity according to the woman. And Philometor met
+him bright about the doors going in with many companions; 6.9.9 and Maximus,
+having spoken great from far, said: "by the gods to you, Philometor," he said,
+"companion, cease burning down the woods in vain" having perhaps seen in
+something such for him 6.=9.10= about the things he was doing working evil.
+And he, having over-reverenced Maximus, thought him a god, and ceased at least
+from the plot, having mocked the purpose for what he even attempted; and
+Sosipatra genuinely and especially saw 6.=9.11= Philometor for the rest,
+wondering at him that he wondered at her. Once then when all had come together
+beside her and Philometor was not present, but spent time in a field, the
+purpose was and 6.=9.12= the inquiry about soul; and when many discourses were
+being moved, when Sosipatra began to speak, loosing the things being thrown
+forward by little with the demonstrations, then falling into the discourse
+about a descent of soul and what is the thing being punished and what the
+immortal of it, in the middle of the corybantizing and the being
+out-bacchized,
+as if cut off in the voice, she was silent, and having left a brief time,
+"what
+is this?" she shouted into the middle; "the kinsman Philometor being borne
+upon a vehicle, and the vehicle has been overturned around according to a
+certain bad place, and that man 6.=9.13= is in danger about the two legs; but
+the servants at least have taken him out healthy, except as many wounds as he
+has taken about the elbows and hands, and these at least without danger; and
+he is being borne upon a lit 6.=9.14= ter wailing." She said these things and
+it held thus, and all knew that Sosipatra would be everywhere, and is present
+for all the things coming about, just as the philosophers say about 6.=9.15=
+the gods. And she died upon the three children. And of the two I need to write
+the names nothing, but Antoni nus was worthy of the fathers, who at least
+having occupied the Canobic mouth of the Nile, and having added himself wholly
+to the things being completed there, forced out the prediction from the
+mother. 6.=9.16= And the youth of those healthy in the souls and desiring
+philosophy used to come toward him, and the temple was full of young 6.=9.17=
+men priests. He himself then, still seeming to be a human and associating with
+humans, used to tell beforehand to all the associates, that after him the
+temple would no longer be, but even the great and holy temples of Serapis will
+go and be changed toward the dark-like and formless, and the mythical and
+formless darkness will tyrannize the finest things upon earth. And the time
+convicted all things, and the matter at least was completed into the force of
+an oracle. =6.10=.1 And of this race, for I was not eager to write the
+so-called
+Eoeae of Hesiod, certain outflowings, as of stars, were left around, and were
+scattered and allotted into certain other races of those philosophizing, for
+whom the kinship of philosophizing =6.10=.2 was a gain. And most things they
+were in danger in law-courts, just as Socrates about the stoa of the king; so
+they thought around moneys and abominated =6.10=.3 gold. At any rate
+philosophy for them was the cloak and the remembering Sosipatra, and carrying
+Eustathius through mouth, and the things in what is seen both stout little
+sacks and under-full of little books, and these as if to be a burden of many
+camels. =6.10=.4 And they knew the books thoroughly very accurately; and these
+at least were things bearing toward none of the ancient philosophers, but
+wills and copies of these, and contracts and <about purchases and> about
+sales, and as many things as the ill-starred life and the one inclining toward
+the wandering and disorderly ruin =6.10=.5 is accustomed to praise. Thus
+Sosipatra did not even <one> in the things after these miss toward the oracle,
+and of these at least the
+names I need to write nothing; for the discourse is being pressed together to
+bear not upon the =6.10=.6 paltry but upon the good. Except as many as one of
+her children (Antoninus was <name> for him, of whom I also made mention before
+a brief, the one who crossed over into Alexandria, then having wondered at and
+over-admired the Canobic mouth of the Nile, and having dedicated and fitted
+himself to the gods there and to the unspoken holy things) very quickly
+advanced toward the kinship of the divine, both having thought around the body
+and having been released from the pleasures about this, and having practiced a
+wisdom unknown to the many; about whom it is fitting =6.10=.7 to speak even
+through longer things. For he displayed nothing theurgic and beyond-reason
+into the appearing perception, perhaps looking under the imperial impulses
+bearing elsewhere; but all 6.10.8 wondered at him for the endurance and the
+unbent and unmoved. And those then schooling according to Alexandria used to
+go down at least beside him upon the sea, and Alexandria at least through the
+temple of Serapis was a certain inhabited holy place; =6.10=.9 those then
+coming from everywhere into it were both a multitude being equalled to the
+people, and, after the tendings of the divine, they ran beside Antoninus, some
+through land, as many at least as ran, and for others the river boats
+sufficed, with easiness =6.10=.10 carrying under upon the zeal. And having
+been
+thought worthy of association, some, having set forward a logical problem,
+filled themselves ungrudgingly and at once of the Platonic wisdom, and others,
+throwing forward something of the more divine things, met with a statue;
+therefore he spoke toward none of them, but having set the eyes and having
+looked through into the heaven, he lay voiceless and unsoftened, nor did
+anyone see him having come easily into association of humans about such
+things. =6.11=.1 And that the thing according to him was something more divine
+was indicated not into long; for that man did not anticipate going away from
+humans, and both the tending of those according to Alexandria and the Serapeum
+temple was being scattered; not the tending only, but also the buildings, and
+all things came about just as in =6.11=.2 poetic myths, the Giants having
+mastered. And the temples about Canobus suffered this same thing, Theodosius
+then ruling, and Theophilus standing at the head of the accursed, a certain
+human Eurymedon who once ruled over the over-spirited Giants, and Evagrius
+ruling the political rule, and Romanus =6.11=.3 having been entrusted with the
+soldiers according to Egypt; who, having fenced together at once according to
+<the temples> of stone and of stone-carved things, throwing these upon spirit,
+and of war neither a hearing <nor a mishearing> standing under, both
+outraged the Serapeum and warred against the dedications, having conquered an
+unopposed and un 6.11.4 fought victory. At any rate they fought so far
+nobly with the statues and dedications, that they not only conquered them, but
+even stole, and a warlike order for them was =6.11=.5 to escape notice having
+taken under. And of the Serapeum they did not take under the floor only
+because of weight of the stones, for they were not easily moved; and having
+poured together all things and having disturbed them, the most warlike and
+noble, and having stretched forward the hands bloodless, but not
+un-money-loving,
+they both said they had conquered the gods, and they counted down the temple-
+robbery and the impiety into praise of themselves. =6.11=.6 Then they brought
+into the holy places the so-called monks, humans according to the form, but
+the life for them swine-like, and into the manifest they both suffered and
+did countless evils and unspeakable. But nevertheless this at least seemed
+pious, the =6.11=.7 thinking around of the divine; for then every human
+wearing
+black clothing had a tyrannical authority, and wishing to be unseemly in
+public; into so much of virtue did the human drive. But about these things at
+least even in the catholic =6.11=.8 compositions of the history it has been
+said. And they settled these monks even into Canobus, instead of the
+intelligible gods into tendings of slaves, and not even useful ones, having
+bound down the
+human. For collecting together bones and heads of those who had been captured
+upon many sins, whom the political law-court punished, they both displayed
+them gods, and they rolled toward the bones and took them up to be better
+=6.11=.9 being polluted toward the tombs. At any rate they were called
+witnesses and certain servants and ambassadors of the requests beside the
+gods, slaves who had served badly, and had been spent down by whips, and
+bearing the scars of the wickedness in the =6.11=.10 images; but nevertheless
+the earth bears these gods. This then was completed into a great foresight and
+<good-aim> of Antoninus, that he used to say toward all that the =6.11=.11
+temples would become tombs; (just as somewhere also the great Iamblichus,
+which we have left aside in the things according to that man, when a certain
+Egyptian man had called Apollo, and when he had come, and those present having
+been struck at the sight, "cease," he said, "companions, wondering; for it is
+an image of a man who has fought in single combat;" so it is some other thing
+to contemplate with the mind and with the deceptive eyes of the body. But
+Iamblichus foresaw the present terrible things, and Antoninus the things about
+to be; and this at least of him alone bears weak 6.=11.12= ness). And the end
+for him was without pain, having arrived into an un-diseased and deep old age,
+and painful for those having mind the end of the temples that had been known
+beforehand by that man.
+MAXIMUS.
+We made mention of Maximus even formerly, and the one writing these things was
+not without sight of the man, but still young he met with an old man and heard
+a voice, such as one would have heard of the Homeric Athena or of Apollo. And
+for this man certain of the pupils of the eyes were winged, and a grey beard
+was let down, and the eyes made clear the impulses of the soul 7.1.2. And a
+certain harmony at least was upon both for one hearing and seeing, and through
+both of the perceptions the one being with him was struck, neither bearing the
+sharp-movement of the eyes, nor the course of the 7.1.3 discourses. But not
+even if any of the most experienced altogether and clever conversed toward
+him, did he dare to speak against, but having handed themselves over quietly,
+they followed the things said as if from tripods; so great a certain Aphrodite
+sat upon the lips. 7.1.4 He was then of those well born, and a stouter wealth
+was present for him, and he had genuine brothers, whom he prevented from being
+firsts himself being, both Claudianus who occupied Alexandria and educated
+there, and Nymphidianus who sophisted conspicuously in Smyrna.
+7.1.5 And this man was of those filled through of the wisdom of Aedesius. And
+he was thought worthy to become teacher of Julian who ruled. This man, when
+all had been taken up by Constantius (and these things have been written more
+accurately in the things according to Julian), and the race of Julian having
+been made bare, was left around 7.1.6 alone, having been thought around
+through age and gentleness. And imperial eunuchs nevertheless served around
+him and there were certain watchings-beside, that he might be a firm
+Christian; and he even toward these things 7.1.7 displayed the greatness of
+the nature. At any rate he had all the books thus through mouth, so that those
+were indignant toward the brevity of the education, as even not having what
+they will teach 7.1.8 the child. And when neither those had to educate, nor
+Julian to learn, they asked out that it be entrusted to the cousin for him
+even to hear rhetorical and philosophic discourses. And he, a god having nod
+ded, entrusted it, wishing him to wander about the books and to be idle rather
+than to be reminded 7.1.9 of the race and of the empire. And this having been
+entrusted to him, everywhere deep and heaviest possessions lying under, he
+went around with imperial suspicion and spear-bearing, and he went through
+wherever he wished. And indeed he also arrives into Pergamon according to
+7.=1.10= fame of the wisdom of Aedesius. And he already into a certain long
+old
+age
+had arrived, and the body was wearying; and of his association there stood at
+the head and were borne among the firsts both Maximus, over whom these things
+are written, and Chrysanthius from Sardis, and Priscus the Thesprotian or
+Molossian, and Eusebius from Mynd 7.=1.11= us city of Caria. And having been
+thought worthy of association of Aedesius, Julian, even in a youth an old man,
+having been struck at the prime and the god-like of the soul, did not wish to
+be separated, but, just as those according to the myth bitten by the thirst-
+snake, wished to draw of the lessons with open mouth and at a draught, and
+7.=1.12= he sent through at least imperial gifts upon these; and he did not
+even admit these, and having called over the youth, he said: "but you even do
+not not-know my soul, hearing with such hearings, but you see together how the
+instrument of it is disposed, of the 7.=1.13= nailing and fixing being loosed,
+into the thing composed; but you, if you wish even to do something, beloved
+child of wisdom (for such I learn down the images of your soul), having gone
+toward my children who are genuine, from there fill yourself copiously of all
+wisdom and lessons; and if you obtain the mysteries, you will altogether be
+ashamed that you became and were called a human. 7.=1.14= I wished then that
+Maximus also be present, but he has been sent upon Ephesus. And about Priscus
+I would have conversed the like things, but that man too has sailed upon
+Hellas; and left of my companions are both Eusebius and Chrysanthius, hearing
+whom you will annoy my old age least." 7.2.1 And when Julian heard these
+things, he did not even thus stand off from the philosopher, but he applied
+himself according to the much time to both Eusebius and Chrysanthius. And
+Chrysanthius was same-souled with Maximus, being inspired together about
+divinizing, and he drew himself under 7.2.2 in the lessons, and having the
+other character such. And Eusebius, when Maximus was present, fled under the
+accuracy in the parts of the discourse and the dialectical devices and
+weavings, and when he had stood off he shone as a star from solar light; so
+great a certain ease and grace bloomed upon the discourses. And Chrysanthius
+being present praised and nodded together, and Ju 7.2.3 lian worshipped the
+man. And Eusebius used to add after the interpretation, that these would be
+the things really being, and the juggleries deceiving the perception and
+enchanting, works of wonder-makers, and of those playing beside and 7.2.4
+having gone mad toward certain material powers. The most divine Julian,
+hearing this after-voice often, having taken Chrysanthius privately, "if any
+truth is shared for you, O dear Chrysanthius," he said toward him, "tell me
+clearly what this epilogue of the interpretation is." And he, having brought
+up very deeply and temperately, "but you will do a wise matter," he said, "not
+from me these things, but from that 7.2.5 man having inquired." And having
+learned this he heard and did it, having thought Chrysanthius some god upon
+the discourse. And when the association came about, the one finished toward
+the same things, and Julian asked boldly, what this being said upon
+continually 7.2.6 wishes for him. Here Eusebius, having spread out his own
+good-tonguedness, and having let the well-mouthed upon speaking be borne
+unhindered, "Maximus," he said, "is some one of the eld 7.2.7 er hearers and
+those much educated; this man through greatness of nature and excess of
+discourses having thought around the demonstrations in these, having rushed
+and run upon certain madnesses, called us together the other day those present
+into the Hecatesion, 7.2.8 and he showed many the witnesses according to
+himself. And when we met, and we reverenced the goddess, 'sit,' he said toward
+us, 'O dearest companions, and see 7.2.9 the thing about to be, and if I
+differ something from the many.' And having said this, and when we all had
+sat,
+having consecrated a grain of frankincense, and finishing toward himself
+whichever hymn it was, he went forward into so much of display, that first the
+statue smil 7.=2.10= ed, then even laughter was what appeared. And when we
+were
+in uproar under the sight, 'but let not even one of you be disturbed under
+these things, for immediately even
+the torches will kindle, which the goddess bears in the two hands;' and the
+light being burned around in the torches anticipated the discourses. We then,
+having been struck toward the present at that theatrical wonder-maker,
+7.=2.11= withdrew; but you, wonder at none of these things, just as not even
+I, taking up the purification through the discourse as some great mat 7.=2.12=
+ter." And the most divine Julian, having heard this, "but farewell," he said,
+"and apply yourself to the books, and to me you indicated whom I was seeking."
+And having said these things, and having kiss ed the head of Chrysanthius, he
+set out upon Ephesus. And having met Maximus there, he both hung from the man,
+and held fast of the 7.=2.13= whole wisdom. And Maximus guides him even to
+call over the most divine Chrysanthius, and, it having become thus, both
+scarcely sufficed for the spaciousness of the child toward the lessons. 7.3.1
+And when these things also held well, having heard that something more is
+according to Hellas beside the hierophant of the Two Goddesses, he ran sharp
+toward that man. And of the hierophant, who he was according to that time, it
+is not lawful for me to say the name; for he completed 7.3.2 the one writing
+these things, and led him into the Eumolpidae; and this man at least was the
+one who also knew beforehand the overturn of the temples and the destruction
+of all Hellas, the writer being present, and bearing witness through
+manifestly that after himself a hierophant would come about, for whom it is
+not lawful to touch hierophantic thrones, since he has been consecrated to
+other gods, and has sworn unspoken 7.3.3 oaths not to stand at the head of
+other temples; but he said nevertheless that he would stand at the head not
+even being an Athenian. And (he arrived into so much of foresight) he used to
+say that upon himself the temples would be dug down and ravaged, and that that
+man living would look upon these things, being dishonored through excessive
+ambition, and that the tending of the Two Goddesses would die before him, and
+that he, having been robbed of the honor, would have neither the hierophant
+nor the old 7.3.4 life. And these things at least thus; for at once both the
+†from Thespiae† came about, being father of the Mithraic completion, and not
+into long when many and indescribable evils had been flooded upon, of which
+some have been said in the detailed of the history, and some, if the Divine
+permits, will have been said, [and] Alaric having the barbarians went past
+through the Gates, as if running through a stadium and a horse- 7.3.5 beaten
+plain; such gates of Hellas the impiety of those having the grey cloaks who
+had gone in beside unhindered showed him, and the law and bond of the
+hierophantic ordinances having been torn beside, but these things at least
+were done into later, and the discourse brought them past through the
+foreknowledge. 7.3.6 Then the Julian, having associated with the most divine
+of hierophants and having drawn of the wisdom from there with open mouth,
+being about to be under Constantius, was being led away violently as about to
+be vice-emperor into the Caesar, and Maximus was according to Asia, and
+Aedesius having changed, growing 7.3.7 by cubits upon all wisdom; so that
+Julian obtained the things which he did not wish, but was forced. And having
+been sent as Caesar upon the Galatias not in order that he might rule those
+there only, but in order that he might be destroyed in the empire, contrary to
+all opinion from the providence of the gods he brought himself up, escaping
+notice of all that he tends gods, and conquering all that he tended gods, and
+he both crossed the Rhine, and having taken together and enslaved all as many
+barbarian nations as over that, when many plots and devices were being woven
+for him (as has been recorded in the things about that man), having called
+over the hierophant from Hellas and having accomplished with that man certain
+things known to those alone, he was raised upon the taking-down 7.3.8 of the
+tyranny of Constantius. And these things Oribasius from Pergamon knew
+together, and a certain one of those from Libya, which Romans call Africa
+according to the ancestral of the tongue, Euhemerus. And these things again in
+the books according to Julian have been said more accurately 7.3.9. When then
+he took down the tyranny of Constantius, and sent away the hierophant upon
+Hellas, just as sending away some god who had appeared, and who had furnished
+what he wished, even imperial at least
+gifts <and> tending he sent together with him toward the care of the temples
+of Hellas, he immediately sent 7.=3.10= over for Maximus and Chrysanthius. And
+one calling at least was upon both. And it seemed good to them to flee down
+upon the gods, and men so active and having trial, and having brought together
+the trial into the same, and having raised and composed the sharp-looking
+about these things and the looking-through of the soul, they strike 7.=3.11=
+upon unyielding and wild signs (those men knew the signs that appeared).
+Chrysanthius then, immediately having been struck and having crouched under
+toward the sight, having bitten the tongue, "not only must I remain," he said,
+"here, O dearest Maximus, 7.=3.12= but I must even lurk;" and he, having stood
+himself up, "but you seem to me to have forgotten," he said, "O Chrysanthius,
+the education in which we were educated, that it is of the peak Hellenes at
+least and those educated even in these things not altogether to yield to the
+things that first met, but to force out the nature of the divine until it
+inclines upon the one tending." And when Chrysanthius took 7.=3.13= up,
+"perhaps
+you are clever and bold to do these things, but I would not fight with these
+signs" and after the discourses having withdrawn, Maximus remained doing all
+7.=3.14= things, until he obtained the things which he wished and desired
+down; and Chrysanthius remained more unmoved than a statue, not even thinking
+through to move the reasonings that had been fixed from the beginning beside
+himself. All humans then already ran together beside Maximus according to
+Asia, as many as were in offices and as many as 7.=3.15= had been released
+from
+these, and the stronger of the councils. And a people narrowed the goings-
+forward for Maximus leaping with a shout, which a people, whenever to tend
+someone, has practiced from much; and the women poured in beside by the side
+door beside the woman, wondering at the good fortune and thinking it worthy
+7.=3.16= to remember them; and she, for the sake of philosophy, displayed
+Maximus as knowing <neither to swim> nor letters. Maximus then, being
+reverenced under all Asia, went up upon the meeting of the emperor, and
+Chrysanthius remained according to country, a god having said that in a dream,
+as he said toward the one writing these things into later: whoever is
+persuaded upon the gods, they also very much hear him. 7.4.1 And when Maximus
+also with so great a procession both set out upon Constantinople and having
+gone forward through swift things into it shone out, both the emperor and
+those being ruled were all things upon Maximus, night and day differed nothing
+for them, so they referred all things over the present upon the gods 7.4.2;
+here Maximus was already heavy about the palace, both pouring around a more
+luxurious clothing than according to a philosopher, and being more difficult
+toward the interviews and 7.4.3 more displeased; and the emperor did not know
+the things being done. It seemed good to them then, the emperor having forced
+out, even to send over for Priscus; and Maximus demanded, forcing toward,
+7.4.4 even Chrysanthius. And both at least were sent-over, Priscus from
+Hellas,
+and Chrysanthius from Lydia and Sardis. And so at least the divine Julian hung
+from the association of the man, that to the ones as to friends he sent
+letters, 7.4.5 just as supplicating gods to come and be with him; and having
+inquired that for Chrysanthius there is also a woman, having the name Melite
+and being wondered at by him especially (a cousin of the one writing these
+things), having sat himself somewhere privately, he even sent a letter toward
+the woman himself writing, no one knowing, and letting go all sorts of voices,
+to persuade the man in no way to re 7.4.6 fuse the going out; and having asked
+the letter toward Chrysanthius, then having thrown that one in and having put
+a seal upon both, †as if the one† he sent those who would lead having spoken
+many things even from mouth which he thought useful toward easily having
+persuaded the great wits of the son of Aeacus. 7.4.7 Priscus then came, and
+having come he was temperate; and yet those tending him were not fewer, but he
+remained
+nevertheless unmoved, not being lifted under the empire, but carrying down the
+empire and making it even into the more philosophic. 7.4.8 And Chrysanthius
+was not even captured by these snares and devices, but having met with the
+gods, as the things beside the gods were unchangeable, he himself also
+followed the gods, and he sent a letter toward the emperor, that over the
+emperor or according to Lydia * 7.4.9 it would come about over him only, and
+the gods spoke these things. And he suspected the missing of the calling, but
+having displayed both the man and the woman as high-priest of Lydia, and
+having entrusted that the choice of the others be under them, he himself was
+being gathered upon the Persian war. And Maximus and Priscus following
+together, and certain others too accompanied together completing into a
+multitude, a crowd of humans praising themselves, and being very much at least
+swollen, that the emperor 7.=4.10= said he had met with them. And when the
+matters tensely from those great and brilliant hopes crashed down into the
+unapparent and formless and slipped through, as has been said in the detailed
+according to Julian, both Jo 7.=4.11= vian ruled and completed honoring the
+men; then very swiftly and violently he went away together with the one who
+had ruled before (if at least toward the more he went away thus), and
+Valentinian and Valens stood upon the matters. Here Maximus and Priscus are
+snatched together, the call 7.=4.12= ing differing much than when Julian
+called. For that one at least was a certain festal one and shining through
+excessively toward honor, but of this second even before the things hoped the
+appearing was danger, so a certain stout and conspicuous dishonor had been
+poured down of the things being seen, but Priscus, having stood under nothing
+terrible, but even having been witnessed toward to be good and to have become
+according to that season, returned 7.=4.13= into Hellas; and the one writing
+these things was being educated according to those times being a child and
+just completing into ephebes. And Maximus, for many shouted down against him
+both in public in the theatres and privately toward the emperor, was wonderful
+even thus, that he brought himself up toward so many disasters; except they
+lead him around into the deepest of the punishment, having valued him of so
+many moneys, as many as neither a man philosophizing was able to hear <nor to
+see> (for they suspected him to have all 7.=4.14= things), and they changed
+mind, as having valued little for him. And he was sent over into Asia upon a
+casting-down of the moneys, and as many things as he suffered is over every
+tragedy, and there would be no one loud-voiced, nor being pleased with evils,
+so as to an 7.=4.15= nounce such disasters of so great a man. For even the
+so-called digging of the Persians is small, and the womanish hoeings of the
+Artabri, toward the pains being brought upon the body. 7.=4.16= And <the>
+wonderful woman was present and over-grieved. And when it was boundless, and
+was being stretched upon, "having bought," he says, "O woman, 7.=4.17= a drug,
+give it upon, and free." And she both bought and was present having it. Here
+he asked to drink, and she thought it worthy to drink first, and when she had
+perished at once at least, those belonging buried her; and Maximus no longer
+drank.
+7.5.1 Here indeed every discourse is lesser, and all as much as the 7.5.2
+poetic race would hymn, toward the actions of Clearchus. For Clearchus was
+from the fortunate Thesprotians, and having become especially <excessive>
+about fine glory, when the matters had already been changed, and Valentinian
+having withdrawn into the west, and the emperor Valens having stepped into the
+last dangers, and running not the contest about empire, but that about safety
+(for Procopius, having stood up against with many and boundless powers, cut
+him around from everywhere into the †to be together†) of all Asia then
+according to that season Clearchus stood upon, as much as according to the
+authority from Hellespont through Lydia and 7.5.3 Pisidia is marked off upon
+Pamphylia. <And>
+he brought together much goodwill into the matters, both throwing himself
+beside with the body into the first dangers, and differing outright toward the
+prefect of the court, so that not even the emperor did not-know the
+difference. And yet the prefect was Salutius, a man who even upon the empire
+of Julian had adorned his own fortune, but nevertheless he convicted both his
+slackness through the old age and called him 7.5.4 Nicias; for it was a care
+for him according to that season to layer and strengthen the soul under both
+reading and historical experience. 7.5.5 And when the matters had gone well,
+Valens over-wondered Clearchus, and did not loose him from the rule, but
+transferred him into a worse rule, having set him 7.5.6 as proconsul of the
+now
+especially so-called Asia. And this, holding the sea-stretched from Pergamon
+toward the mainland lying over, is cut off as far as Caria, and Tmolus marks
+around of it the toward Lydia. And it is most glorious of rules, and not
+listening-down of the prefect of the court, except as many as at least now
+again into this newer uproar all things have been mixed together and have
+been 7.5.7 stirred up. Then Clearchus, having taken back the healthy Asia,
+found Maximus there being stretched down by the tor 7.5.8 tures, and scarcely
+holding up. And it is a divine work to say the thing after these, for no one
+would so justly refer the beyond-reason to some other than a god; for both all
+the soldiers, who had stood upon these unceasing punishments, he forced by a
+greater violence to flee, and he let Maximus up from the bonds, and he made
+care of the body, and he set him as table-companion, and he used so great a
+frankness toward the emperor, that the emperor already even let go the soul,
+and 7.5.9 conceded at least all things as many as Clearchus persuaded. Having
+loosed Salutius from the rule then, he thought of Auxonius <to set upon> the
+works of the court. And Clearchus both those punisher soldiers, and as much as
+according to that unfortunate time had taken under something and outraged,
+some he defended himself against, 7.=5.10= and some he exacted; and all had
+this through mouth 7.6.1 that he would be a second Julian for Maximus. Here
+indeed Maximus also made certain public displays, but (for he had not been
+born toward a theatre) he brought the glory into least, as he brought himself
+up, conversing again. Many then of both the possessions were recovered, and of
+those stolen through somehow otherwise, and he was very quickly blessed, and
+as if just going forward into 7.6.2 the empire of Julian. And he, being
+conspicuous, sojourned even into Constantinople, and all feared him, seeing
+both the fortune standing up; and of the cleverness about theurgy he is one
+who has been tried, and he glorified that into the discourse still more. And
+here again through 7.6.3 the much fame an affection grew up more quickly for
+him. For those about the palace, having composed a certain <plot for the
+emperors> and having set forward a private oracle (it is not of everyone to
+learn down what I say), when a certain more unclear oracle had fallen out,
+they referred the oracle upon Maximus, not having agreed the matter, but as if
+wishing to learn something more clear of him having given an oracle and having
+taken up; for it had been shown then that Maximus alone of all humans knew the
+things of the gods, even if they are borne 7.6.4 having been covered upon
+toward the others. And he, having applied the mind and looking through the
+things said, saw sharply the thing hidden in the discourses, being truly, and
+he brought out more true than oracles, that they destroyed both the one who
+read (saying himself), and all (he added not only those who know the
+<battle-line>, but also declared more the thing that would be punished
+unjustly), and finishing he put upon that "after the common and many-turned
+destruction of all, in which we worked the murder, the emperor will be
+destroyed up a certain strange manner, not even having been thought worthy
+7.6.5 of burial, nor of a glorious tomb." And these things held thus, and in
+the detailed it has been written more accurately. They had been captured then
+immediately both those who had composed and those who had numbered; and when
+all everywhere were being snatched and cut down, like cocks in a feast and
+symposium having a common banquet, Maximus too was snatched together, and came
+7.6.6 into Antioch, where the emperor spent time; and having been ashamed of
+his murder, as all things were convicted upon the judgment, and that he
+condemned those who had attempted, and that he told beforehand accurately all
+things, just as punishing some god in the body of Maximus, they sent out
+together with him upon Asia a certain murderous and cook-like soul, Festus,
+having thought Asia worthy of some such. 7.6.7 And he, having become present,
+did the thing ordered and added from himself, distributing a certain
+ungrudging furnishing to the swine-like and having-raged of the soul; for
+having cut down many beforehand both responsible and not responsible, he also
+slaughtered upon them the great Maximus. 7.6.8 And that at least the
+divination had as end, and the remain 7.6.9 ing things also turned out. For
+both the emperor in a great battle of the Scythians was made unapparent a
+certain strange manner, so that not even a bone was found into a taking-up;
+and the daimon added upon even some other greater; for that Festus (and these
+things too the writer being present knew accurately together) having been
+loosed from the rule, and having gone abroad toward Theodosius who was newly
+ruling, then having returned (for he had mar ried from Asia a marriage fitting
+for a tyranny), and displaying the luxury and the having escaped through the
+charges, he both announced an expensive feast to those in dignity and 7.=6.10=
+having gone forward according to good birth. And it was the third day of the
+kalends, which days Romans thus name January, and all having reverenced him
+undertook the banquet. 7.=6.11= And he went forward into the temple of the
+Nemeses (and yet having said he never tends gods, but having taken up all whom
+he punished through this), having gone forward nevertheless, he announced to
+them a dream 7.=6.12= and he wept down the sight narrating. And the dream was:
+he used to say that Maximus, having thrown a neck-noose, dragged him into
+Hades, as about to be judged upon Pluton. And those present, even though
+fearing and referring toward the whole life of the man, each wiped off the
+tears, and they ordered him to pray to the Two Goddesses; and he was persuaded
+and prayed. 7.=6.13= And as he was going out, both feet having been carried
+under, the body slips out upon the back, and he lay voiceless; and having been
+carried away he died at once, and this seemed to be a finest work of
+Providence.
+PRISCUS.
+And about Priscus the many things according to the necessity that fell around;
+and formerly it has been said from where at least he was; and a proper thing
+according to his character such is remembered; he was both too much hiding-
+mind and deep-judging, and having arrived at the peak of memory, and having
+taken together all the opinions of the ancients 8.1.2 and having them upon
+mouth; and being most beautiful and great to be seen, he would even have
+seemed to be uneducated through scarcely going into dialectic, but he guarded
+the doctrines as some treasure at least, and those easily sending forth a
+voice about them he used to say were prodigal 8.1.3. For he used to say that
+the one being conquered in the dialectics is not tamed more, but standing
+against toward the power of the truth, and being broken down by the pleasures
+and the body-loving, is made wild, and is completed and accomplished both
+speech-hating and philosophy-hating 8.1.4 together. Through this cause then he
+held upon most things. And he was slow and swollen according to the character,
+and he guarded the character not only when he was with companions and
+associates 8.1.5, but from youth the dignity grew old together with him. At
+any
+rate Chrysanthius used to say toward <the> one writing these things, that the
+manner of Aedesius was common and popular, and after at least the contests as
+many as were about discourses, he went out toward a walk according to
+Pergamon, and of the companions the more honored were present; 8.1.6 and the
+teacher, planting in the pupils a certain harmony and care toward the human,
+when he saw them unbridled, and over-thinking through arrogance of the
+doctrines, and the wings longer and softer than the Icarian, bringing them
+down not upon the sea, but upon the earth and 8.1.7 the human. The one himself
+teaching these things would have seen gladly a vegetable-seller having met,
+and having stopped the journey he addressed her, and he would have conversed
+about price toward her, that the tavern-work works much, and at once he went
+through the farming of the vegetable toward her. And toward a weaver he would
+have done some such 8.1.8 other, and toward a bronze-smith and a carpenter.
+The more temperate then of the companions were educated out these things, and
+especially Chrysanthius, and if there was anyone of that school like
+Chrysanthius. 8.1.9 And Priscus alone did not even spare when the teacher was
+present, but he both called him a betrayer of the dignity of philosophy, and a
+human knowing little words, better toward a leading-up of soul, but not being
+guarded upon the works. 8.=1.10= But nevertheless being such, even after the
+empire of Julian he remained blameless, and having borne many innovations of
+youths corybantizing upon wisdom, and upon all guarding through the deep
+character, and laughing at the human weakness, with the temples of Hellas,
+having accomplished into a certain long old age, who at least 8.=1.11= was
+over
+the ninety, he perished together; and of many others too in this time some
+sent forth the life through grief, and others even were cut down under the
+barbarians; among whom there was a certain Proterius from the island
+Cephallenia, and he was witnessed to be fine 8.2.1 and good. And Hilarius too
+the one writing these things knew, a man Bithynian in race, and having grown
+old at Athens, and toward the pure of the other education, having
+philosophized according to painting so, that Euphranor had not died in the
+hands of that 8.2.2 man. And the one writing these things through this
+wondered at him <the in> forms beautiful and over-loved him. But nevertheless
+Hilarius too was of those who enjoyed the common disaster, having been found
+outside of Athens (for he spent time somewhere near Corinth) 8.2.3 and having
+been cut down beside the barbarians together with the household-servants. And
+these things at least in the detailed, if it seems good to the daimon, will be
+written, not having the according to each, but the common there will have been
+said more 8.2.4 clearly; and now as much as the according to each fell upon
+has been said sufficiently into a narration.
+JULIAN.
+And Julian the sophist from Cappadocia flourished into the times of Aedesius
+and tyrannized at least of Athens, and toward this one all the youth from
+everywhere went, worshipping the man for the sake of rhetoric and of greatness
+of nature. For there were even according to the same certain others touching
+beside of the fine, and being lifted toward the glory of that man, both
+Apsines from Lacedaemon, having glory of a certain technical one, and
+Epagathus, and some such furnishing of names; 9.1.2 but he mastered of all by
+the greatness of the nature, and the lesser was lesser by a certain long. And
+associates of him many and from everywhere, so to speak, and having been
+scattered everywhere, 9.1.3 and having been wondered at wherever they were
+settled; and chosen off of all the others both the most divine Prohaeresius,
+and Hephaestion, and Epiphanius from Syria, and Diophantus the Arabian. And it
+is fine to make mention of Tuscianus, for this man too shared of that man's
+association, but of this man at least even in the things according to Julian
+9.1.4 we made mention in the detailed. And the writer saw the house of Julian
+too at Athens, small and a certain cheap one, but nevertheless breathing
+around of Hermes and Muses, so it differed nothing from some holy sacred
+place; and he had left it behind for Prohaeresius. 9.1.5 And images of the
+companions wondered at by him were set up, and the theatre was of hewn stone,
+in imitation of the public theatres 9.1.6, but lesser and as much as to be
+fitting for a house. For so great was at Athens the faction of the humans then
+and of youths, just as of the city, from those ancient wars, practicing the
+danger within wall, that no one of the sophists dared having gone down in
+public to converse, but having taken their voices in the private theatres they
+<ad> dressed youths, not running the about soul, but competing the about
+clapping and voice.
+9.2.1 And of many things being silenced, this it is necessary to throw down
+about him and to bring in together into the discourse, a sample of the 9.2.2
+whole education and intelligence of the man. For the boldest of the pupils of
+Apsines happened to have mastered with the hands of those of Julian according
+to that civil war; and having used heavy and Laconian hands, when those who
+had suffered were in danger about the body, as if having been wronged, they ac
+9.2.3 cused. And the trial was referred upon the proconsul, and he, displaying
+himself to be a certain heavy and terrible, both orders the teacher to be
+snatched together and all those accused 9.2.4 as prisoners, just as those
+locked down upon murder. And he seemed as a certain Roman not to be of the
+uneducated, nor of those 9.2.5 having been reared under rustic and unmusical
+fortune. Julian then at least was present, it having been ordered thus, and
+Apsines was present together, not having been ordered, but as about to
+advocate together for those who had accused. And the examination was set
+forward, and an entrance 9.2.6 was given to the prosecutors. And there stood
+at the head of the disorderly Sparta a certain Themistocles an Athenian, who
+was also cause of the evils; and being more rash and bolder, he outraged into
+the name. Immediately then the proconsul, having looked under bull-like at
+Apsines, "and you who" 9.2.7 said "ordered to come?" And he answered "I had
+come competing about his own children." And when the ruler had hidden the
+thought by the silence, the prisoners and those who had been wronged went in
+again, and the teacher with them, having hairs and the bodies having been
+badly treated exceedingly, so that they appeared pitiable 9.2.8 even to the
+one judging. And when the discourse was given to those accusing, Apsines began
+the discourse, but the proconsul, having taken up, "but this at least," he
+said, "Romans do not approve; but let the one who said the first accusation be
+in danger about the second." Here there was not preparation toward the 9.2.9
+sharpness of the judgment; and Themistocles was the one who had accused, and
+being forced to speak, he both changed color and bit through the lips being at
+a loss, and he looked under toward the companions and spoke beside what must
+be done; for they had gone in as about to shout and cry 9.=2.10= out upon the
+advocacy of the teacher only. When then there was much silence and
+disturbance,
+silence according to the whole law-court, and disturbance about the part of
+the prosecutors, Julian, having spoken beside something pitiable, "but or
+9.=2.11= der me at least to speak;" and the proconsul, having shouted up: "but
+none of you at least of the teachers who have been considered will speak, nor
+will any of the pupils clap the one speaking, but you will know at least at
+once how great it is and of what sort the just beside Romans. 9.=2.12= But let
+Themistocles finish the accusation, and let the one whom you judge best
+defend." Here no one ac 9.=2.13= cused, but Themistocles was an outrage of a
+name. And when he ordered the one able to defend toward the former accusation,
+the sophist Julian "you," said, "procon sul, through the excess of the just
+have made Apsines a Pythagoras, having learned the being silent slowly, but
+nevertheless justly; 9.=2.14= and he long ago (for this you yourself learn
+down) even taught the companions to pythagorize [and to be silent]. And if you
+order any of my companions to defend, order Prohaeresius to be loosed from the
+bonds, and you yourself will approve wheth 9.=2.15= er he has been educated to
+atticize or to pythagorize." And when he entrusted these things and at once
+easily
+(and these things Tuscianus announced toward the writer being present at the
+judgment, and inside of those accused) Prohaeresius having gone forward into
+the middle unbound, when the teacher had shouted into him both violent and
+piercing just as those encouraging and turning forward upon the crown-games,
+and having shouted into sharply the "speak, Prohaeresius, now is a season of
+speaking," he said a certain preface (for Tuscianus at least did not know it,
+but he spoke the mind), he brought it out both inclining into pity of the
+things they had suffered and the preface had a certain mixed 9.=2.16= praise
+of
+the teacher; and somewhere even through one diction a certain slander was sown
+in the preface, indicating rashness of the proconsular rule, that it was not
+fitting for them even after the tests to stand under and suffer such 9.=2.17=
+things. And when the proconsul nodded down, and having been struck down both
+at the mind of the things said and the depth of the dictions and the ease and
+the clapping, and when all wished to praise, but had crouched down as if at a
+sign from Zeus, and a mystic silence had been poured down, Prohaeresius,
+stretching the discourse into a second preface (for this 9.=2.18= Tuscianus
+remembered), began from here: "if then it is possible both to wrong all things
+and to accuse and speaking to be believed before the defense, let it be, let
+the city of Themis 9.=2.19= tocles come about." Here the proconsul both jumped
+up from the throne, and shaking the purple-bordered clothing (Romans call it a
+toga), like a youth that 9.2. heavy and unsoftened one clapped Prohaeresius;
+and Apsines clapped together not at all willing, but nothing is more violent
+than necessity; the teacher Julian only wept. And the proconsul, having
+ordered the prosecuted part to go out, and of the prosecuting the teacher
+only, then having taken Themistocles and the Laconians, reminded 9.=2.21= them
+of the whips in Lacedaemonia, having added for them even of the Athenian ones.
+And himself too being in very good repute and through the associates, he died
+at Athens, having handed over a great funeral contest to his own companions.
+PROHAERESIUS.
+And about Prohaeresius even for those who have taken beforehand it has been
+said sufficiently, and in the historical commentaries according to the
+interpretation. And now too it is a season to go upon into the more accurate
+for one who knows securely and has been thought worthy of that man's tongue
+and association; and these things at least, even if very great and heaven-long
+toward grace, if someone is a teacher, nevertheless by some much and long from
+the friendship into the writer the so 10.1.2 many and indescribable graces
+stood off. For the one composing these things crossed over from Asia into
+Europe and Athens, completing into a sixteenth year. And Prohaeresius had gone
+forward upon the seventh upon the eighty years, as he himself said; and about
+this age the hair for him was both woolly and too much continuous, and through
+a multitude of grey hairs like to a foaming sea 10.1.3 and silvering under.
+And he flourished thus the things into discourses, and by the youth of the
+soul the wearied body was raised together, so that the one composing these
+things thought him a certain unaging and immortal, and he applied himself as
+if to a self-called and 10.1.4 without a certain working-out appearing god.
+And yet having held into the Piraeus about first watch, upon a furious fever
+having come about according to sailing, and certain many others belonging to
+him according to race had sailed in together, and about that hour, before
+something of the accustomed came about (for the boat was of those from Athens,
+and about the landings not some few of those having gone mad into each
+school always harbored), the ship-master stretched together into Athens, of
+the others walking, and he, being unable to walk, nevertheless from
+succession 10.1.5 holding up, was carried up toward the city. And it was the
+most standing of night, when
+the sun makes the night longer becoming more southern (for he had stepped into
+the Balance and the night-watches were about to be); and the ship-master being
+somewhere even an ancient guest-friend of Prohaeresius, having struck the
+door, led into the house so great a crowd of associates, so that, when certain
+wars came about about one youth and two, those who had come appeared a filling
+of a whole sophis 10.1.6 tic school. Of these some completed into strength of
+body, and others were more luxurious into wealth, and the one held through the
+middle; and the writer, being pitiably disposed, had most of the ancient books
+through mouth only 10.1.7. Immediately then there was both joy about the house
+and certain runnings-through of men. and of women, and some 10.1.8 laughed,
+and
+some mocked. And Prohaeresius, having sent over for his own kinsmen according
+to that hour, orders them to take those who had come. And he himself was from
+Armenia (as much of Armenia as is joined together with Persians into the
+deepest), <and> 10.1.9 these were called Anatolius and Maximus. And they
+received those who had come, and they were from neighbors, and about the baths
+with all display the youth then displayed into them both mockery and laughter.
+And some of these at some time were released having bathed once, but the
+writer, the disease having stretched upon him, was being destroyed, having
+seen neither Prohaeresius nor Athens, but seeming to have dreamed those things
+which he de 10.=1.10= sired, and those of the same nation and from Lydia bore
+it heavily. And just as for those going away according to this age upon the
+more all are accustomed to grant, having lied down certain many and great
+things about him and having brought them together they made wonders, and a
+beyond-reason mourning held the city, as if upon a great dis 10.=1.11= aster.
+And
+a certain Aeschines, not an Athenian (but Chios was fatherland for him),
+having taken up many not as many as he announced to tend, but even as many as
+he only saw, having shouted up into the middle of those mourning, as after
+these things it became manifest "but concede at least," he said, "to me to
+give a drug to the corpse." 10.=1.12= And they conceded to Aeschines to
+destroy
+even those who had perished. And what he poured in, having stood apart the
+mouth with certain instruments, after these things he spoke out and the god
+bore witness many times later, but having thrown in nevertheless, the belly of
+the one was at once re 10.=1.13= leased from pollution, and he saw the air and
+recognized those belonging. And Aeschines, having buried by this one work at
+least the things of the sins that had come about before, was both reverenced
+under the one saved, and 10.=1.14= of those being pleased that he has been
+saved. And he, when all worshipped him upon such an action, sailed off into
+Chios, except as many as at least having remained toward a strengthening of
+the body he gave upon again of the power of the drug, and then the one saved
+came together accurately with the one who saved. 10.2.1 And the most divine
+Prohaeresius, not yet having seen the writer, but even himself all but already
+lamenting, when he inquired this irrational and unspeakable-out safety, having
+called over the most powerful and most noble of the associates and beside whom
+a work of strength of hands was praised, "I have suffered something," he said
+toward them, "upon the child who was saved, and yet not yet having seen him,
+but nevertheless I suffered when he was perishing. 10.2.2 If then you wish to
+grant something to me, cleanse this one with the public bath, having spared
+all mockery and play, 10.2.3 as if wiping some child of mine." And these
+things
+at least held thus and more accurately in the times according to that man will
+have been said; nevertheless the writer, agreeing that the things into him
+have obtained of a certain god's providence, from the zeal of Prohaeresius
+will stand off nothing into the whole about the man from the truth, if at
+least the discourse of Plato has been fixed, that truth leads all good things
+for gods, and all for humans.
+10.3.1 And for Prohaeresius (for let the discourse be borne upon him) the
+beauty of the body was such, and yet being old he was, as both to be at a loss
+whether anyone upon age thus
+has become beautiful, and to wonder at the power of the beauty that toward so
+great a body 10.3.2 through all things it sufficed into the finest moulding;
+and the greatness was as great as one would not believe, but would guess
+scarcely. For he appeared to have stood up into a ninth foot, so that he
+seemed a colossus, being seen beside the greatest of the humans according to
+himself 10.3.3. And when the daimon had stood him up young from Armenia, and
+had crossed him over toward Antioch (for he did not desire at once of Athens,
+and the lack of the moneys pained beside; for having become well from above,
+he was unfortunate in this), and having been pushed toward Ulpian mastering of
+Antioch upon discourses, and having gone forward, immediately he was among
+the firsts 10.3.4. And having associated with that man not a little time, he
+stretched upon Athens and Julian violently, and again at Ath 10.3.5 ens he was
+first. And Hephaestion followed with him, both loving one another altogether
+and very, and being contentious with one another into poverty and about the
+firsts in discourses. One cloak then at least was present for them and a
+philosopher's cloak, and nothing more, and somewhere three or four mattresses,
+the home dye with the 10.3.6 thickness through time giving up. It was over
+then for them to be both one of humans and two, just as the myths say Geryon
+was composed from three; and those men too were two 10.3.7 and one. For when
+Prohaeresius appeared in public, Hephaestion was unapparent lying down in the
+mattresses, and exercising himself together about the discourses; and the same
+things also happened for Prohaeresius when Hephaestion appeared; so great a
+certain lack held them. 10.3.8 But nevertheless Julian inclined the soul upon
+Prohaeresius, and toward that man the ears stood up for him, and he feared
+down the greatness of the nature. And when, Julian having gone away, a love of
+the succession of the advantages upon the discourses held Athens they announce
+upon the mastery of the sophistic many others too, so that it was a crowd even
+to write these 10.3.9 things. And having been approved by all judgments there
+are elected both Prohaeresius and Hephaestion and Epiphanius and Diophantus,
+Sopolis from the stuffed-beside and neglected 10.=3.10= lack into the number,
+and a certain Parnasius from the cheaper. For it was necessary that there be
+many, according to the Roman law, at Athens 10.=3.11= some speaking, and some
+hearing. And when these had been elected, the cheaper had the name, and the
+mastery was as far as the boards and of the platform upon which they went
+forward, but into the more powerful the city was immediately divided, and not
+the city only, but the nations under Romans, and the faction for them was not
+about discourses, but over whole nations upon the 10.=3.12= discourses. For
+the east just as some prize had been taken out clearly for Epiphanius, and
+Diophantus had obtained Arabia as lot, and Hephaestion having feared down
+Prohaeresius went away from both Athens and humans, and for Prohaeresius all
+Pontus and the things neighboring there sent up the associates, as if
+wondering at the 10.=3.13= man as a household good; and all Bithynia too was
+added and Hellespont, and as many things as over Lydia, stretching through the
+now so-called Asia upon Caria and Lycia, are marked off toward Pamphylia and
+the Taurus, and all Egypt was a household lot of the rule upon the discourses
+[and] for him, and as many things as, being dragged over Egypt toward Libya,
+have both the unknown end 10.=3.14= and the inhabitable. And these things have
+been said as upon more, since, the accurately at least, the nations also had
+corruptions in certain few youths, either having migrated beside others or
+somewhere even 10.=3.15= according to beginnings having been deceived he went
+toward another. And toward the greatness of the nature of Prohaeresius, when a
+youthful and very violent combination came about, the combination of all the
+others was strong into so much, that it worked the man exiled of Athens having
+bribed the proconsul, and they themselves had the em 10.=3.16= pire upon
+discourses. And he even toward the flight with strong poverty just as
+Peisistratus having fallen out came down the second; but the one
+through wealth, and for Prohaeresius the discourse alone sufficed, just as the
+Homeric Hermes upon the tent of Achil 10.=3.17= les even among the enemies
+sending Priam beside. And a certain good fortune also was with him having set
+upon the mat 10.4.1 ters a newer proconsul indignant according to fame upon
+the things coming about. And he, a king having entrusted thus, and a potsherd
+having fallen over, came down the second into Athens, and the enemies, having
+been rolled the second again and having coiled themselves together according
+to themselves, stood up and toward the future equipped 10.4.2 other devices.
+And they were in these; and when those preparing the return led forward,
+Prohaeresius having come down (and these things the Lydian Tuscianus being
+present announced accurately, who would have been Prohaeresius, if
+Prohaeresius were not), having come down nevertheless, he finds, just as some
+Odysseus having become present through a long, few of the companions, among
+whom Tuscianus also was, being healthy, and, upon the unbelievable of the
+10.4.3 wonder, those looking toward that man; and having found, and having
+been filled of good hopes "wait around," he says, "the proconsul"; and he came
+quicker than hope. And having arrived at Athens, 10.4.4 he both called the
+sophists together, and disturbed through all things. And they came together
+scarcely and on foot. And necessity calling, both problems were thrown forward
+for them, and each of them having been borne according to power, the clappings
+being completed from invitation and preparation, they were released, and
+faint-
+heartedness held the friends of Prohae 10.4.5 resius. And the proconsul,
+having
+called them together the second as upon honors, orders all to be held down,
+and he suddenly calls in Prohaeresius. And they were pre 10.4.6 sent not
+knowing the things about to be. And the proconsul "I wish," shouted up,
+"having
+thrown forward one inquiry for all you, to hear of all you today; and after
+you, or however 10.4.7 you wish, Prohaeresius also will speak." And when they
+had asked off the matter manifestly, and had brought forward the things of
+Aristides with much consideration and toil (for it was necessary that they say
+nothing proper), having brought forward nevertheless that they are not of
+those who vomit but of those who are accurate, the proconsul having shouted
+into the second "speak," he says 10.4.8 "O Prohaeresius." And he, having
+conversed from the seat into a certain pre-contest not ungraciously, and
+having raised how great the improvised discourse is, stood up boldly upon the
+contest. Here the proconsul was ready to throw forward a certain definition,
+and he, having 10.4.9 brought up the face, looked around in a circle the
+theatre. And when he saw the hostile much, and the friendly of a little and
+es 10.=4.10= caping notice through, he became according to discourse more
+faint-hearted; but when the daimon dancing together with him boiled, looking
+around all things, he sees covered together about the last rim of the theatre
+two certain men of those worn about rhetoric and under whom he had suffered
+most of the evils, and having shouted up "O gods," he says, "here the
+excellent and wise. Order these for me, proconsul, to throw forward; for
+perhaps that they were im 10.=4.11= pious they will be persuaded." Those then,
+having heard these things, both sank down into the crowd of those sitting, and
+were eager 10.=4.12= to escape notice through. And the proconsul, having sent
+through certain of the soldiers, led them around into the middle; and having
+set from a certain turning-forward the throwing-forward of the so-called
+definition, when those, having considered a certain brief time and having
+conversed toward one another, brought out the roughest of the things they knew
+and most paltry, and this a private one, and not passable for rhetorical pomp,
+he looked under at them bull-like, and toward the pro 10.=4.13= consul: "what
+just things I ask before the contest, these I supplicate you to give"; and
+when he said that he will miss of no just thing, "I think it worthy," he says,
+"that those who write swiftly be given to me, and that they stand according to
+the middle who according to day signify off the tongue of Themis, and today
+will 10.5.1 serve under our discourses." And when he entrusted the peak of the
+writers to go forward, they stood from both sides ready into the writing, and
+the
+thing about to be no one knew; and when he said that "I will also ask another
+heavier," then having been or 10.5.2 dered to speak, "let not even one clap
+me," he says. And when this too was put upon all with much fear, Prohaeresius
+begins to speak copiously, resting each period according to the clapping, and
+the of-necessity Pythagorean theatre being broken down under the wonder was
+full through of bellowing and groaning. And as the discourse advanced, and the
+man was borne over every discourse and every human glory, he goes forward into
+the other part and fills together the constitution; 10.5.3 and being inspired
+and leaping, as if letting go the remaining part as undefended, he sent the
+discourse upon into the opposite hypothesis. And those writing scarcely
+followed, and the theatre scarcely endured to be silent, and there was a
+multitude of the things said. Having turned the face into those writing, "see
+accurately," he said, "if I remember all these things which having taken
+beforehand I said"; and not even having slipped about one diction, he
+announced the same things a second. 10.5.4 Neither did the proconsul here
+guard his own laws, nor the theatre the threats of the ruler; and having
+licked around the breast of the sophist just as of an inspired statue all
+those present, some reverenced feet, and some hands, 10.5.5 and some said a
+god, and some a type of Hermes of Discourse; and the rival-craftsmen having
+been relaxed through envy lay, and certain of them not even lying neglected
+the praises. And the proconsul even spear-bearing with all [or of the powers]
+from the theatre 10.5.6 sent him beside. After these things no one spoke
+against, but as if struck under a thunderbolt, all conceded into being for the
+stronger. And in time later bringing themselves up, just as the heads of the
+Hydra, they were set upright toward the household and were raised through, and
+with expensive tables and clever little servant-girls baiting certain of those
+in prime, just as those of kings having been conquered in a lawful and upright
+battle, having come together in the resourceless into the last flee down upon
+light-armed and slingers and naked ones and the cheap auxiliary, not honoring
+these from the beginning, nevertheless through necessity 10.5.7 honoring
+these;
+thus those too, having been fluttered toward a necessary ally-force, fitted
+such plots, shameful, but they 10.5.8 were unenvied, if anyone loves himself
+even badly. They had then 10.5.8 a multitude of companions, and the sophism
+met
+them according to discourse. And that of Prohaeresius seemed to be a certain
+tyranny, and the virtue of the discourses seemed 10.5.9 to be fortunate well;
+for either all those having mind chose him, or those who had gone toward
+immediately had mind that they had chosen Prohaeresius. 10.6.1 And according
+to
+these times the imperial company of the court brought a man both a lover of
+glory and of discourses. For he was from the city Berytus, and he was called
+Anatolius; and those envying him also set Azutrion as a nickname, and what the
+name wishes to signify let the ill-starred 10.6.2 chorus of the stages know.
+And Anatolius, having become a lover of glory and of discourses, obtained
+both;
+and having arrived at the peak of the legal education being completed, as if
+having Berytus as fatherland which sits under as mother for such educations,
+and having sailed through into Rome, and having been filled of spirit and of
+discourses having height and weight, and having slipped in into the palace, he
+was very quickly first, and having gone through every office, having been in
+good repute in many offices (for even those hating him wondered), going
+forward he even drove into the prefect of the court; 10.6.3 and the office is
+an unpurpled empire. And having obtained according to his own ambition a
+fortune worthy (for the so-called Illyricum had been entrusted), and being a
+lover of sacrifice and especially a Hellene (and yet the common movement bore
+toward other turnings), it being possible for him to go toward the critical of
+the office, and to administer each toward what he wished, but he, a certain
+golden madness having taken him under to see Hellas, and the images of the
+discourses through the education upon the perception, with so
+conspicuous a dignity being borne, to grasp together, and to draw the
+appearing being thought from the ancient images upon the sight, 10.6.4 he was
+eager toward Hellas. And having sent forward at least a certain problem for
+the sophists (and Hellas was struck at him, hearing both the spirit and the
+education, and that he was uninclined and unbribable), he ordered all to
+practice the same 10.6.5 problem. And they, practicing this itself and
+according to each day plotting upon one another, nevertheless (for necessity
+ordered) were judged together, and about the so-called issue of the problem
+having attempted many discourses against in one another (the writer knew
+nothing more laughable of this matter), they were judged through from one
+another each, through ambition each praising the proper opinion and being
+ambitious toward the 10.6.6 youths. And when Anatolius going down upon Hellas
+was heavier than that Persian and much-hymned army, and the danger was beside
+the feet not for the Hellenes but for those sophisting, here all the others
+(for a certain Himerius a sophist from Bithynia had also been added to them;
+the writer did not know this man, except as many as at least through
+writings), they were nevertheless all distressed, and they were stretched
+beside with much toil, each 10.6.7 practicing the issue that seemed good. Here
+Prohaeresius, taking heart in the nature, was heavy neither being ambitious
+nor bringing out the se 10.6.8 cret. And Anatolius from nearby, and he
+sojourned in at Athens. And having sacrificed boldly and having gone around
+all the temples, where a holy ordinance ordered, he called out the sophists
+upon the contest. And those present each was pressed as first into the
+display; 10.6.9 so a self-loving some matter is a human; and Anatolius both
+laughed at those clapping, the youths, and pitied the fathers of the education
+of the children under whom they are educated. He called 10.=6.10=
+Prohaeresius;
+for he alone had been left; and he, having tended a certain one of his
+household and of those who knew all things out, having learned the issue which
+he praises (for this the writer said was laughable in the discourses above),
+and yet it was worthy of no discourse, nor was it necessary that Anatolius
+conquer these things, nevertheless he hearkened toward the calling at once,
+and having disposed the contest toward that issue, he sufficed into so much
+toward the beauty of the discourse, that Anatolius both leaped, and the
+theatre was bro 10.=6.11= ken with shouting, and there was no one who did not
+take him up a god. Having honored that man then especially he appears, and yet
+the others scarcely 10.=6.12= having thought worthy of his own table. (And
+Anatolius was a sophist in the things according to banquet and toward a
+symposium; nor was the symposium without discourse and uneducated. But these
+things at least came about before many times, and thus the 10.=6.13= writer
+was
+accurate in the hearing. And Anatolius even over-wondered Milesius, who was
+from Smyrna of the Ionic, and having obtained a finest nature, having thrown
+himself into a certain unambitious and scholarly life, was both toward temples
+and neglected marriages, and practiced all poetry and melody, and as much of
+poetry as Graces praise. Thus then he took Anatolius, so that he even
+10.=6.14=
+called the human a Muse. And of Epiphanius who was sophisting he used to say
+the inquiries were divisions, comedying the one educating into small-speaking
+10.=6.15= and excessive accuracy). And about their disagreement according to
+the issue, mocking through all, "if more," he said, "†than the thirteen† the
+ones sophisting happened, perhaps they would have invented besides other
+issues, in order that they might practice one problem differently." And
+Prohaeresius for the sake of 10.7.1 all he over-wondered alone. And
+Prohaeresius happened not before much time to have become sent-over by the
+ruling Constans into the Galatias, and to have mastered of the one ruling into
+so much, that he was table-companion together with the most honored for him,
+and as much at least of the humans there then as did not arrive to review the
+discourses and to wonder at the secret things of the soul, transferring the
+striking toward the
+sight and the things appearing, they were struck at both the beauty of his
+body and the height, as if looking up scarcely into a certain statue and the
+colos 10.7.2 sus; so all things were over a human. Seeing the endurance at
+least, they took him up as a certain really unaffectable and iron one, that
+having a thin cloak, unshod, he set the Galatian winters as an excess of
+luxury 10.7.3 and drank the Rhine almost frozen; and the whole life at least
+he
+completed thus, having become untried of a hot drink. He sent him off then the
+emperor into the great Rome, being ambitious of what sort he obtained as lot
+to rule; and they did not have what they will wonder at, so all things were
+beside the human nature. 10.7.4 And having wondered at many things upon many,
+and having obtained praises, having prepared a bronze statue equal-measured,
+they set it up having inscribed: THE RULING ROME THE ONE RULING OF THE
+DISCOURSES.
+10.7.5 And the emperor, when he was going away again at Athens, also gave to
+ask a gift. And he asked a thing worthy of his own nature, having overturned
+not few nor small islands into a carrying-off of tribute for Athens. And he
+both gave these things, and added the greatest of the dignities, having
+entrusted that he be called camp-ruler, in order that no one might be
+indignant if he brought so many things from the public 10.7.6. This gift it
+was
+necessary that the prefect of the court confirm (for the prefect had newly
+been present from Galatia); and after those contests upon the discourses,
+having gone beside Anatolius, he thought it worthy to confirm the grace, and
+he called <not> advocates only, but almost all the educated 10.7.7 from
+Hellas;
+for all were at Athens through the sojourn. And when the theatre was filled,
+and Prohaeresius thought it worthy that the advocates speak, the prefect,
+having run past the opinion of all, and testing Prohaeresius into the
+improvised "speak," he says, "O Prohaeresius; for it is shameful that another
+even speak and praise an emperor when you are present." 10.7.8 Here
+Prohaeresius, just as a horse called into a plain, brought forward the
+discourses upon the gift, both Celeus and Triptolemus and the sojourn of
+Demeter upon the gift of the grain, and fastening the grace of the emperor to
+those narrations, very quickly he transferred the things coming about into the
+ancient swelling, and he danced upon the things said, displaying into the
+hypothesis; and the test of the discourses was ambition for him. 10.7.9 And a
+marriage fell together for him from Asia, of the city of the Trallians;
+Amphiclea the name for the woman; and two little daughters came about for
+them, differing according to the age a time as much as is spent down into
+conceiving and coming about. And having gone forward into a season in which a
+child is some all-fine and blessed matter, and having shaken up the soul of
+the father under pleasure, in few days they left behind both the parents, so
+that the affection all but even 10.=7.10= threw Prohaeresius out of the
+fitting
+reasonings. But toward this at least the muse of Milesius sufficed, having
+kindled up the harmonic graces, and having fallen <beside> many things with
+Aphrodite, and calling up the reasoning. And for the Romans thinking it worthy
+to send off a proper associate, Prohaeresius sent out Eusebius, who was from
+Alexandria (he seemed to fit in otherwise for the city, knowing both to
+flatter and to fawn the outstanding) but he appeared 10.=7.11= factious
+according to Athens. And at once he wished to make the according to himself
+greater, sending a man not uninitiated of political bad-art; since the things
+according to rhetoric at least it suffices 10.=7.12= to say so much that he
+was
+an Egyptian. And the nation go mad especially upon poetry, but the serious
+Hermes has withdrawn from them. 10.=7.13= And Musonius stood up against him,
+being an associate of him into sophistic (about whom many things through the
+other <actions> have been written in the detailed), and when at least he
+raised against, having learned down toward whom he has the contest,
+very quickly he jumped down upon the political. 10.8.1 And when Julian was
+ruling, being shut out <in> a place of educating (for he seemed to be a
+Christian) seeing together the hierophant as some Delphic tripod laid up
+toward the foresight of the thing about to be for all those needing, by a
+certain 10.8.2 strange wisdom he went around the foreknowledge. For the
+emperor was measuring the land for the Hellenes into the tribute, in order
+that they might not be weighed down; and Prohaeresius thought it worthy to
+learn out from him beside the gods, whether the things of the philanthropy
+remain firm. And when he denied, he knew the thing about to be done, and he
+was more well-spirited. 10.8.3 And the writer according to this time,
+completing into somewhere a sixteenth year, both went forward into Athens and
+was mixed in with the associates; and having been loved by him just as a
+genuine child, he was pressed after a fifth year into Egypt, but the fathers
+calling forced him out upon Lydia; and for that man sophistic was set forward,
+and toward this 10.8.4 all called him out. And Prohaeresius withdrew from
+humans after not many days; having become so great and such and having filled
+through of his own discourses and associates the inhabited world.
+EPIPHANIUS:
+this man was from Syria, and seeming to be most clever about the distinctions
+of the inquiries, but more slack in the discourse, nevertheless he both
+sophisted against Prohaeresius and went into much of glory; for the human does
+not bear to wonder at one, but having inclined and being worsted under envy,
+it sets another against those who much-master and stand over, just as in
+physical taking the beginnings from the opposites. 11.1.2 And he died not
+having arrived into deep old age, having been diseased in the blood; and the
+woman suffered this same thing, having become most beautiful of all. And there
+was not a child for them. The one writing these things did not know this man,
+he having gone away long beforehand of the sojourn.
+DIOPHANTUS.
+And Diophantus was from Arabia, and he forced himself into the technical; and
+the same glory of humans raised that man too against Prohaeresius, as if some
+Callimachus should stand up Homer. But Prohaeresius laughed at these things,
+and had the humans what they are in a part of a school 12.1.2 [in]. The writer
+knew this man, and heard him at least often speaking in public. And to set
+beside the writing of the things said and remembered nothing seemed to hold
+well; for the writing 12.1.3 is a memory of men worth speaking of, not a
+mockery. But nevertheless he is said to have said a certain funeral of
+Prohaeresius (for Prohaeresius went away beforehand), and they remember
+through that he spoke upon something such upon Salamis and the Median things:
+"O 12.1.4 Marathon and Salamis, now you have been silenced. What a trumpet of
+your trophies you have lost." This man left behind two children who rushed
+upon luxury and wealth.
+SOPOLIS.
+And of Sopolis the one writing these things heard often. And he was a man
+forcing himself to bring the discourse up into the ancient character, and
+reaching to touch the healthy Muse. But he struck the door sufficiently, and
+it was not opened often; but if somewhere even something sounded from there,
+something thin and weak slipped beside from inside of the 13.1.2 divine
+breath; and the theatre had gone mad, not even bearing the pressed Castalian
+drop. For this man a child came about; and the child has stepped upon
+the throne
+they say.
+HIMERIUS:
+Bithynia brought this man, and the one writing these things did not know him;
+and yet he was according to those times. But having crossed over toward the
+emperor Julian according to display, as, through the emperor's grief into
+Prohaeresius, about to be seen gladly, when Julian was leaving behind the
+human, he spent through in the going-abroad, and, 14.1.2 Prohaeresius having
+died, he was pressed at Athens. And he was a man easy to speak and fitted
+together; and the composition has a clapping and a political sound; and
+somewhere scarce he even stands beside the divine Aristides. And he died upon
+a daughter, the sacred disease having occupied him toward a long old age.
+PARNASIUS.
+In these times there was also Parnasius upon the educational throne, having
+easily-numbered associates; and not even having been robbed of the name at
+least.
+LIBANIUS.
+And Antioch, the first <of the> cities of the so-called Coele Syria, brought
+Libanius, a work of Seleucus nicknamed Nicator. And he was of those well born
+16.1.2 and completed into the peaks. And being still young and master of
+himself, fathers having left him behind, having arrived at Athens, he neither
+went toward Epiphanius as from Syria who had greatest glory, nor did he go to
+Prohaeresius, as about to be covered in the multitude of the associates and
+<the> greatness of the glory of the teachers. And having been ambushed under
+those of Diophantus, he as 16.1.3 signed himself to Diophantus; and, as those
+who have learned the man down altogether used to say, in the associations and
+being-with, having learned together the thing that had come about, he was
+present least, and he was not some annoying to the teacher; and he himself
+held himself together upon the practices, and forced himself out toward the
+ancient type, moulding through the soul 16.1.4 and the discourse. Just as then
+those sending often, there is when even hitting the mark, and the continuous
+of the practice for them through the exercise of the instruments as upon the
+most grew not a science of good-aiming, 16.1.5 but the art; thus also
+Libanius, from the zeal and the setting-beside according to imitation,
+fastening himself toward and scraping beside finest leaders, following the
+ancients and those whom it was necessary, both stepped a finest track and
+enjoyed of the road 16.1.6 likely things. And having taken heart upon speaking
+and having persuaded himself that he would be a rival for those thinking great
+upon this, he did not choose to be hidden about a small city, and to fall down
+together with the dignity of the city, but having crossed over upon the city
+of Constantine just going forward into greatness and flourishing, and needing
+both works together and discourses which will adorn it down, very quickly even
+according to it he shone out, having appeared both finest into association and
+most graceful, and charming into a display of discourses. 16.1.7 And when a
+certain slander came about for him about the youths (it was not lawful for me
+to write, setting the writing up into a memory of those worth speaking of)
+having
+fallen out of the city of Constantine, he occupied 16.1.8 Nicomedia. And there
+too, the fame following upon and running beside, having been beaten off from
+it through swift things, he returns upon his own fatherland and city, and
+there he lived the whole time, it having become long and stretching beside.
+16.1.9 Memory then the fitting even in the books according to Julian the
+writing has made for him, and the things according to each  now will go out
+upon. No one of those collected
+for Libanius 16.=1.10= and thought worthy of association went away unbitten;
+but
+immediately of what sort he was in the character had been known, and he saw
+together both the things of the soul of him inclining upon the worse and the
+better, and he was so great into the moulding and the likening-out into each,
+that the <octopus> was nonsense for him, and each of those being with took up
+to see another himself. Those who had been tried then used to say that he was
+a certain tablet and impression 16.=1.11= of all-sorts and varied characters;
+nor would he ever have been captured, when many and different had come
+together, with what he is more delighted, but upon the opposites he was
+praised beside those driving the opposite life, and every one thought him to
+wonder at their own; so 16.=1.12= a many-formed some matter and other-toward-
+other he was. And this man too neglected marriage, except as many as at least
+a certain woman was with him, not from a like dignity. 16.2.1 And the
+discourse
+for him, about the practices, altogether weak and dead and breathless, and
+this man at least appears not to have obtained a teacher; for even most of the
+16.2.2 common and known to a child about the practices he did not know; but
+about letters and other associations, he sufficiently brings up and is raised
+through upon the ancient type, and the writings have been struck down with
+grace at least and comic buffoonery, and the cleverness runs around everywhere
+serving the discourses, and what all the Syrophoenicians have according to
+the common in terview sweet and granted, this it is possible to take from that
+man with 16.2.3 education; the Attic then call it nostril and urbanity; and he
+practiced this as a peak of education, having been dragged wholly from the
+ancient comedy into the announcing, and becoming of the pleasant according to
+door and enchanting 16.2.4 the hearing. And an excess of education and of
+reading it is possible to find in the discourses, meeting with dictions that
+have been tongued down. The trees of Eupolis then, Laispodias and Damasias, he
+would not have let past, if he knew the names of the trees, 16.2.5 with which
+now humans call them. Thus having found a certain diction excessive and
+escaping notice through through antiquity, as taking down some ancient
+dedication, he both brought it into the middle and having cleaned through he
+beautified it, both moulding around a whole hypothesis for it and thoughts
+following, just as certain luxurious and servant-girls 16.2.6 for a newly-rich
+mistress and one having been scraped off old age. The most divine Julian then
+wondered at him upon these things, and as much as is human wondered at the
+grace in the discourses. And they carry around most books of him at least, and
+the one having mind 16.2.7 collecting each of them will know. And he was
+sufficient even to associate with political matters, and beside the discourses
+to dare together 16.2.8 certain other things and to work easily toward a more
+theatrical delight. And when the emperors after these things also added for
+him the greatest of the dignities (for they ordered him to have the prefect of
+the court as far as an appellation), he did not receive it having said that
+the sophist 16.2.9 is greater. And this is not a little praise, that a man
+lesser than glory was worsted of the about the discourses alone, and the
+16.=2.10= other he took up as popular and banausic. But this man too died
+having arrived into a longest old age, and having left behind not a little
+wonder for all. [And the one writing these things did not associate with this
+man, other hindrances at other times of an insult of fortune having fallen
+together.]
+ACACIUS.
+Caesarea of Palestine brought Acacius, and he was one who rose together with
+Libanius according to the same times; and being full of sophistic tension and
+breath, if any other, and the diction with clapping turned upon toward the
+ancient manner; and having risen together with Libanius, he shook down the
+17.1.2 firsts, and was over strongly. A little book then at least has been
+written by Libanius about a certain good-nature, having been set out wholly
+toward Acacius, in which he is manifest upon being mastered
+blaming the greatness of that man's nature, and himself witnessing for himself
+the 17.1.3 <at>tention and accuracy about the little dictions; as if not
+knowing that neither for Homer was there a care of every metre, but of a
+certain good-voicedness and melody, nor for Pheidias of taking the finger and
+the child toward praise of the goddess, but to tyrannize the one according to
+the hearing, <and the other according to the sight>, and the cause to exist
+unfindable or hard to judge, just as in the fine and lovable bodies, not all
+wonder at the same, and the one captured does not know from where he has been
+taken. Acacius then, having run up into the finest, and having furnished much
+glory for himself as about to master of Libanius, went away being still young;
+and the humans, as much as is serious in them, wondered at him as if having
+arrived into old age.
+NYMPHIDIANUS.
+And Nymphidianus was from Smyrna, and Maximus the philosopher was a brother
+for him, and Claudianus another, himself too philosophizing finest. And a man
+not having shared of the education and leading at Athens, but having become
+18.1.2 into rhetoric and worthy of the name of the sophists. And the emperor
+Julian even entrusted to him the imperial tongue, having set him upon the
+letters, as many as are interpreted through the Hellenic discourses. And he
+was stronger according to the so-called practices and the inquiries, but the
+things in prefaces and in having 18.1.3 conversed no longer like. And an end
+fell together for him having become an old man, and after the brother Maximus.
+ZENO.
+And physicians flourished according to these times, both Zeno the Cyprian,
+having composed a much-hymned teaching (but he fell upon the times of Julian
+the sophist) and after that man, according to the times of Prohaeresius, the
+successors of Ze 19.1.2 no. And Zeno practiced both to speak and to do medi
+19.1.3 cine. And of the named associates of him having been allotted, some the
+other, and some both, were left behind; nevertheless they mastered even
+according to what one inherited of work and of discourse.
+MAGNUS.
+This man had become from Antioch, of the .1.2 over the Euphrates, which they
+now name Nisibis; and having become a hearer of Zeno and †by the nature about
+the bodies of the prohaeretic,† having dragged Aristotle together into being
+able to speak he forced the physicians to be silent in the speaking, but he
+did not seem to be able to tend .1.3 just as to speak. Just as then the
+ancients say Archidamus, being asked if he would be more powerful than
+Pericles "but even if I throw down Pericles," to say "that man saying that he
+has not been thrown down, has conquered," thus also those tended under oth
+.1.4 ers Magnus displayed still being diseased. And those being healthy and
+strengthened agreed grace to those who tended; but he mastered of the
+physicians as far as the mouth and of the questions. .1.5 And a common school
+had been taken out for him according to Alexandria, and all sailed and went to
+him, as having wondered at something only or about to take of the fine things
+beside that man. .1.6 And it did not happen for them to miss; for either they
+gained the chatting, or they also took toward the being able to do something
+and to work through their own care.
+ORIBASIUS. Pergamon brought Oribasius, and this immediately thus completed
+toward glory, just as for those who have become at Athens, whenever they are
+in good repute according to the discourses, much discourse goes up that Attic
+Muse and the good is household. And having been well born of both, from
+a child he was distinguished, having shared of all education which both
+brings together and completes toward virtue. 21.1.2 And going forward into
+age, he both became a hearer of the great 21.1.3 Zeno, and a fellow-student of
+Magnus. But having left Magnus wrestling with the thoughts, himself being
+finest even in these, and having run out toward the peak of medicine, he
+imitated the ancestral god, as much as is possible for a human to come un
+21.1.4 der into the imitation of the divine. And having become thus
+distinguished from a youth, Julian going forward into the Caesar snatched him
+together upon the art, and he had so much advantage in the other virtues, that
+he even displayed Julian an emperor; and these things 21.1.5 at least have
+been
+said more accurately in the things according to that man. But neither is a
+lark, the proverb says, without a crest, nor was Oribasius without envy. But
+through the excess of the glory, those ruling after Julian both took away of
+the substance, and wishing to destroy the body, they shrank from the work, but
+they 21.1.6 did otherwise what they were ashamed of; for they set him out into
+the barbarians, just as Athenians ostracized those outstanding according to
+virtue 21.2.1. But for those the law said the throwing out of the city, and
+nothing was added; and those ruling even put upon the handing over to the most
+raw barbarians, 21.2.2 making those masters of their own wish. And Oribasius,
+having been set out into the enemy, displayed the greatness of the virtue, not
+being marked by places, nor being <marked> around by characters, but
+displaying the settled and remaining according to its own working, even if it
+appears 21.2.3 elsewhere and beside others, just as they say the numbers and
+the lessons. For he was immediately in good repute beside the kings of the
+barbarians, and was among the firsts, and being looked at according to the
+rule of Romans he was reverenced beside the barbarians just as some god, some
+saving up from chronic diseases, and some 21.2.4 stealing through from the
+gate of death. And the of the so-called disaster was for him a pretext of all
+good fortune, so that even those ruling, having given up fighting toward the
+power of the man through all things, conceded that he return. 21.2.5 And he,
+when he obtained of the return, having himself only instead of all substance,
+and displaying the wealth from the virtues, both led a woman of those
+distinguished according to wealth and race, 21.2.6 and had four children, who
+both are and may they be; and he himself according to this season of the
+writing both is among humans and may he be; but having recovered the ancient
+wealth from the public, the emperors after these things having con 21.2.7
+ceded, as upon the former judgment being unjust. These things then are and
+hold thus. And to meet with Oribasius is of a man philosophizing nobly, so as
+to know what he will wonder at before the others; 21.2.8 so great a certain
+harmony and grace going forward through all things and running beside in the
+associations is.
+IONICUS.
+And Ionicus was from Sardis, and of a father who had practiced medicine
+conspicuously; and having become a hearer of Zeno, he both arrived at the peak
+of care, and Oribasius at least 22.1.2 happened to be a wonderer of him. And
+having become most experienced of all names of medicine and of matters, he was
+stronger in the trial according to each, both having become extremely more
+skilled of the parts of the body, and ex 22.1.3 amining of the human nature.
+Therefore neither did a preparation of a certain drug escape him and a
+judgment nor as many things as the most technical plaster into the wounds,
+some holding upon the inflow, and some 22.1.4 dispersing the thing that has
+fallen in, escaped that man. But even to bind the part that has suffered, †not
+to split with the parts† he was both most inventive and 22.1.5 examined
+through. He knew then both works and names of these, so that those thinking
+great upon tending stood out toward the
+accuracy, and to agree manifestly that meeting with Ionicus, they learn the
+things said beside the ancients by work, and they lead them out toward the
+use, just as names being hidden as far as the writing. 22.2.1 And being such
+according to the science, he was also strong toward all philosophy, and toward
+divinizing, as much as from medicine comes into humans of those toiling into
+foreknowledge, and as much as, being beside-bacchic from philosophy, leaves
+off and is scattered 22.2.2 into those able to receive under and to save. And
+there was a care for him even of rhetorical accuracy, and of an art of all
+discourses; therefore he was not even uninitiated of poetry. But he died some
+little before the writing upon two children worthy of discourse and of memory.
+22.2.3 And a certain Theon in Galatia according to these seasons obtained much
+glory. 22.2.4 And one must go back upon the philosophers again from where we
+went out.
+CHRYSANTHIUS.
+Chrysanthius became cause of this writing, both having educated the one
+writing these things from a child, and having saved through into an end, just
+as some law, the 23.1.2 goodwill about him. But nothing at least through this
+will be said toward grace; for that man both honored truth especially and
+educated this first, and we will not destroy the gift that has been given,
+except if somewhere we will even let under, leading upon the more deficient,
+since we agreed these things together. 23.1.3 Chrysanthius then was of those
+completing into a council, and of those being borne among the firsts upon good
+birth; and a grandfather had come about for him, a certain Innocentius, both
+having gone into not little wealth, and having obtained as lot a glory over a
+certain private one, who at least had a law-giving power having been entrusted
+beside those then ruling 23.1.4. And books of him at least are saved some
+bearing into the tongue of Romans, and some into Hellas, both interpreting the
+examining and deep of the judgment, and having taken together the grasp about
+these things for those wishing to won 23.1.5 der at these. And Chrysanthius
+himself, having been left behind young from the father, and having loved
+philosophy through divinity of nature, stretched together toward both Pergamon
+and the great Aedesius 23.1.6; and having met thirsty with one flourishing
+toward a sharing of wisdom, with open mouth, having put himself under, he
+filled himself of such a wisdom <not of the hap>pening, neither giving up
+toward a hearing any, nor appearing lesser than any into practice; 23.1.7 for
+he also obtained an unwearied and adamantine body, ac 23.1.8 customed to serve
+under into every exercise. And he, having shared sufficiently of both the
+discourses of Plato and of Aristotle, and having turned the soul toward every
+form of philosophy, and collecting every form, as he was healthy and strong
+about the knowledge of the things in the discourses, and by the continuous use
+he was ready toward the use of them, and he took heart toward a display of the
+thing having been set right, being able some things to say, and some to be
+silent, and toward being able to master, if somewhere he should be forced,
+happening more pompous, from here he let himself upon a knowledge of gods, and
+a wisdom of which Pythagoras both took thought and as many as emulated
+Pythagoras, both Archytas the ancient, and Apollonius from Tyana, and those
+who reverenced Apollonius, who 23.1.9 seemed both to have a body and to be
+humans. And toward these things at least Chrysanthius, having immediately run
+up and having grasped of a certain first hold, using the beginnings themselves
+as leaders, into so much he was lightened and raised up beside from the
+completion of the soul, as Plato says, that every form of all-sorts education
+existed for him at the peak, and every 23.=1.10= foreknowledge was set right.
+One would have said then that he saw the things that will be rather than told
+beforehand the things about to be, so he looked through and grasped together
+all things, as if being present and being with the gods. 23.2.1 And having
+spent a certain sufficient time about these things, and †having contended
+together† with Maximus some much, he left behind the partner. For the one
+having something contentious in the nature and hard to force out, standing
+against the signs that appeared beside the gods, asked other 23.2.2 things and
+forced toward; and Chrysanthius, <using> the first things being contemplated
+by little from a leading-beside walked upon the movement of the things given;
+then having obtained he conquered, and having missed wholly, he fitted the
+from human counsel to what appeared 23.2.3. Thus then even when the emperor
+Julian called both over through one calling, and the soldiers who had been
+sent brought upon with honor the Thessalian persuasion-necessity, when it
+seemed good to communicate the work to the gods conspicuously, so that even a
+private and banausic one might distinguish the signs, the god having forbidden
+the road, Maximus grew upon the holy things, and wailing upon the things being
+done with lamentations he pressed, supplicating the gods to obtain other signs
+and that the fated 23.2.4 be transferred; and when he stretched through many
+things at least upon many and inclined beside as Chrysanthius interpreted, the
+wish for him ending judged the things appearing, and the seeming 23.2.5 in the
+holy things appeared, the thing that appeared was not opined. Thus then the
+one set out that beginning-evil road and going-abroad, and Chrysanthius
+remained according to country. And first the emperor grieved upon the
+remaining, and somewhere he even suspected toward of the true things, that
+Chrysanthius would not have denied the calling 23.2.6 if he had not seen in
+something difficult in the things about to be. He wrote then even calling over
+again, and the invitations were not toward him only; and he led the woman to
+persuade the man together through the writings. And again there was a
+referring toward the divine beside Chrysanthius, and the things beside the
+gods did not cease being brought together into the same 23.2.7. And when this
+was often and <ceased being> the emperor a beggar, and Chrysanthius, having
+taken the high-priesthood of the whole nation, and knowing out the thing about
+to be clearly, was not heavy according to the authority, neither raising the
+temples, just as all ran together hotly and burning-around into these things,
+nor grieving certain of the Christians excessively; 23.2.8 but so great a
+certain simplicity of the character was, that according to Lydia the setting-
+right of the temples even all but escaped notice. When then the first things
+went elsewhere, nothing seemed to have been done newer, nor did some much and
+at once according to change appear, but reasonably all things had been spread
+together into a certain evenness and unmovedness, and he alone was wondered
+at, when all the others were being moved just as in a surge, and some having
+crouched down suddenly, and those formerly low having stood up; 23.2.9 he was
+wondered at then upon these things, that he was not only clever to foresee the
+things about to be, but also to use the things that had been known.
+23.3.1 And the whole character he was such, either having been born up toward
+the Platonic Socrates, or according to a certain zeal and imitation having
+come about for him from a child having been shaped together into that man. For
+both the appearing simple and artless sat unnarratable upon the discourses,
+and the Aphrodite of the words upon these 23.3.2 enchanted down the one
+hearing. And he was well-minded to all according to the association, and each
+of those going away, that he was being ambitious 23.3.3 more, went away having
+been persuaded. Just as then the finest and sweeter of the songs flow down
+tamely and gently toward every hearing and slip through and arriving through
+as far as the irrational, just as they say Orpheus, thus also a discourse of
+Chrysanthius was well-fitted for all, and in so many differences of characters
+it was 23.3.4 conspicuous and was fitted down. And he was hard to move about
+the dialectics and contentions, taking up upon these things most that humans
+23.3.5 are made rough; nor would anyone easily have heard him displaying the
+education which he had, and through this swelling toward the others and being
+puffed through, but he both wondered at the things said by them, even if they
+were said paltrily, and he praised the things being opined badly, just as not
+even hearing from the beginning, but having become into the agreeing-together
+through not grieving. 23.3.6 And if somewhere some one, of the firsts upon
+wisdom
+being present, a movement came about, and it seemed good to him to throw
+together something to the things said, all things were full of quiet, just as
+of humans not being present; 23.3.7 so they neither endured the questions, nor
+the definitions, nor the memories of the man, but they drew back, guarding
+themselves outside of discourse and of speaking-against, in order that they
+might not become 23.3.8 manifest missing. And many of those who had known him
+moderately, not having arrived through the depth of the soul, both accusing
+irrationality, and praising the gentleness only, when they perceived him
+conversing and unrolling himself into doctrines and discourses, thought this
+man some other 23.3.9 beside whom they knew; so some more other he appeared in
+the logical movements, both the hair bristling under for him, and the eyes
+interpreting the soul dancing inside 23.=3.10= about the doctrines. And having
+arrived into a long old age, he completed the whole life, having taken thought
+of none of the things according to humans other <or> of a certain household-
+management, or of farming, or of moneys as many as come beside justly. But he
+bore poverty more easily than others wealth, and he had used toward the way of
+life that fell beside, of swine things never, of the other meats tast
+23.=3.11=
+ing least, and tending the divine most tensely. And of <the> reading of the
+ancients he held fast, and youth and old age differed nothing, but having
+become over eighty years, he wrote so many things by his own hand, as many as
+scarcely others being young 23.=3.12= read. Of those writing then the peaks of
+the fingers had been bent in under the unceasing practice and use. And having
+stood up from the exercise, he both delighted in the public goings-forward,
+and having taken the one writing these things, he stretched out 23.=3.13= the
+walks long, but at leisure; and someone would have escaped notice having
+become over-pained in the feet, so he was enchanted down under the narrations.
+And he had used baths least, and 23.=3.14= nevertheless he seemed through all
+just having been bathed. And toward the meetings of the rulers the
+supernatural was not to be seen together coming about through boastfulness or
+conceit, but one would have taken up a simplicity of a man not knowing what
+authority is; so he conversed 23.=3.15= commonly with them and dexterously.
+And
+having educated the one writing these things being still young, when he
+returned from Athens, he loved him not less, but even added according to day
+to the differing of the goodwill, having conquered out into this, so that the
+writer in the dawn things was with others upon rhetorical discourses, and
+educated those needing, and a little over midday he was being educated, going
+beside the teacher from the beginning, the more divine and 23.=3.16=
+philosophic of the discourses; when neither the one educating wearied being
+with one loving, and for the one receiving out the lessons the work was a
+festival.
+23.4.1 And when the work of the Christians conquered out and occupied all
+things, through a long someone from Rome went in as ruler of Asia (he was
+named Justus), already an old man according to the age, noble and otherwise in
+the character, and not having been released from the ancient and ancestral
+constitution, but having emulated that fortunate and blessed manner, he was
+always toward temples, and hung from every divination, thinking 23.4.2 great
+that he both desired these things and set them right. This man, having crossed
+into Asia from Constantinople, and having occupied the leader of the nation
+(that man was called Hilarius) corybantizing together toward the desire, both
+stood up improvised altars in Sardis (for there were not there), and upon the
+tracks of the temples, if somewhere some track was found, he threw a hand,
+23.4.3 wishing to set them upright. And having sacrificed in public, he both
+sent and called together those from everywhere having glory upon education.
+And they were present quicker than to be called, both wondering at the man,
+and thinking it a season of their own display, and certain of them taking
+heart upon the flattery just as upon education, and through this hoping either
+honor or a little glory or silver to 23.4.4 gain off. When then a holy-working
+had been set forward in public,
+all were present, and the one writing these things was present; and Justus,
+having applied, and having fixed the setting of the eyes (and the victim lay
+in whichever figure it was), even asked those present: "what does the figure
+of the fall wish?" Here the flatterers were roasted beside wondering, that
+even from figures he is mantic, and they yielded to that man alone 23.4.5 to
+know these things; and the more solemn, having stroked down the beards with
+the peak fingers, and having made the faces gloomy through, and shaking upon
+the heads something heavy and quiet, looked 23.4.6 beside into the thing set
+forward, another saying another thing, and Justus, when he scarcely let up the
+laughter, having turned into Chrysanthius "and you what do you say," he
+shouted, "O most old?" And Chrysanthius, not having been disturbed through at
+all, said he condemned 23.4.7 all; "but if you wish even me," he said, "to
+speak about these things, what the manner of the divination is, if at least
+you know the mantic manners, say the former, and of what sort a form, what
+23.4.8 the inquiry is, and according to what method it has been asked upon.
+And if you should say these things, I would say where the appearing bears into
+the future. And before saying these things, it is banausic toward your
+question, the gods signifying the future, for me even about the question and
+the future to speak, fastening 23.4.9 the thing that will be to the thing that
+has come about; for thus the questions would come about two. And about two or
+more no one asks according to the same; for the different in the things marked
+off does not have one discourse." Here Justus shouted up as learning as many
+things as he did not know formerly, and for the rest at least he did not cease
+23.=4.10= being with him privately and drawing from the spring. And if certain
+others according to those times of those cried-around upon wisdom came into
+discourses with Chrysanthius according to fame, having been persuaded that
+23.=4.11= they are far from that cleverness, going away they went. And this
+Hellespontius from Galatia also suffered, a man finest through all things, and
+if Chrysanthius were not, having appeared first of all 23.=4.12=. For this man
+became a lover of wisdom into so much, that he went upon almost even the
+uninhabited, seeking if somewhere he might meet with someone knowing more; and
+having become full of fine works and discourses, he even arrived into the old
+Sardis through the association of Chrysanthius. But these things at least
+later. 23.5.1 And there came about for Chrysanthius also a child named upon
+the
+teacher who had come about for him according to Pergamon (and we made mention
+formerly of Aedesius), and the child from a child was some winged matter
+toward all virtue, and he did not share of the other of the horses, as Plato
+says, nor did the understanding weigh down for him, but having become violent
+toward lessons and too much sharp, and most sufficient toward a tending of
+gods, into so much he escaped through the human, that being a human he was in
+danger 23.5.2 of being wholly soul. The body then in the movements was so
+light of him, that it was unbelievable to write, and very 23.5.3 poetically,
+into how much height he was borne lifted. And the householdness toward the
+divine was so without working-out and easy, that it sufficed to put the crown
+upon the head, and looking up toward the sun to bring out oracles, and these
+unlying, and written 23.5.4 toward the finest form of inspired breath; and yet
+he neither knew metre, nor was he strong 23.5.5 into grammatical science, but
+a god was all things for him. And having been diseased in no way according to
+the marked-off life, about the twenty years he changed, and the father even
+then displayed through being a philosopher 23.5.6; for either the greatness of
+the disaster transferred him into unaffectability, or rejoicing together with
+the child of the lot, he remained unturned; and the mother too, looking toward
+the man, overbore the womanish nature, having loosed out wailings toward the
+worth of the affection.
+23.6.1 And these things having gone thus, Chrysanthius was in the accustomed;
+and when many and great public and common matters fell in, which
+shook down the souls of all into fear, he alone remained unshaken, so that one
+guess 23.6.2 ed * the man was not even upon earth. According to those times
+indeed Hellespontius also arrives beside him, and slowly they came together
+into discourses; and when they encountered into the same, Hellespontius had
+been captured so much, that, having let go all things, he was ready to tent
+beside Chrysanthius, and to be young in 23.6.3 the learning; and it repented
+him having wandered so much time, and having arrived into old age, before
+learning out something of the useful things. And he stretched the judgment
+upon this; and for Chrysanthius it having happened from a certain custom to
+divide the vein, both the writer was present, him having ordered thus, and
+when the physicians wished to empty the thing being <brought> upon, he
+himself, having spared upon the beneficial, said the thing emptied was beyond-
+reason, and thus he ordered to hold upon; for not even was the one writing
+these things untried of medi 23.6.4 cine. And Hellespontius, having heard, was
+present, being indignant and wailing, as of a great evil having come about, if
+this old man has been taken of so much blood through the hand 23.6.5. And when
+he heard of the voice, and saw him being healthy, having turned the discourse
+toward the writer "but you at least," he says, "the city accuse of having done
+something terrible; but now 23.6.6 all will be silent, seeing him being
+healthy." And when he said that he did not not-know the beneficial,
+Hellespontius, as if having packed the books together, and about to come
+beside Chrysanthius 23.6.7 upon learning, went out of the city. And his belly
+began to be diseased, and having gone forward into Apamea of Bithynia he
+changed <the life>, having charged many things to Procopius of the companions
+who was present to wonder at Chrysanthius only. And Pro copius, having become
+present into Sardis, both did these things and announced them. 23.6.8 And
+Chrysanthius, into the coming-upon season of the year, according to summer
+standing, having gone upon the same tending, and yet the writer having told
+beforehand to the physicians to wait around him according to the custom, they
+anticipated coming, and he held under the hand, and when the emptying came
+about beside measure, both relaxations of the parts followed and the joints
+toil 23.6.9 ed together, and he was bed-fallen. And Oribasius becomes present
+here, through that man according to an excess of science all but even having
+forced the nature and with warmer ointments and softening the things having
+been chilled all but he 23.=6.10= brought upon toward being young. But old age
+conquered; for he happened to have come under an eightieth year, and by the
+alienation of the hot according to the surplus old age was doubled; and having
+been tended a fourth-day one, he withdrew into the fitting lot.
+EPIGONUS AND BERONICIANUS.
+And after him there are successors of philosophy both Epigonus from
+Lacedaemon, and Beronicianus from Sardis, men worthy of the 24.1.2 name of
+philosophy; except as many as at least Beronicianus sacrificed to the Graces,
+and he is sufficient to associate with humans; and may he be.
